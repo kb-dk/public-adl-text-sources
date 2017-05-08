@@ -1,0 +1,405 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--Tom opmærkning blo 03.05.02-->
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="idm140618993552592"><!-- 
+       file     ./marc_dir/004175732.xml
+       field    248 
+       subfield g 
+       prefix   Bd. 1 | a-->
+  <teiHeader xml:id="idm140618993551792">
+    <fileDesc xml:id="idm140618993551536">
+      <titleStmt xml:id="idm140618993551232">
+        <title xml:id="idm140618993525808">Samlede Skrifter bind 1</title>
+        <author xml:id="idm140618993525424">Peter Nansen</author>
+      </titleStmt>
+      <publicationStmt xml:id="idm140618993524912">
+        <publisher xml:id="idm140618993524656">Gyldendalske Boghandel</publisher>
+        <idno xml:id="idm140618993524272" xml:base="texts/nansen01tom.xml">004175732:01</idno>
+      </publicationStmt>
+      <notesStmt xml:id="idm140618993523312">
+        <note xml:id="idm140618993523056">
+	  </note>
+      </notesStmt>
+      <sourceDesc xml:id="idm140618993522544"><bibl xml:id="idm140618993522416"><author n="1" xml:id="idm140618993521728"><name xml:id="idm140618993521472"><surname xml:id="idm140618993521344">Nansen</surname>, <forename xml:id="idm140618993520880">Peter</forename></name></author><title xml:id="idm140618993520592">Samlede Skrifter</title><title xml:id="idm140618993520304">Bd. 1: Julies Dagbog; Maria; Guds Fred</title><pubPlace xml:id="idm140618993520000">[Kbh.]</pubPlace>
+<publisher xml:id="idm140618993519536">Gyldendal</publisher><date xml:id="idm140618993519200">1908-09</date></bibl><listBibl xml:id="idm140618993518912"><bibl xml:id="biblid54134"><title xml:id="idm140618993505760">Julies Dagbog</title></bibl><bibl xml:id="biblid55454"><title xml:id="idm140618993504976">Maria</title></bibl><bibl xml:id="biblid55963"><title xml:id="idm140618993504192">Guds Fred</title></bibl></listBibl></sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text xml:id="idm140618993503552">
+    <front xml:id="idm140618993503296">
+      <pb n="1" facs="adl/nansen/nansen1/nans1001" xml:id="idm140618993502992"/>
+      <pb n="2" facs="adl/nansen/nansen1/nans1002" xml:id="idm140618993502224"/>
+      <pb n="3" facs="adl/nansen/nansen1/nans1003" xml:id="idm140618993501408"/>
+      <pb n="4" facs="adl/nansen/nansen1/nans1004" xml:id="idm140618993500640"/>
+    </front>
+    <group xml:id="idm140618993499696">
+      <pb n="5" facs="adl/nansen/nansen1/nans1005" xml:id="idm140618993499440"/>
+      <text xml:id="workid54134" decls="#biblid54134">
+        <body xml:id="idm140618993497680">
+          <pb n="6" facs="adl/nansen/nansen1/nans1006" xml:id="idm140618993497376"/>
+          <pb n="7" facs="adl/nansen/nansen1/nans1007" xml:id="idm140618993581680"/>
+          <pb n="8" facs="adl/nansen/nansen1/nans1008" xml:id="idm140618993580912"/>
+          <pb n="9" facs="adl/nansen/nansen1/nans1009" xml:id="idm140618993580144"/>
+          <pb n="10" facs="adl/nansen/nansen1/nans1010" xml:id="idm140618993579376"/>
+          <pb n="11" facs="adl/nansen/nansen1/nans1011" xml:id="idm140618993578608"/>
+          <pb n="12" facs="adl/nansen/nansen1/nans1012" xml:id="idm140618993472240"/>
+          <pb n="13" facs="adl/nansen/nansen1/nans1013" xml:id="idm140618993471472"/>
+          <pb n="14" facs="adl/nansen/nansen1/nans1014" xml:id="idm140618993470704"/>
+          <pb n="15" facs="adl/nansen/nansen1/nans1015" xml:id="idm140618993469936"/>
+          <pb n="16" facs="adl/nansen/nansen1/nans1016" xml:id="idm140618993469168"/>
+          <pb n="17" facs="adl/nansen/nansen1/nans1017" xml:id="idm140618993468400"/>
+          <pb n="18" facs="adl/nansen/nansen1/nans1018" xml:id="idm140618993467632"/>
+          <pb n="19" facs="adl/nansen/nansen1/nans1019" xml:id="idm140618993466864"/>
+          <pb n="20" facs="adl/nansen/nansen1/nans1020" xml:id="idm140618993466096"/>
+          <pb n="21" facs="adl/nansen/nansen1/nans1021" xml:id="idm140618993465328"/>
+          <pb n="22" facs="adl/nansen/nansen1/nans1022" xml:id="idm140618993464560"/>
+          <pb n="23" facs="adl/nansen/nansen1/nans1023" xml:id="idm140618993463792"/>
+          <pb n="24" facs="adl/nansen/nansen1/nans1024" xml:id="idm140618993463024"/>
+          <pb n="25" facs="adl/nansen/nansen1/nans1025" xml:id="idm140618993462256"/>
+          <pb n="26" facs="adl/nansen/nansen1/nans1026" xml:id="idm140618993461488"/>
+          <pb n="27" facs="adl/nansen/nansen1/nans1027" xml:id="idm140618993460720"/>
+          <pb n="28" facs="adl/nansen/nansen1/nans1028" xml:id="idm140618993459952"/>
+          <pb n="29" facs="adl/nansen/nansen1/nans1029" xml:id="idm140618993459184"/>
+          <pb n="30" facs="adl/nansen/nansen1/nans1030" xml:id="idm140618993458416"/>
+          <pb n="31" facs="adl/nansen/nansen1/nans1031" xml:id="idm140618993457648"/>
+          <pb n="32" facs="adl/nansen/nansen1/nans1032" xml:id="idm140618993456880"/>
+          <pb n="33" facs="adl/nansen/nansen1/nans1033" xml:id="idm140618993456112"/>
+          <pb n="34" facs="adl/nansen/nansen1/nans1034" xml:id="idm140618993455344"/>
+          <pb n="35" facs="adl/nansen/nansen1/nans1035" xml:id="idm140618993454576"/>
+          <pb n="36" facs="adl/nansen/nansen1/nans1036" xml:id="idm140618993453808"/>
+          <pb n="37" facs="adl/nansen/nansen1/nans1037" xml:id="idm140618993453040"/>
+          <pb n="38" facs="adl/nansen/nansen1/nans1038" xml:id="idm140618993452272"/>
+          <pb n="39" facs="adl/nansen/nansen1/nans1039" xml:id="idm140618993451504"/>
+          <pb n="40" facs="adl/nansen/nansen1/nans1040" xml:id="idm140618993450736"/>
+          <pb n="41" facs="adl/nansen/nansen1/nans1041" xml:id="idm140618993449968"/>
+          <pb n="42" facs="adl/nansen/nansen1/nans1042" xml:id="idm140618993449200"/>
+          <pb n="43" facs="adl/nansen/nansen1/nans1043" xml:id="idm140618993448432"/>
+          <pb n="44" facs="adl/nansen/nansen1/nans1044" xml:id="idm140618993447664"/>
+          <pb n="45" facs="adl/nansen/nansen1/nans1045" xml:id="idm140618993446896"/>
+          <pb n="46" facs="adl/nansen/nansen1/nans1046" xml:id="idm140618993446128"/>
+          <pb n="47" facs="adl/nansen/nansen1/nans1047" xml:id="idm140618993445360"/>
+          <pb n="48" facs="adl/nansen/nansen1/nans1048" xml:id="idm140618993444592"/>
+          <pb n="49" facs="adl/nansen/nansen1/nans1049" xml:id="idm140618993443824"/>
+          <pb n="50" facs="adl/nansen/nansen1/nans1050" xml:id="idm140618993443056"/>
+          <pb n="51" facs="adl/nansen/nansen1/nans1051" xml:id="idm140618993442288"/>
+          <pb n="52" facs="adl/nansen/nansen1/nans1052" xml:id="idm140618993441520"/>
+          <pb n="53" facs="adl/nansen/nansen1/nans1053" xml:id="idm140618993440752"/>
+          <pb n="54" facs="adl/nansen/nansen1/nans1054" xml:id="idm140618993439984"/>
+          <pb n="55" facs="adl/nansen/nansen1/nans1055" xml:id="idm140618993439216"/>
+          <pb n="56" facs="adl/nansen/nansen1/nans1056" xml:id="idm140618993438448"/>
+          <pb n="57" facs="adl/nansen/nansen1/nans1057" xml:id="idm140618993437680"/>
+          <pb n="58" facs="adl/nansen/nansen1/nans1058" xml:id="idm140618993436912"/>
+          <pb n="59" facs="adl/nansen/nansen1/nans1059" xml:id="idm140618993436144"/>
+          <pb n="60" facs="adl/nansen/nansen1/nans1060" xml:id="idm140618993435376"/>
+          <pb n="61" facs="adl/nansen/nansen1/nans1061" xml:id="idm140618993434608"/>
+          <pb n="62" facs="adl/nansen/nansen1/nans1062" xml:id="idm140618993433840"/>
+          <pb n="63" facs="adl/nansen/nansen1/nans1063" xml:id="idm140618993433072"/>
+          <pb n="64" facs="adl/nansen/nansen1/nans1064" xml:id="idm140618993432304"/>
+          <pb n="65" facs="adl/nansen/nansen1/nans1065" xml:id="idm140618993431536"/>
+          <pb n="66" facs="adl/nansen/nansen1/nans1066" xml:id="idm140618993430768"/>
+          <pb n="67" facs="adl/nansen/nansen1/nans1067" xml:id="idm140618993430000"/>
+          <pb n="68" facs="adl/nansen/nansen1/nans1068" xml:id="idm140618993429232"/>
+          <pb n="69" facs="adl/nansen/nansen1/nans1069" xml:id="idm140618993428464"/>
+          <pb n="70" facs="adl/nansen/nansen1/nans1070" xml:id="idm140618993427696"/>
+          <pb n="71" facs="adl/nansen/nansen1/nans1071" xml:id="idm140618993426928"/>
+          <pb n="72" facs="adl/nansen/nansen1/nans1072" xml:id="idm140618993426160"/>
+          <pb n="73" facs="adl/nansen/nansen1/nans1073" xml:id="idm140618993425392"/>
+          <pb n="74" facs="adl/nansen/nansen1/nans1074" xml:id="idm140618993424624"/>
+          <pb n="75" facs="adl/nansen/nansen1/nans1075" xml:id="idm140618993423856"/>
+          <pb n="76" facs="adl/nansen/nansen1/nans1076" xml:id="idm140618993423088"/>
+          <pb n="77" facs="adl/nansen/nansen1/nans1077" xml:id="idm140618993422320"/>
+          <pb n="78" facs="adl/nansen/nansen1/nans1078" xml:id="idm140618993421552"/>
+          <pb n="79" facs="adl/nansen/nansen1/nans1079" xml:id="idm140618993420784"/>
+          <pb n="80" facs="adl/nansen/nansen1/nans1080" xml:id="idm140618993420016"/>
+          <pb n="81" facs="adl/nansen/nansen1/nans1081" xml:id="idm140618993419248"/>
+          <pb n="82" facs="adl/nansen/nansen1/nans1082" xml:id="idm140618993418480"/>
+          <pb n="83" facs="adl/nansen/nansen1/nans1083" xml:id="idm140618993417712"/>
+          <pb n="84" facs="adl/nansen/nansen1/nans1084" xml:id="idm140618993416944"/>
+          <pb n="85" facs="adl/nansen/nansen1/nans1085" xml:id="idm140618993416176"/>
+          <pb n="86" facs="adl/nansen/nansen1/nans1086" xml:id="idm140618993415408"/>
+          <pb n="87" facs="adl/nansen/nansen1/nans1087" xml:id="idm140618993414640"/>
+          <pb n="88" facs="adl/nansen/nansen1/nans1088" xml:id="idm140618993413872"/>
+          <pb n="89" facs="adl/nansen/nansen1/nans1089" xml:id="idm140618993413104"/>
+          <pb n="90" facs="adl/nansen/nansen1/nans1090" xml:id="idm140618993412336"/>
+          <pb n="91" facs="adl/nansen/nansen1/nans1091" xml:id="idm140618993411568"/>
+          <pb n="92" facs="adl/nansen/nansen1/nans1092" xml:id="idm140618993410800"/>
+          <pb n="93" facs="adl/nansen/nansen1/nans1093" xml:id="idm140618993410032"/>
+          <pb n="94" facs="adl/nansen/nansen1/nans1094" xml:id="idm140618993409264"/>
+          <pb n="95" facs="adl/nansen/nansen1/nans1095" xml:id="idm140618993408496"/>
+          <pb n="96" facs="adl/nansen/nansen1/nans1096" xml:id="idm140618993407728"/>
+          <pb n="97" facs="adl/nansen/nansen1/nans1097" xml:id="idm140618993406960"/>
+          <pb n="98" facs="adl/nansen/nansen1/nans1098" xml:id="idm140618993406192"/>
+          <pb n="99" facs="adl/nansen/nansen1/nans1099" xml:id="idm140618993405424"/>
+          <pb n="100" facs="adl/nansen/nansen1/nans1100" xml:id="idm140618993404656"/>
+          <pb n="101" facs="adl/nansen/nansen1/nans1101" xml:id="idm140618993403888"/>
+          <pb n="102" facs="adl/nansen/nansen1/nans1102" xml:id="idm140618993403120"/>
+          <pb n="103" facs="adl/nansen/nansen1/nans1103" xml:id="idm140618993402304"/>
+          <pb n="104" facs="adl/nansen/nansen1/nans1104" xml:id="idm140618993401536"/>
+          <pb n="105" facs="adl/nansen/nansen1/nans1105" xml:id="idm140618993400768"/>
+          <pb n="106" facs="adl/nansen/nansen1/nans1106" xml:id="idm140618993400000"/>
+          <pb n="107" facs="adl/nansen/nansen1/nans1107" xml:id="idm140618993399184"/>
+          <pb n="108" facs="adl/nansen/nansen1/nans1108" xml:id="idm140618993398416"/>
+          <pb n="109" facs="adl/nansen/nansen1/nans1109" xml:id="idm140618993397648"/>
+          <pb n="110" facs="adl/nansen/nansen1/nans1110" xml:id="idm140618993396880"/>
+          <pb n="111" facs="adl/nansen/nansen1/nans1111" xml:id="idm140618993396112"/>
+          <pb n="112" facs="adl/nansen/nansen1/nans1112" xml:id="idm140618993395344"/>
+          <pb n="113" facs="adl/nansen/nansen1/nans1113" xml:id="idm140618993394576"/>
+          <pb n="114" facs="adl/nansen/nansen1/nans1114" xml:id="idm140618993393760"/>
+          <pb n="115" facs="adl/nansen/nansen1/nans1115" xml:id="idm140618993392992"/>
+          <pb n="116" facs="adl/nansen/nansen1/nans1116" xml:id="idm140618993392224"/>
+          <pb n="117" facs="adl/nansen/nansen1/nans1117" xml:id="idm140618993391456"/>
+          <pb n="118" facs="adl/nansen/nansen1/nans1118" xml:id="idm140618993390688"/>
+          <pb n="119" facs="adl/nansen/nansen1/nans1119" xml:id="idm140618993389872"/>
+          <pb n="120" facs="adl/nansen/nansen1/nans1120" xml:id="idm140618993389104"/>
+          <pb n="121" facs="adl/nansen/nansen1/nans1121" xml:id="idm140618993388336"/>
+          <pb n="122" facs="adl/nansen/nansen1/nans1122" xml:id="idm140618993387568"/>
+          <pb n="123" facs="adl/nansen/nansen1/nans1123" xml:id="idm140618993386800"/>
+          <pb n="124" facs="adl/nansen/nansen1/nans1124" xml:id="idm140618993386032"/>
+          <pb n="125" facs="adl/nansen/nansen1/nans1125" xml:id="idm140618993385264"/>
+          <pb n="126" facs="adl/nansen/nansen1/nans1126" xml:id="idm140618993384496"/>
+          <pb n="127" facs="adl/nansen/nansen1/nans1127" xml:id="idm140618993383728"/>
+          <pb n="128" facs="adl/nansen/nansen1/nans1128" xml:id="idm140618993382960"/>
+          <pb n="129" facs="adl/nansen/nansen1/nans1129" xml:id="idm140618993382192"/>
+          <pb n="130" facs="adl/nansen/nansen1/nans1130" xml:id="idm140618993381424"/>
+          <pb n="131" facs="adl/nansen/nansen1/nans1131" xml:id="idm140618993380656"/>
+          <pb n="132" facs="adl/nansen/nansen1/nans1132" xml:id="idm140618993379888"/>
+          <pb n="133" facs="adl/nansen/nansen1/nans1133" xml:id="idm140618993379120"/>
+          <pb n="134" facs="adl/nansen/nansen1/nans1134" xml:id="idm140618993378352"/>
+          <pb n="135" facs="adl/nansen/nansen1/nans1135" xml:id="idm140618993377584"/>
+          <pb n="136" facs="adl/nansen/nansen1/nans1136" xml:id="idm140618993376816"/>
+          <pb n="137" facs="adl/nansen/nansen1/nans1137" xml:id="idm140618993376048"/>
+          <pb n="138" facs="adl/nansen/nansen1/nans1138" xml:id="idm140618993375280"/>
+          <pb n="139" facs="adl/nansen/nansen1/nans1139" xml:id="idm140618993374512"/>
+          <pb n="140" facs="adl/nansen/nansen1/nans1140" xml:id="idm140618993373744"/>
+          <pb n="141" facs="adl/nansen/nansen1/nans1141" xml:id="idm140618993372976"/>
+          <pb n="142" facs="adl/nansen/nansen1/nans1142" xml:id="idm140618993372208"/>
+          <pb n="143" facs="adl/nansen/nansen1/nans1143" xml:id="idm140618993371440"/>
+          <pb n="144" facs="adl/nansen/nansen1/nans1144" xml:id="idm140618993370672"/>
+          <pb n="145" facs="adl/nansen/nansen1/nans1145" xml:id="idm140618993369904"/>
+          <pb n="146" facs="adl/nansen/nansen1/nans1146" xml:id="idm140618993369136"/>
+          <pb n="147" facs="adl/nansen/nansen1/nans1147" xml:id="idm140618993368368"/>
+          <pb n="148" facs="adl/nansen/nansen1/nans1148" xml:id="idm140618993367600"/>
+          <pb n="149" facs="adl/nansen/nansen1/nans1149" xml:id="idm140618993366832"/>
+          <pb n="150" facs="adl/nansen/nansen1/nans1150" xml:id="idm140618993366064"/>
+          <pb n="151" facs="adl/nansen/nansen1/nans1151" xml:id="idm140618993365296"/>
+          <pb n="152" facs="adl/nansen/nansen1/nans1152" xml:id="idm140618993364528"/>
+          <pb n="153" facs="adl/nansen/nansen1/nans1153" xml:id="idm140618993363760"/>
+          <pb n="154" facs="adl/nansen/nansen1/nans1154" xml:id="idm140618993362992"/>
+          <pb n="155" facs="adl/nansen/nansen1/nans1155" xml:id="idm140618993362224"/>
+          <pb n="156" facs="adl/nansen/nansen1/nans1156" xml:id="idm140618993361456"/>
+          <pb n="157" facs="adl/nansen/nansen1/nans1157" xml:id="idm140618993360688"/>
+          <pb n="158" facs="adl/nansen/nansen1/nans1158" xml:id="idm140618993359920"/>
+          <pb n="159" facs="adl/nansen/nansen1/nans1159" xml:id="idm140618993359152"/>
+          <pb n="160" facs="adl/nansen/nansen1/nans1160" xml:id="idm140618993358336"/>
+          <pb n="161" facs="adl/nansen/nansen1/nans1161" xml:id="idm140618993357568"/>
+          <pb n="162" facs="adl/nansen/nansen1/nans1162" xml:id="idm140618993356752"/>
+          <pb n="163" facs="adl/nansen/nansen1/nans1163" xml:id="idm140618993355984"/>
+          <pb n="164" facs="adl/nansen/nansen1/nans1164" xml:id="idm140618993355216"/>
+          <pb n="165" facs="adl/nansen/nansen1/nans1165" xml:id="idm140618993354448"/>
+          <pb n="166" facs="adl/nansen/nansen1/nans1166" xml:id="idm140618993353680"/>
+          <pb n="167" facs="adl/nansen/nansen1/nans1167" xml:id="idm140618993352912"/>
+          <pb n="168" facs="adl/nansen/nansen1/nans1168" xml:id="idm140618993352144"/>
+          <pb n="169" facs="adl/nansen/nansen1/nans1169" xml:id="idm140618993351328"/>
+          <pb n="170" facs="adl/nansen/nansen1/nans1170" xml:id="idm140618993350560"/>
+          <pb n="171" facs="adl/nansen/nansen1/nans1171" xml:id="idm140618993349792"/>
+          <pb n="172" facs="adl/nansen/nansen1/nans1172" xml:id="idm140618993349024"/>
+          <pb n="173" facs="adl/nansen/nansen1/nans1173" xml:id="idm140618993348256"/>
+          <pb n="174" facs="adl/nansen/nansen1/nans1174" xml:id="idm140618993347440"/>
+          <pb n="175" facs="adl/nansen/nansen1/nans1175" xml:id="idm140618993346672"/>
+          <pb n="176" facs="adl/nansen/nansen1/nans1176" xml:id="idm140618993345856"/>
+          <pb n="177" facs="adl/nansen/nansen1/nans1177" xml:id="idm140618993345088"/>
+          <pb n="178" facs="adl/nansen/nansen1/nans1178" xml:id="idm140618993344320"/>
+          <pb n="179" facs="adl/nansen/nansen1/nans1179" xml:id="idm140618993343552"/>
+          <pb n="180" facs="adl/nansen/nansen1/nans1180" xml:id="idm140618993342784"/>
+          <p xml:id="idm140618993342016"/>
+        </body>
+      </text>
+      <pb n="181" facs="adl/nansen/nansen1/nans1181" xml:id="idm140618993341504"/>
+      <text xml:id="workid55454" decls="#biblid55454">
+        <body xml:id="idm140618993339904">
+          <pb n="182" facs="adl/nansen/nansen1/nans1182" xml:id="idm140618993339648"/>
+          <pb n="183" facs="adl/nansen/nansen1/nans1183" xml:id="idm140618993334816"/>
+          <pb n="184" facs="adl/nansen/nansen1/nans1184" xml:id="idm140618993334048"/>
+          <pb n="185" facs="adl/nansen/nansen1/nans1185" xml:id="idm140618993333280"/>
+          <pb n="186" facs="adl/nansen/nansen1/nans1186" xml:id="idm140618993332464"/>
+          <pb n="187" facs="adl/nansen/nansen1/nans1187" xml:id="idm140618993331696"/>
+          <pb n="188" facs="adl/nansen/nansen1/nans1188" xml:id="idm140618993330880"/>
+          <pb n="189" facs="adl/nansen/nansen1/nans1189" xml:id="idm140618993330112"/>
+          <pb n="190" facs="adl/nansen/nansen1/nans1190" xml:id="idm140618993329344"/>
+          <pb n="191" facs="adl/nansen/nansen1/nans1191" xml:id="idm140618993328576"/>
+          <pb n="192" facs="adl/nansen/nansen1/nans1192" xml:id="idm140618993327760"/>
+          <pb n="193" facs="adl/nansen/nansen1/nans1193" xml:id="idm140618993326944"/>
+          <pb n="194" facs="adl/nansen/nansen1/nans1194" xml:id="idm140618993326128"/>
+          <pb n="195" facs="adl/nansen/nansen1/nans1195" xml:id="idm140618993325360"/>
+          <pb n="196" facs="adl/nansen/nansen1/nans1196" xml:id="idm140618993324592"/>
+          <pb n="197" facs="adl/nansen/nansen1/nans1197" xml:id="idm140618993323824"/>
+          <pb n="198" facs="adl/nansen/nansen1/nans1198" xml:id="idm140618993323056"/>
+          <pb n="199" facs="adl/nansen/nansen1/nans1199" xml:id="idm140618993322240"/>
+          <pb n="200" facs="adl/nansen/nansen1/nans1200" xml:id="idm140618993321472"/>
+          <pb n="201" facs="adl/nansen/nansen1/nans1201" xml:id="idm140618993320704"/>
+          <pb n="202" facs="adl/nansen/nansen1/nans1202" xml:id="idm140618993319936"/>
+          <pb n="203" facs="adl/nansen/nansen1/nans1203" xml:id="idm140618993319168"/>
+          <pb n="204" facs="adl/nansen/nansen1/nans1204" xml:id="idm140618993318400"/>
+          <pb n="205" facs="adl/nansen/nansen1/nans1205" xml:id="idm140618993317632"/>
+          <pb n="206" facs="adl/nansen/nansen1/nans1206" xml:id="idm140618993316816"/>
+          <pb n="207" facs="adl/nansen/nansen1/nans1207" xml:id="idm140618993316000"/>
+          <pb n="208" facs="adl/nansen/nansen1/nans1208" xml:id="idm140618993315232"/>
+          <pb n="209" facs="adl/nansen/nansen1/nans1209" xml:id="idm140618993314416"/>
+          <pb n="210" facs="adl/nansen/nansen1/nans1210" xml:id="idm140618993313648"/>
+          <pb n="211" facs="adl/nansen/nansen1/nans1211" xml:id="idm140618993312832"/>
+          <pb n="212" facs="adl/nansen/nansen1/nans1212" xml:id="idm140618993312064"/>
+          <pb n="213" facs="adl/nansen/nansen1/nans1213" xml:id="idm140618993311296"/>
+          <pb n="214" facs="adl/nansen/nansen1/nans1214" xml:id="idm140618993310528"/>
+          <pb n="215" facs="adl/nansen/nansen1/nans1215" xml:id="idm140618993309712"/>
+          <pb n="216" facs="adl/nansen/nansen1/nans1216" xml:id="idm140618993308944"/>
+          <pb n="217" facs="adl/nansen/nansen1/nans1217" xml:id="idm140618993308176"/>
+          <pb n="218" facs="adl/nansen/nansen1/nans1218" xml:id="idm140618993307360"/>
+          <pb n="219" facs="adl/nansen/nansen1/nans1219" xml:id="idm140618993306592"/>
+          <pb n="220" facs="adl/nansen/nansen1/nans1220" xml:id="idm140618993305776"/>
+          <pb n="221" facs="adl/nansen/nansen1/nans1221" xml:id="idm140618993305008"/>
+          <pb n="222" facs="adl/nansen/nansen1/nans1222" xml:id="idm140618993304192"/>
+          <pb n="223" facs="adl/nansen/nansen1/nans1223" xml:id="idm140618993303424"/>
+          <pb n="224" facs="adl/nansen/nansen1/nans1224" xml:id="idm140618993302656"/>
+          <pb n="225" facs="adl/nansen/nansen1/nans1225" xml:id="idm140618993301888"/>
+          <pb n="226" facs="adl/nansen/nansen1/nans1226" xml:id="idm140618993301072"/>
+          <pb n="227" facs="adl/nansen/nansen1/nans1227" xml:id="idm140618993300304"/>
+          <pb n="228" facs="adl/nansen/nansen1/nans1228" xml:id="idm140618993299488"/>
+          <pb n="229" facs="adl/nansen/nansen1/nans1229" xml:id="idm140618993298720"/>
+          <pb n="230" facs="adl/nansen/nansen1/nans1230" xml:id="idm140618993297952"/>
+          <pb n="231" facs="adl/nansen/nansen1/nans1231" xml:id="idm140618993297184"/>
+          <pb n="232" facs="adl/nansen/nansen1/nans1232" xml:id="idm140618993296416"/>
+          <pb n="233" facs="adl/nansen/nansen1/nans1233" xml:id="idm140618993295648"/>
+          <pb n="234" facs="adl/nansen/nansen1/nans1234" xml:id="idm140618993294880"/>
+          <pb n="235" facs="adl/nansen/nansen1/nans1235" xml:id="idm140618993294112"/>
+          <pb n="236" facs="adl/nansen/nansen1/nans1236" xml:id="idm140618993293296"/>
+          <pb n="237" facs="adl/nansen/nansen1/nans1237" xml:id="idm140618993292528"/>
+          <pb n="238" facs="adl/nansen/nansen1/nans1238" xml:id="idm140618993291760"/>
+          <pb n="239" facs="adl/nansen/nansen1/nans1239" xml:id="idm140618993290992"/>
+          <pb n="240" facs="adl/nansen/nansen1/nans1240" xml:id="idm140618993290224"/>
+          <pb n="241" facs="adl/nansen/nansen1/nans1241" xml:id="idm140618993289408"/>
+          <pb n="242" facs="adl/nansen/nansen1/nans1242" xml:id="idm140618993288640"/>
+          <pb n="243" facs="adl/nansen/nansen1/nans1243" xml:id="idm140618993287824"/>
+          <pb n="244" facs="adl/nansen/nansen1/nans1244" xml:id="idm140618993287008"/>
+          <pb n="245" facs="adl/nansen/nansen1/nans1245" xml:id="idm140618993286240"/>
+          <pb n="246" facs="adl/nansen/nansen1/nans1246" xml:id="idm140618993285424"/>
+          <pb n="247" facs="adl/nansen/nansen1/nans1247" xml:id="idm140618993284608"/>
+          <pb n="248" facs="adl/nansen/nansen1/nans1248" xml:id="idm140618993283840"/>
+          <pb n="249" facs="adl/nansen/nansen1/nans1249" xml:id="idm140618993283072"/>
+          <pb n="250" facs="adl/nansen/nansen1/nans1250" xml:id="idm140618993282256"/>
+          <pb n="251" facs="adl/nansen/nansen1/nans1251" xml:id="idm140618993281488"/>
+          <pb n="252" facs="adl/nansen/nansen1/nans1252" xml:id="idm140618993280720"/>
+          <p xml:id="idm140618993279952"/>
+        </body>
+      </text>
+      <pb n="253" facs="adl/nansen/nansen1/nans1253" xml:id="idm140618993279440"/>
+      <text xml:id="workid55963" decls="#biblid55963">
+        <body xml:id="idm140618993277680">
+          <pb n="254" facs="adl/nansen/nansen1/nans1254" xml:id="idm140618993277424"/>
+          <pb n="255" facs="adl/nansen/nansen1/nans1255" xml:id="idm140618993276608"/>
+          <pb n="256" facs="adl/nansen/nansen1/nans1256" xml:id="idm140618993275792"/>
+          <pb n="257" facs="adl/nansen/nansen1/nans1257" xml:id="idm140618993274976"/>
+          <pb n="258" facs="adl/nansen/nansen1/nans1258" xml:id="idm140618993274160"/>
+          <pb n="259" facs="adl/nansen/nansen1/nans1259" xml:id="idm140618993273392"/>
+          <pb n="260" facs="adl/nansen/nansen1/nans1260" xml:id="idm140618993272624"/>
+          <pb n="261" facs="adl/nansen/nansen1/nans1261" xml:id="idm140618993271856"/>
+          <pb n="262" facs="adl/nansen/nansen1/nans1262" xml:id="idm140618993271040"/>
+          <pb n="263" facs="adl/nansen/nansen1/nans1263" xml:id="idm140618993270272"/>
+          <pb n="264" facs="adl/nansen/nansen1/nans1264" xml:id="idm140618993269504"/>
+          <pb n="265" facs="adl/nansen/nansen1/nans1265" xml:id="idm140618993268736"/>
+          <pb n="266" facs="adl/nansen/nansen1/nans1266" xml:id="idm140618993267968"/>
+          <pb n="267" facs="adl/nansen/nansen1/nans1267" xml:id="idm140618993267152"/>
+          <pb n="268" facs="adl/nansen/nansen1/nans1268" xml:id="idm140618993266384"/>
+          <pb n="269" facs="adl/nansen/nansen1/nans1269" xml:id="idm140618993265568"/>
+          <pb n="270" facs="adl/nansen/nansen1/nans1270" xml:id="idm140618993264800"/>
+          <pb n="271" facs="adl/nansen/nansen1/nans1271" xml:id="idm140618993264032"/>
+          <pb n="272" facs="adl/nansen/nansen1/nans1272" xml:id="idm140618993263264"/>
+          <pb n="273" facs="adl/nansen/nansen1/nans1273" xml:id="idm140618993262496"/>
+          <pb n="274" facs="adl/nansen/nansen1/nans1274" xml:id="idm140618993261728"/>
+          <pb n="275" facs="adl/nansen/nansen1/nans1275" xml:id="idm140618993260912"/>
+          <pb n="276" facs="adl/nansen/nansen1/nans1276" xml:id="idm140618993260144"/>
+          <pb n="277" facs="adl/nansen/nansen1/nans1277" xml:id="idm140618993259376"/>
+          <pb n="278" facs="adl/nansen/nansen1/nans1278" xml:id="idm140618993258608"/>
+          <pb n="279" facs="adl/nansen/nansen1/nans1279" xml:id="idm140618993257792"/>
+          <pb n="280" facs="adl/nansen/nansen1/nans1280" xml:id="idm140618993256976"/>
+          <pb n="281" facs="adl/nansen/nansen1/nans1281" xml:id="idm140618993256208"/>
+          <pb n="282" facs="adl/nansen/nansen1/nans1282" xml:id="idm140618993255392"/>
+          <pb n="283" facs="adl/nansen/nansen1/nans1283" xml:id="idm140618993254624"/>
+          <pb n="284" facs="adl/nansen/nansen1/nans1284" xml:id="idm140618993253808"/>
+          <pb n="285" facs="adl/nansen/nansen1/nans1285" xml:id="idm140618993253040"/>
+          <pb n="286" facs="adl/nansen/nansen1/nans1286" xml:id="idm140618993252272"/>
+          <pb n="287" facs="adl/nansen/nansen1/nans1287" xml:id="idm140618993251456"/>
+          <pb n="288" facs="adl/nansen/nansen1/nans1288" xml:id="idm140618993250688"/>
+          <pb n="289" facs="adl/nansen/nansen1/nans1289" xml:id="idm140618993249920"/>
+          <pb n="290" facs="adl/nansen/nansen1/nans1290" xml:id="idm140618993249104"/>
+          <pb n="291" facs="adl/nansen/nansen1/nans1291" xml:id="idm140618993248288"/>
+          <pb n="292" facs="adl/nansen/nansen1/nans1292" xml:id="idm140618993247520"/>
+          <pb n="293" facs="adl/nansen/nansen1/nans1293" xml:id="idm140618993246752"/>
+          <pb n="294" facs="adl/nansen/nansen1/nans1294" xml:id="idm140618993245984"/>
+          <pb n="295" facs="adl/nansen/nansen1/nans1295" xml:id="idm140618993245168"/>
+          <pb n="296" facs="adl/nansen/nansen1/nans1296" xml:id="idm140618993244400"/>
+          <pb n="297" facs="adl/nansen/nansen1/nans1297" xml:id="idm140618993243632"/>
+          <pb n="298" facs="adl/nansen/nansen1/nans1298" xml:id="idm140618993242864"/>
+          <pb n="299" facs="adl/nansen/nansen1/nans1299" xml:id="idm140618993242096"/>
+          <pb n="300" facs="adl/nansen/nansen1/nans1300" xml:id="idm140618993241328"/>
+          <pb n="301" facs="adl/nansen/nansen1/nans1301" xml:id="idm140618993240560"/>
+          <pb n="302" facs="adl/nansen/nansen1/nans1302" xml:id="idm140618993239792"/>
+          <pb n="303" facs="adl/nansen/nansen1/nans1303" xml:id="idm140618993239024"/>
+          <pb n="304" facs="adl/nansen/nansen1/nans1304" xml:id="idm140618993238256"/>
+          <pb n="305" facs="adl/nansen/nansen1/nans1305" xml:id="idm140618993237488"/>
+          <pb n="306" facs="adl/nansen/nansen1/nans1306" xml:id="idm140618993236672"/>
+          <pb n="307" facs="adl/nansen/nansen1/nans1307" xml:id="idm140618993235904"/>
+          <pb n="308" facs="adl/nansen/nansen1/nans1308" xml:id="idm140618993235136"/>
+          <pb n="309" facs="adl/nansen/nansen1/nans1309" xml:id="idm140618993234368"/>
+          <pb n="310" facs="adl/nansen/nansen1/nans1310" xml:id="idm140618993233552"/>
+          <pb n="311" facs="adl/nansen/nansen1/nans1311" xml:id="idm140618993232784"/>
+          <pb n="312" facs="adl/nansen/nansen1/nans1312" xml:id="idm140618993232016"/>
+          <pb n="313" facs="adl/nansen/nansen1/nans1313" xml:id="idm140618993231248"/>
+          <pb n="314" facs="adl/nansen/nansen1/nans1314" xml:id="idm140618993230480"/>
+          <pb n="315" facs="adl/nansen/nansen1/nans1315" xml:id="idm140618993229664"/>
+          <pb n="316" facs="adl/nansen/nansen1/nans1316" xml:id="idm140618993228848"/>
+          <pb n="317" facs="adl/nansen/nansen1/nans1317" xml:id="idm140618993228080"/>
+          <pb n="318" facs="adl/nansen/nansen1/nans1318" xml:id="idm140618993227312"/>
+          <pb n="319" facs="adl/nansen/nansen1/nans1319" xml:id="idm140618993226544"/>
+          <pb n="320" facs="adl/nansen/nansen1/nans1320" xml:id="idm140618993225776"/>
+          <pb n="321" facs="adl/nansen/nansen1/nans1321" xml:id="idm140618993224960"/>
+          <pb n="322" facs="adl/nansen/nansen1/nans1322" xml:id="idm140618993224144"/>
+          <pb n="323" facs="adl/nansen/nansen1/nans1323" xml:id="idm140618993223376"/>
+          <pb n="324" facs="adl/nansen/nansen1/nans1324" xml:id="idm140618993222608"/>
+          <pb n="325" facs="adl/nansen/nansen1/nans1325" xml:id="idm140618993221840"/>
+          <pb n="326" facs="adl/nansen/nansen1/nans1326" xml:id="idm140618993221072"/>
+          <pb n="327" facs="adl/nansen/nansen1/nans1327" xml:id="idm140618993220304"/>
+          <pb n="328" facs="adl/nansen/nansen1/nans1328" xml:id="idm140618993219488"/>
+          <pb n="329" facs="adl/nansen/nansen1/nans1329" xml:id="idm140618993218672"/>
+          <pb n="330" facs="adl/nansen/nansen1/nans1330" xml:id="idm140618993217904"/>
+          <pb n="331" facs="adl/nansen/nansen1/nans1331" xml:id="idm140618993217136"/>
+          <pb n="332" facs="adl/nansen/nansen1/nans1332" xml:id="idm140618993216320"/>
+          <pb n="333" facs="adl/nansen/nansen1/nans1333" xml:id="idm140618993215552"/>
+          <pb n="334" facs="adl/nansen/nansen1/nans1334" xml:id="idm140618993214736"/>
+          <pb n="335" facs="adl/nansen/nansen1/nans1335" xml:id="idm140618993213968"/>
+          <pb n="336" facs="adl/nansen/nansen1/nans1336" xml:id="idm140618993213200"/>
+          <pb n="337" facs="adl/nansen/nansen1/nans1337" xml:id="idm140618993212432"/>
+          <pb n="338" facs="adl/nansen/nansen1/nans1338" xml:id="idm140618993211664"/>
+          <pb n="339" facs="adl/nansen/nansen1/nans1339" xml:id="idm140618993210896"/>
+          <pb n="340" facs="adl/nansen/nansen1/nans1340" xml:id="idm140618993210080"/>
+          <pb n="341" facs="adl/nansen/nansen1/nans1341" xml:id="idm140618993209312"/>
+          <pb n="342" facs="adl/nansen/nansen1/nans1342" xml:id="idm140618993208544"/>
+          <pb n="343" facs="adl/nansen/nansen1/nans1343" xml:id="idm140618993207728"/>
+          <pb n="344" facs="adl/nansen/nansen1/nans1344" xml:id="idm140618993206960"/>
+          <pb n="345" facs="adl/nansen/nansen1/nans1345" xml:id="idm140618993206144"/>
+          <pb n="346" facs="adl/nansen/nansen1/nans1346" xml:id="idm140618993205376"/>
+          <pb n="347" facs="adl/nansen/nansen1/nans1347" xml:id="idm140618993204608"/>
+          <pb n="348" facs="adl/nansen/nansen1/nans1348" xml:id="idm140618993203840"/>
+          <pb n="349" facs="adl/nansen/nansen1/nans1349" xml:id="idm140618993203072"/>
+          <pb n="350" facs="adl/nansen/nansen1/nans1350" xml:id="idm140618993202304"/>
+          <pb n="351" facs="adl/nansen/nansen1/nans1351" xml:id="idm140618993201488"/>
+          <pb n="352" facs="adl/nansen/nansen1/nans1352" xml:id="idm140618993200720"/>
+          <pb n="353" facs="adl/nansen/nansen1/nans1353" xml:id="idm140618993199904"/>
+          <pb n="354" facs="adl/nansen/nansen1/nans1354" xml:id="idm140618993199088"/>
+          <p xml:id="idm140618993198320"/>
+        </body>
+      </text>
+    </group>
+    <back xml:id="idm140618993197632">
+      <pb n="355" facs="adl/nansen/nansen1/nans1355" xml:id="idm140618993197376"/>
+      <pb n="356" facs="adl/nansen/nansen1/nans1356" xml:id="idm140618993196608"/>
+    </back>
+  </text>
+</TEI>

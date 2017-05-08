@@ -1,0 +1,487 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--Tom opmærkning nh 27.9.2001-->
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="idm139759260670144"><!-- 
+       file     ./marc_dir/001629300.xml
+       field    248 
+       subfield g 
+       prefix   2-->
+  <teiHeader xml:id="idm139759260674384">
+    <fileDesc xml:id="idm139759260674128">
+      <titleStmt xml:id="idm139759260673824">
+        <title xml:id="idm139759260648368">Værker i tolv bind, II</title>
+        <respStmt xml:id="idm139759260647984">
+          <resp xml:id="idm139759260647728">F. J. Billeskov Jansen</resp>
+          <name xml:id="idm139759260647344"/>
+        </respStmt>
+        <author xml:id="idm139759260646960">Ludvig Holberg</author>
+      </titleStmt>
+      <publicationStmt xml:id="idm139759260646400">
+        <publisher xml:id="idm139759260646144">Rosenkilde og Bagger</publisher>
+        <idno xml:id="idm139759260645760" xml:base="texts/holberg02.xml">001629300:02</idno>
+      </publicationStmt>
+      <notesStmt xml:id="idm139759260644944">
+        <note xml:id="idm139759260644640">
+	  </note>
+      </notesStmt>
+      <sourceDesc xml:id="idm139759260644128"><bibl xml:id="idm139759260644000"><author n="1" xml:id="idm139759260643312"><name xml:id="idm139759260643056"><surname xml:id="idm139759260642928">Holberg</surname>, <forename xml:id="idm139759260642464">Ludvig</forename></name></author><title xml:id="idm139759260642176">Værker i tolv bind</title><title xml:id="idm139759260641872">2: Peder Paars</title><pubPlace xml:id="idm139759260641584">[Kbh.]</pubPlace>
+<publisher xml:id="idm139759260641120">Rosenkilde og Bagger</publisher><date xml:id="idm139759260640784">1969-1971</date></bibl><listBibl xml:id="idm139759260640496"><bibl xml:id="biblid54191"><title xml:id="idm139759260627344">Peder Paars</title></bibl><bibl xml:id="biblid56327"><title xml:id="idm139759260626560">Fire Skiemte-Digte og Zille Hans Dotters Gynaicologia</title></bibl></listBibl></sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text xml:id="idm139759260625856">
+    <front xml:id="idm139759260625600">
+      <pb n="1" facs="adl/holberg/holberg2/holb2001" xml:id="idm139759260625296"/>
+      <pb n="2" facs="adl/holberg/holberg2/holb2002" xml:id="idm139759260624560"/>
+      <pb n="3" facs="adl/holberg/holberg2/holb2003" xml:id="idm139759260623744"/>
+      <pb n="4" facs="adl/holberg/holberg2/holb2004" xml:id="idm139759260622976"/>
+      <pb n="5" facs="adl/holberg/holberg2/holb2005" xml:id="idm139759260622160"/>
+      <pb n="6" facs="adl/holberg/holberg2/holb2006" xml:id="idm139759260621344"/>
+    </front>
+    <group xml:id="idm139759260703568">
+      <pb n="7" facs="adl/holberg/holberg2/holb2007" xml:id="idm139759260703312"/>
+      <pb n="8" facs="adl/holberg/holberg2/holb2008" xml:id="idm139759260702544"/>
+      <pb n="9" facs="adl/holberg/holberg2/holb2009" xml:id="idm139759260701776"/>
+      <pb n="10" facs="adl/holberg/holberg2/holb2010" xml:id="idm139759260701008"/>
+      <pb n="11" facs="adl/holberg/holberg2/holb2011" xml:id="idm139759260700240"/>
+      <pb n="12" facs="adl/holberg/holberg2/holb2012" xml:id="idm139759260595808"/>
+      <text xml:id="workid54191" decls="#biblid54191">
+        <body xml:id="idm139759260594208">
+          <pb n="13" facs="adl/holberg/holberg2/holb2013" xml:id="idm139759260593952"/>
+          <pb n="14" facs="adl/holberg/holberg2/holb2014" xml:id="idm139759260593184"/>
+          <pb n="15" facs="adl/holberg/holberg2/holb2015" xml:id="idm139759260592416"/>
+          <pb n="16" facs="adl/holberg/holberg2/holb2016" xml:id="idm139759260591648"/>
+          <pb n="17" facs="adl/holberg/holberg2/holb2017" xml:id="idm139759260590880"/>
+          <pb n="18" facs="adl/holberg/holberg2/holb2018" xml:id="idm139759260590112"/>
+          <pb n="19" facs="adl/holberg/holberg2/holb2019" xml:id="idm139759260589344"/>
+          <pb n="20" facs="adl/holberg/holberg2/holb2020" xml:id="idm139759260588576"/>
+          <pb n="21" facs="adl/holberg/holberg2/holb2021" xml:id="idm139759260587808"/>
+          <pb n="22" facs="adl/holberg/holberg2/holb2022" xml:id="idm139759260587040"/>
+          <pb n="23" facs="adl/holberg/holberg2/holb2023" xml:id="idm139759260586272"/>
+          <pb n="24" facs="adl/holberg/holberg2/holb2024" xml:id="idm139759260585504"/>
+          <pb n="25" facs="adl/holberg/holberg2/holb2025" xml:id="idm139759260584736"/>
+          <pb n="26" facs="adl/holberg/holberg2/holb2026" xml:id="idm139759260583968"/>
+          <pb n="27" facs="adl/holberg/holberg2/holb2027" xml:id="idm139759260583200"/>
+          <pb n="28" facs="adl/holberg/holberg2/holb2028" xml:id="idm139759260582432"/>
+          <pb n="29" facs="adl/holberg/holberg2/holb2029" xml:id="idm139759260581664"/>
+          <pb n="30" facs="adl/holberg/holberg2/holb2030" xml:id="idm139759260580896"/>
+          <pb n="31" facs="adl/holberg/holberg2/holb2031" xml:id="idm139759260580128"/>
+          <pb n="32" facs="adl/holberg/holberg2/holb2032" xml:id="idm139759260579360"/>
+          <pb n="33" facs="adl/holberg/holberg2/holb2033" xml:id="idm139759260578592"/>
+          <pb n="34" facs="adl/holberg/holberg2/holb2034" xml:id="idm139759260577824"/>
+          <pb n="35" facs="adl/holberg/holberg2/holb2035" xml:id="idm139759260577056"/>
+          <pb n="36" facs="adl/holberg/holberg2/holb2036" xml:id="idm139759260576288"/>
+          <pb n="37" facs="adl/holberg/holberg2/holb2037" xml:id="idm139759260575520"/>
+          <pb n="38" facs="adl/holberg/holberg2/holb2038" xml:id="idm139759260574752"/>
+          <pb n="39" facs="adl/holberg/holberg2/holb2039" xml:id="idm139759260573984"/>
+          <pb n="40" facs="adl/holberg/holberg2/holb2040" xml:id="idm139759260573216"/>
+          <pb n="41" facs="adl/holberg/holberg2/holb2041" xml:id="idm139759260572448"/>
+          <pb n="42" facs="adl/holberg/holberg2/holb2042" xml:id="idm139759260571680"/>
+          <pb n="43" facs="adl/holberg/holberg2/holb2043" xml:id="idm139759260570912"/>
+          <pb n="44" facs="adl/holberg/holberg2/holb2044" xml:id="idm139759260570144"/>
+          <pb n="45" facs="adl/holberg/holberg2/holb2045" xml:id="idm139759260569376"/>
+          <pb n="46" facs="adl/holberg/holberg2/holb2046" xml:id="idm139759260568608"/>
+          <pb n="47" facs="adl/holberg/holberg2/holb2047" xml:id="idm139759260567840"/>
+          <pb n="48" facs="adl/holberg/holberg2/holb2048" xml:id="idm139759260567072"/>
+          <pb n="49" facs="adl/holberg/holberg2/holb2049" xml:id="idm139759260566304"/>
+          <pb n="50" facs="adl/holberg/holberg2/holb2050" xml:id="idm139759260565536"/>
+          <pb n="51" facs="adl/holberg/holberg2/holb2051" xml:id="idm139759260564768"/>
+          <pb n="52" facs="adl/holberg/holberg2/holb2052" xml:id="idm139759260564000"/>
+          <pb n="53" facs="adl/holberg/holberg2/holb2053" xml:id="idm139759260563232"/>
+          <pb n="54" facs="adl/holberg/holberg2/holb2054" xml:id="idm139759260562464"/>
+          <pb n="55" facs="adl/holberg/holberg2/holb2055" xml:id="idm139759260561696"/>
+          <pb n="56" facs="adl/holberg/holberg2/holb2056" xml:id="idm139759260560928"/>
+          <pb n="57" facs="adl/holberg/holberg2/holb2057" xml:id="idm139759260560160"/>
+          <pb n="58" facs="adl/holberg/holberg2/holb2058" xml:id="idm139759260559392"/>
+          <pb n="59" facs="adl/holberg/holberg2/holb2059" xml:id="idm139759260558624"/>
+          <pb n="60" facs="adl/holberg/holberg2/holb2060" xml:id="idm139759260557856"/>
+          <pb n="61" facs="adl/holberg/holberg2/holb2061" xml:id="idm139759260557088"/>
+          <pb n="62" facs="adl/holberg/holberg2/holb2062" xml:id="idm139759260556320"/>
+          <pb n="63" facs="adl/holberg/holberg2/holb2063" xml:id="idm139759260555552"/>
+          <pb n="64" facs="adl/holberg/holberg2/holb2064" xml:id="idm139759260554784"/>
+          <pb n="65" facs="adl/holberg/holberg2/holb2065" xml:id="idm139759260554016"/>
+          <pb n="66" facs="adl/holberg/holberg2/holb2066" xml:id="idm139759260553248"/>
+          <pb n="67" facs="adl/holberg/holberg2/holb2067" xml:id="idm139759260552480"/>
+          <pb n="68" facs="adl/holberg/holberg2/holb2068" xml:id="idm139759260551712"/>
+          <pb n="69" facs="adl/holberg/holberg2/holb2069" xml:id="idm139759260550944"/>
+          <pb n="70" facs="adl/holberg/holberg2/holb2070" xml:id="idm139759260550176"/>
+          <pb n="71" facs="adl/holberg/holberg2/holb2071" xml:id="idm139759260549408"/>
+          <pb n="72" facs="adl/holberg/holberg2/holb2072" xml:id="idm139759260548640"/>
+          <pb n="73" facs="adl/holberg/holberg2/holb2073" xml:id="idm139759260547872"/>
+          <pb n="74" facs="adl/holberg/holberg2/holb2074" xml:id="idm139759260547104"/>
+          <pb n="75" facs="adl/holberg/holberg2/holb2075" xml:id="idm139759260546336"/>
+          <pb n="76" facs="adl/holberg/holberg2/holb2076" xml:id="idm139759260545568"/>
+          <pb n="77" facs="adl/holberg/holberg2/holb2077" xml:id="idm139759260544800"/>
+          <pb n="78" facs="adl/holberg/holberg2/holb2078" xml:id="idm139759260544032"/>
+          <pb n="79" facs="adl/holberg/holberg2/holb2079" xml:id="idm139759260543264"/>
+          <pb n="80" facs="adl/holberg/holberg2/holb2080" xml:id="idm139759260542496"/>
+          <pb n="81" facs="adl/holberg/holberg2/holb2081" xml:id="idm139759260541728"/>
+          <pb n="82" facs="adl/holberg/holberg2/holb2082" xml:id="idm139759260540960"/>
+          <pb n="83" facs="adl/holberg/holberg2/holb2083" xml:id="idm139759260540192"/>
+          <pb n="84" facs="adl/holberg/holberg2/holb2084" xml:id="idm139759260539424"/>
+          <pb n="85" facs="adl/holberg/holberg2/holb2085" xml:id="idm139759260538656"/>
+          <pb n="86" facs="adl/holberg/holberg2/holb2086" xml:id="idm139759260537888"/>
+          <pb n="87" facs="adl/holberg/holberg2/holb2087" xml:id="idm139759260537120"/>
+          <pb n="88" facs="adl/holberg/holberg2/holb2088" xml:id="idm139759260536352"/>
+          <pb n="89" facs="adl/holberg/holberg2/holb2089" xml:id="idm139759260535584"/>
+          <pb n="90" facs="adl/holberg/holberg2/holb2090" xml:id="idm139759260534816"/>
+          <pb n="91" facs="adl/holberg/holberg2/holb2091" xml:id="idm139759260534048"/>
+          <pb n="92" facs="adl/holberg/holberg2/holb2092" xml:id="idm139759260533280"/>
+          <pb n="93" facs="adl/holberg/holberg2/holb2093" xml:id="idm139759260532512"/>
+          <pb n="94" facs="adl/holberg/holberg2/holb2094" xml:id="idm139759260531744"/>
+          <pb n="95" facs="adl/holberg/holberg2/holb2095" xml:id="idm139759260530976"/>
+          <pb n="96" facs="adl/holberg/holberg2/holb2096" xml:id="idm139759260530208"/>
+          <pb n="97" facs="adl/holberg/holberg2/holb2097" xml:id="idm139759260529440"/>
+          <pb n="98" facs="adl/holberg/holberg2/holb2098" xml:id="idm139759260528672"/>
+          <pb n="99" facs="adl/holberg/holberg2/holb2099" xml:id="idm139759260527904"/>
+          <pb n="100" facs="adl/holberg/holberg2/holb2100" xml:id="idm139759260527136"/>
+          <pb n="101" facs="adl/holberg/holberg2/holb2101" xml:id="idm139759260526368"/>
+          <pb n="102" facs="adl/holberg/holberg2/holb2102" xml:id="idm139759260525600"/>
+          <pb n="103" facs="adl/holberg/holberg2/holb2103" xml:id="idm139759260524832"/>
+          <pb n="104" facs="adl/holberg/holberg2/holb2104" xml:id="idm139759260524064"/>
+          <pb n="105" facs="adl/holberg/holberg2/holb2105" xml:id="idm139759260523296"/>
+          <pb n="106" facs="adl/holberg/holberg2/holb2106" xml:id="idm139759260522528"/>
+          <pb n="107" facs="adl/holberg/holberg2/holb2107" xml:id="idm139759260521760"/>
+          <pb n="108" facs="adl/holberg/holberg2/holb2108" xml:id="idm139759260520992"/>
+          <pb n="109" facs="adl/holberg/holberg2/holb2109" xml:id="idm139759260520224"/>
+          <pb n="110" facs="adl/holberg/holberg2/holb2110" xml:id="idm139759260519456"/>
+          <pb n="111" facs="adl/holberg/holberg2/holb2111" xml:id="idm139759260518688"/>
+          <pb n="112" facs="adl/holberg/holberg2/holb2112" xml:id="idm139759260517920"/>
+          <pb n="113" facs="adl/holberg/holberg2/holb2113" xml:id="idm139759260517152"/>
+          <pb n="114" facs="adl/holberg/holberg2/holb2114" xml:id="idm139759260516384"/>
+          <pb n="115" facs="adl/holberg/holberg2/holb2115" xml:id="idm139759260515616"/>
+          <pb n="116" facs="adl/holberg/holberg2/holb2116" xml:id="idm139759260514800"/>
+          <pb n="117" facs="adl/holberg/holberg2/holb2117" xml:id="idm139759260514032"/>
+          <pb n="118" facs="adl/holberg/holberg2/holb2118" xml:id="idm139759260513264"/>
+          <pb n="119" facs="adl/holberg/holberg2/holb2119" xml:id="idm139759260512496"/>
+          <pb n="120" facs="adl/holberg/holberg2/holb2120" xml:id="idm139759260511680"/>
+          <pb n="121" facs="adl/holberg/holberg2/holb2121" xml:id="idm139759260510864"/>
+          <pb n="122" facs="adl/holberg/holberg2/holb2122" xml:id="idm139759260510096"/>
+          <pb n="123" facs="adl/holberg/holberg2/holb2123" xml:id="idm139759260509328"/>
+          <pb n="124" facs="adl/holberg/holberg2/holb2124" xml:id="idm139759260508560"/>
+          <pb n="125" facs="adl/holberg/holberg2/holb2125" xml:id="idm139759260507744"/>
+          <pb n="126" facs="adl/holberg/holberg2/holb2126" xml:id="idm139759260506976"/>
+          <pb n="127" facs="adl/holberg/holberg2/holb2127" xml:id="idm139759260506160"/>
+          <pb n="128" facs="adl/holberg/holberg2/holb2128" xml:id="idm139759260505392"/>
+          <pb n="129" facs="adl/holberg/holberg2/holb2129" xml:id="idm139759260504576"/>
+          <pb n="130" facs="adl/holberg/holberg2/holb2130" xml:id="idm139759260503808"/>
+          <pb n="131" facs="adl/holberg/holberg2/holb2131" xml:id="idm139759260503040"/>
+          <pb n="132" facs="adl/holberg/holberg2/holb2132" xml:id="idm139759260502272"/>
+          <pb n="133" facs="adl/holberg/holberg2/holb2133" xml:id="idm139759260501504"/>
+          <pb n="134" facs="adl/holberg/holberg2/holb2134" xml:id="idm139759260500736"/>
+          <pb n="135" facs="adl/holberg/holberg2/holb2135" xml:id="idm139759260499968"/>
+          <pb n="136" facs="adl/holberg/holberg2/holb2136" xml:id="idm139759260499200"/>
+          <pb n="137" facs="adl/holberg/holberg2/holb2137" xml:id="idm139759260498432"/>
+          <pb n="138" facs="adl/holberg/holberg2/holb2138" xml:id="idm139759260497664"/>
+          <pb n="139" facs="adl/holberg/holberg2/holb2139" xml:id="idm139759260496896"/>
+          <pb n="140" facs="adl/holberg/holberg2/holb2140" xml:id="idm139759260496128"/>
+          <pb n="141" facs="adl/holberg/holberg2/holb2141" xml:id="idm139759260495312"/>
+          <pb n="142" facs="adl/holberg/holberg2/holb2142" xml:id="idm139759260494544"/>
+          <pb n="143" facs="adl/holberg/holberg2/holb2143" xml:id="idm139759260493728"/>
+          <pb n="144" facs="adl/holberg/holberg2/holb2144" xml:id="idm139759260492960"/>
+          <pb n="145" facs="adl/holberg/holberg2/holb2145" xml:id="idm139759260492144"/>
+          <pb n="146" facs="adl/holberg/holberg2/holb2146" xml:id="idm139759260491328"/>
+          <pb n="147" facs="adl/holberg/holberg2/holb2147" xml:id="idm139759260490560"/>
+          <pb n="148" facs="adl/holberg/holberg2/holb2148" xml:id="idm139759260489792"/>
+          <pb n="149" facs="adl/holberg/holberg2/holb2149" xml:id="idm139759260489024"/>
+          <pb n="150" facs="adl/holberg/holberg2/holb2150" xml:id="idm139759260488256"/>
+          <pb n="151" facs="adl/holberg/holberg2/holb2151" xml:id="idm139759260487488"/>
+          <pb n="152" facs="adl/holberg/holberg2/holb2152" xml:id="idm139759260486720"/>
+          <pb n="153" facs="adl/holberg/holberg2/holb2153" xml:id="idm139759260485952"/>
+          <pb n="154" facs="adl/holberg/holberg2/holb2154" xml:id="idm139759260485136"/>
+          <pb n="155" facs="adl/holberg/holberg2/holb2155" xml:id="idm139759260484368"/>
+          <pb n="156" facs="adl/holberg/holberg2/holb2156" xml:id="idm139759260483600"/>
+          <pb n="157" facs="adl/holberg/holberg2/holb2157" xml:id="idm139759260482832"/>
+          <pb n="158" facs="adl/holberg/holberg2/holb2158" xml:id="idm139759260482064"/>
+          <pb n="159" facs="adl/holberg/holberg2/holb2159" xml:id="idm139759260481248"/>
+          <pb n="160" facs="adl/holberg/holberg2/holb2160" xml:id="idm139759260480480"/>
+          <pb n="161" facs="adl/holberg/holberg2/holb2161" xml:id="idm139759260479664"/>
+          <pb n="162" facs="adl/holberg/holberg2/holb2162" xml:id="idm139759260478896"/>
+          <pb n="163" facs="adl/holberg/holberg2/holb2163" xml:id="idm139759260478080"/>
+          <pb n="164" facs="adl/holberg/holberg2/holb2164" xml:id="idm139759260477312"/>
+          <pb n="165" facs="adl/holberg/holberg2/holb2165" xml:id="idm139759260476496"/>
+          <pb n="166" facs="adl/holberg/holberg2/holb2166" xml:id="idm139759260475728"/>
+          <pb n="167" facs="adl/holberg/holberg2/holb2167" xml:id="idm139759260474960"/>
+          <pb n="168" facs="adl/holberg/holberg2/holb2168" xml:id="idm139759260474192"/>
+          <pb n="169" facs="adl/holberg/holberg2/holb2169" xml:id="idm139759260473424"/>
+          <pb n="170" facs="adl/holberg/holberg2/holb2170" xml:id="idm139759260472656"/>
+          <pb n="171" facs="adl/holberg/holberg2/holb2171" xml:id="idm139759260471888"/>
+          <pb n="172" facs="adl/holberg/holberg2/holb2172" xml:id="idm139759260471072"/>
+          <pb n="173" facs="adl/holberg/holberg2/holb2173" xml:id="idm139759260470304"/>
+          <pb n="174" facs="adl/holberg/holberg2/holb2174" xml:id="idm139759260469536"/>
+          <pb n="175" facs="adl/holberg/holberg2/holb2175" xml:id="idm139759260468768"/>
+          <pb n="176" facs="adl/holberg/holberg2/holb2176" xml:id="idm139759260468000"/>
+          <pb n="177" facs="adl/holberg/holberg2/holb2177" xml:id="idm139759260467232"/>
+          <pb n="178" facs="adl/holberg/holberg2/holb2178" xml:id="idm139759260466464"/>
+          <pb n="179" facs="adl/holberg/holberg2/holb2179" xml:id="idm139759260465696"/>
+          <pb n="180" facs="adl/holberg/holberg2/holb2180" xml:id="idm139759260464928"/>
+          <pb n="181" facs="adl/holberg/holberg2/holb2181" xml:id="idm139759260464160"/>
+          <pb n="182" facs="adl/holberg/holberg2/holb2182" xml:id="idm139759260463392"/>
+          <pb n="183" facs="adl/holberg/holberg2/holb2183" xml:id="idm139759260462656"/>
+          <pb n="184" facs="adl/holberg/holberg2/holb2184" xml:id="idm139759260461920"/>
+          <pb n="185" facs="adl/holberg/holberg2/holb2185" xml:id="idm139759260461152"/>
+          <pb n="186" facs="adl/holberg/holberg2/holb2186" xml:id="idm139759260456272"/>
+          <pb n="187" facs="adl/holberg/holberg2/holb2187" xml:id="idm139759260455504"/>
+          <pb n="188" facs="adl/holberg/holberg2/holb2188" xml:id="idm139759260454736"/>
+          <pb n="189" facs="adl/holberg/holberg2/holb2189" xml:id="idm139759260453968"/>
+          <pb n="190" facs="adl/holberg/holberg2/holb2190" xml:id="idm139759260453152"/>
+          <pb n="191" facs="adl/holberg/holberg2/holb2191" xml:id="idm139759260452336"/>
+          <pb n="192" facs="adl/holberg/holberg2/holb2192" xml:id="idm139759260451568"/>
+          <pb n="193" facs="adl/holberg/holberg2/holb2193" xml:id="idm139759260450800"/>
+          <pb n="194" facs="adl/holberg/holberg2/holb2194" xml:id="idm139759260450032"/>
+          <pb n="195" facs="adl/holberg/holberg2/holb2195" xml:id="idm139759260449264"/>
+          <pb n="196" facs="adl/holberg/holberg2/holb2196" xml:id="idm139759260448448"/>
+          <pb n="197" facs="adl/holberg/holberg2/holb2197" xml:id="idm139759260447680"/>
+          <pb n="198" facs="adl/holberg/holberg2/holb2198" xml:id="idm139759260446912"/>
+          <pb n="199" facs="adl/holberg/holberg2/holb2199" xml:id="idm139759260446144"/>
+          <pb n="200" facs="adl/holberg/holberg2/holb2200" xml:id="idm139759260445376"/>
+          <pb n="201" facs="adl/holberg/holberg2/holb2201" xml:id="idm139759260444560"/>
+          <pb n="202" facs="adl/holberg/holberg2/holb2202" xml:id="idm139759260443792"/>
+          <pb n="203" facs="adl/holberg/holberg2/holb2203" xml:id="idm139759260443024"/>
+          <pb n="204" facs="adl/holberg/holberg2/holb2204" xml:id="idm139759260442208"/>
+          <pb n="205" facs="adl/holberg/holberg2/holb2205" xml:id="idm139759260441440"/>
+          <pb n="206" facs="adl/holberg/holberg2/holb2206" xml:id="idm139759260440672"/>
+          <pb n="207" facs="adl/holberg/holberg2/holb2207" xml:id="idm139759260439904"/>
+          <pb n="208" facs="adl/holberg/holberg2/holb2208" xml:id="idm139759260439136"/>
+          <pb n="209" facs="adl/holberg/holberg2/holb2209" xml:id="idm139759260438368"/>
+          <pb n="210" facs="adl/holberg/holberg2/holb2210" xml:id="idm139759260437600"/>
+          <pb n="211" facs="adl/holberg/holberg2/holb2211" xml:id="idm139759260436832"/>
+          <pb n="212" facs="adl/holberg/holberg2/holb2212" xml:id="idm139759260436064"/>
+          <pb n="213" facs="adl/holberg/holberg2/holb2213" xml:id="idm139759260435296"/>
+          <pb n="214" facs="adl/holberg/holberg2/holb2214" xml:id="idm139759260434528"/>
+          <pb n="215" facs="adl/holberg/holberg2/holb2215" xml:id="idm139759260433712"/>
+          <pb n="216" facs="adl/holberg/holberg2/holb2216" xml:id="idm139759260432896"/>
+          <pb n="217" facs="adl/holberg/holberg2/holb2217" xml:id="idm139759260432080"/>
+          <pb n="218" facs="adl/holberg/holberg2/holb2218" xml:id="idm139759260431312"/>
+          <pb n="219" facs="adl/holberg/holberg2/holb2219" xml:id="idm139759260430544"/>
+          <pb n="220" facs="adl/holberg/holberg2/holb2220" xml:id="idm139759260429776"/>
+          <pb n="221" facs="adl/holberg/holberg2/holb2221" xml:id="idm139759260429008"/>
+          <pb n="222" facs="adl/holberg/holberg2/holb2222" xml:id="idm139759260428192"/>
+          <pb n="223" facs="adl/holberg/holberg2/holb2223" xml:id="idm139759260427376"/>
+          <pb n="224" facs="adl/holberg/holberg2/holb2224" xml:id="idm139759260426608"/>
+          <pb n="225" facs="adl/holberg/holberg2/holb2225" xml:id="idm139759260425792"/>
+          <pb n="226" facs="adl/holberg/holberg2/holb2226" xml:id="idm139759260424976"/>
+          <pb n="227" facs="adl/holberg/holberg2/holb2227" xml:id="idm139759260424208"/>
+          <pb n="228" facs="adl/holberg/holberg2/holb2228" xml:id="idm139759260423440"/>
+          <pb n="229" facs="adl/holberg/holberg2/holb2229" xml:id="idm139759260422672"/>
+          <pb n="230" facs="adl/holberg/holberg2/holb2230" xml:id="idm139759260421904"/>
+          <pb n="231" facs="adl/holberg/holberg2/holb2231" xml:id="idm139759260421136"/>
+          <pb n="232" facs="adl/holberg/holberg2/holb2232" xml:id="idm139759260420368"/>
+          <pb n="233" facs="adl/holberg/holberg2/holb2233" xml:id="idm139759260419600"/>
+          <pb n="234" facs="adl/holberg/holberg2/holb2234" xml:id="idm139759260418784"/>
+          <pb n="235" facs="adl/holberg/holberg2/holb2235" xml:id="idm139759260417968"/>
+          <pb n="236" facs="adl/holberg/holberg2/holb2236" xml:id="idm139759260417200"/>
+          <pb n="237" facs="adl/holberg/holberg2/holb2237" xml:id="idm139759260416384"/>
+          <pb n="238" facs="adl/holberg/holberg2/holb2238" xml:id="idm139759260415616"/>
+          <pb n="239" facs="adl/holberg/holberg2/holb2239" xml:id="idm139759260414848"/>
+          <pb n="240" facs="adl/holberg/holberg2/holb2240" xml:id="idm139759260414032"/>
+          <pb n="241" facs="adl/holberg/holberg2/holb2241" xml:id="idm139759260413216"/>
+          <pb n="242" facs="adl/holberg/holberg2/holb2242" xml:id="idm139759260412448"/>
+          <pb n="243" facs="adl/holberg/holberg2/holb2243" xml:id="idm139759260411680"/>
+          <pb n="244" facs="adl/holberg/holberg2/holb2244" xml:id="idm139759260410912"/>
+          <pb n="245" facs="adl/holberg/holberg2/holb2245" xml:id="idm139759260410144"/>
+          <pb n="246" facs="adl/holberg/holberg2/holb2246" xml:id="idm139759260409376"/>
+          <pb n="247" facs="adl/holberg/holberg2/holb2247" xml:id="idm139759260408608"/>
+          <pb n="248" facs="adl/holberg/holberg2/holb2248" xml:id="idm139759260407792"/>
+          <pb n="249" facs="adl/holberg/holberg2/holb2249" xml:id="idm139759260407024"/>
+          <pb n="250" facs="adl/holberg/holberg2/holb2250" xml:id="idm139759260406256"/>
+          <pb n="251" facs="adl/holberg/holberg2/holb2251" xml:id="idm139759260405488"/>
+          <pb n="252" facs="adl/holberg/holberg2/holb2252" xml:id="idm139759260404672"/>
+          <pb n="253" facs="adl/holberg/holberg2/holb2253" xml:id="idm139759260403904"/>
+          <pb n="254" facs="adl/holberg/holberg2/holb2254" xml:id="idm139759260403088"/>
+          <pb n="255" facs="adl/holberg/holberg2/holb2255" xml:id="idm139759260402272"/>
+          <pb n="256" facs="adl/holberg/holberg2/holb2256" xml:id="idm139759260401456"/>
+          <pb n="257" facs="adl/holberg/holberg2/holb2257" xml:id="idm139759260400688"/>
+          <pb n="258" facs="adl/holberg/holberg2/holb2258" xml:id="idm139759260399920"/>
+          <pb n="259" facs="adl/holberg/holberg2/holb2259" xml:id="idm139759260399104"/>
+          <pb n="260" facs="adl/holberg/holberg2/holb2260" xml:id="idm139759260398336"/>
+          <pb n="261" facs="adl/holberg/holberg2/holb2261" xml:id="idm139759260397568"/>
+          <pb n="262" facs="adl/holberg/holberg2/holb2262" xml:id="idm139759260396800"/>
+          <pb n="263" facs="adl/holberg/holberg2/holb2263" xml:id="idm139759260396032"/>
+          <pb n="264" facs="adl/holberg/holberg2/holb2264" xml:id="idm139759260395264"/>
+          <pb n="265" facs="adl/holberg/holberg2/holb2265" xml:id="idm139759260394496"/>
+          <pb n="266" facs="adl/holberg/holberg2/holb2266" xml:id="idm139759260393728"/>
+          <pb n="267" facs="adl/holberg/holberg2/holb2267" xml:id="idm139759260392960"/>
+          <pb n="268" facs="adl/holberg/holberg2/holb2268" xml:id="idm139759260392192"/>
+          <p xml:id="idm139759260391424"/>
+        </body>
+        <back xml:id="idm139759260391040">
+          <pb n="269" facs="adl/holberg/holberg2/holb2269" xml:id="idm139759260390784"/>
+          <pb n="270" facs="adl/holberg/holberg2/holb2270" xml:id="idm139759260390016"/>
+          <pb n="271" facs="adl/holberg/holberg2/holb2271" xml:id="idm139759260389248"/>
+          <pb n="272" facs="adl/holberg/holberg2/holb2272" xml:id="idm139759260388432"/>
+          <pb n="273" facs="adl/holberg/holberg2/holb2273" xml:id="idm139759260387664"/>
+          <pb n="274" facs="adl/holberg/holberg2/holb2274" xml:id="idm139759260386896"/>
+          <pb n="275" facs="adl/holberg/holberg2/holb2275" xml:id="idm139759260386128"/>
+          <pb n="276" facs="adl/holberg/holberg2/holb2276" xml:id="idm139759260385312"/>
+          <pb n="277" facs="adl/holberg/holberg2/holb2277" xml:id="idm139759260384544"/>
+          <pb n="278" facs="adl/holberg/holberg2/holb2278" xml:id="idm139759260383728"/>
+          <pb n="279" facs="adl/holberg/holberg2/holb2279" xml:id="idm139759260382912"/>
+          <pb n="280" facs="adl/holberg/holberg2/holb2280" xml:id="idm139759260382144"/>
+          <pb n="281" facs="adl/holberg/holberg2/holb2281" xml:id="idm139759260381328"/>
+          <pb n="282" facs="adl/holberg/holberg2/holb2282" xml:id="idm139759260380512"/>
+          <pb n="283" facs="adl/holberg/holberg2/holb2283" xml:id="idm139759260379744"/>
+          <pb n="284" facs="adl/holberg/holberg2/holb2284" xml:id="idm139759260378928"/>
+          <pb n="285" facs="adl/holberg/holberg2/holb2285" xml:id="idm139759260378160"/>
+          <pb n="286" facs="adl/holberg/holberg2/holb2286" xml:id="idm139759260377392"/>
+          <pb n="287" facs="adl/holberg/holberg2/holb2287" xml:id="idm139759260376624"/>
+          <pb n="288" facs="adl/holberg/holberg2/holb2288" xml:id="idm139759260375808"/>
+          <pb n="289" facs="adl/holberg/holberg2/holb2289" xml:id="idm139759260374992"/>
+          <pb n="290" facs="adl/holberg/holberg2/holb2290" xml:id="idm139759260374224"/>
+          <pb n="291" facs="adl/holberg/holberg2/holb2291" xml:id="idm139759260373408"/>
+          <pb n="292" facs="adl/holberg/holberg2/holb2292" xml:id="idm139759260372592"/>
+          <pb n="293" facs="adl/holberg/holberg2/holb2293" xml:id="idm139759260371824"/>
+          <pb n="294" facs="adl/holberg/holberg2/holb2294" xml:id="idm139759260371056"/>
+          <pb n="295" facs="adl/holberg/holberg2/holb2295" xml:id="idm139759260370240"/>
+          <pb n="296" facs="adl/holberg/holberg2/holb2296" xml:id="idm139759260369424"/>
+          <pb n="297" facs="adl/holberg/holberg2/holb2297" xml:id="idm139759260368656"/>
+          <pb n="298" facs="adl/holberg/holberg2/holb2298" xml:id="idm139759260367888"/>
+          <pb n="299" facs="adl/holberg/holberg2/holb2299" xml:id="idm139759260367120"/>
+          <pb n="300" facs="adl/holberg/holberg2/holb2300" xml:id="idm139759260366352"/>
+          <pb n="301" facs="adl/holberg/holberg2/holb2301" xml:id="idm139759260365584"/>
+          <pb n="302" facs="adl/holberg/holberg2/holb2302" xml:id="idm139759260364816"/>
+        </back>
+      </text>
+      <pb n="303" facs="adl/holberg/holberg2/holb2303" xml:id="idm139759260363792"/>
+      <pb n="304" facs="adl/holberg/holberg2/holb2304" xml:id="idm139759260363024"/>
+      <pb n="305" facs="adl/holberg/holberg2/holb2305" xml:id="idm139759260362208"/>
+      <pb n="306" facs="adl/holberg/holberg2/holb2306" xml:id="idm139759260361440"/>
+      <pb n="307" facs="adl/holberg/holberg2/holb2307" xml:id="idm139759260360624"/>
+      <pb n="308" facs="adl/holberg/holberg2/holb2308" xml:id="idm139759260359856"/>
+      <text xml:id="workid56327" decls="#biblid56327">
+        <body xml:id="idm139759260358096">
+          <pb n="309" facs="adl/holberg/holberg2/holb2309" xml:id="idm139759260357840"/>
+          <pb n="310" facs="adl/holberg/holberg2/holb2310" xml:id="idm139759260357072"/>
+          <pb n="311" facs="adl/holberg/holberg2/holb2311" xml:id="idm139759260356304"/>
+          <pb n="312" facs="adl/holberg/holberg2/holb2312" xml:id="idm139759260355536"/>
+          <pb n="313" facs="adl/holberg/holberg2/holb2313" xml:id="idm139759260354768"/>
+          <pb n="314" facs="adl/holberg/holberg2/holb2314" xml:id="idm139759260354000"/>
+          <pb n="315" facs="adl/holberg/holberg2/holb2315" xml:id="idm139759260353184"/>
+          <pb n="316" facs="adl/holberg/holberg2/holb2316" xml:id="idm139759260352416"/>
+          <pb n="317" facs="adl/holberg/holberg2/holb2317" xml:id="idm139759260351648"/>
+          <pb n="318" facs="adl/holberg/holberg2/holb2318" xml:id="idm139759260350832"/>
+          <pb n="319" facs="adl/holberg/holberg2/holb2319" xml:id="idm139759260350016"/>
+          <pb n="320" facs="adl/holberg/holberg2/holb2320" xml:id="idm139759260349200"/>
+          <pb n="321" facs="adl/holberg/holberg2/holb2321" xml:id="idm139759260348432"/>
+          <pb n="322" facs="adl/holberg/holberg2/holb2322" xml:id="idm139759260347616"/>
+          <pb n="323" facs="adl/holberg/holberg2/holb2323" xml:id="idm139759260346848"/>
+          <pb n="324" facs="adl/holberg/holberg2/holb2324" xml:id="idm139759260346080"/>
+          <pb n="325" facs="adl/holberg/holberg2/holb2325" xml:id="idm139759260345264"/>
+          <pb n="326" facs="adl/holberg/holberg2/holb2326" xml:id="idm139759260344448"/>
+          <pb n="327" facs="adl/holberg/holberg2/holb2327" xml:id="idm139759260343680"/>
+          <pb n="328" facs="adl/holberg/holberg2/holb2328" xml:id="idm139759260342912"/>
+          <pb n="329" facs="adl/holberg/holberg2/holb2329" xml:id="idm139759260342096"/>
+          <pb n="330" facs="adl/holberg/holberg2/holb2330" xml:id="idm139759260341328"/>
+          <pb n="331" facs="adl/holberg/holberg2/holb2331" xml:id="idm139759260340560"/>
+          <pb n="332" facs="adl/holberg/holberg2/holb2332" xml:id="idm139759260339792"/>
+          <pb n="333" facs="adl/holberg/holberg2/holb2333" xml:id="idm139759260339024"/>
+          <pb n="334" facs="adl/holberg/holberg2/holb2334" xml:id="idm139759260338256"/>
+          <pb n="335" facs="adl/holberg/holberg2/holb2335" xml:id="idm139759260337440"/>
+          <pb n="336" facs="adl/holberg/holberg2/holb2336" xml:id="idm139759260336672"/>
+          <pb n="337" facs="adl/holberg/holberg2/holb2337" xml:id="idm139759260335856"/>
+          <pb n="338" facs="adl/holberg/holberg2/holb2338" xml:id="idm139759260335088"/>
+          <pb n="339" facs="adl/holberg/holberg2/holb2339" xml:id="idm139759260334320"/>
+          <pb n="340" facs="adl/holberg/holberg2/holb2340" xml:id="idm139759260333504"/>
+          <pb n="341" facs="adl/holberg/holberg2/holb2341" xml:id="idm139759260332736"/>
+          <pb n="342" facs="adl/holberg/holberg2/holb2342" xml:id="idm139759260331968"/>
+          <pb n="343" facs="adl/holberg/holberg2/holb2343" xml:id="idm139759260331152"/>
+          <pb n="344" facs="adl/holberg/holberg2/holb2344" xml:id="idm139759260330384"/>
+          <pb n="345" facs="adl/holberg/holberg2/holb2345" xml:id="idm139759260329616"/>
+          <pb n="346" facs="adl/holberg/holberg2/holb2346" xml:id="idm139759260328800"/>
+          <pb n="347" facs="adl/holberg/holberg2/holb2347" xml:id="idm139759260328032"/>
+          <pb n="348" facs="adl/holberg/holberg2/holb2348" xml:id="idm139759260327264"/>
+          <pb n="349" facs="adl/holberg/holberg2/holb2349" xml:id="idm139759260326496"/>
+          <pb n="350" facs="adl/holberg/holberg2/holb2350" xml:id="idm139759260325728"/>
+          <pb n="351" facs="adl/holberg/holberg2/holb2351" xml:id="idm139759260324960"/>
+          <pb n="352" facs="adl/holberg/holberg2/holb2352" xml:id="idm139759260324144"/>
+          <pb n="353" facs="adl/holberg/holberg2/holb2353" xml:id="idm139759260323328"/>
+          <pb n="354" facs="adl/holberg/holberg2/holb2354" xml:id="idm139759260322512"/>
+          <pb n="355" facs="adl/holberg/holberg2/holb2355" xml:id="idm139759260321744"/>
+          <pb n="356" facs="adl/holberg/holberg2/holb2356" xml:id="idm139759260320976"/>
+          <pb n="357" facs="adl/holberg/holberg2/holb2357" xml:id="idm139759260320160"/>
+          <pb n="358" facs="adl/holberg/holberg2/holb2358" xml:id="idm139759260319344"/>
+          <pb n="359" facs="adl/holberg/holberg2/holb2359" xml:id="idm139759260318576"/>
+          <pb n="360" facs="adl/holberg/holberg2/holb2360" xml:id="idm139759260317760"/>
+          <pb n="361" facs="adl/holberg/holberg2/holb2361" xml:id="idm139759260316992"/>
+          <pb n="362" facs="adl/holberg/holberg2/holb2362" xml:id="idm139759260316224"/>
+          <pb n="363" facs="adl/holberg/holberg2/holb2363" xml:id="idm139759260315456"/>
+          <pb n="364" facs="adl/holberg/holberg2/holb2364" xml:id="idm139759260314688"/>
+          <pb n="365" facs="adl/holberg/holberg2/holb2365" xml:id="idm139759260313872"/>
+          <pb n="366" facs="adl/holberg/holberg2/holb2366" xml:id="idm139759260313104"/>
+          <pb n="367" facs="adl/holberg/holberg2/holb2367" xml:id="idm139759260312336"/>
+          <pb n="368" facs="adl/holberg/holberg2/holb2368" xml:id="idm139759260311520"/>
+          <pb n="369" facs="adl/holberg/holberg2/holb2369" xml:id="idm139759260310752"/>
+          <pb n="370" facs="adl/holberg/holberg2/holb2370" xml:id="idm139759260309984"/>
+          <pb n="371" facs="adl/holberg/holberg2/holb2371" xml:id="idm139759260309168"/>
+          <pb n="372" facs="adl/holberg/holberg2/holb2372" xml:id="idm139759260308352"/>
+          <pb n="373" facs="adl/holberg/holberg2/holb2373" xml:id="idm139759260307536"/>
+          <pb n="374" facs="adl/holberg/holberg2/holb2374" xml:id="idm139759260306768"/>
+          <pb n="375" facs="adl/holberg/holberg2/holb2375" xml:id="idm139759260305952"/>
+          <pb n="376" facs="adl/holberg/holberg2/holb2376" xml:id="idm139759260305184"/>
+          <pb n="377" facs="adl/holberg/holberg2/holb2377" xml:id="idm139759260304416"/>
+          <pb n="378" facs="adl/holberg/holberg2/holb2378" xml:id="idm139759260303600"/>
+          <pb n="379" facs="adl/holberg/holberg2/holb2379" xml:id="idm139759260302832"/>
+          <pb n="380" facs="adl/holberg/holberg2/holb2380" xml:id="idm139759260302064"/>
+          <pb n="381" facs="adl/holberg/holberg2/holb2381" xml:id="idm139759260301296"/>
+          <pb n="382" facs="adl/holberg/holberg2/holb2382" xml:id="idm139759260300528"/>
+          <pb n="383" facs="adl/holberg/holberg2/holb2383" xml:id="idm139759260299760"/>
+          <pb n="384" facs="adl/holberg/holberg2/holb2384" xml:id="idm139759260298944"/>
+          <pb n="385" facs="adl/holberg/holberg2/holb2385" xml:id="idm139759260298128"/>
+          <pb n="386" facs="adl/holberg/holberg2/holb2386" xml:id="idm139759260297360"/>
+          <pb n="387" facs="adl/holberg/holberg2/holb2387" xml:id="idm139759260296544"/>
+          <pb n="388" facs="adl/holberg/holberg2/holb2388" xml:id="idm139759260295728"/>
+          <pb n="389" facs="adl/holberg/holberg2/holb2389" xml:id="idm139759260294960"/>
+          <pb n="390" facs="adl/holberg/holberg2/holb2390" xml:id="idm139759260294192"/>
+          <pb n="391" facs="adl/holberg/holberg2/holb2391" xml:id="idm139759260293376"/>
+          <pb n="392" facs="adl/holberg/holberg2/holb2392" xml:id="idm139759260292608"/>
+          <pb n="393" facs="adl/holberg/holberg2/holb2393" xml:id="idm139759260291792"/>
+          <pb n="394" facs="adl/holberg/holberg2/holb2394" xml:id="idm139759260290976"/>
+          <pb n="395" facs="adl/holberg/holberg2/holb2395" xml:id="idm139759260290160"/>
+          <pb n="396" facs="adl/holberg/holberg2/holb2396" xml:id="idm139759260289344"/>
+          <pb n="397" facs="adl/holberg/holberg2/holb2397" xml:id="idm139759260288528"/>
+          <pb n="398" facs="adl/holberg/holberg2/holb2398" xml:id="idm139759260287712"/>
+          <pb n="399" facs="adl/holberg/holberg2/holb2399" xml:id="idm139759260286944"/>
+          <pb n="400" facs="adl/holberg/holberg2/holb2400" xml:id="idm139759260286176"/>
+          <pb n="401" facs="adl/holberg/holberg2/holb2401" xml:id="idm139759260285360"/>
+          <pb n="402" facs="adl/holberg/holberg2/holb2402" xml:id="idm139759260284592"/>
+          <pb n="403" facs="adl/holberg/holberg2/holb2403" xml:id="idm139759260283824"/>
+          <pb n="404" facs="adl/holberg/holberg2/holb2404" xml:id="idm139759260283008"/>
+          <pb n="405" facs="adl/holberg/holberg2/holb2405" xml:id="idm139759260282192"/>
+          <pb n="406" facs="adl/holberg/holberg2/holb2406" xml:id="idm139759260281424"/>
+          <pb n="407" facs="adl/holberg/holberg2/holb2407" xml:id="idm139759260280608"/>
+          <pb n="408" facs="adl/holberg/holberg2/holb2408" xml:id="idm139759260279840"/>
+          <pb n="409" facs="adl/holberg/holberg2/holb2409" xml:id="idm139759260279024"/>
+          <pb n="410" facs="adl/holberg/holberg2/holb2410" xml:id="idm139759260278256"/>
+          <pb n="411" facs="adl/holberg/holberg2/holb2411" xml:id="idm139759260277440"/>
+          <pb n="412" facs="adl/holberg/holberg2/holb2412" xml:id="idm139759260276672"/>
+          <pb n="413" facs="adl/holberg/holberg2/holb2413" xml:id="idm139759260275856"/>
+          <pb n="414" facs="adl/holberg/holberg2/holb2414" xml:id="idm139759260275088"/>
+          <pb n="415" facs="adl/holberg/holberg2/holb2415" xml:id="idm139759260274320"/>
+          <pb n="416" facs="adl/holberg/holberg2/holb2416" xml:id="idm139759260273504"/>
+          <p xml:id="idm139759260272736"/>
+        </body>
+        <back xml:id="idm139759260272352">
+          <pb n="417" facs="adl/holberg/holberg2/holb2417" xml:id="idm139759260272096"/>
+          <pb n="418" facs="adl/holberg/holberg2/holb2418" xml:id="idm139759260271328"/>
+          <pb n="419" facs="adl/holberg/holberg2/holb2419" xml:id="idm139759260270512"/>
+          <pb n="420" facs="adl/holberg/holberg2/holb2420" xml:id="idm139759260269744"/>
+          <pb n="421" facs="adl/holberg/holberg2/holb2421" xml:id="idm139759260268928"/>
+          <pb n="422" facs="adl/holberg/holberg2/holb2422" xml:id="idm139759260268112"/>
+          <pb n="423" facs="adl/holberg/holberg2/holb2423" xml:id="idm139759260267344"/>
+          <pb n="424" facs="adl/holberg/holberg2/holb2424" xml:id="idm139759260266576"/>
+          <pb n="425" facs="adl/holberg/holberg2/holb2425" xml:id="idm139759260265808"/>
+          <pb n="426" facs="adl/holberg/holberg2/holb2426" xml:id="idm139759260265040"/>
+          <pb n="427" facs="adl/holberg/holberg2/holb2427" xml:id="idm139759260264272"/>
+          <pb n="428" facs="adl/holberg/holberg2/holb2428" xml:id="idm139759260263456"/>
+          <pb n="429" facs="adl/holberg/holberg2/holb2429" xml:id="idm139759260262688"/>
+          <pb n="430" facs="adl/holberg/holberg2/holb2430" xml:id="idm139759260261872"/>
+          <pb n="431" facs="adl/holberg/holberg2/holb2431" xml:id="idm139759260261056"/>
+          <pb n="432" facs="adl/holberg/holberg2/holb2432" xml:id="idm139759260260288"/>
+          <pb n="433" facs="adl/holberg/holberg2/holb2433" xml:id="idm139759260259520"/>
+        </back>
+      </text>
+    </group>
+    <back xml:id="idm139759260258368">
+      <pb n="434" facs="adl/holberg/holberg2/holb2434" xml:id="idm139759260258112"/>
+      <pb n="435" facs="adl/holberg/holberg2/holb2435" xml:id="idm139759260257344"/>
+    </back>
+  </text>
+</TEI>

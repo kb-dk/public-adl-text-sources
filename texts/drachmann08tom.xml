@@ -1,0 +1,710 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--Tom opmærkning blo 09.05.02-->
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="idm139873598166928"><!-- 
+       file     ./marc_dir/001823907.xml
+       field     
+       subfield  
+       prefix   -->
+  <teiHeader xml:id="idm139873598171456">
+    <fileDesc xml:id="idm139873598171200">
+      <titleStmt xml:id="idm139873598170896">
+        <title xml:id="idm139873598145584">Samlede Poetiske Skrifter bind 8</title>
+        <author xml:id="idm139873598145200">Holger Drachmann</author>
+      </titleStmt>
+      <publicationStmt xml:id="idm139873598144688">
+        <publisher xml:id="idm139873598144432">Gyldendalske Boghandel</publisher>
+        <idno xml:id="idm139873598144048" xml:base="texts/drachmann08tom.xml">001823907:08</idno>
+      </publicationStmt>
+      <notesStmt xml:id="idm139873598143280">
+        <note xml:id="idm139873598143024">
+	  </note>
+      </notesStmt>
+      <sourceDesc xml:id="idm139873598142512"><bibl xml:id="idm139873598142384"><author n="1" xml:id="idm139873598141696"><name xml:id="idm139873598141440"><surname xml:id="idm139873598141312">Drachmann</surname>, <forename xml:id="idm139873598140848">Holger</forename></name></author><title xml:id="idm139873598140560">Samlede poetiske Skrifter</title><pubPlace xml:id="idm139873598140256">Kbh. &amp; Kristiania</pubPlace>
+<date xml:id="idm139873598139632">1906-1909</date></bibl><listBibl xml:id="idm139873598139376"><bibl xml:id="biblid54134"><title xml:id="idm139873598126224">Med den brede Pensel</title></bibl><bibl xml:id="biblid55812"><title xml:id="idm139873598125392">Fest-Spil i Hundredaaret efter de store Landbo-Reformer og Stavnsbaandets løsning</title></bibl><bibl xml:id="biblid56043"><title xml:id="idm139873598124464">Tyrkisk Rokoko. En Mode-Legende fra Anno 1748</title></bibl><bibl xml:id="biblid56169"><title xml:id="idm139873598123648">To Dramatiske Digte</title></bibl><bibl xml:id="biblid56187"><title xml:id="idm139873598122816">Tyrkisk Rokoko</title></bibl><bibl xml:id="biblid56441"><title xml:id="idm139873598122032">Esther</title></bibl><bibl xml:id="biblid56868"><title xml:id="idm139873598121248">Tusind og en Nat</title></bibl><bibl xml:id="biblid57323"><title xml:id="idm139873598120416">Sangenes Bog</title></bibl><bibl xml:id="biblid57356"><title xml:id="idm139873598119632">Foraarsregn</title></bibl><bibl xml:id="biblid57368"><title xml:id="idm139873598118848">Der vælder Lyd</title></bibl><bibl xml:id="biblid57374"><title xml:id="idm139873598118000">Jule-Sne</title></bibl><bibl xml:id="biblid57386"><title xml:id="idm139873598117168">Foran Vandfaldet</title></bibl><bibl xml:id="biblid57404"><title xml:id="idm139873598116336">Stemning</title></bibl><bibl xml:id="biblid57417"><title xml:id="idm139873598115552">En Sang fra Rom</title></bibl><bibl xml:id="biblid57435"><title xml:id="idm139873598114720">Jeg takker Dig, min Fader, at Du ikke var rig</title></bibl><bibl xml:id="biblid57447"><title xml:id="idm139873598113856">Visen om Agnete og Havmandet</title></bibl><bibl xml:id="biblid57459"><title xml:id="idm139873598113008">Ved Siden af mig spilles der Klavér</title></bibl><bibl xml:id="biblid57471"><title xml:id="idm139873598112112">Med et broget Blad</title></bibl><bibl xml:id="biblid57482"><title xml:id="idm139873598111280">Vølund</title></bibl><bibl xml:id="biblid57495"><title xml:id="idm139873598110448">Sommer og Høst</title></bibl><bibl xml:id="biblid57497"><title xml:id="idm139873598109648">Den røde vilde Vin</title></bibl><bibl xml:id="biblid57509"><title xml:id="idm139873598108800">Naar Linden blomstrer</title></bibl><bibl xml:id="biblid57528"><title xml:id="idm139873598107968">Den unge Ørn</title></bibl><bibl xml:id="biblid57546"><title xml:id="idm139873598107120">Sommerdrømme paa Havet</title></bibl><bibl xml:id="biblid57565"><title xml:id="idm139873598106304">Landevejssalmer</title></bibl><bibl xml:id="biblid57610"><title xml:id="idm139873598105456">Musa</title></bibl><bibl xml:id="biblid57649"><title xml:id="idm139873598104672">Jakobsstigen</title></bibl><bibl xml:id="biblid57660"><title xml:id="idm139873598103840">Folkevise</title></bibl><bibl xml:id="biblid57680"><title xml:id="idm139873598103008">Digte fra Levanten</title></bibl><bibl xml:id="biblid57688"><title xml:id="idm139873598102176">Suleima</title></bibl><bibl xml:id="biblid57740"><title xml:id="idm139873598101392">I Ørknen</title></bibl><bibl xml:id="biblid57812"><title xml:id="idm139873598100560">Tilbage</title></bibl><bibl xml:id="biblid57912"><title xml:id="idm139873598099728">Farende Sange</title></bibl><bibl xml:id="biblid57914"><title xml:id="idm139873598201856">Jeg ønskede mig tilbage</title></bibl><bibl xml:id="biblid57925"><title xml:id="idm139873598201040">Valborgs-Sangen</title></bibl><bibl xml:id="biblid57938"><title xml:id="idm139873598200256">Jeg havde mig en Hjertenskær</title></bibl><bibl xml:id="biblid57950"><title xml:id="idm139873598199424">Hvor stedes nu min Gertrud</title></bibl><bibl xml:id="biblid57968"><title xml:id="idm139873598198672">Borgruin</title></bibl><bibl xml:id="biblid57973"><title xml:id="idm139873598197888">Hundred jernklædte Mænd</title></bibl><bibl xml:id="biblid57985"><title xml:id="idm139873598073568">Min Vin - min Kaarde - og min Elskerinde</title></bibl><bibl xml:id="biblid57997"><title xml:id="idm139873598072752">Lad mig dø, naar jeg dog ej kan leve</title></bibl><bibl xml:id="biblid58010"><title xml:id="idm139873598071840">Kilden</title></bibl><bibl xml:id="biblid58025"><title xml:id="idm139873598071056">Ved Dampskibet Jarl's Totale Forlis</title></bibl></listBibl></sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text xml:id="idm139873598070416">
+    <front xml:id="idm139873598070160">
+      <pb n="1" facs="adl/drachmann/drachmann08/drac08001" xml:id="idm139873598069904"/>
+      <pb n="2" facs="adl/drachmann/drachmann08/drac08002" xml:id="idm139873598069168"/>
+      <pb n="3" facs="adl/drachmann/drachmann08/drac08003" xml:id="idm139873598068400"/>
+      <pb n="4" facs="adl/drachmann/drachmann08/drac08004" xml:id="idm139873598067632"/>
+    </front>
+    <group xml:id="idm139873598066736">
+      <pb n="5" facs="adl/drachmann/drachmann08/drac08005" xml:id="idm139873598066480"/>
+      <text xml:id="workid54134" decls="#biblid54134">
+        <body xml:id="idm139873598064752">
+          <pb n="6" facs="adl/drachmann/drachmann08/drac08006" xml:id="idm139873598064496"/>
+          <pb n="7" facs="adl/drachmann/drachmann08/drac08007" xml:id="idm139873598063728"/>
+          <pb n="8" facs="adl/drachmann/drachmann08/drac08008" xml:id="idm139873598062960"/>
+          <pb n="9" facs="adl/drachmann/drachmann08/drac08009" xml:id="idm139873598062192"/>
+          <pb n="10" facs="adl/drachmann/drachmann08/drac08010" xml:id="idm139873598061424"/>
+          <pb n="11" facs="adl/drachmann/drachmann08/drac08011" xml:id="idm139873598060656"/>
+          <pb n="12" facs="adl/drachmann/drachmann08/drac08012" xml:id="idm139873598059888"/>
+          <pb n="13" facs="adl/drachmann/drachmann08/drac08013" xml:id="idm139873598059120"/>
+          <pb n="14" facs="adl/drachmann/drachmann08/drac08014" xml:id="idm139873598058352"/>
+          <pb n="15" facs="adl/drachmann/drachmann08/drac08015" xml:id="idm139873598057584"/>
+          <pb n="16" facs="adl/drachmann/drachmann08/drac08016" xml:id="idm139873598056816"/>
+          <pb n="17" facs="adl/drachmann/drachmann08/drac08017" xml:id="idm139873598056048"/>
+          <pb n="18" facs="adl/drachmann/drachmann08/drac08018" xml:id="idm139873598055280"/>
+          <pb n="19" facs="adl/drachmann/drachmann08/drac08019" xml:id="idm139873598054512"/>
+          <pb n="20" facs="adl/drachmann/drachmann08/drac08020" xml:id="idm139873598053744"/>
+          <pb n="21" facs="adl/drachmann/drachmann08/drac08021" xml:id="idm139873598052976"/>
+          <pb n="22" facs="adl/drachmann/drachmann08/drac08022" xml:id="idm139873598052208"/>
+          <pb n="23" facs="adl/drachmann/drachmann08/drac08023" xml:id="idm139873598051440"/>
+          <pb n="24" facs="adl/drachmann/drachmann08/drac08024" xml:id="idm139873598050672"/>
+          <pb n="25" facs="adl/drachmann/drachmann08/drac08025" xml:id="idm139873598049904"/>
+          <pb n="26" facs="adl/drachmann/drachmann08/drac08026" xml:id="idm139873598049136"/>
+          <pb n="27" facs="adl/drachmann/drachmann08/drac08027" xml:id="idm139873598048368"/>
+          <pb n="28" facs="adl/drachmann/drachmann08/drac08028" xml:id="idm139873598047600"/>
+          <pb n="29" facs="adl/drachmann/drachmann08/drac08029" xml:id="idm139873598046832"/>
+          <pb n="30" facs="adl/drachmann/drachmann08/drac08030" xml:id="idm139873598046064"/>
+          <pb n="31" facs="adl/drachmann/drachmann08/drac08031" xml:id="idm139873598045296"/>
+          <pb n="32" facs="adl/drachmann/drachmann08/drac08032" xml:id="idm139873598044528"/>
+          <pb n="33" facs="adl/drachmann/drachmann08/drac08033" xml:id="idm139873598043760"/>
+          <pb n="34" facs="adl/drachmann/drachmann08/drac08034" xml:id="idm139873598042992"/>
+          <pb n="35" facs="adl/drachmann/drachmann08/drac08035" xml:id="idm139873598042224"/>
+          <pb n="36" facs="adl/drachmann/drachmann08/drac08036" xml:id="idm139873598041456"/>
+          <pb n="37" facs="adl/drachmann/drachmann08/drac08037" xml:id="idm139873598040688"/>
+          <pb n="38" facs="adl/drachmann/drachmann08/drac08038" xml:id="idm139873598039920"/>
+          <pb n="39" facs="adl/drachmann/drachmann08/drac08039" xml:id="idm139873598039152"/>
+          <pb n="40" facs="adl/drachmann/drachmann08/drac08040" xml:id="idm139873598038384"/>
+          <pb n="41" facs="adl/drachmann/drachmann08/drac08041" xml:id="idm139873598037616"/>
+          <pb n="42" facs="adl/drachmann/drachmann08/drac08042" xml:id="idm139873598036848"/>
+          <pb n="43" facs="adl/drachmann/drachmann08/drac08043" xml:id="idm139873598036080"/>
+          <pb n="44" facs="adl/drachmann/drachmann08/drac08044" xml:id="idm139873598035312"/>
+          <pb n="45" facs="adl/drachmann/drachmann08/drac08045" xml:id="idm139873598034544"/>
+          <pb n="46" facs="adl/drachmann/drachmann08/drac08046" xml:id="idm139873598033776"/>
+          <pb n="47" facs="adl/drachmann/drachmann08/drac08047" xml:id="idm139873598033008"/>
+          <pb n="48" facs="adl/drachmann/drachmann08/drac08048" xml:id="idm139873598032240"/>
+          <pb n="49" facs="adl/drachmann/drachmann08/drac08049" xml:id="idm139873598031472"/>
+          <pb n="50" facs="adl/drachmann/drachmann08/drac08050" xml:id="idm139873598030704"/>
+          <pb n="51" facs="adl/drachmann/drachmann08/drac08051" xml:id="idm139873598029936"/>
+          <pb n="52" facs="adl/drachmann/drachmann08/drac08052" xml:id="idm139873598029168"/>
+          <pb n="53" facs="adl/drachmann/drachmann08/drac08053" xml:id="idm139873598028400"/>
+          <pb n="54" facs="adl/drachmann/drachmann08/drac08054" xml:id="idm139873598023600"/>
+          <pb n="55" facs="adl/drachmann/drachmann08/drac08055" xml:id="idm139873598022864"/>
+          <pb n="56" facs="adl/drachmann/drachmann08/drac08056" xml:id="idm139873598022128"/>
+          <pb n="57" facs="adl/drachmann/drachmann08/drac08057" xml:id="idm139873598021392"/>
+          <pb n="58" facs="adl/drachmann/drachmann08/drac08058" xml:id="idm139873598020656"/>
+          <pb n="59" facs="adl/drachmann/drachmann08/drac08059" xml:id="idm139873598019920"/>
+          <pb n="60" facs="adl/drachmann/drachmann08/drac08060" xml:id="idm139873598019184"/>
+          <pb n="61" facs="adl/drachmann/drachmann08/drac08061" xml:id="idm139873598018448"/>
+          <pb n="62" facs="adl/drachmann/drachmann08/drac08062" xml:id="idm139873598017712"/>
+          <pb n="63" facs="adl/drachmann/drachmann08/drac08063" xml:id="idm139873598016976"/>
+          <pb n="64" facs="adl/drachmann/drachmann08/drac08064" xml:id="idm139873598016240"/>
+          <pb n="65" facs="adl/drachmann/drachmann08/drac08065" xml:id="idm139873598015504"/>
+          <pb n="66" facs="adl/drachmann/drachmann08/drac08066" xml:id="idm139873598014768"/>
+          <pb n="67" facs="adl/drachmann/drachmann08/drac08067" xml:id="idm139873598014032"/>
+          <pb n="68" facs="adl/drachmann/drachmann08/drac08068" xml:id="idm139873598013296"/>
+          <pb n="69" facs="adl/drachmann/drachmann08/drac08069" xml:id="idm139873598012560"/>
+          <pb n="70" facs="adl/drachmann/drachmann08/drac08070" xml:id="idm139873598011824"/>
+          <pb n="71" facs="adl/drachmann/drachmann08/drac08071" xml:id="idm139873598011088"/>
+          <pb n="72" facs="adl/drachmann/drachmann08/drac08072" xml:id="idm139873598010352"/>
+          <pb n="73" facs="adl/drachmann/drachmann08/drac08073" xml:id="idm139873598009616"/>
+          <pb n="74" facs="adl/drachmann/drachmann08/drac08074" xml:id="idm139873598008848"/>
+          <pb n="75" facs="adl/drachmann/drachmann08/drac08075" xml:id="idm139873598008032"/>
+          <pb n="76" facs="adl/drachmann/drachmann08/drac08076" xml:id="idm139873598007264"/>
+          <pb n="77" facs="adl/drachmann/drachmann08/drac08077" xml:id="idm139873598006496"/>
+          <pb n="78" facs="adl/drachmann/drachmann08/drac08078" xml:id="idm139873598005680"/>
+          <pb n="79" facs="adl/drachmann/drachmann08/drac08079" xml:id="idm139873598004912"/>
+          <pb n="80" facs="adl/drachmann/drachmann08/drac08080" xml:id="idm139873598004144"/>
+          <pb n="81" facs="adl/drachmann/drachmann08/drac08081" xml:id="idm139873598003376"/>
+          <pb n="82" facs="adl/drachmann/drachmann08/drac08082" xml:id="idm139873598002608"/>
+          <pb n="83" facs="adl/drachmann/drachmann08/drac08083" xml:id="idm139873598001840"/>
+          <pb n="84" facs="adl/drachmann/drachmann08/drac08084" xml:id="idm139873598001024"/>
+          <pb n="85" facs="adl/drachmann/drachmann08/drac08085" xml:id="idm139873598000256"/>
+          <pb n="86" facs="adl/drachmann/drachmann08/drac08086" xml:id="idm139873597999488"/>
+          <pb n="87" facs="adl/drachmann/drachmann08/drac08087" xml:id="idm139873597998720"/>
+          <pb n="88" facs="adl/drachmann/drachmann08/drac08088" xml:id="idm139873597997904"/>
+          <pb n="89" facs="adl/drachmann/drachmann08/drac08089" xml:id="idm139873597997136"/>
+          <pb n="90" facs="adl/drachmann/drachmann08/drac08090" xml:id="idm139873597996368"/>
+          <pb n="91" facs="adl/drachmann/drachmann08/drac08091" xml:id="idm139873597995600"/>
+          <pb n="92" facs="adl/drachmann/drachmann08/drac08092" xml:id="idm139873597994784"/>
+          <pb n="93" facs="adl/drachmann/drachmann08/drac08093" xml:id="idm139873597994016"/>
+          <pb n="94" facs="adl/drachmann/drachmann08/drac08094" xml:id="idm139873597993248"/>
+          <pb n="95" facs="adl/drachmann/drachmann08/drac08095" xml:id="idm139873597992432"/>
+          <pb n="96" facs="adl/drachmann/drachmann08/drac08096" xml:id="idm139873597991664"/>
+          <pb n="97" facs="adl/drachmann/drachmann08/drac08097" xml:id="idm139873597990896"/>
+          <pb n="98" facs="adl/drachmann/drachmann08/drac08098" xml:id="idm139873597990128"/>
+          <pb n="99" facs="adl/drachmann/drachmann08/drac08099" xml:id="idm139873597989360"/>
+          <pb n="100" facs="adl/drachmann/drachmann08/drac08100" xml:id="idm139873597988592"/>
+          <pb n="101" facs="adl/drachmann/drachmann08/drac08101" xml:id="idm139873597987824"/>
+          <pb n="102" facs="adl/drachmann/drachmann08/drac08102" xml:id="idm139873597987008"/>
+          <pb n="103" facs="adl/drachmann/drachmann08/drac08103" xml:id="idm139873597986240"/>
+          <pb n="104" facs="adl/drachmann/drachmann08/drac08104" xml:id="idm139873597985472"/>
+          <pb n="105" facs="adl/drachmann/drachmann08/drac08105" xml:id="idm139873597984656"/>
+          <pb n="106" facs="adl/drachmann/drachmann08/drac08106" xml:id="idm139873597983888"/>
+          <pb n="107" facs="adl/drachmann/drachmann08/drac08107" xml:id="idm139873597983120"/>
+          <pb n="108" facs="adl/drachmann/drachmann08/drac08108" xml:id="idm139873597982304"/>
+          <pb n="109" facs="adl/drachmann/drachmann08/drac08109" xml:id="idm139873597981488"/>
+          <pb n="110" facs="adl/drachmann/drachmann08/drac08110" xml:id="idm139873597980672"/>
+          <pb n="111" facs="adl/drachmann/drachmann08/drac08111" xml:id="idm139873597979904"/>
+          <pb n="112" facs="adl/drachmann/drachmann08/drac08112" xml:id="idm139873597979088"/>
+          <pb n="113" facs="adl/drachmann/drachmann08/drac08113" xml:id="idm139873597978320"/>
+          <pb n="114" facs="adl/drachmann/drachmann08/drac08114" xml:id="idm139873597977552"/>
+          <pb n="115" facs="adl/drachmann/drachmann08/drac08115" xml:id="idm139873597976784"/>
+          <pb n="116" facs="adl/drachmann/drachmann08/drac08116" xml:id="idm139873597975968"/>
+          <pb n="117" facs="adl/drachmann/drachmann08/drac08117" xml:id="idm139873597975200"/>
+          <pb n="118" facs="adl/drachmann/drachmann08/drac08118" xml:id="idm139873597974384"/>
+          <pb n="119" facs="adl/drachmann/drachmann08/drac08119" xml:id="idm139873597973616"/>
+          <pb n="120" facs="adl/drachmann/drachmann08/drac08120" xml:id="idm139873597972800"/>
+          <pb n="121" facs="adl/drachmann/drachmann08/drac08121" xml:id="idm139873597972032"/>
+          <pb n="122" facs="adl/drachmann/drachmann08/drac08122" xml:id="idm139873597971264"/>
+          <pb n="123" facs="adl/drachmann/drachmann08/drac08123" xml:id="idm139873597970496"/>
+          <pb n="124" facs="adl/drachmann/drachmann08/drac08124" xml:id="idm139873597969680"/>
+          <pb n="125" facs="adl/drachmann/drachmann08/drac08125" xml:id="idm139873597968912"/>
+          <pb n="126" facs="adl/drachmann/drachmann08/drac08126" xml:id="idm139873597968144"/>
+          <pb n="127" facs="adl/drachmann/drachmann08/drac08127" xml:id="idm139873597967376"/>
+          <pb n="128" facs="adl/drachmann/drachmann08/drac08128" xml:id="idm139873597966608"/>
+          <pb n="129" facs="adl/drachmann/drachmann08/drac08129" xml:id="idm139873597965840"/>
+          <pb n="130" facs="adl/drachmann/drachmann08/drac08130" xml:id="idm139873597965072"/>
+          <pb n="131" facs="adl/drachmann/drachmann08/drac08131" xml:id="idm139873597964304"/>
+          <pb n="132" facs="adl/drachmann/drachmann08/drac08132" xml:id="idm139873597963536"/>
+          <pb n="133" facs="adl/drachmann/drachmann08/drac08133" xml:id="idm139873597962768"/>
+          <pb n="134" facs="adl/drachmann/drachmann08/drac08134" xml:id="idm139873597962000"/>
+          <pb n="135" facs="adl/drachmann/drachmann08/drac08135" xml:id="idm139873597961232"/>
+          <pb n="136" facs="adl/drachmann/drachmann08/drac08136" xml:id="idm139873597960464"/>
+          <pb n="137" facs="adl/drachmann/drachmann08/drac08137" xml:id="idm139873597959648"/>
+          <pb n="138" facs="adl/drachmann/drachmann08/drac08138" xml:id="idm139873597958880"/>
+          <pb n="139" facs="adl/drachmann/drachmann08/drac08139" xml:id="idm139873597958112"/>
+          <pb n="140" facs="adl/drachmann/drachmann08/drac08140" xml:id="idm139873597957296"/>
+          <pb n="141" facs="adl/drachmann/drachmann08/drac08141" xml:id="idm139873597956528"/>
+          <pb n="142" facs="adl/drachmann/drachmann08/drac08142" xml:id="idm139873597955760"/>
+          <pb n="143" facs="adl/drachmann/drachmann08/drac08143" xml:id="idm139873597954992"/>
+          <pb n="144" facs="adl/drachmann/drachmann08/drac08144" xml:id="idm139873597954224"/>
+          <pb n="145" facs="adl/drachmann/drachmann08/drac08145" xml:id="idm139873597953456"/>
+          <pb n="146" facs="adl/drachmann/drachmann08/drac08146" xml:id="idm139873597952688"/>
+          <pb n="147" facs="adl/drachmann/drachmann08/drac08147" xml:id="idm139873597951872"/>
+          <pb n="148" facs="adl/drachmann/drachmann08/drac08148" xml:id="idm139873597951104"/>
+          <pb n="149" facs="adl/drachmann/drachmann08/drac08149" xml:id="idm139873597950336"/>
+          <pb n="150" facs="adl/drachmann/drachmann08/drac08150" xml:id="idm139873597949568"/>
+          <pb n="151" facs="adl/drachmann/drachmann08/drac08151" xml:id="idm139873597948752"/>
+          <pb n="152" facs="adl/drachmann/drachmann08/drac08152" xml:id="idm139873597947984"/>
+          <pb n="153" facs="adl/drachmann/drachmann08/drac08153" xml:id="idm139873597947216"/>
+          <pb n="154" facs="adl/drachmann/drachmann08/drac08154" xml:id="idm139873597946448"/>
+          <pb n="155" facs="adl/drachmann/drachmann08/drac08155" xml:id="idm139873597945632"/>
+          <pb n="156" facs="adl/drachmann/drachmann08/drac08156" xml:id="idm139873597944864"/>
+          <pb n="157" facs="adl/drachmann/drachmann08/drac08157" xml:id="idm139873597944096"/>
+          <pb n="158" facs="adl/drachmann/drachmann08/drac08158" xml:id="idm139873597943328"/>
+          <pb n="159" facs="adl/drachmann/drachmann08/drac08159" xml:id="idm139873597942560"/>
+          <pb n="160" facs="adl/drachmann/drachmann08/drac08160" xml:id="idm139873597941792"/>
+          <pb n="161" facs="adl/drachmann/drachmann08/drac08161" xml:id="idm139873597941024"/>
+          <pb n="162" facs="adl/drachmann/drachmann08/drac08162" xml:id="idm139873597940256"/>
+          <pb n="163" facs="adl/drachmann/drachmann08/drac08163" xml:id="idm139873597939488"/>
+          <pb n="164" facs="adl/drachmann/drachmann08/drac08164" xml:id="idm139873597938720"/>
+          <pb n="165" facs="adl/drachmann/drachmann08/drac08165" xml:id="idm139873597937952"/>
+          <pb n="166" facs="adl/drachmann/drachmann08/drac08166" xml:id="idm139873597937184"/>
+          <pb n="167" facs="adl/drachmann/drachmann08/drac08167" xml:id="idm139873597936368"/>
+          <pb n="168" facs="adl/drachmann/drachmann08/drac08168" xml:id="idm139873597935600"/>
+          <pb n="169" facs="adl/drachmann/drachmann08/drac08169" xml:id="idm139873597934832"/>
+          <pb n="170" facs="adl/drachmann/drachmann08/drac08170" xml:id="idm139873597934064"/>
+          <pb n="171" facs="adl/drachmann/drachmann08/drac08171" xml:id="idm139873597933296"/>
+          <pb n="172" facs="adl/drachmann/drachmann08/drac08172" xml:id="idm139873597932480"/>
+          <pb n="173" facs="adl/drachmann/drachmann08/drac08173" xml:id="idm139873597931712"/>
+          <pb n="174" facs="adl/drachmann/drachmann08/drac08174" xml:id="idm139873597930944"/>
+          <pb n="175" facs="adl/drachmann/drachmann08/drac08175" xml:id="idm139873597930176"/>
+          <pb n="176" facs="adl/drachmann/drachmann08/drac08176" xml:id="idm139873597929408"/>
+          <pb n="177" facs="adl/drachmann/drachmann08/drac08177" xml:id="idm139873597928640"/>
+          <pb n="178" facs="adl/drachmann/drachmann08/drac08178" xml:id="idm139873597927872"/>
+          <pb n="179" facs="adl/drachmann/drachmann08/drac08179" xml:id="idm139873597927104"/>
+          <pb n="180" facs="adl/drachmann/drachmann08/drac08180" xml:id="idm139873597926336"/>
+          <pb n="181" facs="adl/drachmann/drachmann08/drac08181" xml:id="idm139873597925520"/>
+          <pb n="182" facs="adl/drachmann/drachmann08/drac08182" xml:id="idm139873597924704"/>
+          <pb n="183" facs="adl/drachmann/drachmann08/drac08183" xml:id="idm139873597923936"/>
+          <pb n="184" facs="adl/drachmann/drachmann08/drac08184" xml:id="idm139873597923168"/>
+          <pb n="185" facs="adl/drachmann/drachmann08/drac08185" xml:id="idm139873597922352"/>
+          <pb n="186" facs="adl/drachmann/drachmann08/drac08186" xml:id="idm139873597921584"/>
+          <pb n="187" facs="adl/drachmann/drachmann08/drac08187" xml:id="idm139873597920816"/>
+          <pb n="188" facs="adl/drachmann/drachmann08/drac08188" xml:id="idm139873597920048"/>
+          <pb n="189" facs="adl/drachmann/drachmann08/drac08189" xml:id="idm139873597919232"/>
+          <pb n="190" facs="adl/drachmann/drachmann08/drac08190" xml:id="idm139873597918464"/>
+          <pb n="191" facs="adl/drachmann/drachmann08/drac08191" xml:id="idm139873597917648"/>
+          <pb n="192" facs="adl/drachmann/drachmann08/drac08192" xml:id="idm139873597916832"/>
+          <pb n="193" facs="adl/drachmann/drachmann08/drac08193" xml:id="idm139873597916016"/>
+          <pb n="194" facs="adl/drachmann/drachmann08/drac08194" xml:id="idm139873597915248"/>
+          <pb n="195" facs="adl/drachmann/drachmann08/drac08195" xml:id="idm139873597914432"/>
+          <pb n="196" facs="adl/drachmann/drachmann08/drac08196" xml:id="idm139873597913616"/>
+          <pb n="197" facs="adl/drachmann/drachmann08/drac08197" xml:id="idm139873597912848"/>
+          <pb n="198" facs="adl/drachmann/drachmann08/drac08198" xml:id="idm139873597912032"/>
+          <pb n="199" facs="adl/drachmann/drachmann08/drac08199" xml:id="idm139873597911264"/>
+          <pb n="200" facs="adl/drachmann/drachmann08/drac08200" xml:id="idm139873597910496"/>
+          <pb n="201" facs="adl/drachmann/drachmann08/drac08201" xml:id="idm139873597909728"/>
+          <pb n="202" facs="adl/drachmann/drachmann08/drac08202" xml:id="idm139873597908960"/>
+          <pb n="203" facs="adl/drachmann/drachmann08/drac08203" xml:id="idm139873597908192"/>
+          <pb n="204" facs="adl/drachmann/drachmann08/drac08204" xml:id="idm139873597907424"/>
+          <pb n="205" facs="adl/drachmann/drachmann08/drac08205" xml:id="idm139873597906656"/>
+          <pb n="206" facs="adl/drachmann/drachmann08/drac08206" xml:id="idm139873597905888"/>
+          <pb n="207" facs="adl/drachmann/drachmann08/drac08207" xml:id="idm139873597905120"/>
+          <pb n="208" facs="adl/drachmann/drachmann08/drac08208" xml:id="idm139873597904352"/>
+          <pb n="209" facs="adl/drachmann/drachmann08/drac08209" xml:id="idm139873597903584"/>
+          <pb n="210" facs="adl/drachmann/drachmann08/drac08210" xml:id="idm139873597902816"/>
+          <pb n="211" facs="adl/drachmann/drachmann08/drac08211" xml:id="idm139873597902048"/>
+          <pb n="212" facs="adl/drachmann/drachmann08/drac08212" xml:id="idm139873597901280"/>
+          <pb n="213" facs="adl/drachmann/drachmann08/drac08213" xml:id="idm139873597900512"/>
+          <pb n="214" facs="adl/drachmann/drachmann08/drac08214" xml:id="idm139873597899744"/>
+          <pb n="215" facs="adl/drachmann/drachmann08/drac08215" xml:id="idm139873597898976"/>
+          <pb n="216" facs="adl/drachmann/drachmann08/drac08216" xml:id="idm139873597898208"/>
+          <pb n="217" facs="adl/drachmann/drachmann08/drac08217" xml:id="idm139873597897440"/>
+          <pb n="218" facs="adl/drachmann/drachmann08/drac08218" xml:id="idm139873597896672"/>
+          <pb n="219" facs="adl/drachmann/drachmann08/drac08219" xml:id="idm139873597895904"/>
+          <pb n="220" facs="adl/drachmann/drachmann08/drac08220" xml:id="idm139873597895088"/>
+          <pb n="221" facs="adl/drachmann/drachmann08/drac08221" xml:id="idm139873597894320"/>
+          <pb n="222" facs="adl/drachmann/drachmann08/drac08222" xml:id="idm139873597893504"/>
+          <pb n="223" facs="adl/drachmann/drachmann08/drac08223" xml:id="idm139873597892688"/>
+          <pb n="224" facs="adl/drachmann/drachmann08/drac08224" xml:id="idm139873597891920"/>
+          <pb n="225" facs="adl/drachmann/drachmann08/drac08225" xml:id="idm139873597891152"/>
+          <pb n="226" facs="adl/drachmann/drachmann08/drac08226" xml:id="idm139873597890384"/>
+          <pb n="227" facs="adl/drachmann/drachmann08/drac08227" xml:id="idm139873597889616"/>
+          <pb n="228" facs="adl/drachmann/drachmann08/drac08228" xml:id="idm139873597888848"/>
+          <pb n="229" facs="adl/drachmann/drachmann08/drac08229" xml:id="idm139873597888032"/>
+          <pb n="230" facs="adl/drachmann/drachmann08/drac08230" xml:id="idm139873597887216"/>
+          <p xml:id="idm139873597886400"/>
+        </body>
+      </text>
+      <pb n="231" facs="adl/drachmann/drachmann08/drac08231" xml:id="idm139873597885888"/>
+      <text xml:id="workid55812" decls="#biblid55812">
+        <body xml:id="idm139873597884176">
+          <pb n="232" facs="adl/drachmann/drachmann08/drac08232" xml:id="idm139873597883920"/>
+          <pb n="233" facs="adl/drachmann/drachmann08/drac08233" xml:id="idm139873597883152"/>
+          <pb n="234" facs="adl/drachmann/drachmann08/drac08234" xml:id="idm139873597882336"/>
+          <pb n="235" facs="adl/drachmann/drachmann08/drac08235" xml:id="idm139873597881520"/>
+          <pb n="236" facs="adl/drachmann/drachmann08/drac08236" xml:id="idm139873597880704"/>
+          <pb n="237" facs="adl/drachmann/drachmann08/drac08237" xml:id="idm139873597879936"/>
+          <pb n="238" facs="adl/drachmann/drachmann08/drac08238" xml:id="idm139873597879120"/>
+          <pb n="239" facs="adl/drachmann/drachmann08/drac08239" xml:id="idm139873597878304"/>
+          <pb n="240" facs="adl/drachmann/drachmann08/drac08240" xml:id="idm139873597877488"/>
+          <pb n="241" facs="adl/drachmann/drachmann08/drac08241" xml:id="idm139873597876720"/>
+          <pb n="242" facs="adl/drachmann/drachmann08/drac08242" xml:id="idm139873597875952"/>
+          <pb n="243" facs="adl/drachmann/drachmann08/drac08243" xml:id="idm139873597875136"/>
+          <pb n="244" facs="adl/drachmann/drachmann08/drac08244" xml:id="idm139873597874368"/>
+          <pb n="245" facs="adl/drachmann/drachmann08/drac08245" xml:id="idm139873597873552"/>
+          <pb n="246" facs="adl/drachmann/drachmann08/drac08246" xml:id="idm139873597872784"/>
+          <pb n="247" facs="adl/drachmann/drachmann08/drac08247" xml:id="idm139873597871968"/>
+          <pb n="248" facs="adl/drachmann/drachmann08/drac08248" xml:id="idm139873597871152"/>
+          <pb n="249" facs="adl/drachmann/drachmann08/drac08249" xml:id="idm139873597870336"/>
+          <pb n="250" facs="adl/drachmann/drachmann08/drac08250" xml:id="idm139873597869568"/>
+          <pb n="251" facs="adl/drachmann/drachmann08/drac08251" xml:id="idm139873597868800"/>
+          <pb n="252" facs="adl/drachmann/drachmann08/drac08252" xml:id="idm139873597868032"/>
+          <pb n="253" facs="adl/drachmann/drachmann08/drac08253" xml:id="idm139873597867264"/>
+          <pb n="254" facs="adl/drachmann/drachmann08/drac08254" xml:id="idm139873597866448"/>
+          <pb n="255" facs="adl/drachmann/drachmann08/drac08255" xml:id="idm139873597865680"/>
+          <pb n="256" facs="adl/drachmann/drachmann08/drac08256" xml:id="idm139873597864912"/>
+          <pb n="257" facs="adl/drachmann/drachmann08/drac08257" xml:id="idm139873597864144"/>
+          <pb n="258" facs="adl/drachmann/drachmann08/drac08258" xml:id="idm139873597863376"/>
+          <pb n="259" facs="adl/drachmann/drachmann08/drac08259" xml:id="idm139873597862608"/>
+          <pb n="260" facs="adl/drachmann/drachmann08/drac08260" xml:id="idm139873597861840"/>
+          <pb n="261" facs="adl/drachmann/drachmann08/drac08261" xml:id="idm139873597861024"/>
+          <pb n="262" facs="adl/drachmann/drachmann08/drac08262" xml:id="idm139873597860208"/>
+          <pb n="263" facs="adl/drachmann/drachmann08/drac08263" xml:id="idm139873597859392"/>
+          <pb n="264" facs="adl/drachmann/drachmann08/drac08264" xml:id="idm139873597858576"/>
+          <p xml:id="idm139873597857760"/>
+        </body>
+      </text>
+      <pb n="265" facs="adl/drachmann/drachmann08/drac08265" xml:id="idm139873597857248"/>
+      <text xml:id="workid56043" decls="#biblid56043">
+        <body xml:id="idm139873597855584">
+          <pb n="266" facs="adl/drachmann/drachmann08/drac08266" xml:id="idm139873597855328"/>
+          <pb n="267" facs="adl/drachmann/drachmann08/drac08267" xml:id="idm139873597854560"/>
+          <pb n="268" facs="adl/drachmann/drachmann08/drac08268" xml:id="idm139873597853792"/>
+          <pb n="269" facs="adl/drachmann/drachmann08/drac08269" xml:id="idm139873597853024"/>
+          <pb n="270" facs="adl/drachmann/drachmann08/drac08270" xml:id="idm139873597852256"/>
+          <pb n="271" facs="adl/drachmann/drachmann08/drac08271" xml:id="idm139873597851440"/>
+          <pb n="272" facs="adl/drachmann/drachmann08/drac08272" xml:id="idm139873597850624"/>
+          <pb n="273" facs="adl/drachmann/drachmann08/drac08273" xml:id="idm139873597849856"/>
+          <pb n="274" facs="adl/drachmann/drachmann08/drac08274" xml:id="idm139873597849088"/>
+          <pb n="275" facs="adl/drachmann/drachmann08/drac08275" xml:id="idm139873597848320"/>
+          <pb n="276" facs="adl/drachmann/drachmann08/drac08276" xml:id="idm139873597847552"/>
+          <pb n="277" facs="adl/drachmann/drachmann08/drac08277" xml:id="idm139873597846784"/>
+          <pb n="278" facs="adl/drachmann/drachmann08/drac08278" xml:id="idm139873597845968"/>
+          <pb n="279" facs="adl/drachmann/drachmann08/drac08279" xml:id="idm139873597845200"/>
+          <pb n="280" facs="adl/drachmann/drachmann08/drac08280" xml:id="idm139873597844432"/>
+          <pb n="281" facs="adl/drachmann/drachmann08/drac08281" xml:id="idm139873597843664"/>
+          <pb n="282" facs="adl/drachmann/drachmann08/drac08282" xml:id="idm139873597842848"/>
+          <p xml:id="idm139873597842080"/>
+        </body>
+      </text>
+      <pb n="283" facs="adl/drachmann/drachmann08/drac08283" xml:id="idm139873597841568"/>
+      <text xml:id="workid56169" decls="#biblid56169">
+        <body xml:id="idm139873597839840">
+          <pb n="284" facs="adl/drachmann/drachmann08/drac08284" xml:id="idm139873597839584"/>
+          <pb n="285" facs="adl/drachmann/drachmann08/drac08285" xml:id="idm139873597838816"/>
+          <div xml:id="workid56187" decls="#biblid56187">
+            <pb n="286" facs="adl/drachmann/drachmann08/drac08286" xml:id="idm139873597837104"/>
+            <pb n="287" facs="adl/drachmann/drachmann08/drac08287" xml:id="idm139873597836336"/>
+            <pb n="288" facs="adl/drachmann/drachmann08/drac08288" xml:id="idm139873597835568"/>
+            <pb n="289" facs="adl/drachmann/drachmann08/drac08289" xml:id="idm139873597834800"/>
+            <pb n="290" facs="adl/drachmann/drachmann08/drac08290" xml:id="idm139873597834032"/>
+            <pb n="291" facs="adl/drachmann/drachmann08/drac08291" xml:id="idm139873597833216"/>
+            <pb n="292" facs="adl/drachmann/drachmann08/drac08292" xml:id="idm139873597832448"/>
+            <pb n="293" facs="adl/drachmann/drachmann08/drac08293" xml:id="idm139873597831680"/>
+            <pb n="294" facs="adl/drachmann/drachmann08/drac08294" xml:id="idm139873597830864"/>
+            <pb n="295" facs="adl/drachmann/drachmann08/drac08295" xml:id="idm139873597830048"/>
+            <pb n="296" facs="adl/drachmann/drachmann08/drac08296" xml:id="idm139873597829280"/>
+            <pb n="297" facs="adl/drachmann/drachmann08/drac08297" xml:id="idm139873597828512"/>
+            <pb n="298" facs="adl/drachmann/drachmann08/drac08298" xml:id="idm139873597827744"/>
+            <pb n="299" facs="adl/drachmann/drachmann08/drac08299" xml:id="idm139873597826928"/>
+            <pb n="300" facs="adl/drachmann/drachmann08/drac08300" xml:id="idm139873597826160"/>
+            <pb n="301" facs="adl/drachmann/drachmann08/drac08301" xml:id="idm139873597825392"/>
+            <pb n="302" facs="adl/drachmann/drachmann08/drac08302" xml:id="idm139873597824624"/>
+            <pb n="303" facs="adl/drachmann/drachmann08/drac08303" xml:id="idm139873597823856"/>
+            <pb n="304" facs="adl/drachmann/drachmann08/drac08304" xml:id="idm139873597823088"/>
+            <pb n="305" facs="adl/drachmann/drachmann08/drac08305" xml:id="idm139873597822320"/>
+            <pb n="306" facs="adl/drachmann/drachmann08/drac08306" xml:id="idm139873597821504"/>
+            <pb n="307" facs="adl/drachmann/drachmann08/drac08307" xml:id="idm139873597820688"/>
+            <pb n="308" facs="adl/drachmann/drachmann08/drac08308" xml:id="idm139873597819920"/>
+            <pb n="309" facs="adl/drachmann/drachmann08/drac08309" xml:id="idm139873597819152"/>
+            <pb n="310" facs="adl/drachmann/drachmann08/drac08310" xml:id="idm139873597818384"/>
+            <pb n="311" facs="adl/drachmann/drachmann08/drac08311" xml:id="idm139873597817616"/>
+            <pb n="312" facs="adl/drachmann/drachmann08/drac08312" xml:id="idm139873597816848"/>
+            <pb n="313" facs="adl/drachmann/drachmann08/drac08313" xml:id="idm139873597816080"/>
+            <pb n="314" facs="adl/drachmann/drachmann08/drac08314" xml:id="idm139873597815264"/>
+            <pb n="315" facs="adl/drachmann/drachmann08/drac08315" xml:id="idm139873597814448"/>
+            <pb n="316" facs="adl/drachmann/drachmann08/drac08316" xml:id="idm139873597813680"/>
+            <pb n="317" facs="adl/drachmann/drachmann08/drac08317" xml:id="idm139873597812912"/>
+            <pb n="318" facs="adl/drachmann/drachmann08/drac08318" xml:id="idm139873597812144"/>
+            <pb n="319" facs="adl/drachmann/drachmann08/drac08319" xml:id="idm139873597811328"/>
+            <pb n="320" facs="adl/drachmann/drachmann08/drac08320" xml:id="idm139873597810560"/>
+            <pb n="321" facs="adl/drachmann/drachmann08/drac08321" xml:id="idm139873597809792"/>
+            <pb n="322" facs="adl/drachmann/drachmann08/drac08322" xml:id="idm139873597808976"/>
+            <p xml:id="idm139873597808160"/>
+          </div>
+          <pb n="323" facs="adl/drachmann/drachmann08/drac08323" xml:id="idm139873597807776"/>
+          <div xml:id="workid56441" decls="#biblid56441">
+            <pb n="324" facs="adl/drachmann/drachmann08/drac08324" xml:id="idm139873597806000"/>
+            <pb n="325" facs="adl/drachmann/drachmann08/drac08325" xml:id="idm139873597805232"/>
+            <pb n="326" facs="adl/drachmann/drachmann08/drac08326" xml:id="idm139873597804464"/>
+            <pb n="327" facs="adl/drachmann/drachmann08/drac08327" xml:id="idm139873597803696"/>
+            <pb n="328" facs="adl/drachmann/drachmann08/drac08328" xml:id="idm139873597802880"/>
+            <pb n="329" facs="adl/drachmann/drachmann08/drac08329" xml:id="idm139873597802112"/>
+            <pb n="330" facs="adl/drachmann/drachmann08/drac08330" xml:id="idm139873597801344"/>
+            <pb n="331" facs="adl/drachmann/drachmann08/drac08331" xml:id="idm139873597800576"/>
+            <pb n="332" facs="adl/drachmann/drachmann08/drac08332" xml:id="idm139873597799760"/>
+            <pb n="333" facs="adl/drachmann/drachmann08/drac08333" xml:id="idm139873597798992"/>
+            <pb n="334" facs="adl/drachmann/drachmann08/drac08334" xml:id="idm139873597798176"/>
+            <pb n="335" facs="adl/drachmann/drachmann08/drac08335" xml:id="idm139873597797408"/>
+            <pb n="336" facs="adl/drachmann/drachmann08/drac08336" xml:id="idm139873597796592"/>
+            <pb n="337" facs="adl/drachmann/drachmann08/drac08337" xml:id="idm139873597795824"/>
+            <pb n="338" facs="adl/drachmann/drachmann08/drac08338" xml:id="idm139873597795056"/>
+            <pb n="339" facs="adl/drachmann/drachmann08/drac08339" xml:id="idm139873597794288"/>
+            <pb n="340" facs="adl/drachmann/drachmann08/drac08340" xml:id="idm139873597793520"/>
+            <pb n="341" facs="adl/drachmann/drachmann08/drac08341" xml:id="idm139873597792752"/>
+            <pb n="342" facs="adl/drachmann/drachmann08/drac08342" xml:id="idm139873597791984"/>
+            <pb n="343" facs="adl/drachmann/drachmann08/drac08343" xml:id="idm139873597791168"/>
+            <pb n="344" facs="adl/drachmann/drachmann08/drac08344" xml:id="idm139873597790352"/>
+            <pb n="345" facs="adl/drachmann/drachmann08/drac08345" xml:id="idm139873597789536"/>
+            <pb n="346" facs="adl/drachmann/drachmann08/drac08346" xml:id="idm139873597788768"/>
+            <pb n="347" facs="adl/drachmann/drachmann08/drac08347" xml:id="idm139873597788000"/>
+            <pb n="348" facs="adl/drachmann/drachmann08/drac08348" xml:id="idm139873597787184"/>
+            <pb n="349" facs="adl/drachmann/drachmann08/drac08349" xml:id="idm139873597786368"/>
+            <pb n="350" facs="adl/drachmann/drachmann08/drac08350" xml:id="idm139873597785600"/>
+            <pb n="351" facs="adl/drachmann/drachmann08/drac08351" xml:id="idm139873597784832"/>
+            <pb n="352" facs="adl/drachmann/drachmann08/drac08352" xml:id="idm139873597784064"/>
+            <pb n="353" facs="adl/drachmann/drachmann08/drac08353" xml:id="idm139873597783296"/>
+            <pb n="354" facs="adl/drachmann/drachmann08/drac08354" xml:id="idm139873597782480"/>
+            <pb n="355" facs="adl/drachmann/drachmann08/drac08355" xml:id="idm139873597781664"/>
+            <pb n="356" facs="adl/drachmann/drachmann08/drac08356" xml:id="idm139873597780848"/>
+            <pb n="357" facs="adl/drachmann/drachmann08/drac08357" xml:id="idm139873597780032"/>
+            <pb n="358" facs="adl/drachmann/drachmann08/drac08358" xml:id="idm139873597779216"/>
+            <pb n="359" facs="adl/drachmann/drachmann08/drac08359" xml:id="idm139873597778448"/>
+            <pb n="360" facs="adl/drachmann/drachmann08/drac08360" xml:id="idm139873597777680"/>
+            <pb n="361" facs="adl/drachmann/drachmann08/drac08361" xml:id="idm139873597776864"/>
+            <pb n="362" facs="adl/drachmann/drachmann08/drac08362" xml:id="idm139873597776096"/>
+            <pb n="363" facs="adl/drachmann/drachmann08/drac08363" xml:id="idm139873597775280"/>
+            <pb n="364" facs="adl/drachmann/drachmann08/drac08364" xml:id="idm139873597774512"/>
+            <pb n="365" facs="adl/drachmann/drachmann08/drac08365" xml:id="idm139873597773696"/>
+            <pb n="366" facs="adl/drachmann/drachmann08/drac08366" xml:id="idm139873597772880"/>
+            <pb n="367" facs="adl/drachmann/drachmann08/drac08367" xml:id="idm139873597772112"/>
+            <pb n="368" facs="adl/drachmann/drachmann08/drac08368" xml:id="idm139873597771296"/>
+            <pb n="369" facs="adl/drachmann/drachmann08/drac08369" xml:id="idm139873597770528"/>
+            <pb n="370" facs="adl/drachmann/drachmann08/drac08370" xml:id="idm139873597769712"/>
+            <pb n="371" facs="adl/drachmann/drachmann08/drac08371" xml:id="idm139873597768944"/>
+            <pb n="372" facs="adl/drachmann/drachmann08/drac08372" xml:id="idm139873597768176"/>
+            <pb n="373" facs="adl/drachmann/drachmann08/drac08373" xml:id="idm139873597767408"/>
+            <pb n="374" facs="adl/drachmann/drachmann08/drac08374" xml:id="idm139873597766640"/>
+            <pb n="375" facs="adl/drachmann/drachmann08/drac08375" xml:id="idm139873597765872"/>
+            <pb n="376" facs="adl/drachmann/drachmann08/drac08376" xml:id="idm139873597765104"/>
+            <pb n="377" facs="adl/drachmann/drachmann08/drac08377" xml:id="idm139873597764288"/>
+            <pb n="378" facs="adl/drachmann/drachmann08/drac08378" xml:id="idm139873597763520"/>
+            <pb n="379" facs="adl/drachmann/drachmann08/drac08379" xml:id="idm139873597762704"/>
+            <pb n="380" facs="adl/drachmann/drachmann08/drac08380" xml:id="idm139873597761936"/>
+            <pb n="381" facs="adl/drachmann/drachmann08/drac08381" xml:id="idm139873597761120"/>
+            <pb n="382" facs="adl/drachmann/drachmann08/drac08382" xml:id="idm139873597760304"/>
+            <pb n="383" facs="adl/drachmann/drachmann08/drac08383" xml:id="idm139873597759488"/>
+            <pb n="384" facs="adl/drachmann/drachmann08/drac08384" xml:id="idm139873597758720"/>
+            <pb n="385" facs="adl/drachmann/drachmann08/drac08385" xml:id="idm139873597757952"/>
+            <pb n="386" facs="adl/drachmann/drachmann08/drac08386" xml:id="idm139873597757136"/>
+            <p xml:id="idm139873597756320"/>
+          </div>
+        </body>
+      </text>
+      <pb n="387" facs="adl/drachmann/drachmann08/drac08387" xml:id="idm139873597755680"/>
+      <text xml:id="workid56868" decls="#biblid56868">
+        <body xml:id="idm139873597754016">
+          <pb n="388" facs="adl/drachmann/drachmann08/drac08388" xml:id="idm139873597753760"/>
+          <pb n="389" facs="adl/drachmann/drachmann08/drac08389" xml:id="idm139873597752992"/>
+          <pb n="390" facs="adl/drachmann/drachmann08/drac08390" xml:id="idm139873597752176"/>
+          <pb n="391" facs="adl/drachmann/drachmann08/drac08391" xml:id="idm139873597751360"/>
+          <pb n="392" facs="adl/drachmann/drachmann08/drac08392" xml:id="idm139873597750592"/>
+          <pb n="393" facs="adl/drachmann/drachmann08/drac08393" xml:id="idm139873597749824"/>
+          <pb n="394" facs="adl/drachmann/drachmann08/drac08394" xml:id="idm139873597749008"/>
+          <pb n="395" facs="adl/drachmann/drachmann08/drac08395" xml:id="idm139873597748192"/>
+          <pb n="396" facs="adl/drachmann/drachmann08/drac08396" xml:id="idm139873597747376"/>
+          <pb n="397" facs="adl/drachmann/drachmann08/drac08397" xml:id="idm139873597746560"/>
+          <pb n="398" facs="adl/drachmann/drachmann08/drac08398" xml:id="idm139873597745792"/>
+          <pb n="399" facs="adl/drachmann/drachmann08/drac08399" xml:id="idm139873597745024"/>
+          <pb n="400" facs="adl/drachmann/drachmann08/drac08400" xml:id="idm139873597744208"/>
+          <pb n="401" facs="adl/drachmann/drachmann08/drac08401" xml:id="idm139873597743440"/>
+          <pb n="402" facs="adl/drachmann/drachmann08/drac08402" xml:id="idm139873597742672"/>
+          <pb n="403" facs="adl/drachmann/drachmann08/drac08403" xml:id="idm139873597741904"/>
+          <pb n="404" facs="adl/drachmann/drachmann08/drac08404" xml:id="idm139873597741088"/>
+          <pb n="405" facs="adl/drachmann/drachmann08/drac08405" xml:id="idm139873597740320"/>
+          <pb n="406" facs="adl/drachmann/drachmann08/drac08406" xml:id="idm139873597739504"/>
+          <pb n="407" facs="adl/drachmann/drachmann08/drac08407" xml:id="idm139873597738736"/>
+          <pb n="408" facs="adl/drachmann/drachmann08/drac08408" xml:id="idm139873597737968"/>
+          <pb n="409" facs="adl/drachmann/drachmann08/drac08409" xml:id="idm139873597737200"/>
+          <pb n="410" facs="adl/drachmann/drachmann08/drac08410" xml:id="idm139873597736432"/>
+          <pb n="411" facs="adl/drachmann/drachmann08/drac08411" xml:id="idm139873597735664"/>
+          <pb n="412" facs="adl/drachmann/drachmann08/drac08412" xml:id="idm139873597734896"/>
+          <pb n="413" facs="adl/drachmann/drachmann08/drac08413" xml:id="idm139873597734128"/>
+          <pb n="414" facs="adl/drachmann/drachmann08/drac08414" xml:id="idm139873597733312"/>
+          <pb n="415" facs="adl/drachmann/drachmann08/drac08415" xml:id="idm139873597732544"/>
+          <pb n="416" facs="adl/drachmann/drachmann08/drac08416" xml:id="idm139873597731776"/>
+          <pb n="417" facs="adl/drachmann/drachmann08/drac08417" xml:id="idm139873597730960"/>
+          <pb n="418" facs="adl/drachmann/drachmann08/drac08418" xml:id="idm139873597730192"/>
+          <pb n="419" facs="adl/drachmann/drachmann08/drac08419" xml:id="idm139873597729376"/>
+          <pb n="420" facs="adl/drachmann/drachmann08/drac08420" xml:id="idm139873597728560"/>
+          <pb n="421" facs="adl/drachmann/drachmann08/drac08421" xml:id="idm139873597727792"/>
+          <pb n="422" facs="adl/drachmann/drachmann08/drac08422" xml:id="idm139873597727024"/>
+          <pb n="423" facs="adl/drachmann/drachmann08/drac08423" xml:id="idm139873597726256"/>
+          <pb n="424" facs="adl/drachmann/drachmann08/drac08424" xml:id="idm139873597725488"/>
+          <pb n="425" facs="adl/drachmann/drachmann08/drac08425" xml:id="idm139873597724720"/>
+          <pb n="426" facs="adl/drachmann/drachmann08/drac08426" xml:id="idm139873597723904"/>
+          <pb n="427" facs="adl/drachmann/drachmann08/drac08427" xml:id="idm139873597723088"/>
+          <pb n="428" facs="adl/drachmann/drachmann08/drac08428" xml:id="idm139873597722272"/>
+          <pb n="429" facs="adl/drachmann/drachmann08/drac08429" xml:id="idm139873597721504"/>
+          <pb n="430" facs="adl/drachmann/drachmann08/drac08430" xml:id="idm139873597720688"/>
+          <pb n="431" facs="adl/drachmann/drachmann08/drac08431" xml:id="idm139873597719872"/>
+          <pb n="432" facs="adl/drachmann/drachmann08/drac08432" xml:id="idm139873597719104"/>
+          <pb n="433" facs="adl/drachmann/drachmann08/drac08433" xml:id="idm139873597718288"/>
+          <pb n="434" facs="adl/drachmann/drachmann08/drac08434" xml:id="idm139873597717520"/>
+          <pb n="435" facs="adl/drachmann/drachmann08/drac08435" xml:id="idm139873597716752"/>
+          <pb n="436" facs="adl/drachmann/drachmann08/drac08436" xml:id="idm139873597715936"/>
+          <pb n="437" facs="adl/drachmann/drachmann08/drac08437" xml:id="idm139873597715168"/>
+          <pb n="438" facs="adl/drachmann/drachmann08/drac08438" xml:id="idm139873597714352"/>
+          <pb n="439" facs="adl/drachmann/drachmann08/drac08439" xml:id="idm139873597713536"/>
+          <pb n="440" facs="adl/drachmann/drachmann08/drac08440" xml:id="idm139873597712720"/>
+          <pb n="441" facs="adl/drachmann/drachmann08/drac08441" xml:id="idm139873597711952"/>
+          <pb n="442" facs="adl/drachmann/drachmann08/drac08442" xml:id="idm139873597711184"/>
+          <pb n="443" facs="adl/drachmann/drachmann08/drac08443" xml:id="idm139873597710368"/>
+          <pb n="444" facs="adl/drachmann/drachmann08/drac08444" xml:id="idm139873597709552"/>
+          <pb n="445" facs="adl/drachmann/drachmann08/drac08445" xml:id="idm139873597708736"/>
+          <pb n="446" facs="adl/drachmann/drachmann08/drac08446" xml:id="idm139873597707920"/>
+          <pb n="447" facs="adl/drachmann/drachmann08/drac08447" xml:id="idm139873597707104"/>
+          <pb n="448" facs="adl/drachmann/drachmann08/drac08448" xml:id="idm139873597706336"/>
+          <pb n="449" facs="adl/drachmann/drachmann08/drac08449" xml:id="idm139873597705568"/>
+          <pb n="450" facs="adl/drachmann/drachmann08/drac08450" xml:id="idm139873597704752"/>
+          <pb n="451" facs="adl/drachmann/drachmann08/drac08451" xml:id="idm139873597703936"/>
+          <pb n="452" facs="adl/drachmann/drachmann08/drac08452" xml:id="idm139873597703168"/>
+          <pb n="453" facs="adl/drachmann/drachmann08/drac08453" xml:id="idm139873597702352"/>
+          <pb n="454" facs="adl/drachmann/drachmann08/drac08454" xml:id="idm139873597701584"/>
+          <p xml:id="idm139873597700816"/>
+        </body>
+      </text>
+      <pb n="455" facs="adl/drachmann/drachmann08/drac08455" xml:id="idm139873597700304"/>
+      <text xml:id="workid57323" decls="#biblid57323">
+        <body xml:id="idm139873597698640">
+          <pb n="456" facs="adl/drachmann/drachmann08/drac08456" xml:id="idm139873597698384"/>
+          <pb n="457" facs="adl/drachmann/drachmann08/drac08457" xml:id="idm139873597697616"/>
+          <pb n="458" facs="adl/drachmann/drachmann08/drac08458" xml:id="idm139873597696800"/>
+          <pb n="459" facs="adl/drachmann/drachmann08/drac08459" xml:id="idm139873597696032"/>
+          <div xml:id="idm139873597695264">
+            <div xml:id="workid57356" decls="#biblid57356">
+              <p xml:id="idm139873597694064"/>
+            </div>
+            <pb n="460" facs="adl/drachmann/drachmann08/drac08460" xml:id="idm139873597693680"/>
+            <div xml:id="workid57368" decls="#biblid57368">
+              <p xml:id="idm139873597691952"/>
+            </div>
+            <div xml:id="workid57374" decls="#biblid57374">
+              <p xml:id="idm139873597690672"/>
+            </div>
+            <pb n="461" facs="adl/drachmann/drachmann08/drac08461" xml:id="idm139873597690288"/>
+            <div xml:id="workid57386" decls="#biblid57386">
+              <pb n="462" facs="adl/drachmann/drachmann08/drac08462" xml:id="idm139873597688528"/>
+              <p xml:id="idm139873597687760"/>
+            </div>
+            <pb n="463" facs="adl/drachmann/drachmann08/drac08463" xml:id="idm139873597687376"/>
+            <div xml:id="workid57404" decls="#biblid57404">
+              <p xml:id="idm139873597685616"/>
+            </div>
+            <pb n="464" facs="adl/drachmann/drachmann08/drac08464" xml:id="idm139873597685232"/>
+            <div xml:id="workid57417" decls="#biblid57417">
+              <pb n="465" facs="adl/drachmann/drachmann08/drac08465" xml:id="idm139873597683568"/>
+              <p xml:id="idm139873597682752"/>
+            </div>
+            <pb n="466" facs="adl/drachmann/drachmann08/drac08466" xml:id="idm139873597682368"/>
+            <div xml:id="workid57435" decls="#biblid57435">
+              <p xml:id="idm139873597680608"/>
+            </div>
+            <pb n="467" facs="adl/drachmann/drachmann08/drac08467" xml:id="idm139873597680224"/>
+            <div xml:id="workid57447" decls="#biblid57447">
+              <p xml:id="idm139873597678400"/>
+            </div>
+            <pb n="468" facs="adl/drachmann/drachmann08/drac08468" xml:id="idm139873597678016"/>
+            <div xml:id="workid57459" decls="#biblid57459">
+              <p xml:id="idm139873597676304"/>
+            </div>
+            <pb n="469" facs="adl/drachmann/drachmann08/drac08469" xml:id="idm139873597675920"/>
+            <div xml:id="workid57471" decls="#biblid57471">
+              <p xml:id="idm139873597674256"/>
+            </div>
+            <pb n="470" facs="adl/drachmann/drachmann08/drac08470" xml:id="idm139873597673872"/>
+            <div xml:id="workid57482" decls="#biblid57482">
+              <p xml:id="idm139873597672160"/>
+            </div>
+          </div>
+          <pb n="471" facs="adl/drachmann/drachmann08/drac08471" xml:id="idm139873597671648"/>
+          <div xml:id="workid57495" decls="#biblid57495">
+            <div xml:id="workid57497" decls="#biblid57497">
+              <p xml:id="idm139873597668992"/>
+            </div>
+            <pb n="472" facs="adl/drachmann/drachmann08/drac08472" xml:id="idm139873597668608"/>
+            <div xml:id="workid57509" decls="#biblid57509">
+              <pb n="473" facs="adl/drachmann/drachmann08/drac08473" xml:id="idm139873597666896"/>
+              <p xml:id="idm139873597666128"/>
+            </div>
+            <pb n="474" facs="adl/drachmann/drachmann08/drac08474" xml:id="idm139873597665744"/>
+            <div xml:id="workid57528" decls="#biblid57528">
+              <pb n="475" facs="adl/drachmann/drachmann08/drac08475" xml:id="idm139873597664032"/>
+              <p xml:id="idm139873597663264"/>
+            </div>
+            <pb n="476" facs="adl/drachmann/drachmann08/drac08476" xml:id="idm139873597662880"/>
+            <div xml:id="workid57546" decls="#biblid57546">
+              <pb n="477" facs="adl/drachmann/drachmann08/drac08477" xml:id="idm139873597661056"/>
+              <p xml:id="idm139873597660240"/>
+            </div>
+            <pb n="478" facs="adl/drachmann/drachmann08/drac08478" xml:id="idm139873597659856"/>
+            <div xml:id="workid57565" decls="#biblid57565">
+              <pb n="479" facs="adl/drachmann/drachmann08/drac08479" xml:id="idm139873597658144"/>
+              <pb n="480" facs="adl/drachmann/drachmann08/drac08480" xml:id="idm139873597657328"/>
+              <pb n="481" facs="adl/drachmann/drachmann08/drac08481" xml:id="idm139873597656512"/>
+              <pb n="482" facs="adl/drachmann/drachmann08/drac08482" xml:id="idm139873597655696"/>
+              <pb n="483" facs="adl/drachmann/drachmann08/drac08483" xml:id="idm139873597654928"/>
+              <p xml:id="idm139873597654112"/>
+            </div>
+            <pb n="484" facs="adl/drachmann/drachmann08/drac08484" xml:id="idm139873597653728"/>
+            <div xml:id="workid57610" decls="#biblid57610">
+              <pb n="485" facs="adl/drachmann/drachmann08/drac08485" xml:id="idm139873597652000"/>
+              <pb n="486" facs="adl/drachmann/drachmann08/drac08486" xml:id="idm139873597651184"/>
+              <pb n="487" facs="adl/drachmann/drachmann08/drac08487" xml:id="idm139873597650416"/>
+              <pb n="488" facs="adl/drachmann/drachmann08/drac08488" xml:id="idm139873597649600"/>
+              <p xml:id="idm139873597648784"/>
+            </div>
+            <pb n="489" facs="adl/drachmann/drachmann08/drac08489" xml:id="idm139873597648400"/>
+            <div xml:id="workid57649" decls="#biblid57649">
+              <p xml:id="idm139873597646640"/>
+            </div>
+            <pb n="490" facs="adl/drachmann/drachmann08/drac08490" xml:id="idm139873597646256"/>
+            <div xml:id="workid57660" decls="#biblid57660">
+              <pb n="491" facs="adl/drachmann/drachmann08/drac08491" xml:id="idm139873597644432"/>
+              <p xml:id="idm139873597643616"/>
+            </div>
+          </div>
+          <pb n="492" facs="adl/drachmann/drachmann08/drac08492" xml:id="idm139873597643104"/>
+          <div xml:id="workid57680" decls="#biblid57680">
+            <pb n="493" facs="adl/drachmann/drachmann08/drac08493" xml:id="idm139873597641392"/>
+            <div xml:id="workid57688" decls="#biblid57688">
+              <pb n="494" facs="adl/drachmann/drachmann08/drac08494" xml:id="idm139873597639680"/>
+              <pb n="495" facs="adl/drachmann/drachmann08/drac08495" xml:id="idm139873597638864"/>
+              <pb n="496" facs="adl/drachmann/drachmann08/drac08496" xml:id="idm139873597638048"/>
+              <pb n="497" facs="adl/drachmann/drachmann08/drac08497" xml:id="idm139873597637232"/>
+              <pb n="498" facs="adl/drachmann/drachmann08/drac08498" xml:id="idm139873597636416"/>
+              <pb n="499" facs="adl/drachmann/drachmann08/drac08499" xml:id="idm139873597635648"/>
+              <p xml:id="idm139873597634832"/>
+            </div>
+            <pb n="500" facs="adl/drachmann/drachmann08/drac08500" xml:id="idm139873597634448"/>
+            <div xml:id="workid57740" decls="#biblid57740">
+              <pb n="501" facs="adl/drachmann/drachmann08/drac08501" xml:id="idm139873597632736"/>
+              <pb n="502" facs="adl/drachmann/drachmann08/drac08502" xml:id="idm139873597631920"/>
+              <pb n="503" facs="adl/drachmann/drachmann08/drac08503" xml:id="idm139873597631152"/>
+              <pb n="504" facs="adl/drachmann/drachmann08/drac08504" xml:id="idm139873597630384"/>
+              <pb n="505" facs="adl/drachmann/drachmann08/drac08505" xml:id="idm139873597629616"/>
+              <pb n="506" facs="adl/drachmann/drachmann08/drac08506" xml:id="idm139873597628848"/>
+              <pb n="507" facs="adl/drachmann/drachmann08/drac08507" xml:id="idm139873597628032"/>
+              <pb n="508" facs="adl/drachmann/drachmann08/drac08508" xml:id="idm139873597627264"/>
+              <pb n="509" facs="adl/drachmann/drachmann08/drac08509" xml:id="idm139873597626448"/>
+              <p xml:id="idm139873597625632"/>
+            </div>
+            <pb n="510" facs="adl/drachmann/drachmann08/drac08510" xml:id="idm139873597625248"/>
+            <div xml:id="workid57812" decls="#biblid57812">
+              <pb n="511" facs="adl/drachmann/drachmann08/drac08511" xml:id="idm139873597623584"/>
+              <pb n="512" facs="adl/drachmann/drachmann08/drac08512" xml:id="idm139873597622768"/>
+              <pb n="513" facs="adl/drachmann/drachmann08/drac08513" xml:id="idm139873597621952"/>
+              <pb n="514" facs="adl/drachmann/drachmann08/drac08514" xml:id="idm139873597621136"/>
+              <pb n="515" facs="adl/drachmann/drachmann08/drac08515" xml:id="idm139873597620368"/>
+              <pb n="516" facs="adl/drachmann/drachmann08/drac08516" xml:id="idm139873597619552"/>
+              <pb n="517" facs="adl/drachmann/drachmann08/drac08517" xml:id="idm139873597618736"/>
+              <pb n="518" facs="adl/drachmann/drachmann08/drac08518" xml:id="idm139873597617920"/>
+              <pb n="519" facs="adl/drachmann/drachmann08/drac08519" xml:id="idm139873597617104"/>
+              <pb n="520" facs="adl/drachmann/drachmann08/drac08520" xml:id="idm139873597616336"/>
+              <pb n="521" facs="adl/drachmann/drachmann08/drac08521" xml:id="idm139873597615568"/>
+              <pb n="522" facs="adl/drachmann/drachmann08/drac08522" xml:id="idm139873597614752"/>
+              <pb n="523" facs="adl/drachmann/drachmann08/drac08523" xml:id="idm139873597613984"/>
+              <p xml:id="idm139873597613216"/>
+            </div>
+          </div>
+          <pb n="524" facs="adl/drachmann/drachmann08/drac08524" xml:id="idm139873597612704"/>
+          <div xml:id="workid57912" decls="#biblid57912">
+            <div xml:id="workid57914" decls="#biblid57914">
+              <p xml:id="idm139873597609936"/>
+            </div>
+            <pb n="525" facs="adl/drachmann/drachmann08/drac08525" xml:id="idm139873597609552"/>
+            <div xml:id="workid57925" decls="#biblid57925">
+              <p xml:id="idm139873597607792"/>
+            </div>
+            <pb n="526" facs="adl/drachmann/drachmann08/drac08526" xml:id="idm139873597607408"/>
+            <div xml:id="workid57938" decls="#biblid57938">
+              <p xml:id="idm139873597605696"/>
+            </div>
+            <pb n="527" facs="adl/drachmann/drachmann08/drac08527" xml:id="idm139873597605312"/>
+            <div xml:id="workid57950" decls="#biblid57950">
+              <pb n="528" facs="adl/drachmann/drachmann08/drac08528" xml:id="idm139873597603552"/>
+              <p xml:id="idm139873597602784"/>
+            </div>
+            <pb n="529" facs="adl/drachmann/drachmann08/drac08529" xml:id="idm139873597602400"/>
+            <div xml:id="workid57968" decls="#biblid57968">
+              <p xml:id="idm139873597600688"/>
+            </div>
+            <div xml:id="workid57973" decls="#biblid57973">
+              <p xml:id="idm139873597599408"/>
+            </div>
+            <pb n="530" facs="adl/drachmann/drachmann08/drac08530" xml:id="idm139873597599024"/>
+            <div xml:id="workid57985" decls="#biblid57985">
+              <p xml:id="idm139873597597248"/>
+            </div>
+            <pb n="531" facs="adl/drachmann/drachmann08/drac08531" xml:id="idm139873597596864"/>
+            <div xml:id="workid57997" decls="#biblid57997">
+              <p xml:id="idm139873597595152"/>
+            </div>
+            <pb n="532" facs="adl/drachmann/drachmann08/drac08532" xml:id="idm139873597594768"/>
+            <div xml:id="workid58010" decls="#biblid58010">
+              <p xml:id="idm139873597593008"/>
+            </div>
+          </div>
+        </body>
+      </text>
+      <pb n="533" facs="adl/drachmann/drachmann08/drac08533" xml:id="idm139873597592240"/>
+      <text xml:id="workid58025" decls="#biblid58025">
+        <body xml:id="idm139873597590464">
+          <pb n="534" facs="adl/drachmann/drachmann08/drac08534" xml:id="idm139873597590208"/>
+          <p xml:id="idm139873597589392"/>
+        </body>
+      </text>
+    </group>
+    <back xml:id="idm139873597588704">
+      <pb n="535" facs="adl/drachmann/drachmann08/drac08535" xml:id="idm139873597588448"/>
+      <pb n="536" facs="adl/drachmann/drachmann08/drac08536" xml:id="idm139873597587632"/>
+    </back>
+  </text>
+</TEI>

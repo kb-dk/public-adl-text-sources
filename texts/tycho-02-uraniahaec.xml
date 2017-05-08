@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- 
+
+Tycho Brahe-oversættelser fra Peter Zeeberg - konverteret fra Wordfil
+
+-->
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="idm139816228911872">
+  <teiHeader xml:id="idm139816228919920">
+    <fileDesc xml:id="idm139816228919664">
+      <titleStmt xml:id="idm139816228919360">
+        <title xml:id="idm139816228919056">Indskrift: "Urania hæc ..." fra Stjerneborg</title>
+        <respStmt xml:id="idm139816228893376">
+          <resp xml:id="idm139816228893120">Oversat fra latin til engelsk af Peter Zeeberg</resp>
+          <name xml:id="idm139816228892736"/>
+        </respStmt>
+        <author xml:id="idm139816228892352">Tycho Brahe</author>
+      </titleStmt>
+      <publicationStmt xml:id="idm139816228891792">
+
+        <publisher xml:id="idm139816228891536">Engelsk oversættelse v. Peter Zeeberg fra M. Skafte Jensen. A History of Nordic Neo-Latin Literature., Odense 1995, s. 258.</publisher>
+	<idno xml:id="idm139816228890880" xml:base="texts/tycho-02-uraniahaec.xml">000000000:02</idno>        
+	
+      </publicationStmt>
+      <notesStmt xml:id="idm139816228890208">
+        <note xml:id="idm139816228889904">
+	  </note>
+      </notesStmt>
+      <sourceDesc xml:id="idm139816228889392">
+        <bibl xml:id="idm139816228889136">MSWord-fil fra Peter Zeeberg</bibl>
+     </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text xml:id="idm139816228888320">
+    <pb n="1" facs="side1" xml:id="idm139816228887456" rend="missing"/>
+    <front xml:id="idm139816228886832">
+      <titlePage xml:id="idm139816228886576">
+        <docAuthor xml:id="idm139816228886320">Tycho Brahe</docAuthor>
+        <docTitle xml:id="idm139816228885936">
+          <titlePart type="main" xml:id="idm139816228885632">Indskrift: "Urania hæc ..." fra Stjerneborg</titlePart>
+        </docTitle>
+        <docEdition xml:id="idm139816228884768">
+               Engelsk oversættelse v. Peter Zeeberg<lb xml:id="idm139816228884336"/> fra M. Skafte Jensen. A History of Nordic Neo-Latin Literature., Odense 1995, s. 258.
+            </docEdition>
+      </titlePage>
+    </front>
+    <body xml:id="idm139816228883584">
+      <pb n="2" facs="side2" xml:id="idm139816228883328" rend="missing"/>
+      <div xml:id="idm139816228882512">
+        <head xml:id="idm139816228882256">Urania hæc</head>
+        <lg xml:id="idm139816228881840">
+          <l xml:id="idm139816228881536">When Urania, looking down from the sky, saw these earthly caves,</l>
+          <l xml:id="idm139816228881072">she said: "What new art is to be performed below the earth!"</l>
+          <l xml:id="idm139816228880608">She let herself glide down and entered. Again she spoke: "Why do I hide the stars of the sky?</l>
+          <l xml:id="idm139816228880112">Now the earth flies towards my shrine!</l>
+          <l xml:id="idm139816228879680">Here, in the depths of the earth, all that Olympus keeps to itself</l>
+          <l xml:id="idm139816228879216">is revealed. No stars can hide from these recesses.</l>
+          <l xml:id="idm139816228878768">What reason is there for the skies to be so far removed,</l>
+          <l xml:id="idm139816228878304">why do I turn the heavens with so many hidden wheels,</l>
+          <l xml:id="idm139816228877856">if lowly caverns have the power to penetrate into my lofty theatres,</l>
+          <l xml:id="idm139816228877392">and the deep earth can be the way to the stars?"</l>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

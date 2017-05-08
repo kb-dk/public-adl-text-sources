@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--Tom opmærkning d.18.07.2002 blo -->
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="idm139765958298336"><!-- 
+       file     ./marc_dir/002220626.xml
+       field    Wrong 
+       subfield  
+       prefix   record with link. Should be Kbh. 1917. Header says Gyldendal 1942-->
+  <teiHeader xml:id="idm139765958302128">
+    <fileDesc xml:id="idm139765958301872">
+      <titleStmt xml:id="idm139765958301616">
+        <title xml:id="idm139765958276144">Romaner og Fortællinger, bind 1B</title>
+        <author xml:id="idm139765958275680">Jakob Knudsen</author>
+      </titleStmt>
+      <publicationStmt xml:id="idm139765958275168">
+        <publisher xml:id="idm139765958274912">Gyldendalske Boghandel</publisher>
+        <idno xml:id="idm139765958274528" xml:base="texts/knud03btom.xml">002220626:03</idno>
+      </publicationStmt>
+      <notesStmt xml:id="idm139765958273648">
+        <note xml:id="idm139765958273392">
+	  </note>
+      </notesStmt>
+      <sourceDesc xml:id="idm139765958272880"><bibl xml:id="idm139765958272752"><author n="1" xml:id="idm139765958272176"><name xml:id="idm139765958271920"><surname xml:id="idm139765958271792">Knudsen</surname>, <forename xml:id="idm139765958271328">Jakob</forename></name></author><title xml:id="idm139765958271040">Romaner og Fortællinger, bind 1B</title><pubPlace xml:id="idm139765958270704">Kbh.</pubPlace>; <pubPlace xml:id="idm139765958270240">Kristiania</pubPlace>
+<date xml:id="idm139765958269728">1917</date></bibl><listBibl xml:id="idm139765958269440"><bibl xml:id="biblid54211"><title xml:id="idm139765958256288">Et Gjensyn</title></bibl></listBibl></sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text xml:id="idm139765958255648">
+    <group xml:id="idm139765958255392">
+      <pb n="1" xml:id="n1" facs="adl/knudsenj/knudsenj3/knud3B001"/>
+      <text xml:id="workid54211" decls="#biblid54211">
+        <body xml:id="idm139765958253040">
+          <pb n="2" xml:id="n2" facs="adl/knudsenj/knudsenj3/knud3B002"/>
+          <pb n="3" xml:id="n3" facs="adl/knudsenj/knudsenj3/knud3B003"/>
+          <pb n="4" xml:id="n4" facs="adl/knudsenj/knudsenj3/knud3B004"/>
+          <pb n="5" xml:id="n5" facs="adl/knudsenj/knudsenj3/knud3B005"/>
+          <pb n="6" xml:id="n6" facs="adl/knudsenj/knudsenj3/knud3B006"/>
+          <pb n="7" xml:id="n7" facs="adl/knudsenj/knudsenj3/knud3B007"/>
+          <pb n="8" xml:id="n8" facs="adl/knudsenj/knudsenj3/knud3B008"/>
+          <pb n="9" xml:id="n9" facs="adl/knudsenj/knudsenj3/knud3B009"/>
+          <pb n="10" xml:id="n10" facs="adl/knudsenj/knudsenj3/knud3B010"/>
+          <pb n="11" xml:id="n11" facs="adl/knudsenj/knudsenj3/knud3B011"/>
+          <pb n="12" xml:id="n12" facs="adl/knudsenj/knudsenj3/knud3B012"/>
+          <pb n="13" xml:id="n13" facs="adl/knudsenj/knudsenj3/knud3B013"/>
+          <pb n="14" xml:id="n14" facs="adl/knudsenj/knudsenj3/knud3B014"/>
+          <pb n="15" xml:id="n15" facs="adl/knudsenj/knudsenj3/knud3B015"/>
+          <pb n="16" xml:id="n16" facs="adl/knudsenj/knudsenj3/knud3B016"/>
+          <pb n="17" xml:id="n17" facs="adl/knudsenj/knudsenj3/knud3B017"/>
+          <pb n="18" xml:id="n18" facs="adl/knudsenj/knudsenj3/knud3B018"/>
+          <pb n="19" xml:id="n19" facs="adl/knudsenj/knudsenj3/knud3B019"/>
+          <pb n="20" xml:id="n20" facs="adl/knudsenj/knudsenj3/knud3B020"/>
+          <pb n="21" xml:id="n21" facs="adl/knudsenj/knudsenj3/knud3B021"/>
+          <pb n="22" xml:id="n22" facs="adl/knudsenj/knudsenj3/knud3B022"/>
+          <pb n="23" xml:id="n23" facs="adl/knudsenj/knudsenj3/knud3B023"/>
+          <pb n="24" xml:id="n24" facs="adl/knudsenj/knudsenj3/knud3B024"/>
+          <pb n="25" xml:id="n25" facs="adl/knudsenj/knudsenj3/knud3B025"/>
+          <pb n="26" xml:id="n26" facs="adl/knudsenj/knudsenj3/knud3B026"/>
+          <pb n="27" xml:id="n27" facs="adl/knudsenj/knudsenj3/knud3B027"/>
+          <pb n="28" xml:id="n28" facs="adl/knudsenj/knudsenj3/knud3B028"/>
+          <pb n="29" xml:id="n29" facs="adl/knudsenj/knudsenj3/knud3B029"/>
+          <pb n="30" xml:id="n30" facs="adl/knudsenj/knudsenj3/knud3B030"/>
+          <pb n="31" xml:id="n31" facs="adl/knudsenj/knudsenj3/knud3B031"/>
+          <pb n="32" xml:id="n32" facs="adl/knudsenj/knudsenj3/knud3B032"/>
+          <pb n="33" xml:id="n33" facs="adl/knudsenj/knudsenj3/knud3B033"/>
+          <pb n="34" xml:id="n34" facs="adl/knudsenj/knudsenj3/knud3B034"/>
+          <pb n="35" xml:id="n35" facs="adl/knudsenj/knudsenj3/knud3B035"/>
+          <pb n="36" xml:id="n36" facs="adl/knudsenj/knudsenj3/knud3B036"/>
+          <pb n="37" xml:id="n37" facs="adl/knudsenj/knudsenj3/knud3B037"/>
+          <pb n="38" xml:id="n38" facs="adl/knudsenj/knudsenj3/knud3B038"/>
+          <pb n="39" xml:id="n39" facs="adl/knudsenj/knudsenj3/knud3B039"/>
+          <pb n="40" xml:id="n40" facs="adl/knudsenj/knudsenj3/knud3B040"/>
+          <pb n="41" xml:id="n41" facs="adl/knudsenj/knudsenj3/knud3B041"/>
+          <pb n="42" xml:id="n42" facs="adl/knudsenj/knudsenj3/knud3B042"/>
+          <pb n="43" xml:id="n43" facs="adl/knudsenj/knudsenj3/knud3B043"/>
+          <pb n="44" xml:id="n44" facs="adl/knudsenj/knudsenj3/knud3B044"/>
+          <pb n="45" xml:id="n45" facs="adl/knudsenj/knudsenj3/knud3B045"/>
+          <pb n="46" xml:id="n46" facs="adl/knudsenj/knudsenj3/knud3B046"/>
+          <pb n="47" xml:id="n47" facs="adl/knudsenj/knudsenj3/knud3B047"/>
+          <pb n="48" xml:id="n48" facs="adl/knudsenj/knudsenj3/knud3B048"/>
+          <pb n="49" xml:id="n49" facs="adl/knudsenj/knudsenj3/knud3B049"/>
+          <pb n="50" xml:id="n50" facs="adl/knudsenj/knudsenj3/knud3B050"/>
+          <pb n="51" xml:id="n51" facs="adl/knudsenj/knudsenj3/knud3B051"/>
+          <pb n="52" xml:id="n52" facs="adl/knudsenj/knudsenj3/knud3B052"/>
+          <pb n="53" xml:id="n53" facs="adl/knudsenj/knudsenj3/knud3B053"/>
+          <pb n="54" xml:id="n54" facs="adl/knudsenj/knudsenj3/knud3B054"/>
+          <pb n="55" xml:id="n55" facs="adl/knudsenj/knudsenj3/knud3B055"/>
+          <pb n="56" xml:id="n56" facs="adl/knudsenj/knudsenj3/knud3B056"/>
+          <pb n="57" xml:id="n57" facs="adl/knudsenj/knudsenj3/knud3B057"/>
+          <pb n="58" xml:id="n58" facs="adl/knudsenj/knudsenj3/knud3B058"/>
+          <pb n="59" xml:id="n59" facs="adl/knudsenj/knudsenj3/knud3B059"/>
+          <pb n="60" xml:id="n60" facs="adl/knudsenj/knudsenj3/knud3B060"/>
+          <pb n="61" xml:id="n61" facs="adl/knudsenj/knudsenj3/knud3B061"/>
+          <pb n="62" xml:id="n62" facs="adl/knudsenj/knudsenj3/knud3B062"/>
+          <pb n="63" xml:id="n63" facs="adl/knudsenj/knudsenj3/knud3B063"/>
+          <pb n="64" xml:id="n64" facs="adl/knudsenj/knudsenj3/knud3B064"/>
+          <pb n="65" xml:id="n65" facs="adl/knudsenj/knudsenj3/knud3B065"/>
+          <pb n="66" xml:id="n66" facs="adl/knudsenj/knudsenj3/knud3B066"/>
+          <p xml:id="idm139765958159824"/>
+        </body>
+      </text>
+    </group>
+  </text>
+</TEI>

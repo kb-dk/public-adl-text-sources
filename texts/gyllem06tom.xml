@@ -1,0 +1,323 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--Tom opmærkning blo 26.06.02-->
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="idm139776341962064"><!-- 
+       file     ./marc_dir/002729949.xml
+       field     
+       subfield  
+       prefix   -->
+  <teiHeader xml:id="idm139776341961200">
+    <fileDesc xml:id="idm139776341960944">
+      <titleStmt xml:id="idm139776341960640">
+        <title xml:id="idm139776341960336">Samlede Skrifter bind 6</title>
+        <author xml:id="idm139776341934832">Thomasine Gyllembourg</author>
+      </titleStmt>
+      <publicationStmt xml:id="idm139776341934320">
+        <publisher xml:id="idm139776341934064">C. A. Reitzel</publisher>
+        <idno xml:id="idm139776341933680" xml:base="texts/gyllem06tom.xml">002729949:06</idno>
+      </publicationStmt>
+      <notesStmt xml:id="idm139776341932832">
+        <note xml:id="idm139776341932576">
+	  </note>
+      </notesStmt>
+      <sourceDesc xml:id="idm139776341932064"><bibl xml:id="idm139776341931936"><author n="1" xml:id="idm139776341931248"><name xml:id="idm139776341930992"><surname xml:id="idm139776341930864">Gyllembourg-Ehrensvärd</surname>, <forename xml:id="idm139776341930368">T. C.</forename></name></author><title xml:id="idm139776341930080">samlede skrifter af Forf</title><pubPlace xml:id="idm139776341929776">Kbh.</pubPlace>
+<date xml:id="idm139776341929264">1866-67</date></bibl><listBibl xml:id="idm139776341928976"><bibl xml:id="biblid54254"><title xml:id="idm139776341915824">Jøden (1836)</title></bibl><bibl xml:id="biblid55906"><title xml:id="idm139776341915024">Hvidkappen (1836)</title></bibl></listBibl></sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text xml:id="idm139776341914384">
+    <front xml:id="idm139776341914128">
+      <pb n="a" facs="adl/gyllem/gyllem06/gyllem6fm001" xml:id="idm139776341913824"/>
+      <pb n="b" facs="adl/gyllem/gyllem06/gyllem6fm002" xml:id="idm139776341913008"/>
+      <pb n="c" facs="adl/gyllem/gyllem06/gyllem6fm003" xml:id="idm139776341912192"/>
+      <pb n="d" facs="adl/gyllem/gyllem06/gyllem6fm004" xml:id="idm139776341911424"/>
+      <pb n="e" facs="adl/gyllem/gyllem06/gyllem6fm005" xml:id="idm139776341910608"/>
+      <pb n="f" facs="adl/gyllem/gyllem06/gyllem6fm006" xml:id="idm139776341909792"/>
+    </front>
+    <group xml:id="idm139776341990832">
+      <pb n="1" xml:id="n1" facs="adl/gyllem/gyllem06/gyllem6001"/>
+      <text xml:id="workid54254" decls="#biblid54254">
+        <body xml:id="idm139776341988640">
+          <pb n="2" xml:id="n2" facs="adl/gyllem/gyllem06/gyllem6002"/>
+          <pb n="3" xml:id="n3" facs="adl/gyllem/gyllem06/gyllem6003"/>
+          <pb n="4" xml:id="n4" facs="adl/gyllem/gyllem06/gyllem6004"/>
+          <pb n="5" xml:id="n5" facs="adl/gyllem/gyllem06/gyllem6005"/>
+          <pb n="6" xml:id="n6" facs="adl/gyllem/gyllem06/gyllem6006"/>
+          <pb n="7" xml:id="n7" facs="adl/gyllem/gyllem06/gyllem6007"/>
+          <pb n="8" xml:id="n8" facs="adl/gyllem/gyllem06/gyllem6008"/>
+          <pb n="9" xml:id="n9" facs="adl/gyllem/gyllem06/gyllem6009"/>
+          <pb n="10" xml:id="n10" facs="adl/gyllem/gyllem06/gyllem6010"/>
+          <pb n="11" xml:id="n11" facs="adl/gyllem/gyllem06/gyllem6011"/>
+          <pb n="12" xml:id="n12" facs="adl/gyllem/gyllem06/gyllem6012"/>
+          <pb n="13" xml:id="n13" facs="adl/gyllem/gyllem06/gyllem6013"/>
+          <pb n="14" xml:id="n14" facs="adl/gyllem/gyllem06/gyllem6014"/>
+          <pb n="15" xml:id="n15" facs="adl/gyllem/gyllem06/gyllem6015"/>
+          <pb n="16" xml:id="n16" facs="adl/gyllem/gyllem06/gyllem6016"/>
+          <pb n="17" xml:id="n17" facs="adl/gyllem/gyllem06/gyllem6017"/>
+          <pb n="18" xml:id="n18" facs="adl/gyllem/gyllem06/gyllem6018"/>
+          <pb n="19" xml:id="n19" facs="adl/gyllem/gyllem06/gyllem6019"/>
+          <pb n="20" xml:id="n20" facs="adl/gyllem/gyllem06/gyllem6020"/>
+          <pb n="21" xml:id="n21" facs="adl/gyllem/gyllem06/gyllem6021"/>
+          <pb n="22" xml:id="n22" facs="adl/gyllem/gyllem06/gyllem6022"/>
+          <pb n="23" xml:id="n23" facs="adl/gyllem/gyllem06/gyllem6023"/>
+          <pb n="24" xml:id="n24" facs="adl/gyllem/gyllem06/gyllem6024"/>
+          <pb n="25" xml:id="n25" facs="adl/gyllem/gyllem06/gyllem6025"/>
+          <pb n="26" xml:id="n26" facs="adl/gyllem/gyllem06/gyllem6026"/>
+          <pb n="27" xml:id="n27" facs="adl/gyllem/gyllem06/gyllem6027"/>
+          <pb n="28" xml:id="n28" facs="adl/gyllem/gyllem06/gyllem6028"/>
+          <pb n="29" xml:id="n29" facs="adl/gyllem/gyllem06/gyllem6029"/>
+          <pb n="30" xml:id="n30" facs="adl/gyllem/gyllem06/gyllem6030"/>
+          <pb n="31" xml:id="n31" facs="adl/gyllem/gyllem06/gyllem6031"/>
+          <pb n="32" xml:id="n32" facs="adl/gyllem/gyllem06/gyllem6032"/>
+          <pb n="33" xml:id="n33" facs="adl/gyllem/gyllem06/gyllem6033"/>
+          <pb n="34" xml:id="n34" facs="adl/gyllem/gyllem06/gyllem6034"/>
+          <pb n="35" xml:id="n35" facs="adl/gyllem/gyllem06/gyllem6035"/>
+          <pb n="36" xml:id="n36" facs="adl/gyllem/gyllem06/gyllem6036"/>
+          <pb n="37" xml:id="n37" facs="adl/gyllem/gyllem06/gyllem6037"/>
+          <pb n="38" xml:id="n38" facs="adl/gyllem/gyllem06/gyllem6038"/>
+          <pb n="39" xml:id="n39" facs="adl/gyllem/gyllem06/gyllem6039"/>
+          <pb n="40" xml:id="n40" facs="adl/gyllem/gyllem06/gyllem6040"/>
+          <pb n="41" xml:id="n41" facs="adl/gyllem/gyllem06/gyllem6041"/>
+          <pb n="42" xml:id="n42" facs="adl/gyllem/gyllem06/gyllem6042"/>
+          <pb n="43" xml:id="n43" facs="adl/gyllem/gyllem06/gyllem6043"/>
+          <pb n="44" xml:id="n44" facs="adl/gyllem/gyllem06/gyllem6044"/>
+          <pb n="45" xml:id="n45" facs="adl/gyllem/gyllem06/gyllem6045"/>
+          <pb n="46" xml:id="n46" facs="adl/gyllem/gyllem06/gyllem6046"/>
+          <pb n="47" xml:id="n47" facs="adl/gyllem/gyllem06/gyllem6047"/>
+          <pb n="48" xml:id="n48" facs="adl/gyllem/gyllem06/gyllem6048"/>
+          <pb n="49" xml:id="n49" facs="adl/gyllem/gyllem06/gyllem6049"/>
+          <pb n="50" xml:id="n50" facs="adl/gyllem/gyllem06/gyllem6050"/>
+          <pb n="51" xml:id="n51" facs="adl/gyllem/gyllem06/gyllem6051"/>
+          <pb n="52" xml:id="n52" facs="adl/gyllem/gyllem06/gyllem6052"/>
+          <pb n="53" xml:id="n53" facs="adl/gyllem/gyllem06/gyllem6053"/>
+          <pb n="54" xml:id="n54" facs="adl/gyllem/gyllem06/gyllem6054"/>
+          <pb n="55" xml:id="n55" facs="adl/gyllem/gyllem06/gyllem6055"/>
+          <pb n="56" xml:id="n56" facs="adl/gyllem/gyllem06/gyllem6056"/>
+          <pb n="57" xml:id="n57" facs="adl/gyllem/gyllem06/gyllem6057"/>
+          <pb n="58" xml:id="n58" facs="adl/gyllem/gyllem06/gyllem6058"/>
+          <pb n="59" xml:id="n59" facs="adl/gyllem/gyllem06/gyllem6059"/>
+          <pb n="60" xml:id="n60" facs="adl/gyllem/gyllem06/gyllem6060"/>
+          <pb n="61" xml:id="n61" facs="adl/gyllem/gyllem06/gyllem6061"/>
+          <pb n="62" xml:id="n62" facs="adl/gyllem/gyllem06/gyllem6062"/>
+          <pb n="63" xml:id="n63" facs="adl/gyllem/gyllem06/gyllem6063"/>
+          <pb n="64" xml:id="n64" facs="adl/gyllem/gyllem06/gyllem6064"/>
+          <pb n="65" xml:id="n65" facs="adl/gyllem/gyllem06/gyllem6065"/>
+          <pb n="66" xml:id="n66" facs="adl/gyllem/gyllem06/gyllem6066"/>
+          <pb n="67" xml:id="n67" facs="adl/gyllem/gyllem06/gyllem6067"/>
+          <pb n="68" xml:id="n68" facs="adl/gyllem/gyllem06/gyllem6068"/>
+          <pb n="69" xml:id="n69" facs="adl/gyllem/gyllem06/gyllem6069"/>
+          <pb n="70" xml:id="n70" facs="adl/gyllem/gyllem06/gyllem6070"/>
+          <pb n="71" xml:id="n71" facs="adl/gyllem/gyllem06/gyllem6071"/>
+          <pb n="72" xml:id="n72" facs="adl/gyllem/gyllem06/gyllem6072"/>
+          <pb n="73" xml:id="n73" facs="adl/gyllem/gyllem06/gyllem6073"/>
+          <pb n="74" xml:id="n74" facs="adl/gyllem/gyllem06/gyllem6074"/>
+          <pb n="75" xml:id="n75" facs="adl/gyllem/gyllem06/gyllem6075"/>
+          <pb n="76" xml:id="n76" facs="adl/gyllem/gyllem06/gyllem6076"/>
+          <pb n="77" xml:id="n77" facs="adl/gyllem/gyllem06/gyllem6077"/>
+          <pb n="78" xml:id="n78" facs="adl/gyllem/gyllem06/gyllem6078"/>
+          <pb n="79" xml:id="n79" facs="adl/gyllem/gyllem06/gyllem6079"/>
+          <pb n="80" xml:id="n80" facs="adl/gyllem/gyllem06/gyllem6080"/>
+          <pb n="81" xml:id="n81" facs="adl/gyllem/gyllem06/gyllem6081"/>
+          <pb n="82" xml:id="n82" facs="adl/gyllem/gyllem06/gyllem6082"/>
+          <pb n="83" xml:id="n83" facs="adl/gyllem/gyllem06/gyllem6083"/>
+          <pb n="84" xml:id="n84" facs="adl/gyllem/gyllem06/gyllem6084"/>
+          <pb n="85" xml:id="n85" facs="adl/gyllem/gyllem06/gyllem6085"/>
+          <pb n="86" xml:id="n86" facs="adl/gyllem/gyllem06/gyllem6086"/>
+          <pb n="87" xml:id="n87" facs="adl/gyllem/gyllem06/gyllem6087"/>
+          <pb n="88" xml:id="n88" facs="adl/gyllem/gyllem06/gyllem6088"/>
+          <pb n="89" xml:id="n89" facs="adl/gyllem/gyllem06/gyllem6089"/>
+          <pb n="90" xml:id="n90" facs="adl/gyllem/gyllem06/gyllem6090"/>
+          <pb n="91" xml:id="n91" facs="adl/gyllem/gyllem06/gyllem6091"/>
+          <pb n="92" xml:id="n92" facs="adl/gyllem/gyllem06/gyllem6092"/>
+          <pb n="93" xml:id="n93" facs="adl/gyllem/gyllem06/gyllem6093"/>
+          <pb n="94" xml:id="n94" facs="adl/gyllem/gyllem06/gyllem6094"/>
+          <pb n="95" xml:id="n95" facs="adl/gyllem/gyllem06/gyllem6095"/>
+          <pb n="96" xml:id="n96" facs="adl/gyllem/gyllem06/gyllem6096"/>
+          <pb n="97" xml:id="n97" facs="adl/gyllem/gyllem06/gyllem6097"/>
+          <pb n="98" xml:id="n98" facs="adl/gyllem/gyllem06/gyllem6098"/>
+          <pb n="99" xml:id="n99" facs="adl/gyllem/gyllem06/gyllem6099"/>
+          <pb n="100" xml:id="n100" facs="adl/gyllem/gyllem06/gyllem6100"/>
+          <pb n="101" xml:id="n101" facs="adl/gyllem/gyllem06/gyllem6101"/>
+          <pb n="102" xml:id="n102" facs="adl/gyllem/gyllem06/gyllem6102"/>
+          <pb n="103" xml:id="n103" facs="adl/gyllem/gyllem06/gyllem6103"/>
+          <pb n="104" xml:id="n104" facs="adl/gyllem/gyllem06/gyllem6104"/>
+          <pb n="105" xml:id="n105" facs="adl/gyllem/gyllem06/gyllem6105"/>
+          <pb n="106" xml:id="n106" facs="adl/gyllem/gyllem06/gyllem6106"/>
+          <pb n="107" xml:id="n107" facs="adl/gyllem/gyllem06/gyllem6107"/>
+          <pb n="108" xml:id="n108" facs="adl/gyllem/gyllem06/gyllem6108"/>
+          <pb n="109" xml:id="n109" facs="adl/gyllem/gyllem06/gyllem6109"/>
+          <pb n="110" xml:id="n110" facs="adl/gyllem/gyllem06/gyllem6110"/>
+          <pb n="111" xml:id="n111" facs="adl/gyllem/gyllem06/gyllem6111"/>
+          <pb n="112" xml:id="n112" facs="adl/gyllem/gyllem06/gyllem6112"/>
+          <pb n="113" xml:id="n113" facs="adl/gyllem/gyllem06/gyllem6113"/>
+          <pb n="114" xml:id="n114" facs="adl/gyllem/gyllem06/gyllem6114"/>
+          <pb n="115" xml:id="n115" facs="adl/gyllem/gyllem06/gyllem6115"/>
+          <pb n="116" xml:id="n116" facs="adl/gyllem/gyllem06/gyllem6116"/>
+          <pb n="117" xml:id="n117" facs="adl/gyllem/gyllem06/gyllem6117"/>
+          <pb n="118" xml:id="n118" facs="adl/gyllem/gyllem06/gyllem6118"/>
+          <pb n="119" xml:id="n119" facs="adl/gyllem/gyllem06/gyllem6119"/>
+          <pb n="120" xml:id="n120" facs="adl/gyllem/gyllem06/gyllem6120"/>
+          <pb n="121" xml:id="n121" facs="adl/gyllem/gyllem06/gyllem6121"/>
+          <pb n="122" xml:id="n122" facs="adl/gyllem/gyllem06/gyllem6122"/>
+          <pb n="123" xml:id="n123" facs="adl/gyllem/gyllem06/gyllem6123"/>
+          <pb n="124" xml:id="n124" facs="adl/gyllem/gyllem06/gyllem6124"/>
+          <pb n="125" xml:id="n125" facs="adl/gyllem/gyllem06/gyllem6125"/>
+          <pb n="126" xml:id="n126" facs="adl/gyllem/gyllem06/gyllem6126"/>
+          <pb n="127" xml:id="n127" facs="adl/gyllem/gyllem06/gyllem6127"/>
+          <pb n="128" xml:id="n128" facs="adl/gyllem/gyllem06/gyllem6128"/>
+          <pb n="129" xml:id="n129" facs="adl/gyllem/gyllem06/gyllem6129"/>
+          <pb n="130" xml:id="n130" facs="adl/gyllem/gyllem06/gyllem6130"/>
+          <pb n="131" xml:id="n131" facs="adl/gyllem/gyllem06/gyllem6131"/>
+          <pb n="132" xml:id="n132" facs="adl/gyllem/gyllem06/gyllem6132"/>
+          <pb n="133" xml:id="n133" facs="adl/gyllem/gyllem06/gyllem6133"/>
+          <pb n="134" xml:id="n134" facs="adl/gyllem/gyllem06/gyllem6134"/>
+          <pb n="135" xml:id="n135" facs="adl/gyllem/gyllem06/gyllem6135"/>
+          <pb n="136" xml:id="n136" facs="adl/gyllem/gyllem06/gyllem6136"/>
+          <pb n="137" xml:id="n137" facs="adl/gyllem/gyllem06/gyllem6137"/>
+          <pb n="138" xml:id="n138" facs="adl/gyllem/gyllem06/gyllem6138"/>
+          <pb n="139" xml:id="n139" facs="adl/gyllem/gyllem06/gyllem6139"/>
+          <pb n="140" xml:id="n140" facs="adl/gyllem/gyllem06/gyllem6140"/>
+          <pb n="141" xml:id="n141" facs="adl/gyllem/gyllem06/gyllem6141"/>
+          <pb n="142" xml:id="n142" facs="adl/gyllem/gyllem06/gyllem6142"/>
+          <pb n="143" xml:id="n143" facs="adl/gyllem/gyllem06/gyllem6143"/>
+          <pb n="144" xml:id="n144" facs="adl/gyllem/gyllem06/gyllem6144"/>
+          <pb n="145" xml:id="n145" facs="adl/gyllem/gyllem06/gyllem6145"/>
+          <pb n="146" xml:id="n146" facs="adl/gyllem/gyllem06/gyllem6146"/>
+          <pb n="147" xml:id="n147" facs="adl/gyllem/gyllem06/gyllem6147"/>
+          <pb n="148" xml:id="n148" facs="adl/gyllem/gyllem06/gyllem6148"/>
+          <pb n="149" xml:id="n149" facs="adl/gyllem/gyllem06/gyllem6149"/>
+          <pb n="150" xml:id="n150" facs="adl/gyllem/gyllem06/gyllem6150"/>
+          <p xml:id="idm139776341711040"/>
+        </body>
+      </text>
+      <pb n="151" xml:id="n151" facs="adl/gyllem/gyllem06/gyllem6151"/>
+      <text xml:id="workid55906" decls="#biblid55906">
+        <body xml:id="idm139776341708272">
+          <pb n="152" xml:id="n152" facs="adl/gyllem/gyllem06/gyllem6152"/>
+          <pb n="153" xml:id="n153" facs="adl/gyllem/gyllem06/gyllem6153"/>
+          <pb n="154" xml:id="n154" facs="adl/gyllem/gyllem06/gyllem6154"/>
+          <pb n="155" xml:id="n155" facs="adl/gyllem/gyllem06/gyllem6155"/>
+          <pb n="156" xml:id="n156" facs="adl/gyllem/gyllem06/gyllem6156"/>
+          <pb n="157" xml:id="n157" facs="adl/gyllem/gyllem06/gyllem6157"/>
+          <pb n="158" xml:id="n158" facs="adl/gyllem/gyllem06/gyllem6158"/>
+          <pb n="159" xml:id="n159" facs="adl/gyllem/gyllem06/gyllem6159"/>
+          <pb n="160" xml:id="n160" facs="adl/gyllem/gyllem06/gyllem6160"/>
+          <pb n="161" xml:id="n161" facs="adl/gyllem/gyllem06/gyllem6161"/>
+          <pb n="162" xml:id="n162" facs="adl/gyllem/gyllem06/gyllem6162"/>
+          <pb n="163" xml:id="n163" facs="adl/gyllem/gyllem06/gyllem6163"/>
+          <pb n="164" xml:id="n164" facs="adl/gyllem/gyllem06/gyllem6164"/>
+          <pb n="165" xml:id="n165" facs="adl/gyllem/gyllem06/gyllem6165"/>
+          <pb n="166" xml:id="n166" facs="adl/gyllem/gyllem06/gyllem6166"/>
+          <pb n="167" xml:id="n167" facs="adl/gyllem/gyllem06/gyllem6167"/>
+          <pb n="168" xml:id="n168" facs="adl/gyllem/gyllem06/gyllem6168"/>
+          <pb n="169" xml:id="n169" facs="adl/gyllem/gyllem06/gyllem6169"/>
+          <pb n="170" xml:id="n170" facs="adl/gyllem/gyllem06/gyllem6170"/>
+          <pb n="171" xml:id="n171" facs="adl/gyllem/gyllem06/gyllem6171"/>
+          <pb n="172" xml:id="n172" facs="adl/gyllem/gyllem06/gyllem6172"/>
+          <pb n="173" xml:id="n173" facs="adl/gyllem/gyllem06/gyllem6173"/>
+          <pb n="174" xml:id="n174" facs="adl/gyllem/gyllem06/gyllem6174"/>
+          <pb n="175" xml:id="n175" facs="adl/gyllem/gyllem06/gyllem6175"/>
+          <pb n="176" xml:id="n176" facs="adl/gyllem/gyllem06/gyllem6176"/>
+          <pb n="177" xml:id="n177" facs="adl/gyllem/gyllem06/gyllem6177"/>
+          <pb n="178" xml:id="n178" facs="adl/gyllem/gyllem06/gyllem6178"/>
+          <pb n="179" xml:id="n179" facs="adl/gyllem/gyllem06/gyllem6179"/>
+          <pb n="180" xml:id="n180" facs="adl/gyllem/gyllem06/gyllem6180"/>
+          <pb n="181" xml:id="n181" facs="adl/gyllem/gyllem06/gyllem6181"/>
+          <pb n="182" xml:id="n182" facs="adl/gyllem/gyllem06/gyllem6182"/>
+          <pb n="183" xml:id="n183" facs="adl/gyllem/gyllem06/gyllem6183"/>
+          <pb n="184" xml:id="n184" facs="adl/gyllem/gyllem06/gyllem6184"/>
+          <pb n="185" xml:id="n185" facs="adl/gyllem/gyllem06/gyllem6185"/>
+          <pb n="186" xml:id="n186" facs="adl/gyllem/gyllem06/gyllem6186"/>
+          <pb n="187" xml:id="n187" facs="adl/gyllem/gyllem06/gyllem6187"/>
+          <pb n="188" xml:id="n188" facs="adl/gyllem/gyllem06/gyllem6188"/>
+          <pb n="189" xml:id="n189" facs="adl/gyllem/gyllem06/gyllem6189"/>
+          <pb n="190" xml:id="n190" facs="adl/gyllem/gyllem06/gyllem6190"/>
+          <pb n="191" xml:id="n191" facs="adl/gyllem/gyllem06/gyllem6191"/>
+          <pb n="192" xml:id="n192" facs="adl/gyllem/gyllem06/gyllem6192"/>
+          <pb n="193" xml:id="n193" facs="adl/gyllem/gyllem06/gyllem6193"/>
+          <pb n="194" xml:id="n194" facs="adl/gyllem/gyllem06/gyllem6194"/>
+          <pb n="195" xml:id="n195" facs="adl/gyllem/gyllem06/gyllem6195"/>
+          <pb n="196" xml:id="n196" facs="adl/gyllem/gyllem06/gyllem6196"/>
+          <pb n="197" xml:id="n197" facs="adl/gyllem/gyllem06/gyllem6197"/>
+          <pb n="198" xml:id="n198" facs="adl/gyllem/gyllem06/gyllem6198"/>
+          <pb n="199" xml:id="n199" facs="adl/gyllem/gyllem06/gyllem6199"/>
+          <pb n="200" xml:id="n200" facs="adl/gyllem/gyllem06/gyllem6200"/>
+          <pb n="201" xml:id="n201" facs="adl/gyllem/gyllem06/gyllem6201"/>
+          <pb n="202" xml:id="n202" facs="adl/gyllem/gyllem06/gyllem6202"/>
+          <pb n="203" xml:id="n203" facs="adl/gyllem/gyllem06/gyllem6203"/>
+          <pb n="204" xml:id="n204" facs="adl/gyllem/gyllem06/gyllem6204"/>
+          <pb n="205" xml:id="n205" facs="adl/gyllem/gyllem06/gyllem6205"/>
+          <pb n="206" xml:id="n206" facs="adl/gyllem/gyllem06/gyllem6206"/>
+          <pb n="207" xml:id="n207" facs="adl/gyllem/gyllem06/gyllem6207"/>
+          <pb n="208" xml:id="n208" facs="adl/gyllem/gyllem06/gyllem6208"/>
+          <pb n="209" xml:id="n209" facs="adl/gyllem/gyllem06/gyllem6209"/>
+          <pb n="210" xml:id="n210" facs="adl/gyllem/gyllem06/gyllem6210"/>
+          <pb n="211" xml:id="n211" facs="adl/gyllem/gyllem06/gyllem6211"/>
+          <pb n="212" xml:id="n212" facs="adl/gyllem/gyllem06/gyllem6212"/>
+          <pb n="213" xml:id="n213" facs="adl/gyllem/gyllem06/gyllem6213"/>
+          <pb n="214" xml:id="n214" facs="adl/gyllem/gyllem06/gyllem6214"/>
+          <pb n="215" xml:id="n215" facs="adl/gyllem/gyllem06/gyllem6215"/>
+          <pb n="216" xml:id="n216" facs="adl/gyllem/gyllem06/gyllem6216"/>
+          <pb n="217" xml:id="n217" facs="adl/gyllem/gyllem06/gyllem6217"/>
+          <pb n="218" xml:id="n218" facs="adl/gyllem/gyllem06/gyllem6218"/>
+          <pb n="219" xml:id="n219" facs="adl/gyllem/gyllem06/gyllem6219"/>
+          <pb n="220" xml:id="n220" facs="adl/gyllem/gyllem06/gyllem6220"/>
+          <pb n="221" xml:id="n221" facs="adl/gyllem/gyllem06/gyllem6221"/>
+          <pb n="222" xml:id="n222" facs="adl/gyllem/gyllem06/gyllem6222"/>
+          <pb n="223" xml:id="n223" facs="adl/gyllem/gyllem06/gyllem6223"/>
+          <pb n="224" xml:id="n224" facs="adl/gyllem/gyllem06/gyllem6224"/>
+          <pb n="225" xml:id="n225" facs="adl/gyllem/gyllem06/gyllem6225"/>
+          <pb n="226" xml:id="n226" facs="adl/gyllem/gyllem06/gyllem6226"/>
+          <pb n="227" xml:id="n227" facs="adl/gyllem/gyllem06/gyllem6227"/>
+          <pb n="228" xml:id="n228" facs="adl/gyllem/gyllem06/gyllem6228"/>
+          <pb n="229" xml:id="n229" facs="adl/gyllem/gyllem06/gyllem6229"/>
+          <pb n="230" xml:id="n230" facs="adl/gyllem/gyllem06/gyllem6230"/>
+          <pb n="231" xml:id="n231" facs="adl/gyllem/gyllem06/gyllem6231"/>
+          <pb n="232" xml:id="n232" facs="adl/gyllem/gyllem06/gyllem6232"/>
+          <pb n="233" xml:id="n233" facs="adl/gyllem/gyllem06/gyllem6233"/>
+          <pb n="234" xml:id="n234" facs="adl/gyllem/gyllem06/gyllem6234"/>
+          <pb n="235" xml:id="n235" facs="adl/gyllem/gyllem06/gyllem6235"/>
+          <pb n="236" xml:id="n236" facs="adl/gyllem/gyllem06/gyllem6236"/>
+          <pb n="237" xml:id="n237" facs="adl/gyllem/gyllem06/gyllem6237"/>
+          <pb n="238" xml:id="n238" facs="adl/gyllem/gyllem06/gyllem6238"/>
+          <pb n="239" xml:id="n239" facs="adl/gyllem/gyllem06/gyllem6239"/>
+          <pb n="240" xml:id="n240" facs="adl/gyllem/gyllem06/gyllem6240"/>
+          <pb n="241" xml:id="n241" facs="adl/gyllem/gyllem06/gyllem6241"/>
+          <pb n="242" xml:id="n242" facs="adl/gyllem/gyllem06/gyllem6242"/>
+          <pb n="243" xml:id="n243" facs="adl/gyllem/gyllem06/gyllem6243"/>
+          <pb n="244" xml:id="n244" facs="adl/gyllem/gyllem06/gyllem6244"/>
+          <pb n="245" xml:id="n245" facs="adl/gyllem/gyllem06/gyllem6245"/>
+          <pb n="246" xml:id="n246" facs="adl/gyllem/gyllem06/gyllem6246"/>
+          <pb n="247" xml:id="n247" facs="adl/gyllem/gyllem06/gyllem6247"/>
+          <pb n="248" xml:id="n248" facs="adl/gyllem/gyllem06/gyllem6248"/>
+          <pb n="249" xml:id="n249" facs="adl/gyllem/gyllem06/gyllem6249"/>
+          <pb n="250" xml:id="n250" facs="adl/gyllem/gyllem06/gyllem6250"/>
+          <pb n="251" xml:id="n251" facs="adl/gyllem/gyllem06/gyllem6251"/>
+          <pb n="252" xml:id="n252" facs="adl/gyllem/gyllem06/gyllem6252"/>
+          <pb n="253" xml:id="n253" facs="adl/gyllem/gyllem06/gyllem6253"/>
+          <pb n="254" xml:id="n254" facs="adl/gyllem/gyllem06/gyllem6254"/>
+          <pb n="255" xml:id="n255" facs="adl/gyllem/gyllem06/gyllem6255"/>
+          <pb n="256" xml:id="n256" facs="adl/gyllem/gyllem06/gyllem6256"/>
+          <pb n="257" xml:id="n257" facs="adl/gyllem/gyllem06/gyllem6257"/>
+          <pb n="258" xml:id="n258" facs="adl/gyllem/gyllem06/gyllem6258"/>
+          <pb n="259" xml:id="n259" facs="adl/gyllem/gyllem06/gyllem6259"/>
+          <pb n="260" xml:id="n260" facs="adl/gyllem/gyllem06/gyllem6260"/>
+          <pb n="261" xml:id="n261" facs="adl/gyllem/gyllem06/gyllem6261"/>
+          <pb n="262" xml:id="n262" facs="adl/gyllem/gyllem06/gyllem6262"/>
+          <pb n="263" xml:id="n263" facs="adl/gyllem/gyllem06/gyllem6263"/>
+          <pb n="264" xml:id="n264" facs="adl/gyllem/gyllem06/gyllem6264"/>
+          <pb n="265" xml:id="n265" facs="adl/gyllem/gyllem06/gyllem6265"/>
+          <pb n="266" xml:id="n266" facs="adl/gyllem/gyllem06/gyllem6266"/>
+          <pb n="267" xml:id="n267" facs="adl/gyllem/gyllem06/gyllem6267"/>
+          <pb n="268" xml:id="n268" facs="adl/gyllem/gyllem06/gyllem6268"/>
+          <pb n="269" xml:id="n269" facs="adl/gyllem/gyllem06/gyllem6269"/>
+          <pb n="270" xml:id="n270" facs="adl/gyllem/gyllem06/gyllem6270"/>
+          <pb n="271" xml:id="n271" facs="adl/gyllem/gyllem06/gyllem6271"/>
+          <pb n="272" xml:id="n272" facs="adl/gyllem/gyllem06/gyllem6272"/>
+          <pb n="273" xml:id="n273" facs="adl/gyllem/gyllem06/gyllem6273"/>
+          <pb n="274" xml:id="n274" facs="adl/gyllem/gyllem06/gyllem6274"/>
+          <pb n="275" xml:id="n275" facs="adl/gyllem/gyllem06/gyllem6275"/>
+          <p xml:id="idm139776341557248"/>
+        </body>
+      </text>
+    </group>
+  </text>
+</TEI>

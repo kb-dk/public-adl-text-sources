@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--Tom opmærkning d. 11.06.2002 blo -->
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="idm139955779447920"><!-- 
+       file     ./marc_dir/001573955.xml
+       field     
+       subfield  
+       prefix   -->
+  <teiHeader xml:id="idm139955779446992">
+    <fileDesc xml:id="idm139955779446736">
+      <titleStmt xml:id="idm139955779446432">
+        <title xml:id="idm139955779421040">Tychonis Brahe Dani opera omnia, bind 1</title>
+        <respStmt xml:id="idm139955779420656">
+          <resp xml:id="idm139955779420400">I.L.E. Dreyer</resp>
+          <name xml:id="idm139955779420016"/>
+        </respStmt>
+        <author xml:id="idm139955779419632">Tycho Brahe</author>
+      </titleStmt>
+      <publicationStmt xml:id="idm139955779419120">
+        <publisher xml:id="idm139955779418864">Gyldendal</publisher>
+        <idno xml:id="idm139955779418480" xml:base="texts/tycho01tom.xml">001573955:01</idno>
+      </publicationStmt>
+      <notesStmt xml:id="idm139955779417664">
+        <note xml:id="idm139955779417360">
+	  </note>
+      </notesStmt>
+      <sourceDesc xml:id="idm139955779416848"><bibl xml:id="idm139955779416720"><author n="1" xml:id="idm139955779416032"><name xml:id="idm139955779415776"><surname xml:id="idm139955779415648">Brahe</surname>, <forename xml:id="idm139955779415184">Tycho</forename></name></author><title xml:id="idm139955779414896">Tychonis Brahe Dani opera omnia</title><pubPlace xml:id="idm139955779414592">Hauniæ</pubPlace>
+<date xml:id="idm139955779414080">1913-29</date></bibl><listBibl xml:id="idm139955779413792"><bibl xml:id="biblid54256"><title xml:id="idm139955779400640">In Urania elegia autoris</title></bibl></listBibl></sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text xml:id="idm139955779399952">
+    <front xml:id="idm139955779399696">
+      <pb n="a" facs="adl/tycho/tycho01/tycho1fm001" xml:id="idm139955779399392"/>
+      <pb n="b" facs="adl/tycho/tycho01/tycho1fm002" xml:id="idm139955779398608"/>
+      <pb n="c" facs="adl/tycho/tycho01/tycho1fm003" xml:id="idm139955779397792"/>
+      <pb n="e" facs="adl/tycho/tycho01/tycho1fm004" xml:id="idm139955779397024"/>
+      <pb n="f" facs="adl/tycho/tycho01/tycho1fm005" xml:id="idm139955779396208"/>
+    </front>
+    <group xml:id="idm139955779476912">
+      <pb n="65" xml:id="n65" facs="adl/tycho/tycho01/tycho1065"/>
+      <text xml:id="workid54256" decls="#biblid54256">
+        <body xml:id="idm139955779474784">
+          <pb n="66" xml:id="n66" facs="adl/tycho/tycho01/tycho1066"/>
+          <pb n="67" xml:id="n67" facs="adl/tycho/tycho01/tycho1067"/>
+          <pb n="68" xml:id="n68" facs="adl/tycho/tycho01/tycho1068"/>
+          <pb n="69" xml:id="n69" facs="adl/tycho/tycho01/tycho1069"/>
+          <pb n="70" xml:id="n70" facs="adl/tycho/tycho01/tycho1070"/>
+          <p xml:id="idm139955779366944"/>
+        </body>
+      </text>
+    </group>
+    <back xml:id="idm139955779366304">
+      <pb n="311" xml:id="n311" facs="adl/tycho/tycho01/tycho1bm311"/>
+    </back>
+  </text>
+</TEI>

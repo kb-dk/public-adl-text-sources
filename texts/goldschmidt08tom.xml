@@ -1,0 +1,418 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--Tom opmærkning d.30.4.2002 blo -->
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="idm140161562688544"><!-- 
+       file     ./marc_dir/001823971.xml
+       field     
+       subfield  
+       prefix   -->
+  <teiHeader xml:id="idm140161562687712">
+    <fileDesc xml:id="idm140161562687456">
+      <titleStmt xml:id="idm140161562661936">
+        <title xml:id="idm140161562661680">Meïr Aron Goldschmidt Poetiske Skrifter IV</title>
+        <respStmt xml:id="idm140161562661296">
+          <resp xml:id="idm140161562660992">A. Goldschmidt</resp>
+          <name xml:id="idm140161562660608"/>
+        </respStmt>
+        <author xml:id="idm140161562660224">Meïr Aron Goldschmidt</author>
+      </titleStmt>
+      <publicationStmt xml:id="idm140161562659600">
+        <publisher xml:id="idm140161562659344">Gyldendal</publisher>
+        <idno xml:id="idm140161562658960" xml:base="texts/goldschmidt08tom.xml">001823971:08</idno>
+      </publicationStmt>
+      <notesStmt xml:id="idm140161562658144">
+        <note xml:id="idm140161562657840">
+	  </note>
+      </notesStmt>
+      <sourceDesc xml:id="idm140161562657328"><bibl xml:id="idm140161562657200"><author n="1" xml:id="idm140161562656512"><name xml:id="idm140161562656256"><surname xml:id="idm140161562656128">Goldschmidt</surname>, <forename xml:id="idm140161562655696">M. A.</forename></name></author><title xml:id="idm140161562655440">M. Goldschmidts Poetiske Skrifter</title><pubPlace xml:id="idm140161562655136">Kbh.</pubPlace>
+<date xml:id="idm140161562654656">1896-98</date></bibl><listBibl xml:id="idm140161562654400"><bibl xml:id="biblid54145"><title xml:id="idm140161562641248">Hjemløs, En Fortælling (2)</title></bibl><bibl xml:id="biblid54149"><title xml:id="idm140161562640416">Hjemløs (Anden Bog)</title></bibl></listBibl></sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text xml:id="idm140161562639712">
+    <front xml:id="idm140161562639456">
+      <pb n="a" facs="adl/goldschmidt/goldschmidt08/gold8fm001" xml:id="idm140161562639152"/>
+      <pb n="b" facs="adl/goldschmidt/goldschmidt08/gold8fm002" xml:id="idm140161562638368"/>
+      <pb n="c" facs="adl/goldschmidt/goldschmidt08/gold8fm003" xml:id="idm140161562637552"/>
+      <pb n="d" facs="adl/goldschmidt/goldschmidt08/gold8fm004" xml:id="idm140161562636784"/>
+    </front>
+    <group xml:id="idm140161562635840">
+      <pb n="1" facs="adl/goldschmidt/goldschmidt08/gold8001" xml:id="idm140161562635584"/>
+      <text xml:id="workid54145" decls="#biblid54145">
+        <body xml:id="idm140161562633872">
+          <div xml:id="workid54149" decls="#biblid54149">
+            <pb n="2" facs="adl/goldschmidt/goldschmidt08/gold8002" xml:id="idm140161562718208"/>
+            <pb n="3" facs="adl/goldschmidt/goldschmidt08/gold8003" xml:id="idm140161562717440"/>
+            <pb n="4" facs="adl/goldschmidt/goldschmidt08/gold8004" xml:id="idm140161562716672"/>
+            <pb n="5" facs="adl/goldschmidt/goldschmidt08/gold8005" xml:id="idm140161562715904"/>
+            <pb n="6" facs="adl/goldschmidt/goldschmidt08/gold8006" xml:id="idm140161562715136"/>
+            <pb n="7" facs="adl/goldschmidt/goldschmidt08/gold8007" xml:id="idm140161562714368"/>
+            <pb n="8" facs="adl/goldschmidt/goldschmidt08/gold8008" xml:id="idm140161562607536"/>
+            <pb n="9" facs="adl/goldschmidt/goldschmidt08/gold8009" xml:id="idm140161562606768"/>
+            <pb n="10" facs="adl/goldschmidt/goldschmidt08/gold8010" xml:id="idm140161562606000"/>
+            <pb n="11" facs="adl/goldschmidt/goldschmidt08/gold8011" xml:id="idm140161562605232"/>
+            <pb n="12" facs="adl/goldschmidt/goldschmidt08/gold8012" xml:id="idm140161562604464"/>
+            <pb n="13" facs="adl/goldschmidt/goldschmidt08/gold8013" xml:id="idm140161562603696"/>
+            <pb n="14" facs="adl/goldschmidt/goldschmidt08/gold8014" xml:id="idm140161562602928"/>
+            <pb n="15" facs="adl/goldschmidt/goldschmidt08/gold8015" xml:id="idm140161562602160"/>
+            <pb n="16" facs="adl/goldschmidt/goldschmidt08/gold8016" xml:id="idm140161562601392"/>
+            <pb n="17" facs="adl/goldschmidt/goldschmidt08/gold8017" xml:id="idm140161562600624"/>
+            <pb n="18" facs="adl/goldschmidt/goldschmidt08/gold8018" xml:id="idm140161562599856"/>
+            <pb n="19" facs="adl/goldschmidt/goldschmidt08/gold8019" xml:id="idm140161562599088"/>
+            <pb n="20" facs="adl/goldschmidt/goldschmidt08/gold8020" xml:id="idm140161562598320"/>
+            <pb n="21" facs="adl/goldschmidt/goldschmidt08/gold8021" xml:id="idm140161562597552"/>
+            <pb n="22" facs="adl/goldschmidt/goldschmidt08/gold8022" xml:id="idm140161562596784"/>
+            <pb n="23" facs="adl/goldschmidt/goldschmidt08/gold8023" xml:id="idm140161562596016"/>
+            <pb n="24" facs="adl/goldschmidt/goldschmidt08/gold8024" xml:id="idm140161562595248"/>
+            <pb n="25" facs="adl/goldschmidt/goldschmidt08/gold8025" xml:id="idm140161562594480"/>
+            <pb n="26" facs="adl/goldschmidt/goldschmidt08/gold8026" xml:id="idm140161562593712"/>
+            <pb n="27" facs="adl/goldschmidt/goldschmidt08/gold8027" xml:id="idm140161562592944"/>
+            <pb n="28" facs="adl/goldschmidt/goldschmidt08/gold8028" xml:id="idm140161562592176"/>
+            <pb n="29" facs="adl/goldschmidt/goldschmidt08/gold8029" xml:id="idm140161562591408"/>
+            <pb n="30" facs="adl/goldschmidt/goldschmidt08/gold8030" xml:id="idm140161562590640"/>
+            <pb n="31" facs="adl/goldschmidt/goldschmidt08/gold8031" xml:id="idm140161562589872"/>
+            <pb n="32" facs="adl/goldschmidt/goldschmidt08/gold8032" xml:id="idm140161562589104"/>
+            <pb n="33" facs="adl/goldschmidt/goldschmidt08/gold8033" xml:id="idm140161562588336"/>
+            <pb n="34" facs="adl/goldschmidt/goldschmidt08/gold8034" xml:id="idm140161562587568"/>
+            <pb n="35" facs="adl/goldschmidt/goldschmidt08/gold8035" xml:id="idm140161562586800"/>
+            <pb n="36" facs="adl/goldschmidt/goldschmidt08/gold8036" xml:id="idm140161562586032"/>
+            <pb n="37" facs="adl/goldschmidt/goldschmidt08/gold8037" xml:id="idm140161562585264"/>
+            <pb n="38" facs="adl/goldschmidt/goldschmidt08/gold8038" xml:id="idm140161562584496"/>
+            <pb n="39" facs="adl/goldschmidt/goldschmidt08/gold8039" xml:id="idm140161562583728"/>
+            <pb n="40" facs="adl/goldschmidt/goldschmidt08/gold8040" xml:id="idm140161562582960"/>
+            <pb n="41" facs="adl/goldschmidt/goldschmidt08/gold8041" xml:id="idm140161562582192"/>
+            <pb n="42" facs="adl/goldschmidt/goldschmidt08/gold8042" xml:id="idm140161562581424"/>
+            <pb n="43" facs="adl/goldschmidt/goldschmidt08/gold8043" xml:id="idm140161562580656"/>
+            <pb n="44" facs="adl/goldschmidt/goldschmidt08/gold8044" xml:id="idm140161562579888"/>
+            <pb n="45" facs="adl/goldschmidt/goldschmidt08/gold8045" xml:id="idm140161562579120"/>
+            <pb n="46" facs="adl/goldschmidt/goldschmidt08/gold8046" xml:id="idm140161562578352"/>
+            <pb n="47" facs="adl/goldschmidt/goldschmidt08/gold8047" xml:id="idm140161562577584"/>
+            <pb n="48" facs="adl/goldschmidt/goldschmidt08/gold8048" xml:id="idm140161562576816"/>
+            <pb n="49" facs="adl/goldschmidt/goldschmidt08/gold8049" xml:id="idm140161562576048"/>
+            <pb n="50" facs="adl/goldschmidt/goldschmidt08/gold8050" xml:id="idm140161562575280"/>
+            <pb n="51" facs="adl/goldschmidt/goldschmidt08/gold8051" xml:id="idm140161562574512"/>
+            <pb n="52" facs="adl/goldschmidt/goldschmidt08/gold8052" xml:id="idm140161562573744"/>
+            <pb n="53" facs="adl/goldschmidt/goldschmidt08/gold8053" xml:id="idm140161562572976"/>
+            <pb n="54" facs="adl/goldschmidt/goldschmidt08/gold8054" xml:id="idm140161562572208"/>
+            <pb n="55" facs="adl/goldschmidt/goldschmidt08/gold8055" xml:id="idm140161562571440"/>
+            <pb n="56" facs="adl/goldschmidt/goldschmidt08/gold8056" xml:id="idm140161562570672"/>
+            <pb n="57" facs="adl/goldschmidt/goldschmidt08/gold8057" xml:id="idm140161562569904"/>
+            <pb n="58" facs="adl/goldschmidt/goldschmidt08/gold8058" xml:id="idm140161562569136"/>
+            <pb n="59" facs="adl/goldschmidt/goldschmidt08/gold8059" xml:id="idm140161562568368"/>
+            <pb n="60" facs="adl/goldschmidt/goldschmidt08/gold8060" xml:id="idm140161562567600"/>
+            <pb n="61" facs="adl/goldschmidt/goldschmidt08/gold8061" xml:id="idm140161562566832"/>
+            <pb n="62" facs="adl/goldschmidt/goldschmidt08/gold8062" xml:id="idm140161562566064"/>
+            <pb n="63" facs="adl/goldschmidt/goldschmidt08/gold8063" xml:id="idm140161562565296"/>
+            <pb n="64" facs="adl/goldschmidt/goldschmidt08/gold8064" xml:id="idm140161562564528"/>
+            <pb n="65" facs="adl/goldschmidt/goldschmidt08/gold8065" xml:id="idm140161562563760"/>
+            <pb n="66" facs="adl/goldschmidt/goldschmidt08/gold8066" xml:id="idm140161562562992"/>
+            <pb n="67" facs="adl/goldschmidt/goldschmidt08/gold8067" xml:id="idm140161562562224"/>
+            <pb n="68" facs="adl/goldschmidt/goldschmidt08/gold8068" xml:id="idm140161562561456"/>
+            <pb n="69" facs="adl/goldschmidt/goldschmidt08/gold8069" xml:id="idm140161562560688"/>
+            <pb n="70" facs="adl/goldschmidt/goldschmidt08/gold8070" xml:id="idm140161562559920"/>
+            <pb n="71" facs="adl/goldschmidt/goldschmidt08/gold8071" xml:id="idm140161562559152"/>
+            <pb n="72" facs="adl/goldschmidt/goldschmidt08/gold8072" xml:id="idm140161562558384"/>
+            <pb n="73" facs="adl/goldschmidt/goldschmidt08/gold8073" xml:id="idm140161562557616"/>
+            <pb n="74" facs="adl/goldschmidt/goldschmidt08/gold8074" xml:id="idm140161562556848"/>
+            <pb n="75" facs="adl/goldschmidt/goldschmidt08/gold8075" xml:id="idm140161562556080"/>
+            <pb n="76" facs="adl/goldschmidt/goldschmidt08/gold8076" xml:id="idm140161562555312"/>
+            <pb n="77" facs="adl/goldschmidt/goldschmidt08/gold8077" xml:id="idm140161562554544"/>
+            <pb n="78" facs="adl/goldschmidt/goldschmidt08/gold8078" xml:id="idm140161562553776"/>
+            <pb n="79" facs="adl/goldschmidt/goldschmidt08/gold8079" xml:id="idm140161562553008"/>
+            <pb n="80" facs="adl/goldschmidt/goldschmidt08/gold8080" xml:id="idm140161562552240"/>
+            <pb n="81" facs="adl/goldschmidt/goldschmidt08/gold8081" xml:id="idm140161562551472"/>
+            <pb n="82" facs="adl/goldschmidt/goldschmidt08/gold8082" xml:id="idm140161562550704"/>
+            <pb n="83" facs="adl/goldschmidt/goldschmidt08/gold8083" xml:id="idm140161562549936"/>
+            <pb n="84" facs="adl/goldschmidt/goldschmidt08/gold8084" xml:id="idm140161562549168"/>
+            <pb n="85" facs="adl/goldschmidt/goldschmidt08/gold8085" xml:id="idm140161562548400"/>
+            <pb n="86" facs="adl/goldschmidt/goldschmidt08/gold8086" xml:id="idm140161562547632"/>
+            <pb n="87" facs="adl/goldschmidt/goldschmidt08/gold8087" xml:id="idm140161562546864"/>
+            <pb n="88" facs="adl/goldschmidt/goldschmidt08/gold8088" xml:id="idm140161562546096"/>
+            <pb n="89" facs="adl/goldschmidt/goldschmidt08/gold8089" xml:id="idm140161562545328"/>
+            <pb n="90" facs="adl/goldschmidt/goldschmidt08/gold8090" xml:id="idm140161562544560"/>
+            <pb n="91" facs="adl/goldschmidt/goldschmidt08/gold8091" xml:id="idm140161562543792"/>
+            <pb n="92" facs="adl/goldschmidt/goldschmidt08/gold8092" xml:id="idm140161562543024"/>
+            <pb n="93" facs="adl/goldschmidt/goldschmidt08/gold8093" xml:id="idm140161562542256"/>
+            <pb n="94" facs="adl/goldschmidt/goldschmidt08/gold8094" xml:id="idm140161562541488"/>
+            <pb n="95" facs="adl/goldschmidt/goldschmidt08/gold8095" xml:id="idm140161562540720"/>
+            <pb n="96" facs="adl/goldschmidt/goldschmidt08/gold8096" xml:id="idm140161562539952"/>
+            <pb n="97" facs="adl/goldschmidt/goldschmidt08/gold8097" xml:id="idm140161562539184"/>
+            <pb n="98" facs="adl/goldschmidt/goldschmidt08/gold8098" xml:id="idm140161562538416"/>
+            <pb n="99" facs="adl/goldschmidt/goldschmidt08/gold8099" xml:id="idm140161562537648"/>
+            <pb n="100" facs="adl/goldschmidt/goldschmidt08/gold8100" xml:id="idm140161562536880"/>
+            <pb n="101" facs="adl/goldschmidt/goldschmidt08/gold8101" xml:id="idm140161562536112"/>
+            <pb n="102" facs="adl/goldschmidt/goldschmidt08/gold8102" xml:id="idm140161562535344"/>
+            <pb n="103" facs="adl/goldschmidt/goldschmidt08/gold8103" xml:id="idm140161562534576"/>
+            <pb n="104" facs="adl/goldschmidt/goldschmidt08/gold8104" xml:id="idm140161562533808"/>
+            <pb n="105" facs="adl/goldschmidt/goldschmidt08/gold8105" xml:id="idm140161562533040"/>
+            <pb n="106" facs="adl/goldschmidt/goldschmidt08/gold8106" xml:id="idm140161562532272"/>
+            <pb n="107" facs="adl/goldschmidt/goldschmidt08/gold8107" xml:id="idm140161562531504"/>
+            <pb n="108" facs="adl/goldschmidt/goldschmidt08/gold8108" xml:id="idm140161562530736"/>
+            <pb n="109" facs="adl/goldschmidt/goldschmidt08/gold8109" xml:id="idm140161562529968"/>
+            <pb n="110" facs="adl/goldschmidt/goldschmidt08/gold8110" xml:id="idm140161562529200"/>
+            <pb n="111" facs="adl/goldschmidt/goldschmidt08/gold8111" xml:id="idm140161562528432"/>
+            <pb n="112" facs="adl/goldschmidt/goldschmidt08/gold8112" xml:id="idm140161562527664"/>
+            <pb n="113" facs="adl/goldschmidt/goldschmidt08/gold8113" xml:id="idm140161562526896"/>
+            <pb n="114" facs="adl/goldschmidt/goldschmidt08/gold8114" xml:id="idm140161562526128"/>
+            <pb n="115" facs="adl/goldschmidt/goldschmidt08/gold8115" xml:id="idm140161562525360"/>
+            <pb n="116" facs="adl/goldschmidt/goldschmidt08/gold8116" xml:id="idm140161562524592"/>
+            <pb n="117" facs="adl/goldschmidt/goldschmidt08/gold8117" xml:id="idm140161562523824"/>
+            <pb n="118" facs="adl/goldschmidt/goldschmidt08/gold8118" xml:id="idm140161562523056"/>
+            <pb n="119" facs="adl/goldschmidt/goldschmidt08/gold8119" xml:id="idm140161562522288"/>
+            <pb n="120" facs="adl/goldschmidt/goldschmidt08/gold8120" xml:id="idm140161562521520"/>
+            <pb n="121" facs="adl/goldschmidt/goldschmidt08/gold8121" xml:id="idm140161562520752"/>
+            <pb n="122" facs="adl/goldschmidt/goldschmidt08/gold8122" xml:id="idm140161562519984"/>
+            <pb n="123" facs="adl/goldschmidt/goldschmidt08/gold8123" xml:id="idm140161562519216"/>
+            <pb n="124" facs="adl/goldschmidt/goldschmidt08/gold8124" xml:id="idm140161562518448"/>
+            <pb n="125" facs="adl/goldschmidt/goldschmidt08/gold8125" xml:id="idm140161562517680"/>
+            <pb n="126" facs="adl/goldschmidt/goldschmidt08/gold8126" xml:id="idm140161562516912"/>
+            <pb n="127" facs="adl/goldschmidt/goldschmidt08/gold8127" xml:id="idm140161562516144"/>
+            <pb n="128" facs="adl/goldschmidt/goldschmidt08/gold8128" xml:id="idm140161562515376"/>
+            <pb n="129" facs="adl/goldschmidt/goldschmidt08/gold8129" xml:id="idm140161562514608"/>
+            <pb n="130" facs="adl/goldschmidt/goldschmidt08/gold8130" xml:id="idm140161562513840"/>
+            <pb n="131" facs="adl/goldschmidt/goldschmidt08/gold8131" xml:id="idm140161562513072"/>
+            <pb n="132" facs="adl/goldschmidt/goldschmidt08/gold8132" xml:id="idm140161562512304"/>
+            <pb n="133" facs="adl/goldschmidt/goldschmidt08/gold8133" xml:id="idm140161562511536"/>
+            <pb n="134" facs="adl/goldschmidt/goldschmidt08/gold8134" xml:id="idm140161562510768"/>
+            <pb n="135" facs="adl/goldschmidt/goldschmidt08/gold8135" xml:id="idm140161562510000"/>
+            <pb n="136" facs="adl/goldschmidt/goldschmidt08/gold8136" xml:id="idm140161562509232"/>
+            <pb n="137" facs="adl/goldschmidt/goldschmidt08/gold8137" xml:id="idm140161562508464"/>
+            <pb n="138" facs="adl/goldschmidt/goldschmidt08/gold8138" xml:id="idm140161562507696"/>
+            <pb n="139" facs="adl/goldschmidt/goldschmidt08/gold8139" xml:id="idm140161562506928"/>
+            <pb n="140" facs="adl/goldschmidt/goldschmidt08/gold8140" xml:id="idm140161562506160"/>
+            <pb n="141" facs="adl/goldschmidt/goldschmidt08/gold8141" xml:id="idm140161562505392"/>
+            <pb n="142" facs="adl/goldschmidt/goldschmidt08/gold8142" xml:id="idm140161562504624"/>
+            <pb n="143" facs="adl/goldschmidt/goldschmidt08/gold8143" xml:id="idm140161562503856"/>
+            <pb n="144" facs="adl/goldschmidt/goldschmidt08/gold8144" xml:id="idm140161562503088"/>
+            <pb n="145" facs="adl/goldschmidt/goldschmidt08/gold8145" xml:id="idm140161562502320"/>
+            <pb n="146" facs="adl/goldschmidt/goldschmidt08/gold8146" xml:id="idm140161562501552"/>
+            <pb n="147" facs="adl/goldschmidt/goldschmidt08/gold8147" xml:id="idm140161562500784"/>
+            <pb n="148" facs="adl/goldschmidt/goldschmidt08/gold8148" xml:id="idm140161562500016"/>
+            <pb n="149" facs="adl/goldschmidt/goldschmidt08/gold8149" xml:id="idm140161562499248"/>
+            <pb n="150" facs="adl/goldschmidt/goldschmidt08/gold8150" xml:id="idm140161562498480"/>
+            <pb n="151" facs="adl/goldschmidt/goldschmidt08/gold8151" xml:id="idm140161562497712"/>
+            <pb n="152" facs="adl/goldschmidt/goldschmidt08/gold8152" xml:id="idm140161562496944"/>
+            <pb n="153" facs="adl/goldschmidt/goldschmidt08/gold8153" xml:id="idm140161562496176"/>
+            <pb n="154" facs="adl/goldschmidt/goldschmidt08/gold8154" xml:id="idm140161562495408"/>
+            <pb n="155" facs="adl/goldschmidt/goldschmidt08/gold8155" xml:id="idm140161562494640"/>
+            <pb n="156" facs="adl/goldschmidt/goldschmidt08/gold8156" xml:id="idm140161562493872"/>
+            <pb n="157" facs="adl/goldschmidt/goldschmidt08/gold8157" xml:id="idm140161562493104"/>
+            <pb n="158" facs="adl/goldschmidt/goldschmidt08/gold8158" xml:id="idm140161562492336"/>
+            <pb n="159" facs="adl/goldschmidt/goldschmidt08/gold8159" xml:id="idm140161562491568"/>
+            <pb n="160" facs="adl/goldschmidt/goldschmidt08/gold8160" xml:id="idm140161562490800"/>
+            <pb n="161" facs="adl/goldschmidt/goldschmidt08/gold8161" xml:id="idm140161562490032"/>
+            <pb n="162" facs="adl/goldschmidt/goldschmidt08/gold8162" xml:id="idm140161562489264"/>
+            <pb n="163" facs="adl/goldschmidt/goldschmidt08/gold8163" xml:id="idm140161562488496"/>
+            <pb n="164" facs="adl/goldschmidt/goldschmidt08/gold8164" xml:id="idm140161562487728"/>
+            <pb n="165" facs="adl/goldschmidt/goldschmidt08/gold8165" xml:id="idm140161562486960"/>
+            <pb n="166" facs="adl/goldschmidt/goldschmidt08/gold8166" xml:id="idm140161562486192"/>
+            <pb n="167" facs="adl/goldschmidt/goldschmidt08/gold8167" xml:id="idm140161562485424"/>
+            <pb n="168" facs="adl/goldschmidt/goldschmidt08/gold8168" xml:id="idm140161562484656"/>
+            <pb n="169" facs="adl/goldschmidt/goldschmidt08/gold8169" xml:id="idm140161562483888"/>
+            <pb n="170" facs="adl/goldschmidt/goldschmidt08/gold8170" xml:id="idm140161562483120"/>
+            <pb n="171" facs="adl/goldschmidt/goldschmidt08/gold8171" xml:id="idm140161562482352"/>
+            <pb n="172" facs="adl/goldschmidt/goldschmidt08/gold8172" xml:id="idm140161562481584"/>
+            <pb n="173" facs="adl/goldschmidt/goldschmidt08/gold8173" xml:id="idm140161562480816"/>
+            <pb n="174" facs="adl/goldschmidt/goldschmidt08/gold8174" xml:id="idm140161562480048"/>
+            <pb n="175" facs="adl/goldschmidt/goldschmidt08/gold8175" xml:id="idm140161562479280"/>
+            <pb n="176" facs="adl/goldschmidt/goldschmidt08/gold8176" xml:id="idm140161562478512"/>
+            <pb n="177" facs="adl/goldschmidt/goldschmidt08/gold8177" xml:id="idm140161562473712"/>
+            <pb n="178" facs="adl/goldschmidt/goldschmidt08/gold8178" xml:id="idm140161562472976"/>
+            <pb n="179" facs="adl/goldschmidt/goldschmidt08/gold8179" xml:id="idm140161562472160"/>
+            <pb n="180" facs="adl/goldschmidt/goldschmidt08/gold8180" xml:id="idm140161562471344"/>
+            <pb n="181" facs="adl/goldschmidt/goldschmidt08/gold8181" xml:id="idm140161562470576"/>
+            <pb n="182" facs="adl/goldschmidt/goldschmidt08/gold8182" xml:id="idm140161562469760"/>
+            <pb n="183" facs="adl/goldschmidt/goldschmidt08/gold8183" xml:id="idm140161562468992"/>
+            <pb n="184" facs="adl/goldschmidt/goldschmidt08/gold8184" xml:id="idm140161562468224"/>
+            <pb n="185" facs="adl/goldschmidt/goldschmidt08/gold8185" xml:id="idm140161562467456"/>
+            <pb n="186" facs="adl/goldschmidt/goldschmidt08/gold8186" xml:id="idm140161562466688"/>
+            <pb n="187" facs="adl/goldschmidt/goldschmidt08/gold8187" xml:id="idm140161562465872"/>
+            <pb n="188" facs="adl/goldschmidt/goldschmidt08/gold8188" xml:id="idm140161562465104"/>
+            <pb n="189" facs="adl/goldschmidt/goldschmidt08/gold8189" xml:id="idm140161562464336"/>
+            <pb n="190" facs="adl/goldschmidt/goldschmidt08/gold8190" xml:id="idm140161562463568"/>
+            <pb n="191" facs="adl/goldschmidt/goldschmidt08/gold8191" xml:id="idm140161562462800"/>
+            <pb n="192" facs="adl/goldschmidt/goldschmidt08/gold8192" xml:id="idm140161562462032"/>
+            <pb n="193" facs="adl/goldschmidt/goldschmidt08/gold8193" xml:id="idm140161562461264"/>
+            <pb n="194" facs="adl/goldschmidt/goldschmidt08/gold8194" xml:id="idm140161562460496"/>
+            <pb n="195" facs="adl/goldschmidt/goldschmidt08/gold8195" xml:id="idm140161562459728"/>
+            <pb n="196" facs="adl/goldschmidt/goldschmidt08/gold8196" xml:id="idm140161562458960"/>
+            <pb n="197" facs="adl/goldschmidt/goldschmidt08/gold8197" xml:id="idm140161562458192"/>
+            <pb n="198" facs="adl/goldschmidt/goldschmidt08/gold8198" xml:id="idm140161562457424"/>
+            <pb n="199" facs="adl/goldschmidt/goldschmidt08/gold8199" xml:id="idm140161562456608"/>
+            <pb n="200" facs="adl/goldschmidt/goldschmidt08/gold8200" xml:id="idm140161562455840"/>
+            <pb n="201" facs="adl/goldschmidt/goldschmidt08/gold8201" xml:id="idm140161562455024"/>
+            <pb n="202" facs="adl/goldschmidt/goldschmidt08/gold8202" xml:id="idm140161562454256"/>
+            <pb n="203" facs="adl/goldschmidt/goldschmidt08/gold8203" xml:id="idm140161562453440"/>
+            <pb n="204" facs="adl/goldschmidt/goldschmidt08/gold8204" xml:id="idm140161562452624"/>
+            <pb n="205" facs="adl/goldschmidt/goldschmidt08/gold8205" xml:id="idm140161562451856"/>
+            <pb n="206" facs="adl/goldschmidt/goldschmidt08/gold8206" xml:id="idm140161562451088"/>
+            <pb n="207" facs="adl/goldschmidt/goldschmidt08/gold8207" xml:id="idm140161562450272"/>
+            <pb n="208" facs="adl/goldschmidt/goldschmidt08/gold8208" xml:id="idm140161562449504"/>
+            <pb n="209" facs="adl/goldschmidt/goldschmidt08/gold8209" xml:id="idm140161562448688"/>
+            <pb n="210" facs="adl/goldschmidt/goldschmidt08/gold8210" xml:id="idm140161562447920"/>
+            <pb n="211" facs="adl/goldschmidt/goldschmidt08/gold8211" xml:id="idm140161562447152"/>
+            <pb n="212" facs="adl/goldschmidt/goldschmidt08/gold8212" xml:id="idm140161562446336"/>
+            <pb n="213" facs="adl/goldschmidt/goldschmidt08/gold8213" xml:id="idm140161562445568"/>
+            <pb n="214" facs="adl/goldschmidt/goldschmidt08/gold8214" xml:id="idm140161562444800"/>
+            <pb n="215" facs="adl/goldschmidt/goldschmidt08/gold8215" xml:id="idm140161562444032"/>
+            <pb n="216" facs="adl/goldschmidt/goldschmidt08/gold8216" xml:id="idm140161562443264"/>
+            <pb n="217" facs="adl/goldschmidt/goldschmidt08/gold8217" xml:id="idm140161562442448"/>
+            <pb n="218" facs="adl/goldschmidt/goldschmidt08/gold8218" xml:id="idm140161562441680"/>
+            <pb n="219" facs="adl/goldschmidt/goldschmidt08/gold8219" xml:id="idm140161562440912"/>
+            <pb n="220" facs="adl/goldschmidt/goldschmidt08/gold8220" xml:id="idm140161562440144"/>
+            <pb n="221" facs="adl/goldschmidt/goldschmidt08/gold8221" xml:id="idm140161562439376"/>
+            <pb n="222" facs="adl/goldschmidt/goldschmidt08/gold8222" xml:id="idm140161562438608"/>
+            <pb n="223" facs="adl/goldschmidt/goldschmidt08/gold8223" xml:id="idm140161562437792"/>
+            <pb n="224" facs="adl/goldschmidt/goldschmidt08/gold8224" xml:id="idm140161562436976"/>
+            <pb n="225" facs="adl/goldschmidt/goldschmidt08/gold8225" xml:id="idm140161562436160"/>
+            <pb n="226" facs="adl/goldschmidt/goldschmidt08/gold8226" xml:id="idm140161562435392"/>
+            <pb n="227" facs="adl/goldschmidt/goldschmidt08/gold8227" xml:id="idm140161562434624"/>
+            <pb n="228" facs="adl/goldschmidt/goldschmidt08/gold8228" xml:id="idm140161562433856"/>
+            <pb n="229" facs="adl/goldschmidt/goldschmidt08/gold8229" xml:id="idm140161562433088"/>
+            <pb n="230" facs="adl/goldschmidt/goldschmidt08/gold8230" xml:id="idm140161562432272"/>
+            <pb n="231" facs="adl/goldschmidt/goldschmidt08/gold8231" xml:id="idm140161562431504"/>
+            <pb n="232" facs="adl/goldschmidt/goldschmidt08/gold8232" xml:id="idm140161562430736"/>
+            <pb n="233" facs="adl/goldschmidt/goldschmidt08/gold8233" xml:id="idm140161562429968"/>
+            <pb n="234" facs="adl/goldschmidt/goldschmidt08/gold8234" xml:id="idm140161562429200"/>
+            <pb n="235" facs="adl/goldschmidt/goldschmidt08/gold8235" xml:id="idm140161562428432"/>
+            <pb n="236" facs="adl/goldschmidt/goldschmidt08/gold8236" xml:id="idm140161562427616"/>
+            <pb n="237" facs="adl/goldschmidt/goldschmidt08/gold8237" xml:id="idm140161562426800"/>
+            <pb n="238" facs="adl/goldschmidt/goldschmidt08/gold8238" xml:id="idm140161562425984"/>
+            <pb n="239" facs="adl/goldschmidt/goldschmidt08/gold8239" xml:id="idm140161562425216"/>
+            <pb n="240" facs="adl/goldschmidt/goldschmidt08/gold8240" xml:id="idm140161562424448"/>
+            <pb n="241" facs="adl/goldschmidt/goldschmidt08/gold8241" xml:id="idm140161562423680"/>
+            <pb n="242" facs="adl/goldschmidt/goldschmidt08/gold8242" xml:id="idm140161562422912"/>
+            <pb n="243" facs="adl/goldschmidt/goldschmidt08/gold8243" xml:id="idm140161562422096"/>
+            <pb n="244" facs="adl/goldschmidt/goldschmidt08/gold8244" xml:id="idm140161562421328"/>
+            <pb n="245" facs="adl/goldschmidt/goldschmidt08/gold8245" xml:id="idm140161562420512"/>
+            <pb n="246" facs="adl/goldschmidt/goldschmidt08/gold8246" xml:id="idm140161562419696"/>
+            <pb n="247" facs="adl/goldschmidt/goldschmidt08/gold8247" xml:id="idm140161562418880"/>
+            <pb n="248" facs="adl/goldschmidt/goldschmidt08/gold8248" xml:id="idm140161562418112"/>
+            <pb n="249" facs="adl/goldschmidt/goldschmidt08/gold8249" xml:id="idm140161562417344"/>
+            <pb n="250" facs="adl/goldschmidt/goldschmidt08/gold8250" xml:id="idm140161562416576"/>
+            <pb n="251" facs="adl/goldschmidt/goldschmidt08/gold8251" xml:id="idm140161562415760"/>
+            <pb n="252" facs="adl/goldschmidt/goldschmidt08/gold8252" xml:id="idm140161562414944"/>
+            <pb n="253" facs="adl/goldschmidt/goldschmidt08/gold8253" xml:id="idm140161562414176"/>
+            <pb n="254" facs="adl/goldschmidt/goldschmidt08/gold8254" xml:id="idm140161562413408"/>
+            <pb n="255" facs="adl/goldschmidt/goldschmidt08/gold8255" xml:id="idm140161562412640"/>
+            <pb n="256" facs="adl/goldschmidt/goldschmidt08/gold8256" xml:id="idm140161562411872"/>
+            <pb n="257" facs="adl/goldschmidt/goldschmidt08/gold8257" xml:id="idm140161562411104"/>
+            <pb n="258" facs="adl/goldschmidt/goldschmidt08/gold8258" xml:id="idm140161562410336"/>
+            <pb n="259" facs="adl/goldschmidt/goldschmidt08/gold8259" xml:id="idm140161562409568"/>
+            <pb n="260" facs="adl/goldschmidt/goldschmidt08/gold8260" xml:id="idm140161562408752"/>
+            <pb n="261" facs="adl/goldschmidt/goldschmidt08/gold8261" xml:id="idm140161562407984"/>
+            <pb n="262" facs="adl/goldschmidt/goldschmidt08/gold8262" xml:id="idm140161562407168"/>
+            <pb n="263" facs="adl/goldschmidt/goldschmidt08/gold8263" xml:id="idm140161562406352"/>
+            <pb n="264" facs="adl/goldschmidt/goldschmidt08/gold8264" xml:id="idm140161562405584"/>
+            <pb n="265" facs="adl/goldschmidt/goldschmidt08/gold8265" xml:id="idm140161562404768"/>
+            <pb n="266" facs="adl/goldschmidt/goldschmidt08/gold8266" xml:id="idm140161562404000"/>
+            <pb n="267" facs="adl/goldschmidt/goldschmidt08/gold8267" xml:id="idm140161562403232"/>
+            <pb n="268" facs="adl/goldschmidt/goldschmidt08/gold8268" xml:id="idm140161562402464"/>
+            <pb n="269" facs="adl/goldschmidt/goldschmidt08/gold8269" xml:id="idm140161562401696"/>
+            <pb n="270" facs="adl/goldschmidt/goldschmidt08/gold8270" xml:id="idm140161562400928"/>
+            <pb n="271" facs="adl/goldschmidt/goldschmidt08/gold8271" xml:id="idm140161562400112"/>
+            <pb n="272" facs="adl/goldschmidt/goldschmidt08/gold8272" xml:id="idm140161562399296"/>
+            <pb n="273" facs="adl/goldschmidt/goldschmidt08/gold8273" xml:id="idm140161562398528"/>
+            <pb n="274" facs="adl/goldschmidt/goldschmidt08/gold8274" xml:id="idm140161562397760"/>
+            <pb n="275" facs="adl/goldschmidt/goldschmidt08/gold8275" xml:id="idm140161562396944"/>
+            <pb n="276" facs="adl/goldschmidt/goldschmidt08/gold8276" xml:id="idm140161562396176"/>
+            <pb n="277" facs="adl/goldschmidt/goldschmidt08/gold8277" xml:id="idm140161562395360"/>
+            <pb n="278" facs="adl/goldschmidt/goldschmidt08/gold8278" xml:id="idm140161562394544"/>
+            <pb n="279" facs="adl/goldschmidt/goldschmidt08/gold8279" xml:id="idm140161562393728"/>
+            <pb n="280" facs="adl/goldschmidt/goldschmidt08/gold8280" xml:id="idm140161562392912"/>
+            <pb n="281" facs="adl/goldschmidt/goldschmidt08/gold8281" xml:id="idm140161562392144"/>
+            <pb n="282" facs="adl/goldschmidt/goldschmidt08/gold8282" xml:id="idm140161562391376"/>
+            <pb n="283" facs="adl/goldschmidt/goldschmidt08/gold8283" xml:id="idm140161562390560"/>
+            <pb n="284" facs="adl/goldschmidt/goldschmidt08/gold8284" xml:id="idm140161562389792"/>
+            <pb n="285" facs="adl/goldschmidt/goldschmidt08/gold8285" xml:id="idm140161562389024"/>
+            <pb n="286" facs="adl/goldschmidt/goldschmidt08/gold8286" xml:id="idm140161562388256"/>
+            <pb n="287" facs="adl/goldschmidt/goldschmidt08/gold8287" xml:id="idm140161562387488"/>
+            <pb n="288" facs="adl/goldschmidt/goldschmidt08/gold8288" xml:id="idm140161562386720"/>
+            <pb n="289" facs="adl/goldschmidt/goldschmidt08/gold8289" xml:id="idm140161562385952"/>
+            <pb n="290" facs="adl/goldschmidt/goldschmidt08/gold8290" xml:id="idm140161562385136"/>
+            <pb n="291" facs="adl/goldschmidt/goldschmidt08/gold8291" xml:id="idm140161562384320"/>
+            <pb n="292" facs="adl/goldschmidt/goldschmidt08/gold8292" xml:id="idm140161562383552"/>
+            <pb n="293" facs="adl/goldschmidt/goldschmidt08/gold8293" xml:id="idm140161562382736"/>
+            <pb n="294" facs="adl/goldschmidt/goldschmidt08/gold8294" xml:id="idm140161562381968"/>
+            <pb n="295" facs="adl/goldschmidt/goldschmidt08/gold8295" xml:id="idm140161562381200"/>
+            <pb n="296" facs="adl/goldschmidt/goldschmidt08/gold8296" xml:id="idm140161562380384"/>
+            <pb n="297" facs="adl/goldschmidt/goldschmidt08/gold8297" xml:id="idm140161562379568"/>
+            <pb n="298" facs="adl/goldschmidt/goldschmidt08/gold8298" xml:id="idm140161562378800"/>
+            <pb n="299" facs="adl/goldschmidt/goldschmidt08/gold8299" xml:id="idm140161562377984"/>
+            <pb n="300" facs="adl/goldschmidt/goldschmidt08/gold8300" xml:id="idm140161562377168"/>
+            <pb n="301" facs="adl/goldschmidt/goldschmidt08/gold8301" xml:id="idm140161562376352"/>
+            <pb n="302" facs="adl/goldschmidt/goldschmidt08/gold8302" xml:id="idm140161562375536"/>
+            <pb n="303" facs="adl/goldschmidt/goldschmidt08/gold8303" xml:id="idm140161562374720"/>
+            <pb n="304" facs="adl/goldschmidt/goldschmidt08/gold8304" xml:id="idm140161562373952"/>
+            <pb n="305" facs="adl/goldschmidt/goldschmidt08/gold8305" xml:id="idm140161562373136"/>
+            <pb n="306" facs="adl/goldschmidt/goldschmidt08/gold8306" xml:id="idm140161562372320"/>
+            <pb n="307" facs="adl/goldschmidt/goldschmidt08/gold8307" xml:id="idm140161562371504"/>
+            <pb n="308" facs="adl/goldschmidt/goldschmidt08/gold8308" xml:id="idm140161562370688"/>
+            <pb n="309" facs="adl/goldschmidt/goldschmidt08/gold8309" xml:id="idm140161562369872"/>
+            <pb n="310" facs="adl/goldschmidt/goldschmidt08/gold8310" xml:id="idm140161562369104"/>
+            <pb n="311" facs="adl/goldschmidt/goldschmidt08/gold8311" xml:id="idm140161562368288"/>
+            <pb n="312" facs="adl/goldschmidt/goldschmidt08/gold8312" xml:id="idm140161562367520"/>
+            <pb n="313" facs="adl/goldschmidt/goldschmidt08/gold8313" xml:id="idm140161562366752"/>
+            <pb n="314" facs="adl/goldschmidt/goldschmidt08/gold8314" xml:id="idm140161562365984"/>
+            <pb n="315" facs="adl/goldschmidt/goldschmidt08/gold8315" xml:id="idm140161562365168"/>
+            <pb n="316" facs="adl/goldschmidt/goldschmidt08/gold8316" xml:id="idm140161562364400"/>
+            <pb n="317" facs="adl/goldschmidt/goldschmidt08/gold8317" xml:id="idm140161562363632"/>
+            <pb n="318" facs="adl/goldschmidt/goldschmidt08/gold8318" xml:id="idm140161562362864"/>
+            <pb n="319" facs="adl/goldschmidt/goldschmidt08/gold8319" xml:id="idm140161562362096"/>
+            <pb n="320" facs="adl/goldschmidt/goldschmidt08/gold8320" xml:id="idm140161562361328"/>
+            <pb n="321" facs="adl/goldschmidt/goldschmidt08/gold8321" xml:id="idm140161562360560"/>
+            <pb n="322" facs="adl/goldschmidt/goldschmidt08/gold8322" xml:id="idm140161562359744"/>
+            <pb n="323" facs="adl/goldschmidt/goldschmidt08/gold8323" xml:id="idm140161562358976"/>
+            <pb n="324" facs="adl/goldschmidt/goldschmidt08/gold8324" xml:id="idm140161562358160"/>
+            <pb n="325" facs="adl/goldschmidt/goldschmidt08/gold8325" xml:id="idm140161562357392"/>
+            <pb n="326" facs="adl/goldschmidt/goldschmidt08/gold8326" xml:id="idm140161562356624"/>
+            <pb n="327" facs="adl/goldschmidt/goldschmidt08/gold8327" xml:id="idm140161562355808"/>
+            <pb n="328" facs="adl/goldschmidt/goldschmidt08/gold8328" xml:id="idm140161562354992"/>
+            <pb n="329" facs="adl/goldschmidt/goldschmidt08/gold8329" xml:id="idm140161562354176"/>
+            <pb n="330" facs="adl/goldschmidt/goldschmidt08/gold8330" xml:id="idm140161562353408"/>
+            <pb n="331" facs="adl/goldschmidt/goldschmidt08/gold8331" xml:id="idm140161562352592"/>
+            <pb n="332" facs="adl/goldschmidt/goldschmidt08/gold8332" xml:id="idm140161562351824"/>
+            <pb n="333" facs="adl/goldschmidt/goldschmidt08/gold8333" xml:id="idm140161562351056"/>
+            <pb n="334" facs="adl/goldschmidt/goldschmidt08/gold8334" xml:id="idm140161562350240"/>
+            <pb n="335" facs="adl/goldschmidt/goldschmidt08/gold8335" xml:id="idm140161562349424"/>
+            <pb n="336" facs="adl/goldschmidt/goldschmidt08/gold8336" xml:id="idm140161562348608"/>
+            <pb n="337" facs="adl/goldschmidt/goldschmidt08/gold8337" xml:id="idm140161562347840"/>
+            <pb n="338" facs="adl/goldschmidt/goldschmidt08/gold8338" xml:id="idm140161562347072"/>
+            <pb n="339" facs="adl/goldschmidt/goldschmidt08/gold8339" xml:id="idm140161562346304"/>
+            <pb n="340" facs="adl/goldschmidt/goldschmidt08/gold8340" xml:id="idm140161562345488"/>
+            <pb n="341" facs="adl/goldschmidt/goldschmidt08/gold8341" xml:id="idm140161562344672"/>
+            <pb n="342" facs="adl/goldschmidt/goldschmidt08/gold8342" xml:id="idm140161562343904"/>
+            <pb n="343" facs="adl/goldschmidt/goldschmidt08/gold8343" xml:id="idm140161562343136"/>
+            <pb n="344" facs="adl/goldschmidt/goldschmidt08/gold8344" xml:id="idm140161562342320"/>
+            <pb n="345" facs="adl/goldschmidt/goldschmidt08/gold8345" xml:id="idm140161562341504"/>
+            <pb n="346" facs="adl/goldschmidt/goldschmidt08/gold8346" xml:id="idm140161562340736"/>
+            <pb n="347" facs="adl/goldschmidt/goldschmidt08/gold8347" xml:id="idm140161562339920"/>
+            <pb n="348" facs="adl/goldschmidt/goldschmidt08/gold8348" xml:id="idm140161562339104"/>
+            <pb n="349" facs="adl/goldschmidt/goldschmidt08/gold8349" xml:id="idm140161562338288"/>
+            <pb n="350" facs="adl/goldschmidt/goldschmidt08/gold8350" xml:id="idm140161562337520"/>
+            <pb n="351" facs="adl/goldschmidt/goldschmidt08/gold8351" xml:id="idm140161562336752"/>
+            <pb n="352" facs="adl/goldschmidt/goldschmidt08/gold8352" xml:id="idm140161562335936"/>
+            <pb n="353" facs="adl/goldschmidt/goldschmidt08/gold8353" xml:id="idm140161562335120"/>
+            <pb n="354" facs="adl/goldschmidt/goldschmidt08/gold8354" xml:id="idm140161562334352"/>
+            <pb n="355" facs="adl/goldschmidt/goldschmidt08/gold8355" xml:id="idm140161562333536"/>
+            <pb n="356" facs="adl/goldschmidt/goldschmidt08/gold8356" xml:id="idm140161562332768"/>
+            <pb n="357" facs="adl/goldschmidt/goldschmidt08/gold8357" xml:id="idm140161562331952"/>
+            <pb n="358" facs="adl/goldschmidt/goldschmidt08/gold8358" xml:id="idm140161562331136"/>
+            <pb n="359" facs="adl/goldschmidt/goldschmidt08/gold8359" xml:id="idm140161562330368"/>
+            <pb n="360" facs="adl/goldschmidt/goldschmidt08/gold8360" xml:id="idm140161562329552"/>
+            <pb n="361" facs="adl/goldschmidt/goldschmidt08/gold8361" xml:id="idm140161562328784"/>
+            <pb n="362" facs="adl/goldschmidt/goldschmidt08/gold8362" xml:id="idm140161562328016"/>
+            <pb n="363" facs="adl/goldschmidt/goldschmidt08/gold8363" xml:id="idm140161562327200"/>
+            <pb n="364" facs="adl/goldschmidt/goldschmidt08/gold8364" xml:id="idm140161562326384"/>
+            <pb n="365" facs="adl/goldschmidt/goldschmidt08/gold8365" xml:id="idm140161562325568"/>
+            <pb n="366" facs="adl/goldschmidt/goldschmidt08/gold8366" xml:id="idm140161562324752"/>
+            <pb n="367" facs="adl/goldschmidt/goldschmidt08/gold8367" xml:id="idm140161562323984"/>
+            <pb n="368" facs="adl/goldschmidt/goldschmidt08/gold8368" xml:id="idm140161562323216"/>
+            <pb n="369" facs="adl/goldschmidt/goldschmidt08/gold8369" xml:id="idm140161562322400"/>
+            <pb n="370" facs="adl/goldschmidt/goldschmidt08/gold8370" xml:id="idm140161562321584"/>
+            <pb n="371" facs="adl/goldschmidt/goldschmidt08/gold8371" xml:id="idm140161562320768"/>
+            <p xml:id="idm140161562320000"/>
+          </div>
+        </body>
+      </text>
+    </group>
+  </text>
+</TEI>

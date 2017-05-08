@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Tom opmærkning bnh 01.10.2001-->
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="idm139962190204048"><!-- 
+       file     ./marc_dir/001582980.xml
+       field    559 
+       subfield a 
+       prefix   -->
+  <teiHeader xml:id="idm139962190203120">
+    <fileDesc xml:id="idm139962190202864">
+      <titleStmt xml:id="idm139962190177328">
+        <title xml:id="idm139962190177072">Samlede Skrifter, VI</title>
+        <respStmt xml:id="idm139962190176688">
+          <resp xml:id="idm139962190176432">Hans Brix</resp>
+          <resp xml:id="idm139962190176048">Palle Raunkjær</resp>
+          <resp xml:id="idm139962190175664">Henrik Denman</resp>
+          <name xml:id="idm139962190175280"/>
+        </respStmt>
+        <author xml:id="idm139962190174896">Emil Aarestrup</author>
+      </titleStmt>
+      <publicationStmt xml:id="idm139962190174384">
+        <publisher xml:id="idm139962190174128">Det danske Sprog- og Litteraturselskab</publisher>
+        <idno xml:id="idm139962190173744" xml:base="texts/aarestrup06.xml">001582980:06</idno>
+      </publicationStmt>
+      <notesStmt xml:id="idm139962190172896">
+        <note xml:id="idm139962190172592">
+	  </note>
+      </notesStmt>
+      <sourceDesc xml:id="idm139962190172080"><bibl xml:id="idm139962190171952"><author n="1" xml:id="idm139962190171264"><name xml:id="idm139962190171008"><surname xml:id="idm139962190170880">Aarestrup</surname>, <forename xml:id="idm139962190170416">Emil</forename></name></author><title xml:id="idm139962190170128">Emil Aarestrups samlede skrifter</title><pubPlace xml:id="idm139962190169824">Kbh</pubPlace>
+<publisher xml:id="idm139962190169392">C. A. Reitzel</publisher><date xml:id="idm139962190169056">1976</date></bibl><listBibl xml:id="idm139962190168768"><bibl xml:id="biblid54138"><title xml:id="idm139962190155568">Dedikation til hr. A. Tønder</title></bibl><bibl xml:id="biblid54147"><title xml:id="idm139962190154688">Til Madam M. Zinck</title></bibl><bibl xml:id="biblid54163"><title xml:id="idm139962190153904">Rimbrev til Jomfru Anna Aagard - I</title></bibl><bibl xml:id="biblid54178"><title xml:id="idm139962190153104">Rimbrev til Jomfru Anna Aagard - II</title></bibl><bibl xml:id="biblid54187"><title xml:id="idm139962190152256">Rimbrev til Sophie Hansen</title></bibl><bibl xml:id="biblid54209"><title xml:id="idm139962190151456">Tilegnelse til Amalie Raben</title></bibl><bibl xml:id="biblid54217"><title xml:id="idm139962190150608">Sang om Grundloven</title></bibl></listBibl></sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text xml:id="idm139962190149968">
+    <front xml:id="idm139962190149712">
+      <pb n="1" facs="adl/aarestrup/aare6/sup001" xml:id="idm139962190149408"/>
+      <pb n="2" facs="adl/aarestrup/aare6/sup002" xml:id="idm139962190148640"/>
+    </front>
+    <group xml:id="idm139962190147696">
+      <pb n="3" facs="adl/aarestrup/aare6/sup003" xml:id="idm139962190147440"/>
+      <text xml:id="workid54138" decls="#biblid54138">
+        <body xml:id="idm139962190145728">
+          <p xml:id="idm139962190145424"/>
+        </body>
+      </text>
+      <text xml:id="workid54147" decls="#biblid54147">
+        <body xml:id="idm139962190143968">
+          <p xml:id="idm139962190143712"/>
+        </body>
+      </text>
+      <pb n="4" facs="adl/aarestrup/aare6/sup004" xml:id="idm139962190143200"/>
+      <text xml:id="workid54163" decls="#biblid54163">
+        <body xml:id="idm139962190141488">
+          <p xml:id="idm139962190141232"/>
+        </body>
+      </text>
+      <pb n="5" facs="adl/aarestrup/aare6/sup005" xml:id="idm139962190140720"/>
+      <text xml:id="workid54178" decls="#biblid54178">
+        <body xml:id="idm139962190139008">
+          <p xml:id="idm139962190138752"/>
+        </body>
+      </text>
+      <text xml:id="workid54187" decls="#biblid54187">
+        <body xml:id="idm139962190137296">
+          <pb n="6" facs="adl/aarestrup/aare6/sup006" xml:id="idm139962190137040"/>
+          <p xml:id="idm139962190233200"/>
+        </body>
+      </text>
+      <pb n="7" facs="adl/aarestrup/aare6/sup007" xml:id="idm139962190232688"/>
+      <text xml:id="workid54209" decls="#biblid54209">
+        <body xml:id="idm139962190231088">
+          <p xml:id="idm139962190230832"/>
+        </body>
+      </text>
+      <text xml:id="workid54217" decls="#biblid54217">
+        <body xml:id="idm139962190112032">
+          <pb n="8" facs="adl/aarestrup/aare6/sup008" xml:id="idm139962190111776"/>
+          <p xml:id="idm139962190111008"/>
+        </body>
+      </text>
+    </group>
+    <back xml:id="idm139962190110368">
+      <pb n="9" facs="adl/aarestrup/aare6/sup009" xml:id="idm139962190110112"/>
+      <pb n="10" facs="adl/aarestrup/aare6/sup010" xml:id="idm139962190109344"/>
+    </back>
+  </text>
+</TEI>

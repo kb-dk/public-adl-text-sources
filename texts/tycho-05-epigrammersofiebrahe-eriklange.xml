@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- 
+
+Tycho Brahe-oversættelser fra Peter Zeeberg - konverteret fra Wordfil
+
+-->
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="idm139829199158416">
+  <teiHeader xml:id="idm139829199157824">
+    <fileDesc xml:id="idm139829199157568">
+      <titleStmt xml:id="idm139829199157264">
+        <title xml:id="idm139829199156960">Tycho Brahe lusit hæc cum Sophia... [2 epigrammer om Sophie Brahe og Erik Lange]</title>
+        <respStmt xml:id="idm139829199131200">
+          <resp xml:id="idm139829199130944">Oversat fra latin Peter Zeeberg</resp>
+          <name xml:id="idm139829199130512"/>
+        </respStmt>
+        <author xml:id="idm139829199130128">Tycho Brahe</author>
+      </titleStmt>
+      <publicationStmt xml:id="idm139829199129568">
+        <publisher xml:id="idm139829199129312">oversat af Peter Zeeberg i: Tycho Brahes Urania Titani - et digt om Sophie Brahe. (Renæssancestudier 7) Kbh. 1992.</publisher>
+        <idno xml:id="idm139829199128688" xml:base="texts/tycho-05-epigrammersofiebrahe-eriklange.xml">000000000:05</idno>
+      </publicationStmt>
+      <notesStmt xml:id="idm139829199127760">
+        <note xml:id="idm139829199127456">
+	  </note>
+      </notesStmt>
+      <sourceDesc xml:id="idm139829199126944">
+        <bibl xml:id="idm139829199126688">MSWord-fil fra Peter Zeeberg</bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text xml:id="idm139829199125872">
+    <pb n="1" facs="side1" xml:id="idm139829199125008" rend="missing"/>
+    <front xml:id="idm139829199124384">
+      <titlePage xml:id="idm139829199124128">
+        <docAuthor xml:id="idm139829199123872">Tycho Brahe</docAuthor>
+        <docTitle xml:id="idm139829199123488">
+          <titlePart type="main" xml:id="idm139829199123184">Tycho Brahe lusit hæc cum Sophia... <lb xml:id="idm139829199122544"/>2 epigrammer om Sophie Brahe og Erik Lange</titlePart>
+        </docTitle>
+        <docEdition xml:id="idm139829199121968">
+               oversat af Peter Zeeberg <lb xml:id="idm139829199121648"/>i: Tycho Brahes Urania Titani -- et digt om Sophie Brahe. (Renæssancestudier 7) Kbh. 1992.
+            </docEdition>
+      </titlePage>
+    </front>
+    <body xml:id="idm139829199120784">
+      <pb n="2" facs="side2" xml:id="idm139829199120528" rend="missing"/>
+      <div xml:id="idm139829199119712">
+        <head xml:id="idm139829199119456"> En spøg, skrevet af Tycho Brahe sammen med hans søster Sophie
+        på Anders Skels gård.</head>
+        <lg xml:id="idm139829199118864">
+          <l xml:id="idm139829199118560">Juno er svag for rigdom, men forkaster ikke kærlighed,</l>
+          <l xml:id="idm139829199118048">Calliope fremsynger sine vers i higen efter kærlighed,</l>
+          <l xml:id="idm139829199117536">Urania, der gransker himlen, grubler over kærlighed.</l>
+          <l xml:id="idm139829199117024">Hvem skulle tro en lille en som Amor helt alene</l>
+<!--5	-->
+          <l xml:id="idm139829199116224">kunne besejre tre så mægtige gudinder?</l>
+          <l xml:id="idm139829199115744"> og når gudinder bøjer sig for kærligheden, må også I give efter for den, dødelige.</l>
+        </lg>
+        <lg xml:id="idm139829199115040">
+          <head xml:id="idm139829199114784">I Erik Langes navn fra T.B. til hans søster Sophie</head>
+          <l xml:id="idm139829199114288">Kære Sophie, din egen Erik sender denne hilsen,</l>
+          <l xml:id="idm139829199113792">men, åh, hvor ville han ønske det var sig selv han sendte.</l>
+          <l xml:id="idm139829199113264">Han sukker og han stønner over ikke at kunne sende kroppen</l>
+          <l xml:id="idm139829199112752"> og derved skilles ånden uophørligt fra sin krop.</l>
+<!--5	-->
+          <l xml:id="idm139829199111936">Min ånd forlader mig, fordi jeg elsker - fordi jeg lever i en andens krop.</l>
+          <l xml:id="idm139829199111392">Ved kærligheden mon hvad det vil sige at leve sådan?</l>
+          <l xml:id="idm139829199110880">Jeg skyder skylden først på vinden så på sejl og ror,</l>
+          <l xml:id="idm139829199110368">samt at du tog herfra, og at jeg ingen breve får tilbage.</l>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

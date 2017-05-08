@@ -1,0 +1,821 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--Tom opmærkning blo 09.05.02-->
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="idm140515552386016"><!-- 
+       file     ./marc_dir/001823907.xml
+       field     
+       subfield  
+       prefix   -->
+  <teiHeader xml:id="idm140515552385184">
+    <fileDesc xml:id="idm140515552384928">
+      <titleStmt xml:id="idm140515552419264">
+        <title xml:id="idm140515552359280">Samlede Poetiske Skrifter bind 10</title>
+        <author xml:id="idm140515552358896">Holger Drachmann</author>
+      </titleStmt>
+      <publicationStmt xml:id="idm140515552358384">
+        <publisher xml:id="idm140515552358128">Gyldendalske Boghandel</publisher>
+        <idno xml:id="idm140515552357744" xml:base="texts/drachmann10tom.xml">001823907:10</idno>
+      </publicationStmt>
+      <notesStmt xml:id="idm140515552356976">
+        <note xml:id="idm140515552356720">
+	  </note>
+      </notesStmt>
+      <sourceDesc xml:id="idm140515552356208"><bibl xml:id="idm140515552356080"><author n="1" xml:id="idm140515552355392"><name xml:id="idm140515552355136"><surname xml:id="idm140515552355008">Drachmann</surname>, <forename xml:id="idm140515552354576">Holger</forename></name></author><title xml:id="idm140515552354320">Samlede poetiske Skrifter</title><pubPlace xml:id="idm140515552354016">Kbh. &amp; Kristiania</pubPlace>
+<date xml:id="idm140515552353392">1906-1909</date></bibl><listBibl xml:id="idm140515552353136"><bibl xml:id="biblid54134"><title xml:id="idm140515552339984">Troldtøj</title></bibl><bibl xml:id="biblid54153"><title xml:id="idm140515552339200">Sommernat paa Indsøen</title></bibl><bibl xml:id="biblid53735"><title xml:id="idm140515552338384">Nissen</title></bibl><bibl xml:id="biblid54419"><title xml:id="idm140515552337552">Mosekonen</title></bibl><bibl xml:id="biblid54475"><title xml:id="idm140515552336768">Helhesten</title></bibl><bibl xml:id="biblid54673"><title xml:id="idm140515552335936">Havfruen</title></bibl><bibl xml:id="biblid54716"><title xml:id="idm140515552335104">Basilisken</title></bibl><bibl xml:id="biblid54786"><title xml:id="idm140515552334272">Aa-Manden</title></bibl><bibl xml:id="biblid54810"><title xml:id="idm140515552333440">Den vilde Jæger</title></bibl><bibl xml:id="biblid54880"><title xml:id="idm140515552332592">Elverfolket</title></bibl><bibl xml:id="biblid54910"><title xml:id="idm140515552331744">Heksen</title></bibl><bibl xml:id="biblid54999"><title xml:id="idm140515552330960">Elverkongen</title></bibl><bibl xml:id="biblid55068"><title xml:id="idm140515552330112">Natravnen</title></bibl><bibl xml:id="biblid55093"><title xml:id="idm140515552329328">Maren</title></bibl><bibl xml:id="biblid55163"><title xml:id="idm140515552328544">Lygtemænd</title></bibl><bibl xml:id="biblid55235"><title xml:id="idm140515552327712">Travis</title></bibl><bibl xml:id="biblid55266"><title xml:id="idm140515552326880">Ouverture [Travis]</title></bibl><bibl xml:id="biblid55285"><title xml:id="idm140515552326048">Søndagsgudstjeneste i Travis</title></bibl><bibl xml:id="biblid55316"><title xml:id="idm140515552325168">Et Møde med Rud. Baumbach</title></bibl><bibl xml:id="biblid55353"><title xml:id="idm140515552324304">Den lille Hund</title></bibl><bibl xml:id="biblid55385"><title xml:id="idm140515552323520">Der Trottel</title></bibl><bibl xml:id="biblid55416"><title xml:id="idm140515552322624">Ophelia [fra Travis]</title></bibl><bibl xml:id="biblid55460"><title xml:id="idm140515552321792">En fremmed Fugl imellem Bjergene</title></bibl><bibl xml:id="biblid55504"><title xml:id="idm140515552320944">Den gamle Marquis</title></bibl><bibl xml:id="biblid55568"><title xml:id="idm140515552320160">Othello [fra Travis]</title></bibl><bibl xml:id="biblid55644"><title xml:id="idm140515552319264">Maria Luschari</title></bibl><bibl xml:id="biblid55728"><title xml:id="idm140515552318480">Kuglen som traf. Et Sagn</title></bibl><bibl xml:id="biblid56049"><title xml:id="idm140515552317632">Unge Viser af Svend Trøst</title></bibl><bibl xml:id="biblid56053"><title xml:id="idm140515552316768">Noter til Dannevang</title></bibl><bibl xml:id="biblid56068"><title xml:id="idm140515552315936">Ande-Dam</title></bibl><bibl xml:id="biblid56080"><title xml:id="idm140515552315104">Mit Land, mit gamle Land</title></bibl><bibl xml:id="biblid56093"><title xml:id="idm140515552314192">Fra Guldbryllupstiden</title></bibl><bibl xml:id="biblid56095"><title xml:id="idm140515552415680">Uniform</title></bibl><bibl xml:id="biblid56101"><title xml:id="idm140515552414896">Der er Manden!</title></bibl><bibl xml:id="biblid56113"><title xml:id="idm140515552414112">Bum, bum!</title></bibl><bibl xml:id="biblid56118"><title xml:id="idm140515552413328">Tornerose [fra Travis]</title></bibl><bibl xml:id="biblid56130"><title xml:id="idm140515552412544">Requiescat!</title></bibl><bibl xml:id="biblid56137"><title xml:id="idm140515552411760">Til Søs</title></bibl><bibl xml:id="biblid56139"><title xml:id="idm140515552288176">Dødvande</title></bibl><bibl xml:id="biblid56150"><title xml:id="idm140515552287392">Rejsepas</title></bibl><bibl xml:id="biblid56156"><title xml:id="idm140515552286608">Kaperbrev</title></bibl><bibl xml:id="biblid56168"><title xml:id="idm140515552285824">Cave canem!</title></bibl><bibl xml:id="biblid56179"><title xml:id="idm140515552285040">Moral</title></bibl><bibl xml:id="biblid56191"><title xml:id="idm140515552284256">Ach, Paludan</title></bibl><bibl xml:id="biblid56204"><title xml:id="idm140515552283472">Sange under Pesten</title></bibl><bibl xml:id="biblid56206"><title xml:id="idm140515552282688">Introitus</title></bibl><bibl xml:id="biblid56218"><title xml:id="idm140515552281840">Lystig!</title></bibl><bibl xml:id="biblid56223"><title xml:id="idm140515552281056">Værtshus</title></bibl><bibl xml:id="biblid56235"><title xml:id="idm140515552280272">Alle saa gaar vi rabundus</title></bibl><bibl xml:id="biblid56247"><title xml:id="idm140515552279520">Kyper, sæt mig Vinen frem -</title></bibl><bibl xml:id="biblid56259"><title xml:id="idm140515552278688">Gerne drikker jeg KIldevand</title></bibl><bibl xml:id="biblid56264"><title xml:id="idm140515552277936">Jeg sad om Aftnen ene -</title></bibl><bibl xml:id="biblid56276"><title xml:id="idm140515552277152">Døden og Apotekeren</title></bibl><bibl xml:id="biblid56288"><title xml:id="idm140515552276336">Forændreløse</title></bibl><bibl xml:id="biblid56293"><title xml:id="idm140515552275584">Nej, synge vil jeg -</title></bibl><bibl xml:id="biblid56298"><title xml:id="idm140515552274800">Graver, kom op</title></bibl><bibl xml:id="biblid56310"><title xml:id="idm140515552274016">I Skipperknejpen</title></bibl><bibl xml:id="biblid56322"><title xml:id="idm140515552273232">Hos Kyllingemor</title></bibl><bibl xml:id="biblid56334"><title xml:id="idm140515552272448">Den blege Frygt</title></bibl><bibl xml:id="biblid56346"><title xml:id="idm140515552271664">Desinfektion</title></bibl><bibl xml:id="biblid56358"><title xml:id="idm140515552266816">Vi stod i det lille katolske Kapel</title></bibl><bibl xml:id="biblid56364"><title xml:id="idm140515552266192">Der gik et Par Elskende</title></bibl><bibl xml:id="biblid56375"><title xml:id="idm140515552265504">De lever op igen</title></bibl><bibl xml:id="biblid56381"><title xml:id="idm140515552264816">Die Liebe, nur die Lieb' ist Leben</title></bibl><bibl xml:id="biblid56394"><title xml:id="idm140515552264128">September [fra Travis]</title></bibl><bibl xml:id="biblid56396"><title xml:id="idm140515552263440">Septemberdagens Pige</title></bibl><bibl xml:id="biblid56407"><title xml:id="idm140515552262720">Spadseretur</title></bibl><bibl xml:id="biblid56432"><title xml:id="idm140515552261904">Valkyrie-Ridt</title></bibl><bibl xml:id="biblid56445"><title xml:id="idm140515552261120">Smaa Elskovsviser</title></bibl><bibl xml:id="biblid56447"><title xml:id="idm140515552260272">Jeg har i Slotte huset</title></bibl><bibl xml:id="biblid56459"><title xml:id="idm140515552259488">Jeg hører de høje Palmer</title></bibl><bibl xml:id="biblid56464"><title xml:id="idm140515552258608">Dog, det er godt</title></bibl><bibl xml:id="biblid56470"><title xml:id="idm140515552257824">Alle Klokker bringer fjernt -</title></bibl><bibl xml:id="biblid56481"><title xml:id="idm140515552257072">Mine Børn er mine Sange</title></bibl><bibl xml:id="biblid56487"><title xml:id="idm140515552256256">Hun kom fra det fattige Arbejderhjem</title></bibl><bibl xml:id="biblid56492"><title xml:id="idm140515552255504">Alle Kilder aabner sig</title></bibl><bibl xml:id="biblid56504"><title xml:id="idm140515552254720">Alvorsmand</title></bibl><bibl xml:id="biblid56510"><title xml:id="idm140515552253872">Vor Kærlighed er ren og god</title></bibl><bibl xml:id="biblid56515"><title xml:id="idm140515552252976">Od dette Folk, som gav mig Dig</title></bibl><bibl xml:id="biblid56528"><title xml:id="idm140515552252176">Glade Viser - Gadeviser</title></bibl><bibl xml:id="biblid56530"><title xml:id="idm140515552251392">Tabula rasa</title></bibl><bibl xml:id="biblid56535"><title xml:id="idm140515552250544">Præster</title></bibl><bibl xml:id="biblid56547"><title xml:id="idm140515552249760">Gamle Guder</title></bibl><bibl xml:id="biblid56552"><title xml:id="idm140515552248976">Syndebuk og Offerlam</title></bibl><bibl xml:id="biblid56564"><title xml:id="idm140515552248128">Linedanser</title></bibl><bibl xml:id="biblid56576"><title xml:id="idm140515552247344">O Morten, Morten Luther!</title></bibl><bibl xml:id="biblid56589"><title xml:id="idm140515552246480">Slutning</title></bibl><bibl xml:id="biblid56591"><title xml:id="idm140515552245632">Tre Ting</title></bibl><bibl xml:id="biblid56603"><title xml:id="idm140515552244848">Niels</title></bibl><bibl xml:id="biblid56623"><title xml:id="idm140515552244000">Proletarer</title></bibl><bibl xml:id="biblid56625"><title xml:id="idm140515552243216">Rot Jer sammen!</title></bibl><bibl xml:id="biblid56637"><title xml:id="idm140515552242432">Byg op!</title></bibl><bibl xml:id="biblid56643"><title xml:id="idm140515552241584">Love!</title></bibl><bibl xml:id="biblid56655"><title xml:id="idm140515552240752">Raad Jer selv</title></bibl><bibl xml:id="biblid56660"><title xml:id="idm140515552239968">Vi har os lært at nøjes -</title></bibl><bibl xml:id="biblid56672"><title xml:id="idm140515552239152">Der gennemstrømmer mig en Ild</title></bibl><bibl xml:id="biblid56684"><title xml:id="idm140515552238208">Finis</title></bibl><bibl xml:id="biblid56696"><title xml:id="idm140515552237360">Til de Unge iblandt os</title></bibl><bibl xml:id="biblid56712"><title xml:id="idm140515552236576">Øen i Sydhavet</title></bibl><bibl xml:id="biblid57086"><title xml:id="idm140515552235744">Bonifacius-Skæret</title></bibl><bibl xml:id="biblid57461"><title xml:id="idm140515552234880">Gøglere</title></bibl></listBibl></sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text xml:id="idm140515552234240">
+    <front xml:id="idm140515552233984">
+      <pb n="a" facs="adl/drachmann/drachmann10/drac10fm001" xml:id="idm140515552233728"/>
+      <pb n="b" facs="adl/drachmann/drachmann10/drac10fm002" xml:id="idm140515552232960"/>
+      <pb n="c" facs="adl/drachmann/drachmann10/drac10fm003" xml:id="idm140515552232192"/>
+      <pb n="d" facs="adl/drachmann/drachmann10/drac10fm004" xml:id="idm140515552231424"/>
+    </front>
+    <group xml:id="idm140515552230528">
+      <pb n="1" facs="adl/drachmann/drachmann10/drac10001" xml:id="idm140515552230272"/>
+      <text xml:id="workid54134" decls="#biblid54134">
+        <body xml:id="idm140515552228496">
+          <pb n="2" facs="adl/drachmann/drachmann10/drac10002" xml:id="idm140515552228240"/>
+          <pb n="3" facs="adl/drachmann/drachmann10/drac10003" xml:id="idm140515552227472"/>
+          <div xml:id="workid54153" decls="#biblid54153">
+            <pb n="4" facs="adl/drachmann/drachmann10/drac10004" xml:id="idm140515552225744"/>
+            <pb n="5" facs="adl/drachmann/drachmann10/drac10005" xml:id="idm140515552224928"/>
+            <p xml:id="idm140515552224160"/>
+          </div>
+          <pb n="6" facs="adl/drachmann/drachmann10/drac10006" xml:id="idm140515552223776"/>
+          <div xml:id="workid53735" decls="#biblid53735">
+            <pb n="7" facs="adl/drachmann/drachmann10/drac10007" xml:id="idm140515552222112"/>
+            <pb n="8" facs="adl/drachmann/drachmann10/drac10008" xml:id="idm140515552221344"/>
+            <pb n="9" facs="adl/drachmann/drachmann10/drac10009" xml:id="idm140515552220576"/>
+            <pb n="10" facs="adl/drachmann/drachmann10/drac10010" xml:id="idm140515552219808"/>
+            <pb n="11" facs="adl/drachmann/drachmann10/drac10011" xml:id="idm140515552219040"/>
+            <pb n="12" facs="adl/drachmann/drachmann10/drac10012" xml:id="idm140515552218272"/>
+            <pb n="13" facs="adl/drachmann/drachmann10/drac10013" xml:id="idm140515552217504"/>
+            <pb n="14" facs="adl/drachmann/drachmann10/drac10014" xml:id="idm140515552216736"/>
+            <pb n="15" facs="adl/drachmann/drachmann10/drac10015" xml:id="idm140515552215920"/>
+            <p xml:id="idm140515552215152"/>
+          </div>
+          <pb n="16" facs="adl/drachmann/drachmann10/drac10016" xml:id="idm140515552214768"/>
+          <div xml:id="workid54419" decls="#biblid54419">
+            <pb n="17" facs="adl/drachmann/drachmann10/drac10017" xml:id="idm140515552213040"/>
+            <pb n="18" facs="adl/drachmann/drachmann10/drac10018" xml:id="idm140515552212272"/>
+            <pb n="19" facs="adl/drachmann/drachmann10/drac10019" xml:id="idm140515552211504"/>
+            <pb n="20" facs="adl/drachmann/drachmann10/drac10020" xml:id="idm140515552210736"/>
+            <pb n="21" facs="adl/drachmann/drachmann10/drac10021" xml:id="idm140515552209968"/>
+            <pb n="22" facs="adl/drachmann/drachmann10/drac10022" xml:id="idm140515552209152"/>
+            <pb n="23" facs="adl/drachmann/drachmann10/drac10023" xml:id="idm140515552208384"/>
+            <p xml:id="idm140515552207568"/>
+          </div>
+          <pb n="24" facs="adl/drachmann/drachmann10/drac10024" xml:id="idm140515552207184"/>
+          <div xml:id="workid54475" decls="#biblid54475">
+            <pb n="25" facs="adl/drachmann/drachmann10/drac10025" xml:id="idm140515552205520"/>
+            <pb n="26" facs="adl/drachmann/drachmann10/drac10026" xml:id="idm140515552204704"/>
+            <pb n="27" facs="adl/drachmann/drachmann10/drac10027" xml:id="idm140515552203936"/>
+            <pb n="28" facs="adl/drachmann/drachmann10/drac10028" xml:id="idm140515552203168"/>
+            <pb n="29" facs="adl/drachmann/drachmann10/drac10029" xml:id="idm140515552202352"/>
+            <pb n="30" facs="adl/drachmann/drachmann10/drac10030" xml:id="idm140515552201584"/>
+            <pb n="31" facs="adl/drachmann/drachmann10/drac10031" xml:id="idm140515552200816"/>
+            <pb n="32" facs="adl/drachmann/drachmann10/drac10032" xml:id="idm140515552200048"/>
+            <pb n="33" facs="adl/drachmann/drachmann10/drac10033" xml:id="idm140515552199280"/>
+            <pb n="34" facs="adl/drachmann/drachmann10/drac10034" xml:id="idm140515552198512"/>
+            <pb n="35" facs="adl/drachmann/drachmann10/drac10035" xml:id="idm140515552197696"/>
+            <pb n="36" facs="adl/drachmann/drachmann10/drac10036" xml:id="idm140515552196880"/>
+            <pb n="37" facs="adl/drachmann/drachmann10/drac10037" xml:id="idm140515552196112"/>
+            <pb n="38" facs="adl/drachmann/drachmann10/drac10038" xml:id="idm140515552195344"/>
+            <pb n="39" facs="adl/drachmann/drachmann10/drac10039" xml:id="idm140515552194528"/>
+            <pb n="40" facs="adl/drachmann/drachmann10/drac10040" xml:id="idm140515552193760"/>
+            <pb n="41" facs="adl/drachmann/drachmann10/drac10041" xml:id="idm140515552192992"/>
+            <pb n="42" facs="adl/drachmann/drachmann10/drac10042" xml:id="idm140515552192224"/>
+            <pb n="43" facs="adl/drachmann/drachmann10/drac10043" xml:id="idm140515552191408"/>
+            <pb n="44" facs="adl/drachmann/drachmann10/drac10044" xml:id="idm140515552190640"/>
+            <pb n="45" facs="adl/drachmann/drachmann10/drac10045" xml:id="idm140515552189872"/>
+            <pb n="46" facs="adl/drachmann/drachmann10/drac10046" xml:id="idm140515552189104"/>
+            <pb n="47" facs="adl/drachmann/drachmann10/drac10047" xml:id="idm140515552188336"/>
+            <pb n="48" facs="adl/drachmann/drachmann10/drac10048" xml:id="idm140515552187568"/>
+            <pb n="49" facs="adl/drachmann/drachmann10/drac10049" xml:id="idm140515552186800"/>
+            <pb n="50" facs="adl/drachmann/drachmann10/drac10050" xml:id="idm140515552186032"/>
+            <pb n="51" facs="adl/drachmann/drachmann10/drac10051" xml:id="idm140515552185264"/>
+            <pb n="52" facs="adl/drachmann/drachmann10/drac10052" xml:id="idm140515552184496"/>
+            <pb n="53" facs="adl/drachmann/drachmann10/drac10053" xml:id="idm140515552183680"/>
+            <p xml:id="idm140515552182912"/>
+          </div>
+          <pb n="54" facs="adl/drachmann/drachmann10/drac10054" xml:id="idm140515552182528"/>
+          <div xml:id="workid54673" decls="#biblid54673">
+            <pb n="55" facs="adl/drachmann/drachmann10/drac10055" xml:id="idm140515552180816"/>
+            <pb n="56" facs="adl/drachmann/drachmann10/drac10056" xml:id="idm140515552180000"/>
+            <pb n="57" facs="adl/drachmann/drachmann10/drac10057" xml:id="idm140515552179232"/>
+            <pb n="58" facs="adl/drachmann/drachmann10/drac10058" xml:id="idm140515552178416"/>
+            <pb n="59" facs="adl/drachmann/drachmann10/drac10059" xml:id="idm140515552177600"/>
+            <p xml:id="idm140515552176832"/>
+          </div>
+          <pb n="60" facs="adl/drachmann/drachmann10/drac10060" xml:id="idm140515552176448"/>
+          <div xml:id="workid54716" decls="#biblid54716">
+            <pb n="61" facs="adl/drachmann/drachmann10/drac10061" xml:id="idm140515552174720"/>
+            <pb n="62" facs="adl/drachmann/drachmann10/drac10062" xml:id="idm140515552173952"/>
+            <pb n="63" facs="adl/drachmann/drachmann10/drac10063" xml:id="idm140515552173136"/>
+            <pb n="64" facs="adl/drachmann/drachmann10/drac10064" xml:id="idm140515552172368"/>
+            <pb n="65" facs="adl/drachmann/drachmann10/drac10065" xml:id="idm140515552171600"/>
+            <pb n="66" facs="adl/drachmann/drachmann10/drac10066" xml:id="idm140515552170832"/>
+            <pb n="67" facs="adl/drachmann/drachmann10/drac10067" xml:id="idm140515552170064"/>
+            <pb n="68" facs="adl/drachmann/drachmann10/drac10068" xml:id="idm140515552169296"/>
+            <pb n="69" facs="adl/drachmann/drachmann10/drac10069" xml:id="idm140515552168480"/>
+            <p xml:id="idm140515552167712"/>
+          </div>
+          <pb n="70" facs="adl/drachmann/drachmann10/drac10070" xml:id="idm140515552167328"/>
+          <div xml:id="workid54786" decls="#biblid54786">
+            <pb n="71" facs="adl/drachmann/drachmann10/drac10071" xml:id="idm140515552165664"/>
+            <pb n="72" facs="adl/drachmann/drachmann10/drac10072" xml:id="idm140515552164896"/>
+            <p xml:id="idm140515552164128"/>
+          </div>
+          <pb n="73" facs="adl/drachmann/drachmann10/drac10073" xml:id="idm140515552163744"/>
+          <div xml:id="workid54810" decls="#biblid54810">
+            <pb n="74" facs="adl/drachmann/drachmann10/drac10074" xml:id="idm140515552162080"/>
+            <pb n="75" facs="adl/drachmann/drachmann10/drac10075" xml:id="idm140515552161312"/>
+            <pb n="76" facs="adl/drachmann/drachmann10/drac10076" xml:id="idm140515552160496"/>
+            <pb n="77" facs="adl/drachmann/drachmann10/drac10077" xml:id="idm140515552159728"/>
+            <pb n="78" facs="adl/drachmann/drachmann10/drac10078" xml:id="idm140515552158912"/>
+            <pb n="79" facs="adl/drachmann/drachmann10/drac10079" xml:id="idm140515552158144"/>
+            <pb n="80" facs="adl/drachmann/drachmann10/drac10080" xml:id="idm140515552157376"/>
+            <pb n="81" facs="adl/drachmann/drachmann10/drac10081" xml:id="idm140515552156608"/>
+            <pb n="82" facs="adl/drachmann/drachmann10/drac10082" xml:id="idm140515552155840"/>
+            <p xml:id="idm140515552155072"/>
+          </div>
+          <pb n="83" facs="adl/drachmann/drachmann10/drac10083" xml:id="idm140515552154688"/>
+          <div xml:id="workid54880" decls="#biblid54880">
+            <pb n="84" facs="adl/drachmann/drachmann10/drac10084" xml:id="idm140515552152912"/>
+            <pb n="85" facs="adl/drachmann/drachmann10/drac10085" xml:id="idm140515552152144"/>
+            <pb n="86" facs="adl/drachmann/drachmann10/drac10086" xml:id="idm140515552151376"/>
+            <p xml:id="idm140515552150608"/>
+          </div>
+          <pb n="87" facs="adl/drachmann/drachmann10/drac10087" xml:id="idm140515552150224"/>
+          <div xml:id="workid54910" decls="#biblid54910">
+            <pb n="88" facs="adl/drachmann/drachmann10/drac10088" xml:id="idm140515552148496"/>
+            <pb n="89" facs="adl/drachmann/drachmann10/drac10089" xml:id="idm140515552147728"/>
+            <pb n="90" facs="adl/drachmann/drachmann10/drac10090" xml:id="idm140515552146960"/>
+            <pb n="91" facs="adl/drachmann/drachmann10/drac10091" xml:id="idm140515552146192"/>
+            <pb n="92" facs="adl/drachmann/drachmann10/drac10092" xml:id="idm140515552145424"/>
+            <pb n="93" facs="adl/drachmann/drachmann10/drac10093" xml:id="idm140515552144656"/>
+            <pb n="94" facs="adl/drachmann/drachmann10/drac10094" xml:id="idm140515552143888"/>
+            <pb n="95" facs="adl/drachmann/drachmann10/drac10095" xml:id="idm140515552143072"/>
+            <pb n="96" facs="adl/drachmann/drachmann10/drac10096" xml:id="idm140515552142256"/>
+            <pb n="97" facs="adl/drachmann/drachmann10/drac10097" xml:id="idm140515552141488"/>
+            <pb n="98" facs="adl/drachmann/drachmann10/drac10098" xml:id="idm140515552140720"/>
+            <pb n="99" facs="adl/drachmann/drachmann10/drac10099" xml:id="idm140515552139952"/>
+            <p xml:id="idm140515552139184"/>
+          </div>
+          <pb n="100" facs="adl/drachmann/drachmann10/drac10100" xml:id="idm140515552138800"/>
+          <div xml:id="workid54999" decls="#biblid54999">
+            <pb n="101" facs="adl/drachmann/drachmann10/drac10101" xml:id="idm140515552137136"/>
+            <pb n="102" facs="adl/drachmann/drachmann10/drac10102" xml:id="idm140515552136368"/>
+            <pb n="103" facs="adl/drachmann/drachmann10/drac10103" xml:id="idm140515552135600"/>
+            <pb n="104" facs="adl/drachmann/drachmann10/drac10104" xml:id="idm140515552134832"/>
+            <pb n="105" facs="adl/drachmann/drachmann10/drac10105" xml:id="idm140515552134016"/>
+            <pb n="106" facs="adl/drachmann/drachmann10/drac10106" xml:id="idm140515552133248"/>
+            <pb n="107" facs="adl/drachmann/drachmann10/drac10107" xml:id="idm140515552132480"/>
+            <pb n="108" facs="adl/drachmann/drachmann10/drac10108" xml:id="idm140515552131712"/>
+            <pb n="109" facs="adl/drachmann/drachmann10/drac10109" xml:id="idm140515552130944"/>
+            <p xml:id="idm140515552130176"/>
+          </div>
+          <pb n="110" facs="adl/drachmann/drachmann10/drac10110" xml:id="idm140515552129792"/>
+          <div xml:id="workid55068" decls="#biblid55068">
+            <pb n="111" facs="adl/drachmann/drachmann10/drac10111" xml:id="idm140515552128080"/>
+            <pb n="112" facs="adl/drachmann/drachmann10/drac10112" xml:id="idm140515552127264"/>
+            <p xml:id="idm140515552126496"/>
+          </div>
+          <pb n="113" facs="adl/drachmann/drachmann10/drac10113" xml:id="idm140515552126112"/>
+          <div xml:id="workid55093" decls="#biblid55093">
+            <pb n="114" facs="adl/drachmann/drachmann10/drac10114" xml:id="idm140515552124400"/>
+            <pb n="115" facs="adl/drachmann/drachmann10/drac10115" xml:id="idm140515552123632"/>
+            <pb n="116" facs="adl/drachmann/drachmann10/drac10116" xml:id="idm140515552122864"/>
+            <pb n="117" facs="adl/drachmann/drachmann10/drac10117" xml:id="idm140515552122096"/>
+            <pb n="118" facs="adl/drachmann/drachmann10/drac10118" xml:id="idm140515552121328"/>
+            <pb n="119" facs="adl/drachmann/drachmann10/drac10119" xml:id="idm140515552120512"/>
+            <pb n="120" facs="adl/drachmann/drachmann10/drac10120" xml:id="idm140515552119696"/>
+            <pb n="121" facs="adl/drachmann/drachmann10/drac10121" xml:id="idm140515552118928"/>
+            <pb n="122" facs="adl/drachmann/drachmann10/drac10122" xml:id="idm140515552118112"/>
+            <p xml:id="idm140515552117344"/>
+          </div>
+          <pb n="123" facs="adl/drachmann/drachmann10/drac10123" xml:id="idm140515552116960"/>
+          <div xml:id="workid55163" decls="#biblid55163">
+            <pb n="124" facs="adl/drachmann/drachmann10/drac10124" xml:id="idm140515552115232"/>
+            <pb n="125" facs="adl/drachmann/drachmann10/drac10125" xml:id="idm140515552114416"/>
+            <pb n="126" facs="adl/drachmann/drachmann10/drac10126" xml:id="idm140515552113648"/>
+            <pb n="127" facs="adl/drachmann/drachmann10/drac10127" xml:id="idm140515552112880"/>
+            <pb n="128" facs="adl/drachmann/drachmann10/drac10128" xml:id="idm140515552112064"/>
+            <pb n="129" facs="adl/drachmann/drachmann10/drac10129" xml:id="idm140515552111296"/>
+            <pb n="130" facs="adl/drachmann/drachmann10/drac10130" xml:id="idm140515552110528"/>
+            <pb n="131" facs="adl/drachmann/drachmann10/drac10131" xml:id="idm140515552109712"/>
+            <pb n="132" facs="adl/drachmann/drachmann10/drac10132" xml:id="idm140515552108944"/>
+            <p xml:id="idm140515552108176"/>
+          </div>
+        </body>
+      </text>
+      <pb n="133" facs="adl/drachmann/drachmann10/drac10133" xml:id="idm140515552107536"/>
+      <text xml:id="workid55235" decls="#biblid55235">
+        <body xml:id="idm140515552105872">
+          <pb n="134" facs="adl/drachmann/drachmann10/drac10134" xml:id="idm140515552105616"/>
+          <pb n="135" facs="adl/drachmann/drachmann10/drac10135" xml:id="idm140515552104848"/>
+          <pb n="136" facs="adl/drachmann/drachmann10/drac10136" xml:id="idm140515552104032"/>
+          <pb n="137" facs="adl/drachmann/drachmann10/drac10137" xml:id="idm140515552103264"/>
+          <div xml:id="workid55266" decls="#biblid55266">
+            <pb n="138" facs="adl/drachmann/drachmann10/drac10138" xml:id="idm140515552101600"/>
+            <p xml:id="idm140515552100832"/>
+          </div>
+          <pb n="139" facs="adl/drachmann/drachmann10/drac10139" xml:id="idm140515552100448"/>
+          <div xml:id="workid55285" decls="#biblid55285">
+            <pb n="140" facs="adl/drachmann/drachmann10/drac10140" xml:id="idm140515552098736"/>
+            <pb n="141" facs="adl/drachmann/drachmann10/drac10141" xml:id="idm140515552097968"/>
+            <pb n="142" facs="adl/drachmann/drachmann10/drac10142" xml:id="idm140515552097200"/>
+            <p xml:id="idm140515552096432"/>
+          </div>
+          <pb n="143" facs="adl/drachmann/drachmann10/drac10143" xml:id="idm140515552096048"/>
+          <div xml:id="workid55316" decls="#biblid55316">
+            <pb n="144" facs="adl/drachmann/drachmann10/drac10144" xml:id="idm140515552094272"/>
+            <pb n="145" facs="adl/drachmann/drachmann10/drac10145" xml:id="idm140515552093504"/>
+            <pb n="146" facs="adl/drachmann/drachmann10/drac10146" xml:id="idm140515552092736"/>
+            <pb n="147" facs="adl/drachmann/drachmann10/drac10147" xml:id="idm140515552091968"/>
+            <p xml:id="idm140515552091200"/>
+          </div>
+          <pb n="148" facs="adl/drachmann/drachmann10/drac10148" xml:id="idm140515552090816"/>
+          <div xml:id="workid55353" decls="#biblid55353">
+            <pb n="149" facs="adl/drachmann/drachmann10/drac10149" xml:id="idm140515552089152"/>
+            <pb n="150" facs="adl/drachmann/drachmann10/drac10150" xml:id="idm140515552088336"/>
+            <pb n="151" facs="adl/drachmann/drachmann10/drac10151" xml:id="idm140515552087568"/>
+            <p xml:id="idm140515552086800"/>
+          </div>
+          <pb n="152" facs="adl/drachmann/drachmann10/drac10152" xml:id="idm140515552086416"/>
+          <div xml:id="workid55385" decls="#biblid55385">
+            <pb n="153" facs="adl/drachmann/drachmann10/drac10153" xml:id="idm140515552084704"/>
+            <pb n="154" facs="adl/drachmann/drachmann10/drac10154" xml:id="idm140515552083936"/>
+            <pb n="155" facs="adl/drachmann/drachmann10/drac10155" xml:id="idm140515552083168"/>
+            <p xml:id="idm140515552082352"/>
+          </div>
+          <pb n="156" facs="adl/drachmann/drachmann10/drac10156" xml:id="idm140515552081968"/>
+          <div xml:id="workid55416" decls="#biblid55416">
+            <pb n="157" facs="adl/drachmann/drachmann10/drac10157" xml:id="idm140515552080240"/>
+            <pb n="158" facs="adl/drachmann/drachmann10/drac10158" xml:id="idm140515552079472"/>
+            <pb n="159" facs="adl/drachmann/drachmann10/drac10159" xml:id="idm140515552078704"/>
+            <pb n="160" facs="adl/drachmann/drachmann10/drac10160" xml:id="idm140515552077888"/>
+            <pb n="161" facs="adl/drachmann/drachmann10/drac10161" xml:id="idm140515552077120"/>
+            <p xml:id="idm140515552076352"/>
+          </div>
+          <pb n="162" facs="adl/drachmann/drachmann10/drac10162" xml:id="idm140515552075968"/>
+          <div xml:id="workid55460" decls="#biblid55460">
+            <pb n="163" facs="adl/drachmann/drachmann10/drac10163" xml:id="idm140515552074304"/>
+            <pb n="164" facs="adl/drachmann/drachmann10/drac10164" xml:id="idm140515552073488"/>
+            <pb n="165" facs="adl/drachmann/drachmann10/drac10165" xml:id="idm140515552072672"/>
+            <pb n="166" facs="adl/drachmann/drachmann10/drac10166" xml:id="idm140515552071856"/>
+            <pb n="167" facs="adl/drachmann/drachmann10/drac10167" xml:id="idm140515552071040"/>
+            <p xml:id="idm140515552070224"/>
+          </div>
+          <pb n="168" facs="adl/drachmann/drachmann10/drac10168" xml:id="idm140515552069840"/>
+          <div xml:id="workid55504" decls="#biblid55504">
+            <pb n="169" facs="adl/drachmann/drachmann10/drac10169" xml:id="idm140515552068176"/>
+            <pb n="170" facs="adl/drachmann/drachmann10/drac10170" xml:id="idm140515552067360"/>
+            <pb n="171" facs="adl/drachmann/drachmann10/drac10171" xml:id="idm140515552066592"/>
+            <pb n="172" facs="adl/drachmann/drachmann10/drac10172" xml:id="idm140515552065824"/>
+            <pb n="173" facs="adl/drachmann/drachmann10/drac10173" xml:id="idm140515552065008"/>
+            <pb n="174" facs="adl/drachmann/drachmann10/drac10174" xml:id="idm140515552064240"/>
+            <pb n="175" facs="adl/drachmann/drachmann10/drac10175" xml:id="idm140515552063424"/>
+            <pb n="176" facs="adl/drachmann/drachmann10/drac10176" xml:id="idm140515552062656"/>
+            <p xml:id="idm140515552061840"/>
+          </div>
+          <pb n="177" facs="adl/drachmann/drachmann10/drac10177" xml:id="idm140515552061456"/>
+          <div xml:id="workid55568" decls="#biblid55568">
+            <pb n="178" facs="adl/drachmann/drachmann10/drac10178" xml:id="idm140515552059792"/>
+            <pb n="179" facs="adl/drachmann/drachmann10/drac10179" xml:id="idm140515552058976"/>
+            <pb n="180" facs="adl/drachmann/drachmann10/drac10180" xml:id="idm140515552058160"/>
+            <pb n="181" facs="adl/drachmann/drachmann10/drac10181" xml:id="idm140515552057392"/>
+            <pb n="182" facs="adl/drachmann/drachmann10/drac10182" xml:id="idm140515552056624"/>
+            <pb n="183" facs="adl/drachmann/drachmann10/drac10183" xml:id="idm140515552055856"/>
+            <pb n="184" facs="adl/drachmann/drachmann10/drac10184" xml:id="idm140515552055088"/>
+            <pb n="185" facs="adl/drachmann/drachmann10/drac10185" xml:id="idm140515552054320"/>
+            <pb n="186" facs="adl/drachmann/drachmann10/drac10186" xml:id="idm140515552053552"/>
+            <pb n="187" facs="adl/drachmann/drachmann10/drac10187" xml:id="idm140515552052736"/>
+            <p xml:id="idm140515552051968"/>
+          </div>
+          <pb n="188" facs="adl/drachmann/drachmann10/drac10188" xml:id="idm140515552051584"/>
+          <div xml:id="workid55644" decls="#biblid55644">
+            <pb n="189" facs="adl/drachmann/drachmann10/drac10189" xml:id="idm140515552049808"/>
+            <pb n="190" facs="adl/drachmann/drachmann10/drac10190" xml:id="idm140515552049040"/>
+            <pb n="191" facs="adl/drachmann/drachmann10/drac10191" xml:id="idm140515552048272"/>
+            <pb n="192" facs="adl/drachmann/drachmann10/drac10192" xml:id="idm140515552047456"/>
+            <pb n="193" facs="adl/drachmann/drachmann10/drac10193" xml:id="idm140515552046640"/>
+            <pb n="194" facs="adl/drachmann/drachmann10/drac10194" xml:id="idm140515552045872"/>
+            <pb n="195" facs="adl/drachmann/drachmann10/drac10195" xml:id="idm140515552045104"/>
+            <pb n="196" facs="adl/drachmann/drachmann10/drac10196" xml:id="idm140515552044288"/>
+            <pb n="197" facs="adl/drachmann/drachmann10/drac10197" xml:id="idm140515552043472"/>
+            <pb n="198" facs="adl/drachmann/drachmann10/drac10198" xml:id="idm140515552042704"/>
+            <pb n="199" facs="adl/drachmann/drachmann10/drac10199" xml:id="idm140515552041936"/>
+            <p xml:id="idm140515552041168"/>
+          </div>
+          <pb n="200" facs="adl/drachmann/drachmann10/drac10200" xml:id="idm140515552040784"/>
+          <div xml:id="workid55728" decls="#biblid55728">
+            <pb n="201" facs="adl/drachmann/drachmann10/drac10201" xml:id="idm140515552039072"/>
+            <pb n="202" facs="adl/drachmann/drachmann10/drac10202" xml:id="idm140515552038256"/>
+            <pb n="203" facs="adl/drachmann/drachmann10/drac10203" xml:id="idm140515552037488"/>
+            <pb n="204" facs="adl/drachmann/drachmann10/drac10204" xml:id="idm140515552036720"/>
+            <pb n="205" facs="adl/drachmann/drachmann10/drac10205" xml:id="idm140515552035952"/>
+            <pb n="206" facs="adl/drachmann/drachmann10/drac10206" xml:id="idm140515552035136"/>
+            <pb n="207" facs="adl/drachmann/drachmann10/drac10207" xml:id="idm140515552034320"/>
+            <pb n="208" facs="adl/drachmann/drachmann10/drac10208" xml:id="idm140515552033552"/>
+            <pb n="209" facs="adl/drachmann/drachmann10/drac10209" xml:id="idm140515552032736"/>
+            <pb n="210" facs="adl/drachmann/drachmann10/drac10210" xml:id="idm140515552031920"/>
+            <pb n="211" facs="adl/drachmann/drachmann10/drac10211" xml:id="idm140515552031152"/>
+            <pb n="212" facs="adl/drachmann/drachmann10/drac10212" xml:id="idm140515552030336"/>
+            <pb n="213" facs="adl/drachmann/drachmann10/drac10213" xml:id="idm140515552029520"/>
+            <pb n="214" facs="adl/drachmann/drachmann10/drac10214" xml:id="idm140515552028704"/>
+            <pb n="215" facs="adl/drachmann/drachmann10/drac10215" xml:id="idm140515552027888"/>
+            <pb n="216" facs="adl/drachmann/drachmann10/drac10216" xml:id="idm140515552027120"/>
+            <pb n="217" facs="adl/drachmann/drachmann10/drac10217" xml:id="idm140515552026352"/>
+            <pb n="218" facs="adl/drachmann/drachmann10/drac10218" xml:id="idm140515552025536"/>
+            <pb n="219" facs="adl/drachmann/drachmann10/drac10219" xml:id="idm140515552024720"/>
+            <pb n="220" facs="adl/drachmann/drachmann10/drac10220" xml:id="idm140515552023904"/>
+            <pb n="221" facs="adl/drachmann/drachmann10/drac10221" xml:id="idm140515552023136"/>
+            <pb n="222" facs="adl/drachmann/drachmann10/drac10222" xml:id="idm140515552022320"/>
+            <pb n="223" facs="adl/drachmann/drachmann10/drac10223" xml:id="idm140515552021552"/>
+            <pb n="224" facs="adl/drachmann/drachmann10/drac10224" xml:id="idm140515552020784"/>
+            <pb n="225" facs="adl/drachmann/drachmann10/drac10225" xml:id="idm140515552020016"/>
+            <pb n="226" facs="adl/drachmann/drachmann10/drac10226" xml:id="idm140515552019200"/>
+            <pb n="227" facs="adl/drachmann/drachmann10/drac10227" xml:id="idm140515552018432"/>
+            <pb n="228" facs="adl/drachmann/drachmann10/drac10228" xml:id="idm140515552017664"/>
+            <pb n="229" facs="adl/drachmann/drachmann10/drac10229" xml:id="idm140515552016896"/>
+            <pb n="230" facs="adl/drachmann/drachmann10/drac10230" xml:id="idm140515552016080"/>
+            <pb n="231" facs="adl/drachmann/drachmann10/drac10231" xml:id="idm140515552015312"/>
+            <pb n="232" facs="adl/drachmann/drachmann10/drac10232" xml:id="idm140515552014496"/>
+            <pb n="233" facs="adl/drachmann/drachmann10/drac10233" xml:id="idm140515552013680"/>
+            <pb n="234" facs="adl/drachmann/drachmann10/drac10234" xml:id="idm140515552012912"/>
+            <pb n="235" facs="adl/drachmann/drachmann10/drac10235" xml:id="idm140515552012096"/>
+            <pb n="236" facs="adl/drachmann/drachmann10/drac10236" xml:id="idm140515552011328"/>
+            <pb n="237" facs="adl/drachmann/drachmann10/drac10237" xml:id="idm140515552010512"/>
+            <pb n="238" facs="adl/drachmann/drachmann10/drac10238" xml:id="idm140515552009744"/>
+            <pb n="239" facs="adl/drachmann/drachmann10/drac10239" xml:id="idm140515552008928"/>
+            <pb n="240" facs="adl/drachmann/drachmann10/drac10240" xml:id="idm140515552008160"/>
+            <pb n="241" facs="adl/drachmann/drachmann10/drac10241" xml:id="idm140515552007392"/>
+            <pb n="242" facs="adl/drachmann/drachmann10/drac10242" xml:id="idm140515552006576"/>
+            <p xml:id="idm140515552005808"/>
+          </div>
+        </body>
+      </text>
+      <pb n="243" facs="adl/drachmann/drachmann10/drac10243" xml:id="idm140515552005168"/>
+      <text xml:id="workid56049" decls="#biblid56049">
+        <body xml:id="idm140515552003344">
+          <div xml:id="workid56053" decls="#biblid56053">
+            <pb n="244" facs="adl/drachmann/drachmann10/drac10244" xml:id="idm140515552002192"/>
+            <pb n="245" facs="adl/drachmann/drachmann10/drac10245" xml:id="idm140515552001376"/>
+            <div xml:id="workid56068" decls="#biblid56068">
+              <p xml:id="idm140515551999664"/>
+            </div>
+            <pb n="246" facs="adl/drachmann/drachmann10/drac10246" xml:id="idm140515551999280"/>
+            <div xml:id="workid56080" decls="#biblid56080">
+              <p xml:id="idm140515551997616"/>
+            </div>
+          </div>
+          <pb n="247" facs="adl/drachmann/drachmann10/drac10247" xml:id="idm140515551997104"/>
+          <div xml:id="workid56093" decls="#biblid56093">
+            <div xml:id="workid56095" decls="#biblid56095">
+              <p xml:id="idm140515551994384"/>
+            </div>
+            <div xml:id="workid56101" decls="#biblid56101">
+              <p xml:id="idm140515551993104"/>
+            </div>
+            <pb n="248" facs="adl/drachmann/drachmann10/drac10248" xml:id="idm140515551992720"/>
+            <div xml:id="workid56113" decls="#biblid56113">
+              <p xml:id="idm140515551990944"/>
+            </div>
+            <div xml:id="workid56118" decls="#biblid56118">
+              <p xml:id="idm140515551989552"/>
+            </div>
+            <pb n="249" facs="adl/drachmann/drachmann10/drac10249" xml:id="idm140515551989168"/>
+            <div xml:id="workid56130" decls="#biblid56130">
+              <p xml:id="idm140515551987456"/>
+            </div>
+          </div>
+          <div xml:id="workid56137" decls="#biblid56137">
+            <div xml:id="workid56139" decls="#biblid56139">
+              <p xml:id="idm140515551985024"/>
+            </div>
+            <pb n="250" facs="adl/drachmann/drachmann10/drac10250" xml:id="idm140515551984640"/>
+            <div xml:id="workid56150" decls="#biblid56150">
+              <p xml:id="idm140515551982928"/>
+            </div>
+            <div xml:id="workid56156" decls="#biblid56156">
+              <p xml:id="idm140515551981536"/>
+            </div>
+            <pb n="251" facs="adl/drachmann/drachmann10/drac10251" xml:id="idm140515551981152"/>
+            <div xml:id="workid56168" decls="#biblid56168">
+              <p xml:id="idm140515551979488"/>
+            </div>
+            <pb n="252" facs="adl/drachmann/drachmann10/drac10252" xml:id="idm140515551979104"/>
+            <div xml:id="workid56179" decls="#biblid56179">
+              <p xml:id="idm140515551977344"/>
+            </div>
+            <pb n="253" facs="adl/drachmann/drachmann10/drac10253" xml:id="idm140515551976960"/>
+            <div xml:id="workid56191" decls="#biblid56191">
+              <p xml:id="idm140515551975232"/>
+            </div>
+          </div>
+          <pb n="254" facs="adl/drachmann/drachmann10/drac10254" xml:id="idm140515551974720"/>
+          <div xml:id="workid56204" decls="#biblid56204">
+            <div xml:id="workid56206" decls="#biblid56206">
+              <p xml:id="idm140515551972000"/>
+            </div>
+            <pb n="255" facs="adl/drachmann/drachmann10/drac10255" xml:id="idm140515551971616"/>
+            <div xml:id="workid56218" decls="#biblid56218">
+              <p xml:id="idm140515551969840"/>
+            </div>
+            <div xml:id="workid56223" decls="#biblid56223">
+              <p xml:id="idm140515551968512"/>
+            </div>
+            <pb n="256" facs="adl/drachmann/drachmann10/drac10256" xml:id="idm140515551968128"/>
+            <div xml:id="workid56235" decls="#biblid56235">
+              <p xml:id="idm140515551966464"/>
+            </div>
+            <pb n="257" facs="adl/drachmann/drachmann10/drac10257" xml:id="idm140515551966080"/>
+            <div xml:id="workid56247" decls="#biblid56247">
+              <p xml:id="idm140515551964368"/>
+            </div>
+            <pb n="258" facs="adl/drachmann/drachmann10/drac10258" xml:id="idm140515551963984"/>
+            <div xml:id="workid56259" decls="#biblid56259">
+              <p xml:id="idm140515551962256"/>
+            </div>
+            <div xml:id="workid56264" decls="#biblid56264">
+              <p xml:id="idm140515551960976"/>
+            </div>
+            <pb n="259" facs="adl/drachmann/drachmann10/drac10259" xml:id="idm140515551960592"/>
+            <div xml:id="workid56276" decls="#biblid56276">
+              <p xml:id="idm140515551958832"/>
+            </div>
+            <pb n="260" facs="adl/drachmann/drachmann10/drac10260" xml:id="idm140515551958448"/>
+            <div xml:id="workid56288" decls="#biblid56288">
+              <p xml:id="idm140515551956784"/>
+            </div>
+            <div xml:id="workid56293" decls="#biblid56293">
+              <p xml:id="idm140515551955504"/>
+            </div>
+            <div xml:id="workid56298" decls="#biblid56298">
+              <p xml:id="idm140515551954160"/>
+            </div>
+            <pb n="261" facs="adl/drachmann/drachmann10/drac10261" xml:id="idm140515551953776"/>
+            <div xml:id="workid56310" decls="#biblid56310">
+              <p xml:id="idm140515551952064"/>
+            </div>
+            <pb n="262" facs="adl/drachmann/drachmann10/drac10262" xml:id="idm140515551951680"/>
+            <div xml:id="workid56322" decls="#biblid56322">
+              <p xml:id="idm140515551949952"/>
+            </div>
+            <pb n="263" facs="adl/drachmann/drachmann10/drac10263" xml:id="idm140515551949568"/>
+            <div xml:id="workid56334" decls="#biblid56334">
+              <p xml:id="idm140515551947744"/>
+            </div>
+            <pb n="264" facs="adl/drachmann/drachmann10/drac10264" xml:id="idm140515551947360"/>
+            <div xml:id="workid56346" decls="#biblid56346">
+              <p xml:id="idm140515551945600"/>
+            </div>
+            <pb n="265" facs="adl/drachmann/drachmann10/drac10265" xml:id="idm140515551945216"/>
+            <div xml:id="workid56358" decls="#biblid56358">
+              <p xml:id="idm140515551943504"/>
+            </div>
+            <div xml:id="workid56364" decls="#biblid56364">
+              <p xml:id="idm140515551942112"/>
+            </div>
+            <pb n="266" facs="adl/drachmann/drachmann10/drac10266" xml:id="idm140515551941728"/>
+            <div xml:id="workid56375" decls="#biblid56375">
+              <p xml:id="idm140515551939904"/>
+            </div>
+            <div xml:id="workid56381" decls="#biblid56381">
+              <p xml:id="idm140515551938512"/>
+            </div>
+          </div>
+          <pb n="267" facs="adl/drachmann/drachmann10/drac10267" xml:id="idm140515551938000"/>
+          <div xml:id="workid56394" decls="#biblid56394">
+            <div xml:id="workid56396" decls="#biblid56396">
+              <p xml:id="idm140515551935328"/>
+            </div>
+            <pb n="268" facs="adl/drachmann/drachmann10/drac10268" xml:id="idm140515551934944"/>
+            <div xml:id="workid56407" decls="#biblid56407">
+              <pb n="269" facs="adl/drachmann/drachmann10/drac10269" xml:id="idm140515551933168"/>
+              <pb n="270" facs="adl/drachmann/drachmann10/drac10270" xml:id="idm140515551932400"/>
+              <p xml:id="idm140515551931584"/>
+            </div>
+            <pb n="271" facs="adl/drachmann/drachmann10/drac10271" xml:id="idm140515551931200"/>
+            <div xml:id="workid56432" decls="#biblid56432">
+              <p xml:id="idm140515551929488"/>
+            </div>
+          </div>
+          <pb n="272" facs="adl/drachmann/drachmann10/drac10272" xml:id="idm140515551928976"/>
+          <div xml:id="workid56445" decls="#biblid56445">
+            <div xml:id="workid56447" decls="#biblid56447">
+              <p xml:id="idm140515551926304"/>
+            </div>
+            <pb n="273" facs="adl/drachmann/drachmann10/drac10273" xml:id="idm140515551925920"/>
+            <div xml:id="workid56459" decls="#biblid56459">
+              <p xml:id="idm140515551924208"/>
+            </div>
+            <div xml:id="workid56464" decls="#biblid56464">
+              <p xml:id="idm140515551922880"/>
+            </div>
+            <div xml:id="workid56470" decls="#biblid56470">
+              <p xml:id="idm140515551921488"/>
+            </div>
+            <pb n="274" facs="adl/drachmann/drachmann10/drac10274" xml:id="idm140515551921104"/>
+            <div xml:id="workid56481" decls="#biblid56481">
+              <p xml:id="idm140515551919440"/>
+            </div>
+            <div xml:id="workid56487" decls="#biblid56487">
+              <p xml:id="idm140515551918160"/>
+            </div>
+            <div xml:id="workid56492" decls="#biblid56492">
+              <p xml:id="idm140515551916832"/>
+            </div>
+            <pb n="275" facs="adl/drachmann/drachmann10/drac10275" xml:id="idm140515551916448"/>
+            <div xml:id="workid56504" decls="#biblid56504">
+              <p xml:id="idm140515551914736"/>
+            </div>
+            <div xml:id="workid56510" decls="#biblid56510">
+              <p xml:id="idm140515551913408"/>
+            </div>
+            <div xml:id="workid56515" decls="#biblid56515">
+              <p xml:id="idm140515551912016"/>
+            </div>
+          </div>
+          <pb n="276" facs="adl/drachmann/drachmann10/drac10276" xml:id="idm140515551911504"/>
+          <div xml:id="workid56528" decls="#biblid56528">
+            <div xml:id="workid56530" decls="#biblid56530">
+              <p xml:id="idm140515551908832"/>
+            </div>
+            <div xml:id="workid56535" decls="#biblid56535">
+              <p xml:id="idm140515551907440"/>
+            </div>
+            <pb n="277" facs="adl/drachmann/drachmann10/drac10277" xml:id="idm140515551907056"/>
+            <div xml:id="workid56547" decls="#biblid56547">
+              <p xml:id="idm140515551905344"/>
+            </div>
+            <div xml:id="workid56552" decls="#biblid56552">
+              <p xml:id="idm140515551904000"/>
+            </div>
+            <pb n="278" facs="adl/drachmann/drachmann10/drac10278" xml:id="idm140515551903616"/>
+            <div xml:id="workid56564" decls="#biblid56564">
+              <p xml:id="idm140515551901904"/>
+            </div>
+            <pb n="279" facs="adl/drachmann/drachmann10/drac10279" xml:id="idm140515551901520"/>
+            <div xml:id="workid56576" decls="#biblid56576">
+              <p xml:id="idm140515551899760"/>
+            </div>
+          </div>
+          <pb n="280" facs="adl/drachmann/drachmann10/drac10280" xml:id="idm140515551899248"/>
+          <div xml:id="workid56589" decls="#biblid56589">
+            <div xml:id="workid56591" decls="#biblid56591">
+              <p xml:id="idm140515551896624"/>
+            </div>
+            <pb n="281" facs="adl/drachmann/drachmann10/drac10281" xml:id="idm140515551896240"/>
+            <div xml:id="workid56603" decls="#biblid56603">
+              <pb n="282" facs="adl/drachmann/drachmann10/drac10282" xml:id="idm140515551894480"/>
+              <p xml:id="idm140515551893664"/>
+            </div>
+          </div>
+          <pb n="283" facs="adl/drachmann/drachmann10/drac10283" xml:id="idm140515551893152"/>
+          <div xml:id="workid56623" decls="#biblid56623">
+            <div xml:id="workid56625" decls="#biblid56625">
+              <p xml:id="idm140515551890432"/>
+            </div>
+            <pb n="284" facs="adl/drachmann/drachmann10/drac10284" xml:id="idm140515551890048"/>
+            <div xml:id="workid56637" decls="#biblid56637">
+              <p xml:id="idm140515551888224"/>
+            </div>
+            <div xml:id="workid56643" decls="#biblid56643">
+              <p xml:id="idm140515551886896"/>
+            </div>
+            <pb n="285" facs="adl/drachmann/drachmann10/drac10285" xml:id="idm140515551886512"/>
+            <div xml:id="workid56655" decls="#biblid56655">
+              <p xml:id="idm140515551884752"/>
+            </div>
+            <div xml:id="workid56660" decls="#biblid56660">
+              <p xml:id="idm140515551883408"/>
+            </div>
+            <pb n="286" facs="adl/drachmann/drachmann10/drac10286" xml:id="idm140515551883024"/>
+            <div xml:id="workid56672" decls="#biblid56672">
+              <p xml:id="idm140515551881312"/>
+            </div>
+            <pb n="287" facs="adl/drachmann/drachmann10/drac10287" xml:id="idm140515551880928"/>
+            <div xml:id="workid56684" decls="#biblid56684">
+              <p xml:id="idm140515551879104"/>
+            </div>
+            <pb n="288" facs="adl/drachmann/drachmann10/drac10288" xml:id="idm140515551878720"/>
+            <div xml:id="workid56696" decls="#biblid56696">
+              <p xml:id="idm140515551876960"/>
+            </div>
+          </div>
+        </body>
+      </text>
+      <pb n="289" facs="adl/drachmann/drachmann10/drac10289" xml:id="idm140515551876192"/>
+      <text xml:id="workid56712" decls="#biblid56712">
+        <body xml:id="idm140515551874416">
+          <pb n="290" facs="adl/drachmann/drachmann10/drac10290" xml:id="idm140515551874160"/>
+          <pb n="291" facs="adl/drachmann/drachmann10/drac10291" xml:id="idm140515551873344"/>
+          <pb n="292" facs="adl/drachmann/drachmann10/drac10292" xml:id="idm140515551872528"/>
+          <pb n="293" facs="adl/drachmann/drachmann10/drac10293" xml:id="idm140515551871760"/>
+          <pb n="294" facs="adl/drachmann/drachmann10/drac10294" xml:id="idm140515551870992"/>
+          <pb n="295" facs="adl/drachmann/drachmann10/drac10295" xml:id="idm140515551870176"/>
+          <pb n="296" facs="adl/drachmann/drachmann10/drac10296" xml:id="idm140515551869408"/>
+          <pb n="297" facs="adl/drachmann/drachmann10/drac10297" xml:id="idm140515551868640"/>
+          <pb n="298" facs="adl/drachmann/drachmann10/drac10298" xml:id="idm140515551867872"/>
+          <pb n="299" facs="adl/drachmann/drachmann10/drac10299" xml:id="idm140515551867056"/>
+          <pb n="300" facs="adl/drachmann/drachmann10/drac10300" xml:id="idm140515551866240"/>
+          <pb n="301" facs="adl/drachmann/drachmann10/drac10301" xml:id="idm140515551865472"/>
+          <pb n="302" facs="adl/drachmann/drachmann10/drac10302" xml:id="idm140515551864704"/>
+          <pb n="303" facs="adl/drachmann/drachmann10/drac10303" xml:id="idm140515551863888"/>
+          <pb n="304" facs="adl/drachmann/drachmann10/drac10304" xml:id="idm140515551863072"/>
+          <pb n="305" facs="adl/drachmann/drachmann10/drac10305" xml:id="idm140515551862256"/>
+          <pb n="306" facs="adl/drachmann/drachmann10/drac10306" xml:id="idm140515551861488"/>
+          <pb n="307" facs="adl/drachmann/drachmann10/drac10307" xml:id="idm140515551860720"/>
+          <pb n="308" facs="adl/drachmann/drachmann10/drac10308" xml:id="idm140515551859952"/>
+          <pb n="309" facs="adl/drachmann/drachmann10/drac10309" xml:id="idm140515551859136"/>
+          <pb n="310" facs="adl/drachmann/drachmann10/drac10310" xml:id="idm140515551858320"/>
+          <pb n="311" facs="adl/drachmann/drachmann10/drac10311" xml:id="idm140515551857504"/>
+          <pb n="312" facs="adl/drachmann/drachmann10/drac10312" xml:id="idm140515551856736"/>
+          <pb n="313" facs="adl/drachmann/drachmann10/drac10313" xml:id="idm140515551855920"/>
+          <pb n="314" facs="adl/drachmann/drachmann10/drac10314" xml:id="idm140515551855152"/>
+          <pb n="315" facs="adl/drachmann/drachmann10/drac10315" xml:id="idm140515551854336"/>
+          <pb n="316" facs="adl/drachmann/drachmann10/drac10316" xml:id="idm140515551853520"/>
+          <pb n="317" facs="adl/drachmann/drachmann10/drac10317" xml:id="idm140515551852752"/>
+          <pb n="318" facs="adl/drachmann/drachmann10/drac10318" xml:id="idm140515551851936"/>
+          <pb n="319" facs="adl/drachmann/drachmann10/drac10319" xml:id="idm140515551851168"/>
+          <pb n="320" facs="adl/drachmann/drachmann10/drac10320" xml:id="idm140515551850400"/>
+          <pb n="321" facs="adl/drachmann/drachmann10/drac10321" xml:id="idm140515551849632"/>
+          <pb n="322" facs="adl/drachmann/drachmann10/drac10322" xml:id="idm140515551848816"/>
+          <pb n="323" facs="adl/drachmann/drachmann10/drac10323" xml:id="idm140515551848000"/>
+          <pb n="324" facs="adl/drachmann/drachmann10/drac10324" xml:id="idm140515551847184"/>
+          <pb n="325" facs="adl/drachmann/drachmann10/drac10325" xml:id="idm140515551846368"/>
+          <pb n="326" facs="adl/drachmann/drachmann10/drac10326" xml:id="idm140515552312960"/>
+          <pb n="327" facs="adl/drachmann/drachmann10/drac10327" xml:id="idm140515552312192"/>
+          <pb n="328" facs="adl/drachmann/drachmann10/drac10328" xml:id="idm140515552311424"/>
+          <pb n="329" facs="adl/drachmann/drachmann10/drac10329" xml:id="idm140515552310656"/>
+          <pb n="330" facs="adl/drachmann/drachmann10/drac10330" xml:id="idm140515552309888"/>
+          <pb n="331" facs="adl/drachmann/drachmann10/drac10331" xml:id="idm140515552309120"/>
+          <pb n="332" facs="adl/drachmann/drachmann10/drac10332" xml:id="idm140515552308352"/>
+          <pb n="333" facs="adl/drachmann/drachmann10/drac10333" xml:id="idm140515552307584"/>
+          <pb n="334" facs="adl/drachmann/drachmann10/drac10334" xml:id="idm140515552306816"/>
+          <pb n="335" facs="adl/drachmann/drachmann10/drac10335" xml:id="idm140515552306048"/>
+          <pb n="336" facs="adl/drachmann/drachmann10/drac10336" xml:id="idm140515552305280"/>
+          <pb n="337" facs="adl/drachmann/drachmann10/drac10337" xml:id="idm140515552304512"/>
+          <pb n="338" facs="adl/drachmann/drachmann10/drac10338" xml:id="idm140515552303744"/>
+          <pb n="339" facs="adl/drachmann/drachmann10/drac10339" xml:id="idm140515552302976"/>
+          <pb n="340" facs="adl/drachmann/drachmann10/drac10340" xml:id="idm140515552302208"/>
+          <pb n="341" facs="adl/drachmann/drachmann10/drac10341" xml:id="idm140515552301440"/>
+          <pb n="342" facs="adl/drachmann/drachmann10/drac10342" xml:id="idm140515552300672"/>
+          <pb n="343" facs="adl/drachmann/drachmann10/drac10343" xml:id="idm140515552299904"/>
+          <pb n="344" facs="adl/drachmann/drachmann10/drac10344" xml:id="idm140515552299136"/>
+          <p xml:id="idm140515552298368"/>
+        </body>
+      </text>
+      <pb n="345" facs="adl/drachmann/drachmann10/drac10345" xml:id="idm140515552297856"/>
+      <text xml:id="workid57086" decls="#biblid57086">
+        <body xml:id="idm140515552296256">
+          <pb n="346" facs="adl/drachmann/drachmann10/drac10346" xml:id="idm140515552296000"/>
+          <pb n="347" facs="adl/drachmann/drachmann10/drac10347" xml:id="idm140515552295232"/>
+          <pb n="348" facs="adl/drachmann/drachmann10/drac10348" xml:id="idm140515552294464"/>
+          <pb n="349" facs="adl/drachmann/drachmann10/drac10349" xml:id="idm140515552293696"/>
+          <pb n="350" facs="adl/drachmann/drachmann10/drac10350" xml:id="idm140515552292928"/>
+          <pb n="351" facs="adl/drachmann/drachmann10/drac10351" xml:id="idm140515552292160"/>
+          <pb n="352" facs="adl/drachmann/drachmann10/drac10352" xml:id="idm140515552291392"/>
+          <pb n="353" facs="adl/drachmann/drachmann10/drac10353" xml:id="idm140515552290624"/>
+          <pb n="354" facs="adl/drachmann/drachmann10/drac10354" xml:id="idm140515552289856"/>
+          <pb n="355" facs="adl/drachmann/drachmann10/drac10355" xml:id="idm140515552289088"/>
+          <pb n="356" facs="adl/drachmann/drachmann10/drac10356" xml:id="idm140515551845456"/>
+          <pb n="357" facs="adl/drachmann/drachmann10/drac10357" xml:id="idm140515551844720"/>
+          <pb n="358" facs="adl/drachmann/drachmann10/drac10358" xml:id="idm140515551843952"/>
+          <pb n="359" facs="adl/drachmann/drachmann10/drac10359" xml:id="idm140515551843184"/>
+          <pb n="360" facs="adl/drachmann/drachmann10/drac10360" xml:id="idm140515551842416"/>
+          <pb n="361" facs="adl/drachmann/drachmann10/drac10361" xml:id="idm140515551841648"/>
+          <pb n="362" facs="adl/drachmann/drachmann10/drac10362" xml:id="idm140515551840880"/>
+          <pb n="363" facs="adl/drachmann/drachmann10/drac10363" xml:id="idm140515551840112"/>
+          <pb n="364" facs="adl/drachmann/drachmann10/drac10364" xml:id="idm140515551839344"/>
+          <pb n="365" facs="adl/drachmann/drachmann10/drac10365" xml:id="idm140515551838576"/>
+          <pb n="366" facs="adl/drachmann/drachmann10/drac10366" xml:id="idm140515551837808"/>
+          <pb n="367" facs="adl/drachmann/drachmann10/drac10367" xml:id="idm140515551837040"/>
+          <pb n="368" facs="adl/drachmann/drachmann10/drac10368" xml:id="idm140515551836272"/>
+          <pb n="369" facs="adl/drachmann/drachmann10/drac10369" xml:id="idm140515551835504"/>
+          <pb n="370" facs="adl/drachmann/drachmann10/drac10370" xml:id="idm140515551834736"/>
+          <pb n="371" facs="adl/drachmann/drachmann10/drac10371" xml:id="idm140515551833968"/>
+          <pb n="372" facs="adl/drachmann/drachmann10/drac10372" xml:id="idm140515551833200"/>
+          <pb n="373" facs="adl/drachmann/drachmann10/drac10373" xml:id="idm140515551832432"/>
+          <pb n="374" facs="adl/drachmann/drachmann10/drac10374" xml:id="idm140515551831664"/>
+          <pb n="375" facs="adl/drachmann/drachmann10/drac10375" xml:id="idm140515551830896"/>
+          <pb n="376" facs="adl/drachmann/drachmann10/drac10376" xml:id="idm140515551830128"/>
+          <pb n="377" facs="adl/drachmann/drachmann10/drac10377" xml:id="idm140515551829360"/>
+          <pb n="378" facs="adl/drachmann/drachmann10/drac10378" xml:id="idm140515551828592"/>
+          <pb n="379" facs="adl/drachmann/drachmann10/drac10379" xml:id="idm140515551827824"/>
+          <pb n="380" facs="adl/drachmann/drachmann10/drac10380" xml:id="idm140515551827056"/>
+          <pb n="381" facs="adl/drachmann/drachmann10/drac10381" xml:id="idm140515551826288"/>
+          <pb n="382" facs="adl/drachmann/drachmann10/drac10382" xml:id="idm140515551825520"/>
+          <pb n="383" facs="adl/drachmann/drachmann10/drac10383" xml:id="idm140515551824752"/>
+          <pb n="384" facs="adl/drachmann/drachmann10/drac10384" xml:id="idm140515551823984"/>
+          <pb n="385" facs="adl/drachmann/drachmann10/drac10385" xml:id="idm140515551823216"/>
+          <pb n="386" facs="adl/drachmann/drachmann10/drac10386" xml:id="idm140515551822448"/>
+          <pb n="387" facs="adl/drachmann/drachmann10/drac10387" xml:id="idm140515551821680"/>
+          <pb n="388" facs="adl/drachmann/drachmann10/drac10388" xml:id="idm140515551820912"/>
+          <pb n="389" facs="adl/drachmann/drachmann10/drac10389" xml:id="idm140515551820144"/>
+          <pb n="390" facs="adl/drachmann/drachmann10/drac10390" xml:id="idm140515551819376"/>
+          <pb n="391" facs="adl/drachmann/drachmann10/drac10391" xml:id="idm140515551818608"/>
+          <pb n="392" facs="adl/drachmann/drachmann10/drac10392" xml:id="idm140515551817840"/>
+          <pb n="393" facs="adl/drachmann/drachmann10/drac10393" xml:id="idm140515551817072"/>
+          <pb n="394" facs="adl/drachmann/drachmann10/drac10394" xml:id="idm140515551816304"/>
+          <pb n="395" facs="adl/drachmann/drachmann10/drac10395" xml:id="idm140515551815536"/>
+          <pb n="396" facs="adl/drachmann/drachmann10/drac10396" xml:id="idm140515551814768"/>
+          <pb n="397" facs="adl/drachmann/drachmann10/drac10397" xml:id="idm140515551814000"/>
+          <pb n="398" facs="adl/drachmann/drachmann10/drac10398" xml:id="idm140515551813232"/>
+          <pb n="399" facs="adl/drachmann/drachmann10/drac10399" xml:id="idm140515551812464"/>
+          <pb n="400" facs="adl/drachmann/drachmann10/drac10400" xml:id="idm140515551811696"/>
+          <p xml:id="idm140515551810928"/>
+        </body>
+      </text>
+      <pb n="401" facs="adl/drachmann/drachmann10/drac10401" xml:id="idm140515551810416"/>
+      <text xml:id="workid57461" decls="#biblid57461">
+        <body xml:id="idm140515551808688">
+          <pb n="402" facs="adl/drachmann/drachmann10/drac10402" xml:id="idm140515551808432"/>
+          <pb n="403" facs="adl/drachmann/drachmann10/drac10403" xml:id="idm140515551807664"/>
+          <pb n="404" facs="adl/drachmann/drachmann10/drac10404" xml:id="idm140515551806896"/>
+          <pb n="405" facs="adl/drachmann/drachmann10/drac10405" xml:id="idm140515551806128"/>
+          <pb n="406" facs="adl/drachmann/drachmann10/drac10406" xml:id="idm140515551805360"/>
+          <pb n="407" facs="adl/drachmann/drachmann10/drac10407" xml:id="idm140515551804592"/>
+          <pb n="408" facs="adl/drachmann/drachmann10/drac10408" xml:id="idm140515551803824"/>
+          <pb n="409" facs="adl/drachmann/drachmann10/drac10409" xml:id="idm140515551803056"/>
+          <pb n="410" facs="adl/drachmann/drachmann10/drac10410" xml:id="idm140515551802288"/>
+          <pb n="411" facs="adl/drachmann/drachmann10/drac10411" xml:id="idm140515551801520"/>
+          <pb n="412" facs="adl/drachmann/drachmann10/drac10412" xml:id="idm140515551800752"/>
+          <pb n="413" facs="adl/drachmann/drachmann10/drac10413" xml:id="idm140515551799984"/>
+          <pb n="414" facs="adl/drachmann/drachmann10/drac10414" xml:id="idm140515551799216"/>
+          <pb n="415" facs="adl/drachmann/drachmann10/drac10415" xml:id="idm140515551798448"/>
+          <pb n="416" facs="adl/drachmann/drachmann10/drac10416" xml:id="idm140515551797680"/>
+          <pb n="417" facs="adl/drachmann/drachmann10/drac10417" xml:id="idm140515551796912"/>
+          <pb n="418" facs="adl/drachmann/drachmann10/drac10418" xml:id="idm140515551796144"/>
+          <pb n="419" facs="adl/drachmann/drachmann10/drac10419" xml:id="idm140515551795376"/>
+          <pb n="420" facs="adl/drachmann/drachmann10/drac10420" xml:id="idm140515551794608"/>
+          <pb n="421" facs="adl/drachmann/drachmann10/drac10421" xml:id="idm140515551793840"/>
+          <pb n="422" facs="adl/drachmann/drachmann10/drac10422" xml:id="idm140515551793072"/>
+          <pb n="423" facs="adl/drachmann/drachmann10/drac10423" xml:id="idm140515551792304"/>
+          <pb n="424" facs="adl/drachmann/drachmann10/drac10424" xml:id="idm140515551791536"/>
+          <pb n="425" facs="adl/drachmann/drachmann10/drac10425" xml:id="idm140515551790768"/>
+          <pb n="426" facs="adl/drachmann/drachmann10/drac10426" xml:id="idm140515551790000"/>
+          <pb n="427" facs="adl/drachmann/drachmann10/drac10427" xml:id="idm140515551789232"/>
+          <pb n="428" facs="adl/drachmann/drachmann10/drac10428" xml:id="idm140515551788464"/>
+          <pb n="429" facs="adl/drachmann/drachmann10/drac10429" xml:id="idm140515551787696"/>
+          <pb n="430" facs="adl/drachmann/drachmann10/drac10430" xml:id="idm140515551786928"/>
+          <pb n="431" facs="adl/drachmann/drachmann10/drac10431" xml:id="idm140515551786160"/>
+          <pb n="432" facs="adl/drachmann/drachmann10/drac10432" xml:id="idm140515551785392"/>
+          <pb n="433" facs="adl/drachmann/drachmann10/drac10433" xml:id="idm140515551784624"/>
+          <pb n="434" facs="adl/drachmann/drachmann10/drac10434" xml:id="idm140515551783856"/>
+          <pb n="435" facs="adl/drachmann/drachmann10/drac10435" xml:id="idm140515551783088"/>
+          <pb n="436" facs="adl/drachmann/drachmann10/drac10436" xml:id="idm140515551782320"/>
+          <pb n="437" facs="adl/drachmann/drachmann10/drac10437" xml:id="idm140515551781552"/>
+          <pb n="438" facs="adl/drachmann/drachmann10/drac10438" xml:id="idm140515551780784"/>
+          <pb n="439" facs="adl/drachmann/drachmann10/drac10439" xml:id="idm140515551780016"/>
+          <pb n="440" facs="adl/drachmann/drachmann10/drac10440" xml:id="idm140515551779248"/>
+          <pb n="441" facs="adl/drachmann/drachmann10/drac10441" xml:id="idm140515551778480"/>
+          <pb n="442" facs="adl/drachmann/drachmann10/drac10442" xml:id="idm140515551777712"/>
+          <pb n="443" facs="adl/drachmann/drachmann10/drac10443" xml:id="idm140515551776944"/>
+          <pb n="444" facs="adl/drachmann/drachmann10/drac10444" xml:id="idm140515551776176"/>
+          <pb n="445" facs="adl/drachmann/drachmann10/drac10445" xml:id="idm140515551775408"/>
+          <pb n="446" facs="adl/drachmann/drachmann10/drac10446" xml:id="idm140515551774640"/>
+          <pb n="447" facs="adl/drachmann/drachmann10/drac10447" xml:id="idm140515551773872"/>
+          <pb n="448" facs="adl/drachmann/drachmann10/drac10448" xml:id="idm140515551773104"/>
+          <pb n="449" facs="adl/drachmann/drachmann10/drac10449" xml:id="idm140515551772336"/>
+          <pb n="450" facs="adl/drachmann/drachmann10/drac10450" xml:id="idm140515551771568"/>
+          <pb n="451" facs="adl/drachmann/drachmann10/drac10451" xml:id="idm140515551770800"/>
+          <pb n="452" facs="adl/drachmann/drachmann10/drac10452" xml:id="idm140515551770032"/>
+          <pb n="453" facs="adl/drachmann/drachmann10/drac10453" xml:id="idm140515551769264"/>
+          <pb n="454" facs="adl/drachmann/drachmann10/drac10454" xml:id="idm140515551768496"/>
+          <pb n="455" facs="adl/drachmann/drachmann10/drac10455" xml:id="idm140515551767728"/>
+          <pb n="456" facs="adl/drachmann/drachmann10/drac10456" xml:id="idm140515551766960"/>
+          <pb n="457" facs="adl/drachmann/drachmann10/drac10457" xml:id="idm140515551766192"/>
+          <pb n="458" facs="adl/drachmann/drachmann10/drac10458" xml:id="idm140515551765424"/>
+          <pb n="459" facs="adl/drachmann/drachmann10/drac10459" xml:id="idm140515551764656"/>
+          <pb n="460" facs="adl/drachmann/drachmann10/drac10460" xml:id="idm140515551763888"/>
+          <pb n="461" facs="adl/drachmann/drachmann10/drac10461" xml:id="idm140515551763120"/>
+          <pb n="462" facs="adl/drachmann/drachmann10/drac10462" xml:id="idm140515551762352"/>
+          <pb n="463" facs="adl/drachmann/drachmann10/drac10463" xml:id="idm140515551761584"/>
+          <pb n="464" facs="adl/drachmann/drachmann10/drac10464" xml:id="idm140515551760816"/>
+          <pb n="465" facs="adl/drachmann/drachmann10/drac10465" xml:id="idm140515551760048"/>
+          <pb n="466" facs="adl/drachmann/drachmann10/drac10466" xml:id="idm140515551759280"/>
+          <pb n="467" facs="adl/drachmann/drachmann10/drac10467" xml:id="idm140515551758512"/>
+          <pb n="468" facs="adl/drachmann/drachmann10/drac10468" xml:id="idm140515551757744"/>
+          <pb n="469" facs="adl/drachmann/drachmann10/drac10469" xml:id="idm140515551756976"/>
+          <pb n="470" facs="adl/drachmann/drachmann10/drac10470" xml:id="idm140515551756208"/>
+          <pb n="471" facs="adl/drachmann/drachmann10/drac10471" xml:id="idm140515551755440"/>
+          <pb n="472" facs="adl/drachmann/drachmann10/drac10472" xml:id="idm140515551754672"/>
+          <pb n="473" facs="adl/drachmann/drachmann10/drac10473" xml:id="idm140515551753904"/>
+          <pb n="474" facs="adl/drachmann/drachmann10/drac10474" xml:id="idm140515551753136"/>
+          <pb n="475" facs="adl/drachmann/drachmann10/drac10475" xml:id="idm140515551752368"/>
+          <pb n="476" facs="adl/drachmann/drachmann10/drac10476" xml:id="idm140515551751600"/>
+          <pb n="477" facs="adl/drachmann/drachmann10/drac10477" xml:id="idm140515551750832"/>
+          <pb n="478" facs="adl/drachmann/drachmann10/drac10478" xml:id="idm140515551750064"/>
+          <p xml:id="idm140515551749296"/>
+        </body>
+      </text>
+    </group>
+    <back xml:id="idm140515551748656">
+      <pb n="479" facs="adl/drachmann/drachmann10/drac10479" xml:id="idm140515551748400"/>
+      <pb n="480" facs="adl/drachmann/drachmann10/drac10480" xml:id="idm140515551747664"/>
+    </back>
+  </text>
+</TEI>

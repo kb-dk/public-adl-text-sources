@@ -1,0 +1,1003 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- 21.10.02 VL: all pb after 6 were one off vis a vis the contents. Corrected. 
+Text for the first 4 pages missing! -->
+<!-- 20040419   HHL indsat tekst på side 13 - en strofe manglede
+                HHL rettet i <front> - dok kunne ikke valideres?!
+                    har været i dnaske sal og checket siderækkefølge - ændres når billedfilerne kan ændres af DO
+                HHL har nu sat sider i rigtig irden og lavet ordentligt header med titlePage mv
+  Ptj rettet s. 3-
+-->
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="idm140223992035264"><!-- 
+       file     ./marc_dir/003115300.xml
+       field     
+       subfield  
+       prefix   -->
+  <teiHeader xml:id="idm140223992035808">
+    <fileDesc xml:id="idm140223992009648">
+      <titleStmt xml:id="idm140223992009392">
+        <title xml:id="idm140223992009136">MORGEN OG AFTENSANGE</title>
+        <respStmt xml:id="idm140223992008752">
+          <resp xml:id="idm140223992008496">Kjeld Elfeldt</resp>
+          <name xml:id="idm140223992008112"/>
+        </respStmt>
+        <author xml:id="idm140223992007728">B.S. Ingemann</author>
+      </titleStmt>
+      <publicationStmt xml:id="idm140223992007168">
+        <publisher xml:id="idm140223992006912"/>
+        <idno xml:id="idm140223992006656" xml:base="texts/ingemann03val.xml">003115300:03</idno>
+      </publicationStmt>
+      <notesStmt xml:id="idm140223992005840">
+        <note xml:id="idm140223992005536">
+	  </note>
+      </notesStmt>
+      <sourceDesc xml:id="idm140223992005024"><bibl xml:id="idm140223992004896"><author n="1" xml:id="idm140223992004208"><name xml:id="idm140223992003952"><surname xml:id="idm140223992003824">Ingemann</surname>, <forename xml:id="idm140223992003392">B. S.</forename></name></author><title xml:id="idm140223992003136">Morgen og Aftensange</title><pubPlace xml:id="idm140223992002848">Kbh.</pubPlace>
+<date xml:id="idm140223992002336">1945</date></bibl><listBibl xml:id="idm140223992002048"><bibl xml:id="biblid54581"><title xml:id="idm140223991988896">MORGENSANGE</title></bibl><bibl xml:id="biblid54605"><title xml:id="idm140223991988112">NU RINGER ALLE KLOKKER MOD SKY</title></bibl><bibl xml:id="biblid54757"><title xml:id="idm140223991987312">LYSETS ENGEL GAAER MED GLANDS</title></bibl><bibl xml:id="biblid54885"><title xml:id="idm140223991986464">NU VAAGNE ALLE GUDS FUGLE SMAA</title></bibl><bibl xml:id="biblid54980"><title xml:id="idm140223991985664">I ØSTEN STIGER SOLEN OP</title></bibl><bibl xml:id="biblid55131"><title xml:id="idm140223991984784">GUD SKEE TAK OG LOV!</title></bibl><bibl xml:id="biblid55308"><title xml:id="idm140223991983888">MORGENSTUND HAR GULD I MUND</title></bibl><bibl xml:id="biblid55385"><title xml:id="idm140223991983040">NU TITTE TIL HINANDEN DE FAVRE BLOMSTER SMAA</title></bibl><bibl xml:id="biblid55503"><title xml:id="idm140223991982224">STORKEN SIDDER PAA BONDENS TAG</title></bibl><bibl xml:id="biblid55600"><title xml:id="idm140223991981424">AFTENSANGE</title></bibl><bibl xml:id="biblid55630"><title xml:id="idm140223991980640">DER STAAER ET SLOT I VESTERLED</title></bibl><bibl xml:id="biblid55750"><title xml:id="idm140223991979840">DAGEN GAAER MED RASKE FJED</title></bibl><bibl xml:id="biblid55879"><title xml:id="idm140223991978992">TIL VOR LILLE GJERNING UD</title></bibl><bibl xml:id="biblid55997"><title xml:id="idm140223991978192">I FJERNE KIRKETAARNE HIST</title></bibl><bibl xml:id="biblid56155"><title xml:id="idm140223991977344">BLIV HOS OS, NAAR DAGEN HELDER</title></bibl><bibl xml:id="biblid56266"><title xml:id="idm140223991976544">DEN SKJØNNE JORDENS SOL GIK NED</title></bibl><bibl xml:id="biblid56361"><title xml:id="idm140223991975664">DEN STORE STILLE NAT GAAER FREM</title></bibl><bibl xml:id="biblid56437"><title xml:id="idm140223991974816">LYKSALIG, LYKSALIG HVER SJÆL, SOM HAR FRED</title></bibl><bibl xml:id="biblid56584"><title xml:id="idm140223991973920">FRED HVILER OVER LAND OG BYE</title></bibl></listBibl></sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text xml:id="idm140223991973232">
+    <front xml:id="idm140223991972976">
+      <pb n="1" facs="adl/ingemann/ingemann3/inge3001" xml:id="idm140223991972672"/>
+      <div xml:id="idm140223991971936">
+        <bibl xml:id="idm140223991971680">
+          <title xml:id="idm140223991971424">MORGEN OG AFTENSANGE</title>
+        </bibl>
+      </div>
+      <pb n="2" facs="adl/ingemann/ingemann3/inge3002" xml:id="idm140223991970752"/>
+      <pb n="3" facs="adl/ingemann/ingemann3/inge3003" xml:id="idm140223991969936"/>
+      <titlePage xml:id="idm140223991969168">
+        <docTitle xml:id="idm140223991968912">
+          <titlePart type="main" xml:id="idm140223991968608">Morgen<lb xml:id="idm140223991968000"/> og Aften Sange<lb xml:id="idm140223991967712"/>af<lb xml:id="idm140223991967456"/>B.S. Ingemann</titlePart>
+        </docTitle>
+        <docEdition xml:id="idm140223991966912">
+          <bibl xml:id="idm140223991966656">Efter de originale udgaver<lb xml:id="idm140223991966352"/>med forord af <editor role="editor" xml:id="idm140223991966016">Kjeld Elfeldt</editor>
+						Illustreret af Ib Andersen </bibl>
+        </docEdition>
+        <docImprint xml:id="idm140223991965024">København<lb xml:id="idm140223991964736"/> Schultz Forlag<lb xml:id="idm140223991964448"/> 1945 </docImprint>
+      </titlePage>
+      <pb n="4" facs="adl/ingemann/ingemann3/inge3004" xml:id="idm140223991963904"/>
+      <div xml:id="idm140223991963088">
+        <p xml:id="idm140223992066048">2. oplag</p>
+      </div>
+      <pb n="5" facs="adl/ingemann/ingemann3/inge3005" xml:id="idm140223992065504"/>
+      <div type="forord" xml:id="idm140223992064736">
+        <head xml:id="idm140223992064208">FORORD</head>
+        <p xml:id="idm140223992063792">De Ord, Øjet oftest læser i B. S. Ingemanns <hi rend="italics" xml:id="idm140223992063424">Morgen- og
+						Aftensange</hi>, er <hi rend="italics" xml:id="idm140223992062736">Lys</hi>, <hi rend="italics" xml:id="idm140223992062080">Sjæl</hi>, <hi rend="italics" xml:id="idm140223991937584">Paradis</hi> og <hi rend="italics" xml:id="idm140223991936864">Engel</hi>.</p>
+        <p xml:id="idm140223991936048">Digterens kloge og hjerteligt dannede Sorø-Veninde, Fru Ingeborg Christiane v.
+					Rosenørn, sagde, da han i September 1837 sendte hende sine <hi rend="italics" xml:id="idm140223991935488">Morgensange for Børn</hi>, at de var saa "skjønne og
+					barnlige", og at hun "ret skulde indøve dem paa
+					Harpen", naar de blev sat i Musik.</p>
+        <p xml:id="idm140223991934384">Tiden har givet hendes kvindelige Dom Medhold, thi B. S. Ingemanns milde <hi rend="italics" xml:id="idm140223991934032">Morgen- og Aftensange</hi> er ikke blot hans smukkeste
+					"Livspoesi", men ogsaa en Trosbekendelse, hvis Tone er
+					lige saa "himmelsk" som de Æolsharper, Digteren elskede og
+					bandt til Baadens Mast, naar han sejlede paa Sorø Sø.</p>
+        <p xml:id="idm140223991932768">Versets poetiske Billeder beskriver, nænsomt og dog forunderlig majestætisk,
+					Naturens vingede, jublende og blomstrende Skabninger og Stjernernes lysende
+					Flugt gennem Evighedens mørke Himmelrum, set fra en stille Stue i Sorøs stille
+					Idyl - eller mindes de klare, gode Barndomsdage i Thorkildstrup paa
+					Falster .... Kirkeklokkerne, der ringede højtidshelligt i Taarngluggen, de
+					kvidrende Svaler, der lovsang for Lyset og Livet "med fløitende
+					Tunge", Sneglen, der med "hele sit Hus <pb n="6" facs="adl/ingemann/ingemann3/inge3006" xml:id="idm140223991931824"/> paa Ryggen kunde krybe op ad den steile
+					Træstamme" eller Solen, som ved Aftenstid "nedrullede til
+					sit gyldne Slot i Guldborg-Sund". Men bag det, der er Erindring og
+					lyrisk "Hverdag" i B. S. Ingemanns <hi rend="italics" xml:id="idm140223991930608">Morgen- og Aftensange</hi>, hører man den Tone fra Himlen, der er Versets
+					fineste Religion og Poesi.</p>
+        <p xml:id="idm140223991929616">"... I min nye Stilling hernede har jeg ofte følt mig i en saa
+					lykkelig Stemning, at jeg <hi rend="italics" xml:id="idm140223991929152">selv</hi> ofte har følt Trang til
+					at prise Gud for Lyset og Livet ... saa det er ligesom kommet af sig selv, at,
+					hvad jeg skrev, blev Morgenpsalmer", siger B. S. Ingemann i et Brev
+					til J. P. Mynster den 31. Oktober 1822, nogle Uger efter at han var begyndt paa
+					sit Arbejde som Lektor i dansk Sprog og Litteratur ved Sorø Akademi, men det
+					varede femten-seksten Aar, inden hans Lovsang, hans Tak til Gud for Livet og
+					Sjælens Paradishaab, fandt den skønne, syngende Musik, der bærer Verset, som
+					Vingerne bærer Fuglen.</p>
+        <p xml:id="idm140223991927696">I <hi rend="italics" xml:id="idm140223991927440">Morgen- og Aftensange</hi> bekender Digteren sin
+					"naive" - og romantiske - Tillid til
+					det uskyldige, Barnesindet, der alene i Kraft af sin fromme Fortrøstning vinder
+					Livslykken og Guds Rige - som Aladdin vandt Herskermagten og Sultanens
+					Datter.</p>
+        <p xml:id="idm140223991926128">Den jordiske Tilværelse med dens tusind forunderlige Mirakler, fra det mindste
+					til det største, er en Part af Evigheden - "Over Livsdybet
+					Stjernerne spille, og en Evigheds Glands er deri" - og
+					Vorherre er den kærligste Fader, der aander paa Øjet, naar det græder, og
+					bjerger den bævende Due i Stormen.</p>
+        <p xml:id="idm140223991925088">"Saa langt tilbage, han er sig bevidst", skriver B. S.
+					Ingemann om sig selv i <hi rend="italics" xml:id="idm140223991924736">Levnetsbogen</hi>, "kan han
+						<pb n="7" facs="adl/ingemann/ingemann3/inge3007" xml:id="idm140223991924016"/> nemlig ikke erindre noget Tidspunkt, hvori
+					han ikke har følt og troet sig i ligesaa sikker Forbindelse med den usynlige
+					Fader og Skaber, som med de synlige Forældre ... hans Tillid og Fortrolighed til
+					den usynlige Fader var uformørket, som den var ubegrændset. Til ham betroede han
+					sig hver Aften, naar han laa i sin Kurveseng og havde fortæret det Æble, han
+					gjerne fik med til Erstatning for de Ældres Aftenunderholdning. Naar han lukkede
+					sine Øine, var han i den levende Guds Haand, derpaa tvivlede han ikke; naar han
+					slog dem op, ligeledes, og naar den usynlige Haand kun vilde være med ham, havde
+					han et Slags Forestilling om engang at kunne opleve eller foretage sig det
+					Allervidunderligste ..."</p>
+        <p xml:id="idm140223992061360">Det er <hi rend="italics" xml:id="idm140223992061072">den</hi> barnlige Tro og Tillid, B. S. Ingemann har
+					digtet ind i sine <hi rend="italics" xml:id="idm140223992060336">Morgen- og Aftensange</hi>, og derfor hører
+					de - ligesom H. C. Andersens Eventyr, der har samme Tro paa det Godes
+					Sejr og Barnesindets uendelige Styrke - til den Del af Danmarks
+					gyldne, poetiske Formue, der uformindsket og uforandret gaar i Arv fra Slægt til
+					Slægt.</p>
+        <trailer xml:id="idm140223992058976">
+          <hi rend="italics" xml:id="idm140223992058720">KJELD ELFELT</hi>
+        </trailer>
+      </div>
+      <pb n="8" facs="adl/ingemann/ingemann3/inge3008" xml:id="idm140223992057776"/>
+    </front>
+    <group xml:id="idm140223992056880">
+      <pb n="9" facs="adl/ingemann/ingemann3/inge3009" xml:id="idm140223992056624"/>
+      <text xml:id="workid54581" decls="#biblid54581">
+        <front xml:id="idm140223992055024">
+          <head xml:id="idm140223992054768">MORGENSANGE</head>
+          <pb n="10" facs="adl/ingemann/ingemann3/inge3010" xml:id="idm140223992054352"/>
+        </front>
+        <body xml:id="idm140223992053456">
+          <pb n="11" facs="adl/ingemann/ingemann3/inge3011" xml:id="idm140223991905072"/>
+          <div xml:id="workid54605" decls="#biblid54605">
+            <head xml:id="idm140223991903600"><figure xml:id="idm140223991903472"/><lb xml:id="idm140223991903344"/>NU RINGER ALLE KLOKKER MOD SKY</head>
+            <lg xml:id="idm140223991902960">
+              <l xml:id="idm140223991902704">Nu ringer alle Klokker mod Sky;</l>
+              <l xml:id="idm140223991902320">Det kimer i fjerne Riger.</l>
+              <l xml:id="idm140223991901936">Hver Søndag Morgen høit paany</l>
+              <l xml:id="idm140223991901552">Stor Glæde mod Himlen stiger.</l>
+            </lg>
+            <pb n="12" facs="adl/ingemann/ingemann3/inge3012" xml:id="idm140223991900960"/>
+            <lg xml:id="idm140223991900224">
+              <l xml:id="idm140223991899968">Det toner med Lov og Priis og Bøn</l>
+              <l xml:id="idm140223991899504">Fra Jord mod Paradiishaven:</l>
+              <l xml:id="idm140223991899120">Det var en Søndag Morgen skjøn</l>
+              <l xml:id="idm140223991898656">Vor Frelser stod op af Graven.</l>
+            </lg>
+            <lg xml:id="idm140223991898144">
+              <l xml:id="idm140223991897888">For os han vandred i Gruben ned;</l>
+              <l xml:id="idm140223991897504">Han gik til de Dødes Rige.</l>
+              <l xml:id="idm140223991897056">Til Livet med stor Herlighed</l>
+              <l xml:id="idm140223991896624">Han vilde for os opstige.</l>
+            </lg>
+            <lg xml:id="idm140223991896064">
+              <l xml:id="idm140223991895808">Al Verdens Glæde begravet laae;</l>
+              <l xml:id="idm140223991895344">Nu frydes vi alle Dage:</l>
+              <l xml:id="idm140223991894928">Den Glæde, Søndagssolen saae,</l>
+              <l xml:id="idm140223991894464">Den har i Verden ei Mage.</l>
+            </lg>
+            <lg xml:id="idm140223991893904">
+              <l xml:id="idm140223991893648">Der sad en Engel paa Gravens Steen</l>
+              <l xml:id="idm140223991893216">Blandt Lillier i Urtehaven;</l>
+              <l xml:id="idm140223991892784">Han peged med sin Palmegreen</l>
+              <l xml:id="idm140223991892352">Hvor Jesus stod op af Graven.</l>
+            </lg>
+            <lg xml:id="idm140223991891792">
+              <l xml:id="idm140223991891536">Og der blev Glæde paa Jorderig,</l>
+              <l xml:id="idm140223991891072">Liig Glæden i Engles Himmel:</l>
+              <l xml:id="idm140223991890608">Livskongen løfter op med sig</l>
+              <l xml:id="idm140223991890144">Til Livet sin Børnevrimmel.</l>
+            </lg>
+            <pb n="13" facs="adl/ingemann/ingemann3/inge3013" xml:id="idm140223991889552"/>
+            <lg xml:id="idm140223991888784">
+              <l xml:id="idm140223991888528">Guds Børn skal holde med Engle Bøn</l>
+              <l xml:id="idm140223991888048">Med Jubel i Paradiishaven</l>
+              <l xml:id="idm140223991887616">Det var en Søndag Morgen Skjøn</l>
+              <l xml:id="idm140223991887152">Vor Frelser stod op af Graven</l>
+            </lg>
+          </div>
+          <pb n="14" facs="adl/ingemann/ingemann3/inge3014" xml:id="idm140223991886464"/>
+          <div xml:id="workid54757" decls="#biblid54757">
+            <head xml:id="idm140223991884800"><figure xml:id="idm140223991884672"/><lb xml:id="idm140223991884544"/>LYSETS ENGEL GAAER MED GLANDS</head>
+            <lg xml:id="idm140223991884112">
+              <l xml:id="idm140223991883856">Lysets Engel gaaer med Glands</l>
+              <l xml:id="idm140223991883424">Gjennem Himmelporte.</l>
+              <l xml:id="idm140223991883008">For Guds Engels Straalekrands</l>
+              <l xml:id="idm140223991882576">Flygter alle Nattens Skygger sorte.</l>
+            </lg>
+            <pb n="15" facs="adl/ingemann/ingemann3/inge3015" xml:id="idm140223991882016"/>
+            <lg xml:id="idm140223991881248">
+              <l xml:id="idm140223991880992">Sol gaaer over Verden ud</l>
+              <l xml:id="idm140223991880560">Med Guds Lys i Øie:</l>
+              <l xml:id="idm140223991880112">See! Vor Herres Sendebud</l>
+              <l xml:id="idm140223991879680">Gaaer paa gyldne Skyer i det Høie.</l>
+            </lg>
+            <lg xml:id="idm140223991879088">
+              <l xml:id="idm140223991878832">Englen spreder over Jord</l>
+              <l xml:id="idm140223991878400">Glandsen fra Guds Himmel;</l>
+              <l xml:id="idm140223991877968">I sin Kaabes Straaleflor</l>
+              <l xml:id="idm140223991877536">Favner han Alverdens glade Vrimmel.</l>
+            </lg>
+            <lg xml:id="idm140223991876976">
+              <l xml:id="idm140223991876720">Sol seer ind i Slot og Vraa,</l>
+              <l xml:id="idm140223991876288">Seer paa Drot og Tigger,</l>
+              <l xml:id="idm140223991875856">Seer til Store, seer til Smaa,</l>
+              <l xml:id="idm140223991875424">Kysser Barnet, som i Vuggen ligger.</l>
+            </lg>
+            <lg xml:id="idm140223991874864">
+              <l xml:id="idm140223991874608">Os han ogsaa favne vil</l>
+              <l xml:id="idm140223991874192">Englen i det Høie;</l>
+              <l xml:id="idm140223991873760">Os han ogsaa smiler til</l>
+              <l xml:id="idm140223991873344">Englen med Guds Himmelglands i Øie.</l>
+            </lg>
+            <lg xml:id="idm140223991872736">
+              <l xml:id="idm140223991872480">Os har og Vor Herre kjær:</l>
+              <l xml:id="idm140223991872032">Ingen Sjæl han glemmer;</l>
+              <l xml:id="idm140223991871584">I hvert Solglimt Gud er nær</l>
+              <l xml:id="idm140223991871120">Og vor glade Morgensang fornemmer.</l>
+            </lg>
+          </div>
+          <pb n="16" facs="adl/ingemann/ingemann3/inge3016" xml:id="idm140223991870432"/>
+          <div xml:id="workid54885" decls="#biblid54885">
+            <head xml:id="idm140223991868768"><figure xml:id="idm140223991868640"/><lb xml:id="idm140223991868512"/>NU VAAGNE ALLE GUDS FUGLE SMAA</head>
+            <lg xml:id="idm140223991868080">
+              <l xml:id="idm140223991867824">Nu vaagne alle Guds Fugle smaa,</l>
+              <l xml:id="idm140223991867392">De flyve fra Reden og sjunge;</l>
+              <l xml:id="idm140223991866960">De prise Vor Herre saa godt de formaae:</l>
+              <l xml:id="idm140223991866528">De takke for Livet og Lyset med fløitende Tunge.</l>
+            </lg>
+            <pb n="17" facs="adl/ingemann/ingemann3/inge3017" xml:id="idm140223991865904"/>
+            <lg xml:id="idm140223991865136">
+              <l xml:id="idm140223991864880">Nu qviddrer Svalen paa Kirketag,</l>
+              <l xml:id="idm140223991864448">Og Spurven ved Menneskers Huse;</l>
+              <l xml:id="idm140223991864016">De synge: Godmorgen! de synge: Goddag!</l>
+              <l xml:id="idm140223991863584">De synge: Gudsfred! Gud skee Lov! og i Luften hensuse.</l>
+            </lg>
+            <lg xml:id="idm140223991863008">
+              <l xml:id="idm140223991862752">Smaafuglens Sang Vor Herre forstaaer;</l>
+              <l xml:id="idm140223991862320">Han kjender hver Sjæl i sit Rige;</l>
+              <l xml:id="idm140223991861856">De Fattiges Lovsang han ikke forsmaaer;</l>
+              <l xml:id="idm140223991861424">Han seer, hvad de maalløse Skabninger alle vil sige.</l>
+            </lg>
+            <lg xml:id="idm140223991860784">
+              <l xml:id="idm140223991860528">Os seer Du ogsaa, Du kjære Gud!</l>
+              <l xml:id="idm140223991860064">Du hører vor Røst i din Himmel;</l>
+              <l xml:id="idm140223991859600">Naar Fuglene flagre af Rederne ud,</l>
+              <l xml:id="idm140223991859168">Du hører Smaabørnenes Priis i din jublende Vrimmel.</l>
+            </lg>
+          </div>
+          <pb n="18" facs="adl/ingemann/ingemann3/inge3018" xml:id="idm140223991858400"/>
+          <div xml:id="workid54980" decls="#biblid54980">
+            <head xml:id="idm140223991856736"><figure xml:id="idm140223991856608"/><lb xml:id="idm140223991856480"/>I ØSTEN STIGER SOLEN OP</head>
+            <lg xml:id="idm140223991856032">
+              <l xml:id="idm140223991855776">I Østen stiger Solen op:</l>
+              <l xml:id="idm140223991855328">Den spreder Guld paa Sky,</l>
+              <l xml:id="idm140223991854896">Gaaer over Hav og Bjergetop,</l>
+              <l xml:id="idm140223991854464">Gaaer over Land og By.</l>
+            </lg>
+            <pb n="19" facs="adl/ingemann/ingemann3/inge3019" xml:id="idm140223991853920"/>
+            <lg xml:id="idm140223991853152">
+              <l xml:id="idm140223991852896">Den kommer fra den favre Kyst,</l>
+              <l xml:id="idm140223991852464">Hvor Paradiset laae;</l>
+              <l xml:id="idm140223991852048">Den bringer Lys og Liv og Lyst</l>
+              <l xml:id="idm140223991851616">Til Store og til Smaa.</l>
+            </lg>
+            <lg xml:id="idm140223991851072">
+              <l xml:id="idm140223991850816">Den hilser os endnu saa smukt</l>
+              <l xml:id="idm140223991850384">Fra Edens Morgenrød,</l>
+              <l xml:id="idm140223991849936">Hvor Træet stod med evig Frugt,</l>
+              <l xml:id="idm140223991849472">Hvor Livets Væld udflød.</l>
+            </lg>
+            <lg xml:id="idm140223991848896">
+              <l xml:id="idm140223991848640">Den hilser os fra Livets Hjem,</l>
+              <l xml:id="idm140223991848208">Hvor størst Guds Lys oprandt</l>
+              <l xml:id="idm140223991847744">Med Stjernen over Bethlehem,</l>
+              <l xml:id="idm140223991847312">Som Østens Vise fandt.</l>
+            </lg>
+            <lg xml:id="idm140223991846736">
+              <l xml:id="idm140223991846480">Og med Guds Sol udgaaer fra Øst</l>
+              <l xml:id="idm140223991846016">En himmelsk Glands paa Jord,</l>
+              <l xml:id="idm140223991845584">Et Glimt fra Paradisets Kyst,</l>
+              <l xml:id="idm140223991845152">Hvor Livets Abild groer.</l>
+            </lg>
+            <lg xml:id="idm140223991844592">
+              <l xml:id="idm140223991844336">Og alle Stjerner neie sig,</l>
+              <l xml:id="idm140223991843904">Hvor Østens Sol gaaer frem:</l>
+              <l xml:id="idm140223991843440">Den synes dem hiin Stjerne liig,</l>
+              <l xml:id="idm140223991843008">Der stod ved Bethlehem.</l>
+            </lg>
+            <pb n="20" facs="adl/ingemann/ingemann3/inge3020" xml:id="idm140223991842464"/>
+            <lg xml:id="idm140223991841696">
+              <l xml:id="idm140223991841440">Du Soles Sol fra Bethlehem!</l>
+              <l xml:id="idm140223991841008">Hav Tak og Lov og Priis</l>
+              <l xml:id="idm140223991840592">For hvert et Glimt fra Lysets Hjem</l>
+              <l xml:id="idm140223991840160">Og fra dit Paradiis!</l>
+            </lg>
+          </div>
+          <pb n="21" facs="adl/ingemann/ingemann3/inge3021" xml:id="idm140223991839488"/>
+          <div xml:id="workid55131" decls="#biblid55131">
+            <head xml:id="idm140223991837712"><figure xml:id="idm140223991837584"/><lb xml:id="idm140223991837456"/>GUD SKEE TAK OG LOV!</head>
+            <lg xml:id="idm140223991837040">
+              <l xml:id="idm140223991836784">Gud skee Tak og Lov!</l>
+              <l xml:id="idm140223991836368">Vi saa deiligt sov:</l>
+              <l xml:id="idm140223991835952">Barnet laae med varme Kind paa Puden.</l>
+              <l xml:id="idm140223991835520">Nu som Fuglen frisk!</l>
+              <l xml:id="idm140223991835104">Rask som Havets Fisk!</l>
+              <l xml:id="idm140223991834688">Morgensolen titter gjennem Ruden.</l>
+            </lg>
+            <pb n="22" facs="adl/ingemann/ingemann3/inge3022" xml:id="idm140223991834128"/>
+            <lg xml:id="idm140223991833360">
+              <l xml:id="idm140223991833104">Med hiin Glands fra Sky</l>
+              <l xml:id="idm140223991832688">Kom der Lys i By,</l>
+              <l xml:id="idm140223991832272">Kom der Glimt af Sol i alle Sjæle.</l>
+              <l xml:id="idm140223991831808">Alle Haner goel,</l>
+              <l xml:id="idm140223991831392">Hilsed glad Guds Sol,</l>
+              <l xml:id="idm140223991830976">Alle vævre Tunger smaa fik Mæle.</l>
+            </lg>
+            <lg xml:id="idm140223991830384">
+              <l xml:id="idm140223991830128">Fattig Mand fuldstærk</l>
+              <l xml:id="idm140223991829680">Gaaer nu til sit Værk;</l>
+              <l xml:id="idm140223991829232">Rask hver Haand sig rører nu med Glæde.</l>
+              <l xml:id="idm140223991828752">Fattig Kone maa</l>
+              <l xml:id="idm140223991828336">Til sin Dont udgaae,</l>
+              <l xml:id="idm140223991827920">At de Smaa skal ei for Brødet græde.</l>
+            </lg>
+            <lg xml:id="idm140223991827312">
+              <l xml:id="idm140223991827056">Fader gik sin Vei;</l>
+              <l xml:id="idm140223991826640">Moder see vi ei;</l>
+              <l xml:id="idm140223991826224">Dog i Nød vi sidde ei tilbage.</l>
+              <l xml:id="idm140223991825760">Arnens Ild er slukt;</l>
+              <l xml:id="idm140223991825344">Hjemmets Dør er lukt;</l>
+              <l xml:id="idm140223991824896">Gud dog sørger for os alle Dage.</l>
+            </lg>
+            <lg xml:id="idm140223991824304">
+              <l xml:id="idm140223991824048">Ei den mindste Muus</l>
+              <l xml:id="idm140223991823632">Savner Tag og Huus;</l>
+              <l xml:id="idm140223991823216">Fattigst Spurveunge har sin Rede.</l>
+              <l xml:id="idm140223991822784">Ei den mindste Fugl</l>
+              <l xml:id="idm140223991822368">Savner Ly og Skjul;</l>
+              <l xml:id="idm140223991821952">Vi skal heller ei om Fristed lede.</l>
+            </lg>
+            <pb n="23" facs="adl/ingemann/ingemann3/inge3023" xml:id="idm140223991821392"/>
+            <lg xml:id="idm140223991820624">
+              <l xml:id="idm140223991820368">Lystig Hanen goel,</l>
+              <l xml:id="idm140223991819952">Hilsed glad Guds Sol;</l>
+              <l xml:id="idm140223991819536">For hver Sjæl er Lys og Lyst oprundet.</l>
+              <l xml:id="idm140223991819056">Nu, som Fuglen frisk!</l>
+              <l xml:id="idm140223991818640">Rask som Havets Fisk!</l>
+              <l xml:id="idm140223991818224">Vi har Kjærligheds-Asylet fundet.</l>
+            </lg>
+          </div>
+          <pb n="24" facs="adl/ingemann/ingemann3/inge3024" xml:id="idm140223991817504"/>
+          <div xml:id="workid55308" decls="#biblid55308">
+            <head xml:id="idm140223991815792"><figure xml:id="idm140223991815664"/><lb xml:id="idm140223991815536"/>MORGENSTUND HAR GULD I MUND</head>
+            <lg xml:id="idm140223991815104">
+              <l xml:id="idm140223991814848">Morgenstund har Guld i Mund:</l>
+              <l xml:id="idm140223991814416">Morgensol Guds Rigdoms Væld oplukker;</l>
+              <l xml:id="idm140223991813936">Glad i gyldne Morgenstund</l>
+              <l xml:id="idm140223991813504">Fattigst Fugl i Straalehavet dukker.</l>
+            </lg>
+            <pb n="25" facs="adl/ingemann/ingemann3/inge3025" xml:id="idm140223991812944"/>
+            <lg xml:id="idm140223991812176">
+              <l xml:id="idm140223991811920">Morgenglød gjør Kinden rød;</l>
+              <l xml:id="idm140223991811456">Morgenluft Guds Simdhedsbrønd omsuser:</l>
+              <l xml:id="idm140223991810976">Livets Væld i Morgenglød</l>
+              <l xml:id="idm140223991810528">Strømmer ud igjennem Himmelsluser.</l>
+            </lg>
+            <lg xml:id="idm140223991809936">
+              <l xml:id="idm140223991809680">Op i friske Morgenstund!</l>
+              <l xml:id="idm140223991809248">Fryd dig, Sjæl, som Fuglen i det Høie!</l>
+              <l xml:id="idm140223991808768">Fattigst Sjæl er riig og sund</l>
+              <l xml:id="idm140223991808304">Med Guds rige Herlighed for Øie.</l>
+            </lg>
+          </div>
+          <pb n="26" facs="adl/ingemann/ingemann3/inge3026" xml:id="idm140223991807584"/>
+          <div xml:id="workid55385" decls="#biblid55385">
+            <head xml:id="idm140223991805920"><figure xml:id="idm140223991805792"/><lb xml:id="idm140223991805664"/>NU TITTE TIL HINANDEN DE FAVRE<lb xml:id="idm140223991805360"/> BLOMSTER SMAA</head>
+            <lg xml:id="idm140223991804944">
+              <l xml:id="idm140223991804688">Nu titte til hinanden de favre Blomster smaa;</l>
+              <l xml:id="idm140223991804240">De muntre Fugle kalde paa hverandre;</l>
+              <l xml:id="idm140223991803808">Nu alle Jordens Børn deres Øine opslaae;</l>
+              <l xml:id="idm140223991803328">Nu Sneglen med Huus paa Ryg vil vandre.</l>
+            </lg>
+            <pb n="27" facs="adl/ingemann/ingemann3/inge3027" xml:id="idm140223991802768"/>
+            <lg xml:id="idm140223991802000">
+              <l xml:id="idm140223991801744">Den kjære Gud og Skaber den mindste Orm er nær:</l>
+              <l xml:id="idm140223991801248">Han føder Fugl og Markens Lillie klæder;</l>
+              <l xml:id="idm140223991800768">Dog Menneskenes Børn har han allermeest kjær:</l>
+              <l xml:id="idm140223991800272">Gud aander paa Øiet, naar det græder.</l>
+            </lg>
+            <lg xml:id="idm140223991799664">
+              <l xml:id="idm140223991799408">Guds Søn var selv et Barn, og paa Krybbestraa han laae;</l>
+              <l xml:id="idm140223991798896">Hans Vugge stod paa Jord foruden Gjænge.</l>
+              <l xml:id="idm140223991798416">Guds Himmeriges Fryd har han lovet de Smaa</l>
+              <l xml:id="idm140223991797968">Og Blomster fra Paradisets Enge.</l>
+            </lg>
+            <lg xml:id="idm140223991797408">
+              <l xml:id="idm140223991797152">Guds Søn har os saa kjær; han er Børnevennen stor;</l>
+              <l xml:id="idm140223991796640">Han bærer Barnet op til Gud paa Armen;</l>
+              <l xml:id="idm140223991796160">Han Storm og Hav betvang, da han vandred paa Jord;</l>
+              <l xml:id="idm140223991795712">Men Børnene leged ham ved Barmen.</l>
+            </lg>
+            <lg xml:id="idm140223991795120">
+              <l xml:id="idm140223991794864">O Du, som os velsigned og tog i Favn de Smaa,</l>
+              <l xml:id="idm140223991794416">En Morgen see vi Dig i Paradiset!</l>
+              <l xml:id="idm140223991793984">Du lærte os til Gud vore Øine opslaae -</l>
+              <l xml:id="idm140223991793504">Evindelig være Du lovpriset!</l>
+            </lg>
+          </div>
+          <pb n="28" facs="adl/ingemann/ingemann3/inge3028" xml:id="idm140223991792784"/>
+          <div xml:id="workid55503" decls="#biblid55503">
+            <head xml:id="idm140223991791056"><figure xml:id="idm140223991790928"/><lb xml:id="idm140223991790800"/>STORKEN SIDDER PAA BONDENS TAG</head>
+            <lg xml:id="idm140223991790368">
+              <l xml:id="idm140223991790112">Storken sidder paa Bondens Tag;</l>
+              <l xml:id="idm140223991789680">Han seer over Mark og Enge.</l>
+              <l xml:id="idm140223991789248">Det bliver saa deilig en Foraarsdag;</l>
+              <l xml:id="idm140223991788816">Nu kommer den favre Tid, jeg vented saalænge.</l>
+            </lg>
+            <pb n="29" facs="adl/ingemann/ingemann3/inge3029" xml:id="idm140223991788192"/>
+            <lg xml:id="idm140223991787424">
+              <l xml:id="idm140223991787168">Storken klapprer paa Bondens Tag,</l>
+              <l xml:id="idm140223991786736">Og Gjøgen kukker i Skoven.</l>
+              <l xml:id="idm140223991786288">Med Mailøv nu kommer skjøn Valborgs Dag;</l>
+              <l xml:id="idm140223991785808">Nu stiger der Pindseglands med Sol over Voven.</l>
+            </lg>
+            <lg xml:id="idm140223991785232">
+              <l xml:id="idm140223991784976">Storken flyver fra Bondens Tag;</l>
+              <l xml:id="idm140223991784544">Han spanker i grønne Enge.</l>
+              <l xml:id="idm140223991784096">Han kommer som Gjest til skjøn Valborgs Dag;</l>
+              <l xml:id="idm140223991783600">Han bringer den favre Tid, jeg vented saalænge.</l>
+            </lg>
+            <lg xml:id="idm140223991782976">
+              <l xml:id="idm140223991782720">Storken flyver til Høsten bort;</l>
+              <l xml:id="idm140223991782256">Han kommer igjen ad Aare.</l>
+              <l xml:id="idm140223991781824">Du Sommerens Gjest! dvæl ikke for kort!</l>
+            </lg>
+            <l xml:id="idm140223991781216">Velkommen du favre Tid, jeg elsker saa saare!</l>
+          </div>
+          <pb n="30" facs="adl/ingemann/ingemann3/inge3030" xml:id="idm140223991780640"/>
+        </body>
+      </text>
+      <text xml:id="workid55600" decls="#biblid55600">
+        <front xml:id="idm140223991778672">
+          <pb n="31" facs="adl/ingemann/ingemann3/inge3031" xml:id="idm140223991778416"/>
+          <head xml:id="idm140223991777648">AFTENSANGE</head>
+          <pb n="32" facs="adl/ingemann/ingemann3/inge3032" xml:id="idm140223991777232"/>
+        </front>
+        <body xml:id="idm140223991776336">
+          <pb n="33" facs="adl/ingemann/ingemann3/inge3033" xml:id="idm140223991776080"/>
+          <div xml:id="workid55630" decls="#biblid55630">
+            <head xml:id="idm140223991774416"><figure xml:id="idm140223991774288"/><lb xml:id="idm140223991774160"/>DER STAAER ET SLOT I VESTERLED</head>
+            <lg xml:id="idm140223991773728">
+              <l xml:id="idm140223991773472">Der staaer et Slot i Vesterled,</l>
+              <l xml:id="idm140223991773040">Tækket med gyldne Skjolde;</l>
+              <l xml:id="idm140223991772592">Did gaaer hver Aften Solen ned</l>
+              <l xml:id="idm140223991772160">Bag Rosenskyernes Volde.</l>
+              <pb n="34" facs="adl/ingemann/ingemann3/inge3034" xml:id="idm140223991771728"/>
+              <l xml:id="idm140223991770912">Det Slot blev ei med Hænder gjort:</l>
+              <l xml:id="idm140223991770448">Mageløst staaer det smykket;</l>
+              <l xml:id="idm140223991769984">Fra Jord til Himmel naaer dets Port;</l>
+              <l xml:id="idm140223991769552">Vor Herre selv det har bygget.</l>
+            </lg>
+            <lg xml:id="idm140223991768992">
+              <l xml:id="idm140223991768736">Fra tusind Taarne funkler Guld;</l>
+              <l xml:id="idm140223991768304">Porten skinner som Ravet;</l>
+              <l xml:id="idm140223991767872">Med Straalestøtter underfuld</l>
+              <l xml:id="idm140223991767408">Sig Borgen speiler i Havet.</l>
+              <l xml:id="idm140223991766976">Guds Sol gaaer i sit Guldslot ind,</l>
+              <l xml:id="idm140223991766544">Skinner i Purpurklæder.</l>
+              <l xml:id="idm140223991766096">I Rosensky paa Borgens Tind</l>
+              <l xml:id="idm140223991765664">Staaer Lysets Banner med Hæder.</l>
+            </lg>
+            <lg xml:id="idm140223991765072">
+              <l xml:id="idm140223991764816">Solenglen svinger Lysets Flag,</l>
+              <l xml:id="idm140223991764384">Vandrer til fjerne Lande;</l>
+              <l xml:id="idm140223991763952">Ham følger Liv og Lys og Dag</l>
+              <l xml:id="idm140223991763488">Bag Nattens brusende Vande.</l>
+              <l xml:id="idm140223991763056">Liig Solen farer Livet hen,</l>
+              <l xml:id="idm140223991762624">Gaaer til Forklaringskysten:</l>
+              <l xml:id="idm140223991762192">Med Glands opdukker Sol igjen</l>
+              <l xml:id="idm140223991761760">Fra Paradiset i Østen.</l>
+            </lg>
+          </div>
+          <pb n="35" facs="adl/ingemann/ingemann3/inge3035" xml:id="idm140223991761056"/>
+          <div xml:id="workid55750" decls="#biblid55750">
+            <head xml:id="idm140223991759296"><figure xml:id="idm140223991759168"/><lb xml:id="idm140223991759040"/>DAGEN GAAER MED RASKE FJED</head>
+            <lg xml:id="idm140223991758608">
+              <l xml:id="idm140223991758352">Dagen gaaer med raske Fjed:</l>
+              <l xml:id="idm140223991757920">Dagens Børn maae ile.</l>
+              <l xml:id="idm140223991757472">Aftenrøden bringer Fred,</l>
+              <l xml:id="idm140223991757024">Nattens Stjerner Hvile.</l>
+            </lg>
+            <pb n="36" facs="adl/ingemann/ingemann3/inge3036" xml:id="idm140223991756480"/>
+            <lg xml:id="idm140223991755712">
+              <l xml:id="idm140223991755456">Lykken gjækker Store, Smaa.</l>
+              <l xml:id="idm140223991754992">Leger med Guldtærning.</l>
+              <l xml:id="idm140223991754544">Lykkeligst at hvile paa</l>
+              <l xml:id="idm140223991754128">Er fuldendte Gjerning.</l>
+            </lg>
+            <lg xml:id="idm140223991753584">
+              <l xml:id="idm140223991753328">Lidt dog Store, Mindre Smaa</l>
+              <l xml:id="idm140223991752896">Kan tilgavns fuldbringe;</l>
+              <l xml:id="idm140223991752464">Villien seer Vor Herre paa,</l>
+              <l xml:id="idm140223991752032">Giver Kraften Vinge.</l>
+            </lg>
+            <lg xml:id="idm140223991751488">
+              <l xml:id="idm140223991751232">Lykkens lunefulde Spil</l>
+              <l xml:id="idm140223991750816">Leger ei med Sjæle:</l>
+              <l xml:id="idm140223991750368">Alting føies som Gud vil -</l>
+              <l xml:id="idm140223991749920">Her er trygt at dvæle.</l>
+            </lg>
+            <lg xml:id="idm140223991749344">
+              <l xml:id="idm140223991749088">Blomst skal bære Frugt engang,</l>
+              <l xml:id="idm140223991748624">Høst skal følge Sommer.</l>
+              <l xml:id="idm140223991748176">Dag er ei saa travl og lang,</l>
+              <l xml:id="idm140223991747744">Aftenstund dog kommer.</l>
+            </lg>
+            <lg xml:id="idm140223991747200">
+              <l xml:id="idm140223991746944">Lad ved Dag kun op og ned</l>
+              <l xml:id="idm140223991746512">Lykkens Tærning rulle!</l>
+              <l xml:id="idm140223991746064">Fandt ved Qvel kun Sjælen Fred,</l>
+              <l xml:id="idm140223991745600">Gik det som det skulde.</l>
+            </lg>
+          </div>
+          <pb n="37" facs="adl/ingemann/ingemann3/inge3037" xml:id="idm140223991744928"/>
+          <div xml:id="workid55879" decls="#biblid55879">
+            <head xml:id="idm140223991743264"><figure xml:id="idm140223991743136"/><lb xml:id="idm140223991743008"/>TIL VOR LILLE GJERNING UD</head>
+            <lg xml:id="idm140223991742576">
+              <l xml:id="idm140223991742320">Til vor lille Gjerning ud</l>
+              <l xml:id="idm140223991741888">Gik vi Smaa fuldglade;</l>
+              <l xml:id="idm140223991741472">Villien saae den kjære Gud,</l>
+              <l xml:id="idm140223991741008">Hjalp os som vi bade.</l>
+              <pb n="38" facs="adl/ingemann/ingemann3/inge3038" xml:id="idm140223991740592"/>
+              <l xml:id="idm140223991739824">Nu er Dagens Lys udslukt,</l>
+              <l xml:id="idm140223991739392">Lukt er snart vort Øie;</l>
+              <l xml:id="idm140223991738944">Giv vor lille Gjerning Frugt,</l>
+              <l xml:id="idm140223991738512">Fader i det Høie!</l>
+            </lg>
+            <lg xml:id="idm140223991737952">
+              <l xml:id="idm140223991737696">Du, som viser Dag og Nat</l>
+              <l xml:id="idm140223991737264">Sol og Stjerner Veie!</l>
+              <l xml:id="idm140223991736848">Livets underfulde Skat</l>
+              <l xml:id="idm140223991736432">Gav Du os i Eie.</l>
+              <l xml:id="idm140223991736016">I hver Barnesjæl paa Jord</l>
+              <l xml:id="idm140223991735568">Har Du lagt en Kjærne</l>
+              <l xml:id="idm140223991735120">Til en Blomst med himmelsk Flor,</l>
+              <l xml:id="idm140223991734688">Herlig som en Stjerne.</l>
+            </lg>
+            <lg xml:id="idm140223991734144">
+              <l xml:id="idm140223991733888">Lad den Kjærne underfuld</l>
+              <l xml:id="idm140223991733440">Voxe i vort Indre,</l>
+              <l xml:id="idm140223991733024">Naar der skinner Sol paa Muld,</l>
+              <l xml:id="idm140223991732592">Og naar Stjerner tindre!</l>
+              <l xml:id="idm140223991732160">Lad det Frø opvoxe smukt</l>
+              <l xml:id="idm140223991731712">Med din Børnevrimmel,</l>
+              <l xml:id="idm140223991731264">Til at bære evig Frugt</l>
+              <l xml:id="idm140223991730816">I din høie Himmel!</l>
+            </lg>
+          </div>
+          <pb n="39" facs="adl/ingemann/ingemann3/inge3039" xml:id="idm140223991730128"/>
+          <div xml:id="workid55997" decls="#biblid55997">
+            <head xml:id="idm140223991728464"><figure xml:id="idm140223991728336"/><lb xml:id="idm140223991728208"/>I FJERNE KIRKETAARNE HIST</head>
+            <lg xml:id="idm140223991727776">
+              <l xml:id="idm140223991727520">I fjerne Kirketaarne hist</l>
+              <l xml:id="idm140223991727088">Nu Aftenklokkerne ringe.</l>
+              <l xml:id="idm140223991726656">Snart sover liden Fugl paa Qvist</l>
+              <l xml:id="idm140223991726224">Med Hovedet under sin Vinge.</l>
+              <pb n="40" facs="adl/ingemann/ingemann3/inge3040" xml:id="idm140223991725792"/>
+              <l xml:id="idm140223991725024">Nu samles Frænder kjønt igjen,</l>
+              <l xml:id="idm140223991724560">Som Fugleunger paa Grene;</l>
+              <l xml:id="idm140223991724128">Men den, som har slet ingen Ven,</l>
+              <l xml:id="idm140223991723696">Han sidder ved Qvel alene.</l>
+            </lg>
+            <lg xml:id="idm140223991723136">
+              <l xml:id="idm140223991722880">Snart ruller ud den stille Nat</l>
+              <l xml:id="idm140223991722448">Sit Skyggeflor over Himlen,</l>
+              <l xml:id="idm140223991722016">Og den, som sidder meest forladt,</l>
+              <l xml:id="idm140223991721584">Seer op imod Stjernevrimlen.</l>
+              <l xml:id="idm140223991721152">Og gjennem Himmelsløret ud</l>
+              <l xml:id="idm140223991720704">Der skinner Øine fuldklare:</l>
+              <l xml:id="idm140223991720240">Mildt seer den kjære store Gud</l>
+              <l xml:id="idm140223991719776">Herned med sin Stjerneskare.</l>
+            </lg>
+            <lg xml:id="idm140223991719216">
+              <l xml:id="idm140223991718960">Han seer til sine Børn da vist,</l>
+              <l xml:id="idm140223991718496">Han seer til Høie og Ringe,</l>
+              <l xml:id="idm140223991718032">Selv til den lille Fugl paa Qvist,</l>
+              <l xml:id="idm140223991717600">Med Hovedet under sin Vinge.</l>
+              <l xml:id="idm140223991717168">Til dem, som sove, seer han hen;</l>
+              <l xml:id="idm140223991716736">Han vugger Fuglenes Grene;</l>
+              <l xml:id="idm140223991716304">Og den, som har slet ingen Ven,</l>
+              <l xml:id="idm140223991715872">Han lader ei sidde ene.</l>
+            </lg>
+            <lg xml:id="idm140223991715328">
+              <l xml:id="idm140223991715072">Det Barn, der synes meest forladt,</l>
+              <l xml:id="idm140223991714640">Gud Fader selv vil bevare:</l>
+              <l xml:id="idm140223991714208">Han sender i den stille Nat</l>
+              <l xml:id="idm140223991713776">Til Jorden sin Engleskare.</l>
+              <pb n="41" facs="adl/ingemann/ingemann3/inge3041" xml:id="idm140223991713344"/>
+              <l xml:id="idm140223991712576">De sprede deres Vinger ud,</l>
+              <l xml:id="idm140223991712144">Naar alle Øine sig lukke.</l>
+              <l xml:id="idm140223991711696">Selv vaager hele Verdens Gud</l>
+              <l xml:id="idm140223991711264">Ved Skabningens store Vugge.</l>
+            </lg>
+          </div>
+          <pb n="42" facs="adl/ingemann/ingemann3/inge3042" xml:id="idm140223991710576"/>
+          <div xml:id="workid56155" decls="#biblid56155">
+            <head xml:id="idm140223991704800"><figure xml:id="idm140223991704672"/><lb xml:id="idm140223991704544"/>BLIV HOS OS, NAAR DAGEN HELDER</head>
+            <lg xml:id="idm140223991704112">
+              <l xml:id="idm140223991703856">Bliv hos os, naar Dagen helder,</l>
+              <l xml:id="idm140223991703424">Du kjære Fader og Gud!</l>
+              <l xml:id="idm140223991702976">Bliv hos os, naar Mørket vælder</l>
+              <l xml:id="idm140223991702512">Af Nattens Sluser ud!</l>
+            </lg>
+            <pb n="43" facs="adl/ingemann/ingemann3/inge3043" xml:id="idm140223991701968"/>
+            <lg xml:id="idm140223991701200">
+              <l xml:id="idm140223991700944">Henspred over Dal og Høie</l>
+              <l xml:id="idm140223991700496">Dit Stjerneklædebons Flig!</l>
+              <l xml:id="idm140223991700048">Saa lukke vi trygt vort Øie</l>
+              <l xml:id="idm140223991699584">Og slumre sødt hos Dig.</l>
+            </lg>
+            <lg xml:id="idm140223991699008">
+              <l xml:id="idm140223991698752">Bliv hos os, og vi vil drømme</l>
+              <l xml:id="idm140223991698288">Om Englebørnenes Fred;</l>
+              <l xml:id="idm140223991697840">Din Aand gjennem Himmelstrømme</l>
+              <l xml:id="idm140223991697376">Vil suse til os ned.</l>
+            </lg>
+            <lg xml:id="idm140223991696832">
+              <l xml:id="idm140223991696576">Og Kongen i Livets Rige</l>
+              <l xml:id="idm140223991696160">Vil favne alle de Smaa;</l>
+              <l xml:id="idm140223991695744">Paa Englenes Himmelstige</l>
+              <l xml:id="idm140223991695312">Skal Barnesjæle gaae.</l>
+            </lg>
+            <lg xml:id="idm140223991694736">
+              <l xml:id="idm140223991694480">Bliv hos os, naar Dagen helder,</l>
+              <l xml:id="idm140223991694048">Du kjære Fader og Gud!</l>
+              <l xml:id="idm140223991693600">Og Paradiislyset vælder</l>
+              <l xml:id="idm140223991693152">Af Nattens Sluser ud.</l>
+            </lg>
+          </div>
+          <pb n="44" facs="adl/ingemann/ingemann3/inge3044" xml:id="idm140223991692480"/>
+          <div xml:id="workid56266" decls="#biblid56266">
+            <head xml:id="idm140223991690816"><figure xml:id="idm140223991690688"/><lb xml:id="idm140223991690560"/>DEN SKJØNNE JORDENS SOL GIK NED</head>
+            <lg xml:id="idm140223991690096">
+              <l xml:id="idm140223991689840">Den skjønne Jordens Sol gik ned;</l>
+              <l xml:id="idm140223991689376">Men Stjerneskarerne funkle.</l>
+              <l xml:id="idm140223991688944">En større Verdens Herlighed</l>
+              <l xml:id="idm140223991688480">Nedglimter nu i det Dunkle.</l>
+            </lg>
+            <pb n="45" facs="adl/ingemann/ingemann3/inge3045" xml:id="idm140223991687920"/>
+            <lg xml:id="idm140223991687152">
+              <l xml:id="idm140223991686896">Al Verden som en Kirke stor</l>
+              <l xml:id="idm140223991686464">Bag Sky sig hvælver foroven;</l>
+              <l xml:id="idm140223991686000">I Templets Krog Guds grønne Jord</l>
+              <l xml:id="idm140223991685536">Er skjult som et Blad fra Skoven.</l>
+            </lg>
+            <lg xml:id="idm140223991684976">
+              <l xml:id="idm140223991684720">Paa mindste Blad i største Skov</l>
+              <l xml:id="idm140223991684256">Har glade Skabninger hjemme;</l>
+              <l xml:id="idm140223991683824">Hvor Liv sig rører til Guds Lov,</l>
+              <l xml:id="idm140223991683360">Det mindste han ei vil glemme.</l>
+            </lg>
+            <lg xml:id="idm140223991682800">
+              <l xml:id="idm140223991682544">Gud! i din Haand alt Stort er smaat,</l>
+              <l xml:id="idm140223991682112">Men kjært det Mindste tillige.</l>
+              <l xml:id="idm140223991681648">Den Barnesjæl er bjerget godt,</l>
+              <l xml:id="idm140223991681184">Som skjuler sig i dit Rige.</l>
+            </lg>
+          </div>
+          <pb n="46" facs="adl/ingemann/ingemann3/inge3046" xml:id="idm140223991680496"/>
+          <div xml:id="workid56361" decls="#biblid56361">
+            <head xml:id="idm140223991678832"><figure xml:id="idm140223991678704"/><lb xml:id="idm140223991678576"/>DEN STORE STILLE NAT GAAER FREM</head>
+            <lg xml:id="idm140223991678144">
+              <l xml:id="idm140223991677888">Den store stille Nat gaaer frem</l>
+              <l xml:id="idm140223991677456">Med Lys fra Himmelens Sale;</l>
+              <l xml:id="idm140223991677024">Hvert Lys er Sol for Sjæles Hjem</l>
+              <l xml:id="idm140223991676560">I høiere Verdners Dale.</l>
+            </lg>
+            <pb n="47" facs="adl/ingemann/ingemann3/inge3047" xml:id="idm140223991675984"/>
+            <lg xml:id="idm140223991675216">
+              <l xml:id="idm140223991674960">I Himmeloceanets Skjød</l>
+              <l xml:id="idm140223991674512">Neddukker Natten sin Vinge</l>
+              <l xml:id="idm140223991674080">Med alle Stjernesoles Glød,</l>
+              <l xml:id="idm140223991673616">Mens Sphærernes Harper klinge.</l>
+            </lg>
+            <lg xml:id="idm140223991673024">
+              <l xml:id="idm140223991672768">O! Nat, rul dine Verdner frem</l>
+              <l xml:id="idm140223991672336">I Oceaner af Himle,</l>
+              <l xml:id="idm140223991671920">Med Priis til Gud fra Engles Hjem</l>
+              <l xml:id="idm140223991671488">Og Jorderigs Sjælevrimle!</l>
+            </lg>
+          </div>
+          <pb n="48" facs="adl/ingemann/ingemann3/inge3048" xml:id="idm140223991670784"/>
+          <div xml:id="workid56437" decls="#biblid56437">
+            <head xml:id="idm140223991669072"><figure xml:id="idm140223991668944"/><lb xml:id="idm140223991668816"/>LYKSALIG, LYKSALIG HVER SJÆL,<lb xml:id="idm140223991668480"/> SOM HAR FRED</head>
+            <lg xml:id="idm140223991668064">
+              <l xml:id="idm140223991667808">Lyksalig, lyksalig hver Sjæl, som har Fred!</l>
+              <l xml:id="idm140223991667312">Dog Ingen kjender Dagen, før Solen gaaer ned.</l>
+            </lg>
+            <lg xml:id="idm140223991666688">
+              <l xml:id="idm140223991666432">Godmorgen! Godmorgen! sang Fuglen paa Qvist;</l>
+              <l xml:id="idm140223991665984">Tidt saae han Aftensolen bag Fængselets Rist.</l>
+            </lg>
+            <pb n="49" facs="adl/ingemann/ingemann3/inge3049" xml:id="idm140223991665360"/>
+            <lg xml:id="idm140223991664592">
+              <l xml:id="idm140223991664336">Tidt dufted, tidt nikked Smaablomsten ved Gry;</l>
+              <l xml:id="idm140223991663888">Før Aften laa den knuust under Haglveirets Sky.</l>
+            </lg>
+            <lg xml:id="idm140223991663264">
+              <l xml:id="idm140223991663008">Tidt leged Smaabarnet i Morgensol rød;</l>
+              <l xml:id="idm140223991662528">Ved Qvel det laa paa Leiet saa stille og død.</l>
+            </lg>
+            <lg xml:id="idm140223991661904">
+              <l xml:id="idm140223991661648">Paa Jorden ei lever saa salig en Sjæl,</l>
+              <l xml:id="idm140223991661168">Jo Lykken kan omskiftes fra Morgen til Qvel.</l>
+            </lg>
+            <lg xml:id="idm140223991660592">
+              <l xml:id="idm140223991660336">Lyksalig dog Sjælen, som kjender Guds Fred,</l>
+              <l xml:id="idm140223991659840">Skjøndt Ingen kjender Dagen, før Solen gaaer ned!</l>
+            </lg>
+            <lg xml:id="idm140223991659216">
+              <l xml:id="idm140223991658960">Godmorgen! vi sjunge med Fuglen heelt fro,</l>
+              <l xml:id="idm140223991658512">Skal selv i mørke Fængsel til Natten vi boe.</l>
+            </lg>
+            <lg xml:id="idm140223991657888">
+              <l xml:id="idm140223991657632">Guds Børn kan sig glæde som Blomster ved Gry,</l>
+              <l xml:id="idm140223991657136">Skal selv de ligge knuust under Aftenens Sky.</l>
+            </lg>
+            <lg xml:id="idm140223991656560">
+              <l xml:id="idm140223991656304">Som Barn kan jeg frydes i Morgensol rød,</l>
+              <l xml:id="idm140223991655824">Om ogsaa jeg før Aften er stille og død.</l>
+            </lg>
+            <lg xml:id="idm140223991655216">
+              <l xml:id="idm140223991654960">Gudsfred og Godaften! vi sjunge ved Qvel:</l>
+              <l xml:id="idm140223991654512">Vorherre selv bevarer hver flygtende Sjæl.</l>
+            </lg>
+            <lg xml:id="idm140223991653904">
+              <l xml:id="idm140223991653648">Lyksalig, lyksalig hver Sjæl, som har Fred!</l>
+              <l xml:id="idm140223991653152">Guds Fred er Sjælesolen, som aldrig gaaer ned.</l>
+            </lg>
+          </div>
+          <pb n="50" facs="adl/ingemann/ingemann3/inge3050" xml:id="idm140223991652400"/>
+          <div xml:id="workid56584" decls="#biblid56584">
+            <head xml:id="idm140223991650736"><figure xml:id="idm140223991650608"/><lb xml:id="idm140223991650480"/>FRED HVILER OVER LAND OG BYE</head>
+            <lg xml:id="idm140223991650048">
+              <l xml:id="idm140223991649792">Fred hviler over Land og Bye,</l>
+              <l xml:id="idm140223991649360">Ei Verden larmer meer:</l>
+              <l xml:id="idm140223991648944">Fro smiler Maanen til sin Skye,</l>
+              <l xml:id="idm140223991648512">Til Stjerne Stjerne seer.</l>
+            </lg>
+            <pb n="51" facs="adl/ingemann/ingemann3/inge3051" xml:id="idm140223991647952"/>
+            <lg xml:id="idm140223991647136">
+              <l xml:id="idm140223991646880">Og Søen blank og rolig staaer</l>
+              <l xml:id="idm140223991646416">Med Himlen i sin Favn;</l>
+              <l xml:id="idm140223991646000">Paa Dammen fjerne Vogter gaaer</l>
+              <l xml:id="idm140223991645568">Og lover Herrens Navn.</l>
+            </lg>
+            <lg xml:id="idm140223991645024">
+              <l xml:id="idm140223991644768">Det er saa fredeligt, saa tyst</l>
+              <l xml:id="idm140223991644336">I Himmel og paa Jord;</l>
+              <l xml:id="idm140223991643920">Vær ogsaa stille i mit Bryst,</l>
+              <l xml:id="idm140223991643456">Du Flygtning som der boer!</l>
+            </lg>
+            <lg xml:id="idm140223991642896">
+              <l xml:id="idm140223991642640">Slut Fred, o Hjerte, med hver Sjæl,</l>
+              <l xml:id="idm140223991642160">Som her Dig ei forstaaer!</l>
+              <l xml:id="idm140223991641728">See over Bye og Dal i Qvel</l>
+              <l xml:id="idm140223991641296">Nu Fredens Engel gaaer.</l>
+            </lg>
+            <lg xml:id="idm140223991640752">
+              <l xml:id="idm140223991640496">Som Du han er en Fremmed her:</l>
+              <l xml:id="idm140223991640064">Til Himlen staaer hans Hu;</l>
+              <l xml:id="idm140223991639632">Dog i det stille Stjerneskjær</l>
+              <l xml:id="idm140223991639168">Han dvæler her som Du.</l>
+            </lg>
+            <lg xml:id="idm140223991638592">
+              <l xml:id="idm140223991638336">O, lær af ham din Aftensang,</l>
+              <l xml:id="idm140223991637872">Fred med hver Sjæl paa Jord;</l>
+              <l xml:id="idm140223991637408">Til samme Himmel gaaer vor Gang,</l>
+              <l xml:id="idm140223991636976">Adskilles end vort Spor.</l>
+            </lg>
+            <pb n="52" facs="adl/ingemann/ingemann3/inge3052" xml:id="idm140223991636416"/>
+            <lg xml:id="idm140223991635600">
+              <l xml:id="idm140223991635344">Fred med hvert Hjerte, fjern og nær,</l>
+              <l xml:id="idm140223991634864">Som uden Ro mon slaae!</l>
+              <l xml:id="idm140223991634448">Fred med de Faa, som mig har kjær,</l>
+              <l xml:id="idm140223991633984">Og dem jeg aldrig saae!</l>
+            </lg>
+            <lg xml:id="idm140223991633440">
+              <l xml:id="idm140223991633184">Fred med hver Aand, som hader mig!</l>
+              <l xml:id="idm140223991632752">Den skal mig elske vist,</l>
+              <l xml:id="idm140223991632320">Naar samlet i Guds Himmerig</l>
+              <l xml:id="idm140223991631888">Vi ham lovprise hist.</l>
+            </lg>
+          </div>
+        </body>
+      </text>
+    </group>
+    <back xml:id="idm140223991630832">
+      <pb n="53" facs="adl/ingemann/ingemann3/inge3053" xml:id="idm140223991630576"/>
+      <div xml:id="idm140223991629808">
+        <head xml:id="idm140223991629552">EFTERSKRIFT</head>
+        <p xml:id="idm140223991629136">Teksten i <hi rend="italics" xml:id="idm140223991628848">Morgensange</hi> er gengivet efter <hi rend="italics" xml:id="idm140223991628128">Morgensange for Børn</hi> (Kjøbenhavn 1837, trykt hos Andreas
+					Seidelin, Hof- og Universitets-Bogtrykker). Ortografien og Tegnsætningen er B.
+					S. Ingemanns. Digtene er nummererede fra 1-7, og kun det sidste Digt
+					("Storken sidder paa Bondens Tag"), der ikke bærer noget
+					Nummer, har en selvstændig Titel. Det hedder
+					"Foraarssang".</p>
+        <p xml:id="idm140223991626656">Digt Nr. 5 - "Gud skee Tak og Lov!" -
+					er i 1837-Udgaven forsynet med en Fodnote, der forklarer Slutningsliniens
+					"Kjærligheds-Asyl". Fodnoten lyder saaledes:
+					"Med særeget Hensyn til Børnene i Asylerne".</p>
+        <p xml:id="idm140223991625824">I "Storken sidder paa Bondens Tag" (Foraarssang) meddeler
+					en Fodnote til andet Vers, tredie Linie, at skjøn Valborgs Dag er
+					"den 1ste Mai".</p>
+        <p xml:id="idm140223991625120">Den næste Udgave af <hi rend="italics" xml:id="idm140223991624800">Morgensange for Børn</hi>, der udkom i
+					København paa Vaisenhusets Forlag 1839, har kun Titlen <hi rend="italics" xml:id="idm140223991623920">Morgensange</hi> og oplyser, at "Melodierne, med Accompagnement
+					af Pianoforte, componerede af C. E. F. Weyse, faaes hos Forlæggeren Hr.
+					Universitets-Boghandler Reitzel for 2 Mk.".</p>
+        <p xml:id="idm140223991622736">Om <hi rend="italics" xml:id="idm140223991622480">Morgensange</hi> skrev C. E. F. Weyse til Digteren den 20.
+					Marts 1838:</p>
+        <p xml:id="idm140223991621584">"Skjøndt jeg Undertegnede C. E. F. Weyse pleier at være temmelig
+					skrivedoven i epistolarisk Henseende, kan jeg dog dennegang ikke undlade at
+					takke Dem, <hi rend="italics" xml:id="idm140223991620976">mi domine professor!</hi>
+					<pb n="54" facs="adl/ingemann/ingemann3/inge3054" xml:id="idm140223991620288"/> for Deres venskabelige Skrivelse, og at bevidne
+					Dem min Glæde over at De er tilfreds med min Composition af Deres smukke
+					Morgensange. Men jeg kan ogsaa forsikkre Dem, at jeg har tillavet Melodierne ret
+						<hi rend="italics" xml:id="idm140223991619056">con amore</hi>, da jeg fandt, at De havde været saa
+					særdeles heldig i at udtrykke deri den Barnet særegne Inderlighed og ukunstlede
+					Hjertelighed. Skulde De altsaa fremdeles digte flere Sange af den Art
+					- maaskee Aften- eller Bord Sange, - da staaer Undertegnede
+					atter til Tjeneste". <hi rend="italics" xml:id="idm140223991617760">(Breve til og fra Bernh. Sev.
+						Ingemann</hi>, <hi rend="italics" xml:id="idm140223991617040">udgivne af V. Heise</hi>, <hi rend="italics" xml:id="idm140223991616352">1879</hi>, S. 363-64).</p>
+        <p xml:id="idm140223991615504">Og tre Maaneder senere, den 26. Juni 1838, skriver han følgende til B. S.
+					Ingemann angaaende <hi rend="italics" xml:id="idm140223991615040">Aftensange</hi>: "De har
+					fuldkommen Ret til at udskjelde Undertegnede for en utaknemmelig Gøg, fordi han
+					indtil Dato endnu ikke har aflagt sin skyldige Taksigelse for de for omtrent 6
+					Uger siden ham tilsendte særdeles smukke Aftensange for de Smaae. Men jeg
+					opsatte mit Svar, fordi jeg havde i Sinde strax at componere Sangene, og
+					saasnart det var gjort, da at sende Dem Melodierne. Deraf blev der nu Intet,
+					fordi jeg for Øjeblikket befinder mig i en vis Sterilitæts-Tilstand der ikke
+					tillader mig at componere det Allermindste. Modtag da nu <hi rend="italics" xml:id="idm140223991613568">ad
+						interim</hi> min hjertelige Tak for Sangene, og det Løvte at de snarest
+					muligt skulle blive componerede". <hi rend="italics" xml:id="idm140223991612656">(Breve til
+						Bernh. Sev. Ingemann</hi>, S. 372).</p>
+        <p xml:id="idm140223991611792"><hi rend="italics" xml:id="idm140223991611664">Morgensange for Børn</hi> omtales ogsaa i <hi rend="italics" xml:id="idm140223991610912">Brevveksling mellem B. S. Ingemann og Fru J. C. v. Rosenørn ved V.
+					Heise</hi>, <hi rend="italics" xml:id="idm140223991610080">Kjøbenhavn</hi>, <hi rend="italics" xml:id="idm140223991609392">C. A.
+						Reitzels Forlag 1881</hi>, S. 3. Kammerherreinde Ingeborg Christiane v.
+					Rosenørn, født Wormskiold, skriver den 25de Sept. 1837: " .... Veed
+					De ogsaa hvilken der er mig den kjæreste af Deres deilige Morgensange, som jeg
+					allerede var ret fortrolig med, inden jeg modtog dem af Deres Haand. Det er den
+					som i Tankerne stiller mig hen paa Rigi, hvor De nok veed jeg saa inderlig
+					gjerne <hi rend="italics" xml:id="idm140223991607952">hører</hi> Solen opgaae. (Sigter til B. S. Ingemanns
+					Skildring af en Solopgang paa Rigi i <hi rend="italics" xml:id="idm140223991607168">Reiselyren</hi>, 1820,
+					I, S. 223, Digtet "Morgensang (paa Rigi)"). Jeg længes
+					efter man skulde <pb n="55" facs="adl/ingemann/ingemann3/inge3055" xml:id="idm140223991606288"/> faae Melodier til alle disse
+					skjønne barnlige Sange. Jeg skulde da ret indøve dem paa Harpen, og lade min
+					Stine indstudere Sangen, naar hun rigtig faaer lært at bruge sin
+					Stemme".</p>
+        <p xml:id="idm140223991604976">Den 9de September 1837 skriver B. S. Ingemann fra Sorø til Grundtvig:
+					"Kjære Grundtvig! Med disse Smaasange (Morgensange for Børn) maa jeg
+					dog gjøre dig en Visit paa Gaasefjer-Benet, med venligst Tak for sidst og
+					Spørgen til, hvad Liv du i Sommer har haft fat i, foruden det, jeg i Sangværket
+					har set Spor af". <hi rend="italics" xml:id="idm140223991604032">(Grundtvig og Ingemann.
+						Brevvexling 1821</hi>-<hi rend="italics" xml:id="idm140223991603264">59. Udgiven og indledet
+						af Svend Grundtvig. Kjøbenhavn. Forlagt af Samfundet til den danske
+						Litteraturs Fremme</hi>, <hi rend="italics" xml:id="idm140223991602352">1882</hi>, S. 197).</p>
+        <p xml:id="idm140223991601504"><hi rend="italics" xml:id="idm140223991601376">Morgensange for Børn</hi> blev bl. a. omtalt i <hi rend="italics" xml:id="idm140223991600624">Berlingske Tidende</hi>. Bladet skriver i Nr. 221, 1837:</p>
+        <p xml:id="idm140223991599760">"<hi rend="italics" xml:id="idm140223991599504">Kjøbenhavn</hi>, den 16de September 1837.</p>
+        <p xml:id="idm140223991598640">Til Fordeel for Asylerne er i denne Tid udkommet og faaes i alle Byens Boglader
+					for l Mk.: <hi rend="italics" xml:id="idm140223991598272">Morgensange for Børn</hi>, af Prof. <hi rend="italics" xml:id="idm140223991597520">B. S. Ingemann</hi>. At et saa skjønt Foretagende, som
+					Indretningen af Asyler, hvor den kommende Slægt i sin Fremblomstren skal bevares
+					for Forkuelse og fordærvelige Indtryk og den første Spire lægges til dens
+					Moralitet, maatte vinde Fremgang og finde Deeltagelse hos alle Danske, var
+					Noget, man kunde forudsee; men et saa heldigt Resultat, som det, Oprettelsen af
+					de kjøbenhavnske Asyler har opnaaet, havde man neppe haabet. Alle Classer have
+					bidraget deres Skjærv dertil, ogsaa Digterne, og at Æmnet maatte være af en høi
+					Betydning, der kunde begeistre Digteren, viser nærværende lille Digtsamling. Den
+					samme barnlige, rene Aand, vi saa ofte have beundret hos Ingemann, fremlyser
+					ogsaa her, og i følgende trende Vers har han tolket Asylernes Velgjørere
+					Smaabørnenes Tak ...." Artiklen slutter med de tre sidste Vers af
+					"Gud skee Tak og Lov!"</p>
+        <p xml:id="idm140223991594864"><hi rend="italics" xml:id="idm140223991594736">Aftensange</hi> er gengivet efter <hi rend="italics" xml:id="idm140223991594016">Syv
+						Aftensange</hi> fra 1838, hvis fuldstændige Titel er: <hi rend="italics" xml:id="idm140223991593232">Syv
+						Aftensange af B. S. Ingemann</hi>, <hi rend="italics" xml:id="idm140223991592528">satte</hi><pb n="56" facs="adl/ingemann/ingemann3/inge3056" xml:id="idm140223991591968"/><hi rend="italics" xml:id="idm140223991591328">i Musik og velærværdige Herr Pastor W. Lindegaard
+						venskabeligst tilegnede af C. E. F. Weyse. Kjøbenhavn. Forlagt af C. C</hi>.
+						<hi rend="italics" xml:id="idm140223991590368">Lose &amp; Delbanco</hi>.</p>
+        <p xml:id="idm140223991589520">Kun to af Nodeheftets syv Digte har en selvstændig Overskrift. Det er
+					"Til vor lille Gjerning ud", der hedder
+					"Aftensang for Børn", og "I fjerne Kirketaarne
+					hist", der kaldes "Sommer-Aftensang". Den
+					originale Ortografi og Tegnsætning er fulgt, kun er <hi rend="italics" xml:id="idm140223991588704">vor
+					Herre</hi> rettet til <hi rend="italics" xml:id="idm140223991587984">Vor Herre</hi> i "Dagen
+					gaaer med raske Fjed" (Vers 3) og <hi rend="italics" xml:id="idm140223991587232">Alverden</hi> i
+					"Den skjønne Jordens Sol gik ned" (Vers 2) ændret til <hi rend="italics" xml:id="idm140223991586400">Al Verden</hi>, den Skrivemaade, Ingemann oftest bruger.
+					"Bliv hos os, naar Dagen helder" har følgende Tilskrift:
+					"Bliv hos os! thi det er mod Aften og Dagen helder". Luc:
+					Ev: 24 Cap: 29 V:</p>
+        <p xml:id="idm140223991585184">Tekst-Udgaven af <hi rend="italics" xml:id="idm140223991584896">Aftensange</hi> fra 1839, der ligeledes udkom
+					paa Vaisenhusets Forlag i København, meddeler, at "Melodierne, med
+					Accompagnement af Pianoforte, componerede af C. E. F. Weyse, faaes i
+					Hofmusikhandelen C. C. Lose &amp; Olsen for 3 Mk.". Digtene er
+					ligesom i <hi rend="italics" xml:id="idm140223991583776">Morgensange for Børn</hi> og <hi rend="italics" xml:id="idm140223991583024">Morgensange</hi> nummererede fra l-7 uden Overskrifter.</p>
+        <p xml:id="idm140223991582160">Om <hi rend="italics" xml:id="idm140223991581904">Aftensange</hi> skriver B. S. Ingemann fra Sorø til
+					Grundtvig den 29de November 1838: "Naar Fenger (Præsten Ferdinand
+					Fenger) besøger dig igjen, maa han paa mine Vegne synge dig og dine mine
+					"Aftensange", som jeg med virkelig Sang ønsker meddelte
+					jeg har nemlig ingen anden Text ladet trykke, end den, der følger med Weyses
+					Musik, der nok i disse Dage udkommer hos Lohse". <hi rend="italics" xml:id="idm140223991580544">(Grundtvig og Ingemann. Brevvexling</hi>, S. 226).</p>
+        <p xml:id="idm140223991579680">"Lyksalig, lyksalig hver Sjæl, som har Fred!" (Guds Fred)
+					er gengivet efter <hi rend="italics" xml:id="idm140223991579248">Dansk Folkekalender for 1841</hi>, S. 161,
+						<hi rend="italics" xml:id="idm140223991578512">Udgivet af Selskabet for Trykkefrihedens rette Brug</hi>,
+						<hi rend="italics" xml:id="idm140223991577760">Kjøbenhavn</hi>, <hi rend="italics" xml:id="idm140223991577072">Trykt hos Directeur
+						Jens Hostrup Schultz</hi>, <hi rend="italics" xml:id="idm140223991576352">Kongelig og
+						Universitets-Bogtrykker</hi>. 3. Vers har her Formen: Tidt dufted, tidt
+					nikked Smaablomste<hi rend="italics" xml:id="idm140223991575552">n</hi> ved Gry, før Aften laa <hi rend="italics" xml:id="idm140223991574832">den</hi> .... hvad der er meget <pb n="57" facs="adl/ingemann/ingemann3/inge3057" xml:id="idm140223991574128"/> naturligt, eftersom de øvrige Strofer ogsaa bruger Ental. B. S. Ingemann
+					rettede senere Smaablomste<hi rend="italics" xml:id="idm140223991573136">n</hi> til Smaablomste<hi rend="italics" xml:id="idm140223991572448">r</hi> ... <hi rend="italics" xml:id="idm140223991571760">de</hi>. Digtet blev genoptrykt
+					i <hi rend="italics" xml:id="idm140223991571056">Høimesse-Psalmer til Kirkeaarets Helligdage af B. S.
+						Ingemann. Anden Udgave med et Tillæg af andre Psalmer samt Morgen- og
+						Aftensange. Kjøbenhavn 1843. Forlagt af Universitetsboghandler C. A.
+					Reitzel</hi>.</p>
+        <p xml:id="idm140223991569824">Digtet, der staar paa Side 131, hedder ligesom i <hi rend="italics" xml:id="idm140223991569504">Dansk
+						Folkekalender for 1841</hi>: "Guds Fred" og har
+					følgende Tilføjelse: "kan synges paa <hi rend="italics" xml:id="idm140223991568656">Kuhlaus</hi>
+					Melodie til: "Nu lider Dagen".</p>
+        <p xml:id="idm140223991567792">Digtet findes i <hi rend="italics" xml:id="idm140223991567504">Samlede Skrifter</hi>, 1845, 4. Afdeling, 7.
+					Bind, umiddelbart efter "Aftensange" l-7.</p>
+        <p xml:id="idm140223991566608">"Fred hviler over Land og Bye" er gengivet efter
+					Førstetrykket i Ugebladet <hi rend="italics" xml:id="idm140223991566176">Harpen</hi>, <hi rend="italics" xml:id="idm140223991565488">et
+						æsthetisk Tidsskrift</hi>, udgivet i Kjøbenhavn af A. P. Liunge (Fjerde
+					Aargang, Nr. l, Fredagen den 3. Januari 1823). Digtet, hvis Titel i <hi rend="italics" xml:id="idm140223991564496">Harpen</hi> er "Aftensang", findes ikke
+					i de Digtsamlinger, B. S. Ingemann udgav mellem 1823 og 1845: <hi rend="italics" xml:id="idm140223991563696">Smaadigte og Rejseminder</hi> (1832), <hi rend="italics" xml:id="idm140223991562960">Syv
+					Aftensange</hi> (1838), <hi rend="italics" xml:id="idm140223991562240">Folkedands-Viser og blandede
+					Digte</hi> (1842) og <hi rend="italics" xml:id="idm140223991561504">Blandede Digte</hi>, <hi rend="italics" xml:id="idm140223991560816">anden forøgede Udgave</hi> (1845). Det staar derimod (dateret 1823) i <hi rend="italics" xml:id="idm140223991560032">Samlede Skrifter</hi>, 4. Afdeling, 6. Bind (1845) under
+					Overskriften: "Smaadigte 1819-32".</p>
+        <p xml:id="idm140223991559120">Hvornaar er det skrevet? H. G. Olrik mener (jvnf. <hi rend="italics" xml:id="idm140223991558800">Danske
+						Studier</hi> 1921), at det stammer fra Sommeren 1816 eller 1817, og at det
+					maa opfattes som et "Forsoningsdigt" efter de Angreb,
+					Peder Hjort og Johan Ludvig Heiberg rettede mod B. S. Ingemanns Digtning i Tiden
+					fra 1815-17. Den Aftenstemning, Digtet beskriver, skulde saaledes være
+					københavnsk og ikke inspireret af den soranske Idyl, eftersom B. S. Ingemann
+					først overtog sin Stilling som Lektor i Dansk ved Sorø Akademi i September 1822.</p>
+        <p xml:id="idm140223991557056">Johan Ludvig Heiberg spottede især B. S. Ingemann i <hi rend="italics" xml:id="idm140223991556672">Julespøg
+						og Nytaarsløjer</hi>, 1816, og Peder Hjorts heftigste Angreb findes i Chr.
+					Molbechs Maanedsskrift <hi rend="italics" xml:id="idm140223991555840">Athene</hi>, Juli- og Oktoberhæftet
+					1815 og Februarhæftet 1816. ("Om Digteren Ingemann og hans
+					Værker").</p>
+        <pb n="58" facs="adl/ingemann/ingemann3/inge3058" xml:id="idm140223991554800"/>
+        <p xml:id="idm140223991554032">Ortografien, der er noget anderledes end i de øvrige Digte (Sky<hi rend="italics" xml:id="idm140223991553632">e</hi>, By<hi rend="italics" xml:id="idm140223991552896">e</hi> etc.), er den samme som i
+					Førstetrykket.</p>
+        <p xml:id="idm140223991552000">Melodien skyldes Rudolph Bay, jvnf. Julius Clausen og P. Fr. Rist: <hi rend="italics" xml:id="idm140223991551664">Memoirer og Breve XXXII</hi>, 1920, S XIII - <hi rend="italics" xml:id="idm140223991550944">Sentimentalsk Reise igiennem Europa til Algier</hi>, <hi rend="italics" xml:id="idm140223991550224">1816</hi> - hvor det angives, at Melodien er
+					komponeret i 1826, da B. var Konsulatssekretær i Algier.</p>
+        <p xml:id="idm140223991549200">Digtet omtales i <hi rend="italics" xml:id="idm140223991548912">Breve til og fra Bernh. Sev. Ingemann</hi>
+					(1879, S. 157 og 160) af Pastor emeritus Jens Hornsyld (11. Marts 1823) og af
+					Steen Steensen Blicher (24. Marts 1823).</p>
+        <p xml:id="idm140223991547936">I 5. Vers, 4. Linie er <hi rend="italics" xml:id="idm140223991547648">du</hi> rettet til <hi rend="italics" xml:id="idm140223991546960">Du</hi>, ellers er Teksten som i <hi rend="italics" xml:id="idm140223991546256">Harpen</hi>.</p>
+      </div>
+      <pb n="59" facs="adl/ingemann/ingemann3/inge3059" xml:id="idm140223991545312"/>
+      <div type="toc" xml:id="idm140223991544544">
+        <head xml:id="idm140223991544048">INDHOLD</head>
+        <list type="simple" xml:id="idm140223991543632">
+          <item xml:id="idm140223991543056">Forord af Kjeld Elfelt ..................... 5</item>
+          <item xml:id="idm140223991542608">
+            <list type="simple" xml:id="idm140223991542352">
+              <head xml:id="idm140223991541824">
+                <hi rend="italics" xml:id="idm140223991541568">Morgensange</hi>
+              </head>
+              <item xml:id="idm140223991540752">Nu ringer alle Klokker mod Sky ........... 11</item>
+              <item xml:id="idm140223991540304">Lysets Engel gaaer med Glands ............ 14</item>
+              <item xml:id="idm140223991539856">Nu vaagne alle Guds Fugle smaa ........... 16</item>
+              <item xml:id="idm140223991539408">I Østen stiger Solen op .................... 18</item>
+              <item xml:id="idm140223991538912">Gud skee Tak og Lov! .................... 21</item>
+              <item xml:id="idm140223991538464">Morgenstund har Guld i Mund ............. 24</item>
+              <item xml:id="idm140223991538016">Nu titte til hinanden de favre Blomster smaa 26</item>
+              <item xml:id="idm140223991537568">Storken sidder paa Bondens Tag ........... 28</item>
+            </list>
+          </item>
+          <item xml:id="idm140223991536864">
+            <list type="simple" xml:id="idm140223991536608">
+              <head xml:id="idm140223991536080">
+                <hi rend="italics" xml:id="idm140223991535824">Aftensange</hi>
+              </head>
+              <item xml:id="idm140223991535008">Der staaer et Slot i Vesterled .............. 33</item>
+              <item xml:id="idm140223991534560">Dagen gaaer med raske Fjed ............... 35</item>
+              <item xml:id="idm140223991534112">Til vor lille Gjerning ud ................... 37</item>
+              <item xml:id="idm140223991533664">I fjerne Kirketaarne hist .................. 39</item>
+              <item xml:id="idm140223991533216">Bliv hos os, naar Dagen helder ............. 42</item>
+              <item xml:id="idm140223991532768">Den skjønne Jordens Sol gik ned ........... 44</item>
+              <item xml:id="idm140223991532272">Den store stille Nat gaaer frem ............ 46</item>
+              <item xml:id="idm140223991531824">Lyksalig, lyksalig hver Sjæl, som har Fred ... 48</item>
+              <item xml:id="idm140223991531328">Fred hviler over Land og Bye ............. 50</item>
+              <item xml:id="idm140223991530880">Efterskrift ................................ 53</item>
+            </list>
+          </item>
+        </list>
+      </div>
+    </back>
+  </text>
+</TEI>

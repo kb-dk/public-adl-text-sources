@@ -1,0 +1,415 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--Tom opmærkning d. 11.10.2002 blo -->
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="idm140460280712240"><!-- 
+       file     ./marc_dir/001803446.xml
+       field     
+       subfield  
+       prefix   -->
+  <teiHeader xml:id="idm140460280711312">
+    <fileDesc xml:id="idm140460280711056">
+      <titleStmt xml:id="idm140460280756720">
+        <title xml:id="idm140460280685488">Jammers Minde</title>
+        <respStmt xml:id="idm140460280685104">
+          <resp xml:id="idm140460280684800">Poul Lindegård Hjort og Marita Akhøj Nielsen</resp>
+          <name xml:id="idm140460280684416"/>
+        </respStmt>
+        <author xml:id="idm140460280684032">Leonora Christina Ulfeldt</author>
+      </titleStmt>
+      <publicationStmt xml:id="idm140460280683424">
+        <publisher xml:id="idm140460280683168">DSL og C.A. Reitzel</publisher>
+        <idno xml:id="idm140460280682784" xml:base="texts/leon02tom.xml">001803446:02</idno>
+      </publicationStmt>
+      <notesStmt xml:id="idm140460280681856">
+        <note xml:id="idm140460280681552">
+	  </note>
+      </notesStmt>
+      <sourceDesc xml:id="idm140460280681040"><bibl xml:id="idm140460280680912"><author n="1" xml:id="idm140460280680224"><name xml:id="idm140460280679968"><surname xml:id="idm140460280679840">Ulfeldt</surname>, <forename xml:id="idm140460280679376">Leonora Christina</forename></name></author><title xml:id="idm140460280679088">Leonora Christinas Jammers Minde</title><pubPlace xml:id="idm140460280678784">Kbh.</pubPlace>
+<publisher xml:id="idm140460280678320">Det Danske Sprog- og Litteraturselskab</publisher><publisher xml:id="idm140460280678016">C.A. Reitzel</publisher><date xml:id="idm140460280677680">1998</date></bibl><listBibl xml:id="idm140460280677392"><bibl xml:id="biblid54636"><title xml:id="idm140460280664240">Jammers Minde</title></bibl></listBibl></sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text xml:id="idm140460280663600">
+    <front xml:id="idm140460280663344">
+      <pb n="i" facs="adl/leonora/leonora2/leon2fm001" xml:id="idm140460280663040"/>
+      <pb n="ii" facs="adl/leonora/leonora2/leon2fm002" xml:id="idm140460280662224"/>
+      <pb n="iii" facs="adl/leonora/leonora2/leon2fm003" xml:id="idm140460280661408"/>
+      <pb n="iv" facs="adl/leonora/leonora2/leon2fm004" xml:id="idm140460280660640"/>
+      <pb n="v" facs="adl/leonora/leonora2/leon2fm005" xml:id="idm140460280659872"/>
+      <pb n="vi" facs="adl/leonora/leonora2/leon2fm006" xml:id="idm140460280659056"/>
+      <pb n="vii" facs="adl/leonora/leonora2/leon2fm007" xml:id="idm140460280658288"/>
+      <pb n="viii" facs="adl/leonora/leonora2/leon2fm008" xml:id="idm140460280657520"/>
+      <pb n="ix" facs="adl/leonora/leonora2/leon2fm009" xml:id="idm140460280656720"/>
+      <pb n="x" facs="adl/leonora/leonora2/leon2fm010" xml:id="idm140460280655952"/>
+      <pb n="xi" facs="adl/leonora/leonora2/leon2fm011" xml:id="idm140460280655136"/>
+      <pb n="xii" facs="adl/leonora/leonora2/leon2fm012" xml:id="idm140460280654368"/>
+      <pb n="xiii" facs="adl/leonora/leonora2/leon2fm013" xml:id="idm140460280653552"/>
+      <pb n="xiv" facs="adl/leonora/leonora2/leon2fm014" xml:id="idm140460280652752"/>
+      <pb n="xv" facs="adl/leonora/leonora2/leon2fm015" xml:id="idm140460280651984"/>
+      <pb n="xvi" facs="adl/leonora/leonora2/leon2fm016" xml:id="idm140460280651216"/>
+      <pb n="xvii" facs="adl/leonora/leonora2/leon2fm017" xml:id="idm140460280650400"/>
+      <pb n="xviii" facs="adl/leonora/leonora2/leon2fm018" xml:id="idm140460280649600"/>
+      <pb n="xix" facs="adl/leonora/leonora2/leon2fm019" xml:id="idm140460280648800"/>
+      <pb n="xx" facs="adl/leonora/leonora2/leon2fm020" xml:id="idm140460280647984"/>
+      <pb n="xxi" facs="adl/leonora/leonora2/leon2fm021" xml:id="idm140460280647216"/>
+      <pb n="xxii" facs="adl/leonora/leonora2/leon2fm022" xml:id="idm140460280646400"/>
+      <pb n="xxiii" facs="adl/leonora/leonora2/leon2fm023" xml:id="idm140460280645600"/>
+      <pb n="xxiv" facs="adl/leonora/leonora2/leon2fm024" xml:id="idm140460280644800"/>
+      <pb n="xxv" facs="adl/leonora/leonora2/leon2fm025" xml:id="idm140460280644000"/>
+      <pb n="xxvi" facs="adl/leonora/leonora2/leon2fm026" xml:id="idm140460280643232"/>
+      <pb n="xxvii" facs="adl/leonora/leonora2/leon2fm027" xml:id="idm140460280642432"/>
+      <pb n="xxviii" facs="adl/leonora/leonora2/leon2fm028" xml:id="idm140460280641632"/>
+      <pb n="xxix" facs="adl/leonora/leonora2/leon2fm029" xml:id="idm140460280640832"/>
+      <pb n="xxx" facs="adl/leonora/leonora2/leon2fm030" xml:id="idm140460280640032"/>
+      <pb n="xxxi" facs="adl/leonora/leonora2/leon2fm031" xml:id="idm140460280639264"/>
+      <pb n="xxxii" facs="adl/leonora/leonora2/leon2fm032" xml:id="idm140460280638464"/>
+      <pb n="xxxiii" facs="adl/leonora/leonora2/leon2fm033" xml:id="idm140460280637664"/>
+      <pb n="xxxiv" facs="adl/leonora/leonora2/leon2fm034" xml:id="idm140460280636864"/>
+      <pb n="xxxv" facs="adl/leonora/leonora2/leon2fm035" xml:id="idm140460280636064"/>
+      <pb n="xxxvi" facs="adl/leonora/leonora2/leon2fm036" xml:id="idm140460280635264"/>
+      <pb n="xxxvii" facs="adl/leonora/leonora2/leon2fm037" xml:id="idm140460280634464"/>
+      <pb n="xxxviii" facs="adl/leonora/leonora2/leon2fm038" xml:id="idm140460280633664"/>
+      <pb n="xxxix" facs="adl/leonora/leonora2/leon2fm039" xml:id="idm140460280632864"/>
+      <pb n="xl" facs="adl/leonora/leonora2/leon2fm040" xml:id="idm140460280632064"/>
+      <pb n="xli" facs="adl/leonora/leonora2/leon2fm041" xml:id="idm140460280631296"/>
+      <pb n="xlii" facs="adl/leonora/leonora2/leon2fm042" xml:id="idm140460280630528"/>
+      <pb n="xliii" facs="adl/leonora/leonora2/leon2fm043" xml:id="idm140460280629728"/>
+      <pb n="xliv" facs="adl/leonora/leonora2/leon2fm044" xml:id="idm140460280628928"/>
+      <pb n="xlv" facs="adl/leonora/leonora2/leon2fm045" xml:id="idm140460280628128"/>
+      <pb n="xlvi" facs="adl/leonora/leonora2/leon2fm046" xml:id="idm140460280627312"/>
+      <pb n="xlvii" facs="adl/leonora/leonora2/leon2fm047" xml:id="idm140460280626512"/>
+      <pb n="xlviii" facs="adl/leonora/leonora2/leon2fm048" xml:id="idm140460280625712"/>
+      <pb n="xlix" facs="adl/leonora/leonora2/leon2fm049" xml:id="idm140460280624912"/>
+      <pb n="l" facs="adl/leonora/leonora2/leon2fm050" xml:id="idm140460280624112"/>
+      <pb n="li" facs="adl/leonora/leonora2/leon2fm051" xml:id="idm140460280623296"/>
+      <pb n="lii" facs="adl/leonora/leonora2/leon2fm052" xml:id="idm140460280622480"/>
+      <pb n="liii" facs="adl/leonora/leonora2/leon2fm053" xml:id="idm140460280621664"/>
+      <pb n="liv" facs="adl/leonora/leonora2/leon2fm054" xml:id="idm140460280620864"/>
+      <pb n="lv" facs="adl/leonora/leonora2/leon2fm055" xml:id="idm140460280620048"/>
+      <pb n="lvi" facs="adl/leonora/leonora2/leon2fm056" xml:id="idm140460280619232"/>
+      <pb n="lvii" facs="adl/leonora/leonora2/leon2fm057" xml:id="idm140460280618416"/>
+      <pb n="lviii" facs="adl/leonora/leonora2/leon2fm058" xml:id="idm140460280617616"/>
+      <pb n="lix" facs="adl/leonora/leonora2/leon2fm059" xml:id="idm140460280616816"/>
+      <pb n="lx" facs="adl/leonora/leonora2/leon2fm060" xml:id="idm140460280616000"/>
+      <pb n="lxi" facs="adl/leonora/leonora2/leon2fm061" xml:id="idm140460280615184"/>
+      <pb n="lxii" facs="adl/leonora/leonora2/leon2fm062" xml:id="idm140460280614368"/>
+      <pb n="lxiii" facs="adl/leonora/leonora2/leon2fm063" xml:id="idm140460280613568"/>
+      <pb n="lxiv" facs="adl/leonora/leonora2/leon2fm064" xml:id="idm140460280612768"/>
+      <pb n="lxv" facs="adl/leonora/leonora2/leon2fm065" xml:id="idm140460280611968"/>
+      <pb n="lxvi" facs="adl/leonora/leonora2/leon2fm066" xml:id="idm140460280611152"/>
+      <pb n="lxvii" facs="adl/leonora/leonora2/leon2fm067" xml:id="idm140460280610352"/>
+      <pb n="lxviii" facs="adl/leonora/leonora2/leon2fm068" xml:id="idm140460280609552"/>
+      <pb n="lxix" facs="adl/leonora/leonora2/leon2fm069" xml:id="idm140460280608752"/>
+      <pb n="lxx" facs="adl/leonora/leonora2/leon2fm070" xml:id="idm140460280607952"/>
+      <pb n="lxxi" facs="adl/leonora/leonora2/leon2fm071" xml:id="idm140460280607136"/>
+      <pb n="lxxii" facs="adl/leonora/leonora2/leon2fm072" xml:id="idm140460280606336"/>
+      <pb n="lxxiii" facs="adl/leonora/leonora2/leon2fm073" xml:id="idm140460280605536"/>
+      <pb n="lxxiv" facs="adl/leonora/leonora2/leon2fm074" xml:id="idm140460280604736"/>
+      <pb n="lxxv" facs="adl/leonora/leonora2/leon2fm075" xml:id="idm140460280603936"/>
+      <pb n="lxxvi" facs="adl/leonora/leonora2/leon2fm076" xml:id="idm140460280603136"/>
+      <pb n="lxxvii" facs="adl/leonora/leonora2/leon2fm077" xml:id="idm140460280602336"/>
+      <pb n="lxxviii" facs="adl/leonora/leonora2/leon2fm078" xml:id="idm140460280601536"/>
+    </front>
+    <group xml:id="idm140460280600608">
+ 
+     <!--
+	 The schema does not allow asterisk in the value of the n
+	 attribute. Right now I just don't care. It is well formed.
+     -->
+      <pb n="1*" facs="adl/leonora/leonora2/leon2fm079" xml:id="idm140460280599904"/>
+      <text xml:id="workid54636" decls="#biblid54636">
+        <body xml:id="idm140460280598192">
+          <pb n="2*" facs="adl/leonora/leonora2/leon2fm080" xml:id="idm140460280597936"/>
+          <div xml:id="idm140460280597120">
+            <pb n="3*" facs="adl/leonora/leonora2/leon2fm081" xml:id="idm140460280741792"/>
+            <pb n="4*" facs="adl/leonora/leonora2/leon2fm082" xml:id="idm140460280741024"/>
+            <pb n="5*" facs="adl/leonora/leonora2/leon2fm083" xml:id="idm140460280740256"/>
+            <pb n="6*" facs="adl/leonora/leonora2/leon2fm084" xml:id="idm140460280739488"/>
+            <pb n="7*" facs="adl/leonora/leonora2/leon2fm085" xml:id="idm140460280738720"/>
+            <pb n="8*" facs="adl/leonora/leonora2/leon2fm086" xml:id="idm140460280737952"/>
+            <pb n="9*" facs="adl/leonora/leonora2/leon2fm087" xml:id="idm140460280571728"/>
+            <pb n="10*" facs="adl/leonora/leonora2/leon2fm088" xml:id="idm140460280570960"/>
+            <pb n="11*" facs="adl/leonora/leonora2/leon2fm089" xml:id="idm140460280570192"/>
+            <pb n="12*" facs="adl/leonora/leonora2/leon2fm090" xml:id="idm140460280569424"/>
+            <pb n="13*" facs="adl/leonora/leonora2/leon2fm091" xml:id="idm140460280568656"/>
+            <pb n="14*" facs="adl/leonora/leonora2/leon2fm092" xml:id="idm140460280567888"/>
+            <pb n="15*" facs="adl/leonora/leonora2/leon2fm093" xml:id="idm140460280567120"/>
+            <pb n="16*" facs="adl/leonora/leonora2/leon2fm094" xml:id="idm140460280566352"/>
+            <p xml:id="idm140460280565584"/>
+          </div>
+          <pb n="1" xml:id="n1" facs="adl/leonora/leonora2/leon2001"/>
+          <div xml:id="idm140460280564160">
+            <pb n="2" xml:id="n2" facs="adl/leonora/leonora2/leon2002"/>
+            <pb n="3" xml:id="n3" facs="adl/leonora/leonora2/leon2003"/>
+            <pb n="4" xml:id="n4" facs="adl/leonora/leonora2/leon2004"/>
+            <pb n="5" xml:id="n5" facs="adl/leonora/leonora2/leon2005"/>
+            <pb n="6" xml:id="n6" facs="adl/leonora/leonora2/leon2006"/>
+            <pb n="7" xml:id="n7" facs="adl/leonora/leonora2/leon2007"/>
+            <pb n="8" xml:id="n8" facs="adl/leonora/leonora2/leon2008"/>
+            <pb n="9" xml:id="n9" facs="adl/leonora/leonora2/leon2009"/>
+            <pb n="10" xml:id="n10" facs="adl/leonora/leonora2/leon2010"/>
+            <pb n="11" xml:id="n11" facs="adl/leonora/leonora2/leon2011"/>
+            <pb n="12" xml:id="n12" facs="adl/leonora/leonora2/leon2012"/>
+            <pb n="13" xml:id="n13" facs="adl/leonora/leonora2/leon2013"/>
+            <pb n="14" xml:id="n14" facs="adl/leonora/leonora2/leon2014"/>
+            <pb n="15" xml:id="n15" facs="adl/leonora/leonora2/leon2015"/>
+            <pb n="16" xml:id="n16" facs="adl/leonora/leonora2/leon2016"/>
+            <pb n="17" xml:id="n17" facs="adl/leonora/leonora2/leon2017"/>
+            <pb n="18" xml:id="n18" facs="adl/leonora/leonora2/leon2018"/>
+            <pb n="19" xml:id="n19" facs="adl/leonora/leonora2/leon2019"/>
+            <pb n="20" xml:id="n20" facs="adl/leonora/leonora2/leon2020"/>
+            <pb n="21" xml:id="n21" facs="adl/leonora/leonora2/leon2021"/>
+            <pb n="22" xml:id="n22" facs="adl/leonora/leonora2/leon2022"/>
+            <pb n="23" xml:id="n23" facs="adl/leonora/leonora2/leon2023"/>
+            <pb n="24" xml:id="n24" facs="adl/leonora/leonora2/leon2024"/>
+            <pb n="25" xml:id="n25" facs="adl/leonora/leonora2/leon2025"/>
+            <pb n="26" xml:id="n26" facs="adl/leonora/leonora2/leon2026"/>
+            <pb n="27" xml:id="n27" facs="adl/leonora/leonora2/leon2027"/>
+            <pb n="28" xml:id="n28" facs="adl/leonora/leonora2/leon2028"/>
+            <pb n="29" xml:id="n29" facs="adl/leonora/leonora2/leon2029"/>
+            <pb n="30" xml:id="n30" facs="adl/leonora/leonora2/leon2030"/>
+            <pb n="31" xml:id="n31" facs="adl/leonora/leonora2/leon2031"/>
+            <pb n="32" xml:id="n32" facs="adl/leonora/leonora2/leon2032"/>
+            <pb n="33" xml:id="n33" facs="adl/leonora/leonora2/leon2033"/>
+            <pb n="34" xml:id="n34" facs="adl/leonora/leonora2/leon2034"/>
+            <pb n="35" xml:id="n35" facs="adl/leonora/leonora2/leon2035"/>
+            <pb n="36" xml:id="n36" facs="adl/leonora/leonora2/leon2036"/>
+            <pb n="37" xml:id="n37" facs="adl/leonora/leonora2/leon2037"/>
+            <pb n="38" xml:id="n38" facs="adl/leonora/leonora2/leon2038"/>
+            <pb n="39" xml:id="n39" facs="adl/leonora/leonora2/leon2039"/>
+            <pb n="40" xml:id="n40" facs="adl/leonora/leonora2/leon2040"/>
+            <pb n="41" xml:id="n41" facs="adl/leonora/leonora2/leon2041"/>
+            <pb n="42" xml:id="n42" facs="adl/leonora/leonora2/leon2042"/>
+            <pb n="43" xml:id="n43" facs="adl/leonora/leonora2/leon2043"/>
+            <pb n="44" xml:id="n44" facs="adl/leonora/leonora2/leon2044"/>
+            <pb n="45" xml:id="n45" facs="adl/leonora/leonora2/leon2045"/>
+            <pb n="46" xml:id="n46" facs="adl/leonora/leonora2/leon2046"/>
+            <pb n="47" xml:id="n47" facs="adl/leonora/leonora2/leon2047"/>
+            <pb n="48" xml:id="n48" facs="adl/leonora/leonora2/leon2048"/>
+            <pb n="49" xml:id="n49" facs="adl/leonora/leonora2/leon2049"/>
+            <pb n="50" xml:id="n50" facs="adl/leonora/leonora2/leon2050"/>
+            <pb n="51" xml:id="n51" facs="adl/leonora/leonora2/leon2051"/>
+            <pb n="52" xml:id="n52" facs="adl/leonora/leonora2/leon2052"/>
+            <pb n="53" xml:id="n53" facs="adl/leonora/leonora2/leon2053"/>
+            <pb n="54" xml:id="n54" facs="adl/leonora/leonora2/leon2054"/>
+            <pb n="55" xml:id="n55" facs="adl/leonora/leonora2/leon2055"/>
+            <pb n="56" xml:id="n56" facs="adl/leonora/leonora2/leon2056"/>
+            <pb n="57" xml:id="n57" facs="adl/leonora/leonora2/leon2057"/>
+            <pb n="58" xml:id="n58" facs="adl/leonora/leonora2/leon2058"/>
+            <pb n="59" xml:id="n59" facs="adl/leonora/leonora2/leon2059"/>
+            <pb n="60" xml:id="n60" facs="adl/leonora/leonora2/leon2060"/>
+            <pb n="61" xml:id="n61" facs="adl/leonora/leonora2/leon2061"/>
+            <pb n="62" xml:id="n62" facs="adl/leonora/leonora2/leon2062"/>
+            <pb n="63" xml:id="n63" facs="adl/leonora/leonora2/leon2063"/>
+            <pb n="64" xml:id="n64" facs="adl/leonora/leonora2/leon2064"/>
+            <pb n="65" xml:id="n65" facs="adl/leonora/leonora2/leon2065"/>
+            <pb n="66" xml:id="n66" facs="adl/leonora/leonora2/leon2066"/>
+            <pb n="67" xml:id="n67" facs="adl/leonora/leonora2/leon2067"/>
+            <pb n="68" xml:id="n68" facs="adl/leonora/leonora2/leon2068"/>
+            <pb n="69" xml:id="n69" facs="adl/leonora/leonora2/leon2069"/>
+            <pb n="70" xml:id="n70" facs="adl/leonora/leonora2/leon2070"/>
+            <pb n="71" xml:id="n71" facs="adl/leonora/leonora2/leon2071"/>
+            <pb n="72" xml:id="n72" facs="adl/leonora/leonora2/leon2072"/>
+            <pb n="73" xml:id="n73" facs="adl/leonora/leonora2/leon2073"/>
+            <pb n="74" xml:id="n74" facs="adl/leonora/leonora2/leon2074"/>
+            <pb n="75" xml:id="n75" facs="adl/leonora/leonora2/leon2075"/>
+            <pb n="76" xml:id="n76" facs="adl/leonora/leonora2/leon2076"/>
+            <pb n="77" xml:id="n77" facs="adl/leonora/leonora2/leon2077"/>
+            <pb n="78" xml:id="n78" facs="adl/leonora/leonora2/leon2078"/>
+            <pb n="79" xml:id="n79" facs="adl/leonora/leonora2/leon2079"/>
+            <pb n="80" xml:id="n80" facs="adl/leonora/leonora2/leon2080"/>
+            <pb n="81" xml:id="n81" facs="adl/leonora/leonora2/leon2081"/>
+            <pb n="82" xml:id="n82" facs="adl/leonora/leonora2/leon2082"/>
+            <pb n="83" xml:id="n83" facs="adl/leonora/leonora2/leon2083"/>
+            <pb n="84" xml:id="n84" facs="adl/leonora/leonora2/leon2084"/>
+            <pb n="85" xml:id="n85" facs="adl/leonora/leonora2/leon2085"/>
+            <pb n="86" xml:id="n86" facs="adl/leonora/leonora2/leon2086"/>
+            <pb n="87" xml:id="n87" facs="adl/leonora/leonora2/leon2087"/>
+            <pb n="88" xml:id="n88" facs="adl/leonora/leonora2/leon2088"/>
+            <pb n="89" xml:id="n89" facs="adl/leonora/leonora2/leon2089"/>
+            <pb n="90" xml:id="n90" facs="adl/leonora/leonora2/leon2090"/>
+            <pb n="91" xml:id="n91" facs="adl/leonora/leonora2/leon2091"/>
+            <pb n="92" xml:id="n92" facs="adl/leonora/leonora2/leon2092"/>
+            <pb n="93" xml:id="n93" facs="adl/leonora/leonora2/leon2093"/>
+            <pb n="94" xml:id="n94" facs="adl/leonora/leonora2/leon2094"/>
+            <pb n="95" xml:id="n95" facs="adl/leonora/leonora2/leon2095"/>
+            <pb n="96" xml:id="n96" facs="adl/leonora/leonora2/leon2096"/>
+            <pb n="97" xml:id="n97" facs="adl/leonora/leonora2/leon2097"/>
+            <pb n="98" xml:id="n98" facs="adl/leonora/leonora2/leon2098"/>
+            <pb n="99" xml:id="n99" facs="adl/leonora/leonora2/leon2099"/>
+            <pb n="100" xml:id="n100" facs="adl/leonora/leonora2/leon2100"/>
+            <pb n="101" xml:id="n101" facs="adl/leonora/leonora2/leon2101"/>
+            <pb n="102" xml:id="n102" facs="adl/leonora/leonora2/leon2102"/>
+            <pb n="103" xml:id="n103" facs="adl/leonora/leonora2/leon2103"/>
+            <pb n="104" xml:id="n104" facs="adl/leonora/leonora2/leon2104"/>
+            <pb n="105" xml:id="n105" facs="adl/leonora/leonora2/leon2105"/>
+            <pb n="106" xml:id="n106" facs="adl/leonora/leonora2/leon2106"/>
+            <pb n="107" xml:id="n107" facs="adl/leonora/leonora2/leon2107"/>
+            <pb n="108" xml:id="n108" facs="adl/leonora/leonora2/leon2108"/>
+            <pb n="109" xml:id="n109" facs="adl/leonora/leonora2/leon2109"/>
+            <pb n="110" xml:id="n110" facs="adl/leonora/leonora2/leon2110"/>
+            <pb n="111" xml:id="n111" facs="adl/leonora/leonora2/leon2111"/>
+            <pb n="112" xml:id="n112" facs="adl/leonora/leonora2/leon2112"/>
+            <pb n="113" xml:id="n113" facs="adl/leonora/leonora2/leon2113"/>
+            <pb n="114" xml:id="n114" facs="adl/leonora/leonora2/leon2114"/>
+            <pb n="115" xml:id="n115" facs="adl/leonora/leonora2/leon2115"/>
+            <pb n="116" xml:id="n116" facs="adl/leonora/leonora2/leon2116"/>
+            <pb n="117" xml:id="n117" facs="adl/leonora/leonora2/leon2117"/>
+            <pb n="118" xml:id="n118" facs="adl/leonora/leonora2/leon2118"/>
+            <pb n="119" xml:id="n119" facs="adl/leonora/leonora2/leon2119"/>
+            <pb n="120" xml:id="n120" facs="adl/leonora/leonora2/leon2120"/>
+            <pb n="121" xml:id="n121" facs="adl/leonora/leonora2/leon2121"/>
+            <pb n="122" xml:id="n122" facs="adl/leonora/leonora2/leon2122"/>
+            <pb n="123" xml:id="n123" facs="adl/leonora/leonora2/leon2123"/>
+            <pb n="124" xml:id="n124" facs="adl/leonora/leonora2/leon2124"/>
+            <pb n="125" xml:id="n125" facs="adl/leonora/leonora2/leon2125"/>
+            <pb n="126" xml:id="n126" facs="adl/leonora/leonora2/leon2126"/>
+            <pb n="127" xml:id="n127" facs="adl/leonora/leonora2/leon2127"/>
+            <pb n="128" xml:id="n128" facs="adl/leonora/leonora2/leon2128"/>
+            <pb n="129" xml:id="n129" facs="adl/leonora/leonora2/leon2129"/>
+            <pb n="130" xml:id="n130" facs="adl/leonora/leonora2/leon2130"/>
+            <pb n="131" xml:id="n131" facs="adl/leonora/leonora2/leon2131"/>
+            <pb n="132" xml:id="n132" facs="adl/leonora/leonora2/leon2132"/>
+            <pb n="133" xml:id="n133" facs="adl/leonora/leonora2/leon2133"/>
+            <pb n="134" xml:id="n134" facs="adl/leonora/leonora2/leon2134"/>
+            <pb n="135" xml:id="n135" facs="adl/leonora/leonora2/leon2135"/>
+            <pb n="136" xml:id="n136" facs="adl/leonora/leonora2/leon2136"/>
+            <pb n="137" xml:id="n137" facs="adl/leonora/leonora2/leon2137"/>
+            <pb n="138" xml:id="n138" facs="adl/leonora/leonora2/leon2138"/>
+            <pb n="139" xml:id="n139" facs="adl/leonora/leonora2/leon2139"/>
+            <pb n="140" xml:id="n140" facs="adl/leonora/leonora2/leon2140"/>
+            <pb n="141" xml:id="n141" facs="adl/leonora/leonora2/leon2141"/>
+            <pb n="142" xml:id="n142" facs="adl/leonora/leonora2/leon2142"/>
+            <pb n="143" xml:id="n143" facs="adl/leonora/leonora2/leon2143"/>
+            <pb n="144" xml:id="n144" facs="adl/leonora/leonora2/leon2144"/>
+            <pb n="145" xml:id="n145" facs="adl/leonora/leonora2/leon2145"/>
+            <pb n="146" xml:id="n146" facs="adl/leonora/leonora2/leon2146"/>
+            <pb n="147" xml:id="n147" facs="adl/leonora/leonora2/leon2147"/>
+            <pb n="148" xml:id="n148" facs="adl/leonora/leonora2/leon2148"/>
+            <pb n="149" xml:id="n149" facs="adl/leonora/leonora2/leon2149"/>
+            <pb n="150" xml:id="n150" facs="adl/leonora/leonora2/leon2150"/>
+            <pb n="151" xml:id="n151" facs="adl/leonora/leonora2/leon2151"/>
+            <pb n="152" xml:id="n152" facs="adl/leonora/leonora2/leon2152"/>
+            <pb n="153" xml:id="n153" facs="adl/leonora/leonora2/leon2153"/>
+            <pb n="154" xml:id="n154" facs="adl/leonora/leonora2/leon2154"/>
+            <pb n="155" xml:id="n155" facs="adl/leonora/leonora2/leon2155"/>
+            <pb n="156" xml:id="n156" facs="adl/leonora/leonora2/leon2156"/>
+            <pb n="157" xml:id="n157" facs="adl/leonora/leonora2/leon2157"/>
+            <pb n="158" xml:id="n158" facs="adl/leonora/leonora2/leon2158"/>
+            <pb n="159" xml:id="n159" facs="adl/leonora/leonora2/leon2159"/>
+            <pb n="160" xml:id="n160" facs="adl/leonora/leonora2/leon2160"/>
+            <pb n="161" xml:id="n161" facs="adl/leonora/leonora2/leon2161"/>
+            <pb n="162" xml:id="n162" facs="adl/leonora/leonora2/leon2162"/>
+            <pb n="163" xml:id="n163" facs="adl/leonora/leonora2/leon2163"/>
+            <pb n="164" xml:id="n164" facs="adl/leonora/leonora2/leon2164"/>
+            <pb n="165" xml:id="n165" facs="adl/leonora/leonora2/leon2165"/>
+            <pb n="166" xml:id="n166" facs="adl/leonora/leonora2/leon2166"/>
+            <pb n="167" xml:id="n167" facs="adl/leonora/leonora2/leon2167"/>
+            <pb n="168" xml:id="n168" facs="adl/leonora/leonora2/leon2168"/>
+            <pb n="169" xml:id="n169" facs="adl/leonora/leonora2/leon2169"/>
+            <pb n="170" xml:id="n170" facs="adl/leonora/leonora2/leon2170"/>
+            <pb n="171" xml:id="n171" facs="adl/leonora/leonora2/leon2171"/>
+            <pb n="172" xml:id="n172" facs="adl/leonora/leonora2/leon2172"/>
+            <pb n="173" xml:id="n173" facs="adl/leonora/leonora2/leon2173"/>
+            <pb n="174" xml:id="n174" facs="adl/leonora/leonora2/leon2174"/>
+            <pb n="175" xml:id="n175" facs="adl/leonora/leonora2/leon2175"/>
+            <pb n="176" xml:id="n176" facs="adl/leonora/leonora2/leon2176"/>
+            <pb n="177" xml:id="n177" facs="adl/leonora/leonora2/leon2177"/>
+            <pb n="178" xml:id="n178" facs="adl/leonora/leonora2/leon2178"/>
+            <pb n="179" xml:id="n179" facs="adl/leonora/leonora2/leon2179"/>
+            <pb n="180" xml:id="n180" facs="adl/leonora/leonora2/leon2180"/>
+            <pb n="181" xml:id="n181" facs="adl/leonora/leonora2/leon2181"/>
+            <pb n="182" xml:id="n182" facs="adl/leonora/leonora2/leon2182"/>
+            <pb n="183" xml:id="n183" facs="adl/leonora/leonora2/leon2183"/>
+            <pb n="184" xml:id="n184" facs="adl/leonora/leonora2/leon2184"/>
+            <pb n="185" xml:id="n185" facs="adl/leonora/leonora2/leon2185"/>
+            <pb n="186" xml:id="n186" facs="adl/leonora/leonora2/leon2186"/>
+            <pb n="187" xml:id="n187" facs="adl/leonora/leonora2/leon2187"/>
+            <pb n="188" xml:id="n188" facs="adl/leonora/leonora2/leon2188"/>
+            <pb n="189" xml:id="n189" facs="adl/leonora/leonora2/leon2189"/>
+            <pb n="190" xml:id="n190" facs="adl/leonora/leonora2/leon2190"/>
+            <pb n="191" xml:id="n191" facs="adl/leonora/leonora2/leon2191"/>
+            <pb n="192" xml:id="n192" facs="adl/leonora/leonora2/leon2192"/>
+            <pb n="193" xml:id="n193" facs="adl/leonora/leonora2/leon2193"/>
+            <pb n="194" xml:id="n194" facs="adl/leonora/leonora2/leon2194"/>
+            <pb n="195" xml:id="n195" facs="adl/leonora/leonora2/leon2195"/>
+            <pb n="196" xml:id="n196" facs="adl/leonora/leonora2/leon2196"/>
+            <pb n="197" xml:id="n197" facs="adl/leonora/leonora2/leon2197"/>
+            <pb n="198" xml:id="n198" facs="adl/leonora/leonora2/leon2198"/>
+            <pb n="199" xml:id="n199" facs="adl/leonora/leonora2/leon2199"/>
+            <pb n="200" xml:id="n200" facs="adl/leonora/leonora2/leon2200"/>
+            <pb n="201" xml:id="n201" facs="adl/leonora/leonora2/leon2201"/>
+            <pb n="202" xml:id="n202" facs="adl/leonora/leonora2/leon2202"/>
+            <pb n="203" xml:id="n203" facs="adl/leonora/leonora2/leon2203"/>
+            <pb n="204" xml:id="n204" facs="adl/leonora/leonora2/leon2204"/>
+            <pb n="205" xml:id="n205" facs="adl/leonora/leonora2/leon2205"/>
+            <pb n="206" xml:id="n206" facs="adl/leonora/leonora2/leon2206"/>
+            <pb n="207" xml:id="n207" facs="adl/leonora/leonora2/leon2207"/>
+            <pb n="208" xml:id="n208" facs="adl/leonora/leonora2/leon2208"/>
+            <pb n="209" xml:id="n209" facs="adl/leonora/leonora2/leon2209"/>
+            <pb n="210" xml:id="n210" facs="adl/leonora/leonora2/leon2210"/>
+            <pb n="211" xml:id="n211" facs="adl/leonora/leonora2/leon2211"/>
+            <pb n="212" xml:id="n212" facs="adl/leonora/leonora2/leon2212"/>
+            <pb n="213" xml:id="n213" facs="adl/leonora/leonora2/leon2213"/>
+            <pb n="214" xml:id="n214" facs="adl/leonora/leonora2/leon2214"/>
+            <pb n="215" xml:id="n215" facs="adl/leonora/leonora2/leon2215"/>
+            <pb n="216" xml:id="n216" facs="adl/leonora/leonora2/leon2216"/>
+            <pb n="217" xml:id="n217" facs="adl/leonora/leonora2/leon2217"/>
+            <pb n="218" xml:id="n218" facs="adl/leonora/leonora2/leon2218"/>
+            <pb n="219" xml:id="n219" facs="adl/leonora/leonora2/leon2219"/>
+            <pb n="220" xml:id="n220" facs="adl/leonora/leonora2/leon2220"/>
+            <pb n="221" xml:id="n221" facs="adl/leonora/leonora2/leon2221"/>
+            <pb n="222" xml:id="n222" facs="adl/leonora/leonora2/leon2222"/>
+            <pb n="223" xml:id="n223" facs="adl/leonora/leonora2/leon2223"/>
+            <pb n="224" xml:id="n224" facs="adl/leonora/leonora2/leon2224"/>
+            <pb n="225" xml:id="n225" facs="adl/leonora/leonora2/leon2225"/>
+            <pb n="226" xml:id="n226" facs="adl/leonora/leonora2/leon2226"/>
+            <pb n="227" xml:id="n227" facs="adl/leonora/leonora2/leon2227"/>
+            <pb n="228" xml:id="n228" facs="adl/leonora/leonora2/leon2228"/>
+            <pb n="229" xml:id="n229" facs="adl/leonora/leonora2/leon2229"/>
+            <pb n="230" xml:id="n230" facs="adl/leonora/leonora2/leon2230"/>
+            <pb n="231" xml:id="n231" facs="adl/leonora/leonora2/leon2231"/>
+            <pb n="232" xml:id="n232" facs="adl/leonora/leonora2/leon2232"/>
+            <pb n="233" xml:id="n233" facs="adl/leonora/leonora2/leon2233"/>
+            <pb n="234" xml:id="n234" facs="adl/leonora/leonora2/leon2234"/>
+            <pb n="235" xml:id="n235" facs="adl/leonora/leonora2/leon2235"/>
+            <pb n="236" xml:id="n236" facs="adl/leonora/leonora2/leon2236"/>
+            <pb n="237" xml:id="n237" facs="adl/leonora/leonora2/leon2237"/>
+            <pb n="238" xml:id="n238" facs="adl/leonora/leonora2/leon2238"/>
+            <pb n="239" xml:id="n239" facs="adl/leonora/leonora2/leon2239"/>
+            <pb n="240" xml:id="n240" facs="adl/leonora/leonora2/leon2240"/>
+            <pb n="241" xml:id="n241" facs="adl/leonora/leonora2/leon2241"/>
+            <pb n="242" xml:id="n242" facs="adl/leonora/leonora2/leon2242"/>
+            <pb n="243" xml:id="n243" facs="adl/leonora/leonora2/leon2243"/>
+            <pb n="244" xml:id="n244" facs="adl/leonora/leonora2/leon2244"/>
+            <pb n="245" xml:id="n245" facs="adl/leonora/leonora2/leon2245"/>
+            <pb n="246" xml:id="n246" facs="adl/leonora/leonora2/leon2246"/>
+            <pb n="247" xml:id="n247" facs="adl/leonora/leonora2/leon2247"/>
+            <pb n="248" xml:id="n248" facs="adl/leonora/leonora2/leon2248"/>
+            <pb n="249" xml:id="n249" facs="adl/leonora/leonora2/leon2249"/>
+            <pb n="250" xml:id="n250" facs="adl/leonora/leonora2/leon2250"/>
+            <pb n="251" xml:id="n251" facs="adl/leonora/leonora2/leon2251"/>
+            <pb n="252" xml:id="n252" facs="adl/leonora/leonora2/leon2252"/>
+            <pb n="253" xml:id="n253" facs="adl/leonora/leonora2/leon2253"/>
+            <pb n="254" xml:id="n254" facs="adl/leonora/leonora2/leon2254"/>
+            <pb n="255" xml:id="n255" facs="adl/leonora/leonora2/leon2255"/>
+            <pb n="256" xml:id="n256" facs="adl/leonora/leonora2/leon2256"/>
+            <pb n="257" xml:id="n257" facs="adl/leonora/leonora2/leon2257"/>
+            <pb n="258" xml:id="n258" facs="adl/leonora/leonora2/leon2258"/>
+            <pb n="259" xml:id="n259" facs="adl/leonora/leonora2/leon2259"/>
+            <pb n="260" xml:id="n260" facs="adl/leonora/leonora2/leon2260"/>
+            <pb n="261" xml:id="n261" facs="adl/leonora/leonora2/leon2261"/>
+            <pb n="262" xml:id="n262" facs="adl/leonora/leonora2/leon2262"/>
+            <pb n="263" xml:id="n263" facs="adl/leonora/leonora2/leon2263"/>
+            <pb n="264" xml:id="n264" facs="adl/leonora/leonora2/leon2264"/>
+            <pb n="265" xml:id="n265" facs="adl/leonora/leonora2/leon2265"/>
+            <pb n="266" xml:id="n266" facs="adl/leonora/leonora2/leon2266"/>
+            <pb n="267" xml:id="n267" facs="adl/leonora/leonora2/leon2267"/>
+            <pb n="268" xml:id="n268" facs="adl/leonora/leonora2/leon2268"/>
+            <pb n="269" xml:id="n269" facs="adl/leonora/leonora2/leon2269"/>
+            <pb n="270" xml:id="n270" facs="adl/leonora/leonora2/leon2270"/>
+            <p xml:id="idm140460280243008"/>
+          </div>
+        </body>
+      </text>
+    </group>
+  </text>
+</TEI>

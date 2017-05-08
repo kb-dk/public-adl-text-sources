@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--Tom opmærkning d. 11.10.2002 blo -->
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="idm140418390018784"><!-- 
+       file     ./marc_dir/001573955.xml
+       field     
+       subfield  
+       prefix   -->
+  <teiHeader xml:id="idm140418390022592">
+    <fileDesc xml:id="idm140418390022336">
+      <titleStmt xml:id="idm140418390022032">
+        <title xml:id="idm140418389996592">Tychonis Brahe Dani opera omnia, bind 6</title>
+        <respStmt xml:id="idm140418389996160">
+          <resp xml:id="idm140418389995856">I.L.E. Dreyer</resp>
+          <name xml:id="idm140418389995472"/>
+        </respStmt>
+        <author xml:id="idm140418389995088">Tycho Brahe</author>
+      </titleStmt>
+      <publicationStmt xml:id="idm140418389994528">
+        <publisher xml:id="idm140418389994272">Gyldendal</publisher>
+        <idno xml:id="idm140418389993888" xml:base="texts/tycho06tom.xml">001573955:06</idno>
+      </publicationStmt>
+      <notesStmt xml:id="idm140418389993040">
+        <note xml:id="idm140418389992736">
+	  </note>
+      </notesStmt>
+      <sourceDesc xml:id="idm140418389992224"><bibl xml:id="idm140418389992096"><author n="1" xml:id="idm140418389991408"><name xml:id="idm140418389991152"><surname xml:id="idm140418389991024">Brahe</surname>, <forename xml:id="idm140418389990560">Tycho</forename></name></author><title xml:id="idm140418389990272">Tychonis Brahe Dani opera omnia</title><pubPlace xml:id="idm140418389989968">Hauniæ</pubPlace>
+<date xml:id="idm140418389989456">1913-29</date></bibl><listBibl xml:id="idm140418389989168"><bibl xml:id="biblid54243"><title xml:id="idm140418389976016">In ... Nicolai Copernici Instrumentum Parallaticum ...</title></bibl><bibl xml:id="biblid54282"><title xml:id="idm140418389975152">In Cl. Ptolemaei Alexandrini effifiem</title></bibl><bibl xml:id="biblid54300"><title xml:id="idm140418389974304">In D. Nicolai Copernici ... effigiem ...</title></bibl><bibl xml:id="biblid54337"><title xml:id="idm140418389973488">Urania hæc... [Indskrift på Stjerneborg]</title></bibl><bibl xml:id="biblid54355"><title xml:id="idm140418389972592">8 epigrammer under portrætter på Stjerneborg</title></bibl><bibl xml:id="biblid54384"><title xml:id="idm140418389971728">Tempora circuitu ... [Indskrift på et ur på Stjerneborg]</title></bibl><bibl xml:id="biblid54403"><title xml:id="idm140418389970848">Inclyte Mavriti ... [Epiram til Moritz af Hessen]</title></bibl><bibl xml:id="biblid54422"><title xml:id="idm140418389970032">Magni Herois ... [Digt i anledningen af Wilhelm af Hessens død]</title></bibl></listBibl></sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text xml:id="idm140418389969248">
+    <front xml:id="idm140418389968992">
+      <pb n="a" facs="adl/tycho/tycho06/tycho6fm001" xml:id="idm140418389968688"/>
+      <pb n="b" facs="adl/tycho/tycho06/tycho6fm002" xml:id="idm140418389967904"/>
+      <pb n="c" facs="adl/tycho/tycho06/tycho6fm003" xml:id="idm140418390052464"/>
+    </front>
+    <group xml:id="idm140418390051568">
+      <pb n="266" xml:id="n266" facs="adl/tycho/tycho06/tycho6266"/>
+      <text xml:id="workid54243" decls="#biblid54243">
+        <body xml:id="idm140418390049408">
+          <pb n="267" xml:id="n267" facs="adl/tycho/tycho06/tycho6267"/>
+          <pb n="268" xml:id="n268" facs="adl/tycho/tycho06/tycho6268"/>
+          <p xml:id="idm140418389940864"/>
+        </body>
+      </text>
+      <pb n="269" xml:id="n269" facs="adl/tycho/tycho06/tycho6269"/>
+      <text xml:id="workid54282" decls="#biblid54282">
+        <body xml:id="idm140418389938320">
+          <p xml:id="idm140418389938064"/>
+        </body>
+      </text>
+      <pb n="270" xml:id="n270" facs="adl/tycho/tycho06/tycho6270"/>
+      <text xml:id="workid54300" decls="#biblid54300">
+        <body xml:id="idm140418389935520">
+          <pb n="271" xml:id="n271" facs="adl/tycho/tycho06/tycho6271"/>
+          <pb n="272" xml:id="n272" facs="adl/tycho/tycho06/tycho6272"/>
+          <p xml:id="idm140418389932992"/>
+        </body>
+      </text>
+      <pb n="273" xml:id="n273" facs="adl/tycho/tycho06/tycho6273"/>
+      <text xml:id="workid54337" decls="#biblid54337">
+        <body xml:id="idm140418389930448">
+          <p xml:id="idm140418389930192"/>
+        </body>
+      </text>
+      <pb n="274" xml:id="n274" facs="adl/tycho/tycho06/tycho6274"/>
+      <text xml:id="workid54355" decls="#biblid54355">
+        <body xml:id="idm140418389927584">
+          <pb n="275" xml:id="n275" facs="adl/tycho/tycho06/tycho6275"/>
+          <p xml:id="idm140418389926192"/>
+        </body>
+      </text>
+      <pb n="276" xml:id="n276" facs="adl/tycho/tycho06/tycho6276"/>
+      <text xml:id="workid54384" decls="#biblid54384">
+        <body xml:id="idm140418389923584">
+          <p xml:id="idm140418389923328"/>
+        </body>
+      </text>
+      <pb n="277" xml:id="n277" facs="adl/tycho/tycho06/tycho6277"/>
+      <text xml:id="workid54403" decls="#biblid54403">
+        <body xml:id="idm140418389920784">
+          <p xml:id="idm140418389920528"/>
+        </body>
+      </text>
+      <pb n="278" xml:id="n278" facs="adl/tycho/tycho06/tycho6278"/>
+      <text xml:id="workid54422" decls="#biblid54422">
+        <body xml:id="idm140418389917984">
+          <p xml:id="idm140418389917728"/>
+        </body>
+      </text>
+    </group>
+  </text>
+</TEI>

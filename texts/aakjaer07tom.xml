@@ -1,0 +1,629 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--Tom opmærkning d.13.08.2002 blo -->
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="idm140240949804080"><!-- 
+       file     ./marc_dir/002251515.xml
+       field    530 
+       subfield a 
+       prefix   Bd. 7 :-->
+  <teiHeader xml:id="idm140240949803344">
+    <fileDesc xml:id="idm140240949803088">
+      <titleStmt xml:id="idm140240949802784">
+        <title xml:id="idm140240949777392">Samlede Værker, bind 7</title>
+        <author xml:id="idm140240949777008">Jeppe Aakjær</author>
+      </titleStmt>
+      <publicationStmt xml:id="idm140240949776496">
+        <publisher xml:id="idm140240949776240">Gyldendalske Boghandel</publisher>
+        <idno xml:id="idm140240949775856" xml:base="texts/aakjaer07tom.xml">002251515:07</idno>
+      </publicationStmt>
+      <notesStmt xml:id="idm140240949774928">
+        <note xml:id="idm140240949774672">
+	  </note>
+      </notesStmt>
+      <sourceDesc xml:id="idm140240949774160"><bibl xml:id="idm140240949774032"><author n="1" xml:id="idm140240949773344"><name xml:id="idm140240949773088"><surname xml:id="idm140240949772960">Aakjær</surname>, <forename xml:id="idm140240949772528">Jeppe</forename></name></author><title xml:id="idm140240949772272"> Vadmelsfolk ; Af Gammel Jehannes hans Bivelskistaarri ; Esper Tækki. - 1919</title><pubPlace xml:id="idm140240949771840">Kbh.</pubPlace>; <pubPlace xml:id="idm140240949771376">Kristiania</pubPlace>
+<publisher xml:id="idm140240949770912">Gyldendal</publisher><date xml:id="idm140240949770576">1918-19</date></bibl><listBibl xml:id="idm140240949770288"><bibl xml:id="biblid54268"><title xml:id="idm140240949757136">Selvplageren</title></bibl><bibl xml:id="biblid54493"><title xml:id="idm140240949756304">Kromand imod sin Vilje</title></bibl><bibl xml:id="biblid54529"><title xml:id="idm140240949755472">Dorres Kat</title></bibl><bibl xml:id="biblid54661"><title xml:id="idm140240949754688">Vesterfra</title></bibl><bibl xml:id="biblid54706"><title xml:id="idm140240949753856">Under Sablen</title></bibl><bibl xml:id="biblid54751"><title xml:id="idm140240949753024">Antonius' Fristelser</title></bibl><bibl xml:id="biblid54880"><title xml:id="idm140240949752192">Da Hyrdedrengen skulde i Skoven</title></bibl><bibl xml:id="biblid55009"><title xml:id="idm140240949751392">Paa Aftægt</title></bibl><bibl xml:id="biblid55699"><title xml:id="idm140240949750560">Landstrygerens Juleaften</title></bibl><bibl xml:id="biblid55798"><title xml:id="idm140240949749712">Jesper Kyvlings Markedsfærd</title></bibl><bibl xml:id="biblid55856"><title xml:id="idm140240949748880">Sidsels Brudelys</title></bibl><bibl xml:id="biblid55975"><title xml:id="idm140240949748096">Lines Bejlere</title></bibl><bibl xml:id="biblid56095"><title xml:id="idm140240949747264">Hellig Krig</title></bibl><bibl xml:id="biblid56143"><title xml:id="idm140240949746432">Smedens Overmand</title></bibl><bibl xml:id="biblid56180"><title xml:id="idm140240949745648">Brøndgraverne</title></bibl><bibl xml:id="biblid56279"><title xml:id="idm140240949744800">Mens Ane leved</title></bibl><bibl xml:id="biblid56387"><title xml:id="idm140240949743968">Vildkoen</title></bibl><bibl xml:id="biblid56504"><title xml:id="idm140240949743136">Guds og Vredens Børn</title></bibl><bibl xml:id="biblid56644"><title xml:id="idm140240949833568">En Mennesk ska ved, hwad en gjør</title></bibl><bibl xml:id="biblid56693"><title xml:id="idm140240949832800">Himlens Dom</title></bibl><bibl xml:id="biblid56752"><title xml:id="idm140240949832016">Han-Skrædderen</title></bibl><bibl xml:id="biblid56839"><title xml:id="idm140240949831264">En Byge</title></bibl><bibl xml:id="biblid56918"><title xml:id="idm140240949830416">I Nobolav</title></bibl><bibl xml:id="biblid56976"><title xml:id="idm140240949717680">Skrædder-Lone</title></bibl><bibl xml:id="biblid57132"><title xml:id="idm140240949717040">De Ensomme</title></bibl><bibl xml:id="biblid57201"><title xml:id="idm140240949716256">Jens Pot</title></bibl><bibl xml:id="biblid57321"><title xml:id="idm140240949715472">Mod Jul</title></bibl><bibl xml:id="biblid54304"><title xml:id="idm140240949714688">Tre paa een Stige</title></bibl><bibl xml:id="biblid54401"><title xml:id="idm140240949713904">Oplyst</title></bibl><bibl xml:id="biblid54459"><title xml:id="idm140240949713120">En sære Kannis</title></bibl><bibl xml:id="biblid57420"><title xml:id="idm140240949712368">En Far</title></bibl><bibl xml:id="biblid57498"><title xml:id="idm140240949711584">Hædersgaven</title></bibl><bibl xml:id="biblid57585"><title xml:id="idm140240949710832">Kjæn Haals Arvinger</title></bibl><bibl xml:id="biblid57652"><title xml:id="idm140240949710016">Regnvejr</title></bibl><bibl xml:id="biblid57778"><title xml:id="idm140240949709232">Juleføllet</title></bibl><bibl xml:id="biblid57896"><title xml:id="idm140240949708448">Af gammel jehannes hans Bivelskistaarri</title></bibl><bibl xml:id="biblid58238"><title xml:id="idm140240949707696">Esper Tækki</title></bibl></listBibl></sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text xml:id="idm140240949707056">
+    <front xml:id="idm140240949706800">
+      <pb n="a" facs="adl/aakjaer/aakjaer7/aakj7fm001" xml:id="idm140240949706544"/>
+      <pb n="b" facs="adl/aakjaer/aakjaer7/aakj7fm002" xml:id="idm140240949705808"/>
+      <pb n="c" facs="adl/aakjaer/aakjaer7/aakj7fm003" xml:id="idm140240949705040"/>
+      <pb n="d" facs="adl/aakjaer/aakjaer7/aakj7fm004" xml:id="idm140240949704272"/>
+      <pb n="e" facs="adl/aakjaer/aakjaer7/aakj7fm005" xml:id="idm140240949703504"/>
+      <pb n="f" facs="adl/aakjaer/aakjaer7/aakj7fm006" xml:id="idm140240949702736"/>
+      <pb n="g" facs="adl/aakjaer/aakjaer7/aakj7fm007" xml:id="idm140240949701968"/>
+      <pb n="h" facs="adl/aakjaer/aakjaer7/aakj7fm008" xml:id="idm140240949701200"/>
+    </front>
+    <group xml:id="idm140240949700304">
+      <pb n="1" xml:id="n1" facs="adl/aakjaer/aakjaer7/aakj7001"/>
+      <text xml:id="workid54268" decls="#biblid54268">
+        <body xml:id="idm140240949698048">
+          <pb n="2" xml:id="n2" facs="adl/aakjaer/aakjaer7/aakj7002"/>
+          <pb n="3" xml:id="n3" facs="adl/aakjaer/aakjaer7/aakj7003"/>
+          <pb n="4" xml:id="n4" facs="adl/aakjaer/aakjaer7/aakj7004"/>
+          <pb n="5" xml:id="n5" facs="adl/aakjaer/aakjaer7/aakj7005"/>
+          <p xml:id="idm140240949693376"/>
+        </body>
+      </text>
+      <pb n="6" xml:id="n6" facs="adl/aakjaer/aakjaer7/aakj7006"/>
+      <text xml:id="workid54493" decls="#biblid54493">
+        <body xml:id="idm140240949690800">
+          <pb n="7" xml:id="n7" facs="adl/aakjaer/aakjaer7/aakj7007"/>
+          <pb n="8" xml:id="n8" facs="adl/aakjaer/aakjaer7/aakj7008"/>
+          <p xml:id="idm140240949688336"/>
+        </body>
+      </text>
+      <pb n="9" xml:id="n9" facs="adl/aakjaer/aakjaer7/aakj7009"/>
+      <text xml:id="workid54529" decls="#biblid54529">
+        <body xml:id="idm140240949685824">
+          <pb n="10" xml:id="n10" facs="adl/aakjaer/aakjaer7/aakj7010"/>
+          <pb n="11" xml:id="n11" facs="adl/aakjaer/aakjaer7/aakj7011"/>
+          <pb n="12" xml:id="n12" facs="adl/aakjaer/aakjaer7/aakj7012"/>
+          <pb n="13" xml:id="n13" facs="adl/aakjaer/aakjaer7/aakj7013"/>
+          <pb n="14" xml:id="n14" facs="adl/aakjaer/aakjaer7/aakj7014"/>
+          <pb n="15" xml:id="n15" facs="adl/aakjaer/aakjaer7/aakj7015"/>
+          <pb n="16" xml:id="n16" facs="adl/aakjaer/aakjaer7/aakj7016"/>
+          <pb n="17" xml:id="n17" facs="adl/aakjaer/aakjaer7/aakj7017"/>
+          <pb n="18" xml:id="n18" facs="adl/aakjaer/aakjaer7/aakj7018"/>
+          <pb n="19" xml:id="n19" facs="adl/aakjaer/aakjaer7/aakj7019"/>
+          <pb n="20" xml:id="n20" facs="adl/aakjaer/aakjaer7/aakj7020"/>
+          <pb n="21" xml:id="n21" facs="adl/aakjaer/aakjaer7/aakj7021"/>
+          <p xml:id="idm140240949672192"/>
+        </body>
+      </text>
+      <pb n="22" xml:id="n22" facs="adl/aakjaer/aakjaer7/aakj7022"/>
+      <text xml:id="workid54661" decls="#biblid54661">
+        <body xml:id="idm140240949669616">
+          <pb n="23" xml:id="n23" facs="adl/aakjaer/aakjaer7/aakj7023"/>
+          <pb n="24" xml:id="n24" facs="adl/aakjaer/aakjaer7/aakj7024"/>
+          <pb n="25" xml:id="n25" facs="adl/aakjaer/aakjaer7/aakj7025"/>
+          <p xml:id="idm140240949666048"/>
+        </body>
+      </text>
+      <pb n="26" xml:id="n26" facs="adl/aakjaer/aakjaer7/aakj7026"/>
+      <text xml:id="workid54706" decls="#biblid54706">
+        <body xml:id="idm140240949659360">
+          <pb n="27" xml:id="n27" facs="adl/aakjaer/aakjaer7/aakj7027"/>
+          <pb n="28" xml:id="n28" facs="adl/aakjaer/aakjaer7/aakj7028"/>
+          <pb n="29" xml:id="n29" facs="adl/aakjaer/aakjaer7/aakj7029"/>
+          <p xml:id="idm140240949655744"/>
+        </body>
+      </text>
+      <pb n="30" xml:id="n30" facs="adl/aakjaer/aakjaer7/aakj7030"/>
+      <text xml:id="workid54751" decls="#biblid54751">
+        <body xml:id="idm140240949653136">
+          <pb n="31" xml:id="n31" facs="adl/aakjaer/aakjaer7/aakj7031"/>
+          <pb n="32" xml:id="n32" facs="adl/aakjaer/aakjaer7/aakj7032"/>
+          <pb n="33" xml:id="n33" facs="adl/aakjaer/aakjaer7/aakj7033"/>
+          <pb n="34" xml:id="n34" facs="adl/aakjaer/aakjaer7/aakj7034"/>
+          <pb n="35" xml:id="n35" facs="adl/aakjaer/aakjaer7/aakj7035"/>
+          <pb n="36" xml:id="n36" facs="adl/aakjaer/aakjaer7/aakj7036"/>
+          <pb n="37" xml:id="n37" facs="adl/aakjaer/aakjaer7/aakj7037"/>
+          <pb n="38" xml:id="n38" facs="adl/aakjaer/aakjaer7/aakj7038"/>
+          <pb n="39" xml:id="n39" facs="adl/aakjaer/aakjaer7/aakj7039"/>
+          <pb n="40" xml:id="n40" facs="adl/aakjaer/aakjaer7/aakj7040"/>
+          <pb n="41" xml:id="n41" facs="adl/aakjaer/aakjaer7/aakj7041"/>
+          <pb n="42" xml:id="n42" facs="adl/aakjaer/aakjaer7/aakj7042"/>
+          <p xml:id="idm140240949639264"/>
+        </body>
+      </text>
+      <pb n="43" xml:id="n43" facs="adl/aakjaer/aakjaer7/aakj7043"/>
+      <text xml:id="workid54880" decls="#biblid54880">
+        <body xml:id="idm140240949636704">
+          <pb n="44" xml:id="n44" facs="adl/aakjaer/aakjaer7/aakj7044"/>
+          <pb n="45" xml:id="n45" facs="adl/aakjaer/aakjaer7/aakj7045"/>
+          <pb n="46" xml:id="n46" facs="adl/aakjaer/aakjaer7/aakj7046"/>
+          <pb n="47" xml:id="n47" facs="adl/aakjaer/aakjaer7/aakj7047"/>
+          <pb n="48" xml:id="n48" facs="adl/aakjaer/aakjaer7/aakj7048"/>
+          <pb n="49" xml:id="n49" facs="adl/aakjaer/aakjaer7/aakj7049"/>
+          <pb n="50" xml:id="n50" facs="adl/aakjaer/aakjaer7/aakj7050"/>
+          <pb n="51" xml:id="n51" facs="adl/aakjaer/aakjaer7/aakj7051"/>
+          <pb n="52" xml:id="n52" facs="adl/aakjaer/aakjaer7/aakj7052"/>
+          <pb n="53" xml:id="n53" facs="adl/aakjaer/aakjaer7/aakj7053"/>
+          <pb n="54" xml:id="n54" facs="adl/aakjaer/aakjaer7/aakj7054"/>
+          <pb n="55" xml:id="n55" facs="adl/aakjaer/aakjaer7/aakj7055"/>
+          <p xml:id="idm140240949622960"/>
+        </body>
+      </text>
+      <pb n="56" xml:id="n56" facs="adl/aakjaer/aakjaer7/aakj7056"/>
+      <text xml:id="workid55009" decls="#biblid55009">
+        <body xml:id="idm140240949620400">
+          <pb n="57" xml:id="n57" facs="adl/aakjaer/aakjaer7/aakj7057"/>
+          <pb n="58" xml:id="n58" facs="adl/aakjaer/aakjaer7/aakj7058"/>
+          <pb n="59" xml:id="n59" facs="adl/aakjaer/aakjaer7/aakj7059"/>
+          <pb n="60" xml:id="n60" facs="adl/aakjaer/aakjaer7/aakj7060"/>
+          <pb n="61" xml:id="n61" facs="adl/aakjaer/aakjaer7/aakj7061"/>
+          <pb n="62" xml:id="n62" facs="adl/aakjaer/aakjaer7/aakj7062"/>
+          <pb n="63" xml:id="n63" facs="adl/aakjaer/aakjaer7/aakj7063"/>
+          <pb n="64" xml:id="n64" facs="adl/aakjaer/aakjaer7/aakj7064"/>
+          <pb n="65" xml:id="n65" facs="adl/aakjaer/aakjaer7/aakj7065"/>
+          <pb n="66" xml:id="n66" facs="adl/aakjaer/aakjaer7/aakj7066"/>
+          <pb n="67" xml:id="n67" facs="adl/aakjaer/aakjaer7/aakj7067"/>
+          <pb n="68" xml:id="n68" facs="adl/aakjaer/aakjaer7/aakj7068"/>
+          <pb n="69" xml:id="n69" facs="adl/aakjaer/aakjaer7/aakj7069"/>
+          <pb n="70" xml:id="n70" facs="adl/aakjaer/aakjaer7/aakj7070"/>
+          <pb n="71" xml:id="n71" facs="adl/aakjaer/aakjaer7/aakj7071"/>
+          <pb n="72" xml:id="n72" facs="adl/aakjaer/aakjaer7/aakj7072"/>
+          <pb n="73" xml:id="n73" facs="adl/aakjaer/aakjaer7/aakj7073"/>
+          <pb n="74" xml:id="n74" facs="adl/aakjaer/aakjaer7/aakj7074"/>
+          <pb n="75" xml:id="n75" facs="adl/aakjaer/aakjaer7/aakj7075"/>
+          <pb n="76" xml:id="n76" facs="adl/aakjaer/aakjaer7/aakj7076"/>
+          <pb n="77" xml:id="n77" facs="adl/aakjaer/aakjaer7/aakj7077"/>
+          <pb n="78" xml:id="n78" facs="adl/aakjaer/aakjaer7/aakj7078"/>
+          <pb n="79" xml:id="n79" facs="adl/aakjaer/aakjaer7/aakj7079"/>
+          <pb n="80" xml:id="n80" facs="adl/aakjaer/aakjaer7/aakj7080"/>
+          <pb n="81" xml:id="n81" facs="adl/aakjaer/aakjaer7/aakj7081"/>
+          <pb n="82" xml:id="n82" facs="adl/aakjaer/aakjaer7/aakj7082"/>
+          <pb n="83" xml:id="n83" facs="adl/aakjaer/aakjaer7/aakj7083"/>
+          <pb n="84" xml:id="n84" facs="adl/aakjaer/aakjaer7/aakj7084"/>
+          <pb n="85" xml:id="n85" facs="adl/aakjaer/aakjaer7/aakj7085"/>
+          <pb n="86" xml:id="n86" facs="adl/aakjaer/aakjaer7/aakj7086"/>
+          <pb n="87" xml:id="n87" facs="adl/aakjaer/aakjaer7/aakj7087"/>
+          <pb n="88" xml:id="n88" facs="adl/aakjaer/aakjaer7/aakj7088"/>
+          <pb n="89" xml:id="n89" facs="adl/aakjaer/aakjaer7/aakj7089"/>
+          <pb n="90" xml:id="n90" facs="adl/aakjaer/aakjaer7/aakj7090"/>
+          <pb n="91" xml:id="n91" facs="adl/aakjaer/aakjaer7/aakj7091"/>
+          <pb n="92" xml:id="n92" facs="adl/aakjaer/aakjaer7/aakj7092"/>
+          <pb n="93" xml:id="n93" facs="adl/aakjaer/aakjaer7/aakj7093"/>
+          <pb n="94" xml:id="n94" facs="adl/aakjaer/aakjaer7/aakj7094"/>
+          <pb n="95" xml:id="n95" facs="adl/aakjaer/aakjaer7/aakj7095"/>
+          <pb n="96" xml:id="n96" facs="adl/aakjaer/aakjaer7/aakj7096"/>
+          <pb n="97" xml:id="n97" facs="adl/aakjaer/aakjaer7/aakj7097"/>
+          <pb n="98" xml:id="n98" facs="adl/aakjaer/aakjaer7/aakj7098"/>
+          <pb n="99" xml:id="n99" facs="adl/aakjaer/aakjaer7/aakj7099"/>
+          <pb n="100" xml:id="n100" facs="adl/aakjaer/aakjaer7/aakj7100"/>
+          <pb n="101" xml:id="n101" facs="adl/aakjaer/aakjaer7/aakj7101"/>
+          <pb n="102" xml:id="n102" facs="adl/aakjaer/aakjaer7/aakj7102"/>
+          <pb n="103" xml:id="n103" facs="adl/aakjaer/aakjaer7/aakj7103"/>
+          <pb n="104" xml:id="n104" facs="adl/aakjaer/aakjaer7/aakj7104"/>
+          <pb n="105" xml:id="n105" facs="adl/aakjaer/aakjaer7/aakj7105"/>
+          <pb n="106" xml:id="n106" facs="adl/aakjaer/aakjaer7/aakj7106"/>
+          <pb n="107" xml:id="n107" facs="adl/aakjaer/aakjaer7/aakj7107"/>
+          <pb n="108" xml:id="n108" facs="adl/aakjaer/aakjaer7/aakj7108"/>
+          <pb n="109" xml:id="n109" facs="adl/aakjaer/aakjaer7/aakj7109"/>
+          <pb n="110" xml:id="n110" facs="adl/aakjaer/aakjaer7/aakj7110"/>
+          <pb n="111" xml:id="n111" facs="adl/aakjaer/aakjaer7/aakj7111"/>
+          <pb n="112" xml:id="n112" facs="adl/aakjaer/aakjaer7/aakj7112"/>
+          <pb n="113" xml:id="n113" facs="adl/aakjaer/aakjaer7/aakj7113"/>
+          <pb n="114" xml:id="n114" facs="adl/aakjaer/aakjaer7/aakj7114"/>
+          <pb n="115" xml:id="n115" facs="adl/aakjaer/aakjaer7/aakj7115"/>
+          <pb n="116" xml:id="n116" facs="adl/aakjaer/aakjaer7/aakj7116"/>
+          <pb n="117" xml:id="n117" facs="adl/aakjaer/aakjaer7/aakj7117"/>
+          <pb n="118" xml:id="n118" facs="adl/aakjaer/aakjaer7/aakj7118"/>
+          <pb n="119" xml:id="n119" facs="adl/aakjaer/aakjaer7/aakj7119"/>
+          <pb n="120" xml:id="n120" facs="adl/aakjaer/aakjaer7/aakj7120"/>
+          <pb n="121" xml:id="n121" facs="adl/aakjaer/aakjaer7/aakj7121"/>
+          <pb n="122" xml:id="n122" facs="adl/aakjaer/aakjaer7/aakj7122"/>
+          <p xml:id="idm140240949542880"/>
+        </body>
+      </text>
+      <pb n="123" xml:id="n123" facs="adl/aakjaer/aakjaer7/aakj7123"/>
+      <text xml:id="workid55699" decls="#biblid55699">
+        <body xml:id="idm140240949540160">
+          <pb n="124" xml:id="n124" facs="adl/aakjaer/aakjaer7/aakj7124"/>
+          <pb n="125" xml:id="n125" facs="adl/aakjaer/aakjaer7/aakj7125"/>
+          <pb n="126" xml:id="n126" facs="adl/aakjaer/aakjaer7/aakj7126"/>
+          <pb n="127" xml:id="n127" facs="adl/aakjaer/aakjaer7/aakj7127"/>
+          <pb n="128" xml:id="n128" facs="adl/aakjaer/aakjaer7/aakj7128"/>
+          <pb n="129" xml:id="n129" facs="adl/aakjaer/aakjaer7/aakj7129"/>
+          <pb n="130" xml:id="n130" facs="adl/aakjaer/aakjaer7/aakj7130"/>
+          <pb n="131" xml:id="n131" facs="adl/aakjaer/aakjaer7/aakj7131"/>
+          <p xml:id="idm140240949530192"/>
+        </body>
+      </text>
+      <pb n="132" xml:id="n132" facs="adl/aakjaer/aakjaer7/aakj7132"/>
+      <text xml:id="workid55798" decls="#biblid55798">
+        <body xml:id="idm140240949527552">
+          <pb n="133" xml:id="n133" facs="adl/aakjaer/aakjaer7/aakj7133"/>
+          <pb n="134" xml:id="n134" facs="adl/aakjaer/aakjaer7/aakj7134"/>
+          <pb n="135" xml:id="n135" facs="adl/aakjaer/aakjaer7/aakj7135"/>
+          <pb n="136" xml:id="n136" facs="adl/aakjaer/aakjaer7/aakj7136"/>
+          <p xml:id="idm140240949522496"/>
+        </body>
+      </text>
+      <pb n="137" xml:id="n137" facs="adl/aakjaer/aakjaer7/aakj7137"/>
+      <text xml:id="workid55856" decls="#biblid55856">
+        <body xml:id="idm140240949519856">
+          <pb n="138" xml:id="n138" facs="adl/aakjaer/aakjaer7/aakj7138"/>
+          <pb n="139" xml:id="n139" facs="adl/aakjaer/aakjaer7/aakj7139"/>
+          <pb n="140" xml:id="n140" facs="adl/aakjaer/aakjaer7/aakj7140"/>
+          <pb n="141" xml:id="n141" facs="adl/aakjaer/aakjaer7/aakj7141"/>
+          <pb n="142" xml:id="n142" facs="adl/aakjaer/aakjaer7/aakj7142"/>
+          <pb n="143" xml:id="n143" facs="adl/aakjaer/aakjaer7/aakj7143"/>
+          <pb n="144" xml:id="n144" facs="adl/aakjaer/aakjaer7/aakj7144"/>
+          <pb n="145" xml:id="n145" facs="adl/aakjaer/aakjaer7/aakj7145"/>
+          <pb n="146" xml:id="n146" facs="adl/aakjaer/aakjaer7/aakj7146"/>
+          <pb n="147" xml:id="n147" facs="adl/aakjaer/aakjaer7/aakj7147"/>
+          <p xml:id="idm140240949507360"/>
+        </body>
+      </text>
+      <pb n="148" xml:id="n148" facs="adl/aakjaer/aakjaer7/aakj7148"/>
+      <text xml:id="workid55975" decls="#biblid55975">
+        <body xml:id="idm140240949504720">
+          <pb n="149" xml:id="n149" facs="adl/aakjaer/aakjaer7/aakj7149"/>
+          <pb n="150" xml:id="n150" facs="adl/aakjaer/aakjaer7/aakj7150"/>
+          <pb n="151" xml:id="n151" facs="adl/aakjaer/aakjaer7/aakj7151"/>
+          <pb n="152" xml:id="n152" facs="adl/aakjaer/aakjaer7/aakj7152"/>
+          <pb n="153" xml:id="n153" facs="adl/aakjaer/aakjaer7/aakj7153"/>
+          <pb n="154" xml:id="n154" facs="adl/aakjaer/aakjaer7/aakj7154"/>
+          <pb n="155" xml:id="n155" facs="adl/aakjaer/aakjaer7/aakj7155"/>
+          <pb n="156" xml:id="n156" facs="adl/aakjaer/aakjaer7/aakj7156"/>
+          <pb n="157" xml:id="n157" facs="adl/aakjaer/aakjaer7/aakj7157"/>
+          <pb n="158" xml:id="n158" facs="adl/aakjaer/aakjaer7/aakj7158"/>
+          <p xml:id="idm140240949492192"/>
+        </body>
+      </text>
+      <pb n="159" xml:id="n159" facs="adl/aakjaer/aakjaer7/aakj7159"/>
+      <text xml:id="workid56095" decls="#biblid56095">
+        <body xml:id="idm140240949489520">
+          <pb n="160" xml:id="n160" facs="adl/aakjaer/aakjaer7/aakj7160"/>
+          <pb n="161" xml:id="n161" facs="adl/aakjaer/aakjaer7/aakj7161"/>
+          <pb n="162" xml:id="n162" facs="adl/aakjaer/aakjaer7/aakj7162"/>
+          <p xml:id="idm140240949485632"/>
+        </body>
+      </text>
+      <pb n="163" xml:id="n163" facs="adl/aakjaer/aakjaer7/aakj7163"/>
+      <text xml:id="workid56143" decls="#biblid56143">
+        <body xml:id="idm140240949482976">
+          <pb n="164" xml:id="n164" facs="adl/aakjaer/aakjaer7/aakj7164"/>
+          <pb n="165" xml:id="n165" facs="adl/aakjaer/aakjaer7/aakj7165"/>
+          <p xml:id="idm140240949480128"/>
+        </body>
+      </text>
+      <pb n="166" xml:id="n166" facs="adl/aakjaer/aakjaer7/aakj7166"/>
+      <text xml:id="workid56180" decls="#biblid56180">
+        <body xml:id="idm140240949477472">
+          <pb n="167" xml:id="n167" facs="adl/aakjaer/aakjaer7/aakj7167"/>
+          <pb n="168" xml:id="n168" facs="adl/aakjaer/aakjaer7/aakj7168"/>
+          <pb n="169" xml:id="n169" facs="adl/aakjaer/aakjaer7/aakj7169"/>
+          <pb n="170" xml:id="n170" facs="adl/aakjaer/aakjaer7/aakj7170"/>
+          <pb n="171" xml:id="n171" facs="adl/aakjaer/aakjaer7/aakj7171"/>
+          <pb n="172" xml:id="n172" facs="adl/aakjaer/aakjaer7/aakj7172"/>
+          <pb n="173" xml:id="n173" facs="adl/aakjaer/aakjaer7/aakj7173"/>
+          <pb n="174" xml:id="n174" facs="adl/aakjaer/aakjaer7/aakj7174"/>
+          <p xml:id="idm140240949467440"/>
+        </body>
+      </text>
+      <pb n="175" xml:id="n175" facs="adl/aakjaer/aakjaer7/aakj7175"/>
+      <text xml:id="workid56279" decls="#biblid56279">
+        <body xml:id="idm140240949464832">
+          <pb n="176" xml:id="n176" facs="adl/aakjaer/aakjaer7/aakj7176"/>
+          <pb n="177" xml:id="n177" facs="adl/aakjaer/aakjaer7/aakj7177"/>
+          <pb n="178" xml:id="n178" facs="adl/aakjaer/aakjaer7/aakj7178"/>
+          <pb n="179" xml:id="n179" facs="adl/aakjaer/aakjaer7/aakj7179"/>
+          <pb n="180" xml:id="n180" facs="adl/aakjaer/aakjaer7/aakj7180"/>
+          <pb n="181" xml:id="n181" facs="adl/aakjaer/aakjaer7/aakj7181"/>
+          <pb n="182" xml:id="n182" facs="adl/aakjaer/aakjaer7/aakj7182"/>
+          <pb n="183" xml:id="n183" facs="adl/aakjaer/aakjaer7/aakj7183"/>
+          <pb n="184" xml:id="n184" facs="adl/aakjaer/aakjaer7/aakj7184"/>
+          <p xml:id="idm140240949453664"/>
+        </body>
+      </text>
+      <pb n="185" xml:id="n185" facs="adl/aakjaer/aakjaer7/aakj7185"/>
+      <text xml:id="workid56387" decls="#biblid56387">
+        <body xml:id="idm140240949450848">
+          <pb n="186" xml:id="n186" facs="adl/aakjaer/aakjaer7/aakj7186"/>
+          <pb n="187" xml:id="n187" facs="adl/aakjaer/aakjaer7/aakj7187"/>
+          <pb n="188" xml:id="n188" facs="adl/aakjaer/aakjaer7/aakj7188"/>
+          <pb n="189" xml:id="n189" facs="adl/aakjaer/aakjaer7/aakj7189"/>
+          <pb n="190" xml:id="n190" facs="adl/aakjaer/aakjaer7/aakj7190"/>
+          <pb n="191" xml:id="n191" facs="adl/aakjaer/aakjaer7/aakj7191"/>
+          <pb n="192" xml:id="n192" facs="adl/aakjaer/aakjaer7/aakj7192"/>
+          <pb n="193" xml:id="n193" facs="adl/aakjaer/aakjaer7/aakj7193"/>
+          <pb n="194" xml:id="n194" facs="adl/aakjaer/aakjaer7/aakj7194"/>
+          <pb n="195" xml:id="n195" facs="adl/aakjaer/aakjaer7/aakj7195"/>
+          <p xml:id="idm140240949438192"/>
+        </body>
+      </text>
+      <pb n="196" xml:id="n196" facs="adl/aakjaer/aakjaer7/aakj7196"/>
+      <text xml:id="workid56504" decls="#biblid56504">
+        <body xml:id="idm140240949435536">
+          <pb n="197" xml:id="n197" facs="adl/aakjaer/aakjaer7/aakj7197"/>
+          <pb n="198" xml:id="n198" facs="adl/aakjaer/aakjaer7/aakj7198"/>
+          <pb n="199" xml:id="n199" facs="adl/aakjaer/aakjaer7/aakj7199"/>
+          <pb n="200" xml:id="n200" facs="adl/aakjaer/aakjaer7/aakj7200"/>
+          <pb n="201" xml:id="n201" facs="adl/aakjaer/aakjaer7/aakj7201"/>
+          <pb n="202" xml:id="n202" facs="adl/aakjaer/aakjaer7/aakj7202"/>
+          <pb n="203" xml:id="n203" facs="adl/aakjaer/aakjaer7/aakj7203"/>
+          <pb n="204" xml:id="n204" facs="adl/aakjaer/aakjaer7/aakj7204"/>
+          <pb n="205" xml:id="n205" facs="adl/aakjaer/aakjaer7/aakj7205"/>
+          <pb n="206" xml:id="n206" facs="adl/aakjaer/aakjaer7/aakj7206"/>
+          <pb n="207" xml:id="n207" facs="adl/aakjaer/aakjaer7/aakj7207"/>
+          <pb n="208" xml:id="n208" facs="adl/aakjaer/aakjaer7/aakj7208"/>
+          <p xml:id="idm140240949420384"/>
+        </body>
+      </text>
+      <pb n="209" xml:id="n209" facs="adl/aakjaer/aakjaer7/aakj7209"/>
+      <text xml:id="workid56644" decls="#biblid56644">
+        <body xml:id="idm140240949417728">
+          <pb n="210" xml:id="n210" facs="adl/aakjaer/aakjaer7/aakj7210"/>
+          <pb n="211" xml:id="n211" facs="adl/aakjaer/aakjaer7/aakj7211"/>
+          <pb n="212" xml:id="n212" facs="adl/aakjaer/aakjaer7/aakj7212"/>
+          <p xml:id="idm140240949413744"/>
+        </body>
+      </text>
+      <pb n="213" xml:id="n213" facs="adl/aakjaer/aakjaer7/aakj7213"/>
+      <text xml:id="workid56693" decls="#biblid56693">
+        <body xml:id="idm140240949411024">
+          <pb n="214" xml:id="n214" facs="adl/aakjaer/aakjaer7/aakj7214"/>
+          <pb n="215" xml:id="n215" facs="adl/aakjaer/aakjaer7/aakj7215"/>
+          <pb n="216" xml:id="n216" facs="adl/aakjaer/aakjaer7/aakj7216"/>
+          <pb n="217" xml:id="n217" facs="adl/aakjaer/aakjaer7/aakj7217"/>
+          <p xml:id="idm140240949405888"/>
+        </body>
+      </text>
+      <pb n="218" xml:id="n218" facs="adl/aakjaer/aakjaer7/aakj7218"/>
+      <text xml:id="workid56752" decls="#biblid56752">
+        <body xml:id="idm140240949403248">
+          <pb n="219" xml:id="n219" facs="adl/aakjaer/aakjaer7/aakj7219"/>
+          <pb n="220" xml:id="n220" facs="adl/aakjaer/aakjaer7/aakj7220"/>
+          <pb n="221" xml:id="n221" facs="adl/aakjaer/aakjaer7/aakj7221"/>
+          <pb n="222" xml:id="n222" facs="adl/aakjaer/aakjaer7/aakj7222"/>
+          <pb n="223" xml:id="n223" facs="adl/aakjaer/aakjaer7/aakj7223"/>
+          <pb n="224" xml:id="n224" facs="adl/aakjaer/aakjaer7/aakj7224"/>
+          <pb n="225" xml:id="n225" facs="adl/aakjaer/aakjaer7/aakj7225"/>
+          <p xml:id="idm140240949394544"/>
+        </body>
+      </text>
+      <pb n="226" xml:id="n226" facs="adl/aakjaer/aakjaer7/aakj7226"/>
+      <text xml:id="workid56839" decls="#biblid56839">
+        <body xml:id="idm140240949391936">
+          <pb n="227" xml:id="n227" facs="adl/aakjaer/aakjaer7/aakj7227"/>
+          <pb n="228" xml:id="n228" facs="adl/aakjaer/aakjaer7/aakj7228"/>
+          <pb n="229" xml:id="n229" facs="adl/aakjaer/aakjaer7/aakj7229"/>
+          <pb n="230" xml:id="n230" facs="adl/aakjaer/aakjaer7/aakj7230"/>
+          <pb n="231" xml:id="n231" facs="adl/aakjaer/aakjaer7/aakj7231"/>
+          <pb n="232" xml:id="n232" facs="adl/aakjaer/aakjaer7/aakj7232"/>
+          <p xml:id="idm140240949384112"/>
+        </body>
+      </text>
+      <pb n="233" xml:id="n233" facs="adl/aakjaer/aakjaer7/aakj7233"/>
+      <text xml:id="workid56918" decls="#biblid56918">
+        <body xml:id="idm140240949381392">
+          <pb n="234" xml:id="n234" facs="adl/aakjaer/aakjaer7/aakj7234"/>
+          <pb n="235" xml:id="n235" facs="adl/aakjaer/aakjaer7/aakj7235"/>
+          <pb n="236" xml:id="n236" facs="adl/aakjaer/aakjaer7/aakj7236"/>
+          <pb n="237" xml:id="n237" facs="adl/aakjaer/aakjaer7/aakj7237"/>
+          <p xml:id="idm140240949376144"/>
+        </body>
+      </text>
+      <pb n="238" xml:id="n238" facs="adl/aakjaer/aakjaer7/aakj7238"/>
+      <text xml:id="workid56976" decls="#biblid56976">
+        <body xml:id="idm140240949373504">
+          <pb n="239" xml:id="n239" facs="adl/aakjaer/aakjaer7/aakj7239"/>
+          <pb n="240" xml:id="n240" facs="adl/aakjaer/aakjaer7/aakj7240"/>
+          <pb n="241" xml:id="n241" facs="adl/aakjaer/aakjaer7/aakj7241"/>
+          <pb n="242" xml:id="n242" facs="adl/aakjaer/aakjaer7/aakj7242"/>
+          <pb n="243" xml:id="n243" facs="adl/aakjaer/aakjaer7/aakj7243"/>
+          <pb n="244" xml:id="n244" facs="adl/aakjaer/aakjaer7/aakj7244"/>
+          <pb n="245" xml:id="n245" facs="adl/aakjaer/aakjaer7/aakj7245"/>
+          <pb n="246" xml:id="n246" facs="adl/aakjaer/aakjaer7/aakj7246"/>
+          <pb n="247" xml:id="n247" facs="adl/aakjaer/aakjaer7/aakj7247"/>
+          <pb n="248" xml:id="n248" facs="adl/aakjaer/aakjaer7/aakj7248"/>
+          <pb n="249" xml:id="n249" facs="adl/aakjaer/aakjaer7/aakj7249"/>
+          <pb n="250" xml:id="n250" facs="adl/aakjaer/aakjaer7/aakj7250"/>
+          <pb n="251" xml:id="n251" facs="adl/aakjaer/aakjaer7/aakj7251"/>
+          <pb n="252" xml:id="n252" facs="adl/aakjaer/aakjaer7/aakj7252"/>
+          <p xml:id="idm140240949355904"/>
+        </body>
+      </text>
+      <pb n="253" xml:id="n253" facs="adl/aakjaer/aakjaer7/aakj7253"/>
+      <text xml:id="workid57132" decls="#biblid57132">
+        <body xml:id="idm140240949353136">
+          <pb n="254" xml:id="n254" facs="adl/aakjaer/aakjaer7/aakj7254"/>
+          <pb n="255" xml:id="n255" facs="adl/aakjaer/aakjaer7/aakj7255"/>
+          <pb n="256" xml:id="n256" facs="adl/aakjaer/aakjaer7/aakj7256"/>
+          <pb n="257" xml:id="n257" facs="adl/aakjaer/aakjaer7/aakj7257"/>
+          <pb n="258" xml:id="n258" facs="adl/aakjaer/aakjaer7/aakj7258"/>
+          <p xml:id="idm140240949346720"/>
+        </body>
+      </text>
+      <pb n="259" xml:id="n259" facs="adl/aakjaer/aakjaer7/aakj7259"/>
+      <text xml:id="workid57201" decls="#biblid57201">
+        <body xml:id="idm140240949344016">
+          <pb n="260" xml:id="n260" facs="adl/aakjaer/aakjaer7/aakj7260"/>
+          <pb n="261" xml:id="n261" facs="adl/aakjaer/aakjaer7/aakj7261"/>
+          <pb n="262" xml:id="n262" facs="adl/aakjaer/aakjaer7/aakj7262"/>
+          <pb n="263" xml:id="n263" facs="adl/aakjaer/aakjaer7/aakj7263"/>
+          <pb n="264" xml:id="n264" facs="adl/aakjaer/aakjaer7/aakj7264"/>
+          <pb n="265" xml:id="n265" facs="adl/aakjaer/aakjaer7/aakj7265"/>
+          <pb n="266" xml:id="n266" facs="adl/aakjaer/aakjaer7/aakj7266"/>
+          <pb n="267" xml:id="n267" facs="adl/aakjaer/aakjaer7/aakj7267"/>
+          <pb n="268" xml:id="n268" facs="adl/aakjaer/aakjaer7/aakj7268"/>
+          <pb n="269" xml:id="n269" facs="adl/aakjaer/aakjaer7/aakj7269"/>
+          <p xml:id="idm140240949331456"/>
+        </body>
+      </text>
+      <pb n="270" xml:id="n270" facs="adl/aakjaer/aakjaer7/aakj7270"/>
+      <text xml:id="workid57321" decls="#biblid57321">
+        <body xml:id="idm140240949328800">
+          <pb n="271" xml:id="n271" facs="adl/aakjaer/aakjaer7/aakj7271"/>
+          <pb n="272" xml:id="n272" facs="adl/aakjaer/aakjaer7/aakj7272"/>
+          <pb n="273" xml:id="n273" facs="adl/aakjaer/aakjaer7/aakj7273"/>
+          <pb n="274" xml:id="n274" facs="adl/aakjaer/aakjaer7/aakj7274"/>
+          <pb n="275" xml:id="n275" facs="adl/aakjaer/aakjaer7/aakj7275"/>
+          <p xml:id="idm140240949322320"/>
+        </body>
+      </text>
+      <pb n="276" xml:id="n276" facs="adl/aakjaer/aakjaer7/aakj7276"/>
+      <text xml:id="workid54304" decls="#biblid54304">
+        <body xml:id="idm140240949319552">
+          <pb n="277" xml:id="n277" facs="adl/aakjaer/aakjaer7/aakj7277"/>
+          <pb n="278" xml:id="n278" facs="adl/aakjaer/aakjaer7/aakj7278"/>
+          <pb n="279" xml:id="n279" facs="adl/aakjaer/aakjaer7/aakj7279"/>
+          <pb n="280" xml:id="n280" facs="adl/aakjaer/aakjaer7/aakj7280"/>
+          <pb n="281" xml:id="n281" facs="adl/aakjaer/aakjaer7/aakj7281"/>
+          <pb n="282" xml:id="n282" facs="adl/aakjaer/aakjaer7/aakj7282"/>
+          <pb n="283" xml:id="n283" facs="adl/aakjaer/aakjaer7/aakj7283"/>
+          <pb n="284" xml:id="n284" facs="adl/aakjaer/aakjaer7/aakj7284"/>
+          <p xml:id="idm140240949309296"/>
+        </body>
+      </text>
+      <pb n="285" xml:id="n285" facs="adl/aakjaer/aakjaer7/aakj7285"/>
+      <text xml:id="workid54401" decls="#biblid54401">
+        <body xml:id="idm140240949306576">
+          <pb n="286" xml:id="n286" facs="adl/aakjaer/aakjaer7/aakj7286"/>
+          <pb n="287" xml:id="n287" facs="adl/aakjaer/aakjaer7/aakj7287"/>
+          <pb n="288" xml:id="n288" facs="adl/aakjaer/aakjaer7/aakj7288"/>
+          <pb n="289" xml:id="n289" facs="adl/aakjaer/aakjaer7/aakj7289"/>
+          <p xml:id="idm140240949301392"/>
+        </body>
+      </text>
+      <pb n="290" xml:id="n290" facs="adl/aakjaer/aakjaer7/aakj7290"/>
+      <text xml:id="workid54459" decls="#biblid54459">
+        <body xml:id="idm140240949298688">
+          <pb n="291" xml:id="n291" facs="adl/aakjaer/aakjaer7/aakj7291"/>
+          <pb n="292" xml:id="n292" facs="adl/aakjaer/aakjaer7/aakj7292"/>
+          <pb n="293" xml:id="n293" facs="adl/aakjaer/aakjaer7/aakj7293"/>
+          <pb n="294" xml:id="n294" facs="adl/aakjaer/aakjaer7/aakj7294"/>
+          <pb n="295" xml:id="n295" facs="adl/aakjaer/aakjaer7/aakj7295"/>
+          <pb n="296" xml:id="n296" facs="adl/aakjaer/aakjaer7/aakj7296"/>
+          <p xml:id="idm140240949291120"/>
+        </body>
+      </text>
+      <pb n="297" xml:id="n297" facs="adl/aakjaer/aakjaer7/aakj7297"/>
+      <text xml:id="workid57420" decls="#biblid57420">
+        <body xml:id="idm140240949288304">
+          <pb n="298" xml:id="n298" facs="adl/aakjaer/aakjaer7/aakj7298"/>
+          <pb n="299" xml:id="n299" facs="adl/aakjaer/aakjaer7/aakj7299"/>
+          <pb n="300" xml:id="n300" facs="adl/aakjaer/aakjaer7/aakj7300"/>
+          <pb n="301" xml:id="n301" facs="adl/aakjaer/aakjaer7/aakj7301"/>
+          <pb n="302" xml:id="n302" facs="adl/aakjaer/aakjaer7/aakj7302"/>
+          <pb n="303" xml:id="n303" facs="adl/aakjaer/aakjaer7/aakj7303"/>
+          <p xml:id="idm140240949280800"/>
+        </body>
+      </text>
+      <pb n="304" xml:id="n304" facs="adl/aakjaer/aakjaer7/aakj7304"/>
+      <text xml:id="workid57498" decls="#biblid57498">
+        <body xml:id="idm140240949277984">
+          <pb n="305" xml:id="n305" facs="adl/aakjaer/aakjaer7/aakj7305"/>
+          <pb n="306" xml:id="n306" facs="adl/aakjaer/aakjaer7/aakj7306"/>
+          <pb n="307" xml:id="n307" facs="adl/aakjaer/aakjaer7/aakj7307"/>
+          <pb n="308" xml:id="n308" facs="adl/aakjaer/aakjaer7/aakj7308"/>
+          <pb n="309" xml:id="n309" facs="adl/aakjaer/aakjaer7/aakj7309"/>
+          <pb n="310" xml:id="n310" facs="adl/aakjaer/aakjaer7/aakj7310"/>
+          <pb n="311" xml:id="n311" facs="adl/aakjaer/aakjaer7/aakj7311"/>
+          <p xml:id="idm140240949269184"/>
+        </body>
+      </text>
+      <pb n="312" xml:id="n312" facs="adl/aakjaer/aakjaer7/aakj7312"/>
+      <text xml:id="workid57585" decls="#biblid57585">
+        <body xml:id="idm140240949266464">
+          <pb n="313" xml:id="n313" facs="adl/aakjaer/aakjaer7/aakj7313"/>
+          <pb n="314" xml:id="n314" facs="adl/aakjaer/aakjaer7/aakj7314"/>
+          <pb n="315" xml:id="n315" facs="adl/aakjaer/aakjaer7/aakj7315"/>
+          <pb n="316" xml:id="n316" facs="adl/aakjaer/aakjaer7/aakj7316"/>
+          <pb n="317" xml:id="n317" facs="adl/aakjaer/aakjaer7/aakj7317"/>
+          <p xml:id="idm140240949260192"/>
+        </body>
+      </text>
+      <pb n="318" xml:id="n318" facs="adl/aakjaer/aakjaer7/aakj7318"/>
+      <text xml:id="workid57652" decls="#biblid57652">
+        <body xml:id="idm140240949257376">
+          <pb n="319" xml:id="n319" facs="adl/aakjaer/aakjaer7/aakj7319"/>
+          <pb n="320" xml:id="n320" facs="adl/aakjaer/aakjaer7/aakj7320"/>
+          <pb n="321" xml:id="n321" facs="adl/aakjaer/aakjaer7/aakj7321"/>
+          <pb n="322" xml:id="n322" facs="adl/aakjaer/aakjaer7/aakj7322"/>
+          <pb n="323" xml:id="n323" facs="adl/aakjaer/aakjaer7/aakj7323"/>
+          <pb n="324" xml:id="n324" facs="adl/aakjaer/aakjaer7/aakj7324"/>
+          <pb n="325" xml:id="n325" facs="adl/aakjaer/aakjaer7/aakj7325"/>
+          <pb n="326" xml:id="n326" facs="adl/aakjaer/aakjaer7/aakj7326"/>
+          <pb n="327" xml:id="n327" facs="adl/aakjaer/aakjaer7/aakj7327"/>
+          <pb n="328" xml:id="n328" facs="adl/aakjaer/aakjaer7/aakj7328"/>
+          <pb n="329" xml:id="n329" facs="adl/aakjaer/aakjaer7/aakj7329"/>
+          <p xml:id="idm140240949243360"/>
+        </body>
+      </text>
+      <pb n="330" xml:id="n330" facs="adl/aakjaer/aakjaer7/aakj7330"/>
+      <text xml:id="workid57778" decls="#biblid57778">
+        <body xml:id="idm140240949240592">
+          <pb n="331" xml:id="n331" facs="adl/aakjaer/aakjaer7/aakj7331"/>
+          <pb n="332" xml:id="n332" facs="adl/aakjaer/aakjaer7/aakj7332"/>
+          <pb n="333" xml:id="n333" facs="adl/aakjaer/aakjaer7/aakj7333"/>
+          <pb n="334" xml:id="n334" facs="adl/aakjaer/aakjaer7/aakj7334"/>
+          <pb n="335" xml:id="n335" facs="adl/aakjaer/aakjaer7/aakj7335"/>
+          <pb n="336" xml:id="n336" facs="adl/aakjaer/aakjaer7/aakj7336"/>
+          <pb n="337" xml:id="n337" facs="adl/aakjaer/aakjaer7/aakj7337"/>
+          <pb n="338" xml:id="n338" facs="adl/aakjaer/aakjaer7/aakj7338"/>
+          <pb n="339" xml:id="n339" facs="adl/aakjaer/aakjaer7/aakj7339"/>
+          <pb n="340" xml:id="n340" facs="adl/aakjaer/aakjaer7/aakj7340"/>
+          <p xml:id="idm140240949227792"/>
+        </body>
+      </text>
+      <pb n="341" xml:id="n341" facs="adl/aakjaer/aakjaer7/aakj7341"/>
+      <text xml:id="workid57896" decls="#biblid57896">
+        <body xml:id="idm140240949225024">
+          <pb n="342" xml:id="n342" facs="adl/aakjaer/aakjaer7/aakj7342"/>
+          <pb n="343" xml:id="n343" facs="adl/aakjaer/aakjaer7/aakj7343"/>
+          <pb n="344" xml:id="n344" facs="adl/aakjaer/aakjaer7/aakj7344"/>
+          <pb n="345" xml:id="n345" facs="adl/aakjaer/aakjaer7/aakj7345"/>
+          <pb n="346" xml:id="n346" facs="adl/aakjaer/aakjaer7/aakj7346"/>
+          <pb n="347" xml:id="n347" facs="adl/aakjaer/aakjaer7/aakj7347"/>
+          <pb n="348" xml:id="n348" facs="adl/aakjaer/aakjaer7/aakj7348"/>
+          <pb n="349" xml:id="n349" facs="adl/aakjaer/aakjaer7/aakj7349"/>
+          <pb n="350" xml:id="n350" facs="adl/aakjaer/aakjaer7/aakj7350"/>
+          <pb n="351" xml:id="n351" facs="adl/aakjaer/aakjaer7/aakj7351"/>
+          <pb n="352" xml:id="n352" facs="adl/aakjaer/aakjaer7/aakj7352"/>
+          <pb n="353" xml:id="n353" facs="adl/aakjaer/aakjaer7/aakj7353"/>
+          <pb n="354" xml:id="n354" facs="adl/aakjaer/aakjaer7/aakj7354"/>
+          <pb n="355" xml:id="n355" facs="adl/aakjaer/aakjaer7/aakj7355"/>
+          <pb n="356" xml:id="n356" facs="adl/aakjaer/aakjaer7/aakj7356"/>
+          <pb n="357" xml:id="n357" facs="adl/aakjaer/aakjaer7/aakj7357"/>
+          <pb n="358" xml:id="n358" facs="adl/aakjaer/aakjaer7/aakj7358"/>
+          <pb n="359" xml:id="n359" facs="adl/aakjaer/aakjaer7/aakj7359"/>
+          <pb n="360" xml:id="n360" facs="adl/aakjaer/aakjaer7/aakj7360"/>
+          <pb n="361" xml:id="n361" facs="adl/aakjaer/aakjaer7/aakj7361"/>
+          <pb n="362" xml:id="n362" facs="adl/aakjaer/aakjaer7/aakj7362"/>
+          <pb n="363" xml:id="n363" facs="adl/aakjaer/aakjaer7/aakj7363"/>
+          <pb n="364" xml:id="n364" facs="adl/aakjaer/aakjaer7/aakj7364"/>
+          <pb n="365" xml:id="n365" facs="adl/aakjaer/aakjaer7/aakj7365"/>
+          <pb n="366" xml:id="n366" facs="adl/aakjaer/aakjaer7/aakj7366"/>
+          <pb n="367" xml:id="n367" facs="adl/aakjaer/aakjaer7/aakj7367"/>
+          <pb n="368" xml:id="n368" facs="adl/aakjaer/aakjaer7/aakj7368"/>
+          <pb n="369" xml:id="n369" facs="adl/aakjaer/aakjaer7/aakj7369"/>
+          <pb n="370" xml:id="n370" facs="adl/aakjaer/aakjaer7/aakj7370"/>
+          <pb n="371" xml:id="n371" facs="adl/aakjaer/aakjaer7/aakj7371"/>
+          <pb n="372" xml:id="n372" facs="adl/aakjaer/aakjaer7/aakj7372"/>
+          <pb n="373" xml:id="n373" facs="adl/aakjaer/aakjaer7/aakj7373"/>
+          <pb n="374" xml:id="n374" facs="adl/aakjaer/aakjaer7/aakj7374"/>
+          <p xml:id="idm140240949183632"/>
+        </body>
+      </text>
+      <pb n="375" xml:id="n375" facs="adl/aakjaer/aakjaer7/aakj7375"/>
+      <text xml:id="workid58238" decls="#biblid58238">
+        <body xml:id="idm140240949180912">
+          <pb n="376" xml:id="n376" facs="adl/aakjaer/aakjaer7/aakj7376"/>
+          <pb n="377" xml:id="n377" facs="adl/aakjaer/aakjaer7/aakj7377"/>
+          <pb n="378" xml:id="n378" facs="adl/aakjaer/aakjaer7/aakj7378"/>
+          <pb n="379" xml:id="n379" facs="adl/aakjaer/aakjaer7/aakj7379"/>
+          <pb n="380" xml:id="n380" facs="adl/aakjaer/aakjaer7/aakj7380"/>
+          <pb n="381" xml:id="n381" facs="adl/aakjaer/aakjaer7/aakj7381"/>
+          <pb n="382" xml:id="n382" facs="adl/aakjaer/aakjaer7/aakj7382"/>
+          <pb n="383" xml:id="n383" facs="adl/aakjaer/aakjaer7/aakj7383"/>
+          <pb n="384" xml:id="n384" facs="adl/aakjaer/aakjaer7/aakj7384"/>
+          <pb n="385" xml:id="n385" facs="adl/aakjaer/aakjaer7/aakj7385"/>
+          <pb n="386" xml:id="n386" facs="adl/aakjaer/aakjaer7/aakj7386"/>
+          <pb n="387" xml:id="n387" facs="adl/aakjaer/aakjaer7/aakj7387"/>
+          <pb n="388" xml:id="n388" facs="adl/aakjaer/aakjaer7/aakj7388"/>
+          <pb n="389" xml:id="n389" facs="adl/aakjaer/aakjaer7/aakj7389"/>
+          <pb n="390" xml:id="n390" facs="adl/aakjaer/aakjaer7/aakj7390"/>
+          <pb n="391" xml:id="n391" facs="adl/aakjaer/aakjaer7/aakj7391"/>
+          <pb n="392" xml:id="n392" facs="adl/aakjaer/aakjaer7/aakj7392"/>
+          <pb n="393" xml:id="n393" facs="adl/aakjaer/aakjaer7/aakj7393"/>
+          <pb n="394" xml:id="n394" facs="adl/aakjaer/aakjaer7/aakj7394"/>
+          <pb n="395" xml:id="n395" facs="adl/aakjaer/aakjaer7/aakj7395"/>
+          <pb n="396" xml:id="n396" facs="adl/aakjaer/aakjaer7/aakj7396"/>
+          <pb n="397" xml:id="n397" facs="adl/aakjaer/aakjaer7/aakj7397"/>
+          <p xml:id="idm140240949153248"/>
+        </body>
+      </text>
+      <pb n="398" xml:id="n398" facs="adl/aakjaer/aakjaer7/aakj7398"/>
+      <text xml:id="idm140240949151440">
+        <body xml:id="idm140240949151184">
+          <pb n="399" xml:id="n399" facs="adl/aakjaer/aakjaer7/aakj7399"/>
+          <p xml:id="idm140240949149680"/>
+        </body>
+      </text>
+    </group>
+  </text>
+</TEI>

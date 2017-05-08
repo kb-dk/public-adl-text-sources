@@ -1,0 +1,1359 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="idm140513902278848"><!-- 
+       file     ./marc_dir/001874833.xml
+       field     
+       subfield  
+       prefix   -->
+  <teiHeader xml:id="idm140513902283408">
+    <fileDesc xml:id="idm140513902283152">
+      <titleStmt xml:id="idm140513902282848">
+        <title xml:id="idm140513902282544">EN STRIDSMAND FORTÆLLING</title>
+        <author xml:id="idm140513902256944">JOHAN SKJOLDBORG</author>
+      </titleStmt>
+      <publicationStmt xml:id="idm140513902256432">
+        <publisher xml:id="idm140513902256176">JUL. GJELLERUPS FORLAG</publisher>
+        <idno xml:id="idm140513902255792" xml:base="texts/skjold_01.xml">001874833:01</idno>
+      </publicationStmt>
+      <notesStmt xml:id="idm140513902255024">
+        <note xml:id="idm140513902254768">
+	  </note>
+      </notesStmt>
+      <sourceDesc xml:id="idm140513902254256"><bibl xml:id="idm140513902254128"><author n="1" xml:id="idm140513902253488"><name xml:id="idm140513902253232"><surname xml:id="idm140513902253104">Skjoldborg</surname>, <forename xml:id="idm140513902252640">Johan</forename></name></author><title xml:id="idm140513902252352">En Stridsmand</title><pubPlace xml:id="idm140513902252064">Kbh.</pubPlace>; <pubPlace xml:id="idm140513902251600">Kristiania</pubPlace>
+<date xml:id="idm140513902251088">1896</date></bibl><listBibl xml:id="idm140513902250800"><bibl xml:id="biblid54088"><title xml:id="idm140513902237648">En Stridsmand</title></bibl></listBibl></sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text xml:id="workid54088" decls="#biblid54088">
+    <front xml:id="idm140513902236064">
+      <pb n="I" xml:id="sI" facs="adl/skjold/skjold_01/skjold_01_fm_001"/>
+      <div type="halftitlepage" xml:id="idm140513902234608">
+        <p xml:id="idm140513902234032">En Stridsmand</p>
+        <pb n="II" xml:id="sII" facs="adl/skjold/skjold_01/skjold_01_fm_002"/>
+      </div>
+      <pb n="III" xml:id="sIII" facs="adl/skjold/skjold_01/skjold_01_fm_003"/>
+      <titlePage xml:id="idm140513902231248">
+        <docAuthor xml:id="idm140513902230992">JOHAN SKJOLDBORG</docAuthor>
+        <docTitle xml:id="idm140513902230576">
+          <titlePart type="main" xml:id="idm140513902230224">
+            <title level="m" xml:id="idm140513902313472">EN STRIDSMAND<lb xml:id="idm140513902312944"/>FORTÆLLING</title>
+          </titlePart>
+        </docTitle>
+        <docImprint xml:id="idm140513902312272">
+          <publisher xml:id="idm140513902312016">JUL. GJELLERUPS FORLAG<lb xml:id="idm140513902311728"/>
+FOR NORGE OG SVERRIG:<lb xml:id="idm140513902311440"/>ALB. CAMMERMEYERS FORLAG. KRISTIANIA.<lb xml:id="idm140513902311184"/>1896.</publisher>
+        </docImprint>
+      </titlePage>
+      <pb n="IV" xml:id="sIV" facs="adl/skjold/skjold_01/skjold_01_fm_004"/>
+      <div type="miscellaneous" xml:id="idm140513902205056">
+        <p xml:id="idm140513902204560">„Aalborg Amtstidende's Bogtrykkeri.</p>
+      </div>
+      <pb n="V" xml:id="sV" facs="adl/skjold/skjold_01/skjold_01_fm_005"/>
+      <div type="miscellaneous" xml:id="idm140513902202944">
+        <head xml:id="idm140513902202416">
+          <hi rend="italics" xml:id="idm140513902202160">Til<lb xml:id="idm140513902201632"/>
+den danske Husmand!</hi>
+        </head>
+        <lg xml:id="idm140513902201088">
+          <l xml:id="idm140513902200832">
+            <hi rend="italics" xml:id="idm140513902200576">Du Husmand, som ørker den stridige Jord</hi>
+          </l>
+          <l xml:id="idm140513902199696">
+            <hi rend="italics" xml:id="idm140513902199440">og vover din Arm og din Bringe,</hi>
+          </l>
+          <l xml:id="idm140513902198656">
+            <hi rend="italics" xml:id="idm140513902198400">som drager Kulturens det første Spor</hi>
+          </l>
+          <l xml:id="idm140513902197520">
+            <hi rend="italics" xml:id="idm140513902197264">med Plovjærnets sølvblanke Klinge,</hi>
+          </l>
+          <l xml:id="idm140513902196384">
+            <hi rend="italics" xml:id="idm140513902196128">- mer Bidder du er med din barkede Haand</hi>
+          </l>
+          <l xml:id="idm140513902195280">
+            <hi rend="italics" xml:id="idm140513902195024">end mange, der pyntes med Stjerner og Baand</hi>
+          </l>
+          <l xml:id="idm140513902194176">
+            <hi rend="italics" xml:id="idm140513902193920">og tripper paa bonede Gulve.</hi>
+          </l>
+          <l xml:id="idm140513902193136">
+            <hi rend="italics" xml:id="idm140513902192880">Du rydder til Samfundet bredere Grund</hi>
+          </l>
+          <l xml:id="idm140513902192096">
+            <hi rend="italics" xml:id="idm140513902191840">derude paa Lyngen og Sandet,</hi>
+          </l>
+          <l xml:id="idm140513902191056">
+            <hi rend="italics" xml:id="idm140513902190800">du vinder dig Ager hver Arbejdets Stund</hi>
+          </l>
+          <l xml:id="idm140513902190016">
+            <hi rend="italics" xml:id="idm140513902189760">og lægger din Vinding til Landet.</hi>
+          </l>
+          <l xml:id="idm140513902188896">
+            <hi rend="italics" xml:id="idm140513902188640">Men stille du øver din Dont og din Daad.</hi>
+          </l>
+          <l xml:id="idm140513902187760">
+            <hi rend="italics" xml:id="idm140513902187504">Hvor andre kun kender en Kugle til Raad,</hi>
+          </l>
+          <l xml:id="idm140513902186656">
+            <hi rend="italics" xml:id="idm140513902186400">du krummer til Tag dine Næver.</hi>
+          </l>
+          <pb n="VI" xml:id="sVI" facs="adl/skjold/skjold_01/skjold_01_fm_006"/>
+          <l xml:id="idm140513902184432">
+            <hi rend="italics" xml:id="idm140513902184176">Du lærer, hvorledes man bygger sig Hjem,</hi>
+          </l>
+          <l xml:id="idm140513902183296">
+            <hi rend="italics" xml:id="idm140513902183040">du gamle og bøjede Slider,</hi>
+          </l>
+          <l xml:id="idm140513902182192">
+            <hi rend="italics" xml:id="idm140513902181936">- det lære du mig, og det lære du dem,</hi>
+          </l>
+          <l xml:id="idm140513902181056">
+            <hi rend="italics" xml:id="idm140513902180800">der trætte ad Asfalten glider -</hi>
+          </l>
+          <l xml:id="idm140513902179936">
+            <hi rend="italics" xml:id="idm140513902179680">og Manddom, den banende Villies Vægt,</hi>
+          </l>
+          <l xml:id="idm140513902178800">
+            <hi rend="italics" xml:id="idm140513902178544">du sanker i Arv til den kommende Slægt,</hi>
+          </l>
+          <l xml:id="idm140513902177664">
+            <hi rend="italics" xml:id="idm140513902177408">der fostres i Udmarkens Hytter.</hi>
+          </l>
+          <l xml:id="idm140513902176624">
+            <hi rend="italics" xml:id="idm140513902176368">Du Stridsmand, du stille Kulturens Soldat,</hi>
+          </l>
+          <l xml:id="idm140513902175520">
+            <hi rend="italics" xml:id="idm140513902175264">som ikke har Rang iblandt Helte,</hi>
+          </l>
+          <l xml:id="idm140513902174480">
+            <hi rend="italics" xml:id="idm140513902174224">som regnes for intet mod den Akrobat,</hi>
+          </l>
+          <l xml:id="idm140513902173440">
+            <hi rend="italics" xml:id="idm140513902173184">der springer i Gøglernes Telte,</hi>
+          </l>
+          <l xml:id="idm140513902172320">
+            <hi rend="italics" xml:id="idm140513902172064">- for dig mine Døre jeg aabner til Fest!</hi>
+          </l>
+          <l xml:id="idm140513902171184">
+            <hi rend="italics" xml:id="idm140513902170928">Kom, hvil dig og vær du min hædrede Gæst,</hi>
+          </l>
+          <l xml:id="idm140513902170032">
+            <hi rend="italics" xml:id="idm140513902169776">min Dug jeg - den bedste - dig breder!</hi>
+          </l>
+          <l xml:id="idm140513902168992">
+            <hi rend="italics" xml:id="idm140513902168736">Og segner en Gang du paa Valpladsen ned -</hi>
+          </l>
+          <l xml:id="idm140513902167888">
+            <hi rend="italics" xml:id="idm140513902167632">en fremmed blandt Menneskevrimlen,</hi>
+          </l>
+          <l xml:id="idm140513902166848">
+            <hi rend="italics" xml:id="idm140513902166592">og lyder ej anden Tale derved</hi>
+          </l>
+          <l xml:id="idm140513902165808">
+            <hi rend="italics" xml:id="idm140513902165552">end Trækfugleflugt under Himlen</hi>
+          </l>
+          <l xml:id="idm140513902164688">
+            <hi rend="italics" xml:id="idm140513902164432">- jeg søger din Grav og jeg rejser dig Sten,</hi>
+          </l>
+          <l xml:id="idm140513902163536">
+            <hi rend="italics" xml:id="idm140513902163280">en Bauta paa Heden, et Minde fra én,</hi>
+          </l>
+          <l xml:id="idm140513902162400">
+            <hi rend="italics" xml:id="idm140513902162144">som kendte dit Liv og forstod det.</hi>
+          </l>
+        </lg>
+        <pb n="1" xml:id="s1" facs="adl/skjold/skjold_01/skjold_01_001"/>
+      </div>
+    </front>
+    <body xml:id="idm140513902159872">
+      <div xml:id="idm140513902159616">
+        <head xml:id="idm140513902159360">I.</head>
+        <p xml:id="idm140513902158976">Fra Skagerak slynger sig ind over fladt Land langstrakte Flyvesandsbjerge, der samles i Knuder og spredes i Kæder. Paa Fladerne mellem disse Sandmiler stiger Røgen op fra ensomt liggende Hytter, og her gaa Nybyggeres Plove.</p>
+        <p xml:id="idm140513902158128">Her er et urgammelt, udyrket Land for ungt Mod og unge Arme, for dem, der ikke eje Guldnøglen, som aabner Indgangen til de fede Marker, hvor Kløveren gror. Her er ingen Menneskehaand til at lede Vandet, der siver og rinder, hvor det vil gennem Klittens golde Sand, afsættende rølket Rust paa Græssets Stængler, som svaje i den stille Strøm. Et herreløst Land for Jordens Kryb og Markens Dyr.</p>
+        <pb n="2" xml:id="s2" facs="adl/skjold/skjold_01/skjold_01_002"/>
+        <p xml:id="idm140513902155728">Fjernt fra kommer en enlig Vandrer hen over en saadan Klitfladning. Indtrykket af ham synes næsten at forsvinde i denne Natur, hvor Menneskets Spor ere smaa og faa. Men han træder saa fast og sikkert i Jorden, som han ikke tvivlede om at kunne undertvinge den. Der er Ungdommens kække Spænding i hans Holdning og Livsmodets friske Takt i hans Gang. Og naar man ser det frejdige Blik i denne Nybyggers brune Øje, saa forstaar man, at her blinker en Natur, der er mægtigere end hin.</p>
+        <p xml:id="idm140513902154544">Hen mod det lyngtækkede Hus, hvor han har rejst sin Arne, styrer han sine Trin. Og der bukker han sig ind gennem den lave Dør.</p>
+        <p xml:id="idm140513902153888">«Naa, hvad sagde saa Jens Nørgaard?» spurgte Konen.</p>
+        <p xml:id="idm140513902153440">«Jo», svarede Søren, idet han trak sin Vadmelstrøje af og hængte den paa et Søm i Bjælken, «han vilde nok lade
+<pb n="3" xml:id="s3" facs="adl/skjold/skjold_01/skjold_01_003"/>
+Pengene blive staaende, til vi kunde faa et ordentligt Kreditforeningslaan!»</p>
+        <p xml:id="idm140513902151648">«Det var jo godt!»</p>
+        <p xml:id="idm140513902151232">«Jo». Han lod Haanden fare gennem Haaret og saa ud af Vinduet. «Jo, det forstaar sig!»</p>
+        <p xml:id="idm140513902150736">«Jeg tykkes, ligesom der er noget i Vejen for dig, Søren!»</p>
+        <p xml:id="idm140513902150272">«Mig! - Nej! - Der kan jo altid være saadan et og andet. Nej ellers ... .»</p>
+        <p xml:id="idm140513902149792">«Der er noget, du tænker paa, Søren! - Hvad?»</p>
+        <p xml:id="idm140513902149344">Han saa venligt til hende; «Er der noget jeg tænker paa!»</p>
+        <p xml:id="idm140513902148816">Hun flyttede sig tæt til ham og sagde indtrængende: «Der er noget!»</p>
+        <p xml:id="idm140513902148272">Han smilede. Derefter sagde han hastigt afbrydende: «Hvad var det, jeg vilde sige - æ - har Niels Pind ikke været her i Dag? - Naa, for han snakkede om, at han vilde have mig til at grøfte for sig».</p>
+        <p xml:id="idm140513902147472">«Nej, men ... .»</p>
+        <pb n="4" xml:id="s4" facs="adl/skjold/skjold_01/skjold_01_004"/>
+        <p xml:id="idm140513902145952">«Det er sandt! Gamle Ane Sofie har da hængt sig i Nat, spurgte jeg oppe i Byen!»</p>
+        <p xml:id="idm140513902145472">«Har hun hængt sig?»</p>
+        <p xml:id="idm140513902145056">«Lus og Mog og Sult var jo ved at æde hende op, og i Dag skulde hun have været i Fattiggaarden. Dér har hun jo aldrig villet hen, og saa i Nat hængte hun sig i Sengebaandet!»</p>
+        <p xml:id="idm140513902144480">«Herregud! Det sølle, gamle Skrog! Hun var da ellers saa skikkelig».</p>
+        <p xml:id="idm140513902144016">«Hellig-Per mente rigtignok, at hun brænder i Helvede, og paa ham at tykke var det helt rosomt, men ... .»</p>
+        <p xml:id="idm140513902143504">«Hum, ja - Hellig-Per!» -</p>
+        <p xml:id="idm140513902143072">«Naa, Ane! jeg maa ud at grave et Stykke inden Aften!» udbrød han og sprang rask op.</p>
+        <p xml:id="idm140513902142592">«Er det saa ikke bedst, du trækker dine daglige Bukser paa, bitte Fa'r! ... . Hm! Det sølle, gamle Skrog!» sluttede hun tankefuld.</p>
+        <p xml:id="idm140513902142064">- Da Solen luende rød var sunken ned bag Havets Klitter, kom Søren
+<pb n="5" xml:id="s5" facs="adl/skjold/skjold_01/skjold_01_005"/>
+Brander ind fra Arbejdet med Blodet bankende i alle Aarer, med Sveden dryppende fra Øjenhaarene, og satte sig træt paa Bænken.</p>
+        <p xml:id="idm140513902140144">Der var stille ude og stille inde. En rigtig Mørkningsstilhed, hvor al Livsvirksomhed aander ud i Aftenhvile, og Tankerne let blive til Drømme, - især for en Mand, der sidder i sit Nybyggerhus og lytter til Hustruens Sang over Vuggen, hvor den førstefødte ligger.</p>
+        <p xml:id="idm140513902139200">Han blev længe siddende. Tonerne tyktes ham saa fulde af Haab. Og der var ligesom Andagt i at høre paa, syntes han, alligevel det var ikke andet end en Vise.</p>
+        <p xml:id="idm140513902138480">Da Sangen hørte op, rørte ingen sig længe, - som vare de ængstlige for at skræmme noget bort.</p>
+        <p xml:id="idm140513902137888">Endelig sagde han lavt: «Jeg snakkede da ogsaa med min Fa'r i Dag!»</p>
+        <p xml:id="idm140513902137344">Han tav med, at han havde truffet ham dinglende paa Gaden, og at han havde hjulpet ham i Hus, thi han
+<pb n="6" xml:id="s6" facs="adl/skjold/skjold_01/skjold_01_006"/>
+mærkede endnu Skammen brænde paa sin Kind efter Spidsroden forbi de mange nysgerrige Øjne.</p>
+        <p xml:id="idm140513902135536">Han saa tydeligt for sig det sørgelige Billede af den gamle, forfaldne Mand, der sank holdningsløs ned paa Stolen, med det dorske Blik, de syge Klynk og den fuldes letfældte Taarer ned ad slappe, posede Kinder. Men tillige følte han dybere end før, at denne Mand var hans Fader, og at de to hørte sammen.</p>
+        <p xml:id="idm140513902134512">«Hvordan staar det sig?» spurgte hun deltagende.</p>
+        <p xml:id="idm140513902134064">«Aa, - hva' -»</p>
+        <p xml:id="idm140513902133648">«Han bo'r vel ved Svenskeren endnu?»</p>
+        <p xml:id="idm140513902133216">«Ja, og Brød-Karen er der ogsaa», svarede han med Øjnene mod Gulvet. - «Det er ikke saa godt for saadan et gammelt Menneske, Ane!»</p>
+        <p xml:id="idm140513902132672">«Nej, det er jo ikke saa godt.»</p>
+        <p xml:id="idm140513902132240">«Jeg vilde endda nødig, han skulde paa Fattiggaarden; det vilde gøre ham gruelig ondt, den gamle!» Sørens Røst
+<pb n="7" xml:id="s7" facs="adl/skjold/skjold_01/skjold_01_007"/>
+skjalv og havde den rene og ægte Klang, som altid følger de Ord, der kommer fra et varmt og godt Hjerte.</p>
+        <p xml:id="idm140513902130400">Hun rejste sig uvilkaarligt, satte sig paa hans Knæ, lagde sin Arm om hans Hals og legede med hans Haar. Nu vidste hun, hvad det var, der før havde optaget hans Tanker.</p>
+        <p xml:id="idm140513902129664">Efter en Stunds Forløb, efter en lang Række Forestillinger og Overvejelser, ytrede hun: «Jeg véd ikke, Søren! skulde vi prøve at tage ham ud til os!</p>
+        <p xml:id="idm140513902128960">Han svarede glad: «Tykkes du, bitte Ane! saa vil jeg da ikke have imod det!»</p>
+        <p xml:id="idm140513902128400">«Vi kommer vel over det», mente hun.</p>
+        <p xml:id="idm140513902127968">«Ja, det er jo ikke for det meget, han spiser, men ... .»</p>
+        <p xml:id="idm140513902127504">«Det værste er snart med Sengeklæder, - men lad os i Guds Navn prøve det!»</p>
+        <p xml:id="idm140513902127024">Han knugede hende til sig. - -</p>
+        <p xml:id="idm140513902126592">«Hvad sagde Jens Nørgaard ellers?» spurgte hun.</p>
+        <pb n="8" xml:id="s8" facs="adl/skjold/skjold_01/skjold_01_008"/>
+        <p xml:id="idm140513902125040">«Jo, han var meget ferm. Jeg skulde da se hans Besætning og saadan ... . og saa vilde han sælge mig en Moseparcel!»</p>
+        <p xml:id="idm140513902124528">«Naa!»</p>
+        <p xml:id="idm140513902124112">«Men der kan jo blive nok at rykke i foruden. Vi skulde jo have bygget en Smule til Sommer, - det kan den gamle hjælpe ved! - og saadan. - Naar vi saa kunde faa et Par stærkere Stude og en Ko eller to til, se saa kunde vi faa det godt, Ane!» udbrød han og gyngede hende.</p>
+        <p xml:id="idm140513902123440">«Mon vi saa ikke kunde faa lidt mere inden Døre ogsaa?»</p>
+        <p xml:id="idm140513902122976">«Jo, jo! - Og som vi faar mere dyrket, vi har jo Jord nok, saa kunde vi maaske faa os en Hest, du, og hvad siger du til en Fjedervogn, naturligvis en meget billig en ... .»</p>
+        <p xml:id="idm140513902122400">«Ja, lad os nu se! Lad os give os taalmodige til det, Søren! - Lad os ... .»</p>
+        <pb n="9" xml:id="s9" facs="adl/skjold/skjold_01/skjold_01_009"/>
+        <p xml:id="idm140513902120816">«Det var da ikke saa urimeligt, om vi fik en Hest; vel?»</p>
+        <p xml:id="idm140513902120352">«Nej, saamænd!» Hun smilede. «Men jeg synes ligegodt ... .»</p>
+        <p xml:id="idm140513902119888">Han lukkede hendes Mund med Kys.</p>
+        <p xml:id="idm140513902119456">«Det var kanske slet ikke saa galt endda, at vi kom i Klitten; - der var da for Resten heller ingen andre Steder, der vilde give sig!» bemærkede Søren, idet han krængede sin Vest af, da de skulde til Ro.</p>
+        <p xml:id="idm140513902118848">Da de havde ligget noget, sagde han: «Ane! Jeg var tilfreds, vi havde ham herude, den gamle!»</p>
+        <pb n="10" xml:id="s10" facs="adl/skjold/skjold_01/skjold_01_010"/>
+      </div>
+      <div xml:id="idm140513902117024">
+        <head xml:id="idm140513902116768">II.</head>
+        <p xml:id="idm140513902116384">Søren havde i sine Ungdomsaar haft Brandernes stærke Tilbøjelighed til muntre Lag. Han var den livligste Svend baade langt og nær, den bedste Kammerat og den lystigste. Han var det saa helt, saa umiddelbart af Hjertets unge Lyst, at han rev alle med. Han gav sig hen med oprigtig Styrke, med en Udholdenhed, der nødig standsede før ved den yderste Grænse, den sidste Hvid. Derfor var han Svinghjulet i sit Selskab.</p>
+        <p xml:id="idm140513902115376">Vel havde han passet sin Tjeneste upaaklagelig. Men i Legestuen og ikke ved Arbejdet fandt han den susende Strakthed, som stemmede med hans Livstrang.</p>
+        <pb n="11" xml:id="s11" facs="adl/skjold/skjold_01/skjold_01_011"/>
+        <p xml:id="idm140513902113728">Aarene vare gaaede med Kaadhed, Leg og gale Streger. For ham henglede de som en Sommerdags Timer for den unge Fole, der aldrig har haft en Sele om sin Bringe.</p>
+        <p xml:id="idm140513902113168">Saa var Vendepunktet kommet.</p>
+        <p xml:id="idm140513902112736">Det var en Junidag. Der var Folkefest i Kratholm Skov ved Fjordby, hvor han den Gang havde tjent. Paa Festpladsen gik Folk med løst hængende Tøj og pustede af Varme, thi Solen brændte lige ned gennem Skovaabningen. Fra Vaffelbagerier og Ildsteder steg Røg og Damp. Danseboden var en hoppende, mylrende Masse, som en Gryde i Kog. Og oven over stod den tunge Luft og bævrede af Hede mellem Træstammerne. Svir og Sværm og tilsidst Slagsmaal.</p>
+        <p xml:id="idm140513902111472">Søren var kommen af Vejen, var tumlet over det raslende Løv og de knasende Grene, ned over Engen, som breder sig mellem Skoven og Fjorden. Her ved en rindende Bæk, hvor nogle runde
+<pb n="12" xml:id="s12" facs="adl/skjold/skjold_01/skjold_01_012"/>
+Sten dannede Overgangen, sank han ned mellem gule Kabbelejehoveder og sov ind.</p>
+        <p xml:id="idm140513902109504">Han vaagnede ved, at noget køligt rørte ved hans Pande. Ved Siden af sad Ane med et vaadt Lommetørklæde i sin Haand. Hendes Kjole var opkiltet. Hat og Overstykke laa noget borte. Hatten var sort, Pyntebaandene i brunhvide Tavl, og Overstykket var lysegraat. Hver Enkelthed opfattede han grant. Græsset var frisk af nyfalden Dug, Bækken klukkede og plaskede frem over den stenede Bund, og fra Teltlejren lød Hornmusik gennem Aftensvalen.</p>
+        <p xml:id="idm140513902308704">Alle disse Indtryk kom saa friske til hans Bevidsthed; thi han var vaagen, som han aldrig før havde været. Det kom af, at den unge vakre Pige sad her hos ham, de to alene for sig selv her paa den grønne Eng. Hans Sjæl og Sanser kom i de lifligste Svingninger.</p>
+        <p xml:id="idm140513902307776">Da han saa hendes rene Aasyn
+<pb n="13" xml:id="s13" facs="adl/skjold/skjold_01/skjold_01_013"/>
+bøjet over sig, kunde han have klynget sig til hende og bedet hende Tusinde Gange om Forladelse, endog hun egentlig var en fremmed for ham, - men hun havde saa dejlige Øjne.</p>
+        <p xml:id="idm140513902305872">Og det var, som noget, der havde ligget dybere gemt i hans Indre, kom frem til Lys og Luft og Liv, og dette Liv vældede op af Glæde over at være bleven til.</p>
+        <p xml:id="idm140513902305152">Han stirrede forundret paa hende, som hun var et aabenbaret Lysvæsen, og dog vidste han alligevel godt, at det ikke var andre end Per Madsens Ane fra Svingelev, hvem han i over et Aar havde tjent i Gaarde sammen med.</p>
+        <p xml:id="idm140513902304320">Hun tog hans Hue fra Grønsværet og satte den paa hans Hoved. Ham forekom det, som hendes Haand rørte ved hans Hjerte.</p>
+        <p xml:id="idm140513902303680">De fulgtes ad enlige Markstier, der slyngede sig mellem Korn og højt Græs. Og Sommernatten var saa lys og saa fuld af søde Dufte ... .</p>
+        <pb n="14" xml:id="s14" facs="adl/skjold/skjold_01/skjold_01_014"/>
+        <p xml:id="idm140513902301904">Det var ud fra dette Kærlighedsliv, at Vendepunktet var kommen. Det var herfra, at han brød ud fra sin Slægts letsindige Veje. Nu sad han i sin Husmandshytte og lod Tankerne strejfe ind over Fremtidens ukendte Land. Han gjorde det med ængstelige Anelser, thi det bares ham for, at derude paa de mørke og vejløse Egne, der stod et stort Krav, ingen kan slippe forbi, og ventede paa ham med Livet i den ene Haand og Døden i den anden. Han blev andagtsfuld i Sindet, thi Livets Alvor drog ham nær.</p>
+        <p xml:id="idm140513902300864">Rundt om hans Hytte bredte sig det tavse Land, der var bunden af Lyng og Pors, de sure Sige og de flyvende Banker. Men det var, som om Buskene og Marehalmen hviskede til ham om et Liv, der laa under deres Rodder, et slumrende Liv, han skulde vække. Hver Plet drog ham til sig, og her følte han sig fæstet til Livstjeneste.</p>
+        <p xml:id="idm140513902091248">Maaske var dette ham ikke stærkt
+<pb n="15" xml:id="s15" facs="adl/skjold/skjold_01/skjold_01_015"/>
+bevidst, men det var alligevel saadanne Tanker og Følelser, der dannede Understrømmen i hans Sind i disse Tider. -</p>
+        <p xml:id="idm140513902089536">«Jeg tror, jeg vil have plantet et Læbælte om Ejendommen, Ane!» sagde han en Dag til sin Hustru.</p>
+        <p xml:id="idm140513902089040">«Tror du, det kan gro?» spurgte hun.</p>
+        <p xml:id="idm140513902088608">«Det skal i al Fald prøves!»</p>
+        <p xml:id="idm140513902088176">«Det kunde du jo!» svarede hun og saa op.</p>
+        <p xml:id="idm140513902087728">«En Række Træer langs med Skellet, det vilde se godt ud, hvad!» vedblev han og saa lyst ud for sig.</p>
+        <p xml:id="idm140513902087232">«Ja, bare det vilde gro!»</p>
+        <p xml:id="idm140513902086800">«Jorden skulde naturligvis kulgraves og saa en stor Grøft udenom. Saa fik vi det ogsaa saa herligt for os selv; og saa kunde Folk da ogsaa se, hvor En boede», tilføjede han og saa til hende med et Smil.</p>
+        <p xml:id="idm140513902086192">Hun smilede igen og rystede ganske lidt paa Hovedet.</p>
+        <p xml:id="idm140513902085744">«Ja, da skal det nok blive, om Gud vil, og Ole vil, og Tøjet det vil holde,
+<pb n="16" xml:id="s16" facs="adl/skjold/skjold_01/skjold_01_016"/>
+som han siger Ole Fragtmand!» sluttede han og gik ud i Stalden til sine Dyr.</p>
+        <p xml:id="idm140513902083936">Bag en alentyk Tørvemur stode to smaa Stude, to gamle Køer og en Kalv. De trippede i Baasene, da Søren kom med Favnen fuld af tørt Klitfoder, som de kastede sig over med stor Graadighed. Mens de gnaskede paa Halmen, kælede han for dem, kløede dem og snakkede forskelligt med dem. Derefter faldt han i Tanker, og det varede længe, inden han kom ind i Stuen, hvor han satte sig med en Bemærkning om, at de maatte se at faa bygget til Sommer, om det paa nogen Maade kunde lade sig gøre. - «Jeg troer ellers, at den brogede Kalv bliver til et helt Høved, Ane!» lagde han til noget efter.</p>
+        <p xml:id="idm140513902082896">«Det var da morsomt!»</p>
+        <p xml:id="idm140513902082480">«Ja, det tror jeg skam!»</p>
+        <p xml:id="idm140513902082048">Efter en Stunds Forløb sagde han: «Syng en af din Faders Viser, Ane, det er saa rosomt i Mørkningen!»</p>
+        <pb n="17" xml:id="s17" facs="adl/skjold/skjold_01/skjold_01_017"/>
+        <p xml:id="idm140513902080336">Med Barnet ved Brystet vuggede hun Takten med Overkroppen og sang:</p>
+        <lg xml:id="idm140513902079872">
+          <l xml:id="idm140513902079616">Ej Guld og Gods jeg spørger om, naar jeg har Sjælero.</l>
+          <l xml:id="idm140513902079104">Er Sundhed kun min Ejendom, saa er jeg glad og fro.</l>
+          <l xml:id="idm140513902078656">Og altid rørt mod Himlen klang</l>
+          <l xml:id="idm140513902078192">min Morgen- og min Aftensang.</l>
+          <l xml:id="idm140513902077760">Og naar den gyldne Sol opstaar, og alt forgyldes her,</l>
+          <l xml:id="idm140513902077312">og alt i stolte Blomster staar, og Agren Vipper bæ'r,</l>
+          <l xml:id="idm140513902076800">da tænker jeg, at denne Pragt</l>
+          <l xml:id="idm140513902076336">blev til vor Lyst ved Herrens Magt.</l>
+          <l xml:id="idm140513902075904">Og naar mod Aften Sol gaar ned, og Fuglen tier kvær,</l>
+          <l xml:id="idm140513902075392">og al Naturen aander Fred, jeg føler, Gud er nær.</l>
+          <l xml:id="idm140513902074896">Da hviler jeg min trætte Arm,</l>
+          <l xml:id="idm140513902074432">og slumrer ind fra Dagens Larm.</l>
+        </lg>
+        <pb n="18" xml:id="s18" facs="adl/skjold/skjold_01/skjold_01_018"/>
+      </div>
+      <div xml:id="idm140513902072592">
+        <head xml:id="idm140513902072336">III.</head>
+        <p xml:id="idm140513902071920">Allerede i Slutningen af Februar smeltede Sneen, og straks var Søren Brander ude med sit Favnemaal. Han maalte paa kryds og paa tvers, overvejede og inddelte. Han gjorde det paa den ene Maade og paa den anden Maade. Ogsaa oppe i de høje Klitter, som tilhørte ham, vandrede han længe om og stod og spejdede til alle Sider.</p>
+        <p xml:id="idm140513902070864">Han var ikke stor, vist heller ikke særlig stærk, men enhver af hans Bevægelser vare ejendommelige, snare og spændige, og i det noget blege Ansigt, der indrammedes af brunt, kruset Kindskæg, lyste et Par vaagne Øjne, der blinkede af Energi.</p>
+        <pb n="19" xml:id="s19" facs="adl/skjold/skjold_01/skjold_01_019"/>
+        <p xml:id="idm140513902068864">En Søndag kort efter, før Frosten endnu rigtig var af Jorden, ilede to Mænd med Digearbejde i Skellet paa Søren Branders Lod. Det var aarle Morgen, køligt og taaget, og hvidt Pudder hang endnu i Lyngrisene. Solen brød dog stærkere og stærkere igennem, glimtede paa Rimens tusinde Krystaller og drev Damp og Ange op af den rygende Jord. Kampen mellem Natten og Dagen, Vinteren og Vaaren, en Fødselsfest for det ny. Nu gryede det ogsaa over Sørens Fremtidsplaner, som han i Dag troede mere fast paa end nogen Sinde. Lethændet førte han sit Redskal, og Tanken syntes at være langt forud for Haanden.</p>
+        <p xml:id="idm140513902067856">Arbejdsmanden Jens Bjærg, som hjalp Søren. var en tungere Natur, der brød tvers paa. Han havde saa bred en Ryg med krydsede Seler over en blaastribet Bluse. Hans Spade gik med eet Sæt lukt gennem Rødderne, og rundt om ham væltede Jorden op som fra en
+<pb n="20" xml:id="s20" facs="adl/skjold/skjold_01/skjold_01_020"/>
+Gravemaskine. Han var nemlig en overhaands stærk Mænd.</p>
+        <p xml:id="idm140513902065616">«Har Peter Vibe ikke ogsaa lovet at hjælpe dig?» spurgte han og hvilede sine Arme paa Spaden. De knoklede Hænder vare laadne af lange, mørke Haar. Et stærkt Fuldskæg groede over hele Ansigtet, og tykt og tæt og langt hang Haaret ham som en Manke ned i Panden. Mellem al denne Haarvækst sad et Par godmodige Øjne og smilede i godt Lune.</p>
+        <p xml:id="idm140513902064528">«Jo, jeg tænker, at han snart skulde være her!» svarede Søren og lod Blikket strejfe Diget.</p>
+        <p xml:id="idm140513902064032">«Han ligger vel paa Reden endnu, Viben!»</p>
+        <p xml:id="idm140513902063584">«Aa, han er ellers en tapper Slider; han er saamænd saa stiv som et Stykke Træ. Men siden han kom paa Sognet, er han jo som lidt ligeglad!»</p>
+        <p xml:id="idm140513902063040">«Ja, han har jo ogsaa den store Skade nedenom», bemærkede Jens og spyttede i Hænderne. «Og han har
+<pb n="21" xml:id="s21" facs="adl/skjold/skjold_01/skjold_01_021"/>
+kanske ogsaa haft en vel ringe Indendørs-Besætning», tilføjede han og trykkede Spaden ned med sin Træsko.</p>
+        <p xml:id="idm140513902061184">«Jeg tror endelig, hun har været flink nok, Konen. En Krones Penge om Dagen til en halv Snes Mennesker, det er saadan henved en cirka 10 Øre til hver; der kan egentlig ikke være meget at fedte hen ved det, Jens!»</p>
+        <p xml:id="idm140513902060560">«He! Nej, det er s'gu sandt og vist, he!» Jens hev en vældig Spadefuld op.</p>
+        <p xml:id="idm140513902060080">«Der har vi Manden», udbrød Søren og smilede. «Og han ta'er ogsaa nok Ordet med det samme!»</p>
+        <p xml:id="idm140513902059584">«Ja, Peter!» Jens skubbede Huen ned i Nakken og lo «han er ikke naadig. Han bruser s'gu lige saa højt, som han plejer, den arme Rad, og fører saa stort et Sprog som nogen Proprietær, he! Men det lader til, at han holder Humøret ved det samme, og hvad saa -!»</p>
+        <p xml:id="idm140513902058912">Peter Vibe nærmede sig med sit Redskab over Akselen. Et Hul paa hans ene Træsko var bødet med en Lap
+<pb n="22" xml:id="s22" facs="adl/skjold/skjold_01/skjold_01_022"/>
+af et gammelt Støvleskaft, og hans blaa Hvergarnsbukser bar paa Knæerne store, sorte Klude paasyede med lange, hvide Sting. Men Peter nynnede fornøjet og lod til at være i den lyseste Stemning.</p>
+        <p xml:id="idm140513902056784">«Naa, hvad er egentlig Meningen med dette her, Søren?» spurgte han og brystede sig.</p>
+        <p xml:id="idm140513902056304">«Jeg vilde jo forsøge, Peter, om jeg kunde faa Lodden indhegnet og kulegravet til nogle Træer her for Vesten, - at begynde med!» svarede Søren Brander og pegede med Haanden.</p>
+        <p xml:id="idm140513902055728">«Træer!» tog Peter paa. «Hum! - Her kan sandten aldrig gro Træer i sine Dage! Gud forstaar, hvordan Mennesker kan komme paa saadanne Tanker!» Han spyttede foragteligt Skraaen ud og hug Spaden i Jorden, som han vilde sønderhakke al den Dumhed, der var til paa denne taabelige Klode.</p>
+        <p xml:id="idm140513902055040">Derefter løsnede han et uldent Halsklæde og stoppede frisk Kardus i Munden.
+<pb n="23" xml:id="s23" facs="adl/skjold/skjold_01/skjold_01_023"/>
+«Ha! ha! To den Grøft er minsæl ikke bredere, end en Frø kan skræve over den!»</p>
+        <p xml:id="idm140513902053184">Jens Bjærg løftede sit buskede Hoved og svarede: «Jeg tror sikkert, at en Vibe mageligt kan ligge her, Peter, om ogsaa don breder Vingerne!»</p>
+        <p xml:id="idm140513902052496">Saa fløjtede Peter Vibe en Visestump og tog fat med de andre. -</p>
+        <p xml:id="idm140513902051968">Efter en anstrængende Dag samledes de tre Arbejdere om Aftenen i Sørens Stue. Umalet var Bohavet, og nøgent og fattigt saa det lille Rum ud. De eneste Vægprydelser vare to forgyldte Nürnberg-Billeder med bibelsk Indhold, som Ane i et letsindigt Øjeblik havde købt af en omvankende Kræmmer, thi det var vel tvivlsomt, om Sørens Ragekniv, der hang i en Vinkel paa et Stykke broderet Sækkelærred over Kakkelovnen, skulde henregnes til Pynt.</p>
+        <p xml:id="idm140513902050944">Mændene toge forventningsfulde Plads ved Bordet. En god Beværtning
+<pb n="24" xml:id="s24" facs="adl/skjold/skjold_01/skjold_01_024"/>
+var nemlig den eneste Løn, de to Husmænd ventede for det Villighedsarbejde, de havde ydet Søren. Først kom et Sigtebrød til 25 Øre, saa en Flaske Brændevin og en rygende varm Flæskepandekage i en sort Staalpande, der omhyggeligt blev sat paa en sammenfoldet Avis for ikke at snavse den hvidskurede Bordplade.</p>
+        <p xml:id="idm140513902048640">«Dette her er sandten en god Levemaade, Folkens!» sagde Peter Vibe og tørrede Fedtet af Mundvigene.</p>
+        <p xml:id="idm140513902048144">Søren skænkede: «Held den Drip i Næbet, Peter, saa skal du se, hvor hun læsker!»</p>
+        <p xml:id="idm140513902047568">«Ah! - Saadan en god dansk Dram, den ligger saa roligt i Maven. Det er noget helt andet end al den Cognak og Fut-Sprit, Prokuratoren bællede sig med, for det maatte da absolut æde Indvoldene, skulde En tykkes!»</p>
+        <p xml:id="idm140513902046960">«Hvor længe tjente du egentlig Prokurator Vindfeldt, Peter?» spurgte
+<pb n="25" xml:id="s25" facs="adl/skjold/skjold_01/skjold_01_025"/>
+Jens Bjærg, for at bringe Peter ind paa Emnet.</p>
+        <p xml:id="idm140513902045264">«8 Aar! - siger og skriver otte Aar! - Det var det sidste Aar, vi havde den store Sag med Justitsraaden!» lagde han til. «Om Prokuratoren duede!?» Peters Miner bleve som forstenede af Forbavselse. «Om han duede! - Du kan lige bande paa det. Justitsraaden til Eksempel, han havde sin soleklare Ret, derom var der ingen Spørgemang, men gu maatte han alligevel krybe til Korset!» sagde Peter ivrig og satte Knoerne i Bordet. Derefter hældede han sig frem og hviskede, idet han blinkede med Øjnene: «Vi kendte jo Finterne, forstaar I!</p>
+        <p xml:id="idm140513902043776">«Du skulde ha' taget Eksamen dengang!» ytrede Jens Bjærg lumsk.</p>
+        <p xml:id="idm140513902043312">«Ja, jeg skulde! Men Ungdommen, Jens!» svarede Peter med et beklagende Skuldertræk, «og saa Visdommen, du ved! - Nej, men jeg takker Gud for mine juridiske Kondevitter et
+<pb n="26" xml:id="s26" facs="adl/skjold/skjold_01/skjold_01_026"/>
+cetera!» Dermed var han inde paa den Periode, der havde været det højeste Moment i hans Liv.</p>
+        <p xml:id="idm140513902041424">Mens Flasken tømtes, herskede et Skælmeri og en Lunhed, et Liv og et Humør, der var sundt og henrivende, fordi det hvilede paa et flittigt Arbejde som Grundlag. - -</p>
+        <p xml:id="idm140513902040688">«Nej, men at du skulde kunne sætte alt det igennem med Plantning et cetera, som du taler om, nej gu ... . ja var du en Mand som Prokuratoren eller en af de andre Kreaturer! Men du er jo alligevel ikke andet end en sulten Lus, Søren, hvad!» sagde Peter senere og sugede Glasset.</p>
+        <p xml:id="idm140513902040000">Men Søren udviklede sine Tanker med en Fyrighed og en Varme, som rev de to andre Husmænd med. Sluttelig sagde Peter Vibe dog i en temmelig sikker Tone: «Det er det samme! Den Dag gi'er jeg en rød Ko og hundrede Daler!»</p>
+        <p xml:id="idm140513902039152">«Det er en Prøve værd! - Det
+<pb n="27" xml:id="s27" facs="adl/skjold/skjold_01/skjold_01_027"/>
+er en Prøve værd!» gentog Søren og nikkede. -</p>
+        <p xml:id="idm140513902037456">Efter saaledes at have tilbragt Hviledagen, krøb de tre Slidere i Sengklæderne for atter næste Morgen at stille paa Arbejdsmarken.</p>
+        <pb n="28" xml:id="s28" facs="adl/skjold/skjold_01/skjold_01_028"/>
+      </div>
+      <div xml:id="idm140513902035552">
+        <head xml:id="idm140513902035296">IV.</head>
+        <p xml:id="idm140513902034912">Foderet i Søren Branders Laderum sank foruroligende, og de knoklede, langhaarede Høveder brølede, naar nogen gik med Dørene; men mest hang de med Hovederne og stirrede sløvt ned i de tomme Krybber.</p>
+        <p xml:id="idm140513902034112">Men en Dag sivede der ind gennem det utætte Hus en egen Luft, der fik Drøvtyggerne til at rejse Nakken og gjorde dem urolige i Baasene. Endelig gik da Døren op for det mørke Tørvehus, og Vinterstrikkerne løsnedes.</p>
+        <p xml:id="idm140513902033280">Den brogede Kalv stak Næseborene til Vejrs og inddrak den rusende Duft af Markens spæde Urter, saa den dinglede paa sine skæve Ben, mens Blikket
+<pb n="29" xml:id="s29" facs="adl/skjold/skjold_01/skjold_01_029"/>
+svømmede i Vellyst, og Savlet drev fra Mulen.</p>
+        <p xml:id="idm140513902031360">Alle Vegne var der som en Spaadom om noget, som skulde komme. Smaafuglene, der byggede i Lyngen, fløj hastig frem og tilbage og samlede til Reden.</p>
+        <p xml:id="idm140513902030672">Da besluttede Søren sig til at prøve, om Købmanden vilde borge ham Materialer til et Udhus.</p>
+        <p xml:id="idm140513902030080">Studeaaget med Halmpuderne, det ny Dræt, han ved Faderens Hjælp havde lavet om Vinteren, kom frem. Helligdagstøjet kom frem og blev hængt paa Bjælkesømmene, og de stive Støvler fik Tran om Aftenen, for at alt kunde være klart om Morgenen tidlig, naar Rejsen skulde gaa for sig.</p>
+        <p xml:id="idm140513902029104">Om Natten laa han paa Lejet og sparkede Dynen af sig; han kunde ikke bjærge sig for Varme, syntes han. De Udregninger, Planer og Ængstelser, som hver af Vinterens Dage havde haft sin Gang gennem hans Hoved, det
+<pb n="30" xml:id="s30" facs="adl/skjold/skjold_01/skjold_01_030"/>
+var dem, der gjorde ham urolig. Nu ved Afgørelsens Stund kom de alle paa een Gang og pressede sig som en hed Strøm gennem Hjærnen ... . Tørvehuset var alt for lille og uhensigtsmæssigt; det kunde desuden ikke staa længere. Og han maatte have Tag over Dyr og Avl, om det hele ikke skulde falde sammen om ham ... . Maaske han ikke burde have taget fat paa bar Bund her uden en Øre paa Lommen, men han havde ikke kunnet modstaa den drivende Uro, der ikke vilde unde ham Fred, før han var gaaet i Vej med Sagen ... . Nej, igennem maatte han, om han saa skulde knække Halsen. Her var den eneste Vej for ham og hans at bjærge sig frem paa.</p>
+        <p xml:id="idm140513902026464">Han havde jo ganske vist nogle sammensparede Kroner, men ti Alen Hus med Tømmer og Tag og Arbejdsløn! Han maatte gøre stor Gæld.... . Men hvis det vilde gaa efter Flanen og lykkes nogenledes for ham, og han
+<pb n="31" xml:id="s31" facs="adl/skjold/skjold_01/skjold_01_031"/>
+maatte beholde Helsen og Kraft til at faa Stil og Skik paa Sagerne, og intet ellers skulde støde til, og han kunde faa et stort Kreditforeningslaan, - se saa kunde det jo ogsaa nok gaa ... . Der var jo rigtignok seks Munde om Brødet, og naar enhver saa skulde have sit, saa ... . Dog, nu vilde han sætte alt ind og vove Spillet.</p>
+        <p xml:id="idm140513902023856">Men skulde han tabe, skulde den Stund oprinde, da ubetalte Regninger og brudte Løfter skulde omringe ham, saa syntes han, at han ingen Steder kunde vende sig for sorte Skygger ... .</p>
+        <p xml:id="idm140513902023088">Tilsidst tog Søvnen ham og bar ham derind, hvor Drøm og Virkelighed flyder sammen, og Indbildningsevnen bygger de dejlige Slotte, der ikke ere gjorte med Hænder.</p>
+        <p xml:id="idm140513902022352">Ved Solens Frembrud satte han Studene i Gang. Hen i Lyngen gik mange Vejspor ved Siden af hinanden, men Søren Brander kendte det rette og fandt ud til den sandede Indkastvej,
+<pb n="32" xml:id="s32" facs="adl/skjold/skjold_01/skjold_01_032"/>
+som førte til Maalet. Solen gennemstraalede den kølige Luft, der rundt om fyldtes med Fuglenes Morgensang. Ellers hørte man intet uden den fygende Lyd af løbende Sand om Hjulenes Gang og Eger.</p>
+        <p xml:id="idm140513902020080">Under den søvndyssende Fremgliden hensank Søren paany i Udregninger.</p>
+        <p xml:id="idm140513902019536">«God Morgen, Søren!» raabte Jens Peter Klit, der trak sine Køer paa Græs og lige havde fæstet den sidste. «Skal Du til Købmanden?»</p>
+        <p xml:id="idm140513902018992">Søren fo'r op. Ja, - Trr! - Ja-a, jeg har tænkt at bygge mig et Stykke Hus i Sommer!</p>
+        <p xml:id="idm140513902018416">«Held og Lykke med det! - Ja, nu er jeg ved at være ligesom en Smule træt af det ... . Hjo-ov! En bliver bra' hen ad Aarene, og saa duer En ikke til at være i Klitterne. Nu har jeg slaast med den Lyng og de Siver i en fyrretyve Aar, og jeg har endelig kunnet kommanderet det hidtil, me-n saasnart En gi'er et bette Korn Fir,
+<pb n="33" xml:id="s33" facs="adl/skjold/skjold_01/skjold_01_033"/>
+saa tager det Magten, det Skidt! ... . Hvem har beslaaet den Vogn? - Skræm Smed! - Du skulde faa Mirakkelsmeden til det, han er saa Fandens bekant til at faa dem til at gaa let. - Ja, de unge Dage, det er en dejlig Tid, Søren!» sluttede Jens Peter. «Lykke paa Rejsen!»</p>
+        <p xml:id="idm140513902015696">Nu var det store Spørgsmaal, om Søren kunde faa paa Borg. Han stod i Butikken og skottede til Kontordøren, hvor den mægtige Mand skulde vise sig. Dér kom han ogsaa til Syne, men han var væk igen med det samme; han fo'r ud og ind og logrede omkring en Storbonde fra Hagerup, - Konkurrencen voldte jo Vanskeligheder. Husmanden fra Klitten ænsede Købmanden næppe, og Søren kunde ikke faa sagt, hvad han vilde, for Ordene bleve til en Klump i Halsen.</p>
+        <p xml:id="idm140513902014656">Saa traf det saa heldigt, at Jens Nørgaard fra Lendum, af hvem Søren havde købt sin Huslod, kom til Stede, og ved hans Mellemkomst ordnedes
+<pb n="34" xml:id="s34" facs="adl/skjold/skjold_01/skjold_01_034"/>
+Sagen let. Snart skyndte Søren sig at læsse paa under en befriende Følelse af, at nu var han over den Pine.</p>
+        <p xml:id="idm140513902012624">Det blev en træls Hjemkørsel med de magre Stude, der næsten krøbe frem i det dybe Sand. Engang imellem stode de stille og pustede, men fremad gik det dog ud i det ensomme Moseog Klitlandskab. Solen gik under, og Dagen sov ind, alle Lyde stilnede af, kun Naturens Aandedræt hørtes, mens Køretøjet skred langsomt længere og længere ud i Stilheden.</p>
+        <p xml:id="idm140513902011600">Studene dinglede af Slaphed; tilsidst kunde de ikke flytte en Fod. Han saa medlidende paa dem og tænkte, at han gærne vilde tage et Tag for dem, om det kunde have nyttet. Saa lokkede han dem med venlige og opmuntrende Raab et Stykke frem igen.</p>
+        <p xml:id="idm140513902010704">Endelig svingede han ind paa sin egen Hedelod, hvor han skimtede sit Hus i Sommernattens lette Taage.</p>
+        <pb n="35" xml:id="s35" facs="adl/skjold/skjold_01/skjold_01_035"/>
+        <p xml:id="idm140513902009104">Det var underlige og mangfoldige Tanker, der rørte sig hos ham, da han kom dragende med dette Læs til sit Fremtids Hjem.</p>
+        <p xml:id="idm140513902008464">Der var mange Læs tilbage.</p>
+        <pb n="36" xml:id="s36" facs="adl/skjold/skjold_01/skjold_01_036"/>
+      </div>
+      <div xml:id="idm140513902006784">
+        <head xml:id="idm140513902006528">V.</head>
+        <p xml:id="idm140513902006144">Det unge Husmandsbrug med Bygning og Besætning krævede foreløbigt mere, end det gav, saa Søren visse Tider paa Aaret maatte ud paa Erhverv. Men han søgte ikke de Pladser, hvor kun en almindelig Dagløn kunde opdrives. Han var et hurtigt Hoved og fik snart Sans til at spore en Akkord op, der kunde give godt Udbytte. Dog var det jo kun i Snuptag, han paa denne Maade huggede sig Vinding til; thi ret længe kunde han jo ikke være borte, uden at Huset forsømtes. Og det derhjemme var som hans Øjesten; alt, hvad han
+<pb n="37" xml:id="s37" facs="adl/skjold/skjold_01/skjold_01_037"/>
+kunde skrabe sammen, kastede han i Bruget og Driften, thi han troede paa Fremtiden, Sejren, Høsten og de gyldne Agre.</p>
+        <p xml:id="idm140513902003696">Men i de første Aaringer, paa de Tider Søren saaledes var ude, og Ane sad tilbage i det enlige Klithus som en fremmed midt paa Marken, da var Forladthedsfølelsen bleven hendes Gæst. Ensomheden var kommen sivende ind til hende ude fra de øde Lyngflader og de tomme Klitter. Alt, hvad hun gjorde for at holde den tilbage, var som kastet i Strømmen; den bare sivede og sivede og steg som Vand i Mørke. Da var hun mange Gange løben op paa Bakkerne mod Syd, hvorfra hun kunde se Kirketaarnet i sin Fødeby. Her stod hun saa og stirrede med Haanden over Brynet og lyttede, naar Solen ringedes ned, thi ud i Klitten naaede ikke Klangen af nogen Kirkeklokke.</p>
+        <p xml:id="idm140513902001952">Den fremmede, som slaar sig ned
+<pb n="38" xml:id="s38" facs="adl/skjold/skjold_01/skjold_01_038"/>
+herude, gribes nemlig, naar han eller hun sidder ene i et tomt Hus, af en uimodstaaelig Længsel efter Menneske-Samfund, uagtet den storslaaede Natur her har sin særegne Skønhed. Vel ere Klitterne graa og triste, Lyngbakkerne tunge og mørke, og Mosset ved Ens Fod ser vissent ud. Men en Sommerdag bringer Forvandling. Herude gælder Belysningen mere end noget andet Sted. Naar Solen staar højt, vælder Straalerne ned over det aabne Landskab og vokser til et Hav af Lys, der vugger sig mellem Synsrandens vide Kyster. Den raakolde Jord indsuger som i missende Vellyst det varme Sollys, der glitrer og blinker paa alle Kanter, paa Vinduesruder og hvidkalkede Husvægge, paa alt, hvad der kan kaste Genskin. Ilende Varmebølger jage hinanden, hvorhen Øjet vendes, og rundt om ses gennem et flimrende Straalenet fjerne Banker, Huse og Vejrmøller flydende oppe i den lyse, tindrende Luft.</p>
+        <pb n="39" xml:id="s39" facs="adl/skjold/skjold_01/skjold_01_039"/>
+        <p xml:id="idm140513901997232">- Men, naar Solen synker, og Lyset dæmpes, da er Tiden til at se dette Land i sin fulde Skønhed, da bliver Formerne bløde og yndefulde, Farverne blide og lækre, da bliver Mosset til Fløjl, hvor man træder, Bakkesiderne mod Syd falder i svære Folder som kæmpemæssige Plydstæpper, og mod Nord ligger Klitterne langt borte som lette Dynger af creme-gul Silke ... .</p>
+        <p xml:id="idm140513901996160">En saadan Sommerdag færdedes Ane i sit Underskørt mellem Kør og Faar. Søren var ude paa Kanalarbejde. Men om hun end savnede ham stærkt, saa havde hun nu ikke længere Rum for hin Længsel efter Menneske-Samfund som i tidligere Dage. Henne ved Husgavlen sad jo den gamle Brander med Messingbrillerne paa Næsen og huggede paa det ny Udhus, mens Børnene legede med Spaanerne, som krummede sig paa Jorden. Og desuden havde hun jo travlt med Kreaturerne.</p>
+        <p xml:id="idm140513901995120">Hun undredes over, at de kunde
+<pb n="40" xml:id="s40" facs="adl/skjold/skjold_01/skjold_01_040"/>
+finde Føden paa disse golde Agre, thi i hendes Fødestavn naaede Græsset til Køernes Knæ, og Kornet stod dér saa tæt, at en Orm knap kunde vride sig igennem det.</p>
+        <p xml:id="idm140513901993232">Alligevel, her var Ens egen Grund og ligesom et Fodfæste for hende og Søren, syntes hun. Men Ploven stod i denne Tid og ventede, de spæde Træplanter langs Skellet hang med Bladene, og Marken laa kold og død, thi Søren var borte ... . Blot han dog maatte beholde Helsen, saa kunde det dog være, de kunde naa frem til det, de havde tænkt sig ... ., men hun turde næsten ikke tænke derpaa, for hun forstod godt, hvor fin en Traad, det hang i, hvor varsomme, de skulde fare, at det skøre ikke skulde briste, og ofte ængstedes hun for, at den lille Ting skulde indtræffe, som kunde forstyrre det hele .,..</p>
+        <p xml:id="idm140513901992128">Det var hendes Tanker.</p>
+        <p xml:id="idm140513901991712">Imidlertid brændte Solen lige ned
+<pb n="41" xml:id="s41" facs="adl/skjold/skjold_01/skjold_01_041"/>
+paa Ryggen af Dyrene, der pilede af Sted i alle Retninger med Halen til Vejrs. Alle af Familien, der kunde flytte Foden, kom i Bevægelse. Den gamle kastede Brillerne og Træskoene, thi naar de tunge Klove gik over Rugen, var det, som de traadte paa hans Hjærte, for paa hvert lille Straa kunde der dog være bleven nogle Kærner til Sønnens fattige Bord.</p>
+        <p xml:id="idm140513901989408">Efter et Maaltid af Kartofler og Meldyppelse og efter Middagsluren fik den Gamle atter Øksen fat. Mens han huggede, tænkte han paa ethvert venligt Ord, ethvert mildt Øjekast og enhver Overbærenhed, de unge havde vist ham, med hver Nagle, han slog i, fæstede han et godt Ønske for deres Fremtid, og ethvert Stykke blev sammenføjet under Oldingens Velsignelse, mens Dagens Skygger bleve længere og længere.</p>
+        <p xml:id="idm140513901988240">Da stode Husene og Vejrmøllerne mod Øst klart tegnede paa den faste Jord, og Bankerne mod Vest laa i
+<pb n="42" xml:id="s42" facs="adl/skjold/skjold_01/skjold_01_042"/>
+blaalig Dis under en purpurfarvet Himmel. Den gamle Mand hvilede sine Arme, saa paa den synkende Sol og tænkte paa Aftenen, som kvælder over ethvert Liv.</p>
+        <pb n="43" xml:id="s43" facs="adl/skjold/skjold_01/skjold_01_043"/>
+      </div>
+      <div xml:id="idm140513901984800">
+        <head xml:id="idm140513901984544">VI.</head>
+        <p xml:id="idm140513901984160">Det drømmende, violette Skær fra den blomstrende Lyng i September havde frydet Øjet ved sin indtagende Ynde. Men nu laa Hedefladen falmet med visne Græstotter stikkende op mellem afblomstrede, rødbrune Ris, forpjuskede af Blæst og Regn. Langhaarede Kreaturer tradskede løse omkring over nysaaet Rug og pløjede Stubbe, søgende Erstatning for det svindende Huld. Faareflokkene drev, hvorhen Vejret førte dem, og hver Dag løb Børn omkring og spurgte efter bortløbne Vædre.</p>
+        <p xml:id="idm140513901983152">Ude i Klitterne var der Travlhed
+<pb n="44" xml:id="s44" facs="adl/skjold/skjold_01/skjold_01_044"/>
+med at dæmpe de aabne Sande, der truede Markerne, hvorpaa Befolkningen skulde nære sig, - en Kamp mod Flyvesandet, hvis Saga indeholder mange Optrin om vidtstrakte Hærgninger, magtløs Modstand og rømmet Jord.</p>
+        <p xml:id="idm140513901981120">Søren Brander hentede Lyng, og Jens Bjærg lagde den ned i de flyvende Klitter, Børn rykkede Tag, som nogle Kvinder, anførte af Peter Vibe, plantede paa udsatte Steder.</p>
+        <p xml:id="idm140513901980384">Ude fra Havet suste Vinden ind mellem Sandbjergene og hvislede gennem Marehalmens blaagrønne Blade. Efteraarsrusk sivede ned fra mørke Skyer og dryppede fra Kvindernes Skørter, der vare trevlede forneden. Børnene bankede de af Kulde og Fugtighed hovnede Hænder. Peter Vibe tog sig en Ekstra-Skraa og rettede paa Kvinderne, der under drilagtig Spøg og Munterhed gjorde ham Førerstillingen pinagtig nok.</p>
+        <p xml:id="idm140513901979200">Banker og Flader bredte sig i
+<pb n="45" xml:id="s45" facs="adl/skjold/skjold_01/skjold_01_045"/>
+storslaaet Udstrækning som et Bjærglandskab med udbrændte Kratere og Kegletoppe, hvorover Stormen fo'r og piskede Slud og fygende Sand til Taage, mens Havet dundrede mod den skumklædte Strand, og Efteraarshimlen var som en aaben Sluse for alskens Uvejr.</p>
+        <p xml:id="idm140513901977136">Ved Middagstid blev det en ren Orkan, og enhver søgte at vinde hjem til sit, hvor Stumper af Mønningstørv og gammelt Tag, som Stormen ruskede af Huset, røg dem om Ørene. Der var nok at gøre med at afstive de rystende Hytter, der bævede som angstfulde Dyr.</p>
+        <p xml:id="idm140513901976208">Efter at have bundet Huerne fast, hjalp Mændene hinanden at faa alt, hvad der havde Tynge og Vægt, op paa Tagene, og alt, hvad der havde Styrke, anbragt til Stivere. Men Kvinder og Børn sade skræmte i Stuerne og skælvede for det Herrens Vejr, som bragede gennem Husene. -</p>
+        <p xml:id="idm140513901975248">Søren Brander havde sat al Kraft ind paa sit ny Udhus, saa Agrene laa
+<pb n="46" xml:id="s46" facs="adl/skjold/skjold_01/skjold_01_046"/>
+vanddrukne som en Svamp og ventede paa Udgrøftning; dog havde han ikke faaet det helt færdigt, - og nu kom Orkanen.</p>
+        <p xml:id="idm140513901973344">Den tudede i Skorstenen, slog Døre op og hug Døre i, saa Kalken raslede fra Lervæggene, den klamrede med alle løse Genstande og førte nogle tomme Baljer, der stode ved Brønden, ud i Heden. Den bøjede sig ind gennem Aabningen paa den halvfærdige Bygning og stemmede sig mod Taget fra den indvendige Side, saa det bølgede paa Lægterne, og man hvert Øjeblik kunde vente det revet bort, spredt til alle Sider, og det blotte Træværk brase sammen som et tørt Skelet.</p>
+        <p xml:id="idm140513901972288">Søren, Ane og Faderen tumlede ivrige af Sted, men vidste vel næppe, hvad de gjorde, saa rædselslagne følte de sig i deres Afmagt over for den utæmmede Naturens fremfarende Vælde, der hensynsløst syntes at ville knuse
+<pb n="47" xml:id="s47" facs="adl/skjold/skjold_01/skjold_01_047"/>
+det, som endelig møjsommeligt var rejst under Ængstelser og bange Haab.</p>
+        <p xml:id="idm140513901970176">Granderne kom slæbende med Træer, Fjel og andre anvendelige Ting. Folk løb ilfærdige frem og tilbage, nogle vidste næppe, hvor de skulde gribe fat. Peter Vibe gjorde Tegn og Fagter og raabte og kommanderede, men ingen kunde i Bulderet høre, hvad han sagde, ingen brød sig heller derom. Løse Straa hvirvledes rundt i Luften. Huset knagede uafbrudt i alle Sammenføjninger og vaandede sig under Stormens mægtige Tag.</p>
+        <p xml:id="idm140513901969136">Ane kom ud en Gang imellem, men Skørterne snoede sig om hende, saa hun næppe kunde flytte Foden, og knapt kunde hun staa paa Jorden, især under de Omstændigheder, hvori hun for Tiden befandt sig.</p>
+        <p xml:id="idm140513901968336">Da hendes Mand løb forbi hende, udbrød hun med graadkvalt Stemme: «Aa, Herregud, Søren!» Han hørte intet, saa hende ikke, skyndte sig op
+<pb n="48" xml:id="s48" facs="adl/skjold/skjold_01/skjold_01_048"/>
+paa Taget med et Tov. Den gamle, der havde Møje med at holde sig paa Benene, gik omkring og klagede sig, mens han tørrede de rindende Øjne.</p>
+        <p xml:id="idm140513901966128">Stormen rasede som et buldrende Hav, hvori enhver anden Lyd og Larm druknede. I stigende og faldende Bølger brusede den mod Hytten, der gav sig som et Skib i Havsnød. Oppe paa Tagrygningen sad Søren med revne Klæder, bart Hoved og vildt flagrende Haar om det kridhvide Ansigt - som paa den sidste Planke.</p>
+        <p xml:id="idm140513901965104">- Saa kom Natten, da ingen kunde udrette noget. Men ingen kunde heller ligge rolig i Sengen. De sorte Skikkelser arbejdede sig langs de rystende Husvægge, lyttende, spejdende og følende sig for. I den mørke, stormfulde Nat vaagede Beboerne over de faldefærdige Huse, som var deres eneste Rigdom.</p>
+        <p xml:id="idm140513901964112">Næste Morgen saas Ødelæggelsen. Nedstyrtede Skorstenspiber, oprevne
+<pb n="49" xml:id="s49" facs="adl/skjold/skjold_01/skjold_01_049"/>
+Tage, knuste Vinduer, faldne Mure, væltede Tørvestakke, - dette var Stormens triste Spor. Ogsaa hos Søren Branders var Skaden ikke ringe.</p>
+        <p xml:id="idm140513901962160">Og Vinteren stod for Døren.</p>
+        <pb n="50" xml:id="s50" facs="adl/skjold/skjold_01/skjold_01_050"/>
+      </div>
+      <div xml:id="idm140513901960416">
+        <head xml:id="idm140513901960160">VII.</head>
+        <p xml:id="idm140513901959744">Hedens Hulveje og vildsomme Spor gennem dybt Sand og over knudrede Tuer var den eneste Forbindelse mellem Klitten og Omverdenen.</p>
+        <p xml:id="idm140513901959216">Dog hørte man aldrig nogen komme til Skade ved at vælte, thi der er ingen, der, som en Klitbo, forstaar at liste sig frem med et Par Stude over ufarbare Steder, ingen, der som han i Nattens Mørke forstaar at famle sig frem i al Sindighed og naa netop derhen, hvor han skal.</p>
+        <p xml:id="idm140513901958256">Men naar Jordemoderen skulde hentes, tyede man gerne til Niels Pind, Klittens Krøsus og ældste Nybygger. Han havde altid et Par velnærede Heste,
+<pb n="51" xml:id="s51" facs="adl/skjold/skjold_01/skjold_01_051"/>
+og ved saadanne Lejligheder var der aldrig Nej i hans Mund, hvor tvær end ellers denne forsigtige Pengepuger kunde være.</p>
+        <p xml:id="idm140513901956192">En Efteraarsaften var Niels Pind paa Farten efter Madam Hansen til Søren Branders Kone. Da Niels var til Aars, var Jens Bjærg fulgt med for Mørkets Skyld. Det var nemlig saa begsort, at man som en blind hvert Øjeblik frygtede at løbe imod noget. Alligevel skred Vognen rask frem ad en Hulvej, der var saa dyb, at det var umuligt at komme ud af Sporet. Men med ét standsede Hestene.</p>
+        <p xml:id="idm140513901955056">De vare ikke til at drive af Stedet.</p>
+        <p xml:id="idm140513901954624">Niels gik rundt om Køretøjet uden at opdage noget usædvanligt.</p>
+        <p xml:id="idm140513901954096">Madam Hansen begyndte at paakalde Vorherre, men Niels spurgte Jens, om han ikke havde Staal i Lommen. Jo, han havde en Kniv, som «Mirakkelsmeden» havde lavet, men han vilde
+<pb n="52" xml:id="s52" facs="adl/skjold/skjold_01/skjold_01_052"/>
+ikke garantere for, hvor meget Staal den indeholdt.</p>
+        <p xml:id="idm140513901952128">Imidlertid maatte den prøves. Niels huggede Kniven i Forenden af Vognstangen og søgte paany at tvinge Dyrene frem. Umuligt.</p>
+        <p xml:id="idm140513901951472">I dette kritiske Øjeblik muslede det i Lyngen forude, hvor nogle brægende Faar og Lam krøb op af Vejsporet, og saa travede Hestene villigt frem. - Niels Pind udstødte nogle vrissende Lyde, mens Jens Bjærg lo, saa han hoppede i Agestolen.</p>
+        <p xml:id="idm140513901950592">- Imidlertid var der Uro ude i Søren Branders Hytte. I den eneste Stue stod der en Dragkiste, to umalede Sengesteder og en Foldebænk, hvor Børnene hvilede om Natten. Peter Vibes Kone, Maren, var til Stede i Anledning af den forestaaende Begivenhed. Søren og hans Fader gik ængstlige ud og ind og lyttede efter Lyden af Vognhjul.</p>
+        <p xml:id="idm140513901949520">Det viste sig efter en Stunds Forløb,
+<pb n="53" xml:id="s53" facs="adl/skjold/skjold_01/skjold_01_053"/>
+at Jordemoderen fandt det uundgaaelig nødvendigt, at der kom Bud efter Lægen.</p>
+        <p xml:id="idm140513901947760">Søren løb tværs over Grøfter og Banker til Jens Bak paa «den brede Sande»; han var den nærmeste, som holdt Heste, og dog boede han over en Fjerdingvej borte. Blodet bankede som Trommeslag for hans Øren. Tre Mil til Lægen - og han kunde være ude! - Tre Mil tilbage - og hun kunde være død! ... . Han løb, saa han snublede og faldt. Seks Mil! Seks lange Mil! - Disse Veje! - Dette Mørke! - Maaske otte, ti, maaske tolv Timer ... . «Herregud i Himlen!», raabte han højt, «hvis hun dør fra mig og de smaa!» og saa løb han, som naar det er Livet om at gøre ... . Og Jens Bak er saa evindelig langsom i Vendingen! ... . Seks Mil! ... . Han kunde ikke tænke paa andet, mens Rædslen jog ham frem i den bælgmørke Nat ... .</p>
+        <p xml:id="idm140513901945872">Da Jens Bak var kommen af Sengen,
+<pb n="54" xml:id="s54" facs="adl/skjold/skjold_01/skjold_01_054"/>
+havde faaet sig et Par Mellemmader, havde faaet Seletøjet paa Øgene og Vognen smurt, satte Søren sig ned paa en Trillebør, der stod i Gaarden, segnende træt og gennemvaad af Sved, mens Tankerne dundrede gennem hans Hoved i summende Vilderede, som naar mange Mennesker tale i Munden paa hverandre.</p>
+        <p xml:id="idm140513901943712">Imens sade Jordemoderen og Maren Vibe og drak Kaffe, da den syge syntes at slumre. Foldebænken med strittende Halmstraa langs Randen var som en Rede, hvor Ungerne laa og sparkede i Fjerene. Stuens Luft, der var kvalm af de mange Menneskers Aandedræt, blev ophedet fra den næsten glødende Kakkelovn, saa den brændte paa Kinden. En Petroleumslampe, hvis Flamme osede op af et revnet Glas, oplyste Stuen.</p>
+        <p xml:id="idm140513901942528">«Nej, naar jeg ikke kan faa en Taar Kaffe», sagde Maren Vibe og tyggede
+<pb n="55" xml:id="s55" facs="adl/skjold/skjold_01/skjold_01_055"/>
+paa Sukkeret, «saa kan jeg ikke være tilpas».</p>
+        <p xml:id="idm140513901940768">Jordemoderen nikkede bifaldende og blæste paa den rygende Drik.</p>
+        <p xml:id="idm140513901940240">«Her var saamænd ikke saa mange Bønner, En kunde lave en Kop ordentlig Kaffe af», vedblev Maren hviskende.</p>
+        <p xml:id="idm140513901939728">Saa rejste den gamle Brander sig fra Sengen, hvor han havde kastet sig med Tøjet paa, og spurgte sørgmodigt: «Hvad tror du om det, Line?»</p>
+        <p xml:id="idm140513901939040">Jordemoderen haabede det bedste, naar Lægen snart kunde komme.</p>
+        <p xml:id="idm140513901938512">Da han gik ud, bøjede Jordemoderen sig tæt til Maren og spurgte, hvorledes det gik med den gamle nu om Tider.</p>
+        <p xml:id="idm140513901937888">«Naar han kan faa Drammen, saa er det vel omtrent ved det samme, men her er jo ikke stort tilovers, kan du nok forstaa. - Jeg vadskede et Korn for dem den anden Dag», vedblev hun hviskende, «og Søren har saamænd ikke uden tre Skjorter, og de er læmpelige, kan du tro, det ved Gud de er. Men
+<pb n="56" xml:id="s56" facs="adl/skjold/skjold_01/skjold_01_056"/>
+stort skal det jo være alligevel. Han bygger Lade, og han planter Træer, men Folk siger ogsaa, at det er nok for, at han noget før kan gaa paa Sognet ... . En bitte Taar til?»</p>
+        <p xml:id="idm140513901935696">Ane vaagnede og klagede sig.</p>
+        <p xml:id="idm140513901935264">«Det sølle Menneske!» sagde Jordemoderen, «nu kommer det nok!»</p>
+        <p xml:id="idm140513901934800">«Guds Vilje ske! maa vi vel sige», tilføjede Maren Vibe med Blikket skraat op efter og foldede Hænderne over Maven.</p>
+        <p xml:id="idm140513901934288">Den syge Kvinde udstødte de Jammersraab, der ere hjerteskærende frem for nogen anden Lyd.</p>
+        <p xml:id="idm140513901933712">Den gamle traadte til Sengen og strøg hendes Haand, der laa paa Dynevaaret. Han strøg den Gang efter Gang og sagde hele Tiden: «Bitte Ane! Bitte Ane!»</p>
+        <p xml:id="idm140513901933008">Rundt om var der sort Nat. Kun ud fra den lille Stue blinkede Lyset, der brændte for det Vagthold, der
+<pb n="57" xml:id="s57" facs="adl/skjold/skjold_01/skjold_01_057"/>
+vaagede, hvor Liv og Død snart skulde holde Brydetag.</p>
+        <p xml:id="idm140513901931168">Henad Morgenstunden kom Lægen. Han saa sig hjælpeløs omkring i det overfyldte Rum, for han syntes næsten ikke, her var et Sted, han kunde hænge sin Pels.</p>
+        <p xml:id="idm140513901930448">Søren og Faderen gik ude i Laden med Børnene, der klynkede og græd, og der hørte de Véraab og Smertensskrig, der skælvede i Dødsens vilde Angst. Og da hændte noget underligt med Søren. Det var, som han var ganske alene med Gud i Himlen, og saa syntes han, at et helt nyt, hidtil overdækket Lag i hans Indre, brød igennem, noget, han aldrig havde vidst at eje, og det vandt Skikkelse, traadte frit frem for Guds Aasyn og sagde: «Du faar lade mig beholde hende, Vorherre! ellers gaar det galt!»</p>
+        <p xml:id="idm140513901929440">Siden blev han saa sælsom rolig.</p>
+        <p xml:id="idm140513901928976">En Time efter aandede et nyt Liv under Sørens Tag. «Men», sagde Lægen:
+<pb n="58" xml:id="s58" facs="adl/skjold/skjold_01/skjold_01_058"/>
+«Ro og Diæt! - Og saa maa De virkelig sørge for at faa nogle flere Sengeklæder, for dette her kan Konen ikke være tjent med».</p>
+        <p xml:id="idm140513901927040">Om Morgenen, da Lampen slukkedes, og Dagens Graalys sivede ind ad de duggede Ruder, kom Peter Vibe og spurgte, hvorledes det stod sig.</p>
+        <p xml:id="idm140513901926512">Han fik en Taar Kaffe, og Maren sagde til ham, at de kunde vel gerne tage nogle af Børnene hjem mod sig, da Ane skulde have Ro.</p>
+        <p xml:id="idm140513901925856">Jo, det var der da ingen Ting i Vejen for.</p>
+        <p xml:id="idm140513901925408">«Vi faar dem vel nok stablet sammen, - og saa kan Ane vel ogsaa laane vor Underdyne».</p>
+        <p xml:id="idm140513901924928">«Det byder sig selv!» svarede Peter og slubrede Kaffen i sig.</p>
+        <p xml:id="idm140513901924464">Morgenens Døsighed efter en Vaagenat, fuld af Spænding og Bekymring, sænkede sig over Husets Beboere, der toge sig en lille Hvile.</p>
+        <pb n="59" xml:id="s59" facs="adl/skjold/skjold_01/skjold_01_059"/>
+      </div>
+      <div xml:id="idm140513901922512">
+        <head xml:id="idm140513901922256">VIII.</head>
+        <p xml:id="idm140513901921840">Paa en rasende Storm af Nordøst holdt Vinteren, barsk og bidende, sit Indtog over den nøgne Kyst og herskede med knugende Haand over de lave Huse bag Klitterne.</p>
+        <p xml:id="idm140513901921120">Saa snart en bar, optøet Plet var at se paa de hvidfrosne Ruder, lod Vinteren den strax fryse til igen, at ikke en Solstraale skulde trænge ind i Hytterne, og naar nogen viste sig under aaben Himmel, piskedes han i Ansigtet af Sne og Hagl, eller Kulden sved den nøgne Hud, der ikke var beskyttet af uldne Lag, alt følsomt og levende søgte Ly for Vinterens haarde Vælde.</p>
+        <p xml:id="idm140513901920080">Klitboen færdedes i Stald og Stue,
+<pb n="60" xml:id="s60" facs="adl/skjold/skjold_01/skjold_01_060"/>
+i Lo og Lade som i dunkle Kældergange, mens Vinteren tærede paa Saltmad og Foder. Naar han røgtede om Aftenen ved Lygtens Skær, stængede han Døre og Lemme, skudrede sig og sukkede: «Gud hjælp den arme, der hverken har Hus eller Hjem!»</p>
+        <p xml:id="idm140513901917936">- Søren Branders Hustru maatte holde Sengen. Hun saa næsten aldrig Solen i denne Tid. De korte Dage vare kun som et Tusmørke paa nogle faa Timer, men Nætterne vare saa uendelig lange.</p>
+        <p xml:id="idm140513901917168">Naar hun ikke kunde sove, lyttede hun til de mange Aandedræt i den lille Stue og ængstedes for, at de smaa skulde fryse. Ganske vist var næsten alt Gangtøj foruden Dækkener anvendte til Sengklæder, der ikke var øget i samme Grad som Børnetallet, men her var saa koldt, at hun gyste, hver Gang hun stak en nøgen Arm frem i Natteluften. Og nu, det ikke var nødvendigt at vaage med
+<pb n="61" xml:id="s61" facs="adl/skjold/skjold_01/skjold_01_061"/>
+hende mere, kunde det ikke gaa an at fyre om Natten, thi Ildingen var dyr.</p>
+        <p xml:id="idm140513901914800">Søren sov fast ved hendes Side; han havde nemlig vaaget hver Nat i lang Tid og omtrent en Maaned ikke været af Tøjet, kun blundet i Ny og Næ, naar Søvnen overvældede ham.</p>
+        <p xml:id="idm140513901914048">Hvor inderlig god han havde været, tænkte hun, og dækkede ham kærligt til ... . Mon hun nu ikke snart kunde komme op igen! Der trængtes saa haardt dertil. Den Smule, de havde i Saltkarret, var sikkert svunden alt for stærkt. Og Mælken! og Smørret! - Der var dog ingen synderlig Skik paa nogen Ting ... Maren Vibe var saamænd villig og flink til at se over til dem, men det var saa maadelig bevendt med hende til saadan noget ... . Og Renligheden! At hun ogsaa skulde ligge midt i alle disse Ting, som hver Dag kaldte paa hende, det var forfærdelig pinligt ... .</p>
+        <p xml:id="idm140513901912992">Og dette maatte jo være stort Tab for dem! Stakkels, kære, gode Søren! -
+<pb n="62" xml:id="s62" facs="adl/skjold/skjold_01/skjold_01_062"/>
+hun strøg ham uvilkaarligt over Haaret ... . Ja, ja, Vorherre kunde da ogsaa hjælpe!</p>
+        <p xml:id="idm140513901911088">Enten det nyttede eller ikke, kunde hun ikke lade være med at fortælle h a m al Verdens Ting, som trykkede og pinte. Og naar de alle sov, og hun laa ene vaagen, saa syntes hun egentlig bedst, hun kunde ligge og snakke med ham ... . Naturligvis forstod hun jo nok, at hun ikke var saadan saa troende, som hun skulde være, og som saa mange var, men hun kunde ikke gøre det bedre, og nu det paa saa mange Kanter lukkede sig om hende, syntes hun, det var det eneste aabne Sted for en Lysning ... .</p>
+        <p xml:id="idm140513901909984">Naar hun blot kunde blive rask, saa vare de jo unge Folk, og det kom vel nok til at gaa for dem paa en Maade. Alle kunde jo ikke have det lige godt, og Livet var jo ikke altid saa lige ud ad Vejen, - det var der jo heller ingen, der havde lovet hende ... .
+<pb n="63" xml:id="s63" facs="adl/skjold/skjold_01/skjold_01_063"/>
+Ak ja! Hun var saa træt og kunde dog ikke lade være at tænke paa saa mange, mange Ting, for Nætterne vare saa uendelig lange ... .</p>
+        <p xml:id="idm140513901907936">Naar Dagslyset skimtedes, krøb Søren af Sengen og fik tændt i Kakkelovnen. Saa skulde der laves Mad og hundrede andre Smaating var der at udrette.</p>
+        <p xml:id="idm140513901907232">De fulde Fade stode inde i Stuen paa Bordet og paa Dragkisten, og endda var Mælken frossen. Dens Overflade var pudret med Støv, der havde fundet Vej derhen, uagtet Fadene vare dækkede med gamle Aviser. Mælken sugede Dag og Nat al den Os og daarlige Luft, her var, og Fløden stod gammel og vreden i en Krukke under Kakkelovnen.</p>
+        <p xml:id="idm140513901906176">Den gamle hjalp trolig Søren med alskens Gerning, og som utydelige Skikkelser glede de ud og ind i den halvmørke Stues Taage, der rejste sig af Støv fra legende Børn, fra Sengehalmen,
+<pb n="64" xml:id="s64" facs="adl/skjold/skjold_01/skjold_01_064"/>
+naar den rystedes, og Røg fra den utætte Bilæggerovn.</p>
+        <p xml:id="idm140513901904112">Hver Dag snurrede Benene under Søren af den evindelige, hvileløse Trippen, som er forbunden med det kvindelige Arbejde i et Hus, og undertiden mørknedes hans Blik af Træthedens Gnaveri og Utilfredshed. Men saa kiggede han til Ane, hvis blege, magre Ansigt laa paa det snavsede Pudevaar, og hendes Smil lyste saa varmt imod ham, at han mærkede i sit Sind som en rindende Strøm af Glæde, der skyllede det gnavne Væsen bort. Og Benene flyttede sig atter let og villigt.</p>
+        <p xml:id="idm140513901903040">Naar det randt ham i Hu, at det Lys, der her brændte for ham, for nylig havde været saa nær ved at slukkes, steg Lykkens Følelse i hans Bryst, og han maatte give hende et Kys.</p>
+        <p xml:id="idm140513901902288">Men strax kaldte mangeartede og mangfoldige Ting ham igen ind i den daglige Optagethed af de allerførste og
+<pb n="65" xml:id="s65" facs="adl/skjold/skjold_01/skjold_01_065"/>
+allernødvendigste Fordringer til Livs Opholdelse.</p>
+        <p xml:id="idm140513901900448">Der var saaledes ikke megen Tid for Søren til at tænke paa noget andet end at holde Ilden ved lige paa Arnen.</p>
+        <p xml:id="idm140513901899824">Og dog kunde der nok have været Anledning for ham nu i Terminstiden til at bryde sit Hoved, men dels havde han ikke Tid, dels var han træt og udvaaget, og desuden skyede han at fæste Tankerne ved Pengesager i denne Tid. Vel vidste han, at der forestod on Opgorelsns Stund; det skonnede han, som man efter visse Tegn skonner, at Uvejret kommer, - men endnu sejlede Skyerne i det fjerne.</p>
+        <pb n="66" xml:id="s66" facs="adl/skjold/skjold_01/skjold_01_066"/>
+      </div>
+      <div xml:id="idm140513901897536">
+        <head xml:id="idm140513901897280">IX.</head>
+        <p xml:id="idm140513901896896">Den strænge Vinter havde jaget ethvert levende Væsen i sin Hule. Men nu var Naturens Orden atter oprettet. Solen herskede paany, Markens springende Vildt viste sig igen, og enkelte Jægere strejfede i Bakkerne. Klittens Folk krøb ud af Hytterne, og hen over don blændende Sneflade trak de hver med sin Kælke til Mølle med Sække, mons Grisene derhjemme gjorde et Spektakel, som de ikke havde faaet Mel i fjorten Dage.</p>
+        <p xml:id="idm140513901895888">Sørens Hustru kunde atter tage sig af Husvæsenet, hvorfor hans Tanker bleve mere fri, og løsslupne tumlede de
+<pb n="67" xml:id="s67" facs="adl/skjold/skjold_01/skjold_01_067"/>
+gonnem hans Hoved uden at komme til Ro.</p>
+        <p xml:id="idm140513901894048">Han gik udenfor og saa paa Ladebygningen, paa Digerne, Læbælterne, alle disse smaa Begyndelser, som nu laa tilsneede. Mon han skulde faa Lov til at fortsætte dem, naar Foraaret kom? - Det var vel rimeligst, at han til den Tid maatte pakke sammen, flytte bort med Hustru og Børn og sige Farvel til denne Plet, hvor han dog havde slaaet Rod. For alle de Fordringer, der nu strømmede ind paa ham, vare over Evne ... . Købmanden! Doktoren! Apotheke-ren! Renter ... . og næsten intet havde han at sælge til en kontant Skilling. - At han skulde kunne klare de Béter nu, det kunde ikke ske uden Mirakler! ... . Det eneste. der kunde springe, var Grisen. Den var ganske vist bestemt til Saltkarret, men nu blev det ikke denne Gang. Men hvad forslog saa ogsaa det! ... . Der var ingen
+<pb n="68" xml:id="s68" facs="adl/skjold/skjold_01/skjold_01_068"/>
+Slags Arbejde at tjene Penge ved. Jorden laa frossen til alle Sider ... .</p>
+        <p xml:id="idm140513901890768">Saaledes tumlede Tankerne Nætter og Dage, Dage og Nætter, og jo længere Tiden gik, des mere indfiltrede de sig til et uigennemtrængeligt Vilderede. - I saadanne Stunder er det, at Fattigfolks Ansigt fures og ældes, naar Bekymringerne liver Time i Døgnet behersker dets Nerver og Muskler. -</p>
+        <p xml:id="idm140513901889776">Søren gik vel ved sit daglige Arbejde, men der var ingen Glæde at finde, thi det laa paa ham i denne Tid som en ulidelig Tvang og Byrde og forekom ham at være ganske haabløst og uden Spor af Mening.</p>
+        <p xml:id="idm140513901888976">Under disse Omstændigheder sank hans Hoved.</p>
+        <p xml:id="idm140513901888480">Det, der skete i hans Ungdomsaar efter hin Skovfest ved Kratholm, var som et skabende Bliv over Sindets øde Grunde, som skød Urter og Blomster, en ny Verden opdukkede af Sjælens Dyb.</p>
+        <p xml:id="idm140513901887712">Siden den Tid havde hans Evner
+<pb n="69" xml:id="s69" facs="adl/skjold/skjold_01/skjold_01_069"/>
+og Kræfter samlet og ordnet sig om et fast Midtpunkt, det Maal, han havde sat sig. Det havde givet ham den ranke Holdning, og derom havde hans Tanker kredset, det havde fastholdt og ligesom taget i Tjeneste det i hans Personlighed, som vilde frem, som vilde kæmpe og vove. Men det i hans Natur, som vilde vige, Lysterne og det lave, sad uvirksomt tilbage, glemt og uænset for Livets travle Fremadhigen.</p>
+        <p xml:id="idm140513901885552">Men nu vaagnede det glemte paany. Nu, han var ved at tabe Troen, nu Enheden og Sammenholdet flød ud med det synkende Maal, nu kom det mylrende fra Krogene i mange Skikkelser hver med sin lokkende Stemme.</p>
+        <p xml:id="idm140513901884736">Da var der ikke længere eet, han vilde frem for alt. Da kendte han igen i sit Bryst de gamle gyngende Strømninger fra sin Ungdomstid, Trangen til sorgløst susende Lyst ... .</p>
+        <p xml:id="idm140513901883984">I denne Stemning og Sindstilstand stødte han en Aften paa Bolle-Mettes
+<pb n="70" xml:id="s70" facs="adl/skjold/skjold_01/skjold_01_070"/>
+Hytte. Haanden paa Klinken og derind, før han næsten vidste af.</p>
+        <p xml:id="idm140513901882192">Denne Kvinde, hvis tykke, sanselige Læber og læderagtige Hud gjorde et grovt Indtryk, og hvis sorte, urolige Rotteøjne skinnede af Begærlighed, forstod altid at trække Kunder til Huset, der var en velkendt Smugkro. Sin meste Søgning havde hun dog fra en fastere Kreds af Omegnens tvivlsomme Eksistenser, som her havde et Tilholdssted efter deres Sind.</p>
+        <p xml:id="idm140513901881120">Siden kom han her oftere. Dagen efter angrede han det bitterligt. Men uagtet han vidste, at hans Hustru sad grædende hjemme, og Tanken herom skar ham i Hjertet, uagtet han bag sig syntes at høre en kærlig Stemmes bløde og inderlige Kalden, saa dreves han dog af Sted af en overvældende Magt, der var Farten i hans Tanke, Ilden i hans Puls og Styrken i hans Vilje. Og snart efter sad han bænket mellem Bolle-Mettes Stamgæster.</p>
+        <pb n="71" xml:id="s71" facs="adl/skjold/skjold_01/skjold_01_071"/>
+        <p xml:id="idm140513901878800">Der var «Svenskeren», en Slagsbroder med et Høgeansigt, et glubsk Blik og en uforholdsmæssig lang Næse. Der var «Kludesamleren», hvis glinsende, kobberrøde, oppustede Ansigt var som en Svamp med blaa-sorte Porer. Og der var «Faare-Frederik», hvis Tyverier Herredsfogden aldrig kunde faa ham til at bekende.</p>
+        <p xml:id="idm140513901877776">De saa alle gerne Søren, naar han kom stormende ind ad Døren, som han havde nogen i Hælene paa sig, for saa vidste de, at Krudtet vilde fænge.</p>
+        <p xml:id="idm140513901877088">«Ta' mig hundred', ta' mig tusind', ta' mig hundred' Tusind' brunstegte Jævler öppe fra Sverrigs Rike!» brølede Svenskeren og slog i Bordet.</p>
+        <p xml:id="idm140513901876544">Snart var Sviren i fuld Gang. Kludesamleren sang en af Kartemagerens Viser, hvori det hed:</p>
+        <lg xml:id="idm140513901876048">
+          <l xml:id="idm140513901875792">„Vi vil os fryde, imens det er Sommer, Bladene falde saa hastelig af Træ, og det skal være, før Alderdommen kommer, og førend Gigten den gaar i vort Knæ.</l>
+          <pb n="72" xml:id="s72" facs="adl/skjold/skjold_01/skjold_01_072"/>
+          <l xml:id="idm140513901874128">Pigerne smile, naar Verden er sur.</l>
+          <l xml:id="idm140513901873696">Vin er den bedste af alle Slags Kur.</l>
+          <l xml:id="idm140513901873264">Mangen bær' Navn, som de aldrig fortjener, mangen er stolt, for de ejer lidt Guld.</l>
+          <l xml:id="idm140513901872704">Jeg tør knap sige rent ud, hvad jeg mener: Verden den er jo af Tiggere fuld!</l>
+          <l xml:id="idm140513901872144">En tigger Nøgler, en anden tigger Baand, flere tigger Stjerner af den kongelige Haand."</l>
+        </lg>
+        <p xml:id="idm140513901871440">Svenskeren akkompagnerede ved at tromme-lomme paa Bordet, og Faare-Frederik blæste Tuba med Læberne ... .</p>
+        <p xml:id="idm140513901870832">- Men hjemme sad Sørens Hustru med Angsten dirrende i alle Nerver. Selv, naar han var hende nær med venlige Ord og bønfaldende Blikke, saa var Angsten over hende alligevel.</p>
+        <p xml:id="idm140513901870080">Hendes mange Bekymringer bleve nu borte i Sorgens Mulm, som en Skare mørke Fugle forsvinder mod en voksende kulsort Sky. Opad Mulmet steg alle hendes Tanker, og tilbago i dette Mulm sank de igen.</p>
+        <p xml:id="idm140513901869280">I Førstningen var Ulykken kommen over hende som en flængende Kniv i
+<pb n="73" xml:id="s73" facs="adl/skjold/skjold_01/skjold_01_073"/>
+Hjertet. Senere var det, som Sten efter Sten brødes ned af det Hjemmets Værn, deromgav dem, og saaledos, syntes hun, vilde det blive ved, indtil de paa de sammenfaldne Rester i al deres Nøgenhed vilde blive et Bytte for ynksomme og medlidende Øjne. Det var, som hun hele Tiden kunde høre Lyden af den Grunds Hensmuldren, hvorpaa hun havde bygget sin Lykke.</p>
+        <p xml:id="idm140513901862848">Og som Angsten steg, vidste hun hverken Vej eller Sti, og ingen Steds var der trygt at træde, men rundt om var alt som en hængende Gunge.</p>
+        <p xml:id="idm140513901862176">Og Tiden randt kun draabevis. -</p>
+        <p xml:id="idm140513901861744">Naar hun sad ene i Hytten, havde hun kastet sig paa Knæ og raabt til Himlens Gud om Hjælp. Dog, hendes Kvide voksede med Dagenes Tal, og Livet blev mere og mere vildsomt for hende.</p>
+        <p xml:id="idm140513901860976">Men hun blev ikke træt af Bønnen, som hun bad gennem Dage og Uger; alle hendes Tanker, hele hendes Væsen
+<pb n="74" xml:id="s74" facs="adl/skjold/skjold_01/skjold_01_074"/>
+samledes til en Bønnens Suk og Anraabelse.</p>
+        <p xml:id="idm140513901859136">Og da var det, hun efterhaanden mærkede en Sindshvile, hun aldrig før havde kendt. Da var det, hun lidt efter lidt vandt et Fodfæste, der mangefold øgede hendes Bæreevne.</p>
+        <p xml:id="idm140513901858384">Saa var Vejen bleven til at vandre. Men Sorgen fulgte hende dog Dagen igennem, og om Natten sad den ved hendes Seng og stirrede paa hende, naar hun vaagnede.</p>
+      </div>
+      <pb n="75" xml:id="s75" facs="adl/skjold/skjold_01/skjold_01_075"/>
+      <div xml:id="idm140513901856592">
+        <head xml:id="idm140513901856336">X.</head>
+        <p xml:id="idm140513901855952">En Morgen vaagnede Søren, efter at han om Aftenen var kommen sent hjem fra Smugkroen. Der var fejet og rent i Stuen, men tyst og tomt, kun regelmæssig Knippen af det gamle Stueuhr var den eneste Lyd. Han vaagnede ikke til Hjemmets Liv med Børnenes glade Pludren, thi der var ingen Mennesker derinde. For ham var det en Stilhed, der satte ham ene. Den betød nemlig, at han fjernede dem, der stod hans Hjerte nærmest, mere og mere fra sig, saa der blev et bredere og bredere Bælte af Tomhed og Dødsstille mellem ham og dem.</p>
+        <p xml:id="idm140513901854912">Han rodmede, som han laa og tænkte
+<pb n="76" xml:id="s76" facs="adl/skjold/skjold_01/skjold_01_076"/>
+efter. - - Han vendte sig mod Væggen, og Angerstaarer trillede ned ad hans Kinder ... . Nu skulde der være Slut! - Og dog, hvor ofte havde han ikke tænkt det samme, og hvorofte var ikke det gode Forsæt henvejret! ... . Men nu! ... .</p>
+        <p xml:id="idm140513901852784">Saaledes brødes Tankerne, mens Urets ensformige Tik! - Tak! mindede ham om Tiden, der ligegyldig og ufølsom for Kampen i Menneskets Bryst, gaar sin evige Gang, enten Livet eller Døden sejrer.</p>
+        <p xml:id="idm140513901852000">Han sprang rask op og klædte sig paa.</p>
+        <p xml:id="idm140513901851520">Der blev ikke talt mange Ord i Dagens Løb. Endda han gik saa ydmygt og bøjede af og gjorde sig lille, blev der tavst omkring ham, og naar der taltes, selv om de mest dagligdags Ting, havde Ordene en sørgmodig Klang som i et Hus, hvor et Menneske ligger for Døden.</p>
+        <p xml:id="idm140513901850592">Dagen efter gik ligedan. Da syntes
+<pb n="77" xml:id="s77" facs="adl/skjold/skjold_01/skjold_01_077"/>
+Søren, at det gik for vidt. Han trak Brynene sammen og traadte fastere i Gulvet.</p>
+        <p xml:id="idm140513901848832">Ude i Loen traf han Faderen, der havde gaaet og mimret med Munden, som han havde noget paa Sinde.</p>
+        <p xml:id="idm140513901848336">«Hum! Du er vel ikke bleven i Lyst for Drik?»</p>
+        <p xml:id="idm140513901847888">Søren blæste lidt af det.</p>
+        <p xml:id="idm140513901847440">«Ja, det er meget farligt at blive i Lyst for det, min Søn!» vedblev Faderen med Taarer i de rødrandede Øjne.</p>
+        <p xml:id="idm140513901846928">«Aah!» trak Søren paa Akslerne og gik.</p>
+        <p xml:id="idm140513901846480">«Ak, ja! Det er jo ikke saa godt!» sukkede den gamle.</p>
+        <p xml:id="idm140513901846032">Men Søren sagde til sin Hustru: «En skulde næsten tro, her var Lig i Huset! Hvad er der i Vejen?»</p>
+        <p xml:id="idm140513901845424">Med stor Alvor, men roligt Udtryk, svarede hun: «Det ved du vel ligesaa godt som jeg. Og jeg gruer for Fremtiden. - Ja, det gør jeg, Søren!»</p>
+        <pb n="78" xml:id="s78" facs="adl/skjold/skjold_01/skjold_01_078"/>
+        <p xml:id="idm140513901843472">«Fremtiden! - Den har jeg vist tænkt lige saa meget paa som du!»</p>
+        <p xml:id="idm140513901843008">«Vil du leve den i Selskab med dem, du kommer sammen med hos Bolle-Mette?»</p>
+        <p xml:id="idm140513901842528">«Det er - saa bandte han - da ikke heller noget at gøre saa megen Væsen af!» svarede Søren og saa bister ud.</p>
+        <p xml:id="idm140513901842016">«Det er ikke ad den Vej, du bliver til den Mand, du har tænkt!»</p>
+        <p xml:id="idm140513901841552">«Hvad skal jog blive til, - hum!»</p>
+        <p xml:id="idm140513901841120">«Du har engang tænkt anderledes ... . Søren! Ved du, at jeg har været stolt af dig. Naar jeg hørte paa dig og saa dig gaa i Lag med Sagerne, saa har jeg syntes, at du var don raskeste Mand, der var til! - Jeg har kanske aldrig sagt dig det for!»</p>
+        <p xml:id="idm140513901840464">Ved disse Ord kom et Blink i Sørens brune Øjne. Han saa hen for sig og sagde ligesom i Tanker: «Vi ere for fattige! Vi reder os aldrig ud af det!»</p>
+        <pb n="79" xml:id="s79" facs="adl/skjold/skjold_01/skjold_01_079"/>
+        <p xml:id="idm140513901838656">«Tror du, jog er ræd for at blive en fattig Kone, saa tror du fejl!»</p>
+        <p xml:id="idm140513901838192">Han saa opmærksom paa hende. «En arm og ussel Stymper, der kommer paa Sognet, maaske paa Fattiggaarden! En foragtet Stakkel, en haanet Skabning uden Ret og Magt! - Er du ikke ræd for det!?»</p>
+        <p xml:id="idm140513901837408">«Nej, det gor mig ikke ulykkelig, det forstaar jeg nu, naar vi kan dele med hverandre. Men, hvis du vil gaa til den Side, hvor Bolle-Mette er, saa vil jeg græmme mig!»</p>
+        <p xml:id="idm140513901836832">Han fo'r op: «Har du haft nogen Grund til at skamme dig over mig endnu!» raabte han med lynende Øjne og traadte truende hen til hende.</p>
+        <p xml:id="idm140513901836160">Ane saa vist paa ham: «Du skrækker mig ikke, Søren! - Der er ingen Ting i Verden, der kan skrække mig!» sagde hun med løftet Hoved, «uden een Ting. Om du skulde blive en .... . et Menneske, som - som jeg ikke kunde
+<pb n="80" xml:id="s80" facs="adl/skjold/skjold_01/skjold_01_080"/>
+agte; det er det eneste, jeg bærer Rædsel for!»</p>
+        <p xml:id="idm140513901833984">Som et Lyn var Søren ude af Døren. - - - Den gamle Brander gik stille med Dørene i Sønnens Hus. Og det var tunge Tanker, han bar paa. Han saa tilbage over sit Liv og fandt let det mørke Punkt. Og saa spurgte han sig selv, om slige Lyster ogsaa kunde arves? Om den Ulykke, der nu truede Sønnens Hjem, ogsaa maatte komme som Forbandelso over lians hvide Haar?</p>
+        <p xml:id="idm140513901832944">Da samlede han de sidste Rester af Sindets Styrke og Haandens Kraft for at hjælpe til at holde Ødelæggelsen borte. Haandsnild, som han var, havde han ikke tjent saa ganske lidt ved at flette Haandkurve af Klitvæksternes Rødder, som han afbarkede og tørrede. I den senere Tid havde han ogsaa bundet store Tørvekurve af Enebærris. Nu sad han og jagede med dette Arbejde fra tidlig Morgen til ud paa Vinternatten. Kulde, Alderdomssvaghed og
+<pb n="81" xml:id="s81" facs="adl/skjold/skjold_01/skjold_01_081"/>
+gammel Synd rystede det, skrøbelige Legeme, men det var som noget af Farten fra hans Ungdomstid paany blussede i hans Blod, og som han nu skulde oprette et helt Livs Forsømmelse.</p>
+        <p xml:id="idm140513901830304">Da der ikke var længe imellem, at han kunde give de unge nogle Kroner, blev Søren opmærksom paa denne Husflid. Her var maasko en Redningsplanke, tænkte han. Risene lod jo Gud gro gratis op af Jorden, og naar de nu alle, baade Ane, han og Børnene hjalp til, saa maatte der vel egentlig kunne tjenes dygtigt.</p>
+        <p xml:id="idm140513901829280">Snart var den lille Stue forvandlet til et helt Værksted. Over det sorte Lergulv laa strøet visne og grønne Snitlevninger mellem hinanden, og Enebærrens Smaabunker fyldte det snevre Rum med sin ejendommelig ramme og syrlige Duft.</p>
+        <p xml:id="idm140513901828416">Medens de andre Klitboere døsede paa Bænken i denne Vintertid, kunde Søren Brander køre det ene Læs Kurve
+<pb n="82" xml:id="s82" facs="adl/skjold/skjold_01/skjold_01_082"/>
+til Købmanden efter det andet ... . Det viste sig at være en ikke ubetydelig Indtægtskilde, som sprang, just som Pengenøden var størst.</p>
+        <p xml:id="idm140513901826272">Glæden spillede i den gamles Øjne herover. Men det kom snart paa det sidste med ham. Den sidste Tids Anstrængelser havde taget haardt paa ham, saa han blev mere og mere affældig, og da Vaarens første Tegn var i Luften, døde han.</p>
+        <p xml:id="idm140513901825408">Da han laa paa sit yderste, havde han haget sine Knokkel-Fingre i Sønnens Haand og sagt: «Lov mig! Lov mig, at ... .»</p>
+        <p xml:id="idm140513901824768">«Jeg skal nok!» Søren trykkede hans Haand.</p>
+        <p xml:id="idm140513901824320">«Ja for - han trak Vejret dybt - «jeg er ræd, det kan slægte!»</p>
+        <p xml:id="idm140513901823856">Saa havde han vinket Sønnekonen hen til sig og givet hende den anden Haand. Dermed var Livets Lys slukket i hans Øje.</p>
+        <p xml:id="idm140513901823216">Men disse Ord om, at det kunde
+<pb n="83" xml:id="s83" facs="adl/skjold/skjold_01/skjold_01_083"/>
+slægte, udaandet af en døende, der vel tog det sidste Overblik over sit Livs Regnskab, hvisket af en Aand, der ligesom holdt sig svævende over det mærkelige Livets Grænseskel, og som maaske derfor saa og hørte, hvad andre ikke saa og hørte, disse Ord vakte mange Tankor i Sørens Sind om Livets Alvor og dets Sammenhæng med andres, den Slægt, der gaar forud, og den, der kommer efter.</p>
+        <p xml:id="idm140513901821008">Sjældnere og sjældnere kom han nu i Smugkroen, især siden den store Samtale med Ane. Under hin Ordveksel havde han skønnet, at han ikke kendte hende til Bunds, thi da hun hin Dag sagde, at intet i Verden kunde skrække hende, da syntes han, hun groede i Vejret for hans Øjne og blev større, end han havde troet, hun var. Det Blik, hvormed hun da saa paa ham, var ligesom Lyset fra et indre Liv, han hidtil ikke rigtig havde kendt, skønt de havde levet saa længe sammen ... .</p>
+        <pb n="84" xml:id="s84" facs="adl/skjold/skjold_01/skjold_01_084"/>
+        <p xml:id="idm140513901818848">End nu ham selv? - Ja, hvor ofte havde han ikke mærket nye Lag af ondt og godt bryde frem af Sindets dybe Grund, - ligesom der hver Stund viser sig nye Lag, naar mankuleg raver Jorden ... . Maaske det kunde blive vod nedefter. Og kanske der slet ingen Bund var i et Menneskes Sjæl ... .</p>
+        <p xml:id="idm140513901817872">- Der var een Ting, Ane bar Rædsel for, men hun skulde ikke ængste sig, det skulde der nok blive sat en Bom for. Han vilde ogsaa nok vise, at han ikke var bare Melgrød.</p>
+        <p xml:id="idm140513901817136">Og saa gik han og rullede sin Spændkraft sammen som en Fjeder.</p>
+      </div>
+      <pb n="85" xml:id="s85" facs="adl/skjold/skjold_01/skjold_01_085"/>
+      <div xml:id="idm140513901815376">
+        <head xml:id="idm140513901815120">XI.</head>
+        <p xml:id="idm140513901814736">Lendum - Nørgaard var en nyopført Bondegaard. De fire sammenbyggede Længer, hvis mange Vinduer og Døre vare fuldstændig symetrisk ordnede, omsluttede en rummelig Gaardsplads, der var saa ren og bar med sin fejede Brolægning, at en Fugl næppe kunde bjærge et Halmstraa til sin Rede.</p>
+        <p xml:id="idm140513901813760">Fra denne sin Besidens sendte den mægtige Jorddrot Bud til Søren, om han uopholdelig vilde give Møde til et paatrængende Arbejde.</p>
+        <p xml:id="idm140513901813088">Der hengik imidlertid flere Dage - han skulde nemlig have det sidste Læs Kurve for Vinteren færdig - inden Husmanden indfandt sig i den oliemalede
+<pb n="86" xml:id="s86" facs="adl/skjold/skjold_01/skjold_01_086"/>
+Dagligstue, hvor Jens Nørgaard sad og stavede sig gennem Stiftsavisen til langsomme Drag af sin Meerskumspibe.</p>
+        <p xml:id="idm140513901810992">«Du har nok travlt nu om Tider!» begyndte Jens Nørgaard spydigt og lod Avisen synke.</p>
+        <p xml:id="idm140513901810512">«Ja», svarede Søren bestemt.</p>
+        <p xml:id="idm140513901810080">«Er det med at plante Træer? De Narrestreger skulde du holde dig fra. Du gaar mins'æl paa Sognet ved det. Det siger Folk ogsaa».</p>
+        <p xml:id="idm140513901809552">«Naa, gør de det!»</p>
+        <p xml:id="idm140513901809136">«Ja, - og saa vil jog helles bede om, to du møder, naar En sender dig Bud».</p>
+        <p xml:id="idm140513901808656">«Naa vil du det, Jens Nørgaard!» Søren trak Brynene sammen.</p>
+        <p xml:id="idm140513901808192">«Ja, Fanneme vil jeg!»</p>
+        <p xml:id="idm140513901807760">«Vi skal vel være to om det!»</p>
+        <p xml:id="idm140513901807328">«Vil du trads' mig!» fo'r Jens op. «Du husker vel, hvis Penge der staar i Huset! Jeg skal helles nok ta' det stejle af dig, Farlille!»</p>
+        <p xml:id="idm140513901806784">«Ta' det stojlo af mig!» udbrød Søren
+<pb n="87" xml:id="s87" facs="adl/skjold/skjold_01/skjold_01_087"/>
+ildrød. «Nej det skal du - saa bandte han - ikke være Mand for, bitte Jens!»</p>
+        <p xml:id="idm140513901805056">Nu blev Jens Nørgaard lynende vred, rejste sig for Bordenden i hele sin velnærede Bredde og raabte: «Saa kan du betale mig mine Penge, din fattige Pjalt!»</p>
+        <p xml:id="idm140513901804336">«Tror du, jeg vil bøje mig, fordi du er født med et Brød under hver Arm og et Stykke Flæsk i Flaben!»</p>
+        <p xml:id="idm140513901803824">«Mine Penger!» skreg Jens Nørgaard.</p>
+        <p xml:id="idm140513901803392">«Dine Penger! Dem skal du nok faa, din Kalkun», sluttede Søren og forlod Stuen.</p>
+        <p xml:id="idm140513901802912">«Nej, du kan klø dig, bitte Jens!» sagde Søren halv højt til sig selv, da han gik ud af Porten, og spyttede i en Bue. Men inden han naaede Klitten, blev han klar over, hvor vanskelig hans Stilling i Virkeligheden var. Vel kunde han nok faa et Kreditforeningslaan, men saa det manglende? ... .</p>
+        <p xml:id="idm140513901802208">«Skulde jeg vel bøje mig, Ane?»</p>
+        <pb n="88" xml:id="s88" facs="adl/skjold/skjold_01/skjold_01_088"/>
+        <p xml:id="idm140513901800624">«Det havde vel egentlig nok været det klogeste, men - æ ... .»</p>
+        <p xml:id="idm140513901800160">«Det allergaleste, der kan ske, er da, at han tager Huset!»</p>
+        <p xml:id="idm140513901799696">«Det gør han saamænd ikke».</p>
+        <p xml:id="idm140513901799264">«Nej, hvis jeg blot vil bede om Godtvejr, - for han er alligevel saa godsindet den Pjalt! - Men jeg vil Søren-Jensemig ikke være hans Slave! Nu faar jeg vel ud at vande Dyrene».</p>
+        <p xml:id="idm140513901798688">Da Døren lukkede sig efter ham, kom en Kvinde forbi Vinduet. Ane syntes grant, det var Bolle-Mette, og i det samme stod hun i Stuen.</p>
+        <p xml:id="idm140513901798016">«Er Søren hjemme?» spurgte hun og snuede Luften ind gennem sin kødfulde Opstoppernæse.</p>
+        <p xml:id="idm140513901797520">«Ja!» svarede Ane lavt, mens Øjnene gnistrede af Vrede. «Hvad vil du ham, din lede Kvind?»</p>
+        <p xml:id="idm140513901797024">«Aa, det kunde endda være, vi kunde have et og andet at snakke med hinanden om!» svarede don tykke, fedtede Kælling og grinede.</p>
+        <pb n="89" xml:id="s89" facs="adl/skjold/skjold_01/skjold_01_089"/>
+        <p xml:id="idm140513901795392">«Søren or i Stalden, om du vil tale med ham. Jeg ser hellere din Hæl end din Taa!»</p>
+        <p xml:id="idm140513901794912">Saa sank Ane ned paa Bænken, mens Kuldegysninger og Varmestrømninger vekslende jog gennem hendes Krop.</p>
+        <p xml:id="idm140513901794304">Noget efter hørte hun Søren tale højt, og gennem Ruden saa hun Mette stryge af Sted. Søren raabte: ... . «Aldrig mere skal jeg sætte min Fod i din Helvedes Hule, og nu kan du prøve paa en eneste Gang til at komme over mit Dørtræ!» ... .</p>
+        <p xml:id="idm140513901793408">Ane drog et Lettelsens Suk. Men hvad vilde dog denne Kvinde Søren? - Hvad havde de sammen? - Aa Gud! der stormede saa meget ind paa hende denne Dag .... . Hvad mon hun vilde? ... .</p>
+        <p xml:id="idm140513901792640">Dot varede noget, inden Søren lempelig aabnede Døren til Stuen, hvor Ane endnu sad dødbleg paa Bænken.</p>
+        <pb n="90" xml:id="s90" facs="adl/skjold/skjold_01/skjold_01_090"/>
+        <p xml:id="idm140513901790816">«Hvad vilde hun?» kom det hviskende.</p>
+        <p xml:id="idm140513901790384">«Jeg skylder hende otte Kroner, som jeg har sviret op. Men det skal ogsaa blive de sidste!» sagde han fast, men stille.</p>
+        <p xml:id="idm140513901789856">Da han hævede Blikket, mødte han hendes Øjne som to klare Kilder, hvor den uforfalskede Kærlighed laa paa Bunden som ægte Perler.</p>
+        <p xml:id="idm140513901789184">Og han gik hende nær og sagde med skælvende Røst:</p>
+        <p xml:id="idm140513901788672">«Dig vil jeg bøje mig for!»</p>
+        <p xml:id="idm140513901788240">Hun kastede sig ind til ham.</p>
+      </div>
+      <pb n="91" xml:id="s91" facs="adl/skjold/skjold_01/skjold_01_091"/>
+      <div xml:id="idm140513901786576">
+        <head xml:id="idm140513901786320">XII.</head>
+        <p xml:id="idm140513901785904">Nu var det store Spørgsmaal, hvor Pengene skulde komme fra.</p>
+        <p xml:id="idm140513901785376">Hvis han vendte tilbage til Jens Norgaard, havde han Følelsen af at gaa under Aaget som et Trældyr, og denne Tanke pinte ham. Vel skulde han aldrig ømme sig ved at lægge sig i Selen, naar han selv maatte afgøre, hvor Tømmen skulde hvile, men at hoppe efter Nørgaard-Mandens Piskeknald, fandt han uudholdeligt.</p>
+        <p xml:id="idm140513901784336">Saa klædte Søren Brander sig paa og begyndte Tiggergangen om Laanet</p>
+        <p xml:id="idm140513901783792">«De Penge kan Jens Nørgaard jo sagtens lade staa i Huset!» svarede den første, han henvendte sig til.</p>
+        <pb n="92" xml:id="s92" facs="adl/skjold/skjold_01/skjold_01_092"/>
+        <p xml:id="idm140513901782128">«Jo, mon ... .»</p>
+        <p xml:id="idm140513901781712">«Og det er ogsaa noget, han aldrig nægter!»</p>
+        <p xml:id="idm140513901781264">«Ne-j, saamænd, men ... .»</p>
+        <p xml:id="idm140513901780832">«Desuden er det jo ogsaa det eneste naturlige, da han har solgt dig Jorden!»</p>
+        <p xml:id="idm140513901780352">«Jo, men ... .»</p>
+        <p xml:id="idm140513901779936">«Hvad?»</p>
+        <p xml:id="idm140513901779520">«Vi er bleven en Smule uens, Jens og mig!»</p>
+        <p xml:id="idm140513901779072">«Ha! ha! - Ja, naar du har Raad til det, saa er du ikke saa meget at ynke. - Hvad er der i Vejen?»</p>
+        <p xml:id="idm140513901778576">Søren fortalte det.</p>
+        <p xml:id="idm140513901778128">«Ja - he! Saadan en Krumm' maa du s'gu finde dig i. Naar du er stillet, som du er, saa gaar det heller ikke an at være for stivhalset!»</p>
+        <p xml:id="idm140513901777584">«Om ogsaa En skylder en Mand nogle Skillinger, saa skulde En endda alligevel have Lov at bære sit Hoved, som En selv tykkes. Det har jeg da i al Fald most Lyst til!»</p>
+        <p xml:id="idm140513901777008">«Du or ikke grov gammel, Søren! -
+<pb n="93" xml:id="s93" facs="adl/skjold/skjold_01/skjold_01_093"/>
+Nej gaa du bare hen til Jens Nørgaard, saa slipper du allernemmest ud af den Klemhærke!»</p>
+        <p xml:id="idm140513901775264">Men Søren stilede sine Fødder mod den næste Mand, hos hvem der kunde være Haab.</p>
+        <p xml:id="idm140513901774704">Hele Dagen gik han sin Fattigmands Gang fra Gaard til Gaard. Og uagtet han, hver Gang han stod med Haanden paa Dørklinken, ønskede sig langt, langt borte, saa faldt det ham dog ikke ind at opgive Ævret, thi han dreves frem af sit unge, higende Blod.</p>
+        <p xml:id="idm140513901773792">Sidst paa Dagen traf han Møller-Jens i Huggehuset, hvor han sad med Messing-Brillerne dinglende paa den yderste Næsetip og snittede.</p>
+        <p xml:id="idm140513901773120">Mølleren forandrede hverken Mine eller Stilling, men vedblev at bruge Tollekniven, indtil Søren havde fremført sit Ærinde med saa varme og veltalende Ord, som hans pinlige Stilling tilskyndede.</p>
+        <p xml:id="idm140513901772320">Da løftede Møllor-Jens et Par kolde
+<pb n="94" xml:id="s94" facs="adl/skjold/skjold_01/skjold_01_094"/>
+Tinøjne over Brillerne og sagde med en Gravrøst: «Jeg har fattige Folk nok i min egen Slægt!»</p>
+        <p xml:id="idm140513901770528">Dermed tillukkedes hans tynde Læber for enhver yderligere Ytring. Kun de kolde Tinøjne hæftedos paa Søren og ligesom skod ham baglængs ud af Huggehuset.</p>
+        <p xml:id="idm140513901769808">Tre Dage i Rad gennemgik Søren Brander den Smerte, som det er at gaa fra Menneske til Menneske og faa Nej alle Vegne, Tiggergangens Lidelse.</p>
+        <p xml:id="idm140513901769120">Tung i Sindet, træt og ør, vendte han tilbage til sit Hedehus. Langsomt flyttede han sin Fod.</p>
+        <p xml:id="idm140513901768528">Men da han kom ud paa den aabne Slette og mærkede Søluftens friske Sus om sit unge Hoved, bortvejredes de triste Tanker. Fugleskaren sang jo til Arbejde og Virksomhed, for hans Øje bredte sig de udyrkede Flader, der ventede paa hans Arms Kraft, og op mellem Vinterens visne Blade tittede Foraarets grønne Spirer. Han kunde ikke
+<pb n="95" xml:id="s95" facs="adl/skjold/skjold_01/skjold_01_095"/>
+sørge, thi i hans Sjæl følte han Vaarens spirende og skydende Liv.</p>
+        <p xml:id="idm140513901766080">Og dog, - hvor Pengene skulde komme fra, det var endnu det store Spørgsmaal, som han alligevel ikke kunde blive kvit ... .</p>
+        <p xml:id="idm140513901765440">- - Et Par Dage efter, da Jens Bjærg sad hos Søren og taltes ved om en Akkord paa Tørvegravning, de havde sluttet med et Teglværk, fortalte Søren, at Niels Pind havde lovet ham de manglende Penge. «Og jeg kunde jo aldrig have tænkt det, - saadan en Skindskraver! Kan du forstaa det?»</p>
+        <p xml:id="idm140513901764464">«Jo, jeg kender mine Lus paa Gangen», svarede Jens. «Niels Pind er af den Slags Folk, der vrider den yderste Drip af enhver Stakkel, han har med at gøre, men til den anden Side, - gør han Folk en Tjeneste, saa husker de det gerne!»</p>
+        <p xml:id="idm140513901763824">«Ja, ja!» sagde Søren med straalende Øjne, «nu er vi da over det for
+<pb n="96" xml:id="s96" facs="adl/skjold/skjold_01/skjold_01_096"/>
+den Gang ... . Nu skulde der helst lidt Fut paa' en!»</p>
+        <p xml:id="idm140513901762112">«Ja, vi kan tage fat i Morgen for min Skyld. - Og naar Ane vil med, saa kan jo do mindste Børn komme over til vores!» -</p>
+        <p xml:id="idm140513901761584">Tidlig næste Morgen drog den lille Skare ud, væbnede med skarpslebne Redskaber. Hver af Mændene kørte en Trillebør, Ane bar en Kurv med Pandekager og Mellemmader, og et Par Smaadrenge, der næppe havde faaet Søvnen af Øjnene, trippede ved Siden, mens Lærkerne, hvor Toget skred frem, svang sig syngende fra Tuer og Risbuske.</p>
+        <p xml:id="idm140513901760560">Det flade, lynggroede Klitland gik jævnt over i den vidtstrakte Mose mod Nordøst, hvor Udsynet lukkedes langt borte i Himmelbrynet af Tørveskruernes utallige, sorte Smaakegler, bag hvilke de rødmende Skyer lyste af Løfter og Forjættelser.</p>
+        <p xml:id="idm140513901759664">Som Solen steg højere og højere, kastede Mændene Halsklæde og Vest,
+<pb n="97" xml:id="s97" facs="adl/skjold/skjold_01/skjold_01_097"/>
+og Spaden skar sig gennem, den glatte, fedtede Mosejord, mens Børnene læssede paa og læssede af de Tørv, som Ane trillede fra Graven til Udlægnings-pladsen.</p>
+        <p xml:id="idm140513901757632">Og som Lag paa Lag bænkedes op, og Søren mærkede Kræfterne strømme gennem sin unge Krop, nikkede han og sagde som for sig selv: «Det stejle, Jens Nørgaard! Nej, det skal du ikke være Mand for at ta' af Søren Brander!»</p>
+      </div>
+      <pb n="98" xml:id="s98" facs="adl/skjold/skjold_01/skjold_01_098"/>
+      <div xml:id="idm140513901755504">
+        <head xml:id="idm140513901755248">XIII.</head>
+        <p xml:id="idm140513901754832">Vinteren er graadig. Den sluger ikke alene Sommerens blomstrende Liv, men fortærer ogsaa Fattigfolks Sommerfortjeneste. Derfor maa de, der skal opholdes ved de blotte Hænder alene, hvert Foraar begynde paa det samme Punkt, indtil den Nedgang indtræder, som gør mange letsindige og ligeglade.</p>
+        <p xml:id="idm140513901753840">For dem, der bo paa de fede Jorder, hvis velbyggede Gaarde dølge sig bag en Vold af høje Hæs og Stakke, og hvis fede Kvæg drøvtygger i halmfyldte Baase, kan Vinteren være en behagelig Afveksling. De kan sidde lunt i Arnekrogen og smøge af den sølv-beslaaede Pibe, de har arvet efter deres
+<pb n="99" xml:id="s99" facs="adl/skjold/skjold_01/skjold_01_099"/>
+Bedstefader, og til Natten synke dybt i Dyner, der er virkede paa deres Moders Væv.</p>
+        <p xml:id="idm140513901751440">Men for Nybyggerfolkene ude paa Klittens og Hedens Sand er Vinteren en uvelkommen Gæst. De har ikke den overleverede Soliditet, de fulde Sulekar og den grundmurede Kredit at støtte sig til. Og saa standser Vinteren den Virksomhed, som skulde bære dem frem til Maalet, jager Mændene i Hus og binder dem til et Stilleliv inden Døre. -</p>
+        <p xml:id="idm140513901750368">Søren Brander kom imidlertid lettere over Vinteren end de andre Beboere, thi Ideen med Kurvefletning, som Faderen kort før sin Død havde givet ham, havde han udviklet til en Husflid, der fyldte Vintertidens Stilleliv med Syssel, som gav Sølv i Pungen.</p>
+        <p xml:id="idm140513901749456">Naar de Dage kom, da Frosten hindrede alt Udarbejde, og Sneen dækkede Jorden, stod Søren op, længe før det blev lyst, og tærskede i Loen ved Lygte-skinnet. I Dagningen begav han sig
+<pb n="100" xml:id="s100" facs="adl/skjold/skjold_01/skjold_01_100"/>
+op i Lyngbakkerne, hvor Enebærens fine Grønt stak op gennem den hvide Sne. Han ruskede Grenene, saa Sneen dryssede, han forfulgte de vredne Forgreninger, skar med sin Tollekniv eller rykkede, saa hans Hænder vare opkradsede, Busk efter Busk, som han samlede i Smaabunker, dem Studene saa trak hjem paa Slæden.</p>
+        <p xml:id="idm140513901746912">Fra den Dag, Kurvebindingen tog sin Begyndelse, og indtil Foraaret kom, duftede hele Huset af Enebær. I al denne Enebærduft var der Minder om den gamle Brander, og baade Søren og Ane tænkte, at det alligevel var en god Stund, da de toge ham i Huset ... .</p>
+        <p xml:id="idm140513901746000">Nej, men Sommeren! Saa behøver Fattigfolk ingen Ilding og Børnene ingen Tøj, og den, der ikke har Hus, finder let et Skjul. Sommeren er glad og god! Sommeren er Børnenes og de fattiges! Og Sommeren er Tiden til de lange Arbejdets Tag! -</p>
+        <p xml:id="idm140513901745120">Om Sommeren lukkede Solen kun
+<pb n="101" xml:id="s101" facs="adl/skjold/skjold_01/skjold_01_101"/>
+sit Øje til et let Blund i de lyse Nætter, og Klitboen var ligesaa aarvaagen som Solen. Naar de store Sand - Arealer skulde overfares og gennemarbejdes, saa maatte han strække Muskler og lægge sig frem i Selen den lange Dag igennem. Han levede ogsaa som under aaben Himmel, og hans Hus var ham kun et Skjul til at sove og spise i. -</p>
+        <p xml:id="idm140513901742816">Ud over det nøgne, flade Land, hvor de hvidkalkede Mure glitrede i den sollyse Dag, var der ikke et skyggende Træ uden alene ved Søren Branders Hytte.</p>
+        <p xml:id="idm140513901742112">Langs Markskellene ragede frem over Omgivelserne flere Række Træer, af hvilke dog mange vare mossede eller visne. Men do stode her som Tegnet paa en sejg Villie, der vilde frem. Det var de første Geledder, der rykkede i Marken for at erobre den golde Jord.</p>
+        <p xml:id="idm140513901741200">I Nærheden af Huset laa en Gruppe af lave Banker, Flyvesand, som Vestenvinden havde ophobet for mange
+<pb n="102" xml:id="s102" facs="adl/skjold/skjold_01/skjold_01_102"/>
+Herrens Tider siden. Derefter vare Sandhobene blevne overgroede af et fast Plantedække, i hvilket Stormen den senere Tid mange Steder havde boret Hulninger, hvor Sandet i Blæst hvirvledes rundt som i en kogende Kedel og fløj ud over Randen.</p>
+        <p xml:id="idm140513901738880">Hist og her paa disse Banker havde Søren forsøgsvis plantet Naaletræer. Det var Blænkerne, der var ude at prøve sig frem. Et paabegyndt Dige antydede, at her skulde et større Stykke Land indtages.</p>
+        <p xml:id="idm140513901738080">Op over Havens høje Jordvold stræbte Pilenes Spidser til Vejrs, og indenfor var der Bede af Timian og Merian.</p>
+        <p xml:id="idm140513901737456">Noget borte fra Huset stod Ane med opkiltet Skørt og bearbejdede Jorden med en Hakke, og længere ude forbi Korn- og Kartoffelagrene, ude mod den brune Hede, brød Søren ny Jord med Studene.</p>
+        <p xml:id="idm140513901736672">Som Solen skred frem paa sin Bane,
+<pb n="103" xml:id="s103" facs="adl/skjold/skjold_01/skjold_01_103"/>
+og Vandet løb til Stranden, gjorde dette Menneskepar sig Jorden underdanig, saa Sveden randt ad den solbrændte Hud. Do tunge Tag rundede Ryggen og krøgede de ranke Skikkelser, det stadige Slid stivnede de bøjelige Lemmer og gjorde Sørens Hænder haarde som Hornklove. Livet var her med sin Modstand, Jorden med sin Trods, og de havde Villiens Sejghed, Sindets Ro og Haandens Styrke at sætte ind i Kampen.</p>
+        <p xml:id="idm140513901734416">Ingen Lyd fra anden menneskelig Virksomhed naaede deres Øren, ingen andre Stemmer end Naturens lød omkring dem, selv kunde de ikke en Gang raabe til hinanden, og ude i denne Stilhed førte de hver paa sit Punkt trofast og vedholdende Dagens standende Strid med Redskaber saa blanke som nogen Ridders Glavind.</p>
+        <p xml:id="idm140513901733392">Og disse Folk herude paa Kulturens Overdrev vandt Sejr paa Sejr over den raa Klit, der fravristedes Stykke efter
+<pb n="104" xml:id="s104" facs="adl/skjold/skjold_01/skjold_01_104"/>
+Stykke, som lagdes til deres Omraade og - Fædrelandets. -</p>
+        <p xml:id="idm140513901731616">Naar saa Freden kom, Sommeraftenens Fred, saa lode de Vaabnene hvile og gik en Tur langs Læbæltets Hæk. Udenfor løb Harer og Agerhøns, thi Dyrene følte sig trygge i denne fredelige Egn. Indenfor groede Møjens Frugter op af Sandet.</p>
+        <p xml:id="idm140513901730736">Som de gik her, toge de hinandens Hænder, og deres Hjærter glædedes, og som Aftenduggen faldt, syntes de, at Himlens Velsignelse dryppede ned over deres Hænders Gerning.</p>
+        <p xml:id="idm140513901729984">Men naar Mørket faldt paa, gik de ind og sov den flittiges og nøjsommes rolige Søvn.</p>
+      </div>
+      <pb n="105" xml:id="s105" facs="adl/skjold/skjold_01/skjold_01_105"/>
+      <div xml:id="idm140513901727984">
+        <head xml:id="idm140513901727728">XIV.</head>
+        <p xml:id="idm140513901727312">Hvert Foraar foregaar der en lille Udvandring af Drenge fra Klitternes Land til fremmede Sogne. Naar do kan løfte en Kølle og rinke et Tøjr, tage de for første Gang i deres Liv Afsked fra Fædrehuset. Og naar Vinterrugen er saaet og Kreaturerne bundne paa Stald, vende de smaa Udvandrere atter tilbage med Sommerens Udbytte i klingende Mønt.</p>
+        <p xml:id="idm140513901726224">Dette er lige saa sikkert som Fuglenes Træk. -</p>
+        <p xml:id="idm140513901725728">Søren Brander havde nu to saadanne Smaafyre, hvis Hjemkomst var en Fest i den lave Hytte. De tindrende
+<pb n="106" xml:id="s106" facs="adl/skjold/skjold_01/skjold_01_106"/>
+Øjne gjorde det lyst i Stuen, nu, Familien atter sad samlet om den hjemlige Arne.</p>
+        <p xml:id="idm140513901723744">Saa kom Skoledagene. Længe før Dag var Ane oppe at faa Davren til at syde i Ovnen, og der var ogsaa Tøj, som skulde tørres, Hoser, som skulde stoppes, og der var - Madtaskerne, som skulde udstyres. Børnene maatte jo bryde op i den aarle Morgenstund, om de i rette Tid skulde naa Skolen, der laa saa langvejs borte. De vendte ikke tilbage, før man tændte Lys, og derfor vare Forældrene ofte urolige, naar Vejret var ondt. -</p>
+        <p xml:id="idm140513901722704">En Eftermiddag tætnede Luften til med Sne og Fygevejr af Nordøst. Søren trak et Par Hoser over sine Bukser, bandt et Lommetørklæde om Ørene og gav sig paa Vej ad Skolestien.</p>
+        <p xml:id="idm140513901721952">I Mørkningen stod Himmel og Jord i een Taage, og intet levende Væsen var at øjne. Han paaskyndte sin Gang, spejdede til alle Sider og bøjede sig
+<pb n="107" xml:id="s107" facs="adl/skjold/skjold_01/skjold_01_107"/>
+jævnlig til Jorden for bodre at skimte enhver Fremtoning. Forgæves. Han raabte Drengenes Navne Gang efter Gang og ventede med tilbageholdt Aandedræt paa Svar. Men ingen anden Lyd var at høre end Vindens sukkende Susen og Snefnuggenes lette Dans.</p>
+        <p xml:id="idm140513901719552">Da jog Rædselen som Ild gennem hans Nerver, Angstens Sved perlede paa hans Pande, som han fortsatte sit Løb og raabte ud i Vejret.</p>
+        <p xml:id="idm140513901718880">Men han kendte enhver lille Tue paa dette Strøg, og han vilde ikke helme, før alt var afsøgt, om det saa skulde tage hele den lange Vinternat.</p>
+        <p xml:id="idm140513901718192">Omsider fandt han dem i Læ af de sammensunkne Rester af en Faarefold. Men i denne Aften havde han tænkt mere over Børnenes Krav og Ret end alle foregaaende Aar tilsammen.</p>
+        <p xml:id="idm140513901717440">Siden laa Sncen højt hele Vinteren, eller den var et sjappende Ælte, og der var ikke til at komme frem for korte Ben. Ingen Skik var der paa
+<pb n="108" xml:id="s108" facs="adl/skjold/skjold_01/skjold_01_108"/>
+Børnenes Undervisning, og Søren Brander sad og faldt i Tanker ved Kurvebindingen.</p>
+        <p xml:id="idm140513901715424">- En Aften, Børnene vare gaaede til Ro, sagde han: «Jeg tænker paa vore Børn, Ane! De gror jo op som Markens Dyr uden Lod og Del i menneskelig Oplysning!»</p>
+        <p xml:id="idm140513901714704">«Tiden, der kommer, vil vist nægte dem Lod og Del i mere end det!»</p>
+        <p xml:id="idm140513901714240">«Just derfor mener jeg, at vi ikke godt kan lade dem sidde og drive paa Bænkene».</p>
+        <p xml:id="idm140513901713760">«Hvad skulde vi saa gøre?»</p>
+        <p xml:id="idm140513901713328">«Ja, jeg véd ikke, om jeg kan granske det ud!»</p>
+        <p xml:id="idm140513901712880">«Om Vinteren kan de jo ikke gaa i Skole, og om Sommeren maa de jo ud at tjene!»</p>
+        <p xml:id="idm140513901712400">«Hja!» indrømmede Søren og tog et nyt Ris. -</p>
+        <p xml:id="idm140513901711952">«Men de kan da egentlig ikke gøre ved, at de er fattig fødte, Ane!»</p>
+        <p xml:id="idm140513901711488">«Det kan vi da heller ikke!»</p>
+        <pb n="109" xml:id="s109" facs="adl/skjold/skjold_01/skjold_01_109"/>
+        <p xml:id="idm140513901709920">«Hm! Nej! - - Naar vi endda havde noget at byde dem herhjemme!»</p>
+        <p xml:id="idm140513901709456">«Det er ikke saa godt at være Fattigfolk, hverken paa den ene Maade eller den anden, Søren!»</p>
+        <p xml:id="idm140513901708960">«Nej, men jeg mener, at hvis vi rigtig vilde ... . naar vi saadan ... . jeg mener alligevel, der skulde gøres noget!»</p>
+        <p xml:id="idm140513901708432">«Hvordan skulde det gaa til?»</p>
+        <p xml:id="idm140513901708000">«Ja, min Pige! det er det, jeg ikke rigtig ved!» sluttede han og gik frem og tilbage over Gulvet, medens hun eftersaa og ordnede Børnenes Tøj, der laa i Bunker paa Bord og Bænk.</p>
+      </div>
+      <pb n="110" xml:id="s110" facs="adl/skjold/skjold_01/skjold_01_110"/>
+      <div xml:id="idm140513901706112">
+        <head xml:id="idm140513901705856">XV.</head>
+        <p xml:id="idm140513901705472">En Aften i Mørkningen skrede flere Mænd langsomt hen over Klitten. Man skelnede kun Skikkelserne i Tusmørket. Fra flere Sider kom de, og ved Søren Branders Hus løb Sporene sammen.</p>
+        <p xml:id="idm140513901704704">Søren havde nemlig indvarslet til Grandestævne, som det var Sædvane, naar der forelaa et Spørgsmaal, der vedrørte Almenvellet.</p>
+        <p xml:id="idm140513901704048">De sindige Mænd toge Plads, hvor de bedst kunde, i den lille Stue, der snart var fyldt med daarlig Luft og Tobaksrøg, hvilket dog ikke lod til at trykkeForsamlingen, hvis vejrbidte, skæggede Ansigter lyste af stilfærdigt Lune, mens der skiftedes skæmtsommo Ord.</p>
+        <pb n="111" xml:id="s111" facs="adl/skjold/skjold_01/skjold_01_111"/>
+        <p xml:id="idm140513901701936">Saa rømmede Søren sig og sagde:</p>
+        <p xml:id="idm140513901701472">«Jeg har tænkt, om vi ikke kunde faa Sogneraadet til at bygge en Skole her i Klitten. Her er jo ikke saa faa Børn nu, og der er jo grumme langt op til Byen!»</p>
+        <p xml:id="idm140513901700912">Der var ingen, der svarede noget paa det. De sugede paa Piberne, løftede langsomt Øjenlaagene og skottede til hverandre.</p>
+        <p xml:id="idm140513901700272">«En Skole!» var der endelig en, der sagde, og saa blev der igen Tavshed.</p>
+        <p xml:id="idm140513901699792">Noget efter spurgte en anden sin Sidemand: «Har du noget Røgtobak ved dig, Per Kristjan?» -</p>
+        <p xml:id="idm140513901699200">«Ja, jeg ved ikke, hvad I siger til det!» gentog Søren.</p>
+        <p xml:id="idm140513901698736">Ikke et Ord til Svar. Der var saa stille, at hver Gang nogen spyttede, hørte man det plaske mod Lergulvet.</p>
+        <p xml:id="idm140513901698128">«Er der ingen af Jer, der har hørt, om Faare-Fredrik har bekendt?» spurgte saa en.</p>
+        <p xml:id="idm140513901697648">Nej, det var der ikke. I Anledning
+<pb n="112" xml:id="s112" facs="adl/skjold/skjold_01/skjold_01_112"/>
+af dette Spørgsmaal vaagnede saa Snakken igen i Gisninger og Bemærkninger, indtil Søren spurgte Murer-Jens om, hvad han mente om Skolespørgsmaalet.</p>
+        <p xml:id="idm140513901695648">Den tiltalte løftede de buskede Bryn og sagde tværs over Bordet: «Hvad siger du, Peter Vibe?»</p>
+        <p xml:id="idm140513901695056">«Aa, det or vel aldrig værd, vi indlader os med Ministeriet og højere Vedkommende om den Slags Ting!» svarede denne.</p>
+        <p xml:id="idm140513901694528">«Ja, du maa jo vide det!» sagde Mureren og blinkede, «du har jo tjent Prokuratoren».</p>
+        <p xml:id="idm140513901694032">Flere smaagrinte.</p>
+        <p xml:id="idm140513901693616">For at komme nærmere til Sagen bemærkede Søren, at han mente, man lige saa godt kunde faa en Skole her som saa mange andre Steder.</p>
+        <p xml:id="idm140513901692944">«Hvem skulde betale den?» spurgte Niels Pind og krummede Haanden om Portemoniksen nede i Bukselommen.</p>
+        <p xml:id="idm140513901692448">«Sogneraadet naturligvis, ligesom helles!»</p>
+        <pb n="113" xml:id="s113" facs="adl/skjold/skjold_01/skjold_01_113"/>
+        <p xml:id="idm140513901690864">«Det gaar Sogneraadet sandten aldrig ind paa i sine Dager!» udbrød Peter Vibe, «jeg kender dem nok, de bitte Ka'le!»</p>
+        <p xml:id="idm140513901690336">«Skulde vi ikke lade det blive ved det gamle; der kommer megen Bryderi ud af det?» bemærkede Niels Pind og flyttede sin laadne Kabuds.</p>
+        <p xml:id="idm140513901689792">Store-Ais fra «den brede Sande», der stod og borede med Hovedet mod Lofts-fjælene, sagde saa; «Jeg tykkes, naar det har gaaet all' Daw', saa kan det vel ogsaa blive ved. Vore Børn skal da hverken være Præster eller Degne!»</p>
+        <p xml:id="idm140513901688928">Søren Brander med Varme: «Det er heller ikke Meningen, men jeg har tænkt som saa: Nu gaar den ene Dag efter den anden, og dine Drenge gror til, og det kan ikke vare saa længe, inden de skal til at hyre dem selv. Og naar den Tid kommer, da de skal til at rydde til Side, om der kan blive en bitte Baas til dem et Sted, saa er det ikke saa godt for saadanne fattige Knejt'.</p>
+        <pb n="114" xml:id="s114" facs="adl/skjold/skjold_01/skjold_01_114"/>
+        <p xml:id="idm140513901686784">Men hvis de, foruden at være fattige, tillige med er dumme og uoplyste, saa bliver det saa meget strængere for dem ... . Og vi er jo da Forældre til dem og har ligesom en Slawns Ansvar her, tykkes mig!»</p>
+        <p xml:id="idm140513901685968">«Jo, saamænd!» sagde en.</p>
+        <p xml:id="idm140513901685536">«To det kan jo være sandt nok!» føjede en anden til.</p>
+        <p xml:id="idm140513901685072">Pavse.</p>
+        <p xml:id="idm140513901684656">Niels Pind lettede Kabudsen ved den ene Side, hvor han listede et Par Fingre ind og kløede sig: «Jeg tror nu, de klarer dem ligegodt, enten de kan læse eller skrive; det er ikke det, som det kommer an paa. Og Skatterne stiger!»</p>
+        <p xml:id="idm140513901683792">Søren ivrig: «Naa, du tror, det er ligegodt! Hvorfor sidder Niels Piesens Martin nu i Enggaarden, maa jeg spørge? - Fordi han havde Hoved og Forstand og kunde regne ud med Kubikindhold og hvad dertil hører. Det var mins'æl ved hans Vejarbejde, han tjente sine
+<pb n="115" xml:id="s115" facs="adl/skjold/skjold_01/skjold_01_115"/>
+Midler. Og saadanne er der mange Eksempler. - Naar de hverken kan det ene eller andet af Lærdomsvæsen, saa kan de jo være gode nok til at svinge en Plejl og rykke i et Skovlskaft, men de bliver sikkert og sandt nogle Drysse-Mikkeler, der dumper i det første det bedste Hul, saa det er et helt Slumpetræf, hvor de bliver af! Det er min Mening», sluttede Søren og lod sine brune Øjne løbe rundt i Forsamlingen.</p>
+        <p xml:id="idm140513901680864">Fuldstændig Tavshed.</p>
+        <p xml:id="idm140513901680416">«Hvordan skulde saadan noget egentlig gaa til?» var der en, der spurgte.</p>
+        <p xml:id="idm140513901679936">«Der skulde naturligvis nogle til at staa for det!» svarede Søren.</p>
+        <p xml:id="idm140513901679472">«Kunde vi ikke gerne lade ham forsøge det?» sagde Murer-Jens.</p>
+        <p xml:id="idm140513901679008">«Saa kunde Jens Bjærg følge med; han har de manne Børn!» tilføjede en og strøg en Tændstik.</p>
+        <p xml:id="idm140513901678512">«Det bliver vel det sløveste!» afsluttede Jens Bak og gabede.</p>
+        <pb n="116" xml:id="s116" facs="adl/skjold/skjold_01/skjold_01_116"/>
+        <p xml:id="idm140513901676848">Saaledes kom Søren Brander og Jens Bjærg i Skoleudvalg.</p>
+        <p xml:id="idm140513901676336">- - Det varede heller ikke længe, inden Sagen førtes frem i Sogneraadet, der imidlertid forholdt sig fornemt og i hvert Fald ikke kunde indlade sig paa Sagen, før der forelaa et skriftligt Andragende fra Beboerne.</p>
+        <p xml:id="idm140513901675504">«I svare temmelig lidt til Kommunen derude i Klitten til at stille saa store Fordringer», havde Formanden sagt i en mildt bebrejdende Tone, medens han, som optaget af alvorlige Ting, bladede i Protokollen.</p>
+        <p xml:id="idm140513901674896">Under Raadets Fnisen havde Jens Nørgaard bemærket, at Søren maaske vilde til at være Konge i Klitten. -</p>
+        <p xml:id="idm140513901674288">Det blev Aften og det blev Midnat, og endnu sad de to Udvalgsmedlemmer i den afsides Klithytte og grublede. De stirrede paa det hvide Papir, som laa udfoldet for dem, til de syntes, deres egen Hjerne var som et tomt og ubeskrevet Ark. Men ud paa Natten fik 
+<pb n="117" xml:id="s117" facs="adl/skjold/skjold_01/skjold_01_117"/>
+do dog ofter flero forgæves Forsøg stillet paa Benene de vanskelige Ord og Bogstaver, der i ordnede Rækker og Kolonner vare bestemte til at bryde den fjendtlige Skanse.</p>
+        <p xml:id="idm140513901672080">Dette møjsommeligt udarbejdede Aktstykke blev imidlertid efter længere Tids Forløb tilbagesendt med den Bemærkning, at man intet Hensyn kunde tage dertil paa Grund af mangelfulde Oplysninger. Og da disse havde foreligget, afslog dog Raadet Sagen bestemt.</p>
+        <p xml:id="idm140513901671168">Men da Søren i et nyt Grandestævne aflagde Beretning, var der kun én Mening om Skolesagens videre Skæbne i denne Forsamling af tavse Mænd.</p>
+        <p xml:id="idm140513901670480">Man mærkede paa de energiske Blink i Øjet, paa den stille. men uovervindelige Stædighed, der lagde sig til Rette om Munden, at hermed var Skolesagen ikke færdig.</p>
+        <p xml:id="idm140513901669744">De skønnede nemlig instinktmæssigt, at her var den igen, den Modstand,
+<pb n="118" xml:id="s118" facs="adl/skjold/skjold_01/skjold_01_118"/>
+som vilde bagbinde dem, og som de kendte fra den daglige Strid. Den var som den sorte Trold, der altid stod i Vejen, netop hvor de vilde frem.</p>
+        <p xml:id="idm140513901667856">Og just fordi de i oprindelig Styrke ejede Driften til uvilkaarligt at stemme Ryggen imod, blev det en Selvfølge, at Skolesagen skulde føres til det yderste.</p>
+        <p xml:id="idm140513901667136">Nu, de havde faaet Taget, var der ingen, der nogen Sinde agtede at slippe det, lige saa lidt som det kunde falde nogen af dem ind at løbe fra don Plov eller Spade, hvormed de ørkede Klittens Jord.</p>
+        <p xml:id="idm140513901666336">Saasnart det derfor blev nævnt at gaa lige til Provsten med Sagen, var det noget, der vandt alles Bifald.</p>
+      </div>
+      <pb n="119" xml:id="s119" facs="adl/skjold/skjold_01/skjold_01_119"/>
+      <div xml:id="idm140513901664352">
+        <head xml:id="idm140513901664096">XVI.</head>
+        <p xml:id="idm140513901663680">Provstegaarden laa fire Mil inde i Landet, hvorfor Jens Bjærg paa den fastsatte Dag i god Tid stillede hos Søren Brander iført sin stiveste Stads: tykt paasmurte Fedtlæders-Støvler, hvis Overlæder var fuldt af Brag og Revner, graa Benklæder og en Vadmelsfrakke, hvis store Sidelommer, kantede med grønligt falmede Baand, gabede som to halv-aabne Haandkufferter.</p>
+        <p xml:id="idm140513901662560">Ane formanede Søren til at fare lempelig i de tynde Klædesbukser; det var noget skørt Stads, nu det var gammelt, og saa knyttede hun hans Halstørklæde.</p>
+        <p xml:id="idm140513901661840">«Husk nu, at Køerne skal staa paa
+<pb n="120" xml:id="s120" facs="adl/skjold/skjold_01/skjold_01_120"/>
+den vestre Ende af den nordre Ager!» sagde Søren og lindede en Sele.</p>
+        <p xml:id="idm140513901659952">De to Udvalgsmedlemmer sloge straks ind i en hurtig Gang og naaede efter et Par Timers Forløb Ravnstrup Kro, der laa saa indbydende ved den støvede Landevej og lokkede med sit ovale, røde, kongelige Skilt i Trekanten over Indgangsdøren.</p>
+        <p xml:id="idm140513901659072">«To Drammer og en halv Øl!» forlangte Søren og satte sin Kæp hen i Hjørnet af Skænkestuen. Derefter bænkede de sig ved Vinduet og fremtoge de i blaatærnede Lommetørklæder indpakkede Mellemmader,</p>
+        <p xml:id="idm140513901658464">Da den omfangsrige Kromadamme var gaaet ud, sagde Jens: «Tror du, en Kugle kunde gaa gennem den Fedtklump, Søren?»</p>
+        <p xml:id="idm140513901657824">«Det er jo ikke saa godt at vide», svarede Søren eftertænksomt, «men jeg tvivler pinnede!»</p>
+        <p xml:id="idm140513901657328">«Ja, den maatte ap-se-lut gaa fast i Flæsket, mener jeg!»</p>
+        <pb n="121" xml:id="s121" facs="adl/skjold/skjold_01/skjold_01_121"/>
+        <p xml:id="idm140513901655680">«Uden at det skulde være af do hurtigskydendes ... .»</p>
+        <p xml:id="idm140513901655216">«Ha! ha! ha!»</p>
+        <p xml:id="idm140513901654800">Efter en kort Hvile her fortsattes Rejsen. Bakkerne bleve mindre og mindre storartede, som de kom længere Syd paa, Strækningerne mere og mere dyrkede, Boligerne hyppigere, Gravhøjene stode ikke længere paa do lyngklædte Aase som sorte Silhuetter mod Skyen; de dukkede sig græsgrønne midt i bølgende Korn, og inde mellem Landsbyernes stadselige Gaarde laa overmættet Kvæg i Markens høje Kløver og tyggede Drøv.</p>
+        <p xml:id="idm140513901653600">«Dette her er ligegodt noget andet end Klitten!» udbrød Søren, idet han stod stille og saa ud over Egnen.</p>
+        <p xml:id="idm140513901653088">«Jo, ret nok! Men denne her Slags Jord er jo næsten ikke til at veje op med Penge; den skal En jo saa godt som være født til. Og dem, der kører med Stude, de kommer da ogsaa med; hvad Søren?»</p>
+        <pb n="122" xml:id="s122" facs="adl/skjold/skjold_01/skjold_01_122"/>
+        <p xml:id="idm140513901651296">«Jo-o, naturligvis, men ... .»</p>
+        <p xml:id="idm140513901650864">«Aa, Søren!» tog Jens paa og satte sig ved Grøften. «Du kommer min Sandten til at tage ved mine Støvler; jeg kan ikke holde ud at gaa med Lædertøj nu!»</p>
+        <p xml:id="idm140513901650304">Jens bandt Støvlerne sammen med sit Hosebaand og svingede dem over Akslen.</p>
+        <p xml:id="idm140513901649760">Den sidste Del af Vejen gik de længe uden at mæle et Ord. Endelig ytrede Jens: «Det skal nok være en bøs Karnallie!»</p>
+        <p xml:id="idm140513901649120">«Ja, det siger de! Nu maa du da trække dine Støvler paa, inden vi skal ind til ham!»</p>
+        <p xml:id="idm140513901648624">Det var lidt vanskeligt at faa Munden paa Gang overfor den højtstillede Mand, der desuden stod lige færdig til at tage ud.</p>
+        <p xml:id="idm140513901647968">«Hvad ønsker De?»</p>
+        <p xml:id="idm140513901647552">Søren: «Dersom at Provsten havde Stunder, saa vilde vi jo gerne snakke et Korn mod ham!»</p>
+        <pb n="123" xml:id="s123" facs="adl/skjold/skjold_01/skjold_01_123"/>
+        <p xml:id="idm140513901645728">Provsten: «Værsgod at tage Plads, men jeg har travlt!»</p>
+        <p xml:id="idm140513901645216">Jens: «Dot har vi for Resten ogsaa. Vi skulde helst hjem i Aften, og det er jo ikke saa kort, Hr. Provst!»</p>
+        <p xml:id="idm140513901644592">Provsten: «Hvor er De fra?»</p>
+        <p xml:id="idm140513901644128">Jens: «Jeg tror mestendels, at det skrives for Lendum Klit!»</p>
+        <p xml:id="idm140513901643600">Soren: «Vi vilde jo gerne have en Skole ude hos os!»</p>
+        <p xml:id="idm140513901643088">Provsten: «En Skole! - Hja! - Nu om Dage tror alle ogsaa, at de kan faa en Skole lige udenfor Døren!» Op og ned ad Gulvet. «Og naar man saa giver dem en Skole, saa forsømmer Børnene jo ganske gyseligt!»</p>
+        <p xml:id="idm140513901642272">Søren: «Se vi tænkte, om Provsten ikke kunde vide et Raad, for der maa være Lov og Ret ogsaa for det!»</p>
+        <p xml:id="idm140513901641664">«Et Raad! - Jeg skal sige Dem to Ting, min gode Mand! For det første er jeg ikke Prokurator. og for det andet er jeg ikke almægtig!» svarede
+<pb n="124" xml:id="s124" facs="adl/skjold/skjold_01/skjold_01_124"/>
+Provsten og saa lidt utaalmodigt paa sit Uhr.</p>
+        <p xml:id="idm140513901639808">Men de to Husmænd, der vare øvede i ikke at opgive Ævret for den første Modstand, sade saa rolige paa Provstens Stole, som om de agtede at forblive der for det første.</p>
+        <p xml:id="idm140513901639056">Søren: «Staar der ingen Ting i Loven om det, saa er der da en Slags Ret og Billighed til. For det kan da ikke være Meningen, to vore Børn skal blive til Hedninger, fordi vi bo'r lidt for os selv!»</p>
+        <p xml:id="idm140513901638256">Provsten: «Jo, vel staar der noget i Loven, kære Mand!»</p>
+        <p xml:id="idm140513901637744">Søren: «Ja, vi er jo uoplyste Folk, men Provsten kan jo nok sige os noget, om han vilde være saa god!»</p>
+        <p xml:id="idm140513901637136">Jens: «Ja, vi er uoplyste, men vi har jo ikke noget imod, om vore Børn kunde blive lidt klogere, Hr. Provst!»</p>
+        <p xml:id="idm140513901636512">Søren: «Og vi mener, at Provsten vil holde med os i, at vi kan faa vore Børn bedre oplærte!»</p>
+        <pb n="125" xml:id="s125" facs="adl/skjold/skjold_01/skjold_01_125"/>
+        <p xml:id="idm140513901634736">Jens: «Ja, for so, Sogneraadet, det vilde jo ikke - æ - hoppe paa'en!»</p>
+        <p xml:id="idm140513901634192">Provsten: «Naa, De har været hos Sogneraadet!»</p>
+        <p xml:id="idm140513901633696">«Ja, saamænd har vi saa!» svarede Jens med Munden fuld af Tobaksspyt.</p>
+        <p xml:id="idm140513901633216">Provsten: «Naa! - Sig mig, hvor langt har De vel til Skolen?»</p>
+        <p xml:id="idm140513901632688">Søren: «Jeg tænker cirka hen ved en Mils Vej!»</p>
+        <p xml:id="idm140513901632192">Provsten: «En Mil! - En Mil!»</p>
+        <p xml:id="idm140513901631728">Søren: «Tænker Du ikke, der er li'saadanne til de yderste Huse, Jens?»</p>
+        <p xml:id="idm140513901631184">Jens: «Fra Murerens og til de nordre Bjerge, der er en stiv halv Mil, det véd jeg, og derfra og til Skolen er der en Fjerdingvej. Jo, en bitte Mil, det vil nok passe!»</p>
+        <p xml:id="idm140513901630448">«En Mil!» gentog Provsten for sig selv og satte sig i Bevægelse.</p>
+        <p xml:id="idm140513901629984">Jens: «Ja, det er et langt Stykke Vej, Hr. Provst, at sende nogen bitte Børn hen i en himmelbetændt Rendfog!»</p>
+        <pb n="126" xml:id="s126" facs="adl/skjold/skjold_01/skjold_01_126"/>
+        <p xml:id="idm140513901628176">Provsten: «Hvor mange skolepligtige Børn, siger De?»</p>
+        <p xml:id="idm140513901627664">Søren: «Jeg tænker nok, vi kan sige henved en Snes Stykker!»</p>
+        <p xml:id="idm140513901627136">Jens: «Og vi er unge Folk, de fleste af os, saa der kommer immer an flere Børn, Hr. Provst!»</p>
+        <p xml:id="idm140513901626544">Provsten: «Hm! hm!»</p>
+        <p xml:id="idm140513901626096">Efter at nogle flere Spørgsmaal vare stillede og besvarede, sluttede Provsten: «Send mig et Andragende med alle de Grunde, De kan finde, der taler for Deres Sag, saa faa vi se! ... . Men De kan jo gerne være tørstige efter den lange Marsch ... . eller maaske et Stykke Mad?»</p>
+        <p xml:id="idm140513901625136">«Aa, Tak! Det er snart en Skam, men to lige en Bid Brød!» svarede Jens Bjærg, og stoppede sine Mellemmader længere ned i Frakkelommen.</p>
+        <p xml:id="idm140513901624592">Provsten ud.</p>
+        <p xml:id="idm140513901624176">Jens halvt hviskende: «Tykkes du ikke gerne, Manden kan gaa an, Søren?«</p>
+        <pb n="127" xml:id="s127" facs="adl/skjold/skjold_01/skjold_01_127"/>
+        <p xml:id="idm140513901622448">Søren: «Ja, i Førstningen véd jeg ikke rigtig! Men jeg tror, det er en godsindet Mand».</p>
+        <p xml:id="idm140513901621856">Saa lode de Øjnene løbe rundt i Kontoret for at undersøge, hvorledes det saa ud hos en Provst.</p>
+        <p xml:id="idm140513901621264">Jens: «Nej, nu har jeg s'gu aldrig set saa mange Piber i mine Dager! ... . Hvad mon det er for en Dings, der hænger dér?»</p>
+        <p xml:id="idm140513901620608">Søren: «Aa, saadan nogen har altid saa mange kunstige Ting.»</p>
+        <p xml:id="idm140513901620080">Jens: «Hvad mente han med det, at han ikke var Prokurator og ikke almægtig, he!»</p>
+        <p xml:id="idm140513901619520">Søren: «Hys, der er han!»</p>
+        <p xml:id="idm140513901619056">Jens: «Ja, bare vi var ude igen, jeg kunde komme af mine Støvler. Det er saa møj Fan'ens, som de klemmer mine Storetæer!»</p>
+        <p xml:id="idm140513901618400">Om de ønskede Snaps?</p>
+        <p xml:id="idm140513901617952">«Til Maade er al Ting godt, Hr. Provst!» svarede Jens med Munden fuld af Mad.</p>
+        <pb n="128" xml:id="s128" facs="adl/skjold/skjold_01/skjold_01_128"/>
+        <p xml:id="idm140513901616176">«Nu maa De endelig ikke nære sangvinske Forhaabninger, for Sagen har mange Vanskeligheder!» sagde Provsten venlig, da de to Udvalgsmedlemmer toge Afsked.</p>
+        <p xml:id="idm140513901615616">«Nej, to det byder sig selv. Saadan noget er jo ikke til at flyw' i ligestraks. Der skal jo Tid til al Ting, Hr. Provst! Og Rom blev ikke bygget paa jen Daw, som skrevet staar!» sluttede Jens Bjærg og rystede Hs. Højærværdigheds Haand.</p>
+        <p xml:id="idm140513901614976">Saaledes endte Provstebesøget.</p>
+        <pb n="129" xml:id="s129" facs="adl/skjold/skjold_01/skjold_01_129"/>
+      </div>
+      <div xml:id="idm140513901613136">
+        <head xml:id="idm140513901612880">XVII.</head>
+        <p xml:id="idm140513901612464">Saa var det, der skete en Omvæltning i Sørens Forhold til Klitboerne.</p>
+        <p xml:id="idm140513901611920">Visse Tider paa Aaret ophævedes alt, hvad der kaldtes Grænser og Skel, og Klitarealerne bleve som en vid Fælled for hver Mands Kvæg. Naar det sidste Neg var under Tag, slap man Dyrene løs og lod dem drive hvorsomhelst fra om Morgenen, man aabnede Stalddøren, til om Aftenen, hver søgte sine.</p>
+        <p xml:id="idm140513901610928">Dette var en Sædvane, ingen var falden paa at bryde eller havde tænkt at sætte sig op imod. Det var en af disse Vedtægter, som i Tidernes Løb, stille og skjult, bygger sig selv op til en hellig og ukrænkelig Lov.</p>
+        <pb n="130" xml:id="s130" facs="adl/skjold/skjold_01/skjold_01_130"/>
+        <p xml:id="idm140513901608864">Og saa kom Søren Branders Trærækker og sloge en Streg over den gamle Vedtægt og krævede sig respekteret ved Siden af.</p>
+        <p xml:id="idm140513901608224">Hans hegnede Mark skød sig ud i dette Friland som en trodsig Bringe; med sine Grøfter og Diger vilde han afskære Fællesskabet med dem og lære Klittens Folk Lov og Orden.</p>
+        <p xml:id="idm140513901607472">Saaledes forstode de det.</p>
+        <p xml:id="idm140513901607040">I Førstningen havde de ikke ænset det synderligt; det hele var jo i mange Aar saa uanseligt, og den snurrige Idé, at plante Træer i det golde Sand, vilde nok gaa af Manden, naar han blev ældre. Men da Søren, som Aarene gik, lagde til baade her og der, saa forstode de, at det skulde være Alvor, saa skønnede de, at han havde holdt Dom over det gamle og vilde sit til Trods for dem alle.</p>
+        <p xml:id="idm140513901606032">Men fra den Stund blev han dem som en fremmed, og hans Plantage et Oprør imod deres Samfund. -</p>
+        <pb n="131" xml:id="s131" facs="adl/skjold/skjold_01/skjold_01_131"/>
+        <p xml:id="idm140513901604240">Paa de skævende Øjekast, de tavse Miner, de vrantne Ord og paa hundrede andre Smaating mærkede Søren, at Krigen nærmede sig, den Krig, hvori han skulde være ene mod alle og alle mod ham.</p>
+        <p xml:id="idm140513901603456">Og saa stod han og stirrede ud over Hegnet.</p>
+        <p xml:id="idm140513901603008">For Øjet havde han de graa Klitter, der laa i en Taage af sivende Rusk og fygende Sand, og en truende Efteraarshimmel, hvis sorte Skymasser, ladet med Uvejr, fore af Sted i ilende Hast, som de ikke ret vidste, hvor de skulde brænde løs. Ja, - og saa var der de spredte Hytter rundt om, hvis Døre snart skulde lukkes for ham.</p>
+        <p xml:id="idm140513901602000">Det havde hørt med til hans Rigdom, at adsprede sig med Naboer i en lun Aftenpassiar, at føle sig tryg ved en hjælpsom Haand og et deltagende Hjerte i Nød og Modgang, at være knyttet til disse Mennesker ved Samlivets og Fællesskabets Baand. Nu var
+<pb n="132" xml:id="s132" facs="adl/skjold/skjold_01/skjold_01_132"/>
+han ræd for at blive plyndret for disse Værdier. Han var fattig nok endda. - Maatte han saa ikke hellere strække Vaaben og holde Dørene aabne? ... .</p>
+        <p xml:id="idm140513901599568">Men saa de lyse Tanker, der saa ofte kavde faret som en frisk Susning gennem hans Sjæl! - De vilde finde ham sovende paa Post, forekom det ham. Disse Tanker, der som skønne Drømme havde gynget hans Sind, naar Aaget laa over hans Nakke, der som muntre Gæster kom til dem, naar han og Ane vare mødige og trætte, Skulde han saa lukke Døren for dem! ... .</p>
+        <p xml:id="idm140513901598448">Det, han haabede paa, saa smaat ud, men det groede dog for ham, og skulde han vel kaste en Grav til det voksende Haab! Nej, saa fik han nok ikke Fred og Hvile alligevel ... .</p>
+        <p xml:id="idm140513901597872">Saaledes vejede han det ene mod det andet, mens han stod og stirrede ud over Hegnet. - -</p>
+        <p xml:id="idm140513901597376">En Dag kom Jens Bjærg ind til ham og sagde blandt andet: «Du skulde
+<pb n="133" xml:id="s133" facs="adl/skjold/skjold_01/skjold_01_133"/>
+ligegodt lade det fare; Folk lider ikke det Planteri».</p>
+        <p xml:id="idm140513901595568">«Jeg mener, jeg har Lov at gøre med mit, hvad jeg vil!»</p>
+        <p xml:id="idm140513901595104">«Begribeligvis! Det har du; men - æ -! Folk lider det nu alligevel ikke!</p>
+        <p xml:id="idm140513901594624">«Vil du ikke sige mig, hvorfor egentlig?»</p>
+        <p xml:id="idm140513901594176">«Ja, det er ikke saa godt saadan. Du ser jo ikke gerne, at Høvederne kommer dig for nær, og Folk tykkes vel ilde om at faa den gamle Drift forstyrret for de Pjalt Ris' Skyld».</p>
+        <p xml:id="idm140513901593600">«Dersom I andre vilde plante nogle af de samme «Pjalt Ris», saa fik det en Forandring i Klitten».</p>
+        <p xml:id="idm140513901593104">Jens rystede paa Hovedet.</p>
+        <p xml:id="idm140513901592672">«Men der maa vel ogsaa være noget andet i Vejen?» spurgte Søren.</p>
+        <p xml:id="idm140513901592208">«Ja. der er jo dit Avlsvæsen og - æ - saadan et og andet. Det er, ligesom du vil være saa meget klogere end de andre!»</p>
+        <p xml:id="idm140513901591680">«Vi vil vel allesammen helst gaa
+<pb n="134" xml:id="s134" facs="adl/skjold/skjold_01/skjold_01_134"/>
+efter vort eget Hoved. Og hvad har vi det ellers til?»</p>
+        <p xml:id="idm140513901589824">«He-nej, saamænd!» svarede Jens og spyttede. «Men du er jo da ogsaa i det hele saadan bleven lidt for dig selv, Søren, hvad?»</p>
+        <p xml:id="idm140513901589296">Søren svarede ikke.</p>
+        <p xml:id="idm140513901588848">«Og Folk snakker ilde om dig, især siden du nu ogsaa har taget fat paa Plantagen».</p>
+        <p xml:id="idm140513901588368">«Vil du ikke svare mig oprigtig, Jens; hvem tykkes du, der har Ret, jeg eller I andre?»</p>
+        <p xml:id="idm140513901587872">Jens kløede sig paa Albuen og vred sig lidt: «Ja, det er det sørgelige af det. Jeg synes saa Fanden pine mig egentlig, du har Ret, det vil sige paa én Maade. Men alligevel, Søren! lad det staa og blive til, hvad det kan; du faar dog ingen videre Fornøjelse af det!»</p>
+        <p xml:id="idm140513901586928">«Naar jeg har taget fat paa noget, saa plejer jeg at gøre mit Arbejde færdigt!» svarede Søren med fast Betoning.</p>
+        <pb n="135" xml:id="s135" facs="adl/skjold/skjold_01/skjold_01_135"/>
+        <p xml:id="idm140513901585232">«Ja, ja, nu kan du jo tænke ved det Jeg syntes ligegodt, jeg skulde have det sagt», sluttede Jens og rejste sig.</p>
+        <p xml:id="idm140513901584720">Søren gik en Tur ud imellem sine Træer, af hvilke hvert havde sin lille Historie, som kun han kendte. F or hvert Fjed, han flyttede sin Fod, kom en ny Historie, som om han vendte Bladene i en Bog. Og saa gik han og lyttede til Mindernes Sus i de svajende Kviste. Der var Træer, der løftede deres smaa Grene som Faner i Luften, og der var andre, som krøbe i Skjul og bade for Livet. -</p>
+        <p xml:id="idm140513901583712">Da han kom ind, sagde han: «Ja, jeg véd ikke, Ane ... .?»</p>
+        <p xml:id="idm140513901583184">«Du skal ikke opgive noget for min Skyld. Jeg tænker vel, jeg holder ud med dig».</p>
+        <p xml:id="idm140513901582704">Og saa besluttedes den ensommes tange Kamp.</p>
+        <pb n="136" xml:id="s136" facs="adl/skjold/skjold_01/skjold_01_136"/>
+      </div>
+      <div xml:id="idm140513901580992">
+        <head xml:id="idm140513901580736">XVIII.</head>
+        <p xml:id="idm140513901580320">Søren Brander stod som paa Vagt i et fjendtligt Land for at værne det, der tilhørte ham, mod Overlast.</p>
+        <p xml:id="idm140513901579712">Hver Dag gennembrødes alligevel Hegnene, spidse Horn boredes ind i Digernes løse Sandtørv, der smuldredes og røg som en Taage om brølende Dyrehoveder; hver Dag saa han Flidens Frugter trampet ned; hver Dag den samme evindelige Jagen. - Og saa var han vis paa, at rundt omkring ham sad Skadefryden og lo i Krogene.</p>
+        <p xml:id="idm140513901578672">Saa rejste tilsidst den krænkede Ret og den stejle Trods sig hos ham, og han besluttede sig til et Angreb, han hidtil havde krympet sig ved.</p>
+        <pb n="137" xml:id="s137" facs="adl/skjold/skjold_01/skjold_01_137"/>
+        <p xml:id="idm140513901576800">Næste Dag optog han de første Kreaturer.</p>
+        <p xml:id="idm140513901576320">Men dette forplantede sig som en Rystelse i Klitten og rejste et Uvejr af vrede Ord og haarde Domme.</p>
+        <p xml:id="idm140513901575824">Nu var det ikke alene Dyrenes Flokke, der lodes løs imod ham.</p>
+        <p xml:id="idm140513901575296">Thi ligesaa godmodig Befolkningen var, ligesaa hadsk kunde den være mod den, der satte sig op imod Lands Lov og gammel Hævd. Nu lurede de onde Øjne paa Søren Branders Færd med en vaagen Opmærksomhed baade aarle og silde, og naar de fandt et Fejlgreb, hængtes den skyldige op til Spot og Spe i den offentlige Omtale.</p>
+        <p xml:id="idm140513901574256">Da Søren sad med de første Optagelsespenge i sin Haand, vendte og drejede han dem flere Gange. Loven tilkendte ham dem som retmæssig Ejendom, derom var ingen Tvivl, i Striden havde han Retten paa sin Side, derom var heller ingen Tvivl; - alligevel brændte disse Kroner i Haanden.</p>
+        <pb n="138" xml:id="s138" facs="adl/skjold/skjold_01/skjold_01_138"/>
+        <p xml:id="idm140513901572096">Han vidste, hvor ubarmhjærlig disse Mennesker vilde blive i deres Forfølgelse; det anede ham, hvor de i Aaringer vilde sejgpine deres Bytte. Han kendte deres Udholdenhed, og endnu en Gang overvejede han Striden.</p>
+        <p xml:id="idm140513901571264">Dog varede det ikke længe, inden han paany optog Kreaturer, flere end forrige Gang. Det gentog sig atter og atter. Hver Dag havde han Huset fuldt af fremmede Dyr, som Ejerne ikke vilde afhente, og han maatte til Sognefogden, inden Udløsningen fandt Sted. Alle de Knuder og Kneb, der var til, bragtes til Anvendelse. Krigen gik højt i Klitten, og Forbitrelsen tætnede til.</p>
+        <p xml:id="idm140513901570224">Imidlertid, Loven og Sognefogden krævede ubønhørligt mere og mere Mønt. Beløbene gik i Vejret. Paa den Maade blev det nødvendigt at passe paa Dyrene, og saa blev der Stilstand.</p>
+        <p xml:id="idm140513901569456">Hver ny Optagelse havde virket som et Stød. Man studsede over, at han virkelig turde byde dem Spidsen
+<pb n="139" xml:id="s139" facs="adl/skjold/skjold_01/skjold_01_139"/>
+alle til Hobe og gennemføre det. Og hvert Stød virkede atter som et Slag paa den Kile, der adskilte Søren fra det Samfund, hvor han hørte hjemme.</p>
+        <p xml:id="idm140513901567280">Uden at han fik det at vide, blev der holdt Møder om Skolesagen, og fra nu af udelukkedes han fuldstændig fra al Samkvem med Klittens Indvaanere. Ved løstløbende og fjendske Ord, der ynglede i Hvermands Mund, mærkedes han som en spedalsk, ingen kunde røre uden at blive urén.</p>
+        <p xml:id="idm140513901566320">Den meste Tid af Aret laa dog Fjendskabet som under Aske, men hvert Aar, naar det sidste Neg var i Hus, blussede det op paany.</p>
+        <p xml:id="idm140513901565792">- - Søren Branders Aasyn blev alvorligt og aarvaagent som hos den, der ser løftede Vaaben til alle Sider, og de faa Ord, han talte, fik noget af hans Grundstemnings mørke Klang. Han gik dog sikrere og fastere frem for sin Ret, som hans Vilje daglig hærdedes.</p>
+        <pb n="140" xml:id="s140" facs="adl/skjold/skjold_01/skjold_01_140"/>
+        <p xml:id="idm140513901563680">Men stundom faldt Tvivlen over ham.</p>
+        <p xml:id="idm140513901563248">Al hans Omhu uagtet vilde Træerne ingen Vegne komme. Havgusen svøbte sin knugende Kulde om dem, saa de stode og skildrede sig i det kolde, fugtige Sand. Tørken pinte Saften af dem, og skarpe Vinde og Nattefrost sved Bladene sorte i Løvspringstiden.</p>
+        <p xml:id="idm140513901562336">Og alle disse Fjender af Plantevæksten hærgede ogsaa den Smule Korn og Græs, som skulde være til Livsophold. At han gad øge disse Agre, hvis sparsomme Straa Aar efter Aar udraabte hans Afmagt! - Og alle hans Forbedringer og Hundekunster! ... . Nej, havde han blot en Plet af den fede Jord inde i Landet, saa havde han da haft en Grund, det var værd at vove sin Trøje paa, - men dette døde Klitsand, der ikke var til at faa Liv i! -</p>
+        <p xml:id="idm140513901561264">Skulde da al hans Møje rinde ud i det endeløse Øde? Skulde han aldrig
+<pb n="141" xml:id="s141" facs="adl/skjold/skjold_01/skjold_01_141"/>
+faa Bugt med den golde og stridige Jord? Skulde hans Kamp afsluttes i et Nederlag og han staa blottet for Mængdens Spot? ... .</p>
+        <p xml:id="idm140513901559312">Naar hans Øje løb hen over de sygt hængende Grene og de solblegede Græsmarker, syntes det hele mærket af Døden og viet til Undergang!</p>
+        <p xml:id="idm140513901558640">I saa Tilfælde vilde sikkert meget gaa under, thi til dette Spørgsmaal, følte han, var knyttet andre Værdier end almindelig Vinding og Tab.</p>
+        <p xml:id="idm140513901557952">Han vankede bag sine Hegn og Jorddiger hvileløs som Fangen bag sit Gitter ... .</p>
+        <p xml:id="idm140513901557392">En Dag, Tvivlen om hans Værk saaledes faldt over ham, satte han sig paa en Bænk ude i Plantningen, og sagde til Ane, der stod hos ham: «Aa! - jeg er saa træt, saa træt!»</p>
+        <p xml:id="idm140513901556640">Taarerne listede sig frem, da hun saa paa hans lidende Ansigt.</p>
+        <p xml:id="idm140513901556176">Hun lænede sig til ham. Og som hun laa tæt ind imod ham, lagde han
+<pb n="142" xml:id="s142" facs="adl/skjold/skjold_01/skjold_01_142"/>
+Mærke til hendes falmede Kinder, hvor Rynkerne allerede havde tegnet deres Spor. «Hun er nok ogsaa træt, Stakkel!» tænkte han og kyssede hende, mens Graaden trængte paa. -</p>
+        <p xml:id="idm140513901554016">Da de gik ind, og han vaklede, udbrød hun: «Du bliver da vel ikke syg?»</p>
+        <p xml:id="idm140513901553472">«Det er ikke umuligt!»</p>
+        <p xml:id="idm140513901553040">Han maatte straks i Seng. En brændende Feber bankede i hans Blod.</p>
+        <p xml:id="idm140513901552512">«Gud naade os!» sagde Ane og satte sig hos ham. «Vorherre højt i Himlen bo'r! - Vorherre højt i H imlen bo'r, Søren!»</p>
+        <p xml:id="idm140513901551984">«Ja, han bo'r højt!« hviskede han og kastede sig uroligt paa Lejet.</p>
+        <p xml:id="idm140513901551520">«Søren! skal jeg ikke faa én til at hente Doktoren?»</p>
+        <p xml:id="idm140513901551056">«Hvem skulde det vel være?»</p>
+        <p xml:id="idm140513901550624">«Skal jeg ikke?»</p>
+        <p xml:id="idm140513901550208">«Nej!» svarede han næsten barskt, «det maa du love mig, - aah!»</p>
+        <p xml:id="idm140513901549744">Hun rakte ham lidt at drikke, sad ellers og stirrede ud af de smaa Ruder
+<pb n="143" xml:id="s143" facs="adl/skjold/skjold_01/skjold_01_143"/>
+og tænkte paa Dørene, som vare lukkede for dem, og paa Natten, som forestod ... .</p>
+        <p xml:id="idm140513901547936">Ved Midnatstid talte han i Vildelse. «Kan du ikke høre», tog han paa Vej, «hvor de hugger i Isen!»</p>
+        <p xml:id="idm140513901547328">«Hvad er det for Snak!»</p>
+        <p xml:id="idm140513901546896">«De hugger os fra, saa vi bliver landløse og aldrig mere kommer paa den faste Jord!»</p>
+        <p xml:id="idm140513901546416">«Saa, saa, saa!»</p>
+        <p xml:id="idm140513901546000">«Kan du ikke høre, hvor Øksen klinger?» raabte han og sprang op. «Kan du ikke?»</p>
+        <p xml:id="idm140513901545520">«Jo, jo, men læg dig nu li'esaa stille,</p>
+        <p xml:id="idm140513901545072">Han lagde sig med et Smil, hvori Bevidstheden ligesom blinkede igennem. Men lidt efter sprang han atter op og svingede vildt med Armene.</p>
+        <p xml:id="idm140513901544528">Siden laa han og klagede sig: «Og de har bundet mig, saa jeg aldrig kan røre et Lem ... . Og saa driver vi ud paa det fæle, sorte Vintervand ... . Hvorfor vil du ikke løse mig? ... .
+<pb n="144" xml:id="s144" facs="adl/skjold/skjold_01/skjold_01_144"/>
+Aa, tag dog en Kniv og skær Strikkerne over!» ... .</p>
+        <p xml:id="idm140513901542336">Saaledes fantaserede han, til han ud paa Natten faldt i Ro.</p>
+        <p xml:id="idm140513901541872">Han vaagnede i den tidlige Morgenstund og aabnede med Møje de tunge Øjenlaage. I Lyset fra det svage Dagsskær og fra en lille Lampe saa han Ane, der sad ved Sengen paa en Stol, hvor Søvnen havde overrasket hende paa hendes Post. Det blege af uredt Haar indrammede Hoved var sunket skraat ned paa hendes Bryst. Den venstre, tørre og knoklede Haand hvilede i hendes Skød, og med den højre fattede hun om Sengestokken.</p>
+        <p xml:id="idm140513901540768">Han tænkte paa, at dette flade Bryst en Gang havde været højt og rundt, og at denne graa Hud engang havde været fager. Men alligevel syntes han, at hun nu laa hans Hjerte langt nærmere end den Gang, hun, hans tro og usvigelige Kammerat ... .</p>
+        <p xml:id="idm140513901539872">Med inderlig Kærlighed lyste hans
+<pb n="145" xml:id="s145" facs="adl/skjold/skjold_01/skjold_01_145"/>
+Blik over hendes Aasyn, hvor Livets Kampe havde aftegnet sig, og hvor noget af baade hans og hendes Historie stod skrevet, og saa slumrede han igen ind med en lykkelig Følelse.</p>
+        <pb n="146" xml:id="s146" facs="adl/skjold/skjold_01/skjold_01_146"/>
+      </div>
+      <div xml:id="idm140513901536464">
+        <head xml:id="idm140513901536208">XIX.</head>
+        <p xml:id="idm140513901535792">Men Sørens Villie var ligesaa sejg som de Rødder, hvoraf han flettede sine Kurve.</p>
+        <p xml:id="idm140513901535232">Om han end stundom fik sine Tvivl, saa droges han dog stedse med en Naturdrifts Styrke mod sin Marks sandede Muld. Han skænkede den sin Manddomskraft, at den kunde bære hans Drømme frem. Han omgikkes den aarle og silde i et Kærlighedsliv, saa han, ladet ene af Mennesker, ret indlevede sig med den Jord, hvoraf han var taget. Det gyngede frydefuldt i hans Sind, naar Muldpladen vendte Jordbølge paa Jordbølge af velbehandlet Ager. Og naar han med Skovlen
+<pb n="147" xml:id="s147" facs="adl/skjold/skjold_01/skjold_01_147"/>
+pyntede de regelmæssige Firkanter, der vare afgrænsede med snorlige Grøfter, straalede hans Øjne over det fuldendte Værk. - Aar efter Aar gravede han sig længere frem i Sandet. - Vel var Jorden trodsig, vel knurrede den, naar Plovjærnet skar igennem den sejge Lyngsvær, der jo ogsaa blev forstyrret i sin tusindaarige Ro, - men Søren syntes, at der var noget af Livets Lyst og Lykke i at vinde Magt og Herredømme her.</p>
+        <p xml:id="idm140513901532144">Naar et Menneske paa denne Maade indlader sig med Jorden, saa lokker han alt det ud af den, som den kan give. Det er denne Kærlighed, der nu saa vel som i Tidernes Morgen skaber Liv, hvor der før var tomt og øde. -</p>
+        <p xml:id="idm140513901531312">Lendum Klit laa paa et af de mest udsatte Punkter i Landet, tæt ved Havet, hvor stærke Storme herskede hele Aaret; de borede mægtige Huller i Klitterne, ruskede Taget af Husene, hylede i Skorstenene, gned og skurede
+<pb n="148" xml:id="s148" facs="adl/skjold/skjold_01/skjold_01_148"/>
+Hedefladerne, der laa aabne og udbredte, og forsvandt saa i lange Suk inde over de mørke Moser. Intet var der til at læ og ly og lune for Sæden.</p>
+        <p xml:id="idm140513901528976">Men paa Søren Branders Lod var der Bælter paa kryds og tvers, der værnede Kornet, som stod gemt i de hegnede Firkanter. Dette kendtes ogsaa paa Sørens Afgrøde. Dertil hjalp desuden flere Forbedringer, Søren indførte, hvilke de slidsomme men tungvendte Klitboere ikke ænsede, saa meget mindre, som de kom fra den Kant. Endvidere sporedes han frem ved de mange Øjne, der vare rettede paa ham. Men Hovedsagen var dog, at Søren Brander i den Grad gik op i sit Arbejde, at dette var hans Liv, saa de to Ting ikke kunde skilles, men maatte enten begge lykkes eller begge mislykkes. Og hvor Mandens Liv er hans Gerning, der ydes det allerbedste, thi da staar han i sit Kald.</p>
+        <p xml:id="idm140513901527200">Følgen af alt dette var, at den
+<pb n="149" xml:id="s149" facs="adl/skjold/skjold_01/skjold_01_149"/>
+økonomiske Fremgang groede, om end smaat, saa dog sin stille Vækst.</p>
+        <p xml:id="idm140513901525392">- - En Dag holdt to Hesteprangere, en tynd og en tyk, uden for Huset.</p>
+        <p xml:id="idm140513901524928">«Goddag, bitte Mand! - Her har vi et Par smaa Heste til dig!» begyndte den tynde og sprang af Vognen.</p>
+        <p xml:id="idm140513901524432">Sørens Hjerte tog til at banke, men han svarede ganske rolig; «Naa, har I det!» mens han undersøgte de fremmede Handelsmænd med et prøvende Blik.</p>
+        <p xml:id="idm140513901523728">Han beroligedes fuldstændigt ved det paalidelige, enfoldige, næsten fromme Udtryk, den tykke forstod at give sit blegfede, glatragede Ansigt. Han lignede jo ganske en Præst.</p>
+        <p xml:id="idm140513901522976">«Tror du, vi kan gøre et Bytte med Studene?» spurgte han stilfærdig.</p>
+        <p xml:id="idm140513901522496">«Aa!» svarede Søren langsomt, idet han skottede forelsket til de gule Nordbagger, «det er vel aldrig værdt!»</p>
+        <p xml:id="idm140513901521984">«Hvis du vil have Heste, saa kan du aldrig i dine Levedage faa et Par,
+<pb n="150" xml:id="s150" facs="adl/skjold/skjold_01/skjold_01_150"/>
+der er saa skønne som disse her!» raabte den tynde og spændte Skaglerne af. «Nu skal du bare se!»</p>
+        <p xml:id="idm140513901519984">Søren kløede sig paa Albuen,</p>
+        <p xml:id="idm140513901519520">«Hvis du faar dem, saa skal jeg love dig for, at du skal komme over Bunden ... . Om de kan rykke noget!» Den tynde maatte lé højt. «Jeg vilde gerne se det Læs, de lod staa! - Men du er vist heller ikke saa dum, som du gør dig, bitte Mand! ... . Sikken et Fortøj!» vedblev han og trak Søren forved Hestene. «Det er jo - saa bandte han - et Bringestykke som ved en Springhest, - hvad?»</p>
+        <p xml:id="idm140513901518336">Hestene mønstredes under høje Tilraab og Piskesmæld. Prangeren tumlede dem, saa de arme Dyr ikke vidste, hvad Fod de turde staa paa.</p>
+        <p xml:id="idm140513901517664">«De er vel ikke for gamle?»</p>
+        <p xml:id="idm140513901517232">«For gamle!» raabte den tynde, sprang hen og aabnede Mulen paa den ene. «Vil du ikke selv se! Den har jo et Tandtøj som en treaars Plag!»</p>
+        <pb n="151" xml:id="s151" facs="adl/skjold/skjold_01/skjold_01_151"/>
+        <p xml:id="idm140513901515504">«Jeg synes, de er saa magre!»</p>
+        <p xml:id="idm140513901515072">«Magre! - Vil du ikke sige mig, bitte Mand, hvordan de skulde blive anderledes. Nys kommen fra Norge, og siden flakket fra Marked til Marked. Det kan du da ogsaa selv forstaa! ... . Nej, det er Kærnekram!» sluttede han og smækkede sin flade Haand med stort Klask paa Bagen af den ene.</p>
+        <p xml:id="idm140513901514384">«Ja, det er da ingen Fejl ved en Hest, at den er for mager!» tilføjede den tykke i en mildt bebrejdende Tone.</p>
+        <p xml:id="idm140513901513872">«En kan jo da se, hvad det er; det forstaar sig!» svarede Søren.</p>
+        <p xml:id="idm140513901513408">«Naa, tror du saa ikke, du kunde blive kørende? spurgte den tynde.</p>
+        <p xml:id="idm140513901512944">«Jeg synes, den ene løfter saa sært paa det ene Bagben?»</p>
+        <p xml:id="idm140513901512480">«Fortæl os nu ingen Krøniker! Det er vi for gamle til!» svarede den tynde og svingede med Pisken, saa det frygtsomme Dyr trippede.</p>
+        <p xml:id="idm140513901511952">«Jeg vil da sige dig, min Ven! at den er egentlig den bedste af dem!»
+<pb n="152" xml:id="s152" facs="adl/skjold/skjold_01/skjold_01_152"/>
+sagde den tykke paa sin stille, fortrolige Maade.</p>
+        <p xml:id="idm140513901510112">Ane og Børnene kom ud. De stode og beundrede de to Nordbagger og ønskede af Hjertet, at det var deres.</p>
+        <p xml:id="idm140513901509504">«Hvad tykkes du, Ane?» spurgte Søren og spyttede med en tænksom Mine.</p>
+        <p xml:id="idm140513901509024">«Kan det gaa an!» svarede hun lidt ængstelig.</p>
+        <p xml:id="idm140513901508576">Det havde været en af Sørens kæreste Tanker en Gang at faa et Par Heste. Nu stode de der, og han behøvede blot at gribe til .,.. Men paa den anden Side, - det vilde koste Havre! ... . Ganske vist havde han nogle Kroner liggende, som han strengt taget ikke for Tiden havde nogen særlig Brug for, men det var vel alligevel for vovsomt! -</p>
+        <p xml:id="idm140513901507552">Hvordan de skulde bytte?</p>
+        <p xml:id="idm140513901507120">«Ja, hvis du ikke glad kan byde os Studene, den graabrogede Ko og hundrede Kroner, saa kan det aldrig hjælpe, vi snakker længere om det!»
+<pb n="153" xml:id="s153" facs="adl/skjold/skjold_01/skjold_01_153"/>
+sagde den tynde og satte sig op i Vognen.</p>
+        <p xml:id="idm140513901505264">Nej, det vilde Søren da ikke.</p>
+        <p xml:id="idm140513901504800">«Hvis dine Stude var mere værd, min Ven! saa vilde vi jo ogsaa give dig noget mere for dem; det kan du jo nok forstaa!»</p>
+        <p xml:id="idm140513901504272">Prangerne strammede Tøjlerne, Nordbaggerne rejste Hovederne og skrabede i Jorden. «Naa, farvel bitte Mand!»</p>
+        <p xml:id="idm140513901503648">«Halvtreds!» raabte Søren.</p>
+        <p xml:id="idm140513901503216">«Trr! - Ja, ja, Held og Lykke med det. Det kan heller ikke hjælpe altid at være saa paaholdende».</p>
+        <p xml:id="idm140513901502720">- Saaledes fik Søren Brander Heste paa Stalden, om der end kunde være noget at udsætte paa dem.</p>
+        <p xml:id="idm140513901502128">Det var knapt, han kunde sove den første Nat efter Handelen, og Dagene derpaa tilbragte han mest hos Dyrene. Imellem han fodrede Hestene, pudsede og striglede han dem. Det var altid
+<pb n="154" xml:id="s154" facs="adl/skjold/skjold_01/skjold_01_154"/>
+Søren som en Gudstjeneste at røgte og pleje sine Kreaturer; hans Haand var karrig paa Slag, men rig paa Kærtegn; og Stalden var ham som en Helligdom, hvis Tærskel han traadte over med en vis Ærbødighed.</p>
+        <p xml:id="idm140513901499792">Der var ikke længe imellem, at Ane kiggede ind ad Døren til ham.</p>
+        <p xml:id="idm140513901499264">«Naar de først faar noget mere Kød paa Knoklerne, saa skal du bare se, Ane!» sagde Søren til hende, gik op i Baasen og lod Haanden glide langs den mørke Stribe paa Nordbaggernes Ryg.</p>
+        <p xml:id="idm140513901498672">«Jeg tykkes, den ene lægger Ørerne saa sært tilbage?»</p>
+        <p xml:id="idm140513901498208">«Ja, jeg véd ikke rigtig, hvad han bestaar af endnu!» Søren gumlede eftertænksomt paa Skraaen.</p>
+        <p xml:id="idm140513901497712">Noget efter smilede han og sagde: «Saa fik vi ligegodt et Par Heste; hvem skulde egentlig have sagt det, Ane?»</p>
+        <p xml:id="idm140513901497088">«Ja, det er morsomt! - Og synes
+<pb n="155" xml:id="s155" facs="adl/skjold/skjold_01/skjold_01_155"/>
+du ikke ogsaa, at det er saadanne pæne smaa no'en? - Vi skal vel til Lendum Marked?»</p>
+        <p xml:id="idm140513901495280">«Min Sandten skal vi det!» Og Søren gnubbede sig fornøjet paa Albuen.</p>
+        <pb n="156" xml:id="s156" facs="adl/skjold/skjold_01/skjold_01_156"/>
+      </div>
+      <div xml:id="idm140513901493424">
+        <head xml:id="idm140513901493168">XX.</head>
+        <p xml:id="idm140513901492784">Der var mange Mennesker, der, da de vaagnede Markedsdagen, saa op mod Skyerne. Og da var der mange Hundrede Øjne, der tindrede, thi Vejret var netop, som et Markedsvejr skal være. Fra alle Sider strømmede Folk sammen til den hvide Teltby ved Landevejen, hvor Markedet holdtes. Ude fra Klitvejen kom Søren med Nordbaggerne i rask Trav. Hele Familien sad og bævede i en indre Fryd over Køreturen.</p>
+        <p xml:id="idm140513901491584">«Det er to, der vil noget!» sagde Søren og strammede Tømmerne «Ho -a! Ho-a!»</p>
+        <p xml:id="idm140513901491104">Han naaede en «Studemand»; han syntes næsten, det var en Skam at køre
+<pb n="157" xml:id="s157" facs="adl/skjold/skjold_01/skjold_01_157"/>
+forbi en gammel Kending, men da denne bøjede til Siden, smuttede han om.</p>
+        <p xml:id="idm140513901489200">«Det er noget andet end Studene!» sagde Ane og saa lyksalig ud.</p>
+        <p xml:id="idm140513901488736">«Det er to, der vil noget!» gentog Søren, «og de kan ogsaa noget. - Ho-a! Ho-a!» Og Hjertet hoppede i hans Bryst.</p>
+        <p xml:id="idm140513901488224">Han kørte den Dag forbi alle Studemændene fra Klitten, og da han drejede ind paa Markedspladsen, turde han neppe løfte sit Blik, for han troede, at alles Øjne vare rettede mod ham og hans smaa, gule Heste.</p>
+        <p xml:id="idm140513901487408">Husmandsfamilien arbejdede sig gennem den Myretue af Mennesker, Dyr og alskens Tros, som et godt besøgt Marked er, og kom forbi et Telt, hvor nogle Klitboere sad og drak.</p>
+        <p xml:id="idm140513901486672">«Halløj, Søren!» raabte de indenfor.</p>
+        <p xml:id="idm140513901486224">«Det er bedst, du gaar ind til dem», hviskede Ane, «saa dasker jeg lidt opad med Børnene».</p>
+        <p xml:id="idm140513901485728">Søren blev budt til Sæde paa
+<pb n="158" xml:id="s158" facs="adl/skjold/skjold_01/skjold_01_158"/>
+Indre-Bænken, og straks satte sig nogle Mænd udenfor ham paa hver Side.</p>
+        <p xml:id="idm140513901483856">«Vi kører jo rigtignok med Stude», sagde en rødskægget Mand og ræbede, «men du vil kanske nok drikke en Punsch med os for det!»</p>
+        <p xml:id="idm140513901483328">Søren saa sig spørgende omkring. Han ventede sig ikke noget godt af de ophedede og bredt grinende Ansigter, som vendtes imod ham.</p>
+        <p xml:id="idm140513901482672">«Hvordan er det, den fjærmer løfter det ene Bagben?» spurgte en.</p>
+        <p xml:id="idm140513901482208">«Hun er god til at gaa over et Dørtrin!» tilføjede en anden.</p>
+        <p xml:id="idm140513901481744">«Det kan jo være, det blot er en Smule Gigt!» sagde en tredie.</p>
+        <p xml:id="idm140513901481280">«Ja, den vil jo gerne komme med Aarene!» lagde en fjerde til.</p>
+        <p xml:id="idm140513901480816">Saaledes stormede drillende Bemærkninger ind paa ham, og for hver Sætning lo de alle højt, en raa og saarende Latter.</p>
+        <p xml:id="idm140513901480176">Hvor det gjorde Søren ondt at sidde som Skive for disse hans Naboers
+<pb n="159" xml:id="s159" facs="adl/skjold/skjold_01/skjold_01_159"/>
+og Fællers Haansord. Var der da ingen Ende paa denne Krig! Intet fredlyst Sted, hvorhen han vendte sig!»</p>
+        <p xml:id="idm140513901478176">Han indkrævede en «Omgang» til Selskabet, et Forsoningens Bæger, der i Førstningen lod til at stemme Sindene venligere.</p>
+        <p xml:id="idm140513901477520">Men en af Mændene, der var vindøjet, og som havde siddet og vrøvlet usammenhængende, rejste sig med eet, som han først opdagede Søren, og sagde til ham: «Med Forlov! Er det ikke Plantøren?» - Og saa fulgte igen en bragende Lattersalve.</p>
+        <p xml:id="idm140513901476624">Straks var der en anden, der sagde: «Ja, Søren kan jo sagtens købe Heste, saadan Indtægt han har af sine Træer.</p>
+        <p xml:id="idm140513901475984">«Ved at tage i Hus, mener du!» tilføjede en tredje.</p>
+        <p xml:id="idm140513901475536">Og Latteren haglede ned over Søren som Byger af spidse Naale.</p>
+        <p xml:id="idm140513901475008">Han opdagede Anes Øjne i Teltdøren, rejste sig og vilde ud.</p>
+        <pb n="160" xml:id="s160" facs="adl/skjold/skjold_01/skjold_01_160"/>
+        <p xml:id="idm140513901473296">«Det haster vel ikke», indvendte de andre, «nu faar vi en Omgang til!»</p>
+        <p xml:id="idm140513901472816">«Vil I lade mig komme ud!» sagde Søren bestemt.</p>
+        <p xml:id="idm140513901472368">Mændene paa Bænken klemte ham fra begge Sider, og flere raabte i Munden paa hverandre med truende Øjekast: «Vil du forsmaa vor Skænk. - Vil du trads' vos!»</p>
+        <p xml:id="idm140513901471648">Sørens Ansigt fortrak sig: «Jeg vil ud!» raabte han, og før nogen vidste det, var hans Fødder paa Bordet, og væk var han over Hovedet paa dem alle.</p>
+        <p xml:id="idm140513901470944">De stirrede forbavsede paa den tomme Plads, og en af Mændene bemærkede: «Hvad den Karl vil, det vil han! saa er det det samme».</p>
+        <p xml:id="idm140513901470288">«Hvor Fa'n blev han af?» spurgte den vindøjede og væltede sit Glas henad Bordet ... .</p>
+        <p xml:id="idm140513901469792">Men Søren lod de smaa Heste strække ud, hvad de kunde, ad Klitten til. Han mælede ikke et Ord, bare
+<pb n="161" xml:id="s161" facs="adl/skjold/skjold_01/skjold_01_161"/>
+stirrede stivt hen for sig, rynkede Panden og trak Læberne fast sammen. Det eneste bevægelige i dette haarde Ansigt vare de vibrerende Næsebor.</p>
+        <p xml:id="idm140513901467632">Ane følte, hvor han maatte lide. Selv sad hun og trykkede sig til ham, mens Hjertet bankede i hurtige Slag som hos den Fugl, der mærker Gribbens Vingeslag over sit Hoved. Og hun tog hans Haand og sagde inderlig blødt: «Søren! Skal vi ikke flytte langt, langt bort fra det altsammen?»</p>
+        <p xml:id="idm140513901466656">«Aldrig!» svarede han uden at forandre en Mine.</p>
+        <p xml:id="idm140513901466208">Det var de eneste Ord, der bleve vekslede paa Hjemturen. Og Hestene pilede af Sted, som om Sørens indre Uro forplantede sig gennem Tømmen.</p>
+        <pb n="162" xml:id="s162" facs="adl/skjold/skjold_01/skjold_01_162"/>
+      </div>
+      <div xml:id="idm140513901464256">
+        <head xml:id="idm140513901464000">XXI.</head>
+        <p xml:id="idm140513901463584">En Efteraarsdag svang Søren Brander Plejlen over den ny Sæderug, der dansede paa Logulvets Fjæl. End ikke i sin Stue havde han saadant Gulv, men han skyede hverken Udgift eller Umage over for det, der kunde fremme Renligheden i hans Tærskelo. Hver Gang han betraadte dette Sted, hvor Markens Velsignelse skæppedes op i Tøndemaal, trak han først sine blankslidte Skifte-Træsko paa. I glad Alvor færdedes han her, og under Ansvar vaagede han husholderisk over, at intet spildtes.</p>
+        <p xml:id="idm140513901462544">Her stod han lunt inden Døre i den raakolde Efteraarsdag og frydede
+<pb n="163" xml:id="s163" facs="adl/skjold/skjold_01/skjold_01_163"/>
+sig ved de modne Kærner, der sprang frem under «Slagvollen». - Hvis Avlen saaledes vedblev at tiltage, var der Sandsynlighed for, at han til næste Aar blev nødt til at bygge et nyt Stykke Hus igen. - Ja, saamænd, Guds Velsignelse var saa meget! ... . Bare han kunde holde ud at slide med det! I den senere Tid havde han faaet det saa slemt med Stikken i Brystet og Værk over Lænderne. Men det forstaar sig, det var jo Synd at klage, som han her stod med Huset fuldt af Guds Gaver, ligefrem stoppende fuldt af dejlige Kærve i hver en Krog og Udskur! - - - Han troede nu ogsaa nok, han avlede bedre end de andre Klitboere - tænkte han videre og smilede - se, Driftsmaaden gjorde jo saa meget, og de andre, de havde ikke rigtig ... .</p>
+        <p xml:id="idm140513901459264">I det samme kom hans Smaadrenge løbende og sagde forpustet ind ad Lugen, at Øget laa og spjættede i den
+<pb n="164" xml:id="s164" facs="adl/skjold/skjold_01/skjold_01_164"/>
+store Skelgrøft og kunde ikke bjærge sig selv.</p>
+        <p xml:id="idm140513901457312">Med et Udbrud kastede Søren Plejlen og løb paa bare Sokker til Stedet. Rask greb han fat i Øgets Manke og rykkede til af alle Kræfter, - men det kendtes ikke.</p>
+        <p xml:id="idm140513901456592">Børnene joges hjem efter Reb og Redskaber, og Ane stod paa det opkastede Grøftemudder, vuggede med Overkroppen og sagde: «Hvad skal vi dog gøre! Hvad skal vi dog gøre!»</p>
+        <p xml:id="idm140513901455840">Saa blev der hevet og halet af al Magt, men forgæves.</p>
+        <p xml:id="idm140513901455328">«Hum! hum!» sukkede hun.</p>
+        <p xml:id="idm140513901454896">«Bare hun ingen Skade har taget!» sagde han. «Vi maa prøve igen!»</p>
+        <p xml:id="idm140513901454432">Men efter hvert nyt Forsøg sank Dyret magtesløst sammen, hældede Hovedet mod Grøftesiden og vaandede sig i lange Pust.</p>
+        <p xml:id="idm140513901453792">Søren saa sig omkring som efter Hjælp og sukkede.</p>
+        <p xml:id="idm140513901453296">Ruskregnen sivede og sivede ned
+<pb n="165" xml:id="s165" facs="adl/skjold/skjold_01/skjold_01_165"/>
+gennem den tykke, taagede Luft og klistrede Øgets lange Hale ind mod Skindet, saa Ribbene traadte frem som Tøndebaand. Og hver Gang Søren flyttede en Fod, kvasede Vandet ud af hans med Vadmelsklude forsaalede Hosefødder.</p>
+        <p xml:id="idm140513901451216">«Havde vi bare haft et Par Mænd til!» tænkte Søren. Men han sagde ingen Ting, lod blot Øjnene og Tankerne løbe i Retning af Klithusene. Hans Aasyn mørknedes mere og mere.</p>
+        <p xml:id="idm140513901450640">Noget efter klagede Ane: «Vi mægter det ikke, Søren, - ene to».</p>
+        <p xml:id="idm140513901450112">Ved disse Ord fo'r han ivrig op og raabte med lynende Øjne: «Fat igen! Nu skal hun op!» og saa spændte han sig krum i fortvivlede Tag.</p>
+        <p xml:id="idm140513901449440">Og han, som ellers var saa varm en Ven af alle umælende, lod det hagle med vrede Ord og haarde Slag ned over sit eget skindmagre Øg,</p>
+        <p xml:id="idm140513901448768">Men det blev liggende med
+<pb n="166" xml:id="s166" facs="adl/skjold/skjold_01/skjold_01_166"/>
+Kroppen halvt i Vand, skælvende af Kulde og Skræk og Udmattelse.</p>
+        <p xml:id="idm140513901446944">Da Søren ligesom havde raset Kraften ud, dirrede hans Lemmer af Overanstrængelse, og han følte Graaden i sit Bryst.</p>
+        <p xml:id="idm140513901446304">Saa faldt Mørket paa.</p>
+        <p xml:id="idm140513901445856">Flere Timer senere fandtes de her endnu i den sorte Nat. En Dreng holdt i sin rystende Haand en Lygte, hvis Skin kastede et højst sparsomt Lys over de to dunkle, gravende Menneskeskikkelser og stundom et Glimt paa Spadernes blanke Metal. Der arbejdedes uden Ord. Kun Redskabernes Muslen i Jorden.</p>
+        <p xml:id="idm140513901444864">Ved umaadelig Møje lykkedes det endelig at faa Dyret slæbt ovenfor til Hvile paa nogle sammenrevne Kartoffeltoppe.</p>
+        <p xml:id="idm140513901444224">«Saa var det, om vi havde en Smule, hun kunde faa ind!» sagde Søren og vred Regnen af sin Hue.</p>
+        <pb n="167" xml:id="s167" facs="adl/skjold/skjold_01/skjold_01_167"/>
+        <p xml:id="idm140513901442480">«Jeg véd skam ikke», svarede Ane, «jeg tror ikke, vi har flere Skorpionolie!»</p>
+        <p xml:id="idm140513901442000">«Ja, da skulde det endelig være noget, der kunde rive og kradse!»</p>
+        <p xml:id="idm140513901441536">Ane holdt Lygten frem: «Ok, sølle Dyr! Det løber saamænd af Øjnene paa den!»</p>
+        <p xml:id="idm140513901440976">«Ja, bitte, gule Øg, nu er du en slap Karl!» sagde Søren stille og klappede dets vaade Skind. Derefter trak han sin tykke Trøje af og hyllede over det.</p>
+        <p xml:id="idm140513901440416">«Mon hun staar det igennem?»</p>
+        <p xml:id="idm140513901439984">«Gud véd det!»</p>
+        <p xml:id="idm140513901439568">«Det er sandt!» udbrød hun, «vi har da en Slant Petroleum, om den kunde gøre noget godt?»</p>
+        <p xml:id="idm140513901439072">«Lad os prøve det; det kunde endda være, at det kunde komme til at rumstere i Livet af hende!»</p>
+        <p xml:id="idm140513901438576">- - Ingen af dem fik Søvn den Nat. De gik og puslede om det syge Dyr. Eller de stode tavse og stirrede paa det, gysende i den kolde Natteluft.</p>
+        <pb n="168" xml:id="s168" facs="adl/skjold/skjold_01/skjold_01_168"/>
+        <p xml:id="idm140513901436640">Hen paa Morgenstunden sagde Søren med eet: «Nu drawer hun!» og saa lukkede det gule Øg for stedse sine Øjne.</p>
+        <p xml:id="idm140513901436016">«Det var en stor Forlis!» sagde Ane med Taarer i Øjnene.</p>
+        <p xml:id="idm140513901435552">«Og hun var endda saa møj den skønnest af de to!» tilføjede Søren sørgmodigt.</p>
+        <p xml:id="idm140513901435072">Saa blev der ikke talt mere om det. -</p>
+        <p xml:id="idm140513901434640">Da Søren Dagen efter kastede en Grav til det døde Skrog, kom Niels Pind med Bud om, at Søren til Foraarsterminen maatte skaffe ham hans Penge, da hans Datter skulde giftes.</p>
+        <pb n="169" xml:id="s169" facs="adl/skjold/skjold_01/skjold_01_169"/>
+      </div>
+      <div xml:id="idm140513901432576">
+        <head xml:id="idm140513901432320">XXII.</head>
+        <p xml:id="idm140513901431904">Ved aarelang Udholdenhed var det lykkedes Klitboerne at tvinge Sogneraadet til at bygge en Skole ude paa Sandene. Det var en enestaaende Tildragelse, og Sejrens Glæde voksede med Murene paa Skolehuset, der var dem et Civilisationens Tegn midt i Ødemarken.</p>
+        <p xml:id="idm140513901430992">Der var imidlertid ogsaa noget andet, som samtidigt tog til at vokse: Søren Branders Anseelse.</p>
+        <p xml:id="idm140513901430400">Ingen havde glemt, at det dog var ham, der oprindelig havde sat Skolesagen i Gang, og nu, da Sejren var vunden, huskede man det for saa vidt bedre, som Glæden gør Menneskets Hjerte velvilligt.</p>
+        <pb n="170" xml:id="s170" facs="adl/skjold/skjold_01/skjold_01_170"/>
+        <p xml:id="idm140513901428432">Det afgørende var dog de grønne Træer, der virkede saa frisk mellem Klitten og Lyngens graa og brune Masser, og som hele Tiden vilde drage Opmærksomheden til sig, - de bleve et uomstødeligt Bevis, som daglig groede for Klitboernes Øjne.</p>
+        <p xml:id="idm140513901427552">Ingen kunde nægte, at Plantningen nu stod i Flor, at Flyvesandsbankerne vare dækkede paa den bedste og smukkeste Maade, at Læbælternes Række lunede for Sæden, at Søren dels paa Grund heraf og dels for sin Driftsmaades og Dygtigheds Skyld var den forreste Avismand. Alt dette kunde Beboerne ikke nægte i deres stille Sind. Men dertil kom, at Vurderingsmændene ved Omordningen af Kreditforeningslaanet fandt hans Husmandsbrug saa veldreven, at det nye Laan rigeligt dækkede Niels Pinds Fordring ud over det oprindelige Laan, og at de lode sig forlyde med, at Træplantningen i ikke ringe Grad øgede Ejendommens Værdi,
+<pb n="171" xml:id="s171" facs="adl/skjold/skjold_01/skjold_01_171"/>
+samt, at Søren samme Sommer blev tildelt Diplom og en Sølvstob med følgende Indskrift: «Søren Brander for Træplantning fra Hjørring Discontobank», hvilket stod paa Tryk at læse i Amtstidenden.</p>
+        <p xml:id="idm140513901424256">Se saa var der jo ikke længere nogen Grund til at dølge det, som man tænkte.</p>
+        <p xml:id="idm140513901423696">- En Dag traadte Jens Bjærg og tre andre Mænd langsomt ind i Sørens Stue. Langt om længe kom det frem, om Søren ikke vilde være saa god at retlede dem en Smule, for nu vilde de ogsaa til at prøve.</p>
+        <p xml:id="idm140513901422896">Deres Miner og hele Adfærd røbede en vis Tilbageholdenhed og Usikkerhed, de varsomme Ord ligesom følte sig frem. Derimod talte Søren med en Fasthed, der ingen Tvivl lod tilbage, og Ordene ledsagedes af et Blik, der ingen Hindring syntes at ænse. Hvad han i lange Aar havde gennemlevet, gjorde hans Ansigt udpræget frem for
+<pb n="172" xml:id="s172" facs="adl/skjold/skjold_01/skjold_01_172"/>
+de andres. Livets Kampe havde gjort ham til en moden og myndig Mand.</p>
+        <p xml:id="idm140513901420592">«Naa, I vil ogsaa til at tage fat!» sagde han og saa vist paa Mændene.</p>
+        <p xml:id="idm140513901420112">Ja, det skulde da forsøges.</p>
+        <p xml:id="idm140513901419648">«Se, for det første skal I i Plantningsforeningen, og siden skal jeg nok sige Jer, hvordan I skal bære Jer ad. - Men det, I planter, skal lyses i Hegn!»</p>
+        <p xml:id="idm140513901419088">Ja, det skulde jo saa. -</p>
+        <p xml:id="idm140513901418656">«Naar bareste det nu vilde gro ude hos mig!» ønskede Anders Bak.</p>
+        <p xml:id="idm140513901418192">«Lad os blive fri for den Snak!» svarede Søren af færdigende.</p>
+        <p xml:id="idm140513901417728">«Ja, men Bunden er saa nederdrægtig sur, Søren!»</p>
+        <p xml:id="idm140513901417280">«Ser du, Anders Bak! Dersom nogle Trær gaar ud, saa maa der jo andre i Stedet. Gaar de halve ud for Eksempel, saa maa du plante efter, og hvis de gaar ud allesammen, saa maa du jo om igen; saadan gaar det jo til. Men tilsidst kommer de ligegodt til at staa der, hvis du vil!» sagde Søren med
+<pb n="173" xml:id="s173" facs="adl/skjold/skjold_01/skjold_01_173"/>
+Vægt ... . «Stop Piben, vær saa god! - Og saa kunde vi gaa en bitte Tur udenfor». - -</p>
+        <p xml:id="idm140513901415200">«Det er s'gu en Fornøwels at se det!» bemærkede Jens Bjærg, da de kom ud i Marken.</p>
+        <p xml:id="idm140513901414720">Søren vendte sig og sagde halvt spøgende over Akslen: «Jeg har altid syntes, at det var skønt, om Folk kunde se noget nær, hvor En boede, he!»</p>
+        <p xml:id="idm140513901414016">«Nu har du til visse et skønt Hus!»</p>
+        <p xml:id="idm140513901413584">«Det kan jo gerne gaa an ... . Men vil I nu ikke se!» vedblev Søren og pegede paa Sivene, der stak frem langs Agerrenerne, og Lyngen, der kom listende. «Det er straks kendt, naar En ikke justement kan hænge i Selen hele Tiden. Og siden jeg fik det lede Hold i Ryggen, saa kan jeg ikke holde ud saadan som før ... . Og meget er her jo ogsaa til eet Menneske at overfare!» sluttede han og slog en Bue i Luften med Pibespidsen.</p>
+        <p xml:id="idm140513901412320">«Klitten er jo baade ond og god!»
+<pb n="174" xml:id="s174" facs="adl/skjold/skjold_01/skjold_01_174"/>
+sagde Jens og strøg sit lange Skæg. «Men to vi hugger os igennem li'esaadanne!»</p>
+        <p xml:id="idm140513901410560">«Hvor der er en Villie, der er jo ogsaa en Vej!» svarede Søren. «Ja, der er. - Men for Resten kunde det være, det var klogest, har jeg sommetider tænkt, om hele Klitten blev plantet til, og vi fik et Hjørne god Jord et andet Sted!»</p>
+        <p xml:id="idm140513901409920">«Den var saamænd aldrig en Kærne for god til det!» sagde Anders Bak og spyttede, «aldrig s'gu det mindste!»</p>
+        <p xml:id="idm140513901409408">«Nej, en Mærsk er den jo ikke!» tilføjede Trine-Lars og rømmede sig.</p>
+        <p xml:id="idm140513901408928">«Vi kan jo nok leve her,» tog Søren igen Ordet, «men - æ - hvis vi samlede alt det Arbejde, vi nu spreder over det store Areal, sammen paa en bitte Plet rigtig god Jord, vil jeg sige, saa skulde En tykkes, det kunde frugte, saa det basked' til noget - hvad?»</p>
+        <p xml:id="idm140513901408256">«Jo, men det er med at faa Kløerne i den!»</p>
+        <pb n="175" xml:id="s175" facs="adl/skjold/skjold_01/skjold_01_175"/>
+        <p xml:id="idm140513901406512">«Ja, det er jo det! Og saa véd vi nok, her har vi det jo saadan mere rummeligt!» ...,</p>
+        <p xml:id="idm140513901406016">«Sikke Byg! Sikke Byg! du har Søren!» sagde Trine-Lars og vuggede med Hovedet.</p>
+        <p xml:id="idm140513901405536">«Det er rigtignok ogsaa bedst her inde i Læ af Træerne», svarede Søren, «men det kan rigtig godt gaa an li'esaadanne!»</p>
+        <p xml:id="idm140513901405008">- Efter at have sét paa alle Herlighederne, efter fra det højeste Punkt i Plantagen at have sét flere Mil over Land og Hav og talt mange Kirker paa Himmerland og helt nede i Højvendsyssel, vendte de tilbage til Sørens Stue, hvor Ane trakterede med Kaffe. Søren gik til sit Hængeskab, tog Sølvstobben, der var omhyggelig indpakket i Papir, og satte den frem paa Bordet.</p>
+        <p xml:id="idm140513901403968">Og Mændene eftersaa den nøje baade indvendig og udvendig, den ene efter den anden.</p>
+        <p xml:id="idm140513901403392">Ved Aftenstid, da de fremmede vare
+<pb n="176" xml:id="s176" facs="adl/skjold/skjold_01/skjold_01_176"/>
+gaaede, sagde Ane: «Aa, jeg er saa glad og godt tilpas, Søren!»</p>
+        <p xml:id="idm140513901401584">«Der er jo baade ond' Daw' og god' Daw' til, min Pige!» svarede han og kyssede hende, hvorefter han begyndte at klæde sig af.</p>
+        <p xml:id="idm140513901401056">«To jeg bliver saa stind som en gammel Helmus! - Jeg kunde nok trænge til noget Benmel, he! he! - Ja, det er noget styv Straa, der gror paa Sandet, he! ... . - Du kommer mins'æl til at tage ved mine Bowser, Ane! ... . Det Hold gør da ogsaa nedersaksisk ondt i Aften!»</p>
+        <p xml:id="idm140513901400384">Snart efter sænkede den lyse Sommernat sig som en smuk Drøm over Jorden.</p>
+        <pb n="177" xml:id="s177" facs="adl/skjold/skjold_01/skjold_01_177"/>
+      </div>
+      <div xml:id="idm140513901398512">
+        <head xml:id="idm140513901398256">XXIII.</head>
+        <p xml:id="idm140513901397840">Saa var der kommen en tung Tid for Søren Brander.</p>
+        <p xml:id="idm140513901397344">At Pine og Værk plagede hans Krop, regnede han for intet imod det, at Kraften sivede bort af Sener og Muskler, saa han for hver Morgen, han vaagnede, følte sig mere magtesløs end den foregaaende Dag.</p>
+        <p xml:id="idm140513901396544">Før havde han i sit Legems Styrke haft en Foryngelsens Kilde, der daglig tilrislede hans Sind Friskhed, men nu tørredes den langsomt ud. At han saaledes mærkede Livskraften rinde, gjorde det til saa tung en Tid, og krumbøjet slæbte han sig frem over sine Agre.</p>
+        <p xml:id="idm140513901395584">Paa Marken skønnedes det snart.</p>
+        <pb n="178" xml:id="s178" facs="adl/skjold/skjold_01/skjold_01_178"/>
+        <p xml:id="idm140513901394016">Grøfterne væltede sammen, Sivene skød op, og Lyngen, som han i sin Tid havde jaget ind i Heden, kom krybende frem igen. Den stædige Jord, som han i sin lange Strid havde tæmmet, rejste sig nu imod ham. Hvert Punkt paa hans vide Arbejdsmark kaldte paa ham, - men han havde intet at svare, intet at vove, intet at vinde.</p>
+        <p xml:id="idm140513901393008">Nu mærkede han ogsaa for første Gang den stille, ensomme Natur omkring sig som Tomhed. Han længtes efter Lyd og Bevægelse, thi den brede, vidtstrakte Ro trættede og trykkede, denne Lydløshed til alle Sider lagde sig knugende over hans Sind. Alt levende syntes ham at stivne i en Dødsens Stilhed, gennem hvilken han kun kunde høre Sukkene fra sit eget Bryst ... .</p>
+        <p xml:id="idm140513901392000">En Dag kom han tungført stavrende ind i Stuen. Paa den voksblege Hud piblede Matheds Sved frem som smaa Perler, de mørke, brune Øjne
+<pb n="179" xml:id="s179" facs="adl/skjold/skjold_01/skjold_01_179"/>
+skinnede sygt, træt sank han ned paa Sengen og hostede voldsomt.</p>
+        <p xml:id="idm140513901390000">Ane kastede sig hulkende over ham med lidenskabelige Kærtegn. Men da Søren kendte sin Ungdoms Elskede i sine Arme, da lo det i den gamle Sliders Bryst, mens hans Blik paa samme Tid fyldtes med Taarer. - -</p>
+        <p xml:id="idm140513901389184">Saa var den ældste Søn kommen hjem til det sygnende Husmandsbrug, der snart igen kom i Skud. Og Søren rokkede om med Haanden over Lænderne og frydede sig over Sønnens raske Haand og smidige Lemmer.</p>
+        <p xml:id="idm140513901388384">- Her var Ungdommen! - Det var ham selv igen paa en Maade! - Her var Fortsættelsen ... . Og saa lagde Genskinnet af hans egen Ungdom Glædens Smil over hans Aasyn.</p>
+        <p xml:id="idm140513901387648">- Men Sønnen var ofte ude til Forlystelser og Legestuer og kom ofte hjem i en Tilstand, der vakte mørke Minder hos Forældrene.</p>
+        <p xml:id="idm140513901386992">Saadanne Aftener laa de søvnløse,
+<pb n="180" xml:id="s180" facs="adl/skjold/skjold_01/skjold_01_180"/>
+mens Tankerne gik baade frem og tilbage, Det var en Gang for mange Aar siden, at der var én, der foretog lignende Udfarter fra det samme Hus. Ingen af dem havde glemt det ... . Naa, godt og vel havde al Ting siden vendt sig for dem, Gud ske Lov! Men der var jo alligevel saa meget at tænke efter, naar de saadan om Aftenen laa og ventede paa Sønnen.</p>
+        <p xml:id="idm140513901384608">- Hvordan mon Livet vilde vende sig for ham? - Og de andre Børn? - Ja, Fremtidens Veje kunde ingen granske ... .</p>
+        <p xml:id="idm140513901383984">Det var jo ikke saa godt for saadanne fattige Børn! Tidlig ud at tjene paa mange forskellige Pladser, altid mellem fremmede, altid at vokse op under fremmede Øjne ... . Men saadan var jo Fattigfolks Lod.</p>
+        <p xml:id="idm140513901383168">Saa laa de og kunde ikke falde i Søvn og lyttede efter Fodtrin. Mange Gange holdt de Aandedrættet, naar de syntes,
+<pb n="181" xml:id="s181" facs="adl/skjold/skjold_01/skjold_01_181"/>
+at nogen puslede, eller Dørklinken rørtes, - men saa var det Vinden.</p>
+        <p xml:id="idm140513901381184">Saaledes laa de hede af ængstelige Tanker og foruroligede af disse underlige Lyde, som den mørke Nat har saa mange af. Det traf ogsaa, at en af dem rejste sig og gik ud i Stald og Bryggers eller til Døren og saa ud i Natten.</p>
+        <p xml:id="idm140513901380336">Det var jo deres Børn, de ventede ude fra de mørke Veje.</p>
+        <pb n="182" xml:id="s182" facs="adl/skjold/skjold_01/skjold_01_182"/>
+      </div>
+      <div xml:id="idm140513901378496">
+        <head xml:id="idm140513901378240">XXIV.</head>
+        <p xml:id="idm140513901377824">Søren Brander laa nu hele Tiden i Sengen, klagede sig for Brystet og hostede og harkede Blod og Slim og grønne Væsker, - og kunde ikke komme til Ro. - Naar Øjet nu ikke mere kunde se denne Verdens Lys? - Hvorledes vilde Mørket blive? - Naar Døden havde suget den sidte Smule Marv, og kun de hule Knokler var tilbage, og hans Legeme var bleven et Aadsel? ... .</p>
+        <p xml:id="idm140513901376816">Det blev en hel Række ny Spørgsmaal, som holdt paa at bore sig ind hos ham, og som han ikke kunde blive kvit.</p>
+        <p xml:id="idm140513901376192">Ane bad i Løndom enfoldig for hans Sjæl, og hver Dag læste og sang
+<pb n="183" xml:id="s183" facs="adl/skjold/skjold_01/skjold_01_183"/>
+hun for ham i Salmebogen og talte ogsaa til ham om Gud, som skænker Liv og Død og alle Ting, og som har et godt Sted og et blødt Leje til alle dem, der ere udslidte, trætte og besværede. Han syntes, det var kønt og rart at høre de gamle, højtidelige Ord og Toner, - men der var intet sikkert Svar for ham deri.</p>
+        <p xml:id="idm140513901373808">Saa kom der en sælsom Nat.</p>
+        <p xml:id="idm140513901373360">Han mærkede over Sjælen ligesom et Pust, der vakte hans aandelige Evner til en ukendt Klarhed. Det var Suset af Dødsengelens Vinger.</p>
+        <p xml:id="idm140513901372688">Og det var, som han fik sit Liv paa Afstand og kom ud paa den yderste Livets Pynt.</p>
+        <p xml:id="idm140513901372208">Her fra saa han i et eneste Overblik alle sit Livs Oplevelser. Der laa det for ham alt, hvad der var sket siden den Tid, han først kunde mindes, og ind til denne Stund, det smaa og det store og det, som han forlængst troede
+<pb n="184" xml:id="s184" facs="adl/skjold/skjold_01/skjold_01_184"/>
+sænket i Glemsel som Sten i Vand: et helt Livs Minder, mylrende frem i et Nu.</p>
+        <p xml:id="idm140513901369984">Og disse Minder fik Mæle. Men de talte Bebrejdelsens tunge Ord, det forfærdelige Sandhedssprog, de anklagede, forbandede og fordømte, og der var som tusinde Tunger, der raabte imod ham ... .</p>
+        <p xml:id="idm140513901369200">Slaaet af Rædsel vendte han sig bort til den anden Side, - men dér saà han fra Livets yderste Pynt kun Dødens sorte, glidende Strøm. Og af alle hans Livs Minder var der ikke eet, som kunde bære ham over.</p>
+        <p xml:id="idm140513901368384">Da forstod han, at der gives et eneste stort Livsspørgsmaal. Han sank i Knæ for den tusindtungede Anklage og skælvede for Dommen.</p>
+        <p xml:id="idm140513901367712">Saaledes laa han den ganske Nat.</p>
+        <p xml:id="idm140513901367280">Saa begyndte hans Barnealders Klokker at ringe, og der blev saa stille i hans Indre som i en Kirke, hvor Menigheden sidder med bøjet Hoved. Nede fra Sjælens Krypt, hvor
+<pb n="185" xml:id="s185" facs="adl/skjold/skjold_01/skjold_01_185"/>
+Barneminderne havde siddet gemte i mange, mange Aar, tonede de nu som en hellig Sang gennem Stilheden, og hans Moders Røst sagde disse faa Ord: «Fader vor! Du som er i Himlen!»</p>
+        <p xml:id="idm140513901364976">Uvilkaarligt foldede han sine Hænder, og da disse gamle Ord paany bleve levende paa hans Tunge, saa stod det saa fast og sikkert for ham, at naar han skulde glide ud over Dødens Vande, saa vilde en kærlig og almægtig Haand gribe ham og holde ham fast. - -</p>
+        <p xml:id="idm140513901364064">Om Morgenen sagde han til sin Hustru: «Det bliver snart Flyttedag for mig!»</p>
+        <p xml:id="idm140513901363504">Hun hældede sig over ham og sagde, at han jo godt kunde komme sig igen.</p>
+        <p xml:id="idm140513901362960">«Nej, der har været Bud efter mig! ... . Det er, som jeg har været ude at tjene og skal nu hjem igen. Hvis jeg skulde prøve det een Gang til, Ane, saa vilde jeg lægge mere Mærke til, at der er en Himmel oven over Jorden, for ... .» Han blev afbrudt af et Hosteanfald.</p>
+        <pb n="186" xml:id="s186" facs="adl/skjold/skjold_01/skjold_01_186"/>
+        <p xml:id="idm140513901361040">Hun kunde intet sige for Bevægelse. Hun rettede paa Puderne. Taarerne dryppede fra hendes Øjne.</p>
+        <p xml:id="idm140513901360448">«Aa, ja!» - sagde han igen - «hver har jo sin Tjeneste; jeg har haft min. Vi er i Grunden Tjenestefolk alle sammen! Og saa en Gang kommer den store Flyttedag!»</p>
+        <p xml:id="idm140513901359888">Han tog hendes Haand og blev ved at holde den fast; det skulde være det sidste, han vilde slippe her.</p>
+        <p xml:id="idm140513901359280">For sidste Gang lod den gamle Stridsmand saa i Tankerne Blikket glide ud over sine Agre, der bølgede bag grønne Hegn, det lille Kongerige, han havde erobret fra den raa Klit. Og saa sagde han til Sønnen: «Lad mig se, min Dreng, at du aldrig giver dig fortabt. Jeg skal fornemmelig sige dig, hvad du gerne kunde tænke ved imellem Stunder: den, der vil noget, han kan ogsaa noget!»</p>
+        <p xml:id="idm140513901358112">Han døde en let og rolig Død.</p>
+        <p xml:id="idm140513901357648">Rundt omkring hans Plantning ere
+<pb n="187" xml:id="s187" facs="adl/skjold/skjold_01/skjold_01_187"/>
+andre voksede op. Og naar Vestenvinden farer hen over de jydske Klitter gennem Naaletræernes Toppe, saa suser det højtidsfuldt og sørgmodigt om Søren Branders Eftermæle.</p>
+      </div>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--Tom opmærkning d.15.10.2002 blo -->
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="idm140285983780080"><!-- 
+       file     ./marc_dir/001853806.xml
+       field     
+       subfield  
+       prefix   -->
+  <teiHeader xml:id="idm140285983779152">
+    <fileDesc xml:id="idm140285983778896">
+      <titleStmt xml:id="idm140285983778592">
+        <title xml:id="idm140285983753136">Hvad er Emancipation?</title>
+        <author xml:id="idm140285983752752">Mathilde Fibiger</author>
+      </titleStmt>
+      <publicationStmt xml:id="idm140285983752240">
+        <publisher xml:id="idm140285983751984">C.A. Reitzel</publisher>
+        <idno xml:id="idm140285983751600" xml:base="texts/fibiger05tom.xml">001853806:05</idno>
+      </publicationStmt>
+      <notesStmt xml:id="idm140285983750832">
+        <note xml:id="idm140285983750576">
+	  </note>
+      </notesStmt>
+      <sourceDesc xml:id="idm140285983750064"><bibl xml:id="idm140285983749936"><author n="1" xml:id="idm140285983749248"><name xml:id="idm140285983748992"><surname xml:id="idm140285983748864">Fibiger</surname>, <forename xml:id="idm140285983748432">Mathilde</forename></name></author><title xml:id="idm140285983748176">Tolv Breve</title><pubPlace xml:id="idm140285983747888">Kbh.</pubPlace>
+<date xml:id="idm140285983747376">1851</date></bibl><listBibl xml:id="idm140285983747088"><bibl xml:id="biblid54232"><title xml:id="idm140285983733936">Hvad er Emancipation?</title></bibl></listBibl></sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text xml:id="idm140285983733296">
+    <front xml:id="idm140285983733040">
+      <pb n="1" xml:id="n1" facs="adl/fibiger/fibiger5/fibi5001"/>
+      <pb n="2" xml:id="n2" facs="adl/fibiger/fibiger5/fibi5002"/>
+    </front>
+    <group xml:id="idm140285983730352">
+      <pb n="3" xml:id="n3" facs="adl/fibiger/fibiger5/fibi5003"/>
+      <text xml:id="workid54232" decls="#biblid54232">
+        <body xml:id="idm140285983727952">
+          <pb n="4" xml:id="n4" facs="adl/fibiger/fibiger5/fibi5004"/>
+          <pb n="5" xml:id="n5" facs="adl/fibiger/fibiger5/fibi5005"/>
+          <pb n="6" xml:id="n6" facs="adl/fibiger/fibiger5/fibi5006"/>
+          <pb n="7" xml:id="n7" facs="adl/fibiger/fibiger5/fibi5007"/>
+          <pb n="8" xml:id="n8" facs="adl/fibiger/fibiger5/fibi5008"/>
+          <pb n="9" xml:id="n9" facs="adl/fibiger/fibiger5/fibi5009"/>
+          <pb n="10" xml:id="n10" facs="adl/fibiger/fibiger5/fibi5010"/>
+          <pb n="11" xml:id="n11" facs="adl/fibiger/fibiger5/fibi5011"/>
+          <pb n="12" xml:id="n12" facs="adl/fibiger/fibiger5/fibi5012"/>
+          <pb n="13" xml:id="n13" facs="adl/fibiger/fibiger5/fibi5013"/>
+          <pb n="14" xml:id="n14" facs="adl/fibiger/fibiger5/fibi5014"/>
+          <pb n="15" xml:id="n15" facs="adl/fibiger/fibiger5/fibi5015"/>
+          <pb n="16" xml:id="n16" facs="adl/fibiger/fibiger5/fibi5016"/>
+          <pb n="17" xml:id="n17" facs="adl/fibiger/fibiger5/fibi5017"/>
+          <pb n="18" xml:id="n18" facs="adl/fibiger/fibiger5/fibi5018"/>
+          <pb n="19" xml:id="n19" facs="adl/fibiger/fibiger5/fibi5019"/>
+          <pb n="20" xml:id="n20" facs="adl/fibiger/fibiger5/fibi5020"/>
+          <pb n="21" xml:id="n21" facs="adl/fibiger/fibiger5/fibi5021"/>
+          <pb n="22" xml:id="n22" facs="adl/fibiger/fibiger5/fibi5022"/>
+          <pb n="23" xml:id="n23" facs="adl/fibiger/fibiger5/fibi5023"/>
+          <pb n="24" xml:id="n24" facs="adl/fibiger/fibiger5/fibi5024"/>
+          <pb n="25" xml:id="n25" facs="adl/fibiger/fibiger5/fibi5025"/>
+          <pb n="26" xml:id="n26" facs="adl/fibiger/fibiger5/fibi5026"/>
+          <pb n="27" xml:id="n27" facs="adl/fibiger/fibiger5/fibi5027"/>
+          <p xml:id="idm140285983680608"/>
+        </body>
+      </text>
+    </group>
+  </text>
+</TEI>

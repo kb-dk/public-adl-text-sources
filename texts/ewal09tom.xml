@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--Tom opmærkning d.22.3.2002 blo -->
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="idm140349828717280"><!-- 
+       file     ./marc_dir/001601376.xml
+       field     
+       subfield  
+       prefix   -->
+  <teiHeader xml:id="idm140349828720992">
+    <fileDesc xml:id="idm140349828720736">
+      <titleStmt xml:id="idm140349828720432">
+        <title xml:id="idm140349828694960">Johannes Ewalds Samlede Skrifter. Tillæg 1969</title>
+        <respStmt xml:id="idm140349828694576">
+	  <name xml:id="idm140349828694320"/>
+          <resp xml:id="idm140349828694064">Erik M. Christensen</resp>
+        </respStmt>
+        <author xml:id="idm140349828693552">Johannes Ewald</author>
+      </titleStmt>
+      <publicationStmt xml:id="idm140349828693040">
+        <publisher xml:id="idm140349828692784">DSL og Gyldendal</publisher>
+        <idno xml:id="idm140349828692400" xml:base="texts/ewal09tom.xml">001601376:09</idno>
+      </publicationStmt>
+      <notesStmt xml:id="idm140349828691440">
+        <note xml:id="idm140349828691136">
+	  </note>
+      </notesStmt>
+      <sourceDesc xml:id="idm140349828690624"><bibl xml:id="idm140349828690496"><author n="1" xml:id="idm140349828689872"><name xml:id="idm140349828689616"><surname xml:id="idm140349828689488">Ewald</surname>, <forename xml:id="idm140349828689024">Johannes</forename></name></author><title xml:id="idm140349828688736">Johannes Ewalds samlede skrifter</title><pubPlace xml:id="idm140349828688432">(Kbh.)</pubPlace>
+<publisher xml:id="idm140349828687968">Gyldendal</publisher><date xml:id="idm140349828687632">(1969)</date></bibl></sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text xml:id="idm140349828686960">
+    <front xml:id="idm140349828686704">
+      <pb n="1" xml:id="n1" facs="adl/ewald/ewald9/ewald9001"/>
+      <pb n="2" xml:id="n2" facs="adl/ewald/ewald9/ewald9002"/>
+      <pb n="3" xml:id="n3" facs="adl/ewald/ewald9/ewald9003"/>
+    </front>
+    <group xml:id="idm140349828670368">
+      <pb n="4" xml:id="n4" facs="adl/ewald/ewald9/ewald9004"/>
+      <text xml:id="idm140349828668960">
+        <body xml:id="idm140349828668704">
+          <pb n="5" xml:id="n5" facs="adl/ewald/ewald9/ewald9005"/>
+          <pb n="6" xml:id="n6" facs="adl/ewald/ewald9/ewald9006"/>
+          <pb n="7" xml:id="n7" facs="adl/ewald/ewald9/ewald9007"/>
+          <pb n="8" xml:id="n8" facs="adl/ewald/ewald9/ewald9008"/>
+          <pb n="9" xml:id="n9" facs="adl/ewald/ewald9/ewald9009"/>
+          <pb n="10" xml:id="n10" facs="adl/ewald/ewald9/ewald9010"/>
+          <pb n="11" xml:id="n11" facs="adl/ewald/ewald9/ewald9011"/>
+          <pb n="12" xml:id="n12" facs="adl/ewald/ewald9/ewald9012"/>
+          <pb n="13" xml:id="n13" facs="adl/ewald/ewald9/ewald9013"/>
+          <p xml:id="idm140349828638064"/>
+        </body>
+      </text>
+    </group>
+  </text>
+</TEI>

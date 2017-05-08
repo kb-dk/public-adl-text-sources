@@ -1,0 +1,466 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--Tom opmærkning d. 11.06.2002 blo -->
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="idm140034837497744"><!-- 
+       file     ./marc_dir/002325397.xml
+       field     
+       subfield  
+       prefix   -->
+  <teiHeader xml:id="idm140034837502400">
+    <fileDesc xml:id="idm140034837502144">
+      <titleStmt xml:id="idm140034837501840">
+        <title xml:id="idm140034837476400">Steen Steensen Blicher Digte og Noveller I</title>
+        <respStmt xml:id="idm140034837476016">
+          <resp xml:id="idm140034837475712">Johs. Nørvig og Carl S. Petersen</resp>
+          <name xml:id="idm140034837475248"/>
+        </respStmt>
+        <author xml:id="idm140034837474864">Steen Steensen Blicher</author>
+      </titleStmt>
+      <publicationStmt xml:id="idm140034837474304">
+        <publisher xml:id="idm140034837474048">DSL og Gyldendalske Boghandel</publisher>
+        <idno xml:id="idm140034837473616" xml:base="texts/blich01tom.xml">002325397:01</idno>
+      </publicationStmt>
+      <notesStmt xml:id="idm140034837472800">
+        <note xml:id="idm140034837472496">
+	  </note>
+      </notesStmt>
+      <sourceDesc xml:id="idm140034837471984"><bibl xml:id="idm140034837471856"><author n="1" xml:id="idm140034837471168"><name xml:id="idm140034837470912"><surname xml:id="idm140034837470784">Blicher</surname>, <forename xml:id="idm140034837470352">Steen Steensen</forename></name></author><title xml:id="idm140034837470064">Digte og Noveller</title><pubPlace xml:id="idm140034837469776">Kbh.</pubPlace>
+<date xml:id="idm140034837469264">1946</date></bibl><listBibl xml:id="idm140034837468976"><bibl xml:id="biblid54539"><title xml:id="idm140034837455824">Mit Fødeland (1814)</title></bibl><bibl xml:id="biblid54555"><title xml:id="idm140034837455008">Hedelærkens Velkommenhjem til Nattergalen (1819)</title></bibl><bibl xml:id="biblid54591"><title xml:id="idm140034837454096">Brudstykker af en Landsbydegns Dagbog (1824)</title></bibl><bibl xml:id="biblid54872"><title xml:id="idm140034837453232">Præsten i Thorning (1824)</title></bibl><bibl xml:id="biblid54955"><title xml:id="idm140034837452416">Røverstuen (1827)</title></bibl><bibl xml:id="biblid55369"><title xml:id="idm140034837451568">Jøderne paa Hald (1828)</title></bibl><bibl xml:id="biblid55774"><title xml:id="idm140034837450704">Ak! hvor forandret! (1828)</title></bibl><bibl xml:id="biblid56013"><title xml:id="idm140034837449904">Hosekræmmeren (1829)</title></bibl><bibl xml:id="biblid56184"><title xml:id="idm140034837449040">Morten Borup (1829)</title></bibl><bibl xml:id="biblid56250"><title xml:id="idm140034837448256">Præsten i Vejlbye (1829)</title></bibl><bibl xml:id="biblid56578"><title xml:id="idm140034837447376">Kjeltringliv (1829)</title></bibl><bibl xml:id="biblid54179"><title xml:id="idm140034837446544">Himmelbjerget (1833)</title></bibl><bibl xml:id="biblid56801"><title xml:id="idm140034837445760">Juleferierne (1834)</title></bibl><bibl xml:id="biblid57339"><title xml:id="idm140034837444976">Eneboeren paa Bolbjerg (1834)</title></bibl></listBibl></sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text xml:id="idm140034837444288">
+    <front xml:id="idm140034837444032">
+      <pb n="a" facs="adl/blich/blich1/blic1fm001" xml:id="idm140034837443728"/>
+      <pb n="b" facs="adl/blich/blich1/blic1fm002" xml:id="idm140034837442944"/>
+      <pb n="c" facs="adl/blich/blich1/blic1fm003" xml:id="idm140034837442128"/>
+      <pb n="d" facs="adl/blich/blich1/blic1fm004" xml:id="idm140034837441360"/>
+      <pb n="e" facs="adl/blich/blich1/blic1fm005" xml:id="idm140034837440544"/>
+      <pb n="f" facs="adl/blich/blich1/blic1fm006" xml:id="idm140034837439728"/>
+      <pb n="g" facs="adl/blich/blich1/blic1fm007" xml:id="idm140034837532272"/>
+      <pb n="h" facs="adl/blich/blich1/blic1fm008" xml:id="idm140034837531504"/>
+      <pb n="i" facs="adl/blich/blich1/blic1fm009" xml:id="idm140034837530736"/>
+      <pb n="j" facs="adl/blich/blich1/blic1fm010" xml:id="idm140034837529968"/>
+      <pb n="k" facs="adl/blich/blich1/blic1fm011" xml:id="idm140034837529200"/>
+      <pb n="l" facs="adl/blich/blich1/blic1fm012" xml:id="idm140034837414544"/>
+      <pb n="m" facs="adl/blich/blich1/blic1fm013" xml:id="idm140034837413776"/>
+      <pb n="n" facs="adl/blich/blich1/blic1fm014" xml:id="idm140034837413008"/>
+      <pb n="o" facs="adl/blich/blich1/blic1fm015" xml:id="idm140034837412240"/>
+      <pb n="p" facs="adl/blich/blich1/blic1fm016" xml:id="idm140034837411472"/>
+      <pb n="q" facs="adl/blich/blich1/blic1fm017" xml:id="idm140034837410704"/>
+      <pb n="r" facs="adl/blich/blich1/blic1fm018" xml:id="idm140034837409936"/>
+      <pb n="s" facs="adl/blich/blich1/blic1fm019" xml:id="idm140034837409168"/>
+      <pb n="t" facs="adl/blich/blich1/blic1fm020" xml:id="idm140034837408400"/>
+      <pb n="u" facs="adl/blich/blich1/blic1fm021" xml:id="idm140034837407632"/>
+      <pb n="v" facs="adl/blich/blich1/blic1fm022" xml:id="idm140034837406864"/>
+    </front>
+    <group xml:id="idm140034837405968">
+      <pb n="1" xml:id="n1" facs="adl/blich/blich1/blic1001"/>
+      <text xml:id="workid54539" decls="#biblid54539">
+        <body xml:id="idm140034837403840">
+          <p xml:id="idm140034837403584"/>
+        </body>
+      </text>
+      <pb n="2" xml:id="n2" facs="adl/blich/blich1/blic1002"/>
+      <text xml:id="workid54555" decls="#biblid54555">
+        <body xml:id="idm140034837401072">
+          <pb n="3" xml:id="n3" facs="adl/blich/blich1/blic1003"/>
+          <pb n="4" xml:id="n4" facs="adl/blich/blich1/blic1004"/>
+          <p xml:id="idm140034837398608"/>
+        </body>
+      </text>
+      <pb n="5" xml:id="n5" facs="adl/blich/blich1/blic1005"/>
+      <text xml:id="workid54591" decls="#biblid54591">
+        <body xml:id="idm140034837396096">
+          <pb n="6" xml:id="n6" facs="adl/blich/blich1/blic1006"/>
+          <pb n="7" xml:id="n7" facs="adl/blich/blich1/blic1007"/>
+          <pb n="8" xml:id="n8" facs="adl/blich/blich1/blic1008"/>
+          <pb n="9" xml:id="n9" facs="adl/blich/blich1/blic1009"/>
+          <pb n="10" xml:id="n10" facs="adl/blich/blich1/blic1010"/>
+          <pb n="11" xml:id="n11" facs="adl/blich/blich1/blic1011"/>
+          <pb n="12" xml:id="n12" facs="adl/blich/blich1/blic1012"/>
+          <pb n="13" xml:id="n13" facs="adl/blich/blich1/blic1013"/>
+          <pb n="14" xml:id="n14" facs="adl/blich/blich1/blic1014"/>
+          <pb n="15" xml:id="n15" facs="adl/blich/blich1/blic1015"/>
+          <pb n="16" xml:id="n16" facs="adl/blich/blich1/blic1016"/>
+          <pb n="17" xml:id="n17" facs="adl/blich/blich1/blic1017"/>
+          <pb n="18" xml:id="n18" facs="adl/blich/blich1/blic1018"/>
+          <pb n="19" xml:id="n19" facs="adl/blich/blich1/blic1019"/>
+          <pb n="20" xml:id="n20" facs="adl/blich/blich1/blic1020"/>
+          <pb n="21" xml:id="n21" facs="adl/blich/blich1/blic1021"/>
+          <pb n="22" xml:id="n22" facs="adl/blich/blich1/blic1022"/>
+          <pb n="23" xml:id="n23" facs="adl/blich/blich1/blic1023"/>
+          <pb n="24" xml:id="n24" facs="adl/blich/blich1/blic1024"/>
+          <pb n="25" xml:id="n25" facs="adl/blich/blich1/blic1025"/>
+          <pb n="26" xml:id="n26" facs="adl/blich/blich1/blic1026"/>
+          <pb n="27" xml:id="n27" facs="adl/blich/blich1/blic1027"/>
+          <pb n="28" xml:id="n28" facs="adl/blich/blich1/blic1028"/>
+          <pb n="29" xml:id="n29" facs="adl/blich/blich1/blic1029"/>
+          <pb n="30" xml:id="n30" facs="adl/blich/blich1/blic1030"/>
+          <pb n="31" xml:id="n31" facs="adl/blich/blich1/blic1031"/>
+          <pb n="32" xml:id="n32" facs="adl/blich/blich1/blic1032"/>
+          <pb n="33" xml:id="n33" facs="adl/blich/blich1/blic1033"/>
+          <p xml:id="idm140034837364800"/>
+        </body>
+      </text>
+      <pb n="34" xml:id="n34" facs="adl/blich/blich1/blic1034"/>
+      <text xml:id="workid54872" decls="#biblid54872">
+        <body xml:id="idm140034837362288">
+          <pb n="35" xml:id="n35" facs="adl/blich/blich1/blic1035"/>
+          <pb n="36" xml:id="n36" facs="adl/blich/blich1/blic1036"/>
+          <pb n="37" xml:id="n37" facs="adl/blich/blich1/blic1037"/>
+          <pb n="38" xml:id="n38" facs="adl/blich/blich1/blic1038"/>
+          <pb n="39" xml:id="n39" facs="adl/blich/blich1/blic1039"/>
+          <pb n="40" xml:id="n40" facs="adl/blich/blich1/blic1040"/>
+          <pb n="41" xml:id="n41" facs="adl/blich/blich1/blic1041"/>
+          <p xml:id="idm140034837354256"/>
+        </body>
+      </text>
+      <pb n="42" xml:id="n42" facs="adl/blich/blich1/blic1042"/>
+      <text xml:id="workid54955" decls="#biblid54955">
+        <body xml:id="idm140034837351632">
+          <pb n="43" xml:id="n43" facs="adl/blich/blich1/blic1043"/>
+          <pb n="44" xml:id="n44" facs="adl/blich/blich1/blic1044"/>
+          <pb n="45" xml:id="n45" facs="adl/blich/blich1/blic1045"/>
+          <pb n="46" xml:id="n46" facs="adl/blich/blich1/blic1046"/>
+          <pb n="47" xml:id="n47" facs="adl/blich/blich1/blic1047"/>
+          <pb n="48" xml:id="n48" facs="adl/blich/blich1/blic1048"/>
+          <pb n="49" xml:id="n49" facs="adl/blich/blich1/blic1049"/>
+          <pb n="50" xml:id="n50" facs="adl/blich/blich1/blic1050"/>
+          <pb n="51" xml:id="n51" facs="adl/blich/blich1/blic1051"/>
+          <pb n="52" xml:id="n52" facs="adl/blich/blich1/blic1052"/>
+          <pb n="53" xml:id="n53" facs="adl/blich/blich1/blic1053"/>
+          <pb n="54" xml:id="n54" facs="adl/blich/blich1/blic1054"/>
+          <pb n="55" xml:id="n55" facs="adl/blich/blich1/blic1055"/>
+          <pb n="56" xml:id="n56" facs="adl/blich/blich1/blic1056"/>
+          <pb n="57" xml:id="n57" facs="adl/blich/blich1/blic1057"/>
+          <pb n="58" xml:id="n58" facs="adl/blich/blich1/blic1058"/>
+          <pb n="59" xml:id="n59" facs="adl/blich/blich1/blic1059"/>
+          <pb n="60" xml:id="n60" facs="adl/blich/blich1/blic1060"/>
+          <pb n="61" xml:id="n61" facs="adl/blich/blich1/blic1061"/>
+          <pb n="62" xml:id="n62" facs="adl/blich/blich1/blic1062"/>
+          <pb n="63" xml:id="n63" facs="adl/blich/blich1/blic1063"/>
+          <pb n="64" xml:id="n64" facs="adl/blich/blich1/blic1064"/>
+          <pb n="65" xml:id="n65" facs="adl/blich/blich1/blic1065"/>
+          <pb n="66" xml:id="n66" facs="adl/blich/blich1/blic1066"/>
+          <pb n="67" xml:id="n67" facs="adl/blich/blich1/blic1067"/>
+          <pb n="68" xml:id="n68" facs="adl/blich/blich1/blic1068"/>
+          <pb n="69" xml:id="n69" facs="adl/blich/blich1/blic1069"/>
+          <pb n="70" xml:id="n70" facs="adl/blich/blich1/blic1070"/>
+          <pb n="71" xml:id="n71" facs="adl/blich/blich1/blic1071"/>
+          <pb n="72" xml:id="n72" facs="adl/blich/blich1/blic1072"/>
+          <pb n="73" xml:id="n73" facs="adl/blich/blich1/blic1073"/>
+          <pb n="74" xml:id="n74" facs="adl/blich/blich1/blic1074"/>
+          <pb n="75" xml:id="n75" facs="adl/blich/blich1/blic1075"/>
+          <pb n="76" xml:id="n76" facs="adl/blich/blich1/blic1076"/>
+          <pb n="77" xml:id="n77" facs="adl/blich/blich1/blic1077"/>
+          <pb n="78" xml:id="n78" facs="adl/blich/blich1/blic1078"/>
+          <pb n="79" xml:id="n79" facs="adl/blich/blich1/blic1079"/>
+          <pb n="80" xml:id="n80" facs="adl/blich/blich1/blic1080"/>
+          <pb n="81" xml:id="n81" facs="adl/blich/blich1/blic1081"/>
+          <pb n="82" xml:id="n82" facs="adl/blich/blich1/blic1082"/>
+          <pb n="83" xml:id="n83" facs="adl/blich/blich1/blic1083"/>
+          <pb n="84" xml:id="n84" facs="adl/blich/blich1/blic1084"/>
+          <p xml:id="idm140034837299984"/>
+        </body>
+      </text>
+      <pb n="85" xml:id="n85" facs="adl/blich/blich1/blic1085"/>
+      <text xml:id="workid55369" decls="#biblid55369">
+        <body xml:id="idm140034837297360">
+          <pb n="86" xml:id="n86" facs="adl/blich/blich1/blic1086"/>
+          <pb n="87" xml:id="n87" facs="adl/blich/blich1/blic1087"/>
+          <pb n="88" xml:id="n88" facs="adl/blich/blich1/blic1088"/>
+          <pb n="89" xml:id="n89" facs="adl/blich/blich1/blic1089"/>
+          <pb n="90" xml:id="n90" facs="adl/blich/blich1/blic1090"/>
+          <pb n="91" xml:id="n91" facs="adl/blich/blich1/blic1091"/>
+          <pb n="92" xml:id="n92" facs="adl/blich/blich1/blic1092"/>
+          <pb n="93" xml:id="n93" facs="adl/blich/blich1/blic1093"/>
+          <pb n="94" xml:id="n94" facs="adl/blich/blich1/blic1094"/>
+          <pb n="95" xml:id="n95" facs="adl/blich/blich1/blic1095"/>
+          <pb n="96" xml:id="n96" facs="adl/blich/blich1/blic1096"/>
+          <pb n="97" xml:id="n97" facs="adl/blich/blich1/blic1097"/>
+          <pb n="98" xml:id="n98" facs="adl/blich/blich1/blic1098"/>
+          <pb n="99" xml:id="n99" facs="adl/blich/blich1/blic1099"/>
+          <pb n="100" xml:id="n100" facs="adl/blich/blich1/blic1100"/>
+          <pb n="101" xml:id="n101" facs="adl/blich/blich1/blic1101"/>
+          <pb n="102" xml:id="n102" facs="adl/blich/blich1/blic1102"/>
+          <pb n="103" xml:id="n103" facs="adl/blich/blich1/blic1103"/>
+          <pb n="104" xml:id="n104" facs="adl/blich/blich1/blic1104"/>
+          <pb n="105" xml:id="n105" facs="adl/blich/blich1/blic1105"/>
+          <pb n="106" xml:id="n106" facs="adl/blich/blich1/blic1106"/>
+          <pb n="107" xml:id="n107" facs="adl/blich/blich1/blic1107"/>
+          <pb n="108" xml:id="n108" facs="adl/blich/blich1/blic1108"/>
+          <pb n="109" xml:id="n109" facs="adl/blich/blich1/blic1109"/>
+          <pb n="110" xml:id="n110" facs="adl/blich/blich1/blic1110"/>
+          <pb n="111" xml:id="n111" facs="adl/blich/blich1/blic1111"/>
+          <pb n="112" xml:id="n112" facs="adl/blich/blich1/blic1112"/>
+          <pb n="113" xml:id="n113" facs="adl/blich/blich1/blic1113"/>
+          <pb n="114" xml:id="n114" facs="adl/blich/blich1/blic1114"/>
+          <pb n="115" xml:id="n115" facs="adl/blich/blich1/blic1115"/>
+          <pb n="116" xml:id="n116" facs="adl/blich/blich1/blic1116"/>
+          <pb n="117" xml:id="n117" facs="adl/blich/blich1/blic1117"/>
+          <pb n="118" xml:id="n118" facs="adl/blich/blich1/blic1118"/>
+          <pb n="119" xml:id="n119" facs="adl/blich/blich1/blic1119"/>
+          <pb n="120" xml:id="n120" facs="adl/blich/blich1/blic1120"/>
+          <pb n="121" xml:id="n121" facs="adl/blich/blich1/blic1121"/>
+          <p xml:id="idm140034837254640"/>
+        </body>
+      </text>
+      <pb n="122" xml:id="n122" facs="adl/blich/blich1/blic1122"/>
+      <text xml:id="workid55774" decls="#biblid55774">
+        <body xml:id="idm140034837251984">
+          <pb n="123" xml:id="n123" facs="adl/blich/blich1/blic1123"/>
+          <pb n="124" xml:id="n124" facs="adl/blich/blich1/blic1124"/>
+          <pb n="125" xml:id="n125" facs="adl/blich/blich1/blic1125"/>
+          <pb n="126" xml:id="n126" facs="adl/blich/blich1/blic1126"/>
+          <pb n="127" xml:id="n127" facs="adl/blich/blich1/blic1127"/>
+          <pb n="128" xml:id="n128" facs="adl/blich/blich1/blic1128"/>
+          <pb n="129" xml:id="n129" facs="adl/blich/blich1/blic1129"/>
+          <pb n="130" xml:id="n130" facs="adl/blich/blich1/blic1130"/>
+          <pb n="131" xml:id="n131" facs="adl/blich/blich1/blic1131"/>
+          <pb n="132" xml:id="n132" facs="adl/blich/blich1/blic1132"/>
+          <pb n="133" xml:id="n133" facs="adl/blich/blich1/blic1133"/>
+          <pb n="134" xml:id="n134" facs="adl/blich/blich1/blic1134"/>
+          <pb n="135" xml:id="n135" facs="adl/blich/blich1/blic1135"/>
+          <pb n="136" xml:id="n136" facs="adl/blich/blich1/blic1136"/>
+          <pb n="137" xml:id="n137" facs="adl/blich/blich1/blic1137"/>
+          <pb n="138" xml:id="n138" facs="adl/blich/blich1/blic1138"/>
+          <pb n="139" xml:id="n139" facs="adl/blich/blich1/blic1139"/>
+          <pb n="140" xml:id="n140" facs="adl/blich/blich1/blic1140"/>
+          <pb n="141" xml:id="n141" facs="adl/blich/blich1/blic1141"/>
+          <pb n="142" xml:id="n142" facs="adl/blich/blich1/blic1142"/>
+          <pb n="143" xml:id="n143" facs="adl/blich/blich1/blic1143"/>
+          <pb n="144" xml:id="n144" facs="adl/blich/blich1/blic1144"/>
+          <p xml:id="idm140034837225584"/>
+        </body>
+      </text>
+      <pb n="145" xml:id="n145" facs="adl/blich/blich1/blic1145"/>
+      <text xml:id="workid56013" decls="#biblid56013">
+        <body xml:id="idm140034837222880">
+          <pb n="146" xml:id="n146" facs="adl/blich/blich1/blic1146"/>
+          <pb n="147" xml:id="n147" facs="adl/blich/blich1/blic1147"/>
+          <pb n="148" xml:id="n148" facs="adl/blich/blich1/blic1148"/>
+          <pb n="149" xml:id="n149" facs="adl/blich/blich1/blic1149"/>
+          <pb n="150" xml:id="n150" facs="adl/blich/blich1/blic1150"/>
+          <pb n="151" xml:id="n151" facs="adl/blich/blich1/blic1151"/>
+          <pb n="152" xml:id="n152" facs="adl/blich/blich1/blic1152"/>
+          <pb n="153" xml:id="n153" facs="adl/blich/blich1/blic1153"/>
+          <pb n="154" xml:id="n154" facs="adl/blich/blich1/blic1154"/>
+          <pb n="155" xml:id="n155" facs="adl/blich/blich1/blic1155"/>
+          <pb n="156" xml:id="n156" facs="adl/blich/blich1/blic1156"/>
+          <pb n="157" xml:id="n157" facs="adl/blich/blich1/blic1157"/>
+          <pb n="158" xml:id="n158" facs="adl/blich/blich1/blic1158"/>
+          <pb n="159" xml:id="n159" facs="adl/blich/blich1/blic1159"/>
+          <pb n="160" xml:id="n160" facs="adl/blich/blich1/blic1160"/>
+          <p xml:id="idm140034837204592"/>
+        </body>
+      </text>
+      <pb n="161" xml:id="n161" facs="adl/blich/blich1/blic1161"/>
+      <text xml:id="workid56184" decls="#biblid56184">
+        <body xml:id="idm140034837201936">
+          <pb n="162" xml:id="n162" facs="adl/blich/blich1/blic1162"/>
+          <pb n="163" xml:id="n163" facs="adl/blich/blich1/blic1163"/>
+          <pb n="164" xml:id="n164" facs="adl/blich/blich1/blic1164"/>
+          <pb n="165" xml:id="n165" facs="adl/blich/blich1/blic1165"/>
+          <pb n="166" xml:id="n166" facs="adl/blich/blich1/blic1166"/>
+          <p xml:id="idm140034837195584"/>
+        </body>
+      </text>
+      <pb n="167" xml:id="n167" facs="adl/blich/blich1/blic1167"/>
+      <text xml:id="workid56250" decls="#biblid56250">
+        <body xml:id="idm140034837192768">
+          <pb n="168" xml:id="n168" facs="adl/blich/blich1/blic1168"/>
+          <pb n="169" xml:id="n169" facs="adl/blich/blich1/blic1169"/>
+          <pb n="170" xml:id="n170" facs="adl/blich/blich1/blic1170"/>
+          <pb n="171" xml:id="n171" facs="adl/blich/blich1/blic1171"/>
+          <pb n="172" xml:id="n172" facs="adl/blich/blich1/blic1172"/>
+          <pb n="173" xml:id="n173" facs="adl/blich/blich1/blic1173"/>
+          <pb n="174" xml:id="n174" facs="adl/blich/blich1/blic1174"/>
+          <pb n="175" xml:id="n175" facs="adl/blich/blich1/blic1175"/>
+          <pb n="176" xml:id="n176" facs="adl/blich/blich1/blic1176"/>
+          <pb n="177" xml:id="n177" facs="adl/blich/blich1/blic1177"/>
+          <pb n="178" xml:id="n178" facs="adl/blich/blich1/blic1178"/>
+          <pb n="179" xml:id="n179" facs="adl/blich/blich1/blic1179"/>
+          <pb n="180" xml:id="n180" facs="adl/blich/blich1/blic1180"/>
+          <pb n="181" xml:id="n181" facs="adl/blich/blich1/blic1181"/>
+          <pb n="182" xml:id="n182" facs="adl/blich/blich1/blic1182"/>
+          <pb n="183" xml:id="n183" facs="adl/blich/blich1/blic1183"/>
+          <pb n="184" xml:id="n184" facs="adl/blich/blich1/blic1184"/>
+          <pb n="185" xml:id="n185" facs="adl/blich/blich1/blic1185"/>
+          <pb n="186" xml:id="n186" facs="adl/blich/blich1/blic1186"/>
+          <pb n="187" xml:id="n187" facs="adl/blich/blich1/blic1187"/>
+          <pb n="188" xml:id="n188" facs="adl/blich/blich1/blic1188"/>
+          <pb n="189" xml:id="n189" facs="adl/blich/blich1/blic1189"/>
+          <pb n="190" xml:id="n190" facs="adl/blich/blich1/blic1190"/>
+          <pb n="191" xml:id="n191" facs="adl/blich/blich1/blic1191"/>
+          <pb n="192" xml:id="n192" facs="adl/blich/blich1/blic1192"/>
+          <pb n="193" xml:id="n193" facs="adl/blich/blich1/blic1193"/>
+          <pb n="194" xml:id="n194" facs="adl/blich/blich1/blic1194"/>
+          <pb n="195" xml:id="n195" facs="adl/blich/blich1/blic1195"/>
+          <pb n="196" xml:id="n196" facs="adl/blich/blich1/blic1196"/>
+          <pb n="197" xml:id="n197" facs="adl/blich/blich1/blic1197"/>
+          <pb n="198" xml:id="n198" facs="adl/blich/blich1/blic1198"/>
+          <p xml:id="idm140034837155136"/>
+        </body>
+      </text>
+      <pb n="199" xml:id="n199" facs="adl/blich/blich1/blic1199"/>
+      <text xml:id="workid56578" decls="#biblid56578">
+        <body xml:id="idm140034837152496">
+          <pb n="200" xml:id="n200" facs="adl/blich/blich1/blic1200"/>
+          <pb n="201" xml:id="n201" facs="adl/blich/blich1/blic1201"/>
+          <pb n="202" xml:id="n202" facs="adl/blich/blich1/blic1202"/>
+          <pb n="203" xml:id="n203" facs="adl/blich/blich1/blic1203"/>
+          <pb n="204" xml:id="n204" facs="adl/blich/blich1/blic1204"/>
+          <pb n="205" xml:id="n205" facs="adl/blich/blich1/blic1205"/>
+          <pb n="206" xml:id="n206" facs="adl/blich/blich1/blic1206"/>
+          <pb n="207" xml:id="n207" facs="adl/blich/blich1/blic1207"/>
+          <pb n="208" xml:id="n208" facs="adl/blich/blich1/blic1208"/>
+          <pb n="209" xml:id="n209" facs="adl/blich/blich1/blic1209"/>
+          <pb n="210" xml:id="n210" facs="adl/blich/blich1/blic1210"/>
+          <pb n="211" xml:id="n211" facs="adl/blich/blich1/blic1211"/>
+          <pb n="212" xml:id="n212" facs="adl/blich/blich1/blic1212"/>
+          <pb n="213" xml:id="n213" facs="adl/blich/blich1/blic1213"/>
+          <pb n="214" xml:id="n214" facs="adl/blich/blich1/blic1214"/>
+          <pb n="215" xml:id="n215" facs="adl/blich/blich1/blic1215"/>
+          <pb n="216" xml:id="n216" facs="adl/blich/blich1/blic1216"/>
+          <p xml:id="idm140034837131712"/>
+        </body>
+      </text>
+      <pb n="217" xml:id="n217" facs="adl/blich/blich1/blic1217"/>
+      <text xml:id="workid54179" decls="#biblid54179">
+        <body xml:id="idm140034837129056">
+          <pb n="218" xml:id="n218" facs="adl/blich/blich1/blic1218"/>
+          <pb n="219" xml:id="n219" facs="adl/blich/blich1/blic1219"/>
+          <pb n="220" xml:id="n220" facs="adl/blich/blich1/blic1220"/>
+          <pb n="221" xml:id="n221" facs="adl/blich/blich1/blic1221"/>
+          <pb n="222" xml:id="n222" facs="adl/blich/blich1/blic1222"/>
+          <pb n="223" xml:id="n223" facs="adl/blich/blich1/blic1223"/>
+          <pb n="224" xml:id="n224" facs="adl/blich/blich1/blic1224"/>
+          <pb n="225" xml:id="n225" facs="adl/blich/blich1/blic1225"/>
+          <pb n="226" xml:id="n226" facs="adl/blich/blich1/blic1226"/>
+          <pb n="227" xml:id="n227" facs="adl/blich/blich1/blic1227"/>
+          <pb n="228" xml:id="n228" facs="adl/blich/blich1/blic1228"/>
+          <pb n="229" xml:id="n229" facs="adl/blich/blich1/blic1229"/>
+          <pb n="230" xml:id="n230" facs="adl/blich/blich1/blic1230"/>
+          <pb n="231" xml:id="n231" facs="adl/blich/blich1/blic1231"/>
+          <pb n="232" xml:id="n232" facs="adl/blich/blich1/blic1232"/>
+          <pb n="233" xml:id="n233" facs="adl/blich/blich1/blic1233"/>
+          <pb n="234" xml:id="n234" facs="adl/blich/blich1/blic1234"/>
+          <pb n="235" xml:id="n235" facs="adl/blich/blich1/blic1235"/>
+          <pb n="236" xml:id="n236" facs="adl/blich/blich1/blic1236"/>
+          <pb n="237" xml:id="n237" facs="adl/blich/blich1/blic1237"/>
+          <pb n="238" xml:id="n238" facs="adl/blich/blich1/blic1238"/>
+          <pb n="239" xml:id="n239" facs="adl/blich/blich1/blic1239"/>
+          <pb n="240" xml:id="n240" facs="adl/blich/blich1/blic1240"/>
+          <p xml:id="idm140034837100448"/>
+        </body>
+      </text>
+      <pb n="241" xml:id="n241" facs="adl/blich/blich1/blic1241"/>
+      <text xml:id="workid56801" decls="#biblid56801">
+        <body xml:id="idm140034837097728">
+          <pb n="242" xml:id="n242" facs="adl/blich/blich1/blic1242"/>
+          <pb n="243" xml:id="n243" facs="adl/blich/blich1/blic1243"/>
+          <pb n="244" xml:id="n244" facs="adl/blich/blich1/blic1244"/>
+          <pb n="245" xml:id="n245" facs="adl/blich/blich1/blic1245"/>
+          <pb n="246" xml:id="n246" facs="adl/blich/blich1/blic1246"/>
+          <pb n="247" xml:id="n247" facs="adl/blich/blich1/blic1247"/>
+          <pb n="248" xml:id="n248" facs="adl/blich/blich1/blic1248"/>
+          <pb n="249" xml:id="n249" facs="adl/blich/blich1/blic1249"/>
+          <pb n="250" xml:id="n250" facs="adl/blich/blich1/blic1250"/>
+          <pb n="251" xml:id="n251" facs="adl/blich/blich1/blic1251"/>
+          <pb n="252" xml:id="n252" facs="adl/blich/blich1/blic1252"/>
+          <pb n="253" xml:id="n253" facs="adl/blich/blich1/blic1253"/>
+          <pb n="254" xml:id="n254" facs="adl/blich/blich1/blic1254"/>
+          <pb n="255" xml:id="n255" facs="adl/blich/blich1/blic1255"/>
+          <pb n="256" xml:id="n256" facs="adl/blich/blich1/blic1256"/>
+          <pb n="257" xml:id="n257" facs="adl/blich/blich1/blic1257"/>
+          <pb n="258" xml:id="n258" facs="adl/blich/blich1/blic1258"/>
+          <pb n="259" xml:id="n259" facs="adl/blich/blich1/blic1259"/>
+          <pb n="260" xml:id="n260" facs="adl/blich/blich1/blic1260"/>
+          <pb n="261" xml:id="n261" facs="adl/blich/blich1/blic1261"/>
+          <pb n="262" xml:id="n262" facs="adl/blich/blich1/blic1262"/>
+          <pb n="263" xml:id="n263" facs="adl/blich/blich1/blic1263"/>
+          <pb n="264" xml:id="n264" facs="adl/blich/blich1/blic1264"/>
+          <pb n="265" xml:id="n265" facs="adl/blich/blich1/blic1265"/>
+          <pb n="266" xml:id="n266" facs="adl/blich/blich1/blic1266"/>
+          <pb n="267" xml:id="n267" facs="adl/blich/blich1/blic1267"/>
+          <pb n="268" xml:id="n268" facs="adl/blich/blich1/blic1268"/>
+          <pb n="269" xml:id="n269" facs="adl/blich/blich1/blic1269"/>
+          <pb n="270" xml:id="n270" facs="adl/blich/blich1/blic1270"/>
+          <pb n="271" xml:id="n271" facs="adl/blich/blich1/blic1271"/>
+          <pb n="272" xml:id="n272" facs="adl/blich/blich1/blic1272"/>
+          <pb n="273" xml:id="n273" facs="adl/blich/blich1/blic1273"/>
+          <pb n="274" xml:id="n274" facs="adl/blich/blich1/blic1274"/>
+          <pb n="275" xml:id="n275" facs="adl/blich/blich1/blic1275"/>
+          <pb n="276" xml:id="n276" facs="adl/blich/blich1/blic1276"/>
+          <pb n="277" xml:id="n277" facs="adl/blich/blich1/blic1277"/>
+          <pb n="278" xml:id="n278" facs="adl/blich/blich1/blic1278"/>
+          <pb n="279" xml:id="n279" facs="adl/blich/blich1/blic1279"/>
+          <pb n="280" xml:id="n280" facs="adl/blich/blich1/blic1280"/>
+          <pb n="281" xml:id="n281" facs="adl/blich/blich1/blic1281"/>
+          <pb n="282" xml:id="n282" facs="adl/blich/blich1/blic1282"/>
+          <pb n="283" xml:id="n283" facs="adl/blich/blich1/blic1283"/>
+          <pb n="284" xml:id="n284" facs="adl/blich/blich1/blic1284"/>
+          <pb n="285" xml:id="n285" facs="adl/blich/blich1/blic1285"/>
+          <pb n="286" xml:id="n286" facs="adl/blich/blich1/blic1286"/>
+          <pb n="287" xml:id="n287" facs="adl/blich/blich1/blic1287"/>
+          <pb n="288" xml:id="n288" facs="adl/blich/blich1/blic1288"/>
+          <pb n="289" xml:id="n289" facs="adl/blich/blich1/blic1289"/>
+          <pb n="290" xml:id="n290" facs="adl/blich/blich1/blic1290"/>
+          <pb n="291" xml:id="n291" facs="adl/blich/blich1/blic1291"/>
+          <pb n="292" xml:id="n292" facs="adl/blich/blich1/blic1292"/>
+          <pb n="293" xml:id="n293" facs="adl/blich/blich1/blic1293"/>
+          <pb n="294" xml:id="n294" facs="adl/blich/blich1/blic1294"/>
+          <pb n="295" xml:id="n295" facs="adl/blich/blich1/blic1295"/>
+          <p xml:id="idm140034837031024"/>
+        </body>
+      </text>
+      <pb n="296" xml:id="n296" facs="adl/blich/blich1/blic1296"/>
+      <text xml:id="workid57339" decls="#biblid57339">
+        <body xml:id="idm140034837028432">
+          <pb n="297" xml:id="n297" facs="adl/blich/blich1/blic1297"/>
+          <pb n="298" xml:id="n298" facs="adl/blich/blich1/blic1298"/>
+          <pb n="299" xml:id="n299" facs="adl/blich/blich1/blic1299"/>
+          <pb n="300" xml:id="n300" facs="adl/blich/blich1/blic1300"/>
+          <pb n="301" xml:id="n301" facs="adl/blich/blich1/blic1301"/>
+          <pb n="302" xml:id="n302" facs="adl/blich/blich1/blic1302"/>
+          <pb n="303" xml:id="n303" facs="adl/blich/blich1/blic1303"/>
+          <pb n="304" xml:id="n304" facs="adl/blich/blich1/blic1304"/>
+          <pb n="305" xml:id="n305" facs="adl/blich/blich1/blic1305"/>
+          <pb n="306" xml:id="n306" facs="adl/blich/blich1/blic1306"/>
+          <pb n="307" xml:id="n307" facs="adl/blich/blich1/blic1307"/>
+          <pb n="308" xml:id="n308" facs="adl/blich/blich1/blic1308"/>
+          <pb n="309" xml:id="n309" facs="adl/blich/blich1/blic1309"/>
+          <pb n="310" xml:id="n310" facs="adl/blich/blich1/blic1310"/>
+          <pb n="311" xml:id="n311" facs="adl/blich/blich1/blic1311"/>
+          <pb n="312" xml:id="n312" facs="adl/blich/blich1/blic1312"/>
+          <pb n="313" xml:id="n313" facs="adl/blich/blich1/blic1313"/>
+          <pb n="314" xml:id="n314" facs="adl/blich/blich1/blic1314"/>
+          <p xml:id="idm140034837005776"/>
+        </body>
+      </text>
+      <pb n="315" xml:id="n315" facs="adl/blich/blich1/blic1315"/>
+      <text xml:id="idm140034837004016">
+        <body xml:id="idm140034837003760">
+          <pb n="316" xml:id="n316" facs="adl/blich/blich1/blic1316"/>
+          <pb n="317" xml:id="n317" facs="adl/blich/blich1/blic1317"/>
+          <pb n="318" xml:id="n318" facs="adl/blich/blich1/blic1318"/>
+          <pb n="319" xml:id="n319" facs="adl/blich/blich1/blic1319"/>
+          <pb n="320" xml:id="n320" facs="adl/blich/blich1/blic1320"/>
+          <pb n="321" xml:id="n321" facs="adl/blich/blich1/blic1321"/>
+          <pb n="322" xml:id="n322" facs="adl/blich/blich1/blic1322"/>
+          <pb n="323" xml:id="n323" facs="adl/blich/blich1/blic1323"/>
+          <pb n="324" xml:id="n324" facs="adl/blich/blich1/blic1324"/>
+          <pb n="325" xml:id="n325" facs="adl/blich/blich1/blic1325"/>
+          <pb n="326" xml:id="n326" facs="adl/blich/blich1/blic1326"/>
+          <pb n="327" xml:id="n327" facs="adl/blich/blich1/blic1327"/>
+          <pb n="328" xml:id="n328" facs="adl/blich/blich1/blic1328"/>
+          <pb n="329" xml:id="n329" facs="adl/blich/blich1/blic1329"/>
+          <pb n="330" xml:id="n330" facs="adl/blich/blich1/blic1330"/>
+          <pb n="331" xml:id="n331" facs="adl/blich/blich1/blic1331"/>
+          <pb n="332" xml:id="n332" facs="adl/blich/blich1/blic1332"/>
+          <pb n="333" xml:id="n333" facs="adl/blich/blich1/blic1333"/>
+          <p xml:id="idm140034836981472"/>
+        </body>
+      </text>
+    </group>
+  </text>
+</TEI>

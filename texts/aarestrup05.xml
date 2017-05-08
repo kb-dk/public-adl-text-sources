@@ -1,0 +1,425 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Tom opmærkning bnh 01.10.2001-->
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="idm139903867527440"><!-- 
+       file     ./marc_dir/001582980.xml
+       field    559 
+       subfield a 
+       prefix   -->
+  <teiHeader xml:id="idm139903867533648">
+    <fileDesc xml:id="idm139903867533392">
+      <titleStmt xml:id="idm139903867533088">
+        <title xml:id="idm139903867507696">Samlede Skrifter, V</title>
+        <respStmt xml:id="idm139903867507312">
+          <resp xml:id="idm139903867507008">Hans Brix</resp>
+          <resp xml:id="idm139903867506624">Palle Raunkjær</resp>
+          <name xml:id="idm139903867506192"/>
+        </respStmt>
+        <author xml:id="idm139903867505808">Emil Aarestrup</author>
+      </titleStmt>
+      <publicationStmt xml:id="idm139903867505248">
+        <publisher xml:id="idm139903867504992">Det danske Sprog- og Litteaturselskab</publisher>
+        <idno xml:id="idm139903867504560" xml:base="texts/aarestrup05.xml">001582980:05</idno>
+      </publicationStmt>
+      <notesStmt xml:id="idm139903867503712">
+        <note xml:id="idm139903867503408">
+	  </note>
+      </notesStmt>
+      <sourceDesc xml:id="idm139903867502896"><bibl xml:id="idm139903867502768"><author n="1" xml:id="idm139903867502080"><name xml:id="idm139903867501824"><surname xml:id="idm139903867501696">Aarestrup</surname>,
+      <forename xml:id="idm139903867501248">Emil</forename></name></author><title xml:id="idm139903867500960">Emil Aarestrups samlede skrifter</title><pubPlace xml:id="idm139903867500656">Kbh</pubPlace>
+<publisher xml:id="idm139903867500224">C. A. Reitzel</publisher><date xml:id="idm139903867499888">1976</date></bibl><listBibl xml:id="idm139903867499600"><bibl xml:id="biblid56689"><title xml:id="idm139903867486400">Et Riimbrev, Kjære Glut, her førstegang jeg skriver</title></bibl><bibl xml:id="biblid56717"><title xml:id="idm139903867485520">Den 14de December 1838</title></bibl><bibl xml:id="biblid56732"><title xml:id="idm139903867484736">Kjære Christian</title></bibl></listBibl></sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text xml:id="idm139903867484048">
+    <front xml:id="idm139903867483792">
+      <pb n="a" facs="adl/aarestrup/aare5/aare5fm001" xml:id="idm139903867483488"/>
+      <pb n="b" facs="adl/aarestrup/aare5/aare5fm002" xml:id="idm139903867482704"/>
+      <pb n="c" facs="adl/aarestrup/aare5/aare5fm003" xml:id="idm139903867481888"/>
+      <pb n="d" facs="adl/aarestrup/aare5/aare5fm004" xml:id="idm139903867481120"/>
+      <pb n="e" facs="adl/aarestrup/aare5/aare5fm005" xml:id="idm139903867480304"/>
+      <pb n="f" facs="adl/aarestrup/aare5/aare5fm006" xml:id="idm139903867479488"/>
+      <pb n="g" facs="adl/aarestrup/aare5/aare5fm007" xml:id="idm139903867563568"/>
+      <pb n="h" facs="adl/aarestrup/aare5/aare5fm008" xml:id="idm139903867562800"/>
+      <pb n="i" facs="adl/aarestrup/aare5/aare5fm009" xml:id="idm139903867562032"/>
+      <pb n="j" facs="adl/aarestrup/aare5/aare5fm010" xml:id="idm139903867561264"/>
+      <pb n="k" facs="adl/aarestrup/aare5/aare5fm011" xml:id="idm139903867560496"/>
+      <pb n="l" facs="adl/aarestrup/aare5/aare5fm012" xml:id="idm139903867454352"/>
+      <pb n="9" facs="adl/aarestrup/aare5/aare5009" xml:id="idm139903867453584"/>
+      <pb n="10" facs="adl/aarestrup/aare5/aare5010" xml:id="idm139903867452816"/>
+      <pb n="11" facs="adl/aarestrup/aare5/aare5011" xml:id="idm139903867452048"/>
+      <pb n="12" facs="adl/aarestrup/aare5/aare5012" xml:id="idm139903867451280"/>
+      <pb n="13" facs="adl/aarestrup/aare5/aare5013" xml:id="idm139903867450512"/>
+      <pb n="14" facs="adl/aarestrup/aare5/aare5014" xml:id="idm139903867449744"/>
+      <pb n="15" facs="adl/aarestrup/aare5/aare5015" xml:id="idm139903867448976"/>
+      <pb n="16" facs="adl/aarestrup/aare5/aare5016" xml:id="idm139903867448208"/>
+      <pb n="17" facs="adl/aarestrup/aare5/aare5017" xml:id="idm139903867447440"/>
+      <pb n="18" facs="adl/aarestrup/aare5/aare5018" xml:id="idm139903867446672"/>
+      <pb n="19" facs="adl/aarestrup/aare5/aare5019" xml:id="idm139903867445904"/>
+      <pb n="20" facs="adl/aarestrup/aare5/aare5020" xml:id="idm139903867445136"/>
+      <pb n="21" facs="adl/aarestrup/aare5/aare5021" xml:id="idm139903867444368"/>
+      <pb n="22" facs="adl/aarestrup/aare5/aare5022" xml:id="idm139903867443600"/>
+      <pb n="23" facs="adl/aarestrup/aare5/aare5023" xml:id="idm139903867442832"/>
+      <pb n="24" facs="adl/aarestrup/aare5/aare5024" xml:id="idm139903867442064"/>
+      <pb n="25" facs="adl/aarestrup/aare5/aare5025" xml:id="idm139903867441296"/>
+      <pb n="26" facs="adl/aarestrup/aare5/aare5026" xml:id="idm139903867440528"/>
+      <pb n="27" facs="adl/aarestrup/aare5/aare5027" xml:id="idm139903867439760"/>
+      <pb n="28" facs="adl/aarestrup/aare5/aare5028" xml:id="idm139903867438992"/>
+      <pb n="29" facs="adl/aarestrup/aare5/aare5029" xml:id="idm139903867438224"/>
+      <pb n="30" facs="adl/aarestrup/aare5/aare5030" xml:id="idm139903867437456"/>
+      <pb n="31" facs="adl/aarestrup/aare5/aare5031" xml:id="idm139903867436688"/>
+      <pb n="32" facs="adl/aarestrup/aare5/aare5032" xml:id="idm139903867435920"/>
+      <pb n="33" facs="adl/aarestrup/aare5/aare5033" xml:id="idm139903867435152"/>
+      <pb n="34" facs="adl/aarestrup/aare5/aare5034" xml:id="idm139903867434384"/>
+      <pb n="35" facs="adl/aarestrup/aare5/aare5035" xml:id="idm139903867433616"/>
+      <pb n="36" facs="adl/aarestrup/aare5/aare5036" xml:id="idm139903867432848"/>
+      <pb n="37" facs="adl/aarestrup/aare5/aare5037" xml:id="idm139903867432080"/>
+      <pb n="38" facs="adl/aarestrup/aare5/aare5038" xml:id="idm139903867431312"/>
+      <pb n="39" facs="adl/aarestrup/aare5/aare5039" xml:id="idm139903867430544"/>
+      <pb n="40" facs="adl/aarestrup/aare5/aare5040" xml:id="idm139903867429776"/>
+      <pb n="41" facs="adl/aarestrup/aare5/aare5041" xml:id="idm139903867429008"/>
+      <pb n="42" facs="adl/aarestrup/aare5/aare5042" xml:id="idm139903867428240"/>
+      <pb n="43" facs="adl/aarestrup/aare5/aare5043" xml:id="idm139903867427472"/>
+      <pb n="44" facs="adl/aarestrup/aare5/aare5044" xml:id="idm139903867426704"/>
+      <pb n="45" facs="adl/aarestrup/aare5/aare5045" xml:id="idm139903867425936"/>
+      <pb n="46" facs="adl/aarestrup/aare5/aare5046" xml:id="idm139903867425168"/>
+      <pb n="47" facs="adl/aarestrup/aare5/aare5047" xml:id="idm139903867424400"/>
+      <pb n="48" facs="adl/aarestrup/aare5/aare5048" xml:id="idm139903867423632"/>
+      <pb n="49" facs="adl/aarestrup/aare5/aare5049" xml:id="idm139903867422864"/>
+      <pb n="50" facs="adl/aarestrup/aare5/aare5050" xml:id="idm139903867422096"/>
+      <pb n="51" facs="adl/aarestrup/aare5/aare5051" xml:id="idm139903867421328"/>
+      <pb n="52" facs="adl/aarestrup/aare5/aare5052" xml:id="idm139903867420560"/>
+      <pb n="53" facs="adl/aarestrup/aare5/aare5053" xml:id="idm139903867419792"/>
+      <pb n="54" facs="adl/aarestrup/aare5/aare5054" xml:id="idm139903867419024"/>
+      <pb n="55" facs="adl/aarestrup/aare5/aare5055" xml:id="idm139903867418256"/>
+      <pb n="56" facs="adl/aarestrup/aare5/aare5056" xml:id="idm139903867417488"/>
+      <pb n="57" facs="adl/aarestrup/aare5/aare5057" xml:id="idm139903867416720"/>
+      <pb n="58" facs="adl/aarestrup/aare5/aare5058" xml:id="idm139903867415952"/>
+      <pb n="59" facs="adl/aarestrup/aare5/aare5059" xml:id="idm139903867415184"/>
+      <pb n="60" facs="adl/aarestrup/aare5/aare5060" xml:id="idm139903867414416"/>
+      <pb n="61" facs="adl/aarestrup/aare5/aare5061" xml:id="idm139903867413648"/>
+      <pb n="62" facs="adl/aarestrup/aare5/aare5062" xml:id="idm139903867412880"/>
+      <pb n="63" facs="adl/aarestrup/aare5/aare5063" xml:id="idm139903867412112"/>
+      <pb n="64" facs="adl/aarestrup/aare5/aare5064" xml:id="idm139903867411344"/>
+      <pb n="65" facs="adl/aarestrup/aare5/aare5065" xml:id="idm139903867410576"/>
+      <pb n="66" facs="adl/aarestrup/aare5/aare5066" xml:id="idm139903867409808"/>
+      <pb n="67" facs="adl/aarestrup/aare5/aare5067" xml:id="idm139903867409040"/>
+      <pb n="68" facs="adl/aarestrup/aare5/aare5068" xml:id="idm139903867408272"/>
+      <pb n="69" facs="adl/aarestrup/aare5/aare5069" xml:id="idm139903867407504"/>
+      <pb n="70" facs="adl/aarestrup/aare5/aare5070" xml:id="idm139903867406736"/>
+      <pb n="71" facs="adl/aarestrup/aare5/aare5071" xml:id="idm139903867405968"/>
+      <pb n="72" facs="adl/aarestrup/aare5/aare5072" xml:id="idm139903867405200"/>
+      <pb n="73" facs="adl/aarestrup/aare5/aare5073" xml:id="idm139903867404432"/>
+      <pb n="74" facs="adl/aarestrup/aare5/aare5074" xml:id="idm139903867403664"/>
+      <pb n="75" facs="adl/aarestrup/aare5/aare5075" xml:id="idm139903867402896"/>
+      <pb n="76" facs="adl/aarestrup/aare5/aare5076" xml:id="idm139903867402128"/>
+      <pb n="77" facs="adl/aarestrup/aare5/aare5077" xml:id="idm139903867401360"/>
+      <pb n="78" facs="adl/aarestrup/aare5/aare5078" xml:id="idm139903867400592"/>
+      <pb n="79" facs="adl/aarestrup/aare5/aare5079" xml:id="idm139903867399824"/>
+      <pb n="80" facs="adl/aarestrup/aare5/aare5080" xml:id="idm139903867399056"/>
+      <pb n="81" facs="adl/aarestrup/aare5/aare5081" xml:id="idm139903867398288"/>
+      <pb n="82" facs="adl/aarestrup/aare5/aare5082" xml:id="idm139903867397520"/>
+      <pb n="83" facs="adl/aarestrup/aare5/aare5083" xml:id="idm139903867396752"/>
+      <pb n="84" facs="adl/aarestrup/aare5/aare5084" xml:id="idm139903867395984"/>
+      <pb n="85" facs="adl/aarestrup/aare5/aare5085" xml:id="idm139903867395216"/>
+      <pb n="86" facs="adl/aarestrup/aare5/aare5086" xml:id="idm139903867394448"/>
+      <pb n="87" facs="adl/aarestrup/aare5/aare5087" xml:id="idm139903867393680"/>
+      <pb n="88" facs="adl/aarestrup/aare5/aare5088" xml:id="idm139903867392912"/>
+      <pb n="89" facs="adl/aarestrup/aare5/aare5089" xml:id="idm139903867392144"/>
+      <pb n="90" facs="adl/aarestrup/aare5/aare5090" xml:id="idm139903867391376"/>
+      <pb n="91" facs="adl/aarestrup/aare5/aare5091" xml:id="idm139903867390608"/>
+      <pb n="92" facs="adl/aarestrup/aare5/aare5092" xml:id="idm139903867389840"/>
+      <pb n="93" facs="adl/aarestrup/aare5/aare5093" xml:id="idm139903867389072"/>
+      <pb n="94" facs="adl/aarestrup/aare5/aare5094" xml:id="idm139903867388304"/>
+      <pb n="95" facs="adl/aarestrup/aare5/aare5095" xml:id="idm139903867387536"/>
+      <pb n="96" facs="adl/aarestrup/aare5/aare5096" xml:id="idm139903867386768"/>
+      <pb n="97" facs="adl/aarestrup/aare5/aare5097" xml:id="idm139903867386000"/>
+      <pb n="98" facs="adl/aarestrup/aare5/aare5098" xml:id="idm139903867385232"/>
+      <pb n="99" facs="adl/aarestrup/aare5/aare5099" xml:id="idm139903867384464"/>
+      <pb n="100" facs="adl/aarestrup/aare5/aare5100" xml:id="idm139903867383696"/>
+      <pb n="101" facs="adl/aarestrup/aare5/aare5101" xml:id="idm139903867382928"/>
+      <pb n="102" facs="adl/aarestrup/aare5/aare5102" xml:id="idm139903867382160"/>
+      <pb n="103" facs="adl/aarestrup/aare5/aare5103" xml:id="idm139903867381392"/>
+      <pb n="104" facs="adl/aarestrup/aare5/aare5104" xml:id="idm139903867380624"/>
+      <pb n="105" facs="adl/aarestrup/aare5/aare5105" xml:id="idm139903867379856"/>
+      <pb n="106" facs="adl/aarestrup/aare5/aare5106" xml:id="idm139903867379088"/>
+      <pb n="107" facs="adl/aarestrup/aare5/aare5107" xml:id="idm139903867378320"/>
+      <pb n="108" facs="adl/aarestrup/aare5/aare5108" xml:id="idm139903867377552"/>
+      <pb n="109" facs="adl/aarestrup/aare5/aare5109" xml:id="idm139903867376784"/>
+      <pb n="110" facs="adl/aarestrup/aare5/aare5110" xml:id="idm139903867376016"/>
+      <pb n="111" facs="adl/aarestrup/aare5/aare5111" xml:id="idm139903867375248"/>
+      <pb n="112" facs="adl/aarestrup/aare5/aare5112" xml:id="idm139903867374480"/>
+      <pb n="113" facs="adl/aarestrup/aare5/aare5113" xml:id="idm139903867373712"/>
+      <pb n="114" facs="adl/aarestrup/aare5/aare5114" xml:id="idm139903867372944"/>
+      <pb n="115" facs="adl/aarestrup/aare5/aare5115" xml:id="idm139903867372176"/>
+      <pb n="116" facs="adl/aarestrup/aare5/aare5116" xml:id="idm139903867371408"/>
+      <pb n="117" facs="adl/aarestrup/aare5/aare5117" xml:id="idm139903867370640"/>
+      <pb n="118" facs="adl/aarestrup/aare5/aare5118" xml:id="idm139903867369872"/>
+      <pb n="119" facs="adl/aarestrup/aare5/aare5119" xml:id="idm139903867369104"/>
+      <pb n="120" facs="adl/aarestrup/aare5/aare5120" xml:id="idm139903867368336"/>
+      <pb n="121" facs="adl/aarestrup/aare5/aare5121" xml:id="idm139903867367568"/>
+      <pb n="122" facs="adl/aarestrup/aare5/aare5122" xml:id="idm139903867366800"/>
+      <pb n="123" facs="adl/aarestrup/aare5/aare5123" xml:id="idm139903867366032"/>
+      <pb n="124" facs="adl/aarestrup/aare5/aare5124" xml:id="idm139903867365264"/>
+      <pb n="125" facs="adl/aarestrup/aare5/aare5125" xml:id="idm139903867364496"/>
+      <pb n="126" facs="adl/aarestrup/aare5/aare5126" xml:id="idm139903867363728"/>
+      <pb n="127" facs="adl/aarestrup/aare5/aare5127" xml:id="idm139903867362960"/>
+      <pb n="128" facs="adl/aarestrup/aare5/aare5128" xml:id="idm139903867362192"/>
+      <pb n="129" facs="adl/aarestrup/aare5/aare5129" xml:id="idm139903867361424"/>
+      <pb n="130" facs="adl/aarestrup/aare5/aare5130" xml:id="idm139903867360656"/>
+      <pb n="131" facs="adl/aarestrup/aare5/aare5131" xml:id="idm139903867359888"/>
+      <pb n="132" facs="adl/aarestrup/aare5/aare5132" xml:id="idm139903867359120"/>
+      <pb n="133" facs="adl/aarestrup/aare5/aare5133" xml:id="idm139903867358352"/>
+      <pb n="134" facs="adl/aarestrup/aare5/aare5134" xml:id="idm139903867357536"/>
+      <pb n="135" facs="adl/aarestrup/aare5/aare5135" xml:id="idm139903867356768"/>
+      <pb n="136" facs="adl/aarestrup/aare5/aare5136" xml:id="idm139903867356000"/>
+      <pb n="137" facs="adl/aarestrup/aare5/aare5137" xml:id="idm139903867355232"/>
+      <pb n="138" facs="adl/aarestrup/aare5/aare5138" xml:id="idm139903867354464"/>
+      <pb n="139" facs="adl/aarestrup/aare5/aare5139" xml:id="idm139903867353696"/>
+      <pb n="140" facs="adl/aarestrup/aare5/aare5140" xml:id="idm139903867352928"/>
+      <pb n="141" facs="adl/aarestrup/aare5/aare5141" xml:id="idm139903867352112"/>
+      <pb n="142" facs="adl/aarestrup/aare5/aare5142" xml:id="idm139903867351344"/>
+      <pb n="143" facs="adl/aarestrup/aare5/aare5143" xml:id="idm139903867350576"/>
+      <pb n="144" facs="adl/aarestrup/aare5/aare5144" xml:id="idm139903867349808"/>
+      <pb n="145" facs="adl/aarestrup/aare5/aare5145" xml:id="idm139903867349040"/>
+      <pb n="146" facs="adl/aarestrup/aare5/aare5146" xml:id="idm139903867348272"/>
+      <pb n="147" facs="adl/aarestrup/aare5/aare5147" xml:id="idm139903867347456"/>
+      <pb n="148" facs="adl/aarestrup/aare5/aare5148" xml:id="idm139903867346640"/>
+      <pb n="149" facs="adl/aarestrup/aare5/aare5149" xml:id="idm139903867345872"/>
+      <pb n="150" facs="adl/aarestrup/aare5/aare5150" xml:id="idm139903867345104"/>
+      <pb n="151" facs="adl/aarestrup/aare5/aare5151" xml:id="idm139903867344288"/>
+      <pb n="152" facs="adl/aarestrup/aare5/aare5152" xml:id="idm139903867343520"/>
+      <pb n="153" facs="adl/aarestrup/aare5/aare5153" xml:id="idm139903867342752"/>
+      <pb n="154" facs="adl/aarestrup/aare5/aare5154" xml:id="idm139903867341984"/>
+      <pb n="155" facs="adl/aarestrup/aare5/aare5155" xml:id="idm139903867341216"/>
+      <pb n="156" facs="adl/aarestrup/aare5/aare5156" xml:id="idm139903867340448"/>
+      <pb n="157" facs="adl/aarestrup/aare5/aare5157" xml:id="idm139903867339680"/>
+      <pb n="158" facs="adl/aarestrup/aare5/aare5158" xml:id="idm139903867338864"/>
+      <pb n="159" facs="adl/aarestrup/aare5/aare5159" xml:id="idm139903867338096"/>
+      <pb n="160" facs="adl/aarestrup/aare5/aare5160" xml:id="idm139903867337328"/>
+      <pb n="161" facs="adl/aarestrup/aare5/aare5161" xml:id="idm139903867336560"/>
+      <pb n="162" facs="adl/aarestrup/aare5/aare5162" xml:id="idm139903867335792"/>
+      <pb n="163" facs="adl/aarestrup/aare5/aare5163" xml:id="idm139903867335024"/>
+      <pb n="164" facs="adl/aarestrup/aare5/aare5164" xml:id="idm139903867334208"/>
+      <pb n="165" facs="adl/aarestrup/aare5/aare5165" xml:id="idm139903867333440"/>
+      <pb n="166" facs="adl/aarestrup/aare5/aare5166" xml:id="idm139903867332672"/>
+      <pb n="167" facs="adl/aarestrup/aare5/aare5167" xml:id="idm139903867331904"/>
+      <pb n="168" facs="adl/aarestrup/aare5/aare5168" xml:id="idm139903867331136"/>
+      <pb n="169" facs="adl/aarestrup/aare5/aare5169" xml:id="idm139903867330320"/>
+      <pb n="170" facs="adl/aarestrup/aare5/aare5170" xml:id="idm139903867329552"/>
+      <pb n="171" facs="adl/aarestrup/aare5/aare5171" xml:id="idm139903867328784"/>
+      <pb n="172" facs="adl/aarestrup/aare5/aare5172" xml:id="idm139903867328016"/>
+      <pb n="173" facs="adl/aarestrup/aare5/aare5173" xml:id="idm139903867327248"/>
+      <pb n="174" facs="adl/aarestrup/aare5/aare5174" xml:id="idm139903867326432"/>
+      <pb n="175" facs="adl/aarestrup/aare5/aare5175" xml:id="idm139903867325664"/>
+      <pb n="176" facs="adl/aarestrup/aare5/aare5176" xml:id="idm139903867324848"/>
+      <pb n="177" facs="adl/aarestrup/aare5/aare5177" xml:id="idm139903867324080"/>
+      <pb n="178" facs="adl/aarestrup/aare5/aare5178" xml:id="idm139903867323312"/>
+      <pb n="179" facs="adl/aarestrup/aare5/aare5179" xml:id="idm139903867322544"/>
+      <pb n="180" facs="adl/aarestrup/aare5/aare5180" xml:id="idm139903867321808"/>
+      <pb n="181" facs="adl/aarestrup/aare5/aare5181" xml:id="idm139903867321072"/>
+      <pb n="182" facs="adl/aarestrup/aare5/aare5182" xml:id="idm139903867320304"/>
+      <pb n="183" facs="adl/aarestrup/aare5/aare5183" xml:id="idm139903867319536"/>
+      <pb n="184" facs="adl/aarestrup/aare5/aare5184" xml:id="idm139903867318768"/>
+      <pb n="185" facs="adl/aarestrup/aare5/aare5185" xml:id="idm139903867317952"/>
+      <pb n="186" facs="adl/aarestrup/aare5/aare5186" xml:id="idm139903867317184"/>
+      <pb n="187" facs="adl/aarestrup/aare5/aare5187" xml:id="idm139903867316416"/>
+      <pb n="188" facs="adl/aarestrup/aare5/aare5188" xml:id="idm139903867311584"/>
+      <pb n="189" facs="adl/aarestrup/aare5/aare5189" xml:id="idm139903867310816"/>
+      <pb n="190" facs="adl/aarestrup/aare5/aare5190" xml:id="idm139903867310048"/>
+      <pb n="191" facs="adl/aarestrup/aare5/aare5191" xml:id="idm139903867309280"/>
+      <pb n="192" facs="adl/aarestrup/aare5/aare5192" xml:id="idm139903867308464"/>
+      <pb n="193" facs="adl/aarestrup/aare5/aare5193" xml:id="idm139903867307648"/>
+      <pb n="194" facs="adl/aarestrup/aare5/aare5194" xml:id="idm139903867306880"/>
+      <pb n="195" facs="adl/aarestrup/aare5/aare5195" xml:id="idm139903867306064"/>
+      <pb n="196" facs="adl/aarestrup/aare5/aare5196" xml:id="idm139903867305248"/>
+      <pb n="197" facs="adl/aarestrup/aare5/aare5197" xml:id="idm139903867304480"/>
+      <pb n="198" facs="adl/aarestrup/aare5/aare5198" xml:id="idm139903867303712"/>
+      <pb n="199" facs="adl/aarestrup/aare5/aare5199" xml:id="idm139903867302896"/>
+      <pb n="200" facs="adl/aarestrup/aare5/aare5200" xml:id="idm139903867302080"/>
+      <pb n="201" facs="adl/aarestrup/aare5/aare5201" xml:id="idm139903867301264"/>
+      <pb n="202" facs="adl/aarestrup/aare5/aare5202" xml:id="idm139903867300496"/>
+      <pb n="203" facs="adl/aarestrup/aare5/aare5203" xml:id="idm139903867299728"/>
+      <pb n="204" facs="adl/aarestrup/aare5/aare5204" xml:id="idm139903867298960"/>
+      <pb n="205" facs="adl/aarestrup/aare5/aare5205" xml:id="idm139903867298192"/>
+      <pb n="206" facs="adl/aarestrup/aare5/aare5206" xml:id="idm139903867297376"/>
+      <pb n="207" facs="adl/aarestrup/aare5/aare5207" xml:id="idm139903867296608"/>
+      <pb n="208" facs="adl/aarestrup/aare5/aare5208" xml:id="idm139903867295792"/>
+      <pb n="209" facs="adl/aarestrup/aare5/aare5209" xml:id="idm139903867295024"/>
+      <pb n="210" facs="adl/aarestrup/aare5/aare5210" xml:id="idm139903867294256"/>
+      <pb n="211" facs="adl/aarestrup/aare5/aare5211" xml:id="idm139903867293488"/>
+      <pb n="212" facs="adl/aarestrup/aare5/aare5212" xml:id="idm139903867292672"/>
+      <pb n="213" facs="adl/aarestrup/aare5/aare5213" xml:id="idm139903867291856"/>
+      <pb n="214" facs="adl/aarestrup/aare5/aare5214" xml:id="idm139903867291088"/>
+      <pb n="215" facs="adl/aarestrup/aare5/aare5215" xml:id="idm139903867290320"/>
+      <pb n="216" facs="adl/aarestrup/aare5/aare5216" xml:id="idm139903867289552"/>
+      <pb n="217" facs="adl/aarestrup/aare5/aare5217" xml:id="idm139903867288784"/>
+      <pb n="218" facs="adl/aarestrup/aare5/aare5218" xml:id="idm139903867287968"/>
+      <pb n="219" facs="adl/aarestrup/aare5/aare5219" xml:id="idm139903867287200"/>
+      <pb n="220" facs="adl/aarestrup/aare5/aare5220" xml:id="idm139903867286432"/>
+      <pb n="221" facs="adl/aarestrup/aare5/aare5221" xml:id="idm139903867285616"/>
+      <pb n="222" facs="adl/aarestrup/aare5/aare5222" xml:id="idm139903867284800"/>
+      <pb n="223" facs="adl/aarestrup/aare5/aare5223" xml:id="idm139903867284032"/>
+      <pb n="224" facs="adl/aarestrup/aare5/aare5224" xml:id="idm139903867283264"/>
+      <pb n="225" facs="adl/aarestrup/aare5/aare5225" xml:id="idm139903867282496"/>
+      <pb n="226" facs="adl/aarestrup/aare5/aare5226" xml:id="idm139903867281728"/>
+      <pb n="227" facs="adl/aarestrup/aare5/aare5227" xml:id="idm139903867280960"/>
+      <pb n="228" facs="adl/aarestrup/aare5/aare5228" xml:id="idm139903867280144"/>
+      <pb n="229" facs="adl/aarestrup/aare5/aare5229" xml:id="idm139903867279328"/>
+      <pb n="230" facs="adl/aarestrup/aare5/aare5230" xml:id="idm139903867278560"/>
+      <pb n="231" facs="adl/aarestrup/aare5/aare5231" xml:id="idm139903867277792"/>
+      <pb n="232" facs="adl/aarestrup/aare5/aare5232" xml:id="idm139903867277024"/>
+      <pb n="233" facs="adl/aarestrup/aare5/aare5233" xml:id="idm139903867276256"/>
+      <pb n="234" facs="adl/aarestrup/aare5/aare5234" xml:id="idm139903867275440"/>
+      <pb n="235" facs="adl/aarestrup/aare5/aare5235" xml:id="idm139903867274672"/>
+      <pb n="236" facs="adl/aarestrup/aare5/aare5236" xml:id="idm139903867273904"/>
+      <pb n="237" facs="adl/aarestrup/aare5/aare5237" xml:id="idm139903867273136"/>
+      <pb n="238" facs="adl/aarestrup/aare5/aare5238" xml:id="idm139903867272368"/>
+      <pb n="239" facs="adl/aarestrup/aare5/aare5239" xml:id="idm139903867271600"/>
+      <pb n="240" facs="adl/aarestrup/aare5/aare5240" xml:id="idm139903867270832"/>
+      <pb n="241" facs="adl/aarestrup/aare5/aare5241" xml:id="idm139903867270016"/>
+      <pb n="242" facs="adl/aarestrup/aare5/aare5242" xml:id="idm139903867269200"/>
+      <pb n="243" facs="adl/aarestrup/aare5/aare5243" xml:id="idm139903867268432"/>
+      <pb n="244" facs="adl/aarestrup/aare5/aare5244" xml:id="idm139903867267664"/>
+      <pb n="245" facs="adl/aarestrup/aare5/aare5245" xml:id="idm139903867266896"/>
+      <pb n="246" facs="adl/aarestrup/aare5/aare5246" xml:id="idm139903867266128"/>
+      <pb n="247" facs="adl/aarestrup/aare5/aare5247" xml:id="idm139903867265312"/>
+      <pb n="248" facs="adl/aarestrup/aare5/aare5248" xml:id="idm139903867264544"/>
+      <pb n="249" facs="adl/aarestrup/aare5/aare5249" xml:id="idm139903867263776"/>
+      <pb n="250" facs="adl/aarestrup/aare5/aare5250" xml:id="idm139903867263008"/>
+      <pb n="251" facs="adl/aarestrup/aare5/aare5251" xml:id="idm139903867262240"/>
+      <pb n="252" facs="adl/aarestrup/aare5/aare5252" xml:id="idm139903867261472"/>
+      <pb n="253" facs="adl/aarestrup/aare5/aare5253" xml:id="idm139903867260656"/>
+      <pb n="254" facs="adl/aarestrup/aare5/aare5254" xml:id="idm139903867259840"/>
+      <pb n="255" facs="adl/aarestrup/aare5/aare5255" xml:id="idm139903867259072"/>
+      <pb n="256" facs="adl/aarestrup/aare5/aare5256" xml:id="idm139903867258304"/>
+      <pb n="257" facs="adl/aarestrup/aare5/aare5257" xml:id="idm139903867257536"/>
+      <pb n="258" facs="adl/aarestrup/aare5/aare5258" xml:id="idm139903867256720"/>
+      <pb n="259" facs="adl/aarestrup/aare5/aare5259" xml:id="idm139903867255904"/>
+      <pb n="260" facs="adl/aarestrup/aare5/aare5260" xml:id="idm139903867255088"/>
+      <pb n="261" facs="adl/aarestrup/aare5/aare5261" xml:id="idm139903867254320"/>
+      <pb n="262" facs="adl/aarestrup/aare5/aare5262" xml:id="idm139903867253552"/>
+      <pb n="263" facs="adl/aarestrup/aare5/aare5263" xml:id="idm139903867252784"/>
+      <pb n="264" facs="adl/aarestrup/aare5/aare5264" xml:id="idm139903867252016"/>
+      <pb n="265" facs="adl/aarestrup/aare5/aare5265" xml:id="idm139903867251248"/>
+      <pb n="266" facs="adl/aarestrup/aare5/aare5266" xml:id="idm139903867250480"/>
+      <pb n="267" facs="adl/aarestrup/aare5/aare5267" xml:id="idm139903867249712"/>
+      <pb n="268" facs="adl/aarestrup/aare5/aare5268" xml:id="idm139903867248944"/>
+      <pb n="269" facs="adl/aarestrup/aare5/aare5269" xml:id="idm139903867248128"/>
+      <pb n="270" facs="adl/aarestrup/aare5/aare5270" xml:id="idm139903867247360"/>
+      <pb n="271" facs="adl/aarestrup/aare5/aare5271" xml:id="idm139903867246592"/>
+      <pb n="272" facs="adl/aarestrup/aare5/aare5272" xml:id="idm139903867245824"/>
+      <pb n="273" facs="adl/aarestrup/aare5/aare5273" xml:id="idm139903867245056"/>
+      <pb n="274" facs="adl/aarestrup/aare5/aare5274" xml:id="idm139903867244240"/>
+      <pb n="275" facs="adl/aarestrup/aare5/aare5275" xml:id="idm139903867243424"/>
+      <pb n="276" facs="adl/aarestrup/aare5/aare5276" xml:id="idm139903867242608"/>
+      <pb n="277" facs="adl/aarestrup/aare5/aare5277" xml:id="idm139903867241792"/>
+      <pb n="278" facs="adl/aarestrup/aare5/aare5278" xml:id="idm139903867241024"/>
+      <pb n="279" facs="adl/aarestrup/aare5/aare5279" xml:id="idm139903867240256"/>
+      <pb n="280" facs="adl/aarestrup/aare5/aare5280" xml:id="idm139903867239488"/>
+      <pb n="281" facs="adl/aarestrup/aare5/aare5281" xml:id="idm139903867238672"/>
+      <pb n="282" facs="adl/aarestrup/aare5/aare5282" xml:id="idm139903867237856"/>
+      <pb n="283" facs="adl/aarestrup/aare5/aare5283" xml:id="idm139903867237088"/>
+      <pb n="284" facs="adl/aarestrup/aare5/aare5284" xml:id="idm139903867236272"/>
+      <pb n="285" facs="adl/aarestrup/aare5/aare5285" xml:id="idm139903867235504"/>
+      <pb n="286" facs="adl/aarestrup/aare5/aare5286" xml:id="idm139903867234736"/>
+      <pb n="287" facs="adl/aarestrup/aare5/aare5287" xml:id="idm139903867233968"/>
+      <pb n="288" facs="adl/aarestrup/aare5/aare5288" xml:id="idm139903867233200"/>
+      <pb n="289" facs="adl/aarestrup/aare5/aare5289" xml:id="idm139903867232384"/>
+      <pb n="290" facs="adl/aarestrup/aare5/aare5290" xml:id="idm139903867231616"/>
+      <pb n="291" facs="adl/aarestrup/aare5/aare5291" xml:id="idm139903867230848"/>
+      <pb n="292" facs="adl/aarestrup/aare5/aare5292" xml:id="idm139903867230080"/>
+      <pb n="293" facs="adl/aarestrup/aare5/aare5293" xml:id="idm139903867229264"/>
+      <pb n="294" facs="adl/aarestrup/aare5/aare5294" xml:id="idm139903867228448"/>
+      <pb n="295" facs="adl/aarestrup/aare5/aare5295" xml:id="idm139903867227680"/>
+      <pb n="296" facs="adl/aarestrup/aare5/aare5296" xml:id="idm139903867226864"/>
+      <pb n="297" facs="adl/aarestrup/aare5/aare5297" xml:id="idm139903867226096"/>
+      <pb n="298" facs="adl/aarestrup/aare5/aare5298" xml:id="idm139903867225328"/>
+      <pb n="299" facs="adl/aarestrup/aare5/aare5299" xml:id="idm139903867224512"/>
+      <pb n="300" facs="adl/aarestrup/aare5/aare5300" xml:id="idm139903867223744"/>
+      <pb n="301" facs="adl/aarestrup/aare5/aare5301" xml:id="idm139903867222976"/>
+      <pb n="302" facs="adl/aarestrup/aare5/aare5302" xml:id="idm139903867222208"/>
+      <pb n="303" facs="adl/aarestrup/aare5/aare5303" xml:id="idm139903867221440"/>
+      <pb n="304" facs="adl/aarestrup/aare5/aare5304" xml:id="idm139903867220672"/>
+      <pb n="305" facs="adl/aarestrup/aare5/aare5305" xml:id="idm139903867219904"/>
+      <pb n="306" facs="adl/aarestrup/aare5/aare5306" xml:id="idm139903867219088"/>
+      <pb n="307" facs="adl/aarestrup/aare5/aare5307" xml:id="idm139903867218272"/>
+      <pb n="308" facs="adl/aarestrup/aare5/aare5308" xml:id="idm139903867217504"/>
+      <pb n="309" facs="adl/aarestrup/aare5/aare5309" xml:id="idm139903867216736"/>
+      <pb n="310" facs="adl/aarestrup/aare5/aare5310" xml:id="idm139903867215968"/>
+      <pb n="311" facs="adl/aarestrup/aare5/aare5311" xml:id="idm139903867215152"/>
+      <pb n="312" facs="adl/aarestrup/aare5/aare5312" xml:id="idm139903867214384"/>
+      <pb n="313" facs="adl/aarestrup/aare5/aare5313" xml:id="idm139903867213568"/>
+      <pb n="314" facs="adl/aarestrup/aare5/aare5314" xml:id="idm139903867212752"/>
+      <pb n="315" facs="adl/aarestrup/aare5/aare5315" xml:id="idm139903867211936"/>
+      <pb n="316" facs="adl/aarestrup/aare5/aare5316" xml:id="idm139903867211168"/>
+      <pb n="317" facs="adl/aarestrup/aare5/aare5317" xml:id="idm139903867210400"/>
+      <pb n="318" facs="adl/aarestrup/aare5/aare5318" xml:id="idm139903867209632"/>
+      <pb n="319" facs="adl/aarestrup/aare5/aare5319" xml:id="idm139903867208864"/>
+      <pb n="320" facs="adl/aarestrup/aare5/aare5320" xml:id="idm139903867208096"/>
+      <pb n="321" facs="adl/aarestrup/aare5/aare5321" xml:id="idm139903867207280"/>
+      <pb n="322" facs="adl/aarestrup/aare5/aare5322" xml:id="idm139903867206512"/>
+      <pb n="323" facs="adl/aarestrup/aare5/aare5323" xml:id="idm139903867205696"/>
+      <pb n="324" facs="adl/aarestrup/aare5/aare5324" xml:id="idm139903867204928"/>
+      <pb n="325" facs="adl/aarestrup/aare5/aare5325" xml:id="idm139903867204112"/>
+      <pb n="326" facs="adl/aarestrup/aare5/aare5326" xml:id="idm139903867203344"/>
+      <pb n="327" facs="adl/aarestrup/aare5/aare5327" xml:id="idm139903867202528"/>
+      <pb n="328" facs="adl/aarestrup/aare5/aare5328" xml:id="idm139903867201760"/>
+      <pb n="329" facs="adl/aarestrup/aare5/aare5329" xml:id="idm139903867200992"/>
+      <pb n="330" facs="adl/aarestrup/aare5/aare5330" xml:id="idm139903867200176"/>
+      <pb n="331" facs="adl/aarestrup/aare5/aare5331" xml:id="idm139903867199360"/>
+      <pb n="332" facs="adl/aarestrup/aare5/aare5332" xml:id="idm139903867198544"/>
+      <pb n="333" facs="adl/aarestrup/aare5/aare5333" xml:id="idm139903867197776"/>
+      <pb n="334" facs="adl/aarestrup/aare5/aare5334" xml:id="idm139903867196960"/>
+      <pb n="335" facs="adl/aarestrup/aare5/aare5335" xml:id="idm139903867196192"/>
+      <pb n="336" facs="adl/aarestrup/aare5/aare5336" xml:id="idm139903867195424"/>
+      <pb n="337" facs="adl/aarestrup/aare5/aare5337" xml:id="idm139903867194656"/>
+      <pb n="338" facs="adl/aarestrup/aare5/aare5338" xml:id="idm139903867193888"/>
+      <pb n="339" facs="adl/aarestrup/aare5/aare5339" xml:id="idm139903867193120"/>
+      <pb n="340" facs="adl/aarestrup/aare5/aare5340" xml:id="idm139903867192304"/>
+      <pb n="341" facs="adl/aarestrup/aare5/aare5341" xml:id="idm139903867191536"/>
+      <pb n="342" facs="adl/aarestrup/aare5/aare5342" xml:id="idm139903867190720"/>
+      <pb n="343" facs="adl/aarestrup/aare5/aare5343" xml:id="idm139903867189904"/>
+      <pb n="344" facs="adl/aarestrup/aare5/aare5344" xml:id="idm139903867189088"/>
+      <pb n="345" facs="adl/aarestrup/aare5/aare5345" xml:id="idm139903867188320"/>
+      <pb n="346" facs="adl/aarestrup/aare5/aare5346" xml:id="idm139903867187504"/>
+      <pb n="347" facs="adl/aarestrup/aare5/aare5347" xml:id="idm139903867186736"/>
+      <pb n="348" facs="adl/aarestrup/aare5/aare5348" xml:id="idm139903867185968"/>
+      <pb n="349" facs="adl/aarestrup/aare5/aare5349" xml:id="idm139903867185152"/>
+      <pb n="350" facs="adl/aarestrup/aare5/aare5350" xml:id="idm139903867184336"/>
+      <pb n="351" facs="adl/aarestrup/aare5/aare5351" xml:id="idm139903867183520"/>
+      <pb n="352" facs="adl/aarestrup/aare5/aare5352" xml:id="idm139903867182704"/>
+      <pb n="353" facs="adl/aarestrup/aare5/aare5353" xml:id="idm139903867181888"/>
+      <pb n="354" facs="adl/aarestrup/aare5/aare5354" xml:id="idm139903867181072"/>
+      <pb n="355" facs="adl/aarestrup/aare5/aare5355" xml:id="idm139903867180256"/>
+      <pb n="356" facs="adl/aarestrup/aare5/aare5356" xml:id="idm139903867179488"/>
+      <pb n="357" facs="adl/aarestrup/aare5/aare5357" xml:id="idm139903867178720"/>
+      <pb n="358" facs="adl/aarestrup/aare5/aare5358" xml:id="idm139903867177952"/>
+      <pb n="359" facs="adl/aarestrup/aare5/aare5359" xml:id="idm139903867177136"/>
+      <pb n="360" facs="adl/aarestrup/aare5/aare5360" xml:id="idm139903867176368"/>
+    </front>
+    <group xml:id="idm139903867175472">
+      <pb n="361" facs="adl/aarestrup/aare5/aare5361" xml:id="idm139903867175216"/>
+      <text xml:id="workid56689" decls="#biblid56689">
+        <body xml:id="idm139903867173504">
+          <pb n="362" facs="adl/aarestrup/aare5/aare5362" xml:id="idm139903867173248"/>
+          <pb n="363" facs="adl/aarestrup/aare5/aare5363" xml:id="idm139903867172480"/>
+          <p xml:id="idm139903867171664"/>
+        </body>
+      </text>
+      <pb n="364" facs="adl/aarestrup/aare5/aare5364" xml:id="idm139903867171152"/>
+      <text xml:id="workid56717" decls="#biblid56717">
+        <body xml:id="idm139903867169440">
+          <p xml:id="idm139903867169184"/>
+        </body>
+      </text>
+      <pb n="365" facs="adl/aarestrup/aare5/aare5365" xml:id="idm139903867168672"/>
+      <text xml:id="workid56732" decls="#biblid56732">
+        <body xml:id="idm139903867167008">
+          <pb n="366" facs="adl/aarestrup/aare5/aare5366" xml:id="idm139903867166752"/>
+          <pb n="367" facs="adl/aarestrup/aare5/aare5367" xml:id="idm139903867165936"/>
+          <pb n="368" facs="adl/aarestrup/aare5/aare5368" xml:id="idm139903867165168"/>
+          <p xml:id="idm139903867164400"/>
+        </body>
+      </text>
+    </group>
+  </text>
+</TEI>

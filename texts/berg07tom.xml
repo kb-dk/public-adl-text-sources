@@ -1,0 +1,803 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--Tom opmærkning blo 28.05.02-->
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="idm140445231631408"><!-- 
+       file     ./marc_dir/002314460.xml
+       field     
+       subfield  
+       prefix   -->
+  <teiHeader xml:id="idm140445231630576">
+    <fileDesc xml:id="idm140445231630320">
+      <titleStmt xml:id="idm140445231630016">
+        <title xml:id="idm140445231604592">Poetiske Skrifter bind VII</title>
+        <author xml:id="idm140445231604208">Vilhelm Bergsøe</author>
+      </titleStmt>
+      <publicationStmt xml:id="idm140445231603696">
+        <publisher xml:id="idm140445231603440">Gyldendalske Boghandel</publisher>
+        <idno xml:id="idm140445231603056" xml:base="texts/berg07tom.xml">002314460:07</idno>
+      </publicationStmt>
+      <notesStmt xml:id="idm140445231602288">
+        <note xml:id="idm140445231602032">
+	  </note>
+      </notesStmt>
+      <sourceDesc xml:id="idm140445231601520"><bibl xml:id="idm140445231601392"><author n="1" xml:id="idm140445231600704"><name xml:id="idm140445231600448"><surname xml:id="idm140445231600320">Bergsøe</surname>, <forename xml:id="idm140445231599888">Vilhelm</forename></name></author><title xml:id="idm140445231599632">Poetiske Skrifter, 1-7 - Bind VII</title><pubPlace xml:id="idm140445231599344">Kbh.</pubPlace>
+<date xml:id="idm140445231598832">1905-</date></bibl><listBibl xml:id="idm140445231598544"><bibl xml:id="biblid54252"><title xml:id="idm140445231585392">Pillone</title></bibl><bibl xml:id="biblid55590"><title xml:id="idm140445231584608">Italienske Noveller</title></bibl><bibl xml:id="biblid55635"><title xml:id="idm140445231583776">En Nat i Flaviernes Amfiteater</title></bibl><bibl xml:id="biblid55841"><title xml:id="idm140445231582976">Mezza notte</title></bibl><bibl xml:id="biblid56264"><title xml:id="idm140445231582144">Kløften med de klirrende Vaaben</title></bibl><bibl xml:id="biblid56652"><title xml:id="idm140445231581264">I Ny og Næ</title></bibl><bibl xml:id="biblid56697"><title xml:id="idm140445231580480">Urformation (1854-62.)</title></bibl><bibl xml:id="biblid56719"><title xml:id="idm140445231579696">Drømme (I-VIII)</title></bibl><bibl xml:id="biblid56785"><title xml:id="idm140445231578896">Stemninger (I-IV)</title></bibl><bibl xml:id="biblid56819"><title xml:id="idm140445231578112">Huldrens Roser</title></bibl><bibl xml:id="biblid56873"><title xml:id="idm140445231577280">Til Storken</title></bibl><bibl xml:id="biblid56899"><title xml:id="idm140445231576448">Helenes Grav</title></bibl><bibl xml:id="biblid56924"><title xml:id="idm140445231575664">Den syge Svale</title></bibl><bibl xml:id="biblid56948"><title xml:id="idm140445231574880">Græshopperne drage forbi</title></bibl><bibl xml:id="biblid57003"><title xml:id="idm140445231574064">Med en Flagermus</title></bibl><bibl xml:id="biblid57030"><title xml:id="idm140445231573232">Stambogsblad [I Skoven ved mit kære Frederiksdal]</title></bibl><bibl xml:id="biblid57045"><title xml:id="idm140445231572320">Til en Ven</title></bibl><bibl xml:id="biblid57071"><title xml:id="idm140445231571536">Fem og tyve Aar [1836]</title></bibl><bibl xml:id="biblid57118"><title xml:id="idm140445231570752">Carl Johannes Nissen</title></bibl><bibl xml:id="biblid57143"><title xml:id="idm140445231569920">Overgangsperiode (Italien 1862-63)</title></bibl><bibl xml:id="biblid57166"><title xml:id="idm140445231569120">Indledning [Som en Ranke]</title></bibl><bibl xml:id="biblid57171"><title xml:id="idm140445231568272">Lykkens Terning</title></bibl><bibl xml:id="biblid57197"><title xml:id="idm140445231567440">Sonetter (I-V)</title></bibl><bibl xml:id="biblid54727"><title xml:id="idm140445231566608">Forskudt</title></bibl><bibl xml:id="biblid54751"><title xml:id="idm140445231565776">Resignation</title></bibl><bibl xml:id="biblid54786"><title xml:id="idm140445231564944">De tvende Kilder</title></bibl><bibl xml:id="biblid54821"><title xml:id="idm140445231564112">Længsel</title></bibl><bibl xml:id="biblid54836"><title xml:id="idm140445231563280">Paa Monte Pincio</title></bibl><bibl xml:id="biblid54852"><title xml:id="idm140445231562448">Nemi</title></bibl><bibl xml:id="biblid54877"><title xml:id="idm140445231561616">Hun sover kun! (6te Mai 1863)</title></bibl><bibl xml:id="biblid54892"><title xml:id="idm140445231560768">Munken</title></bibl><bibl xml:id="biblid57218"><title xml:id="idm140445231559936">Sølyst</title></bibl><bibl xml:id="biblid57243"><title xml:id="idm140445231559040">Til Vennerne I Hjemmet</title></bibl><bibl xml:id="biblid57286"><title xml:id="idm140445231558144">Nyere Dannelser (1863-67.)</title></bibl><bibl xml:id="biblid57306"><title xml:id="idm140445231557232">Colosseum</title></bibl><bibl xml:id="biblid57348"><title xml:id="idm140445231556448">Havkrabberne</title></bibl><bibl xml:id="biblid57390"><title xml:id="idm140445231555616">Ridder Løvfrø</title></bibl><bibl xml:id="biblid57440"><title xml:id="idm140445231554768">Epigrammer</title></bibl><bibl xml:id="biblid57463"><title xml:id="idm140445231553936">Christian Winther [Hvi er hans Rytmers ...]</title></bibl><bibl xml:id="biblid57505"><title xml:id="idm140445231553072">Husker du?</title></bibl><bibl xml:id="biblid57519"><title xml:id="idm140445231552240">Et Par</title></bibl><bibl xml:id="biblid57542"><title xml:id="idm140445231551408">I Skansen</title></bibl><bibl xml:id="biblid57573"><title xml:id="idm140445231550512">Hjemlandet</title></bibl><bibl xml:id="biblid57588"><title xml:id="idm140445231549680">Jentens Sang</title></bibl><bibl xml:id="biblid57594"><title xml:id="idm140445231548784">En Bøn [Jeg beder dig ikke om Rosen paa dit Bryst]</title></bibl><bibl xml:id="biblid57609"><title xml:id="idm140445231547872">Sangsvanen</title></bibl><bibl xml:id="biblid57634"><title xml:id="idm140445231547040">Den norske Maler</title></bibl><bibl xml:id="biblid57870"><title xml:id="idm140445231546144">Blomstervignetter</title></bibl><bibl xml:id="biblid58192"><title xml:id="idm140445231545312">Hjemvé</title></bibl><bibl xml:id="biblid58216"><title xml:id="idm140445231544480">Munkens Historie</title></bibl><bibl xml:id="biblid58218"><title xml:id="idm140445231660896">Paa Forum Romanum</title></bibl><bibl xml:id="biblid58244"><title xml:id="idm140445231660112">To Veninder</title></bibl><bibl xml:id="biblid58298"><title xml:id="idm140445231659264">Afsked</title></bibl><bibl xml:id="biblid58343"><title xml:id="idm140445231658416">I Tvivl</title></bibl><bibl xml:id="biblid58396"><title xml:id="idm140445231657632">Et Træf</title></bibl><bibl xml:id="biblid58452"><title xml:id="idm140445231519056">Alrunen</title></bibl><bibl xml:id="biblid58487"><title xml:id="idm140445231518336">Raadstueballet</title></bibl><bibl xml:id="biblid58522"><title xml:id="idm140445231517552">I Kabinettet</title></bibl><bibl xml:id="biblid58578"><title xml:id="idm140445231516768">I Spillesalen</title></bibl><bibl xml:id="biblid58633"><title xml:id="idm140445231515920">Hjemkomsten</title></bibl><bibl xml:id="biblid58679"><title xml:id="idm140445231511072">Paa Heden</title></bibl><bibl xml:id="biblid58695"><title xml:id="idm140445231510448">Via Crucis</title></bibl><bibl xml:id="biblid58731"><title xml:id="idm140445231509696">Hybenkrandsen</title></bibl><bibl xml:id="biblid58733"><title xml:id="idm140445231509008">I Skoven</title></bibl><bibl xml:id="biblid58789"><title xml:id="idm140445231508256">Hos Baronen</title></bibl><bibl xml:id="biblid58959"><title xml:id="idm140445231507568">Blomsterne</title></bibl><bibl xml:id="biblid58985"><title xml:id="idm140445231506880">Ischia</title></bibl><bibl xml:id="biblid59011"><title xml:id="idm140445231506192">Ved Albanersøen</title></bibl><bibl xml:id="biblid59036"><title xml:id="idm140445231505504">Ude</title></bibl><bibl xml:id="biblid59062"><title xml:id="idm140445231504816">Frederiksdal</title></bibl><bibl xml:id="biblid59088"><title xml:id="idm140445231504128">Ved Sundet</title></bibl><bibl xml:id="biblid59103"><title xml:id="idm140445231503344">I Baaden</title></bibl><bibl xml:id="biblid59119"><title xml:id="idm140445231502560">Skibsdrengen</title></bibl><bibl xml:id="biblid59154"><title xml:id="idm140445231501712">Den forladte</title></bibl><bibl xml:id="biblid59169"><title xml:id="idm140445231500928">Bølgen</title></bibl><bibl xml:id="biblid59185"><title xml:id="idm140445231500144">Den gamle Digter</title></bibl><bibl xml:id="biblid59210"><title xml:id="idm140445231499360">Dødssejleren</title></bibl><bibl xml:id="biblid59255"><title xml:id="idm140445231498608">Et Spørgsmaal</title></bibl><bibl xml:id="biblid59301"><title xml:id="idm140445231497856">Skysamleren</title></bibl><bibl xml:id="biblid59327"><title xml:id="idm140445231497072">Nonnen</title></bibl><bibl xml:id="biblid59342"><title xml:id="idm140445231496224">Sommerfuglen</title></bibl><bibl xml:id="biblid59379"><title xml:id="idm140445231495440">Før og Nu</title></bibl><bibl xml:id="biblid59405"><title xml:id="idm140445231494592">Forspildt</title></bibl><bibl xml:id="biblid59410"><title xml:id="idm140445231493808">Lystigt Liv</title></bibl><bibl xml:id="biblid59425"><title xml:id="idm140445231493024">Forskellig Opfattelse</title></bibl><bibl xml:id="biblid59441"><title xml:id="idm140445231492176">Soldatens Farvel</title></bibl><bibl xml:id="biblid59456"><title xml:id="idm140445231491328">Istedløven</title></bibl><bibl xml:id="biblid59493"><title xml:id="idm140445231490544">Korallerne</title></bibl><bibl xml:id="biblid59509"><title xml:id="idm140445231489760">Aakanderne</title></bibl></listBibl></sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text xml:id="idm140445231489120">
+    <front xml:id="idm140445231488864">
+      <pb n="1" xml:id="n1" facs="adl/bergsoe/bergsoe7/berg7001"/>
+      <pb n="2" xml:id="n2" facs="adl/bergsoe/bergsoe7/berg7002"/>
+      <pb n="3" xml:id="n3" facs="adl/bergsoe/bergsoe7/berg7003"/>
+      <pb n="4" xml:id="n4" facs="adl/bergsoe/bergsoe7/berg7004"/>
+    </front>
+    <group xml:id="idm140445231483936">
+      <pb n="5" xml:id="n5" facs="adl/bergsoe/bergsoe7/berg7005"/>
+      <text xml:id="workid54252" decls="#biblid54252">
+        <body xml:id="idm140445231481680">
+          <pb n="6" xml:id="n6" facs="adl/bergsoe/bergsoe7/berg7006"/>
+          <pb n="7" xml:id="n7" facs="adl/bergsoe/bergsoe7/berg7007"/>
+          <pb n="8" xml:id="n8" facs="adl/bergsoe/bergsoe7/berg7008"/>
+          <pb n="9" xml:id="n9" facs="adl/bergsoe/bergsoe7/berg7009"/>
+          <pb n="10" xml:id="n10" facs="adl/bergsoe/bergsoe7/berg7010"/>
+          <pb n="11" xml:id="n11" facs="adl/bergsoe/bergsoe7/berg7011"/>
+          <pb n="12" xml:id="n12" facs="adl/bergsoe/bergsoe7/berg7012"/>
+          <pb n="13" xml:id="n13" facs="adl/bergsoe/bergsoe7/berg7013"/>
+          <pb n="14" xml:id="n14" facs="adl/bergsoe/bergsoe7/berg7014"/>
+          <pb n="15" xml:id="n15" facs="adl/bergsoe/bergsoe7/berg7015"/>
+          <pb n="16" xml:id="n16" facs="adl/bergsoe/bergsoe7/berg7016"/>
+          <pb n="17" xml:id="n17" facs="adl/bergsoe/bergsoe7/berg7017"/>
+          <pb n="18" xml:id="n18" facs="adl/bergsoe/bergsoe7/berg7018"/>
+          <pb n="19" xml:id="n19" facs="adl/bergsoe/bergsoe7/berg7019"/>
+          <pb n="20" xml:id="n20" facs="adl/bergsoe/bergsoe7/berg7020"/>
+          <pb n="21" xml:id="n21" facs="adl/bergsoe/bergsoe7/berg7021"/>
+          <pb n="22" xml:id="n22" facs="adl/bergsoe/bergsoe7/berg7022"/>
+          <pb n="23" xml:id="n23" facs="adl/bergsoe/bergsoe7/berg7023"/>
+          <pb n="24" xml:id="n24" facs="adl/bergsoe/bergsoe7/berg7024"/>
+          <pb n="25" xml:id="n25" facs="adl/bergsoe/bergsoe7/berg7025"/>
+          <pb n="26" xml:id="n26" facs="adl/bergsoe/bergsoe7/berg7026"/>
+          <pb n="27" xml:id="n27" facs="adl/bergsoe/bergsoe7/berg7027"/>
+          <pb n="28" xml:id="n28" facs="adl/bergsoe/bergsoe7/berg7028"/>
+          <pb n="29" xml:id="n29" facs="adl/bergsoe/bergsoe7/berg7029"/>
+          <pb n="30" xml:id="n30" facs="adl/bergsoe/bergsoe7/berg7030"/>
+          <pb n="31" xml:id="n31" facs="adl/bergsoe/bergsoe7/berg7031"/>
+          <pb n="32" xml:id="n32" facs="adl/bergsoe/bergsoe7/berg7032"/>
+          <pb n="33" xml:id="n33" facs="adl/bergsoe/bergsoe7/berg7033"/>
+          <pb n="34" xml:id="n34" facs="adl/bergsoe/bergsoe7/berg7034"/>
+          <pb n="35" xml:id="n35" facs="adl/bergsoe/bergsoe7/berg7035"/>
+          <pb n="36" xml:id="n36" facs="adl/bergsoe/bergsoe7/berg7036"/>
+          <pb n="37" xml:id="n37" facs="adl/bergsoe/bergsoe7/berg7037"/>
+          <pb n="38" xml:id="n38" facs="adl/bergsoe/bergsoe7/berg7038"/>
+          <pb n="39" xml:id="n39" facs="adl/bergsoe/bergsoe7/berg7039"/>
+          <pb n="40" xml:id="n40" facs="adl/bergsoe/bergsoe7/berg7040"/>
+          <pb n="41" xml:id="n41" facs="adl/bergsoe/bergsoe7/berg7041"/>
+          <pb n="42" xml:id="n42" facs="adl/bergsoe/bergsoe7/berg7042"/>
+          <pb n="43" xml:id="n43" facs="adl/bergsoe/bergsoe7/berg7043"/>
+          <pb n="44" xml:id="n44" facs="adl/bergsoe/bergsoe7/berg7044"/>
+          <pb n="45" xml:id="n45" facs="adl/bergsoe/bergsoe7/berg7045"/>
+          <pb n="46" xml:id="n46" facs="adl/bergsoe/bergsoe7/berg7046"/>
+          <pb n="47" xml:id="n47" facs="adl/bergsoe/bergsoe7/berg7047"/>
+          <pb n="48" xml:id="n48" facs="adl/bergsoe/bergsoe7/berg7048"/>
+          <pb n="49" xml:id="n49" facs="adl/bergsoe/bergsoe7/berg7049"/>
+          <pb n="50" xml:id="n50" facs="adl/bergsoe/bergsoe7/berg7050"/>
+          <pb n="51" xml:id="n51" facs="adl/bergsoe/bergsoe7/berg7051"/>
+          <pb n="52" xml:id="n52" facs="adl/bergsoe/bergsoe7/berg7052"/>
+          <pb n="53" xml:id="n53" facs="adl/bergsoe/bergsoe7/berg7053"/>
+          <pb n="54" xml:id="n54" facs="adl/bergsoe/bergsoe7/berg7054"/>
+          <pb n="55" xml:id="n55" facs="adl/bergsoe/bergsoe7/berg7055"/>
+          <pb n="56" xml:id="n56" facs="adl/bergsoe/bergsoe7/berg7056"/>
+          <pb n="57" xml:id="n57" facs="adl/bergsoe/bergsoe7/berg7057"/>
+          <pb n="58" xml:id="n58" facs="adl/bergsoe/bergsoe7/berg7058"/>
+          <pb n="59" xml:id="n59" facs="adl/bergsoe/bergsoe7/berg7059"/>
+          <pb n="60" xml:id="n60" facs="adl/bergsoe/bergsoe7/berg7060"/>
+          <pb n="61" xml:id="n61" facs="adl/bergsoe/bergsoe7/berg7061"/>
+          <pb n="62" xml:id="n62" facs="adl/bergsoe/bergsoe7/berg7062"/>
+          <pb n="63" xml:id="n63" facs="adl/bergsoe/bergsoe7/berg7063"/>
+          <pb n="64" xml:id="n64" facs="adl/bergsoe/bergsoe7/berg7064"/>
+          <pb n="65" xml:id="n65" facs="adl/bergsoe/bergsoe7/berg7065"/>
+          <pb n="66" xml:id="n66" facs="adl/bergsoe/bergsoe7/berg7066"/>
+          <pb n="67" xml:id="n67" facs="adl/bergsoe/bergsoe7/berg7067"/>
+          <pb n="68" xml:id="n68" facs="adl/bergsoe/bergsoe7/berg7068"/>
+          <pb n="69" xml:id="n69" facs="adl/bergsoe/bergsoe7/berg7069"/>
+          <pb n="70" xml:id="n70" facs="adl/bergsoe/bergsoe7/berg7070"/>
+          <pb n="71" xml:id="n71" facs="adl/bergsoe/bergsoe7/berg7071"/>
+          <pb n="72" xml:id="n72" facs="adl/bergsoe/bergsoe7/berg7072"/>
+          <pb n="73" xml:id="n73" facs="adl/bergsoe/bergsoe7/berg7073"/>
+          <pb n="74" xml:id="n74" facs="adl/bergsoe/bergsoe7/berg7074"/>
+          <pb n="75" xml:id="n75" facs="adl/bergsoe/bergsoe7/berg7075"/>
+          <pb n="76" xml:id="n76" facs="adl/bergsoe/bergsoe7/berg7076"/>
+          <pb n="77" xml:id="n77" facs="adl/bergsoe/bergsoe7/berg7077"/>
+          <pb n="78" xml:id="n78" facs="adl/bergsoe/bergsoe7/berg7078"/>
+          <pb n="79" xml:id="n79" facs="adl/bergsoe/bergsoe7/berg7079"/>
+          <pb n="80" xml:id="n80" facs="adl/bergsoe/bergsoe7/berg7080"/>
+          <pb n="81" xml:id="n81" facs="adl/bergsoe/bergsoe7/berg7081"/>
+          <pb n="82" xml:id="n82" facs="adl/bergsoe/bergsoe7/berg7082"/>
+          <pb n="83" xml:id="n83" facs="adl/bergsoe/bergsoe7/berg7083"/>
+          <pb n="84" xml:id="n84" facs="adl/bergsoe/bergsoe7/berg7084"/>
+          <pb n="85" xml:id="n85" facs="adl/bergsoe/bergsoe7/berg7085"/>
+          <pb n="86" xml:id="n86" facs="adl/bergsoe/bergsoe7/berg7086"/>
+          <pb n="87" xml:id="n87" facs="adl/bergsoe/bergsoe7/berg7087"/>
+          <pb n="88" xml:id="n88" facs="adl/bergsoe/bergsoe7/berg7088"/>
+          <pb n="89" xml:id="n89" facs="adl/bergsoe/bergsoe7/berg7089"/>
+          <pb n="90" xml:id="n90" facs="adl/bergsoe/bergsoe7/berg7090"/>
+          <pb n="91" xml:id="n91" facs="adl/bergsoe/bergsoe7/berg7091"/>
+          <pb n="92" xml:id="n92" facs="adl/bergsoe/bergsoe7/berg7092"/>
+          <pb n="93" xml:id="n93" facs="adl/bergsoe/bergsoe7/berg7093"/>
+          <pb n="94" xml:id="n94" facs="adl/bergsoe/bergsoe7/berg7094"/>
+          <pb n="95" xml:id="n95" facs="adl/bergsoe/bergsoe7/berg7095"/>
+          <pb n="96" xml:id="n96" facs="adl/bergsoe/bergsoe7/berg7096"/>
+          <pb n="97" xml:id="n97" facs="adl/bergsoe/bergsoe7/berg7097"/>
+          <pb n="98" xml:id="n98" facs="adl/bergsoe/bergsoe7/berg7098"/>
+          <pb n="99" xml:id="n99" facs="adl/bergsoe/bergsoe7/berg7099"/>
+          <pb n="100" xml:id="n100" facs="adl/bergsoe/bergsoe7/berg7100"/>
+          <pb n="101" xml:id="n101" facs="adl/bergsoe/bergsoe7/berg7101"/>
+          <pb n="102" xml:id="n102" facs="adl/bergsoe/bergsoe7/berg7102"/>
+          <pb n="103" xml:id="n103" facs="adl/bergsoe/bergsoe7/berg7103"/>
+          <pb n="104" xml:id="n104" facs="adl/bergsoe/bergsoe7/berg7104"/>
+          <pb n="105" xml:id="n105" facs="adl/bergsoe/bergsoe7/berg7105"/>
+          <pb n="106" xml:id="n106" facs="adl/bergsoe/bergsoe7/berg7106"/>
+          <pb n="107" xml:id="n107" facs="adl/bergsoe/bergsoe7/berg7107"/>
+          <pb n="108" xml:id="n108" facs="adl/bergsoe/bergsoe7/berg7108"/>
+          <pb n="109" xml:id="n109" facs="adl/bergsoe/bergsoe7/berg7109"/>
+          <pb n="110" xml:id="n110" facs="adl/bergsoe/bergsoe7/berg7110"/>
+          <pb n="111" xml:id="n111" facs="adl/bergsoe/bergsoe7/berg7111"/>
+          <pb n="112" xml:id="n112" facs="adl/bergsoe/bergsoe7/berg7112"/>
+          <pb n="113" xml:id="n113" facs="adl/bergsoe/bergsoe7/berg7113"/>
+          <pb n="114" xml:id="n114" facs="adl/bergsoe/bergsoe7/berg7114"/>
+          <pb n="115" xml:id="n115" facs="adl/bergsoe/bergsoe7/berg7115"/>
+          <pb n="116" xml:id="n116" facs="adl/bergsoe/bergsoe7/berg7116"/>
+          <pb n="117" xml:id="n117" facs="adl/bergsoe/bergsoe7/berg7117"/>
+          <pb n="118" xml:id="n118" facs="adl/bergsoe/bergsoe7/berg7118"/>
+          <pb n="119" xml:id="n119" facs="adl/bergsoe/bergsoe7/berg7119"/>
+          <pb n="120" xml:id="n120" facs="adl/bergsoe/bergsoe7/berg7120"/>
+          <pb n="121" xml:id="n121" facs="adl/bergsoe/bergsoe7/berg7121"/>
+          <pb n="122" xml:id="n122" facs="adl/bergsoe/bergsoe7/berg7122"/>
+          <p xml:id="idm140445231345056"/>
+        </body>
+      </text>
+      <pb n="123" xml:id="n123" facs="adl/bergsoe/bergsoe7/berg7123"/>
+      <text xml:id="workid55590" decls="#biblid55590">
+        <body xml:id="idm140445231342352">
+          <pb n="124" xml:id="n124" facs="adl/bergsoe/bergsoe7/berg7124"/>
+          <pb n="125" xml:id="n125" facs="adl/bergsoe/bergsoe7/berg7125"/>
+          <pb n="126" xml:id="n126" facs="adl/bergsoe/bergsoe7/berg7126"/>
+          <pb n="127" xml:id="n127" facs="adl/bergsoe/bergsoe7/berg7127"/>
+          <div xml:id="workid55635" decls="#biblid55635">
+            <pb n="128" xml:id="n128" facs="adl/bergsoe/bergsoe7/berg7128"/>
+            <pb n="129" xml:id="n129" facs="adl/bergsoe/bergsoe7/berg7129"/>
+            <pb n="130" xml:id="n130" facs="adl/bergsoe/bergsoe7/berg7130"/>
+            <pb n="131" xml:id="n131" facs="adl/bergsoe/bergsoe7/berg7131"/>
+            <pb n="132" xml:id="n132" facs="adl/bergsoe/bergsoe7/berg7132"/>
+            <pb n="133" xml:id="n133" facs="adl/bergsoe/bergsoe7/berg7133"/>
+            <pb n="134" xml:id="n134" facs="adl/bergsoe/bergsoe7/berg7134"/>
+            <pb n="135" xml:id="n135" facs="adl/bergsoe/bergsoe7/berg7135"/>
+            <pb n="136" xml:id="n136" facs="adl/bergsoe/bergsoe7/berg7136"/>
+            <pb n="137" xml:id="n137" facs="adl/bergsoe/bergsoe7/berg7137"/>
+            <pb n="138" xml:id="n138" facs="adl/bergsoe/bergsoe7/berg7138"/>
+            <pb n="139" xml:id="n139" facs="adl/bergsoe/bergsoe7/berg7139"/>
+            <pb n="140" xml:id="n140" facs="adl/bergsoe/bergsoe7/berg7140"/>
+            <pb n="141" xml:id="n141" facs="adl/bergsoe/bergsoe7/berg7141"/>
+            <pb n="142" xml:id="n142" facs="adl/bergsoe/bergsoe7/berg7142"/>
+            <pb n="143" xml:id="n143" facs="adl/bergsoe/bergsoe7/berg7143"/>
+            <pb n="144" xml:id="n144" facs="adl/bergsoe/bergsoe7/berg7144"/>
+            <pb n="145" xml:id="n145" facs="adl/bergsoe/bergsoe7/berg7145"/>
+            <pb n="146" xml:id="n146" facs="adl/bergsoe/bergsoe7/berg7146"/>
+            <p xml:id="idm140445231312896"/>
+          </div>
+          <pb n="147" xml:id="n147" facs="adl/bergsoe/bergsoe7/berg7147"/>
+          <div xml:id="workid55841" decls="#biblid55841">
+            <pb n="148" xml:id="n148" facs="adl/bergsoe/bergsoe7/berg7148"/>
+            <pb n="149" xml:id="n149" facs="adl/bergsoe/bergsoe7/berg7149"/>
+            <pb n="150" xml:id="n150" facs="adl/bergsoe/bergsoe7/berg7150"/>
+            <pb n="151" xml:id="n151" facs="adl/bergsoe/bergsoe7/berg7151"/>
+            <pb n="152" xml:id="n152" facs="adl/bergsoe/bergsoe7/berg7152"/>
+            <pb n="153" xml:id="n153" facs="adl/bergsoe/bergsoe7/berg7153"/>
+            <pb n="154" xml:id="n154" facs="adl/bergsoe/bergsoe7/berg7154"/>
+            <pb n="155" xml:id="n155" facs="adl/bergsoe/bergsoe7/berg7155"/>
+            <pb n="156" xml:id="n156" facs="adl/bergsoe/bergsoe7/berg7156"/>
+            <pb n="157" xml:id="n157" facs="adl/bergsoe/bergsoe7/berg7157"/>
+            <pb n="158" xml:id="n158" facs="adl/bergsoe/bergsoe7/berg7158"/>
+            <pb n="159" xml:id="n159" facs="adl/bergsoe/bergsoe7/berg7159"/>
+            <pb n="160" xml:id="n160" facs="adl/bergsoe/bergsoe7/berg7160"/>
+            <pb n="161" xml:id="n161" facs="adl/bergsoe/bergsoe7/berg7161"/>
+            <pb n="162" xml:id="n162" facs="adl/bergsoe/bergsoe7/berg7162"/>
+            <pb n="163" xml:id="n163" facs="adl/bergsoe/bergsoe7/berg7163"/>
+            <pb n="164" xml:id="n164" facs="adl/bergsoe/bergsoe7/berg7164"/>
+            <pb n="165" xml:id="n165" facs="adl/bergsoe/bergsoe7/berg7165"/>
+            <pb n="166" xml:id="n166" facs="adl/bergsoe/bergsoe7/berg7166"/>
+            <pb n="167" xml:id="n167" facs="adl/bergsoe/bergsoe7/berg7167"/>
+            <pb n="168" xml:id="n168" facs="adl/bergsoe/bergsoe7/berg7168"/>
+            <pb n="169" xml:id="n169" facs="adl/bergsoe/bergsoe7/berg7169"/>
+            <pb n="170" xml:id="n170" facs="adl/bergsoe/bergsoe7/berg7170"/>
+            <pb n="171" xml:id="n171" facs="adl/bergsoe/bergsoe7/berg7171"/>
+            <pb n="172" xml:id="n172" facs="adl/bergsoe/bergsoe7/berg7172"/>
+            <pb n="173" xml:id="n173" facs="adl/bergsoe/bergsoe7/berg7173"/>
+            <pb n="174" xml:id="n174" facs="adl/bergsoe/bergsoe7/berg7174"/>
+            <pb n="175" xml:id="n175" facs="adl/bergsoe/bergsoe7/berg7175"/>
+            <pb n="176" xml:id="n176" facs="adl/bergsoe/bergsoe7/berg7176"/>
+            <pb n="177" xml:id="n177" facs="adl/bergsoe/bergsoe7/berg7177"/>
+            <pb n="178" xml:id="n178" facs="adl/bergsoe/bergsoe7/berg7178"/>
+            <pb n="179" xml:id="n179" facs="adl/bergsoe/bergsoe7/berg7179"/>
+            <pb n="180" xml:id="n180" facs="adl/bergsoe/bergsoe7/berg7180"/>
+            <pb n="181" xml:id="n181" facs="adl/bergsoe/bergsoe7/berg7181"/>
+            <pb n="182" xml:id="n182" facs="adl/bergsoe/bergsoe7/berg7182"/>
+            <pb n="183" xml:id="n183" facs="adl/bergsoe/bergsoe7/berg7183"/>
+            <pb n="184" xml:id="n184" facs="adl/bergsoe/bergsoe7/berg7184"/>
+            <pb n="185" xml:id="n185" facs="adl/bergsoe/bergsoe7/berg7185"/>
+            <pb n="186" xml:id="n186" facs="adl/bergsoe/bergsoe7/berg7186"/>
+            <pb n="187" xml:id="n187" facs="adl/bergsoe/bergsoe7/berg7187"/>
+            <pb n="188" xml:id="n188" facs="adl/bergsoe/bergsoe7/berg7188"/>
+            <p xml:id="idm140445231260064"/>
+          </div>
+          <pb n="189" xml:id="n189" facs="adl/bergsoe/bergsoe7/berg7189"/>
+          <div xml:id="workid56264" decls="#biblid56264">
+            <pb n="190" xml:id="n190" facs="adl/bergsoe/bergsoe7/berg7190"/>
+            <pb n="191" xml:id="n191" facs="adl/bergsoe/bergsoe7/berg7191"/>
+            <pb n="192" xml:id="n192" facs="adl/bergsoe/bergsoe7/berg7192"/>
+            <pb n="193" xml:id="n193" facs="adl/bergsoe/bergsoe7/berg7193"/>
+            <pb n="194" xml:id="n194" facs="adl/bergsoe/bergsoe7/berg7194"/>
+            <pb n="195" xml:id="n195" facs="adl/bergsoe/bergsoe7/berg7195"/>
+            <pb n="196" xml:id="n196" facs="adl/bergsoe/bergsoe7/berg7196"/>
+            <pb n="197" xml:id="n197" facs="adl/bergsoe/bergsoe7/berg7197"/>
+            <pb n="198" xml:id="n198" facs="adl/bergsoe/bergsoe7/berg7198"/>
+            <pb n="199" xml:id="n199" facs="adl/bergsoe/bergsoe7/berg7199"/>
+            <pb n="200" xml:id="n200" facs="adl/bergsoe/bergsoe7/berg7200"/>
+            <pb n="201" xml:id="n201" facs="adl/bergsoe/bergsoe7/berg7201"/>
+            <pb n="202" xml:id="n202" facs="adl/bergsoe/bergsoe7/berg7202"/>
+            <pb n="203" xml:id="n203" facs="adl/bergsoe/bergsoe7/berg7203"/>
+            <pb n="204" xml:id="n204" facs="adl/bergsoe/bergsoe7/berg7204"/>
+            <pb n="205" xml:id="n205" facs="adl/bergsoe/bergsoe7/berg7205"/>
+            <pb n="206" xml:id="n206" facs="adl/bergsoe/bergsoe7/berg7206"/>
+            <pb n="207" xml:id="n207" facs="adl/bergsoe/bergsoe7/berg7207"/>
+            <pb n="208" xml:id="n208" facs="adl/bergsoe/bergsoe7/berg7208"/>
+            <pb n="209" xml:id="n209" facs="adl/bergsoe/bergsoe7/berg7209"/>
+            <pb n="210" xml:id="n210" facs="adl/bergsoe/bergsoe7/berg7210"/>
+            <pb n="211" xml:id="n211" facs="adl/bergsoe/bergsoe7/berg7211"/>
+            <pb n="212" xml:id="n212" facs="adl/bergsoe/bergsoe7/berg7212"/>
+            <pb n="213" xml:id="n213" facs="adl/bergsoe/bergsoe7/berg7213"/>
+            <pb n="214" xml:id="n214" facs="adl/bergsoe/bergsoe7/berg7214"/>
+            <pb n="215" xml:id="n215" facs="adl/bergsoe/bergsoe7/berg7215"/>
+            <pb n="216" xml:id="n216" facs="adl/bergsoe/bergsoe7/berg7216"/>
+            <pb n="217" xml:id="n217" facs="adl/bergsoe/bergsoe7/berg7217"/>
+            <pb n="218" xml:id="n218" facs="adl/bergsoe/bergsoe7/berg7218"/>
+            <pb n="219" xml:id="n219" facs="adl/bergsoe/bergsoe7/berg7219"/>
+            <pb n="220" xml:id="n220" facs="adl/bergsoe/bergsoe7/berg7220"/>
+            <pb n="221" xml:id="n221" facs="adl/bergsoe/bergsoe7/berg7221"/>
+            <pb n="222" xml:id="n222" facs="adl/bergsoe/bergsoe7/berg7222"/>
+            <pb n="223" xml:id="n223" facs="adl/bergsoe/bergsoe7/berg7223"/>
+            <pb n="224" xml:id="n224" facs="adl/bergsoe/bergsoe7/berg7224"/>
+            <pb n="225" xml:id="n225" facs="adl/bergsoe/bergsoe7/berg7225"/>
+            <pb n="226" xml:id="n226" facs="adl/bergsoe/bergsoe7/berg7226"/>
+            <p xml:id="idm140445231211984"/>
+          </div>
+        </body>
+      </text>
+      <pb n="227" xml:id="n227" facs="adl/bergsoe/bergsoe7/berg7227"/>
+      <text xml:id="workid56652" decls="#biblid56652">
+        <body xml:id="idm140445231209184">
+          <pb n="228" xml:id="n228" facs="adl/bergsoe/bergsoe7/berg7228"/>
+          <pb n="229" xml:id="n229" facs="adl/bergsoe/bergsoe7/berg7229"/>
+          <pb n="230" xml:id="n230" facs="adl/bergsoe/bergsoe7/berg7230"/>
+          <pb n="231" xml:id="n231" facs="adl/bergsoe/bergsoe7/berg7231"/>
+          <div xml:id="workid56697" decls="#biblid56697">
+            <pb n="232" xml:id="n232" facs="adl/bergsoe/bergsoe7/berg7232"/>
+            <pb n="233" xml:id="n233" facs="adl/bergsoe/bergsoe7/berg7233"/>
+            <div xml:id="workid56719" decls="#biblid56719">
+              <pb n="234" xml:id="n234" facs="adl/bergsoe/bergsoe7/berg7234"/>
+              <pb n="235" xml:id="n235" facs="adl/bergsoe/bergsoe7/berg7235"/>
+              <pb n="236" xml:id="n236" facs="adl/bergsoe/bergsoe7/berg7236"/>
+              <pb n="237" xml:id="n237" facs="adl/bergsoe/bergsoe7/berg7237"/>
+              <pb n="238" xml:id="n238" facs="adl/bergsoe/bergsoe7/berg7238"/>
+              <p xml:id="idm140445231193200"/>
+            </div>
+            <pb n="239" xml:id="n239" facs="adl/bergsoe/bergsoe7/berg7239"/>
+            <div xml:id="workid56785" decls="#biblid56785">
+              <pb n="240" xml:id="n240" facs="adl/bergsoe/bergsoe7/berg7240"/>
+              <pb n="241" xml:id="n241" facs="adl/bergsoe/bergsoe7/berg7241"/>
+              <p xml:id="idm140445231188032"/>
+            </div>
+            <pb n="242" xml:id="n242" facs="adl/bergsoe/bergsoe7/berg7242"/>
+            <div xml:id="workid56819" decls="#biblid56819">
+              <pb n="243" xml:id="n243" facs="adl/bergsoe/bergsoe7/berg7243"/>
+              <pb n="244" xml:id="n244" facs="adl/bergsoe/bergsoe7/berg7244"/>
+              <pb n="245" xml:id="n245" facs="adl/bergsoe/bergsoe7/berg7245"/>
+              <pb n="246" xml:id="n246" facs="adl/bergsoe/bergsoe7/berg7246"/>
+              <p xml:id="idm140445231180512"/>
+            </div>
+            <pb n="247" xml:id="n247" facs="adl/bergsoe/bergsoe7/berg7247"/>
+            <div xml:id="workid56873" decls="#biblid56873">
+              <pb n="248" xml:id="n248" facs="adl/bergsoe/bergsoe7/berg7248"/>
+              <p xml:id="idm140445231176736"/>
+            </div>
+            <pb n="249" xml:id="n249" facs="adl/bergsoe/bergsoe7/berg7249"/>
+            <div xml:id="workid56899" decls="#biblid56899">
+              <pb n="250" xml:id="n250" facs="adl/bergsoe/bergsoe7/berg7250"/>
+              <p xml:id="idm140445231172928"/>
+            </div>
+            <pb n="251" xml:id="n251" facs="adl/bergsoe/bergsoe7/berg7251"/>
+            <div xml:id="workid56924" decls="#biblid56924">
+              <pb n="252" xml:id="n252" facs="adl/bergsoe/bergsoe7/berg7252"/>
+              <p xml:id="idm140445231169152"/>
+            </div>
+            <pb n="253" xml:id="n253" facs="adl/bergsoe/bergsoe7/berg7253"/>
+            <div xml:id="workid56948" decls="#biblid56948">
+              <pb n="254" xml:id="n254" facs="adl/bergsoe/bergsoe7/berg7254"/>
+              <pb n="255" xml:id="n255" facs="adl/bergsoe/bergsoe7/berg7255"/>
+              <pb n="256" xml:id="n256" facs="adl/bergsoe/bergsoe7/berg7256"/>
+              <pb n="257" xml:id="n257" facs="adl/bergsoe/bergsoe7/berg7257"/>
+              <p xml:id="idm140445231161552"/>
+            </div>
+            <pb n="258" xml:id="n258" facs="adl/bergsoe/bergsoe7/berg7258"/>
+            <div xml:id="workid57003" decls="#biblid57003">
+              <pb n="259" xml:id="n259" facs="adl/bergsoe/bergsoe7/berg7259"/>
+              <p xml:id="idm140445231157616"/>
+            </div>
+            <pb n="260" xml:id="n260" facs="adl/bergsoe/bergsoe7/berg7260"/>
+            <div xml:id="workid57030" decls="#biblid57030">
+              <p xml:id="idm140445231155072"/>
+            </div>
+            <pb n="261" xml:id="n261" facs="adl/bergsoe/bergsoe7/berg7261"/>
+            <div xml:id="workid57045" decls="#biblid57045">
+              <pb n="262" xml:id="n262" facs="adl/bergsoe/bergsoe7/berg7262"/>
+              <p xml:id="idm140445231151296"/>
+            </div>
+            <pb n="263" xml:id="n263" facs="adl/bergsoe/bergsoe7/berg7263"/>
+            <div xml:id="workid57071" decls="#biblid57071">
+              <pb n="264" xml:id="n264" facs="adl/bergsoe/bergsoe7/berg7264"/>
+              <pb n="265" xml:id="n265" facs="adl/bergsoe/bergsoe7/berg7265"/>
+              <pb n="266" xml:id="n266" facs="adl/bergsoe/bergsoe7/berg7266"/>
+              <p xml:id="idm140445231144960"/>
+            </div>
+            <pb n="267" xml:id="n267" facs="adl/bergsoe/bergsoe7/berg7267"/>
+            <div xml:id="workid57118" decls="#biblid57118">
+              <pb n="268" xml:id="n268" facs="adl/bergsoe/bergsoe7/berg7268"/>
+              <p xml:id="idm140445231141072"/>
+            </div>
+          </div>
+          <pb n="269" xml:id="n269" facs="adl/bergsoe/bergsoe7/berg7269"/>
+          <div xml:id="workid57143" decls="#biblid57143">
+            <pb n="270" xml:id="n270" facs="adl/bergsoe/bergsoe7/berg7270"/>
+            <pb n="271" xml:id="n271" facs="adl/bergsoe/bergsoe7/berg7271"/>
+            <div xml:id="workid57166" decls="#biblid57166">
+              <p xml:id="idm140445231134912"/>
+            </div>
+            <div xml:id="workid57171" decls="#biblid57171">
+              <pb n="272" xml:id="n272" facs="adl/bergsoe/bergsoe7/berg7272"/>
+              <p xml:id="idm140445231132384"/>
+            </div>
+            <pb n="273" xml:id="n273" facs="adl/bergsoe/bergsoe7/berg7273"/>
+            <div xml:id="workid57197" decls="#biblid57197">
+              <pb n="274" xml:id="n274" facs="adl/bergsoe/bergsoe7/berg7274"/>
+              <pb n="275" xml:id="n275" facs="adl/bergsoe/bergsoe7/berg7275"/>
+              <p xml:id="idm140445231127248"/>
+            </div>
+            <pb n="276" xml:id="n276" facs="adl/bergsoe/bergsoe7/berg7276"/>
+            <div xml:id="workid54727" decls="#biblid54727">
+              <pb n="277" xml:id="n277" facs="adl/bergsoe/bergsoe7/berg7277"/>
+              <p xml:id="idm140445231123360"/>
+            </div>
+            <pb n="278" xml:id="n278" facs="adl/bergsoe/bergsoe7/berg7278"/>
+            <div xml:id="workid54751" decls="#biblid54751">
+              <pb n="279" xml:id="n279" facs="adl/bergsoe/bergsoe7/berg7279"/>
+              <pb n="280" xml:id="n280" facs="adl/bergsoe/bergsoe7/berg7280"/>
+              <p xml:id="idm140445231118320"/>
+            </div>
+            <pb n="281" xml:id="n281" facs="adl/bergsoe/bergsoe7/berg7281"/>
+            <div xml:id="workid54786" decls="#biblid54786">
+              <pb n="282" xml:id="n282" facs="adl/bergsoe/bergsoe7/berg7282"/>
+              <pb n="283" xml:id="n283" facs="adl/bergsoe/bergsoe7/berg7283"/>
+              <p xml:id="idm140445231113152"/>
+            </div>
+            <pb n="284" xml:id="n284" facs="adl/bergsoe/bergsoe7/berg7284"/>
+            <div xml:id="workid54821" decls="#biblid54821">
+              <p xml:id="idm140445231110576"/>
+            </div>
+            <pb n="285" xml:id="n285" facs="adl/bergsoe/bergsoe7/berg7285"/>
+            <div xml:id="workid54836" decls="#biblid54836">
+              <p xml:id="idm140445231107984"/>
+            </div>
+            <pb n="286" xml:id="n286" facs="adl/bergsoe/bergsoe7/berg7286"/>
+            <div xml:id="workid54852" decls="#biblid54852">
+              <pb n="287" xml:id="n287" facs="adl/bergsoe/bergsoe7/berg7287"/>
+              <p xml:id="idm140445231104048"/>
+            </div>
+            <pb n="288" xml:id="n288" facs="adl/bergsoe/bergsoe7/berg7288"/>
+            <div xml:id="workid54877" decls="#biblid54877">
+              <p xml:id="idm140445231101408"/>
+            </div>
+            <pb n="289" xml:id="n289" facs="adl/bergsoe/bergsoe7/berg7289"/>
+            <div xml:id="workid54892" decls="#biblid54892">
+              <pb n="290" xml:id="n290" facs="adl/bergsoe/bergsoe7/berg7290"/>
+              <p xml:id="idm140445231097696"/>
+            </div>
+            <pb n="291" xml:id="n291" facs="adl/bergsoe/bergsoe7/berg7291"/>
+            <div xml:id="workid57218" decls="#biblid57218">
+              <pb n="292" xml:id="n292" facs="adl/bergsoe/bergsoe7/berg7292"/>
+              <p xml:id="idm140445231093920"/>
+            </div>
+            <pb n="293" xml:id="n293" facs="adl/bergsoe/bergsoe7/berg7293"/>
+            <div xml:id="workid57243" decls="#biblid57243">
+              <pb n="294" xml:id="n294" facs="adl/bergsoe/bergsoe7/berg7294"/>
+              <pb n="295" xml:id="n295" facs="adl/bergsoe/bergsoe7/berg7295"/>
+              <pb n="296" xml:id="n296" facs="adl/bergsoe/bergsoe7/berg7296"/>
+              <p xml:id="idm140445231087776"/>
+            </div>
+          </div>
+          <pb n="297" xml:id="n297" facs="adl/bergsoe/bergsoe7/berg7297"/>
+          <div xml:id="workid57286" decls="#biblid57286">
+            <pb n="298" xml:id="n298" facs="adl/bergsoe/bergsoe7/berg7298"/>
+            <pb n="299" xml:id="n299" facs="adl/bergsoe/bergsoe7/berg7299"/>
+            <div xml:id="workid57306" decls="#biblid57306">
+              <pb n="300" xml:id="n300" facs="adl/bergsoe/bergsoe7/berg7300"/>
+              <pb n="301" xml:id="n301" facs="adl/bergsoe/bergsoe7/berg7301"/>
+              <pb n="302" xml:id="n302" facs="adl/bergsoe/bergsoe7/berg7302"/>
+              <p xml:id="idm140445231077968"/>
+            </div>
+            <pb n="303" xml:id="n303" facs="adl/bergsoe/bergsoe7/berg7303"/>
+            <div xml:id="workid57348" decls="#biblid57348">
+              <pb n="304" xml:id="n304" facs="adl/bergsoe/bergsoe7/berg7304"/>
+              <pb n="305" xml:id="n305" facs="adl/bergsoe/bergsoe7/berg7305"/>
+              <pb n="306" xml:id="n306" facs="adl/bergsoe/bergsoe7/berg7306"/>
+              <p xml:id="idm140445231071632"/>
+            </div>
+            <pb n="307" xml:id="n307" facs="adl/bergsoe/bergsoe7/berg7307"/>
+            <div xml:id="workid57390" decls="#biblid57390">
+              <pb n="308" xml:id="n308" facs="adl/bergsoe/bergsoe7/berg7308"/>
+              <pb n="309" xml:id="n309" facs="adl/bergsoe/bergsoe7/berg7309"/>
+              <pb n="310" xml:id="n310" facs="adl/bergsoe/bergsoe7/berg7310"/>
+              <pb n="311" xml:id="n311" facs="adl/bergsoe/bergsoe7/berg7311"/>
+              <p xml:id="idm140445231064064"/>
+            </div>
+            <pb n="312" xml:id="n312" facs="adl/bergsoe/bergsoe7/berg7312"/>
+            <div xml:id="workid57440" decls="#biblid57440">
+              <pb n="313" xml:id="n313" facs="adl/bergsoe/bergsoe7/berg7313"/>
+              <p xml:id="idm140445231060336"/>
+            </div>
+            <pb n="314" xml:id="n314" facs="adl/bergsoe/bergsoe7/berg7314"/>
+            <div xml:id="workid57463" decls="#biblid57463">
+              <pb n="315" xml:id="n315" facs="adl/bergsoe/bergsoe7/berg7315"/>
+              <pb n="316" xml:id="n316" facs="adl/bergsoe/bergsoe7/berg7316"/>
+              <pb n="317" xml:id="n317" facs="adl/bergsoe/bergsoe7/berg7317"/>
+              <p xml:id="idm140445231054048"/>
+            </div>
+            <pb n="318" xml:id="n318" facs="adl/bergsoe/bergsoe7/berg7318"/>
+            <div xml:id="workid57505" decls="#biblid57505">
+              <p xml:id="idm140445231051472"/>
+            </div>
+            <pb n="319" xml:id="n319" facs="adl/bergsoe/bergsoe7/berg7319"/>
+            <div xml:id="workid57519" decls="#biblid57519">
+              <pb n="320" xml:id="n320" facs="adl/bergsoe/bergsoe7/berg7320"/>
+              <p xml:id="idm140445231047696"/>
+            </div>
+            <pb n="321" xml:id="n321" facs="adl/bergsoe/bergsoe7/berg7321"/>
+            <div xml:id="workid57542" decls="#biblid57542">
+              <pb n="322" xml:id="n322" facs="adl/bergsoe/bergsoe7/berg7322"/>
+              <pb n="323" xml:id="n323" facs="adl/bergsoe/bergsoe7/berg7323"/>
+              <p xml:id="idm140445231042416"/>
+            </div>
+            <pb n="324" xml:id="n324" facs="adl/bergsoe/bergsoe7/berg7324"/>
+            <div xml:id="workid57573" decls="#biblid57573">
+              <p xml:id="idm140445231039840"/>
+            </div>
+            <pb n="325" xml:id="n325" facs="adl/bergsoe/bergsoe7/berg7325"/>
+            <div xml:id="workid57588" decls="#biblid57588">
+              <p xml:id="idm140445231037200"/>
+            </div>
+            <div xml:id="workid57594" decls="#biblid57594">
+              <p xml:id="idm140445231035872"/>
+            </div>
+            <pb n="326" xml:id="n326" facs="adl/bergsoe/bergsoe7/berg7326"/>
+            <div xml:id="workid57609" decls="#biblid57609">
+              <pb n="327" xml:id="n327" facs="adl/bergsoe/bergsoe7/berg7327"/>
+              <p xml:id="idm140445231032016"/>
+            </div>
+            <pb n="328" xml:id="n328" facs="adl/bergsoe/bergsoe7/berg7328"/>
+            <div xml:id="workid57634" decls="#biblid57634">
+              <pb n="329" xml:id="n329" facs="adl/bergsoe/bergsoe7/berg7329"/>
+              <pb n="330" xml:id="n330" facs="adl/bergsoe/bergsoe7/berg7330"/>
+              <pb n="331" xml:id="n331" facs="adl/bergsoe/bergsoe7/berg7331"/>
+              <pb n="332" xml:id="n332" facs="adl/bergsoe/bergsoe7/berg7332"/>
+              <pb n="333" xml:id="n333" facs="adl/bergsoe/bergsoe7/berg7333"/>
+              <pb n="334" xml:id="n334" facs="adl/bergsoe/bergsoe7/berg7334"/>
+              <pb n="335" xml:id="n335" facs="adl/bergsoe/bergsoe7/berg7335"/>
+              <pb n="336" xml:id="n336" facs="adl/bergsoe/bergsoe7/berg7336"/>
+              <pb n="337" xml:id="n337" facs="adl/bergsoe/bergsoe7/berg7337"/>
+              <pb n="338" xml:id="n338" facs="adl/bergsoe/bergsoe7/berg7338"/>
+              <pb n="339" xml:id="n339" facs="adl/bergsoe/bergsoe7/berg7339"/>
+              <pb n="340" xml:id="n340" facs="adl/bergsoe/bergsoe7/berg7340"/>
+              <pb n="341" xml:id="n341" facs="adl/bergsoe/bergsoe7/berg7341"/>
+              <pb n="342" xml:id="n342" facs="adl/bergsoe/bergsoe7/berg7342"/>
+              <pb n="343" xml:id="n343" facs="adl/bergsoe/bergsoe7/berg7343"/>
+              <pb n="344" xml:id="n344" facs="adl/bergsoe/bergsoe7/berg7344"/>
+              <pb n="345" xml:id="n345" facs="adl/bergsoe/bergsoe7/berg7345"/>
+              <pb n="346" xml:id="n346" facs="adl/bergsoe/bergsoe7/berg7346"/>
+              <pb n="347" xml:id="n347" facs="adl/bergsoe/bergsoe7/berg7347"/>
+              <pb n="348" xml:id="n348" facs="adl/bergsoe/bergsoe7/berg7348"/>
+              <pb n="349" xml:id="n349" facs="adl/bergsoe/bergsoe7/berg7349"/>
+              <pb n="350" xml:id="n350" facs="adl/bergsoe/bergsoe7/berg7350"/>
+              <p xml:id="idm140445231001856"/>
+            </div>
+          </div>
+        </body>
+      </text>
+      <pb n="351" xml:id="n351" facs="adl/bergsoe/bergsoe7/berg7351"/>
+      <text xml:id="workid57870" decls="#biblid57870">
+        <body xml:id="idm140445230998832">
+          <pb n="352" xml:id="n352" facs="adl/bergsoe/bergsoe7/berg7352"/>
+          <pb n="353" xml:id="n353" facs="adl/bergsoe/bergsoe7/berg7353"/>
+          <pb n="354" xml:id="n354" facs="adl/bergsoe/bergsoe7/berg7354"/>
+          <pb n="355" xml:id="n355" facs="adl/bergsoe/bergsoe7/berg7355"/>
+          <pb n="356" xml:id="n356" facs="adl/bergsoe/bergsoe7/berg7356"/>
+          <pb n="357" xml:id="n357" facs="adl/bergsoe/bergsoe7/berg7357"/>
+          <pb n="358" xml:id="n358" facs="adl/bergsoe/bergsoe7/berg7358"/>
+          <pb n="359" xml:id="n359" facs="adl/bergsoe/bergsoe7/berg7359"/>
+          <pb n="360" xml:id="n360" facs="adl/bergsoe/bergsoe7/berg7360"/>
+          <pb n="361" xml:id="n361" facs="adl/bergsoe/bergsoe7/berg7361"/>
+          <pb n="362" xml:id="n362" facs="adl/bergsoe/bergsoe7/berg7362"/>
+          <pb n="363" xml:id="n363" facs="adl/bergsoe/bergsoe7/berg7363"/>
+          <pb n="364" xml:id="n364" facs="adl/bergsoe/bergsoe7/berg7364"/>
+          <pb n="365" xml:id="n365" facs="adl/bergsoe/bergsoe7/berg7365"/>
+          <pb n="366" xml:id="n366" facs="adl/bergsoe/bergsoe7/berg7366"/>
+          <pb n="367" xml:id="n367" facs="adl/bergsoe/bergsoe7/berg7367"/>
+          <pb n="368" xml:id="n368" facs="adl/bergsoe/bergsoe7/berg7368"/>
+          <pb n="369" xml:id="n369" facs="adl/bergsoe/bergsoe7/berg7369"/>
+          <pb n="370" xml:id="n370" facs="adl/bergsoe/bergsoe7/berg7370"/>
+          <pb n="371" xml:id="n371" facs="adl/bergsoe/bergsoe7/berg7371"/>
+          <pb n="372" xml:id="n372" facs="adl/bergsoe/bergsoe7/berg7372"/>
+          <pb n="373" xml:id="n373" facs="adl/bergsoe/bergsoe7/berg7373"/>
+          <pb n="374" xml:id="n374" facs="adl/bergsoe/bergsoe7/berg7374"/>
+          <pb n="375" xml:id="n375" facs="adl/bergsoe/bergsoe7/berg7375"/>
+          <pb n="376" xml:id="n376" facs="adl/bergsoe/bergsoe7/berg7376"/>
+          <pb n="377" xml:id="n377" facs="adl/bergsoe/bergsoe7/berg7377"/>
+          <pb n="378" xml:id="n378" facs="adl/bergsoe/bergsoe7/berg7378"/>
+          <pb n="379" xml:id="n379" facs="adl/bergsoe/bergsoe7/berg7379"/>
+          <pb n="380" xml:id="n380" facs="adl/bergsoe/bergsoe7/berg7380"/>
+          <pb n="381" xml:id="n381" facs="adl/bergsoe/bergsoe7/berg7381"/>
+          <pb n="382" xml:id="n382" facs="adl/bergsoe/bergsoe7/berg7382"/>
+          <p xml:id="idm140445230943760"/>
+        </body>
+      </text>
+      <pb n="383" xml:id="n383" facs="adl/bergsoe/bergsoe7/berg7383"/>
+      <text xml:id="workid58192" decls="#biblid58192">
+        <body xml:id="idm140445230941040">
+          <pb n="384" xml:id="n384" facs="adl/bergsoe/bergsoe7/berg7384"/>
+          <pb n="385" xml:id="n385" facs="adl/bergsoe/bergsoe7/berg7385"/>
+          <div xml:id="workid58216" decls="#biblid58216">
+            <div xml:id="workid58218" decls="#biblid58218">
+              <pb n="386" xml:id="n386" facs="adl/bergsoe/bergsoe7/berg7386"/>
+              <p xml:id="idm140445231539824"/>
+            </div>
+            <pb n="387" xml:id="n387" facs="adl/bergsoe/bergsoe7/berg7387"/>
+            <div xml:id="workid58244" decls="#biblid58244">
+              <pb n="388" xml:id="n388" facs="adl/bergsoe/bergsoe7/berg7388"/>
+              <pb n="389" xml:id="n389" facs="adl/bergsoe/bergsoe7/berg7389"/>
+              <pb n="390" xml:id="n390" facs="adl/bergsoe/bergsoe7/berg7390"/>
+              <pb n="391" xml:id="n391" facs="adl/bergsoe/bergsoe7/berg7391"/>
+              <p xml:id="idm140445231532608"/>
+            </div>
+            <pb n="392" xml:id="n392" facs="adl/bergsoe/bergsoe7/berg7392"/>
+            <div xml:id="workid58298" decls="#biblid58298">
+              <pb n="393" xml:id="n393" facs="adl/bergsoe/bergsoe7/berg7393"/>
+              <pb n="394" xml:id="n394" facs="adl/bergsoe/bergsoe7/berg7394"/>
+              <pb n="395" xml:id="n395" facs="adl/bergsoe/bergsoe7/berg7395"/>
+              <p xml:id="idm140445231526592"/>
+            </div>
+            <pb n="396" xml:id="n396" facs="adl/bergsoe/bergsoe7/berg7396"/>
+            <div xml:id="workid58343" decls="#biblid58343">
+              <pb n="397" xml:id="n397" facs="adl/bergsoe/bergsoe7/berg7397"/>
+              <pb n="398" xml:id="n398" facs="adl/bergsoe/bergsoe7/berg7398"/>
+              <pb n="399" xml:id="n399" facs="adl/bergsoe/bergsoe7/berg7399"/>
+              <pb n="400" xml:id="n400" facs="adl/bergsoe/bergsoe7/berg7400"/>
+              <p xml:id="idm140445231519248"/>
+            </div>
+            <pb n="401" xml:id="n401" facs="adl/bergsoe/bergsoe7/berg7401"/>
+            <div xml:id="workid58396" decls="#biblid58396">
+              <pb n="402" xml:id="n402" facs="adl/bergsoe/bergsoe7/berg7402"/>
+              <pb n="403" xml:id="n403" facs="adl/bergsoe/bergsoe7/berg7403"/>
+              <pb n="404" xml:id="n404" facs="adl/bergsoe/bergsoe7/berg7404"/>
+              <pb n="405" xml:id="n405" facs="adl/bergsoe/bergsoe7/berg7405"/>
+              <p xml:id="idm140445230931984"/>
+            </div>
+            <pb n="406" xml:id="n406" facs="adl/bergsoe/bergsoe7/berg7406"/>
+            <div xml:id="workid58452" decls="#biblid58452">
+              <pb n="407" xml:id="n407" facs="adl/bergsoe/bergsoe7/berg7407"/>
+              <pb n="408" xml:id="n408" facs="adl/bergsoe/bergsoe7/berg7408"/>
+              <p xml:id="idm140445230927040"/>
+            </div>
+            <pb n="409" xml:id="n409" facs="adl/bergsoe/bergsoe7/berg7409"/>
+            <div xml:id="workid58487" decls="#biblid58487">
+              <pb n="410" xml:id="n410" facs="adl/bergsoe/bergsoe7/berg7410"/>
+              <pb n="411" xml:id="n411" facs="adl/bergsoe/bergsoe7/berg7411"/>
+              <p xml:id="idm140445230922096"/>
+            </div>
+            <pb n="412" xml:id="n412" facs="adl/bergsoe/bergsoe7/berg7412"/>
+            <div xml:id="workid58522" decls="#biblid58522">
+              <pb n="413" xml:id="n413" facs="adl/bergsoe/bergsoe7/berg7413"/>
+              <pb n="414" xml:id="n414" facs="adl/bergsoe/bergsoe7/berg7414"/>
+              <pb n="415" xml:id="n415" facs="adl/bergsoe/bergsoe7/berg7415"/>
+              <pb n="416" xml:id="n416" facs="adl/bergsoe/bergsoe7/berg7416"/>
+              <p xml:id="idm140445230914816"/>
+            </div>
+            <pb n="417" xml:id="n417" facs="adl/bergsoe/bergsoe7/berg7417"/>
+            <div xml:id="workid58578" decls="#biblid58578">
+              <pb n="418" xml:id="n418" facs="adl/bergsoe/bergsoe7/berg7418"/>
+              <pb n="419" xml:id="n419" facs="adl/bergsoe/bergsoe7/berg7419"/>
+              <pb n="420" xml:id="n420" facs="adl/bergsoe/bergsoe7/berg7420"/>
+              <pb n="421" xml:id="n421" facs="adl/bergsoe/bergsoe7/berg7421"/>
+              <p xml:id="idm140445230907536"/>
+            </div>
+            <pb n="422" xml:id="n422" facs="adl/bergsoe/bergsoe7/berg7422"/>
+            <div xml:id="workid58633" decls="#biblid58633">
+              <pb n="423" xml:id="n423" facs="adl/bergsoe/bergsoe7/berg7423"/>
+              <pb n="424" xml:id="n424" facs="adl/bergsoe/bergsoe7/berg7424"/>
+              <pb n="425" xml:id="n425" facs="adl/bergsoe/bergsoe7/berg7425"/>
+              <p xml:id="idm140445230901392"/>
+            </div>
+            <pb n="426" xml:id="n426" facs="adl/bergsoe/bergsoe7/berg7426"/>
+            <div xml:id="workid58679" decls="#biblid58679">
+              <p xml:id="idm140445230898912"/>
+            </div>
+            <pb n="427" xml:id="n427" facs="adl/bergsoe/bergsoe7/berg7427"/>
+            <div xml:id="workid58695" decls="#biblid58695">
+              <pb n="428" xml:id="n428" facs="adl/bergsoe/bergsoe7/berg7428"/>
+              <pb n="429" xml:id="n429" facs="adl/bergsoe/bergsoe7/berg7429"/>
+              <p xml:id="idm140445230894032"/>
+            </div>
+          </div>
+          <pb n="430" xml:id="n430" facs="adl/bergsoe/bergsoe7/berg7430"/>
+          <div xml:id="workid58731" decls="#biblid58731">
+            <div xml:id="workid58733" decls="#biblid58733">
+              <pb n="431" xml:id="n431" facs="adl/bergsoe/bergsoe7/berg7431"/>
+              <pb n="432" xml:id="n432" facs="adl/bergsoe/bergsoe7/berg7432"/>
+              <pb n="433" xml:id="n433" facs="adl/bergsoe/bergsoe7/berg7433"/>
+              <pb n="434" xml:id="n434" facs="adl/bergsoe/bergsoe7/berg7434"/>
+              <p xml:id="idm140445230885600"/>
+            </div>
+            <pb n="435" xml:id="n435" facs="adl/bergsoe/bergsoe7/berg7435"/>
+            <div xml:id="workid58789" decls="#biblid58789">
+              <pb n="436" xml:id="n436" facs="adl/bergsoe/bergsoe7/berg7436"/>
+              <pb n="437" xml:id="n437" facs="adl/bergsoe/bergsoe7/berg7437"/>
+              <pb n="438" xml:id="n438" facs="adl/bergsoe/bergsoe7/berg7438"/>
+              <pb n="439" xml:id="n439" facs="adl/bergsoe/bergsoe7/berg7439"/>
+              <pb n="440" xml:id="n440" facs="adl/bergsoe/bergsoe7/berg7440"/>
+              <pb n="441" xml:id="n441" facs="adl/bergsoe/bergsoe7/berg7441"/>
+              <pb n="442" xml:id="n442" facs="adl/bergsoe/bergsoe7/berg7442"/>
+              <pb n="443" xml:id="n443" facs="adl/bergsoe/bergsoe7/berg7443"/>
+              <pb n="444" xml:id="n444" facs="adl/bergsoe/bergsoe7/berg7444"/>
+              <pb n="445" xml:id="n445" facs="adl/bergsoe/bergsoe7/berg7445"/>
+              <pb n="446" xml:id="n446" facs="adl/bergsoe/bergsoe7/berg7446"/>
+              <pb n="447" xml:id="n447" facs="adl/bergsoe/bergsoe7/berg7447"/>
+              <pb n="448" xml:id="n448" facs="adl/bergsoe/bergsoe7/berg7448"/>
+              <pb n="449" xml:id="n449" facs="adl/bergsoe/bergsoe7/berg7449"/>
+              <pb n="450" xml:id="n450" facs="adl/bergsoe/bergsoe7/berg7450"/>
+              <p xml:id="idm140445230866208"/>
+            </div>
+          </div>
+          <pb n="451" xml:id="n451" facs="adl/bergsoe/bergsoe7/berg7451"/>
+          <div xml:id="idm140445230864592">
+            <div xml:id="workid58959" decls="#biblid58959">
+              <pb n="452" xml:id="n452" facs="adl/bergsoe/bergsoe7/berg7452"/>
+              <p xml:id="idm140445230862368"/>
+            </div>
+            <pb n="453" xml:id="n453" facs="adl/bergsoe/bergsoe7/berg7453"/>
+            <div xml:id="workid58985" decls="#biblid58985">
+              <pb n="454" xml:id="n454" facs="adl/bergsoe/bergsoe7/berg7454"/>
+              <p xml:id="idm140445230858912"/>
+            </div>
+            <pb n="455" xml:id="n455" facs="adl/bergsoe/bergsoe7/berg7455"/>
+            <div xml:id="workid59011" decls="#biblid59011">
+              <pb n="456" xml:id="n456" facs="adl/bergsoe/bergsoe7/berg7456"/>
+              <p xml:id="idm140445230855456"/>
+            </div>
+            <pb n="457" xml:id="n457" facs="adl/bergsoe/bergsoe7/berg7457"/>
+            <div xml:id="workid59036" decls="#biblid59036">
+              <pb n="458" xml:id="n458" facs="adl/bergsoe/bergsoe7/berg7458"/>
+              <p xml:id="idm140445230852000"/>
+            </div>
+            <pb n="459" xml:id="n459" facs="adl/bergsoe/bergsoe7/berg7459"/>
+            <div xml:id="workid59062" decls="#biblid59062">
+              <pb n="460" xml:id="n460" facs="adl/bergsoe/bergsoe7/berg7460"/>
+              <p xml:id="idm140445230848608"/>
+            </div>
+            <pb n="461" xml:id="n461" facs="adl/bergsoe/bergsoe7/berg7461"/>
+            <div xml:id="workid59088" decls="#biblid59088">
+              <p xml:id="idm140445230846256"/>
+            </div>
+            <pb n="462" xml:id="n462" facs="adl/bergsoe/bergsoe7/berg7462"/>
+            <div xml:id="workid59103" decls="#biblid59103">
+              <p xml:id="idm140445230843904"/>
+            </div>
+            <pb n="463" xml:id="n463" facs="adl/bergsoe/bergsoe7/berg7463"/>
+            <div xml:id="workid59119" decls="#biblid59119">
+              <pb n="464" xml:id="n464" facs="adl/bergsoe/bergsoe7/berg7464"/>
+              <pb n="465" xml:id="n465" facs="adl/bergsoe/bergsoe7/berg7465"/>
+              <p xml:id="idm140445230839472"/>
+            </div>
+            <pb n="466" xml:id="n466" facs="adl/bergsoe/bergsoe7/berg7466"/>
+            <div xml:id="workid59154" decls="#biblid59154">
+              <p xml:id="idm140445230837120"/>
+            </div>
+            <pb n="467" xml:id="n467" facs="adl/bergsoe/bergsoe7/berg7467"/>
+            <div xml:id="workid59169" decls="#biblid59169">
+              <p xml:id="idm140445230834768"/>
+            </div>
+            <pb n="468" xml:id="n468" facs="adl/bergsoe/bergsoe7/berg7468"/>
+            <div xml:id="workid59185" decls="#biblid59185">
+              <pb n="469" xml:id="n469" facs="adl/bergsoe/bergsoe7/berg7469"/>
+              <p xml:id="idm140445230831312"/>
+            </div>
+            <pb n="470" xml:id="n470" facs="adl/bergsoe/bergsoe7/berg7470"/>
+            <div xml:id="workid59210" decls="#biblid59210">
+              <pb n="471" xml:id="n471" facs="adl/bergsoe/bergsoe7/berg7471"/>
+              <pb n="472" xml:id="n472" facs="adl/bergsoe/bergsoe7/berg7472"/>
+              <pb n="473" xml:id="n473" facs="adl/bergsoe/bergsoe7/berg7473"/>
+              <p xml:id="idm140445230825648"/>
+            </div>
+            <pb n="474" xml:id="n474" facs="adl/bergsoe/bergsoe7/berg7474"/>
+            <div xml:id="workid59255" decls="#biblid59255">
+              <pb n="475" xml:id="n475" facs="adl/bergsoe/bergsoe7/berg7475"/>
+              <pb n="476" xml:id="n476" facs="adl/bergsoe/bergsoe7/berg7476"/>
+              <pb n="477" xml:id="n477" facs="adl/bergsoe/bergsoe7/berg7477"/>
+              <p xml:id="idm140445230819984"/>
+            </div>
+            <pb n="478" xml:id="n478" facs="adl/bergsoe/bergsoe7/berg7478"/>
+            <div xml:id="workid59301" decls="#biblid59301">
+              <pb n="479" xml:id="n479" facs="adl/bergsoe/bergsoe7/berg7479"/>
+              <p xml:id="idm140445230816528"/>
+            </div>
+            <pb n="480" xml:id="n480" facs="adl/bergsoe/bergsoe7/berg7480"/>
+            <div xml:id="workid59327" decls="#biblid59327">
+              <p xml:id="idm140445230814176"/>
+            </div>
+            <pb n="481" xml:id="n481" facs="adl/bergsoe/bergsoe7/berg7481"/>
+            <div xml:id="workid59342" decls="#biblid59342">
+              <pb n="482" xml:id="n482" facs="adl/bergsoe/bergsoe7/berg7482"/>
+              <pb n="483" xml:id="n483" facs="adl/bergsoe/bergsoe7/berg7483"/>
+              <p xml:id="idm140445230809616"/>
+            </div>
+            <pb n="484" xml:id="n484" facs="adl/bergsoe/bergsoe7/berg7484"/>
+            <div xml:id="workid59379" decls="#biblid59379">
+              <pb n="485" xml:id="n485" facs="adl/bergsoe/bergsoe7/berg7485"/>
+              <p xml:id="idm140445230806160"/>
+            </div>
+            <pb n="486" xml:id="n486" facs="adl/bergsoe/bergsoe7/berg7486"/>
+            <div xml:id="workid59405" decls="#biblid59405">
+              <p xml:id="idm140445230803808"/>
+            </div>
+            <div xml:id="workid59410" decls="#biblid59410">
+              <p xml:id="idm140445230802560"/>
+            </div>
+            <pb n="487" xml:id="n487" facs="adl/bergsoe/bergsoe7/berg7487"/>
+            <div xml:id="workid59425" decls="#biblid59425">
+              <p xml:id="idm140445230800208"/>
+            </div>
+            <pb n="488" xml:id="n488" facs="adl/bergsoe/bergsoe7/berg7488"/>
+            <div xml:id="workid59441" decls="#biblid59441">
+              <p xml:id="idm140445230797856"/>
+            </div>
+            <pb n="489" xml:id="n489" facs="adl/bergsoe/bergsoe7/berg7489"/>
+            <div xml:id="workid59456" decls="#biblid59456">
+              <pb n="490" xml:id="n490" facs="adl/bergsoe/bergsoe7/berg7490"/>
+              <pb n="491" xml:id="n491" facs="adl/bergsoe/bergsoe7/berg7491"/>
+              <p xml:id="idm140445230793040"/>
+            </div>
+            <pb n="492" xml:id="n492" facs="adl/bergsoe/bergsoe7/berg7492"/>
+            <div xml:id="workid59493" decls="#biblid59493">
+              <p xml:id="idm140445230790496"/>
+            </div>
+            <pb n="493" xml:id="n493" facs="adl/bergsoe/bergsoe7/berg7493"/>
+            <div xml:id="workid59509" decls="#biblid59509">
+              <pb n="494" xml:id="n494" facs="adl/bergsoe/bergsoe7/berg7494"/>
+              <p xml:id="idm140445230786752"/>
+            </div>
+          </div>
+        </body>
+      </text>
+    </group>
+    <back xml:id="idm140445230785856">
+      <pb n="495" xml:id="n495" facs="adl/bergsoe/bergsoe7/berg7495"/>
+      <pb n="496" xml:id="n496" facs="adl/bergsoe/bergsoe7/berg7496"/>
+      <pb n="497" xml:id="n497" facs="adl/bergsoe/bergsoe7/berg7497"/>
+      <pb n="498" xml:id="n498" facs="adl/bergsoe/bergsoe7/berg7498"/>
+    </back>
+  </text>
+</TEI>

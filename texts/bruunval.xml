@@ -1,0 +1,1752 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- OCR by ATAPY 24.12.02 (Catherine Bychkova); remake 03.02.03 (Catherine Makarenko)-->
+<!-- HHL 04.02.2003: ny version fra ATAPY med forbedret læsning af s og f
+     HHL 04.02.2003: rettet enkelte - meget faa - læsefejl                
+     HHL 04.02.2003: en anden gang skal vi have opmærket ikke-frakturskrift. Der er også fed fraktur, men den er vist umulig at fange
+     Ptj rettet s.16
+ -->
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="idm140245615728720"><!-- 
+       file     ./marc_dir/001938730.xml
+       field     
+       subfield  
+       prefix   -->
+  <teiHeader xml:id="idm140245615729536">
+    <fileDesc xml:id="idm140245615729280">
+      <titleStmt xml:id="idm140245615702960">
+        <title xml:id="idm140245615702704">Aristokraternes Catechismus</title>
+        <respStmt xml:id="idm140245615702320">
+          <resp xml:id="idm140245615702016">K. F. Plesner</resp>
+          <name xml:id="idm140245615701632"/>
+        </respStmt>
+        <author xml:id="idm140245615701248">Malthe Conrad Bruun</author>
+      </titleStmt>
+      <publicationStmt xml:id="idm140245615700688">
+        <publisher xml:id="idm140245615700432">Fagskolen for Boghaandværk København 1945</publisher>
+        <idno xml:id="idm140245615699952" xml:base="texts/bruunval.xml">001938730:00</idno>
+      </publicationStmt>
+      <notesStmt xml:id="idm140245615699136">
+        <note xml:id="idm140245615698832">
+	  </note>
+      </notesStmt>
+      <sourceDesc xml:id="idm140245615698320"><bibl xml:id="idm140245615698192"><author n="1" xml:id="idm140245615697504"><name xml:id="idm140245615697248"><surname xml:id="idm140245615697120">Bruun</surname>, <forename xml:id="idm140245615696656">Malthe Conrad</forename></name></author><title xml:id="idm140245615696368">Aristokraternes Catechismus</title><pubPlace xml:id="idm140245615696064">Kbh</pubPlace>
+<date xml:id="idm140245615695584">1945</date></bibl><listBibl xml:id="idm140245615695296"><bibl xml:id="biblid54665"><title xml:id="idm140245615682144">Aristokraternes Catechismus</title></bibl></listBibl></sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text xml:id="idm140245615681456">
+    <front xml:id="idm140245615681200">
+      <pb n="I" facs="adl/bruun/bruun1fm001" xml:id="idm140245615680896"/>
+      <gap reason="cancelled" xml:id="idm140245615680064"/>
+<!---->
+<!---->
+<!--Aristokraternes Catechismus-->
+      <pb n="II" facs="adl/bruun/bruun1fm002" xml:id="idm140245615678512"/>
+      <pb n="III" facs="adl/bruun/bruun1fm003" xml:id="idm140245615677744"/>
+      <titlePage xml:id="idm140245615676976">
+        <docAuthor xml:id="idm140245615676720">
+          <hi rend="italics" xml:id="idm140245615676416">Malthe Conrad Bruun</hi>
+        </docAuthor>
+        <docTitle xml:id="idm140245615675600">
+          <titlePart type="main" xml:id="idm140245615675248">Aristokraternes<lb xml:id="idm140245615674640"/>Catechismus</titlePart>
+        </docTitle>
+        <docEdition xml:id="idm140245615674096">
+          <bibl xml:id="idm140245615673840">Med en<lb xml:id="idm140245615673552"/>historisk Indledning af<lb xml:id="idm140245615673264"/>
+						<editor role="editor" xml:id="idm140245615672960">K. F. Plesner</editor>
+					</bibl>
+        </docEdition>
+        <titlePart type="main" xml:id="idm140245615672016">
+          <figure xml:id="idm140245615671488"/>
+        </titlePart>
+        <docImprint xml:id="idm140245615671104">
+          <publisher xml:id="idm140245615670848">Fagskolen for Boghaandværk<lb xml:id="idm140245615670528"/>København 1945</publisher>
+        </docImprint>
+      </titlePage>
+      <pb n="IV" facs="adl/bruun/bruun1fm004" xml:id="idm140245615669840"/>
+      <pb n="V" facs="adl/bruun/bruun1fm005" xml:id="idm140245615669024"/>
+      <div xml:id="idm140245615668208">
+        <p xml:id="idm140245615667904">UNDSELIG og spædlemmet, med uskyldsblå øjne i et rødkindet barneansigt omgivet af
+					et langt gult hår, der hang ham ned på skuldrene, men med en fremragende
+					fortand, der kundegive ham et noget bidsk udseende, når han tillod sig at
+					ironisere - således var den endnu ikke femtenårige student, som kammeraterne med
+					spøgefuld varme kaldte "jomfru Bruun". Han var elskværdig
+					og fordringsløs, damerne syntes godt om ham, og han holdt sig gærne til dem.
+					Rahbek, som ganske vist er noget genegen til at tale vel om sine venner - og var
+					hvermands ven - priser ham for "hans personlige elskelighed, hans
+					blidhed, hans varme for alt ædelt og godt, hans ualmindelig rene sæder, ligesom
+					og i ildebrandens dage [1795] hans raskhed, tjenstfærdighed og personlige
+					uforsagthed." Hvem skulde tro, en slig sød og fjalet jydedreng kunde
+					blive en af de hjemlige revolutionsheroer?</p>
+        <pb n="VI" facs="adl/bruun/bruun1fm006" xml:id="idm140245615665648"/>
+        <p xml:id="idm140245615664832">MALTHE CONRAD BRUUN fødtes i Thisted den 14. december 1775. Hans fader, en
+					dattersøn af Anholts lærde ejer Frederik Rostgaard - hvem man vil erindre fra
+					Peder Paarses historie, - var amtsforvalter og ejer af hovedgården
+					Ulstrup i Thy, i hvilken egenskab han i 1790 var medunderskriver af de jyske
+					jorddrotters reaktionære henvendelse til kronprinsen.</p>
+        <p xml:id="idm140245615663792">Efter at være blevet privat dimitteret med udmærkelse til universitetet i maj
+					1790 begyndte den unge bondestudent at dyrke først teologien, siden
+					jurisprudensen; men tiden var fyldt af revolutionsårenes uro, og allerede som
+					ganske ung havde det været den spirende radikalers drøm "engang at
+					komme til at stå ved siden af Heiberg." I skarp tone fik de nye ideer
+					udtryk hos frihedskære skribenter som N. D. Riegels, M. G. Birckner, P. A.
+					Heiberg og adskillige andre. Det var unægtelig mere spændende for et følsomt og
+					let påvirkeligt gemyt som Malthe Bruun at tage aktiv del i striden for frihed
+					end flittigt at læse sig frem til et præstekald, og i august 1794 lagde <pb n="VII" facs="adl/bruun/bruun1fm007" xml:id="idm140245615662064"/> han derfor ud på sit litterære korstog med
+					første nummer af <hi rend="italics" xml:id="idm140245615661088">Vækkeren</hi>. Et Blad for menig Mand, der
+					er blevet betegnet som på en måde vort første arbejderblad. Uheldigvis faldt
+					dets udgivelse sammen med en tømrerstrejke, så bladet efter tre numre blev
+					forbudt, og bogtrykkeren Vinding (Bruun skrev ikke for fordel, men for vinding,
+					sagde man) blev idømt en bøde, der dog dækkedes af en indsamling til
+					forfatteren, som "værdig til et agtelsestegn for fremsatte vigtige og
+					nyttige sandheder". Den unge forfatter havde nu faaet blod på
+					hugtanden og fortsatte efter årsskiftet med et nyt blad <hi rend="italics" xml:id="idm140245615659664">Jerusalems Skomagers Rejse til Maanen</hi>, en satire i Niels Klims maner,
+					der pådrog ham en ny proces, men ingen dom. Også i en teaterpolitisk strid med
+					Heiberg, den såkaldte "Dyveke-fejde", blev han inddraget,
+					men tabte snart interessen for så fredsommelige spørgsmål. Ind imellem skrev han
+					ligeledes lyriske digte, der gør ham til et ikke uvigtigt overgangsled i dansk
+					lyriks historie mellem Ewald og Oehlenschlæger.</p>
+        <pb n="VIII" facs="adl/bruun/bruun1fm008" xml:id="idm140245615658128"/>
+        <p xml:id="idm140245615657328">Men Bruun havde endnu den store trumf i baghånd: Mandag den 11. april 1796 udkom
+					det lille skrift, der især har bevaret hans navn for eftertiden, <hi rend="italics" xml:id="idm140245615656752">Aristokraternes Catechismus</hi>. Det er så sandt ikke nogen
+					genistreg; ideen er lånt fra Heiberg, og forordets baggesenske rytmer er kun
+					habil efterligning; det er angrebets vægt og alvor - for spasen ligger
+					kun i formen - der har givet den ulystelige pamflet en position i den
+					demokratiske frihedskamp herhjemme. Allerede en samtidig hædersmand skal ifølge
+					Rahbek have bemærket, at "Bruuns bog måske kan vidne om, at hans
+					forstand har fejlet, men den kan aldrig vidne mod hans hjærte."</p>
+        <p xml:id="idm140245615655280">Imidlertid havde biskop Balle, der med sin berømte
+					"lærebog" jo selv havde leveret en katekismus af noget
+					anden art, fået fat i det lille værk og angav det efter to dages betænkningstid
+					for kancelliet, ikke fordi det spottede over religionen, "thi den
+					forsvarer sig selv ved sin egen kraft", men for dets politiske
+					tendens. Bruun blev alvorligt forskrækket, og da stævningen den <pb n="IX" facs="adl/bruun/bruun1fm009" xml:id="idm140245615654320"/> 23. afleveredes på hans bopæl i Store Kannikestræde,
+					var fuglen fløjet. Han var flygtet ud til Drewsen på Strandmøllen, hvor han
+					ganske vist ikke kendte ejeren, men var ven med huslæreren, en student H. G.
+					Sveistrup, der for alvor havde haft planer om en mørk nat at rive Ulfeldts
+					skamstøtte på Gråbrødretorv ned. Herfra lykkedes det Bruun nogle dage senere med
+					venners bistand i en robåd at slippe over til Hveen, hvor han blev i halvandet
+					år, opmuntret snart af vennebesøg, snart af udflugter til Sverige eller Danmark,
+					hvor han opsøgte Rahbek på Bakkehuset, eller med ham tog til Hørsholm, hvor
+					Claus Pavels var præst, og hvor de sammen med den landflygtige svenske grev
+					Horn, (der havde deltaget i sammensværgelsen mod Gustav III), højtidelig drak
+					frihedens skål.</p>
+        <p xml:id="idm140245615651696">Medens Bruun således havde absenteret sig, affødte hans piece den første
+					månedstid en hel række efterligninger og modskrifter, som det nu er en sport for
+					bibliofiler at samle: demokraternes, geniernes, royalisternes og de moderates
+						<pb n="X" facs="adl/bruun/bruun1fm010" xml:id="idm140245615650912"/> respektive katekismer. Morsomst er en
+					højtravende anonym <hi rend="italics" xml:id="idm140245615758816">Lovtale</hi> over den for landet og
+					videnskaben tabte, der bl. a. prises for at "vinens kraft og skøgens
+					tillokkelser var lige fremmede for ham."</p>
+        <p xml:id="idm140245615757696">A. P. Bernstorffs død i juni 1797 bevægede imidlertid den landflygtige
+					frihedsmand til en ode, som samtiden fandt gribende; man fik ham til at indsende
+					en ansøgning om at få tiltalen hævet, hvilket bevilgedes ved en kongelig
+					resolution af 5. september 1797 "i anledning af supplikantens ungdom
+					og i forventning om, at han for fremtiden gør bedre brug af sine
+					ævner". Han begyndte også meget lovende med i et patriotisk digt at
+					besynge Steen Billes sejr i <hi rend="italics" xml:id="idm140245615756784">Slaget ved Tripolis</hi>. Men
+					allerede da assessor P. Collet den 30. september blev afsat for nogle udtalelser
+					om folkets ret til at gøre oprør, kunde han ikke dy sig længere. Han skrev to
+					små artikler på kun et par sider hver, som sammen med en tilfældig afhandling af
+					en teologisk kandidat Mønster blev udgivet under titlen <hi rend="italics" xml:id="idm140245615755424">Tria
+						juncta in uno</hi>, der var <pb n="XI" facs="adl/bruun/bruun1fm011" xml:id="idm140245615625328"/> lovlig
+					nærgående mod kronprinsen og hans forvaltning af trykkefrihedsloven. Han blev
+					atter stævnet og sagen mod <hi rend="italics" xml:id="idm140245615624288">Aristokraternes Catechismus</hi>
+					genoptaget. Strax flygtede han endnu engang til Hveen og derfra videre til
+					Sverige. Herfra blev han dog udvist, da det befrygtedes, at han nærede planer om
+					en skandinavisk union, og et forsøg på at ydmyge sig for at blive taget til nåde
+					i Danmark slog også fejl; den 19. december 1800, lige knap et år efter P. A.
+					Heibergs landsforvisning, blev M. C. Bruun for sine formastelige udtryk i de
+					påklagede skrifter forvist kongens riger og lande.</p>
+        <p xml:id="idm140245615622592">Da sad han imidlertid allerede i god behold i Paris, hvor han under navnet
+					Malthe-Brun, den eneste dansker efter hvem en gade i Paris er opkaldt, i årenes
+					løb udfoldede et omfattende og højt anerkendt geografisk forfatterskab. Han
+					indordnede sig, stemningsmenneske som han var, smidigt under de skiftende
+					magthavere og opnåede en betydelig social position. Men aldrig glemte han sit
+					fædreland: han fulgte levende med <pb n="XII" facs="adl/bruun/bruun1fm012" xml:id="idm140245615621424"/> i dets
+					åndsliv og udtrykte sin rystelse over dets ulykker i 1801 og 1807, han var en
+					gæstfri vært for rejsende landsmænd, og nærede intet højere ønske end at få sin
+					landsforvisningsdom ophævet, skønt han med sin franske kone og sine børn
+					naturligvis ikke kunde tænke på at flytte hjem. Den 18. januar 1826 fik han sit
+					ønske opfyldt, men den 14. december samme år døde han uden at have genset sit
+					fædreland, kun 51 år gammel.</p>
+        <p xml:id="idm140245615619888">Som poet hører M. C. Bruun kun til de små, og hans massive satire er blottet for
+					vid. Ikke heller blev han nogen martyr for den sag, der greb ham saa stærkt i
+					hans lysblåøjede ungdom. Kun den historiske situation, den unge
+					revolutionsenthusiast, der falder som en forstokket enevældes offer, har bevaret
+					hans navn for eftertiden.</p>
+        <p xml:id="idm140245615618864">Vi har derfor ment, at hans navnkundigste værk nok kunde fortjene at genoptrykkes
+					som historisk dokument. Foruden originaludgaven fra 1796 findes kun et optryk
+					med indledning og noter af Alfred Ipsen fra 1889, en typografisk <pb n="XIII" facs="adl/bruun/bruun1fm013" xml:id="idm140245615618112"/> rædsel med den slettest tænkelige text. I det
+					følgende har vi så nogenlunde i datidens form, men uden at ville nogen direkte
+					pastiche, gengivet originalens text; noternes indhold er i det væsentlige taget
+					fra Ipsens udgave. I denne skikkelse er det vort håb, at den vil kunne modtages
+					med velvilje såvel af bogens venner som af kendere og elskere af oplysningens og
+					frihedsideernes strålende århundrede.</p>
+      </div>
+      <pb n="XIV" facs="adl/bruun/bruun1fm014" xml:id="idm140245615754464"/>
+    </front>
+    <pb n="1" facs="adl/bruun/bruun1001" xml:id="idm140245615753568"/>
+    <group xml:id="idm140245615752800">
+      <text xml:id="workid54665" decls="#biblid54665">
+        <front xml:id="idm140245615751712">
+          <titlePage xml:id="idm140245615751456">
+            <docTitle xml:id="idm140245615751200">
+              <titlePart type="main" xml:id="idm140245615750944">Aristokraternes<lb xml:id="idm140245615750384"/>
+								<hi rend="bold" xml:id="idm140245615750128">Catechismus</hi>,<lb xml:id="idm140245615749440"/>eller<lb xml:id="idm140245615749152"/>kort og tydelig
+								Anviisning<lb xml:id="idm140245615748896"/>til den<lb xml:id="idm140245615748608"/>aleene saliggjørende politiske
+							Troe.</titlePart>
+            </docTitle>
+            <titlePart type="main" xml:id="idm140245615747984">Med et Anhang<lb xml:id="idm140245615747424"/>af aristokratiske Psalmer.</titlePart>
+            <titlePart type="main" xml:id="idm140245615747040">Til Troens Bestyrkelse hos de Genfoldige<lb xml:id="idm140245615600288"/>og de Vantroendes
+							Omvendelse.</titlePart>
+          </titlePage>
+          <pb n="2" facs="adl/bruun/bruun1002" xml:id="idm140245615599776"/>
+          <pb n="3" facs="adl/bruun/bruun1003" xml:id="idm140245615599040"/>
+          <div xml:id="idm140245615598304">
+            <p xml:id="idm140245615598048">Til Hs. Kejserlige Majestæt<lb xml:id="idm140245615597792"/> Sultan Selim den Tredie.</p>
+          </div>
+          <pb n="4" facs="adl/bruun/bruun1004" xml:id="idm140245615597280"/>
+          <pb n="5" facs="adl/bruun/bruun1005" xml:id="idm140245615596544"/>
+          <div xml:id="idm140245615595808">
+            <lg xml:id="idm140245615595552">
+              <l xml:id="idm140245615595296"><hi rend="bold" xml:id="idm140245615595168">E</hi>j Kaps, Tokajs og Cyprens Viin,</l>
+              <l xml:id="idm140245615594416">Ej svanebarmet Glut med Rosenskind,</l>
+              <l xml:id="idm140245615594032">Ej Sabel fra Damask, besat i alle Kanter</l>
+              <l xml:id="idm140245615593648">Med Dekans og Golkondas Diamanter,</l>
+              <l xml:id="idm140245615593264">Kan jeg til Offer bringe Dig.</l>
+              <l xml:id="idm140245615592880">Dog, underdanigen jeg nærmer mig,</l>
+              <l xml:id="idm140245615592416">I Haab, at ej forstødt fra dine Fødder blive,</l>
+              <l xml:id="idm140245615591920">Og giver hvad jeg kan. Jeg kan kun Bøger give.</l>
+            </lg>
+            <lg xml:id="idm140245615591296">
+              <l xml:id="idm140245615591040">Tillad, at denne Bog Dig dediceres maa,</l>
+              <l xml:id="idm140245615590656">Du Souveraineste blant Souverainer.</l>
+              <l xml:id="idm140245615590224">Dit Navn, Dit store Navn ved alle Hoffer tjener</l>
+              <l xml:id="idm140245615589776">Den som et Creditiv paa ægte Hofmandstroe</l>
+              <l xml:id="idm140245615589296">Den Bog, der har den sjeldne Ære,</l>
+              <l xml:id="idm140245615588832">Et saa udemokratiskt Navn at bære,</l>
+              <l xml:id="idm140245615588368">Tør, uden Frygt for at belees,</l>
+              <l xml:id="idm140245615587904">Sig lade see i kongelige Kabinetter,</l>
+              <l xml:id="idm140245615587472">Paa Assemblee og ved Hofdamers Toiletter</l>
+              <l xml:id="idm140245615587024">Og selv i Kammerjunkers Kreds.</l>
+              <pb n="6" facs="adl/bruun/bruun1006" xml:id="idm140245615586592"/>
+              <l xml:id="idm140245615585856">Den Du, o Sultan, vil beskjerme.</l>
+              <l xml:id="idm140245615585424">Leer kun ad Recensenterkøllens Ram,</l>
+              <l xml:id="idm140245615584944">Og selv fiskalske Tigerdyr til ham</l>
+              <l xml:id="idm140245615584512">Sig ej med udstrakt Kloe tør nærme.</l>
+            </lg>
+            <lg xml:id="idm140245615583904">
+              <l xml:id="idm140245615583648">Tillad, at, hurtig som den Hvirvelvind,</l>
+              <l xml:id="idm140245615583216">Der førte Mahomet i Himlen ind,</l>
+              <l xml:id="idm140245615582752">Min Musa, løstet op paa Phantasiens Vinger,</l>
+              <l xml:id="idm140245615582256">Sig over Land og Hav paa Ørnens Vei fremsvinger,</l>
+              <l xml:id="idm140245615581760">Og daler blant Seraillets Herlighed</l>
+              <l xml:id="idm140245615581328">Paa din elastikbløde Sopha ned! -</l>
+              <l xml:id="idm140245615580864">Der seer hun Mufti henrykt læse</l>
+              <l xml:id="idm140245615580400">For Storviziren og for Dig min Piece,</l>
+              <l xml:id="idm140245615579968">Smukt translateret af en Emigrant.</l>
+              <l xml:id="idm140245615579536">Og see, i det en Glædestaare randt</l>
+              <l xml:id="idm140245615579072">Ned paa hans purpurrøde Næse,</l>
+              <l xml:id="idm140245615578608">Han raaber, vendt mod Nordens Kant:</l>
+              <l xml:id="idm140245615578176">"Held, Held det Monarkie, som slige Bøger ejer,</l>
+              <l xml:id="idm140245615577680">"Hvori til Punkt og Prikke er beviist,</l>
+              <l xml:id="idm140245615577248">"At Fødslens Slumpetræs, en blodig Sejer,</l>
+              <l xml:id="idm140245615576768">»Et Ja, fralokket deels ved Trudsler, deels ved List,</l>
+              <l xml:id="idm140245615576320">"Er meer, langt meer end nok for Ret at have,</l>
+              <l xml:id="idm140245615575872">"Naar man gjør en Nation til Arve-Slave.</l>
+              <l xml:id="idm140245615575392">"Ja, Sultan, denne Catechismus kan</l>
+              <pb n="7" facs="adl/bruun/bruun1007" xml:id="idm140245615574960"/>
+              <l xml:id="idm140245615574192">"Du ved et Ferman strax autorisere,</l>
+              <l xml:id="idm140245615573760">"Til første Læsebog at være</l>
+              <l xml:id="idm140245615573296">"For alle Skoler i vort Land.</l>
+            </lg>
+            <lg xml:id="idm140245615572736">
+              <l xml:id="idm140245615572480">Ak, vilde dog Hr.Mufti ogsaa raade</l>
+              <l xml:id="idm140245615572048">Hans kejserlige Højhed til, at han</l>
+              <l xml:id="idm140245615571584">Gav dens Forfatter en Pensjon i Naade.</l>
+              <l xml:id="idm140245615571152">Thi af den franske Republik</l>
+              <l xml:id="idm140245615570720">Og de americanske Stater,</l>
+              <l xml:id="idm140245615570288">Jeg vistnok ej Belønning fik;</l>
+              <l xml:id="idm140245615569824">De andre christelige Potentater</l>
+              <l xml:id="idm140245615569392">For okkupeerte er i dette Øjeblik</l>
+              <l xml:id="idm140245615568928">Med Cour, Tedeum, Opera,</l>
+              <l xml:id="idm140245615568496">Med Balpare og Ligprocessioner,</l>
+              <l xml:id="idm140245615568064">Og med den Qvæstion for alle Qvæstioner:</l>
+              <l xml:id="idm140245615567584">Hvor faae vi Penge fra?</l>
+              <l xml:id="idm140245615567168">Til at de kunde ned fra Tronens Himmelhøje</l>
+              <l xml:id="idm140245615566688">Et allernaadigst Par af Ører bøje</l>
+              <l xml:id="idm140245615566224">Til nogen prentet Bog,</l>
+              <l xml:id="idm140245615565808">Der ei er Ceremoniale,</l>
+              <l xml:id="idm140245615565392">Og ei Geburtsdags-Tale,</l>
+              <l xml:id="idm140245615564976">Og ei engang Prolog!</l>
+            </lg>
+            <trailer xml:id="idm140245615564432">Allerunderdanigst af<lb xml:id="idm140245615564144"/>
+							<emph xml:id="idm140245615563888">Forfatteren.</emph>
+						</trailer>
+          </div>
+          <pb n="8" facs="adl/bruun/bruun1008" xml:id="idm140245615563216"/>
+          <pb n="9" facs="adl/bruun/bruun1009" xml:id="idm140245615562448"/>
+          <div type="fortale" xml:id="idm140245615561680">
+            <head xml:id="idm140245615561152">
+              <hi rend="bold" xml:id="idm140245615560896">Fortale.</hi>
+            </head>
+            <lg xml:id="idm140245615560080">
+              <l xml:id="idm140245615559824">"Genie var fordum Politiets Plage,</l>
+              <l xml:id="idm140245615559392">"Men Kongen hørte F***s Klage</l>
+              <l xml:id="idm140245615558928">"Slaa Hundene, han bød, og lad Genier gaae</l>
+              <l xml:id="idm140245615558448">"Dem Hofogstads-Rets Dom skal slaae."</l>
+              <l xml:id="idm140245615558016">Saa skrev en Digter, og det veed vor Herre,</l>
+              <l xml:id="idm140245615557568">Og denne Digter selv, saavidt jeg troer,</l>
+              <l xml:id="idm140245615557120">At Hofogstads-Ret har opfyldt hans Ord.</l>
+              <l xml:id="idm140245615556688">Men ak, hvad hielper det? Desværre,</l>
+              <l xml:id="idm140245615556208">Den slemme Skade daglig groer,</l>
+              <l xml:id="idm140245615555776">Hvorfra aleene Folkevennen kunde</l>
+              <l xml:id="idm140245615555344">Kureret Danmark. Ak, men han er død!</l>
+              <l xml:id="idm140245615554864">Giftfulde Bid af jacobinske Hunde,</l>
+              <l xml:id="idm140245615554432">Ham joge ned til Gravens mørke Skjød.</l>
+              <l xml:id="idm140245615553952">Hvo redder Landet nu? Vel Zetliz sønderbrød</l>
+              <l xml:id="idm140245615553456">Paa Folkevennens Grav sin glade kjelne Lyra,</l>
+              <l xml:id="idm140245615553008">Og greb til Straffens Riis? I tordnende Satyra</l>
+              <l xml:id="idm140245615552560">Det smældende om Danskens Ører lød.</l>
+              <l xml:id="idm140245615552080">Men ak, paa haarden Ryg gik det i Stykker,</l>
+              <l xml:id="idm140245615551632">Og skolemesteren</l>
+              <pb n="10" facs="adl/bruun/bruun1010" xml:id="idm140245615551216"/>
+              <l xml:id="idm140245615550448">Tog ydmyg sine Ord i sig igjen,</l>
+              <l xml:id="idm140245615550016">Og Dannemark blev ved de gamle Nykker.</l>
+              <l xml:id="idm140245615549584">Man tog, som før, i Frankrigs Skjæbne Deel,</l>
+              <l xml:id="idm140245615549088">Selv i Kasernerne, ja selv til Hove,</l>
+              <l xml:id="idm140245615548656">Der gaves Folk, der saae i samme Oldtidslove</l>
+              <l xml:id="idm140245615548208">Ej mange Spor til Agt for Folkets Ret og Vel.</l>
+              <l xml:id="idm140245615547760">Man blev som hidtil ved at slikke</l>
+              <l xml:id="idm140245615547328">Paa Paines Skoe.</l>
+              <l xml:id="idm140245615546912">Ja, det som værre er, man lader ikke</l>
+              <l xml:id="idm140245615546432">De fromme Kirkens Faar i Roe</l>
+              <l xml:id="idm140245615546000">Paa Troens Mark det sande Sjelefoder spise,</l>
+              <l xml:id="idm140245615545552">Men dette Kjætterpak vil dem nu vise,</l>
+              <l xml:id="idm140245615545072">Hvor giftig Urt, hvor sunde Planter groe.</l>
+              <l xml:id="idm140245615544624">Og det er dog en aabenbare Sandhed,</l>
+              <l xml:id="idm140245615544192">At naar man vover først at røre ved</l>
+              <l xml:id="idm140245615543712">Den hellige Treenighed,</l>
+              <l xml:id="idm140245615543296">Undfangelsen foruden Mandhed,</l>
+              <l xml:id="idm140245615542864">Cum ceteris</l>
+              <l xml:id="idm140245615542448">Ecclesiæ mysteriis,</l>
+              <l xml:id="idm140245615542000">Saa falder baade Religionen</l>
+              <l xml:id="idm140245615541568">Og Tronen! -</l>
+            </lg>
+            <lg xml:id="idm140245615541024">
+              <l xml:id="idm140245615540768">O, men et Haab tilbage er! -</l>
+              <l xml:id="idm140245615540336">En Talisman, som kan betvinge</l>
+              <pb n="11" facs="adl/bruun/bruun1011" xml:id="idm140245615539904"/>
+              <l xml:id="idm140245615539136">De Djævelens Indskydelser,</l>
+              <l xml:id="idm140245615538688">Der sikkert al den hele Støj frembringe;</l>
+              <l xml:id="idm140245615538208">Et Lyn, hvis pludselige Stop!</l>
+              <l xml:id="idm140245615537776">Skal saae hver Demokrat til at besvime</l>
+              <l xml:id="idm140245615537344">Og standse, i en høj, en hellig Time,</l>
+              <l xml:id="idm140245615536864">Oplysningens vanhellige Galop! -</l>
+              <l xml:id="idm140245615536432">Kort sagt, til Hjelp for Augsburgskonfessionen,</l>
+              <l xml:id="idm140245615535984">Til Hjelp for Constitutionen</l>
+              <l xml:id="idm140245615535552">Af sextenhundrede og treds,</l>
+              <l xml:id="idm140245615535120">Fremtræder her, i bistre Fjenders Kreds -</l>
+              <l xml:id="idm140245615534640">Min Catechismus!</l>
+              <l xml:id="idm140245615534224">Den skal med Sandheds skarpe Sværd,</l>
+              <l xml:id="idm140245615533744">Hin onde Aand, Demokratismus,</l>
+              <l xml:id="idm140245615533312">Og dennes hele Helvedhær,</l>
+              <l xml:id="idm140245615532864">Voltaire, Friderik, Rousseau og Paine,</l>
+              <l xml:id="idm140245615532432">De to fordømte Folk ved Shulkill og ved Seine,</l>
+              <l xml:id="idm140245615531936">Som først paa Knæe for Friheds Dæmon laae,</l>
+              <l xml:id="idm140245615531440">Ja alskens Philosopher, Demokrater,</l>
+              <l xml:id="idm140245615531008">Tvetunger selv, og Moderater,</l>
+              <l xml:id="idm140245615530576">Paa Flugten slaae.</l>
+              <l xml:id="idm140245615530160">Opmuntrede ved dens Exempel,</l>
+              <l xml:id="idm140245615529728">O sande Politik, trindt om dit Tempel</l>
+              <l xml:id="idm140245615529296">En Hær af djærve Kjæmper skal fremstaae,</l>
+              <l xml:id="idm140245615528816">Utallige, som Frø'r i vaade Enge,</l>
+              <pb n="12" facs="adl/bruun/bruun1012" xml:id="idm140245615528352"/>
+              <l xml:id="idm140245615527584">Som Tøsene, der sig til Bibellæsning trænge,</l>
+              <l xml:id="idm140245615527088">Som flaue Vers mod Nytaarstid,</l>
+              <l xml:id="idm140245615526656">Som tomme Sæder i Hr. Sniksnaks Kirke. -</l>
+              <l xml:id="idm140245615526176">Ja, dersom Sandheds Kraft mod Daarers Vid</l>
+              <l xml:id="idm140245615525728">Formaaer et Gran, saa skal, trods alskens Bjef og Bid,</l>
+              <l xml:id="idm140245615525280">Min Pjece Verdens Redning virke.</l>
+            </lg>
+            <lg xml:id="idm140245615524720">
+              <l xml:id="idm140245615524464">O Rojalisme, dig paakalder jeg,</l>
+              <l xml:id="idm140245615524032">O du Fiskalers Gud, som lønner sødt din Dyrker</l>
+              <l xml:id="idm140245615523536">Med Guld og Smiil, med Nøgler og med Steeg,</l>
+              <l xml:id="idm140245615523040">Du, som opliver end og styrker</l>
+              <l xml:id="idm140245615522608">En Schiraks Mod, naar hver hans Prophetie</l>
+              <l xml:id="idm140245615522160">Ubønhørt Skjebnens Øre gik forbi, -</l>
+              <l xml:id="idm140245615521680">Bestraal mig med dit klare Naades Øje!</l>
+              <l xml:id="idm140245615521200">Opflam mit Mod i Kampens djerve Møje!</l>
+              <l xml:id="idm140245615520720">At alle dine Fjender falde maae,</l>
+              <l xml:id="idm140245615520288">Dit Navn lovsynges højt af Jordens Millioner,</l>
+              <l xml:id="idm140245615519792">Og evigtryg, blant Garder og Kanoner,</l>
+              <l xml:id="idm140245615519360">Paa Friheds Gruus din Marmorthrone staae!</l>
+            </lg>
+            <trailer xml:id="idm140245615518784">M.C.Bruun.</trailer>
+          </div>
+          <pb n="13" facs="adl/bruun/bruun1013" xml:id="idm140245615518240"/>
+          <div type="indledning" xml:id="idm140245615517424">
+            <head xml:id="idm140245615516896">
+              <hi rend="bold" xml:id="idm140245615516640">Indledning.</hi>
+            </head>
+            <p xml:id="idm140245615515824">1. <hi rend="bold" xml:id="idm140245615515568">Min lille Junker, kan De finde Dem i Middelstanden og
+								borgerlige Kaar?</hi>
+						</p>
+            <p xml:id="idm140245615514688">Nei, jeg afskyer den gemeene Middelmaadighed og vil ikke fornedre mig til
+							noget, der er lavere end i det højeste Lieutenanten og Hofjunkeren.</p>
+            <p xml:id="idm140245615513984">2. <hi rend="bold" xml:id="idm140245615513728">Du vil altsaa gjerne være stor til Hove og højt i
+								Rangforordningen?</hi>
+						</p>
+            <p xml:id="idm140245615512768">Ja, kunde jeg kun blive det.</p>
+            <p xml:id="idm140245615512336">3. <hi rend="bold" xml:id="idm140245615512080">Hvorledes tænker du, man bliver det?</hi>
+						</p>
+            <p xml:id="idm140245615511200">Jeg haver af mangfoldige store og fornemme Folks Mund fornummet, at man
+							bliver det ved at antage den aleene saliggjørende politiske Troe.</p>
+            <p xml:id="idm140245615510512">4. <hi rend="bold" xml:id="idm140245615510256">Hvor læres denne politiske Troe?</hi>
+						</p>
+            <p xml:id="idm140245615509392">I adskillige fortreffelige og grundige Skrivter, saasom Hr. Etatsraad
+							Schiraks Politisches Journal, i Folkevennen, i Burkes og Hr. Kammerherre
+								<pb n="14" facs="adl/bruun/bruun1014" xml:id="idm140245615508960"/> Morgenstjernes Skrivt imod Paine, i
+							Girtanners Annaler og Revolutionsalmanakken, i det - Fyens
+							Adel være lovet! - ogsaa paa Dansk udkomne Wiener Zeitschrift,
+							samt endeligen og især i Generalfiskal Skibsteds Procedurer.</p>
+            <p xml:id="idm140245615507568">5. <hi rend="bold" xml:id="idm140245615507312">Men hvorledes kan du vide, at disse Skrivter indeholde
+								den sande politiske Troe, som kan gjøre dig stor til Hove?</hi>
+						</p>
+            <p xml:id="idm140245615506272">Fordi Hofferne have indblæst dem baade hvad og hvorledes de skulle
+							skrive. Denne Inspiration tilstaae disse Skribenter selv, især Schirak
+							og Burke.</p>
+            <p xml:id="idm140245615505552">6. <hi rend="bold" xml:id="idm140245615505296">Men hvorledes vil du i Korthed lære alt det meget, der
+								indeholdes i disse mange Skrivter?</hi>
+						</p>
+            <p xml:id="idm140245615504304">I den nylig udkomne aristokratiske Katekismus, som er udgivet til Troens
+							Bestyrkelse hos de Genfoldige og til de Vantroendes, det er,
+							Philosophers, Republikaners og Demokraters Omvendelse.</p>
+          </div>
+        </front>
+        <body xml:id="idm140245615503440">
+          <pb n="15" facs="adl/bruun/bruun1015" xml:id="idm140245615503184"/>
+          <div xml:id="idm140245615502416">
+            <head xml:id="idm140245615502160">
+              <hi rend="bold" xml:id="idm140245615501904">Aristokratisk Catechismus.</hi>
+            </head>
+            <div xml:id="idm140245615501072">
+              <head xml:id="idm140245615500816"><hi rend="bold" xml:id="idm140245615500688">Første Part.</hi><lb xml:id="idm140245615500112"/> De syv store Bud.</head>
+              <p xml:id="idm140245615499696">1. <hi rend="bold" xml:id="idm140245615499440">Du skal frygte, elske og adlyde din regjerende
+									Herre og hans Familie over alle Ting.</hi>
+							</p>
+              <p xml:id="idm140245615498544">Det er: Naar din Arveherre og Konge, eller hans Familie befaler dig
+								at dræbe din Ven eller dine Forældre,naar han byder dig at bekjende
+								en Lærdom, hvilken du afskyer, naar han fordrer en Meeneed eller et
+								Forræderie af dig, naar han forbyder dig at udøve en hellig Pligt,
+								saa skal du med Ærbødighed anhøre, med Fornøjelse modtage, og med
+								Nøjagtighed udføre slig allernaadigst Befaling, ja du maa siden
+								efter ikke engang føle Samvittigheds-Nag derover.</p>
+              <p xml:id="idm140245615497376">2. <hi rend="bold" xml:id="idm140245615497120">Du skal give din Herre Skat og Laan og alt hvad
+									han ønsker og befaler.</hi>
+							</p>
+              <p xml:id="idm140245615496160">Det er: du har ingen Ejendom, som jo din Herre kan tage fra dig,deels
+								paa eengang, om han saa <pb n="16" facs="adl/bruun/bruun1016" xml:id="idm140245615495792"/> maatte
+								behage, deels lidt efter lidt ved Paalæg, som han ikke behøver at
+								gjøre dig eller nogen anden, end Gud og sin Samvittighed Regnskab
+								for: altsammen efter det smukke Sprog: Lyster Kongen dit Gods at
+								tage, hvad heller Kys af din Ægtemage, kun buk, hold Munden, buk
+								atter og tie.</p>
+              <p xml:id="idm140245615494224">3. <hi rend="bold" xml:id="idm140245615493968">Du skal ikke tage din Herres Navn forfængeligen.</hi>
+							</p>
+              <p xml:id="idm140245615493072">Det er: Du skal ikke nævne din Herre uden med den dybeste Ærefrygt,
+								som maa vise sig baade i Ord, Gebærder og Stilling. I Henseende til
+								Ordene, da bør det sig aldrig at sige blot f. E.Kongen, men i det
+								ringeste enten Hs. Majestet ell. Vor Allernaadigste Konge, dog helst
+								begge Dele paa eengang. Til Gebærderne henhøre dybe Buk, Hattens
+								Aftagelse i hundrede Skridts Frastand o.s.v. Stillingen maa væredet
+								fuldkomneste Udtryk af tilbedende Ærefrygt, og derfor maa en sand
+								aristokratisk Troende studere dette i Engels Mimik.</p>
+              <p xml:id="idm140245615492032">4. <hi rend="bold" xml:id="idm140245615491776">Kom ihu, at deeltage i alle din Herres Glæder og
+									Sorger.</hi>
+							</p>
+              <p xml:id="idm140245615490848">Det er: Du skal helligholde hans og hans Families Fødselsdage ved
+								Baller, Illuminationer, <pb n="17" facs="adl/bruun/bruun1017" xml:id="idm140245615490384"/>
+								Gjæstebudde, Cantater o.s.v. item altid besørge det trykt i
+								Aviserne, andre til et godt Exempel. - Ligeledes maa du
+								altid passe nøje paa Hofsorgen, og for alting maa du ingensteds
+								glemme at spørge efter de dyrebare Herskabers Velbefindende. Naar
+								der er skeet noget ubehageligt for Hoffet, saa maa du vel tage i
+								Agt, at du seer bedrøvet ud.</p>
+              <p xml:id="idm140245615488848">5. <hi rend="bold" xml:id="idm140245615488592">Du skal ikke bære Medynk med nogen Demokrat.</hi>
+							</p>
+              <p xml:id="idm140245615487696">Det er: du skal billige alt, hvad din naadige Herre finder for godt
+								at gjøre imod hans Magtes og Æres Fjender. Jager han en talentrig og
+								ærlig Mand i Landflygtighed, fordi han f. E. havde roest Pethion,
+								saa siig: Det var retfærdigt! og skriv, hvis du kan, en Lovtale over
+								Regjeringens Kjerlighed for Sandhed, eller en Ode over den
+								allernaadigst forundte Tænkefrihed. Forfølger man med offentlige og
+								hemmelige Trudsler en for Døden liggende Mand, saa priis den
+								kongelige Ædelmodighed. Foragtes og tilsidesættes de retfærdigste,
+								de mest beviiste Klager over en Befalingsmands, en Magistrats
+								Plyndresyge og Selvraadighed, saa smiil og tal om kjedsommeligt
+								Overhæng, om skyldig Ærbødighed for de constituerte Øvrigheder o. s.
+								v.</p>
+              <pb n="18" facs="adl/bruun/bruun1018" xml:id="idm140245615485472"/>
+              <p xml:id="idm140245615484704">6. <hi rend="bold" xml:id="idm140245615484448">Du skal ikke aflægge noget formasteligt Vidnesbyrd
+									om nogen bedre Regjeringsform, end den existerende.</hi>
+							</p>
+              <p xml:id="idm140245615483424">Det er: Om dit Land ingen anden Constitution har, end den Regjerendes
+								Indfald og Villie; og ingen Pligt eller intet tilstrækkeligt Ansvar
+								for Pligter er paalagt ham; om ingen Rettighed er betrygget for
+								Undersaatterne; om denne hele statsforfatning, fremtvunget ved List
+								omgjerdet af Vold, trykker haardeligen dit Fædreneland ned, og føder
+								Misbrug og Slave-Taalmod, Udsuelser og Undertrykkelser af sig, kort,
+								om alting galt og forstyrret er, hvad bryder du dig om Riger, drik
+								Punsch, vær doven og fjas med Piger, tael for Guds Skyld ikke et Ord
+								- - end sige skriv en Tøddel - om at
+								der gives andre Regjeringsformer, men udryd hellere om muligt al
+								Kundskab derom baade hos dig selv og andre. Saadan en Forfatning er
+								just til din Fordeel. Søg du at fiske i rørte Vande, og lad Statens
+								Skib sejle sin Kaas, om det sejlede lige ind paa en Klippe. Strander
+								det, bliver der altid noget for dig at sanke op.</p>
+              <pb n="19" facs="adl/bruun/bruun1019" xml:id="idm140245615480736"/>
+              <p xml:id="idm140245615479968">7. <hi rend="bold" xml:id="idm140245615479712">Du skal end ikke begjære Friheden.</hi>
+							</p>
+              <p xml:id="idm140245615478848">Det er: Du skal udrydde enhver Tvivl, som kunde opstaae hos dig, om
+								hine foregaaende Buds Hellighed og Gyldighed; du skal bortkaste alle
+								Tanker om andre Rettigheder og Pligter, end dem, der følge deraf; du
+								skal udrense fra dit Bryst al saadan menneskelig Skrøbelighed, paa
+								det at du med en stærk og varm og uryggelig Troe antager alle disse
+								Bud og af dit hele Hjerte og Sind, uden noget Ønske om en anden
+								Tilstand, føler dig lyksalig ved at adlyde dem.</p>
+            </div>
+            <pb n="20" facs="adl/bruun/bruun1020" xml:id="idm140245615477312"/>
+            <div xml:id="idm140245615476544">
+              <head xml:id="idm140245615476288"><hi rend="bold" xml:id="idm140245615476160">Anden Part.</hi><lb xml:id="idm140245615475600"/> De tre gang tre Troesartikler.</head>
+              <div xml:id="idm140245615475168">
+                <head xml:id="idm140245615474912">1.<lb xml:id="idm140245615474560"/>
+									<hi rend="bold" xml:id="idm140245615474304">Det europæiske eller Menneskenes</hi>
+									<lb xml:id="idm140245615473568"/>
+									<hi rend="bold" xml:id="idm140245615473312">Symbolum.</hi>
+								</head>
+                <p xml:id="idm140245615472496"><hi rend="bold" xml:id="idm140245615472368">J</hi>eg troer paa eet Menneskes Ufeilbarhed,
+									uendelige Viisdom og Godhed, Allestedsnærværelse og Almagt.</p>
+                <p xml:id="idm140245615471296">Jeg troer paa Forsynets Naade, at det alletider vil i en arvelig
+									Række skjænke os ligesaa ufejlbare, alviise, allestedsnærværende
+									og almægtige Mennesker.</p>
+                <p xml:id="idm140245615470544">Jeg troer en blind Hengivenhed under den Eenes Villie, uden
+									Fordring paa Ansvar eller Regnskab, at være alle Undersaatters
+									Pligt indtil deres Død.</p>
+              </div>
+              <div xml:id="idm140245615469680">
+                <head xml:id="idm140245615469424">2.<lb xml:id="idm140245615469168"/>
+									<hi rend="bold" xml:id="idm140245615468912">Det afrikanske eller Dyrenes</hi>
+									<lb xml:id="idm140245615468208"/>
+									<hi rend="bold" xml:id="idm140245615467952">Symbolum.</hi>
+								</head>
+                <p xml:id="idm140245615467136">Jeg troer paa Løvens Kløer, d. e. at de ere de stærkeste blant
+									alle Dyrekløer og derfor fuldkommen berettigede til at beherske
+									alle Dyr, (NB. følgende Ord hvisker man) som ikke ere stærke nok
+									til at modsætte sig.</p>
+                <pb n="21" facs="adl/bruun/bruun1021" xml:id="idm140245615466240"/>
+                <p xml:id="idm140245615465472">Jeg troer paa Løvens Tænder, d. e. at Gud Skaberen har i disse
+									Tænder givet Løven et Patent paa at maatte spise alle de andre
+									Dyrs Føde og dem selv med.</p>
+                <p xml:id="idm140245615464720">Jeg troer paa Løvens Manke, d. e. at alt det Utøj, som kryber i
+									denne, er ædlere og bedre, ikke blot end alt andet Utøj paa
+									Jorden, men selv end de ædleste og forstandigste Dyr.</p>
+              </div>
+              <div xml:id="idm140245615463792">
+                <head xml:id="idm140245615463536">3.<lb xml:id="idm140245615463280"/>
+									<hi rend="bold" xml:id="idm140245615463024">Det schirakiske eller Emigranternes</hi>
+									<lb xml:id="idm140245615462320"/>
+									<hi rend="bold" xml:id="idm140245615462064">Symbolum.</hi>
+								</head>
+                <p xml:id="idm140245615461248">Jeg troer paa Monarkiet, den eeneste retmæssige og tilladelige
+									Regjeringsform, som haver frembragt Assembleer, Opera,
+									Kammerjunkere, Marskalstave, Stjerner, Slotte, staaende Armeer
+									og alt hvad andet stort, siint og fornemt der er i Himmelen og
+									paa Jorden.</p>
+                <p xml:id="idm140245615460256">Jeg troer paa Adelen, Monarkiets eenbaarne Søn, som først blev
+									undfanget af Hovmod og Egennytte, siden piint og forfulgt as den
+									ugudelige Philosophie, omsider i Frankerige af Frihed og Liighed
+									korsfæstet og ihjelslaaet, henfoer derfra til Tydskland og
+									prædikede der for Kongen af Preussens Aander, <pb n="22" facs="adl/bruun/bruun1022" xml:id="idm140245615459312"/> men, da den ikke kunde omvende dem,
+									opfoer til Engelland og satte sig der ved Hr. William Pitts
+									Fødder, hvorfra den snart skal komme paa den brittiske Flode,
+									udrustet med Guineer, Kanoner samt Manifester i alle Formater,
+									for at holde Dom over Levende og Døde i Paris.</p>
+                <p xml:id="idm140245615457792">Jeg troer paa den sønlige Underdanigheds-Aand, som udgaaer fra
+									Monarkiet og Adelen, som udbreder Ydmyghed og Taalmod i
+									Borgernes Hjerter, som tager den forfængelige Fornuft fangen i
+									den blinde Troes Snarer. Jeg troer en rojalistisk Kirke, som er
+									det høiærværdige Selskab imod Oplysningen, stiftet i Altona af
+									Schirak, en fuldkommen Udryddelse af alle demokratiske
+									Kjetterier, og efter Fornuftens og Frihedens Død et nyt, evigt
+									og himmelsk Versailles, hvor den triumferende royalistiske
+									Kirke, smykket med hvide Kokarder, skal evig synge et evigt Vive
+									le roi.</p>
+                <p xml:id="idm140245615456064">(Dette sidste Symbolum har alt Jerusalems Skomager ladet trykke i
+									sin Rejsebeskrivelse. Det citeres derfor her blot med nogle
+									Berigtigelser for Fuldstændigheds Skyld).</p>
+              </div>
+            </div>
+            <pb n="23" facs="adl/bruun/bruun1023" xml:id="idm140245615455040"/>
+            <div xml:id="idm140245615454272">
+              <head xml:id="idm140245615454016"><hi rend="bold" xml:id="idm140245615453888">Tredie Part.</hi><lb xml:id="idm140245615453328"/> De hellige Hemmeligheder.</head>
+              <div xml:id="idm140245615452896">
+                <head xml:id="idm140245615452640">1.</head>
+                <p xml:id="idm140245615452256"><hi rend="bold" xml:id="idm140245615452128">A</hi>dskillige fine og listige Streger, hvorved
+									en rettroende Aristokrat kan gjøre sin Lykke, men som først,
+									naar han troligen har efterlevet de syv store Bud og besvoren de
+									tre gang tre Troesartikler, kunne læres ham og lykkes for ham,
+									kaldes de hellige Hemmeligheder eller de aristokratiske
+									Sakramenter, og ere i Tallet fem.</p>
+              </div>
+              <div xml:id="idm140245615450416">
+                <head xml:id="idm140245615450160">2.</head>
+                <p xml:id="idm140245615449776">Det første Sakrament er Refereringen. Det bestaaer i at fortælle
+									Stormændene alle de Lovtaler, man hører og ikke hører over dem.
+									Vel synes dette Konstgreb næsten alt for almindeligt til at
+									kaldes en Hemmelighed; men der gives den gemeene, og den fine
+									Art af Referering; hiin seer alt for meget liig et ærligt
+									Hiertes Udbrud til at være ægte aristokratisk, og kan undertiden
+									endog være sin Ophavsmand til Skade; ved denne er derimod et
+									betydeligt Skridt giort fremad til Yndest og Befordring.</p>
+              </div>
+              <pb n="24" facs="adl/bruun/bruun1024" xml:id="idm140245615448640"/>
+              <div xml:id="idm140245615447872">
+                <head xml:id="idm140245615447616">3.</head>
+                <p xml:id="idm140245615447232">Det andet er Spionering, som bestaaer i at efterforske Venners og
+									Fjenders Samtaler og Planer, og at bringe det enten det er
+									behageligt eller ubehageligt, for Vedkommendes Øren. Dette giver
+									rigtig undertiden megen Fortred af sig, naar det gjøres med
+									Uforstand, men naar det drives forsigtigen og snildeligen, saa
+									kan man ikke aleene skaffe sig de Stores Venskab, for hvilke man
+									spionerer, men endog holde gode Miner med de smaa Folk, eller
+									det demokratiske Pak, som man ubspionerer. Den er et Trin videre
+									frem end den blotte Referering.</p>
+              </div>
+              <div xml:id="idm140245615445728">
+                <head xml:id="idm140245615445472">4.</head>
+                <p xml:id="idm140245615445088">Det tredie er Spillekonsten, som bestaaer i at man altid er rede
+									til et Partie hos sin naadige Mæcen, enten man derved forsømmer
+									sine Forretninger eller ikke, og at man veed med Glædesminer i
+									Ansigtet at tabe sine Penge, enten saa man siden skal laane
+									eller stjæle sor at erstatte Tabet.</p>
+              </div>
+              <div xml:id="idm140245615443904">
+                <head xml:id="idm140245615443648">5.</head>
+                <p xml:id="idm140245615443264">Det fjerde mellem disse hellige Mysterier kaldes Jøderiet. Det
+									bestaaer i at skaffe Patronerne Penge at laane hos de døbte
+									saavelsom hos de ikke <pb n="25" facs="adl/bruun/bruun1025" xml:id="idm140245615442656"/> døbte
+									Jøder. Herved har mangen en Mand i Stilhed gjort sig Storfolkene
+									uendelig forbundne, og den, som vil bane sig Veien til selv at
+									vorde med Tiden en Stormand, bør ikke forsmaae denne
+								Gjenvei.</p>
+              </div>
+              <div xml:id="idm140245615441152">
+                <head xml:id="idm140245615440896">6.</head>
+                <p xml:id="idm140245615440512">Det femte og dybeste mellem alle den aristokratiske Troes
+									Mysterier er Kobleriet. Det beskriver en profan Skribent,
+									navnlig Vosz, saaledes:</p>
+                <lg xml:id="idm140245615439952">
+                  <l xml:id="idm140245615439648">"Man führe seinem Herrn</l>
+                  <l xml:id="idm140245615439200">"Sein Weib und seine Tochter zu,</l>
+                  <l xml:id="idm140245615438768">"Und - trage Band und Stern.</l>
+                </lg>
+                <p xml:id="idm140245615438208">NB. Alle disse Aristokratiets Hemmeligheder nævnes her blot
+									korteligen. Den udførlige Forklaring deraf hører ikke hen til
+									Catechismussen, som kun skal indeholde de første
+								Fundamenter.</p>
+              </div>
+            </div>
+          </div>
+          <pb n="26" facs="adl/bruun/bruun1026" xml:id="idm140245615436992"/>
+          <div xml:id="idm140245615436224">
+            <head xml:id="idm140245615435968">
+              <hi rend="bold" xml:id="idm140245615435712">Aristokraternes Litanie.</hi>
+            </head>
+            <lg xml:id="idm140245615434880">
+              <l xml:id="idm140245615434624"><hi rend="bold" xml:id="idm140245615434496">A</hi>k, du kjere Himmel bønhør os!</l>
+              <l xml:id="idm140245615433632">Staae os bi i disse onde Tider!</l>
+              <l xml:id="idm140245615433200">Giv os din Hielp mod den frække Fornuft,</l>
+              <l xml:id="idm140245615432720">Som vil bryde ud af sine Lænker,</l>
+              <l xml:id="idm140245615432256">Af sine gamle retmæssige Baand.</l>
+              <l xml:id="idm140245615431792">Bevar os fra dens Vold!</l>
+              <l xml:id="idm140245615431376">Fra al dens List og Klygt!</l>
+              <l xml:id="idm140245615430944">Fra alle dens Prædikanter,</l>
+              <l xml:id="idm140245615430496">Fra Journalister og Pamphletister,</l>
+              <l xml:id="idm140245615430064">Fra Naturretter og politiske Skrivter,</l>
+              <l xml:id="idm140245615429632">Fra Oversættelser af Paine og Robespierre,</l>
+              <l xml:id="idm140245615429152">Fra al falsk Lære,</l>
+              <l xml:id="idm140245615428720">Bevar os kiære Herre Gud! -</l>
+            </lg>
+            <lg xml:id="idm140245615428128">
+              <l xml:id="idm140245615427872">Bevar os fra Trykkefrihed,</l>
+              <l xml:id="idm140245615427440">Denne Datter af Satan,</l>
+              <l xml:id="idm140245615427024">Hvis Skygge alt har udrettet saameget Ondt</l>
+              <l xml:id="idm140245615426640">Mod os og vore Børn,</l>
+              <l xml:id="idm140245615426192">Og som nu truer personligen at ville,</l>
+              <l xml:id="idm140245615425760">Trods den hellige Augsburgske Consession,</l>
+              <l xml:id="idm140245615425312">Trods Kongeloven og Fiskalen,</l>
+              <pb n="27" facs="adl/bruun/bruun1027" xml:id="idm140245615424880"/>
+              <l xml:id="idm140245615424112">Opslaae sin Bolig blant os.</l>
+              <l xml:id="idm140245615423680">Du naadeligen os bevare</l>
+              <l xml:id="idm140245615423264">Fra al dens Vold og Sviig!</l>
+            </lg>
+            <lg xml:id="idm140245615422704">
+              <l xml:id="idm140245615422448">Fra Ansvarlighed og Regnskab,</l>
+              <l xml:id="idm140245615422016">Fra Undersøgelse af Finance-Forfaldets Kilder,</l>
+              <l xml:id="idm140245615421520">Fra Reduktion af ufortjente Pensioner,</l>
+              <l xml:id="idm140245615421088">Fra Befordringernes Jndretning efter Fortjenester, ikke efter Gunst
+								og Gave,</l>
+              <l xml:id="idm140245615420608">Fra ørkesløse Hofembeders Afskaffelse,</l>
+              <l xml:id="idm140245615420128">Fra Opsyn over vore Forretninger,</l>
+              <l xml:id="idm140245615419696">Fra Opmærksomhed paa Klager imod os,</l>
+              <l xml:id="idm140245615419216">Fra Domstole uden Personsanseelse,</l>
+              <l xml:id="idm140245615418784">Fra Folket eller dets Udvalgte</l>
+              <l xml:id="idm140245615418352">Og fra deres Deeltagen i Bestyrelsen,</l>
+              <l xml:id="idm140245615417920">Bevar os etc.</l>
+            </lg>
+            <lg xml:id="idm140245615417376">
+              <l xml:id="idm140245615417120">Fra Adelprivilegiernes Undergang,</l>
+              <l xml:id="idm140245615416688">Fra Negernes Frigivning,</l>
+              <l xml:id="idm140245615416256">(Et farligt Exempel!)</l>
+              <l xml:id="idm140245615415840">Fra Bøndernes fuldkomne Frihed,</l>
+              <l xml:id="idm140245615415376">Fra bedre Skoleanstalter,</l>
+              <l xml:id="idm140245615414944">Fra deraf befrygtende Almeenoplysning,</l>
+              <l xml:id="idm140245615414512">Fra nymodens Prækener,</l>
+              <pb n="28" facs="adl/bruun/bruun1028" xml:id="idm140245615414064"/>
+              <l xml:id="idm140245615413296">Fra populær Philosophies Udbredere,</l>
+              <l xml:id="idm140245615412816">Fra Marezoller og Gutfelder,</l>
+              <l xml:id="idm140245615412384">Bevar os etc.</l>
+            </lg>
+            <lg xml:id="idm140245615411840">
+              <l xml:id="idm140245615411584">Fra flere Universiteter,</l>
+              <l xml:id="idm140245615411152">Og deraf flydende Farer</l>
+              <l xml:id="idm140245615410736">For større Frihed i Studeringer,</l>
+              <l xml:id="idm140245615410272">Mindre Herredømme over Sandhederne o.s.v.</l>
+              <l xml:id="idm140245615409792">Fra offentlige Bibliotheker,</l>
+              <l xml:id="idm140245615409360">Fra Læseselskaber,</l>
+              <l xml:id="idm140245615408928">Fra Bogtrykkerier og Boglader,</l>
+              <l xml:id="idm140245615408496">Fra Leipziger Messekataloger</l>
+              <l xml:id="idm140245615408064">Bevar os etc.</l>
+            </lg>
+            <lg xml:id="idm140245615407520">
+              <l xml:id="idm140245615407264">Fra en Theaterdirektion begavet med Fornuft</l>
+              <l xml:id="idm140245615406816">Fra farlige Skuespil, og Borgersind,</l>
+              <l xml:id="idm140245615406384">Demokratiske og heterodoxe Scener,</l>
+              <l xml:id="idm140245615405952">Fra Operaernes Forstødelse,</l>
+              <l xml:id="idm140245615405488">Fra Moralitet og Fædrenelandskhed,</l>
+              <l xml:id="idm140245615405024">Fra Dyveker og Einar Tambeskjelvere,</l>
+              <l xml:id="idm140245615404592">Fra Brutus og Cæsars Død,</l>
+              <l xml:id="idm140245615404144">Bevar os etc.</l>
+            </lg>
+            <lg xml:id="idm140245615403600">
+              <l xml:id="idm140245615403344">Tag i din Varetægt</l>
+              <l xml:id="idm140245615402912">Den aristokratiske Kirke,</l>
+              <pb n="29" facs="adl/bruun/bruun1029" xml:id="idm140245615402480"/>
+              <l xml:id="idm140245615401712">Og alle dens sande Troende!</l>
+              <l xml:id="idm140245615401280">Lad prophetisk Aand hvile</l>
+              <l xml:id="idm140245615400848">Paa Burke, Dundas, Pitt og Girtanner,</l>
+              <l xml:id="idm140245615400416">Paa Schirak og hans danske Efterlignere!</l>
+              <l xml:id="idm140245615399968">Send os snart en Trøster</l>
+              <l xml:id="idm140245615399520">I Folkevennens Sted!</l>
+              <l xml:id="idm140245615399104">Styrk Doktor Esaias Fleischer,</l>
+              <l xml:id="idm140245615398672">Naar drabelig han hæver sin Kølle</l>
+              <l xml:id="idm140245615398208">Over Repertørens Isse!</l>
+              <l xml:id="idm140245615397760">Beskyt Universitets-Journalisten,</l>
+              <l xml:id="idm140245615397328">Hvadenten han paatager Cerberus Skikkelse,</l>
+              <l xml:id="idm140245615396880">Bjeffer ad Berger og viser Tænder ad Vilse,</l>
+              <l xml:id="idm140245615396384">Eller han, som Herkules,</l>
+              <l xml:id="idm140245615395952">Slaaes med Pygmæerne i Iris,</l>
+              <l xml:id="idm140245615395488">Knuser Robespierre og Sveistrup,</l>
+              <l xml:id="idm140245615395056">Ja dræber dem saa fuldt, som han fordum</l>
+              <l xml:id="idm140245615394576">Dræbte Horats i en Version!</l>
+            </lg>
+            <lg xml:id="idm140245615393984">
+              <l xml:id="idm140245615393728">Ogsaa den augsburgske Confession</l>
+              <l xml:id="idm140245615393296">Beskjærme du!</l>
+              <l xml:id="idm140245615392864">Besæst Kirkens Flode ved dens <hi rend="bold" xml:id="idm140245615392528">Ankere</hi>
+							</l>
+              <l xml:id="idm140245615391712">At de maa holde fast mod Vindkastene</l>
+              <l xml:id="idm140245615391280">Fra Repertoriumet,</l>
+              <l xml:id="idm140245615390864">Fra physisk og politisk Magazin,</l>
+              <pb n="30" facs="adl/bruun/bruun1030" xml:id="idm140245615390432"/>
+              <l xml:id="idm140245615389664">Fra Samleren,</l>
+              <l xml:id="idm140245615389248">Fra lærde Efterretninger,</l>
+              <l xml:id="idm140245615388800">Fra Jesus og Fornuften,</l>
+              <l xml:id="idm140245615388384">At ikke de Troendes Orlogsskibe og Barkasser</l>
+              <l xml:id="idm140245615387936">Med samt Capitainer, Matroser og Passagerer,</l>
+              <l xml:id="idm140245615387488">Skal kuldseile i en Naturalistisk Storm,</l>
+              <l xml:id="idm140245615387040">Eller strande paa Riems og Tellers Klipper,</l>
+              <l xml:id="idm140245615386592">Eller opsluges af Kants Malstrøm!</l>
+              <l xml:id="idm140245615386128">Lad dem med Dogmatikens Kanoner</l>
+              <l xml:id="idm140245615385696">Bore Fornuften i Sænk!</l>
+              <l xml:id="idm140245615385248">Eller lad dem lykkelig entre den,</l>
+              <l xml:id="idm140245615384816">Og føre den hjem, som god <hi rend="bold" xml:id="idm140245615384496">Prise</hi>
+							</l>
+              <l xml:id="idm140245615383680">I Troens Havn! -</l>
+            </lg>
+            <lg xml:id="idm140245615383136">
+              <l xml:id="idm140245615382880">Endelig alle Inqvisitionstribunaler,</l>
+              <l xml:id="idm140245615382448">Dem som befale Proces imod Bøger,</l>
+              <l xml:id="idm140245615381984">Og dem som føre dem,</l>
+              <l xml:id="idm140245615381536">Cancellier og Fiskaler,</l>
+              <l xml:id="idm140245615381120">Censores og Denunciateurer,</l>
+              <l xml:id="idm140245615380688">Bogforbud og Lettres de cachet,</l>
+              <l xml:id="idm140245615380256">Bevare du fra Fornuftens Angreb,</l>
+              <l xml:id="idm140245615379824">Fra Sandhedens skarpe Vaaben,</l>
+              <l xml:id="idm140245615379392">Fra Vittighedens Bomber!</l>
+              <l xml:id="idm140245615378960">Bønhør os, kjere Herre Gud.</l>
+            </lg>
+          </div>
+          <pb n="31" facs="adl/bruun/bruun1031" xml:id="idm140245615378240"/>
+          <div xml:id="idm140245615377472">
+            <head xml:id="idm140245615377216">
+              <hi rend="bold" xml:id="idm140245615376960">Aristokratiske Psalmer.</hi>
+            </head>
+            <div xml:id="idm140245615376144">
+              <head xml:id="idm140245615375888">1.<lb xml:id="idm140245615375632"/> Begyndelses-Sang.</head>
+              <stage type="mix" xml:id="idm140245615375216">Til Melod. O store Gud, vi love dig.</stage>
+              <lg xml:id="idm140245615374544">
+                <l xml:id="idm140245615374288">I. <hi rend="bold" xml:id="idm140245615374032">O</hi> Kongemagt, vi love dig.</l>
+                <l xml:id="idm140245615373200">Du skjærmer al vor List og Svig.</l>
+                <l xml:id="idm140245615372736">Hvad er vel Aristokratie,</l>
+                <l xml:id="idm140245615372304">Naar Du vil det ej stande bi?</l>
+              </lg>
+              <lg xml:id="idm140245615371744">
+                <l xml:id="idm140245615371488">2. Beskyt, beskyt dog evig os,</l>
+                <l xml:id="idm140245615371056">Fornufts og Folkets Raab til Trods!</l>
+                <l xml:id="idm140245615370624">Lad os, som Engle, om Dig staae,</l>
+                <l xml:id="idm140245615370192">Og demokratisk Vold nedslaae!</l>
+              </lg>
+              <lg xml:id="idm140245615369632">
+                <l xml:id="idm140245615369376">3. Hør evig vore søde Ord!</l>
+                <l xml:id="idm140245615368912">Lyt evig til vort Jubelchor!</l>
+                <l xml:id="idm140245615368480">Du sue Viraksdampen ind,</l>
+                <l xml:id="idm140245615368048">Vi ofre Dig med trofast Sind!</l>
+              </lg>
+              <lg xml:id="idm140245615367488">
+                <l xml:id="idm140245615367232">4. O da skal Pøblens dumme Skrig</l>
+                <l xml:id="idm140245615366768">Ej meer inkommodere Dig!</l>
+                <l xml:id="idm140245615366336">Vi qvæle skal Skribenters Røst,</l>
+                <l xml:id="idm140245615365872">Og alt omkring Dig være tyst!</l>
+              </lg>
+              <pb n="32" facs="adl/bruun/bruun1032" xml:id="idm140245615365280"/>
+              <lg xml:id="idm140245615364512">
+                <l xml:id="idm140245615364256">5. Men ogsaa du med runde Haand</l>
+                <l xml:id="idm140245615363824">Uddeele Nøgler, Stjerner, Baand,</l>
+                <l xml:id="idm140245615363360">Ja, tomme Casses Suk til Trods,</l>
+                <l xml:id="idm140245615362928">Du gavmild pensjonere os.</l>
+              </lg>
+              <lg xml:id="idm140245615362368">
+                <l xml:id="idm140245615362112">6. O Kongemagt, hersk Jorden om!</l>
+                <l xml:id="idm140245615361680">Knus Mindet af Athen og Rom.</l>
+                <l xml:id="idm140245615361248">For alt du undertvinge dig</l>
+                <l xml:id="idm140245615360816">Amerika og Frankerig!</l>
+              </lg>
+              <lg xml:id="idm140245615360272">
+                <l xml:id="idm140245615360016">7. Ja, sluk hver Gnist af Sandhed ud! -</l>
+                <l xml:id="idm140245615359584">Da skal Du være Jordens Gud,</l>
+                <l xml:id="idm140245615359120">Og Menneskeheden ved Din Haand,</l>
+                <l xml:id="idm140245615358688">Skal evig gaae i Børnebaand!</l>
+              </lg>
+            </div>
+            <div xml:id="idm140245615357968">
+              <head xml:id="idm140245615357712">2.<lb xml:id="idm140245615357456"/> Daglig Bøn.</head>
+              <stage type="mix" xml:id="idm140245615357024">Til Melod. Fryd dig ved Livet.</stage>
+              <lg xml:id="idm140245615356352">
+                <l xml:id="idm140245615356096"><hi rend="bold" xml:id="idm140245615355968">S</hi>tjerner og Titler,</l>
+                <l xml:id="idm140245615355152">Eder jeg bejler til!</l>
+                <l xml:id="idm140245615354736">Eengang I fryde</l>
+                <l xml:id="idm140245615354320">Mig med et Smiil!</l>
+                <l xml:id="idm140245615353904">Gid al min Vandel tækkes maa</l>
+                <l xml:id="idm140245615353440">Min allernaadigste Mæcen!</l>
+                <pb n="33" facs="adl/bruun/bruun1033" xml:id="idm140245615352992"/>
+                <l xml:id="idm140245615352224">Gid jeg min Sjel bevare fri</l>
+                <l xml:id="idm140245615351792">Fra demokratisk Meen!</l>
+              </lg>
+              <lg xml:id="idm140245615351248">
+                <l xml:id="idm140245615350992">Stjerner og etc.</l>
+                <l xml:id="idm140245615350576">Gid jeg fra proppet Forgemak</l>
+                <l xml:id="idm140245615350144">Først naadig indladt blive maa!</l>
+                <l xml:id="idm140245615349680">Gid jeg paa Hoffets glatte Jis</l>
+                <l xml:id="idm140245615349248">Ej falde maa, men staae!</l>
+              </lg>
+              <lg xml:id="idm140245615348688">
+                <l xml:id="idm140245615348432">Stjerner og etc.</l>
+                <l xml:id="idm140245615348016">Gid Smaafolk krumme ydmyg Ryg,</l>
+                <l xml:id="idm140245615347584">Naar min Karosse ruller srem!</l>
+                <l xml:id="idm140245615347152">Med bange Blik, med Hat i Haand</l>
+                <l xml:id="idm140245615346720">Om mig jeg skue dem!</l>
+                <l xml:id="idm140245615346304">Stjerner og Titler</l>
+                <l xml:id="idm140245615345888">Eder jeg bejler til!</l>
+                <l xml:id="idm140245615345472">Eengang I fryde</l>
+                <l xml:id="idm140245615345056">Mig med et Smiil!</l>
+              </lg>
+            </div>
+            <div xml:id="idm140245615344384">
+              <head xml:id="idm140245615344128">3.<lb xml:id="idm140245615343872"/> Et stille Suk<lb xml:id="idm140245615343584"/> (naar man læser Aviserne.)</head>
+              <lg xml:id="idm140245615343120">
+                <l xml:id="idm140245615342864"><hi rend="bold" xml:id="idm140245615342736">G</hi>ud, lad dog eengang Hævnens Torden vække</l>
+                <l xml:id="idm140245615341856">Syndfulde Jord! Lad den nedslaae de Frække,</l>
+                <l xml:id="idm140245615341360">Som haane Konger - Præster - Dig!</l>
+                <pb n="34" facs="adl/bruun/bruun1034" xml:id="idm140245615340896"/>
+                <l xml:id="idm140245615340128">Send ned fra Himmerig,</l>
+                <l xml:id="idm140245615339712">I tydske Heltes Skikkelse, Serafers</l>
+                <l xml:id="idm140245615339280">Udvalgte Hær! Med Trin, som Langulaffers,</l>
+                <l xml:id="idm140245615338800">Til Babylon-Paris de nærme sig.</l>
+              </lg>
+            </div>
+            <div xml:id="idm140245615338080">
+              <head xml:id="idm140245615337824">4.<lb xml:id="idm140245615337568"/> Aristokratiske Skaaler.</head>
+              <stage type="mix" xml:id="idm140245615337136">Til Melod. Jeg synger gjærne om Kongers Magt. (Forandret og
+								forøget.)</stage>
+              <lg xml:id="idm140245615336336">
+                <l xml:id="idm140245615336080"><hi rend="bold" xml:id="idm140245615335952">B</hi>ort Jacobinskhed fra dette Lag!</l>
+                <l xml:id="idm140245615335072">Bort Frihedsskaaler og Frihedsviser!</l>
+                <l xml:id="idm140245615334640">Kun Monarkiets den gode Sag</l>
+                <l xml:id="idm140245615334208">Vort Hjerte hylder, vor Tunge priser.</l>
+                <l xml:id="idm140245615333776">Ja, gid Musketter og gid Kanoner</l>
+                <l xml:id="idm140245615333344">Maa trygt beskjerme al Jordens Troner!</l>
+                <l xml:id="idm140245615332912">Hver Trones Skaal!</l>
+              </lg>
+              <lg xml:id="idm140245615332368">
+                <l xml:id="idm140245615332112">Næst efter Tronen bør Ad'lens staae,</l>
+                <l xml:id="idm140245615331632">Og derpaa først de Gemeene komme;</l>
+                <l xml:id="idm140245615331168">Thi gammel Orden haandhæves maa,</l>
+                <l xml:id="idm140245615330704">Trods alle næsvise, nye Domme.</l>
+                <l xml:id="idm140245615330240">Du Hjørnesteen for al Kongedømme,</l>
+                <l xml:id="idm140245615329776">Højbaarne Adel, af Hjertet tømme</l>
+                <l xml:id="idm140245615329312">Vi her din Skaal!</l>
+              </lg>
+              <pb n="35" facs="adl/bruun/bruun1035" xml:id="idm140245615328768"/>
+              <lg xml:id="idm140245615328000">
+                <l xml:id="idm140245615327744">Dig store Tydskland, vi takke bør:</l>
+                <l xml:id="idm140245615327280">Du Adelsmænd os i Flokke sender.</l>
+                <l xml:id="idm140245615326816">I Krig du stedse Mirakler gjør,</l>
+                <l xml:id="idm140245615326352">Og sejrer altid, naar du ei render.</l>
+                <l xml:id="idm140245615325920">Og havde Fransken kun høflig været,</l>
+                <l xml:id="idm140245615325440">Du sikkert var til Paris marcheret!</l>
+                <l xml:id="idm140245615325008">Stor-Tydsklands Skaal!</l>
+              </lg>
+              <lg xml:id="idm140245615324464">
+                <l xml:id="idm140245615324208">O franske <hi rend="bold" xml:id="idm140245615323920">Prindser</hi>, jert Navn er stort</l>
+                <l xml:id="idm140245615323072">Blant Creditorer, paa Hværverhuse:</l>
+                <l xml:id="idm140245615322608">Vel sandt jert Feldttog kun vared' kort.</l>
+                <l xml:id="idm140245615322160">Dog, det foreviged' Schiraks Muse.</l>
+                <l xml:id="idm140245615321728">Cousins jer Kongerne endnu kalde;</l>
+                <l xml:id="idm140245615321296">Paa Knæe sor Eder Lakejer falde:</l>
+                <l xml:id="idm140245615320832">Skaal derfor, Skaal!</l>
+              </lg>
+              <lg xml:id="idm140245615320288">
+                <l xml:id="idm140245615320032">Prinds York var smidig og rask og snild:</l>
+                <l xml:id="idm140245615319584">Men høslig, høflig han var tillige.</l>
+                <l xml:id="idm140245615319104">Han Ret ei altid beholde vil,</l>
+                <l xml:id="idm140245615318672">Og tit man saae ham sin Plads at vige.</l>
+                <l xml:id="idm140245615318240">Til Verdens Lykke paa ny han være</l>
+                <l xml:id="idm140245615317776">Anfører for sin Hr.Faders Hære!</l>
+                <l xml:id="idm140245615317312">Prinds York, din Skaal!</l>
+              </lg>
+              <pb n="36" facs="adl/bruun/bruun1036" xml:id="idm140245615316768"/>
+              <lg xml:id="idm140245615316000">
+                <l xml:id="idm140245615315744">King George er langt fra at være béte</l>
+                <l xml:id="idm140245615315264">Og herligt Kortene for ham falde,</l>
+                <l xml:id="idm140245615314832">Det er kun Heiberg som nægter det.</l>
+                <l xml:id="idm140245615314368">Som tør hans Raadgiver "Satan" kalde,</l>
+                <l xml:id="idm140245615313888">Nei, Viisdom al hans Regjering røber,</l>
+                <l xml:id="idm140245615313408">Og det er Løgn, at han Stemmer kjøber.</l>
+                <l xml:id="idm140245615312928">King George, din Skaal!</l>
+              </lg>
+              <lg xml:id="idm140245615312384">
+                <l xml:id="idm140245615312128">Kan Retten tolkes med større Fynd,</l>
+                <l xml:id="idm140245615311664">End naar man tolker den med Kanoner?</l>
+                <l xml:id="idm140245615311232">Og tør vel nogen det kalde Synd,</l>
+                <l xml:id="idm140245615310768">Hvad Konger gjør for at vinde Troner?</l>
+                <l xml:id="idm140245615310288">I Tree, som deelte nys Polens Rige,</l>
+                <l xml:id="idm140245615309856">For Jer al Jordklodens Ønsker stige:</l>
+                <l xml:id="idm140245615309376">Gud lønne jer!</l>
+              </lg>
+              <lg xml:id="idm140245615308816">
+                <l xml:id="idm140245615308560">O, I som Cramer forjog fra Nord,</l>
+                <l xml:id="idm140245615308128">Da fræk han voved' Pethjon at rose! -</l>
+                <l xml:id="idm140245615307648">Her standser Tungen! her mangle Ord!</l>
+                <l xml:id="idm140245615307216">O, gunstigst tager det ej for Skose,</l>
+                <l xml:id="idm140245615306784">Om, uden mere Introducering,</l>
+                <l xml:id="idm140245615306352">Vi drikke, henrykt ved slig Regjering,</l>
+                <l xml:id="idm140245615305920">En velmeent Skaal.</l>
+              </lg>
+              <pb n="37" facs="adl/bruun/bruun1037" xml:id="idm140245615305376"/>
+              <lg xml:id="idm140245615304608">
+                <l xml:id="idm140245615304352">Ja straffet vorde hver Sansculot,</l>
+                <l xml:id="idm140245615303920">Som fræk tør gnave paa Kongers Ære!</l>
+                <l xml:id="idm140245615303440">Man strax maae hævne sig for hans Spot:</l>
+                <l xml:id="idm140245615302960">Dertil Fiskaler i Verden ere;</l>
+                <l xml:id="idm140245615302528">Et nyttigt Embed, hvor sure Miner,</l>
+                <l xml:id="idm140245615302096">Mod det end gjøres af Jakobiner!</l>
+                <l xml:id="idm140245615301632">Fiskalers Skaal!</l>
+              </lg>
+              <lg xml:id="idm140245615301088">
+                <l xml:id="idm140245615300832">Men godt gagere man alle dem,</l>
+                <l xml:id="idm140245615300400">Som tappert fægte mod Demokrater,</l>
+                <l xml:id="idm140245615299936">Som gaae paa Folkevens-Banen frem,</l>
+                <l xml:id="idm140245615299504">At redde Kirker og Potentater.</l>
+                <l xml:id="idm140245615299072">Til Kamp! Til Kamp imod Frihedsslokken!</l>
+                <l xml:id="idm140245615298640">Til Kamp! Til Kamp imod Kjætterskokken!</l>
+                <l xml:id="idm140245615298160">De Kæmpers Skaal!</l>
+              </lg>
+            </div>
+            <div xml:id="idm140245615297472">
+              <head xml:id="idm140245615297216">5.<lb xml:id="idm140245615296960"/> Aristokratisk Bordpsalme.<lb xml:id="idm140245615296656"/> Til Melod. Hvor saare lidet
+								vil der til.</head>
+              <epigraph xml:id="idm140245615296160">
+                <cit xml:id="idm140245615295904">
+                  <q xml:id="idm140245615295648">
+                    <lg xml:id="idm140245615295392">
+                      <l xml:id="idm140245615294736">Der Topf, der Topf ist's Vaterland,</l>
+                      <l xml:id="idm140245615294304">Das übrige sind - Frazen.</l>
+                    </lg>
+                  </q>
+                </cit>
+                <bibl xml:id="idm140245615293472">
+                  <emph xml:id="idm140245615293216">Voss.</emph>
+                </bibl>
+              </epigraph>
+              <lg xml:id="idm140245615292544">
+                <l xml:id="idm140245615292288"><hi rend="bold" xml:id="idm140245615292160">H</hi>vad bryder jeg om Frihed mig.</l>
+                <l xml:id="idm140245615291440">Naar jeg har Mad og Klæde?</l>
+                <l xml:id="idm140245615290992">Naar jeg kun vorder feed og rig,</l>
+                <pb n="38" facs="adl/bruun/bruun1038" xml:id="idm140245615290560"/>
+                <l xml:id="idm140245615289792">Mig trykker ei min Kjæde.</l>
+                <l xml:id="idm140245615289344">For Orden og for Rolighed</l>
+                <l xml:id="idm140245615288912">Maa Frihedsaanden kues ned;</l>
+                <l xml:id="idm140245615288480">Og ubegrændset Myndighed</l>
+                <l xml:id="idm140245615288032">I Ligheds Sted fremtræde.</l>
+              </lg>
+              <lg xml:id="idm140245615287456">
+                <l xml:id="idm140245615287200">Hvad sluddre I om Fædreland?</l>
+                <l xml:id="idm140245615286736">Vort Fædreland er Gryden.</l>
+                <l xml:id="idm140245615286288">Naar Frimand har kun Brød og Vand,</l>
+                <l xml:id="idm140245615285824">Vi høre fro dens Syden.</l>
+                <l xml:id="idm140245615285376">O, hvad er alskens Frihedssang</l>
+                <l xml:id="idm140245615284944">Mod denne søde Surreklang?-</l>
+                <l xml:id="idm140245615284480">Det Patriotens haarde Gang</l>
+                <l xml:id="idm140245615284048">Er mod vor bløde Nyden!</l>
+              </lg>
+              <lg xml:id="idm140245615283472">
+                <l xml:id="idm140245615283216">I stedse fremad ville gaae,</l>
+                <l xml:id="idm140245615282784">Og gjøre Verden bedre! -</l>
+                <l xml:id="idm140245615282336">O Daarer, hvor I stod, I staae!</l>
+                <l xml:id="idm140245615281904">Saa gjorde vore Fædre.</l>
+                <l xml:id="idm140245615281456">Den Mand, der sov evindelig,</l>
+                <l xml:id="idm140245615281024">Han aldrig har forsyndet sig!</l>
+                <l xml:id="idm140245615280592">Trods Kantianisk List og Svig,</l>
+                <l xml:id="idm140245615280160">Bør man det Ordsprog hædre.</l>
+              </lg>
+              <pb n="39" facs="adl/bruun/bruun1039" xml:id="idm140245615279568"/>
+              <lg xml:id="idm140245615278752">
+                <l xml:id="idm140245615278496">Ja, Søvnens Søster, Rolighed,</l>
+                <l xml:id="idm140245615278032">Dig kalder Kongers Vrimmel,</l>
+                <l xml:id="idm140245615277600">Dig Præsternes Mangfoldighed,</l>
+                <l xml:id="idm140245615277136">Dig Adlens bange Stimmel.</l>
+                <l xml:id="idm140245615276704">O, hvor, hvor er du slygtet hen?</l>
+                <l xml:id="idm140245615276272">Kom fra Seraillet hid igjen!</l>
+                <l xml:id="idm140245615275840">Kom fra dit elskte Spanien!</l>
+                <l xml:id="idm140245615275408">Kom fra dit Ruslands Himmel!</l>
+              </lg>
+              <lg xml:id="idm140245615274848">
+                <l xml:id="idm140245615274592">Du standser snildt Oplysnings Flugt,</l>
+                <l xml:id="idm140245615274160">Naar den for høit sig svinger.</l>
+                <l xml:id="idm140245615273696">O, hvor beklipper du saa smukt</l>
+                <l xml:id="idm140245615273264">Patriotismens Vinger!</l>
+                <l xml:id="idm140245615272848">O, kom og hersk paa Jorderig!</l>
+                <l xml:id="idm140245615272416">Med Skud, Raketter, Jubelskrig,</l>
+                <l xml:id="idm140245615271984">Vi hilse skal den Dag, som dig</l>
+                <l xml:id="idm140245615271552">Igjen til Jorden bringer.</l>
+              </lg>
+            </div>
+          </div>
+          <pb n="40" facs="adl/bruun/bruun1040" xml:id="idm140245615270736"/>
+          <pb n="41" facs="adl/bruun/bruun1041" xml:id="idm140245615269968"/>
+          <div xml:id="idm140245615269200">
+            <head xml:id="idm140245615268944">
+              <hi rend="bold" xml:id="idm140245615268688">Bagtale til Bøgen selv.</hi>
+            </head>
+            <epigraph xml:id="idm140245615267840">
+              <cit xml:id="idm140245615267584">
+                <q xml:id="idm140245615267328">
+                  <p xml:id="idm140245615267072">Irruimus, densis et circumfundimur armis.</p>
+                </q>
+              </cit>
+              <bibl xml:id="idm140245615266368"><hi rend="italics" xml:id="idm140245615266240">Virgil</hi>.</bibl>
+            </epigraph>
+            <p xml:id="idm140245615265248"><hi rend="bold" xml:id="idm140245615265120">J</hi>eg mærker nok, at det gaaer mig med dig, min lille
+							Bog, som det fordum gik min særdeles gode Ven Horats med hans, see den
+							20de Epistel. Du kan ikke finde Dig i at blive hjemme, Du vil ikke høre
+							efter det smukke latinske Sprog; jeg dog har præket og verteret paa
+							dansk for Dig: Bene qui latuit, bene vixit: d. e. Den Bog, som ikke er
+							trykt, er tryg for Recensioner. Men naar en Bog først er reenskreven,
+							ja, saa kan Pokker ikke holde paa den; saa gaaer det, som den salig
+							Herre Virgilius siger: Fertur equis auriga, nec audit currus habenas;
+							paa dansk: Publicitetens Hest løber løbsk med Autor og render,
+							ihvormeget han end holder paa Tøjlen, ligemidt ind mellem Recensenter og
+							Fiskaler.</p>
+            <p xml:id="idm140245615262784">Jeg forstaaer nok, hvad du vil, min gode Bog! Du tørster efter den Lykke
+							at staae smukt indhæftet paa Soldins Hylder, eller at ligge til <pb n="42" facs="adl/bruun/bruun1042" xml:id="idm140245615262224"/> Gjennembladning paa eet af de lærde
+							Klubborde. En stor Lykke! Du kan troe mig, du vil have et besværligt og
+							farefuldt Liv. Ikke at tale om de Farer, du udsættes for, om en eller
+							anden Nar skulde finde noget deri, som traf hans ømme Byld, og han da
+							for des tydeligere at vise, det traf ham, upaatvivlelig river i det
+							mindste det Blad af dig; ikke at tale om de Forfølgelser, een og anden
+							højrøstet Klubdemokrat vil beære dig med, for Din tro Hengivenhed til
+							Kongeloven: Saa ere der endnu mange, mange Lidelser, som vente Dig. Dog,
+							Du faaer at have din Villie; og jeg vil blot give Dig her nogle Raad,
+							hvorved Du kan undgaae noget af det Onde, som venter Dig.</p>
+            <p xml:id="idm140245615259792">Jeg havde saamænd tiltænkt Dig det saa godt, at jeg paa Vers, og det
+							endda i en "schwergereimte Ode a la Voss" vilde tage denne
+							Afskeed med Dig og give Dig disse Leveregler med paa Din Rejse igjennem
+							Verden. Saaledes havde jeg begyndt:</p>
+            <lg xml:id="idm140245615258880">
+              <l xml:id="idm140245615258624">Min lille Bog, naar du nu gaaer fra Seestes</l>
+              <l xml:id="idm140245615258176">Bogtrykkerie i Verdensassembleen ind,</l>
+              <l xml:id="idm140245615257744">Saa viid, du ei behage vil de Flestes,</l>
+              <l xml:id="idm140245615257312">Og i det mindste ei de Størstes Sind.</l>
+              <l xml:id="idm140245615256832">Thi meget faa vil troe sig rosede</l>
+              <pb n="43" facs="adl/bruun/bruun1043" xml:id="idm140245615256400"/>
+              <l xml:id="idm140245615255632">Og næsten alle skosede.*)</l>
+              <l xml:id="idm140245615255184">Dog hyl Dig i Din Dyd! Du er ei efter Moden,</l>
+              <l xml:id="idm140245615254736">Du er ei demokratisk fræk og fri,</l>
+              <l xml:id="idm140245615254272">Derfor forfølger Dig et vist Partie,</l>
+              <l xml:id="idm140245615253792">Som drev en Morgenstjernes Bog til Urteboden</l>
+              <l xml:id="idm140245615253344">Og ærgred Folkevennen død.</l>
+              <l xml:id="idm140245615252880">Dog, ei de Onde slye! Kun dobbelt kjæk dem mød!</l>
+              <l xml:id="idm140245615252384">De Demokraters Tid er snart forbi; men -</l>
+              <l xml:id="idm140245615251936">Ak, selv blant vore Folk er nogle, der</l>
+              <l xml:id="idm140245615251504">Vil have dig mistænkt, min Bog, paa Timen,</l>
+              <l xml:id="idm140245615251024">For at du en ironisk Spotter er.</l>
+              <l xml:id="idm140245615250592">- (Sligt kommer af den onde Verdens Væsen!</l>
+              <l xml:id="idm140245615250112">Man før har seet en listig Fugl,</l>
+              <l xml:id="idm140245615249648">Som tog Aristokrater frisk ved Næsen,</l>
+              <l xml:id="idm140245615249168">En Jakobiner, svøbt i et ironisk Skjul.) -</l>
+              <l xml:id="idm140245615248688">Hvis da fra Prækestoel en Maaløe eller Langhorn,</l>
+              <l xml:id="idm140245615248192">En Antimarezoll Dig taler til:</l>
+              <l xml:id="idm140245615247760">Svar: du har stræbt saa godt, som de, med Troens Stanghorn</l>
+              <l xml:id="idm140245615247248">At kaste Kjætterne i Helveds Ild. -</l>
+              <l xml:id="idm140245615246864">For Piecehandlere vogt dig kun vel;</l>
+              <l xml:id="idm140245615246432">Buk dybt for Malling og for Reistrup;</l>
+            </lg>
+            <note anchored="true" xml:id="idm140245615245872">*) <emph xml:id="idm140245615245344">Rosede, skosede</emph>! See deer er disse rime struccioli,
+							som Hr. Schak Staffelt har nyligen anbefalet os, ja endog foregaaet med
+							sit opmuntrende Exempel paa.</note>
+            <pb n="44" facs="adl/bruun/bruun1044" xml:id="idm140245615244640"/>
+            <lg xml:id="idm140245615243872">
+              <l xml:id="idm140245615243616">Ønsk dem paa Styverfangsten meget Held! -</l>
+              <l xml:id="idm140245615243168">Men dersom han, der har vertert Horaz ihjel,</l>
+              <l xml:id="idm140245615242720">Og nylig knuset Robespierr' og Sveistrup,</l>
+              <l xml:id="idm140245615242272">Seer ind til dig - - -</l>
+            </lg>
+            <p xml:id="idm140245615241728">(Men her forlod Pegasus mig, og jeg maa fortsætte min Tale i bunden
+							Stiil.)</p>
+            <p xml:id="idm140245615241168">Saa siig ham, at du ikke indeholder noget Gran af Kants Philosophie,
+							hvilken han saa særdeles hader og frygter*), og at Du følgelig haaber
+							han hverken vil bruge sine Tænder eller sin Herkules Kølle imod Dig, men
+							naadigen betragte Dig, som et uvigtigt dansk Skrivt.</p>
+            <p xml:id="idm140245615240192">En vis philosophisk Recensent i Lærde Æfterretninger, som ogsaa hader og
+							frygter Kant, maae du ligeledes gjøre til Din Velynder, ved at forsikre
+							ham om, at du ønsker ham al mulig Lykke til, i Foreening med Baden, at
+							omstyrte Kant, og at du haaber, det lærde og philosophiske Europa vil
+							snart ærbødigen henvende sine Øjne paa dette deres store Foretagende NB.
+							naar de begynde derpaa.</p>
+            <p xml:id="idm140245615239120">Af Hr.M.Hagerup, Hr.H.G.Bechmann, Hr. Hans von Gyldenpalm v.v.v. udbed
+							Dig blot den <note anchored="true" xml:id="idm140245615238752">*) Oderim, dum metuant! Wieland &amp; Comp.</note>
+							<pb n="45" facs="adl/bruun/bruun1045" xml:id="idm140245615238016"/> eene, men store Gunst, at de hverken i
+							deres bundne eller ubundne Stiil ville lovtale eller besynge Dig.</p>
+            <p xml:id="idm140245615236992">Du bønfalde underdanigst den forhenværende Redaktør af Kritik og
+							Antikritik, om han ikke nu, da han selv har lagt sig til Hvile, vilde
+							laane dig Troens berømte Skjold, Hjelm og Harnisk, imod de gloende Pile,
+							som Demokraterne vist ville afskyde mod Dig, fordi Du er Din Gud og
+							Konge troe i disse onde Tider.</p>
+            <p xml:id="idm140245615235984">Den nærværende Redaktør af bemeldte Blad kan Du underhaanden bede, at han
+							kun ikke vil alt for nøjeregnende annotere det, om der skulde være et
+							Bogstav eller en Tøddel skrevet eller trykt fejl i Dig, for anden
+							Fortred har du ikke at frygte fra ham.</p>
+            <p xml:id="idm140245615235040">Dersom Recensenten i Iris tiltaler Dig lakonisk, saa svar ham endnu mere
+							lakonisk, det er: Tie og lee. Skulde Du komme til Helsingør, saa stræb
+							ogsaa der at udbrede den sande politiske Troe. Indprænt Vedkommende en
+							fast Troe paa de Folks Redelighed, som anvendte Tredivetusende Rigsdaler
+							paa at anlægge en Fjerdingmiils Vei. Indprænt dem Ærbødighed for de
+							skjulte Grunde, der bevægede Cancelliet til ikke at agte paa deres Klage
+							derover.</p>
+            <pb n="46" facs="adl/bruun/bruun1046" xml:id="idm140245615233760"/>
+            <p xml:id="idm140245615232992">Alle Skoleholdere i Dannemark, som Du maatte komme til, advare Du mod
+							Bahrdts Catechismus der natürlichen Religion, som en Hr. Seidelin vover
+							at oversætte; tænk, en Bog af Bahrdt, midt i Balles Stift! O tempora, o
+							mores!</p>
+            <p xml:id="idm140245615232096">Vil Du reise længere end til Altona, saa udbed Dig et Pas af Etatsraad
+							Schirak; det vil rekommandere Dig hos alle tydske Hoffer. Vogt Dig for
+							det ugudelige Jena, hvor man, trods Badens Harme i
+							Universitets-Journalen, vover at tale om Menneskets Stigen til
+							Fuldkommenhed! Hils Hr. Aloysius Hofman fra bemeldte
+							Universitets-Journalist, og fortæl ham, at denne har nu lykkeligen
+							afmaskeret den store og sorte Cabale, som blev spillet mod hans danske
+							Oversætter, og som giorde, at ingen læste hans Bog her.</p>
+            <p xml:id="idm140245615231072">Dog, jeg vil overlade til Hr. von Schirak at give Dig flere Regler, om Du
+							skulde, hvorpaa jeg højlig tvivler, reise udenlands.</p>
+            <p xml:id="idm140245615230400">Altsaa kun eet Raad endnu, min kjære Bog! Vogt Dig her Kjøbenhavn for den
+							nye <pb n="47" facs="adl/bruun/bruun1047" xml:id="idm140245615229952"/> Naturkyndigheds Professor, som i
+							den physikalske Aarbog har meget alvorligen og grundigen undersøgt og
+							med meget dyb Eftertanke lykkeligen opløst den saare vanskelige
+							Qvæstion:</p>
+            <p xml:id="idm140245615228640">"Hvorfor falde Tagsteenene ned i Blæst?"</p>
+            <p xml:id="idm140245615228160">Thi vel handler du ikke i ringeste Maade om Physik; men hvo veed, om ikke
+							hans saa besynderligen skarpseende Øje, kunde alligevel opdage
+							physikalske Fejl hos Dig? Vogt Dig for ham! thi det er en Magikus! paa
+							Dansk, en Heremester! Han har jo skrevet en Bog, kaldet den naturlige
+							Magie eller Hexekunst, hvori han, blant andre Troldomskonster, har lært
+							alle Kokkepiger i Danmark, (ifald de ikke vidste det før) hvorledes de
+							skulde dryppe en Steg med Smør! O Viisdoms og Kundskabs Dyb!</p>
+            <p xml:id="idm140245615226928">Og hermed farvel, min Bog. I, pedes quo te rapiunt et auræ! I, nostri
+							memor!</p>
+            <trailer xml:id="idm140245615226352">M. C. B.</trailer>
+          </div>
+          <pb n="48" facs="adl/bruun/bruun1048" xml:id="idm140245615225808"/>
+        </body>
+        <back xml:id="idm140245615224912">
+          <pb n="49" facs="adl/bruun/bruun1049" xml:id="idm140245615224656"/>
+          <div type="toc" xml:id="idm140245615223888">
+            <head xml:id="idm140245615223392">Indhold.</head>
+            <list type="simple" xml:id="idm140245615222976">
+              <item xml:id="idm140245615222448">Dedikation....................... 5</item>
+              <item xml:id="idm140245615222016">Fortale.......................... 9</item>
+              <item xml:id="idm140245615221584">Indledning....................... 13</item>
+              <item xml:id="idm140245615221152">Catechismussens første Part.......... 15</item>
+              <item xml:id="idm140245615220672">- anden -.......... 20</item>
+              <item xml:id="idm140245615220256">- tredie <hi rend="italics" xml:id="idm140245615219968">-</hi>..........
+								23</item>
+              <item xml:id="idm140245615219152">Aristokratisk Litanie................ 26</item>
+              <item xml:id="idm140245615218704">
+                <list type="simple" xml:id="idm140245615218448">
+                  <head xml:id="idm140245615217920">Aristokratiske Psalmer:</head>
+                  <item xml:id="idm140245615217504">No. 1. Begyndelsessang.......... 31</item>
+                  <item xml:id="idm140245615217072">- 2. Daglig Bøn.............. 32</item>
+                  <item xml:id="idm140245615216608">- 3. Et stille Suk.............. 33</item>
+                  <item xml:id="idm140245615216176">- 4. Aristokratiske Skaaler...... 34</item>
+                  <item xml:id="idm140245615215744">- 5. Bordpsalme.............. 37</item>
+                </list>
+              </item>
+              <item xml:id="idm140245615215056">Bagtale til Bogen selv?.............. 41</item>
+            </list>
+          </div>
+          <pb n="50" facs="adl/bruun/bruun1050" xml:id="idm140245615214352"/>
+          <pb n="a" facs="adl/bruun/bruun1051" xml:id="idm140245615213584"/>
+          <div xml:id="idm140245615212816">
+            <head xml:id="idm140245615212560">
+              <hi rend="bold" xml:id="idm140245615212304">Noter og oplysninger</hi>
+            </head>
+            <p xml:id="idm140245615211488"><hi rend="bold" xml:id="idm140245615211360">3</hi><hi rend="italics" xml:id="idm140245615210832">Selim III</hi>, sultan 1789-1808.</p>
+            <p xml:id="idm140245615209984"><hi rend="bold" xml:id="idm140245615209856">5</hi><hi rend="italics" xml:id="idm140245615209328">Golko nda</hi> er en for sine diamantgruber bekendt
+							by i Dekan i Forindien.</p>
+            <p xml:id="idm140245615208432"><hi rend="bold" xml:id="idm140245615208304">6</hi><hi rend="italics" xml:id="idm140245615207776">Fiskalske Tigerdyr</hi>. Fiskalen var en embedsmand,
+							som anklagede på det offentliges (oprindelig: *dolgoeO* statskassens)
+							vegne, navnlig påtalte embedsforsømmelser.</p>
+            <lg xml:id="idm140245615206624">
+              <l xml:id="idm140245615206368">........ <hi rend="italics" xml:id="idm140245615206080">den Hvirvelvind</hi>,</l>
+              <l xml:id="idm140245615205264"><hi rend="italics" xml:id="idm140245615205136">der førte Mahomet i Himlen ind</hi>.</l>
+            </lg>
+            <p xml:id="idm140245615204144">Muhammed hævdede i et syn at være bleven henflyttet først til Jerusalem
+							og derpå til himlen.</p>
+            <p xml:id="idm140245615203536"><hi rend="italics" xml:id="idm140245615203408">Mufti</hi>, muhammedansk skriftfortolker.</p>
+            <p xml:id="idm140245615202544"><hi rend="bold" xml:id="idm140245615202416">7</hi><hi rend="italics" xml:id="idm140245615201888">Ferman</hi>, tyrkisk kabinetsordre.</p>
+            <p xml:id="idm140245615201024"><hi rend="bold" xml:id="idm140245615200896">9</hi><hi rend="italics" xml:id="idm140245615200368">Genie var fordum Politiets Plage</hi>. I følge en i
+							1796 udkommet (meget tarvelig) satire på "Aristokraternes
+							Catechismus", "Geniernes Catechismus "
+							kaldet, (udkommet anonymt hos Reistrup) synes dette citat af Bruun selv,
+							der sværmede for slige mystifikationer. Den nævnte pjece begynder med
+							følgende kun svagt ændrede gengivelse:</p>
+            <lg xml:id="idm140245615198912">
+              <l xml:id="idm140245615198656">Genie var altid Politiets Plage;</l>
+              <l xml:id="idm140245615198224">men engang svane Kongen paa dets Klage:</l>
+            </lg>
+            <pb n="b" facs="adl/bruun/bruun1052" xml:id="idm140245615197664"/>
+            <p xml:id="idm140245615196896">
+              <hi rend="bold" xml:id="idm140245615196640">9</hi>
+            </p>
+            <lg xml:id="idm140245615195856">
+              <l xml:id="idm140245615195600">Slaa Hundene, han bød, og lad Genier gaa,</l>
+              <l xml:id="idm140245615195120">dem skal vor Hof- og Stadsret slaa -</l>
+            </lg>
+            <p xml:id="idm140245615194560">og fortsætter:</p>
+            <lg xml:id="idm140245615194128">
+              <l xml:id="idm140245615193872">saa skrev en Rimsmed, og det véd Vorherre</l>
+              <l xml:id="idm140245615193392">og denne Rimsmed selv, saa vidt jeg tror,</l>
+              <l xml:id="idm140245615192944">at Retten jo opfyldte, som den burde, smedens Ord.</l>
+            </lg>
+            <p xml:id="idm140245615192368">Hvis dette ikke er satire over Bruun, synes der slet ingen mening at være
+							deri. Jævnfør følgende citat af H. G. Svejstrups
+							"Geniepersen", 1798:</p>
+            <lg xml:id="idm140245615191648">
+              <l xml:id="idm140245615191392">.............. Geni</l>
+              <l xml:id="idm140245615190976">er Plage selv for Politi.</l>
+              <l xml:id="idm140245615190544">Ha, saa man ej endnu i vore Dage</l>
+              <l xml:id="idm140245615190112">med frække Viser dem i Kamp at drage</l>
+              <l xml:id="idm140245615189632">imod vor gode, kære, fromme Flindt,</l>
+              <l xml:id="idm140245615189152">der rigtig tog de Karle for gelindt.</l>
+            </lg>
+            <p xml:id="idm140245615188592">Ordet geni brugtes i slutningen af forrige århundrede med en anden
+							betydning end nu. Genierne var de politisk radikale, agitatorerne og
+							omvæltningsmændene. (Se Rahbeks Erindringer III, 31).</p>
+            <p xml:id="idm140245615187776"><hi rend="italics" xml:id="idm140245615187648">F***s Klage</hi>: J. T. Flindt, 1741-1805,
+							politimester i København 1788, fra 1793 tillige borgmester, afskediget
+							1794 på grund af malkonduite under tømrerstrejken.</p>
+            <p xml:id="idm140245615186480"><hi rend="italics" xml:id="idm140245615186352">"Folkevennen"</hi> var et aristokratisk
+							(konservativt) blad, der udkom i København 1794-95 og i sin
+							korte levetid gjorde sig ualmindelig forhadt ved sine hensynsløse og
+							blindt fanatiske angreb på frihedsbevægelserne. Det udgaves af en obskur
+							person, en tysker, J. C. M. Steineck, og da han døde, gik bladet ind.
+							(Man mindes P. A.</p>
+            <pb n="c" facs="adl/bruun/bruun1053" xml:id="idm140245615184816"/>
+            <p xml:id="idm140245615184048"><hi rend="bold" xml:id="idm140245615183920">9</hi> Heibergs hymne til "Folkevennen":
+							"Min Omvendelse", der nogenlunde betegner stemningen over for
+							dette organ).</p>
+            <lg xml:id="idm140245615182992">
+              <l xml:id="idm140245615182736">
+                <hi rend="italics" xml:id="idm140245615182480">Vel Zetlitz sønderbrød</hi>
+              </l>
+              <l xml:id="idm140245615181632">
+                <hi rend="italics" xml:id="idm140245615181376">paa Folkevennens Grav sin glade, kjelne Lyra</hi>
+              </l>
+              <l xml:id="idm140245615180528"><hi rend="italics" xml:id="idm140245615180400">og greb til Straffens Riis</hi>.</l>
+            </lg>
+            <p xml:id="idm140245615179440">Jens Zetlitz, 1761-1821, yndet visedigter, gik efter et muntert
+							studenterliv i de københavnske, litterære kredse til sit fædreland
+							Norge, som præst. Skønt forfatter af den bekendte vise: "At
+							slyngler hæves til Ærens Top", var han dog strengt konservativ i sin
+							politiske opfattelse og en fanatisk modstander af de franske
+							frihedsideer. Han var medarbejder ved den ilde medtagne
+							"Folkeven", og da dette blad gik ind, udgød han i tvende
+							satiriske rimbreve til Rahbeks Tilskuer (1795, Nr. 66 og 67) sin vredes
+							fulde skåler over den danske nation for dens uselvstændighed og leflen
+							for det franske frihedssværmeri. Det er disse rimbreve til Erast (Johan
+							Nordahl Brun), som de ovenanførte linier sigter til. Brevene vakte en
+							sådan storm af uvilje, at Rahbek skyndsomst tog afstand fra dem (hvad
+							han forresten med fuld sandhed kunde gøre), og Zetlitz selv fandt sig
+							foranlediget til at gøre en slags afbigt for sine voldsomme udtryk.</p>
+            <p xml:id="idm140245615176880"><hi rend="bold" xml:id="idm140245615176752">10</hi><hi rend="italics" xml:id="idm140245615176224">Man blev som hidtil ved at flikke paa Paines
+							skoe</hi>. Thomas Paine, 1737-1809, en af revolutionsideernes
+							ivrigste og indflydelsesrigeste forfattere; hans værker
+							"Common sense" og "Rights of Man" læstes i alle
+							lande og betragtedes blandt tidens radikale næsten som hellige bøger.
+							- Det ovenanførte sted sigter til et udtryk, som Zetlitz havde
+							benyttet i brevet til Erast.</p>
+            <pb n="d" facs="adl/bruun/bruun1054" xml:id="idm140245615174624"/>
+            <p xml:id="idm140245615173856">
+              <hi rend="bold" xml:id="idm140245615173600">10</hi>
+            </p>
+            <lg xml:id="idm140245615172816">
+              <l xml:id="idm140245615172560">Sid bag op hos Jerusalems Skomager,</l>
+              <l xml:id="idm140245615172128">naar han (af Rejsen aldrig kjedet) drager</l>
+              <l xml:id="idm140245615171680">til Maanen for at hente Flikker til</l>
+              <l xml:id="idm140245615171248">Hr. Paines Sko som ikke holde vil.</l>
+            </lg>
+            <p xml:id="idm140245615170688">"Jerusalems Skomager" er M. C. Bruun, således kaldet på grund
+							af det politiske hefteskrift "Jerusalems Skomagers Rejse til
+							Maanen", 1795.</p>
+            <p xml:id="idm140245615169984"><hi rend="italics" xml:id="idm140245615169856">Cum ceteris ecdesiæ mysteriis</hi> *dolgoeO* tillige
+							med de andre kirkelige mysterier.</p>
+            <p xml:id="idm140245615168912">
+              <hi rend="bold" xml:id="idm140245615168656">11</hi>
+            </p>
+            <lg xml:id="idm140245615167872">
+              <l xml:id="idm140245615167616"><hi rend="italics" xml:id="idm140245615167488">Voltaire, Friderik, Rousseau og Paine</hi>,</l>
+              <l xml:id="idm140245615166656"><hi rend="italics" xml:id="idm140245615166528">De to jordømte Folk ved Shulkill og ved
+								Seine</hi>,</l>
+              <l xml:id="idm140245615165616"><hi rend="italics" xml:id="idm140245615165488">som først paa Knæe for Friheds Dæmon
+							laae</hi>.</l>
+            </lg>
+            <p xml:id="idm140245615164464">Frederik den store, Voltairianeren paa tronen. - Shulkill er en
+							flod i Pensylvanien, hvor Paine en tid fungerede som statssekretær i
+							udenrigsministeriet for De forenede stater. Rousseau tilbragte en stor
+							del af sit liv i Paris og omegn, ved Seinen.</p>
+            <p xml:id="idm140245615163520"><hi rend="bold" xml:id="idm140245615163392">12</hi><hi rend="italics" xml:id="idm140245615162864">som Tøsene, der sig til Bibellæsning trænge</hi>. Et,
+							iøvrigt grundløst, rygte, påstod, at der ved biskop Nicolai Edinger
+							Balles bibellæsninger, som efter branden 1795 holdtes hver søndag i
+							Garnisons kirke, fandt moralske uordener sted, så "at her
+							ikke er større horehus i København, end kirken er på denne tid".</p>
+            <lg xml:id="idm140245615161344">
+              <l xml:id="idm140245615161088">
+                <hi rend="italics" xml:id="idm140245615160832">Du, som opliver end og styrker</hi>
+              </l>
+              <l xml:id="idm140245615160000">
+                <hi rend="italics" xml:id="idm140245615159744">En Schiraks Mod, naar hver hans Prophetie</hi>
+              </l>
+              <l xml:id="idm140245615158896"><hi rend="italics" xml:id="idm140245615158768">Ubønhørt Skjebnens Øre gik forbi</hi>.</l>
+            </lg>
+            <p xml:id="idm140245615157776">Etatsraad Gottlob Benedict von Schirach. 1743-1804, også kaldet
+							Altonas profet, udgav fra 1781 i en lang årrække et konservativt
+							politisk organ: "Politisches <pb n="e" facs="adl/bruun/bruun1055" xml:id="idm140245615157152"/>
+							<hi rend="bold" xml:id="idm140245615156384">12</hi> Journal", der på den hensynsløseste
+							måde angreb alle frihedsbestræbelser. Det omtales hyppig og med temmelig
+							stor foragt i samtidige danske tidsskrifter. Hentydningen sigter til
+							Schirachs triumferende forudsigelser under de allieredes felttog mod
+							Frankrig (1. koalition), der endte med den for Tyskland lidet smigrende
+							fred i Basel 1795.</p>
+            <p xml:id="idm140245615154944"><hi rend="bold" xml:id="idm140245615154816">13</hi><hi rend="italics" xml:id="idm140245615154288">Edmund Burke</hi>, 1729-97, berømt engelsk
+							statsmand og taler, udmærkede sig i begyndelsen af sit offentlige liv
+							ved frisindede anskuelser og knyttede indtil 1790 sit navn til ethvert
+							fremskridt. I dette år foretog han imidlertid, påvirket af den franske
+							revolutions begivenheder, et omslag, som han kundgjorde i
+							"Reflections on the French Revolution", der vakte
+							stor bevægelse Europa over. Man sagde om ham - sikkert dog med
+							urette - at han var bestukket af Pitt.</p>
+            <p xml:id="idm140245615152832"><hi rend="italics" xml:id="idm140245615152704">Kammerherre Caspar Wilhelm v. Munthe af
+							Morgenstjerne</hi> udgav 1793 et konservativt værk "Examen
+							des principes repandus dans l'ouvrage de M. Payne....". Han
+							døde 1811 som stiftamtmand over Lolland-Falsters stift.</p>
+            <p xml:id="idm140245615151472"><hi rend="bold" xml:id="idm140245615151344">14</hi><hi rend="italics" xml:id="idm140245615150816">Girtanners Annaler</hi>. "Politische
+							Annalen", Berlin 1793-1814, udgivet af C. Girtanner
+							(død 1800).</p>
+            <p xml:id="idm140245615149792"><hi rend="italics" xml:id="idm140245615149664">Revolutionsalmanakken</hi>, et lille
+							aristokratskrift, der udgaves i Göttingen fra 1793 til lidt ind i vort
+							århundrede.</p>
+            <p xml:id="idm140245615148608"><hi rend="italics" xml:id="idm140245615148480">Wiener Zeitschrift</hi>. Dette tidsskrift, der nød
+							megen omtale for dets kras-konservative tendens, udgaves af Aloysius
+							Hoffman. En samtidig radikal forfatter betegnede det som "den
+							sidste eksplosion af en hemmelig orden, der ophævedes 1773
+							(Jesuiterordenen, ophævet ved en</p>
+            <pb n="f" facs="adl/bruun/bruun1056" xml:id="idm140245615147088"/>
+            <p xml:id="idm140245615146320"><hi rend="bold" xml:id="idm140245615146192">15</hi> bulle af pave Clemens XIV), og som bestod af de
+							listigste hoveder, der havde indgået et rædsomt forbund imod frihed,
+							oplysning og menneskehed". I dansk oversættelse udkom 1793 et sammendrag
+							af de seks første hefter, betitlet: "Betragtninger over den
+							franske Revolution og Frihedssværmeriet" ved Georg Chr. v. Scheel. Den
+							danske udgiver, der mentes at være beslægtet med de adelige fynske
+							Scheeler, var forøvrigt født i Norge, hvor han tilbragte størstedelen af
+							sit liv efter at have taget dansk juridisk eksamen i København.</p>
+            <p xml:id="idm140245615144608"><hi rend="italics" xml:id="idm140245615144480">Skibsted</hi>, Poul, 1753-1812,
+							generalfiskal fra 1789; Heiberg kaldte ham Chr. Colbjørnsens bulbider.</p>
+            <p xml:id="idm140245615143456"><hi rend="bold" xml:id="idm140245615143328">16</hi><hi rend="italics" xml:id="idm140245615142800">Lyster Kongen dh Gods at tage osv</hi>. Brudstykke af
+							Werner H. F. Abrahamsons berømte vise: "Min Søn, om du vil i
+							Verden frem, saa buk".</p>
+            <p xml:id="idm140245615141728"><hi rend="italics" xml:id="idm140245615141600">Engel, Johann Jacob</hi>, 1741-1802,
+							frugtbar oplysningsforfatter. "Ideen zu einer Mimik", 1785.</p>
+            <p xml:id="idm140245615140688"><hi rend="bold" xml:id="idm140245615140560">17</hi><hi rend="italics" xml:id="idm140245615140032">Pétion</hi> de Villeneuve, Jerome, 1756-94,
+							fransk revolutionsmand. Ved girondisternes fald lykkedes det ham at
+							flygte, men han begik kort efter selvmord på en kornmark ved Bordeaux.
+							- En oversættelse af Pétions værker bebudedes i oktober 1793
+							af Carl Friedrich Cramer, 1752-1807, søn af den kendte
+							københavnske hofpræst og selv professor i Kiel. Da han i
+							subskriptionsindbydelsen betegnede Pétion som "den
+							menneskekærligste ånd og en mand der lider som martyr for sin
+							retskaffenhed", blev han afskediget fra sit professorat og forvist fra
+							Kiel. Han døde i Paris. (L. Krähe, C. F. Cramer bis zu seiner
+							Amtsenthebung. Berlin, 1907).</p>
+            <pb n="g" facs="adl/bruun/bruun1057" xml:id="idm140245615138288"/>
+            <p xml:id="idm140245615137520"><hi rend="bold" xml:id="idm140245615137392">17</hi><hi rend="italics" xml:id="idm140245615136864">En for Døden liggende Mand</hi>. sigter muligvis til
+							"den Schmettowske fejde", som foranlediges ved, at den noget
+							forsumpede rigsgreve s. 1792 i en anonym pjece kritiserede det danske
+							retsvæsen; det trak op til en duel, som regeringen dog forbød, da S's
+							død d. 8. juli 1794 gjorde en ende på sagen.</p>
+            <p xml:id="idm140245615135408"><hi rend="bold" xml:id="idm140245615135280">18</hi><hi rend="italics" xml:id="idm140245615134752">Om alting galt og forstyrret er, osv</hi>. Atter
+							citat af den ovennævnte vise af Abrahamson.</p>
+            <p xml:id="idm140245615133792"><hi rend="bold" xml:id="idm140245615133664">22</hi><hi rend="italics" xml:id="idm140245615133136">William Pitt</hi>, den yngre, 1759-1806,
+							engelsk premier-minister, Napoleons uforsonlige modstander og sjælen i
+							koalitionerne mod ham.</p>
+            <p xml:id="idm140245615132032"><hi rend="italics" xml:id="idm140245615131904">Hvide Kokarder</hi>: Bourbonernes mærke. Udgør med
+							byen Paris' blå-røde trikolorens farver.</p>
+            <p xml:id="idm140245615130912"><hi rend="bold" xml:id="idm140245615130784">25</hi><hi rend="italics" xml:id="idm140245615130256">Voss</hi>, Johan Heinrich, 1751-1826,
+							navnkundig tysk digter og filolog.</p>
+            <p xml:id="idm140245615129360"><hi rend="bold" xml:id="idm140245615129232">27</hi><hi rend="italics" xml:id="idm140245615128704">Negernes Frigning</hi>: Takket være H. E.
+							Schimmelmann forbød Danmark, som den første stat i verden, al handel med
+							negerslaver 1792.</p>
+            <p xml:id="idm140245615127616"><hi rend="bold" xml:id="idm140245615127488">28</hi><hi rend="italics" xml:id="idm140245615126960">Marezoll</hi>, Johann Gottlieb, 1761-1828,
+							rationalistisk præst, indkaldtes på Bernstorffs tilskyndelse 1794 som
+							præst ved st. Petri tyske kirke, hvor han blev en yndet og anset
+							prædikant; men allerede 1803 udnævntes han til professor og
+							superintendent i Jena. Han er forfatter til flere andagtsbøger.</p>
+            <p xml:id="idm140245615125488"><hi rend="italics" xml:id="idm140245615125360">Gutjeld</hi>, Carl, 1761-1823,
+							rationalistisk præst, først i Hørsholm, fra 1795 i Korsør, fra 1811
+							Holmens præst.</p>
+            <p xml:id="idm140245615124288"><hi rend="italics" xml:id="idm140245615124160">Fra flere Universiteter</hi>. sigter til den lange
+							strid om et selvstændigt norsk universitet, der endte med <pb n="h" facs="adl/bruun/bruun1058" xml:id="idm140245615123280"/><hi rend="bold" xml:id="idm140245615122592">28</hi> universitetets oprettelse 1811. sagen havde en
+							varm talsmand i J. N. Wilse (se note til s. 29).</p>
+            <p xml:id="idm140245615121696"><hi rend="italics" xml:id="idm140245615121568">Fra en Theaterdirektion begavet med Fornuft</hi>.
+							Sigter til Grev Ahlefeldts teaterdirektion fra 1793. Ved sin hovmodige
+							og egenrådige optræden lagde han sig stærkt ud med forfatterne. (Se
+							Overskous teaterhistorie).</p>
+            <p xml:id="idm140245615120320"><hi rend="italics" xml:id="idm140245615120192">Fra Operaens Forstødelses</hi>. Fra 1789 førtes en
+							forbitret strid om operaens berettigelse på skuepladsen, med
+							udgangspunkt særlig i Baggesens "Holger Danske" med musik af
+							Kunzen; Baggesens text blev lobhudlet af hans ven Cramer og parodieret
+							af P. A. Heiberg i "Holger Tydske".</p>
+            <p xml:id="idm140245615118768"><hi rend="italics" xml:id="idm140245615118640">Fædrenelandskhed</hi>: I århundredets slutning mærkes
+							ofte en vågnende nationalbevidsthed, med brod mod tyskeriet.</p>
+            <p xml:id="idm140245615117584"><hi rend="italics" xml:id="idm140245615117456">"Dyveke"</hi>, sørgespil af O. J. Samsøe.
+							Det opførtes 1796 få dage efter forfatterens død og gjorde umådelig
+							lykke.</p>
+            <p xml:id="idm140245615116384"><hi rend="italics" xml:id="idm140245615116256">"Einar Tambeskjelver"</hi>, skuespil af
+							Johan Nordahl Brun.</p>
+            <p xml:id="idm140245615115376"><hi rend="italics" xml:id="idm140245615115248">"Brutus"</hi> og <hi rend="italics" xml:id="idm140245615114528">"Cæsars Død"</hi>, to tragedier af Voltaire. De var på
+							denne tid ikke opført herhjemme - rimeligvis på grund af
+							æmnet.</p>
+            <p xml:id="idm140245615113440"><hi rend="bold" xml:id="idm140245615113312">29</hi><hi rend="italics" xml:id="idm140245615112784">Burke, Dundas, Pitt og Girtanner</hi>, Spidserne
+							inden for den aristokratiske litteratur. Henry Dundas,
+							1742-1811, var indenrigsminister under Pitt. I 1792 indledede
+							han parlamentets debat om undertrykkelse af oprørske skrifter og rettede
+							ved denne lejlighed et skarpt angreb på Tom Paine.</p>
+            <pb n="i" facs="adl/bruun/bruun1059" xml:id="idm140245615111376"/>
+            <p xml:id="idm140245615110560">
+              <hi rend="bold" xml:id="idm140245615110304">29</hi>
+            </p>
+            <lg xml:id="idm140245615109520">
+              <l xml:id="idm140245615109264"><hi rend="italics" xml:id="idm140245615109136">Styrk Doktor Esaias Fleischer</hi>,</l>
+              <l xml:id="idm140245615108304">
+                <hi rend="italics" xml:id="idm140245615108048">naar drabelig ban hæver sin Kølle</hi>
+              </l>
+              <l xml:id="idm140245615107184"><hi rend="italics" xml:id="idm140245615107056">over Repertørens Isse</hi>.</l>
+            </lg>
+            <p xml:id="idm140245615106080">Repertøren er Malte Møller, 1771-1834, der som teologisk
+							student fra Jena udgav "Repertorium for Fædrelandets
+							Religionslærere", fem hefter 1795-97, hvis hensigt var at gøre
+							teologerne kendt med Kants filosofi. Skriftet vakte opsigt ved sine
+							personlige angreb og "kætterske" udtalelser. -
+							Rasmus (ikke Esaias) Fleischer, 1744- 1804, fra 1782 præst i
+							Kalundborg - hvorfor han kaldtes "den kalundborgske
+							havgasse" - angreb kraftigt repertoriet i det konservative
+							tidsskrift "Kritik og Antikritik".</p>
+            <p xml:id="idm140245615105072"><hi rend="italics" xml:id="idm140245615104944">Beskyt Universitets-Journalisten</hi>. Prof. Jacob
+							Baden, 1735 -1804, udgav 1793-1801 Kiøbenhavns
+							Universitets-Journal, et fjerdingårsskrift af konservativ og polemisk
+							karakter. Hans oversættelse af Horats, 1792-93, blev for sin
+							smagløshed temmelig hårdt medtaget af både samtid og eftertid, af M. C.
+							Bruun i "Fluesmækken", senere bl. a. af J. L. Heiberg.</p>
+            <p xml:id="idm140245615103376"><hi rend="italics" xml:id="idm140245615103248">Bjeffer ad Berger</hi>. Joh. Erich v. Berger,
+							1772-1833, gjorde som ganske ung student megen opsigt ved et
+							lille skrift "Dagens Anliggende, et Ord til Danmarks
+							selvtænkende Mænd". 1794, hvori han fremtrådte som en begejstret apostel
+							for "det fra Tyskland udgangne fornuftevangelium" (Kants
+							filosofi). Båden kritiserede skarpt, skønt ingenlunde hadsk, dette lille
+							manifest i sin Universitets-Journal.</p>
+            <p xml:id="idm140245615101568"><hi rend="italics" xml:id="idm140245615101440">Viser Tænder ad Vilse</hi>. J. N. Wilse,
+							1735-1801, professor og præst i Eidsberg i Aggershus stift,
+							var den <pb n="j" facs="adl/bruun/bruun1060" xml:id="idm140245615100512"/><hi rend="bold" xml:id="idm140245615099872">29</hi> ivrigste forkæmper for tanken om et selvstændigt
+							norsk universitet i Kristiania. Baden var en modstander af disse planer.
+							Udtrykkene <hi rend="italics" xml:id="idm140245615098896">Cerberus</hi> og <hi rend="italics" xml:id="idm140245615098176">Herkules</hi> er vistnok begge hentede fra Wielands
+							"Göttergespräche". Baden havde nemlig på en vis
+							måde gjort sig identisk med denne - i alt fald i de radikales
+							øjne - ved i "Universitets-Journalen" at
+							oversætte en afhandling af ham, hvori det frarådes monarkerne at fire
+							for de revolutionære krav. Denne afhandling med mottoet: Oderint dum
+							metuant (*dolgloeO* Lad dem kun hade, når de blot frygte), fremkaldte et
+							langt og forbitret gensvar i "Iris og Hebe",
+							hvorpå Baden replicerede i en artikel: "Pygmæernes Strid med
+							Herkules" (Wieland). Se Universitets-Journalen for 1796.</p>
+            <p xml:id="idm140245615096640"><hi rend="italics" xml:id="idm140245615096512">Knuser Robespierre og Sveistrup</hi>. Hans Guldberg
+							Sveistrup, 1770-1824, politisk visedigter, radikal, god ven af
+							Bruun og kendelig påvirket af ham i sine produkter. Sveistrup havde i et
+							tidsskrift oversat en af Robespierres taler, og dette havde Baden
+							forarget sig over. Se også indledningen.</p>
+            <p xml:id="idm140245615095088"><hi rend="italics" xml:id="idm140245615094960">Befæst Kirkens Flode ved dens Ankere</hi>. Ved
+							ankerne sigtes til biskop Balles apologetiske tidsskrift
+							"Pligtankeret", 1793-96.</p>
+            <p xml:id="idm140245615093968"><hi rend="italics" xml:id="idm140245615093840">Fra physisk og politisk Magazin</hi>.
+							"Politisk og physisk Magazin", et radikalt tidsskrift,
+							udgivet 1793-96 af Rudolph Buchhave. Heiberg og Riegels var
+							flittige medarbejdere derved.</p>
+            <p xml:id="idm140245615092832"><hi rend="bold" xml:id="idm140245615092704">30</hi><hi rend="italics" xml:id="idm140245615092176">Samleren</hi>, udgivet 1794-98 af
+							bogtrykker H. L. S. Winding, var et radikalt tidsskrift, som Bruun var
+							flittig medarbejder ved.</p>
+            <pb n="k" facs="adl/bruun/bruun1061" xml:id="idm140245615091216"/>
+            <p xml:id="idm140245615090400"><hi rend="bold" xml:id="idm140245615090272">30</hi><hi rend="italics" xml:id="idm140245615089744">Lærde Efterretninger</hi>, litterært tidsskrift,
+							grundlagt 1722, fra 1790 udgivet af Rasmus Nyerup.</p>
+            <p xml:id="idm140245615088720"><hi rend="italics" xml:id="idm140245615088592">Jesus og Fornuften</hi>, et fritænkersk tidsskrift,
+							1796-1801, udgivet af Otto Horrebow. - De her nævnte
+							tidsskrifter var de vigtigste oppositionelle organer såvel i politisk
+							som i religiøs henseende.</p>
+            <p xml:id="idm140245615087360"><hi rend="italics" xml:id="idm140245615087232">Riems og Tellers Klipper</hi>. Andreas Riem, frugtbar
+							tysk filosofisk og politisk forfatter, var en ivrig forsvarer af den
+							kantske fornuftreligion. Albert Teller, ligeledes kendt tysk
+							rationalist; hans bog om "de fuldkomneres religion" var også
+							oversat på dansk.</p>
+            <p xml:id="idm140245615085856"><hi rend="italics" xml:id="idm140245615085728">Kants Malstrøm</hi>. Man gør sig i almindelighed kun
+							lidet begreb om den store praktiske indflydelse, Kants filosofi havde i
+							slutningen af forrige århundrede. Hans skrifter var de rustkamre,
+							hvorfra det beståendes angribere hentede deres våben. Således kom den
+							gamle, stilfærdige Konigsberger-filosof på mode og var endog her i
+							Danmark så populær, at man på Københavns børs forhandlede en
+							sølvmedaille af ham til 4 rdl. stykket. (Ipsen).</p>
+            <p xml:id="idm140245615084272"><hi rend="bold" xml:id="idm140245615084144">32</hi><hi rend="italics" xml:id="idm140245615083616">Fryd dig ved Livet</hi>. Digt af Rasmus Frankeman,
+							1767- 1811.</p>
+            <p xml:id="idm140245615082736"><hi rend="bold" xml:id="idm140245615082608">34</hi><hi rend="italics" xml:id="idm140245615082080">I tydske Heltes Skikkelse, Serafers udvalgte Hær! Med
+								Trin, som Langulaffers, til Babylon-Paris de nærme sig</hi>. Det er
+							en spot over Schirachs profetier om de franskes snarlige undergang og de
+							allierede troppers indtog i Paris. - Langulaffer, prins af
+							Libanon, er en af personerne i Baggesens opera "Holger
+							Danske", der gør sig usynlig, da det gælder.</p>
+            <pb n="l" facs="adl/bruun/bruun1062" xml:id="idm140245615080480"/>
+            <p xml:id="idm140245615079712"><hi rend="bold" xml:id="idm140245615079584">34</hi><hi rend="italics" xml:id="idm140245615079056">"Jeg synger gerne om Kongers Magt"</hi>,
+							vise af Jens Zetlitz (Poesier, 1789, s. 227).</p>
+            <p xml:id="idm140245615078160"><hi rend="bold" xml:id="idm140245615078032">35</hi><hi rend="italics" xml:id="idm140245615077504">Vel sandt jert Feldttog kun vared' kort</hi>.
+							Allerede i 1795 var det lykkedes Frankrig at tvinge de fleste af sine
+							fjender til at slutte fred.</p>
+            <p xml:id="idm140245615076544"><hi rend="italics" xml:id="idm140245615076416">Prins York</hi>. Frederick Augustus, Hertug af York,
+							1763 -1827, Georg den tredjes søn, førte fra 1793 de engelske
+							hære i Nederlandene.</p>
+            <p xml:id="idm140245615075312"><hi rend="bold" xml:id="idm140245615075184">36</hi><hi rend="italics" xml:id="idm140245615074656">King George</hi>, den engelske konge Georg den
+							tredje. - I Heibergs "Klubvise" af 1794, forekommer
+							følgende vers:</p>
+            <lg xml:id="idm140245615073600">
+              <l xml:id="idm140245615073344">King George han spiller høje Spil,</l>
+              <l xml:id="idm140245615072880">en Satan (*dolgoeO* Pitt) fik ham nylig til</l>
+              <l xml:id="idm140245615072432">at rive Folkets Klubber ned</l>
+              <l xml:id="idm140245615072000">sig selv til stor Fortræd.</l>
+            </lg>
+            <p xml:id="idm140245615071424">Dristigheden kostede for øvrigt Heiberg 300 rdl.</p>
+            <p xml:id="idm140245615070928"><hi rend="italics" xml:id="idm140245615070800">Og det er Løgn, at han Stemmer kjøber</hi>.
+							Formodentlig hentydning til Burke, (sig. note til s. 13).</p>
+            <p xml:id="idm140245615069840"><hi rend="italics" xml:id="idm140245615069712">I</hi><hi rend="italics" xml:id="idm140245615069184">tre, som deelte nys Polens Rige</hi>. Polens sidste
+							deling foretoges 1795 af Rusland, Prøjsen og Østrig, medens vestmagterne
+							var optagne af den franske revolution.</p>
+            <p xml:id="idm140245615068048"><hi rend="bold" xml:id="idm140245615067920">37</hi><hi rend="italics" xml:id="idm140245615067392">Hvor saare lidet vil der til</hi>. Vise af Zetlitz
+							(Poesier, 1789. s. 294).</p>
+            <p xml:id="idm140245615066496"><hi rend="italics" xml:id="idm140245615066368">Der Topf, der Topf ist's Vaterland</hi>: citat af
+							Voss' digt "Der zufriedene Sklave" (Gedichte III, 1802, s.
+							52).</p>
+            <p xml:id="idm140245615065424"><hi rend="bold" xml:id="idm140245615065296">41</hi><hi rend="italics" xml:id="idm140245615064768">Irruimus, densis et circumfundimur armis</hi>,
+							*dolgoeO* Vi styrter ind på dem og omgiver dem med tætte våben. Vergils
+							Æneide, II, 383.</p>
+            <pb n="m" facs="adl/bruun/bruun1063" xml:id="idm140245615063680"/>
+            <p xml:id="idm140245615062864"><hi rend="bold" xml:id="idm140245615062736">41</hi><hi rend="italics" xml:id="idm140245615062208">Bene qui latuit bene vixtt</hi>, *dolgoeO* Den har
+							levet vel, som har levet skjult. Ovid Tristia III, 4,25.</p>
+            <p xml:id="idm140245615061280"><hi rend="italics" xml:id="idm140245615061152">Fertur equis auriga, nec audit currus habenas</hi>,
+							*dolgoeO* kusken føres afsted af hestene, og vognen lystrer ikke tømmen.
+							Vergil, Georgica, I. 514.</p>
+            <p xml:id="idm140245615060048"><hi rend="italics" xml:id="idm140245615059920">Paa Soldins Hylder</hi>, A. Soldin, københavnsk
+							boghandler, forlagde "Aristokraternes Catechismus".</p>
+            <p xml:id="idm140245615058912"><hi rend="bold" xml:id="idm140245615058784">42</hi><hi rend="italics" xml:id="idm140245615058256">schwergereimte Ode à la Voss</hi>. Sigter til en
+							slags versifikatoriske kunststykker, som under denne benævnelse findes
+							spredt blandt Voss' lyriske Digte. Vanskeligheden består i sjældenheden
+							af de valgte rim.</p>
+            <p xml:id="idm140245615056976"><hi rend="bold" xml:id="idm140245615056848">43</hi><hi rend="italics" xml:id="idm140245615056320">rime struccioti, som Hr. Schak Staffelt har nytigen
+								anbejalet os</hi>. I "Euphrosyne" for 1796 findes et digt
+							af Schack Staffeldt: "Til den troløse", hvori forekommer
+							følgende vers:</p>
+            <lg xml:id="idm140245615055168">
+              <l xml:id="idm140245615054912">Naar da i dobbelt Favn forenede.</l>
+              <l xml:id="idm140245615054480">med Mund paa Mund, med Bryst paa Bryst,</l>
+              <l xml:id="idm140245615054048">som til et Støttepar forstenede</l>
+              <l xml:id="idm140245615053584">I daane, dø i Elskovs Lyst.</l>
+            </lg>
+            <p xml:id="idm140245615052992">Nedenunder er i en Note tilføjet: Hvorfor skulde vi ikke stundom turde
+							bruge disse af Italienerne tidt brugte rime struccioli? (daktylrim).</p>
+            <p xml:id="idm140245615052304"><hi rend="italics" xml:id="idm140245615052176">Hvis da fra Prækestol en Maaløe eller Langhorn, en
+								Antimarezoll dig taler til</hi>. Maaløe, H. W. L..
+							1761-1841, præst og lærer. - Langhorn, R. P.,
+							1740-97, "kinapræsten" kaldet, fordi han havde
+							været skibspræst, siden ansat i Norge; hans prækener er udtværede og
+							enfoldige. Begge var som teologer konservative.</p>
+            <pb n="n" facs="adl/bruun/bruun1064" xml:id="idm140245615050656"/>
+            <p xml:id="idm140245615049888">
+              <hi rend="bold" xml:id="idm140245615049632">43</hi>
+            </p>
+            <lg xml:id="idm140245615048848">
+              <l xml:id="idm140245615048592"><hi rend="italics" xml:id="idm140245615048464">Buk dybt for Malling og for Reistrup</hi>;</l>
+              <l xml:id="idm140245615047584">
+                <hi rend="italics" xml:id="idm140245615047328">ønsk dem paa Styverfangsten meget Held!</hi>
+              </l>
+            </lg>
+            <p xml:id="idm140245615046352">Malling og Reistnip var begge københavnske boghandlere og udgivere af
+							talrige skillingspjecer. Hos Reistrup ses bl. a. at være udkommet:
+							"Revselse til Hr. P. A. Heiberg og Hr. M. K. Bruun for deres
+							barnagtige Opførsel i Striden og Ende paa Striden Dyveke-Sagen
+							angaaende". Hvad der her sigtes til ved "Styverfangsten", er
+							uvist. Muligvis til udgivelsen af et æstetisk tidsskrift
+							"Pallas", som Reistrup netop den gang havde påbegyndt, og
+							hvorom det markskrigeragtigt hed i subskriptionsindbydelsen, at
+							"hensigten med dets udgivelse var ikke blot at more, men
+							fornemmelig at gavne. Uden sky at bringe sandheden og tidernes tarv
+							sådanne ofre, som kunne tjene til at befæste menneskets rettigheder og
+							fremme menneskehedens vel, skal især være dets hovedformål".</p>
+            <p xml:id="idm140245615044192"><hi rend="bold" xml:id="idm140245615044064">44</hi><hi rend="italics" xml:id="idm140245615043536">Men naadigen betragte Dig, som et uvigtigt dansk
+								Skrivt</hi>. De bøger, som anmeldtes i Badens Universitets-Journal,
+							anmeldtes under titlen "Vigtige danske Skrifter", en
+							kategori, som fremkaldte megen kritik.</p>
+            <p xml:id="idm140245615042336"><hi rend="italics" xml:id="idm140245615042208">En vis philosophisk Recensent i Lærde Efterretninger,
+								som ogsaa hader og frygter Kant</hi>. I L. E. for 1795, nr. 26,
+							findes en skarp kritik af Bergers "Dagens Anliggende". Sig.
+							note til s. 29.</p>
+            <p xml:id="idm140245615041088"><hi rend="italics" xml:id="idm140245615040960">Hr. M. Hagerup, Hr. H. G. Beckmann, Hr. Hans von
+								Gyldenpalm</hi>. Hagerup, Mathias, f. 1765, d. 1822 som sekretær ved
+							det norske statsråds afdeling i Stockholm. Skrev lovtaler over Niels
+							Juel, Tordenskjold og Daniel Rantzau. - Bechmann, Hans Gram,
+							1759-1836, præst i <pb n="o" facs="adl/bruun/bruun1065" xml:id="idm140245615039760"/><hi rend="bold" xml:id="idm140245615039120">44</hi> Raarup i Aarhus stift, digter og teologisk
+							forfatter. - Hans Hagerup, 1717-81, adledes fire
+							dage efter sin død som stiftamtmand i Norge under navnet Gyldenpalm.
+							Nogen Gyldenpalm ses ikke at have optrådt som forfatter i halvfemserne.</p>
+            <p xml:id="idm140245615037808"><hi rend="bold" xml:id="idm140245615037680">45</hi><hi rend="italics" xml:id="idm140245615037152">den forhenværende Redaktør af "Kritik og
+								Antikritik"</hi>: J.C.Tode. Den nuværende redaktør: F.
+							Ekkard, bibliotekssekretær ved Det kgl. bibliotek.</p>
+            <p xml:id="idm140245615036016"><hi rend="italics" xml:id="idm140245615035888">Recensenten i Iris</hi> udmærkede sig på daværende
+							tidspunkt ved nogle temmelig parodiske og intetsigende anmeldelser.
+							(Ipsen).</p>
+            <p xml:id="idm140245615034816"><hi rend="italics" xml:id="idm140245615034688">Indprænt Vedkommende en fast Troe paa de Folks
+								Redelighed, som anvendte Tredivetusinde Rigsdaler paa at anlægge en
+								Fjerdingmiils Vei</hi>. - Tvende helsingørske købmænd,
+							Arthur Howdens og Jean Jakob Claessen, havde til stiftamtmand Knuth i
+							samme by indgivet en klage over vejskatten, der efter deres mening var
+							uretfærdig pålignet. De ansøgte om lettelse af denne byrde, der var
+							steget uforholdsmæssigt på det sidste, og påberåbte sig navnlig, at vej
+							regnskabet udviste udgifter, som ikke kom vejen ved, og at denne
+							overhovedet ikke kunde have kostet synderligt efter dens fuldendelse.
+							Det vedlagte extrakt af vejregnskabet viser også en post som denne: Lånt
+							adskillige vejen uvedkommende 2822 rdl. 5 mrk. 4 sk. -
+							Stiftamtmanden oversendte denne skrivelse til Helsingørs magistrat. Det
+							kgl. danske kancelli resolverede, at ansøgerne ikke var berettiget til
+							de ønskede nedsættelser. (Se: Tvende Ansøgninger fra Helsingør med Svar
+							efter bilagte Ekstrakter af Byens Vejregnskaber. Kbhvn. 1795).</p>
+            <pb n="p" facs="adl/bruun/bruun1066" xml:id="idm140245615031696"/>
+            <p xml:id="idm140245615030928"><hi rend="bold" xml:id="idm140245615030800">46</hi><hi rend="italics" xml:id="idm140245615030272">Bardts Catechismus der natürlichen Religion, som en
+								Hr. Seidelin vover at oversætte</hi>. Naturlig Religions Katekismus,
+							oversat af K. H. Seidelin. Kbhvn. 1796. Forfatteren K. F. Bahrdt,
+							1741-92, var professor og præst i Leipzig, men anklaget som
+							radikal rationalist måtte han nedlægge sit embede. - <hi rend="italics" xml:id="idm140245615028912">Klavs Henrik Seidelin</hi>, 1761-1811, var
+							en kendt københavns bogtrykker og forlægger ("de seidelinske
+							udgaver"); men samtidig virkede han som frugtbar forfatter og
+							oversætter, indtil han 1805 mistede sin bogtrykkerbevilling.</p>
+            <p xml:id="idm140245615027632"><hi rend="italics" xml:id="idm140245615027504">O tempora, o mores. -</hi> Udtryk fra
+							Ciceros første catilinariske tale.</p>
+            <p xml:id="idm140245615026560"><hi rend="italics" xml:id="idm140245615026432">det ugudelige Jena</hi>. Jena var i slutningen af
+							forrige århundrede som et brændpunkt for fritænkerske og revolutionære
+							ideer. Der udgaves den radikale, også her i landet meget læste
+							"Allgemeine Literatur-Journal"; derfra fik vi den bekendte
+							rationalistiske præst Marezoll, og der virkede rationalisten Paulus.</p>
+            <p xml:id="idm140245615024960"><hi rend="italics" xml:id="idm140245615024832">Aloysius Hoffman</hi>: se note til s. 14.</p>
+            <p xml:id="idm140245615023984"><hi rend="italics" xml:id="idm140245615023856">den nye Naturkyndigheds Professor</hi>: Nicolai
+							Bøtcher, 1756-1821, fra 1795 professor i naturvidenskab ved
+							Københavns universitet. Udgav 1793 "Den physicalske Aarbog",
+							7de Bd., hvori lindes en afhandling: "Hvorfor Tagstenene i
+							heftig Vind kastes ned af Husene". 1794 -97 udgav han
+							"Den naturlige Magie", I-II. hvori der foruden
+							mange fysiske, kemiske og ekvilibristiske kunster også findes et afsnit
+							helliget "Økonomiske Kunststykker". Det er halvt om halvt en
+							kogebog, hvor iblandt <pb n="q" facs="adl/bruun/bruun1067" xml:id="idm140245615022496"/><hi rend="bold" xml:id="idm140245615021856">46</hi> mange andre fortræffelige ting også findes en
+							detailleret anvisning til at dryppe de forskellige slags stege.</p>
+            <p xml:id="idm140245615020816"><hi rend="bold" xml:id="idm140245615020688">47</hi><hi rend="italics" xml:id="idm140245615020160">I, pedes quo te rapiunt et auræ! I, nostri
+							memorl</hi> Gå, hvorhen fødderne og vinden bære dig! Gå, men kom os i
+							hu! Begyndelsen anført efter Horats Oder, bog III, ode II. v. 49,
+							slutningen lidt forandret.</p>
+          </div>
+          <pb n="68" facs="adl/bruun/bruun1068" xml:id="idm140245615018768"/>
+          <pb n="69" facs="adl/bruun/bruun1069" xml:id="idm140245615018000"/>
+          <div xml:id="idm140245615013168">
+            <head xml:id="idm140245615012912"><hi rend="italics" xml:id="idm140245615012784">Malthe Conrad Bruun</hi><lb xml:id="idm140245615012224"/> Aristokraternes Catechismus</head>
+            <p xml:id="idm140245615011792">er udsendt som Privattryk af Lærerpersonalet ved Fagkolen for
+							Boghaandværks Bogtrykskole. Papiret er fra Aktieselskabet De forenede
+							Papirfabrikker.Titelvignetten og Bindets Overtrækspapir er tegnet af
+							Helge Kühn Nielsen, og Clicheerne hertil er fremstillet i Kemigraffagets
+							Lærlingeskole. Trykningen er udført paa Fagskolen og Indbindingen hos
+							Kgl. Hof-Bogbinder Carl Petersens Enke. Bogens Oplag er 650 nummererede
+							Eksemplarer, der ikke kommer i Handelen. - Dette Eksemplar er</p>
+            <p xml:id="idm140245615010736"><hi rend="italics" xml:id="idm140245615010608">Nummer</hi><lb xml:id="idm140245615010048"/> 566</p>
+          </div>
+        </back>
+      </text>
+    </group>
+  </text>
+</TEI>

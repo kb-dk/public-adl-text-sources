@@ -1,0 +1,1421 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="idm139817691765840"><!-- 
+       file     ./marc_dir/000180121.xml
+       field     
+       subfield  
+       prefix   -->
+  <teiHeader xml:id="idm139817691765184">
+    <fileDesc xml:id="idm139817691764928">
+      <titleStmt xml:id="idm139817691764624">
+        <title xml:id="idm139817691739120">DANIEL — DANIELA</title>
+        <author xml:id="idm139817691738736">KARL LARSEN</author>
+      </titleStmt>
+      <publicationStmt xml:id="idm139817691738224">
+        <publisher xml:id="idm139817691737968">M. P. MADSENS BOGHANDEL</publisher>
+        <idno xml:id="idm139817691737584" xml:base="texts/larsenk_10.xml">000180121:10</idno>
+        <availability xml:id="idm139817691736944">
+          <p xml:id="idm139817691736640">Copyright 1922 by Karl Larsen, København.</p>
+        </availability>
+      </publicationStmt>
+      <notesStmt xml:id="idm139817691735904">
+        <note xml:id="idm139817691735648">
+	  </note>
+      </notesStmt>
+      <sourceDesc xml:id="idm139817691735136"><bibl xml:id="idm139817691735008"><author n="1" xml:id="idm139817691734320"><name xml:id="idm139817691734064"><surname xml:id="idm139817691733936">Larsen</surname>, <forename xml:id="idm139817691733504">Karl</forename></name></author><title xml:id="idm139817691733216">Daniel-Daniela</title><pubPlace xml:id="idm139817691732928">Kbh</pubPlace>
+<publisher xml:id="idm139817691732496">M.P.Madsens Boghandel</publisher><date xml:id="idm139817691732160">1922</date></bibl><listBibl xml:id="idm139817691731872"><bibl xml:id="biblid54095"><title xml:id="idm139817691718720">Daniel — Daniela</title></bibl></listBibl></sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text xml:id="workid54095" decls="#biblid54095">
+    <front xml:id="idm139817691717072">
+      <pb n="1" xml:id="s1" facs="adl/larsenk/larsenk_10/larsenk_10_001"/>
+      <div type="half_titlepage" xml:id="idm139817691715664">
+        <p xml:id="idm139817691715136">DANIEL — DANIELA</p>
+      </div>
+      <pb n="2" xml:id="s2" facs="adl/larsenk/larsenk_10/larsenk_10_002"/>
+      <div xml:id="idm139817691713424">
+        <p xml:id="idm139817691713168">
+          <hi rend="italics" xml:id="idm139817691712864">1. og 2. Tusinde.</hi>
+        </p>
+      </div>
+      <pb n="3" xml:id="s3" facs="adl/larsenk/larsenk_10/larsenk_10_003"/>
+      <titlePage xml:id="idm139817691710816">
+        <docAuthor xml:id="idm139817691710560">KARL LARSEN</docAuthor>
+        <docTitle xml:id="idm139817691710144">
+          <titlePart type="main" xml:id="idm139817691709840">
+            <title level="m" xml:id="idm139817691795392">DANIEL — DANIELA<lb xml:id="idm139817691794848"/>MED ET FORORD AF FORFATTEREN<lb xml:id="idm139817691794592"/>OG EN EFTERSKRIFT AF PROFESSOR<lb xml:id="idm139817691794336"/>DR. MED. OLUF THOMSEN</title>
+          </titlePart>
+        </docTitle>
+        <docImprint xml:id="idm139817691793664">
+          <publisher xml:id="idm139817691793408">M. P. MADSENS BOGHANDEL<lb xml:id="idm139817691793120"/>(RECHTWIG &amp; TRYDE)<lb xml:id="idm139817691792832"/>KØBENHAVN MCMXXII</publisher>
+        </docImprint>
+      </titlePage>
+      <pb n="4" xml:id="s4" facs="adl/larsenk/larsenk_10/larsenk_10_004"/>
+      <div type="copyright" xml:id="idm139817691684368">
+        <p xml:id="idm139817691683840"><hi rend="italics" xml:id="idm139817691683712">Copyright 1922 by Karl Larsen, København</hi>.</p>
+        <p xml:id="idm139817691682832"><hi rend="italics" xml:id="idm139817691682704">Oversættelsesretten for Rusland forbeholdes</hi>.</p>
+        <p xml:id="idm139817691681808">DET HOFFENSBERGSKE ETABL. KBHVN.</p>
+      </div>
+      <pb n="5" xml:id="s5" facs="adl/larsenk/larsenk_10/larsenk_10_005"/>
+      <div xml:id="idm139817691680192">
+        <p xml:id="idm139817691679936">
+          <hi rend="italics" xml:id="idm139817691679680">OM jeg mindes ret, var det i Eftersommeren 1904, at jeg, paa Grundlag af Skizzer, nedskrevne Aar iforvejen, fuldendte efterfølgende lille Skrift.</hi>
+        </p>
+        <p xml:id="idm139817691678592">
+          <hi rend="italics" xml:id="idm139817691678336">Hermed havde jeg befriet mig for et Stof, der siden min tidlige Ungdom i Slutningen af Halvfjerdserne havde beskæftiget min Tanke og fristet min Pen.</hi>
+        </p>
+        <p xml:id="idm139817691677232">
+          <hi rend="italics" xml:id="idm139817691676976">Indenfor de yngre, akademiske, litterære og kunstneriske Krese, hvortil jeg dengang hørte, færdedes Mænd af et for en opmærksom Iagttager umiskendeligt, ejendommeligt Væsen, der pegede mod det feminine.</hi>
+        </p>
+        <p xml:id="idm139817691675760">
+          <hi rend="italics" xml:id="idm139817691675504">Blandt dem fandtes højst forskellige Individer, meget begavede og lidet intelligente, moralsk uangribelige og stærkt anløbne, men alle prægede af et fremmedartet noget, som baade pirrede psykologisk Videbegærlighed og affødte enten uimodstaaelig Modvilje eller en vis, uklar og tungsindig Medfølelse.</hi>
+        </p>
+        <pb n="6" xml:id="s6" facs="adl/larsenk/larsenk_10/larsenk_10_006"/>
+        <p xml:id="idm139817691672992">
+          <hi rend="italics" xml:id="idm139817691672736">Datiden affandt sig med disse Mennesker paa en meget primitiv Maade, for saa vidt den — i særligt iøjnefaldende Tilfælde — overhovedet fik noget Indtryk af deres Ejendommelighed. Den offentlige Mening betragtede dem, som Middelalderen opfattede Sindssyge eller Forbrydere; Videnskaben lod dem ganske ligge; Skønlitteraturen faldt ikke paa at røre ved dem. Svage og forskræmte Røster, der fra Udlandet, særligt Tyskland, kunde snige sig til at tale om disse Mennesker som om andre, naturlige Foreteelser, naaede kun frem til indviede Kredse, hvor man vel vogtede sig for at bringe dem videre af Frygt for de Følger, aaben Diskussion om Sagen maaske kunde medføre for direkte implicerede; det syntes mindre risikabelt at forblive i Skjul bag det gamle Gærde af Fortielse, Forstillelse og Omskrivning.</hi>
+        </p>
+        <p xml:id="idm139817691670128">
+          <hi rend="italics" xml:id="idm139817691669872">Dertil kom, at hele Spørgsmaalets Behandling fra deres Side, som overhovedet vovede litterært at tage det op, endnu var højst ufuldstændig og uklar, ofte præget af en hysterisk Fantasi, der paa sin Side kunde føre lige saa langt bort fra Virkeligheden som den store Opinions Stupiditet.</hi>
+        </p>
+        <p xml:id="idm139817691668480">
+          <hi rend="italics" xml:id="idm139817691668224">— Paa det Tidspunkt, da jeg havde udarbejdet min Skildring af en bestemt Type <pb n="7" xml:id="s7" facs="adl/larsenk/larsenk_10/larsenk_10_007"/>
+indenfor den omtalte Verden og i denne Fremstilling tillige anskueliggjort en Række andre Varieteter af samme menneskelige Art, laa Forholdene noget — men ikke væsentligt — anderledes.</hi>
+        </p>
+        <p xml:id="idm139817691665840">
+          <hi rend="italics" xml:id="idm139817691665584">Ganske vist havde Videnskaben, fra den sidste Halvdel af Firserne at regne, omsider taget Spørgsmaalet alvorligt op til Behandling, og Resultalerne, særligt af fremragende tyske Forskeres Undersøgelser, var ved at vinde Indflydelse ogsaa paa danske Lægers og Kriminalisters Skøn og Dom; men ud over en langsom Paavirkning fra disse snevre Kredse var den almindelige Opfattelse ikke naaet.</hi>
+        </p>
+        <p xml:id="idm139817691664000">
+          <hi rend="italics" xml:id="idm139817691663744">Naar jeg gjorde Forsøget paa at udnytte min Iagttagelse indenfor den givne Sfære æstetisk, var det vel i første Række af Trang til digterisk at udforme erhvervet Erkendelse men dernæst ogsaa for at bidrage min Skærv til at bryde retfærdig Bedømmelse en Vej paa et saare vanskeligt Omraade. Derimod ingenlunde af umiddelbar Sympati med den paagældende Art Mennesker. Paa visse Undtagelser nær byder de mig nærmest imod, og mange af deres, om jeg saa maa sige, sekundære Kønskarakterer, det skuespilleragtige, barnagtigt selvoptagne og for store Gruppers <pb n="8" xml:id="s8" facs="adl/larsenk/larsenk_10/larsenk_10_008"/>vedkommende løgnagtige kan jeg kun komme ud over gennem humoristisk Betragtning. Desuden drager jeg ingenlunde den sentimentale Konsekvens af en af vor Tidsalders Deviser, det — af en Kvinde lancerede — Tout comprendre, c'est tout pardonner; jeg erkender ingenlunde alt naturligts Adkomst til uantastet Selvhævdelse men finder, at indenfor Samfundene som hos det enkelte Menneske kan Situationen kræve Undertrykkelse, ja Udryddelse af hvad, der rent naturmæssigt har uomtvistelig Berettigelse; Mennesket er nok et Pattedyr, men det er ikke blot et Pattedyr.</hi>
+        </p>
+        <p xml:id="idm139817691660560">
+          <hi rend="italics" xml:id="idm139817691660304">Dog Ret skal være Ret: det normale Menneskes Udskejelser kan ikke finde stadig taalsommere Bedømmelse samtidig med, at den Unormales Afhængighed af de for ham naturlige Tilbøjeligheder under enhver Omstændighed fordømmes. —</hi>
+        </p>
+        <p xml:id="idm139817691659040">
+          <hi rend="italics" xml:id="idm139817691658784">Ud fra saadanne Synspunkter talte jeg da ogsaa, efter at have fuldendt mit Arbejde — som i den fingerede Dagbogsforfatters Stil døbtes »Daniel — Daniela« — med den af mit Forlags Direktører, Peter Nansen, hvis Kres i vore fælles Studenterdage paa væsentlige Punkter var faldet sammen med min.</hi>
+        </p>
+        <pb n="9" xml:id="s9" facs="adl/larsenk/larsenk_10/larsenk_10_009"/>
+        <p xml:id="idm139817691656272">
+          <hi rend="italics" xml:id="idm139817691656016">Efter indgaaende Drøftelse, ogsaa med nogle kyndige Folk udenfor den litterære Verden, bestemte vi os dog til, ikke at udgive Skriftet, og det af to Grunde.</hi>
+        </p>
+        <p xml:id="idm139817691654896">
+          <hi rend="italics" xml:id="idm139817691654640">Afgørende var, at Modellerne til forskellige af Bogens Skikkelser ret vidt omkring vilde kunne genkendes som dengang endnu levende Personer, hvem der muligvis af den Grund kunde beredes Vanskeligheder, som Nansen og jeg ikke vilde bidrage til at fremkalde. 1 anden Plan kom det. rent litterære Synspunkt, at en Hovedvirkning i den af Forfatteren tilsigtede Retning kunde befrygtes at gaa tabt, hvis Værket udkom under hans Navn; det burde formentlig ikke overgives Offentligheden som en Kunstners Pastiche, en Digtning, der betjente sig af den for de paagældende Mennesker karakteristiske Dagbogsform, men derimod som navnløse, veritable Dagbogsoptegnelser af en af de Folk selv, et menneskeligt Dokument i Ordets egentlige Forstand. En saadan Form for Udgivelse kunde imidlertid maaske netop skærpe Nysgerrigheden og faa den til at spejde og spore indenfor vort Lands ret gennemsigtige Forhold med det Resultat, som fremfor alt burde undgaas.</hi>
+        </p>
+        <p xml:id="idm139817691652032">
+          <hi rend="italics" xml:id="idm139817691651776">Altsaa lod jeg mit Manuskript roligt ligge <pb n="10" xml:id="s10" facs="adl/larsenk/larsenk_10/larsenk_10_010"/>i min Skuffe, indtil nogle Aar efter en tysk Forlægger søgte mig med Forespørgsel, om jeg ikke kunde overlade ham et endnu ikke udgivet Arbejde til Oversættelse. Da mente jeg for »Daniel — Daniela« at have fundet et Land og et Publikum, fjærnt fra lokalt danske Betænkeligheder, og Bogen blev — anonymt — udgivet paa Tysk i Sommeren 1908.</hi>
+        </p>
+        <p xml:id="idm139817691649104">
+          <hi rend="italics" xml:id="idm139817691648848">1 Anledning af denne — ikke helt godt oversatte — tyske Udgave, der fremtraadte som Original, modtog jeg gennem Forlæggeren adskillige private Breve, som viste mig, at Bogen paa Steder var falden i den rette Jord, men til nogen større Offentlighed trængte den, mod Forlæggerens Forventninger, ikke frem. Efter hvad der fortaltes, havde dette sin væsentlige Grund i, at Tyskland netop var bleven hærget af opsigtvækkende Skandaler og endeløse Diskussioner indenfor det af Bogen behandlede Omraade, saa at Pressen for en Tid vendte det døve Øre til for Emner fra den Kant.</hi>
+        </p>
+        <p xml:id="idm139817691647408">
+          <hi rend="italics" xml:id="idm139817691647152">Hvorom alting var, gik Sagen mig hurtigt i Glemme; seks Aar igennem blev jeg optaget af vidtløftige Arbejder; Verdenskrigen kom, først den akute fra 1914 til 1918, derpaa den kroniske efter Versaillesfreden <pb n="11" xml:id="s11" facs="adl/larsenk/larsenk_10/larsenk_10_011"/>— saa var det en Formiddag, den 24de Maj 1922!</hi>
+        </p>
+        <p xml:id="idm139817691644768">
+          <hi rend="italics" xml:id="idm139817691644512">Jeg befandt mig paa Hjemrejse fra en lille Tur oppe i Sverige og havde overnattet i en mindre By, hvorfra jeg skulde videre med Toget om Eftermiddagen. Paa en Spaseretur gennem Staden standsede jeg foran et Boghandlervindue, og i en stor Opstilling af religiøs og verdslig, æstetisk og Skolebogs-Litteratur, saa jeg paa et Omslag med et Kors og et blødende Hjærte Titlen: »Daniel — Daniela«.</hi>
+        </p>
+        <p xml:id="idm139817691642912">
+          <hi rend="italics" xml:id="idm139817691642656">Saa fjærn var min Tanke fra mit eget gamle Skrift, at jeg maatte besinde mig paa, hvorfra det var, jeg kendte den Titel, men da jeg kom ind i Forretningen og fik Bogen i Haand, var ingen Misforstaaelse mulig. »Av * * *. Øversätning från Tyskan ved A. S.« stod der paa Titelbladet, og i Forordet hed det, at Hensigten med at oversætte dette Skrift var, »att sprida kännedom om, hur en av dem upfattet sin och sina likas ställning i livet och i samhället.« Hvorpaa fulgte, Side efter Side, min lille Bog med de forskellige tyske Korruptioner og et Par nye, som Oversættelsen til Svensk havde medført.</hi>
+        </p>
+        <p xml:id="idm139817691641248">
+          <hi rend="italics" xml:id="idm139817691640992">Paa min Forespørgsel om, naar Bogen var udgivet, oplyste Boghandleren, at han <pb n="12" xml:id="s12" facs="adl/larsenk/larsenk_10/larsenk_10_012"/>havde modtaget den fra Forlaget i Stockholm netop samme Dag og stillet den i Vinduet en Time, inden jeg kom ind til ham.</hi>
+        </p>
+        <p xml:id="idm139817691638784">
+          <hi rend="italics" xml:id="idm139817691638528">Man vil forstaa, at jeg hjemme fandt mit gamle, danske Manuskript frem. Det havde dog haft sin Skæbne! Skrevet for snart en Snes Aar tilbage havde det ligget tot som Bog i Tyskland i 14 Aar for nu uden mit Vidende at blive oversat fra Tysk til Svensk af en unavngiven Mand, hvis Hjærte det aabenbart havde ligget nær.</hi>
+        </p>
+        <p xml:id="idm139817691637088">
+          <hi rend="italics" xml:id="idm139817691636832">Da jeg stod med de gamle Blade i min Haand, syntes det mig, der var et Liv i dem, som protesterede mod at blive puttet ned i Kisten igen.</hi>
+        </p>
+        <p xml:id="idm139817691635888">
+          <hi rend="italics" xml:id="idm139817691635632">Skulde jeg udgive dem nu? Alle de Personer hvis Profiler skimtedes i min Fortælling, var døde og borte. Tiden havde nærmet sig en modnere Opfattelse af de paagældende Fænomener, om end den stadigt svinger mellem interesseløs Ligegyldighed, brutal Fordømmelse og karakterløs Laissez-faire. Min Bog maatle fremkomme med en Forklaring om den historiske Sammenhæng og kunde maaske blive fulgt af en lille Afhandling, hvori en Naturforsker orienterende udtalte sig om Biologiens <pb n="13" xml:id="s13" facs="adl/larsenk/larsenk_10/larsenk_10_013"/>
+nuværende Standpunkt overfor det af mig kunstnerisk anskuede Problem. Den svenske Oversætter havde jo bevist, at det stadig havde Bud til levende Mennesker.</hi>
+        </p>
+        <p xml:id="idm139817691632640">
+          <hi rend="italics" xml:id="idm139817691632384">Men var det Umagen værd i vore Dage, hvor den anvendte Løgn er ved at gøre den anvendte Naturvidenskab Rangen stridig! Hvor Sandhedsforskning kontroleres — for at anvende det nyeste Presseord — af hysterisk Masseterrorisme! Hvor en dansk Kritiker netop havde skrevet til mig: »Folk er vænnede af med at læse psykologiske Studier; de har ikke Taalmodighed til det, og de Unge staar helt fremmede overfor det« ...</hi>
+        </p>
+        <p xml:id="idm139817691630944">
+          <hi rend="italics" xml:id="idm139817691630688">Jeg sender alligevel denne lille Bog ud i Verden, ledsaget af en Naturforskers Efterskrift. Jo ældre man bliver, jo mindre Rolle spiller Øjeblikket for en; man har set for meget komme op, dukke under og naa frem igen, og man respekterer mere og mere hos andre som hos sig selv det klassiske Semper idem.</hi>
+        </p>
+        <p xml:id="idm139817691629280">
+          <date xml:id="idm139817691629024">København, i Juli 1922.</date>
+        </p>
+        <p xml:id="idm139817691628448">
+          <hi rend="italics" xml:id="idm139817691628192">KARL LARSEN.</hi>
+        </p>
+      </div>
+      <pb n="14" xml:id="s14" facs="adl/larsenk/larsenk_10/larsenk_10_014"/>
+    </front>
+    <pb n="15" xml:id="s15" facs="adl/larsenk/larsenk_10/larsenk_10_015"/>
+    <body xml:id="idm139817691624912">
+      <div xml:id="idm139817691624656">
+        <p xml:id="idm139817691624400">
+          <hi rend="italics" xml:id="idm139817691624144">TØR jeg sende disse Dagbogsoptegnelser ud i Verden?</hi>
+        </p>
+        <p xml:id="idm139817691623232">
+          <hi rend="italics" xml:id="idm139817691622976">Jeg tør det, og jeg tør det ikke.</hi>
+        </p>
+        <p xml:id="idm139817691622112">
+          <hi rend="italics" xml:id="idm139817691621856">Vil noget Menneske udenfor dem af min egen Art forstaa dem?</hi>
+        </p>
+        <p xml:id="idm139817691620992">
+          <hi rend="italics" xml:id="idm139817691620736">Vil ikke alle andre kalde dem utroværdige, lavede, maaske antage, at de bunder i Spekulation, og kaste dem fra sig, uden at blot et Glimt af deres Sandhed er gaaet op for deres Øje eller kun en Genlyd af deres Nødskrig har naaet deres Øre?</hi>
+        </p>
+        <p xml:id="idm139817691619456">
+          <hi rend="italics" xml:id="idm139817691619200">Og mine egne? Vil de ikke harmes og blues og ræddes over, at jeg lægger os alle blot, som vi kom til Verden; der er jo hos mig selv en Blusel, som af al Magt taler derimod og beder mig skjule, gemme, tie. Hele min Følelse oprøres ved Tanken paa, at disse Blade kan komme til at ligge paa alle Borde.</hi>
+        </p>
+        <p xml:id="idm139817691617792">
+          <hi rend="italics" xml:id="idm139817691617536">Det er kun min stakkels Forstand, som drøfter Spørgsmaalet frem og tilbage ...</hi>
+        </p>
+        <p xml:id="idm139817691616576">
+          <hi rend="italics" xml:id="idm139817691616320">Véd jeg da ikke, at Menneskers Forstand <pb n="16" xml:id="s16" facs="adl/larsenk/larsenk_10/larsenk_10_016"/>er saa svagt et Vaaben mod den alt besejrende Følelse? Følelsen, hvis Styrke netop er, at den intet véd og intet vil ud over at finde Tilfredsstillelse for sit blinde Væsen.</hi>
+        </p>
+        <p xml:id="idm139817691613968">
+          <hi rend="italics" xml:id="idm139817691613712">Jeg kender det jo dog fra mit eget Indre, hvor Forstanden Gang paa Gang led sine forsmædelige Nederlag. Og de andre Mennesker! Hvad er hele Menneskehedens Historie — den Kundskabsgren, som er mit eget Fag — andet end en rasende Krig imellem Følelse og Forstand, hvor Følelsen Gang paa Gang har hævnet sine sjældne Nederlag paa det grusomste. Feltherrer, Statsmænd, Opdagere, Religionsstiftere, Digtere, Filosofer og Legioner paa Legioner af Navnløse ligger lemlæstede og skamskændede paa Valpladserne for Forstandens Kamp mod Følelsen.</hi>
+        </p>
+        <p xml:id="idm139817691612144"><hi rend="italics" xml:id="idm139817691612016">Jeg gruer og tier! Maa komme lidt til Ro</hi> ...</p>
+        <p xml:id="idm139817691611136">
+          <hi rend="italics" xml:id="idm139817691610880">Men er det nu ogsaa Forstanden, jeg vil tale til? Er det den, der bliver ved med ligesom at pine mig til at udraabe min Smerte for alle Mennesker.</hi>
+        </p>
+        <p xml:id="idm139817691609936">
+          <hi rend="italics" xml:id="idm139817691609680">Er der dog ikke i Følelsens primitive, dyriske Bryst et lille fredlyst Sted, som huser Medfølelse?</hi>
+        </p>
+        <pb n="17" xml:id="s17" facs="adl/larsenk/larsenk_10/larsenk_10_017"/>
+        <p xml:id="idm139817691607568">
+          <hi rend="italics" xml:id="idm139817691607312">Dér er det, jeg slet ikke kan lade være med at prøve paa at vække Genlyd.</hi>
+        </p>
+        <p xml:id="idm139817691606352">
+          <hi rend="italics" xml:id="idm139817691606096">Ti denne lille Dagbog er ikke et Indlæg i en Sag. Den er et Nødskrig, som maa frem.</hi>
+        </p>
+        <p xml:id="idm139817691605120">
+          <hi rend="italics" xml:id="idm139817691604864">Skrig har heller intet med Forstand at gøre. Men er den et rigtigt Menneske, som ikke én Gang i sit Liv har skreget, uden Tanke paa Nytte eller Gavn, ganske meningsløst men ud af hele sit Væsens Inderste?</hi>
+        </p>
+        <p xml:id="idm139817691603648">
+          <hi rend="italics" xml:id="idm139817691603392">Jeg i hvert Fald maa skaffe mig Luft i et saadant Skrig og i en Anraaben.</hi>
+        </p>
+        <p xml:id="idm139817691602512">
+          <hi rend="italics" xml:id="idm139817691602256">Just en Anraaben. Som det ene syndige Menneske maa kunne kalde det andet til Hjælp.</hi>
+        </p>
+        <p xml:id="idm139817691601280">
+          <hi rend="italics" xml:id="idm139817691601024">Jeg taler ikke til de skadefro og grusomme Menneskedyr, hvoraf Verden vrimler. Men jeg beder gode Mennesker læse denne lille Bog uden at stødes bort.</hi>
+        </p>
+        <p xml:id="idm139817691599920"><hi rend="italics" xml:id="idm139817691599792">Kast den ikke fra Eder allerede efter dens første Blade for deres letfærdige Tones Skyld! Den maa være saaledes, for den var sand saaledes, og I vil forstaa</hi> det, naar I kommer længere frem i Bogen.</p>
+        <p xml:id="idm139817691598576">
+          <hi rend="italics" xml:id="idm139817691598320">Og lad ikke den Uvilje, I uvilkaarligt maa føle for dens Indhold, bringe Eder <pb n="18" xml:id="s18" facs="adl/larsenk/larsenk_10/larsenk_10_018"/>til at holde op at læse eller til at fordømme, straks efter at I har læst til Ende!</hi>
+        </p>
+        <p xml:id="idm139817691596064">
+          <hi rend="italics" xml:id="idm139817691595808">Tillad den, der har lidt og lider, som kun Dødelige af hans Art kan lide, for en Gangs Skyld at staa paa lige Menneskefod med Eder! Lad ham have Lov til at trykke Eders Haand og faa et virkelig menneskeligt medfølende Haandtryk igen!</hi>
+        </p>
+        <p xml:id="idm139817691594544">
+          <hi rend="italics" xml:id="idm139817691594288">I mister intet ved det. I vinder kun en Sejr over en i Blodet bundende Afsky.</hi>
+        </p>
+        <p xml:id="idm139817691593408">
+          <hi rend="italics" xml:id="idm139817691593152">Og vi andre vinder det højeste, vi kan naa af Eder her i Verden, den tavse Medfølelses Strygen hen over vort Haar. —</hi>
+        </p>
+        <p xml:id="idm139817691592112">
+          <hi rend="italics" xml:id="idm139817691591856">At jeg fandt min gamle Dagbog frem igen af min Skuffe! Det er 20 — nej 21 — Aar, siden jeg begyndte at skrive i den. Og at jeg fandt den sammen med Breve — dyrebare Breve — som jeg søgte for at tilintetgøre dem — ligesom den!</hi>
+        </p>
+        <p xml:id="idm139817691590576">
+          <hi rend="italics" xml:id="idm139817691590320">Jeg standser Haanden, som vilde kaste det altsammen paa Ilden, maa standse; Sørgmodighed overvælder mig.</hi>
+        </p>
+        <p xml:id="idm139817691589312">
+          <hi rend="italics" xml:id="idm139817691589056">Nu er jeg snart halvtreds.</hi>
+        </p>
+        <p xml:id="idm139817691588272">
+          <hi rend="italics" xml:id="idm139817691588016">De svundne Decennier glider forbi mig i Billeder som fra en Skyggeverden, der <pb n="19" xml:id="s19" facs="adl/larsenk/larsenk_10/larsenk_10_019"/>ikke taaler Dagens Lys, og som dog var og er min Verden, i hvilken jeg har levet og lidt og lever og lider endnu den Dag i Dag. Forstaar noget af de almindelige Mennesker dette? ...</hi>
+        </p>
+        <p xml:id="idm139817691585840">
+          <hi rend="italics" xml:id="idm139817691585584">Men saaledes skrev jeg da altsaa for de mange Aar siden. Lad mig et Øjeblik have Lov til ligesom at kæle en Smule for selve denne Bog, hvori jeg skrev, da jeg endnu var ung, og som jeg dengang syntes var saa smagfuld og rig! Efter mine Forhold meget rig. Den ligger i et særlig dertil lavet Chagrins Fuderal. Bindet er af vissenbrunt Fløjl, Sølvspænderne haandgjorte, af en ung Sølvsmed, der selv var meget smuk. Efter et satinflammet Forblad følger Bogens tykke, snehvide Sider, og paa den første staar med min kønne, store, tydelige Bibliotekshaand</hi>
+        </p>
+        <p xml:id="idm139817691584048">
+          <hi rend="italics" xml:id="idm139817691583792">Daniel — Daniela</hi>
+        </p>
+        <p xml:id="idm139817691582960">
+          <hi rend="italics" xml:id="idm139817691582704">l'incompréhensible!</hi>
+        </p>
+        <p xml:id="idm139817691581856">
+          <hi rend="italics" xml:id="idm139817691581600">og derpaa følger:</hi>
+        </p>
+        <p xml:id="idm139817691580768">
+          <hi rend="italics" xml:id="idm139817691580512">I Dag fylder jeg, Cand. mag. Daniel Conrad Bremer — kaldet Daniela <pb n="20" xml:id="s20" facs="adl/larsenk/larsenk_10/larsenk_10_020"/>— et Antal Aar, som man dog — ved Dyden — nok skal vogte sig for nøjagtigt at nedtegne. Man kender vel sit Køn; heldigvis, om jeg tør bede!</hi>
+        </p>
+        <p xml:id="idm139817691578304">
+          <hi rend="italics" xml:id="idm139817691578048">... Den unge Skønhed lader Pennen synke og smiler, som der kun kan smiles i et Romanhelte.</hi>
+        </p>
+        <p xml:id="idm139817691577072">
+          <hi rend="italics" xml:id="idm139817691576816">Hvorfor spændes din Amorsbue af en Mund, Daniela?</hi>
+        </p>
+        <p xml:id="idm139817691575920">
+          <hi rend="italics" xml:id="idm139817691575664">Hvilke hulde Erindringer kruser dine Læber, Afgrunde for Mændene?</hi>
+        </p>
+        <p xml:id="idm139817691574736">
+          <hi rend="italics" xml:id="idm139817691574480">Slet ingen, Markise, Deres Naade, Fru Overhofmesterinde! Det var blot mig, Kandidat Bremer, Assistent ved et af Evropas fremragende Biblioteker, velmeriteret Historielærer ved to Artiumskursus i Residensstaden København, officielt Mandfolk samt hjemsendt Korporal i den kongelig danske Hærs Forplejningskorps (som desværre hører til de hæsligst uniformerede indenfor samme Hærs ikke overvældende pragtfulde Afdelinger); det var blot mig, som maatte vise mine Perlerader af Tænder ved Tanken paa min Værtinde, Fru Constance Hansen, og den Virkning, det vilde gøre, hvis hun fik fat i denne lille Dagbog, min Sjæls Spejl.</hi>
+        </p>
+        <p xml:id="idm139817691572752">
+          <hi rend="italics" xml:id="idm139817691572496">Deres Naade tillader, at jeg forestiller, Dem Fru Constance, en Dem uværdig. <pb n="21" xml:id="s21" facs="adl/larsenk/larsenk_10/larsenk_10_021"/>virkelig Kolleginde, gift kun med en Sejlmager, der ofte er ude paa de lange Rejser.</hi>
+        </p>
+        <p xml:id="idm139817691570336">
+          <hi rend="italics" xml:id="idm139817691570080">Tør jeg fordybe mig let — kun let! i en Beskrivelse af hende?</hi>
+        </p>
+        <p xml:id="idm139817691569152">
+          <hi rend="italics" xml:id="idm139817691568896">Hun har purret, vældende Haar af Virkning, som naar Indholdet vælter ud af en Krølhaarsmadrasse, der er revnet; hendes Teint antog (efter et Par Born) en Lød, ikke ulig Tørvens, dette æstetisk mindre blændende Produkt; men hun gaar ind i Livet, med Svulmen op ad og Bugnen ned efter, hvorved hun hos alle rigtige Mandfolk erhverver sig Ret til at kaldes en dejlig Kvinde.</hi>
+        </p>
+        <p xml:id="idm139817691567456">
+          <hi rend="italics" xml:id="idm139817691567200">Fru Constances mest fremherskende Følelse overfor mig er en brændende Nyfigenhed, som mit Koketteri nærer.</hi>
+        </p>
+        <p xml:id="idm139817691566176">
+          <hi rend="italics" xml:id="idm139817691565920">Ti jeg er koket. Det nytter ikke at nægte det. Jeg elsker at kokettere.</hi>
+        </p>
+        <p xml:id="idm139817691564976">
+          <hi rend="italics" xml:id="idm139817691564720">Overfor den store Verden tør jeg kun lade denne Lidenskab tilsløret titte frem; men herhjemme, i mine to vel møblerede og net holdte Værelser med egen Indgang, maa jeg overfor Fru Constance give mig hen i min Svaghed.</hi>
+        </p>
+        <p xml:id="idm139817691563472">
+          <hi rend="italics" xml:id="idm139817691563216">Hun véd — under alle Omstændigheder af Mandtalslisten — at jeg er det, man kalder Mand. Men i min huslige Tryghed koketterer <pb n="22" xml:id="s22" facs="adl/larsenk/larsenk_10/larsenk_10_022"/>jeg med alt det i mig, som — del ydre Skin til Trods — er Kvinde.</hi>
+        </p>
+        <p xml:id="idm139817691560896">
+          <hi rend="italics" xml:id="idm139817691560640">Jeg kalder Sejlmagersken ind til mig.</hi>
+        </p>
+        <p xml:id="idm139817691559856">
+          <hi rend="italics" xml:id="idm139817691559600">Hun træffer mig henslængt paa min Chaiselongue, indsvøbt i mit røde, franske Silkesjal, der knitrer for Haanden.</hi>
+        </p>
+        <p xml:id="idm139817691558560">
+          <hi rend="italics" xml:id="idm139817691558304">Jeg behersker aldeles ikke min Maade at tale paa, saa at selv hendes Ubevidsthed maa skelne Kvinden i Stemmens Klang og Føring.</hi>
+        </p>
+        <p xml:id="idm139817691557248">
+          <hi rend="italics" xml:id="idm139817691556992">Og jeg fører med hende en Søsterpassiar, som den forædlede, herskende Dame kan gøre det med sin almindelige, lavtstaaende Kønsfælle. Vi snakker Pynt og Moder, pludrer om Stoffer, Besætning, Dragter. Jeg nedlader mig til at omtale smaa, muntre Kneb og Lokkemidler. Hun meddeler mig sine, ret gevorbne, Iagttagelser paa det samme Omraade. Vi bliver — trods Afstanden — fortrolige, lyver lidt gensidigt men finder aligevel, at vi er underholdende og søde.</hi>
+        </p>
+        <p xml:id="idm139817691555568">
+          <hi rend="italics" xml:id="idm139817691555312">Og midt i alt dette hvisker en pirrende Stemme: Se, hvor hun stirrer, i Forbavselse over det, som denne Herre med det besynderlige Væsen taler om!</hi>
+        </p>
+        <p xml:id="idm139817691554224">
+          <hi rend="italics" xml:id="idm139817691553968">Ja, madame, den Herre, han svarer ikke til de Køkkentrappefortællinger om noget rædselsfuldt uregelmæsigt, som jeg blues <pb n="23" xml:id="s23" facs="adl/larsenk/larsenk_10/larsenk_10_023"/>ved at tænke paa, men som jeg vel véd spøger i Deres ukultiverede Hjærne. Han hører til en Art, som har omfattet Skarer af Verdens mest udviklede Aander.</hi>
+        </p>
+        <p xml:id="idm139817691551472">
+          <hi rend="italics" xml:id="idm139817691551216">Jeg er Daniel-Daniela.</hi>
+        </p>
+        <p xml:id="idm139817691550400">
+          <hi rend="italics" xml:id="idm139817691550144">Og blandt mine Lige tæller jeg Sophokles og Sokrates og Alexander Magnus, Lionardo og Michelangelo, Shakespeare og Molière, den store Fritz og den »unge hjälta«, Platen og Drømmeren fra Starnbergersøen — og jeg véd ikke hvor mange af dem, som har omskabt Verden eller drømt om Verden ...</hi>
+        </p>
+        <p xml:id="idm139817691548784">
+          <hi rend="italics" xml:id="idm139817691548528">Ak, med al den Glans dog en Korsdragerslægt! ....</hi>
+        </p>
+        <p xml:id="idm139817691547664">
+          <hi rend="italics" xml:id="idm139817691547408">Du bliver alvorlig, Daniela. Med Rette!</hi>
+        </p>
+        <p xml:id="idm139817691546656">
+          <hi rend="italics" xml:id="idm139817691546400">Lad mig lukke denne lille Bog og gaa ud!</hi>
+        </p>
+        <p xml:id="idm139817691545552">
+          <hi rend="italics" xml:id="idm139817691545296">Det er Sommerdage, jeg er færdig med alt Pligtarbejde, og der er for Tiden intet andet, som fylder mine Tanker. Jeg er alene og ikke forelsket.</hi>
+        </p>
+        <p xml:id="idm139817691544208">
+          <hi rend="italics" xml:id="idm139817691543952">Kun otte og tyve Aar (jeg tilstod Dig det, mon papier!) og drømmer ikke om Kærlighed! Er jeg ved at blive gammel?</hi>
+        </p>
+        <p xml:id="idm139817691542928">
+          <hi rend="italics" xml:id="idm139817691542672">Jeg sad længe foran mit Spejl i Dag. <pb n="24" xml:id="s24" facs="adl/larsenk/larsenk_10/larsenk_10_024"/>Der er ikke et graat Haar endnu, Tænderne skinner hvide, Teinten er frisk, en svag Smule Rynke kan ligge ved Øjekrogen og langs Mundvigene — dog kun i visse Belysningert</hi>
+        </p>
+        <p xml:id="idm139817691540320">
+          <hi rend="italics" xml:id="idm139817691540064">Jeg vil gøre Toilette, tage mit nye, stramme, graa Dress paa, gribe Stokken med Agatknappen, putte mit Cigaretetui af Sølv i Lommen, — og saa glider Daniela ned ad Gaden i sin Forklædning: ung og æggende — Længsler vækkende ...</hi>
+        </p>
+        <p xml:id="idm139817691538784">
+          <hi rend="italics" xml:id="idm139817691538528">Ak, hvor ofte vækkes hos mig Længsler, hvis Amorinvinger brister mod uforstaaende, ja hadske Blikke!</hi>
+        </p>
+        <p xml:id="idm139817691537520">
+          <hi rend="italics" xml:id="idm139817691537264">Uforstaaende. Det er Ordet for det haabløst golde Issvælg, hvor ud over ingen levende Følelse kan svinge sig men kuldedræbt maa synke i Afgrunden.</hi>
+        </p>
+        <p xml:id="idm139817691536160">
+          <hi rend="italics" xml:id="idm139817691535904">Du er ikke ene, Plebejerkvinde, Sejlmagerviv! Den hele store Menneskehed staar, uvilligt undrende, ved din Side. Eller den løfter endog Stokken mod Daniela i dyrisk Selvretfærdighed ...</hi>
+        </p>
+        <p xml:id="idm139817691534736">
+          <hi rend="italics" xml:id="idm139817691534480">Nej, jeg vil holde op.</hi>
+        </p>
+        <p xml:id="idm139817691533664">
+          <hi rend="italics" xml:id="idm139817691533408">Jeg vil gaa ud og gaa i Tivoli.</hi>
+        </p>
+        <p xml:id="idm139817691532576">
+          <hi rend="italics" xml:id="idm139817691532320">De fleste af mine Venner er endnu ikke vendt hjem fra Landet efter Ferien; men nogle træffer jeg altid.</hi>
+        </p>
+        <p xml:id="idm139817691531312">
+          <hi rend="italics" xml:id="idm139817691531056">Vi spiser saa hos Nimb, under en fjern <pb n="25" xml:id="s25" facs="adl/larsenk/larsenk_10/larsenk_10_025"/>Musik, medens vi snakker om Teater, Musik, Litteratur, Moral, Religion, noget af alt det meget, der interesserer os!</hi>
+        </p>
+        <p xml:id="idm139817691528992">
+          <hi rend="italics" xml:id="idm139817691528736">Og jeg faar sikkert under Passiaren Lejlighed til at beundre et eller andet ægte mandligt Udbrud, i hvert Fald til at sidde stille og nyde deres larmende Flytten Glas og Tallerkener, naar de sidder og disputerer ved et Bord og uden Spor af Grund søger mere Plads, blot for at kunne regere med Armene eller overbevise ved disse Haandbevægelser, som er rudimentære Slag. Henrivende!</hi>
+        </p>
+        <p xml:id="idm139817691527184">
+          <hi rend="italics" xml:id="idm139817691526928">Køn ser ogsaa nok en eller anden af dem ud, om blot i nogle Øjeblikke, i en bestemt Affekt maaske — og saa holder jeg af deres Cigarers Duft, drikker Kognak og Likør som de ... og Talen gaar om al Verdens interessante Spørgsmaal og med Mandsrøster, der for mig er liflige som Engletunger, lige til den lyse Sommermorgen ...</hi>
+        </p>
+        <p xml:id="idm139817691525520">
+          <hi rend="italics" xml:id="idm139817691525264">Jeg gemmer Dig i min Skuffe, min Dagbog, Du — jeg gentager det — mit lille Sjælespejl.</hi>
+        </p>
+        <p xml:id="idm139817691524288">
+          <hi rend="italics" xml:id="idm139817691524032">Ja, Du er et Spejl, og jeg indrømmer, at ingen Kvinde ser sig i et Spejl, uden at hun ubevidst tager sig en Kende sammen for ikke at virke hæslig.</hi>
+        </p>
+        <pb n="26" xml:id="s26" facs="adl/larsenk/larsenk_10/larsenk_10_026"/>
+        <p xml:id="idm139817691521776">
+          <hi rend="italics" xml:id="idm139817691521520">Jeg tilstaar, at ogsaa jeg i disse Blades Stil spiller en Smule Komedie. Men det er netop saaledes, vort særegne Køn elsker det. En Ejendommelighed som skaffer sig Udtryk! Gør den det, jeg skriver, mindre sandt?</hi>
+        </p>
+        <p xml:id="idm139817691520288">
+          <hi rend="italics" xml:id="idm139817691520032">Og skriver jeg desuden for andet end for at kunne tale til mig selv »med Manér«, som Eleonora Christine Ulfeldt siger!</hi>
+        </p>
+        <p xml:id="idm139817691518992">
+          <hi rend="italics" xml:id="idm139817691518736">Er jeg ikke i et virkeligt Sindsoprør! Johan er kommen til Byen. En Ungdommens Letsindighed stod atter Ansigt til Ansigt med Daniela.</hi>
+        </p>
+        <p xml:id="idm139817691517664">
+          <hi rend="italics" xml:id="idm139817691517408">Han var frygtelig doven til at skrive; det blev min Lykke, dengang han var i Aalborg. Selv om han trængte, løb han hellere hele Byen om, end han tog til Pennen, og en Ti-Krone, sendt i Ny og Næ pr. Postanvisning, var min tilstrækkelige Tribut.</hi>
+        </p>
+        <p xml:id="idm139817691516112">
+          <hi rend="italics" xml:id="idm139817691515856">Nu er han gen her i København og uden Plads. Tyve Kroner kunde gøre det den første Gang; men han kommer snart igen. Og saa er han ikke engang mere køn at se paa!</hi>
+        </p>
+        <p xml:id="idm139817691514720">
+          <hi rend="italics" xml:id="idm139817691514464">Hvor skammelig vidt førte han mig ikke <pb n="27" xml:id="s27" facs="adl/larsenk/larsenk_10/larsenk_10_027"/>dengang, da han var tyve Aar! Og han var mig utro og tog mit Navn forfængeligt, gjorde sig interessant med halvt tilslørede Historier om mig til sine modbydelige, rigtige Kvinder, som han ofrede mine Penge paa.</hi>
+        </p>
+        <p xml:id="idm139817691512032">
+          <hi rend="italics" xml:id="idm139817691511776">Han har endnu Sangerinden, den værste af dem alle.</hi>
+        </p>
+        <p xml:id="idm139817691510880">
+          <hi rend="italics" xml:id="idm139817691510624">En ægte Kvindetype: alting blødt og smeltende, uden Karaktér! Øjnene svømmende blaa, Haaret vældende blondt, Munden svulmende formløs, Figuren sprængende yppig — Flødebolle-Genre!</hi>
+        </p>
+        <p xml:id="idm139817691509440">
+          <hi rend="italics" xml:id="idm139817691509184">Jeg flammede for Johan, fyrig og jaloux, jeg tindrede af intelligent Opfindsomhed for at faa ham til at føle sig som et Undtagelsesmenneske, og han snød mig for al drikke Øl med dette sløve Pigebarn, der ikke skænkede ham det trivielleste af alt mellem Mennesker, førend hun havde lært ham at blokke Penge ud af mig og give dem til hende.</hi>
+        </p>
+        <p xml:id="idm139817691507696">
+          <hi rend="italics" xml:id="idm139817691507440">Ikke engang en Smule skinsyg paa mig naaede jeg at faa gjort hende! Malkeko var jeg for hende, og endte jeg med at blive for Johan.</hi>
+        </p>
+        <p xml:id="idm139817691506512">
+          <hi rend="italics" xml:id="idm139817691506256">Det havde jeg ikke været fra Begyndelsen. Han var god, det var han; men hun fik ham fordærvet, pillede Æren ud af <pb n="28" xml:id="s28" facs="adl/larsenk/larsenk_10/larsenk_10_028"/>Livet paa ham, gjorde ham til Forræder og Pengeafpresser, fik ham til at stille mig udenfor Lov og Ret.</hi>
+        </p>
+        <p xml:id="idm139817691503792">
+          <hi rend="italics" xml:id="idm139817691503536">Ak, det er jo netop Skæbnen for os Korsdragere, at man saa let lader sig friste til at stille os udenfor Lov og Ret!</hi>
+        </p>
+        <p xml:id="idm139817691502496">
+          <hi rend="italics" xml:id="idm139817691502240">Hvor mange Mænd — og det langt mere udviklede end Johan med sin Smule Kontoristhjerne — er ikke af Kvinder bagefter bleven hidsede til at skjule deres egen Svaghed under en brutal Anklage imod os: vi alene var de Skyldige!</hi>
+        </p>
+        <p xml:id="idm139817691500992">
+          <hi rend="italics" xml:id="idm139817691500736">Den aandelige Fortrolighed, som de tog og gav, blev intet forpligtende Baand mellem dem og saadanne nogle som os! Alt det gode, vi havde gjort for dem, af det bedste Hjærte (lige saa rent og lige saa ædelt som det, der gøres mod Eder — for ikke at tale om af Eder — bredhoftede Kvinder!) det var kun Smuds og Urenskab!</hi>
+        </p>
+        <p xml:id="idm139817691499280">
+          <hi rend="italics" xml:id="idm139817691499024">Vor Skyld, om vi havde nogen, fandt ingen Undskyldning og havde ingen Medskyld, selv om denne var nok saa klar. Overfor os var alt englehvidt mod djævlesort.</hi>
+        </p>
+        <p xml:id="idm139817691497904">
+          <hi rend="italics" xml:id="idm139817691497648">»Konkurrencekamp«! har en af vore udraabt med skrigende Bitterhed. —</hi>
+        </p>
+        <p xml:id="idm139817691496768">
+          <hi rend="italics" xml:id="idm139817691496512">Hvor jeg følte den lavpandede, raa Pengebegærlighed <pb n="29" xml:id="s29" facs="adl/larsenk/larsenk_10/larsenk_10_029"/>bag Johans hele Holdning i Dag! En Last, som hun først fik lært ham efter at have nedbrudt hans Fortrolighed til mig. Den Fortrolighed, som forpligtede ham by honour.</hi>
+        </p>
+        <p xml:id="idm139817691494144">
+          <hi rend="italics" xml:id="idm139817691493888">Men Samfundet vil sige: Ja, hun er en slet Kvinde, og hun handlede slet. Men hun fik dog draget ham bort fra Dig og dine golde Kærtegn. Han og hun kan maaske engang blive Mand og Hustru, danne et Hjem, ja endogsaa føde Syndere til Verden — som vor store Artsfælle, Shakespeare, siger.</hi>
+        </p>
+        <p xml:id="idm139817691492512">
+          <hi rend="italics" xml:id="idm139817691492256">Samfund, jeg foragter Dig i din Uretfærdighed! Men jeg tilgiver Dig, ti Du er en Kæmpe-Amme.</hi>
+        </p>
+        <p xml:id="idm139817691491264">
+          <hi rend="italics" xml:id="idm139817691491008">Johan, min Nedværdigelse, er kommen bort fra Byen, efter at have berøvet mig arme, men — trods alt — ret blomstrende Dame en Del af mine omhyggeligt henlagte Paaklædningspenge.</hi>
+        </p>
+        <p xml:id="idm139817691489840">
+          <hi rend="italics" xml:id="idm139817691489584">Han er endogsaa kommen bort fra Landet, dog ikke til de argentinske Fristater, der stadig har lyst for mig som en frelsende Stjerne, men til en Cykleagent i Gøteborg. Jeg haaber paa Cyklesportens frodige <pb n="30" xml:id="s30" facs="adl/larsenk/larsenk_10/larsenk_10_030"/>Blomstring blandt Svenskerne med deres Aabenbaringer af Ben og — lad mig btufærdigen kalde det: Overben, der i Sportstrikot staar paa Højde med Digte.</hi>
+        </p>
+        <p xml:id="idm139817691486944">
+          <hi rend="italics" xml:id="idm139817691486688">De er munter, Daniela, De spøger lidt upassende; men De er ene, og Væggene kan rødme for Dem.</hi>
+        </p>
+        <p xml:id="idm139817691485696">
+          <hi rend="italics" xml:id="idm139817691485440">Kast Dem paa Deres tyrkiske Chaiselongue, hvis Dunkelhed end mere fremhæver Deres Huds skinnende Hvidhed! Tænd en Cigaret fra Kyriazi fréres! Og hvisk — ikke uden Triumf — ud i Røgens duftende Blaa, at Deres Hjerte end ikke bevægedes det mindste af gammel Svaghed for den bortdragne!</hi>
+        </p>
+        <p xml:id="idm139817691484048">
+          <hi rend="italics" xml:id="idm139817691483792">Hvorfor notere, at hans Næse var begyndt at blive temmelig rød og noget udsvømmet? Det er kun den Sort smaa Tilfælde, som kommer Dyden til Hjælp. Hans Teint var ogsaa ved at blive sprængt og smaablisset. Oh, Carlsberg-Øl, oh Kvinder!</hi>
+        </p>
+        <p xml:id="idm139817691482512">
+          <hi rend="italics" xml:id="idm139817691482256">Jeg er lystig i Aften, overgiven. En Byrde er taget fra mig ved hans Beroligelse og Bortfjærnelse. Ti husk de Breve, jeg i sin Tid maatte skrive til denne min Ganymedes, Elskovspile, der nu vilde kunne vendes mod mit Bryst og gennembore mig som en Sebastianus.</hi>
+        </p>
+        <pb n="31" xml:id="s31" facs="adl/larsenk/larsenk_10/larsenk_10_031"/>
+        <p xml:id="idm139817691479776">
+          <hi rend="italics" xml:id="idm139817691479520">I Gaar vendte Tofte hjem fra sin Ferie, og vi var en hel Dag sammen. Hvor den fyldte mit Sind og stilnede det!</hi>
+        </p>
+        <p xml:id="idm139817691478608">
+          <hi rend="italics" xml:id="idm139817691478352">Jeg vil skrive lidt om Tofte og om vore gode Timer. Det vil bringe mit Blod i den livlige, men saa velsignet hyggelige Takt, som naar vi er sammen — ofte Dage igennem.</hi>
+        </p>
+        <p xml:id="idm139817691477216">
+          <hi rend="italics" xml:id="idm139817691476960">Tofte er Adjunkt, men burde kaldes Viismand. Skulde aldrig gøre andet end gaa omkring blandt Mennesker og tale viist. For hans Ord er viise, han hele Sindelag er viist.</hi>
+        </p>
+        <p xml:id="idm139817691475824">
+          <hi rend="italics" xml:id="idm139817691475568">Sokrates-Ansigtet har han allerede, den høje, knudrede Pande og de ganske uregelmæssige Træk. Han er ikke Spor til at forelske sig i — jeg maa le! — men han indgyder Tillid, man kan betro sig til ham, han forstaar en. Jeg lytter altid til ham. som om jeg sad paa en Skammel eller med et Haandarbejde.</hi>
+        </p>
+        <p xml:id="idm139817691474160">
+          <hi rend="italics" xml:id="idm139817691473904">Og noget kønt er der da ogsaa ved ham, Gud ske Lov! Hagen er vidunderlig mandig og energisk og Hænderne er de skønneste, jeg har set, stærke og smalle, med de mest talende Bevægelser. Øjnene er kun Blik og Udtryk. Stemmen griber <pb n="32" xml:id="s32" facs="adl/larsenk/larsenk_10/larsenk_10_032"/>om en ligesom Blikket. Det er fortryllende.</hi>
+        </p>
+        <p xml:id="idm139817691471472">
+          <hi rend="italics" xml:id="idm139817691471216">Vi var sammen i Gaar, fra tidlig Morgen til langt ud paa Natten.</hi>
+        </p>
+        <p xml:id="idm139817691470352">
+          <hi rend="italics" xml:id="idm139817691470096">Det var, som naar man i Drengeaarene fik en hel Dag fri, hvor alt andet turde jages bort fra ens Tanker, og man kun gik efter egen Lyst. Da saa man med egne Øjne, uden at der var noget, som skulde findes kønt og godt, og andet, der maatte være hæsligt og forkert. Man vandrede i sin egen Verden indenfor den store, som kun blev Stof for den.</hi>
+        </p>
+        <p xml:id="idm139817691468608">
+          <hi rend="italics" xml:id="idm139817691468352">Tofte har netop, som ingen anden, sin egen Verden, der aabner ham Udsigt til den store, hvori han for Resten er yderst virksom.</hi>
+        </p>
+        <p xml:id="idm139817691467424">
+          <hi rend="italics" xml:id="idm139817691467168">Han er klassisk Filolog, mindre Grammatiker end Historiker og Arkæolog, og han er en Sjælens Kender.</hi>
+        </p>
+        <p xml:id="idm139817691466160">
+          <hi rend="italics" xml:id="idm139817691465904">Over hans Liv straaler Historiens Sol: Relativiteten. Han har været forelsket og glad og bedrøvet, haft det smaat og haft det bedre, er bleven skuffet og har fejret Triumfer, været heldig og lidt forsmædelige Nederlag; men han har levet og arbejdet i en mandig Takt under det altsammen.</hi>
+        </p>
+        <p xml:id="idm139817691464528">
+          <hi rend="italics" xml:id="idm139817691464272">At beskue og forstaa, derpaa kommer det den Mand an.</hi>
+        </p>
+        <pb n="33" xml:id="s33" facs="adl/larsenk/larsenk_10/larsenk_10_033"/>
+        <p xml:id="idm139817691462272">
+          <hi rend="italics" xml:id="idm139817691462016">Og hvor hans Syslen med store og svundne Tider midt under det moderne Rabalder styrker ham og skærper hans Blik for, hvad der gælder i et Døgn mod det, som bærer i Aarhundreder! I hans Stue kommer jeg altid til at tænke paa Goethe, der under Julirevolutionen kun var optagen af den lille naturvidenskabelige Opdagelse, som for det geniale Blik rummede hele Udviklingslæren, Denne Lære, der skulde revolutionere Menneskeheden tusindfold mere end nogen Revolution med Krudt og Kugler!</hi>
+        </p>
+        <p xml:id="idm139817691460416">
+          <hi rend="italics" xml:id="idm139817691460160">Jeg læser hurtigere end Tofte og følgerappere med i hvad der kommer frem af almindelig historisk og æstetisk Litteratur. Vi har tusinde Ting at meddele hinanden og tale igennem sammen. Og saa har han jo min fulde Fortrolighed i alt, hvad der vedrører mit Liv.</hi>
+        </p>
+        <p xml:id="idm139817691458832">
+          <hi rend="italics" xml:id="idm139817691458576">Den, som har studeret den klassiske Oldtid saa vel som moderne Fysiologi, han véd, at vi, af vort Art, ikke er et modbydeligt Udskud men Mennesker, som i meget maa føle intensere, hvis Intelligens kan blive smidigere, end Tilfældet er med de andre — men paa hvem ogsaa mange Farer lurer.</hi>
+        </p>
+        <p xml:id="idm139817691457184">
+          <hi rend="italics" xml:id="idm139817691456928">Er det et Under, at mange af os, fuldkommen <pb n="34" xml:id="s34" facs="adl/larsenk/larsenk_10/larsenk_10_034"/>miskendte af Samfundet, virkelig bliver lastefulde og gaar til Grunde i de laveste Udskejelser?</hi>
+        </p>
+        <p xml:id="idm139817691454864">
+          <hi rend="italics" xml:id="idm139817691454608">Og kommer ikke snart den Tid, hvor ikke blot Intelligenser som Tofte, men den hele sunde Sans drager ogsaa os ind under vor Tids tout comprendre?</hi>
+        </p>
+        <p xml:id="idm139817691453664">
+          <hi rend="italics" xml:id="idm139817691453408">Det er det Humanitetens Træ, i hvis Skygge alle de, der lider, skal finde Hvile — ogsaa Daniela.</hi>
+        </p>
+        <p xml:id="idm139817691452416">
+          <hi rend="italics" xml:id="idm139817691452160">Hugo Kold er vendt tilbage fra det lange Ophold i Paris, hvor han har nydt sit Digterstipendium og skrevet en ny Bog. Han søgte mig straks i mit Hjem og gik derfra med hen til vor kære Backe.</hi>
+        </p>
+        <p xml:id="idm139817691450976">
+          <hi rend="italics" xml:id="idm139817691450720">Backe er Fyrsten iblandt os. Ikke fordi han virkelig er rig, som man sjældent er det i Danmark, men fordi han er smuk som en ung Augustus og fornem ved sin Position og Dannelse. Da han havde taget sin juridiske Eksamen med en glimrende Karakter, gled han straks ind i Embedsaristokratiet, baaret oppe af en Støtte, som hans fremragende Dygtighed hindrede i at blive Nepotisme.</hi>
+        </p>
+        <p xml:id="idm139817691449184">
+          <hi rend="italics" xml:id="idm139817691448928">Han er umiddelbarere og derved dristigere <pb n="35" xml:id="s35" facs="adl/larsenk/larsenk_10/larsenk_10_035"/>end alle vi andre. Vor Egenart har hos ham en Ynde, som virker indtagende paa saa godt som alle Mennesker. Mænd protegerer ham og føler sig stolte derover, saa talentfuld og ærbødig som han er, Kvinder forkæler ham og forelsker sig i hans naturlige Trang til fortrolig Hengivenhed.</hi>
+        </p>
+        <p xml:id="idm139817691446384">
+          <hi rend="italics" xml:id="idm139817691446128">Men hans store, drømmende Øjne har for Tiden en dunkel Glans. Han sværmer for en Antinous, en to og tyveaarig ung Mand, Forvalter paa Landet, for Tiden Soldat. Jeg var sammen med dem forleden. Han er meget smuk, den anden, hører til Hestfolket, med Støvler og Sporer, og er bedaaret af al Backes fintfølende Godhed for ham.</hi>
+        </p>
+        <p xml:id="idm139817691444688">
+          <hi rend="italics" xml:id="idm139817691444432">Backe nævnede ikke et Ord om ham til Kold, som ogsaa er bleven mere urolig, synes jeg, end før han rejste. Som den Digter han er, fortalte han malende om Elskovseventyr derovre fra, men saa det gøs lidt i mig. Backe var distræt, men harmonisk, i en Fjærnhed, som naturligt forligtes med Høfligheden mod hans Gæst, Jeg havde den inderligste Lyst til at faa Kold bragt af Vejen for tavs at kunne trykke Backes Haand i den dybeste Syrnpati <pb n="36" xml:id="s36" facs="adl/larsenk/larsenk_10/larsenk_10_036"/>med de Følelser, som rørte sig i dette fine Menneskes Sjæl.</hi>
+        </p>
+        <p xml:id="idm139817691441776">
+          <hi rend="italics" xml:id="idm139817691441520">Om Aftenen gik vi alle tre i Cirkus.</hi>
+        </p>
+        <p xml:id="idm139817691440688">
+          <hi rend="italics" xml:id="idm139817691440432">Kold henleder uheldigt Opmærksomheden paa sig. Han taler op, ler, kaster sig tilbage paa Stolen, de tindrende Øjne følger med alt for umiskendelig Opmærksomhed hvad der betager ham. Tofte har ofte advaret ham. Den viise Mand mener, med Rette, at Folk af vor Art bør som de klassiske Kvinder tie i Forsamlinger, vise en klog Beherskelse i hele vor ydre Fremtoning, vi, som elsker den lange Kjole og alt, hvad der tilhyller. De mere end halvfemsindstyve Procent af den øvrige Menneskehed er vel uklare over vor Ejendommelighed men føler instinktivt noget fremmedartet, som er dem imod, og som de gerne vil ramme i de Personer, der bærer dets Stempel.</hi>
+        </p>
+        <p xml:id="idm139817691438272">
+          <hi rend="italics" xml:id="idm139817691438016">Kold blev ret hysterisk i Cirkus. Der var jo ganske vist ogsaa Akrobatbrødrene, som han kendte fra Udlandet, og som Backe paa sin adelige Maade efter Forestillingen bad med til en kort men glimrende Souper.</hi>
+        </p>
+        <p xml:id="idm139817691436800">
+          <hi rend="italics" xml:id="idm139817691436544">De var, som Akrobater er, ikke meget talende, ikke meget drikkende og gik tidligt hjem. Men dejlige at se paa!</hi>
+        </p>
+        <p xml:id="idm139817691435632">
+          <hi rend="italics" xml:id="idm139817691435376">Francois' tærnede Dragt af nyt, engelsk <pb n="37" xml:id="s37" facs="adl/larsenk/larsenk_10/larsenk_10_037"/>Stof sad paa ham med en rent ud overdaadig Nonchalance. Og naar man vil spørge ham ud om Diamantringen paa hans Lillefinger, siger han, bare: Un cadeau! — uden at der rører sig en Mine i hans Ansigt. Hvem der kunde trænge ind i den Rings Hemmelighed! Det er gamle russiske Diamanter i Sølvindfatning.</hi>
+        </p>
+        <p xml:id="idm139817691432768">
+          <hi rend="italics" xml:id="idm139817691432512">Kold har foræret den lille ]ean Marie en smal, slynget Guldring, hvor en Slange med sit Brillanthoved bider sig i Halen. Han er helt sterbensverliebt i ham.</hi>
+        </p>
+        <p xml:id="idm139817691431392">
+          <hi rend="italics" xml:id="idm139817691431136">Jeg deler ikke Kolds Smag. Jean Marie har skønne Træk, men han er den spædeste af dem, lidt kvindagtig, gør ogsaa det letteste Arbejde i deres kombinerede Luftnummer.</hi>
+        </p>
+        <p xml:id="idm139817691430000">
+          <hi rend="italics" xml:id="idm139817691429744">Men Kold indtages jo endog i Folk af vor egen Art. Jeg forstaar disse urimelige Forbindelser, opvoksede som de maa være af Venskab og fælles Længsler, men de er mig stærkt imod. Venindekærligheder, om jeg saa maa sige. Og Kolds rigtige Mænd! Hvad er det for nogle? Smaa friserede Skuespillere og unge Studenter, som han hænger med under Armen ned ad Gaden.</hi>
+        </p>
+        <p xml:id="idm139817691428224">
+          <hi rend="italics" xml:id="idm139817691427968">Nej, Mænd, hvem en Ed kan undslippe i Harme, hvor lidt forstaar han ikke den stumme Hengivelse i Lidenskaben for dem! <pb n="38" xml:id="s38" facs="adl/larsenk/larsenk_10/larsenk_10_038"/>Han vil snakke, pusle omkring og docere for sine homunculis, beundres af dem i Stedet for kun at brænde for det ægte mandige.</hi>
+        </p>
+        <p xml:id="idm139817691425504">
+          <hi rend="italics" xml:id="idm139817691425248">Kold fortæller mig om sin nye Bog. Den vil blive grebet med utrolig Spænding i Stuer, hvis Stilhed gemmer over en af Laget, en Frimurer, en Korsdrager, en ulykkelig Misforstaaet.</hi>
+        </p>
+        <p xml:id="idm139817691424080">
+          <hi rend="italics" xml:id="idm139817691423824">Straks fra hans første Novelle har vi alle set igennem hans Forklædninger; de Kvinder, denne Forfatter skildrer som sine Elskerinder, er ikke Kvinder. Og den berusende Erotik, som ogsaa almindelige Mennesker sporer i hans Digtning, er netop den Lidenskab, der længe hæmmedes, som kaldtes brødefuld men nu endelig sprængte alle Hensyn.</hi>
+        </p>
+        <p xml:id="idm139817691422384">
+          <hi rend="italics" xml:id="idm139817691422128">Eller hans Skrifter genlyder af den Selvopgivelse, som dog maa blive ved at være til, af kæmpende Fortvivlelse, som kan forstaas alment menneskeligt. De hvisker om det virkelige, der blev fordømt som Løgn, det sande, som maatte borthykles, for at stakkels Mennesker kunde faa Lov til overhovedet at leve.</hi>
+        </p>
+        <pb n="39" xml:id="s39" facs="adl/larsenk/larsenk_10/larsenk_10_039"/>
+        <p xml:id="idm139817691419552">
+          <hi rend="italics" xml:id="idm139817691419296">Men, siger Kold selv: de hviskerkan.</hi>
+        </p>
+        <p xml:id="idm139817691418464">
+          <hi rend="italics" xml:id="idm139817691418208">Og Menneskeheden vil alene applavdere i Erkendelse af det i sin Almindelighed rammende, som den finder i dem.</hi>
+        </p>
+        <p xml:id="idm139817691417296">
+          <hi rend="italics" xml:id="idm139817691417040">Men vi andre har haft Ret til at vente en Ridder for vort Køn. Han burde opsøge de store Emner, hvori vore Hjærter banker. Han skulde skænke os sjæleligt glimrende og farveblændende Skildringer fra vor Sokrates', vor Hadrians, vor Michelangelos, vor Shakespeares Tider og gaa videre ned til vort Aarhundrede med dets forløjede Moral.</hi>
+        </p>
+        <p xml:id="idm139817691415552">
+          <hi rend="italics" xml:id="idm139817691415296">Med baade Jubel og Gru og Frygt vilde vi skue denne Messias, der kunde bringe meget til Fald, men ogsaa meget til Oprejsning. Maaske vakte han ved at aabne Folks Øjne et klart Had til os og rejste en larmende Bevægelse — — men skaffede os dog tilsidst Retfærdighed og de Menneskerettigheder, der blev os alene nægtet af alle Mennesker.</hi>
+        </p>
+        <p xml:id="idm139817691413808">
+          <hi rend="italics" xml:id="idm139817691413552">Vi ønsker ikke en Forfatterinde, som med en psykologisk Tyveløgte belyser hist og her og ud og ind i Livets fantastiske Dunkelhed. Goethes alt omfattende: Mere Lys! er vor Devise.</hi>
+        </p>
+        <pb n="40" xml:id="s40" facs="adl/larsenk/larsenk_10/larsenk_10_040"/>
+        <p xml:id="idm139817691411232">
+          <hi rend="italics" xml:id="idm139817691410976">jeg tænker paa mine Forældre derhjemme i Provinsbyen. Fader, den altid optagne Byfoged og Formand for Byraadet, høj og velholdt med sine fire og tres, en Mand der snart i en Menneskealder ikke længere har været Menneske. Kun en Funktionær, der spiser, drikker, sover, graver i Haven, læser Aviser og underholdende Lekture, dyrker sit Familieliv, altsammen som naar der puttes Brænde og Kul i Kakkelovnen, der skal varme paa et offentligt Kontor. Men saa Moder! Seks og halvtreds, mindre velbevaret i det Ydre og ikke med hans ligelige Helbred men Menneske og som vil blive ved at være Menneske, til hendes Øje brister.</hi>
+        </p>
+        <p xml:id="idm139817691408912">
+          <hi rend="italics" xml:id="idm139817691408656">Den kære Moder med sin Blanding af Romantiskhed og Tællen til Vask, halvt slidt op i det Martyrium, der hedder at være gift under vanskelige Kaar med en Mand, hvis Forstaaelse af andre Menneskers Sjæle hørte op den Dag, hans Forelskelse forvandledes til en Fornødenhed. Hun har kendt Følelsens hellige Ild for sin Mand, sine Børn, sin Rede; han følte kun dens Flamme paa jubel og Sorg nogle korte Øjeblikke; saa blev den for ham Arneilden, der skulde koge hans Mad, lyse i hans Stue, værne hans sociale Anseelse. <pb n="41" xml:id="s41" facs="adl/larsenk/larsenk_10/larsenk_10_041"/>Den dygtige Embedsmand, den forstandige Samfundsborger, den pligttro Ægtemand, den strængt opdragende Fader.</hi>
+        </p>
+        <p xml:id="idm139817691405856">
+          <hi rend="italics" xml:id="idm139817691405600">Hvor jeg elsker Dig, Du lille Moder!</hi>
+        </p>
+        <p xml:id="idm139817691404768">
+          <hi rend="italics" xml:id="idm139817691404512">Naar dit kære, trætte Hoved kunde lægge Husvæsenssorgerne lidt til Side, og dit Sind slippe al din Bøjen af for hans og Børnenes stridige Viljer, naar der var bleven lidt stille i Huset, og vi saa gik, Du og jeg, ad Baglaagen, langs Aaen, en Tur ud i Skoven, Arm i Arm, som Moder og Barn, hvor gammel jeg saa blev!</hi>
+        </p>
+        <p xml:id="idm139817691403088">
+          <hi rend="italics" xml:id="idm139817691402832">Jeg kysser dine Hænder med Ærbødighed og Taknemmelighed. Du holdt dem over mig saa mangen en Gang, naar mit sære Væsen skaffede mig min Faders Uvilje og mine Søskendes Spot som lille og som voksen. Du forstod ikke min Egenhed, og jeg har aldrig vovet at forklare Dig den, efter at jeg omsider selv var bleven klar derover. Du forstod kun det ene: at Du havde født mig til Verden, og at jeg aldrig skulde komme til Dig forgæves; Du havde Trøsten foruden Ord; Du havde Medfølelsen, som var Forstaaelsen uden Forstaaelse, den dybeste af alle.</hi>
+        </p>
+        <p xml:id="idm139817691401392">
+          <hi rend="italics" xml:id="idm139817691401136">Jeg velsigner Dig, Du alting vidende i din Uvidenhed. Hvor har det gjort mig godt at græde hos Dig!</hi>
+        </p>
+        <pb n="42" xml:id="s42" facs="adl/larsenk/larsenk_10/larsenk_10_042"/>
+        <p xml:id="idm139817691398976">
+          <hi rend="italics" xml:id="idm139817691398720">Tankerne paa min Barndom kan blive ved at følge mig og forfølge mig.</hi>
+        </p>
+        <p xml:id="idm139817691397776">
+          <hi rend="italics" xml:id="idm139817691397520">Jeg ser den lille By ved Søen og det store, kønne Sygehus, hvor der stod høje Sørgepil i Haven.</hi>
+        </p>
+        <p xml:id="idm139817691396528">
+          <hi rend="italics" xml:id="idm139817691396272">Hvor mange Gange har jeg ikke følt en ubestemmelig men inderlig Medlidenhed fylde min Sjæl, naar jeg efter Solnedgang stod ved vor Laage paa den anden Side Søen!</hi>
+        </p>
+        <p xml:id="idm139817691395136">
+          <hi rend="italics" xml:id="idm139817691394880">Og allermest kunde jeg fanges af Drømme om Holmen ude i Vandet, hvor Moder havde fortalt mig, at der engang laa et Nonnekloster. Fader og min ældre Broder roede os en Dag derud i Baad, og jeg saa Murstensrester endnu i jorden. Fra den Dag af legede jeg meget Nonne, ensom Nonne, længselsfuld Nonne, ulykkelig Nonne, med et gammelt Sørgeslør af Moders fæstet ned fra min Trøje.</hi>
+        </p>
+        <p xml:id="idm139817691393408">
+          <hi rend="italics" xml:id="idm139817691393152">Jeg voksede jo op, naiv som alle Børn, i den tryggeste Tillid til mig selv og min Ejendommelighed, ogsaa som alle andre Børn. Hvor skulde jeg kunne ane, at det maatte kaldes galt, naar jeg elskede at binde Tøj efter mig, saa det blev til lange Kjoler, naar jeg holdt af at klæde Dukker <pb n="43" xml:id="s43" facs="adl/larsenk/larsenk_10/larsenk_10_043"/>paa fra inderst til yderst og hellere saa, lidt ængstelig, til ved Drengenes Leg.</hi>
+        </p>
+        <p xml:id="idm139817691390448">
+          <hi rend="italics" xml:id="idm139817691390192">Hvor har jeg ikke hæderligt og redeligt, med den bedste Vilje, som et godt og lydigt Barn, bestræbt mig for at blive det, min Fader kaldte for »en rigtig Dreng«. Hvor har jeg ikke beundret min Broder, der allerede som Barn kaldtes Ingeniøren, og hvem det faldt saa grumme let at være Mandfolk! Hvor har jeg ikke bedt Vorherre hjælpe mig til at blive ligesom han, der altid anførtes for mig som et Eksempel! Og hvor var jeg ikke bedrøvet og har grædt og følt mig forladt af Gud, som dog var den Algode, fordi det ikke paa nogen Maade vilde lykkes mig!</hi>
+        </p>
+        <p xml:id="idm139817691388752">
+          <hi rend="italics" xml:id="idm139817691388496">Ak, jeg falder hen i Minder! Tænker paa min Barndomskammerat, Joseph Wysocki, den polske Fotografs Søn, som var et Aar ældre end jeg. Jeg ser ham for mig, brunøjet, med fine, regelmæssige Træk og et romantisk kruset, mørkeblondt Haar. Den smukkeste af alle Drenge, en dristig Dykker og Svømmer under Vandet, ridderligt beskyttende overfor mig, som de andre ofte lo af. Stolt over sin Rolle som min Beskytter, fordi jeg var fra Latinskolen, og han kun gik i Borgerskolen. Det var min hemmelige Glæde, som jeg for mit Liv ikke vilde have ladet mig mærke med overfor <pb n="44" xml:id="s44" facs="adl/larsenk/larsenk_10/larsenk_10_044"/>ham, at jeg var den finere, der kastede ligesom Glans over ham, fordi jeg var hans Protégé!</hi>
+        </p>
+        <p xml:id="idm139817691385728">
+          <hi rend="italics" xml:id="idm139817691385472">Ham har jeg elsket, som kun et Barn kan elske. Hans Hjem med Faderen, der var Emigrant fra Opstanden i tre og tres, syntes mig det interessanteste af alt paa Jorden; min første, sønderrivende Samvittighedskval led jeg, da jeg i tretten Aars Alderen følte mig saa uhyggelig betaget af en Jonglørdreng i Cirkusteltet paa Markedspladsen, hvor jeg netop var henne sammen med min Joseph; Joseph og jeg havde jo dog en Foraarsdag i Skolen blandet Blod i et Venskab, hvor jeg bogstavelig talt klyngede mig op til ham, saa at han ægte drengeagtigt følte sig helt flov over min grænseløse Hengivenhed!</hi>
+        </p>
+        <p xml:id="idm139817691383728">
+          <hi rend="italics" xml:id="idm139817691383472">Intet, bogstavelig talt intet, forstod jeg af min Kærlighed til ham uden, at jeg fulgte min uimodstaaelige Trang til at være sammen med ham og ofre noget for ham.</hi>
+        </p>
+        <p xml:id="idm139817691382336"><hi rend="italics" xml:id="idm139817691382208">Da han efter Konfirmationen var kommen til København i Lære, sneg jeg mig længe til at skrive ham til hver eneste Dag, uagtet hans Svar efterhaanden blev knappere og knappere.</hi> ....</p>
+        <p xml:id="idm139817691381024">
+          <hi rend="italics" xml:id="idm139817691380768">Saa kom Overgangsalderen med den <pb n="45" xml:id="s45" facs="adl/larsenk/larsenk_10/larsenk_10_045"/>skæbnesvangre, sanselige Farvning af mit som af alle Børns Følelsesliv.</hi>
+        </p>
+        <p xml:id="idm139817691378672">
+          <hi rend="italics" xml:id="idm139817691378416">Stadig famlede jeg, som ethvert Barn af min Art, ganske i Mørke. Endnu mere end før var det kun Forældres, Søskendes og Kammeraters Holdning, der tvang mig til at lægge Baand paa de Tilbøjeligheder, som udtrykte mit inderste Væsen. Da vi ikke kan skjule dem, forklæder vi dem; saadan gaar det os alle. Ubevidst finder vi paa at sværme for Komediespil: vi agerer i Mandsroller og i Kvinderoller, dog helst de sidste. Hos de fleste af os har denne Svaghed for Teater og for Skuespillervæsen holdt sig gennem Livet ...</hi>
+        </p>
+        <p xml:id="idm139817691376896">
+          <hi rend="italics" xml:id="idm139817691376640">Drengeerotiken er et vanskeligt Felt og ikke til at forstaa for en psykologisk Klodrian.</hi>
+        </p>
+        <p xml:id="idm139817691375744">
+          <hi rend="italics" xml:id="idm139817691375488">Mangfoldige udprægede Mænd har i Overgangsalderen haft Anfægtelser — af grovere eller finere Art — overfor jævnaldrende af deres eget Køn.</hi>
+        </p>
+        <p xml:id="idm139817691374400">
+          <hi rend="italics" xml:id="idm139817691374144">For en stor Del af os Korsdragere laa der en Tid lang en Slags Redning heri, en Art tilslørende Selvskuffelse: vi kunde jo træffe lignende Tilfælde som vore egne blandt de andre Drenge, og rigtige Drenge kunde sværme med os og for os.</hi>
+        </p>
+        <p xml:id="idm139817691372864">
+          <hi rend="italics" xml:id="idm139817691372608">Men naar vi med Aarene saa dem alle <pb n="46" xml:id="s46" facs="adl/larsenk/larsenk_10/larsenk_10_046"/>ty over i Pigebørnenes Arme, saa begyndte det igennem Skinsyge og Kvaler, med Taarer og Smerte, at dæmre for os, at vi maatte være noget for os selv.</hi>
+        </p>
+        <p xml:id="idm139817691370304">
+          <hi rend="italics" xml:id="idm139817691370048">Og da vi omsider som Ynglinge begreb, at vi var hverken Mand eller Kvinde, men noget fra dem forskelligt, saa vidste vi med det samme, at vi var prisgivne til de normale Menneskers Antipati, ja her i vore Lande truede af Loven, hvis vi ikke kunde modstaa Drifter, paa hvilke de andre byggede deres Samfund.</hi>
+        </p>
+        <p xml:id="idm139817691368944">
+          <hi rend="italics" xml:id="idm139817691368688">For vort Livs Skyld maatte vi lære at forstille os, dølge os. Forklædningen blev vor Verden, Ironien vort Væsen overfor Fremmede; vi maatte spotte eller fjase, hvis vi ikke vilde græde.</hi>
+        </p>
+        <p xml:id="idm139817691367504">
+          <hi rend="italics" xml:id="idm139817691367248">Og vi kunde aldrig tale om, at vi græd, og sige nogen, hvorfor vi græd, thi saa stødte de os fra sig!</hi>
+        </p>
+        <p xml:id="idm139817691366240">
+          <hi rend="italics" xml:id="idm139817691365984">Kold kom op til mig en Aften. Han var til det yderste optaget af Backe og hans Kærlighed. Selvfølgelig var den ikke længe bleven skjult for hans aarvaagne Spejden og hans ubetvingelige Interesse for alt, hvad der kommer vore ved. Han havde besøgt Backe selv og hørt ham fortælle.</hi>
+        </p>
+        <pb n="47" xml:id="s47" facs="adl/larsenk/larsenk_10/larsenk_10_047"/>
+        <p xml:id="idm139817691363504">
+          <hi rend="italics" xml:id="idm139817691363248">Naar Kold gengiver noget, er det altid som Digter. Paa en vis Maade taler han ikke sandt, paa den anden Side kunde jeg fristes til at sige, sandere end Virkeligheden; Indtrykkene suger sig hos ham ind i en Fantasi, der ofte bearbejder Kendsgerningerne i deres rette Aand. Naar de da genopstaar hos ham i det, som han skriver eller fortæller, er de ikke blot anskuelige med en Rigdom af karakteriserende Detailler, men de er udviklede, førte ud i deres Konsekvenser. Mange Folk har jo sagt, at han løj, og man kan ogsaa tit, naar han fortæller, mærke, hvorledes hans Fantasi stundom ligesom stopper lidt op for at digte det, som skal følge; men han lyver alligevel ikke rigtigt, han fortæller tit Tingene, som de kan blive, maa blive, vil blive ...</hi>
+        </p>
+        <p xml:id="idm139817691361184">
+          <hi rend="italics" xml:id="idm139817691360928">Backe er saa utroligt lykkelig for Tiden. Kold paastaar, og jeg selv har Indtryk af, at han har Ret, at Backe med sin underligt harmoniske Grundretning slet intet føler mere af Forbandelsen ved at være født saaledes, som vi nu engang er det. Han betragter de almindelige Menneskers Mening om os som beroende paa en manglende Indsigt, der efterhaanden vil svinde for et dybere Kendskab til Naturens Love. Han <pb n="48" xml:id="s48" facs="adl/larsenk/larsenk_10/larsenk_10_048"/>harmes ikke over deres Fordømmelsesdomme, thi de »vide ikke, hvad de gøre«. Vi er lige saa sikre paa vor Ret til Livet og til Saligheden som de andre. Backe har vist Kold et Brev fra en Præst, der er af vor Art, og som skriver, at naar Gud har skabt os, som han gjorde, har han dermed givet os Ret til at leve paa de Følelser, han dermed indgav os, under samme Ansvar, med samme Sansernes Beherskelse ved Viljen og Troen som andre Mennesker. Jeg deler ikke hans religiøse Tro, har Backe sagt til Kold, men jeg deler hans Tro paa det harmoniske i Skabelsen.</hi>
+        </p>
+        <p xml:id="idm139817691790576">
+          <hi rend="italics" xml:id="idm139817691790320">Og nu mener Backe, at det kan lykkes ham at fastholde den unge Mand, uden hvis Kærlighed han siger, at han ikke kan leve.</hi>
+        </p>
+        <p xml:id="idm139817691789280">
+          <hi rend="italics" xml:id="idm139817691789024">Det gamle Spil, hvorpaa tusinder af vor Art har tabt vort Liv som Indsats! —</hi>
+        </p>
+        <p xml:id="idm139817691788064">
+          <hi rend="italics" xml:id="idm139817691787808">Kunde det lykkes for nogen, maatte det være for Backe, kvindeligt indtagende som han er, aandsfri som ingen anden, klog og hjærtensgod paa samme Tid. Kold har Ret i, at han har omskabt sin Tilbedte. Ikke blot er Kulturen under en egen elskværdig Undren gaaet op for dette Naturmenneske fra det lavere Herregaardsland; men <pb n="49" xml:id="s49" facs="adl/larsenk/larsenk_10/larsenk_10_049"/>han er bleven hensynsfuld og fintfølende og har faaet hele sin Mandighed og Trang til at beskytte udviklet under Samlivet med Backe, er bleven ridderlig. Efter at han er kommen af Tjenesten har Backe skaffet ham en udmærket Plads ved et stort Handelsselskab, hvor han tager sin Stilling med virkelig Samvittighedsfuldhed og en Ansvarsfølelse, som han tidligere kun kendte meget lidt til.</hi>
+        </p>
+        <p xml:id="idm139817691784512">
+          <hi rend="italics" xml:id="idm139817691784256">Men nu fortalte Kold mig, at Backe ud paa Natten, da de havde talt sammen mange Timer, udviklede for ham sine skønneste Drømme: han vilde om nogle kar gaa ud af Statstjenesten og købe en Herregaard, med Vennen som Forvalter, og saa vilde han leve med ham og for ham i Naturen og blandt Mennesker, for hvem han skulde blive et økonomisk og aandeligt Midtpunkt, som han kunde knytte til sin Person og gøre Livet rigere for ...</hi>
+        </p>
+        <p xml:id="idm139817691341296">
+          <hi rend="italics" xml:id="idm139817691341040">Backe, Du kære Ven, er det ikke farlige Drømme? Har ikke Kold Ret i, at det synes ham Ikarus' Flugt mod Solen, for dristig for en dødelig — af vor Art!</hi>
+        </p>
+        <p xml:id="idm139817691339920">
+          <hi rend="italics" xml:id="idm139817691339664">Jeg tager mine Anklager mod Kold tilbage. Jeg tror, han har Ret i, at det ikke <pb n="50" xml:id="s50" facs="adl/larsenk/larsenk_10/larsenk_10_050"/>vilde være Mod men Vanvid, hvis han søgte at give almindelige Mennesker en virkelig Forstaaelse af os. Ja, jeg er endog ved at begribe, at Kold forsinegen Skyld kan føle Trang til i sin Produktion at omskrive, ja endog søge helt bort fra det, som i Virkeligheden fylder ham — fordi deter saa rædselsfuldt sørgeligt.</hi>
+        </p>
+        <p xml:id="idm139817691337008">
+          <hi rend="italics" xml:id="idm139817691336752">Ikke mindste Tilløb til Forstaaelse af vort Væsen findes der hos Mennesker. Ikke engang en ligegyldig Laden os løbe. Kun den rent tyranniske Vilje til at omskabe os og tvinge os til at være og te os som de andre.</hi>
+        </p>
+        <p xml:id="idm139817691335520">
+          <hi rend="italics" xml:id="idm139817691335264">De forfølger os ulykkelige overalt.</hi>
+        </p>
+        <p xml:id="idm139817691334384">
+          <hi rend="italics" xml:id="idm139817691334128">Lad mig endda tilgive dem deres Kætterbaal, hvor det drejer sig om Tilfredsstillelsen af den mægtige Naturdrift, som de selv kun saa sjældent er Herrer over men oftest tjener i et nedværdigende Slaveri.</hi>
+        </p>
+        <p xml:id="idm139817691332912">
+          <hi rend="italics" xml:id="idm139817691332656">Men hvor mange af »vore« er ikke kyske som Jomfruer?</hi>
+        </p>
+        <p xml:id="idm139817691331744">
+          <hi rend="italics" xml:id="idm139817691331488">Hvor mange er ikke maalbevidste Asketer?</hi>
+        </p>
+        <p xml:id="idm139817691330640">
+          <hi rend="italics" xml:id="idm139817691330384">Hvor mange er ikke næsten kønsløse Overgangs former mellem Kvinde o g Mand?</hi>
+        </p>
+        <pb n="51" xml:id="s51" facs="adl/larsenk/larsenk_10/larsenk_10_051"/>
+        <p xml:id="idm139817691328320">
+          <hi rend="italics" xml:id="idm139817691328064">Men ingen af os lader det almindelige Menneske i Ro og i ingen Henseende.</hi>
+        </p>
+        <p xml:id="idm139817691327184">
+          <hi rend="italics" xml:id="idm139817691326928">Dette listige og grusomme Rovdyr med sin mod Kvinder rettede Drift vejrer selv den svageste Fært af det fra ham selv forskellige, og han taaler det ikke, det skal slaas ned; det er, som naar en Dyreart instinktivt rasende maa forfølge den anden indtil Ødelæggelse.</hi>
+        </p>
+        <p xml:id="idm139817691325584">
+          <hi rend="italics" xml:id="idm139817691325328">Intet tillader han os, som ikke er skabt i hans, Herskerens Billede, end ikke de uskyldigste Ting.</hi>
+        </p>
+        <p xml:id="idm139817691324432">
+          <hi rend="italics" xml:id="idm139817691324176">Baade Kold, Backe og jeg har været stærkt optagne af alle de nye Bestræbelser herhjemme for ved Undervisning, Foredrag og Retshjælp at belære og gavne dem, der socialt blev Stedbørn blandt Menneskene. Tofte bragte os i Forbindelse med flere af de ledende Mænd indenfor den Bevægelse; de var tilmed næsten alle vore jævnaldrende.</hi>
+        </p>
+        <p xml:id="idm139817691322720">
+          <hi rend="italics" xml:id="idm139817691322464">Ingen kunde forstaa den humane Kærne i deres Gerning bedre end vi.</hi>
+        </p>
+        <p xml:id="idm139817691321536">
+          <hi rend="italics" xml:id="idm139817691321280">Alle af vor Art hører til dem, som gerne vil dele med andre. Jeg tror, end ikke vore argeste Fjender vil frakende os denne Egenskab.</hi>
+        </p>
+        <pb n="52" xml:id="s52" facs="adl/larsenk/larsenk_10/larsenk_10_052"/>
+        <p xml:id="idm139817691319056">
+          <hi rend="italics" xml:id="idm139817691318800">Og vielsker at se andre glade, at give Penge til Fattige, om det saa er en Tigger, der gaar hen og drikker sig fuld for dem, vi undersøger ikke saa nøje; vi bringer Blomster til Syge, hjælper Børn og daarligt stillede unge Mennesker med vore Kundskaber. Det er ikke for intet, at nogle af de største Filantroper vitterligt har hørt til »vore«. Vor Arts Trang til Kærlighed tager netop langt sjældnere end de almindelige Menneskers en blot lidenskabelig Retning. Vi véd, hvad det er, virkelig at holde af Mennesker og ofre for andre, i Stedet for kun at beherske dem og nyde erotisk sammen med dem.</hi>
+        </p>
+        <p xml:id="idm139817691317136">
+          <hi rend="italics" xml:id="idm139817691316880">Lærere i de forskelligste Retninger er just saa mange af os blevet ud af en virkelig Trang, og vi er som Lærere nidkære og utrættelige, taalmodige og uden Ærgærrighed for os selv; kun har vi maaske stundom lidt svært ved at komme over Hensynløsheden og den fuldkomne Mangel paa kærlig Taknemmelighed for vor Gerning.</hi>
+        </p>
+        <p xml:id="idm139817691315472">
+          <hi rend="italics" xml:id="idm139817691315216">Inden disse Bestræbelser for at hjælpe de lavere Lag blev ført ud i Livet, havde vi saa at sige alle virket i deres Aand, hver indenfor sin lille Kreds, som Lærere og Venner for dem, der intet kunde og intet ejede.</hi>
+        </p>
+        <pb n="53" xml:id="s53" facs="adl/larsenk/larsenk_10/larsenk_10_053"/>
+        <p xml:id="idm139817691312880">
+          <hi rend="italics" xml:id="idm139817691312624">Vi traadte med Begejstring i de andres Tjeneste, da de begyndte deres Foretagender.</hi>
+        </p>
+        <p xml:id="idm139817691311744">
+          <hi rend="italics" xml:id="idm139817691311488">Kun Backe med sin overlegne Fagdygtighed og hele Position kunde holde ud. Nu trækker han sig dog ogsaa tilbage. Vi andre blev paa den besynderligste, tavse Maade skubbet til Side.</hi>
+        </p>
+        <p xml:id="idm139817691310320">
+          <hi rend="italics" xml:id="idm139817691310064">Der var intet at indvende imod os, vi kunde hvad vi skulde, vi gjorde, hvad vi burde; Eleverne i Timerne, Tilhørerne ved Foredragene var glade for os; men det var jo naive Folk, der søgte en bestemt Kærne af Kundskab og Belæring og kun tog efter den.</hi>
+        </p>
+        <p xml:id="idm139817691308752">
+          <hi rend="italics" xml:id="idm139817691308496">De følte sig ikke stødte af vor særegne Maade, af at vi ikke kunde arbejde i Mandfolketakt med de andre, af at vi fattede Forkærlighed for de flinkeste og mest opvakte blandt Eleverne og privat tog os særligt af dem, ogsaa hjalp dem med Penge, naar de vilde bruge de Kundskaber, de havde erhvervet, og rejse ud i det fremmede. De forargedes ikke over, at det hele blev ganske anderledes personligt for os end for vore mandlige Kolleger.</hi>
+        </p>
+        <p xml:id="idm139817691307088">
+          <hi rend="italics" xml:id="idm139817691306832">Disse Herrer var altid saa »sociale«, saa ophøjet metodiske, men vel at mærke — hvad vi naive var længe om at opdage — <pb n="54" xml:id="s54" facs="adl/larsenk/larsenk_10/larsenk_10_054"/>med en stærk Slagside af personlig Ærgerrighed og Syn paa Sagen for deres egen Forfængeligheds Skyld. Og hvor de var fulde af Kritik over deres Medarbejdere i det hele taget og sparsomme paa Overbærenhed!</hi>
+        </p>
+        <p xml:id="idm139817691304240">
+          <hi rend="italics" xml:id="idm139817691303984">Kold mindede mig forleden om den sejge, stille Modstand, som de ledende havde rejst imod hans Foredrag, fordi hans Façon var noget teatralsk, fantastisk, sentimental — som det nu engang maa være, naar det er en af »os«. For mange af Tilhørerne havde denne Mand netop noget æggende og tankevækkende, til Dels just gennem det, som til at begynde med ubevidst stødte dem fra. Himmelglade burde de, som rejste Sagen, have været for Kold; men nej, han var ikke som de almindelige, og vel i nogen Grad uden at vide, hvad de gjorde, helmede de ikke, inden han hørte op.</hi>
+        </p>
+        <p xml:id="idm139817691302352">
+          <hi rend="italics" xml:id="idm139817691302096">Der er jo Tider, hvor man ikke ser saa haabløst paa Tingene, som jeg gør det nu. Vi véd, at vi er mange og forekommer indenfor alle Samfundslag, til Dels i høje Stillinger og blandt dem, der tæller i Folkenes Liv. Efterhaanden finder vi mere og <pb n="55" xml:id="s55" facs="adl/larsenk/larsenk_10/larsenk_10_055"/>mere hinanden og kan være hinanden til bedre og bedre Støtte, Videnskaben begynder da ogsaa at beskæftige sig med os og maa snart naa frem til det rette Syn paa os, som da vil trænge igennem overalt. Vi véd, hvor usandfærdige Forestillingerne om os er. Vi véd, at vi ikke er forvorpne Vellystninge, der søger at hidse vore Sanser med unaturlige Udskejelser, vi véd, at vi kun er et stakkels tredje Køn med al dets menneskelige Godhed og Svaghed ...</hi>
+        </p>
+        <p xml:id="idm139817691298976">
+          <hi rend="italics" xml:id="idm139817691298720">Ja, saadan har vi stundom tænkt og talt.</hi>
+        </p>
+        <p xml:id="idm139817691297840">
+          <hi rend="italics" xml:id="idm139817691297584">Men saa stilledes vi paa én Gang atter Ansigt til Ansigt med den frygtelige Virkelighed omkring os.</hi>
+        </p>
+        <p xml:id="idm139817691296576">
+          <hi rend="italics" xml:id="idm139817691296320">Kold fortæller om Brorsons Selvmord.</hi>
+        </p>
+        <p xml:id="idm139817691295440">
+          <hi rend="italics" xml:id="idm139817691295184">Bundfortvivlet af en ganske haabløs Kærlighed holdt han dog ud som Herredsfuldmægtig i Provinsen uden noget Menneske, han turde betro sig til, næsten sygeligt undselig og ængstelig, som han var.</hi>
+        </p>
+        <p xml:id="idm139817691293984">
+          <hi rend="italics" xml:id="idm139817691293728">Saa, en Novemberaften lader han Lampen staa og brænde paa sit Bord, og først flere Dage efter drev hans Lig ind paa Stranden langt borte fra Byen.</hi>
+        </p>
+        <p xml:id="idm139817691292624">
+          <hi rend="italics" xml:id="idm139817691292368">Midt i en Roman som laa opslaaet paa hans Bord (det var Brødrene Goncourts »Frères Zemganno«) har Fortvivlelsen grebet <pb n="56" xml:id="s56" facs="adl/larsenk/larsenk_10/larsenk_10_056"/>ham og med en saa uendelig Haabløshed, at han end ikke efterlod et eneste Ord til noget af de Mennesker, han holdt af.</hi>
+        </p>
+        <p xml:id="idm139817691289968">
+          <hi rend="italics" xml:id="idm139817691289712">Tænk hvad det vil sige for en Sjæl som Brorsons, der tørstede efter Kærlighed og havde været fuld af Sympati overfor Mennesker, at han maatte bryde op fra dette Liv uden at turde sige et eneste Ord til nogen af dem, som han vilde have tjent til sine Dages Ende, om en eneste af dem havde blot søgt at forstaa ham.</hi>
+        </p>
+        <p xml:id="idm139817691288304">
+          <hi rend="italics" xml:id="idm139817691288048">Kold har Ret: ikke saa meget som Spidsen af sin stakkels skælvende Haand vovede han at række frem i sin sidste Stund ...</hi>
+        </p>
+        <p xml:id="idm139817691287008">
+          <hi rend="italics" xml:id="idm139817691286752">Brorson var en af vore bedste Studenterskuespillere fra Foreningen. Hans Udførelse af den unge Pige i Komedien, som blev vort Rusaars Begivenhed, var enestaaende fortrinlig, bedre endnu end Backes og Maltes Venindepar, der dog virkede saa troværdigt og stemningsfuldt, at alle maatte undres. Brorsons Scene med Ammen, der blev spillet saa uimodstaaelig bredt af Frederiksen, Medicineren — — det giver et Ryk i min Pen, i det Øjeblik mine Tanker vil dvæle ved den længst forsvundne Aftens Munterhed! Frederiksen er jo ogsaa af <pb n="57" xml:id="s57" facs="adl/larsenk/larsenk_10/larsenk_10_057"/>dem, som er borte, død for egen Haand — og han var ikke en af vore.</hi>
+        </p>
+        <p xml:id="idm139817691283824">
+          <hi rend="italics" xml:id="idm139817691283568">Han var rigtig Mand. Smittende munter, men uden Hold paa sig selv, begærlig efter alle Livets Nydelser, af Profession Grovæder, som han engang sagde, medens hans hvide Tænder lyste. Han var uden Varsomhed overfor sin Sjæl.</hi>
+        </p>
+        <p xml:id="idm139817691282320">
+          <hi rend="italics" xml:id="idm139817691282064">Og han blev ødelagt af en af vore, af den fornemme ældre Herre, en af de Ledende i vort Land, der kunde give ham alle de Penge, somFrederiksen lod rulle, indtil han selv var rullet ud af regelmæssigt Arbejde, havde tabt hver Smule Æresfølelse og al Evne til virkelig at handle. Da hans Elsker lod ham falde, sank han gennem halve Pengeafpresninger og hele Plattenslagerier, forsumpet i Lediggang og sløvet af Alkohol, viljeløst til Bunds, indtil han fandt den sidste Smule Vilje til at ende sit ynkelige Liv.</hi>
+        </p>
+        <p xml:id="idm139817691280640">
+          <hi rend="italics" xml:id="idm139817691280384">Det Livs Fortabelse staar paa »vort« Regnebrædt.</hi>
+        </p>
+        <p xml:id="idm139817691279488">
+          <hi rend="italics" xml:id="idm139817691279232">Men I Samfundets strænge Mænd, som dømmer vor Brøde, hvor mange Kvinders Fald har I vel ikke paa Jer Samvittighed?</hi>
+        </p>
+        <pb n="58" xml:id="s58" facs="adl/larsenk/larsenk_10/larsenk_10_058"/>
+        <p xml:id="idm139817691277088">
+          <hi rend="italics" xml:id="idm139817691276832">Daniela! Daniela! Deine Ruh ist hin! — Alt andet er kastet til Side, Backe, Kold, Tofte.</hi>
+        </p>
+        <p xml:id="idm139817691275856">
+          <hi rend="italics" xml:id="idm139817691275600">I en Hast løber jeg de sidste Blade af min Dagbog igennem. Hvor jeg var ved at blive tør og forstandig i min Tankegang, næsten disciplineret som et Mandfolk i min Stil! Nu husker jeg ogsaa, at jeg sidste Gang lukkede min lille Bog i med en stille, vemodig Følelse af Resignation.</hi>
+        </p>
+        <p xml:id="idm139817691274240">
+          <hi rend="italics" xml:id="idm139817691273984">Det er forbi.</hi>
+        </p>
+        <p xml:id="idm139817691273168">
+          <hi rend="italics" xml:id="idm139817691272912">Jeg har drømt om ham i Nat. Paa Ære, jeg skriver ikke Roman.</hi>
+        </p>
+        <p xml:id="idm139817691271984">
+          <hi rend="italics" xml:id="idm139817691271728">Han stod for mig, som da han traadte ind i Husarernes Ridehus, hvor jeg lærer at ride. Han er Løjtnant, men ikke i Husarerne, i Artilleriet; jeg har ogsaa altid sværmet for den mørke Artilleriuniform med de røde Striber. Og han selv var mørk, med tæt, opad kruset Schnurrbart som de spanske Grander paa Velazquez' Billeder.</hi>
+        </p>
+        <p xml:id="idm139817691270272">
+          <hi rend="italics" xml:id="idm139817691270016">Han gik let og havde smalle Hofter, som alle rigtig smidige og stærke Mænd, som Jockeyernes Konge, den benaadede Cook, han, der havde røvet Guderne deres Skikkelse og Kvinderne deres Brillanter. Dog, <pb n="59" xml:id="s59" facs="adl/larsenk/larsenk_10/larsenk_10_059"/>jeg maa vente med at skildre Aksel, min Aksel, A. P. K., til en Dag, mit Blod er mere i Ro.</hi>
+        </p>
+        <p xml:id="idm139817691267600">
+          <hi rend="italics" xml:id="idm139817691267344">Eller maaske i nogle Hexametre under en Goethesk Venetiansk Stemning?</hi>
+        </p>
+        <p xml:id="idm139817691266480">
+          <hi rend="italics" xml:id="idm139817691266224">Men, Daniela, skam Dig!</hi>
+        </p>
+        <p xml:id="idm139817691265408">
+          <hi rend="italics" xml:id="idm139817691265152">Ak, endnu aner han ikke din Kærlighed, Du bekymringssvangre! Nej, endnu har han maaske ikke lagt mere Mærke til Dig end til nogen af de andre civile Rideelever, Beriderne der ude har.</hi>
+        </p>
+        <p xml:id="idm139817691263984">
+          <hi rend="italics" xml:id="idm139817691263728">Det er ogsaa skrækkeligt med Moderne paa Herretøj, saa ensformige de mere og mere bliver; for et flygtigt Blik løber alle ud i samme Entonighed, og det første Indtryk, saa meget kommer an paa det!</hi>
+        </p>
+        <p xml:id="idm139817691262528">
+          <hi rend="italics" xml:id="idm139817691262272">Der var meget at bestille i Dag baade paa Biblioteket og i mine Kursustimer. Derved lykkedes det mig at holde mine Tanker fast. Nu løber de fuldkommen løbsk. Jeg maa ud at gaa paa Gaden, ryge Cigaretter, smaanynne, fortæres af Længsel og være lykkelig af Længsel, for til sidst — jeg véd det — at ringe paa Toftes Gadedør Klokken over elleve, snakke med ham en Times Tid om alt muligt andet og endelig <pb n="60" xml:id="s60" facs="adl/larsenk/larsenk_10/larsenk_10_060"/>ikke kunne modstaa men betro ham min Kval og min Lykke.</hi>
+        </p>
+        <p xml:id="idm139817691259472">
+          <hi rend="italics" xml:id="idm139817691259216">Tofte hører efter, ryster paa Hovedet, advarer — til Trods for at han er Historiker og Filolog — jeg véd det altsammen. Men hvorledes hindre Floden i at strømme mod Havet! —</hi>
+        </p>
+        <p xml:id="idm139817691258048">
+          <hi rend="italics" xml:id="idm139817691257792">Hvor er jeg berusende dejligt sentimental i Aften!</hi>
+        </p>
+        <p xml:id="idm139817691256944">
+          <hi rend="italics" xml:id="idm139817691256688">Jeg har gjort hans Bekendtskab, jeg tilbeder. Ad fint udtænkte Veje lykkedes det mig i Gaar ved en stor Middag hos Konsul Poulsens.</hi>
+        </p>
+        <p xml:id="idm139817691255616">
+          <hi rend="italics" xml:id="idm139817691255360">Der var gammelt Sølvtøj, skønne Blomster, fyldige Vine, og jeg havde en fortræffelig Dame til Bords, Frøken Jessen, som jeg tit og mange Gange har talt godt med om Musik. Hun er over den første Ungdom, har levet længe i Udlandet, studeret under Thomas, er fri for alt kvindeligt udfordrende, tænksom, hyggelig, ret en Veninde, man kan snakke med som Veninde; men den Aften! Min Mund løb ustandseligt, jeg hørte og opfattede alt, hvad hun sagde, men det naaede ikke ind i mine Molekuler; igennem al Konversationens <pb n="61" xml:id="s61" facs="adl/larsenk/larsenk_10/larsenk_10_061"/>Larmen omkring det store Bord var mit skarpe Øre kun optaget af at lytte efter, om jeg maaske kunde skelne hans Stemme.</hi>
+        </p>
+        <p xml:id="idm139817691252512">
+          <hi rend="italics" xml:id="idm139817691252256">Det lykkedes mig engang fuldt, klart og tydeligt, og da var jeg nær gaaet fra Koncepterne, jeg tabte en Ske i en Assiet med Æblekompot, som var ved at gaa rundt, og gjorde næsten Skandale ved mine kejtede Anstrengelser for at faa den op igen.</hi>
+        </p>
+        <p xml:id="idm139817691250960">
+          <hi rend="italics" xml:id="idm139817691250704">jeg véd godt, at jeg kan være noget kejtet og klodset i Væsen og Manerer og især, naar jeg nødigst af alt vil være det. Det har ofte været mig en bitter Sorg overfor den, hvem jeg inderlig gerne vilde behage og tage mig ud for. Derfor holdt jeg mig i Gaar ogsaa meget tilbage; ja, jeg var et Par Gange efter Bordet lige ved at tage mit Tøj og løbe min Vej fra det Selskab, som jeg havde anvendt al min Snildhed og Kløgt paa at komme med til. Men jeg blev.</hi>
+        </p>
+        <p xml:id="idm139817691249296">
+          <hi rend="italics" xml:id="idm139817691249040">Jeg saa ham tale med Dame efter Dame og se paa dem med et Blink i disse Øjne, der vel har Farve som Violer men en Glans af Staal.</hi>
+        </p>
+        <p xml:id="idm139817691247984">
+          <hi rend="italics" xml:id="idm139817691247728">Han kurede ikke til nogen af dem. Selv mine mest skinsyge Blikke kunde ikke opdage det; men det opdagede, hvad der <pb n="62" xml:id="s62" facs="adl/larsenk/larsenk_10/larsenk_10_062"/>maaske er endnu meget værre, hvorledes Kvinderne svirrede imod ham som leddeløse Døgnfluer en Sommeraften omkring Lampen. Hvem skulde ogsaa kunne modstaa denne ubevidste Sikkerhed i Holdningen, denne kolde Ild, denne Stemme, som man føler kan kommandere!</hi>
+        </p>
+        <p xml:id="idm139817691245184">
+          <hi rend="italics" xml:id="idm139817691244928">Jeg idealiserer ham ikke op, min Helt, — nej, jeg gør det ikke; han er en Mand, en Mand, en Mand af dem, som der endnu kan findes nogle af nu til Dags, og som kunde løfte en Kvinde op foran sig paa Sadlen.</hi>
+        </p>
+        <p xml:id="idm139817691243712">
+          <hi rend="italics" xml:id="idm139817691243456">Inde hos Herrerne, ved Cigaren, sagde han i min Nærhed, en passant, paa sin egen korte Maade noget morsomt, som de andre lo af. jeg kan i dette Øjeblik ikke engang huske, hvad det var, men jeg véd, at jeg lo med, ganske højt, og næsten kastede mig hen imod Gruppen, hvor han stod, saa jeg straks blev flov og hurtigt trak mig tilbage.</hi>
+        </p>
+        <p xml:id="idm139817691241984">
+          <hi rend="italics" xml:id="idm139817691241728">Jeg havde mødt hans Øjne i et hastigt Blik, der ligesom sagde paa hans Mandfolke- og Soldatersprog: Det var et mærkeligt Nummer!</hi>
+        </p>
+        <p xml:id="idm139817691240672">
+          <hi rend="italics" xml:id="idm139817691240416">Jeg blev ulykkelig og kunde atter godt være løbet min Vej, hvis jeg ikke netop havde villet blive, villet, om det saa havde gjaldt mit Liv. Og en ti Minuter efter <pb n="63" xml:id="s63" facs="adl/larsenk/larsenk_10/larsenk_10_063"/>efter tog jeg alt det Mod til mig, som jeg overhovedet kunde skyde op i Brystet, gik roligt lige over til ham — tænk min Dristighed! — og sagde med en Stemme, der klang rolig, men som jeg selv kunde føle dirrede, om han ikke kendte Backes Fætter, Løjtnanten. Jeg tilføjede meget hurtigt, at han maaske havde overhørt mit Navn ved Præsentationen, jeg var cand, mag. Bremer.</hi>
+        </p>
+        <p xml:id="idm139817691237344">
+          <hi rend="italics" xml:id="idm139817691237088">Han bukkede forbindtlig, ligesom gjorde en let Honnør for min akademiske Titel.</hi>
+        </p>
+        <p xml:id="idm139817691236128">
+          <hi rend="italics" xml:id="idm139817691235872">Det er det med Officerer, at de opdrages til at vise en vis Ærbødighed. Maaske stikker det ikke dybt, men det ytrer sig i Formen, og hvor Form er uendelig meget værd her i Verden! Saa har man da i hvert Fald noget net at se paa!</hi>
+        </p>
+        <p xml:id="idm139817691234608">
+          <hi rend="italics" xml:id="idm139817691234352">Min Aksel er formfuld, og han er fin og flot, og Mænd skal være flotte. Jeg har faaet alt muligt at vide om ham i de sidste fjorten Dage, hvorledes han er mod sin Værtinde i Store Kongensgade, at han giver gode Drikkepenge paa Kaféen, hvor han kommer, og en af sine Beridere har han engang foræret en Ridepisk med ciseleret Sølvknap. De ligefrem savner ham ved Afdelingen — — lyder det ikke rask, teknisk militært! — nu i denne Tid, <pb n="64" xml:id="s64" facs="adl/larsenk/larsenk_10/larsenk_10_064"/>han er paa Officerskolen; men Daniela er henrykt, for naar han skal hjem fra Skolen, maa han passere Østergade henad Klokken halv fire. Lige saa saare der er lukket paa Biblioteket, styrter jeg af Sted for at møde ham, og nu vil jeg ile endnu mere, da jeg kender ham og kan hilse.</hi>
+        </p>
+        <p xml:id="idm139817691231104">
+          <hi rend="italics" xml:id="idm139817691230848">Officerers Hilsen er rigtignok ogsaa noget anderledes noget end Civiles, især naar de gaar flere sammen, som de altid gaar fra Officersskolen. Denne Drejning af Hovederne, dette flotte Kast med Haanden op til Huerne!</hi>
+        </p>
+        <p xml:id="idm139817691229616">
+          <hi rend="italics" xml:id="idm139817691229360">Hvor er det dog en Lykke at være forelsket! Jeg vaagner til hver ny Dag som til en Begivenhed, for hvad kan den ikke altsammen komme til at bringe! Jeg kan jo møde ham eller græmme mig halvgal over at være kommen for sent; jeg kan maaske ad en eller anden Vej trænge nærmere ind i hans Bekendtskab; jeg kan komme til at høre en Mængde Ting, som interesserer mig, fordi de angaar ham; jeg kan blive flov og bedrøvet og forfærdelig lykkelig; jeg kan ligge vaagen om Natten, som om jeg laa i Skoven og stirrede op i et Bøgetræ, og jeg kan vaagne efter at have drømt <pb n="65" xml:id="s65" facs="adl/larsenk/larsenk_10/larsenk_10_065"/>om ham. Og under det altsammen er mit hele Jeg én skærpet Virksomhed, modtageligt og udvideligt som aldrig ellers.</hi>
+        </p>
+        <p xml:id="idm139817691226544">
+          <hi rend="italics" xml:id="idm139817691226288">Jeg er nær ved at snakke min Mund af Led overfor Tofte, der »advarer« mig, hvad der yderligere ægger mig, fordi jeg da synes letsindig, og det er berusende at være letsindig! Og jeg letsindige er sød og god og hjælpsom imod alle Mennesker, mod Kollegerne og Publikum paa Biblioteket, og hvem jeg ellers støder paa; og aldrig, tror jeg, har de unge Kursusmennesker fundet mig saa elskværdig og interessant.</hi>
+        </p>
+        <p xml:id="idm139817691224864">
+          <hi rend="italics" xml:id="idm139817691224608">Jeg er opfindsom som ingen Sinde før; jeg blev bedt hos Konsul Poulsens, dengang jeg vidste, at han skulde komme, om fjorten Dage, højst en Maaned, skal jeg komme til »ham«; han bor for sig selv; Forældrene er fine Folk i Aarhus.</hi>
+        </p>
+        <p xml:id="idm139817691223344">
+          <hi rend="italics" xml:id="idm139817691223088">Nu vil jeg ikke skrive mere. Det er mig for nervøst. Det gaar for langsomt i Forhold til mine Tankers Il. Aldrig vilde jeg lemlæste dem saa ynkeligt for at fæste dem til Papiret, hvis ikke det at skrive om ham erstattede mig lidt af den Salighed at skrive til ham.</hi>
+        </p>
+        <p xml:id="idm139817691221760">
+          <hi rend="italics" xml:id="idm139817691221504">Klokken er over tolv. Du maa i Seng, min Daniela.</hi>
+        </p>
+        <pb n="66" xml:id="s66" facs="adl/larsenk/larsenk_10/larsenk_10_066"/>
+        <p xml:id="idm139817691219440">
+          <hi rend="italics" xml:id="idm139817691219184">Men medens Du gør dit Toilette foran Spejlet, vil dine hvide Hænder sikkert hyppigt synke i dit Skød. Og Du vil med et Blik mod dette Glas, som smigrer, hviske hans Navn og spørge, om Naturen virkelig skulde have skabt al din Aand og Skønhed for at lade den smægte forgæves.</hi>
+        </p>
+        <p xml:id="idm139817691217824">
+          <hi rend="italics" xml:id="idm139817691217568">Man er sin egen Lykkes Smed. Gennem Backes Fætter traf jeg »ham« i et Selskab andre Herrer, og det viste sig, at min Aksel ikke var stærk i Fransken. De har ret svære Opgaver ude paa Officerskolen, og han trængte i høj Grad til Ekstraundervisning; det taler nu slet ikke til Skade for ham; bare forsømt Undervisning fra Skolen!</hi>
+        </p>
+        <p xml:id="idm139817691216096">
+          <hi rend="italics" xml:id="idm139817691215840">Jeg tilbød straks min Hjælp, og han blev rørt. Vi har nu læst sammen allerede i nogle Uger, og tænk hvad det vil sige, disse Timer!</hi>
+        </p>
+        <p xml:id="idm139817691214768">
+          <hi rend="italics" xml:id="idm139817691214512">Han vilde komme til mig og protesterede umaadelig høfligt mod, at jeg skulde ulejlige mig til ham. Men Daniela skulde da gerne gaa Mile for at komme til at sidde i dette Mandfolkeværelse, hvor alt, til den mindste Ubetydelighed, er ham og viser Soldaten.</hi>
+        </p>
+        <pb n="67" xml:id="s67" facs="adl/larsenk/larsenk_10/larsenk_10_067"/>
+        <p xml:id="idm139817691212000">
+          <hi rend="italics" xml:id="idm139817691211744">Naar vi har læst, og han har Tid, passiarer vi lidt; men jeg passer paa, ikke at forstyrre ham for meget, for hans Eksamen er svær, og han maa læse dygtigt. Jeg bekæmper min brændende Lyst til at være sammen med ham og gaar hjem for at sysle med andre Ting, som kan være ham til Nytte. Jeg er bleven en Sort Eksamensmanduktør for ham i det hele taget. De har ogsaa en Del Historie derude, og jeg har udarbejdet praktiske Oversigtstabeller, lavet mnemotekniske Systemer, for at han kan huske Aarstallene; ogsaa Tysk hjælper jeg ham i. Blot der kunde være endnu meget mere, jeg kunde være til Nytte for ham med!</hi>
+        </p>
+        <p xml:id="idm139817691210320">
+          <hi rend="italics" xml:id="idm139817691210064">Naar nu Eksamen er taget, hvor vil jeg ikke gyse, for at han skal komme bort fra Byen! Hvis man bare kunde skaffe sig nogen Indflydelse paa dem, der bestemmer saadant noget, Generalerne eller hvad det er for nogle; men det er jo ganske haabløst.</hi>
+        </p>
+        <p xml:id="idm139817691208768">
+          <hi rend="italics" xml:id="idm139817691208512">Der er saa meget godt og retskaffent hos ham. Han taler paa en naturlig og smuk Maade om sine Forældre og sit Hjem. <pb n="68" xml:id="s68" facs="adl/larsenk/larsenk_10/larsenk_10_068"/>Disse daarlige Kvinder, af baade den højere og den lavere Verden, der ligefrem paanøder sig en Mand som ham, har ikke naaet at fordærve hans Sjæl.</hi>
+        </p>
+        <p xml:id="idm139817691206048">
+          <hi rend="italics" xml:id="idm139817691205792">Jeg taler slet ikke til nogen om ham. Dertil synes jeg, han er altfor god, og at jeg saa ejer ham endnu meget mere.</hi>
+        </p>
+        <p xml:id="idm139817691204880">
+          <hi rend="italics" xml:id="idm139817691204624">Tofte har jeg i den sidste Tid ikke søgt, Kold er igen rejst til Paris; Backe vil jeg ikke gaa til, fordi jeg véd, at han for Tiden ogsaa er altfor meget optaget af sit eget. Jeg er rar imod Mennesker, sidder hjemme, arbejder for ham og ejer min højeste Lykke i de Timer, jeg er sammen med ham, modtager hans Taknemmelighed og lytter til, hvad han siger.</hi>
+        </p>
+        <p xml:id="idm139817691203152">
+          <hi rend="italics" xml:id="idm139817691202896">Han er ganske optaget af sin Eksamen. Gud ske Lov; der er for Tiden ikke noget med Damer eller Pigebørn eller noget af alt det; for ellers er det ham selvfølgelig næsten ikke muligt at gaa i Fred for dem; det er det skrækkelige ved det!</hi>
+        </p>
+        <p xml:id="idm139817691201616">
+          <hi rend="italics" xml:id="idm139817691201360">Han er uhyre imponeret af mine Kundskaber, af min omfattende og paalidelige Hukommelse. Hvor det fryder mig, naar han hvisker sine beundrende Ord!</hi>
+        </p>
+        <p xml:id="idm139817691200416">
+          <hi rend="italics" xml:id="idm139817691200160">Daniela, Du lyver. Du lyver for at smigre Dig selv. Du skriver: hvisker. Ak nej, endnu har han aldrig hvisket til mig, <pb n="69" xml:id="s69" facs="adl/larsenk/larsenk_10/larsenk_10_069"/>og endnu har jeg aldrig turdet tale til ham, saaledes som jeg brænder efter at tale.</hi>
+        </p>
+        <p xml:id="idm139817691197904">
+          <hi rend="italics" xml:id="idm139817691197648">Endnu er Daniela tilhyllet; kun hendes Stemme høres bag Masken. Naar jeg kaster den, naar jeg aabenbarer mig, hvad vil da ske? ]eg tør ike tænke den Tanke, vil ikke tænke den endnu.</hi>
+        </p>
+        <p xml:id="idm139817691196480">
+          <hi rend="italics" xml:id="idm139817691196224">Jeg mærker hans Hjærtelighed stige, jo mere han føler, at jeg ofrer ham noget, og at det gavner ham. ja, hvad vilde jeg ikke altsammen ofre for Dig! Hvad betyder Du nemlig ikke for mig! Hvor har Du ikke, midt i al min vage Uro, bragt min Sjæl Fred! Hvor er I ikke forsvundne, mine letsindige Blikke, der paa Gaden endnu stundom kunde strejfe Skønheder af Johans Art. Nu har jeg fundet den, hos hvem jeg kunde vinde Ro for Livet.</hi>
+        </p>
+        <p xml:id="idm139817691194816">
+          <hi rend="italics" xml:id="idm139817691194560">Forleden Dag klappede han mig helt fortroligt paa Skulderen, næsten beskyttende, som holdt han mig for en Kvinde. Der kommer ogsaa i hans Tonefald hyppigt ligesom en ubevidst Fornemmelse heraf. Hvor er Daniela da lykkelig!</hi>
+        </p>
+        <pb n="70" xml:id="s70" facs="adl/larsenk/larsenk_10/larsenk_10_070"/>
+        <p xml:id="idm139817691192144">
+          <hi rend="italics" xml:id="idm139817691191888">Der en Tanke, som aldrig slipper mig. Uophørligt hvisker det til mig: Lad være at spille det farlige Spil! Forbliv hele dit Liv igennem stum overfor den, Du elsker! Lad ham aldrig nogen Sinde ane, at Du nærer andet for ham end det, almindelige Mennesker kalder Venskab! Find Dig i, at han elsker Kvinder, at han gifter sig, faar Børn; men slip ham ikke! Bliv hans Ven for Livet, bekæmp Antipatien, som ikke undgaas hos den Hustru, han vælger sig, eller hos andre Kvinder, som han knytter sig til. Staa Fadder til hans Børn, spar Penge sammen for at kunne give ham dem, hvis han skulde komme til at trænge, eller for at testamentere dem til hans Børn, som Forældre altid er bange for skal komme til at trænge.</hi>
+        </p>
+        <p xml:id="idm139817691189568">
+          <hi rend="italics" xml:id="idm139817691189312">Husk paa den endnu smukke, høje og mandige Grosserer Juel, der nu er oppe i Halvtredserne og har voksne Pigebørn. Du er jo selv kommen i hans Hjem, og traf dér Magistratsfuldmægtig Kaas som Husven, taalt af Konen, hundset af Døtrene, som alligevel i Hemmelighed kom til ham for at faa Penge, misbrugt til alle Ærinder og Tjenester, ogsaa af Juel, hvis Autoritet dog <pb n="71" xml:id="s71" facs="adl/larsenk/larsenk_10/larsenk_10_071"/>ene og alene holdt ham oppe i Huset og overfor Fremmede. I ophøjet, dum Mangel paa Begreb var Juel ham den nedladende Ven, og Kaas var lykkelig, lykkelig, som Adelsmanden hos Turgénjew, der, efter at have ødet alt sit Gods paa Beridersken, faar Lov at være med imellem hendes Tjenerskab og i Paaklædningsværelset vaske hendes lange, hvide Handsker i Benzin.</hi>
+        </p>
+        <p xml:id="idm139817691185904">
+          <hi rend="italics" xml:id="idm139817691185648">Ak, men Adelsmanden havde dog i sine Velmagtsdage besiddet denne Skønhed! Kaas har end aldrig turdet vovet at betro den smukke Juel en Tøddel af sin Kærlighed — det tilstod han mig en Aftenstund.</hi>
+        </p>
+        <p xml:id="idm139817691184448">
+          <hi rend="italics" xml:id="idm139817691184192">Daniela, tør Du ikke vove? Vil Du frygte, ligesom Kaas? Eller rettere: bør Du ikke frygte? Er det ikke den højeste, den inderligste Kærlighed, Du viser ham, som han nu engang er, hvis Du frygter?</hi>
+        </p>
+        <p xml:id="idm139817691182992">
+          <hi rend="italics" xml:id="idm139817691182736">Lad ikke Kaas' Skræmmebillede træde i Vejen for din Beslutning! Det er jo slet intet Skræmmebillede. Selv om Du lider og foragtes, saa har Du dog ofret Dig for ham, og han har tilladt Dig at forblive ham nær.</hi>
+        </p>
+        <p xml:id="idm139817691181504">
+          <hi rend="italics" xml:id="idm139817691181248">O, du hede Blod! O, du unge Selvbevidsthed! <pb n="72" xml:id="s72" facs="adl/larsenk/larsenk_10/larsenk_10_072"/>O, du brændende Ønske om at blive hans Lige gennem Kærlighed! I vil faa en haard Kamp.</hi>
+        </p>
+        <p xml:id="idm139817691179104">
+          <hi rend="italics" xml:id="idm139817691178848">Alt er forbi. Jeg er tilintetgjort for Livet. Jeg har jo ikke kunnet modstaa, jeg tilstod ham det.</hi>
+        </p>
+        <p xml:id="idm139817691177952">
+          <hi rend="italics" xml:id="idm139817691177696">Aa; hvis jeg kunde købe Eder tilbage, I Ord! Jeg skulde trælle hele mit Liv for Jer!</hi>
+        </p>
+        <p xml:id="idm139817691176720">
+          <hi rend="italics" xml:id="idm139817691176464">Men intet kunde standse Eder. Han, Aksel, var sprungen op; jeg saa som i en Taage for mig hans Ansigt med optrukne Bryn, jeg kunde dog ikke standse mine Ord, og jeg kunde ikke standse mig selv. Som i Vanvid vilde jeg favne hans Knæ. Da greb han Ridepisken.</hi>
+        </p>
+        <p xml:id="idm139817691175152">
+          <hi rend="italics" xml:id="idm139817691174896">Jeg skreg.</hi>
+        </p>
+        <p xml:id="idm139817691174080">
+          <hi rend="italics" xml:id="idm139817691173824">Jeg blev liggende paa Knæ med Hænderne for Øjnene.</hi>
+        </p>
+        <p xml:id="idm139817691172912">
+          <hi rend="italics" xml:id="idm139817691172656">Og havde han endda slaaet mig!</hi>
+        </p>
+        <p xml:id="idm139817691171824">
+          <hi rend="italics" xml:id="idm139817691171568">Jeg længtes efter hans Haands sviende Piskeslag ned ad min Ryg. Men han bød mig kun: Staa op! Tag Deres Hat! Gaa! — som en Kommando i tre Tempoer.</hi>
+        </p>
+        <p xml:id="idm139817691170464">
+          <hi rend="italics" xml:id="idm139817691170208">Værdigt alligevel, mandigt!</hi>
+        </p>
+        <pb n="73" xml:id="s73" facs="adl/larsenk/larsenk_10/larsenk_10_073"/>
+        <p xml:id="idm139817691168240">
+          <hi rend="italics" xml:id="idm139817691167984">Men min Gang ned ad de Trapper!</hi>
+        </p>
+        <p xml:id="idm139817691167152">
+          <hi rend="italics" xml:id="idm139817691166896">Jeg turde ikke blive siddende lidt paa Trinene, for om der skulde komme nogen, der kendte ham og mig; jeg vilde liste op i det næste Hus og sætte mig for blot at vinde en Smule Kræfter igen i mine Ben og Arme, men der kom en Herre og gik op ad Trapperne, saa turde jeg ikke.</hi>
+        </p>
+        <p xml:id="idm139817691165536">
+          <hi rend="italics" xml:id="idm139817691165280">Til alt Held kørte en Droske forbi, og jeg kom hjem. Kusken troede, jeg var syg, og jeg lod ham virkelig hjælpe mig op ad Trapperne; hans Medfølelse gjorde mig dog lidt godt. Ogsaa Fru Hansen var i Grunden rart medfølende.</hi>
+        </p>
+        <p xml:id="idm139817691164032">
+          <hi rend="italics" xml:id="idm139817691163776">Jeg vilde have drukket en Citronlimonade men kunde det slet ikke. Saa maatte jeg i Seng. Og til Morgen kom der Brev fra Johan, at Cykleagenten var forsvunden med alle Pengene, og at han straks maatte have tredive Kroner.</hi>
+        </p>
+        <p xml:id="idm139817691162752">
+          <hi rend="italics" xml:id="idm139817691162496">Mit Liv er en eneste sønderrivende Kval. Netop sønderrivende. Jeg tør næppe gaa paa Gaden af Frygt for at møde ham, hvem hele Verden vilde applavdere, fordi han jog mig bort med en Ridepisk. Denne Verden, som vil tvinge mig selv til at erkende, at han <pb n="74" xml:id="s74" facs="adl/larsenk/larsenk_10/larsenk_10_074"/>maatte gribes af Modbydelighed, da jeg tilstod ham min varme, inderlige Kærlighed, som jeg ikke længere kunde holde hos mig selv. Denne Følelse, saa dyb som nogen Mands eller Kvindes Elskovsfølelse.</hi>
+        </p>
+        <p xml:id="idm139817691159664">
+          <hi rend="italics" xml:id="idm139817691159408">Men dette er vor Skæbne: at faa vore bedste Følelser jaget bort med en Ridepisk.</hi>
+        </p>
+        <p xml:id="idm139817691158448">
+          <hi rend="italics" xml:id="idm139817691158192">Sønderrivende, sønderflængende!</hi>
+        </p>
+        <p xml:id="idm139817691157328">
+          <hi rend="italics" xml:id="idm139817691157072">Jeg skal forstaa, og jeg kan ogsaa paa en vis udvendig Maade forstaa, at det maatte ende sadledes mellem ham og mig.</hi>
+        </p>
+        <p xml:id="idm139817691156160">
+          <hi rend="italics" xml:id="idm139817691155904">Tofte mener egentlig, at dermed er alt klaret.</hi>
+        </p>
+        <p xml:id="idm139817691155056">
+          <hi rend="italics" xml:id="idm139817691154800">Er vi da i vor Tid allesammen bleven til en Række Mikroskopister, som med Fryd forstaar vor egen sønderrivende Sjælekval?</hi>
+        </p>
+        <p xml:id="idm139817691153744">
+          <hi rend="italics" xml:id="idm139817691153488">Jeg føler den som meningsløs, om jeg saa forstaar den de tusinde Gange.</hi>
+        </p>
+        <p xml:id="idm139817691152544">
+          <hi rend="italics" xml:id="idm139817691152288">Jeg føler den som den bitreste Uretfærdighed, om jeg saa véd, at ingen Magt i Naturen havde kunnet tvinge andet frem imellem Aksel og mig.</hi>
+        </p>
+        <p xml:id="idm139817691151200">
+          <hi rend="italics" xml:id="idm139817691150944">Og nu er Johan kommen tilbage igen og har plyndret mig for Penge. Han havde en Ven med, en Korporalselev. Jeg kunde se deres Beregning lyse dem ud af Øjnene, og jeg var lige ved i satanisk Fortvivlelse at lade staa til og give mig disse Banditer <pb n="75" xml:id="s75" facs="adl/larsenk/larsenk_10/larsenk_10_075"/>i Vold, for Peter er bleven mager igen, og Vennen var dejlig. Men jeg stod imod og gav dem mange Penge til Øl og Mad blot for at slippe dem og kunne kaste mig paa min Chaiselongue og bide i mit Lommetørklæde og raabe haabløst ud i det tomme Rum.</hi>
+        </p>
+        <p xml:id="idm139817691147968">
+          <hi rend="italics" xml:id="idm139817691147712">Jeg trænger til en Gud at kunne anklage for min Skæbne, som den er beredt mig fra Fødselen af. Under altfor mange Taarer har jeg i min Barndom og naive Ungdom anraabt ham om at vise mig Vejen til at bekæmpe den.</hi>
+        </p>
+        <p xml:id="idm139817691146480">
+          <hi rend="italics" xml:id="idm139817691146224">At forstaa, min kære Tofte, at man maa gaa til Grunde og nødvendigvis maa gaa til Grunde, det er nu engang ikke at leve!</hi>
+        </p>
+        <p xml:id="idm139817691145184">
+          <hi rend="italics" xml:id="idm139817691144928">Tofte har været hos mig, elskværdig og hjælpsom, og jeg burde være glad. Det er forbi med Johans Pengeafpresninger. Tofte gik til en Ven i Politiet, og som denne Sangerinde, Peter lever sammen med, nærer stor Frygt for. Det er bleven konstateret, at mine usalige Breve til ham ikke eksisterer mere.</hi>
+        </p>
+        <p xml:id="idm139817691143520">
+          <hi rend="italics" xml:id="idm139817691143264">Jeg kender Johan og hans Uorden; han har ladet dem bortkomme ved at flytte <pb n="76" xml:id="s76" facs="adl/larsenk/larsenk_10/larsenk_10_076"/>rundt; men hun, Kvindemennesket, er gaaet ud fra, at jeg nok troede paa, hanhav de dem, hvad jeg ogsaa gjorde. Det var hende som tvang ham til at pine mig mere og mere, det var ogsaa hende, som fandt paa at indføre Johans Ven hos mig for maaske at faa knyttet et nyt Forhold, der kunde give Haab om fordelagtige Dokumenter. De har alle tre faaet et alvorligt Tilhold om at blive mig fra Livet, og jeg kan jo nu desuden uden Risiko vise dem Vintervejen.</hi>
+        </p>
+        <p xml:id="idm139817691140304">
+          <hi rend="italics" xml:id="idm139817691140048">Jeg burde være glad men kan ikke være det. En stor Fare er fjærnet fra mig, Spiren til maaske megen Ulykke. Jeg har set det før, hvorledes disse Udpressere har undergravet Tilværelsen for Folk af vor Art og gjort dem selv til Slyngler, som ved Plattenslagerier og tilsidst endogsaa Pengeudpresninger skaffede Summerne til Veje til disse Kæltringer.</hi>
+        </p>
+        <p xml:id="idm139817691138624">
+          <hi rend="italics" xml:id="idm139817691138368">At dette nu ikke kan blive min Lod, maa jeg føle mig inderlig taknemmelig for.</hi>
+        </p>
+        <p xml:id="idm139817691137408">
+          <hi rend="italics" xml:id="idm139817691137152">Men det er kun et lille Kors, der er taget fra mig, hvis Tynge jeg ikke mærker for Vægten af det store, der endnu er ved at trykke mig tit Jorden. —</hi>
+        </p>
+        <pb n="77" xml:id="s77" facs="adl/larsenk/larsenk_10/larsenk_10_077"/>
+        <p xml:id="idm139817691134896">
+          <hi rend="italics" xml:id="idm139817691134640">Jeg finder ingen Trøst hos Tofte, jeg skyer Backe og alle af vor Art. Til de ældre blandt dem vil jeg ikke betro mig, og af de unge er alt for mange letsindige og letfærdige; jeg vilde nu kun med Gru kunne høre den Tale lyde omkring mig, som var bleven til en dulmende Manér for mig som for saa mange andre blandt os.</hi>
+        </p>
+        <p xml:id="idm139817691133200">
+          <hi rend="italics" xml:id="idm139817691132944">Den eneste, jeg ser, er gamle Lyndby, min Faders Kontorbud fra længst forsvundne Dage. Med sin usvækkede rørende Hengivenhed kommer han ikke blot og ser til mig paa alle Familjens Mærkedage, men han gør sig nyttig ved at udføre alle Slags smaa Ærinder og Kommissioner for mig. Fra min tidligste Barndom har han følt sig uvilkaarlig tiltrukket af mig, hvem han kunde hjælpe lidt og komme til at betyde noget for, som var ham taknemmelig og taalmodigt lod ham følge sin Lyst til godmodig Snakken. Ja — hvad der var det allerbedste — jeg kendte jo selv noget af Glæden ved blot dette at lade Munden løbe. Lyndby er aldrig kommen paa det rene med sig selv, han véd ikke, at han dog sikkert er en af vore, men af Overgangsformerne mellem Mand og Kvinde i en af de <pb n="78" xml:id="s78" facs="adl/larsenk/larsenk_10/larsenk_10_078"/>nevtrale Varieteter. Han hører til disse besynderligt farveløse Skabninger, der nusler rundt i Verden som særegne Grupper indenfor de saakaldte Særlinge. De findes mere eller mindre særprægede i alle Samfundsklasser. Lidenskabens Flammesværd fik de ikke til deres Fordærv plantet i deres Hjærte. Naturen skænkede dem Evnuksjæle. Og de blev ofte samfundsnyttige, flittige, noget smaalige Arbejdsbier i Ordets bogstavelige Forstand. I katolske Lande traf jeg indenfor Præsteskabet adskillige af dem ...</hi>
+        </p>
+        <p xml:id="idm139817691128576">
+          <hi rend="italics" xml:id="idm139817691128320">Det har lindret mig for nogle Øjeblikke nøgternt og tørt at skrive Iagttagelser ned, som om jeg var en Læge eller Forhørsdommer, der skulde referere.</hi>
+        </p>
+        <p xml:id="idm139817691127216">
+          <hi rend="italics" xml:id="idm139817691126960">Men ak, hvor er de korte, disse rolige Minuter! Min Sorg er alt for stor.</hi>
+        </p>
+        <p xml:id="idm139817691126080">
+          <hi rend="italics" xml:id="idm139817691125824">Jeg har faaet at vide, at det gik ham godt til Eksamen, og jeg græd af Glæde og af Sorg, saa jeg maatte dreje Nøglen om i Døren og gemme mit Hoved i Puderne, for at ikke Fru Hansen skulde høre mig hulke.</hi>
+        </p>
+        <p xml:id="idm139817691124608">
+          <hi rend="italics" xml:id="idm139817691124352">I den første Tid efter min Ulykke kunde jeg ikke lade være at udspejde og følge ham, hvor han stod og gik, jeg kunde skjule mig i Gadedøre blot for at se ham <pb n="79" xml:id="s79" facs="adl/larsenk/larsenk_10/larsenk_10_079"/>gaa forbi, og det uagtet det vilde have været mig skrækkeligere end Døden, om han havde opdaget, at jeg gjorde det.</hi>
+        </p>
+        <p xml:id="idm139817691121872">
+          <hi rend="italics" xml:id="idm139817691121616">Den Sort Ting gør jeg ikke mere; de er ikke den Kærlighed værd, som jeg virkelig har næret for ham. Jeg har elsket det Menneske meget dybere, end jeg selv anede.</hi>
+        </p>
+        <p xml:id="idm139817691120480">
+          <hi rend="italics" xml:id="idm139817691120224">Det er dog Lykken i den store Ulykke.</hi>
+        </p>
+        <p xml:id="idm139817691119392">
+          <hi rend="italics" xml:id="idm139817691119136">Derfor modstod jeg ogsaa Banditerne, der spekulerede i min Svaghed.</hi>
+        </p>
+        <p xml:id="idm139817691118272">
+          <hi rend="italics" xml:id="idm139817691118016">Men tænk Eder, I som er Mænd, og I, som er Kvinder, hvad det vil sige, at eje Driften til at elske varmt og inderligt med Sjæl og Sanser, som Naturen nu engang har givet en dem, medfølende og tro overfor et andet Menneske, der er aandeligt udviklet som en selv, og saa at maatte blive spærret ude fra dette Paradis og udsættes for Fristelser af frække Strugglere, som koldblodigt handler med egen Skønhed.</hi>
+        </p>
+        <p xml:id="idm139817691116608">
+          <hi rend="italics" xml:id="idm139817691116352">Skam faa den, som tænker ilde om Kampen for at modstaa dem!</hi>
+        </p>
+        <p xml:id="idm139817691115424">
+          <hi rend="italics" xml:id="idm139817691115168">Saa underligt det gaar her i Livet! Eller vel kun underligt, fordi vi ikke kender den virkelige Sammenhæng.</hi>
+        </p>
+        <p xml:id="idm139817691114144">
+          <hi rend="italics" xml:id="idm139817691113888">Naar jeg i Dag stødte paa Malte, som <pb n="80" xml:id="s80" facs="adl/larsenk/larsenk_10/larsenk_10_080"/>jeg ikke har talt med siden den Dag, vi tog Filosofikum sammen, var det sikkert intet Tilfælde. Jeg tror, der i vor Tilværelse findes lønlige Sympatiforbindelser. De unddrager sig Iagttagelse af vore Sanser men leder os mod de bestemte Maal, lige saa sikkert som Fisken i Havet føres mod sine fjerne Rugepladser.</hi>
+        </p>
+        <p xml:id="idm139817691111248">
+          <hi rend="italics" xml:id="idm139817691110992">Mit første Studenteraars bedste Ven, den af »vore«, jeg dengang stod aller nærmest, har følt, at jeg trængte til hans Bistand ..</hi>
+        </p>
+        <p xml:id="idm139817691109920">
+          <hi rend="italics" xml:id="idm139817691109664">Vi mødtes ud for Frue plads, i det gamle Studiekvarter, hvor vi har levet sammen.</hi>
+        </p>
+        <p xml:id="idm139817691108704">
+          <hi rend="italics" xml:id="idm139817691108448">Han tog min Haand.</hi>
+        </p>
+        <p xml:id="idm139817691107632">
+          <hi rend="italics" xml:id="idm139817691107376">Som den Skolemand, han er, spurgte han om nogle pædagogiske Smaaskrifter, han havde faaet Brug for, og som jeg, nemmere end han selv, kunde finde oppe paa Biblioteket.</hi>
+        </p>
+        <p xml:id="idm139817691106240">
+          <hi rend="italics" xml:id="idm139817691105984">Og vi gik passiarende ned ad Gaden, til vi stod ved min Husdør, og han gik »med op« for at »sidde lidt og sludre« — de samme Ord som i gamle Dage, og som ingen af os havde brugt siden.</hi>
+        </p>
+        <p xml:id="idm139817691104800">
+          <hi rend="italics" xml:id="idm139817691104544">Jeg betroede ham ikke min Sorg; men han følte den, uden at jeg behøvede at sige noget.</hi>
+        </p>
+        <p xml:id="idm139817691103568">
+          <hi rend="italics" xml:id="idm139817691103312">Vi passiarede vel en Times Tid og hørte <pb n="81" xml:id="s81" facs="adl/larsenk/larsenk_10/larsenk_10_081"/>op, fordi det blev os endnu kærere at tie stille end at tale.</hi>
+        </p>
+        <p xml:id="idm139817691097072">
+          <hi rend="italics" xml:id="idm139817691096816">Malte rejste sig og gik hen til Vinduet, hvor han længe stod og saa ud over mine Potteplanter frem i Luften.</hi>
+        </p>
+        <p xml:id="idm139817691095792">
+          <hi rend="italics" xml:id="idm139817691095536">»Husker du den Nat,« sagde han, »oppe paa den gamle Vold her lige for Studiestræde, hvor Du boede?«</hi>
+        </p>
+        <p xml:id="idm139817691094624">
+          <hi rend="italics" xml:id="idm139817691094368">Om jeg huskede den!</hi>
+        </p>
+        <p xml:id="idm139817691093552">
+          <hi rend="italics" xml:id="idm139817691093296">Det var en ganske stille Sommernat, hvor alting syntes Fred og Hvile; men over os lyste Stjerner med en Længsel i Skæret, saa man var ved at briste af Higen efter noget smærtelig uopnaaeligt.</hi>
+        </p>
+        <p xml:id="idm139817691092112">
+          <hi rend="italics" xml:id="idm139817691091856">Og dér talte vi to nittenaarige unge Mennesker om den Byrde for Livet, der var lagt paa vore Skuldre.</hi>
+        </p>
+        <p xml:id="idm139817691090848">
+          <hi rend="italics" xml:id="idm139817691090592">Jeg fo'r op i Harme over Samfundet, der betragtede os som Bestier og vilde kaste os i Fængsel. Jeg satte vor Trods op imod det. Som Forbryderen, der føler sig udstødt og nu lever i en lystig Krig mod det officielle, hvori alle Kneb gælder! Jeg spottede ogsaa Tanken om et retfærdigt og naadigt Forsyn, som skulde lede Menneskenes Skæbne. Den bitreste Haan mod denne Tanke var selve det, at vi var til, hvis uoprettelige Tragedie beroede paa et gaadefuldt, fysiologisk Spil i Moders Liv.</hi>
+        </p>
+        <pb n="82" xml:id="s82" facs="adl/larsenk/larsenk_10/larsenk_10_082"/>
+        <p xml:id="idm139817691087920">
+          <hi rend="italics" xml:id="idm139817691087664">Men da sagde Malte: »Derfor maa jeg netop tro paa Gud; for ellers var Livet ikke til at leve. Der maa være en Alfader, der lægger sit Kors paa Menneskenes Skuldre, forskelligt for de forskellige, tungere og lettere men alle til at skulle bæres. Jeg vil tro; ellers gaar jeg til Grunde ...«</hi>
+        </p>
+        <p xml:id="idm139817691086272">
+          <hi rend="italics" xml:id="idm139817691086016">For sin Sjælefreds Skyld trak Malte sig dengang pludselig tilbage fra os alle og holdt sig kun til sin nære Slægt, hvor han paa mange Maader havde en nok saa haard Kamp at føre.</hi>
+        </p>
+        <p xml:id="idm139817691084848">
+          <hi rend="italics" xml:id="idm139817691084592">Nu, over ti Aar efter, saa jeg min Ungdomsven ind i Øjnene.</hi>
+        </p>
+        <p xml:id="idm139817691083664">
+          <hi rend="italics" xml:id="idm139817691083408">»Hvor har Du ikke stridt!«, sagde jeg.</hi>
+        </p>
+        <p xml:id="idm139817691082560">
+          <hi rend="italics" xml:id="idm139817691082304">Og overvældet af min egen, uovervundne Smærte talte jeg op om, hvorledes den af os, som vil nedkæmpe sit Væsen i dets inderste Grund, maa bringe langt dybere Ofre end den mest selvpinende Asket, fordi han maa overvinde de hundreder af uskyldige Ting, som røber, at han ikke er som de andre.</hi>
+        </p>
+        <p xml:id="idm139817691080912">
+          <hi rend="italics" xml:id="idm139817691080656">»Men Du har kunnet det,«, endte jeg, »Du blev mere end Asket.«</hi>
+        </p>
+        <p xml:id="idm139817691079792">
+          <hi rend="italics" xml:id="idm139817691079536">»Ja,« sagde han, stille rettende, »jeg blev Kristen«.</hi>
+        </p>
+        <p xml:id="idm139817691078672">
+          <hi rend="italics" xml:id="idm139817691078416">Jeg slog ud med Haanden: »Og Teolog«!</hi>
+        </p>
+        <pb n="83" xml:id="s83" facs="adl/larsenk/larsenk_10/larsenk_10_083"/>
+        <p xml:id="idm139817691076384">
+          <hi rend="italics" xml:id="idm139817691076128">»Men ikke Præst, som mine Fædre«.</hi>
+        </p>
+        <p xml:id="idm139817691075296">
+          <hi rend="italics" xml:id="idm139817691075040">Jeg forstod Dig, Hans Frederik Malte!</hi>
+        </p>
+        <p xml:id="idm139817691074208">
+          <hi rend="italics" xml:id="idm139817691073952">Du sagde til din Gud, at vel bøjede Du Dig for ham, troede paa ham, klyngede Dig til ham som din Frelse; men Du følte dog ikke Kraften til at forkynde ham. —</hi>
+        </p>
+        <p xml:id="idm139817691072832">
+          <hi rend="italics" xml:id="idm139817691072576">— Jeg faar aldrig din troende Ydmyghed og Stolthed. Jeg er et Verdens Barn. Men Frederik Malte, hvor har ikke din Skikkelse gjort mig godt!</hi>
+        </p>
+        <p xml:id="idm139817691071632">
+          <hi rend="italics" xml:id="idm139817691071376">Der vil gaa længe, véd jeg, inden vi ses igen; men jeg véd, at jeg traf Dig saa vist ikke forgæves.</hi>
+        </p>
+        <p xml:id="idm139817691070368">
+          <hi rend="italics" xml:id="idm139817691070112">Det er over et Aar, siden jeg skrev i denne lille Bog. Jeg vil skrive igen — for sidste Gang.</hi>
+        </p>
+        <p xml:id="idm139817691069120">
+          <hi rend="italics" xml:id="idm139817691068864">Min Sorg var engang et oprørt, brølende Hav; nu har den bundfrosset min Sjæl og givet mig Ro.</hi>
+        </p>
+        <p xml:id="idm139817691067872">
+          <hi rend="italics" xml:id="idm139817691067616">Og saa halter dog dette Billede. Thi min Smærtes høje Ro er ikke Isens Død men gemmer over Livet.</hi>
+        </p>
+        <p xml:id="idm139817691066608">
+          <hi rend="italics" xml:id="idm139817691066352">Jeg har kæmpet, som en Mand, var jeg lige ved at skrive, nej, som kun en af vor Art kan kæmpe, og det en, som har elsket.</hi>
+        </p>
+        <pb n="84" xml:id="s84" facs="adl/larsenk/larsenk_10/larsenk_10_084"/>
+        <p xml:id="idm139817691064096">
+          <hi rend="italics" xml:id="idm139817691063840">Daniela er nu Enke.</hi>
+        </p>
+        <p xml:id="idm139817691063024">
+          <hi rend="italics" xml:id="idm139817691062768">Jeg spøger ikke.</hi>
+        </p>
+        <p xml:id="idm139817691061936">
+          <hi rend="italics" xml:id="idm139817691061680">Min hele Tilværelse er besjælet af denne ene Følelse, baaret oppe af den grundfæstede Fornemmelse af, at jeg er Enke — men, som det sømmer sig en Kvinde af min sære Art, en Enke, der aldrig ejed nogen Mand.</hi>
+        </p>
+        <p xml:id="idm139817691060448">
+          <hi rend="italics" xml:id="idm139817691060192">Jeg har engang i Livet truffet en rigtig Enke, som følte en Venindes Fortrolighed for mig. Denne Kvinde tjente sit Brød i et stort Magasin og var bestandig omsværmet af Fristere. Men hun fortalte mig, at hendes Dag bestandig endte med en Bøn foran Mandens Billede, der hang over hendes Seng. Og det holdt hende stadig oppe.</hi>
+        </p>
+        <p xml:id="idm139817691058736">
+          <hi rend="italics" xml:id="idm139817691058480">Denne Kvindes Liv var en eneste Erindring og en alt beherskende Følelse af, at hun skyldte den, hun havde elsket højst i Verden, at kunne lade alle sine Handlinger foregaa for hans Øjne.</hi>
+        </p>
+        <p xml:id="idm139817691057296">
+          <hi rend="italics" xml:id="idm139817691057040">Jeg har elsket Aksel. Den vove at nægte det, som tør!</hi>
+        </p>
+        <p xml:id="idm139817691056128">
+          <hi rend="italics" xml:id="idm139817691055872">Og han har ikke dræbt min Kærlighed med sin Pisk. Jeg vil blive ham tro bestandig.</hi>
+        </p>
+        <p xml:id="idm139817691054896">
+          <hi rend="italics" xml:id="idm139817691054640">Men det gode, jeg forspildte min Ret til at gøre ham, det vil jeg nu først rigtig gøre mod andre ...</hi>
+        </p>
+        <pb n="85" xml:id="s85" facs="adl/larsenk/larsenk_10/larsenk_10_085"/>
+        <p xml:id="idm139817691052480">
+          <hi rend="italics" xml:id="idm139817691052224">Der har altid været og vil altid mellem Mennesker kun være to adskilte Strømme, deres, som vil beherske sig selv, og deres, som vil give efter, deres, som vil ofre, og deres, som vil nyde; al Forskel mellem Menneskenes Børn stammer ene herfra.</hi>
+        </p>
+        <p xml:id="idm139817691050928">
+          <hi rend="italics" xml:id="idm139817691050672">Jeg véd, hvilken af de Lejre jeg fra nu af vil tilhøre.</hi>
+        </p>
+        <p xml:id="idm139817691049760">
+          <hi rend="italics" xml:id="idm139817691049504">Toftes Visdom er bleven mig en indtørrende Hjærne-Epikuræisme, som i Længden maa kvæle enhver menneskelig Følelse.</hi>
+        </p>
+        <p xml:id="idm139817691048464">
+          <hi rend="italics" xml:id="idm139817691048208">Og mine »egne«! ør jeg tro paa, at Backe vil kunne fastholde sin Yndling? Og saa kan jeg i det hele taget slet ikke taale at tale med ham eller træffe ham og den anden, fordi alting da minder mig alt for fortvivlende om min Aksel. Kold flakker hvileløs det halve Evropa rundt, fra det ene Forhold til det andet. Og de andre! Hvor mange af dem er ikke deres Svagheds Trælle og spøgende Trælle!</hi>
+        </p>
+        <p xml:id="idm139817691046784">
+          <hi rend="italics" xml:id="idm139817691046528">Lad mig søge dem — som Malte søgte mig — naar jeg véd, de er bekymrede og ene. Lad mig ile dem i Møde, naar de i Smerte kommer til mig, ti altid vil de dog blive mit Hjærte nærmest mellem alle de Jordens Ulykkelige, som jeg vil prøve paa Dag og Nat at tjene.</hi>
+        </p>
+        <p xml:id="idm139817691045184">
+          <hi rend="italics" xml:id="idm139817691044928">Over mit Liv skal være skrevet det Ord, <pb n="86" xml:id="s86" facs="adl/larsenk/larsenk_10/larsenk_10_086"/>som jeg først nu forstaar: Bene vixit qui bene latuit. Den har levet vel, som ikke i sine Handlinger blev Slave af Offentligheds Dom, dens Bifald og dens Mishag. Den har levet vel, som ikke fik sit inderste og bedste Sjæleliv begramset af den uforstaaende, selvretfærdige, skadefro Menneskenes Hob.</hi>
+        </p>
+        <p xml:id="idm139817691042208">
+          <hi rend="italics" xml:id="idm139817691041952">Thi Mennesket kan være godt, forstaaende, ja menneskeligt; men Menneskenes Hob, det er Orangutanghorderne, det er Vilddyrflokkene, det er Bestialiteten, som jubler ved at kunne give efter i Ansvarsløshed.</hi>
+        </p>
+        <p xml:id="idm139817691040736">
+          <hi rend="italics" xml:id="idm139817691040480">Og indenfor mine Medmenneskers store Horde, findes ogsaa en Horde af dem, som er mine Lige i snævrere Forstand.</hi>
+        </p>
+        <p xml:id="idm139817691039456">
+          <hi rend="italics" xml:id="idm139817691039200">Jeg vil undgaa bægge disse Horder.</hi>
+        </p>
+        <p xml:id="idm139817691038336">
+          <hi rend="italics" xml:id="idm139817691038080">Ene maa jeg leve, ene maa jeg kæmpe, ene maa jeg søge at gøre godt, ene maa jeg arbejde mig frem imod den fuldt ud lykkelige Alder, som en Sokrates sukkede efter, da Lidenskabens Brod er revet ud af Kødet og ikke stikker mere.</hi>
+        </p>
+        <p xml:id="idm139817691036816">
+          <hi rend="italics" xml:id="idm139817691036560">Ene med min Sorg. Ene med mine Ofre. Ene med min Sejr, som jeg haaber paa at kunne vinde.— —</hi>
+        </p>
+        <pb n="87" xml:id="s87" facs="adl/larsenk/larsenk_10/larsenk_10_087"/>
+        <p xml:id="idm139817691034416">
+          <hi rend="italics" xml:id="idm139817691034160">Jeg har læst disse Optegnelser igennem igen.</hi>
+        </p>
+        <p xml:id="idm139817691033264">
+          <hi rend="italics" xml:id="idm139817691033008">Noget i dem virkede, som naar man læser gamle, glemte Breve — man kender kun med Møje sit eget Aasyn.</hi>
+        </p>
+        <p xml:id="idm139817691032000">
+          <hi rend="italics" xml:id="idm139817691031744">Men i Hovedsagen var det mig, som gravede jeg ind i den smærtende Nerve, paa hvilken jeg beror den Dag i Dag, og saa længe som jeg overhovedet lever.</hi>
+        </p>
+        <p xml:id="idm139817691030640">
+          <hi rend="italics" xml:id="idm139817691030384">Det, jeg skrev ned, stammer kun fra en Episode paa et Par Aar af mit Liv; men den er — for at tale med Brandes efter Shakespeare — et Skaalpund Kød, skaaret ud mit Hjærte nærmest.</hi>
+        </p>
+        <p xml:id="idm139817691029216">
+          <hi rend="italics" xml:id="idm139817691028960">Og mit Liv er atter typisk for de titusinde andres.</hi>
+        </p>
+        <p xml:id="idm139817691028112">
+          <hi rend="italics" xml:id="idm139817691027856">Videnskaben, som er Menneskehedens — stundom haardhændede — men rette Lærer og Trøster, har i Aarene, der gik siden dengang undersøgt »os« og vor Sag i et Omfang, som vi i sin Tid daarligt turde drømme om. Vi havde intet ud over den tyske Dommer Ulrichs sjældne Bøger og nogle faa Lægers spredte Undersøgelser. Nu er der en stor Litteratur af betydelige Navne. Rutinen og Ubevægeligheden indenfor Videnskaben har Aar for Aar maattet <pb n="88" xml:id="s88" facs="adl/larsenk/larsenk_10/larsenk_10_088"/>vige for et af Fordomme udløst Studium under Sandhedens Tegn. Det er da ogsaa kommet frem, hvorledes vi i Virkeligheden udgør Millioner indenfor Menneskeslægten.</hi>
+        </p>
+        <p xml:id="idm139817691024864">
+          <hi rend="italics" xml:id="idm139817691024608">Og den normale Menneskehed, som den kaldes, har undredes og et Øjeblik nejet sig for den begyndende Erkendelses Røst. Dens raat løftede Næve sænkede sig en Smule og undlod stundom at slaa til.</hi>
+        </p>
+        <p xml:id="idm139817691023408">
+          <hi rend="italics" xml:id="idm139817691023152">Men lad os ikke skuffe os! Videnskabens Resultater vil give sig til at trænge fra de Udvalgtes Lag ned i den større Masse. Dér mødes de uafvendeligt med de raa Instinkter og Fordømmelsestrangen, som er Hobens Undskyldning for dens egnetalløse Fejl.</hi>
+        </p>
+        <p xml:id="idm139817691021840">
+          <hi rend="italics" xml:id="idm139817691021584">Min stakkels Erfaring siger mig ogsaa dette: ingen, bogstavelig talt ingen, af dem, som kendte vort rette Væsen og »forstaaende« tilgav os, at vi var til, bevarede Interessen for os. Den varede netop kun, indtil den psykologisk var tilfredsstillet, og vi som Fænomener var udtømte.</hi>
+        </p>
+        <p xml:id="idm139817691020208">
+          <hi rend="italics" xml:id="idm139817691019952">Naar de kendte os til Bunds, lod de os falde, som Forskeren lægger det Emne hen, han blev færdig med. Ingen af dem erhvervede sig for os den menneskelige Varme og urekflekterede Sympati, som er det <pb n="89" xml:id="s89" facs="adl/larsenk/larsenk_10/larsenk_10_089"/>eneste, hvorpaa Mennesker kan leve med hinanden.</hi>
+        </p>
+        <p xml:id="idm139817691017584">
+          <hi rend="italics" xml:id="idm139817691017328">Alle som en bød vi dem dog inderst inde imod. Bød dem imod blot paa Grund af selve vort Væsen, det, Naturen uafvendeligt havde givet os.</hi>
+        </p>
+        <p xml:id="idm139817691016256">
+          <hi rend="italics" xml:id="idm139817691016000">Findes der haardere Skæbne for levende Skabninger?</hi>
+        </p>
+        <p xml:id="idm139817691015104">
+          <hi rend="italics" xml:id="idm139817691014848">Backes fine Træk fra de unge Dage dukkede frem for mig af min Bogs Blade.</hi>
+        </p>
+        <p xml:id="idm139817691013904">
+          <hi rend="italics" xml:id="idm139817691013648">Jeg saa dem siden stivnede i Døden.</hi>
+        </p>
+        <p xml:id="idm139817691012768">
+          <hi rend="italics" xml:id="idm139817691012512">Kold fik Ret: paa sin Flugt mod Kærlighedens Lys styrtede han i Havet.</hi>
+        </p>
+        <p xml:id="idm139817691011568">
+          <hi rend="italics" xml:id="idm139817691011312">Han kunde ikke fortrænge Kvinderne fra sin Yndlings Liv og tilkæmpe sig deres Plads.</hi>
+        </p>
+        <p xml:id="idm139817691010336">
+          <hi rend="italics" xml:id="idm139817691010080">Og da Bruddet var sket imellem dem, saa aabenbart og saa naturnødvendigt, som naar Vulkanen sprænger Jordens Dække og slynger sin Ild og Aske i Vejret, kunde han dog ikke tro derpaa. Han vovede en vild og hensynsløs Kamp for at generhverve den Kærlighed, som var hans Liv. Han vilde tvinge ved en Taknemmelighedsgæld, hvor i Virkeligheden Gælden var paa hans Side. Han drev det endog til at ville misbruge sin økonomiske Overlegenhed overfor Vennen <pb n="90" xml:id="s90" facs="adl/larsenk/larsenk_10/larsenk_10_090"/>og den Kvinde, som havde taget ham fra ham.</hi>
+        </p>
+        <p xml:id="idm139817691007312">
+          <hi rend="italics" xml:id="idm139817691007056">Min arme, stakkels Ven!</hi>
+        </p>
+        <p xml:id="idm139817691006240">
+          <hi rend="italics" xml:id="idm139817691005984">Han maatte tabe og tabte som den, der brugte uværdige Vaaben. Det nedbrød hans Selvagtelse. Han blev tærende syg, og en Morgen laa han død i Sengen i det Værelse, hvoraf han havde fjærnet hvert Minde.</hi>
+        </p>
+        <p xml:id="idm139817691004768">
+          <hi rend="italics" xml:id="idm139817691004512">Jeg græd længe ved Backes Lig, Taarer af den bitreste Svie. For det var Taarer over Fortvivlelsen i min egen Tilværelse.</hi>
+        </p>
+        <p xml:id="idm139817691003472">
+          <hi rend="italics" xml:id="idm139817691003216">Kun én Gang græd jeg mere. Det var, da Moder døde. Men de Taarer blev Livets Dugg for mig.</hi>
+        </p>
+        <p xml:id="idm139817691002224">
+          <hi rend="italics" xml:id="idm139817691001968">Moders Død blev det bedste, jeg oplevede — saa uforstaaeligt det lyder for almindelige Mennesker.</hi>
+        </p>
+        <p xml:id="idm139817691000960">
+          <hi rend="italics" xml:id="idm139817691000704">Hun laa syg. Jeg var hver Søndag taget ned til vor lille By for at besøge hende. Saa fik jeg en Dag midt i Ugen Telegram, at nu maatte jeg komme straks, for der var vistnok ikke langt tilbage ...</hi>
+        </p>
+        <p xml:id="idm139817690999504">
+          <hi rend="italics" xml:id="idm139817690999248">Min Broder, Ingeniøren, var allerede løbet over paa Banegaarden for at se, om jeg kom.</hi>
+        </p>
+        <p xml:id="idm139817690998272">
+          <hi rend="italics" xml:id="idm139817690998016">Og det Haandtryk, vi vekslede, det Blink af Glæde over, at jeg havde naaet at komme tidsnok, var det første, hvori vi Brødre <pb n="91" xml:id="s91" facs="adl/larsenk/larsenk_10/larsenk_10_091"/>mødtes i hele vort Liv. Moders altomfattende Kærlighed naaede i hendes sidste Timer ogsaa at føre hendes Børn sammen i en fælles Følelse, som udslettede alt andet.</hi>
+        </p>
+        <p xml:id="idm139817690995504">
+          <hi rend="italics" xml:id="idm139817690995248">Vi gik op ad Stentrappen hjemme. Min ene Søster aabnede Døren indvendig fra, ganske sagte, inden vi havde banket. Hun nikkede kun til os, tog min Haand og sagde ikke noget; men det var, som om vi havde talt sammen i mange, mange Dage og nu blot et Øjeblik tav stille.</hi>
+        </p>
+        <p xml:id="idm139817690993904">
+          <hi rend="italics" xml:id="idm139817690993648">I Soveværelset sad min anden Søster. Hun saa med et kærligt Nik et Øjeblik paa os og vendte sig snart igen mod Moder, der laa med lukkede Øjne.</hi>
+        </p>
+        <p xml:id="idm139817690992544">
+          <hi rend="italics" xml:id="idm139817690992288">Jeg bøjede mig ængstelig hen over Moder, ganske stille men i dødelig Skræk for, at hun skulde være sovet hen.</hi>
+        </p>
+        <p xml:id="idm139817690991264">
+          <hi rend="italics" xml:id="idm139817690991008">Saa rørte hun lidt paa sig.</hi>
+        </p>
+        <p xml:id="idm139817690990144">
+          <hi rend="italics" xml:id="idm139817690989888">Hvor var hun bleven lille!</hi>
+        </p>
+        <p xml:id="idm139817690989056">
+          <hi rend="italics" xml:id="idm139817690988800">Pludselig slog hun Øjnene op.</hi>
+        </p>
+        <p xml:id="idm139817690987936">
+          <hi rend="italics" xml:id="idm139817690987680">De var de samme, drømmende store.</hi>
+        </p>
+        <p xml:id="idm139817690986816">
+          <hi rend="italics" xml:id="idm139817690986560">DeresUdtryk var nogleØjeblikke fjærnt, langt borte for sig selv. Men saa kendte hun mig, og jeg saa for sidste Gang ind i hendes Bliks uendelige Kærlighed.</hi>
+        </p>
+        <p xml:id="idm139817690985440">
+          <hi rend="italics" xml:id="idm139817690985184">Hun smilede, og hendes lille, magre Haand søgte min. Jeg omfattede den ganske.</hi>
+        </p>
+        <pb n="92" xml:id="s92" facs="adl/larsenk/larsenk_10/larsenk_10_092"/>
+        <p xml:id="idm139817690983056">
+          <hi rend="italics" xml:id="idm139817690982800">Hun hviskede mit Navn: »Daniel!«</hi>
+        </p>
+        <p xml:id="idm139817690981936">
+          <hi rend="italics" xml:id="idm139817690981680">Da stod vi alle omkring hende, og vi fire Søskende følte kun et og det samme. Med hende og ved hende blev vi forenede som aldrig nogen Sinde før i Livet.</hi>
+        </p>
+        <p xml:id="idm139817690980560">
+          <hi rend="italics" xml:id="idm139817690980304">»Tak, fordi I har været saadan gode Børn,« sagde hun med ganske tydelig Stemme.</hi>
+        </p>
+        <p xml:id="idm139817690979424">
+          <hi rend="italics" xml:id="idm139817690979168">Og da vilde ingen Børn i Verden hellere have været det end vi.</hi>
+        </p>
+        <p xml:id="idm139817690978240">
+          <hi rend="italics" xml:id="idm139817690977984">Moder slap ikke min Haand. Hun sagde intet mere men blev ved at se paa mig, og jeg følte det svage Tryk af hendes Fingre.</hi>
+        </p>
+        <p xml:id="idm139817690976944">
+          <hi rend="italics" xml:id="idm139817690976688">Netop m i n Haand vilde hun holde indtil Døden.</hi>
+        </p>
+        <p xml:id="idm139817690975792">
+          <hi rend="italics" xml:id="idm139817690975536">Det blev mit Livs store Lise.</hi>
+        </p>
+        <p xml:id="idm139817690974704">
+          <hi rend="italics" xml:id="idm139817690974448">Hun elskede os alle lige højt, og heller aldrig vilde jeg af hendes Kærlighed have ranet noget fra mine Søskende. Men af sine Børn tog hun mig inderst ind til sig i Døden for alt det, som hun følte, at jeg havde lidt.</hi>
+        </p>
+        <p xml:id="idm139817690973200">
+          <hi rend="italics" xml:id="idm139817690972944">Smærte, det forstod hun. Og at lindre var hendes Væsen.</hi>
+        </p>
+        <p xml:id="idm139817690972032">
+          <hi rend="italics" xml:id="idm139817690971776">Elskede Moder!</hi>
+        </p>
+        <p xml:id="idm139817690970960">
+          <hi rend="italics" xml:id="idm139817690970704">Ved din Dødsseng græd vi Søskende i hinandens Arme. Det var første Gang, jeg rigtig var deres Lige.</hi>
+        </p>
+        <pb n="93" xml:id="s93" facs="adl/larsenk/larsenk_10/larsenk_10_093"/>
+        <p xml:id="idm139817690968592">
+          <hi rend="italics" xml:id="idm139817690968336">Lykken, den ubarmhjærtige, som kun vil tjene sin egenkærlige Trang, den skilte os. Sorgen, den naadige, som aabner for Menneskers Ydmyghed, forenede os. Vi skilles aldrig nu, Moders Kærlighed holder osfast.</hi>
+        </p>
+        <p xml:id="idm139817690967120">
+          <hi rend="italics" xml:id="idm139817690966864">I Følelsens store dunkle Rige, hvor saa mange Rædsler lever, havde hun fundet den klare Kilde, hvoraf alt virkelig menneskeligt og godt har sit Udspring.</hi>
+        </p>
+        <p xml:id="idm139817690965760">
+          <hi rend="italics" xml:id="idm139817690965504">Kunde et Genskin af denne store, ubevidste Kærlighed trænge ind i deres Hjærter, som læser disse Blade!</hi>
+        </p>
+        <p xml:id="idm139817690964496">
+          <hi rend="italics" xml:id="idm139817690964240">Det hedder: at forstaa alt er at tilgive alt.</hi>
+        </p>
+        <p xml:id="idm139817690963392">
+          <hi rend="italics" xml:id="idm139817690963136">Men det burde hedde: at forstaa alt er at føle med alt og se ind i sig selv.</hi>
+        </p>
+      </div>
+      <pb n="94" xml:id="s94" facs="adl/larsenk/larsenk_10/larsenk_10_094"/>
+      <div xml:id="idm139817690960944">
+        <p xml:id="idm139817690960688">
+          <hi rend="italics" xml:id="idm139817690960432">NAAR jeg villigt har fulgt Prof. Karl Larsens Opfordring til at ledsage denne lille Bog med nogle Ord, har jeg for det første gjort det, fordi den fint og forstaaende virker som et af Kunsten afklaret menneskeligt Dokument om Forhold, der af de fleste mødes med Afsky, skønt Medfølelse vilde være en Reaktion, der bedre passede til disse »Udvalgtes« ofte lidet misundelsesværdige Skæbne. Dertil kommer, at man maaske dog tør haabe, at der gives Læsere, der hellere vil forstaa end dømme og fordømme. Men Forstaaelse kræver først og fremmest biologisk Kendskab til det Grundlag, hvorpaa den homosexuelles Følelse vokser frem. Dette Grundlag kan endnu ikke gives i klar og afsluttet Form, dertil er vor Viden foreløbig for mangelfuld, men hist og her kan vi dog ligesom skimte Omridsene af den Skikkelse, hvori Naturen har aabenbaret sig som i et sælsomt Lune.</hi>
+        </p>
+        <pb n="95" xml:id="s95" facs="adl/larsenk/larsenk_10/larsenk_10_095"/>
+        <p xml:id="idm139817690956528">
+          <hi rend="italics" xml:id="idm139817690956272">Som altid, hvor komplicerede Tilstande skal presses ind i en enkelt Rubrik, er det ogsaa gaaet her. Ordet Homosexualitet omfatter utvivlsomt ganske forskellige Ting, der blot har visse ydre Træk fælles. Saaledes ses f. Eks. hos visse Sindssyge homosexuelle Tilbøjeligheder, naar den Syge er naaet til et Stadie, hvor hele hans aandelige Personlighed er i vidt fremskredent Forfald. Ogsaa findes der Mennesker, der i et forholdsvis sent Afsnit af Livet begynder — ofte sammen med andre »Perversiteter« — at nære Tilbøjelighed for Personer af deres eget Køn. Dette maa vel holdes ude fra den egentlige, den genuine Homosexualitet, der næsten altid viser sig meget tidligt, i de første Ungdomsaar, til at begynde med ligesom flakkende, usikkert søgende, for saa efterhaanden at fæstnes mere og mere — trods alle Ængstelser, alle Bekymringer og Overvejelser af moralsk eller religiøs Natur. Der forestaar de allerfleste af disse Mennesker, ikke mindst de aandeligt bedst udviklede iblandt dem, Timer og Dage fyldt af Smerte og Uro, af Usikkerhed og stille Fortvivlelse, indtil de bliver sig selv fuldt bevidst og forstaar at passe sig ind i Tilværelsen paa den Maade, deres Forstand og Hjerte <pb n="96" xml:id="s96" facs="adl/larsenk/larsenk_10/larsenk_10_096"/>anviser dem. De i Kampen mindre godt udrustede gaar i disse Aar til Grunde — slettes ud i bogstavelig Forstand, eller synker dybere og dybere ned i en Afgrund af aandeligt og legemligt Forfald. Ingen kommer dem til Hjælp, thi Samfundet er paa Forhaand fjendtlig indstillet overfor dem, og selv den tarveligst udrustede »normale« tror sig i Reglen berettiget til sædeligt og iøvrigt ogsaa i enhver anden Henseende at føle sig højt hævet over ethvert af disse Naturens Stedbørn, hvis eneste sikre Arvelod er Foragt. Uforstaaelig er denne Uvilje nu ingenlunde, thi bortset fra det umiddelbare, ureflekterede Had, som de allerfleste Mennesker føler overfor alt menneskeligt, det væsentligt adskiller sig fra deres Eget, vækkes Harmen — samfundsmæssigt set ikke uberettiget — af den ganske hensynsløse Maade, hvorpaa mange af de homosexuelle giver efter for deres Tilbøjelighed overfor ganske unge Mennesker og Børn. Her er det Punkt, hvor den personlige Frihed ikke mere kan respekteres, saa vist som det er ethvert ordnet Samfunds Ret og Pligt at hævde visse almengyldige Principper, hvortil bl. a. hører Beskyttelse af mindreaarige overfor enhver alvorlig Overlast af <pb n="97" xml:id="s97" facs="adl/larsenk/larsenk_10/larsenk_10_097"/>fysisk eller psysisk Art. Dette forstaas og billiges ogsaa fuldt ud af de intellektuelt og moralsk højere staaende blandt de homosexuelle.</hi>
+        </p>
+        <p xml:id="idm139817690948176">
+          <hi rend="italics" xml:id="idm139817690947920">Spørger man, om Homosexualitet er en Abnormitet og i saa Fald, hvorledes denne Abnormitets Væsen er at forstaa, maa Svaret først lyde, at Begrebet Abnormitet jo opstaar ved det foreliggendes Modsætningsforhold til det almindelige. Dette ligger allerede i selve Ordet, der betegner noget som faldende udenfor Normen. Men hermed er ikke givet, at Abnormiteten biologisk eller samfundsmæssig set er Udtryk for en Forringelse. Arterne indenfor Dyre- og Planteriget undergaar i Tidens Løb Forandringer. Disse skyldes efter vor nuværende Opfattelse i første Linie pludselige, som Regel af ukendt Aarsag opstaaede, Ændringer i et enkelt Individs arvelige Anlæg. Ved denne Forandring, Mulation, opstaar noget Nyt, noget fra Reglen afvigende, en Abnormitet. Er nu denne Mutation til Skade for Individet i Kampen for Tilværelsen, hvor denne som i Dyre- og Planteriget foregaar hensynsløst, vil den næppe kunne bestaa i mange Generationer, Individerne udryddes simpelt hen. Er den derimod til Gavn i <pb n="98" xml:id="s98" facs="adl/larsenk/larsenk_10/larsenk_10_098"/>Kampen under de givne Vilkaar, vil den give Individet og dem af dets Afkom, der ejer den, en særlig Chance, og denne nye Egenskab kan da bevirke, at den nye »Race« bliver talrigere og talrigere. Den Egenskab, der først var en Abnormitet, kan da ende med at blive den almindelige, den normale. Saaledes vil f. Eks. i Dyreriget en Mutation, der giver en af Rovdyr efterstræbt Art en ny Farve eller andet Udseende, der falder sammen med de Omgivelser, hvori Dyret lever, bevirke, at den ved Mutationen opstaaede nye Linies Individer vanskeligere opdages af Forfølgerne (Beskyltelseslighed, Mimicry). De muterede bliver da talrigere og talrigere i Forhold til de »normale«, og tilsidst naar de saa stor Udbredelse i det paagældende Milieu, at det nu er dem, der angiver Normen.</hi>
+        </p>
+        <p xml:id="idm139817690943248">
+          <hi rend="italics" xml:id="idm139817690942992">I det menneskelige Samfund har »Kulturen« for en stor Del fjernet Kampen for Tilværelsen med det dertil knyttede Udvalg, Forholdene bliver derfor mindre rene. Det ligger dog i Sagens Natur, at Homosexualiteten maa betragtes som en Abnormitet, en Afvigelse, der ifølge sit Væsen, der virker hemmende overfor Forplantningen, altid maa vedblive at være Undtagelse.</hi>
+        </p>
+        <pb n="99" xml:id="s99" facs="adl/larsenk/larsenk_10/larsenk_10_099"/>
+        <p xml:id="idm139817690940384">
+          <hi rend="italics" xml:id="idm139817690940128">Homosexualitetens Væsen var man tidligere mest tilbøjelig til at betragte som et Udslag af en vis abnorm Sjælstilstand, men dette Udtryk er jo rent billedligt og giver os ingen Oplysning om, hvilke Processer der ligger til Grund. At erklære den homosexuelle for partielt sindssyg vilde være ganske vilkaarligt — ja rent ud meningsløst, hvis man da ikke vil sprænge Begrebet Sindssygdom. En Del af disse Mennesker hører i intellektuel Henseende til de højeststaaende, og deres Raisonnementer brister ikke paa noget Punkt i Sammenligningen med de i kønslig Henseende Normales. Ogsaa de moralske Værdier er hos mange udviklet fuldt ud normalt, ja der træffes vel endda iblandt dem ikke helt sjældent Mennesker, der i ethisk Henseende er af en langt finere Støbning end »Folk i Almindelighed«.</hi>
+        </p>
+        <p xml:id="idm139817690937680">
+          <hi rend="italics" xml:id="idm139817690937424">At kalde de homosexuelle for »degenererede« er heller ikke andet end at rubricere dem med en intetsigende Etikette. Begrebet »Degeneration« er paa Biologiens Overdrev, hvortil ogsaa Lægevidenskaben hører, bleven til et ved Misbrug tyndslidt Ord, der i en snæver Vending skal bruges til at forklare alt og derfor rintet forklarer.</hi>
+        </p>
+        <pb n="100" xml:id="s100" facs="adl/larsenk/larsenk_10/larsenk_10_100"/>
+        <p xml:id="idm139817690934832">
+          <hi rend="italics" xml:id="idm139817690934576">Da ingen Følelse eller mere kompliceret Handling opstaar uden Hjernens Funktion, kan man naturligvis med en vis Ret sige, at den abnorme Kønsfølelse maa have en abnorm »Organisation« af Hjernen til Grund. Dette er ogsaa utvivlsomt, men Spørgsmaalet, der har Interesse, er: skyldes denne abnorme »Organisation« noget i Hjernens anatomiske eller fysiologiske Ejendommelighed primært abnormt — hvad der vel maalte være ensbetydende med en paa arvelige Anlæg beroende Afvigelse — eller fremkommer den ved Paavirkning af abnorme Produkter fra andre Organer. Vi ved jo nu med Sikkerhed, at det ene Organs Produkter paa meget væsentlig Maade kan paavirke et andet Organs Funktion. Hele Læren om den »indre Sekretion« viser os, at de enkelte Organer ikke er frie Individualiteter, men at der er et fint Samspil, en Korrelation, som den tekniske Terminus lyder, mellem Organerne, saaledes at en Forstyrrelse paa et Punkt kan have Følger, man ikke paa Forhaand kunde have tænkt sig, og som først bliver aabenbare gennem experimentel og klinisk Undersøgelse. Ophører f. Eks. Skjoldbruskkirtlen at producere et Stof, <pb n="101" xml:id="s101" facs="adl/larsenk/larsenk_10/larsenk_10_101"/>der normalt optages i Blodet og dermed bringes rundt til de andre Organer, indtræder ejendommelige, let iøjnefaldende Forandringer i Huden og Haaret (det saakaldte Myxødem), men ogsaa mange andre Organers Funktion paavirkes: Stofskiftet nedsætles, og Individets aandelige Udvikling hemmes eller standses helt. Jo tidligere i Livet denne Mangel indtræder, desto stærkere bliver Følgerne. — Paa tilsvarende Maade afsondrer adskillige andre Kirtelorganer som Bugspytkirtel, Binyrer, Kønskirtler etc. Stoffer, der optages i Blodet og er nødvendige for den normale Balance mellem de enkelte Organers Virksomhed.</hi>
+        </p>
+        <p xml:id="idm139817690929968">
+          <hi rend="italics" xml:id="idm139817690929712">Vil vi danne os en nærmere Forestilling om det, der interesserer os her, maa vi først standse ved Spørgsmaalet, hvad det er der betinger, om der udvikles et Individ af Han- eller Hunkøn. Der kan efter de senere Aars Undersøgelser ikke være Tvivl om, at Kønnet normalt bestemmes straks ved Foreningen af den ene Sædcelle og den ene Ægcelle, hvoraf det nye Individ udvikles. Forholdet er for Menneskets Vedkommende saaledes, at det er Sædcellen, der saa at sige afgør Kønnet. Alle Ægceller er nemlig m. H. t. Kønsbetoning af <pb n="102" xml:id="s102" facs="adl/larsenk/larsenk_10/larsenk_10_102"/>een Slags, medens Sædcellerne er af to Slags, der hos Manden findes i lige stort Antal. Kalder vi for Kortheds Skyld den ene Slags Sædceller a, den anden b, vil Foreningen af en a-Celle med en Ægcelle give et hunligt Foster-, Foreningen af en b-Celle med en Ægcelle vil give et hanligt. a-Cellen er udstyret med en mikroskopisk paaviselig Kærnedel (Kromosom) som ligeledes findes i enhver Ægcelle; b-Cellerne mangler derimod denne Kærnedel. Den første paaviselige Følge af, om den befrugtende Sædcelle er en a- eller en b-Celle, viser sig ved, om der ved de Celledelinger der nu følger paa Foreningen, udvikler sig en Klump af Celler, der præges som mandlig eller kvindelig Kønskirtel, henholdsvis Testikel eller Æggestok. Alle de øvrige Organer, ogsaa Kønsorganerne — blot med Undtagelse af Testikel og Æggestok — er endnu i Slutningen af 2. Fostermaaned fuldstændig ens hos de to Køn og først i 3. Maaned begynder de indre og ydre Kønsorganer at udvikle sig forskelligt. Men det maa fastholdes, at den synlige Forskel, der nu fremkommer hos Kønnene, blot bestaar i, at nogle Organer vokser stærkere hos det ene Køn end hos det andet. De Organer, der ikke vokser, bliver altsaa tilbage <pb n="103" xml:id="s103" facs="adl/larsenk/larsenk_10/larsenk_10_103"/>som ubetydelige Rudimenter af den Størrelse, som de havde naaet i 2.—3. Fostermaaned. Dette er tydeligt for de egentlige Kønsorganers Vedkommende (Æggeleder, Livmoder, Skede hos Kvinden, Bitestikel, Sædleder, Prostata, Penis hos Manden), men ogsaa alle andre Organer udvikles kvantitativt noget forskelligt hos de to Køn. Denne oprindelige »Tvekønnethed«, der ofte omtales i mere eller mindre videnskabelige Afhandlinger vedrørende Homosexualiteten, er mærkværdig nok bleven ganske misforstaaet af talrige Forfattere. En af dem, der ivrigst har talt de homosexuelles Sag i Tyskland, Dr. Magnus Hirschfeld, fremhæver Gang paa Gang, at alle Legemets Organer har et Stadium af »Dobbeltkønnethed«, ligesom de egentlige Kønsorganer, ja at ogsaa de Dele af Hjernen, »hvori Kønsdriften og Kønsfølelsen (d. v. s. dens Retning) har Sæde« er dobbelt anlagte, og at det endelige Resultat er afhængig af, hvilke Dele der udvikles og hvilke der hæmmes i Vækst.</hi>
+        </p>
+        <p xml:id="idm139817690921936">
+          <hi rend="italics" xml:id="idm139817690921680">Dette er en ganske naiv Misforstaaelse. Intet enkelt Organ anlægges dobbelt, baade »mandligt« og »kvindeligt«. For de indre Kønsorganer — bortset fra selve Kønskirtlen — findes der hos ethvert Individ <pb n="104" xml:id="s104" facs="adl/larsenk/larsenk_10/larsenk_10_104"/>i tidligt Fosterstadie to Sæt, af hvilke det ene Sæt normalt vokser og udvikles videre, medens det andet standser i Væksten. Men der er intet som helst Holdepunkt for Tvekønnethed af det enkelte Organ. Dette gælder naturligvis ogsaa de enkelte Celler, hvoraf Organerne er byggede op, og den ikke sjældent hævdede Paastand at hver enkelt Celle indeholder saavel en »mandlig« som en »kvindelig« Komponent er Fantasteri af reneste Vand. Tværtimod hver eneste Celle i Legemet er i sin mikroskopiske Struktur præget som enten mandlig eller kvindelig i Overensstemmelse med det foran omtalte, hvorefter Kærnestrukturen (Kromosomforsyningen) er forskellig hos de to Slags Sædceller. Derved bliver ogsaa Strukturen forskellig hos de to Slags befrugtede Æg og derfra videre hos de to Slags Organismer — mandlige og kvindelige — der udvikler sig ved fortsat Celledeling af Ægget.</hi>
+        </p>
+        <p xml:id="idm139817690919312">
+          <hi rend="italics" xml:id="idm139817690919056">Man vil maaske — ogsaa herhjemme — erindre en Bog, der for nogle Aar siden vakte en vis Opsigt, Otto Weininger's »Køn og Karakter« (Geschlecht und Charakter«, 1903). Med megen Veltalenhed hævder Forf. her hver Celles »Dobbeltkønnethed«, <pb n="105" xml:id="s105" facs="adl/larsenk/larsenk_10/larsenk_10_105"/>men Paastandene er blot Ord uden ringeste Støtte i det foreliggende.</hi>
+        </p>
+        <p xml:id="idm139817691353408">
+          <hi rend="italics" xml:id="idm139817691353152">Uden Mening er og bliver det derfor at ville betragte Homosexualiteten som opstaaet ved, at den »Komponent« der normalt skulde holdes nede i det enkelte Organ (vel antagelig Hjernen) har faaet en abnorm Udvikling — alt blot Tankens Forsøg paa at naa en haandgribelig »Forklaring«, men uden Hensyntagen til det virkelig foreliggende.</hi>
+        </p>
+        <p xml:id="idm139817691351680">
+          <hi rend="italics" xml:id="idm139817691351424">I de senere Aar er Opmærksomheden — særlig gennem Steinach's meget omtalte Forsøg paa Forandring, Transformering af Kønnet (experimentelle Undersøgelser paa Rotter og Marsvin) bleven henvendt paa den »kønsbestemmende« Impuls, der udgaar fra Produkter, der afsondres i Kønskirtlen. Man har længe været klar over, at de saakaldte sekundære Kønskarakterer for en væsentlig Del udvikles under Indflydelse af »indre Afsondringer«, saakaldte Hormoner, fra Testikel og Æggestok. Dette ses tydeligt bl. a. af de let iagtagelige Udfaldssymptomer, der bliver Følgen af Kastrering paa et tidligt Tidspunkt i Livet. Fjernes saaledes Testiklerne i Barnealderen (som Følge af Sygdom eller af anden Aarsag) indtræder ikke ved Puberteten <pb n="106" xml:id="s106" facs="adl/larsenk/larsenk_10/larsenk_10_106"/>den sædvanlige Udvikling af mandlige Karakterer, Skægvækst udebliver, Stemmen bevarer den barnlige Klang o. s. v. Paa tilsvarende Maade udebliver de specifikt kvindelige Karakterer i Legemets Bygning, dersom Æggestokkene fjernes tidligt.</hi>
+        </p>
+        <p xml:id="idm139817691347392">
+          <hi rend="italics" xml:id="idm139817691347136">Steinach har i Forsøg med Dyr (Rotter, Marsvin) vist, at man paa en Maade kan vende Kønnet om ved først at fjerne Kønskirtlerne, f. Eks. Æggestokkene og derpaa indplante Testiklerne i det forud kastrerede unge Dyr. Dette faar da visse hanlige Ejendommeligheder i Legemsbygningen. Paa tilsvarende Maade kan man gøre Hanner til »Hunner«.</hi>
+        </p>
+        <p xml:id="idm139817691345696">
+          <hi rend="italics" xml:id="idm139817691345440">Af disse Forsøg har Steinach og efter ham flere andre Forfattere draget den Slutning, at den homosexuelle Mands Testikler indeholder dels Celler, der producerer de normale mandlige Hormoner men tillige Celler, der producerer hunligt Hormon, ja han har endog ment mikroskopisk at kunne demonstrere disse Celler, som han benævner »F-Celler«. Disse Undersøgelser, der har vakt en vis Opsigt, udmærker sig mest ved den forbløffende Kritikløshed, hvormed de er gjort, og ved den slet begrundede Frejdighed, hvormed Konklusionerne <pb n="107" xml:id="s107" facs="adl/larsenk/larsenk_10/larsenk_10_107"/>drages. De anatomiske Angivelser er ikke bleven bekræftet af nogen, der har gjort Undersøgelserne efter. Ikke desto mindre vil flere Kirurger have set et godt Resultat af Forsøg paa at »helbrede« homosexuelle Mænd ved operativ Fjernelse af Testiklerne og Indplantning af »normalt« hormonproducerende Testikler fra andre Mennesker (fjernede f. Eks. paa Grund af abnormt Leje, i Bugvæggen eller undre Steder). Disse Resultater lader sig for Tiden slet ikke vurdere, dertil er Tilfældene alt for faa, og vi er inde paa et Felt, hvor Suggestionen af Patienterne kan tænkes at spille en vis, i al Fald midlertidig Rolle; der foreligger nemlig i Litteraturen ogsaa Beretninger om homosexuelle, der er bleven »helbredt« under Hypnose ved suggestiv Paavirkning etc. Forsøgene gør saaledes paa ingen Maade Homosexualitetens Væsen klarere, kun saa meget kan siges, at det sikkert blot er naivt at mene, det hele er et Spørgsmaal om Hormoner fra Kønskirtlen. Hormonproduktionen er kun en enkelt Faktor blandt de Aarsager der bestemmer Kønsdriftens Styrke og Retning. Hertil kommer efter al Sandsynlighed arvede Ejendommeligheder af Hjernens og andre Organers Bygning og <pb n="108" xml:id="s108" facs="adl/larsenk/larsenk_10/larsenk_10_108"/>Reaktionsmaade og endelig Indflydel sen af de Vilkaar (fysiske og psykiske), hvorunder hele Udviklingen fra den spædeste Spire indtil Kønsmodenheden har fundet Sted. El Spørgsmaal, der tidligere har været meget drøftet: om Homosexualiteten er en medfødt (arvet) eller en erhvervet Ejendommelighed har mistet meget i Interesse, efter at det er bleven klart, at disse to Muligheder ikke kan stilles op mod hinanden som Alternativer. »Arvede« og »erhvervede« Aarsager gaar sikkert oftest Haand i Haand. Ved Brud paa den normale Korrelation mellem de enkelte Organer, vel oftest medbragt som Arv fra Forældrene, opstaar en større eller mindre Disposition til Kønslivets Afvigelse fra det normale. Vilkaarene hvorunder Udviklingen foregaar kan da enten styrke eller hæmme den afvigende Tendens, thi ingen vil vistnok med Rette kunne bestride, at Kønslivets hele Udformning i høj Grad er underkastet Paavirkning fra Kaarene. Der findes dog utvivlsomt talrige homosexuelle, hvor Dispositionen er saa stærk, at den under alle Omstændigheder maa slaa igennem. Disse Mennesker er ofte allerede i Barneaarene, endnu før den erotiske Følelse <pb n="109" xml:id="s109" facs="adl/larsenk/larsenk_10/larsenk_10_109"/>er vaagnet, særprægede paa en saadan Maade, at man meget vel kan betegne deres Ejendommelighed som medfødt eller rettere arvet, et Analogon til andre »arvede Egenskaber«.</hi>
+        </p>
+        <p xml:id="idm139817690880656">
+          <hi rend="italics" xml:id="idm139817690880400">Man vil maaske undre sig over, at Grundlaget for Homosexualitet betegnes som arveligt, da det — overfladisk betragtet — kunde synes al være en Meningsløshed, at en Egenskab, der modvirker Forplantningen, er arvelig. Men bortset fra, at en homosexuel, ledet af praktiske Grunde, meget vel kan være gift og være Fader, maa det vel erindres, at mange »arvelige Egenskaber« opstaar ved Sammentræf i Individet af forskellige Arveelementer (Gener), saaledes at — i Tilfælde, hvor det f. Eks. drejer sig om to nødvendige Arveelementer — det ene kan stamme fra Faderen, det andet fra Moderen, der da begge bærer det enkelte Element latent. Saaledes vil det ogsaa forstaas, at Anlægget kan dukke op i Slægter, hvor der ikke vides før at have været lignende Afvigere, men man glemme ikke, at Slægternes enkelte Medlemmer i Reglen kun kendes højst 2 eller 3 Generationer tilbage, og at det drejer sig om Egenskaber, der af de fleste søges dækket og maskeret i saa høj Grad som muligt.</hi>
+        </p>
+        <pb n="110" xml:id="s110" facs="adl/larsenk/larsenk_10/larsenk_10_110"/>
+        <p xml:id="idm139817690876288">
+          <hi rend="italics" xml:id="idm139817690876032">Under alle Omstændigheder er det nødvendigt at indse, at den Retning, Kønsfølelsen har faaet, naar den først helt er vaagnet, den maatte den faa, og simpelt hen at kalde Afvigelsen fra det normale for Last, Mangel paa moralsk Følelse o. s. v. er blot at demonstrere den dybe Uvidenhed paa ublufærdig Maade. »Normale« Mennesker maa virkelig engang lære at forstaa dette.</hi>
+        </p>
+        <p xml:id="idm139817690874592">
+          <hi rend="italics" xml:id="idm139817690874336">Den homosexuelle kan ligesom den normalt sexuelle være i Besiddelse af større eller mindre Moral, hvilket fornuftigvis kun kan betyde Evne til at indordne sig selv under det Almene, til at beherske alle umiddelbare Tilskyndelser, hvor disses Opfyldelse angriber andres Vel, til hellere al give Afkald end tage uretmæssigt.</hi>
+        </p>
+        <p xml:id="idm139817690872880">
+          <hi rend="italics" xml:id="idm139817690872624">Der findes blandt de homosexuelle en Mængde Varianter. Da Sagen her kun angaar mandlige homosexuelle, skal kun disse omtales med nogle Ord. Karl Larsen har i foranstaaende lille Bog med skarp og fin Iagttagelsesevne og med sikker Kunst fremstillet nogle af disse »Typer« og ganske særligt i Dagbogsforfatteren selv en af de mest karakteristiske. Der er homosexuelle Mennesker, der i hele deres Ydre og Indre er iøjnefaldende »kvindelige«, og der <pb n="111" xml:id="s111" facs="adl/larsenk/larsenk_10/larsenk_10_111"/>er som det andet Yderpunkt i Rækken udtalt mandligt virkende Personer. Alle Grader og Kvaliteter af Intelligens findes repræsenteret, ikke helt sjældent drejer det sig om aandeligt rigt udrustede Mennesker, løvrigt findes der jævne Overgange til de »normale«, de saakaldte bisexuelle, der enten periodevis eller varigt nærer homosexuelle Tilbøjeligheder ved Siden af normal Kønsfølelse.</hi>
+        </p>
+        <p xml:id="idm139817690869344">
+          <hi rend="italics" xml:id="idm139817690869088">Som det fremgaar af det ovenfor anførte kan man for Tiden ikke give nogen virkelig fyldestgørende Forklaring af den homosexuelles for den Normale saa besynderlige Afvigelse. Intet er saa forkasteligt som, at konstruere Systemer, der svæver i Luften, og af den Slags Konstruktioner har vi haft mere end nok. Men det vil maaske dog være til nogen Nytte, at ogsaa den, der staar den biologiske Forskning fjernt, faar et Indblik i de Ting, der er de fundamentale for enhver biologisk Forstaaelse, hvor vag den nu end i Øjeblikket maa være.</hi>
+        </p>
+        <p xml:id="idm139817690867616">
+          <hi rend="italics" xml:id="idm139817690867360">Hvor den intellektuelle Forstaaelse glipper, der maa den sympathiske, den der billedligt har sin Rod i Hjertet, træde til. Ingen er i Stand til bedre end Kunstneren at vise Vejen her. Hvis han ejer den sjældne Evne til skarpt og præcist at iagttage, til <pb n="112" xml:id="s112" facs="adl/larsenk/larsenk_10/larsenk_10_112"/>roligt at lade Indtrykkene bundfælde sig i Erindringen og til at lade dem genopstaa maaske efter lange og bevægede Aars Forløb, da vil de Mennesker han lader os møde, synes os kendte, selv om vi aldrig mødte dem før. De er taget ud af den Isolering, hvori det alt for fjerne findes, det der vækker vor Frygt og vor Afsky, og vi forstaar, de — ligesom vi — er Mennesker, der forgæves strides med Skæbnen.</hi>
+        </p>
+        <p xml:id="idm139817690864224">
+          <hi rend="italics" xml:id="idm139817690863968">Oluf Thomsen.</hi>
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- 
+
+Tycho Brahe-oversættelser fra Peter Zeeberg - konverteret fra Wordfil
+
+-->
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="idm139795043380272">
+  <teiHeader xml:id="idm139795043379744">
+    <fileDesc xml:id="idm139795043379488">
+      <titleStmt xml:id="idm139795043379184">
+        <title xml:id="idm139795043378880">Indskrift på et ur på Stjerneborg, Tempora circuitu</title>
+        <respStmt xml:id="idm139795043353200">
+          <resp xml:id="idm139795043352944">Oversat fra latin af Peter Zeeberg</resp>
+          <name xml:id="idm139795043352512"/>
+        </respStmt>
+        <author xml:id="idm139795043352128">Tycho Brahe</author>
+      </titleStmt>
+      <publicationStmt xml:id="idm139795043351568">
+	<publisher/>
+        <idno xml:id="idm139795043351312" xml:base="texts/tycho-03-urindskrift.xml">000000000:03</idno>
+      </publicationStmt>
+      <notesStmt xml:id="idm139795043350384">
+        <note xml:id="idm139795043350080">
+	  </note>
+      </notesStmt>
+      <sourceDesc xml:id="idm139795043349568">
+        <bibl xml:id="idm139795043349312">MSWord-fil fra Peter Zeeberg</bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text xml:id="idm139795043348496">
+    <pb n="1" facs="side1" xml:id="idm139795043347632" rend="missing"/>
+    <front xml:id="idm139795043347008">
+      <titlePage xml:id="idm139795043346752">
+        <docAuthor xml:id="idm139795043346496">Tycho Brahe</docAuthor>
+        <docTitle xml:id="idm139795043346112">
+          <titlePart type="main" xml:id="idm139795043345808">Indskrift på et ur på Stjerneborg, Tempora circuitu</titlePart>
+        </docTitle>
+        <docEdition xml:id="idm139795043344928"><lb xml:id="idm139795043344752"/>Oversat fra latin af Peter Zeeberg
+				</docEdition>
+      </titlePage>
+    </front>
+    <body xml:id="idm139795043344064">
+      <pb n="2" facs="side2" xml:id="idm139795043343808" rend="missing"/>
+      <div xml:id="idm139795043343024">
+        <head xml:id="idm139795043342768">Indskrift på et ur på Stjerneborg, Tempora circuitu</head>
+        <lg xml:id="idm139795043342256">
+          <l xml:id="idm139795043341952">Himmelen driver den flygtende tid af sted i sit kredsløb.</l>
+          <l xml:id="idm139795043341440">	Timerne iler forbi, de kommer aldrig igen. </l>
+          <l xml:id="idm139795043340992">Hele vor jordklodes kreds omsluttes af flygtige tider,</l>
+          <l xml:id="idm139795043340544">	alt der på jorden har liv, det bli'r til intet engang. </l>
+          <l xml:id="idm139795043340032">Hvortil gavner da så vor verdens så flygtige former?</l>
+          <l xml:id="idm139795043339520">	Hvorfor skal vi passes ind blandt hvad der blot skal forgå?</l>
+          <l xml:id="idm139795043338992">Endnu en himmel er til, den venter os, kalder os til sig,</l>
+          <l xml:id="idm139795043338528">	Den kender ikke til tid, grænser og form der kan ses.</l>
+          <l xml:id="idm139795043338016">Dér står Jehova som sol, dér modsvarer kirken vor måne, </l>
+          <l xml:id="idm139795043337488">	ligesom englenes kor svarer til stjernernes kreds.</l>
+          <l xml:id="idm139795043337040">Dér, ja dér må vi hen, dér er vores virk'lige hjemland,</l>
+          <l xml:id="idm139795043336528">	Higen mod denne jords smuds bør ikke sinke vor færd.</l>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,247 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--Tom opmærkning blo 24.09.02-->
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="idm140229286934416"><!-- 
+       file     ./marc_dir/002045299.xml
+       field     
+       subfield  
+       prefix   -->
+  <teiHeader xml:id="idm140229286939072">
+    <fileDesc xml:id="idm140229286938816">
+      <titleStmt xml:id="idm140229286938512">
+        <title xml:id="idm140229286913072">To Fortællinger</title>
+        <author xml:id="idm140229286912688">Adda Ravnkilde</author>
+      </titleStmt>
+      <publicationStmt xml:id="idm140229286912176">
+        <publisher xml:id="idm140229286911920">Gyldendalske Boghandels Forlag</publisher>
+        <idno xml:id="idm140229286911488" xml:base="texts/ravn01tom.xml">002045299:01</idno>
+      </publicationStmt>
+      <notesStmt xml:id="idm140229286910672">
+        <note xml:id="idm140229286910416">
+	  </note>
+      </notesStmt>
+      <sourceDesc xml:id="idm140229286909904"><bibl xml:id="idm140229286909776"><author n="1" xml:id="idm140229286909088"><name xml:id="idm140229286908832"><surname xml:id="idm140229286908704">Ravnkilde</surname>, <forename xml:id="idm140229286908272">Adda</forename></name></author><title xml:id="idm140229286907984">To Fortællinger</title><pubPlace xml:id="idm140229286907680">Kjøbenhavn</pubPlace>
+<publisher xml:id="idm140229286907216">Gyldendal</publisher><date xml:id="idm140229286906880">1884</date></bibl><listBibl xml:id="idm140229286906592"><bibl xml:id="biblid54147"><title xml:id="idm140229286893392">En Pyrrhussejr</title></bibl><bibl xml:id="biblid55233"><title xml:id="idm140229286892608">Tantaluskvaler</title></bibl></listBibl></sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text xml:id="idm140229286891968">
+    <front xml:id="idm140229286891712">
+      <pb n="a" facs="adl/ravn/ravn01/ravn1fm001" xml:id="idm140229286891408"/>
+      <pb n="b" facs="adl/ravn/ravn01/ravn1fm002" xml:id="idm140229286890592"/>
+      <pb n="c" facs="adl/ravn/ravn01/ravn1fm003" xml:id="idm140229286889776"/>
+      <pb n="d" facs="adl/ravn/ravn01/ravn1fm004" xml:id="idm140229286889008"/>
+      <pb n="e" facs="adl/ravn/ravn01/ravn1fm005" xml:id="idm140229286888192"/>
+      <pb n="f" facs="adl/ravn/ravn01/ravn1fm006" xml:id="idm140229286887376"/>
+    </front>
+    <group xml:id="idm140229286968816">
+      <pb n="g" xml:id="nvii" facs="adl/ravn/ravn01/ravn1fm007"/>
+      <text xml:id="workid54147" decls="#biblid54147">
+        <body xml:id="idm140229286966656">
+          <pb n="h" facs="adl/ravn/ravn01/ravn1fm008" xml:id="idm140229286966400"/>
+          <pb n="1" xml:id="n1" facs="adl/ravn/ravn01/ravn1001"/>
+          <pb n="2" xml:id="n2" facs="adl/ravn/ravn01/ravn1002"/>
+          <pb n="3" xml:id="n3" facs="adl/ravn/ravn01/ravn1003"/>
+          <pb n="4" xml:id="n4" facs="adl/ravn/ravn01/ravn1004"/>
+          <pb n="5" xml:id="n5" facs="adl/ravn/ravn01/ravn1005"/>
+          <pb n="6" xml:id="n6" facs="adl/ravn/ravn01/ravn1006"/>
+          <pb n="7" xml:id="n7" facs="adl/ravn/ravn01/ravn1007"/>
+          <pb n="8" xml:id="n8" facs="adl/ravn/ravn01/ravn1008"/>
+          <pb n="9" xml:id="n9" facs="adl/ravn/ravn01/ravn1009"/>
+          <pb n="10" xml:id="n10" facs="adl/ravn/ravn01/ravn1010"/>
+          <pb n="11" xml:id="n11" facs="adl/ravn/ravn01/ravn1011"/>
+          <pb n="12" xml:id="n12" facs="adl/ravn/ravn01/ravn1012"/>
+          <pb n="13" xml:id="n13" facs="adl/ravn/ravn01/ravn1013"/>
+          <pb n="14" xml:id="n14" facs="adl/ravn/ravn01/ravn1014"/>
+          <pb n="15" xml:id="n15" facs="adl/ravn/ravn01/ravn1015"/>
+          <pb n="16" xml:id="n16" facs="adl/ravn/ravn01/ravn1016"/>
+          <pb n="17" xml:id="n17" facs="adl/ravn/ravn01/ravn1017"/>
+          <pb n="18" xml:id="n18" facs="adl/ravn/ravn01/ravn1018"/>
+          <pb n="19" xml:id="n19" facs="adl/ravn/ravn01/ravn1019"/>
+          <pb n="20" xml:id="n20" facs="adl/ravn/ravn01/ravn1020"/>
+          <pb n="21" xml:id="n21" facs="adl/ravn/ravn01/ravn1021"/>
+          <pb n="22" xml:id="n22" facs="adl/ravn/ravn01/ravn1022"/>
+          <pb n="23" xml:id="n23" facs="adl/ravn/ravn01/ravn1023"/>
+          <pb n="24" xml:id="n24" facs="adl/ravn/ravn01/ravn1024"/>
+          <pb n="25" xml:id="n25" facs="adl/ravn/ravn01/ravn1025"/>
+          <pb n="26" xml:id="n26" facs="adl/ravn/ravn01/ravn1026"/>
+          <pb n="27" xml:id="n27" facs="adl/ravn/ravn01/ravn1027"/>
+          <pb n="28" xml:id="n28" facs="adl/ravn/ravn01/ravn1028"/>
+          <pb n="29" xml:id="n29" facs="adl/ravn/ravn01/ravn1029"/>
+          <pb n="30" xml:id="n30" facs="adl/ravn/ravn01/ravn1030"/>
+          <pb n="31" xml:id="n31" facs="adl/ravn/ravn01/ravn1031"/>
+          <pb n="32" xml:id="n32" facs="adl/ravn/ravn01/ravn1032"/>
+          <pb n="33" xml:id="n33" facs="adl/ravn/ravn01/ravn1033"/>
+          <pb n="34" xml:id="n34" facs="adl/ravn/ravn01/ravn1034"/>
+          <pb n="35" xml:id="n35" facs="adl/ravn/ravn01/ravn1035"/>
+          <pb n="36" xml:id="n36" facs="adl/ravn/ravn01/ravn1036"/>
+          <pb n="37" xml:id="n37" facs="adl/ravn/ravn01/ravn1037"/>
+          <pb n="38" xml:id="n38" facs="adl/ravn/ravn01/ravn1038"/>
+          <pb n="39" xml:id="n39" facs="adl/ravn/ravn01/ravn1039"/>
+          <pb n="40" xml:id="n40" facs="adl/ravn/ravn01/ravn1040"/>
+          <pb n="41" xml:id="n41" facs="adl/ravn/ravn01/ravn1041"/>
+          <pb n="42" xml:id="n42" facs="adl/ravn/ravn01/ravn1042"/>
+          <pb n="43" xml:id="n43" facs="adl/ravn/ravn01/ravn1043"/>
+          <pb n="44" xml:id="n44" facs="adl/ravn/ravn01/ravn1044"/>
+          <pb n="45" xml:id="n45" facs="adl/ravn/ravn01/ravn1045"/>
+          <pb n="46" xml:id="n46" facs="adl/ravn/ravn01/ravn1046"/>
+          <pb n="47" xml:id="n47" facs="adl/ravn/ravn01/ravn1047"/>
+          <pb n="48" xml:id="n48" facs="adl/ravn/ravn01/ravn1048"/>
+          <pb n="49" xml:id="n49" facs="adl/ravn/ravn01/ravn1049"/>
+          <pb n="50" xml:id="n50" facs="adl/ravn/ravn01/ravn1050"/>
+          <pb n="51" xml:id="n51" facs="adl/ravn/ravn01/ravn1051"/>
+          <pb n="52" xml:id="n52" facs="adl/ravn/ravn01/ravn1052"/>
+          <pb n="53" xml:id="n53" facs="adl/ravn/ravn01/ravn1053"/>
+          <pb n="54" xml:id="n54" facs="adl/ravn/ravn01/ravn1054"/>
+          <pb n="55" xml:id="n55" facs="adl/ravn/ravn01/ravn1055"/>
+          <pb n="56" xml:id="n56" facs="adl/ravn/ravn01/ravn1056"/>
+          <pb n="57" xml:id="n57" facs="adl/ravn/ravn01/ravn1057"/>
+          <pb n="58" xml:id="n58" facs="adl/ravn/ravn01/ravn1058"/>
+          <pb n="59" xml:id="n59" facs="adl/ravn/ravn01/ravn1059"/>
+          <pb n="60" xml:id="n60" facs="adl/ravn/ravn01/ravn1060"/>
+          <pb n="61" xml:id="n61" facs="adl/ravn/ravn01/ravn1061"/>
+          <pb n="62" xml:id="n62" facs="adl/ravn/ravn01/ravn1062"/>
+          <pb n="63" xml:id="n63" facs="adl/ravn/ravn01/ravn1063"/>
+          <pb n="64" xml:id="n64" facs="adl/ravn/ravn01/ravn1064"/>
+          <pb n="65" xml:id="n65" facs="adl/ravn/ravn01/ravn1065"/>
+          <pb n="66" xml:id="n66" facs="adl/ravn/ravn01/ravn1066"/>
+          <pb n="67" xml:id="n67" facs="adl/ravn/ravn01/ravn1067"/>
+          <pb n="68" xml:id="n68" facs="adl/ravn/ravn01/ravn1068"/>
+          <pb n="69" xml:id="n69" facs="adl/ravn/ravn01/ravn1069"/>
+          <pb n="70" xml:id="n70" facs="adl/ravn/ravn01/ravn1070"/>
+          <pb n="71" xml:id="n71" facs="adl/ravn/ravn01/ravn1071"/>
+          <pb n="72" xml:id="n72" facs="adl/ravn/ravn01/ravn1072"/>
+          <pb n="73" xml:id="n73" facs="adl/ravn/ravn01/ravn1073"/>
+          <pb n="74" xml:id="n74" facs="adl/ravn/ravn01/ravn1074"/>
+          <pb n="75" xml:id="n75" facs="adl/ravn/ravn01/ravn1075"/>
+          <pb n="76" xml:id="n76" facs="adl/ravn/ravn01/ravn1076"/>
+          <pb n="77" xml:id="n77" facs="adl/ravn/ravn01/ravn1077"/>
+          <pb n="78" xml:id="n78" facs="adl/ravn/ravn01/ravn1078"/>
+          <pb n="79" xml:id="n79" facs="adl/ravn/ravn01/ravn1079"/>
+          <pb n="80" xml:id="n80" facs="adl/ravn/ravn01/ravn1080"/>
+          <pb n="81" xml:id="n81" facs="adl/ravn/ravn01/ravn1081"/>
+          <pb n="82" xml:id="n82" facs="adl/ravn/ravn01/ravn1082"/>
+          <pb n="83" xml:id="n83" facs="adl/ravn/ravn01/ravn1083"/>
+          <pb n="84" xml:id="n84" facs="adl/ravn/ravn01/ravn1084"/>
+          <p xml:id="idm140229286768928"/>
+        </body>
+      </text>
+      <pb n="85" xml:id="n85" facs="adl/ravn/ravn01/ravn1085"/>
+      <text xml:id="workid55233" decls="#biblid55233">
+        <body xml:id="idm140229286766320">
+          <pb n="86" xml:id="n86" facs="adl/ravn/ravn01/ravn1086"/>
+          <pb n="87" xml:id="n87" facs="adl/ravn/ravn01/ravn1087"/>
+          <pb n="88" xml:id="n88" facs="adl/ravn/ravn01/ravn1088"/>
+          <pb n="89" xml:id="n89" facs="adl/ravn/ravn01/ravn1089"/>
+          <pb n="90" xml:id="n90" facs="adl/ravn/ravn01/ravn1090"/>
+          <pb n="91" xml:id="n91" facs="adl/ravn/ravn01/ravn1091"/>
+          <pb n="92" xml:id="n92" facs="adl/ravn/ravn01/ravn1092"/>
+          <pb n="93" xml:id="n93" facs="adl/ravn/ravn01/ravn1093"/>
+          <pb n="94" xml:id="n94" facs="adl/ravn/ravn01/ravn1094"/>
+          <pb n="95" xml:id="n95" facs="adl/ravn/ravn01/ravn1095"/>
+          <pb n="96" xml:id="n96" facs="adl/ravn/ravn01/ravn1096"/>
+          <pb n="97" xml:id="n97" facs="adl/ravn/ravn01/ravn1097"/>
+          <pb n="98" xml:id="n98" facs="adl/ravn/ravn01/ravn1098"/>
+          <pb n="99" xml:id="n99" facs="adl/ravn/ravn01/ravn1099"/>
+          <pb n="100" xml:id="n100" facs="adl/ravn/ravn01/ravn1100"/>
+          <pb n="101" xml:id="n101" facs="adl/ravn/ravn01/ravn1101"/>
+          <pb n="102" xml:id="n102" facs="adl/ravn/ravn01/ravn1102"/>
+          <pb n="103" xml:id="n103" facs="adl/ravn/ravn01/ravn1103"/>
+          <pb n="104" xml:id="n104" facs="adl/ravn/ravn01/ravn1104"/>
+          <pb n="105" xml:id="n105" facs="adl/ravn/ravn01/ravn1105"/>
+          <pb n="106" xml:id="n106" facs="adl/ravn/ravn01/ravn1106"/>
+          <pb n="107" xml:id="n107" facs="adl/ravn/ravn01/ravn1107"/>
+          <pb n="108" xml:id="n108" facs="adl/ravn/ravn01/ravn1108"/>
+          <pb n="109" xml:id="n109" facs="adl/ravn/ravn01/ravn1109"/>
+          <pb n="110" xml:id="n110" facs="adl/ravn/ravn01/ravn1110"/>
+          <pb n="111" xml:id="n111" facs="adl/ravn/ravn01/ravn1111"/>
+          <pb n="112" xml:id="n112" facs="adl/ravn/ravn01/ravn1112"/>
+          <pb n="113" xml:id="n113" facs="adl/ravn/ravn01/ravn1113"/>
+          <pb n="114" xml:id="n114" facs="adl/ravn/ravn01/ravn1114"/>
+          <pb n="115" xml:id="n115" facs="adl/ravn/ravn01/ravn1115"/>
+          <pb n="116" xml:id="n116" facs="adl/ravn/ravn01/ravn1116"/>
+          <pb n="117" xml:id="n117" facs="adl/ravn/ravn01/ravn1117"/>
+          <pb n="118" xml:id="n118" facs="adl/ravn/ravn01/ravn1118"/>
+          <pb n="119" xml:id="n119" facs="adl/ravn/ravn01/ravn1119"/>
+          <pb n="120" xml:id="n120" facs="adl/ravn/ravn01/ravn1120"/>
+          <pb n="121" xml:id="n121" facs="adl/ravn/ravn01/ravn1121"/>
+          <pb n="122" xml:id="n122" facs="adl/ravn/ravn01/ravn1122"/>
+          <pb n="123" xml:id="n123" facs="adl/ravn/ravn01/ravn1123"/>
+          <pb n="124" xml:id="n124" facs="adl/ravn/ravn01/ravn1124"/>
+          <pb n="125" xml:id="n125" facs="adl/ravn/ravn01/ravn1125"/>
+          <pb n="126" xml:id="n126" facs="adl/ravn/ravn01/ravn1126"/>
+          <pb n="127" xml:id="n127" facs="adl/ravn/ravn01/ravn1127"/>
+          <pb n="128" xml:id="n128" facs="adl/ravn/ravn01/ravn1128"/>
+          <pb n="129" xml:id="n129" facs="adl/ravn/ravn01/ravn1129"/>
+          <pb n="130" xml:id="n130" facs="adl/ravn/ravn01/ravn1130"/>
+          <pb n="131" xml:id="n131" facs="adl/ravn/ravn01/ravn1131"/>
+          <pb n="132" xml:id="n132" facs="adl/ravn/ravn01/ravn1132"/>
+          <pb n="133" xml:id="n133" facs="adl/ravn/ravn01/ravn1133"/>
+          <pb n="134" xml:id="n134" facs="adl/ravn/ravn01/ravn1134"/>
+          <pb n="135" xml:id="n135" facs="adl/ravn/ravn01/ravn1135"/>
+          <pb n="136" xml:id="n136" facs="adl/ravn/ravn01/ravn1136"/>
+          <pb n="137" xml:id="n137" facs="adl/ravn/ravn01/ravn1137"/>
+          <pb n="138" xml:id="n138" facs="adl/ravn/ravn01/ravn1138"/>
+          <pb n="139" xml:id="n139" facs="adl/ravn/ravn01/ravn1139"/>
+          <pb n="140" xml:id="n140" facs="adl/ravn/ravn01/ravn1140"/>
+          <pb n="141" xml:id="n141" facs="adl/ravn/ravn01/ravn1141"/>
+          <pb n="142" xml:id="n142" facs="adl/ravn/ravn01/ravn1142"/>
+          <pb n="143" xml:id="n143" facs="adl/ravn/ravn01/ravn1143"/>
+          <pb n="144" xml:id="n144" facs="adl/ravn/ravn01/ravn1144"/>
+          <pb n="145" xml:id="n145" facs="adl/ravn/ravn01/ravn1145"/>
+          <pb n="146" xml:id="n146" facs="adl/ravn/ravn01/ravn1146"/>
+          <pb n="147" xml:id="n147" facs="adl/ravn/ravn01/ravn1147"/>
+          <pb n="148" xml:id="n148" facs="adl/ravn/ravn01/ravn1148"/>
+          <pb n="149" xml:id="n149" facs="adl/ravn/ravn01/ravn1149"/>
+          <pb n="150" xml:id="n150" facs="adl/ravn/ravn01/ravn1150"/>
+          <pb n="151" xml:id="n151" facs="adl/ravn/ravn01/ravn1151"/>
+          <pb n="152" xml:id="n152" facs="adl/ravn/ravn01/ravn1152"/>
+          <pb n="153" xml:id="n153" facs="adl/ravn/ravn01/ravn1153"/>
+          <pb n="154" xml:id="n154" facs="adl/ravn/ravn01/ravn1154"/>
+          <pb n="155" xml:id="n155" facs="adl/ravn/ravn01/ravn1155"/>
+          <pb n="156" xml:id="n156" facs="adl/ravn/ravn01/ravn1156"/>
+          <pb n="157" xml:id="n157" facs="adl/ravn/ravn01/ravn1157"/>
+          <pb n="158" xml:id="n158" facs="adl/ravn/ravn01/ravn1158"/>
+          <pb n="159" xml:id="n159" facs="adl/ravn/ravn01/ravn1159"/>
+          <pb n="160" xml:id="n160" facs="adl/ravn/ravn01/ravn1160"/>
+          <pb n="161" xml:id="n161" facs="adl/ravn/ravn01/ravn1161"/>
+          <pb n="162" xml:id="n162" facs="adl/ravn/ravn01/ravn1162"/>
+          <pb n="163" xml:id="n163" facs="adl/ravn/ravn01/ravn1163"/>
+          <pb n="164" xml:id="n164" facs="adl/ravn/ravn01/ravn1164"/>
+          <pb n="165" xml:id="n165" facs="adl/ravn/ravn01/ravn1165"/>
+          <pb n="166" xml:id="n166" facs="adl/ravn/ravn01/ravn1166"/>
+          <pb n="167" xml:id="n167" facs="adl/ravn/ravn01/ravn1167"/>
+          <pb n="168" xml:id="n168" facs="adl/ravn/ravn01/ravn1168"/>
+          <pb n="169" xml:id="n169" facs="adl/ravn/ravn01/ravn1169"/>
+          <pb n="170" xml:id="n170" facs="adl/ravn/ravn01/ravn1170"/>
+          <pb n="171" xml:id="n171" facs="adl/ravn/ravn01/ravn1171"/>
+          <pb n="172" xml:id="n172" facs="adl/ravn/ravn01/ravn1172"/>
+          <pb n="173" xml:id="n173" facs="adl/ravn/ravn01/ravn1173"/>
+          <pb n="174" xml:id="n174" facs="adl/ravn/ravn01/ravn1174"/>
+          <pb n="175" xml:id="n175" facs="adl/ravn/ravn01/ravn1175"/>
+          <pb n="176" xml:id="n176" facs="adl/ravn/ravn01/ravn1176"/>
+          <pb n="177" xml:id="n177" facs="adl/ravn/ravn01/ravn1177"/>
+          <pb n="178" xml:id="n178" facs="adl/ravn/ravn01/ravn1178"/>
+          <pb n="179" xml:id="n179" facs="adl/ravn/ravn01/ravn1179"/>
+          <pb n="180" xml:id="n180" facs="adl/ravn/ravn01/ravn1180"/>
+          <pb n="181" xml:id="n181" facs="adl/ravn/ravn01/ravn1181"/>
+          <pb n="182" xml:id="n182" facs="adl/ravn/ravn01/ravn1182"/>
+          <pb n="183" xml:id="n183" facs="adl/ravn/ravn01/ravn1183"/>
+          <pb n="184" xml:id="n184" facs="adl/ravn/ravn01/ravn1184"/>
+          <pb n="185" xml:id="n185" facs="adl/ravn/ravn01/ravn1185"/>
+          <pb n="186" xml:id="n186" facs="adl/ravn/ravn01/ravn1186"/>
+          <pb n="187" xml:id="n187" facs="adl/ravn/ravn01/ravn1187"/>
+          <pb n="188" xml:id="n188" facs="adl/ravn/ravn01/ravn1188"/>
+          <pb n="189" xml:id="n189" facs="adl/ravn/ravn01/ravn1189"/>
+          <pb n="190" xml:id="n190" facs="adl/ravn/ravn01/ravn1190"/>
+          <pb n="191" xml:id="n191" facs="adl/ravn/ravn01/ravn1191"/>
+          <pb n="192" xml:id="n192" facs="adl/ravn/ravn01/ravn1192"/>
+          <pb n="193" xml:id="n193" facs="adl/ravn/ravn01/ravn1193"/>
+          <pb n="194" xml:id="n194" facs="adl/ravn/ravn01/ravn1194"/>
+          <pb n="195" xml:id="n195" facs="adl/ravn/ravn01/ravn1195"/>
+          <pb n="196" xml:id="n196" facs="adl/ravn/ravn01/ravn1196"/>
+          <pb n="197" xml:id="n197" facs="adl/ravn/ravn01/ravn1197"/>
+          <p xml:id="idm140229286628704"/>
+        </body>
+      </text>
+    </group>
+  </text>
+</TEI>
