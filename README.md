@@ -8,13 +8,12 @@ The [Archive for Danish Literature, ADL](http://www.kb.dk/) comes to you via a c
 As of writing, the corpus comprises 166316 pages of Danish literature,
 about two-thirds of those pages have been subject to OCR and been encoded using TEI.
 
-## The work
+## The ADL work
 
-Our Archive for Danish Literature, ADL, service uses a work concept
-developed together with the original service some 15 years ago by
-experienced reference librarians. It is completely pragmatic and
-related to what their needs were when helping patrons by providing
-pointers to texts in the information desk.
+ADL uses a work concept developed together with the original service
+some 15 years ago by experienced reference librarians. It is
+completely pragmatic and related to what their needs were when helping
+patrons by providing pointers to texts in the information desk.
 
 There the most common questions about literature were about
 
@@ -24,12 +23,10 @@ There the most common questions about literature were about
 * plays
 
 With the exception for novels, most of these works are text fragments
-inside a volume, the unit delivered by the circulation desk.
+inside a volume, the unit delivered by the library's circulation desk.
 
 For more information on markup used, have a look at [the texts](https://github.com/Det-Kongelige-Bibliotek/public-adl-text-sources),
 and the markup information there.
-
-## Connecting text with facsimile
 
 ## Connecting works with metadata
 
@@ -122,3 +119,72 @@ look like
    </text>
  </TEI>
 ```
+
+## Connecting text with facsimile
+
+The page break <pb/> is a TEI milestone (empty) element. It gives the
+precise point in the text where a new page starts. In a digitisation
+service this implies that a new image should be shown. The image URIs are
+given directly on <pb/> using the @facs attibute
+
+```
+ <pb n="85" facs="adl/goldschmidt/goldschmidt11/gold11085" xml:id="idm140454498545840"/>
+
+```
+
+We have opted for not trying to embed persistent URIs for the images,
+rather we give their paths inside our image server (see our [image API
+docs](https://github.com/Det-Kongelige-Bibliotek/access-digital-objects/blob/master/image-delivery.md))
+
+To retrieve page 85 prepend http://kb-images.kb.dk/public and append
+(for example) /full/!2000,/0/native.jpg to the content of @facs, which gives:
+
+http://kb-images.kb.dk/public/adl/goldschmidt/goldschmidt11/gold11085/full/!2000,/0/native.jpg
+
+
+```
+<text xml:id="workid54813" decls="#biblid54813">
+  <body xml:id="idm140454498551728">
+    <pb n="78" facs="adl/goldschmidt/goldschmidt11/gold11078" xml:id="idm140454498551472"/>
+    <pb n="79" facs="adl/goldschmidt/goldschmidt11/gold11079" xml:id="idm140454498550704"/>
+    <div xml:id="idm140454498549936">
+      <pb n="80" facs="adl/goldschmidt/goldschmidt11/gold11080" xml:id="idm140454498549680"/>
+      <pb n="81" facs="adl/goldschmidt/goldschmidt11/gold11081" xml:id="idm140454498548912"/>
+      <pb n="82" facs="adl/goldschmidt/goldschmidt11/gold11082" xml:id="idm140454498548144"/>
+      <pb n="83" facs="adl/goldschmidt/goldschmidt11/gold11083" xml:id="idm140454498547376"/>
+      <pb n="84" facs="adl/goldschmidt/goldschmidt11/gold11084" xml:id="idm140454498546608"/>
+      <pb n="85" facs="adl/goldschmidt/goldschmidt11/gold11085" xml:id="idm140454498545840"/>
+      <p xml:id="idm140454498545072"/>
+    </div>
+    <pb n="86" facs="adl/goldschmidt/goldschmidt11/gold11086" xml:id="idm140454498544688"/>
+    <div xml:id="workid54881" decls="#biblid54881">
+      <pb n="87" facs="adl/goldschmidt/goldschmidt11/gold11087" xml:id="idm140454498543024"/>
+      <pb n="88" facs="adl/goldschmidt/goldschmidt11/gold11088" xml:id="idm140454498542256"/>
+      <p xml:id="idm140454498541488"/>
+    </div>
+```
+
+## Workflow
+
+The XML text documents pass through a number of procedures before
+entering ADL.
+
+The @decls/bibl (ID/IDREF markup) are placed on elements regarded as
+described above.
+
+The <pb/> elements are adorned with @facs, @n and @xml:id attributes
+as needed.
+
+Each element in the texts is then possible to use as an anchor
+for linking.   The most important one is to add an xml:id
+attribute to each element in a document that has not got one to begin
+with. For building a [cool service](https://www.w3.org/Provider/Style/URI.html) based on these
+documents, their names must never be changed, nor must the xml:id.
+
+There are TEI elements that containers and those that are empty. When
+indexing we concentrate on the former, since they are the ones that we
+need to search. There are a very important class of empty elements
+called milestones, and the most important one is presumably page
+break, at least in a digitisation project (where we need to address
+facsimiles).
+
