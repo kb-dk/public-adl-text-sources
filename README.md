@@ -68,9 +68,8 @@ look like
 	   <date xml:id="idm140638899268432">1944-1964</date>
 	 </bibl>
 	 <listBibl>
-	   <bibl xml:id="#biblid64544">
+	   <bibl xml:id="biblid64544">
 	     <title>Kirken er som Himmerige</title>
-	     <author>N. F. S. Grundtvig</author>
 	   </bibl>
 	 </listBibl>
        </sourceDesc>
@@ -142,7 +141,12 @@ To retrieve page 85 prepend http://kb-images.kb.dk/public and append
 
 http://kb-images.kb.dk/public/adl/goldschmidt/goldschmidt11/gold11085/full/!2000,/0/native.jpg
 
-Texts without OCR uses TEI for document structure, work and metadata. Here is one example:
+By instead appending info.json, such as
+
+http://kb-images.kb.dk/public/adl/goldschmidt/goldschmidt11/gold11085/info.json
+
+Texts without OCR uses TEI for document structure, work and metadata
+and page breaks only. Here is an example (from where we got page 85 above)
 
 
 ```
@@ -210,4 +214,7 @@ need to search. There are a very important class of empty elements
 called milestones, and the most important one is presumably page
 break, at least in a digitisation project (where we need to address
 facsimiles).
+
+## Contributing documents
+
 
