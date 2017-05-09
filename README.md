@@ -168,9 +168,29 @@ Texts without OCR uses TEI for document structure, work and metadata. Here is on
     </div>
 ```
 
-## Workflow
+## Workflows and requirements for new documents
 
-The XML text documents pass through a number of procedures before
+Any TEI light document could be included in ADL provided that it has
+metadata in sourceDesc, such as:
+
+```
+<sourceDesc xml:id="idm140462580906160">
+  <bibl xml:id="idm140462580905904">
+    <author n="1" xml:id="idm140462580905040">
+      <name xml:id="idm140462580904608">
+        <surname xml:id="idm140462580904480">Munch-Petersen</surname>, 
+        <forename xml:id="idm140462580904064">Gustaf</forename>
+      </name>
+    </author>
+    <title xml:id="idm140462580903520">Samlede skrifter</title>
+    <pubPlace xml:id="idm140462580903104">Valby</pubPlace>
+    <publisher xml:id="idm140462580902688">Borgen</publisher>
+    <date xml:id="idm140462580902224">1988</date>
+  </bibl>
+</sourceDesc>
+```
+
+TEI documents pass through a number of procedures before
 entering ADL.
 
 The @decls/bibl (ID/IDREF markup) are placed on elements regarded as
