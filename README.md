@@ -25,19 +25,18 @@ There the most common questions about literature were about
 With the exception for novels, most of these works are text fragments
 inside a volume, the unit delivered by the library's circulation desk.
 
-For more information on markup used, have a look at [the texts](https://github.com/Det-Kongelige-Bibliotek/public-adl-text-sources),
-and the markup information there.
+For more information on markup used, have a look at [the texts](https://github.com/Det-Kongelige-Bibliotek/public-adl-text-sources/tree/master/texts), and the markup information here.
 
 ## Connecting works with metadata
 
-The simplest way to connect text with metadata seem to be 
+One of the simplest way to connect text with metadata seem to be using
 [the decls attribute](http://www.tei-c.org/Vault/P5/2.5.0/doc/tei-p5-doc/en/html/CC.html#CCAS2)
 (we consulted the TEI-L listserv where [Lou
 Bournard](https://listserv.brown.edu/archives/cgi-bin/wa?A2=ind1408&L=TEI-L&F=&S=&P=58469) gave us the information we needed).
 
 > @decls identifies one or more declarable elements within the header,
 > which are understood to apply to the element bearing this attribute
-> and its content [@decls definition](http://www.tei-c.org/release/doc/tei-p5-doc/en/html/ref-att.declaring.html)
+> and its content [[@decls definition](http://www.tei-c.org/release/doc/tei-p5-doc/en/html/ref-att.declaring.html)]
 
 Just about any structure in the text can be used as a __work__, by
 giving it a decls attribute which is an _idref_ pointing to a bibl or
