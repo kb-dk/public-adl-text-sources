@@ -1,6 +1,6 @@
 # Public ADL text sources
 
-The [Archive for Danish Literature, ADL](http://www.kb.dk/) comes to you via a collaboration between
+The [Archive for Danish Literature, ADL](http://www.adl.dk/) comes to you via a collaboration between
 
 * [Det Danske Sprog- og Litteraturselskab (DSL)](http://dsl.dk/)
 * [Danish Royal Library](http://www.kb.dk)
@@ -120,6 +120,8 @@ look like
  </TEI>
 ```
 
+
+
 ## Connecting text with facsimile
 
 The page break <pb/> is a TEI milestone (empty) element. It gives the
@@ -140,6 +142,8 @@ To retrieve page 85 prepend http://kb-images.kb.dk/public and append
 (for example) /full/!2000,/0/native.jpg to the content of @facs, which gives:
 
 http://kb-images.kb.dk/public/adl/goldschmidt/goldschmidt11/gold11085/full/!2000,/0/native.jpg
+
+Texts without OCR uses TEI for document structure, work and metadata. Here is one example:
 
 
 ```
