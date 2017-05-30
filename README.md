@@ -5,8 +5,9 @@ The [Archive for Danish Literature, ADL](http://www.adl.dk/) comes to you via a 
 * [Det Danske Sprog- og Litteraturselskab (DSL)](http://dsl.dk/)
 * [Danish Royal Library](http://www.kb.dk)
 
-As of writing, the corpus comprises 166316 pages of Danish literature,
-about two-thirds of those pages have been subject to OCR and been encoded using TEI.
+As of writing, the corpus comprises 502 volumes with in total 166316
+pages of Danish literature.  The whole corpus has been encoded using
+TEI, but only about two-thirds of the pages have been subject to OCR.
 
 ## The ADL work
 
@@ -25,7 +26,9 @@ There the most common questions about literature were about
 With the exception for novels, most of these works are text fragments
 inside a volume, the unit delivered by the library's circulation desk.
 
-For more information on markup used, have a look at [the texts](https://github.com/Det-Kongelige-Bibliotek/public-adl-text-sources/tree/master/texts), and the markup information here.
+For more information on markup used, have a look at [the
+texts](https://github.com/Det-Kongelige-Bibliotek/public-adl-text-sources/tree/master/texts),
+and the markup information here.
 
 ## Connecting works with metadata
 
@@ -144,6 +147,13 @@ http://kb-images.kb.dk/public/adl/goldschmidt/goldschmidt11/gold11085/full/!2000
 By instead appending info.json, such as
 
 http://kb-images.kb.dk/public/adl/goldschmidt/goldschmidt11/gold11085/info.json
+
+you can retrieve basic technical metadata for the page in jason format.
+
+Texts without facsimile should ideally still contain <pb/> elements
+and an @n attribute containing the pagination. If there <pb/>s with
+@facs attributes with URIs that cannot be dereferenced, these should
+contain a @rend attribute containing the word "missing".
 
 Texts without OCR uses TEI for document structure, work and metadata
 and page breaks only. Here is an example (from where we got page 85 above)
