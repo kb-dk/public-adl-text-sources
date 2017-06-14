@@ -21,10 +21,15 @@ This means that immediately after the teiHeader there should be a facsimile sect
  <graphic xml:id="p5234522" url="http://example.org/pages/page4.png"/>
 </facsimile>
 ```
-Each page break should then contain a reference to the graphic element, e.g.,
+The url attribute should contain an absolute URI to the page. We can then crawl those and store them in our repository and then edit the graphic element such that the url points to our image services.
 
+Each page break must then contain a reference to the graphic element, e.g.,
+
+```
 <pb facs="#p414rqwe"/>
+```
 
+Note the hash in the facs IDREF. We can now ascertain the integrity of the relations between text and facsimile versions.
 
 ### Stand-off
 
