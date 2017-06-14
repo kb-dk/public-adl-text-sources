@@ -31,6 +31,6 @@ Each page break must then contain a reference to the graphic element, e.g.,
 
 Note the hash in the facs IDREF. We can now ascertain the integrity of the relations between text and facsimile versions.
 
-### Stand-off
+### Links in and out
 
 http://www.tei-c.org/release/doc/tei-p5-doc/en/html/SA.html#SASO
