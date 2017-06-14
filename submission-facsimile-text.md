@@ -18,7 +18,7 @@ This means that immediately after the teiHeader there should be a section
  <graphic xml:id="p5634563" url="page3.png"/>
  <graphic xml:id="p5234522" url="page4.png"/>
 </facsimile>
-'''
+```
 
 ### Stand-off
 
