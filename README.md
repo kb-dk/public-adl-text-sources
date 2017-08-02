@@ -16,8 +16,8 @@ structured.
 
 * [The ADL work](work.md)
 * [Connecting works with metadata](work-metadata.md)
-* [Connecting text to facsimile](facsimile-text.md)
 * [Submission of documents connecting text to facsimile](submission-facsimile-text.md)
+* [Connecting text to facsimile](facsimile-text.md)
 * [Workflows and requirements for new documents](workflows.md)
 
 ## Contributing documents
@@ -26,15 +26,10 @@ Projects with relevant scope can contribute documents to ADL, provided the
 
 * Copyright issues are resolved
 * They are accepted by DSL and KB
-* The TEI is valid XML
+* The XML is valid TEI
 
 A contribution can be received by branch and pull request in github as
-is the practice on GitHub.  If the contribution includes facsimiles
-the TEI document should absolute URIs to uncompressed TIF or JPEG2000
-image files via the TEI documents <pb/> elements.
+is the practice on GitHub.
 
-Alternatively, the contribution can be submitted in the [BagIt format
-(v0.97 or better)](https://tools.ietf.org/html/draft-kunze-bagit-14),
-and hence include valid manifest files (site maps).
 
 
