@@ -8,10 +8,10 @@ Ptj  rettet s. 2-4-182-263-369-370-546-547-548-553-562-566-589-
 -->
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="idm140167182859168">
   <!-- 
-									  file     ./marc_dir/002314853.xml
-									  field     
-									  subfield  
-									  prefix   -->
+       file     ./marc_dir/002314853.xml
+       field     
+       subfield  
+       prefix   -->
   <teiHeader xml:id="idm140167182858096">
     <fileDesc xml:id="idm140167182832624">
       <titleStmt xml:id="idm140167182832368">
@@ -34,7 +34,10 @@ Ptj  rettet s. 2-4-182-263-369-370-546-547-548-553-562-566-589-
       <sourceDesc xml:id="idm140167182827344">
         <bibl xml:id="idm140167182827216">
           <author n="1" xml:id="idm140167182826528">
-            <name xml:id="idm140167182826272"><surname xml:id="idm140167182826144">Heiberg</surname>, <forename xml:id="idm140167182825680">P. A.</forename></name>
+            <name xml:id="idm140167182826272">
+	      <surname xml:id="idm140167182826144">Heiberg</surname>, 
+	      <forename xml:id="idm140167182825680">P. A.</forename>
+	    </name>
           </author>
           <title xml:id="idm140167182825392">Peter Andreas Heibergs Udvalgte Skrifter</title>
           <pubPlace xml:id="idm140167182825072">Kbh.</pubPlace>
@@ -9718,31 +9721,36 @@ Ptj  rettet s. 2-4-182-263-369-370-546-547-548-553-562-566-589-
 	    at akkordere om Prisen. Derpaa fulgte en lang Prutten imellem ham og
 	    Slagteren, hvori den sidste ideligen raabte paa det store Tab, han,
 	    som en fattig Mand, maatte lide, og den første paa den store Ubillig
-	    hed og Uredehghed, det vilde være at bedrage sine Gjæster med <pb n="260" facs="adl/heibergpa/heibergpa01/heibergpa1260" xml:id="idm140167180508800"/> saadanne Retter. Enden paa
+	    hed og Uredehghed, det vilde være at bedrage sine Gjæster med 
+	    <pb n="260" facs="adl/heibergpa/heibergpa01/heibergpa1260" xml:id="idm140167180508800"/> 
+	    saadanne Retter. Enden paa
 	    denne Dispute blev, at Slagteren overlod Kalven for en Tredjedel af,
 	    hvad den ellers vilde have været værd, og i de følgende Tage var
 	    Spiseseddelen opfyldt med Kalvekjød tillavet efter alle Kogekunstens
 	    forskjeU lige Regler, og Gjæsterne lode disse letter smage sig
 	    overmaade vel, uden at fatte mindste Mistanke om Sammenhængen.</p>
-              <p>Saa
-	    ofte, som Sygdommen i disse Dage vilde tillade det, var min Herre
-	    bestandig beskjæftiget med at beregne Fordelen af denne Handel,
-	    hvilken han, til sin Fornøjelse, befandt at være saa anselig, at han
-	    ikke kunde andet end ønske sig daglig Leilighed til at negotiere
-	    paa en saa fordelagtig Maade. Imidlertid forværredes dog hans
-	    Tilstand daglig; Samvittigheden vaagnede og mindede ham om, hvor
-	    uredeligt han havde handlet i at bedrage Folk paa den anførte og
-	    maaske endnu paa mange andre Maader, hvilket heller ikke lidet
-	    bidrog til at gjøre hans Tilstand kritisk. Man sendte Bud efter hans
-	    Husdoktor, en af de fornemmeste Læger i Kjøbenhavn, men han kom
-	    ikke, eftersom hans Heste vare hos Smedden for at skos; Dagen efter
-	    sendte man atter Bud efter ham, men han skulde paa Slottet for at se
-	    til en fornemme Dame, som havde en bolden Finger. Efter igjentagne
-	    skriftlige og mundtlige Anmodninger indfandt han sig endelig den
-	    tredje Dag, men blev meget vred over, at man havde umaget ham for
-	    saa ubetydelig en Aarsags Skyld og derved spildt en Del af hans
-	    kostbare Tid, der kunde været anvendt til at besøge Patienter, som
-	    vare angrebne af mere farlige Sygdomme end min Herre, hvis hele
+	    <p xml:id="idm140167180508800adfefed">Saa ofte, som
+	    Sygdommen i disse Dage vilde tillade det, var min Herre
+	    bestandig beskjæftiget med at beregne Fordelen af denne
+	    Handel, hvilken han, til sin Fornøjelse, befandt at være
+	    saa anselig, at han ikke kunde andet end ønske sig daglig
+	    Leilighed til at negotiere paa en saa fordelagtig
+	    Maade. Imidlertid forværredes dog hans Tilstand daglig;
+	    Samvittigheden vaagnede og mindede ham om, hvor uredeligt
+	    han havde handlet i at bedrage Folk paa den anførte og
+	    maaske endnu paa mange andre Maader, hvilket heller ikke
+	    lidet bidrog til at gjøre hans Tilstand kritisk. Man
+	    sendte Bud efter hans Husdoktor, en af de fornemmeste
+	    Læger i Kjøbenhavn, men han kom ikke, eftersom hans Heste
+	    vare hos Smedden for at skos; Dagen efter sendte man atter
+	    Bud efter ham, men han skulde paa Slottet for at se til en
+	    fornemme Dame, som havde en bolden Finger. Efter
+	    igjentagne skriftlige og mundtlige Anmodninger indfandt
+	    han sig endelig den tredje Dag, men blev meget vred over,
+	    at man havde umaget ham for saa ubetydelig en Aarsags
+	    Skyld og derved spildt en Del af hans kostbare Tid, der
+	    kunde været anvendt til at besøge Patienter, som vare
+	    angrebne af mere farlige Sygdomme end min Herre, hvis hele
 	    Sygdom, som lian højtideligen forsikrede, var blot</p>
               <p xml:id="idm140167180505472">Kjælenkub. Doktoren gik derpaa, men standsede i Spisestuen,</p>
               <p xml:id="idm140167180504944">hvor lian paa den behageligste Maade fordrev en halv Time med at tale
