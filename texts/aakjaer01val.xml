@@ -1,15 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!-- OCR by ATAPY 22.10.02 (Catherine Bychkova) -->
-<!-- 20030403 HHL tjekket mod rutiner og assumptions.doc
-<emph> -> italics + udkommentering
-20070618 fejl rettet på s. 24 VL
-rettet s223-225-269 phtj 
--->
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="idm139725301586928"><!-- 
-       file     ./marc_dir/002251515.xml
-       field    530 
-       subfield a 
-       prefix   Bd. 1 :-->
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="root">
   <teiHeader xml:id="idm139725301586080">
     <fileDesc xml:id="idm139725301585824">
       <titleStmt xml:id="idm139725301560368">
@@ -25,31 +15,670 @@ rettet s223-225-269 phtj
 	  </note>
       </notesStmt>
       <sourceDesc xml:id="idm139725301556672">
-	<bibl xml:id="idm139725301556544">
-	  <author n="1" xml:id="idm139725301555856">
-	    <name xml:id="idm139725301555600">
-	      <surname xml:id="idm139725301555472">Aakjær</surname>, 
-	      <forename xml:id="idm139725301555040">Jeppe</forename>
-	    </name>
-	    </author>
-	    <title xml:id="idm139725301554784"> Digte 1885-1908. -
-	    1918</title>
-	    <pubPlace xml:id="idm139725301554480">København</pubPlace>; 
-	    <pubPlace xml:id="idm139725301554016">Kristiania</pubPlace>
-	    <publisher xml:id="idm139725301553552">Gyldendal</publisher>
-	    <date xml:id="idm139725301553216">1918-19</date>
-	</bibl>
-	<listBibl xml:id="idm139725301552928">
-	  <bibl xml:id="biblid55565"><title xml:id="idm139725301539776">I NATTENS TIME</title></bibl><bibl xml:id="biblid55662"><title xml:id="idm139725301538992">TORDEN</title></bibl><bibl xml:id="biblid55881"><title xml:id="idm139725301538208">I EN PRÆKENBOG TIL MINE FORÆLDRE</title></bibl><bibl xml:id="biblid55993"><title xml:id="idm139725301537376">HVAD GJØR DET</title></bibl><bibl xml:id="biblid56115"><title xml:id="idm139725301536576">MEJERISTSANG</title></bibl><bibl xml:id="biblid56470"><title xml:id="idm139725301535792">STRINDBERG</title></bibl><bibl xml:id="biblid56580"><title xml:id="idm139725301534960">BONDE-GYMNASTIK</title></bibl><bibl xml:id="biblid56857"><title xml:id="idm139725301534128">VI SAD ALENE -</title></bibl><bibl xml:id="biblid56939"><title xml:id="idm139725301533344">ARBEJD</title></bibl><bibl xml:id="biblid56996"><title xml:id="idm139725301532560">UNG</title></bibl><bibl xml:id="biblid57126"><title xml:id="idm139725301531760">AA, SPIL DE TONER -</title></bibl><bibl xml:id="biblid57216"><title xml:id="idm139725301530928">I RANDBØL DAL</title></bibl><bibl xml:id="biblid57355"><title xml:id="idm139725301530128">FØDT I JULI MAANED -</title></bibl><bibl xml:id="biblid57479"><title xml:id="idm139725301529264">DET 'LEVENDE' ORD</title></bibl><bibl xml:id="biblid57522"><title xml:id="idm139725301528432">DU BLEGE KVINDE -</title></bibl><bibl xml:id="biblid57777"><title xml:id="idm139725301527648">MIN VENINDES ØJNE</title></bibl><bibl xml:id="biblid57954"><title xml:id="idm139725301526800">FØRSTE GANG</title></bibl><bibl xml:id="biblid58131"><title xml:id="idm139725301525952">IFALD JEG KUNDE DANSE -</title></bibl><bibl xml:id="biblid58228"><title xml:id="idm139725301525120">LAAN MIG TYVE DUKATER -</title></bibl><bibl xml:id="biblid58378"><title xml:id="idm139725301524224">MINE HELTE</title></bibl><bibl xml:id="biblid58432"><title xml:id="idm139725301523392">FØDSELSDAG</title></bibl><bibl xml:id="biblid58551"><title xml:id="idm139725301522560">LIDEN MAJA</title></bibl><bibl xml:id="biblid58785"><title xml:id="idm139725301521728">FRA LANDSBYEN</title></bibl><bibl xml:id="biblid59066"><title xml:id="idm139725301520896">DØDSRAMT</title></bibl><bibl xml:id="biblid59167"><title xml:id="idm139725301520112">HYLDEST-TELEGRAM</title></bibl><bibl xml:id="biblid59268"><title xml:id="idm139725301519280">JEG GIK TIL VINDVET -</title></bibl><bibl xml:id="biblid59384"><title xml:id="idm139725301518496">TIL MARIE</title></bibl><bibl xml:id="biblid59674"><title xml:id="idm139725301517664">Nu har vi set paa Aarets</title></bibl><bibl xml:id="biblid59737"><title xml:id="idm139725301516816">GRAVVERS</title></bibl><bibl xml:id="biblid59839"><title xml:id="idm139725301515984">DER FLØJ EN LIDEN SOMMERFUGL</title></bibl><bibl xml:id="biblid60126"><title xml:id="idm139725301515152">LYKØNSKNING</title></bibl><bibl xml:id="biblid60236"><title xml:id="idm139725301514352">NAT</title></bibl><bibl xml:id="biblid60331"><title xml:id="idm139725301513552">IFALD -</title></bibl><bibl xml:id="biblid60381"><title xml:id="idm139725301512656">EN SYND</title></bibl><bibl xml:id="biblid60496"><title xml:id="idm139725301511824">SAA FAGER FOR HUN -</title></bibl><bibl xml:id="biblid60618"><title xml:id="idm139725301510992">VAAR</title></bibl><bibl xml:id="biblid60687"><title xml:id="idm139725301510160">DU KJENDER IKKE ENGEN -</title></bibl><bibl xml:id="biblid60864"><title xml:id="idm139725301509328">SALMETONE</title></bibl><bibl xml:id="biblid60955"><title xml:id="idm139725301508496">BREV AFBRUDT</title></bibl><bibl xml:id="biblid61078"><title xml:id="idm139725301507664">STRØMMEN DREV -</title></bibl><bibl xml:id="biblid61225"><title xml:id="idm139725301506864">POLEMISK</title></bibl><bibl xml:id="biblid61278"><title xml:id="idm139725301506032">FORPAGTER LARS</title></bibl><bibl xml:id="biblid61330"><title xml:id="idm139725301505200">JEG KYSSER DINE KINDER -</title></bibl><bibl xml:id="biblid61387"><title xml:id="idm139725301504352">DA MAN SKØD TROFAST</title></bibl><bibl xml:id="biblid61582"><title xml:id="idm139725301503488">DEN GUD JEG BEDER TIL</title></bibl><bibl xml:id="biblid61858"><title xml:id="idm139725301502656">I MØRKE</title></bibl><bibl xml:id="biblid61929"><title xml:id="idm139725301501760">BONDESTUDENT</title></bibl><bibl xml:id="biblid62126"><title xml:id="idm139725301500928">BRYLLUPSVISE</title></bibl><bibl xml:id="biblid62258"><title xml:id="idm139725301500144">SVENDEMANDS VENNER. BØRNERIM</title></bibl><bibl xml:id="biblid62607"><title xml:id="idm139725301616640">HOLGER DRACHMANN</title></bibl><bibl xml:id="biblid62793"><title xml:id="idm139725301615856">SAA SIG MIG -</title></bibl><bibl xml:id="biblid62885"><title xml:id="idm139725301615072">STUDENT-MAJ</title></bibl><bibl xml:id="biblid63096"><title xml:id="idm139725301614288">JENS HURRA</title></bibl><bibl xml:id="biblid63564"><title xml:id="idm139725301613504">DER GAAR SAA MEGET TIL SPILDE</title></bibl><bibl xml:id="biblid63714"><title xml:id="idm139725301612752">JEG VAR SAA TRÆT -</title></bibl><bibl xml:id="biblid63818"><title xml:id="idm139725301474144">HEDEVANDRING</title></bibl><bibl xml:id="biblid64128"><title xml:id="idm139725301473360">RÆVEJAGT</title></bibl><bibl xml:id="biblid64385"><title xml:id="idm139725301472576">SAGN</title></bibl><bibl xml:id="biblid64654"><title xml:id="idm139725301471792">BILEAM OG HANS ÆSEL</title></bibl><bibl xml:id="biblid65146"><title xml:id="idm139725301466848">MILDE ØJNE</title></bibl><bibl xml:id="biblid65249"><title xml:id="idm139725301466160">VINDENES VISE</title></bibl><bibl xml:id="biblid65373"><title xml:id="idm139725301465472">POLITISK UENIGHED</title></bibl><bibl xml:id="biblid65613"><title xml:id="idm139725301464784">SALLING. EN SKJÆMTEVISE</title></bibl><bibl xml:id="biblid66011"><title xml:id="idm139725301464032">MEJERIST-VISE</title></bibl><bibl xml:id="biblid66198"><title xml:id="idm139725301463280">OM ZEUS STEG NED -</title></bibl><bibl xml:id="biblid66318"><title xml:id="idm139725301462592">TROSSKIFTE</title></bibl><bibl xml:id="biblid66443"><title xml:id="idm139725301461904">DEN SYGE YNGLING</title></bibl><bibl xml:id="biblid66621"><title xml:id="idm139725301461216">HERKULES</title></bibl><bibl xml:id="biblid66720"><title xml:id="idm139725301460496">DA DE DØMTE ZOLA</title></bibl><bibl xml:id="biblid66896"><title xml:id="idm139725301459600">BEDST I DANMARK</title></bibl><bibl xml:id="biblid67136"><title xml:id="idm139725301458816">SMEDEN OG MISSIONÆREN</title></bibl><bibl xml:id="biblid67328"><title xml:id="idm139725301458000">DET BANKED PAA MIN RUDE -</title></bibl><bibl xml:id="biblid67494"><title xml:id="idm139725301457248">KLOKKEREN</title></bibl><bibl xml:id="biblid67561"><title xml:id="idm139725301456464">TRE TROLDE</title></bibl><bibl xml:id="biblid67628"><title xml:id="idm139725301455680">BRUDESLOT</title></bibl><bibl xml:id="biblid67776"><title xml:id="idm139725301454896">VAAR-RIM</title></bibl><bibl xml:id="biblid67890"><title xml:id="idm139725301454112">REGNVEJRSSTEMNING</title></bibl><bibl xml:id="biblid68000"><title xml:id="idm139725301453328">MEDLIDENHED</title></bibl><bibl xml:id="biblid68170"><title xml:id="idm139725301452544">GAA I SKOVEN</title></bibl><bibl xml:id="biblid68321"><title xml:id="idm139725301451760">HØGEN</title></bibl><bibl xml:id="biblid68418"><title xml:id="idm139725301450976">KLOKKEN</title></bibl><bibl xml:id="biblid68505"><title xml:id="idm139725301450192">KJESTEN</title></bibl><bibl xml:id="biblid68670"><title xml:id="idm139725301449408">SAADAN GAAR DET</title></bibl><bibl xml:id="biblid68898"><title xml:id="idm139725301448624">AFTENSTÆVNE</title></bibl><bibl xml:id="biblid68983"><title xml:id="idm139725301447808">SKUESPILLERINDEN PAA HEDEN</title></bibl><bibl xml:id="biblid69119"><title xml:id="idm139725301447056">OLE</title></bibl><bibl xml:id="biblid69240"><title xml:id="idm139725301446240">KOM MI BETTE KIPKAL</title></bibl><bibl xml:id="biblid69452"><title xml:id="idm139725301445456">MADS TAMMESES MAREN</title></bibl><bibl xml:id="biblid69657"><title xml:id="idm139725301444608">PER SØWREN</title></bibl><bibl xml:id="biblid70078"><title xml:id="idm139725301443824">DEN GAANG TE A WAR GYWTMED LAVS</title></bibl><bibl xml:id="biblid70268"><title xml:id="idm139725301443072">JØRGEN VED BÆKKEN</title></bibl><bibl xml:id="biblid70868"><title xml:id="idm139725301442320">PINSEVISE</title></bibl><bibl xml:id="biblid71007"><title xml:id="idm139725301441536">NATMANDSVISE</title></bibl><bibl xml:id="biblid71364"><title xml:id="idm139725301440752">KA DREBÆK</title></bibl><bibl xml:id="biblid71647"><title xml:id="idm139725301439904">PAA MUNKEBJÆRG</title></bibl><bibl xml:id="biblid71828"><title xml:id="idm139725301439056">DEN REVOLUTIONÆRE STUDENT</title></bibl><bibl xml:id="biblid72180"><title xml:id="idm139725301438176">ANNA. FRIT EFTER BURNS</title></bibl><bibl xml:id="biblid72332"><title xml:id="idm139725301437392">SOPHUS SCHANDORPH</title></bibl><bibl xml:id="biblid72584"><title xml:id="idm139725301436544">VALGSANG</title></bibl><bibl xml:id="biblid72872"><title xml:id="idm139725301435760">MED ET BIND DIGTE</title></bibl><bibl xml:id="biblid72924"><title xml:id="idm139725301434976">FORAAR I ROSKILDE</title></bibl><bibl xml:id="biblid73155"><title xml:id="idm139725301434128">JYLLAND</title></bibl><bibl xml:id="biblid73564"><title xml:id="idm139725301433344">KARUP AA</title></bibl><bibl xml:id="biblid73970"><title xml:id="idm139725301432560">HEDELANDET</title></bibl><bibl xml:id="biblid74335"><title xml:id="idm139725301431712">EN FABEL</title></bibl><bibl xml:id="biblid74605"><title xml:id="idm139725301430864">MIN HJEMMEN</title></bibl><bibl xml:id="biblid74808"><title xml:id="idm139725301430080">JULEBREV TIL HJEMMET</title></bibl><bibl xml:id="biblid74979"><title xml:id="idm139725301429296">JACOB HEGEL</title></bibl><bibl xml:id="biblid75197"><title xml:id="idm139725301428512">VIGGO HØRUP</title></bibl><bibl xml:id="biblid75457"><title xml:id="idm139725301427712">FREDERIKSBERG</title></bibl><bibl xml:id="biblid75684"><title xml:id="idm139725301426928">GRUNDLOVSSANG TIL FJAND - BOERNE</title></bibl><bibl xml:id="biblid75985"><title xml:id="idm139725301426064">PRESSEN</title></bibl><bibl xml:id="biblid76252"><title xml:id="idm139725301425280">SØREN OLESEN</title></bibl><bibl xml:id="biblid76476"><title xml:id="idm139725301424480">JENN HJEMM</title></bibl><bibl xml:id="biblid76937"><title xml:id="idm139725301423632">MI NANNE, JA</title></bibl><bibl xml:id="biblid77192"><title xml:id="idm139725301422848">ARBEJDERSANG</title></bibl><bibl xml:id="biblid77493"><title xml:id="idm139725301422064">VENSTREVISE</title></bibl><bibl xml:id="biblid77677"><title xml:id="idm139725301421216">BJØRNSTJERNE BJØRNSON</title></bibl><bibl xml:id="biblid77870"><title xml:id="idm139725301420336">JULEAFTEN</title></bibl><bibl xml:id="biblid78259"><title xml:id="idm139725301419552">ARBEJDERSØLVBRYLLUP</title></bibl><bibl xml:id="biblid78457"><title xml:id="idm139725301418624">DU OG JEG</title></bibl><bibl xml:id="biblid78545"><title xml:id="idm139725301417840">MED EN CYKLE TIL MIN KJÆRESTE</title></bibl><bibl xml:id="biblid78762"><title xml:id="idm139725301416960">PROLETAR-BORGMESTEREN</title></bibl><bibl xml:id="biblid79042"><title xml:id="idm139725301416064">PAA Æ STUR HYW</title></bibl><bibl xml:id="biblid79113"><title xml:id="idm139725301415152">EVALD TANG KRISTENSEN</title></bibl><bibl xml:id="biblid79310"><title xml:id="idm139725301414368">DE SYGE TYPOGRAFER</title></bibl><bibl xml:id="biblid79546"><title xml:id="idm139725301413520">STUDENTERSAMFUNDETS RUSKANTATE EFTERAARS-VISE</title></bibl><bibl xml:id="biblid79558"><title xml:id="idm139725301412704">Gjøgen galed i Danmarks Lund</title></bibl><bibl xml:id="biblid79666"><title xml:id="idm139725301411808">RECITATIV:</title></bibl><bibl xml:id="biblid79810"><title xml:id="idm139725301411024">RUSSEN SER LOKALERNE</title></bibl><bibl xml:id="biblid80331"><title xml:id="idm139725301410128">PALLAS ATHENE FRA SALENS BAGGRUND</title></bibl><bibl xml:id="biblid80415"><title xml:id="idm139725301409328">LIDT PASSIAR MED RUSSEN</title></bibl><bibl xml:id="biblid80602"><title xml:id="idm139725301408480">SILENTIUM</title></bibl><bibl xml:id="biblid80859"><title xml:id="idm139725301407696">FRÆ DEN JEN JEPP AA TE DENAAN. VED ANTIKWARBOGHANDLER JEPP POULSENS 25-ORS JUBILÆUM</title></bibl><bibl xml:id="biblid80952"><title xml:id="idm139725301406704">HUSMANDSBRYLLUP</title></bibl><bibl xml:id="biblid81152"><title xml:id="idm139725301405808">SE DIG UD</title></bibl><bibl xml:id="biblid81352"><title xml:id="idm139725301404960">HEDENS DEGN</title></bibl><bibl xml:id="biblid81585"><title xml:id="idm139725301404176">MAJSANG</title></bibl><bibl xml:id="biblid81713"><title xml:id="idm139725301403392">FOR VI TRÆDER HVERANDRE -</title></bibl><bibl xml:id="biblid81860"><title xml:id="idm139725301402512">OLE NYGAARD</title></bibl><bibl xml:id="biblid82093"><title xml:id="idm139725301401728">AN MARI HINNE FILOSOFI</title></bibl><bibl xml:id="biblid82217"><title xml:id="idm139725301400944">ARBEJDERNES LÆSESELSKAB</title></bibl><bibl xml:id="biblid82411"><title xml:id="idm139725301400128">RØJTER-ANNERS OG HANS MUER</title></bibl><bibl xml:id="biblid82882"><title xml:id="idm139725301399312">STORE JON</title></bibl><bibl xml:id="biblid83137"><title xml:id="idm139725301398464">KILDEN</title></bibl><bibl xml:id="biblid83299"><title xml:id="idm139725301397616">AFTEN-GJØGEN</title></bibl><bibl xml:id="biblid83582"><title xml:id="idm139725301396816">VINTERBILLEDER</title></bibl><bibl xml:id="biblid83957"><title xml:id="idm139725301395968">Æ SPØGELS</title></bibl><bibl xml:id="biblid84549"><title xml:id="idm139725301395120">Æ MUESPIG</title></bibl><bibl xml:id="biblid84863"><title xml:id="idm139725301394224">HELLESØ</title></bibl><bibl xml:id="biblid85119"><title xml:id="idm139725301393376">DEN JYDSKE LYNG</title></bibl><bibl xml:id="biblid85466"><title xml:id="idm139725301392528">GLAD VISE</title></bibl><bibl xml:id="biblid85537"><title xml:id="idm139725301391680">AN MARI TRAJTER ØL</title></bibl><bibl xml:id="biblid86273"><title xml:id="idm139725301390816">JENS FISKER</title></bibl><bibl xml:id="biblid86568"><title xml:id="idm139725301389984">JENS VEJMAND</title></bibl><bibl xml:id="biblid86794"><title xml:id="idm139725301389200">JAKOB OG HANS SØNNER</title></bibl><bibl xml:id="biblid88392"><title xml:id="idm139725301388384">MAANEN KYSSER RUGNEGET</title></bibl><bibl xml:id="biblid88512"><title xml:id="idm139725301387600">BARNET OG DEN GAMLE GAARD</title></bibl><bibl xml:id="biblid88799"><title xml:id="idm139725301386752">BONDENS DATTER SYNGER</title></bibl><bibl xml:id="biblid89102"><title xml:id="idm139725301385968">GAMMEL KJÆRLIGHID</title></bibl><bibl xml:id="biblid89475"><title xml:id="idm139725301385168">EN KOGED HUMMER</title></bibl><bibl xml:id="biblid89528"><title xml:id="idm139725301384384">ØWER Æ ÆWN</title></bibl><bibl xml:id="biblid90139"><title xml:id="idm139725301383488">TRE-KONGER</title></bibl><bibl xml:id="biblid90420"><title xml:id="idm139725301382704">JENS HVØVTRUP</title></bibl><bibl xml:id="biblid91067"><title xml:id="idm139725301381840">KARLSVOGNEN</title></bibl><bibl xml:id="biblid91362"><title xml:id="idm139725301380944">PAA HEDENS HØJE</title></bibl><bibl xml:id="biblid92479"><title xml:id="idm139725301380144">FORSPIL</title></bibl><bibl xml:id="biblid92552"><title xml:id="idm139725301379296">RUGEN LÆGGES</title></bibl><bibl xml:id="biblid92693"><title xml:id="idm139725301378496">VINTERRUGEN</title></bibl><bibl xml:id="biblid92976"><title xml:id="idm139725301377648">STENSAMLERSKEN</title></bibl><bibl xml:id="biblid93174"><title xml:id="idm139725301376864">VED RUGSKJELLET</title></bibl><bibl xml:id="biblid93426"><title xml:id="idm139725301376080">JENS OG HANS VIV</title></bibl><bibl xml:id="biblid93668"><title xml:id="idm139725301375232">KORNMOD</title></bibl><bibl xml:id="biblid93829"><title xml:id="idm139725301374384">HØST</title></bibl><bibl xml:id="biblid93900"><title xml:id="idm139725301373600">LEEN SLIBES</title></bibl><bibl xml:id="biblid94053"><title xml:id="idm139725301372816">HØSTVISE</title></bibl><bibl xml:id="biblid94297"><title xml:id="idm139725301371968">HJØLE-THAMES</title></bibl><bibl xml:id="biblid94598"><title xml:id="idm139725301371120">RUGEN KJØRES HJEM</title></bibl><bibl xml:id="biblid95000"><title xml:id="idm139725301370256">NAAR RUGEN SKAL IND</title></bibl><bibl xml:id="biblid95421"><title xml:id="idm139725301369408">MORGENDUGG</title></bibl><bibl xml:id="biblid95618"><title xml:id="idm139725301368512">DEN FØRSTE LÆRKE</title></bibl><bibl xml:id="biblid95668"><title xml:id="idm139725301367648">BONDEVISE</title></bibl><bibl xml:id="biblid95842"><title xml:id="idm139725301366800">Æ GAMMEL SMED</title></bibl><bibl xml:id="biblid96270"><title xml:id="idm139725301366016">SUNDT BLOD</title></bibl><bibl xml:id="biblid96432"><title xml:id="idm139725301365232">VED VESTERHAVET</title></bibl><bibl xml:id="biblid96575"><title xml:id="idm139725301364336">JUL</title></bibl><bibl xml:id="biblid96730"><title xml:id="idm139725301363536">FRU JOHANNE RAMBUSCH</title></bibl><bibl xml:id="biblid96906"><title xml:id="idm139725301362752">DE UNGES FORENING</title></bibl><bibl xml:id="biblid97452"><title xml:id="idm139725301361856">HJEMME</title></bibl><bibl xml:id="biblid97686"><title xml:id="idm139725301361072">ROBERT BURNS</title></bibl><bibl xml:id="biblid97774"><title xml:id="idm139725301360240">PAA LOCHLEA</title></bibl><bibl xml:id="biblid97878"><title xml:id="idm139725301359456">I BURNS FØDEHJEM</title></bibl><bibl xml:id="biblid97956"><title xml:id="idm139725301358592">ENDNU ET BITTE NYK</title></bibl><bibl xml:id="biblid98197"><title xml:id="idm139725301357744">I DEN GULE LUPIN. MARKEDSVISE</title></bibl><bibl xml:id="biblid98353"><title xml:id="idm139725301356880">TELEGRAFEN PAA HEDEN</title></bibl><bibl xml:id="biblid98587"><title xml:id="idm139725301356096">JAGTAFLYSNING</title></bibl><bibl xml:id="biblid98808"><title xml:id="idm139725301355248">AN WOLLES DRENG</title></bibl><bibl xml:id="biblid99356"><title xml:id="idm139725301354400">DEN FATTIGES BLAD</title></bibl><bibl xml:id="biblid99758"><title xml:id="idm139725301353552">PÆ' SIVENSAK</title></bibl><bibl xml:id="biblid99906"><title xml:id="idm139725301352704">JEG GIK MIG UD</title></bibl><bibl xml:id="biblid100074"><title xml:id="idm139725301351856">BOSSEN</title></bibl><bibl xml:id="biblid100247"><title xml:id="idm139725301350960">KOMMER I SNART</title></bibl><bibl xml:id="biblid100442"><title xml:id="idm139725301350112">TYENDESANG</title></bibl><bibl xml:id="biblid100661"><title xml:id="idm139725301349328">Æ GAMMEL SNEJKER</title></bibl><bibl xml:id="biblid100909"><title xml:id="idm139725301348480">EN MINDESTEN. PAA MIN FØDEGAARDS MARK</title></bibl><bibl xml:id="biblid100954"><title xml:id="idm139725301347568">MAJSOL</title></bibl><bibl xml:id="biblid101101"><title xml:id="idm139725301346672">HØG OVER HØG</title></bibl><bibl xml:id="biblid101204"><title xml:id="idm139725301345872">HJEM FRÆ PLOWGILD</title></bibl><bibl xml:id="biblid102142"><title xml:id="idm139725301345008">BJÆRGMANDS-SNAK. VED EN MARKFEST PAA KAPHØJE 12. JULI 1908</title></bibl><bibl xml:id="biblid103066"><title xml:id="idm139725301344048">MAAGEN</title></bibl><bibl xml:id="biblid103139"><title xml:id="idm139725301343216">HØVL OG KNAST</title></bibl><bibl xml:id="biblid103240"><title xml:id="idm139725301342352">OLE STAM</title></bibl><bibl xml:id="biblid103472"><title xml:id="idm139725301341520">LOKESÆD</title></bibl><bibl xml:id="biblid103716"><title xml:id="idm139725301340624">LØWN. OG SAND</title></bibl><bibl xml:id="biblid104290"><title xml:id="idm139725301339760">MIN FØDEBY</title></bibl><bibl xml:id="biblid104646"><title xml:id="idm139725301338912">KVINDEVALGRET</title></bibl><bibl xml:id="biblid104856"><title xml:id="idm139725301338064">KO OG HJORT</title></bibl></listBibl></sourceDesc>
+        <bibl xml:id="idm139725301556544"><author n="1" xml:id="idm139725301555856"><name xml:id="idm139725301555600"><surname xml:id="idm139725301555472">Aakjær</surname>, 
+	      <forename xml:id="idm139725301555040">Jeppe</forename></name></author><title xml:id="idm139725301554784"> Digte 1885-1908. -
+	    1918</title><pubPlace xml:id="idm139725301554480">København</pubPlace>; 
+	    <pubPlace xml:id="idm139725301554016">Kristiania</pubPlace><publisher xml:id="idm139725301553552">Gyldendal</publisher><date xml:id="idm139725301553216">1918-19</date></bibl>
+        <listBibl xml:id="idm139725301552928">
+          <bibl xml:id="biblid55565">
+            <title xml:id="idm139725301539776">I NATTENS TIME</title>
+          </bibl>
+          <bibl xml:id="biblid55662">
+            <title xml:id="idm139725301538992">TORDEN</title>
+          </bibl>
+          <bibl xml:id="biblid55881">
+            <title xml:id="idm139725301538208">I EN PRÆKENBOG TIL MINE FORÆLDRE</title>
+          </bibl>
+          <bibl xml:id="biblid55993">
+            <title xml:id="idm139725301537376">HVAD GJØR DET</title>
+          </bibl>
+          <bibl xml:id="biblid56115">
+            <title xml:id="idm139725301536576">MEJERISTSANG</title>
+          </bibl>
+          <bibl xml:id="biblid56470">
+            <title xml:id="idm139725301535792">STRINDBERG</title>
+          </bibl>
+          <bibl xml:id="biblid56580">
+            <title xml:id="idm139725301534960">BONDE-GYMNASTIK</title>
+          </bibl>
+          <bibl xml:id="biblid56857">
+            <title xml:id="idm139725301534128">VI SAD ALENE -</title>
+          </bibl>
+          <bibl xml:id="biblid56939">
+            <title xml:id="idm139725301533344">ARBEJD</title>
+          </bibl>
+          <bibl xml:id="biblid56996">
+            <title xml:id="idm139725301532560">UNG</title>
+          </bibl>
+          <bibl xml:id="biblid57126">
+            <title xml:id="idm139725301531760">AA, SPIL DE TONER -</title>
+          </bibl>
+          <bibl xml:id="biblid57216">
+            <title xml:id="idm139725301530928">I RANDBØL DAL</title>
+          </bibl>
+          <bibl xml:id="biblid57355">
+            <title xml:id="idm139725301530128">FØDT I JULI MAANED -</title>
+          </bibl>
+          <bibl xml:id="biblid57479">
+            <title xml:id="idm139725301529264">DET 'LEVENDE' ORD</title>
+          </bibl>
+          <bibl xml:id="biblid57522">
+            <title xml:id="idm139725301528432">DU BLEGE KVINDE -</title>
+          </bibl>
+          <bibl xml:id="biblid57777">
+            <title xml:id="idm139725301527648">MIN VENINDES ØJNE</title>
+          </bibl>
+          <bibl xml:id="biblid57954">
+            <title xml:id="idm139725301526800">FØRSTE GANG</title>
+          </bibl>
+          <bibl xml:id="biblid58131">
+            <title xml:id="idm139725301525952">IFALD JEG KUNDE DANSE -</title>
+          </bibl>
+          <bibl xml:id="biblid58228">
+            <title xml:id="idm139725301525120">LAAN MIG TYVE DUKATER -</title>
+          </bibl>
+          <bibl xml:id="biblid58378">
+            <title xml:id="idm139725301524224">MINE HELTE</title>
+          </bibl>
+          <bibl xml:id="biblid58432">
+            <title xml:id="idm139725301523392">FØDSELSDAG</title>
+          </bibl>
+          <bibl xml:id="biblid58551">
+            <title xml:id="idm139725301522560">LIDEN MAJA</title>
+          </bibl>
+          <bibl xml:id="biblid58785">
+            <title xml:id="idm139725301521728">FRA LANDSBYEN</title>
+          </bibl>
+          <bibl xml:id="biblid59066">
+            <title xml:id="idm139725301520896">DØDSRAMT</title>
+          </bibl>
+          <bibl xml:id="biblid59167">
+            <title xml:id="idm139725301520112">HYLDEST-TELEGRAM</title>
+          </bibl>
+          <bibl xml:id="biblid59268">
+            <title xml:id="idm139725301519280">JEG GIK TIL VINDVET -</title>
+          </bibl>
+          <bibl xml:id="biblid59384">
+            <title xml:id="idm139725301518496">TIL MARIE</title>
+          </bibl>
+          <bibl xml:id="biblid59674">
+            <title xml:id="idm139725301517664">Nu har vi set paa Aarets</title>
+          </bibl>
+          <bibl xml:id="biblid59737">
+            <title xml:id="idm139725301516816">GRAVVERS</title>
+          </bibl>
+          <bibl xml:id="biblid59839">
+            <title xml:id="idm139725301515984">DER FLØJ EN LIDEN SOMMERFUGL</title>
+          </bibl>
+          <bibl xml:id="biblid60126">
+            <title xml:id="idm139725301515152">LYKØNSKNING</title>
+          </bibl>
+          <bibl xml:id="biblid60236">
+            <title xml:id="idm139725301514352">NAT</title>
+          </bibl>
+          <bibl xml:id="biblid60331">
+            <title xml:id="idm139725301513552">IFALD -</title>
+          </bibl>
+          <bibl xml:id="biblid60381">
+            <title xml:id="idm139725301512656">EN SYND</title>
+          </bibl>
+          <bibl xml:id="biblid60496">
+            <title xml:id="idm139725301511824">SAA FAGER FOR HUN -</title>
+          </bibl>
+          <bibl xml:id="biblid60618">
+            <title xml:id="idm139725301510992">VAAR</title>
+          </bibl>
+          <bibl xml:id="biblid60687">
+            <title xml:id="idm139725301510160">DU KJENDER IKKE ENGEN -</title>
+          </bibl>
+          <bibl xml:id="biblid60864">
+            <title xml:id="idm139725301509328">SALMETONE</title>
+          </bibl>
+          <bibl xml:id="biblid60955">
+            <title xml:id="idm139725301508496">BREV AFBRUDT</title>
+          </bibl>
+          <bibl xml:id="biblid61078">
+            <title xml:id="idm139725301507664">STRØMMEN DREV -</title>
+          </bibl>
+          <bibl xml:id="biblid61225">
+            <title xml:id="idm139725301506864">POLEMISK</title>
+          </bibl>
+          <bibl xml:id="biblid61278">
+            <title xml:id="idm139725301506032">FORPAGTER LARS</title>
+          </bibl>
+          <bibl xml:id="biblid61330">
+            <title xml:id="idm139725301505200">JEG KYSSER DINE KINDER -</title>
+          </bibl>
+          <bibl xml:id="biblid61387">
+            <title xml:id="idm139725301504352">DA MAN SKØD TROFAST</title>
+          </bibl>
+          <bibl xml:id="biblid61582">
+            <title xml:id="idm139725301503488">DEN GUD JEG BEDER TIL</title>
+          </bibl>
+          <bibl xml:id="biblid61858">
+            <title xml:id="idm139725301502656">I MØRKE</title>
+          </bibl>
+          <bibl xml:id="biblid61929">
+            <title xml:id="idm139725301501760">BONDESTUDENT</title>
+          </bibl>
+          <bibl xml:id="biblid62126">
+            <title xml:id="idm139725301500928">BRYLLUPSVISE</title>
+          </bibl>
+          <bibl xml:id="biblid62258">
+            <title xml:id="idm139725301500144">SVENDEMANDS VENNER. BØRNERIM</title>
+          </bibl>
+          <bibl xml:id="biblid62607">
+            <title xml:id="idm139725301616640">HOLGER DRACHMANN</title>
+          </bibl>
+          <bibl xml:id="biblid62793">
+            <title xml:id="idm139725301615856">SAA SIG MIG -</title>
+          </bibl>
+          <bibl xml:id="biblid62885">
+            <title xml:id="idm139725301615072">STUDENT-MAJ</title>
+          </bibl>
+          <bibl xml:id="biblid63096">
+            <title xml:id="idm139725301614288">JENS HURRA</title>
+          </bibl>
+          <bibl xml:id="biblid63564">
+            <title xml:id="idm139725301613504">DER GAAR SAA MEGET TIL SPILDE</title>
+          </bibl>
+          <bibl xml:id="biblid63714">
+            <title xml:id="idm139725301612752">JEG VAR SAA TRÆT -</title>
+          </bibl>
+          <bibl xml:id="biblid63818">
+            <title xml:id="idm139725301474144">HEDEVANDRING</title>
+          </bibl>
+          <bibl xml:id="biblid64128">
+            <title xml:id="idm139725301473360">RÆVEJAGT</title>
+          </bibl>
+          <bibl xml:id="biblid64385">
+            <title xml:id="idm139725301472576">SAGN</title>
+          </bibl>
+          <bibl xml:id="biblid64654">
+            <title xml:id="idm139725301471792">BILEAM OG HANS ÆSEL</title>
+          </bibl>
+          <bibl xml:id="biblid65146">
+            <title xml:id="idm139725301466848">MILDE ØJNE</title>
+          </bibl>
+          <bibl xml:id="biblid65249">
+            <title xml:id="idm139725301466160">VINDENES VISE</title>
+          </bibl>
+          <bibl xml:id="biblid65373">
+            <title xml:id="idm139725301465472">POLITISK UENIGHED</title>
+          </bibl>
+          <bibl xml:id="biblid65613">
+            <title xml:id="idm139725301464784">SALLING. EN SKJÆMTEVISE</title>
+          </bibl>
+          <bibl xml:id="biblid66011">
+            <title xml:id="idm139725301464032">MEJERIST-VISE</title>
+          </bibl>
+          <bibl xml:id="biblid66198">
+            <title xml:id="idm139725301463280">OM ZEUS STEG NED -</title>
+          </bibl>
+          <bibl xml:id="biblid66318">
+            <title xml:id="idm139725301462592">TROSSKIFTE</title>
+          </bibl>
+          <bibl xml:id="biblid66443">
+            <title xml:id="idm139725301461904">DEN SYGE YNGLING</title>
+          </bibl>
+          <bibl xml:id="biblid66621">
+            <title xml:id="idm139725301461216">HERKULES</title>
+          </bibl>
+          <bibl xml:id="biblid66720">
+            <title xml:id="idm139725301460496">DA DE DØMTE ZOLA</title>
+          </bibl>
+          <bibl xml:id="biblid66896">
+            <title xml:id="idm139725301459600">BEDST I DANMARK</title>
+          </bibl>
+          <bibl xml:id="biblid67136">
+            <title xml:id="idm139725301458816">SMEDEN OG MISSIONÆREN</title>
+          </bibl>
+          <bibl xml:id="biblid67328">
+            <title xml:id="idm139725301458000">DET BANKED PAA MIN RUDE -</title>
+          </bibl>
+          <bibl xml:id="biblid67494">
+            <title xml:id="idm139725301457248">KLOKKEREN</title>
+          </bibl>
+          <bibl xml:id="biblid67561">
+            <title xml:id="idm139725301456464">TRE TROLDE</title>
+          </bibl>
+          <bibl xml:id="biblid67628">
+            <title xml:id="idm139725301455680">BRUDESLOT</title>
+          </bibl>
+          <bibl xml:id="biblid67776">
+            <title xml:id="idm139725301454896">VAAR-RIM</title>
+          </bibl>
+          <bibl xml:id="biblid67890">
+            <title xml:id="idm139725301454112">REGNVEJRSSTEMNING</title>
+          </bibl>
+          <bibl xml:id="biblid68000">
+            <title xml:id="idm139725301453328">MEDLIDENHED</title>
+          </bibl>
+          <bibl xml:id="biblid68170">
+            <title xml:id="idm139725301452544">GAA I SKOVEN</title>
+          </bibl>
+          <bibl xml:id="biblid68321">
+            <title xml:id="idm139725301451760">HØGEN</title>
+          </bibl>
+          <bibl xml:id="biblid68418">
+            <title xml:id="idm139725301450976">KLOKKEN</title>
+          </bibl>
+          <bibl xml:id="biblid68505">
+            <title xml:id="idm139725301450192">KJESTEN</title>
+          </bibl>
+          <bibl xml:id="biblid68670">
+            <title xml:id="idm139725301449408">SAADAN GAAR DET</title>
+          </bibl>
+          <bibl xml:id="biblid68898">
+            <title xml:id="idm139725301448624">AFTENSTÆVNE</title>
+          </bibl>
+          <bibl xml:id="biblid68983">
+            <title xml:id="idm139725301447808">SKUESPILLERINDEN PAA HEDEN</title>
+          </bibl>
+          <bibl xml:id="biblid69119">
+            <title xml:id="idm139725301447056">OLE</title>
+          </bibl>
+          <bibl xml:id="biblid69240">
+            <title xml:id="idm139725301446240">KOM MI BETTE KIPKAL</title>
+          </bibl>
+          <bibl xml:id="biblid69452">
+            <title xml:id="idm139725301445456">MADS TAMMESES MAREN</title>
+          </bibl>
+          <bibl xml:id="biblid69657">
+            <title xml:id="idm139725301444608">PER SØWREN</title>
+          </bibl>
+          <bibl xml:id="biblid70078">
+            <title xml:id="idm139725301443824">DEN GAANG TE A WAR GYWTMED LAVS</title>
+          </bibl>
+          <bibl xml:id="biblid70268">
+            <title xml:id="idm139725301443072">JØRGEN VED BÆKKEN</title>
+          </bibl>
+          <bibl xml:id="biblid70868">
+            <title xml:id="idm139725301442320">PINSEVISE</title>
+          </bibl>
+          <bibl xml:id="biblid71007">
+            <title xml:id="idm139725301441536">NATMANDSVISE</title>
+          </bibl>
+          <bibl xml:id="biblid71364">
+            <title xml:id="idm139725301440752">KA DREBÆK</title>
+          </bibl>
+          <bibl xml:id="biblid71647">
+            <title xml:id="idm139725301439904">PAA MUNKEBJÆRG</title>
+          </bibl>
+          <bibl xml:id="biblid71828">
+            <title xml:id="idm139725301439056">DEN REVOLUTIONÆRE STUDENT</title>
+          </bibl>
+          <bibl xml:id="biblid72180">
+            <title xml:id="idm139725301438176">ANNA. FRIT EFTER BURNS</title>
+          </bibl>
+          <bibl xml:id="biblid72332">
+            <title xml:id="idm139725301437392">SOPHUS SCHANDORPH</title>
+          </bibl>
+          <bibl xml:id="biblid72584">
+            <title xml:id="idm139725301436544">VALGSANG</title>
+          </bibl>
+          <bibl xml:id="biblid72872">
+            <title xml:id="idm139725301435760">MED ET BIND DIGTE</title>
+          </bibl>
+          <bibl xml:id="biblid72924">
+            <title xml:id="idm139725301434976">FORAAR I ROSKILDE</title>
+          </bibl>
+          <bibl xml:id="biblid73155">
+            <title xml:id="idm139725301434128">JYLLAND</title>
+          </bibl>
+          <bibl xml:id="biblid73564">
+            <title xml:id="idm139725301433344">KARUP AA</title>
+          </bibl>
+          <bibl xml:id="biblid73970">
+            <title xml:id="idm139725301432560">HEDELANDET</title>
+          </bibl>
+          <bibl xml:id="biblid74335">
+            <title xml:id="idm139725301431712">EN FABEL</title>
+          </bibl>
+          <bibl xml:id="biblid74605">
+            <title xml:id="idm139725301430864">MIN HJEMMEN</title>
+          </bibl>
+          <bibl xml:id="biblid74808">
+            <title xml:id="idm139725301430080">JULEBREV TIL HJEMMET</title>
+          </bibl>
+          <bibl xml:id="biblid74979">
+            <title xml:id="idm139725301429296">JACOB HEGEL</title>
+          </bibl>
+          <bibl xml:id="biblid75197">
+            <title xml:id="idm139725301428512">VIGGO HØRUP</title>
+          </bibl>
+          <bibl xml:id="biblid75457">
+            <title xml:id="idm139725301427712">FREDERIKSBERG</title>
+          </bibl>
+          <bibl xml:id="biblid75684">
+            <title xml:id="idm139725301426928">GRUNDLOVSSANG TIL FJAND - BOERNE</title>
+          </bibl>
+          <bibl xml:id="biblid75985">
+            <title xml:id="idm139725301426064">PRESSEN</title>
+          </bibl>
+          <bibl xml:id="biblid76252">
+            <title xml:id="idm139725301425280">SØREN OLESEN</title>
+          </bibl>
+          <bibl xml:id="biblid76476">
+            <title xml:id="idm139725301424480">JENN HJEMM</title>
+          </bibl>
+          <bibl xml:id="biblid76937">
+            <title xml:id="idm139725301423632">MI NANNE, JA</title>
+          </bibl>
+          <bibl xml:id="biblid77192">
+            <title xml:id="idm139725301422848">ARBEJDERSANG</title>
+          </bibl>
+          <bibl xml:id="biblid77493">
+            <title xml:id="idm139725301422064">VENSTREVISE</title>
+          </bibl>
+          <bibl xml:id="biblid77677">
+            <title xml:id="idm139725301421216">BJØRNSTJERNE BJØRNSON</title>
+          </bibl>
+          <bibl xml:id="biblid77870">
+            <title xml:id="idm139725301420336">JULEAFTEN</title>
+          </bibl>
+          <bibl xml:id="biblid78259">
+            <title xml:id="idm139725301419552">ARBEJDERSØLVBRYLLUP</title>
+          </bibl>
+          <bibl xml:id="biblid78457">
+            <title xml:id="idm139725301418624">DU OG JEG</title>
+          </bibl>
+          <bibl xml:id="biblid78545">
+            <title xml:id="idm139725301417840">MED EN CYKLE TIL MIN KJÆRESTE</title>
+          </bibl>
+          <bibl xml:id="biblid78762">
+            <title xml:id="idm139725301416960">PROLETAR-BORGMESTEREN</title>
+          </bibl>
+          <bibl xml:id="biblid79042">
+            <title xml:id="idm139725301416064">PAA Æ STUR HYW</title>
+          </bibl>
+          <bibl xml:id="biblid79113">
+            <title xml:id="idm139725301415152">EVALD TANG KRISTENSEN</title>
+          </bibl>
+          <bibl xml:id="biblid79310">
+            <title xml:id="idm139725301414368">DE SYGE TYPOGRAFER</title>
+          </bibl>
+          <bibl xml:id="biblid79546">
+            <title xml:id="idm139725301413520">STUDENTERSAMFUNDETS RUSKANTATE EFTERAARS-VISE</title>
+          </bibl>
+          <bibl xml:id="biblid79558">
+            <title xml:id="idm139725301412704">Gjøgen galed i Danmarks Lund</title>
+          </bibl>
+          <bibl xml:id="biblid79666">
+            <title xml:id="idm139725301411808">RECITATIV:</title>
+          </bibl>
+          <bibl xml:id="biblid79810">
+            <title xml:id="idm139725301411024">RUSSEN SER LOKALERNE</title>
+          </bibl>
+          <bibl xml:id="biblid80331">
+            <title xml:id="idm139725301410128">PALLAS ATHENE FRA SALENS BAGGRUND</title>
+          </bibl>
+          <bibl xml:id="biblid80415">
+            <title xml:id="idm139725301409328">LIDT PASSIAR MED RUSSEN</title>
+          </bibl>
+          <bibl xml:id="biblid80602">
+            <title xml:id="idm139725301408480">SILENTIUM</title>
+          </bibl>
+          <bibl xml:id="biblid80859">
+            <title xml:id="idm139725301407696">FRÆ DEN JEN JEPP AA TE DENAAN. VED ANTIKWARBOGHANDLER JEPP POULSENS 25-ORS JUBILÆUM</title>
+          </bibl>
+          <bibl xml:id="biblid80952">
+            <title xml:id="idm139725301406704">HUSMANDSBRYLLUP</title>
+          </bibl>
+          <bibl xml:id="biblid81152">
+            <title xml:id="idm139725301405808">SE DIG UD</title>
+          </bibl>
+          <bibl xml:id="biblid81352">
+            <title xml:id="idm139725301404960">HEDENS DEGN</title>
+          </bibl>
+          <bibl xml:id="biblid81585">
+            <title xml:id="idm139725301404176">MAJSANG</title>
+          </bibl>
+          <bibl xml:id="biblid81713">
+            <title xml:id="idm139725301403392">FOR VI TRÆDER HVERANDRE -</title>
+          </bibl>
+          <bibl xml:id="biblid81860">
+            <title xml:id="idm139725301402512">OLE NYGAARD</title>
+          </bibl>
+          <bibl xml:id="biblid82093">
+            <title xml:id="idm139725301401728">AN MARI HINNE FILOSOFI</title>
+          </bibl>
+          <bibl xml:id="biblid82217">
+            <title xml:id="idm139725301400944">ARBEJDERNES LÆSESELSKAB</title>
+          </bibl>
+          <bibl xml:id="biblid82411">
+            <title xml:id="idm139725301400128">RØJTER-ANNERS OG HANS MUER</title>
+          </bibl>
+          <bibl xml:id="biblid82882">
+            <title xml:id="idm139725301399312">STORE JON</title>
+          </bibl>
+          <bibl xml:id="biblid83137">
+            <title xml:id="idm139725301398464">KILDEN</title>
+          </bibl>
+          <bibl xml:id="biblid83299">
+            <title xml:id="idm139725301397616">AFTEN-GJØGEN</title>
+          </bibl>
+          <bibl xml:id="biblid83582">
+            <title xml:id="idm139725301396816">VINTERBILLEDER</title>
+          </bibl>
+          <bibl xml:id="biblid83957">
+            <title xml:id="idm139725301395968">Æ SPØGELS</title>
+          </bibl>
+          <bibl xml:id="biblid84549">
+            <title xml:id="idm139725301395120">Æ MUESPIG</title>
+          </bibl>
+          <bibl xml:id="biblid84863">
+            <title xml:id="idm139725301394224">HELLESØ</title>
+          </bibl>
+          <bibl xml:id="biblid85119">
+            <title xml:id="idm139725301393376">DEN JYDSKE LYNG</title>
+          </bibl>
+          <bibl xml:id="biblid85466">
+            <title xml:id="idm139725301392528">GLAD VISE</title>
+          </bibl>
+          <bibl xml:id="biblid85537">
+            <title xml:id="idm139725301391680">AN MARI TRAJTER ØL</title>
+          </bibl>
+          <bibl xml:id="biblid86273">
+            <title xml:id="idm139725301390816">JENS FISKER</title>
+          </bibl>
+          <bibl xml:id="biblid86568">
+            <title xml:id="idm139725301389984">JENS VEJMAND</title>
+          </bibl>
+          <bibl xml:id="biblid86794">
+            <title xml:id="idm139725301389200">JAKOB OG HANS SØNNER</title>
+          </bibl>
+          <bibl xml:id="biblid88392">
+            <title xml:id="idm139725301388384">MAANEN KYSSER RUGNEGET</title>
+          </bibl>
+          <bibl xml:id="biblid88512">
+            <title xml:id="idm139725301387600">BARNET OG DEN GAMLE GAARD</title>
+          </bibl>
+          <bibl xml:id="biblid88799">
+            <title xml:id="idm139725301386752">BONDENS DATTER SYNGER</title>
+          </bibl>
+          <bibl xml:id="biblid89102">
+            <title xml:id="idm139725301385968">GAMMEL KJÆRLIGHID</title>
+          </bibl>
+          <bibl xml:id="biblid89475">
+            <title xml:id="idm139725301385168">EN KOGED HUMMER</title>
+          </bibl>
+          <bibl xml:id="biblid89528">
+            <title xml:id="idm139725301384384">ØWER Æ ÆWN</title>
+          </bibl>
+          <bibl xml:id="biblid90139">
+            <title xml:id="idm139725301383488">TRE-KONGER</title>
+          </bibl>
+          <bibl xml:id="biblid90420">
+            <title xml:id="idm139725301382704">JENS HVØVTRUP</title>
+          </bibl>
+          <bibl xml:id="biblid91067">
+            <title xml:id="idm139725301381840">KARLSVOGNEN</title>
+          </bibl>
+          <bibl xml:id="biblid91362">
+            <title xml:id="idm139725301380944">PAA HEDENS HØJE</title>
+          </bibl>
+          <bibl xml:id="biblid92479">
+            <title xml:id="idm139725301380144">FORSPIL</title>
+          </bibl>
+          <bibl xml:id="biblid92552">
+            <title xml:id="idm139725301379296">RUGEN LÆGGES</title>
+          </bibl>
+          <bibl xml:id="biblid92693">
+            <title xml:id="idm139725301378496">VINTERRUGEN</title>
+          </bibl>
+          <bibl xml:id="biblid92976">
+            <title xml:id="idm139725301377648">STENSAMLERSKEN</title>
+          </bibl>
+          <bibl xml:id="biblid93174">
+            <title xml:id="idm139725301376864">VED RUGSKJELLET</title>
+          </bibl>
+          <bibl xml:id="biblid93426">
+            <title xml:id="idm139725301376080">JENS OG HANS VIV</title>
+          </bibl>
+          <bibl xml:id="biblid93668">
+            <title xml:id="idm139725301375232">KORNMOD</title>
+          </bibl>
+          <bibl xml:id="biblid93829">
+            <title xml:id="idm139725301374384">HØST</title>
+          </bibl>
+          <bibl xml:id="biblid93900">
+            <title xml:id="idm139725301373600">LEEN SLIBES</title>
+          </bibl>
+          <bibl xml:id="biblid94053">
+            <title xml:id="idm139725301372816">HØSTVISE</title>
+          </bibl>
+          <bibl xml:id="biblid94297">
+            <title xml:id="idm139725301371968">HJØLE-THAMES</title>
+          </bibl>
+          <bibl xml:id="biblid94598">
+            <title xml:id="idm139725301371120">RUGEN KJØRES HJEM</title>
+          </bibl>
+          <bibl xml:id="biblid95000">
+            <title xml:id="idm139725301370256">NAAR RUGEN SKAL IND</title>
+          </bibl>
+          <bibl xml:id="biblid95421">
+            <title xml:id="idm139725301369408">MORGENDUGG</title>
+          </bibl>
+          <bibl xml:id="biblid95618">
+            <title xml:id="idm139725301368512">DEN FØRSTE LÆRKE</title>
+          </bibl>
+          <bibl xml:id="biblid95668">
+            <title xml:id="idm139725301367648">BONDEVISE</title>
+          </bibl>
+          <bibl xml:id="biblid95842">
+            <title xml:id="idm139725301366800">Æ GAMMEL SMED</title>
+          </bibl>
+          <bibl xml:id="biblid96270">
+            <title xml:id="idm139725301366016">SUNDT BLOD</title>
+          </bibl>
+          <bibl xml:id="biblid96432">
+            <title xml:id="idm139725301365232">VED VESTERHAVET</title>
+          </bibl>
+          <bibl xml:id="biblid96575">
+            <title xml:id="idm139725301364336">JUL</title>
+          </bibl>
+          <bibl xml:id="biblid96730">
+            <title xml:id="idm139725301363536">FRU JOHANNE RAMBUSCH</title>
+          </bibl>
+          <bibl xml:id="biblid96906">
+            <title xml:id="idm139725301362752">DE UNGES FORENING</title>
+          </bibl>
+          <bibl xml:id="biblid97452">
+            <title xml:id="idm139725301361856">HJEMME</title>
+          </bibl>
+          <bibl xml:id="biblid97686">
+            <title xml:id="idm139725301361072">ROBERT BURNS</title>
+          </bibl>
+          <bibl xml:id="biblid97774">
+            <title xml:id="idm139725301360240">PAA LOCHLEA</title>
+          </bibl>
+          <bibl xml:id="biblid97878">
+            <title xml:id="idm139725301359456">I BURNS FØDEHJEM</title>
+          </bibl>
+          <bibl xml:id="biblid97956">
+            <title xml:id="idm139725301358592">ENDNU ET BITTE NYK</title>
+          </bibl>
+          <bibl xml:id="biblid98197">
+            <title xml:id="idm139725301357744">I DEN GULE LUPIN. MARKEDSVISE</title>
+          </bibl>
+          <bibl xml:id="biblid98353">
+            <title xml:id="idm139725301356880">TELEGRAFEN PAA HEDEN</title>
+          </bibl>
+          <bibl xml:id="biblid98587">
+            <title xml:id="idm139725301356096">JAGTAFLYSNING</title>
+          </bibl>
+          <bibl xml:id="biblid98808">
+            <title xml:id="idm139725301355248">AN WOLLES DRENG</title>
+          </bibl>
+          <bibl xml:id="biblid99356">
+            <title xml:id="idm139725301354400">DEN FATTIGES BLAD</title>
+          </bibl>
+          <bibl xml:id="biblid99758">
+            <title xml:id="idm139725301353552">PÆ' SIVENSAK</title>
+          </bibl>
+          <bibl xml:id="biblid99906">
+            <title xml:id="idm139725301352704">JEG GIK MIG UD</title>
+          </bibl>
+          <bibl xml:id="biblid100074">
+            <title xml:id="idm139725301351856">BOSSEN</title>
+          </bibl>
+          <bibl xml:id="biblid100247">
+            <title xml:id="idm139725301350960">KOMMER I SNART</title>
+          </bibl>
+          <bibl xml:id="biblid100442">
+            <title xml:id="idm139725301350112">TYENDESANG</title>
+          </bibl>
+          <bibl xml:id="biblid100661">
+            <title xml:id="idm139725301349328">Æ GAMMEL SNEJKER</title>
+          </bibl>
+          <bibl xml:id="biblid100909">
+            <title xml:id="idm139725301348480">EN MINDESTEN. PAA MIN FØDEGAARDS MARK</title>
+          </bibl>
+          <bibl xml:id="biblid100954">
+            <title xml:id="idm139725301347568">MAJSOL</title>
+          </bibl>
+          <bibl xml:id="biblid101101">
+            <title xml:id="idm139725301346672">HØG OVER HØG</title>
+          </bibl>
+          <bibl xml:id="biblid101204">
+            <title xml:id="idm139725301345872">HJEM FRÆ PLOWGILD</title>
+          </bibl>
+          <bibl xml:id="biblid102142">
+            <title xml:id="idm139725301345008">BJÆRGMANDS-SNAK. VED EN MARKFEST PAA KAPHØJE 12. JULI 1908</title>
+          </bibl>
+          <bibl xml:id="biblid103066">
+            <title xml:id="idm139725301344048">MAAGEN</title>
+          </bibl>
+          <bibl xml:id="biblid103139">
+            <title xml:id="idm139725301343216">HØVL OG KNAST</title>
+          </bibl>
+          <bibl xml:id="biblid103240">
+            <title xml:id="idm139725301342352">OLE STAM</title>
+          </bibl>
+          <bibl xml:id="biblid103472">
+            <title xml:id="idm139725301341520">LOKESÆD</title>
+          </bibl>
+          <bibl xml:id="biblid103716">
+            <title xml:id="idm139725301340624">LØWN. OG SAND</title>
+          </bibl>
+          <bibl xml:id="biblid104290">
+            <title xml:id="idm139725301339760">MIN FØDEBY</title>
+          </bibl>
+          <bibl xml:id="biblid104646">
+            <title xml:id="idm139725301338912">KVINDEVALGRET</title>
+          </bibl>
+          <bibl xml:id="biblid104856">
+            <title xml:id="idm139725301338064">KO OG HJORT</title>
+          </bibl>
+        </listBibl>
+      </sourceDesc>
     </fileDesc>
   </teiHeader>
   <text xml:id="idm139725301337424">
     <front xml:id="idm139725301337120">
       <pb n="a" xml:id="sa" facs="adl/aakjaer/aakjaer1/aakjfm1001"/>
       <gap reason="cancelled" xml:id="idm139725301335552"/>
-<!---->
-<!---->
-<!--JEPPE AAKJÆR SAMLEDE VÆRKER I-->
       <pb n="b" xml:id="sb" facs="adl/aakjaer/aakjaer1/aakjfm1002"/>
       <titlePage xml:id="idm139725301332880">
         <titlePart type="main" xml:id="idm139725301332624">
@@ -7017,8 +7646,8 @@ Ord imod de andres</l>
             <l xml:id="idm139725298575728">og æ Skyg den gjenner,</l>
             <l xml:id="idm139725298575280">og æ Kokk de gaaler saa glaad;</l>
             <l xml:id="idm139725298574816">æ Plejl den pikker,</l>
-	    <l xml:id="idm139725298574400">og æ Klokk den dikker,</l>
-	    <l>og æ Ugl - hun sejjer o æ Laad.</l>
+            <l xml:id="idm139725298574400">og æ Klokk den dikker,</l>
+            <l xml:id="id7056c675-9598-4757-b938-1c8137ffa9e6">og æ Ugl - hun sejjer o æ Laad.</l>
             <l xml:id="idm139725298573888">Men a ska
                            <hi rend="italics" xml:id="idm139725298573584">wal</hi>
 hold mæ i Rumm,</l>
@@ -15510,8 +16139,8 @@ Ryg,</l>
             <l xml:id="idm139725295205968">den gled som Drøm om min Barneseng</l>
             <l xml:id="idm139725295205504">med blød og klukkende Stemme,</l>
             <l xml:id="idm139725295205040">den favner varligt en lille By,</l>
-	    <l xml:id="idm139725295204608">hvor Kavlingblomsten er altid ny,</l>
-	    <l>og Aa og Kjær</l>
+            <l xml:id="idm139725295204608">hvor Kavlingblomsten er altid ny,</l>
+            <l xml:id="id0e5e3b95-3ff7-4dc5-abd6-499e418e560b">og Aa og Kjær</l>
             <l xml:id="idm139725295204112">og Byen her</l>
             <l xml:id="idm139725295203696">det kaldes under ét for Aakjær.</l>
           </lg>

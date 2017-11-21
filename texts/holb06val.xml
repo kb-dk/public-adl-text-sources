@@ -1,17 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!-- valideret HHL 9.11.2001
-     flyttet til server 9.nov 2001
-20021017 HHL fjernet bindestreger ved sideslut     
-Ptj rettet s. 351-365-
-
-20090825 JAMO rettet ocr-fejl s. 167
-     -->
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="idm140013644631088">
-  <!-- 
-       file     ./marc_dir/001629300.xml
-       field    248 
-       subfield g 
-       prefix   3-7-->
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="root">
   <teiHeader xml:id="idm140013644630208">
     <fileDesc xml:id="idm140013644629952">
       <titleStmt xml:id="idm140013644604464">
@@ -137,7 +125,6 @@ Ptj rettet s. 351-365-
         </list>
       </div>
     </front>
-    <!--<pb n="6" facs="holb6006" id="s6"/>-->
     <pb n="7" facs="adl/holberg/holberg7/maniptif1bitudenill/holb6007" xml:id="s7"/>
     <group xml:id="idm140013644524064">
       <text xml:id="workid54649" decls="#biblid54649">
@@ -145,7 +132,6 @@ Ptj rettet s. 351-365-
           <head xml:id="idm140013644522688">DEN PANTSATTE BONDEDRENG<lb xml:id="idm140013644522432"/>
       <hi rend="italics" xml:id="idm140013644522176">Comoedie udi tre Acter</hi>
      </head>
-          <!--bind 6, side 7-51-->
           <pb n="8" facs="adl/holberg/holberg7/maniptif1bitudenill/holb6008" xml:id="s8"/>
           <div type="castList" xml:id="idm140013644519904">
             <head xml:id="idm140013644519408">
@@ -516,15 +502,6 @@ Ptj rettet s. 351-365-
               </sp>
             </div>
             <pb n="15" facs="adl/holberg/holberg7/maniptif1bitudenill/holb6015" xml:id="s15"/>
-            <!-- 
-	    <figure>
-	     <figDesc>
-	      <hi rend="italics">PERNILLE. .. Ney see den Bonde-Dreng,
-	      hvor han staaer og gaber. Han maa vist ikke have været i
-	      Kiøbsted tilforen.</hi>
-	     </figDesc>
-            </figure> 
-	    -->
             <pb n="16" facs="adl/holberg/holberg7/maniptif1bitudenill/holb6016" xml:id="s16"/>
             <div type="scene" xml:id="idm140013644397056">
               <head xml:id="idm140013644396560">SCEN. 3</head>
@@ -623,13 +600,6 @@ Ptj rettet s. 351-365-
                 <p xml:id="idm140013644366224"> Ikke saa meget. Men god Herre! bliv ikke vred at jeg giør saa mange Spørsmaal. Hvor af
 		leve disse mange Folk her i Byen? thi jeg seer hverken Ager eller Eng, hverken Heste eller
 		Stude, ikke et Sviin engang. </p>
-                <!--
-		<figure>
-		 <figDesc>
-		  <hi rend="italics">LEERBEUTEL. ... Hvad heder du da?</hi>
-	 	 </figDesc>
-		</figure>
-		-->
                 <stage type="mix" xml:id="idm140013644364848">BONDEN. ... Jeg kand mare ikke komme det ihu. Lad see ... Tøv lidt, min Moer veed det
          nok.</stage>
               </sp>
@@ -1014,15 +984,7 @@ Ptj rettet s. 351-365-
               <sp xml:id="idm140013644244128">
                 <speaker xml:id="idm140013644243872">VERTEN.</speaker>
                 <p xml:id="idm140013644243456"> Gud bedre mig, Velædle Hr. Hoffmester! jeg 
-		<!--
-		<figure>
-		<figDesc>
-		<hi rend="italics">Paltz-Greven i en Portechaise
-		... Verten er meget geskieftig, og med Huen i
-		Haanden hielper ham ud af Portechaisen.</hi>
-		</figDesc>
-		</figure>
-		-->
+		
 		<pb n="24" facs="adl/holberg/holberg7/maniptif1bitudenill/holb6024" xml:id="s24"/> er bange, at det er ikke alt udi
 		Huuset, som det bør at være; havde jeg lidt forud
 		faaet hans Naades Ankomst at vide, skulde det have
@@ -1263,13 +1225,6 @@ Ptj rettet s. 351-365-
               <sp xml:id="idm140013644168768">
                 <speaker xml:id="idm140013644168512">MAD. STAABI.</speaker>
                 <p xml:id="idm140013644168096"> Det skal skee. </p>
-                <!--
-		<figure>
-		<figDesc>
-		<hi rend="italics">MAD. STAABI. ...Her har jeg en Guld Dose med et rart Portrait.</hi>
-		</figDesc>
-		</figure>
-		-->
               </sp>
               <sp xml:id="idm140013644167104">
                 <speaker xml:id="idm140013644166848">LEERBEUTEL.</speaker>
@@ -1656,16 +1611,7 @@ Ptj rettet s. 351-365-
                 <speaker xml:id="idm140013644044416">LEERBEUTEL.</speaker>
                 <p xml:id="idm140013644044000"> Paltz-Greven, I gode Herrer, er ikke vant til Draaber. Han bruger aldrig uden Decoctum,
 		hvor af <pb n="35" facs="adl/holberg/holberg7/maniptif1bitudenill/holb6035" xml:id="s35"/>
-		<!-- 
-		<figure>
-		<figDesc>
-		<hi rend="italics">LEERBEUTEL. ... Paltz-Grevcn har en
-		forskrekkelig slet Mave, og beder ydmygst om
-		Forladelse, at han i deres Presence bruger sin
-		Commoditet.</hi>
-		</figDesc>
-		</figure>
-		-->
+		
 		tages store Portioner. Han har menet, at det var Decoctum. 1. RAADS HERRE. Ney Eders
 		Paltz-Grevelige Naade! det var ikke Decoctum. Man tar kun 10 Draaber heraf hver gang. </p>
               </sp>
@@ -1776,15 +1722,6 @@ Ptj rettet s. 351-365-
               </sp>
             </div>
           </div>
-          <!-- 
-	  <figure>
-	  <figDesc>
-	  <hi rend="italics">Paltz-Greven vil gaae først ind, men
-	  Leerbeutel holder ham tilbage udi Kiolen, og nødcr de andre
-	  at gaae først.</hi>
-	  </figDesc>
-	  </figure>
-	  -->
           <pb n="38" facs="adl/holberg/holberg7/maniptif1bitudenill/holb6038" xml:id="s38"/>
           <div type="akt" xml:id="idm140013644005792">
             <head xml:id="idm140013644005296">ACTUS III</head>
@@ -1964,11 +1901,6 @@ Ptj rettet s. 351-365-
               </sp>
             </div>
             <pb n="41" facs="adl/holberg/holberg7/maniptif1bitudenill/holb6041" xml:id="s41"/>
-            <!--
-	    <figure>
-	    <figDesc><hi rend="italics">VERTEN. ... Ha ha ha! det lettede for Hiertet. Jeg seer han ligger endnu.</hi></figDesc>
-	    </figure> 
-	    -->
             <pb n="42" facs="adl/holberg/holberg7/maniptif1bitudenill/holb6042" xml:id="s42"/>
             <div type="scene" xml:id="idm140013643944192">
               <head xml:id="idm140013643943696">SCEN. 4</head>
@@ -2302,13 +2234,6 @@ Ptj rettet s. 351-365-
                 <speaker xml:id="idm140013643836752">FADEREN.</speaker>
                 <p xml:id="idm140013643836336"> Græd ikke, mit Barn, for Tiden. Vi vil leede efter ham i den nye Avelsgaard. Maaskee han
          er kommen der hen. </p>
-                <!--
-		    <figure>
-		    <figDesc><hi rend="italics">FADEREN. ... Men hvad mon dette er for Allarm ? Man seer ikke andet 
-		    end det som ont er i Kiøbsteder. Her trækker man af med en Synder.</hi>
-		    </figDesc>
-		    </figure>
-		-->
               </sp>
               <pb n="47" facs="adl/holberg/holberg7/maniptif1bitudenill/holb6047" xml:id="s47"/>
               <sp xml:id="idm140013643829856">
@@ -2519,13 +2444,11 @@ Ptj rettet s. 351-365-
       </text>
       <pb n="52" facs="adl/holberg/holberg7/maniptif1bitudenill/holb6052" xml:id="s52"/>
       <pb n="53" facs="adl/holberg/holberg7/maniptif1bitudenill/holb6053" xml:id="s53"/>
-      <!--<slut  Pantsatte> -->
       <text xml:id="workid61608" decls="#biblid61608">
         <body xml:id="idm140013643691696">
           <head xml:id="idm140013643691440">DET LYKKELIGE SKIBBRUD<lb xml:id="idm140013643691152"/>
       <hi rend="italics" xml:id="idm140013643690896">Comoedie udi fem Acter</hi>
      </head>
-          <!--bind 6, side  53 - -->
           <pb n="54" facs="adl/holberg/holberg7/maniptif1bitudenill/holb6054" xml:id="s54"/>
           <div type="castList" xml:id="idm140013643688576">
             <head xml:id="idm140013643688080">
@@ -3236,11 +3159,6 @@ Ptj rettet s. 351-365-
          længe, og ladet see stor Troskab. </p>
               </sp>
               <pb n="68" facs="adl/holberg/holberg7/maniptif1bitudenill/holb6068" xml:id="s68"/>
-              <!-- <figure>
-<figDesc>
-<hi rend="italics">. ... Den vingede Gud Cupido har indskudt hende en skadelig Kierlighed, som har varet indtil nu, da endelig den udi Svane-Vogn agende Gudinde, jeg meener Venus, har befalet at læge Saaret igien, saa at hun er kommen til sig selv.</hi>
-</figDesc>
-</figure> -->
               <sp xml:id="idm140013643449088">
                 <speaker xml:id="idm140013643448832">ROSIFLENG.</speaker>
                 <p xml:id="idm140013643447952"> Hør, lille Pige! komme de Raptus tit over jer? </p>
@@ -4054,11 +3972,6 @@ Ptj rettet s. 351-365-
             </div>
           </div>
           <pb n="84" facs="adl/holberg/holberg7/maniptif1bitudenill/holb6084" xml:id="s84"/>
-          <!-- <figure>
-<figDesc>
-<hi rend="italics">Rosiflengius ved Arbejdet.</hi>
-</figDesc>
-</figure> -->
           <div type="akt" xml:id="idm140013643190160">
             <head xml:id="idm140013643189776">ACTUS III</head>
             <div type="scene" xml:id="idm140013643189360">
@@ -4156,9 +4069,6 @@ Ptj rettet s. 351-365-
               </sp>
             </div>
             <pb n="86" facs="adl/holberg/holberg7/maniptif1bitudenill/holb6086" xml:id="s86"/>
-            <!-- <figure>
-<figDesc><hi rend="italics">SKIØGEN. ... Jeg har bestilt et Bryllups Vers, som jeg skal give ham 2 Daler for.</hi></figDesc>
-</figure> -->
             <pb n="87" facs="adl/holberg/holberg7/maniptif1bitudenill/holb6087" xml:id="s87"/>
             <div type="scene" xml:id="idm140013643155936">
               <head xml:id="idm140013643155440">SCEN. 2</head>
@@ -4254,9 +4164,6 @@ Ptj rettet s. 351-365-
               </sp>
             </div>
             <pb n="89" facs="adl/holberg/holberg7/maniptif1bitudenill/holb6089" xml:id="s89"/>
-            <!-- <figure>
-<figDesc><hi rend="italics">OLDFUX. ... Her boer en skrutrygget Magister, som man siger tiener alle got folk i saadan Tilfælde for Penge og gode Ord. Jeg maa hen at kiøbe mig en Recommendation af ham.</hi></figDesc>
-</figure> -->
             <pb n="90" facs="adl/holberg/holberg7/maniptif1bitudenill/holb6090" xml:id="s90"/>
             <div type="scene" xml:id="idm140013643123072">
               <head xml:id="idm140013643122576">SCEN. 5</head>
@@ -4373,9 +4280,6 @@ Ptj rettet s. 351-365-
                 <speaker xml:id="idm140013643086880">GOTTFRED.</speaker>
                 <p xml:id="idm140013643086464"> Ney jeg vil sige, at jeg er Magisterens Tiener, som staaer her. </p>
                 <pb n="92" facs="adl/holberg/holberg7/maniptif1bitudenill/holb6092" xml:id="s92"/>
-                <!-- <figure>
-<figDesc><hi rend="italics">DEN DRUKNE. ... Faae den skam, der har været fuld meer end eengang udi 8te Dage, om mit Navn det er.</hi></figDesc>
-</figure> -->
               </sp>
               <sp xml:id="idm140013643084128">
                 <speaker xml:id="idm140013643083872">DEN DRUKNE.</speaker>
@@ -5125,9 +5029,6 @@ Ptj rettet s. 351-365-
                 <p xml:id="idm140013642837376"><stage type="mix" xml:id="idm140013642837248">Jeronimus, Magdelone, Pernille hyler. Henrich tar Tørklædet op og siger
          grædende:</stage> Vor sess Dagen ist die Onglyck gearrivert. </p>
               </sp>
-              <!-- <figure>
-<figDesc><hi rend="italics">HENRICH. ... Myn Heer, ick breng jouw een zeer bedroeft Tydung.</hi></figDesc>
-</figure> -->
               <sp xml:id="idm140013642835648">
                 <speaker xml:id="idm140013642835392">JERONIMUS.</speaker>
                 <p xml:id="idm140013642834976"> Hvor hendte det? </p>
@@ -6442,9 +6343,7 @@ Ptj rettet s. 351-365-
          Saa har dog dette onde Menneske understaaet sig at giøre et skammelig Vers over hende, som
          han har kaldet Fattigdom og Hoffart, hvorudi han paa en dristig og uforskammet Maade har
          søgt at tilskrive hendes Velbaarnhed adskillige Udyder. Han vil vel sige til sin <pb n="126" facs="adl/holberg/holberg7/maniptif1bitudenill/holb6126" xml:id="s126"/>
-         <!-- <figure>
-<figDesc><hi rend="italics">DOMMEREN. ... Hvad har hun at klage? Madame!</hi></figDesc>
-</figure> -->
+         
          Undskylding, at han ikke har brugt hendes Navn; Men det opdigtede Navn Rosimunda, som
          begynder af samme Bogstav som Fruens Navn, gir udtrykkelig tilkiende, at Verset er allene
          sigtet paa hende. </p>
@@ -6454,9 +6353,6 @@ Ptj rettet s. 351-365-
                 <p xml:id="idm140013642405584"> Jeg har alt nok; hun skal faae ræt. Jeg recommenderer mig udi Velbaarne Frues
          Bevaagenhed. </p>
                 <pb n="127" facs="adl/holberg/holberg7/maniptif1bitudenill/holb6127" xml:id="s127"/>
-                <!-- <figure>
-<figDesc><hi rend="italics">FRUEN. ... Jeg er af alt for høy Extraction for at heede Madame, Hr. Dommer!</hi></figDesc>
-</figure> -->
               </sp>
               <sp xml:id="idm140013642403216">
                 <speaker xml:id="idm140013642402960">FRUEN.</speaker>
@@ -6601,11 +6497,7 @@ Ptj rettet s. 351-365-
          igiennemheglede Feyl og Lyder, ginge faa Mennesker Dydens Vey. Og hvis Hyklere ikke vare
          til, der bestyrke og authorisere Synder, forlode faa Mennesker Dydens Vey. Jeg har læset
          alle Monsieur Philemons Skrifter, og derudi fundet Laster og Feyl afmalet under opdigtede
-         Navne. Han nægter selv at have sigtet paa nogen, og hans Anklagere <!-- <figure>
-<figDesc>
-<hi rend="italics">Rosiflengius iføres den Spanske Kappe, og blir forfuldt af smaa og store ud af Theatro.</hi>
-</figDesc>
-</figure> --><pb n="131" facs="adl/holberg/holberg7/maniptif1bitudenill/holb6131" xml:id="s131"/> kand ikke beviise ham andet over. Jeg dømmer
+         Navne. Han nægter selv at have sigtet paa nogen, og hans Anklagere <pb n="131" facs="adl/holberg/holberg7/maniptif1bitudenill/holb6131" xml:id="s131"/> kand ikke beviise ham andet over. Jeg dømmer
          eder derfor, Monsieur Philemon, gandske fri for deres Beskyldinger. Og I Herrer Anklagere,
          som ved eders Conduite her for Retten har viset, at hvis ingen Skrifter vare giorte til jer
          Forhaanelse, saa burte der giøres: Gaaer hiem, og i steden at formere got Folk Proces,
@@ -6875,7 +6767,6 @@ Ptj rettet s. 351-365-
           </div>
         </body>
       </text>
-      <!--<slut  Skibbrud> -->
       <pb n="137" facs="adl/holberg/holberg7/maniptif1bitudenill/holb6137" xml:id="s137"/>
       <text xml:id="workid74665" decls="#biblid74665">
         <body xml:id="idm140013642118752">
@@ -6961,9 +6852,6 @@ Ptj rettet s. 351-365-
               </sp>
             </div>
             <pb n="142" facs="adl/holberg/holberg7/maniptif1bitudenill/holb6142" xml:id="s142"/>
-            <!-- <figure>
-<figDesc><hi rend="italics">JEPPE. ... Det er Skade at Degnen ikke er i Byen, thi der er saa meget Latin i min Søns Brev, som jeg ikke forstaaer.</hi></figDesc>
-</figure> -->
             <div type="scene" xml:id="idm140013642085248">
               <head xml:id="idm140013642084832">SCEN. 2</head>
               <stage type="mix" xml:id="idm140013642084416">Jeppe. Per Degn.</stage>
@@ -7263,9 +7151,7 @@ Ptj rettet s. 351-365-
          Fornøyelse. <stage type="mix" xml:id="idm140013641994400">Begynder at sktaale, først langsom.</stage> Ut, re, mi, fa, sol, la, si,
          ut; nu tilbage: ut, si, la, sol, fa, mi, re, ut. Nu skal I høre paa en anden Maade, hvor
          høyt <pb n="148" facs="adl/holberg/holberg7/maniptif1bitudenill/holb6148" xml:id="s148"/>
-         <!-- <figure>
-<figDesc><hi rend="italics">PEER. ... Ut, re, mi, fa, sol, la, si, ut; nu tilbage: ut, si, la, sol, fa, mi, re, ut.</hi></figDesc>
-</figure> -->
+         
          <pb n="149" facs="adl/holberg/holberg7/maniptif1bitudenill/holb6149" xml:id="s149"/> jeg kand gaae: ut, re, mi, fa, sol, la, si, ut,
          re, mi, fa, sol, la, si, ut, re. </p>
               </sp>
@@ -7334,9 +7220,6 @@ Ptj rettet s. 351-365-
                 <p xml:id="idm140013641969856"> Ach er det vist, at han kommer hiem i Morgen? </p>
               </sp>
               <pb n="150" facs="adl/holberg/holberg7/maniptif1bitudenill/holb6150" xml:id="s150"/>
-              <!-- <figure>
-<figDesc><hi rend="italics">JERONIMUS. ... God Morgen, Svoger! Har I nogen Tidende fra jer Son ?</hi></figDesc>
-</figure> -->
               <sp xml:id="idm140013641967632">
                 <speaker xml:id="idm140013641967376">JERONIMUS.</speaker>
                 <p xml:id="idm140013641966960"> Ja ja, du hører jo at han kommer til den Tid. </p>
@@ -7560,9 +7443,6 @@ Ptj rettet s. 351-365-
          efter mig? </p>
               </sp>
               <pb n="155" facs="adl/holberg/holberg7/maniptif1bitudenill/holb6155" xml:id="s155"/>
-              <!-- <figure>
-<figDesc><hi rend="italics">ERASMUS. ... Saaledes kalder man at smøge Tobak studentikos; det er en god Invention nok for een, der vil skrive og smøge tillige.</hi></figDesc>
-</figure> -->
               <sp xml:id="idm140013641892528">
                 <speaker xml:id="idm140013641891824">JACOB.</speaker>
                 <p xml:id="idm140013641891440"> Ja vist, hun har været meget u-taalmodig over, at du blev saa længe borte. </p>
@@ -7737,12 +7617,6 @@ Ptj rettet s. 351-365-
          lader det ilde at kaste Bøger efter sin Broer. </p>
               </sp>
               <pb n="158" facs="adl/holberg/holberg7/maniptif1bitudenill/holb6158" xml:id="s158"/>
-              <!-- <figure>
-<figDesc><hi rend="italics">MONTANUS. ... Hvis du ikke holder din Mund, skal jeg profecto
-slaae dig med Bogen i Panden.<lb/>
-JACOB...Det var ikke smukt at kaste Bibelen efter Folk.
-</hi></figDesc>
-</figure> -->
               <sp xml:id="idm140013641835776">
                 <speaker xml:id="idm140013641835520">MONTANUS.</speaker>
                 <p xml:id="idm140013641835136"> Hold Munden, Slyngel. </p>
@@ -7946,9 +7820,6 @@ JACOB...Det var ikke smukt at kaste Bibelen efter Folk.
                 <speaker xml:id="idm140013641772816">JEPPE.</speaker>
                 <p xml:id="idm140013641772400"> Hør du vel, Jacob! naar du taler til din Broer herefter, skal du sige Monsør. </p>
               </sp>
-              <!-- <figure>
-<figDesc><hi rend="italics">Jacob gaaer efter ham med Kappen.</hi></figDesc>
-</figure> -->
               <pb n="162" facs="adl/holberg/holberg7/maniptif1bitudenill/holb6162" xml:id="s162"/>
               <sp xml:id="idm140013641770048">
                 <speaker xml:id="idm140013641769792">MONTANUS.</speaker>
@@ -8473,10 +8344,6 @@ JACOB...Det var ikke smukt at kaste Bibelen efter Folk.
          Principium, Conjugatio, Declinatio, Interjectio. </p>
               </sp>
               <pb n="170" facs="adl/holberg/holberg7/maniptif1bitudenill/holb6170" xml:id="s170"/>
-              <!-- <figure>
-<figDesc><hi rend="italics">PER. ... Blev der nogen rejicered i Aar?<lb/>
-MONTANUS. ... To a tre conditionaliter.</hi></figDesc>
-</figure> -->
               <sp xml:id="idm140013641603808">
                 <speaker xml:id="idm140013641603552">JESPER.</speaker>
                 <p xml:id="idm140013641603168"> Jo jo, hør kun til Per, naar han vil ryste sine Ærmer. Det er ret, klem kun paa ham.
@@ -9307,9 +9174,7 @@ MONTANUS. ... To a tre conditionaliter.</hi></figDesc>
                 <speaker xml:id="idm140013641338816">MONTANUS.</speaker>
                 <p xml:id="idm140013641338400"> En Hane derimod kand giøre Æg, hvilket I ikke kand giøre. Seer I da vel, at I af
          Forstand udi jer Embede ikke kand bevise, at I er bedre end en Hane? See ogsaa i kort
-         Begreb, hvilken Eenstemmelse der er imellem jer og en Hane: En Hane har en Kam i <!-- <figure>
-<figDesc><hi rend="italics">MONTANUS. .Ergo er I en Hane. Har I ellers noget at sige?</hi></figDesc>
-</figure> -->
+         Begreb, hvilken Eenstemmelse der er imellem jer og en Hane: En Hane har en Kam i 
          <pb n="184" facs="adl/holberg/holberg7/maniptif1bitudenill/holb6184" xml:id="s184"/> Hovedet, I bær ogsaa Takker udi Panden; en Hane
          galer, I galer ogsaa; en Hane giør sig til af sin Røst og bryster sig, I ligeledes; en Hane
          varer ad, naar det er Tid at raabe, I, naar det er Tid at gaa i Messe. Ergo er I en Hane.
@@ -9459,9 +9324,6 @@ MONTANUS. ... To a tre conditionaliter.</hi></figDesc>
         </p>
               </sp>
             </div>
-            <!-- <figure>
-<figDesc><hi rend="italics">De gaae grædende ud.</hi></figDesc>
-</figure> -->
             <div type="scene" xml:id="idm140013641287952">
               <head xml:id="idm140013641287456">SCEN. 4</head>
               <stage type="mix" xml:id="idm140013641287040">Montanus. Jacob.</stage>
@@ -10116,9 +9978,7 @@ MONTANUS. ... To a tre conditionaliter.</hi></figDesc>
          veed at han er forloved med jer Dotter, og har derfor alleene for at tiene jer Huus bragt
          ham i den Tilstand, og tracteret ham med saadan Haardhed, at han kunde komme til sine
          Synders Bekiendelse. </p>
-                <p xml:id="idm140013641074304"> Men jeg vil for eders skyld selv give Penge til de Fattige, <!-- <figure>
-<figDesc><hi rend="italics">MONTANUS.   ... Ach min hierte Mons. Jeronymus! Jeg er bleven Soldat.</hi></figDesc>
-</figure> -->
+                <p xml:id="idm140013641074304"> Men jeg vil for eders skyld selv give Penge til de Fattige, 
          <pb n="199" facs="adl/holberg/holberg7/maniptif1bitudenill/holb6199" xml:id="s199"/> eftersom jeg hører, at han er bleven forandred.
          Lad ham kun komme hid. Hør, min Ven! jere Forældre have satt store Penge paa jer, i
          Forhaabning at I skulde blive dem til Ære og Trøst i deres Alderdom; men I reyser klog
@@ -10420,7 +10280,6 @@ MONTANUS. ... To a tre conditionaliter.</hi></figDesc>
           </div>
         </body>
       </text>
-      <!--<slut  Erasmus> -->
       <pb n="206" facs="adl/holberg/holberg7/maniptif1bitudenill/holb6206" xml:id="s206"/>
       <pb n="207" facs="adl/holberg/holberg7/maniptif1bitudenill/holb6207" xml:id="s207"/>
       <text xml:id="workid85277" decls="#biblid85277">
@@ -10428,7 +10287,6 @@ MONTANUS. ... To a tre conditionaliter.</hi></figDesc>
           <head xml:id="idm140013640842800">PERNILLES KORTE FRØIKENSTAND<lb xml:id="idm140013640842464"/>
       <hi rend="italics" xml:id="idm140013640842208">Comoedie udi tre Acter</hi>
      </head>
-          <!--bind 6, side 207-258-->
           <pb n="208" facs="adl/holberg/holberg7/maniptif1bitudenill/holb6208" xml:id="s208"/>
           <div type="castList" xml:id="idm140013640839744">
             <head xml:id="idm140013640839248">
@@ -10483,9 +10341,6 @@ MONTANUS. ... To a tre conditionaliter.</hi></figDesc>
        Rahbek, VI, 1806, S. 492-93. </p>
           </div>
           <pb n="211" facs="adl/holberg/holberg7/maniptif1bitudenill/holb6211" xml:id="s211"/>
-          <!-- <figure>
-<figDesc><hi rend="italics">JERONIMUS. ... Det er den første gang jeg har været udi saadan Forretning.</hi></figDesc>
-</figure> -->
           <div type="akt" xml:id="idm140013640817040">
             <head xml:id="idm140013640816544">ACTUS I</head>
             <div type="scene" xml:id="idm140013640816160">
@@ -10800,9 +10655,7 @@ MONTANUS. ... To a tre conditionaliter.</hi></figDesc>
               <sp xml:id="idm140013640712528">
                 <speaker xml:id="idm140013640712272">JERONIMUS.</speaker>
                 <p xml:id="idm140013640711856"> Da sagde hun til mig: Du skal faae en
-         <!-- <figure>
-<figDesc><hi rend="italics">MAGDELONE. ... Ach den Kone vil blive lykkelig der faaer saadan Mand.</hi></figDesc>
-</figure> -->
+         
          ung Jomfrue her i Naboelavet, ved Navn - - - hvad er det deres kiære Dotter heeder? </p>
               </sp>
               <sp xml:id="idm140013640710656">
@@ -11730,9 +11583,6 @@ MONTANUS. ... To a tre conditionaliter.</hi></figDesc>
          det rygtedes over den heele Stad. </p>
               </sp>
               <pb n="232" facs="adl/holberg/holberg7/maniptif1bitudenill/holb6232" xml:id="s232"/>
-              <!-- <figure>
-<figDesc><hi rend="italics">JERONIMUS. ... Saasom jeg har af adskillige kiendelige Mærker fornummet, at Himmelen selv har beskikket mig hende til min Glæde og Fornøyelse udi min Alderdom, saa er jeg nu hidkommen, for at aabne mit Hierte for hende, og at begiære hende til min Ægtefælle.</hi></figDesc>
-</figure> -->
               <sp xml:id="idm140013640410208">
                 <speaker xml:id="idm140013640409456">PERNILLE.</speaker>
                 <p xml:id="idm140013640409040"> Jeg er, u-værdig, en liden Part af Staden; men jeg har dog intet hørt tale derom. </p>
@@ -12014,9 +11864,6 @@ MONTANUS. ... To a tre conditionaliter.</hi></figDesc>
                 <p xml:id="idm140013640319024"> Det er et Navn, som promitterer, at der er noget got hos ham. Hvilken Person vil han
          paatage sig? </p>
               </sp>
-              <!-- <figure><figDesc><hi rend="italics">
-2. GAUDIEB. ... Mit Navn er Radelzier.</hi>
-</figDesc></figure> -->
               <pb n="238" facs="adl/holberg/holberg7/maniptif1bitudenill/holb6238" xml:id="s238"/>
               <sp xml:id="idm140013640316704">
                 <speaker xml:id="idm140013640316448">1. GAUDIEB.</speaker>
@@ -12134,10 +11981,6 @@ MONTANUS. ... To a tre conditionaliter.</hi></figDesc>
          med? </p>
               </sp>
               <pb n="240" facs="adl/holberg/holberg7/maniptif1bitudenill/holb6240" xml:id="s240"/>
-              <!-- <figure>
-<figDesc><hi rend="italics">LEONARD. ... Vil disse ærværdige Paf res tale med mig?<lb/>
-HENRICH. ... Maatte jeg tage mig den Frihed at spørge om hans Navn? Er I ikke Hr. Leonard?</hi></figDesc>
-</figure> -->
               <sp xml:id="idm140013640277184">
                 <speaker xml:id="idm140013640276480">HENRICH.</speaker>
                 <p xml:id="idm140013640276096"> Ingenlunde, min Herre. Alle disse Spørgsmaal ere ikke omsonst. Jeg og denne ærværdige
@@ -13131,9 +12974,7 @@ HENRICH. ... Maatte jeg tage mig den Frihed at spørge om hans Navn? Er I ikke H
               </sp>
               <sp xml:id="idm140013639953472">
                 <speaker xml:id="idm140013639953216">NOTARIUS.</speaker>
-                <p xml:id="idm140013639952800"> Mit Raad er, at I gaaer hiem med jer unge <!-- <figure>
-<figDesc><hi rend="italics">HENRICH. ... Jeg vil give en hver Lov til at trykke den heele Historie, og at sætte der under: Henricus fedt.</hi></figDesc>
-</figure> -->
+                <p xml:id="idm140013639952800"> Mit Raad er, at I gaaer hiem med jer unge 
          <pb n="256" facs="adl/holberg/holberg7/maniptif1bitudenill/holb6256" xml:id="s256"/> Brud, og mager det saa, at denne Historie ikke
          bliver bekiendt; thi kommer det for Retten, bliver I ikke allene dømt til hende, men taber
          ogsaa jer Navn og Rygte. </p>
@@ -13307,14 +13148,12 @@ HENRICH. ... Maatte jeg tage mig den Frihed at spørge om hans Navn? Er I ikke H
           </div>
         </body>
       </text>
-      <!--<slut  Froiken> -->
       <pb n="259" facs="adl/holberg/holberg6/maniptif1bitudenill/holb6259" xml:id="s259"/>
       <text xml:id="workid93781" decls="#biblid93781">
         <body xml:id="idm140013639822192">
           <head xml:id="idm140013639821936">DE USYNLIGE<lb xml:id="idm140013639821648"/>
       <hi rend="italics" xml:id="idm140013639821392">Comoedie udi tre Acter</hi>
      </head>
-          <!-- bind 6, side 259-317-->
           <pb n="260" facs="adl/holberg/holberg6/maniptif1bitudenill/holb6260" xml:id="s260"/>
           <div type="castList" xml:id="idm140013639818976">
             <head xml:id="idm140013639818480">
@@ -13557,9 +13396,6 @@ HENRICH. ... Maatte jeg tage mig den Frihed at spørge om hans Navn? Er I ikke H
          bliver den udi jer Indbildning guddommelige Nymphe forvandled til en Maren-Amme, og i
          steden for en Rosen-læbed Mund kommer I til at kysse en Jordemoder-Flab. </p>
               </sp>
-              <!-- <figure>
-<figDesc><hi rend="italics">HARLEQVIN. ... Men hvordan det er eller ey, saa maa I enten selv have beseet eller ved andre ladet besigtige den, som I er bleven forliebt udi.</hi></figDesc>
-</figure> -->
               <sp xml:id="idm140013639737504">
                 <speaker xml:id="idm140013639737248">LEANDER.</speaker>
                 <p xml:id="idm140013639736864"> Det er jeg ikke bange for. Jeg er forsikkred om at det er en Model af Deylighed og
@@ -13622,13 +13458,7 @@ HENRICH. ... Maatte jeg tage mig den Frihed at spørge om hans Navn? Er I ikke H
               <sp xml:id="idm140013639720656">
                 <speaker xml:id="idm140013639720400">HARLEQVIN.</speaker>
                 <p xml:id="idm140013639719984"> Da kand jeg ikke blive saa alterered for et Bord, sigted fuld af Retter. </p>
-                <!-- <figure>
-<figDesc><hi rend="italics">LEANDER.  ... da jeg var allene udi en Spadsere-Have, blev jeg af 8 maskerede Cavaliers uformodentligen omringed, hvilke, uden at tale et Ord, førte mig med Magt udi en prægtig Vogn, agede mig uden Byen, og holdte stille for et deyligt Lyst-Huus.</hi></figDesc>
-</figure> -->
                 <pb n="269" facs="adl/holberg/holberg6/maniptif1bitudenill/holb6269" xml:id="s269"/>
-                <!-- <figure>
-<figDesc><hi rend="italics">LEANDER. ... Hun bad mig med en venlig Mine at spise, men mit Hierte var saa bespændt af Frygt og Forskrækkelse, at jeg intet kunde smage.</hi></figDesc>
-</figure> -->
               </sp>
               <sp xml:id="idm140013639716912">
                 <speaker xml:id="idm140013639716656">LEANDER.</speaker>
@@ -13825,9 +13655,6 @@ HENRICH. ... Maatte jeg tage mig den Frihed at spørge om hans Navn? Er I ikke H
          som et umælende Creatur, og har intet andet Menneskeligt uden den udvortes Skabning. </p>
               </sp>
               <pb n="274" facs="adl/holberg/holberg6/maniptif1bitudenill/holb6274" xml:id="s274"/>
-              <!-- <figure>
-<figDesc><hi rend="italics">HARLEQVIN. ... Ach Jomfrue, vær dog ikke saa forbandet haard, og betænk, at min Herre er dog ingen Vestfalsk Skinke eller Hollandsk Ost, men - - - </hi></figDesc>
-</figure> -->
               <sp xml:id="idm140013639659760">
                 <speaker xml:id="idm140013639659056">HARLEQVIN.</speaker>
                 <p xml:id="idm140013639658672"><stage type="mix" xml:id="idm140013639658544">sagte. </stage> Hvilket forbanded Folk i denne Bye, som skiønner saa lidt paa gode
@@ -13885,9 +13712,7 @@ HENRICH. ... Maatte jeg tage mig den Frihed at spørge om hans Navn? Er I ikke H
          vil gaae langt fornøyeligere til Brudeseng end jeg og Colombine. Vi har gaaet alt formeget
          lige til, og den Tøite var alt forhastig med at give mig sin Troe. Jeg elsker hende, det er
          sandt; men min Kiærlighed er kun en slyngelagtig
-         <!-- <figure>
-<figDesc><hi rend="italics">HARLEQVIN. ... Hun har ret derudi, at de Frugter, som ligger paa Marken, smage ikke halv saa vel, som de, hvilke man med Besværlighed selv plukker af Træet.</hi></figDesc>
-</figure> -->
+         
          Kierlighed mod min Herres, thi om Colombine døde i Dag eller i Morgen, hang jeg mig
          derudover strax ikke af Fortvilelse. Men hvad kand være Aarsag til saadan lunken Elskov
          uden det, at jeg ingen Umag har haft med at vinde den? Thi saa snart som jeg lokkede,
@@ -13975,9 +13800,7 @@ HENRICH. ... Maatte jeg tage mig den Frihed at spørge om hans Navn? Er I ikke H
                 <speaker xml:id="idm140013639609616">HARLEQVIN.</speaker>
                 <p xml:id="idm140013639609200"> See hvor hun staaer her og flæber! Af hvad Aarsag da? af Aarsag, at jo vanskeligere
          Veyen
-         <!-- <figure>
-<figDesc><hi rend="italics">HARLEQVIN vendende Hovedet fra. ... Jeg ville sige: Lad mig føle dine Bryster.</hi></figDesc>
-</figure> -->
+         
          er, jo behageligere er det, naar man kommer til Maalet. </p>
               </sp>
               <sp xml:id="idm140013639607952">
@@ -14204,9 +14027,6 @@ HENRICH. ... Maatte jeg tage mig den Frihed at spørge om hans Navn? Er I ikke H
               </sp>
             </div>
           </div>
-          <!-- <figure>
-<figDesc><hi rend="italics">MAGDELONE. ... Giv dig tilfreds mit Barn! jeg skal nok skaffe dig Hevn, jeg skal komme Karlen til at krybe til Kaarset.</hi></figDesc>
-</figure> -->
           <pb n="283" facs="adl/holberg/holberg6/maniptif1bitudenill/holb6283" xml:id="s283"/>
           <div type="akt" xml:id="idm140013639534352">
             <head xml:id="idm140013639533856">ACTUS II</head>
@@ -14361,9 +14181,7 @@ HENRICH. ... Maatte jeg tage mig den Frihed at spørge om hans Navn? Er I ikke H
          var det ligesom jeg allerede havde seet hendes yndige Skabning fra Top til Taae. De Ord:
          hold inde med saadan Begiering, Cavalier! viser at hun er en Venus. Ach gid den Time var
          for-
-         <!-- <figure>
-<figDesc><hi rend="italics">HARLEQVIN. ...Ach Himmel! det er noget andet end Colombines hverdags Kierlighed; nu føler jeg først hvad det er at være forliebt.</hi></figDesc>
-</figure> -->
+         
          løben! Jeg maa midlertid hen at lave mig paa noget Galanterie for at divertere hende uden
          for Vinduet. </p>
               </sp>
@@ -14530,9 +14348,6 @@ HENRICH. ... Maatte jeg tage mig den Frihed at spørge om hans Navn? Er I ikke H
          strøget bedre. Jeg troer, Kierlighed giør ogsaa Spillemænd, saa <pb n="291" facs="adl/holberg/holberg6/maniptif1bitudenill/holb6291" xml:id="s291"/> vel som den giør Poeter; thi min Instrumental-Musiqve gaaer
          snart ligesaa vel som min Vocal. Ach, hvor min Usynlige vil blive fornøjed, naar hun hører
          mig siunge og spille paa eengang! Nu maa jeg derhen. <stage type="mix" xml:id="idm140013639430896">Han synger og spiller.</stage></p>
-                <!-- <figure>
-<figDesc><hi rend="italics">HARLEQVIN. ... Hør engang, hvor denne Qvinte-løse Luth lar sig stryge.</hi></figDesc>
-</figure> -->
                 <lg xml:id="idm140013639429776">
                   <l xml:id="idm140013639429520">Guddommelige Usynlighed,</l>
                   <l xml:id="idm140013639429136">Jeg elsker dig med stor Beskeed,</l>
@@ -14660,9 +14475,7 @@ HENRICH. ... Maatte jeg tage mig den Frihed at spørge om hans Navn? Er I ikke H
               <sp xml:id="idm140013639388048">
                 <speaker xml:id="idm140013639387792">DEN USYNLIGE.</speaker>
                 <p xml:id="idm140013639387376"> Alt hvad jeg kand trøste ham med <pb n="294" facs="adl/holberg/holberg6/maniptif1bitudenill/holb6294" xml:id="s294"/>
-         <!-- <figure>
-<figDesc><hi rend="italics">HARLEQVIN. ... Gid jeg faae Skam om jeg min Livs Tid har strøget bedre. Jeg troer, Kierlighed gier Spillemænd, saa vel som den giør Poeter.</hi></figDesc>
-</figure> -->
+         
          denne gang er, at han i den store Allee skal finde mig igien om et par Timer. </p>
               </sp>
               <sp xml:id="idm140013639384912">
@@ -14687,9 +14500,6 @@ HENRICH. ... Maatte jeg tage mig den Frihed at spørge om hans Navn? Er I ikke H
               </sp>
             </div>
           </div>
-          <!-- <figure>
-<figDesc><hi rend="italics">HARLEQVIN. ... Ach, jeg er færdig at revne af Kierlighed! Faaer jeg ikke hendes Ansigt at see ved første lovede Sammenkomst, døer jeg af Utaalmodighed.</hi></figDesc>
-</figure> -->
           <pb n="296" facs="adl/holberg/holberg6/maniptif1bitudenill/holb6296" xml:id="s296"/>
           <div type="akt" xml:id="idm140013639376064">
             <head xml:id="idm140013639375568">ACTUS III</head>
@@ -14756,9 +14566,7 @@ HENRICH. ... Maatte jeg tage mig den Frihed at spørge om hans Navn? Er I ikke H
               <sp xml:id="idm140013639356128">
                 <speaker xml:id="idm140013639355872">DEN USYNLIGE.</speaker>
                 <p xml:id="idm140013639355456"> Jeg beder, at han vil slaae sig til Roelighed. Han kand forderve alting ved sin
-         Utaalmodig- <!-- <figure>
-<figDesc><hi rend="italics">HARLEQVIN. ... Men min yndigste Rose! vil hun ikke endnu vederkvæge mit Hierte med hendes Sol-skinnende Ansigts Blottelse? DEN USYNLIGE. ... Det er endnu for stor Faveur, Cavalier!</hi></figDesc>
-</figure> -->
+         Utaalmodig- 
          <pb n="298" facs="adl/holberg/holberg6/maniptif1bitudenill/holb6298" xml:id="s298"/> hed. Alt hvad jeg denne gang kand giøre ham til
          Faveur, er at vise ham en Ende af min lille Finger, en Lykke som ingen Mands Person endnu
          er vederfared - - - Men ach Himmel! der hører jeg nogen komme, jeg maa gaae. Om en Time
@@ -15037,9 +14845,6 @@ HENRICH. ... Maatte jeg tage mig den Frihed at spørge om hans Navn? Er I ikke H
               <sp xml:id="idm140013639268320">
                 <speaker xml:id="idm140013639268064">ARLEQVIN.</speaker>
                 <p xml:id="idm140013639267648"> Jeg tviler, faae jeg Skam, ikke paa Udfaldet. Herren skal ellers have Tak for sit Ønske. </p>
-                <!-- <figure>
-<figDesc><hi rend="italics">DEN USYNLIGE. ... Hold inde, min Herre! det er nok spilled. Her seer I Ringen og her seer I jer Kiæreste og hendes Rivale tillige med.</hi></figDesc>
-</figure> -->
               </sp>
               <sp xml:id="idm140013639266448">
                 <speaker xml:id="idm140013639266192">DEN.</speaker>
@@ -15133,15 +14938,9 @@ HENRICH. ... Maatte jeg tage mig den Frihed at spørge om hans Navn? Er I ikke H
               <sp xml:id="idm140013639236160">
                 <speaker xml:id="idm140013639235904">DEN USYNLIGE.</speaker>
                 <p xml:id="idm140013639235488"> Jeg haaber at I betænker bedre hvad I giør. Men hvis I skrider til saadant blodigt
-         Forsæts Fuldbyrdelse, da maa I vide, at ikke jeg, men I selv er <!-- <figure>
-<figDesc><hi rend="italics">ARLEQVIN. ... Ach Himmel! er det u-muelige Ting at blotte sit Ansigt? Adieu Morderinde! hav Omsorg, at jeg kand blive hæderlig begraven, som en ret Christen, med Sang-Klokkerne.</hi></figDesc>
-</figure> -->
+         Forsæts Fuldbyrdelse, da maa I vide, at ikke jeg, men I selv er 
          <pb n="306" facs="adl/holberg/holberg6/maniptif1bitudenill/holb6306" xml:id="s306"/>
-         <!-- <figure>
-<figDesc><hi rend="italics">DEN USYNLIGE. ... Kom, kys mig, min Snut.<lb/>
-HARLEQVIN.... A- - - - A- - - -</hi>
-</figDesc>
-</figure> -->
+         
          Aarsag til saadan Ulykke, eftersom I begiærer u-muelige Ting. </p>
               </sp>
               <sp xml:id="idm140013639232176">
@@ -15249,9 +15048,6 @@ HARLEQVIN.... A- - - - A- - - -</hi>
                 <p xml:id="idm140013639197712"><stage type="mix" xml:id="idm140013639197584">paa Knæ. </stage> Ach naadige Fandens Mammas Broder! tving mig ikke til at kysse
          saadant Skabilkenhovet. </p>
               </sp>
-              <!-- <figure>
-<figDesc><hi rend="italics">HARLEQVIN. ... Ach naadige Fandens Mamas Brodér! tving mig ikke til at kysse saadant Skabilkenhovet.</hi></figDesc>
-</figure> -->
               <pb n="309" facs="adl/holberg/holberg6/maniptif1bitudenill/holb6309" xml:id="s309"/>
               <sp xml:id="idm140013639194864">
                 <speaker xml:id="idm140013639194608">DEN USYNLIGE.</speaker>
@@ -15546,9 +15342,6 @@ HARLEQVIN.... A- - - - A- - - -</hi>
                 <p xml:id="idm140013639101136"> Hvem var hans Fader da? </p>
               </sp>
               <pb n="313" facs="adl/holberg/holberg6/maniptif1bitudenill/holb6313" xml:id="s313"/>
-              <!-- <figure>
-<figDesc><hi rend="italics">DEN USYNLIGES BRODER. ...Har du Lyst til Handverket?</hi></figDesc>
-</figure> -->
               <sp xml:id="idm140013639098928">
                 <speaker xml:id="idm140013639098672">HARLEQVIN.</speaker>
                 <p xml:id="idm140013639098256"> Min Fader kiender jeg ikke, men min Moder heedte Magdelone, og min Brodér var udi mange
@@ -15715,7 +15508,6 @@ HARLEQVIN.... A- - - - A- - - -</hi>
           </div>
         </body>
       </text>
-      <!--<slut  Usynlige> -->
       <pb n="318" facs="adl/holberg/holberg6/maniptif1bitudenill/holb6318" xml:id="s318"/>
       <pb n="319" facs="adl/holberg/holberg7/maniptif1bitudenill/holb6319" xml:id="s319"/>
       <text xml:id="workid101051" decls="#biblid101051">
@@ -15781,8 +15573,6 @@ HARLEQVIN.... A- - - - A- - - -</hi>
        Komedier, 1942, S. 131. </p>
           </div>
           <pb n="323" facs="adl/holberg/holberg7/maniptif1bitudenill/holb6323" xml:id="s323"/>
-          <!-- <figure>
-</figure> -->
           <div type="akt" xml:id="idm140013638921584">
             <head xml:id="idm140013638921088">ACTUS I</head>
             <div type="scene" n="1" xml:id="idm140013638920704">
@@ -15985,9 +15775,6 @@ HARLEQVIN.... A- - - - A- - - -</hi>
                 <p xml:id="idm140013638859808"> Det var ræt vel, at hun gik. Nu kand vi tale noget sammen om det andet. </p>
               </sp>
               <pb n="328" facs="adl/holberg/holberg7/maniptif1bitudenill/holb6328" xml:id="s328"/>
-              <!-- <figure>
-<figDesc><hi rend="italics">VIELGESCHREY gaaer frem og tilbage, stirrende paa et Stykke Papir, raaber: Lars DintfassJ</hi></figDesc>
-</figure> -->
               <sp xml:id="idm140013638857376">
                 <speaker xml:id="idm140013638857120">LEONORA.</speaker>
                 <p xml:id="idm140013638856736"> Ach Pernille! jeg forlader mig paa din Hurtighed og den Credit, du har hos min Far. </p>
@@ -16429,9 +16216,7 @@ HARLEQVIN.... A- - - - A- - - -</hi>
               <sp xml:id="idm140013638705904">
                 <speaker xml:id="idm140013638705648">VIELGESCHREY.</speaker>
                 <p xml:id="idm140013638705232"> Det er got nok, Monsieur, men jeg er <pb n="335" facs="adl/holberg/holberg7/maniptif1bitudenill/holb6335" xml:id="s335"/>
-         <!-- <figure>
-<figDesc><hi rend="italics">VIELGESCHREY. ... Om Forladelse, Monsieur, at jeg har ladet ham staae saa længe. Han seer selv, hvordan jeg er omspændt af Forretninger. Hvad er ellers hans Begiæring?</hi></figDesc>
-</figure> -->
+         
          meget for en Sviger-Søn, der er arbeidsom, der føer en god Pen, og kand gaae mig noget til
          Haande i mine Forretninger. </p>
               </sp>
@@ -16927,9 +16712,7 @@ HARLEQVIN.... A- - - - A- - - -</hi>
                 <speaker xml:id="idm140013638574784">PERNILLE.</speaker>
                 <p xml:id="idm140013638574368"> Du skal være ved Haanden, og lave dig paa saadan Dragt, som er nødig at bruge, og jeg
          skal ved <pb n="344" facs="adl/holberg/holberg7/maniptif1bitudenill/holb6344" xml:id="s344"/>
-         <!-- <figure>
-<figDesc><hi rend="italics">OLDFUX. ... Det er en forbandet Machine. Jeg kand blive Hovedsvimled alleene af det, jeg hører fortælle hvordan den er sammensat. Hvad Fanden er det ikke, disse Qvinder kand hitte paa!</hi></figDesc>
-</figure> -->
+         
          en liden Pige, som jeg har, lade jer begge vide, naar Tid er at spille en Rulle. 3 Personer
          skal du agere, først Budet fra Leander, siden Advocat, og endelig en Barbeer, thi han maa
          have Skiægget af sig i Eftermiddag. Om en Time maa du være her med dine Præparatorier. Jeg
@@ -17393,9 +17176,6 @@ HARLEQVIN.... A- - - - A- - - -</hi>
                 <speaker xml:id="idm140013638427536">VIELGESCHREY.</speaker>
                 <p xml:id="idm140013638427152"><stage type="mix" xml:id="idm140013638427024">kaster Parykken fra sig. </stage> Skriver! Saasom det har behaget Himmelen (Comma) .
          . . har I det? </p>
-                <!-- <figure>
-<figDesc><hi rend="italics">VIELGESCHREY. ... Skriveri Saasom det har behaget Himmelen (Comma) ... har I det?</hi></figDesc>
-</figure> -->
                 <pb n="352" facs="adl/holberg/holberg7/maniptif1bitudenill/holb6352" xml:id="s352"/>
                 <stage type="mix" xml:id="idm140013638424624">De skriver og repeterer det samme.</stage>
               </sp>
@@ -18439,9 +18219,6 @@ HARLEQVIN.... A- - - - A- - - -</hi>
                 <speaker xml:id="idm140013638088832">VIELGESCHREY.</speaker>
                 <p xml:id="idm140013638088416"> I har jo intet sagt mig endnu. </p>
               </sp>
-              <!-- <figure>
-<figDesc><hi rend="italics">Advocaten slaaer Herren paa Skuldrene og siger: Har I det?</hi></figDesc>
-</figure> -->
               <pb n="370" facs="adl/holberg/holberg7/maniptif1bitudenill/holb6370" xml:id="s370"/>
               <sp xml:id="idm140013638086128">
                 <speaker xml:id="idm140013638085872">OLDFUX.</speaker>
@@ -18878,9 +18655,6 @@ HARLEQVIN.... A- - - - A- - - -</hi>
                 <p xml:id="idm140013637946736"> Det er sandt, Monfrere, I har aldrig stunder, skiønt I har aldrig noget at bestille.
         </p>
               </sp>
-              <!-- <figure>
-<figDesc><hi rend="italics">VIELGESCHREY. ... Jeg har haft mange fortrædelige Dage i Verden, men ingen som denne.</hi></figDesc>
-</figure> -->
               <pb n="378" facs="adl/holberg/holberg7/maniptif1bitudenill/holb6378" xml:id="s378"/>
               <sp xml:id="idm140013637944400">
                 <speaker xml:id="idm140013637944144">VIELGESCHREY.</speaker>
@@ -19647,9 +19421,6 @@ HARLEQVIN.... A- - - - A- - - -</hi>
          Forladelse. Kierlighed til Monsieur Leander paa en Side og Desperation paa den anden har
          forført mig til at gribe til disse ulovlige Midler. </p>
                 <pb n="389" facs="adl/holberg/holberg7/maniptif1bitudenill/holb6389" xml:id="s389"/>
-                <!-- <figure>
-<figDesc><hi rend="italics">VIELGESCHREY. .. . Jeg er Alexander Magnus, og I andre cre alle Slyngle, som skal døe for min Haand!</hi></figDesc>
-</figure> -->
                 <pb n="390" facs="adl/holberg/holberg7/maniptif1bitudenill/holb6390" xml:id="s390"/>
               </sp>
               <sp xml:id="idm140013637679216">
@@ -20081,7 +19852,6 @@ HARLEQVIN.... A- - - - A- - - -</hi>
           </div>
         </body>
       </text>
-      <!--<slut  stundesløse> -->
       <pb n="398" facs="adl/holberg/holberg7/maniptif1bitudenill/holb6398" xml:id="s398"/>
       <pb n="399" facs="adl/holberg/holberg7/maniptif1bitudenill/holb6399" xml:id="s399"/>
       <text xml:id="workid113866" decls="#biblid113866">
@@ -20089,7 +19859,6 @@ HARLEQVIN.... A- - - - A- - - -</hi>
           <head xml:id="idm140013637445504">DEN HONNETTE AMBITION<lb xml:id="idm140013637445216"/>
       <hi rend="italics" xml:id="idm140013637444960">Comoedie udi tre Acter</hi>
      </head>
-          <!--bind 6, side 399-449-->
           <pb n="400" facs="adl/holberg/holberg7/maniptif1bitudenill/holb6400" xml:id="s400"/>
           <div type="castList" xml:id="idm140013637442544">
             <head xml:id="idm140013637442048">
@@ -20283,9 +20052,6 @@ HARLEQVIN.... A- - - - A- - - -</hi>
               <sp xml:id="idm140013637378496">
                 <speaker xml:id="idm140013637378240">LEONORE.</speaker>
                 <p xml:id="idm140013637377824"> Hvilket særdeeles Indfald af en gammel Borgermand! </p>
-                <!-- <figure>
-<figDesc><hi rend="italics">ARV.  ... Ja det er sandt, den skal vist sidde i Nakken; vær saa god, kiære Jomfru!</hi></figDesc>
-</figure> -->
               </sp>
               <sp xml:id="idm140013637376656">
                 <speaker xml:id="idm140013637376400">ARV.</speaker>
@@ -20520,9 +20286,6 @@ HARLEQVIN.... A- - - - A- - - -</hi>
                 <p xml:id="idm140013637303040"> Om jeg ingen anden Merite har, saa er jeg een af de ældste Borgere her i Gaden, og bør
          have en Rang i Henseende til mine graae Haar. </p>
               </sp>
-              <!-- <figure>
-<figDesc><hi rend="italics">JERONIMUS. ... Om jeg ingen anden Merite har, saa er jeg een af de ældste Borgere her i Gaden, og bør have Rang i Henseende til mine graae Haar.</hi></figDesc>
-</figure> -->
               <pb n="410" facs="adl/holberg/holberg7/maniptif1bitudenill/holb6410" xml:id="s410"/>
               <sp xml:id="idm140013637300416">
                 <speaker xml:id="idm140013637300160">PERNILLE.</speaker>
@@ -21138,9 +20901,6 @@ HARLEQVIN.... A- - - - A- - - -</hi>
                 <speaker xml:id="idm140013637100928">LAKEIEN.</speaker>
                 <p xml:id="idm140013637100512"> Jeg takker skyldigst. </p>
               </sp>
-              <!-- <figure>
-<figDesc><hi rend="italics">JERONIMUS. ...Et Glas endnu I gode Herrer!</hi></figDesc>
-</figure> -->
               <pb n="419" facs="adl/holberg/holberg7/maniptif1bitudenill/holb6419" xml:id="s419"/>
               <sp xml:id="idm140013637098272">
                 <speaker xml:id="idm140013637098016">JERONIMUS.</speaker>
@@ -21291,11 +21051,7 @@ HARLEQVIN.... A- - - - A- - - -</hi>
                 <p xml:id="idm140013637049936"> Der er ogsaa en anden Aarsag, hvor for jeg gaaer saa iblant i gemene Borger-Huuse.
          Hoffet har Tanker om mig, at jeg er en habil Mand, som jeg uden at rose mig selv ogsaa er,
          saa at jeg kand give Lectie til de største Statsmænd i vor Tid. Tænk engang, Hr. Jero- <pb n="421" facs="adl/holberg/holberg7/maniptif1bitudenill/holb6421" xml:id="s421"/>
-         <!-- <figure>
-<figDesc>
-<hi rend="italics">JERONIMUS. ...Om Forladelse naadig Herre, at jeg taer mod ham i den Positur.</hi>
-</figDesc>
-</figure> -->
+         
          nimus, jeg har været med at slutte over 48 Freds-Tractater. </p>
               </sp>
               <sp xml:id="idm140013637046960">
@@ -21705,9 +21461,6 @@ HARLEQVIN.... A- - - - A- - - -</hi>
                 <p xml:id="idm140013636916128"> Ach min hierte Mand! Disse store Folk lover ti gange meer end de agter at holde. </p>
               </sp>
               <pb n="428" facs="adl/holberg/holberg7/maniptif1bitudenill/holb6428" xml:id="s428"/>
-              <!-- <figure>
-<figDesc><hi rend="italics">BARONEN. ...Er soll geholffen werden.</hi></figDesc>
-</figure> -->
               <sp xml:id="idm140013636913808">
                 <speaker xml:id="idm140013636913552">JERONIMUS.</speaker>
                 <p xml:id="idm140013636913136"> Ney, denne min Troe ikke. Havde du seet ham, da skulde du være af andre Tanker. Denne
@@ -22735,9 +22488,7 @@ HARLEQVIN.... A- - - - A- - - -</hi>
                 <p xml:id="idm140013636584656"> Jeg trængde til Penge, og som jeg hørte at denne gamle rangsyge Nar kyssede Skræddere og
          Lakeier for de skulde tale for ham, saa tænkte jeg ved mig selv: Her er en Skilling at
          fortiene for dig; Hvor for jeg <pb n="444" facs="adl/holberg/holberg7/maniptif1bitudenill/holb6444" xml:id="s444"/>
-         <!-- <figure>
-<figDesc><hi rend="italics">JERONIMUS. ... Ach Himmel! er det mueligf, at en, der har givet den store Vizir Ørefigen, lader sig saa prygle?</hi></figDesc>
-</figure> -->
+         
          gav mig ud for en Baron. Synes Herren at det var nogen Synd at narre saadan gammel Abekat?
         </p>
               </sp>
@@ -23034,14 +22785,12 @@ HARLEQVIN.... A- - - - A- - - -</hi>
           </div>
         </body>
       </text>
-      <!--<slut  Honette> -->
       <pb n="450" facs="adl/holberg/holberg7/maniptif1bitudenill/holb6450" xml:id="s450"/>
       <pb n="451" facs="adl/holberg/holberg7/maniptif1bitudenill/holb6451" xml:id="s451"/>
       <text xml:id="workid122728" decls="#biblid122728">
         <body xml:id="idm140013636384832">
           <head xml:id="idm140013636384576">LIIGBEGIÆNGELSE<lb xml:id="idm140013636384272"/> Med THALIÆ AFSKEEDS TALE<lb xml:id="idm140013636383952"/> Forestillet til allersidste Slutning
       af<lb xml:id="idm140013636383632"/> DE DANSKE ACTEURS<lb xml:id="idm140013636383344"/> Den 25. Februarii 1727</head>
-          <!--bind 6, side 451-464-->
           <pb n="452" facs="adl/holberg/holberg7/maniptif1bitudenill/holb6452" xml:id="s452"/>
           <div type="castList" xml:id="idm140013636381376">
             <head xml:id="idm140013636380880">

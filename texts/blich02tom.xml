@@ -1,10 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!--Tom opmærkning d. 11.06.2002 blo -->
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="idm139916724563072"><!-- 
-       file     ./marc_dir/002325397.xml
-       field     
-       subfield  
-       prefix   -->
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="root">
   <teiHeader xml:id="idm139916724562144">
     <fileDesc xml:id="idm139916724561888">
       <titleStmt xml:id="idm139916724596224">
@@ -23,8 +18,57 @@
         <note xml:id="idm139916724532432">
 	  </note>
       </notesStmt>
-      <sourceDesc xml:id="idm139916724531920"><bibl xml:id="idm139916724531792"><author n="1" xml:id="idm139916724531104"><name xml:id="idm139916724530848"><surname xml:id="idm139916724530720">Blicher</surname>, <forename xml:id="idm139916724530288">Steen Steensen</forename></name></author><title xml:id="idm139916724530000">Digte og Noveller</title><pubPlace xml:id="idm139916724529712">København</pubPlace>
-<date xml:id="idm139916724529200">1946</date></bibl><listBibl xml:id="idm139916724528912"><bibl xml:id="biblid54266"><title xml:id="idm139916724515760">Marie (1836)</title></bibl><bibl xml:id="biblid54595"><title xml:id="idm139916724514976">Fjorten Dage i Jylland (1836)</title></bibl><bibl xml:id="biblid55685"><title xml:id="idm139916724514176">Min Svanesang (1837)</title></bibl><bibl xml:id="biblid55734"><title xml:id="idm139916724513392">Trækfuglene (1838)</title></bibl><bibl xml:id="biblid56082"><title xml:id="idm139916724512544">Søren Kanne (1838)</title></bibl><bibl xml:id="biblid56130"><title xml:id="idm139916724511744">Himmelbjergsang (1839)</title></bibl><bibl xml:id="biblid56158"><title xml:id="idm139916724510960">Skytten paa Aunsbjerg (1839)</title></bibl><bibl xml:id="biblid56326"><title xml:id="idm139916724510160">Kong Frederik d. Sjette (1839)</title></bibl><bibl xml:id="biblid56345"><title xml:id="idm139916724509312">Høstferierne (1839)</title></bibl><bibl xml:id="biblid56942"><title xml:id="idm139916724508496">De tre Helligaftener (1841)</title></bibl><bibl xml:id="biblid57059"><title xml:id="idm139916724507648">E Bindstouw (1842)</title></bibl><bibl xml:id="biblid54469"><title xml:id="idm139916724506816">Det danske Sprog (1843)</title></bibl><bibl xml:id="biblid57234"><title xml:id="idm139916724505984">Jyden (1846)</title></bibl></listBibl></sourceDesc>
+      <sourceDesc xml:id="idm139916724531920">
+        <bibl xml:id="idm139916724531792">
+          <author n="1" xml:id="idm139916724531104">
+            <name xml:id="idm139916724530848"><surname xml:id="idm139916724530720">Blicher</surname>, <forename xml:id="idm139916724530288">Steen Steensen</forename></name>
+          </author>
+          <title xml:id="idm139916724530000">Digte og Noveller</title>
+          <pubPlace xml:id="idm139916724529712">København</pubPlace>
+          <date xml:id="idm139916724529200">1946</date>
+        </bibl>
+        <listBibl xml:id="idm139916724528912">
+          <bibl xml:id="biblid54266">
+            <title xml:id="idm139916724515760">Marie (1836)</title>
+          </bibl>
+          <bibl xml:id="biblid54595">
+            <title xml:id="idm139916724514976">Fjorten Dage i Jylland (1836)</title>
+          </bibl>
+          <bibl xml:id="biblid55685">
+            <title xml:id="idm139916724514176">Min Svanesang (1837)</title>
+          </bibl>
+          <bibl xml:id="biblid55734">
+            <title xml:id="idm139916724513392">Trækfuglene (1838)</title>
+          </bibl>
+          <bibl xml:id="biblid56082">
+            <title xml:id="idm139916724512544">Søren Kanne (1838)</title>
+          </bibl>
+          <bibl xml:id="biblid56130">
+            <title xml:id="idm139916724511744">Himmelbjergsang (1839)</title>
+          </bibl>
+          <bibl xml:id="biblid56158">
+            <title xml:id="idm139916724510960">Skytten paa Aunsbjerg (1839)</title>
+          </bibl>
+          <bibl xml:id="biblid56326">
+            <title xml:id="idm139916724510160">Kong Frederik d. Sjette (1839)</title>
+          </bibl>
+          <bibl xml:id="biblid56345">
+            <title xml:id="idm139916724509312">Høstferierne (1839)</title>
+          </bibl>
+          <bibl xml:id="biblid56942">
+            <title xml:id="idm139916724508496">De tre Helligaftener (1841)</title>
+          </bibl>
+          <bibl xml:id="biblid57059">
+            <title xml:id="idm139916724507648">E Bindstouw (1842)</title>
+          </bibl>
+          <bibl xml:id="biblid54469">
+            <title xml:id="idm139916724506816">Det danske Sprog (1843)</title>
+          </bibl>
+          <bibl xml:id="biblid57234">
+            <title xml:id="idm139916724505984">Jyden (1846)</title>
+          </bibl>
+        </listBibl>
+      </sourceDesc>
     </fileDesc>
   </teiHeader>
   <text xml:id="idm139916724505296">

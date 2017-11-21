@@ -1,13 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!-- sider 294-326 skal afflages-->
-<!--hhl 27.9.2001-->
-<!-- rettelser: rd/ldquot, ndash,(unicoode 97) og 95 er fjernet (pletter)-->
-<!--HHL 08012002: ordnet bindestreger ved sideskift aht til soggning-->
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="idm140366214347088"><!-- 
-       file     ./marc_dir/001823911.xml
-       field     
-       subfield  
-       prefix   -->
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="root">
   <teiHeader xml:id="idm140366214321200">
     <fileDesc xml:id="idm140366214320944">
       <titleStmt xml:id="idm140366214320688">
@@ -27,11 +19,19 @@
         <note xml:id="idm140366214316144">
 	  </note>
       </notesStmt>
-      <sourceDesc xml:id="idm140366214315632"><bibl xml:id="idm140366214315504"><author n="1" xml:id="idm140366214314816"><name xml:id="idm140366214314560"><surname xml:id="idm140366214314432">Jacobsen</surname>,
-      <forename xml:id="idm140366214313984">J. P.</forename></name></author><title xml:id="idm140366214313696">Samlede Værker
+      <sourceDesc xml:id="idm140366214315632">
+        <bibl xml:id="idm140366214315504">
+          <author n="1" xml:id="idm140366214314816">
+            <name xml:id="idm140366214314560"><surname xml:id="idm140366214314432">Jacobsen</surname>,
+      <forename xml:id="idm140366214313984">J. P.</forename></name>
+          </author>
+          <title xml:id="idm140366214313696">Samlede Værker
       II</title>
-      <title xml:id="idm140366214313248">Udg. paa Grundlag af Digterens efterladte Papirer af Morten Borup</title> <pubPlace xml:id="idm140366214312816">København</pubPlace>
-<date xml:id="idm140366214312336">1924-29</date></bibl></sourceDesc>
+          <title xml:id="idm140366214313248">Udg. paa Grundlag af Digterens efterladte Papirer af Morten Borup</title>
+          <pubPlace xml:id="idm140366214312816">København</pubPlace>
+          <date xml:id="idm140366214312336">1924-29</date>
+        </bibl>
+      </sourceDesc>
     </fileDesc>
   </teiHeader>
   <text xml:id="idm140366214311664">

@@ -1,10 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!--Tom opmærkning d.13.08.2002 blo -->
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="idm139875967568000"><!-- 
-       file     ./marc_dir/002251515.xml
-       field    530 
-       subfield a 
-       prefix   Bd. 5 :-->
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="root">
   <teiHeader xml:id="idm139875967572432">
     <fileDesc xml:id="idm139875967572176">
       <titleStmt xml:id="idm139875967571872">
@@ -19,8 +14,14 @@
         <note xml:id="idm139875967543680">
 	  </note>
       </notesStmt>
-      <sourceDesc xml:id="idm139875967543168"><bibl xml:id="idm139875967543040"><author n="1" xml:id="idm139875967542352"><name xml:id="idm139875967542096"><surname xml:id="idm139875967541968">Aakjær</surname>, <forename xml:id="idm139875967541536">Jeppe</forename></name></author><title xml:id="idm139875967541248"> Af min Hjemstavns Saga : lidt Bondehistorie. - 1919</title><pubPlace xml:id="idm139875967540928">København</pubPlace>; <pubPlace xml:id="idm139875967540464">Kristiania</pubPlace>
-<publisher xml:id="idm139875967540000">Gyldendal</publisher><date xml:id="idm139875967539664">1918-19</date></bibl><listBibl xml:id="idm139875967539376"><bibl xml:id="biblid54121"><title xml:id="idm139875967526224">Af min Hjemstavns Saga</title></bibl></listBibl></sourceDesc>
+      <sourceDesc xml:id="idm139875967543168">
+        <bibl xml:id="idm139875967543040"><author n="1" xml:id="idm139875967542352"><name xml:id="idm139875967542096"><surname xml:id="idm139875967541968">Aakjær</surname>, <forename xml:id="idm139875967541536">Jeppe</forename></name></author><title xml:id="idm139875967541248"> Af min Hjemstavns Saga : lidt Bondehistorie. - 1919</title><pubPlace xml:id="idm139875967540928">København</pubPlace>; <pubPlace xml:id="idm139875967540464">Kristiania</pubPlace><publisher xml:id="idm139875967540000">Gyldendal</publisher><date xml:id="idm139875967539664">1918-19</date></bibl>
+        <listBibl xml:id="idm139875967539376">
+          <bibl xml:id="biblid54121">
+            <title xml:id="idm139875967526224">Af min Hjemstavns Saga</title>
+          </bibl>
+        </listBibl>
+      </sourceDesc>
     </fileDesc>
   </teiHeader>
   <text xml:id="idm139875967525584">

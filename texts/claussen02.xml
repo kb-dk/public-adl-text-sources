@@ -1,10 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!-- 20090825 JAMO rettet ocr-fejl s. 208 -->
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="idm140040478854256"><!-- 
-       file     ./marc_dir/001391897.xml
-       field     
-       subfield  
-       prefix   -->
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="root">
   <teiHeader xml:id="idm140040478853456">
     <fileDesc xml:id="idm140040478853200">
       <titleStmt xml:id="idm140040478852896">
@@ -25,17 +20,20 @@ Det Danske Sprog- og Litteraturselska</publisher>
         <note xml:id="idm140040478823232">
 	  </note>
       </notesStmt>
-      <sourceDesc xml:id="idm140040478822720"><bibl xml:id="idm140040478822592"><author n="1" xml:id="idm140040478821904"><name xml:id="idm140040478821648"><surname xml:id="idm140040478821520">Claussen</surname>, <forename xml:id="idm140040478821088">Sophus</forename></name></author><title xml:id="idm140040478820800">Unge Bander</title><pubPlace xml:id="idm140040478820512">[København]</pubPlace>; <pubPlace xml:id="idm140040478820048">[Valby]</pubPlace>; <pubPlace xml:id="idm140040478819632">[Ballerup]</pubPlace>
-<publisher xml:id="idm140040478819168">Det Danske Sprog- og Litteraturselskab</publisher><publisher xml:id="idm140040478818864">Borgen</publisher><publisher xml:id="idm140040478818576">i samarbejde med Nyt Dansk Litteraturselskab</publisher><date xml:id="idm140040478818208">[1986]</date></bibl><listBibl xml:id="idm140040478817920"><bibl xml:id="biblid54103"><title xml:id="idm140040478804768">Unge Bander</title></bibl></listBibl></sourceDesc>
+      <sourceDesc xml:id="idm140040478822720">
+        <bibl xml:id="idm140040478822592"><author n="1" xml:id="idm140040478821904"><name xml:id="idm140040478821648"><surname xml:id="idm140040478821520">Claussen</surname>, <forename xml:id="idm140040478821088">Sophus</forename></name></author><title xml:id="idm140040478820800">Unge Bander</title><pubPlace xml:id="idm140040478820512">[København]</pubPlace>; <pubPlace xml:id="idm140040478820048">[Valby]</pubPlace>; <pubPlace xml:id="idm140040478819632">[Ballerup]</pubPlace><publisher xml:id="idm140040478819168">Det Danske Sprog- og Litteraturselskab</publisher><publisher xml:id="idm140040478818864">Borgen</publisher><publisher xml:id="idm140040478818576">i samarbejde med Nyt Dansk Litteraturselskab</publisher><date xml:id="idm140040478818208">[1986]</date></bibl>
+        <listBibl xml:id="idm140040478817920">
+          <bibl xml:id="biblid54103">
+            <title xml:id="idm140040478804768">Unge Bander</title>
+          </bibl>
+        </listBibl>
+      </sourceDesc>
     </fileDesc>
   </teiHeader>
   <text xml:id="workid54103" decls="#biblid54103">
     <front xml:id="idm140040478803184">
       <pb n="I" facs="adl/claussen/claussen2/claussen2001" xml:id="idm140040478802880"/>
       <gap reason="cancelled" xml:id="idm140040478802016"/>
-<!---->
-<!---->
-<!--Unge Bander-->
       <pb n="II" facs="adl/claussen/claussen2/claussen2002" xml:id="idm140040478800496"/>
       <pb n="III" facs="adl/claussen/claussen2/claussen2003" xml:id="idm140040478799760"/>
       <titlePage xml:id="idm140040478798992">

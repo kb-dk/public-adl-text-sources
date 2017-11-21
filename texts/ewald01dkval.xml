@@ -1,12 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!-- 20030811 HHL forsynet med vaerktitle
-                  rettet imagenavne
-                  -->
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="idm140540298001088"><!-- 
-       file     ./marc_dir/001346276.xml
-       field     
-       subfield  
-       prefix   -->
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="root">
   <teiHeader xml:id="idm140540298000544">
     <fileDesc xml:id="idm140540298000288">
       <titleStmt xml:id="idm140540298032336">
@@ -22,21 +15,28 @@
 Det Danske Sprog- og Litteraturselskab</publisher>
         <pubPlace xml:id="idm140540297971968">Borgen</pubPlace>
         <idno xml:id="idm140540297971584" xml:base="texts/ewald01dkval.xml">001346276:01</idno>
-        
       </publicationStmt>
       <notesStmt xml:id="idm140540297971072">
         <note xml:id="idm140540297970768">
 	  </note>
       </notesStmt>
-      <sourceDesc xml:id="idm140540297970256"><bibl xml:id="idm140540297970128"><title xml:id="idm140540297970000">Herr Panthakaks Historie</title><pubPlace xml:id="idm140540297969696">[København]</pubPlace>; <pubPlace xml:id="idm140540297969232">[Valby]</pubPlace>; <pubPlace xml:id="idm140540297968816">[Ballerup]</pubPlace>
-<publisher xml:id="idm140540297968352">Det Danske Sprog- og Litteraturselskab</publisher><publisher xml:id="idm140540297968048">Borgen</publisher><publisher xml:id="idm140540297967760">i samarbejde med Nyt Dansk Litteraturselskab</publisher><date xml:id="idm140540297967392">cop. 1988</date></bibl><listBibl xml:id="idm140540297967104"><bibl xml:id="biblid54436"><title xml:id="idm140540297953552">Herr Panthakaks Historie (DK)</title></bibl><bibl xml:id="biblid57974"><title xml:id="idm140540297952752">Levnet og Meeninger (DK)</title></bibl></listBibl></sourceDesc>
+      <sourceDesc xml:id="idm140540297970256">
+        <bibl xml:id="idm140540297970128"><title xml:id="idm140540297970000">Herr Panthakaks Historie</title><pubPlace xml:id="idm140540297969696">[København]</pubPlace>; <pubPlace xml:id="idm140540297969232">[Valby]</pubPlace>; <pubPlace xml:id="idm140540297968816">[Ballerup]</pubPlace><publisher xml:id="idm140540297968352">Det Danske Sprog- og Litteraturselskab</publisher><publisher xml:id="idm140540297968048">Borgen</publisher><publisher xml:id="idm140540297967760">i samarbejde med Nyt Dansk Litteraturselskab</publisher><date xml:id="idm140540297967392">cop. 1988</date></bibl>
+        <listBibl xml:id="idm140540297967104">
+          <bibl xml:id="biblid54436">
+            <title xml:id="idm140540297953552">Herr Panthakaks Historie (DK)</title>
+          </bibl>
+          <bibl xml:id="biblid57974">
+            <title xml:id="idm140540297952752">Levnet og Meeninger (DK)</title>
+          </bibl>
+        </listBibl>
+      </sourceDesc>
     </fileDesc>
   </teiHeader>
   <text xml:id="idm140540297952064">
     <front xml:id="idm140540297951808">
       <pb n="1" facs="adl/ewald/ewald1/ewald1001" xml:id="idm140540297951456"/>
       <gap reason="cancelled" xml:id="idm140540297950672"/>
-<!--Herr Panthakaks Historie Levnet og Meeninger-->
       <pb n="2" facs="adl/ewald/ewald1/ewald1002" xml:id="idm140540297949728"/>
       <pb n="3" facs="adl/ewald/ewald1/ewald1003" xml:id="idm140540297948912"/>
       <titlePage xml:id="idm140540297948144">

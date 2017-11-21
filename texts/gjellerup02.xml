@@ -1,10 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!-- 20070620 VL rettelse s. v  -->
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="idm140131089304400"><!-- 
-       file     ./marc_dir/001913811.xml
-       field     
-       subfield  
-       prefix   -->
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="root">
   <teiHeader xml:id="idm140131089303792">
     <fileDesc xml:id="idm140131089303536">
       <titleStmt xml:id="idm140131089303232">
@@ -19,8 +14,21 @@
         <note xml:id="idm140131089275280">
 	  </note>
       </notesStmt>
-      <sourceDesc xml:id="idm140131089274768"><bibl xml:id="idm140131089274640"><author n="1" xml:id="idm140131089274000"><name xml:id="idm140131089273744"><surname xml:id="idm140131089273616">Gjellerup</surname>, <forename xml:id="idm140131089273152">Karl</forename></name></author><title xml:id="idm140131089272864">Romulus. En Novelle</title><pubPlace xml:id="idm140131089272576">København</pubPlace>
-<date xml:id="idm140131089272096">1883</date></bibl><listBibl xml:id="idm140131089271808"><bibl xml:id="biblid54090"><title xml:id="idm140131089258656">Romulus. En Novelle</title></bibl></listBibl></sourceDesc>
+      <sourceDesc xml:id="idm140131089274768">
+        <bibl xml:id="idm140131089274640">
+          <author n="1" xml:id="idm140131089274000">
+            <name xml:id="idm140131089273744"><surname xml:id="idm140131089273616">Gjellerup</surname>, <forename xml:id="idm140131089273152">Karl</forename></name>
+          </author>
+          <title xml:id="idm140131089272864">Romulus. En Novelle</title>
+          <pubPlace xml:id="idm140131089272576">København</pubPlace>
+          <date xml:id="idm140131089272096">1883</date>
+        </bibl>
+        <listBibl xml:id="idm140131089271808">
+          <bibl xml:id="biblid54090">
+            <title xml:id="idm140131089258656">Romulus. En Novelle</title>
+          </bibl>
+        </listBibl>
+      </sourceDesc>
     </fileDesc>
   </teiHeader>
   <text xml:id="workid54090" decls="#biblid54090">

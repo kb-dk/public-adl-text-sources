@@ -1,10 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!-- Tom opmærkning blo 29.10.2002-->
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="idm140189085448960"><!-- 
-       file     ./marc_dir/001582980.xml
-       field    559 
-       subfield a 
-       prefix   -->
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="root">
   <teiHeader xml:id="idm140189085456688">
     <fileDesc xml:id="idm140189085456432">
       <titleStmt xml:id="idm140189085456128">
@@ -24,8 +19,17 @@
         <note xml:id="idm140189085426544">
 	  </note>
       </notesStmt>
-      <sourceDesc xml:id="idm140189085426032"><bibl xml:id="idm140189085425904"><author n="1" xml:id="idm140189085425216"><name xml:id="idm140189085424960"><surname xml:id="idm140189085424832">Aarestrup</surname>, <forename xml:id="idm140189085424368">Emil</forename></name></author><title xml:id="idm140189085424080">Emil Aarestrups samlede skrifter</title><pubPlace xml:id="idm140189085423776">København</pubPlace>
-<publisher xml:id="idm140189085423344">C. A. Reitzel</publisher><date xml:id="idm140189085423008">1976</date></bibl></sourceDesc>
+      <sourceDesc xml:id="idm140189085426032">
+        <bibl xml:id="idm140189085425904">
+          <author n="1" xml:id="idm140189085425216">
+            <name xml:id="idm140189085424960"><surname xml:id="idm140189085424832">Aarestrup</surname>, <forename xml:id="idm140189085424368">Emil</forename></name>
+          </author>
+          <title xml:id="idm140189085424080">Emil Aarestrups samlede skrifter</title>
+          <pubPlace xml:id="idm140189085423776">København</pubPlace>
+          <publisher xml:id="idm140189085423344">C. A. Reitzel</publisher>
+          <date xml:id="idm140189085423008">1976</date>
+        </bibl>
+      </sourceDesc>
     </fileDesc>
   </teiHeader>
   <text xml:id="idm140189085422336">

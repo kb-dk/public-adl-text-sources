@@ -1,10 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!--  OCR by ATAPY 13.09.2001 (Catherine Bychkova) -->
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="idm140600520772544"><!-- 
-       file     ./marc_dir/001400990.xml
-       field     
-       subfield  
-       prefix   -->
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="root">
   <teiHeader xml:id="idm140600520771888">
     <fileDesc xml:id="idm140600520771632">
       <titleStmt xml:id="idm140600520771328">
@@ -23,17 +18,24 @@
         <note xml:id="idm140600520742048">
 	  </note>
       </notesStmt>
-      <sourceDesc xml:id="idm140600520741536"><bibl xml:id="idm140600520741408"><author n="1" xml:id="idm140600520740720"><name xml:id="idm140600520740464"><surname xml:id="idm140600520740336">Falster</surname>, <forename xml:id="idm140600520739872">Christian</forename></name></author><title xml:id="idm140600520739584">Satirer, 1720-42</title><pubPlace xml:id="idm140600520739296">København</pubPlace>
-<publisher xml:id="idm140600520738832">Det Danske Sprog- og Litteraturselskab</publisher><publisher xml:id="idm140600520738528">C.A. Reitzel</publisher><date xml:id="idm140600520738192">1982</date></bibl></sourceDesc>
+      <sourceDesc xml:id="idm140600520741536">
+        <bibl xml:id="idm140600520741408">
+          <author n="1" xml:id="idm140600520740720">
+            <name xml:id="idm140600520740464"><surname xml:id="idm140600520740336">Falster</surname>, <forename xml:id="idm140600520739872">Christian</forename></name>
+          </author>
+          <title xml:id="idm140600520739584">Satirer, 1720-42</title>
+          <pubPlace xml:id="idm140600520739296">København</pubPlace>
+          <publisher xml:id="idm140600520738832">Det Danske Sprog- og Litteraturselskab</publisher>
+          <publisher xml:id="idm140600520738528">C.A. Reitzel</publisher>
+          <date xml:id="idm140600520738192">1982</date>
+        </bibl>
+      </sourceDesc>
     </fileDesc>
   </teiHeader>
   <text xml:id="idm140600520737520">
     <front xml:id="idm140600520737264">
       <pb n="I" facs="adl/falster/falster5/fals5001" xml:id="idm140600520736960"/>
       <gap reason="cancelled" xml:id="idm140600520736096"/>
-<!---->
-<!---->
-<!--Christian Falsters Satirer · II-->
       <titlePage xml:id="idm140600520734576">
         <titlePart type="main" xml:id="idm140600520734320">
           <figure xml:id="idm140600520733792"/>

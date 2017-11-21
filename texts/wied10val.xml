@@ -1,10 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!-- HHL 20021009 fjernet bindestreger ved sideslut-->
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="idm140381272021936"><!-- 
-       file     ./marc_dir/001680948.xml
-       field    530 
-       subfield a 
-       prefix   10. -->
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="root">
   <teiHeader xml:id="idm140381272021280">
     <fileDesc xml:id="idm140381272021024">
       <titleStmt xml:id="idm140381272020720">
@@ -21,17 +16,23 @@
         <note xml:id="idm140381271991888">
 	  </note>
       </notesStmt>
-      <sourceDesc xml:id="idm140381271991376"><bibl xml:id="idm140381271991248"><author n="1" xml:id="idm140381271990560"><name xml:id="idm140381271990304"><surname xml:id="idm140381271990176">Wied</surname>, <forename xml:id="idm140381271989712">Gustav</forename></name></author><title xml:id="idm140381271989424">Thummelumsen. Dansemus. Skærmudsler. Et Opgør. Tre Satyrspil. 1968</title><pubPlace xml:id="idm140381271989008">København</pubPlace>
-<publisher xml:id="idm140381271988576">Rosenkilde og Bagger</publisher><date xml:id="idm140381271988288">1966-</date></bibl></sourceDesc>
+      <sourceDesc xml:id="idm140381271991376">
+        <bibl xml:id="idm140381271991248">
+          <author n="1" xml:id="idm140381271990560">
+            <name xml:id="idm140381271990304"><surname xml:id="idm140381271990176">Wied</surname>, <forename xml:id="idm140381271989712">Gustav</forename></name>
+          </author>
+          <title xml:id="idm140381271989424">Thummelumsen. Dansemus. Skærmudsler. Et Opgør. Tre Satyrspil. 1968</title>
+          <pubPlace xml:id="idm140381271989008">København</pubPlace>
+          <publisher xml:id="idm140381271988576">Rosenkilde og Bagger</publisher>
+          <date xml:id="idm140381271988288">1966-</date>
+        </bibl>
+      </sourceDesc>
     </fileDesc>
   </teiHeader>
   <text xml:id="idm140381271987616">
     <front xml:id="idm140381271987360">
       <pb n="I" facs="adl/wied/wied10/wied10001" xml:id="idm140381271987056"/>
       <gap reason="cancelled" xml:id="idm140381271986192"/>
-<!---->
-<!---->
-<!--ROMANER NOVELLER SKUESPIL-->
       <pb n="II" facs="adl/wied/wied10/wied10002" xml:id="idm140381271984640"/>
       <pb n="III" facs="adl/wied/wied10/wied10003" xml:id="idm140381271983872"/>
       <titlePage xml:id="idm140381271983104">

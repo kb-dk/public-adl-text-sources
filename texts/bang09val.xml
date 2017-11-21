@@ -1,10 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!-- 20021010 HHL indsat bindestreger! ingen fr ATAPY-->
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="idm140553043590096"><!-- 
-       file     ./marc_dir/001391892.xml
-       field     
-       subfield  
-       prefix   -->
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="root">
   <teiHeader xml:id="idm140553043589440">
     <fileDesc xml:id="idm140553043589184">
       <titleStmt xml:id="idm140553043588880">
@@ -24,17 +19,20 @@
         <note xml:id="idm140553043559248">
 	  </note>
       </notesStmt>
-      <sourceDesc xml:id="idm140553043558736"><bibl xml:id="idm140553043558608"><author n="1" xml:id="idm140553043557920"><name xml:id="idm140553043557664"><surname xml:id="idm140553043557536">Bang</surname>, <forename xml:id="idm140553043557072">Herman</forename></name></author><title xml:id="idm140553043556784">Ludvigsbakke</title><pubPlace xml:id="idm140553043556496">[København]</pubPlace>; <pubPlace xml:id="idm140553043556032">[Valby]</pubPlace>; <pubPlace xml:id="idm140553043555616">[Ballerup]</pubPlace>
-<publisher xml:id="idm140553043555152">Det Danske Sprog- og Litteraturselskab</publisher><publisher xml:id="idm140553043554848">Borgen</publisher><publisher xml:id="idm140553043554560">i samarbejde med Nyt Dansk Litteraturselskab</publisher><date xml:id="idm140553043554192">1986</date></bibl><listBibl xml:id="idm140553043553904"><bibl xml:id="biblid54102"><title xml:id="idm140553043540704">Ludvigsbakke (Danske Klassikere)</title></bibl></listBibl></sourceDesc>
+      <sourceDesc xml:id="idm140553043558736">
+        <bibl xml:id="idm140553043558608"><author n="1" xml:id="idm140553043557920"><name xml:id="idm140553043557664"><surname xml:id="idm140553043557536">Bang</surname>, <forename xml:id="idm140553043557072">Herman</forename></name></author><title xml:id="idm140553043556784">Ludvigsbakke</title><pubPlace xml:id="idm140553043556496">[København]</pubPlace>; <pubPlace xml:id="idm140553043556032">[Valby]</pubPlace>; <pubPlace xml:id="idm140553043555616">[Ballerup]</pubPlace><publisher xml:id="idm140553043555152">Det Danske Sprog- og Litteraturselskab</publisher><publisher xml:id="idm140553043554848">Borgen</publisher><publisher xml:id="idm140553043554560">i samarbejde med Nyt Dansk Litteraturselskab</publisher><date xml:id="idm140553043554192">1986</date></bibl>
+        <listBibl xml:id="idm140553043553904">
+          <bibl xml:id="biblid54102">
+            <title xml:id="idm140553043540704">Ludvigsbakke (Danske Klassikere)</title>
+          </bibl>
+        </listBibl>
+      </sourceDesc>
     </fileDesc>
   </teiHeader>
   <text xml:id="workid54102" decls="#biblid54102">
     <front xml:id="idm140553043539104">
       <pb n="1" facs="adl/bang/bang9/bang9001" xml:id="idm140553043538800"/>
       <gap reason="cancelled" xml:id="idm140553043537984"/>
-<!---->
-<!---->
-<!--HERMAN BANG Ludvigsbakke-->
       <pb n="2" facs="adl/bang/bang9/bang9002" xml:id="idm140553043536432"/>
       <pb n="3" facs="adl/bang/bang9/bang9003" xml:id="idm140553043619440"/>
       <titlePage xml:id="idm140553043618672">
@@ -3921,11 +3919,9 @@ Udpakningen. Der var i disse Dage kommen et nyt Alimentationsbidrag for Lyset at
               <p xml:id="idm140553041200048">- Jeg har læst Forretningsbreve, sagde han og steg op i Stigbøjlen. Kate hilste med Pisken op til sin Moder. Fru Mourier kom altid, i Frisérkaabe, hen til Vinduet for at se »de to Unge« ride ud.</p>
             </div>
             <div xml:id="idm140553041199120">
-	      <p xml:id="idm140553041198816">Det var Onsdag efter Frokost og Generalinden skrev til sin Søster, Fru v. Eichbaum:</p>
-
-	      <p xml:id="idm140553041198240">Kære Emilie!</p>
-
-	      <p xml:id="idm140553041197808">Jeg skriver, fordi det er min Dag og det nu en Gang er blevet
+              <p xml:id="idm140553041198816">Det var Onsdag efter Frokost og Generalinden skrev til sin Søster, Fru v. Eichbaum:</p>
+              <p xml:id="idm140553041198240">Kære Emilie!</p>
+              <p xml:id="idm140553041197808">Jeg skriver, fordi det er min Dag og det nu en Gang er blevet
 	      en Aftale at jeg skriver Onsdag. For her i Hjemmet er der ellers
 	      intet hændet med Undtagelse naturligvis af, at vi hjertelig
 	      savner dig, Mille. Dit Hus staar nu som blæst og venter kun paa
@@ -3983,7 +3979,9 @@ Udpakningen. Der var i disse Dage kommen et nyt Alimentationsbidrag for Lyset at
 	      at det maa vel være en Slags Lammelse - og det er da intet
 	      Under. Gud, du, at Folk i den Alder vil udsætte sig for alle de
 	      Sindsbevægelser. Her hilser alle.<lb xml:id="idm140553041190032"/> Din trofaste Søster<lb xml:id="idm140553041189712"/>
-	      Lotte.<lb xml:id="idm140553041189424"/> </p><pb n="204" facs="adl/bang/bang9/bang9204" xml:id="idm140553041189120"/><p xml:id="idm140553041188480">P. s. Vilhelmine
+	      Lotte.<lb xml:id="idm140553041189424"/> </p>
+              <pb n="204" facs="adl/bang/bang9/bang9204" xml:id="idm140553041189120"/>
+              <p xml:id="idm140553041188480">P. s. Vilhelmine
 	      bragte forleden Dag sit og Kates Billede - i Ramme, nydeligt og
 	      med deres Navnetræk. Jeg stillede det foreløbig foran paa den
 	      store Etagére. Kate er nydelig, med den slanke Figur. Det er
@@ -3991,12 +3989,9 @@ Udpakningen. Der var i disse Dage kommen et nyt Alimentationsbidrag for Lyset at
 	      hos en anden i et Vindu og det var afskyeligt. Jeg troer jo nok,
 	      at Anna venter Chokoladen.
 	    </p>
-
-	    <p xml:id="idm140553041187264">Fru von Eichbaum svarede om Lørdagen:</p>
-
-	    <p xml:id="idm140553041186784">Kære Charlotte.</p>
-
-	    <p xml:id="idm140553041186352">Tak for dit Brev og alle de rare Efterretninger. Vi har det
+              <p xml:id="idm140553041187264">Fru von Eichbaum svarede om Lørdagen:</p>
+              <p xml:id="idm140553041186784">Kære Charlotte.</p>
+              <p xml:id="idm140553041186352">Tak for dit Brev og alle de rare Efterretninger. Vi har det
 	    nogenlunde (jeg nægter jo ikke, at jeg længes efter Hjemmet og min
 	    gode Ro) men for Alines Skyld bliver vi endnu sagtens til
 	    Slutningen af Maaneden, for jeg mener som saa, det er bedst, at
@@ -4057,8 +4052,7 @@ Udpakningen. Der var i disse Dage kommen et nyt Alimentationsbidrag for Lyset at
 	    Syd som det er. Tak Vilhelmine for Billedet -ja, Kate har jo
 	    ganske hendes Ungdomsfigur. Aline hilser mange Gange og ligesaa
 	    jeg alle.<lb xml:id="idm140553041178928"/> Din hengivne Søster<lb xml:id="idm140553041178608"/> Mille.</p>
-	      
-	    <p xml:id="idm140553041178192">P.S. Maaske kunde du spørge Bruun, hvis du træffer ham, om der
+              <p xml:id="idm140553041178192">P.S. Maaske kunde du spørge Bruun, hvis du træffer ham, om der
 	    kunde være Tale om Smitte, da der jo dog er oliemalede Vægge. Jeg
 	    har her været i reformert Kirke. Sproget var smukt, men Talen led,
 	    fandt jeg, af Svulst og var uden den faste, religiøse Tankegang og
@@ -4067,9 +4061,8 @@ Udpakningen. Der var i disse Dage kommen et nyt Alimentationsbidrag for Lyset at
 	    Ridtet, hvad der saa let sker. Til Anna bliver der sendt den
 	    Chokolade, vi drikker her om Morgenen. Den er jo drøjere end den
 	    fra Cloetta.</p>
-
-	  </div>
-	  <div xml:id="idm140553041176976">
+            </div>
+            <div xml:id="idm140553041176976">
               <pb n="206" facs="adl/bang/bang9/bang9206" xml:id="idm140553041176720"/>
               <p xml:id="idm140553041175904">Ida gled gennem Rørholms Gang; hastig, saa underlig smalskuldret gled hun ind i Kabinettet.</p>
               <p xml:id="idm140553041175312">- Nej, han var der ikke - ikke endnu.</p>

@@ -1,25 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!-- OCR by ATAPY 14.01.03/16.01.03 (Catherine Bychkova) -->
-<!-- OCR by ATAPY 14.01.03/16.01.03 (Catherine Bychkova) -->
-<!--
-20030221 HHL udkommenteret og ændret <emph> til italics                 
-20030221 HHL _t_ -> _i_ (undtagen 1 sted)
-
-20030404 HHL image side 412-413 mangler, heller ikke sendt til Rusland
-                     image  412 = bogside 414 (blank)
-                     image 413 = bogside 415
-                     image 414 = bogside 416 (blank)
-                     image 415 = omslag
-                     
-              HHL tilføjet teksten side 412
-
-20030926 HHL ensrettet vaerktitler i <body>; således at vaerktitle ikke omfatter de lange indledninger
--->
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="idm139771563289392"><!-- 
-       file     ./marc_dir/001823113.xml
-       field     
-       subfield  
-       prefix   -->
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="root">
   <teiHeader xml:id="idm139771563288736">
     <fileDesc xml:id="idm139771563288480">
       <titleStmt xml:id="idm139771563262320">
@@ -38,8 +18,20 @@
         <note xml:id="idm139771563258128">
 	  </note>
       </notesStmt>
-      <sourceDesc xml:id="idm139771563257616"><bibl xml:id="idm139771563257488"><author n="1" xml:id="idm139771563256800"><name xml:id="idm139771563256544"><surname xml:id="idm139771563256416">Palladius</surname>, <forename xml:id="idm139771563255952">Peder</forename></name></author><title xml:id="idm139771563255664">Peder Palladius' Danske Skrifter</title><pubPlace xml:id="idm139771563255360">København</pubPlace>
-<publisher xml:id="idm139771563254896">H.H. Thiele</publisher><date xml:id="idm139771563254560">1911-1926</date></bibl><listBibl xml:id="idm139771563254272"><bibl xml:id="idm139771563254144"/></listBibl></sourceDesc>
+      <sourceDesc xml:id="idm139771563257616">
+        <bibl xml:id="idm139771563257488">
+          <author n="1" xml:id="idm139771563256800">
+            <name xml:id="idm139771563256544"><surname xml:id="idm139771563256416">Palladius</surname>, <forename xml:id="idm139771563255952">Peder</forename></name>
+          </author>
+          <title xml:id="idm139771563255664">Peder Palladius' Danske Skrifter</title>
+          <pubPlace xml:id="idm139771563255360">København</pubPlace>
+          <publisher xml:id="idm139771563254896">H.H. Thiele</publisher>
+          <date xml:id="idm139771563254560">1911-1926</date>
+        </bibl>
+        <listBibl xml:id="idm139771563254272">
+          <bibl xml:id="idm139771563254144"/>
+        </listBibl>
+      </sourceDesc>
     </fileDesc>
   </teiHeader>
   <text xml:id="idm139771563253632">
@@ -100,9 +92,6 @@
       </div>
       <pb n="c" xml:id="sc" facs="adl/palladius/palladius02/palladius02fm003"/>
       <gap reason="cancelled" xml:id="idm139771563215200"/>
-<!---->
-<!---->
-<!--Peder Palladius' Danske Skrifter-->
       <pb n="d" xml:id="sd" facs="adl/palladius/palladius02/palladius02fm004"/>
       <pb n="e" xml:id="se" facs="adl/palladius/palladius02/palladius02fm005"/>
       <titlePage xml:id="idm139771563211344">
@@ -272,7 +261,7 @@
 								Originaludgaven maa derfor senest være fremkommet i 1548 eller i
 								Begyndelsen af 1549, Men mange Aar gammelt kan den ikke have været,
 								thi Veit Dietrich benævner i sin Fortale Luther: "dem
-								Ehrwirdigen vnnd <hi rend="italics" xml:id="idm139771563099920"><!--<emph>-->seligen<!--</emph>--></hi> Mann D. Martin
+								Ehrwirdigen vnnd <hi rend="italics" xml:id="idm139771563099920">seligen</hi> Mann D. Martin
 								Luther"; Fortalen maa da være skrevet efter Luthers Død
 								18. Febr. 1546.</p>
               <p xml:id="idm139771563098528">Medens Originalens Udgivelsestid saaledes falder i Slutningen af
@@ -292,7 +281,7 @@
 										trost vnnd vnterricht dermassen/ das ich auff ein zeyt jhn
 										drumb bate/ er wolte in einer kurtz/ die Sprüche mir
 										zusammfassen/.... Solches thet der fromme Mann gern/ vnd
-										richtet mir dieses Büchlein <hi rend="italics" xml:id="idm139771563314688"><!--<emph>-->von wort zu wort zu<!--</emph>--></hi>/
+										richtet mir dieses Büchlein <hi rend="italics" xml:id="idm139771563314688">von wort zu wort zu</hi>/
 										wie jhrs jetzvndt sehet.</q></cit>
 							</p>
               <note anchored="true" xml:id="idm139771563313392"><hi rend="sup" xml:id="idm139771563313024">1</hi> Ordene <hi rend="italics" xml:id="idm139771563312368">durch aus</hi>
@@ -562,13 +551,13 @@
 											v</hi>
 										</hi></bibl><q xml:id="idm139771562993792">FVr war er trug vnsere kranckheit/ vnd lud auff sich vnserc
 										schmertzen/</q></cit>
-								<cit xml:id="idm139771562993312"><bibl xml:id="idm139771562993184"><hi rend="italics" xml:id="idm139771562993056">Palladius' Oversættelse, S. 21, L. 4</hi></bibl><q xml:id="idm139771562992432">Sandelige <hi rend="italics" xml:id="idm139771562992144"><!--<emph>-->drog
-											hand<!--</emph>--></hi> vor Siugdom oc lagde <hi rend="italics" xml:id="idm139771562991104"><!--<emph>-->paa sig
-										vor<!--</emph>--></hi> pine</q></cit>
+								<cit xml:id="idm139771562993312"><bibl xml:id="idm139771562993184"><hi rend="italics" xml:id="idm139771562993056">Palladius' Oversættelse, S. 21, L. 4</hi></bibl><q xml:id="idm139771562992432">Sandelige <hi rend="italics" xml:id="idm139771562992144">drog
+											hand</hi> vor Siugdom oc lagde <hi rend="italics" xml:id="idm139771562991104">paa sig
+										vor</hi> pine</q></cit>
 								<cit xml:id="idm139771562989936"><bibl xml:id="idm139771562989808"><hi rend="italics" xml:id="idm139771562989680">Luther-Biblen 1545</hi></bibl><q xml:id="idm139771562989120">Fur war er trug vnser Kranckheit/ vnd lud auff sich vnser
 										Schmertzen/</q></cit>
-								<cit xml:id="idm139771562988640"><bibl xml:id="idm139771562988512"><hi rend="italics" xml:id="idm139771562988384">Biblen 1550</hi></bibl><q xml:id="idm139771562987824">Sandelige <hi rend="italics" xml:id="idm139771562987536"><!--<emph>-->hand bar
-											vor<!--</emph>--></hi> Siugdom/ oc <hi rend="italics" xml:id="idm139771562986496"><!--<emph>-->tog<!--</emph>--></hi> vor Pine paa
+								<cit xml:id="idm139771562988640"><bibl xml:id="idm139771562988512"><hi rend="italics" xml:id="idm139771562988384">Biblen 1550</hi></bibl><q xml:id="idm139771562987824">Sandelige <hi rend="italics" xml:id="idm139771562987536">hand bar
+											vor</hi> Siugdom/ oc <hi rend="italics" xml:id="idm139771562986496">tog</hi> vor Pine paa
 									sig</q></cit>
 							</p>
               <p xml:id="idm139771562985152">Hebr. 9.27-28:<lb xml:id="idm139771562984896"/>
@@ -578,34 +567,34 @@
 										nemen viler sünd. Zum andern mal aber wird er one sünd
 										erscheinen/ denen die auff jhn warten zur seligkeyt.</q></cit>
 								<cit xml:id="idm139771562982272"><bibl xml:id="idm139771562982144"><hi rend="italics" xml:id="idm139771562982016">Palladius' Oversættelse, S. 21, L.
-										29</hi></bibl><q xml:id="idm139771562981376">Lige som det er <hi rend="italics" xml:id="idm139771562981088"><!--<emph>-->Mennisken<!--</emph>--></hi> skickket at
-										hand skal en <hi rend="italics" xml:id="idm139771562980000"><!--<emph>-->tid<!--</emph>--></hi> dø/ der effter
+										29</hi></bibl><q xml:id="idm139771562981376">Lige som det er <hi rend="italics" xml:id="idm139771562981088">Mennisken</hi> skickket at
+										hand skal en <hi rend="italics" xml:id="idm139771562980000">tid</hi> dø/ der effter
 										dommen/ saa er Christus en tid offret at borttage mangis
-										synder/ men den <hi rend="italics" xml:id="idm139771562978752"><!--<emph>-->anden
-											tid<!--</emph>--></hi>/ skal hand obenbaris/ <hi rend="italics" xml:id="idm139771562977744"><!--<emph>-->foruden<!--</emph>--></hi>
-										Synd/ dem/ som <hi rend="italics" xml:id="idm139771562976656"><!--<emph>-->biie
-											effter<!--</emph>--></hi> hannem til salighed.</q></cit>
+										synder/ men den <hi rend="italics" xml:id="idm139771562978752">anden
+											tid</hi>/ skal hand obenbaris/ <hi rend="italics" xml:id="idm139771562977744">foruden</hi>
+										Synd/ dem/ som <hi rend="italics" xml:id="idm139771562976656">biie
+											effter</hi> hannem til salighed.</q></cit>
 								<cit xml:id="idm139771562975520"><bibl xml:id="idm139771562975392"><hi rend="italics" xml:id="idm139771562975264">Biblen 1545</hi></bibl><q xml:id="idm139771562974704">wie den Menschen ist gesetzt/ ein mal zu sterben/ darnach
 										aber das Gerichte/ Also ist Christus ein mal geopffert/ weg
 										zu nemen vieler <hi rend="italics" xml:id="idm139771562974272">sünde/ Zum</hi> andern
 										mal aber wird er on sünde erscheinen/ denen die auff jn
 										warten/ zur Seligkeit</q></cit>
-								<cit xml:id="idm139771562973232"><bibl xml:id="idm139771562973104"><hi rend="italics" xml:id="idm139771562972976">Biblen 1550</hi></bibl><q xml:id="idm139771562972416">lige som det er skicket <hi rend="italics" xml:id="idm139771562972112"><!--<emph>-->for
-											alle Menniske<!--</emph>--></hi>/ at de skulle <hi rend="italics" xml:id="idm139771562971056"><!--<emph>-->en gong<!--</emph>--></hi>
-										dø/ <hi rend="italics" xml:id="idm139771562969968"><!--<emph>-->oc<!--</emph>--></hi>
-										der effter Dommen/ Saa er Christus <hi rend="italics" xml:id="idm139771562968896"><!--<emph>-->en gong<!--</emph>--></hi> offret/ at
-										borttage mangis synder/ Men <hi rend="italics" xml:id="idm139771562967824"><!--<emph>-->anden gong<!--</emph>--></hi> skal hand
-										obenbaris <hi rend="italics" xml:id="idm139771562966768"><!--<emph>-->vden<!--</emph>--></hi> synd/ <hi rend="italics" xml:id="idm139771562965760"><!--<emph>-->faar dem<!--</emph>--></hi>/
-										som <hi rend="italics" xml:id="idm139771562964720"><!--<emph>-->vente<!--</emph>--></hi>
+								<cit xml:id="idm139771562973232"><bibl xml:id="idm139771562973104"><hi rend="italics" xml:id="idm139771562972976">Biblen 1550</hi></bibl><q xml:id="idm139771562972416">lige som det er skicket <hi rend="italics" xml:id="idm139771562972112">for
+											alle Menniske</hi>/ at de skulle <hi rend="italics" xml:id="idm139771562971056">en gong</hi>
+										dø/ <hi rend="italics" xml:id="idm139771562969968">oc</hi>
+										der effter Dommen/ Saa er Christus <hi rend="italics" xml:id="idm139771562968896">en gong</hi> offret/ at
+										borttage mangis synder/ Men <hi rend="italics" xml:id="idm139771562967824">anden gong</hi> skal hand
+										obenbaris <hi rend="italics" xml:id="idm139771562966768">vden</hi> synd/ <hi rend="italics" xml:id="idm139771562965760">faar dem</hi>/
+										som <hi rend="italics" xml:id="idm139771562964720">vente</hi>
 										hannem/ til Salighed.</q></cit>
 							</p>
               <p xml:id="idm139771562963376">Det vil ses, at de to Oversættelser er ganske uafhængige af hinanden
-								- forskellige i <hi rend="italics" xml:id="idm139771562962912"><!--<emph>-->Ordvalg<!--</emph>--></hi>
+								- forskellige i <hi rend="italics" xml:id="idm139771562962912">Ordvalg</hi>
 								<hi rend="italics" xml:id="idm139771562961904">drog: bar</hi> (tysk <hi rend="italics" xml:id="idm139771562961216">trug</hi>)<hi rend="italics" xml:id="idm139771562960480">, lagde: tog</hi> (ty. <hi rend="italics" xml:id="idm139771562959760">lud</hi>)<hi rend="italics" xml:id="idm139771562959104">, tid: gong</hi> (ty.
 									<hi rend="italics" xml:id="idm139771562958384">mal</hi>)<hi rend="italics" xml:id="idm139771562957728">, bie: vente</hi>
-								(ty. <hi rend="italics" xml:id="idm139771562957008">warten</hi>), i <hi rend="italics" xml:id="idm139771562956288"><!--<emph>-->Ordstilling<!--</emph>--></hi>
+								(ty. <hi rend="italics" xml:id="idm139771562957008">warten</hi>), i <hi rend="italics" xml:id="idm139771562956288">Ordstilling</hi>
 								<hi rend="italics" xml:id="idm139771562955248">lagde paa sig vor pine: tog vor Pine paa sig</hi>
-								(ty. <hi rend="italics" xml:id="idm139771562954528">lud auff sich vnsere schmertzen</hi>), i <hi rend="italics" xml:id="idm139771562953792"><!--<emph>-->Syntax<!--</emph>--></hi>
+								(ty. <hi rend="italics" xml:id="idm139771562954528">lud auff sich vnsere schmertzen</hi>), i <hi rend="italics" xml:id="idm139771562953792">Syntax</hi>
 								<hi rend="italics" xml:id="idm139771562952752">Mennisken: for alle Menniske</hi> (ty. <hi rend="italics" xml:id="idm139771562952048">den Menschen</hi>)<hi rend="italics" xml:id="idm139771562951360">, dem: faar
 									dem</hi> (ty. <hi rend="italics" xml:id="idm139771562950624">denen</hi>). Palladius'
 								Oversættelse er mere bundet til Originalen, men Biblens Ordvalg og
@@ -651,7 +640,7 @@
 								- rigtige og gale - Forandringer, <pb n="14" xml:id="s14" facs="adl/palladius/palladius02/palladius02014"/> der var foretaget i de
 								senere Udgaver af Luthers Bibel, d. v. s. bringe Biblen 1550 i
 								fuldstændig verbal Overensstemmelse med den sidst reviderede Bibel
-								1545; men af Hensyn til det <hi rend="italics" xml:id="idm139771562924272"><!--<emph>-->danske<!--</emph>--></hi> Sprog har
+								1545; men af Hensyn til det <hi rend="italics" xml:id="idm139771562924272">danske</hi> Sprog har
 								Bibelrevisionen næppe ændret Chr. Pedersens Text, og skal man dømme
 								efter Palladius' Bibeloversættelser, har dette ikke været til Skade.</p>
               <p xml:id="idm139771562922752">Efter Oversættelsen af de tre Salmer følger som ovenfor omtalt nogle
@@ -697,17 +686,17 @@
 								Exempel:</p>
               <p xml:id="idm139771562908816">Joh. 5.24:<lb xml:id="idm139771562908528"/>
 								<cit xml:id="idm139771562908272"><bibl xml:id="idm139771562908144"><hi rend="italics" xml:id="idm139771562908016">Palladius' Oversættelse, S. 23, L.
-										21</hi></bibl><q xml:id="idm139771562907376">Huo der hører mine ord oc <hi rend="italics" xml:id="idm139771562907056"><!--<emph>-->troer den<!--</emph>--></hi>/ som mig
+										21</hi></bibl><q xml:id="idm139771562907376">Huo der hører mine ord oc <hi rend="italics" xml:id="idm139771562907056">troer den</hi>/ som mig
 										haffuer vdsent/ hand haffuer det euige liff/ oc kommer icke
-											<hi rend="italics" xml:id="idm139771562905904"><!--<emph>-->til
-										dommen<!--</emph>--></hi>/ Men <hi rend="italics" xml:id="idm139771562904896"><!--<emph>-->er hen trengt<!--</emph>--></hi> igennem
+											<hi rend="italics" xml:id="idm139771562905904">til
+										dommen</hi>/ Men <hi rend="italics" xml:id="idm139771562904896">er hen trengt</hi> igennem
 										fra døden til liffuit.</q></cit>
 								<cit xml:id="idm139771562903632"><bibl xml:id="idm139771562903504"><hi rend="italics" xml:id="idm139771562903376">Palladius' Oversættelse, S. 35, L.
-										18</hi></bibl><q xml:id="idm139771562902768">Huo der hører mine ord oc <hi rend="italics" xml:id="idm139771562902448"><!--<emph>-->troer paa den<!--</emph>--></hi> som meg
+										18</hi></bibl><q xml:id="idm139771562902768">Huo der hører mine ord oc <hi rend="italics" xml:id="idm139771562902448">troer paa den</hi> som meg
 										haffuer vdsent/ hand haffuer det euige liff/ oc kommer icke
-										i <hi rend="italics" xml:id="idm139771562901296"><!--<emph>-->dommen<!--</emph>--></hi>/
-										men <hi rend="italics" xml:id="idm139771562900288"><!--<emph>-->hand haffuer trengt
-											sig<!--</emph>--></hi> igennem fra døden til
+										i <hi rend="italics" xml:id="idm139771562901296">dommen</hi>/
+										men <hi rend="italics" xml:id="idm139771562900288">hand haffuer trengt
+											sig</hi> igennem fra døden til
 									liffuit.</q></cit>
 							</p>
               <p xml:id="idm139771562898880">Saa lidet bekymrede Sjællands Biskop, Lederen af Bibelkommissionen,
@@ -1560,7 +1549,7 @@
 							Reformationstiden Betydningen "enig". Jfr.
 							Indledn. foran S. 13.</p>
             <p xml:id="idm139771562630256">S. 27, L. 27. <hi rend="italics" xml:id="idm139771562629968">Naade Stoel</hi>, ty. <hi rend="italics" xml:id="idm139771562629248">gnadenstul</hi>, saaledes alle LutherBibler. Grundtexten
-							<!--&#7985;-->[x]<!--&#955;-->[x]<!--&#945;-->[x]<!--&#963;-->[x]<!--&#964;-->[x]<!--&#8053;-->[x]<!--&#961;-->[x]<!--&#953;-->[x]<!--&#959;-->[x]<!--&#957;-->[x]
+							[x][x][x][x][x][x][x][x][x][x]
 							"Sonoffer". At denne Betydning af
 							"gnadenstul" ikke forstodes, ses af Chr. Pedersens
 							Oversættelse (Danske Skr. III, 300): <hi rend="italics" xml:id="idm139771562624976">Huilken Gud
@@ -1860,7 +1849,7 @@
                 <hi rend="sup" xml:id="idm139771562487632">1</hi>
                 <p xml:id="idm139771562487008">Naar man betænker, med hvilken Troskab det kongelige Bud om at
 									følge Luthers Bibel Ord for Ord adlødes, saa at endog Trykfejl,
-									der var <hi rend="italics" xml:id="idm139771562486416"><!--<emph>-->indkommet<!--</emph>--></hi> i den reviderede
+									der var <hi rend="italics" xml:id="idm139771562486416">indkommet</hi> i den reviderede
 									Bibel 1545, samvittighedsfuldt overførtes i den danske Bibel
 									1550 i Stedet for den rette Læsemaade, som maa have staaet i
 									Chr. Pedersens Første-Oversættelse, saa bliver der unægtelig
@@ -1891,9 +1880,9 @@
 								snarere</p>
               </note>
               <pb n="52" xml:id="s52" facs="adl/palladius/palladius02/palladius02052"/>
-              <p xml:id="idm139771562472560">Gives <hi rend="italics" xml:id="idm139771562472272"><!--<emph>-->Bibelstederne<!--</emph>--></hi> i ganske forskellig
+              <p xml:id="idm139771562472560">Gives <hi rend="italics" xml:id="idm139771562472272">Bibelstederne</hi> i ganske forskellig
 								Form i Fortalen og Texten, kan man ikke vente, at Ensartetheden i
-									<hi rend="italics" xml:id="idm139771562471104"><!--<emph>-->Sprogform<!--</emph>--></hi> er
+									<hi rend="italics" xml:id="idm139771562471104">Sprogform</hi> er
 								gennemført. I Luc. 16. 29 har Fortalen saaledes <hi rend="italics" xml:id="idm139771562469952">høre sig dem</hi> (nf. S. 58, L. 1), Texten <hi rend="italics" xml:id="idm139771562469232">Lad dem høre dem</hi>, i Gal. 1. 9 <hi rend="italics" xml:id="idm139771562468496">bliffue
 									sig forbandet</hi> (nf. S. 58, L. 4), Texten <hi rend="italics" xml:id="idm139771562467744">Hand vere forbandet</hi>, i 1. Joh. 2.8 har Fortalen (nf. S.
 								58, L. 10) <hi rend="italics" xml:id="idm139771562466976">det sande Liuss skinner</hi> med den
@@ -1922,7 +1911,7 @@
 								omskrivende. Et Par Exempler herpaa skal anføres:<lb xml:id="idm139771562460704"/>
 								<cit xml:id="idm139771562460448"><q xml:id="idm139771562460320">Vulgata's <hi rend="italics" xml:id="idm139771562460032">scripta sunt</hi> end Erasmus'
 											<hi rend="italics" xml:id="idm139771562459296">præscripta sunf</hi>, der af Luther
-										noget misvisende gengives: <hi rend="italics" xml:id="idm139771562458528"><!--<emph>--><hi rend="italics" xml:id="idm139771562457936">was vorhin geschrieben ist</hi><!--</emph>--></hi> og troligt følges i den danske Bibeltexts: <hi rend="italics" xml:id="idm139771562456960">huad som er tilforn screffuit</hi>.</q></cit>
+										noget misvisende gengives: <hi rend="italics" xml:id="idm139771562458528"><hi rend="italics" xml:id="idm139771562457936">was vorhin geschrieben ist</hi></hi> og troligt følges i den danske Bibeltexts: <hi rend="italics" xml:id="idm139771562456960">huad som er tilforn screffuit</hi>.</q></cit>
 								<note anchored="true" xml:id="idm139771562456160"><hi rend="sup" xml:id="idm139771562455760">1</hi> Den ældre korte Form <hi rend="italics" xml:id="idm139771562455072">læss</hi> findes i Fortalen nf. S. 60, L. 28.</note>
 								<pb n="53" xml:id="s53" facs="adl/palladius/palladius02/palladius02053"/>
 								<cit xml:id="idm139771562453104"><bibl xml:id="idm139771562452976"><hi rend="italics" xml:id="idm139771562452848">Fortalen<lb xml:id="idm139771562452288"/> S</hi>. 55, <hi rend="italics" xml:id="idm139771562451872">L. 16 flg</hi>.</bibl><q xml:id="idm139771562451184">Mig tyckis det at være saare skadeligt at tro noget at vere
@@ -2298,7 +2287,7 @@
 							Bibeltexten: <hi rend="italics" xml:id="idm139771562343424">Gud er icke it Menniske at hand liuger
 							=</hi> Luther: <hi rend="italics" xml:id="idm139771562342672">Gott ist nicht ein Mensch das er
 							liege</hi>.</p>
-            <p xml:id="idm139771562341824">L. 12. <hi rend="italics" xml:id="idm139771562341536">In de uerb. Dñi scdm<!--&#771;-->[x].
+            <p xml:id="idm139771562341824">L. 12. <hi rend="italics" xml:id="idm139771562341536">In de uerb. Dñi scdm[x].
 								Matth. Sermo 20</hi> (Migne's Udg. V, Sp. 1890, Appendix, Sermo
 							LXXV. l: <hi rend="italics" xml:id="idm139771562340368">Fratres mei, obsecro vos, attendite
 								Scripturas sanctas, si aliquid fefellerunt; si aliquid dixerunt, et
@@ -2498,7 +2487,7 @@
                     <hi rend="italics" xml:id="idm139771562202608">ingen</hi>
                   </cell>
                   <cell role="data" rows="1" cols="1" xml:id="idm139771562201792">-</cell>
-                  <cell role="data" rows="1" cols="1" xml:id="idm139771562200656"><hi rend="italics" xml:id="idm139771562199776">igen</hi> (for <hi rend="italics" xml:id="idm139771562199056"><!--&#297;-->[x]gen</hi>).</cell>
+                  <cell role="data" rows="1" cols="1" xml:id="idm139771562200656"><hi rend="italics" xml:id="idm139771562199776">igen</hi> (for <hi rend="italics" xml:id="idm139771562199056">[x]gen</hi>).</cell>
                 </row>
                 <row role="data" xml:id="idm139771562197952">
                   <cell role="data" rows="1" cols="1" xml:id="idm139771562197424">S. 62</cell>
@@ -2534,16 +2523,16 @@
 								ikke Oversættelsens Præg, men viser ved sin Brug af folkelige
 								Billeder Slægtskab med Sproget i Visitatsbogen. Et Par Exempler
 								herpaa kan fremhæves. I det første Stykke, Bekendelsen, taler
-								Synderen om, hvorledes Menneskets Hjerte (<!--*dolgoeO*-->dvs.
+								Synderen om, hvorledes Menneskets Hjerte (dvs.
 								Sjælen) drages med af Sanserne i Syndens Fordærv: "Mine
-								fem Sind (<!--*dolgoeO*-->dvs. Sanser) har brugt sig mangfoldigt i
-								Synd; mit Hjærte har fulgt dem efter i mange Stykker <hi rend="italics" xml:id="idm139771562179712"><!--<emph>-->som et Nød til
-									Slagterboden"<!--</emph>--></hi>. I det andet Stykke,
+								fem Sind (dvs. Sanser) har brugt sig mangfoldigt i
+								Synd; mit Hjærte har fulgt dem efter i mange Stykker <hi rend="italics" xml:id="idm139771562179712">som et Nød til
+									Slagterboden"</hi>. I det andet Stykke,
 								Bønnen, beder Synderen, at han maa faa Kraft til at modstaa de onde
 								Lyster; "Styrk mig derfor, o Herre og Fader, og lær mig
 								den rette Kunst at styre mit Kød og Blod; og naar jeg bliver for
-								balstyrig <hi rend="italics" xml:id="idm139771562178112"><!--<emph>-->og kan ikke selv binde
-									mine onde Begæringer i Bidsel og Tømme<!--</emph>--></hi>, da
+								balstyrig <hi rend="italics" xml:id="idm139771562178112">og kan ikke selv binde
+									mine onde Begæringer i Bidsel og Tømme</hi>, da
 								vilt du hjælpe mig med dit hellige Kors - dog naadelige og
 								maadelige". Efter Bekendelsen og Bønnen følger
 								Taksigelsen, og dermed slutter Skriftet.</p>
@@ -2819,7 +2808,7 @@
 							Pine o. s. v.</p>
             <p xml:id="idm139771562077984">S. 79, L. 21. <hi rend="italics" xml:id="idm139771562077696">min kød oc blod</hi>; formodentlig
 							skyldes Fælleskønsformen Palladius' jydske Mundart; i de senere Udgaver
-							er den rettet til Intetkøn, ligesom dette er det <hi rend="italics" xml:id="idm139771562076672"><!--<emph>-->almindelige<!--</emph>--></hi> i Originaludgaven (se
+							er den rettet til Intetkøn, ligesom dette er det <hi rend="italics" xml:id="idm139771562076672">almindelige</hi> i Originaludgaven (se
 							S. 77 L. 6 og 30, S. 78 L. 3, 8 og 23) jfr. Kaikar II, 706<hi rend="sup" xml:id="idm139771562075520">b</hi>.</p>
             <p xml:id="idm139771562074768">S. 80, L. 9. <hi rend="italics" xml:id="idm139771562074512">opsæt</hi> "onde Anslag,
 							Rænker" (se Kaikar III, 356<hi rend="sup" xml:id="idm139771562073712">b</hi>).</p>
@@ -2941,9 +2930,9 @@
 										leben/ seele/ vnd alles was mein ist/ nicht außgenommen.
 										Gebrauch gegen mir/ süsse oder herbe artzneyen/ nach dem du
 										es meiner sucht vnnd gebrechen für nutz erkennest.</p>
-                  <note anchored="true" xml:id="idm139771562038064"><hi rend="sup" xml:id="idm139771562037664">1</hi> Naar de <hi rend="italics" xml:id="idm139771562037008"><!--<emph>-->første<!--</emph>--></hi> Bønner hos
-										Palladius svarer til <hi rend="italics" xml:id="idm139771562035856"><!--<emph>-->det
-											sidste<!--</emph>--></hi> Skrift i d. kgl. Biblioteks
+                  <note anchored="true" xml:id="idm139771562038064"><hi rend="sup" xml:id="idm139771562037664">1</hi> Naar de <hi rend="italics" xml:id="idm139771562037008">første</hi> Bønner hos
+										Palladius svarer til <hi rend="italics" xml:id="idm139771562035856">det
+											sidste</hi> Skrift i d. kgl. Biblioteks
 										Exemplar, saa skyldes dette sikkert, at Skrifterne tidligere
 										har løsnet sig fra Indbindingen og ved den ny Hæftning er
 										blevet ombyttede. De to Skrifter er trykt paa samme Papir, i
@@ -2958,7 +2947,7 @@
 										senere Bogbinder, og viser intet om den oprindelige
 										Rækkefølge. At denne har været modsat af den nuværende,
 										derfor taler for det første Palladius' Oversættelse, idet
-										der ingen som helst Grund er til at tro, <hi rend="italics" xml:id="idm139771562032672"><!--<emph>-->at han<!--</emph>--></hi> - saa
+										der ingen som helst Grund er til at tro, <hi rend="italics" xml:id="idm139771562032672">at han</hi> - saa
 										slavisk han følger Originalen - egenmægtig skulde
 										have ombyttet de to Traktater, og for det andet, at det med
 										Aarstal forsynede Skrift efter almindelig Skik maa antages
@@ -3072,8 +3061,8 @@
 								Palladius har her ladet sig vildlede af Originalens Tegnsætning, og
 								gjort Sætningen: <hi rend="italics" xml:id="idm139771561980272">Jeg veed ocsaa det</hi> o. s. v.
 								(L. 20) selvstændig, mens i Originalen den sidste Sætning staar som
-								Eftersætning til den første: <hi rend="italics" xml:id="idm139771561979312"><!--<emph>--><hi rend="italics" xml:id="idm139771561978720">dieweil zugleich auch die grosse
-										unausssprechliche liebe... nit minder vnbegreiflich</hi><!--</emph>--></hi>.. <hi rend="italics" xml:id="idm139771561977792">ist.. Derhalben so waiss ich auch</hi>..
+								Eftersætning til den første: <hi rend="italics" xml:id="idm139771561979312"><hi rend="italics" xml:id="idm139771561978720">dieweil zugleich auch die grosse
+										unausssprechliche liebe... nit minder vnbegreiflich</hi></hi>.. <hi rend="italics" xml:id="idm139771561977792">ist.. Derhalben so waiss ich auch</hi>..
 								Ikke meget bedre er det gaaet med Begyndelsen af 30. Bøn, der i
 								Orig. lyder: <hi rend="italics" xml:id="idm139771561976912">Die arbaitsäligkait/ Herr/ bewegt
 									die Barmherzigkait... Allweil dann meine arbaitsäligkaiten vnd
@@ -3090,14 +3079,14 @@
 								vel lyde: "Kummer, Herre, bevæger Barmhjertigheden! Al
 								den Stund mine Trængsler og Overtrædelser er større, end de kunde
 								tælles - saa at de ogsaa maatte overvinde Barmhjertigheden
-								- <hi rend="italics" xml:id="idm139771561971968"><!--<emph>-->saa<!--</emph>--></hi>
+								- <hi rend="italics" xml:id="idm139771561971968">saa</hi>
 								har jeg desto mere Haab...". - At <hi rend="italics" xml:id="idm139771561970864">übertrettungen</hi> af Palladius er oversat ved
 								Enkelttalsformen <hi rend="italics" xml:id="idm139771561970144">offuertredelse</hi> (hvilket Ord
 								saaledes skønt en Enhed kaldes "utallig"),
 								skyldes muligvis det følgende Pron. <hi rend="italics" xml:id="idm139771561969216">sy</hi>, som
 								Pall. i et Øjebliks Aandsfraværelse har givet Betydningen <hi rend="italics" xml:id="idm139771561968400">hun</hi> i Stedet for <hi rend="italics" xml:id="idm139771561967664">de</hi>;
 								Ordene paa <hi rend="italics" xml:id="idm139771561966976">-else</hi> er i Reformationstiden
-								Hunkøn, se f. Ex. Tavsens Smaaskr. S. 207<hi rend="sup" xml:id="idm139771561966128">16 </hi><hi rend="italics" xml:id="idm139771561965584">(søndz forladelse</hi>... <hi rend="italics" xml:id="idm139771561964848">hinde</hi>), men hos Palladius er <hi rend="italics" xml:id="idm139771561964112"><!--<emph>-->de dog<!--</emph>--></hi> i Reglen Fælleskøn.</note>
+								Hunkøn, se f. Ex. Tavsens Smaaskr. S. 207<hi rend="sup" xml:id="idm139771561966128">16 </hi><hi rend="italics" xml:id="idm139771561965584">(søndz forladelse</hi>... <hi rend="italics" xml:id="idm139771561964848">hinde</hi>), men hos Palladius er <hi rend="italics" xml:id="idm139771561964112">de dog</hi> i Reglen Fælleskøn.</note>
               <pb n="91" xml:id="s91" facs="adl/palladius/palladius02/palladius02091"/>
               <p xml:id="idm139771561961696">Endnu kan det nævnes, at i 26. Bøn er Betydningen af den partitive
 								Genitiv misforstaaet; Originalens <hi rend="italics" xml:id="idm139771561961200">das ich eben
@@ -4350,11 +4339,11 @@
             <p xml:id="idm139771561518688">S. 122, L. l flg. 29. Bøn = Von der Hoffnung, Bl. B3<hi rend="sup" xml:id="idm139771561518304">v</hi>
 							L. 4 f. o. flg. - L. 3: <hi rend="italics" xml:id="idm139771561517632">der</hi> som, ty.
 								<hi rend="italics" xml:id="idm139771561516944">So dann</hi>
-							<!--*dolgoeO*-->dvs. "efter som". - L.
+							dvs. "efter som". - L.
 							5- 6: <hi rend="italics" xml:id="idm139771561515856">met grædende taare</hi>, ty. <hi rend="italics" xml:id="idm139771561515152">mit wainenden augen</hi>. - L. 13: <hi rend="italics" xml:id="idm139771561514432">met en bedrøffuet Aand</hi> jfr. Indledningen S. 90.
 							- Samme L.: <hi rend="italics" xml:id="idm139771561513648">Marffue</hi>, Sammenhængen
 							fordrer <hi rend="italics" xml:id="idm139771561512880">Marffuen</hi>; Formen skyldes formentlig
-							Sætterfejl e for e<!--&#771;-->[x]; men da <hi rend="italics" xml:id="idm139771561511744"><!--<emph>-->alle<!--</emph>--></hi> Udgaver har <hi rend="italics" xml:id="idm139771561510704">Marffue (Marve</hi>), og da denne Form er ret hyppig i 15. og 16.
+							Sætterfejl e for e[x]; men da <hi rend="italics" xml:id="idm139771561511744">alle</hi> Udgaver har <hi rend="italics" xml:id="idm139771561510704">Marffue (Marve</hi>), og da denne Form er ret hyppig i 15. og 16.
 							Aarh.'s Litteratur, vilde det næppe være forsvarligt at ændre
 							Originalens Text. Den tyske Oversætt. har: <hi rend="italics" xml:id="idm139771561509664">maine
 								gebayn/ marck/ vnd gaist</hi>, Von der Hoffnung, Bl. B3<hi rend="sup" xml:id="idm139771561508912">v</hi> L. 11 f. n. - L. 15 flg.: ty. <hi rend="italics" xml:id="idm139771561508240">Ps. 51</hi> Marginalnote. Palladius citerer
@@ -4378,7 +4367,7 @@
             <p xml:id="idm139771561498896">S. 105, L. 9 <hi rend="italics" xml:id="idm139771561498608">from</hi> Orig. <hi rend="italics" xml:id="idm139771561497888">form</hi> - S. 106, L. 33 <hi rend="italics" xml:id="idm139771561497168">trøst</hi> Orig.
 								<hi rend="italics" xml:id="idm139771561496448">trost</hi> - S. 111, L. 27 <hi rend="italics" xml:id="idm139771561495728">forny</hi> Orig. <hi rend="italics" xml:id="idm139771561495008">forni
 							-</hi> s. L. <hi rend="italics" xml:id="idm139771561494288">affløss</hi> Orig. <hi rend="italics" xml:id="idm139771561493568">affloss</hi> - S. 113, L. 2 <hi rend="italics" xml:id="idm139771561492848">at hielp</hi> for af <hi rend="italics" xml:id="idm139771561492128">hielpe</hi>
-							Jydskhed. - L. 22 <hi rend="italics" xml:id="idm139771561491392">Forsiun</hi> Orig. <hi rend="italics" xml:id="idm139771561490672">Forsiu</hi> for <hi rend="italics" xml:id="idm139771561489952">Forsi<!--&#361;-->[x]</hi> - S. 115, L. 19 <hi rend="italics" xml:id="idm139771561488944">Aands Naade</hi> Orig. <hi rend="italics" xml:id="idm139771561488224">Aands.
+							Jydskhed. - L. 22 <hi rend="italics" xml:id="idm139771561491392">Forsiun</hi> Orig. <hi rend="italics" xml:id="idm139771561490672">Forsiu</hi> for <hi rend="italics" xml:id="idm139771561489952">Forsi[x]</hi> - S. 115, L. 19 <hi rend="italics" xml:id="idm139771561488944">Aands Naade</hi> Orig. <hi rend="italics" xml:id="idm139771561488224">Aands.
 								Naade -</hi> S. 117, L. 13 <hi rend="italics" xml:id="idm139771561487504">dissnarer</hi> Orig. <hi rend="italics" xml:id="idm139771561486784">bisnarer</hi>, Kustoden <hi rend="italics" xml:id="idm139771561486064">dissna -</hi> L. 30 <hi rend="italics" xml:id="idm139771561485344">det
 								første</hi> Orig. <hi rend="italics" xml:id="idm139771561484608">der første -</hi> S.
 							118, L. 23 <hi rend="italics" xml:id="idm139771561483872">omhu</hi> Orig. <hi rend="italics" xml:id="idm139771561483152">om
@@ -4547,14 +4536,14 @@
 								Hellige Skrift, som Savonarola har indført i sin Udtydning
 								- om Sankt Peder, Sankt Paul, den Synderinde, den fortabte
 								Søn, den kananeiske Kvinde, Røveren paa Korset og andre, som ogsaa
-								bekende dem, saavel som David gjorde, af hvilke <hi rend="italics" xml:id="idm139771561375952"><!--<emph>-->Exempler vi skulde ogsaa bekende os, at vi ere
-									Syndere<!--</emph>--></hi>". Denne Udtalelse er af
+								bekende dem, saavel som David gjorde, af hvilke <hi rend="italics" xml:id="idm139771561375952">Exempler vi skulde ogsaa bekende os, at vi ere
+									Syndere</hi>". Denne Udtalelse er af
 								ikke ringe Interesse til Oplysning om, hvor fjernt Palladius i
 								Virkeligheden stod det Skrift, han skulde gengive paa Dansk. Naar
 								Savonarola nævner disse Exempler, er det nemlig aldeles ikke for at
 								sige: "jeg bekender at have syndet ligesom
 								disse"; - hvilken Trøst vilde der være <pb n="137" xml:id="s137" facs="adl/palladius/palladius02/palladius02137"/> deri? -
-								det er for at dulme sin Kvide ved Tanken om, at <hi rend="italics" xml:id="idm139771561372976"><!--<emph>-->disse<!--</emph>--></hi> har syndet som han, og
+								det er for at dulme sin Kvide ved Tanken om, at <hi rend="italics" xml:id="idm139771561372976">disse</hi> har syndet som han, og
 								dog er de blevet frelste. Savonarolas Udlæggelse er et Trøsteskrift
 								for dem, hvem Syndsbevidstheden knuger, men i Palladius' Gengivelse
 								bliver det til en moraliserende Prædiken for de letfærdige, der ikke
@@ -4679,9 +4668,9 @@
 								han "i Sandhed ved, at Gud er det højeste Gode, altings
 								Begyndelse og Aarsag". Men Skylden er ikke Savonarolas. I
 								Orig. lyder nemlig Texten: "Thi jeg ved, at du er det
-								højeste, <hi rend="italics" xml:id="idm139771561337968"><!--<emph>-->hvis<!--</emph>--></hi> du
+								højeste, <hi rend="italics" xml:id="idm139771561337968">hvis</hi> du
 								da overhovedet er noget bestemt og ikke snarere alle Tings Aarsag,
-									<hi rend="italics" xml:id="idm139771561336816"><!--<emph>-->hvis<!--</emph>--></hi> du da er
+									<hi rend="italics" xml:id="idm139771561336816">hvis</hi> du da er
 								en Aarsag - thi jeg finder intet Navn, hvormed jeg kan
 								nævne din unævnelige Majestæt" <hi rend="italics" xml:id="idm139771561335568">(Scio
 									enim te summam esse rem, si tamen es res et non potius omnium
@@ -4734,8 +4723,8 @@
 									undtagelsesvis.</note>
 								<pb n="142" xml:id="s142" facs="adl/palladius/palladius02/palladius02142"/> Palladius'
 								Oversættelse: Savonarola har som Modsætning til Verdens Vise stillet
-								Guds Vise, Forkynderne af det gamle og ny Testament: de hellige <hi rend="italics" xml:id="idm139771561311888"><!--<emph>-->Profeter og de ringe
-									Fiskere<!--</emph>--></hi> (d. e. Apostlene); Originalens Udtryk
+								Guds Vise, Forkynderne af det gamle og ny Testament: de hellige <hi rend="italics" xml:id="idm139771561311888">Profeter og de ringe
+									Fiskere</hi> (d. e. Apostlene); Originalens Udtryk
 								er: <hi rend="italics" xml:id="idm139771561310768">quia</hi>.. <hi rend="italics" xml:id="idm139771561310112">reuelasti ea
 									paruulis, id est humilibus piscatoribus et sanctis prophetis
 									tuis (a humili pescatori et a sancti tuoi propheti</hi>).
@@ -4758,10 +4747,10 @@
 								skyldes Afvigelserne saaledes ikke Palladius, men Spangenberg. For
 								at bedømme Palladius' Oversættelse maa vi da karakterisere
 								Spangenbergs. Uoverensstemmelserne mellem denne og Savonarolas
-								Original er af to Arter: dels <hi rend="italics" xml:id="idm139771561301776"><!--<emph>-->ufrivillige<!--</emph>--></hi>, beroende paa
+								Original er af to Arter: dels <hi rend="italics" xml:id="idm139771561301776">ufrivillige</hi>, beroende paa
 								Oversætterens mangelfulde Kendskab til det latinske Sprog og
 								mangelfulde Forstaaelse af de Følelser og Tanker, Savonarola har
-								givet Udtryk, dels <hi rend="italics" xml:id="idm139771561300352"><!--<emph>-->tilsigtede<!--</emph>--></hi>, beroende paa Tidens
+								givet Udtryk, dels <hi rend="italics" xml:id="idm139771561300352">tilsigtede</hi>, beroende paa Tidens
 								Hang til sproglig Vidtløftighed, og - hvad der ikke er af
 								mindst Interesse - paa den rettroende Protestants Forsøg
 								paa at fjerne, hvad han ansaa for <pb n="143" xml:id="s143" facs="adl/palladius/palladius02/palladius02143"/> papistiske Reminiscenser. Lægger man
@@ -4794,13 +4783,13 @@
 								meningsløse - <hi rend="italics" xml:id="idm139771561287728">Aber der geist engstet
 									sich allein der sünden halben das er wider dich/ mein Gott/
 									gehandelt hat/ den er billich solt fürchten vnd lieben</hi>. Som
-								om det voldte Smerte at gøre Uret imod den, man <hi rend="italics" xml:id="idm139771561286592"><!--<emph>-->burde<!--</emph>--></hi> elske!</p>
+								om det voldte Smerte at gøre Uret imod den, man <hi rend="italics" xml:id="idm139771561286592">burde</hi> elske!</p>
               <p xml:id="idm139771561285424">Ikke mindre misvisende er Oversættelsen ndf. S. 174, L. 36 flg.: <hi rend="italics" xml:id="idm139771561285024">affslet icke alleniste min Skyld/ men ocsaa
 									Pinen/ Ja ocsaa roden oc optendelse til alle Synder</hi>; d. v.
-								s. Synderen beder, at Gud maa borttage ikke blot hans <hi rend="italics" xml:id="idm139771561284160"><!--<emph>-->Brøde<!--</emph>--></hi>, men ogsaa
-									<hi rend="italics" xml:id="idm139771561283120"><!--<emph>-->Pinen<!--</emph>--></hi> (d. e.
+								s. Synderen beder, at Gud maa borttage ikke blot hans <hi rend="italics" xml:id="idm139771561284160">Brøde</hi>, men ogsaa
+									<hi rend="italics" xml:id="idm139771561283120">Pinen</hi> (d. e.
 								Straffen derfor), ja ogsaa <pb n="144" xml:id="s144" facs="adl/palladius/palladius02/palladius02144"/>
-								<hi rend="italics" xml:id="idm139771561280912"><!--<emph>-->Aarsagen<!--</emph>--></hi> dertil.
+								<hi rend="italics" xml:id="idm139771561280912">Aarsagen</hi> dertil.
 								Rækkefølgen er paafaldende; men Skylden er heller ikke her
 								Savonarolas. Det tilsvarende Sted i Orig. lyder nemlig:
 								"Udslet ikke alene min Skyld og Brøde, men tilintetgør
@@ -4878,7 +4867,7 @@
               <p xml:id="idm139771561254608">De her nævnte Uoverensstemmelser mellem
 								Palladius-Spangenberg-Oversættelsen og Savonarolas Original skyldes
 								dels ligefremme Læsefejl, dels Ukyndighed i Originalens Sprog parret
-								med Ønsket om i Oversættelsen just at give <hi rend="italics" xml:id="idm139771561253840"><!--<emph>-->Sproget<!--</emph>--></hi> større Flugt og mindre
+								med Ønsket om i Oversættelsen just at give <hi rend="italics" xml:id="idm139771561253840">Sproget</hi> større Flugt og mindre
 								Voldsomhed. Men ved Siden af disse i hvert Fald halvt ufrivillige
 								Ændringer af Originalens Indhold, findes som nævnt i en Række
 								Tilfælde helt bevidste Fordrejninger af Savonarolas Text.</p>
@@ -4930,7 +4919,7 @@
 									Himmelen/ oc til det evige Liff</hi> (ndf. S. 195 L. 32 flg.).</p>
               <p xml:id="idm139771561238208">Udlægningen af det følgende Vers "Frels mig fra
 								Blod" er af Spangenberg tilpasset efter den fejlagtige
-								Opfattelse af <hi rend="italics" xml:id="idm139771561237664"><!--<emph>-->Blod<!--</emph>--></hi> som <hi rend="italics" xml:id="idm139771561236624"><!--<emph>-->Blodskyld<!--</emph>--></hi>, uden Hensyn til at
+								Opfattelse af <hi rend="italics" xml:id="idm139771561237664">Blod</hi> som <hi rend="italics" xml:id="idm139771561236624">Blodskyld</hi>, uden Hensyn til at
 								de af Savonarola brugte Lignelser derved ganske ødelægges.
 								Savonarola skriver: "Fri mig fra Blod, min Gud!... Jeg
 								drukner i Strømme af Blod <hi rend="italics" xml:id="idm139771561235184">(in multis sanguinibus
@@ -4959,14 +4948,14 @@
 									prædicatorum fructus? vbi monachorum sancta simplicitas? vbi
 									primorum Christianorum virtutes et opera?</hi>) Spangenberg
 								gengiver <hi rend="italics" xml:id="idm139771561227488">monachorum</hi> ved <hi rend="italics" xml:id="idm139771561226768">der Mönche vnd geistlichen</hi> og <hi rend="italics" xml:id="idm139771561226016">virtutes
-									et opera</hi> ved <hi rend="italics" xml:id="idm139771561225280"><!--<emph>--><hi rend="italics" xml:id="idm139771561224688">glaube/ tugenthafftig leben vnd wercke</hi><!--</emph>--></hi>. Palladius' Oversættelse, i hvilken Omtalen af Munkene helt er
+									et opera</hi> ved <hi rend="italics" xml:id="idm139771561225280"><hi rend="italics" xml:id="idm139771561224688">glaube/ tugenthafftig leben vnd wercke</hi></hi>. Palladius' Oversættelse, i hvilken Omtalen af Munkene helt er
 								udeladt, lyder: <hi rend="italics" xml:id="idm139771561223632">Huor er nu Apostlernis herlighed?
 									Hvor er de hellige Martyrers sterckhed? Huor er predickernes
 									Nytte oc Lycke? Huor er de Aandeliges enfoldighed? Huor er den
 									første Christen Tro/ dygdelig Leffnet oc Gerninger? (</hi>S. 203
 								L. 21 flg.). Som her de papistiske Munke er erstattet af det vagere
 								Udtryk "de Aandelige" og den lutheranske
-								Fordring om <hi rend="italics" xml:id="idm139771561222336"><!--<emph>-->Tro<!--</emph>--></hi>
+								Fordring om <hi rend="italics" xml:id="idm139771561222336">Tro</hi>
 								er føjet til den katolske om gode Gerninger (sml. Noten til S. 204
 								L. 5), saaledes ændres den følgende Sætning helt i lutheransk Aand.
 								I Orig. hedder det: "Da vil du med Glæde modtage dem, der
@@ -4996,7 +4985,7 @@
 								Jorderigs Fryd, nu vender sig indad mod ham selv, der martret i
 								Tvivl om, at de Ofre, han har bragt og vil bringe, er Gud
 								velbehagelige, saa han ved Guds Naade skal blive salig, udbryder
-								han: "Herre, jeg beder dig, hvad <hi rend="italics" xml:id="idm139771561214368"><!--<emph>-->da<!--</emph>--></hi> skal ske, lad det ske mig
+								han: "Herre, jeg beder dig, hvad <hi rend="italics" xml:id="idm139771561214368">da</hi> skal ske, lad det ske mig
 								nu.. at du vil modtage mig selv som et Retfærdigheds Offer, et
 								Helliggørelsens Brændoffer, et fromt Livs Heloffer - som
 								en Kalv paa dit Kors! Maatte det forundes mig ved dettes Hjælp at
@@ -5069,7 +5058,7 @@
 									aff huilken all Sandhed i Himmelen oc paa Jorden vdflyder oc
 									formeris</hi>, men hos Spangenberg hedder det for
 								"udflyder og formeres": <hi rend="italics" xml:id="idm139771561185328">fleust vnd genent wird</hi> (Orig. kun: <hi rend="italics" xml:id="idm139771561184608">nominatur</hi>). Den danske Oversættelses
-								"formeres" <!--*dolgoeO*-->dvs.
+								"formeres" dvs.
 								"forøges" for "benævnes"
 								skyldes vel, at Afskriveren eller Oversætteren har læst <hi rend="italics" xml:id="idm139771561183264">geneut</hi> i Stedet for <hi rend="italics" xml:id="idm139771561182576">genent</hi>.</p>
               <p xml:id="idm139771561181760">S. 184 L. 27 staar der: <hi rend="italics" xml:id="idm139771561181456">Mennisken er ligesom
@@ -5091,13 +5080,13 @@
 								Overspringning er blevet ganske ødelagt. Et andet Exempel skal her
 								anføres. I Udlægningen af 3. Vers skriver Savonarola: "Og
 								da du er barmhjertig, hvad er du da andet end Barmhjertigheden selv?
-									<hi rend="italics" xml:id="idm139771561174064"><!--<emph>-->Men hvad er jeg andet end Nøden
-									selv?<!--</emph>--></hi> Se, derfor, o Gud, du evige
+									<hi rend="italics" xml:id="idm139771561174064">Men hvad er jeg andet end Nøden
+									selv?</hi> Se, derfor, o Gud, du evige
 								Barmhjertighed, se mig, som er Nøden selv, for dit Aasyn! Hvad vil
 								du gøre, o <pb n="152" xml:id="s152" facs="adl/palladius/palladius02/palladius02152"/>
 								Barmhjertighed? dog vel din egen Gerning? Skulde du kunne vige fra
-								din egen Natur? <hi rend="italics" xml:id="idm139771561171408"><!--<emph>-->Og hvad er din egen
-									Gerning?<!--</emph>--></hi> At ende Nøden og at hjælpe den, som
+								din egen Natur? <hi rend="italics" xml:id="idm139771561171408">Og hvad er din egen
+									Gerning?</hi> At ende Nøden og at hjælpe den, som
 								lider Nød". I Palladius' Oversættelse er de to fremhævede
 								Sætninger sprunget over (se ndf. S. 171 L. 6-11), saa den
 								fastbyggede Aarsagsrække brydes; og denne Fejl maa være indkommet
@@ -5108,10 +5097,10 @@
 									<hi rend="italics" xml:id="idm139771561167664">forbarme dig offuer mig.. at du vender dig
 									til mig / vdsletter mine Synder</hi>. Den fremhævede Sætning maa
 								opfattes, som om Synderen beder Gud vende sig til ham
-								<!--*dolgoeO*-->dvs. ikke glemme ham; men i Spangenbergs
+								dvs. ikke glemme ham; men i Spangenbergs
 								Oversættelse lyder den: <hi rend="italics" xml:id="idm139771561166208">das du mich zu dir
 									bekerest</hi> (= Orig. <hi rend="italics" xml:id="idm139771561165504">vt me ad te
-								convertas</hi>), altsaa: at du vender mig til <hi rend="italics" xml:id="idm139771561164752"><!--<emph>-->dig<!--</emph>--></hi>, d. v. s. at du gør mig
+								convertas</hi>), altsaa: at du vender mig til <hi rend="italics" xml:id="idm139771561164752">dig</hi>, d. v. s. at du gør mig
 								gudhengiven.</p>
               <p xml:id="idm139771561163472">S. 190 L. 2-4 har Palladius: <hi rend="italics" xml:id="idm139771561163168">Smaa oc
 									foractelige gaffuer ere de legemlige oc forgenglige ting/ Men
@@ -5361,7 +5350,7 @@
 								Bogtrykker, og da den typografiske Udstyrelse i de tre Skrifter er
 								fuldstændig ensartet, er der en til Vished grænsende Sandsynlighed
 								for, at det midterste Skrift er trykt samtidig med det første og
-								sidste Skrift <!--*dolgoeO*-->dvs. at alle tre Skrifter er udkommet
+								sidste Skrift dvs. at alle tre Skrifter er udkommet
 								i ét Bind 1558, men hvert forsynet med selvstændigt Titelblad og
 								Signatur, som det var saa almindeligt i 16. og 17. Aarh. Dette
 								bekræftes ved, at det Hellæderbind, de er indbundet i, ikke er et
@@ -5439,7 +5428,7 @@
 									<hi rend="italics" xml:id="idm139771561023552">oc</hi>, <hi rend="italics" xml:id="idm139771561022896">gegraffuit</hi>
 								til <hi rend="italics" xml:id="idm139771561022176">begraffuit, Samiritan</hi> til <hi rend="italics" xml:id="idm139771561021456">Samaritan, foriertelse</hi> til <hi rend="italics" xml:id="idm139771561020736">forieftelse</hi> o. lign., derimod er selv ganske
 								meningsforstyrrende Sætterfejl bevaret, naar blot det trykte Ord
-								overhovedet fandtes i <pb n="161" xml:id="s161" facs="adl/palladius/palladius02/palladius02161"/> Sproget, saaledes <hi rend="italics" xml:id="idm139771561018544">den</hi> for <hi rend="italics" xml:id="idm139771561017808">dem</hi> S. 192 L. 18, <hi rend="italics" xml:id="idm139771561017120">igen</hi> for <hi rend="italics" xml:id="idm139771561016400"><!--&#297;-->[x]gen</hi>
+								overhovedet fandtes i <pb n="161" xml:id="s161" facs="adl/palladius/palladius02/palladius02161"/> Sproget, saaledes <hi rend="italics" xml:id="idm139771561018544">den</hi> for <hi rend="italics" xml:id="idm139771561017808">dem</hi> S. 192 L. 18, <hi rend="italics" xml:id="idm139771561017120">igen</hi> for <hi rend="italics" xml:id="idm139771561016400">[x]gen</hi>
 								(ingen) S. 197 L. 20, <hi rend="italics" xml:id="idm139771561015504">Regerer</hi> for <hi rend="italics" xml:id="idm139771561014784">Begerer</hi> S. 200 L. 7, <hi rend="italics" xml:id="idm139771561014064">beste</hi>
 								<lb xml:id="idm139771561013376"/>
 								<figure xml:id="idm139771561013120"/>
@@ -5453,7 +5442,7 @@
 								tværtimod er de citerede Rettelser <hi rend="italics" xml:id="idm139771561006704">gegraffuit</hi> til <hi rend="italics" xml:id="idm139771561005984">begraffuit</hi> osv. et
 								sikkert Vidnesbyrd om, at Ambrosius Kirchner maa have haft danske
 								Svende i sit Trykkeri; og andre tilfældige Rettelser som <hi rend="italics" xml:id="idm139771561004976">fød&gt;født, kød&gt;kiød, allene</hi> til
-									<hi rend="italics" xml:id="idm139771561004192">alene</hi> o. lign. viser, at det er <hi rend="italics" xml:id="idm139771561003456"><!--<emph>-->Sætteren<!--</emph>--></hi> (ikke
+									<hi rend="italics" xml:id="idm139771561004192">alene</hi> o. lign. viser, at det er <hi rend="italics" xml:id="idm139771561003456">Sætteren</hi> (ikke
 								alene Korrektøren), der har været dansk, thi den Slags ortografiske
 								Ændringer vilde en Korrektør i 16. Aarh. aldrig foretage.</note>
             </div>
@@ -7159,14 +7148,14 @@
 								forvansket, se Indl. S. 140-41.</p>
               <p xml:id="idm139771560382464">S. 171, L. 3-4. <hi rend="italics" xml:id="idm139771560382176">den euige Visdom/ Den
 									euige Barmhiertighed/ Den euige Mact oc Salighed =</hi>
-								Spangenberg: <hi rend="italics" xml:id="idm139771560381392"><!--<emph>--><hi rend="italics" xml:id="idm139771560380800">die ewige weisheit/ die ewige gütigkeit/ die
-										ewige Gewalt vnd seligkeit</hi><!--</emph>--></hi>, men Orig. <hi rend="italics" xml:id="idm139771560379808">sapientia tua, bonitas tua,
+								Spangenberg: <hi rend="italics" xml:id="idm139771560381392"><hi rend="italics" xml:id="idm139771560380800">die ewige weisheit/ die ewige gütigkeit/ die
+										ewige Gewalt vnd seligkeit</hi></hi>, men Orig. <hi rend="italics" xml:id="idm139771560379808">sapientia tua, bonitas tua,
 									potentia tua et summa felicitas tua</hi>. De ældre tyske
-								Oversættelser følger her som ellers Orig., har altsaa <hi rend="italics" xml:id="idm139771560378880"><!--<emph>--><hi rend="italics" xml:id="idm139771560378288">dein</hi><!--</emph>--></hi>, ikke <hi rend="italics" xml:id="idm139771560377440"><!--<emph>--><hi rend="italics" xml:id="idm139771560376848">die</hi><!--</emph>--></hi>.</p>
+								Oversættelser følger her som ellers Orig., har altsaa <hi rend="italics" xml:id="idm139771560378880"><hi rend="italics" xml:id="idm139771560378288">dein</hi></hi>, ikke <hi rend="italics" xml:id="idm139771560377440"><hi rend="italics" xml:id="idm139771560376848">die</hi></hi>.</p>
               <p xml:id="idm139771560375856">S. 171, L. 6-11. Palladius' Gengivelse forvansker
 								Spangenbergs, se Indl. S. 151-52.</p>
               <p xml:id="idm139771560375360">S. 171, L. 9. <hi rend="italics" xml:id="idm139771560375104">Sandelige du maat icke forkomme din
-									egen Gerning <!--*dolgoeO*-->dvs.</hi> Du maa gøre (fuldkomme)
+									egen Gerning dvs.</hi> Du maa gøre (fuldkomme)
 								din Gerning = Spangenberg: <hi rend="italics" xml:id="idm139771560373904">Warlich dein eigen
 									werck mustu verbringen</hi> (= Orig. <hi rend="italics" xml:id="idm139771560373152">certe
 									opus tuum</hi> scil. <hi rend="italics" xml:id="idm139771560372416">facies</hi>). Jfr.
@@ -7428,7 +7417,7 @@
               <p xml:id="idm139771560171104">S. 197, L. 26. <hi rend="italics" xml:id="idm139771560170816">Vor Tunge skal haffue
 								offuerhaand</hi> etc. Ps. 12.5.</p>
               <p xml:id="idm139771560169936">S. 197. L. 31. oc <hi rend="italics" xml:id="idm139771560169648">holde stort aff sig selffe
-									<!--*dolgoeO*-->dvs.</hi> "holde sig selv for noget
+									dvs.</hi> "holde sig selv for noget
 								stort", Spangenberg: <hi rend="italics" xml:id="idm139771560168544">vnd halten gros
 									von jn selbs</hi> (Orig.: <hi rend="italics" xml:id="idm139771560167808">se ipsos
 									magnificare volebant</hi>). Sml. "holde
@@ -7580,7 +7569,7 @@
 								bekender "med bestandige og utvivlagtige Ord for Gud, at
 									<hi rend="italics" xml:id="idm139771560094112">Barnet er med Djævlen besat"</hi>.</p>
               <p xml:id="idm139771560093248">Denne Opfattelse af Daaben bidrog imidlertid ikke blot til at uddybe
-								Kløften mellem Lutheranere og Reformerte, men fremkaldte ogsaa <hi rend="italics" xml:id="idm139771560092688"><!--<emph>-->indenfor<!--</emph>--></hi> de
+								Kløften mellem Lutheranere og Reformerte, men fremkaldte ogsaa <hi rend="italics" xml:id="idm139771560092688">indenfor</hi> de
 								lutherske Kirkesamfund bitre Stridigheder, idet der ikke var faa,
 								som - med de Reformerte - i Djævlebesværgelsen
 								saa "ret papistisk Surdeig". En saadan Strid
@@ -7605,7 +7594,7 @@
 								Forsvar hævder den noget tvivlsomme Grundsætning, at hvad der ikke
 								er forbudt, er tilladt. Han skriver: "Det kan nok være,
 								at Skriften intetsteds siger, at Profeterne, den Herre Kristus og
-								Apostlene har brugt eller befalet at bruge Ordet <hi rend="italics" xml:id="idm139771560086336"><!--<emph>-->besværge<!--</emph>--></hi> ved Djævleuddrivelse,
+								Apostlene har brugt eller befalet at bruge Ordet <hi rend="italics" xml:id="idm139771560086336">besværge</hi> ved Djævleuddrivelse,
 								men paa den anden Side kan man dog heller ikke nægte, at Skriften
 								ingensinde og intetsteds antyder, at Profeterne, den Herre Kristus
 								og Apostlene aldrig eller aldeles ikke har brugt dette Ord <pb n="223" xml:id="s223" facs="adl/palladius/palladius02/palladius02223"/> eller har forbudt
@@ -7680,16 +7669,16 @@
 									(Kirkehist. Saml. 3. R. I 248 flg. jfr. 269 og 301 flg.).</note>
 								<note anchored="true" xml:id="idm139771560062016"><hi rend="sup" xml:id="idm139771560061616">3</hi> Biskop Engelstoft skriver herom:
 									"Exorcismen var omsider blevet erkjendt for
-									uforenelig med <hi rend="italics" xml:id="idm139771560060864"><!--<emph>-->sunde<!--</emph>--></hi> Begreber om
+									uforenelig med <hi rend="italics" xml:id="idm139771560060864">sunde</hi> Begreber om
 									Gud" (S. 200). Om de af hans Forgængere domfældte
-									Rebeller skriver han: "<hi rend="italics" xml:id="idm139771560059600"><!--<emph>-->til Ære<!--</emph>--></hi> for den danske
+									Rebeller skriver han: "<hi rend="italics" xml:id="idm139771560059600">til Ære</hi> for den danske
 									Kirke var der stedse dem, der fandt denne Exorcisme
 									stødende" (S. 191).</note>
 								<pb n="225" xml:id="s225" facs="adl/palladius/palladius02/palladius02225"/>
 								<hi rend="italics" xml:id="idm139771560057024">nød och</hi> rang, Orig. <hi rend="italics" xml:id="idm139771560056304">on
 									not</hi>, men omvendt S. 240 L. 2 <hi rend="italics" xml:id="idm139771560055568">stadfestis</hi>, Orig. <hi rend="italics" xml:id="idm139771560054848">confirmiret vnd
 									bestetiget wird</hi>). Originalens Ordvalg følges slavisk: Orig.
-									<hi rend="italics" xml:id="idm139771560054000">straffen</hi> ( <!--*dolgoeO*-->dvs. dadle)
+									<hi rend="italics" xml:id="idm139771560054000">straffen</hi> ( dvs. dadle)
 									<hi rend="italics" xml:id="idm139771560052960">oder verwerffen</hi>, Pall. <hi rend="italics" xml:id="idm139771560052240">straffe eller forkaste</hi>, ndf. S. 242 L. 34 og
 								35; Orig. <hi rend="italics" xml:id="idm139771560051488">purgierte vnd reinigete</hi>, Pall. <hi rend="italics" xml:id="idm139771560050768">schulde purgere och rensse sig</hi>, ndf. S. 249
 								L. 14 osv.<hi rend="sup" xml:id="idm139771560050016">1</hi>. Mærkeligt er det, at der er saa
@@ -7814,7 +7803,7 @@
 								indeholder Afskriften kun selve Justus Menius' Skrift, mens saa godt
 								som alle Palladius' trykte Arbejder - Oversættelser saavel
 								som Originaler - er forsynet med Fortale, Tilegnelse eller
-								Efterskrift; og at Afskriveren skulde have <hi rend="italics" xml:id="idm139771560012736"><!--<emph>-->udeladt<!--</emph>--></hi> Forord eller
+								Efterskrift; og at Afskriveren skulde have <hi rend="italics" xml:id="idm139771560012736">udeladt</hi> Forord eller
 								Efterskrift, er der ingen som helst Grund til at antage. For det
 								andet omtales ikke - saa vidt jeg har kunnet efterspore
 								- noget Tryk af Palladius' Oversættelse, ældre end
@@ -7832,8 +7821,8 @@
 								existerende Afskrift kunde udfyldes. Afskriveren har nemlig
 								adskillige Steder oversprunget Sætningsbrudstykker, idet han har
 								begaaet den almindelige Afskriverfejl at springe fra ét Ord til et
-								ligelydende. At Overspringelsen skyldes, at <hi rend="italics" xml:id="idm139771560008272"><!--<emph>-->Afskriveren<!--</emph>--></hi> har læst Palladius'
-								Oversættelse skødesløst, ikke at <hi rend="italics" xml:id="idm139771560007088"><!--<emph>-->Palladius<!--</emph>--></hi> har læst den tyske
+								ligelydende. At Overspringelsen skyldes, at <hi rend="italics" xml:id="idm139771560008272">Afskriveren</hi> har læst Palladius'
+								Oversættelse skødesløst, ikke at <hi rend="italics" xml:id="idm139771560007088">Palladius</hi> har læst den tyske
 								Orig. flygtigt, kan man, takket Forskellen i den tyske og danske
 								Sætningskonstruktion, med Sikkerhed slutte. Nogle Exempler skal
 								anføres. Justus Menius skriver, hvorledes Jesus og Apostlene ikke
@@ -7850,13 +7839,13 @@
 									och hans Befalning/ och aff hans mact</hi>. Det oversprungne,
 								som har staaet efter "Navn", maa omtrent have
 								lydt: "det ske nu med Fremsigen, Byden eller Besværgelse,
-								alene at det sker <hi rend="italics" xml:id="idm139771560003184"><!--<emph>-->udi hans
-									Navn"<!--</emph>--></hi>. Afskriveren har altsaa
+								alene at det sker <hi rend="italics" xml:id="idm139771560003184">udi hans
+									Navn"</hi>. Afskriveren har altsaa
 								sprunget fra det første <hi rend="italics" xml:id="idm139771560002016">udi hans Navn</hi> til
 								det andet. Havde det derimod været Palladius, hvis Øje var gledet
 								fra det første <hi rend="italics" xml:id="idm139771560001136">in seinem Namen</hi> til det andet
 								ligelydende Udtryk, vil det ses, at Oversættelsen maatte have lydt
-								ganske anderledes, idet Verberne i Tysk følger <hi rend="italics" xml:id="idm139771560000144"><!--<emph>-->efter<!--</emph>--></hi>
+								ganske anderledes, idet Verberne i Tysk følger <hi rend="italics" xml:id="idm139771560000144">efter</hi>
 								"Navn", saa Verbet <hi rend="italics" xml:id="idm139771559999056">austreiben solten/ vnd mochten</hi> var blevet oversprunget,
 								mens det sidste Verbum <hi rend="italics" xml:id="idm139771559998304">geschehe</hi> var kommet
 								med. Heller ikke kan Udeladelsen - som ved
@@ -7864,8 +7853,8 @@
 								Pall. har oversat efter en defekt Afskrift af den tyske Original:
 								til Grund for den danske Oversættelse maa ligge en fuldstændig Text,
 								det kan kun være ved Afskrift af Oversættelsen, at Fejlen er sket
-								Nogle Steder <hi rend="italics" xml:id="idm139771559995568"><!--<emph>-->kunde
-								dog<!--</emph>--></hi> Udeladelsen skyldes Palladius, f. Ex. S. 244
+								Nogle Steder <hi rend="italics" xml:id="idm139771559995568">kunde
+								dog</hi> Udeladelsen skyldes Palladius, f. Ex. S. 244
 								L. 8-12. Originaltexten har her: <hi rend="italics" xml:id="idm139771559994432">Darumb
 									solt man die wort/ Fare aus du vnreiner Geist etc. Sampt dem
 									nachfolgenden Exorcismo/ Ich beschwere dich du vnreiner Geist
@@ -7877,8 +7866,8 @@
 								"du vnreiner Geist etc." til det andet; men
 								Skylden kan ogsaa være Afskriverens, idet den udeladte Sætning maa
 								have lydt omtrent saaledes "samt den efterfølgende
-								Exorcismum Jeg besværger dig <hi rend="italics" xml:id="idm139771559992048"><!--<emph>-->du
-									urene Aand etc<!--</emph>--></hi>.", altsaa vilde
+								Exorcismum Jeg besværger dig <hi rend="italics" xml:id="idm139771559992048">du
+									urene Aand etc</hi>.", altsaa vilde
 								Resultatet blive det samme, om han havde sprunget fra det første
 								"du urene Aand etc." til det andet. Da nu
 								Afskriften i det hele er skødesløs - andre
@@ -8979,7 +8968,7 @@
           <pb n="268" xml:id="s268" facs="adl/palladius/palladius02/palladius02268"/>
           <div xml:id="idm139771559739456">
             <head xml:id="idm139771559739200">TEXTRETTELSER.</head>
-            <p xml:id="idm139771559738784">S. 238, L. 29. som <hi rend="italics" xml:id="idm139771559738496">sigis <!--&#8800;--> = som
+            <p xml:id="idm139771559738784">S. 238, L. 29. som <hi rend="italics" xml:id="idm139771559738496">sigis  = som
 								sigis</hi> L. 27 = ty.<hi rend="sup" xml:id="idm139771559737456">1 da</hi>.. <hi rend="italics" xml:id="idm139771559736800">gesaget wird|</hi> 1751<hi rend="sup" xml:id="idm139771559736080">1</hi>, S. 4: som <hi rend="italics" xml:id="idm139771559735424">siges</hi>. Orig. <hi rend="italics" xml:id="idm139771559734704">sigis</hi>.</p>
             <p xml:id="idm139771559733888">S. 239, L. 12. <hi rend="italics" xml:id="idm139771559733600">aldelis i enn viss Tro</hi> = ty. i<hi rend="italics" xml:id="idm139771559732880">n gantz gewissen Glauben</hi>. Orig. <hi rend="italics" xml:id="idm139771559732192">aldelis enn viss Tro =</hi> 1751, S. 4</p>
             <p xml:id="idm139771559731344">S. 242, L. 4. <hi rend="italics" xml:id="idm139771559731056">døbis</hi>/, Orig. <hi rend="italics" xml:id="idm139771559730336">døbis</hi>.</p>
@@ -9026,7 +9015,7 @@
 								det folck</hi>.</p>
             <p xml:id="idm139771559690672">S. 247, L. 22. <hi rend="italics" xml:id="idm139771559690384">opheffuis [...] och</hi>, Orig. <hi rend="italics" xml:id="idm139771559689664">opheffuis och =</hi> 1751, S. 13. Se Noten ndf. S.
 							273.</p>
-            <p xml:id="idm139771559688784">S. 247, L. 23. <hi rend="italics" xml:id="idm139771559688496">dit Liff forsuindis <!--&#8800;-->
+            <p xml:id="idm139771559688784">S. 247, L. 23. <hi rend="italics" xml:id="idm139771559688496">dit Liff forsuindis 
 								= L. 22 dine Lender forsuindis</hi> og = 1751, S. 13 <hi rend="italics" xml:id="idm139771559687440">dit Liv forsvindes</hi>. Orig. <hi rend="italics" xml:id="idm139771559686720">dit
 								Liff forsuinder</hi>; ty. begge Steder: <hi rend="italics" xml:id="idm139771559685984">deine
 								hüffte schwinden</hi>.</p>
@@ -9040,7 +9029,7 @@
             <p xml:id="idm139771559674032">S. 250, L. 35. <hi rend="italics" xml:id="idm139771559673744">sommestedtz</hi> = <hi rend="italics" xml:id="idm139771559673056">an etlichen örten</hi> og 1751, S. 17 <hi rend="italics" xml:id="idm139771559672320">somesteds</hi>. Orig. <hi rend="italics" xml:id="idm139771559671600">sammestedtz</hi>.</p>
             <p xml:id="idm139771559670784">S. 250, L. 36. <hi rend="italics" xml:id="idm139771559670496">Stedl</hi>, Orig. Sted, rettet til <hi rend="italics" xml:id="idm139771559669760">Stedl(?</hi>).</p>
             <p xml:id="idm139771559668944">S. 251, L. 12. Randnote; <hi rend="italics" xml:id="idm139771559668640">Responsum</hi>. I Orig. staar
-							der i <hi rend="italics" xml:id="idm139771559667904"><!--<emph>-->Texten<!--</emph>--></hi>: <hi rend="italics" xml:id="idm139771559666864">Responsum. Suar</hi>. 1751 kun <hi rend="italics" xml:id="idm139771559666176">Svar</hi>.</p>
+							der i <hi rend="italics" xml:id="idm139771559667904">Texten</hi>: <hi rend="italics" xml:id="idm139771559666864">Responsum. Suar</hi>. 1751 kun <hi rend="italics" xml:id="idm139771559666176">Svar</hi>.</p>
             <p xml:id="idm139771559665360">S. 251, L. 27-28. <hi rend="italics" xml:id="idm139771559665072">efther dend Herris Christi
 								fødzel</hi> = ty. nacft der <hi rend="italics" xml:id="idm139771559664288">geburt des Herrn
 								Christi</hi>. Orig. <hi rend="italics" xml:id="idm139771559663552">efther dend Herris Christi
@@ -9104,7 +9093,7 @@
             <p xml:id="idm139771559611984">S. 237, L. 16-18. <hi rend="italics" xml:id="idm139771559611696">derthill ochsaa erre de
 								Oss i det høyeste thill Besuerring</hi>... <hi rend="italics" xml:id="idm139771559610864">hooss
 								vore modstandere</hi>
-							<!--*dolgoeO*-->dvs. dertil besvære de, neml. Rebellerne indenfor den
+							dvs. dertil besvære de, neml. Rebellerne indenfor den
 							lutherske Kirke, os i høj Grad hos vore Modstandere, nemlig hos de
 							Reformerte. Det er de Ortodoxes stadige Klage, at de mere frisindede
 							Lutheranere ved at fordømme Exorcismen giver de Reformerte Vaaben i
@@ -9128,7 +9117,7 @@
 								- som strider imod Daaben i sig selff</hi>, Orig. <hi rend="italics" xml:id="idm139771559599792">der die Tauffe an jr selbst auch anfichtet</hi>.</p>
             <p xml:id="idm139771559598944">S. 243, L. 14-17. <hi rend="italics" xml:id="idm139771559598656">da straffedis dett
 								thilbørlig - dend hellige Daab</hi>
-							<!--*dolgoeO*-->dvs. da var der Grund til at forkaste denne Handling
+							dvs. da var der Grund til at forkaste denne Handling
 							(Exorcismen), og da kunde ingen med Rette sige, at den som angreb et
 							saadant Misbrug, derved samtidig angreb Daaben (Orig.: so <hi rend="italics" xml:id="idm139771559597312">würde sie billich gestraffet/ vnd dürffte noch köndte
 								niemand sagen/ wer solchen missbrauch straffete/ das der selb die
@@ -9141,12 +9130,12 @@
 							vnfletige Geist), S. 245, L. 27 <hi rend="italics" xml:id="idm139771559590960">denne wrene Aand</hi>
 							(der vnfletige Geist) og S. 258, L. 6-7 ironisk: <hi rend="italics" xml:id="idm139771559590192">denne skønne Aand</hi> (dieser zarte Geist).</p>
             <p xml:id="idm139771559589328">S. 244, L. 3. <hi rend="italics" xml:id="idm139771559589040">udi dend naturlige legomlige
-							fødtzell</hi>, Orig. <hi rend="italics" xml:id="idm139771559588240"><!--<emph>--><hi rend="italics" xml:id="idm139771559587648">von der natürlichen leiblichen geburt her</hi><!--</emph>--></hi>.</p>
+							fødtzell</hi>, Orig. <hi rend="italics" xml:id="idm139771559588240"><hi rend="italics" xml:id="idm139771559587648">von der natürlichen leiblichen geburt her</hi></hi>.</p>
             <p xml:id="idm139771559586608">S. 244, L. 9-10. Efter <hi rend="italics" xml:id="idm139771559586352">du wrene Aand
 							etc</hi>. er i Afskriften oversprunget en Sætning, der omtrent maa have
 							lydt: "Samt den efterfølgende Exorcismum/ Jeg besværger dig
-								<hi rend="italics" xml:id="idm139771559585344"><!--<emph>-->du urene Aand
-								etc."<!--</emph>--></hi>, svarende til Orig. <hi rend="italics" xml:id="idm139771559584288">Sampt dem nachfolgenden Exorcismo/ Ich beschwere dich
+								<hi rend="italics" xml:id="idm139771559585344">du urene Aand
+								etc."</hi>, svarende til Orig. <hi rend="italics" xml:id="idm139771559584288">Sampt dem nachfolgenden Exorcismo/ Ich beschwere dich
 								du vnreiner Geist etc</hi>. Jfr. Indl. S. 229.</p>
             <p xml:id="idm139771559583376">S. 244, L. 19. <hi rend="italics" xml:id="idm139771559583088">teer och øffuer sig udi och med
 							Naturen</hi>, Orig. <hi rend="italics" xml:id="idm139771559582288">jn vnd mit der Natur/ jmerdar
@@ -9154,7 +9143,7 @@
             <p xml:id="idm139771559581440">S. 245, L. 30. <hi rend="italics" xml:id="idm139771559581152">(som dennom tyckis</hi>), Orig. <hi rend="italics" xml:id="idm139771559580432">(jres bedünckens</hi>); Udtrykket maa forstaas som en
 							Reservation fra Justus Menius' Side: Iblandt alle deres Anklager er der
 							kun to, der har Spor af Berettigelse (ein weinig scheins vnd ansehens)
-							- vel at mærke efter <hi rend="italics" xml:id="idm139771559579280"><!--<emph>-->deres<!--</emph>--></hi> Opfattelse, thi efter min er
+							- vel at mærke efter <hi rend="italics" xml:id="idm139771559579280">deres</hi> Opfattelse, thi efter min er
 							ogsaa disse ganske uholdbare.</p>
             <p xml:id="idm139771559578032">S. 246, L. 2. Joh. Ev. 8.44.</p>
             <p xml:id="idm139771559577600">S. 246, L. 12-16. <hi rend="italics" xml:id="idm139771559577344">Saa langt som dette
@@ -9202,8 +9191,8 @@
             <p xml:id="idm139771559556448">S. 247, L. 8. 1. Sam. 14.24 og 26.</p>
             <p xml:id="idm139771559556016">S. 247, L. 15-23. 4. Mos. 5.18-22. Efter <hi rend="italics" xml:id="idm139771559555696">din Bug opheffuis</hi> (L. 22) har Afskr.
 							oversprunget en Sætning, der maa have lydt: "Saa gaa nu det
-							forbandede Vand i dit Liv/ at <hi rend="italics" xml:id="idm139771559554736"><!--<emph>-->din Bug
-								ophæves<!--</emph>--></hi>", svarende til Orig. <hi rend="italics" xml:id="idm139771559553664">So gehe nu das verfluchte wasser in deinen leib/ das
+							forbandede Vand i dit Liv/ at <hi rend="italics" xml:id="idm139771559554736">din Bug
+								ophæves</hi>", svarende til Orig. <hi rend="italics" xml:id="idm139771559553664">So gehe nu das verfluchte wasser in deinen leib/ das
 								dein bauch schwette</hi>.</p>
             <p xml:id="idm139771559552784">S. 247, L. 23. <hi rend="italics" xml:id="idm139771559552496">dit Liff =</hi> Biblen 1550; Luther og
 							Just. Menius det ensbetydende <hi rend="italics" xml:id="idm139771559551728">deine hüffte</hi>.</p>
@@ -9217,13 +9206,13 @@
             <p xml:id="idm139771559546032">S. 248, L. 27. <hi rend="italics" xml:id="idm139771559545744">lide</hi>, her ligesom S. 249 L. 9, S.
 							250 L. 33 o. fl. brugt i Betydning "tillade"
 							(Orig. <hi rend="italics" xml:id="idm139771559544944">leiden</hi>); jfr. Kaikar II. 786.</p>
-            <p xml:id="idm139771559544096">S. 248, L. 35. <hi rend="italics" xml:id="idm139771559543808">for sin eckte Mandl</hi> = Orig. <hi rend="italics" xml:id="idm139771559543088"><!--<emph>--><hi rend="italics" xml:id="idm139771559542496">gegen dem Ehemanne</hi><!--</emph>--></hi>.</p>
+            <p xml:id="idm139771559544096">S. 248, L. 35. <hi rend="italics" xml:id="idm139771559543808">for sin eckte Mandl</hi> = Orig. <hi rend="italics" xml:id="idm139771559543088"><hi rend="italics" xml:id="idm139771559542496">gegen dem Ehemanne</hi></hi>.</p>
             <p xml:id="idm139771559541520">S.249, L. 23 f. 1. Sam. 14.24 f.</p>
             <p xml:id="idm139771559541088">S. 249, L. 35. Efter <hi rend="italics" xml:id="idm139771559540832">men</hi> har Afskr. oversprunget
 							et stort Stykke af følgende Indhold: "ere kun et truende Bud,
 							som enhver, der betragter dem ret, maa erkende. Thi hvad der følger
 							herefter: at man har frygtet for Eden, at ingen har taget Honning i sin
-							Mund, dette maa ikke forstaas om den Ed Folket har svoret, <hi rend="italics" xml:id="idm139771559539520"><!--<emph>-->men"<!--</emph>--></hi>,
+							Mund, dette maa ikke forstaas om den Ed Folket har svoret, <hi rend="italics" xml:id="idm139771559539520">men"</hi>,
 							Orig. <hi rend="italics" xml:id="idm139771559538480">(sondern) nur ein bedrawliches Gebot sind / wie
 								ein jeder/ der sie recht ansihet/ bekennen mus. Denn das hernach
 								volget/ Das Volck habe sich für dem Eyde gefürchtet/ das niemand vom
@@ -9282,7 +9271,7 @@
 								vnnotige/ mutwillige ergernis damit anrichtet</hi>.</p>
             <p xml:id="idm139771559504256">S. 257, L. 25. Efter <hi rend="italics" xml:id="idm139771559503968">udi hans Naffn</hi> har Afskr.
 							oversprunget en omtrent saalydende Passus: "det ske nu med
-							Fremsigen, Byden eller Besværgelse, blot at det sker <hi rend="italics" xml:id="idm139771559502992"><!--<emph>-->udi hans Navn"<!--</emph>--></hi>, svarende
+							Fremsigen, Byden eller Besværgelse, blot at det sker <hi rend="italics" xml:id="idm139771559502992">udi hans Navn"</hi>, svarende
 							til Orig. <hi rend="italics" xml:id="idm139771559501904">es geschehe gleich mit Sagen/ Gebieten oder
 								Beschweren/ allein/ das es in seinem Namen/ aus seinem Befhel vnd
 								aus seiner Macht geschehe</hi>. Jfr. Indledn. foran S. 228.</p>
@@ -9346,12 +9335,12 @@
 								igen for et Exempel og Eftersyn, som I kunde siden efterfølge udi
 								alle de andre Bønner"; og han slutter i Efterskriften:
 								"Kære Svoger, dette maa være nok paa denne Tid til et
-								Exempel at bede saa inden Døren om det, som kommer en <hi rend="italics" xml:id="idm139771559456224"><!--<emph>-->Person<!--</emph>--></hi> og hans
-									<hi rend="italics" xml:id="idm139771559455184"><!--<emph>-->Embede<!--</emph>--></hi> og <hi rend="italics" xml:id="idm139771559454144"><!--<emph>-->Husfolk<!--</emph>--></hi> til.
+								Exempel at bede saa inden Døren om det, som kommer en <hi rend="italics" xml:id="idm139771559456224">Person</hi> og hans
+									<hi rend="italics" xml:id="idm139771559455184">Embede</hi> og <hi rend="italics" xml:id="idm139771559454144">Husfolk</hi> til.
 								Formærker jeg, at det er eder behageligt, da vil jeg med Guds Naades
-								Hjælp <hi rend="italics" xml:id="idm139771559452896"><!--<emph>-->fare længere frem til de
+								Hjælp <hi rend="italics" xml:id="idm139771559452896">fare længere frem til de
 									Bønner om Religionen og Landets
-									Regimente,"<!--</emph>--></hi> Det lille Skrift er da
+									Regimente,"</hi> Det lille Skrift er da
 								tænkt som en Begyndelse til en mere omfattende Bønnebog, men en
 								saadan fik Palladius vistnok aldrig skrevet. Muligvis har hans
 								"store Uledighed" hindret ham deri, muligvis
@@ -9386,14 +9375,14 @@
 								Mens den Bedende i stærke Ord bekender sin Synd overfor Gud, føler
 								han sig tryg i sin Skyldfrihed overfor sine Medmennesker, som f. Ex.
 								i denne Bøn (ndf. S. 300 L 30 ff.): "Almægtigste, vældige
-								og stærke Gud, som adspreder de Folk [<!--*dolgoeO*-->dvs. bryder
+								og stærke Gud, som adspreder de Folk [dvs. bryder
 								deres Rækker], som vil yppe Kiv og Trætte.. og sønderbryder deres
 								Bue og Pil, og lader dem ligge under i Strid og ikke oven paa.., i
 								det at Du est en fredsommelig Gud og ikke maa lide uretfærdigt
 								Overfald.. Jeg beder dig, se til mine Fjenders.. Anløb og Overvold
 								og fri mig for dem,.. at de ikke skal kunne mætte eller fuldkomme
-								deres onde Vilje mod mig og ej heller overvinde mig, efterdi <hi rend="italics" xml:id="idm139771559442096"><!--<emph>-->at min Sag er ret og deres er
-									uret!"<!--</emph>--></hi> Heller ikke i Forholdet
+								deres onde Vilje mod mig og ej heller overvinde mig, efterdi <hi rend="italics" xml:id="idm139771559442096">at min Sag er ret og deres er
+									uret!"</hi> Heller ikke i Forholdet
 								mellem Herskab og Tyende er der Dialektik: Palladius lader Husherren
 								klage til Gud over, at skønt Tjenerens Øje skal vare paa hans Herres
 								Hænder og Tjenestepigens paa hendes Husmoders, saa fornemmer man
@@ -9424,9 +9413,9 @@
                 </bibl>
                 <q xml:id="idm139771559435200">
                   <p xml:id="idm139771559434944">Jeg er din Salighed/</p>
-                  <p xml:id="idm139771559434528"><hi rend="italics" xml:id="idm139771559434400"><!--<emph>-->Jeg er
-										den<!--</emph>--></hi>/ <hi rend="italics" xml:id="idm139771559433360"><!--<emph>-->ieg
-											er selff den<!--</emph>--></hi>/ som affsletter din <hi rend="italics" xml:id="idm139771559432336"><!--<emph>-->ondskab<!--</emph>--></hi>
+                  <p xml:id="idm139771559434528"><hi rend="italics" xml:id="idm139771559434400">Jeg er
+										den</hi>/ <hi rend="italics" xml:id="idm139771559433360">ieg
+											er selff den</hi>/ som affsletter din <hi rend="italics" xml:id="idm139771559432336">ondskab</hi>
 										for min skyld/</p>
                 </q>
               </cit>
@@ -9435,76 +9424,76 @@
                   <hi rend="italics" xml:id="idm139771559430352">Biblen 1550, Ps. 35.3 og Es. 43.25</hi>
                 </bibl>
                 <q xml:id="idm139771559429552">
-                  <p xml:id="idm139771559429296">Jeg er din <hi rend="italics" xml:id="idm139771559429008"><!--<emph>-->Hielp<!--</emph>--></hi>/</p>
-                  <p xml:id="idm139771559427840"><hi rend="italics" xml:id="idm139771559427712"><!--<emph>-->Jeg/ Jeg
-											affsletter<!--</emph>--></hi> dine <hi rend="italics" xml:id="idm139771559426688"><!--<emph>-->synder<!--</emph>--></hi> for Min
+                  <p xml:id="idm139771559429296">Jeg er din <hi rend="italics" xml:id="idm139771559429008">Hielp</hi>/</p>
+                  <p xml:id="idm139771559427840"><hi rend="italics" xml:id="idm139771559427712">Jeg/ Jeg
+											affsletter</hi> dine <hi rend="italics" xml:id="idm139771559426688">synder</hi> for Min
 									skyld/</p>
                 </q>
               </cit>
               <p xml:id="idm139771559425216">Grundlaget er utvivlsomt:<lb xml:id="idm139771559424912"/>
-								<cit xml:id="idm139771559424656"><q xml:id="idm139771559424528"><hi rend="italics" xml:id="idm139771559424400"><!--<emph>-->Salus<!--</emph>--></hi> tua
-										ego sum, <hi rend="italics" xml:id="idm139771559423344"><!--<emph>-->Ego sum, ego sum
-											ipse<!--</emph>--></hi>, qui deleo iniquitates tuas
+								<cit xml:id="idm139771559424656"><q xml:id="idm139771559424528"><hi rend="italics" xml:id="idm139771559424400">Salus</hi> tua
+										ego sum, <hi rend="italics" xml:id="idm139771559423344">Ego sum, ego sum
+											ipse</hi>, qui deleo iniquitates tuas
 										propter me, </q><bibl xml:id="idm139771559422256">(<hi rend="italics" xml:id="idm139771559422000">Vulgata</hi>)</bibl></cit>
-								<cit xml:id="idm139771559421216"><q xml:id="idm139771559421088">Ich bin deine <hi rend="italics" xml:id="idm139771559420800"><!--<emph>-->Hülffe/ Ich/
-											Ich tilge<!--</emph>--></hi> deine vbertrettung vmb
+								<cit xml:id="idm139771559421216"><q xml:id="idm139771559421088">Ich bin deine <hi rend="italics" xml:id="idm139771559420800">Hülffe/ Ich/
+											Ich tilge</hi> deine vbertrettung vmb
 										Meinen willen/</q><bibl xml:id="idm139771559419648"><hi rend="italics" xml:id="idm139771559419520">(Luther)</hi></bibl></cit>
 							</p>
               <p xml:id="idm139771559418736">Eller følgende Sprog:<lb xml:id="idm139771559418416"/>
 								<cit xml:id="idm139771559418160"><bibl xml:id="idm139771559418032"><hi rend="italics" xml:id="idm139771559417904">Palladius, ndf. S. 296 L.
-										4-6</hi></bibl><q xml:id="idm139771559417328">Du est min Tienere/ ieg <hi rend="italics" xml:id="idm139771559417024"><!--<emph>-->haffuer vdualt<!--</emph>--></hi> dig oc
-										icke <hi rend="italics" xml:id="idm139771559415984"><!--<emph>-->forskudet<!--</emph>--></hi> dig/ frøcte dig
-										icke/ Thi ieg er <hi rend="italics" xml:id="idm139771559414832"><!--<emph>-->hoss<!--</emph>--></hi> dig/ vig icke <hi rend="italics" xml:id="idm139771559413824"><!--<emph>-->fra mig<!--</emph>--></hi>/
+										4-6</hi></bibl><q xml:id="idm139771559417328">Du est min Tienere/ ieg <hi rend="italics" xml:id="idm139771559417024">haffuer vdualt</hi> dig oc
+										icke <hi rend="italics" xml:id="idm139771559415984">forskudet</hi> dig/ frøcte dig
+										icke/ Thi ieg er <hi rend="italics" xml:id="idm139771559414832">hoss</hi> dig/ vig icke <hi rend="italics" xml:id="idm139771559413824">fra mig</hi>/
 										thi ieg er din Gud/</q></cit>
-								<cit xml:id="idm139771559412608"><bibl xml:id="idm139771559412480"><hi rend="italics" xml:id="idm139771559412352">Vulgata</hi></bibl><q xml:id="idm139771559411824">Servus meus <hi rend="italics" xml:id="idm139771559411536"><!--<emph>-->es
-											tu<!--</emph>--></hi>, <hi rend="italics" xml:id="idm139771559410496"><!--<emph>-->elegi te<!--</emph>--></hi>, et non <hi rend="italics" xml:id="idm139771559409488"><!--<emph>-->abjecite<!--</emph>--></hi>.
+								<cit xml:id="idm139771559412608"><bibl xml:id="idm139771559412480"><hi rend="italics" xml:id="idm139771559412352">Vulgata</hi></bibl><q xml:id="idm139771559411824">Servus meus <hi rend="italics" xml:id="idm139771559411536">es
+											tu</hi>, <hi rend="italics" xml:id="idm139771559410496">elegi te</hi>, et non <hi rend="italics" xml:id="idm139771559409488">abjecite</hi>.
 										Ne timeas, quia ego tecum sum: ne declines, quia ego Deus
 										tuus,</q></cit>
-								<cit xml:id="idm139771559408224"><bibl xml:id="idm139771559408096"><hi rend="italics" xml:id="idm139771559407968">Biblen 1550, Es. 41.9-10</hi></bibl><q xml:id="idm139771559407424">Du <hi rend="italics" xml:id="idm139771559407168"><!--<emph>-->skalt
-										vere<!--</emph>--></hi> min Tienere/ Thi ieg <hi rend="italics" xml:id="idm139771559406128"><!--<emph>-->vdueller<!--</emph>--></hi>
-										dig/ oc <hi rend="italics" xml:id="idm139771559405088"><!--<emph>-->forskyder<!--</emph>--></hi> dig icke.
+								<cit xml:id="idm139771559408224"><bibl xml:id="idm139771559408096"><hi rend="italics" xml:id="idm139771559407968">Biblen 1550, Es. 41.9-10</hi></bibl><q xml:id="idm139771559407424">Du <hi rend="italics" xml:id="idm139771559407168">skalt
+										vere</hi> min Tienere/ Thi ieg <hi rend="italics" xml:id="idm139771559406128">vdueller</hi>
+										dig/ oc <hi rend="italics" xml:id="idm139771559405088">forskyder</hi> dig icke.
 										Frycte dig icke/ Jeg er met dig/ Vige icke/ thi ieg er
 										dinGud/</q></cit>
-								<cit xml:id="idm139771559403808"><bibl xml:id="idm139771559403680"><hi rend="italics" xml:id="idm139771559403552">Luther</hi></bibl><q xml:id="idm139771559403024"><hi rend="italics" xml:id="idm139771559402896"><!--<emph>-->Du solt<!--</emph>--></hi>
-										mein Knecht <hi rend="italics" xml:id="idm139771559401856"><!--<emph>-->sein/<!--</emph>--></hi> Denn ich <hi rend="italics" xml:id="idm139771559400816"><!--<emph>-->erwele<!--</emph>--></hi>
-										dich/ vnd <hi rend="italics" xml:id="idm139771559399776"><!--<emph>-->verwerffe<!--</emph>--></hi> dich nicht
+								<cit xml:id="idm139771559403808"><bibl xml:id="idm139771559403680"><hi rend="italics" xml:id="idm139771559403552">Luther</hi></bibl><q xml:id="idm139771559403024"><hi rend="italics" xml:id="idm139771559402896">Du solt</hi>
+										mein Knecht <hi rend="italics" xml:id="idm139771559401856">sein/</hi> Denn ich <hi rend="italics" xml:id="idm139771559400816">erwele</hi>
+										dich/ vnd <hi rend="italics" xml:id="idm139771559399776">verwerffe</hi> dich nicht
 										Fürchte dich nicht/ Ich bin mit dir/ Weiche nicht/ Denn ich
 										bin dein Gott/</q></cit>
 							</p>
               <pb n="282" xml:id="s282" facs="adl/palladius/palladius02/palladius02282"/>
               <p xml:id="idm139771559397056">Fra det ny Testamente kan anføres:<lb xml:id="idm139771559396720"/>
-								<cit xml:id="idm139771559396464"><bibl xml:id="idm139771559396336"><hi rend="italics" xml:id="idm139771559396208">Palladius, ndf. S. 295 L</hi>. 7</bibl><q xml:id="idm139771559395504"><hi rend="italics" xml:id="idm139771559395376"><!--<emph>-->See Gudz
-										Lam<!--</emph>--></hi>/ som bær Verdens Synder.</q></cit>
+								<cit xml:id="idm139771559396464"><bibl xml:id="idm139771559396336"><hi rend="italics" xml:id="idm139771559396208">Palladius, ndf. S. 295 L</hi>. 7</bibl><q xml:id="idm139771559395504"><hi rend="italics" xml:id="idm139771559395376">See Gudz
+										Lam</hi>/ som bær Verdens Synder.</q></cit>
 								<cit xml:id="idm139771559394144"><bibl xml:id="idm139771559394016">S. <hi rend="italics" xml:id="idm139771559393760">302 L. 13-14</hi>
-									</bibl><q xml:id="idm139771559393104">I <hi rend="italics" xml:id="idm139771559392848"><!--<emph>-->Suenne
-										lyder<!--</emph>--></hi> eders legemlig Herrer/ met fryct
-											<hi rend="italics" xml:id="idm139771559391744"><!--<emph>-->oc
-										beuelse<!--</emph>--></hi>/ <hi rend="italics" xml:id="idm139771559390736"><!--<emph>-->wdi<!--</emph>--></hi> eders Hiertis
+									</bibl><q xml:id="idm139771559393104">I <hi rend="italics" xml:id="idm139771559392848">Suenne
+										lyder</hi> eders legemlig Herrer/ met fryct
+											<hi rend="italics" xml:id="idm139771559391744">oc
+										beuelse</hi>/ <hi rend="italics" xml:id="idm139771559390736">wdi</hi> eders Hiertis
 										enfoldighed/ ligesom Christo/</q></cit>
-								<cit xml:id="idm139771559389536"><bibl xml:id="idm139771559389408"><hi rend="italics" xml:id="idm139771559389280">Vulgata</hi></bibl><q xml:id="idm139771559388752"><p xml:id="idm139771559388624"><hi rend="italics" xml:id="idm139771559388496"><!--<emph>-->Ecce, Agnus
-												Dei<!--</emph>--></hi>, Ecce, qui tollit peccatum
-											mundi.</p><p xml:id="idm139771559387376">Servi, <hi rend="italics" xml:id="idm139771559387120"><!--<emph>-->obedite<!--</emph>--></hi> dominis
+								<cit xml:id="idm139771559389536"><bibl xml:id="idm139771559389408"><hi rend="italics" xml:id="idm139771559389280">Vulgata</hi></bibl><q xml:id="idm139771559388752"><p xml:id="idm139771559388624"><hi rend="italics" xml:id="idm139771559388496">Ecce, Agnus
+												Dei</hi>, Ecce, qui tollit peccatum
+											mundi.</p><p xml:id="idm139771559387376">Servi, <hi rend="italics" xml:id="idm139771559387120">obedite</hi> dominis
 											carnalibus cum timore et tremore, in simplicitate cordis
 											vestri, sicut Christo;</p></q></cit>
-								<cit xml:id="idm139771559385824"><bibl xml:id="idm139771559385696"><hi rend="italics" xml:id="idm139771559385568">Biblen 1550, Joh. 1.29</hi></bibl><q xml:id="idm139771559385040"><hi rend="italics" xml:id="idm139771559384912"><!--<emph>-->See/ Det er Gudz
-											Lam/<!--</emph>--></hi> som bær Verdens Synder.</q></cit>
-								<cit xml:id="idm139771559383664"><bibl xml:id="idm139771559383536"><hi rend="italics" xml:id="idm139771559383408">Eph. 6.5</hi></bibl><q xml:id="idm139771559382880"><hi rend="italics" xml:id="idm139771559382752"><!--<emph>-->I Tienere/
-											verer<!--</emph>--></hi> eders legemlige Herrer <hi rend="italics" xml:id="idm139771559381648"><!--<emph>-->lydige/<!--</emph>--></hi>
-										met fryct oc <hi rend="italics" xml:id="idm139771559380592"><!--<emph>-->redzel/<!--</emph>--></hi> i eders hiertis
+								<cit xml:id="idm139771559385824"><bibl xml:id="idm139771559385696"><hi rend="italics" xml:id="idm139771559385568">Biblen 1550, Joh. 1.29</hi></bibl><q xml:id="idm139771559385040"><hi rend="italics" xml:id="idm139771559384912">See/ Det er Gudz
+											Lam/</hi> som bær Verdens Synder.</q></cit>
+								<cit xml:id="idm139771559383664"><bibl xml:id="idm139771559383536"><hi rend="italics" xml:id="idm139771559383408">Eph. 6.5</hi></bibl><q xml:id="idm139771559382880"><hi rend="italics" xml:id="idm139771559382752">I Tienere/
+											verer</hi> eders legemlige Herrer <hi rend="italics" xml:id="idm139771559381648">lydige/</hi>
+										met fryct oc <hi rend="italics" xml:id="idm139771559380592">redzel/</hi> i eders hiertis
 										enfoldighed/ ligesom Christo/</q></cit>
-								<cit xml:id="idm139771559379376"><bibl xml:id="idm139771559379248"><hi rend="italics" xml:id="idm139771559379120">Luther</hi></bibl><q xml:id="idm139771559378592"><p xml:id="idm139771559378464"><hi rend="italics" xml:id="idm139771559378336"><!--<emph>-->Sihe/ Das ist Gottes
-												Lamb/<!--</emph>--></hi> welchs der Welt sünde
-											tregt.</p><p xml:id="idm139771559377184">Ir Knechte/ <hi rend="italics" xml:id="idm139771559376928"><!--<emph>-->seid
-												gehorsam<!--</emph>--></hi> ewren leiblichen Herrn/
+								<cit xml:id="idm139771559379376"><bibl xml:id="idm139771559379248"><hi rend="italics" xml:id="idm139771559379120">Luther</hi></bibl><q xml:id="idm139771559378592"><p xml:id="idm139771559378464"><hi rend="italics" xml:id="idm139771559378336">Sihe/ Das ist Gottes
+												Lamb/</hi> welchs der Welt sünde
+											tregt.</p><p xml:id="idm139771559377184">Ir Knechte/ <hi rend="italics" xml:id="idm139771559376928">seid
+												gehorsam</hi> ewren leiblichen Herrn/
 											mit furchte vnd zittern/ in einfeltigkeit ewers hertzen/
 											als Christo/</p></q></cit>
 							</p>
               <p xml:id="idm139771559375488">At Palladius' Oversættelse er ganske uafhængig af Biblen er
-								indlysende; og at dette ikke blot skyldes, at <hi rend="italics" xml:id="idm139771559374976"><!--<emph>-->Gengivelsen<!--</emph>--></hi> af samme Ord i
+								indlysende; og at dette ikke blot skyldes, at <hi rend="italics" xml:id="idm139771559374976">Gengivelsen</hi> af samme Ord i
 								Grundlaget er forskellig <hi rend="italics" xml:id="idm139771559373904">(Suenne</hi> -
 									<hi rend="italics" xml:id="idm139771559373216">Tienere</hi>; <hi rend="italics" xml:id="idm139771559372528">fryct oc
 									beuelse - fryct oc redzel</hi>), men ogsaa at selve
-									<hi rend="italics" xml:id="idm139771559371760"><!--<emph>-->Grundlaget<!--</emph>--></hi>
+									<hi rend="italics" xml:id="idm139771559371760">Grundlaget</hi>
 								har været forskelligt, derom kan der ikke være Tvivl: Palladius'
 								Grundlag er her ligesom i Biblens Fortale Vulgata, Biblens derimod
 								Luthers tyske Oversættelse. Paa ny spørger man da, hvorledes gaar
@@ -9546,63 +9535,63 @@
 								ikke findes i "Mærkelige Bønner", og omvendt;
 								men de Bibelsprog, der er fælles for de to Skrifter stemmer ordret
 								overens, som følgende Exempler kan vise:<lb xml:id="idm139771559362896"/>
-								<cit xml:id="idm139771559362640"><bibl xml:id="idm139771559362512"><hi rend="italics" xml:id="idm139771559362384">Palladius, ndf. S. 301 L. 19 f</hi>.</bibl><q xml:id="idm139771559361680">Jeg er <hi rend="italics" xml:id="idm139771559361392"><!--<emph>-->met
-										dig<!--</emph>--></hi>/ at ieg <hi rend="italics" xml:id="idm139771559360352"><!--<emph>-->kand frelse dig<!--</emph>--></hi>/ oc <hi rend="italics" xml:id="idm139771559359312"><!--<emph>-->fri dig
-										vd<!--</emph>--></hi>/ siger HERREN/ Jeg vil <hi rend="italics" xml:id="idm139771559358224"><!--<emph>-->fri dig<!--</emph>--></hi>
-										aff de ondis <hi rend="italics" xml:id="idm139771559357168"><!--<emph>-->hender/<!--</emph>--></hi> oc <hi rend="italics" xml:id="idm139771559356160"><!--<emph>-->vdløse<!--</emph>--></hi>
-										dig aff de <hi rend="italics" xml:id="idm139771559355120"><!--<emph>-->sterckis
-											hender<!--</emph>--></hi>.</q></cit>
-								<cit xml:id="idm139771559353936"><bibl xml:id="idm139771559353808"><hi rend="italics" xml:id="idm139771559353680">Mærkelige Bønner, Bl. C3r</hi></bibl><q xml:id="idm139771559353120">Jeg er <hi rend="italics" xml:id="idm139771559352832"><!--<emph>-->met
-										dig<!--</emph>--></hi> at ieg <hi rend="italics" xml:id="idm139771559351792"><!--<emph>-->kand Frelse dig och fri dig
-											vd/<!--</emph>--></hi> (siger HERREN) Jeg <hi rend="italics" xml:id="idm139771559350720"><!--<emph>-->vil fri
-										dig<!--</emph>--></hi> aff de ondis <hi rend="italics" xml:id="idm139771559349680"><!--<emph>-->hender/<!--</emph>--></hi> oc <hi rend="italics" xml:id="idm139771559348640"><!--<emph>-->vdløse<!--</emph>--></hi>
-										dig aff de <hi rend="italics" xml:id="idm139771559347600"><!--<emph>-->sterckis
-											hender/<!--</emph>--></hi>
+								<cit xml:id="idm139771559362640"><bibl xml:id="idm139771559362512"><hi rend="italics" xml:id="idm139771559362384">Palladius, ndf. S. 301 L. 19 f</hi>.</bibl><q xml:id="idm139771559361680">Jeg er <hi rend="italics" xml:id="idm139771559361392">met
+										dig</hi>/ at ieg <hi rend="italics" xml:id="idm139771559360352">kand frelse dig</hi>/ oc <hi rend="italics" xml:id="idm139771559359312">fri dig
+										vd</hi>/ siger HERREN/ Jeg vil <hi rend="italics" xml:id="idm139771559358224">fri dig</hi>
+										aff de ondis <hi rend="italics" xml:id="idm139771559357168">hender/</hi> oc <hi rend="italics" xml:id="idm139771559356160">vdløse</hi>
+										dig aff de <hi rend="italics" xml:id="idm139771559355120">sterckis
+											hender</hi>.</q></cit>
+								<cit xml:id="idm139771559353936"><bibl xml:id="idm139771559353808"><hi rend="italics" xml:id="idm139771559353680">Mærkelige Bønner, Bl. C3r</hi></bibl><q xml:id="idm139771559353120">Jeg er <hi rend="italics" xml:id="idm139771559352832">met
+										dig</hi> at ieg <hi rend="italics" xml:id="idm139771559351792">kand Frelse dig och fri dig
+											vd/</hi> (siger HERREN) Jeg <hi rend="italics" xml:id="idm139771559350720">vil fri
+										dig</hi> aff de ondis <hi rend="italics" xml:id="idm139771559349680">hender/</hi> oc <hi rend="italics" xml:id="idm139771559348640">vdløse</hi>
+										dig aff de <hi rend="italics" xml:id="idm139771559347600">sterckis
+											hender/</hi>
 									</q></cit>
-								<cit xml:id="idm139771559346416"><bibl xml:id="idm139771559346288"><hi rend="italics" xml:id="idm139771559346160">Biblen 1550, Jer. 15.20-21</hi></bibl><q xml:id="idm139771559345616">ieg er <hi rend="italics" xml:id="idm139771559345328"><!--<emph>-->hoss
-											dig/<!--</emph>--></hi> at ieg <hi rend="italics" xml:id="idm139771559344288"><!--<emph>-->vil hielpe oc frelse
-										dig/<!--</emph>--></hi> siger HERREN. Jeg vil <hi rend="italics" xml:id="idm139771559343232"><!--<emph>-->oc redde
-										dig<!--</emph>--></hi> aff de Ondis <hi rend="italics" xml:id="idm139771559342192"><!--<emph>-->haand/<!--</emph>--></hi> oc <hi rend="italics" xml:id="idm139771559341152"><!--<emph>-->frelse<!--</emph>--></hi>
-										dig aff de <hi rend="italics" xml:id="idm139771559340112"><!--<emph>-->Tyranners
-											haand<!--</emph>--></hi>.</q></cit>
-								<cit xml:id="idm139771559338928"><bibl xml:id="idm139771559338800"><hi rend="italics" xml:id="idm139771559338672">Vulgata</hi> har:</bibl><q xml:id="idm139771559337984">ego <hi rend="italics" xml:id="idm139771559337696"><!--<emph>-->tecum<!--</emph>--></hi>
-										sum/ ut <hi rend="italics" xml:id="idm139771559336656"><!--<emph>-->salvem<!--</emph>--></hi> te, et <hi rend="italics" xml:id="idm139771559335616"><!--<emph>-->eruam<!--</emph>--></hi> te,
-										dicit Dominus. Et <hi rend="italics" xml:id="idm139771559334528"><!--<emph>-->liberafo<!--</emph>--></hi> te de manu
-										pessimorum, et redimam te de <hi rend="italics" xml:id="idm139771559333456"><!--<emph>-->manu fortium<!--</emph>--></hi>.</q></cit>
+								<cit xml:id="idm139771559346416"><bibl xml:id="idm139771559346288"><hi rend="italics" xml:id="idm139771559346160">Biblen 1550, Jer. 15.20-21</hi></bibl><q xml:id="idm139771559345616">ieg er <hi rend="italics" xml:id="idm139771559345328">hoss
+											dig/</hi> at ieg <hi rend="italics" xml:id="idm139771559344288">vil hielpe oc frelse
+										dig/</hi> siger HERREN. Jeg vil <hi rend="italics" xml:id="idm139771559343232">oc redde
+										dig</hi> aff de Ondis <hi rend="italics" xml:id="idm139771559342192">haand/</hi> oc <hi rend="italics" xml:id="idm139771559341152">frelse</hi>
+										dig aff de <hi rend="italics" xml:id="idm139771559340112">Tyranners
+											haand</hi>.</q></cit>
+								<cit xml:id="idm139771559338928"><bibl xml:id="idm139771559338800"><hi rend="italics" xml:id="idm139771559338672">Vulgata</hi> har:</bibl><q xml:id="idm139771559337984">ego <hi rend="italics" xml:id="idm139771559337696">tecum</hi>
+										sum/ ut <hi rend="italics" xml:id="idm139771559336656">salvem</hi> te, et <hi rend="italics" xml:id="idm139771559335616">eruam</hi> te,
+										dicit Dominus. Et <hi rend="italics" xml:id="idm139771559334528">liberafo</hi> te de manu
+										pessimorum, et redimam te de <hi rend="italics" xml:id="idm139771559333456">manu fortium</hi>.</q></cit>
 								<pb n="284" xml:id="s284" facs="adl/palladius/palladius02/palladius02284"/>
-								<cit xml:id="idm139771559331152"><bibl xml:id="idm139771559331024"><hi rend="italics" xml:id="idm139771559330896">Luther</hi> har:</bibl><q xml:id="idm139771559330176">Ich bin <hi rend="italics" xml:id="idm139771559329888"><!--<emph>-->bey<!--</emph>--></hi> dir/ das ich dir <hi rend="italics" xml:id="idm139771559328848"><!--<emph>-->helffe<!--</emph>--></hi>
-										vnd dich <hi rend="italics" xml:id="idm139771559327808"><!--<emph>-->errette/<!--</emph>--></hi> spricht der
-										HERR. Vnd wil dich auch <hi rend="italics" xml:id="idm139771559326704"><!--<emph>-->erretten<!--</emph>--></hi> aus der hand
-										der Bösen/ vnd <hi rend="italics" xml:id="idm139771559325600"><!--<emph>-->erlösen<!--</emph>--></hi> aus <hi rend="italics" xml:id="idm139771559324592"><!--<emph>-->der hand der
-											Tyrannen<!--</emph>--></hi>.</q></cit>
+								<cit xml:id="idm139771559331152"><bibl xml:id="idm139771559331024"><hi rend="italics" xml:id="idm139771559330896">Luther</hi> har:</bibl><q xml:id="idm139771559330176">Ich bin <hi rend="italics" xml:id="idm139771559329888">bey</hi> dir/ das ich dir <hi rend="italics" xml:id="idm139771559328848">helffe</hi>
+										vnd dich <hi rend="italics" xml:id="idm139771559327808">errette/</hi> spricht der
+										HERR. Vnd wil dich auch <hi rend="italics" xml:id="idm139771559326704">erretten</hi> aus der hand
+										der Bösen/ vnd <hi rend="italics" xml:id="idm139771559325600">erlösen</hi> aus <hi rend="italics" xml:id="idm139771559324592">der hand der
+											Tyrannen</hi>.</q></cit>
 							</p>
               <p xml:id="idm139771559323280">Som det ses, følger Palladius og "Mærkelige
 								Bønner" Vulgata, den danske Bibel Luther; den fuldkomne
 								Overensstemmelse i Ordvalg (salvem, eruam, liberato -
 								gengivet ved <hi rend="italics" xml:id="idm139771559322624">frelse, fri, fri</hi>, ikke <hi rend="italics" xml:id="idm139771559321936">redde</hi> f. Ex.) og i SmaaAfvigelser fra
 								Grundlaget <hi rend="italics" xml:id="idm139771559321184">(manu</hi> gengivet ved <hi rend="italics" xml:id="idm139771559320464">hender</hi>, ikke ved <hi rend="italics" xml:id="idm139771559319744">haand</hi>) viser, at Oversættelserne ikke kan være uafhængige af
-								hinanden, men maa have samme <hi rend="italics" xml:id="idm139771559318848"><!--<emph>-->danske<!--</emph>--></hi> Kilde. Endnu et Par
+								hinanden, men maa have samme <hi rend="italics" xml:id="idm139771559318848">danske</hi> Kilde. Endnu et Par
 								Exempler skal nævnes:<lb xml:id="idm139771559317696"/>
-								<cit xml:id="idm139771559317440"><bibl xml:id="idm139771559317312"><hi rend="italics" xml:id="idm139771559317184">Palladius</hi>,<lb xml:id="idm139771559316528"/><hi rend="italics" xml:id="idm139771559316400">S. 296 L. 2</hi></bibl><q xml:id="idm139771559315840">Jeg ieg er <hi rend="italics" xml:id="idm139771559315552"><!--<emph>-->din<!--</emph>--></hi> HERRE <hi rend="italics" xml:id="idm139771559314512"><!--<emph>-->oc Gud/ oc der
-											er<!--</emph>--></hi> ingen <hi rend="italics" xml:id="idm139771559313456"><!--<emph>-->frelsere eller<!--</emph>--></hi>
+								<cit xml:id="idm139771559317440"><bibl xml:id="idm139771559317312"><hi rend="italics" xml:id="idm139771559317184">Palladius</hi>,<lb xml:id="idm139771559316528"/><hi rend="italics" xml:id="idm139771559316400">S. 296 L. 2</hi></bibl><q xml:id="idm139771559315840">Jeg ieg er <hi rend="italics" xml:id="idm139771559315552">din</hi> HERRE <hi rend="italics" xml:id="idm139771559314512">oc Gud/ oc der
+											er</hi> ingen <hi rend="italics" xml:id="idm139771559313456">frelsere eller</hi>
 										Saliggørere/ wden ieg.</q></cit>
-								<cit xml:id="idm139771559312208"><bibl xml:id="idm139771559312080"><hi rend="italics" xml:id="idm139771559311952">Mærkelige Bønner</hi>,<lb xml:id="idm139771559311280"/><hi rend="italics" xml:id="idm139771559311152">Bl. C2v</hi></bibl><q xml:id="idm139771559310592">Jeg/ Jeg/ er <hi rend="italics" xml:id="idm139771559310304"><!--<emph>-->din HErre
-											oc<!--</emph>--></hi> Gud/ och der er ingen <hi rend="italics" xml:id="idm139771559309264"><!--<emph>-->Frelsere eller
-											saliggørere<!--</emph>--></hi>/ vden Jeg/</q></cit>
-								<cit xml:id="idm139771559308032"><bibl xml:id="idm139771559307904"><hi rend="italics" xml:id="idm139771559307776">Biblen 1550</hi>,<lb xml:id="idm139771559307088"/><hi rend="italics" xml:id="idm139771559306960">Es. 43. 11</hi></bibl><q xml:id="idm139771559306400">Jeg/ Jeg er HERREN/ oc der er ingen <hi rend="italics" xml:id="idm139771559306096"><!--<emph>-->Frelsere<!--</emph>--></hi> vden ieg</q></cit>
-								<cit xml:id="idm139771559304928"><bibl xml:id="idm139771559304800"><hi rend="italics" xml:id="idm139771559304672">Vulgata</hi>:</bibl><q xml:id="idm139771559303984">Ego sum, ego sum <hi rend="italics" xml:id="idm139771559303696"><!--<emph>-->Dominus<!--</emph>--></hi>, et non est
-										absque me <hi rend="italics" xml:id="idm139771559302608"><!--<emph>-->salvator<!--</emph>--></hi>.</q></cit>
-								<cit xml:id="idm139771559301472"><bibl xml:id="idm139771559301344"><hi rend="italics" xml:id="idm139771559301216">Luther</hi>:</bibl><q xml:id="idm139771559300560">Ich/ Ich bin <hi rend="italics" xml:id="idm139771559300272"><!--<emph>-->der
-											HERR/<!--</emph>--></hi> vnd ist ausser mir kein <hi rend="italics" xml:id="idm139771559299184"><!--<emph>-->Heiland<!--</emph>--></hi>.</q></cit>
-								<cit xml:id="idm139771559298048"><bibl xml:id="idm139771559297920"><hi rend="italics" xml:id="idm139771559297792">Palladius</hi>,<lb xml:id="idm139771559297136"/><hi rend="italics" xml:id="idm139771559297008">S. 299 L.12</hi></bibl><q xml:id="idm139771559296448">Jeg er din <hi rend="italics" xml:id="idm139771559296160"><!--<emph>-->beskermer<!--</emph>--></hi> oc din <hi rend="italics" xml:id="idm139771559295120"><!--<emph>-->megen<!--</emph>--></hi>
+								<cit xml:id="idm139771559312208"><bibl xml:id="idm139771559312080"><hi rend="italics" xml:id="idm139771559311952">Mærkelige Bønner</hi>,<lb xml:id="idm139771559311280"/><hi rend="italics" xml:id="idm139771559311152">Bl. C2v</hi></bibl><q xml:id="idm139771559310592">Jeg/ Jeg/ er <hi rend="italics" xml:id="idm139771559310304">din HErre
+											oc</hi> Gud/ och der er ingen <hi rend="italics" xml:id="idm139771559309264">Frelsere eller
+											saliggørere</hi>/ vden Jeg/</q></cit>
+								<cit xml:id="idm139771559308032"><bibl xml:id="idm139771559307904"><hi rend="italics" xml:id="idm139771559307776">Biblen 1550</hi>,<lb xml:id="idm139771559307088"/><hi rend="italics" xml:id="idm139771559306960">Es. 43. 11</hi></bibl><q xml:id="idm139771559306400">Jeg/ Jeg er HERREN/ oc der er ingen <hi rend="italics" xml:id="idm139771559306096">Frelsere</hi> vden ieg</q></cit>
+								<cit xml:id="idm139771559304928"><bibl xml:id="idm139771559304800"><hi rend="italics" xml:id="idm139771559304672">Vulgata</hi>:</bibl><q xml:id="idm139771559303984">Ego sum, ego sum <hi rend="italics" xml:id="idm139771559303696">Dominus</hi>, et non est
+										absque me <hi rend="italics" xml:id="idm139771559302608">salvator</hi>.</q></cit>
+								<cit xml:id="idm139771559301472"><bibl xml:id="idm139771559301344"><hi rend="italics" xml:id="idm139771559301216">Luther</hi>:</bibl><q xml:id="idm139771559300560">Ich/ Ich bin <hi rend="italics" xml:id="idm139771559300272">der
+											HERR/</hi> vnd ist ausser mir kein <hi rend="italics" xml:id="idm139771559299184">Heiland</hi>.</q></cit>
+								<cit xml:id="idm139771559298048"><bibl xml:id="idm139771559297920"><hi rend="italics" xml:id="idm139771559297792">Palladius</hi>,<lb xml:id="idm139771559297136"/><hi rend="italics" xml:id="idm139771559297008">S. 299 L.12</hi></bibl><q xml:id="idm139771559296448">Jeg er din <hi rend="italics" xml:id="idm139771559296160">beskermer</hi> oc din <hi rend="italics" xml:id="idm139771559295120">megen</hi>
 										store Løn.</q></cit>
-								<cit xml:id="idm139771559293888"><bibl xml:id="idm139771559293760"><hi rend="italics" xml:id="idm139771559293632">Mærkelige Bønner,<lb xml:id="idm139771559293088"/> Bl. C3r</hi></bibl><q xml:id="idm139771559292800">Jeg er din <hi rend="italics" xml:id="idm139771559292512"><!--<emph>-->beskermere<!--</emph>--></hi>/ och din <hi rend="italics" xml:id="idm139771559291472"><!--<emph>-->megen<!--</emph>--></hi>
+								<cit xml:id="idm139771559293888"><bibl xml:id="idm139771559293760"><hi rend="italics" xml:id="idm139771559293632">Mærkelige Bønner,<lb xml:id="idm139771559293088"/> Bl. C3r</hi></bibl><q xml:id="idm139771559292800">Jeg er din <hi rend="italics" xml:id="idm139771559292512">beskermere</hi>/ och din <hi rend="italics" xml:id="idm139771559291472">megen</hi>
 										store løn.</q></cit>
-								<cit xml:id="idm139771559290240"><bibl xml:id="idm139771559290112"><hi rend="italics" xml:id="idm139771559289984">Biblen 1550,<lb xml:id="idm139771559289456"/> 1. Mos. 15.1</hi></bibl><q xml:id="idm139771559289168">Jeg er din <hi rend="italics" xml:id="idm139771559288880"><!--<emph>-->skiold/<!--</emph>--></hi> oc din <hi rend="italics" xml:id="idm139771559287840"><!--<emph>-->meget
-										store<!--</emph>--></hi> løn.</q></cit>
-								<cit xml:id="idm139771559286672"><bibl xml:id="idm139771559286544"><hi rend="italics" xml:id="idm139771559286416">Vulgata</hi> :</bibl><q xml:id="idm139771559285728">ego <hi rend="italics" xml:id="idm139771559285440"><!--<emph>-->protector<!--</emph>--></hi> tuus sum, et
+								<cit xml:id="idm139771559290240"><bibl xml:id="idm139771559290112"><hi rend="italics" xml:id="idm139771559289984">Biblen 1550,<lb xml:id="idm139771559289456"/> 1. Mos. 15.1</hi></bibl><q xml:id="idm139771559289168">Jeg er din <hi rend="italics" xml:id="idm139771559288880">skiold/</hi> oc din <hi rend="italics" xml:id="idm139771559287840">meget
+										store</hi> løn.</q></cit>
+								<cit xml:id="idm139771559286672"><bibl xml:id="idm139771559286544"><hi rend="italics" xml:id="idm139771559286416">Vulgata</hi> :</bibl><q xml:id="idm139771559285728">ego <hi rend="italics" xml:id="idm139771559285440">protector</hi> tuus sum, et
 										merces tua magna nimis.</q></cit>
-								<cit xml:id="idm139771559284208"><bibl xml:id="idm139771559284080"><hi rend="italics" xml:id="idm139771559283952">Luther</hi>:</bibl><q xml:id="idm139771559283296">Ich bin dein <hi rend="italics" xml:id="idm139771559283008"><!--<emph>-->Sehilt<!--</emph>--></hi>/ vnd dein seer
+								<cit xml:id="idm139771559284208"><bibl xml:id="idm139771559284080"><hi rend="italics" xml:id="idm139771559283952">Luther</hi>:</bibl><q xml:id="idm139771559283296">Ich bin dein <hi rend="italics" xml:id="idm139771559283008">Sehilt</hi>/ vnd dein seer
 										grosser Lohn.</q></cit>
 							</p>
               <p xml:id="idm139771559281664">Det ses, at i Es. 43. 11, hvor Vulgata og Luther stemmer overens,
@@ -9614,30 +9603,30 @@
 								<cit xml:id="idm139771559277488"><bibl xml:id="idm139771559277360"><hi rend="italics" xml:id="idm139771559277232">Palladius,<lb xml:id="idm139771559276672"/> S. 296 L. 10</hi></bibl><q xml:id="idm139771559276384">Jeg er Veyen/ Sandhed oc Liffuet.</q></cit>
 								<cit xml:id="idm139771559275952"><bibl xml:id="idm139771559275824"><hi rend="italics" xml:id="idm139771559275696">Mærkelige Bønner,<lb xml:id="idm139771559275120"/> Bl. D1<hi rend="sup" xml:id="idm139771559274832">r</hi>
 										</hi></bibl><q xml:id="idm139771559274208">Jeg er Veyen/ Sandhed oc Liffuit.</q></cit>
-								<cit xml:id="idm139771559273776"><bibl xml:id="idm139771559273648"><hi rend="italics" xml:id="idm139771559273520">Biblen 1550</hi>,<lb xml:id="idm139771559272832"/><hi rend="italics" xml:id="idm139771559272704">Joh. 14.6</hi></bibl><q xml:id="idm139771559272144">Jeg er veyen/ <hi rend="italics" xml:id="idm139771559271856"><!--<emph>-->oc<!--</emph>--></hi> Sandhed/ oc
+								<cit xml:id="idm139771559273776"><bibl xml:id="idm139771559273648"><hi rend="italics" xml:id="idm139771559273520">Biblen 1550</hi>,<lb xml:id="idm139771559272832"/><hi rend="italics" xml:id="idm139771559272704">Joh. 14.6</hi></bibl><q xml:id="idm139771559272144">Jeg er veyen/ <hi rend="italics" xml:id="idm139771559271856">oc</hi> Sandhed/ oc
 									Liffuit.</q></cit>
-								<cit xml:id="idm139771559270640"><bibl xml:id="idm139771559270512"><hi rend="italics" xml:id="idm139771559270384">Vulgata</hi>:</bibl><q xml:id="idm139771559269728">Ego sum via, et veritas, et vita = <hi rend="italics" xml:id="idm139771559269424">Luther</hi>: Ich bin der Weg/ <hi rend="italics" xml:id="idm139771559268704"><!--<emph>-->vnd<!--</emph>--></hi> die Warheit/ vnd
+								<cit xml:id="idm139771559270640"><bibl xml:id="idm139771559270512"><hi rend="italics" xml:id="idm139771559270384">Vulgata</hi>:</bibl><q xml:id="idm139771559269728">Ego sum via, et veritas, et vita = <hi rend="italics" xml:id="idm139771559269424">Luther</hi>: Ich bin der Weg/ <hi rend="italics" xml:id="idm139771559268704">vnd</hi> die Warheit/ vnd
 										das Leben.</q></cit>
-								<cit xml:id="idm139771559267488"><bibl xml:id="idm139771559267360"><hi rend="italics" xml:id="idm139771559267232">Palladius,<lb xml:id="idm139771559266704"/> S. 297 L. 11</hi></bibl><q xml:id="idm139771559266416">Jeg vil giffue dig Mund oc Visdom/ <hi rend="italics" xml:id="idm139771559266112"><!--<emph>-->som<!--</emph>--></hi> alle <hi rend="italics" xml:id="idm139771559265072"><!--<emph>-->dine
-										wuenner<!--</emph>--></hi> icke skulle kunde <hi rend="italics" xml:id="idm139771559264032"><!--<emph>-->staa
-										imod<!--</emph>--></hi>.</q></cit>
+								<cit xml:id="idm139771559267488"><bibl xml:id="idm139771559267360"><hi rend="italics" xml:id="idm139771559267232">Palladius,<lb xml:id="idm139771559266704"/> S. 297 L. 11</hi></bibl><q xml:id="idm139771559266416">Jeg vil giffue dig Mund oc Visdom/ <hi rend="italics" xml:id="idm139771559266112">som</hi> alle <hi rend="italics" xml:id="idm139771559265072">dine
+										wuenner</hi> icke skulle kunde <hi rend="italics" xml:id="idm139771559264032">staa
+										imod</hi>.</q></cit>
 								<cit xml:id="idm139771559262864"><bibl xml:id="idm139771559262736"><hi rend="italics" xml:id="idm139771559262608">Mærkelige Bønner</hi>,<lb xml:id="idm139771559261936"/><hi rend="italics" xml:id="idm139771559261808">Bl. C3<hi rend="sup" xml:id="idm139771559261248">v</hi>
-										</hi></bibl><q xml:id="idm139771559260624">Jeg vil giffue <hi rend="italics" xml:id="idm139771559260336"><!--<emph>-->dig<!--</emph>--></hi> Mund o c Visdom/
-											<hi rend="italics" xml:id="idm139771559259248"><!--<emph>-->som<!--</emph>--></hi>
-										alle <hi rend="italics" xml:id="idm139771559258240"><!--<emph>-->dine
-											wuenner<!--</emph>--></hi> icke skulle kunde <hi rend="italics" xml:id="idm139771559257200"><!--<emph>-->staa
-										imod/<!--</emph>--></hi>
+										</hi></bibl><q xml:id="idm139771559260624">Jeg vil giffue <hi rend="italics" xml:id="idm139771559260336">dig</hi> Mund o c Visdom/
+											<hi rend="italics" xml:id="idm139771559259248">som</hi>
+										alle <hi rend="italics" xml:id="idm139771559258240">dine
+											wuenner</hi> icke skulle kunde <hi rend="italics" xml:id="idm139771559257200">staa
+										imod/</hi>
 									</q></cit>
-								<cit xml:id="idm139771559256032"><bibl xml:id="idm139771559255904"><hi rend="italics" xml:id="idm139771559255776">Biblen 1550</hi>,<lb xml:id="idm139771559255120"/><hi rend="italics" xml:id="idm139771559254992">Luc. 21.15</hi></bibl><q xml:id="idm139771559254432">ieg vil giffue <hi rend="italics" xml:id="idm139771559254144"><!--<emph>-->eder<!--</emph>--></hi> Mund oc Visdom/
-											<hi rend="italics" xml:id="idm139771559253056"><!--<emph>-->huilcken alle eders
-											Modstandere<!--</emph>--></hi> icke skulle kunde <hi rend="italics" xml:id="idm139771559252016"><!--<emph>-->imod sige oc ey imod
-											staa<!--</emph>--></hi>.</q></cit>
-								<cit xml:id="idm139771559250832"><bibl xml:id="idm139771559250704"><hi rend="italics" xml:id="idm139771559250576">Vulgata</hi>:</bibl><q xml:id="idm139771559249920">Ego enim dabo <hi rend="italics" xml:id="idm139771559249632"><!--<emph>-->vobis<!--</emph>--></hi> os et sapientiam,
-										cui non poterunt <hi rend="italics" xml:id="idm139771559248528"><!--<emph>-->resistere<!--</emph>--></hi>, et <hi rend="italics" xml:id="idm139771559247520"><!--<emph>-->contradicere<!--</emph>--></hi> omnes
+								<cit xml:id="idm139771559256032"><bibl xml:id="idm139771559255904"><hi rend="italics" xml:id="idm139771559255776">Biblen 1550</hi>,<lb xml:id="idm139771559255120"/><hi rend="italics" xml:id="idm139771559254992">Luc. 21.15</hi></bibl><q xml:id="idm139771559254432">ieg vil giffue <hi rend="italics" xml:id="idm139771559254144">eder</hi> Mund oc Visdom/
+											<hi rend="italics" xml:id="idm139771559253056">huilcken alle eders
+											Modstandere</hi> icke skulle kunde <hi rend="italics" xml:id="idm139771559252016">imod sige oc ey imod
+											staa</hi>.</q></cit>
+								<cit xml:id="idm139771559250832"><bibl xml:id="idm139771559250704"><hi rend="italics" xml:id="idm139771559250576">Vulgata</hi>:</bibl><q xml:id="idm139771559249920">Ego enim dabo <hi rend="italics" xml:id="idm139771559249632">vobis</hi> os et sapientiam,
+										cui non poterunt <hi rend="italics" xml:id="idm139771559248528">resistere</hi>, et <hi rend="italics" xml:id="idm139771559247520">contradicere</hi> omnes
 										adversarii vestri = <hi rend="italics" xml:id="idm139771559246432">Luiher</hi>: Denn ich
-										will <hi rend="italics" xml:id="idm139771559245728"><!--<emph>-->euch<!--</emph>--></hi>
-										Mund und Weisheit geben/ welcher nicht sollen <hi rend="italics" xml:id="idm139771559244608"><!--<emph>-->widersprechen mügen noch
-											widerstehen<!--</emph>--></hi>/ alle <hi rend="italics" xml:id="idm139771559243520"><!--<emph>-->ewre<!--</emph>--></hi> Widerwertigen.</q></cit>
+										will <hi rend="italics" xml:id="idm139771559245728">euch</hi>
+										Mund und Weisheit geben/ welcher nicht sollen <hi rend="italics" xml:id="idm139771559244608">widersprechen mügen noch
+											widerstehen</hi>/ alle <hi rend="italics" xml:id="idm139771559243520">ewre</hi> Widerwertigen.</q></cit>
 							</p>
               <p xml:id="idm139771559242224">Alene det at baade Palladius og Mærkelige Bønner i Joh. 146, mangler
 								Konjunktionen "og" i 2. Led, og i Luc. 21.5,
@@ -9649,8 +9638,8 @@
 								Oversættelse er forskellig fra de kendte Bibeludgavers (Chr.
 								Pedersens Testamente, Christiern III's Bibel), og da det er umuligt,
 								at en fuldstændig Bibeloversættelse skulde have existeret foruden de
-								nu kendte, maa <hi rend="italics" xml:id="idm139771559241280"><!--<emph>-->Grundlaget have været
-									en dansk Samling af Bibelsprog<hi rend="sup" xml:id="idm139771559240416">1</hi><!--</emph>--></hi>. At det er denne Samling, Palladius har
+								nu kendte, maa <hi rend="italics" xml:id="idm139771559241280">Grundlaget have været
+									en dansk Samling af Bibelsprog<hi rend="sup" xml:id="idm139771559240416">1</hi></hi>. At det er denne Samling, Palladius har
 								benyttet ogsaa til Forordet til Chr. III's Bibel, turde være
 								utvivlsomt. Man <note anchored="true" xml:id="idm139771559239344"><hi rend="sup" xml:id="idm139771559238976">1</hi> Efter "Nogle deylige Spraack
 									vdaff den Hellige Scrifft/ til it Gensuar aff Gud",
@@ -9715,7 +9704,7 @@
 								(uden Forord og Efterskrift), Bl. B6<hi rend="sup" xml:id="idm139771559213360">v</hi>-E3<hi rend="sup" xml:id="idm139771559212688">r</hi>, 3. "En
 								Taksigelse" (indsat af Bogens anonyme Udgiver) Bl. E3<hi rend="sup" xml:id="idm139771559211984">r</hi>-E5<hi rend="sup" xml:id="idm139771559211360">v</hi>. Paa sidste
 								Blad Angivelse af Bogtrykker og Trykaar.</p>
-              <p xml:id="idm139771559210528"><hi rend="italics" xml:id="idm139771559210400"><!--<emph>-->Originaludgaven<!--</emph>--></hi>
+              <p xml:id="idm139771559210528"><hi rend="italics" xml:id="idm139771559210400">Originaludgaven</hi>
 								er tabt, men det er sandsynligvis denne Udgave der beskrives af
 								Biskop Harboe i hans Palladius-Samling (Ny kgl. Saml. 2710, III,
 								4°, S. 266); dens Titel lyder her:</p>
@@ -9788,7 +9777,7 @@
 								om i Bønnebogen; og mens vi af Harboe's Afskrift faar at vide, at
 								Originalen - eller i hvert Fald Skriftet i dets
 								selvstændige Form - er trykt i det ny Klosterstræde hos
-								Laurens Benedict, meddeler Afskriften intet om <hi rend="italics" xml:id="idm139771559181408"><!--<emph>-->Trykaaret<!--</emph>--></hi>. Heller ikke <hi rend="italics" xml:id="idm139771559180368"><!--<emph>-->Affattelsestiden<!--</emph>--></hi>
+								Laurens Benedict, meddeler Afskriften intet om <hi rend="italics" xml:id="idm139771559181408">Trykaaret</hi>. Heller ikke <hi rend="italics" xml:id="idm139771559180368">Affattelsestiden</hi>
 								kan man slutte noget om ad direkte Vej, da Forordet ikke er dateret.
 								Tidfæstelsen maa derfor blive meget omtrentlig. Da Skriftet er
 								optaget i en Bønnebog 1553, maa det være ældre end dette Aar, dette
@@ -9804,7 +9793,7 @@
 								og Bogen er rimeligvis udkommet kort derefter. Den ældste bevarede
 								Udgave er først fra 1552). Det syntes mig derfor rigtigst, at sætte
 								Palladius' Skrift til Tiden omkr. 1551 og i den kronologiske Række
-								anbringe det <hi rend="italics" xml:id="idm139771559177152"><!--<emph>-->efter<!--</emph>--></hi> de Skrifter, der med
+								anbringe det <hi rend="italics" xml:id="idm139771559177152">efter</hi> de Skrifter, der med
 								Sikkerhed kunde tidfæstes til dette Aar, og før Skrifterne fra de
 								følgende Aar.<hi rend="sup" xml:id="idm139771559175888">1</hi>
 							</p>
@@ -10349,9 +10338,9 @@
             </div>
             <div xml:id="idm139771558972160">
               <p xml:id="idm139771558971904">At Forfatteren ikke er Palladius, kan man for det første slutte af,
-								at Taksigelsen ikke findes i 1553-Bønnebogen, men desuden af, at <hi rend="italics" xml:id="idm139771558971344"><!--<emph>-->alle<!--</emph>--></hi>
+								at Taksigelsen ikke findes i 1553-Bønnebogen, men desuden af, at <hi rend="italics" xml:id="idm139771558971344">alle</hi>
 								Skriftstederne i Taksigelsen er afskrevet efter Biblen 1550 ligesom
-								Salmevers <hi rend="italics" xml:id="idm139771558970192"><!--<emph>-->tilføjelserne<!--</emph>--></hi> i 1562-Bønnebogen
+								Salmevers <hi rend="italics" xml:id="idm139771558970192">tilføjelserne</hi> i 1562-Bønnebogen
 								- i Modsætning til de oprindelige Citater. Slutningen maa
 								derfor skyldes den anonyme Udgiver. Han synes at være skaansk at
 								dømme efter Former som <hi rend="italics" xml:id="idm139771558968768">foruthan</hi>, Plur. <hi rend="italics" xml:id="idm139771558968080">dager</hi>, til hvilke ingen Parallel findes i
@@ -10490,7 +10479,7 @@
 								gennemarbejdet og udsendt sin Visitatsbog. Dette skete som bekendt
 								aldrig. Palladius naaede ikke at faa Bogen endeligt afsluttet, i
 								hvert Fald fik han den ikke besørget i Trykken. Den bevarede, noget
-								yngre Afskrift, vil derfor først blive udgivet <hi rend="italics" xml:id="idm139771558878848"><!--<emph>-->efter<!--</emph>--></hi> Palladius' trykte
+								yngre Afskrift, vil derfor først blive udgivet <hi rend="italics" xml:id="idm139771558878848">efter</hi> Palladius' trykte
 								Skrifter; og da det vil være rimeligst at omtale Visitatsbogen og
 								Uddraget af den under ét, vil man først i Indledningen til denne
 								finde en nærmere Skildring af det følgende lille Skrifts
@@ -10865,8 +10854,8 @@
 								"Doctor Peiter Capiten.. har skrevet en stor og mærkelig
 								Bog om Pestilens, og fordi at den kan ikke saa snart udkomme paa
 								Prenten.. har [han] uddraget en Kerne og Blomme af samme hans [sin]
-								store Bog.. og den forsendt til Prædikanterne her i Byen, <hi rend="italics" xml:id="idm139771558759744"><!--<emph>-->og er [den] forkyndt paa alle disse
-									Prædikestole<!--</emph>--></hi>" (ndf. S. 339 L. 26
+								store Bog.. og den forsendt til Prædikanterne her i Byen, <hi rend="italics" xml:id="idm139771558759744">og er [den] forkyndt paa alle disse
+									Prædikestole</hi>" (ndf. S. 339 L. 26
 								ff.). Den store Bog, her omtales, er iøvrigt aldeles ukendt;
 								rimeligvis er den aldrig udkommet. Det mindre Uddrag, som vi nu kun
 								kender fra Palladius' danske Gengivelse, er overhovedet det eneste
@@ -11012,12 +11001,12 @@
 								"Ist Jemand so keck und stark im Glauben, der bleibe im
 								Namen Gottes, er sundigt freilich dadurch nicht. Ist aber Jemand
 								schwach und furchtig, der fliehe im Namen Gottes, weil er solchs
-								thut <hi rend="italics" xml:id="idm139771558720176"><!--<emph>-->ohn Nachtheil seiner Pflicht
-									gegen seinem Nähesten"<!--</emph>--></hi>
+								thut <hi rend="italics" xml:id="idm139771558720176">ohn Nachtheil seiner Pflicht
+									gegen seinem Nähesten"</hi>
 								(Erlangen-Udg. 22, 322). Mærkeligt nok kommer Palladius slet ikke
 								ind paa dette Spørgsmaal, skønt der ved Siden af de letfærdige, som
 								ikke skyede Pesten, men hvis Letsind vel nok skyldtes, at de paa
-								Grund af Fattigdom ikke <hi rend="italics" xml:id="idm139771558718480"><!--<emph>-->kunde<!--</emph>--></hi> tage fra Byen, fandtes
+								Grund af Fattigdom ikke <hi rend="italics" xml:id="idm139771558718480">kunde</hi> tage fra Byen, fandtes
 								adskillige, som flygtede, skønt deres Pligt havde været at blive.
 								Ogsaa hvor Emnet er ganske ligt hos Luther og Palladius, er
 								Behandlingen meget forskellig. Palladius siger: Pest rammer Dig ikke
@@ -11030,7 +11019,7 @@
 								Leib furzustehen und sein pflegen, daß er gesund sei und
 								lebe" (22, 332 f.). Omvendt siger han til dem, der
 								forsømmer deres Pligt af Frygt for Smitte: "Was sind alle
-								Pestilenz und Teufel gegen Gott, der sich hie [<!--*dolgoeO*-->dvs.
+								Pestilenz und Teufel gegen Gott, der sich hie [dvs.
 								naar du ofrer dig for den Syge] zum Warter und Arzt verbinden und
 								verpflicht? Pfu dich, und aber pfu dich, du leidiger Unglaub, daß du
 								solchen reichen Trost sollt verachten, und läßt dich eine kleine
@@ -11114,8 +11103,8 @@
 									Kiøbenhaffn / Først 1546. Atter 1552. <hi rend="sup" xml:id="idm139771558686544">1</hi> Oc
 									nu igien met ny Fortale / 1619. Hoss Salomonem Sartorium/
 									B.") -</hi> er forfattet af <note anchored="true" xml:id="idm139771558685664"><hi rend="sup" xml:id="idm139771558685264">1</hi> Jfr. foran S. 325 Fodn. 2.</note><pb n="334" xml:id="s334" facs="adl/palladius/palladius02/palladius02334"/> Resen. Han omtaler
-								Pestens to Aarsager: <hi rend="italics" xml:id="idm139771558683328"><!--<emph>-->aandelig<!--</emph>--></hi> Forkrænkelse til
-								Modvillighed mod Gud - og <hi rend="italics" xml:id="idm139771558682160"><!--<emph>-->legemlig<!--</emph>--></hi> Forgift; og han
+								Pestens to Aarsager: <hi rend="italics" xml:id="idm139771558683328">aandelig</hi> Forkrænkelse til
+								Modvillighed mod Gud - og <hi rend="italics" xml:id="idm139771558682160">legemlig</hi> Forgift; og han
 								oplyser Læseren om, at der til at raade Bod paa Synden og Sygdommen
 								findes "smaa Bøger/ som ere prentede baade om det
 								Aandelige oc om det legemlige". Først anbefales
@@ -12038,7 +12027,7 @@
             <p xml:id="idm139771558360608">S. 347 L. 17. Luther, Das schöne Confitemini, 1530 (Erlangen-Udg. 41, 1
 							ff.).</p>
             <p xml:id="idm139771558360032">S. 348 L. 7. <hi rend="italics" xml:id="idm139771558359744">den oc den mands naffn</hi> = en vis
-							Mands Navn (<!--*dolgoeO*-->dvs. Fandens).</p>
+							Mands Navn (dvs. Fandens).</p>
             <p xml:id="idm139771558358560">S. 350 L. 4. <hi rend="italics" xml:id="idm139771558358272">Feneyske Triagels</hi> = <hi rend="italics" xml:id="idm139771558357584">Fenediske Triagels</hi> S. 351 L. 21,
 							"theriacum fra Venedig", se Grimms Wörterbuch II,
 							1373: <hi rend="italics" xml:id="idm139771558356704">Dreiaker</hi>. Iøvrigt kan jævnføres følgende
@@ -12053,7 +12042,7 @@
 							Københaffn</hi>, jfr. Indledn. foran S. 326.</p>
             <p xml:id="idm139771558353424">S. 352 L. 28 f. <hi rend="italics" xml:id="idm139771558353136">Da vndkomme de snariste/ som formaste
 								sig selffue oc nøde sig til at faa Mad</hi>
-							<!--*dolgoeO*-->dvs. "Da slippe de snarest fra Pesten, naar
+							dvs. "Da slippe de snarest fra Pesten, naar
 							de øve Vold mod sig selv og tvinger sig til at spise."
 							Udtrykket er sikkert tautologisk; men Betydningen af <hi rend="italics" xml:id="idm139771558351584">formaste sig</hi> er noget afvigende fra den almindelig brugte (se
 							Kalkar I, 668, Tillæg S. 286). Betegnende nok gengiver Bartholin kun det
@@ -12071,7 +12060,7 @@
 							Historien ukendte Personer.</p>
             <p xml:id="idm139771558342960">S. 357 L. 17. <hi rend="italics" xml:id="idm139771558342672">Hælsspetter</hi>, Kalkar I, 197<hi rend="sup" xml:id="idm139771558341936">b</hi>.</p>
             <p xml:id="idm139771558341184">S. 357 L.24. <hi rend="italics" xml:id="idm139771558340896">som det vil io vere met</hi>
-							<!--*dolgoeO*-->dvs. være ude med; jfr. Kalkar IV, 910<hi rend="sup" xml:id="idm139771558339760">b</hi> L. 7 f. n.</p>
+							dvs. være ude med; jfr. Kalkar IV, 910<hi rend="sup" xml:id="idm139771558339760">b</hi> L. 7 f. n.</p>
           </div>
           <pb n="362" xml:id="s362" facs="adl/palladius/palladius02/palladius02362"/>
           <div xml:id="idm139771558337696">
@@ -12133,7 +12122,7 @@
 								det, som Satan.. har allerede begyndt med Kiv og Trætte, med Klammer
 								og Bulder udi nogle Købstæder, besynderlige her i
 								Sjælland"; han tilføjer, at saadan Bulder plejer at
-								fremkalde "meget ondt og Ulyst [<!--*dolgoeO*-->dvs.
+								fremkalde "meget ondt og Ulyst [dvs.
 								Strid] i Land og Rige" og beder derfor Gud om at
 								"afvende og styre den Arvefjende og Uven, som saar sin
 								Klinte iblandt Guds Ord at fordærve fattige Kristne med".</p>
@@ -12242,7 +12231,7 @@
             </div>
             <div xml:id="idm139771558302832">
               <head xml:id="idm139771558302576">III.</head>
-              <p xml:id="idm139771558302160"><hi rend="italics" xml:id="idm139771558302032"><!--<emph>-->Sproget<!--</emph>--></hi> i
+              <p xml:id="idm139771558302160"><hi rend="italics" xml:id="idm139771558302032">Sproget</hi> i
 								"En Undervisning om Mildhed" er som altid,
 								hvor Palladius ikke er bundet til et fremmed Grundlag, kraftigt
 								- og isprængt med Rim og Mundheld og Billeder. Der findes
@@ -12299,10 +12288,10 @@
               <cit xml:id="idm139771558276400">
                 <bibl xml:id="idm139771558276144"><hi rend="italics" xml:id="idm139771558276016">Palladius, ndf. S. 375 L. 12 f. og 24 f</hi>.</bibl>
                 <q xml:id="idm139771558275184">
-                  <p xml:id="idm139771558274928">Der som i forlade Mennisker <hi rend="italics" xml:id="idm139771558274624"><!--<emph>-->deris Synder/<!--</emph>--></hi> da skal
-										oc eders Himmelske Fader forlade <hi rend="italics" xml:id="idm139771558273520"><!--<emph>-->eder eders Synder<!--</emph>--></hi>.</p>
-                  <p xml:id="idm139771558272384">Der som i icke forlade <hi rend="italics" xml:id="idm139771558272128"><!--<emph>-->Menniskerne<!--</emph>--></hi>/ Da skal
-										icke heller eders Fader forlade eder/ <hi rend="italics" xml:id="idm139771558271008"><!--<emph>-->eders Synder<!--</emph>--></hi>.</p>
+                  <p xml:id="idm139771558274928">Der som i forlade Mennisker <hi rend="italics" xml:id="idm139771558274624">deris Synder/</hi> da skal
+										oc eders Himmelske Fader forlade <hi rend="italics" xml:id="idm139771558273520">eder eders Synder</hi>.</p>
+                  <p xml:id="idm139771558272384">Der som i icke forlade <hi rend="italics" xml:id="idm139771558272128">Menniskerne</hi>/ Da skal
+										icke heller eders Fader forlade eder/ <hi rend="italics" xml:id="idm139771558271008">eders Synder</hi>.</p>
                 </q>
               </cit>
               <cit xml:id="idm139771558269616">
@@ -12310,12 +12299,12 @@
                   <hi rend="italics" xml:id="idm139771558269104">Vulgata</hi>
                 </bibl>
                 <q xml:id="idm139771558268320">
-                  <p xml:id="idm139771558268064">Si enim dimiseritis hominibus <hi rend="italics" xml:id="idm139771558267760"><!--<emph>-->peccata eorum/<!--</emph>--></hi> demittet
-										et <hi rend="italics" xml:id="idm139771558266720"><!--<emph>-->vobis<!--</emph>--></hi>
-										Pater vester cælestis <hi rend="italics" xml:id="idm139771558265600"><!--<emph>-->delicta vestra<!--</emph>--></hi>.</p>
-                  <p xml:id="idm139771558264464">Si autem non dimiseritis <hi rend="italics" xml:id="idm139771558264160"><!--<emph>-->hominibus/<!--</emph>--></hi> nec Pater
-										vester demittet <hi rend="italics" xml:id="idm139771558263104"><!--<emph>-->vobis
-											peccata vestra<!--</emph>--></hi>.</p>
+                  <p xml:id="idm139771558268064">Si enim dimiseritis hominibus <hi rend="italics" xml:id="idm139771558267760">peccata eorum/</hi> demittet
+										et <hi rend="italics" xml:id="idm139771558266720">vobis</hi>
+										Pater vester cælestis <hi rend="italics" xml:id="idm139771558265600">delicta vestra</hi>.</p>
+                  <p xml:id="idm139771558264464">Si autem non dimiseritis <hi rend="italics" xml:id="idm139771558264160">hominibus/</hi> nec Pater
+										vester demittet <hi rend="italics" xml:id="idm139771558263104">vobis
+											peccata vestra</hi>.</p>
                 </q>
               </cit>
               <pb n="370" xml:id="s370" facs="adl/palladius/palladius02/palladius02370"/>
@@ -12324,12 +12313,12 @@
                   <hi rend="italics" xml:id="idm139771558260016">Biblen 1550</hi>
                 </bibl>
                 <q xml:id="idm139771558259200">
-                  <p xml:id="idm139771558258944">Thi at forlade i Mennisken <hi rend="italics" xml:id="idm139771558258640"><!--<emph>-->deris brøst/<!--</emph>--></hi> Da skal
-										eder Himmelske Fader oc forlade <hi rend="italics" xml:id="idm139771558257520"><!--<emph>-->eder<!--</emph>--></hi>.</p>
-                  <p xml:id="idm139771558256384">Men forlade i <hi rend="italics" xml:id="idm139771558256128"><!--<emph>-->Mennisken icke
-											deris brøst<!--</emph>--></hi>/ da skal oc eder Fader
-										icke forlade eder <hi rend="italics" xml:id="idm139771558254960"><!--<emph>-->eders
-											brøde<!--</emph>--></hi>.</p>
+                  <p xml:id="idm139771558258944">Thi at forlade i Mennisken <hi rend="italics" xml:id="idm139771558258640">deris brøst/</hi> Da skal
+										eder Himmelske Fader oc forlade <hi rend="italics" xml:id="idm139771558257520">eder</hi>.</p>
+                  <p xml:id="idm139771558256384">Men forlade i <hi rend="italics" xml:id="idm139771558256128">Mennisken icke
+											deris brøst</hi>/ da skal oc eder Fader
+										icke forlade eder <hi rend="italics" xml:id="idm139771558254960">eders
+											brøde</hi>.</p>
                 </q>
               </cit>
               <cit xml:id="idm139771558253536">
@@ -12337,13 +12326,13 @@
                   <hi rend="italics" xml:id="idm139771558253024">Luther-Biblen 1545</hi>
                 </bibl>
                 <q xml:id="idm139771558252240">
-                  <p xml:id="idm139771558251984">Denn so jr den Menschen <hi rend="italics" xml:id="idm139771558251680"><!--<emph>-->jre
-											feile<!--</emph>--></hi> vergebet/ So wird euch <hi rend="italics" xml:id="idm139771558250592"><!--<emph>-->ewer<!--</emph>--></hi>
-										himlischer <hi rend="italics" xml:id="idm139771558249584"><!--<emph>-->Vater<!--</emph>--></hi> auch vergeben.</p>
-                  <p xml:id="idm139771558248416"><hi rend="italics" xml:id="idm139771558248288"><!--<emph>-->Wo jr aber den Menschen jre
-											feile<!--</emph>--></hi> nicht vergebet/ So wird euch
-										ewer Vater <hi rend="italics" xml:id="idm139771558247152"><!--<emph>-->eure
-											feile<!--</emph>--></hi> auch nicht vergeben.</p>
+                  <p xml:id="idm139771558251984">Denn so jr den Menschen <hi rend="italics" xml:id="idm139771558251680">jre
+											feile</hi> vergebet/ So wird euch <hi rend="italics" xml:id="idm139771558250592">ewer</hi>
+										himlischer <hi rend="italics" xml:id="idm139771558249584">Vater</hi> auch vergeben.</p>
+                  <p xml:id="idm139771558248416"><hi rend="italics" xml:id="idm139771558248288">Wo jr aber den Menschen jre
+											feile</hi> nicht vergebet/ So wird euch
+										ewer Vater <hi rend="italics" xml:id="idm139771558247152">eure
+											feile</hi> auch nicht vergeben.</p>
                 </q>
               </cit>
               <p xml:id="idm139771558245760">Man ser, at Ordet for "Synd" gentages i Vers 14
@@ -12909,18 +12898,18 @@
 							Regnestykket. Luther skriver (Erlangen-Udg. 5.232): "Das
 							Wörtlin "Talentum", das wir ein
 							"Pfund" verdeutschen, ist bei den Alten eine
-							gewisse Summe Gelds gewesen, <hi rend="italics" xml:id="idm139771558053152"><!--<emph>-->ungefärlich
-								in die sechshundert Kronen<!--</emph>--></hi>. Darum <pb n="387" xml:id="s387" facs="adl/palladius/palladius02/palladius02387"/>
+							gewisse Summe Gelds gewesen, <hi rend="italics" xml:id="idm139771558053152">ungefärlich
+								in die sechshundert Kronen</hi>. Darum <pb n="387" xml:id="s387" facs="adl/palladius/palladius02/palladius02387"/>
 							"zehentausend" machen eine unermeßliche große
-							Summe, in die <hi rend="italics" xml:id="idm139771558050608"><!--<emph>-->sechzigmalhunderttausend
-								Kronen."<!--</emph>--></hi>
+							Summe, in die <hi rend="italics" xml:id="idm139771558050608">sechzigmalhunderttausend
+								Kronen."</hi>
 						</p>
             <p xml:id="idm139771558049408">Den følgende Opgivelse - af Denarens Værdi - kunde
 							formelt stamme fra hjemlig Kilde, idet Palladius regner de 100
 							"Sølvpendinge" = 100 Dagløns Pendinge à 3 Skilling
 							= omtr. 6 Daler; da nu en Daler regnedes til 3 Mark à 16 Skillinger, vil
 							det ses, at Regnestykket saa pas stemmer; men ogsaa kun formelt; thi man
-								<hi rend="italics" xml:id="idm139771558048528"><!--<emph>-->havde<!--</emph>--></hi> ikke
+								<hi rend="italics" xml:id="idm139771558048528">havde</hi> ikke
 							Treskillinger - men kun Enskillingsstykker og Otteskillinger;
 							og var Værdibestemmelsen dansk, vilde man jo sikkert have opgivet
 							Værdien i dansk Mønt. - Sandsynligvis stammer da baade
@@ -12944,20 +12933,20 @@
 							(beslægtet med <hi rend="italics" xml:id="idm139771558041392">Mue "</hi>Skare"
 							i Almue?) er ukendt.</p>
             <p xml:id="idm139771558040528">S.378 L.31. <hi rend="italics" xml:id="idm139771558040240">somme veye oc somme true</hi>
-							<!--*dolgoeO*-->dvs. "nogle lokke og nogle true"
+							dvs. "nogle lokke og nogle true"
 							jfr. Kaikar IV. 783<hi rend="sup" xml:id="idm139771558039104">b</hi> L. 7 f. n. Udtrykket findes
 							ogsaa S. 385 L. 18.</p>
             <p xml:id="idm139771558038288">S. 380 L. 35. <hi rend="italics" xml:id="idm139771558038032">min ære vaar i veyskaalen</hi>
-							[<!--*dolgoeO*-->dvs. Vægtskaalen], sml. <hi rend="italics" xml:id="idm139771558036896">Keyserens
+							[dvs. Vægtskaalen], sml. <hi rend="italics" xml:id="idm139771558036896">Keyserens
 								siel wor paa Veyskaalen</hi>, Chr. Pedersens Danske Skrifter V, 127,
 							8 f.</p>
             <p xml:id="idm139771558036016">S. 381 L. 9 f. <hi rend="italics" xml:id="idm139771558035728">Mit kød och blod begynder at fulne oc
 								lade drage</hi>
-							<!--*dolgoeO*-->dvs. "at blive fordærvet og lade sig
+							dvs. "at blive fordærvet og lade sig
 							friste".</p>
             <p xml:id="idm139771558034336">S. 381 L. 13 f. <hi rend="italics" xml:id="idm139771558034080">Louen holder vnder Høyen offuer en
 								side fra mine øyen</hi>
-							<!--*dolgoeO*-->dvs. Loven er skjult fjærnt fra mine Øjne; sml. Kalkar
+							dvs. Loven er skjult fjærnt fra mine Øjne; sml. Kalkar
 							III, 713<hi rend="sup" xml:id="idm139771558032768">b</hi> L. 3 f. n.</p>
             <p xml:id="idm139771558032016">S. 381 L. 20. <hi rend="italics" xml:id="idm139771558031728">ruse til, "</hi>styrte
 							frem", Kalkar III, 630<hi rend="sup" xml:id="idm139771558030992">b</hi>.</p>
@@ -12965,7 +12954,7 @@
 								/ eller</hi>
 							<pb n="388" xml:id="s388" facs="adl/palladius/palladius02/palladius02388"/>
 							<hi rend="italics" xml:id="idm139771558027968">driffue hannem fra mig som det er i Veyskaalen</hi>
-							<!--*dolgoeO*-->dvs. "naar det staar paa Vippen";
+							dvs. "naar det staar paa Vippen";
 							sml. Noten til S. 380 L. 35 og Kaikar IV, 39<hi rend="sup" xml:id="idm139771558026800">b </hi>L. 3
 							f. o.</p>
             <p xml:id="idm139771558026048">S. 383 L. 33 f. <hi rend="italics" xml:id="idm139771558025760">hine Gendøbere haffue ocsaa giffuit
@@ -12973,10 +12962,10 @@
 							Afskaffelsen af den verdslige og kirkelige Øvrighed: Gud alene skulde
 							være Konge.</p>
             <p xml:id="idm139771558024528">S. 385 L. 4. <hi rend="italics" xml:id="idm139771558024240">formindsker oc affliger Synderne</hi>
-							<!--*dolgoeO*-->dvs. "formindsker og aflægger
+							dvs. "formindsker og aflægger
 							Synderne"; Vulgata kun: <hi rend="italics" xml:id="idm139771558023040">minues</hi>.</p>
             <p xml:id="idm139771558022256">S. 385 L. 15 f. <hi rend="italics" xml:id="idm139771558021968">ath de maatte end bliffue bønhørde met
-								dem</hi> [<!--*dolgoeO*-->dvs. med Gud og Kristus] <hi rend="italics" xml:id="idm139771558020784">ydermere end nogen deris kødelige ven/ it armt
+								dem</hi> [dvs. med Gud og Kristus] <hi rend="italics" xml:id="idm139771558020784">ydermere end nogen deris kødelige ven/ it armt
 								dødeligt Menniske</hi>. Konstruktionen i den sidste Sætning er noget
 							paafaldende; Meningen er dog utvivlsomt: "... snarere end med
 							deres kødelige Ven" etc., hvad der ganske svarer til
@@ -13033,15 +13022,15 @@
               <p xml:id="idm139771558003472">vise dette:</p>
               <p xml:id="idm139771558003056">2. Mos. 22.25:<lb xml:id="idm139771558002768"/>
 								<cit xml:id="idm139771558002512"><bibl xml:id="idm139771558002384"><hi rend="italics" xml:id="idm139771558002256">Palladius, ndf. S. 398 L. 23 f</hi>.</bibl><q xml:id="idm139771558001552">Om du læner mit Folck Pendinge/ som er fattigt hoss dig/ da
-										skalt du icke strenge met dem/ til deris skade eller <hi rend="italics" xml:id="idm139771558001024"><!--<emph>-->ligge<!--</emph>--></hi>
+										skalt du icke strenge met dem/ til deris skade eller <hi rend="italics" xml:id="idm139771558001024">ligge</hi>
 										Aager paa dem.</q></cit>
 								<cit xml:id="idm139771557999808"><bibl xml:id="idm139771557999680"><hi rend="italics" xml:id="idm139771557999552">Biblen 1550</hi></bibl><q xml:id="idm139771557999024">Om dw læner mit Folk Pendinge som er fattig hoss dig/ da
-										skalt dw icke strænge met dem/ til deris skade/ eller <hi rend="italics" xml:id="idm139771557998512"><!--<emph>-->legge<!--</emph>--></hi>
+										skalt dw icke strænge met dem/ til deris skade/ eller <hi rend="italics" xml:id="idm139771557998512">legge</hi>
 										Aager paa dem.</q></cit>
 							</p>
               <p xml:id="idm139771557997168">Luc. 6.35:<lb xml:id="idm139771557996912"/>
 								<cit xml:id="idm139771557996656"><bibl xml:id="idm139771557996528"><hi rend="italics" xml:id="idm139771557996400">Palladius, ndf. S. 400 L. 23 f</hi>.</bibl><q xml:id="idm139771557995696">Gører vel oc Laaner/ at i haabis der inted faare. Saa skal
-										eders Løn vere stor/ <hi rend="italics" xml:id="idm139771557995232"><!--<emph>-->at<!--</emph>--></hi> i skulle vere den
+										eders Løn vere stor/ <hi rend="italics" xml:id="idm139771557995232">at</hi> i skulle vere den
 										aller Høyistis Børn.</q></cit>
 								<cit xml:id="idm139771557993952"><bibl xml:id="idm139771557993824"><hi rend="italics" xml:id="idm139771557993696">Biblen 1550</hi></bibl><q xml:id="idm139771557993168">Gører vel oc læner/ at i haabis der inted faare/ Saa skal
 										eders Løn vere stor/ oc i skulle vere den Allerhøystis
@@ -13098,7 +13087,7 @@
               <p xml:id="idm139771557971456">Traktaten om Aager er bevaret i to Udgaver, den ene trykt i
 								København, den anden i Rostock i Aaret 1553. Hvilken af disse, der
 								er Originaludgaven, vil en nærmere Undersøgelse vise.</p>
-              <p xml:id="idm139771557970656">1. <hi rend="italics" xml:id="idm139771557970400"><!--<emph>-->Københavner-Trykket<!--</emph>--></hi> bestaar af ét
+              <p xml:id="idm139771557970656">1. <hi rend="italics" xml:id="idm139771557970400">Københavner-Trykket</hi> bestaar af ét
 								Ark (sign. <hi rend="italics" xml:id="idm139771557969248">Aii-Av</hi>), i lille Oktav med 21
 								Linjer paa Siden. Paa Titelbladet - gengivet ndf. S. 397
 								- staar: "<hi rend="italics" xml:id="idm139771557968464">Sat i
@@ -13132,7 +13121,7 @@
 										seruari possit, et ejus utilitati, quo cum agitur,
 										consulatur.</q></cit></p>
               <pb n="394" xml:id="s394" facs="adl/palladius/palladius02/palladius02394"/>
-              <p xml:id="idm139771557955728">2. <hi rend="italics" xml:id="idm139771557955472"><!--<emph>-->Rostocker-Trykket<!--</emph>--></hi> udgøres ligeledes
+              <p xml:id="idm139771557955728">2. <hi rend="italics" xml:id="idm139771557955472">Rostocker-Trykket</hi> udgøres ligeledes
 								af ét Ark (sign. <hi rend="italics" xml:id="idm139771557954320">Aij-Av</hi>), i lille Oktav med
 								22 Linjer paa Siden. Bogtrykkeren er, som Titelbladet viser (se
 								nedenstaaende Gengivelse):<lb xml:id="idm139771557953520"/>
@@ -13177,9 +13166,9 @@
 								Interpunction. Selvfølgelig er derfor alle Skrivefejl <hi rend="italics" xml:id="idm139771557927616">(ligge</hi> for <hi rend="italics" xml:id="idm139771557926896">legge</hi>,
 								XXIII for XXVIII osv. se Textrettelser og Noter ndf. S. 404)
 								overført uændret.</p>
-              <p xml:id="idm139771557925872">Af <hi rend="italics" xml:id="idm139771557925616"><!--<emph>-->Københavner-Trykket<!--</emph>--></hi> findes et
+              <p xml:id="idm139771557925872">Af <hi rend="italics" xml:id="idm139771557925616">Københavner-Trykket</hi> findes et
 								Exemplar paa d. kgl. Bibl. og et meget velbevaret ubeskaaret
-								Exemplar paa Universitets-Bibliotheket. Af <hi rend="italics" xml:id="idm139771557924400"><!--<emph>-->Rostocker-Trykket<!--</emph>--></hi> er der kun
+								Exemplar paa Universitets-Bibliotheket. Af <hi rend="italics" xml:id="idm139771557924400">Rostocker-Trykket</hi> er der kun
 								bevaret eet - stærkt medtaget - Exemplar; det
 								findes paa d. kgl. Bibl. i Hjelmstjernes Samling.</p>
             </div>
@@ -13524,7 +13513,7 @@
             <p xml:id="idm139771557791776">S. 402 L. 11-12. <hi rend="italics" xml:id="idm139771557791488">Bo</hi> - <hi rend="italics" xml:id="idm139771557790832">Tage</hi>, jfr. Biblen 1550, Ps. 15: <hi rend="italics" xml:id="idm139771557790096">bo i din Bolig, huilis paa dit</hi>.. <hi rend="italics" xml:id="idm139771557789392">Bierg, gør retferdighed, taler sandhed, suer sin
 								Neste, giffuer.. paa Aager, tager Gaffuer</hi>.</p>
             <p xml:id="idm139771557788400">S. 402 L. 25. <hi rend="italics" xml:id="idm139771557788112">at hand ey straffede</hi>..
-							<!--*dolgoeO*-->dvs. "at han jo straffede..".</p>
+							dvs. "at han jo straffede..".</p>
             <p xml:id="idm139771557786896">S. 403 L. 1. <hi rend="italics" xml:id="idm139771557786640">Ny Maaned=</hi>Biblen <hi rend="italics" xml:id="idm139771557785920">Nymaanet</hi>, Luther <hi rend="italics" xml:id="idm139771557785200">Neumond</hi>; jfr. Kalkar
 							III, 244.</p>
             <p xml:id="idm139771557784336">S. 403 L. 3. <hi rend="italics" xml:id="idm139771557784048">gøre Maaden mindre</hi>, Biblen <hi rend="italics" xml:id="idm139771557783312">gøre Epha mindre</hi>; ellers er Palladius' Text
@@ -13574,12 +13563,12 @@
 							lyster at finde".</p>
             <p xml:id="idm139771557769216">Denne Efterskrift optryktes uændret i alle senere Udgaver af Christian d.
 							Tredjes Ordinans. Den findes saaledes i følgende Tryk:</p>
-            <p xml:id="idm139771557768544">1. <hi rend="italics" xml:id="idm139771557768288"><!--<emph>-->Originaludgaven<!--</emph>--></hi>
+            <p xml:id="idm139771557768544">1. <hi rend="italics" xml:id="idm139771557768288">Originaludgaven</hi>
 							1553, Bl, Cxxxiiii<hi rend="sup" xml:id="idm139771557767200">r-v</hi>, Formatet er ligesom
 							i de følgende Udgaver lalle Oktav (se efterstaaende Gengivelse af
 							Titelbladet og dets Bagside med Chr, III's Portraet), Linjeantallet er
 							22. Paa sidste Blad findes Hans Vingaards Symbolum: <hi rend="italics" xml:id="idm139771557766096">HGHVDA</hi> (se foran I. Bind S. 116); derunder: <hi rend="italics" xml:id="idm139771557765392">Prented i Kebenhaffn M.D.Liii</hi>.</p>
-            <p xml:id="idm139771557764560">2. Den <hi rend="italics" xml:id="idm139771557764272"><!--<emph>-->rette Ordinants<!--</emph>--></hi>
+            <p xml:id="idm139771557764560">2. Den <hi rend="italics" xml:id="idm139771557764272">rette Ordinants</hi>
 							1562, Bl. CXLIII<hi rend="sup" xml:id="idm139771557763184">v</hi>. Paa sidste Blad: <hi rend="italics" xml:id="idm139771557762560">Prentet i Kiøbenhaffn/ aff Hans Zimmerman Aar etc.
 								M.D.LXII</hi>
 						</p>
@@ -13596,16 +13585,16 @@
               <figure xml:id="idm139771557757552"/>
             </p>
             <pb n="412" xml:id="s412" facs="adl/palladius/palladius02/palladius02412"/>
-            <p xml:id="idm139771557755968">3. <hi rend="italics" xml:id="idm139771557755712"><!--<emph>-->Den rette Ordinants<!--</emph>--></hi>
+            <p xml:id="idm139771557755968">3. <hi rend="italics" xml:id="idm139771557755712">Den rette Ordinants</hi>
 							1574, Bl. CLIX<hi rend="sup" xml:id="idm139771557754672">r-v</hi>. Paa sidste Blad: <hi rend="italics" xml:id="idm139771557754016">Prentet i Kiøbenhaffn/ aff Hans Støckelmann / oc
 								Andrea Gutteruitz Aar 1574</hi></p>
-            <p xml:id="idm139771557753168">4. <hi rend="italics" xml:id="idm139771557752912"><!--<emph>-->Den rette Ordinants<!--</emph>--></hi>
+            <p xml:id="idm139771557753168">4. <hi rend="italics" xml:id="idm139771557752912">Den rette Ordinants</hi>
 							1582, Bl. CLIX<hi rend="sup" xml:id="idm139771557751872">r-v</hi>. Paa sidste Blad: <hi rend="italics" xml:id="idm139771557751216">Prentet i Kiøbenhaffn/ hos Andream Guteruitz Aar
 							1582</hi></p>
-            <p xml:id="idm139771557750416">5. <hi rend="italics" xml:id="idm139771557750160"><!--<emph>-->Den rette Ordinants<!--</emph>--></hi>
+            <p xml:id="idm139771557750416">5. <hi rend="italics" xml:id="idm139771557750160">Den rette Ordinants</hi>
 							1617, Bl. CLIX<hi rend="sup" xml:id="idm139771557749120">r-v</hi>. Paa sidste Blad: <hi rend="italics" xml:id="idm139771557748464">Prented i Kiøbenhaffn/ hoss Henrich Waldkirch. Anno
 								M.DC.XVII.</hi></p>
-            <p xml:id="idm139771557747648">6. <hi rend="italics" xml:id="idm139771557747344"><!--<emph>-->Den rette Ordinants<!--</emph>--></hi>
+            <p xml:id="idm139771557747648">6. <hi rend="italics" xml:id="idm139771557747344">Den rette Ordinants</hi>
 							1640, Bl. CLIX<hi rend="sup" xml:id="idm139771557746304">r-v</hi>. Paa sidste Blad: <hi rend="italics" xml:id="idm139771557745648">Prentet i Kiøbenhaffn/ Hoss/ Salig Henrich Waldkirchs
 								Arffuinger.Anno M.DC.XXXX.</hi></p>
             <p xml:id="idm139771557744800">Exemplarer af alle Udgaver findes paa d. kgl. Bibl. i København.</p>

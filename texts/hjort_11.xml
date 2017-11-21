@@ -1,9 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="idm139906164755488"><!-- 
-       file     ./marc_dir/001915195.xml
-       field     
-       subfield  
-       prefix   -->
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="root">
   <teiHeader xml:id="idm139906164754832">
     <fileDesc xml:id="idm139906164754576">
       <titleStmt xml:id="idm139906164754272">
@@ -21,8 +17,21 @@
         <note xml:id="idm139906164725424">
 	  </note>
       </notesStmt>
-      <sourceDesc xml:id="idm139906164724912"><bibl xml:id="idm139906164724784"><author n="1" xml:id="idm139906164724096"><name xml:id="idm139906164723840"><surname xml:id="idm139906164723712">Hjortø</surname>, <forename xml:id="idm139906164723280">Knud</forename></name></author><title xml:id="idm139906164722992">Faust</title><pubPlace xml:id="idm139906164722704">København</pubPlace>
-<date xml:id="idm139906164722224">1921</date></bibl><listBibl xml:id="idm139906164721936"><bibl xml:id="biblid54096"><title xml:id="idm139906164708784">Faust</title></bibl></listBibl></sourceDesc>
+      <sourceDesc xml:id="idm139906164724912">
+        <bibl xml:id="idm139906164724784">
+          <author n="1" xml:id="idm139906164724096">
+            <name xml:id="idm139906164723840"><surname xml:id="idm139906164723712">Hjortø</surname>, <forename xml:id="idm139906164723280">Knud</forename></name>
+          </author>
+          <title xml:id="idm139906164722992">Faust</title>
+          <pubPlace xml:id="idm139906164722704">København</pubPlace>
+          <date xml:id="idm139906164722224">1921</date>
+        </bibl>
+        <listBibl xml:id="idm139906164721936">
+          <bibl xml:id="biblid54096">
+            <title xml:id="idm139906164708784">Faust</title>
+          </bibl>
+        </listBibl>
+      </sourceDesc>
     </fileDesc>
   </teiHeader>
   <text xml:id="workid54096" decls="#biblid54096">

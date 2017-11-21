@@ -1,14 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!-- OCR by ATAPY 29.11.02/03.12.02 (Catherine Bychkova) -->
-<!-- HHL 20030317 checket sidetal mv
-        Pagebreaks rettet i  forhold til vaerktitler
-        visse vaerktitler udkommenteret
-        -->
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="idm140624414702464"><!-- 
-       file     ./marc_dir/001383642.xml
-       field    248 
-       subfield g 
-       prefix   Bd. 7 | a-->
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="root">
   <teiHeader xml:id="idm140624414701904">
     <fileDesc xml:id="idm140624414701648">
       <titleStmt xml:id="idm140624414701344">
@@ -24,16 +15,266 @@
         <note xml:id="idm140624414672000">
 	  </note>
       </notesStmt>
-      <sourceDesc xml:id="idm140624414671488"><bibl xml:id="idm140624414671360"><author n="1" xml:id="idm140624414671184"><name xml:id="idm140624414670928"><surname xml:id="idm140624414670800">Claussen</surname>, <forename xml:id="idm140624414670336">Sophus</forename></name></author><title xml:id="idm140624414670048">Sophus Claussens lyrik</title><title xml:id="idm140624414669760">Bd. 7: Titania holdt bryllup. Hvededynger</title><pubPlace xml:id="idm140624414669440">[København]</pubPlace>
-<publisher xml:id="idm140624414668976">Det Danske Sprog- og Litteraturselskab ; Gyldendal</publisher><date xml:id="idm140624414668608">1982-</date></bibl><listBibl xml:id="idm140624414668320"><bibl xml:id="biblid55760"><title xml:id="idm140624414655168">TITANIA HOLDT BRYLLUP</title></bibl><bibl xml:id="biblid55765"><title xml:id="idm140624414654384">TITANIA HOLDT BRYLLUP [undertitel]</title></bibl><bibl xml:id="biblid55943"><title xml:id="idm140624414653584">MORDET I VÆRTSHUSET eller KVINDEN I DIT LIV</title></bibl><bibl xml:id="biblid58604"><title xml:id="idm140624414652672">KARNEVALLET</title></bibl><bibl xml:id="biblid59423"><title xml:id="idm140624414651840">BESØGET I HIMLEN</title></bibl><bibl xml:id="biblid60436"><title xml:id="idm140624414651040">DRINKS</title></bibl><bibl xml:id="biblid60625"><title xml:id="idm140624414650208">VIN I HUSET</title></bibl><bibl xml:id="biblid60768"><title xml:id="idm140624414649424">SKÆMTE-V1SE</title></bibl><bibl xml:id="biblid60934"><title xml:id="idm140624414648624">UDSAT FOR KRITIK</title></bibl><bibl xml:id="biblid61027"><title xml:id="idm140624414647840">FYRAFTEN</title></bibl><bibl xml:id="biblid61408"><title xml:id="idm140624414647008">FRUGTBARHEDENS TOG</title></bibl><bibl xml:id="biblid61519"><title xml:id="idm140624414646176">BEVIDSTHEDENS GRÆNSER</title></bibl><bibl xml:id="biblid61640"><title xml:id="idm140624414645360">AK, DEN UNGE SVÆVEN</title></bibl><bibl xml:id="biblid66721"><title xml:id="idm140624414644496">HVEDEDYNGER  [undertitel]</title></bibl><bibl xml:id="biblid66914"><title xml:id="idm140624414643648">HVEDEDYNGER</title></bibl><bibl xml:id="biblid67222"><title xml:id="idm140624414642816">PRÆLUDIUM</title></bibl><bibl xml:id="biblid67369"><title xml:id="idm140624414642032">QUOD FELIX</title></bibl><bibl xml:id="biblid67411"><title xml:id="idm140624414641200">ROSER PAA MOS</title></bibl><bibl xml:id="biblid67471"><title xml:id="idm140624414640416">M1DDAGSBLUND</title></bibl><bibl xml:id="biblid67579"><title xml:id="idm140624414639584">NATHVÆLVET</title></bibl><bibl xml:id="biblid67638"><title xml:id="idm140624414638752">LÆNGSEL EFTER EN SKÆBNE</title></bibl><bibl xml:id="biblid67720"><title xml:id="idm140624414637888">NATTEN OG MORGENRØDEN</title></bibl><bibl xml:id="biblid67831"><title xml:id="idm140624414637024">LÆGEDOM</title></bibl><bibl xml:id="biblid67908"><title xml:id="idm140624414636192">MARKEDET</title></bibl><bibl xml:id="biblid68068"><title xml:id="idm140624414635360">MORGENPRÆKENER</title></bibl><bibl xml:id="biblid68123"><title xml:id="idm140624414634560">MALEREN LUDVIG KARSTEN</title></bibl><bibl xml:id="biblid68191"><title xml:id="idm140624414633728">DIGTERKULTUS</title></bibl><bibl xml:id="biblid68248"><title xml:id="idm140624414632896">BILLEDE AF DEN GRUBLENDE</title></bibl><bibl xml:id="biblid68306"><title xml:id="idm140624414632048">NY FORNUFT</title></bibl><bibl xml:id="biblid68367"><title xml:id="idm140624414631216">PATRICIERINDE</title></bibl><bibl xml:id="biblid68432"><title xml:id="idm140624414630384">FRUGTBARHED</title></bibl><bibl xml:id="biblid68560"><title xml:id="idm140624414629552">TAARER OG SMIL</title></bibl><bibl xml:id="biblid68699"><title xml:id="idm140624414628768">NØGLEN TIL DEN UKENDTE DØR</title></bibl><bibl xml:id="biblid68833"><title xml:id="idm140624414627888">STRAALETIMER</title></bibl><bibl xml:id="biblid68926"><title xml:id="idm140624414627056">SORTNER EUROPA?</title></bibl><bibl xml:id="biblid69002"><title xml:id="idm140624414626224">PLØJELAND</title></bibl><bibl xml:id="biblid69117"><title xml:id="idm140624414625440">HENDES KJOLER</title></bibl><bibl xml:id="biblid69213"><title xml:id="idm140624414624608">ET DIGT OM ET BARN</title></bibl><bibl xml:id="biblid69458"><title xml:id="idm140624414623824">DET REGNER OVER JORDENS KUGLE</title></bibl><bibl xml:id="biblid69568"><title xml:id="idm140624414622912">COPLAS</title></bibl><bibl xml:id="biblid69639"><title xml:id="idm140624414622128">FARDAG I PEPITAS HJERTE</title></bibl><bibl xml:id="biblid69726"><title xml:id="idm140624414621296">MAURISK MOTIV</title></bibl><bibl xml:id="biblid69940"><title xml:id="idm140624414620464">REGNVEJR I SPANIEN</title></bibl><bibl xml:id="biblid69978"><title xml:id="idm140624414619680">REGNVEJR I SPANIEN  [undertitel]</title></bibl><bibl xml:id="biblid70568"><title xml:id="idm140624414618768">ISLÆNDINGEN ÆREN</title></bibl><bibl xml:id="biblid70888"><title xml:id="idm140624414617920">DANSK TUNGE OG 'EXOTISKE SYMPATIER'</title></bibl><bibl xml:id="biblid71064"><title xml:id="idm140624414617120">EN PROLOG TIL 'FRØKEN JULIE'</title></bibl><bibl xml:id="biblid71188"><title xml:id="idm140624414616176">THØGER LARSEN</title></bibl><bibl xml:id="biblid71333"><title xml:id="idm140624414615328">HJEMME IGEN</title></bibl><bibl xml:id="biblid71468"><title xml:id="idm140624414614432">FOR FREMTIDENS AASYN</title></bibl><bibl xml:id="biblid71555"><title xml:id="idm140624414732288">PILEVEJEN</title></bibl><bibl xml:id="biblid71625"><title xml:id="idm140624414731504">GODMORGEN I GAARDEN</title></bibl><bibl xml:id="biblid71705"><title xml:id="idm140624414730720">HØVDINGDØD</title></bibl><bibl xml:id="biblid71770"><title xml:id="idm140624414729904">UDLØBET I UENDELIGHEDEN</title></bibl><bibl xml:id="biblid71949"><title xml:id="idm140624414729088">HVORDAN TIDEN BLIVER MIG UTRO</title></bibl><bibl xml:id="biblid72049"><title xml:id="idm140624414728336">TRYLLEFORMLEN</title></bibl><bibl xml:id="biblid72203"><title xml:id="idm140624414588288">REJSE</title></bibl><bibl xml:id="biblid72505"><title xml:id="idm140624414587504">GAMLE FOLKESLAGS VILJE</title></bibl><bibl xml:id="biblid72577"><title xml:id="idm140624414586656">ELEONORA DUSE</title></bibl><bibl xml:id="biblid72778"><title xml:id="idm140624414581808">FRA VOR KÆRLIGHEDS HUS</title></bibl><bibl xml:id="biblid72949"><title xml:id="idm140624414581056">DIGTERSFINXEN</title></bibl><bibl xml:id="biblid72987"><title xml:id="idm140624414580368">DIGTERSFINXEN [undertitel]</title></bibl><bibl xml:id="biblid73633"><title xml:id="idm140624414579680">TRE FRANSKE FOLKEVISER</title></bibl><bibl xml:id="biblid73690"><title xml:id="idm140624414578992">HYRDINDEN OG KÆRLIGHEDEN</title></bibl><bibl xml:id="biblid73811"><title xml:id="idm140624414578240">DEN UNGE VIN</title></bibl><bibl xml:id="biblid74091"><title xml:id="idm140624414577552">FOLKEVISE FRA BESANÇON</title></bibl><bibl xml:id="biblid74257"><title xml:id="idm140624414576800">EN SLETTE</title></bibl><bibl xml:id="biblid74316"><title xml:id="idm140624414576112">MALERIAGTTAGELSE</title></bibl><bibl xml:id="biblid74381"><title xml:id="idm140624414575360">KATTEN</title></bibl><bibl xml:id="biblid74458"><title xml:id="idm140624414574576">MUNDELÆR</title></bibl><bibl xml:id="biblid75270"><title xml:id="idm140624414573728">TROEN FRA PROVINSERNE</title></bibl><bibl xml:id="biblid75388"><title xml:id="idm140624414572944">TEGNET I SNE</title></bibl><bibl xml:id="biblid75461"><title xml:id="idm140624414572096">DE MANGE SKØNNE</title></bibl><bibl xml:id="biblid75538"><title xml:id="idm140624414571344">KVINDEMODEL</title></bibl><bibl xml:id="biblid75619"><title xml:id="idm140624414570496">DET SLUKTE SLOT</title></bibl><bibl xml:id="biblid75719"><title xml:id="idm140624414569712">DEN FORMLØSE FAUN</title></bibl><bibl xml:id="biblid75916"><title xml:id="idm140624414568960">MARKETENDERSKENS VISE FRA DEN STORE KRIG</title></bibl><bibl xml:id="biblid76129"><title xml:id="idm140624414568144">DEN GAMLE HAVN</title></bibl><bibl xml:id="biblid76409"><title xml:id="idm140624414567360">HVEDEHØSTEN</title></bibl><bibl xml:id="biblid76534"><title xml:id="idm140624414566608">DE FARLIGE NYE TIDER</title></bibl></listBibl></sourceDesc>
+      <sourceDesc xml:id="idm140624414671488">
+        <bibl xml:id="idm140624414671360">
+          <author n="1" xml:id="idm140624414671184">
+            <name xml:id="idm140624414670928"><surname xml:id="idm140624414670800">Claussen</surname>, <forename xml:id="idm140624414670336">Sophus</forename></name>
+          </author>
+          <title xml:id="idm140624414670048">Sophus Claussens lyrik</title>
+          <title xml:id="idm140624414669760">Bd. 7: Titania holdt bryllup. Hvededynger</title>
+          <pubPlace xml:id="idm140624414669440">[København]</pubPlace>
+          <publisher xml:id="idm140624414668976">Det Danske Sprog- og Litteraturselskab ; Gyldendal</publisher>
+          <date xml:id="idm140624414668608">1982-</date>
+        </bibl>
+        <listBibl xml:id="idm140624414668320">
+          <bibl xml:id="biblid55760">
+            <title xml:id="idm140624414655168">TITANIA HOLDT BRYLLUP</title>
+          </bibl>
+          <bibl xml:id="biblid55765">
+            <title xml:id="idm140624414654384">TITANIA HOLDT BRYLLUP [undertitel]</title>
+          </bibl>
+          <bibl xml:id="biblid55943">
+            <title xml:id="idm140624414653584">MORDET I VÆRTSHUSET eller KVINDEN I DIT LIV</title>
+          </bibl>
+          <bibl xml:id="biblid58604">
+            <title xml:id="idm140624414652672">KARNEVALLET</title>
+          </bibl>
+          <bibl xml:id="biblid59423">
+            <title xml:id="idm140624414651840">BESØGET I HIMLEN</title>
+          </bibl>
+          <bibl xml:id="biblid60436">
+            <title xml:id="idm140624414651040">DRINKS</title>
+          </bibl>
+          <bibl xml:id="biblid60625">
+            <title xml:id="idm140624414650208">VIN I HUSET</title>
+          </bibl>
+          <bibl xml:id="biblid60768">
+            <title xml:id="idm140624414649424">SKÆMTE-V1SE</title>
+          </bibl>
+          <bibl xml:id="biblid60934">
+            <title xml:id="idm140624414648624">UDSAT FOR KRITIK</title>
+          </bibl>
+          <bibl xml:id="biblid61027">
+            <title xml:id="idm140624414647840">FYRAFTEN</title>
+          </bibl>
+          <bibl xml:id="biblid61408">
+            <title xml:id="idm140624414647008">FRUGTBARHEDENS TOG</title>
+          </bibl>
+          <bibl xml:id="biblid61519">
+            <title xml:id="idm140624414646176">BEVIDSTHEDENS GRÆNSER</title>
+          </bibl>
+          <bibl xml:id="biblid61640">
+            <title xml:id="idm140624414645360">AK, DEN UNGE SVÆVEN</title>
+          </bibl>
+          <bibl xml:id="biblid66721">
+            <title xml:id="idm140624414644496">HVEDEDYNGER  [undertitel]</title>
+          </bibl>
+          <bibl xml:id="biblid66914">
+            <title xml:id="idm140624414643648">HVEDEDYNGER</title>
+          </bibl>
+          <bibl xml:id="biblid67222">
+            <title xml:id="idm140624414642816">PRÆLUDIUM</title>
+          </bibl>
+          <bibl xml:id="biblid67369">
+            <title xml:id="idm140624414642032">QUOD FELIX</title>
+          </bibl>
+          <bibl xml:id="biblid67411">
+            <title xml:id="idm140624414641200">ROSER PAA MOS</title>
+          </bibl>
+          <bibl xml:id="biblid67471">
+            <title xml:id="idm140624414640416">M1DDAGSBLUND</title>
+          </bibl>
+          <bibl xml:id="biblid67579">
+            <title xml:id="idm140624414639584">NATHVÆLVET</title>
+          </bibl>
+          <bibl xml:id="biblid67638">
+            <title xml:id="idm140624414638752">LÆNGSEL EFTER EN SKÆBNE</title>
+          </bibl>
+          <bibl xml:id="biblid67720">
+            <title xml:id="idm140624414637888">NATTEN OG MORGENRØDEN</title>
+          </bibl>
+          <bibl xml:id="biblid67831">
+            <title xml:id="idm140624414637024">LÆGEDOM</title>
+          </bibl>
+          <bibl xml:id="biblid67908">
+            <title xml:id="idm140624414636192">MARKEDET</title>
+          </bibl>
+          <bibl xml:id="biblid68068">
+            <title xml:id="idm140624414635360">MORGENPRÆKENER</title>
+          </bibl>
+          <bibl xml:id="biblid68123">
+            <title xml:id="idm140624414634560">MALEREN LUDVIG KARSTEN</title>
+          </bibl>
+          <bibl xml:id="biblid68191">
+            <title xml:id="idm140624414633728">DIGTERKULTUS</title>
+          </bibl>
+          <bibl xml:id="biblid68248">
+            <title xml:id="idm140624414632896">BILLEDE AF DEN GRUBLENDE</title>
+          </bibl>
+          <bibl xml:id="biblid68306">
+            <title xml:id="idm140624414632048">NY FORNUFT</title>
+          </bibl>
+          <bibl xml:id="biblid68367">
+            <title xml:id="idm140624414631216">PATRICIERINDE</title>
+          </bibl>
+          <bibl xml:id="biblid68432">
+            <title xml:id="idm140624414630384">FRUGTBARHED</title>
+          </bibl>
+          <bibl xml:id="biblid68560">
+            <title xml:id="idm140624414629552">TAARER OG SMIL</title>
+          </bibl>
+          <bibl xml:id="biblid68699">
+            <title xml:id="idm140624414628768">NØGLEN TIL DEN UKENDTE DØR</title>
+          </bibl>
+          <bibl xml:id="biblid68833">
+            <title xml:id="idm140624414627888">STRAALETIMER</title>
+          </bibl>
+          <bibl xml:id="biblid68926">
+            <title xml:id="idm140624414627056">SORTNER EUROPA?</title>
+          </bibl>
+          <bibl xml:id="biblid69002">
+            <title xml:id="idm140624414626224">PLØJELAND</title>
+          </bibl>
+          <bibl xml:id="biblid69117">
+            <title xml:id="idm140624414625440">HENDES KJOLER</title>
+          </bibl>
+          <bibl xml:id="biblid69213">
+            <title xml:id="idm140624414624608">ET DIGT OM ET BARN</title>
+          </bibl>
+          <bibl xml:id="biblid69458">
+            <title xml:id="idm140624414623824">DET REGNER OVER JORDENS KUGLE</title>
+          </bibl>
+          <bibl xml:id="biblid69568">
+            <title xml:id="idm140624414622912">COPLAS</title>
+          </bibl>
+          <bibl xml:id="biblid69639">
+            <title xml:id="idm140624414622128">FARDAG I PEPITAS HJERTE</title>
+          </bibl>
+          <bibl xml:id="biblid69726">
+            <title xml:id="idm140624414621296">MAURISK MOTIV</title>
+          </bibl>
+          <bibl xml:id="biblid69940">
+            <title xml:id="idm140624414620464">REGNVEJR I SPANIEN</title>
+          </bibl>
+          <bibl xml:id="biblid69978">
+            <title xml:id="idm140624414619680">REGNVEJR I SPANIEN  [undertitel]</title>
+          </bibl>
+          <bibl xml:id="biblid70568">
+            <title xml:id="idm140624414618768">ISLÆNDINGEN ÆREN</title>
+          </bibl>
+          <bibl xml:id="biblid70888">
+            <title xml:id="idm140624414617920">DANSK TUNGE OG 'EXOTISKE SYMPATIER'</title>
+          </bibl>
+          <bibl xml:id="biblid71064">
+            <title xml:id="idm140624414617120">EN PROLOG TIL 'FRØKEN JULIE'</title>
+          </bibl>
+          <bibl xml:id="biblid71188">
+            <title xml:id="idm140624414616176">THØGER LARSEN</title>
+          </bibl>
+          <bibl xml:id="biblid71333">
+            <title xml:id="idm140624414615328">HJEMME IGEN</title>
+          </bibl>
+          <bibl xml:id="biblid71468">
+            <title xml:id="idm140624414614432">FOR FREMTIDENS AASYN</title>
+          </bibl>
+          <bibl xml:id="biblid71555">
+            <title xml:id="idm140624414732288">PILEVEJEN</title>
+          </bibl>
+          <bibl xml:id="biblid71625">
+            <title xml:id="idm140624414731504">GODMORGEN I GAARDEN</title>
+          </bibl>
+          <bibl xml:id="biblid71705">
+            <title xml:id="idm140624414730720">HØVDINGDØD</title>
+          </bibl>
+          <bibl xml:id="biblid71770">
+            <title xml:id="idm140624414729904">UDLØBET I UENDELIGHEDEN</title>
+          </bibl>
+          <bibl xml:id="biblid71949">
+            <title xml:id="idm140624414729088">HVORDAN TIDEN BLIVER MIG UTRO</title>
+          </bibl>
+          <bibl xml:id="biblid72049">
+            <title xml:id="idm140624414728336">TRYLLEFORMLEN</title>
+          </bibl>
+          <bibl xml:id="biblid72203">
+            <title xml:id="idm140624414588288">REJSE</title>
+          </bibl>
+          <bibl xml:id="biblid72505">
+            <title xml:id="idm140624414587504">GAMLE FOLKESLAGS VILJE</title>
+          </bibl>
+          <bibl xml:id="biblid72577">
+            <title xml:id="idm140624414586656">ELEONORA DUSE</title>
+          </bibl>
+          <bibl xml:id="biblid72778">
+            <title xml:id="idm140624414581808">FRA VOR KÆRLIGHEDS HUS</title>
+          </bibl>
+          <bibl xml:id="biblid72949">
+            <title xml:id="idm140624414581056">DIGTERSFINXEN</title>
+          </bibl>
+          <bibl xml:id="biblid72987">
+            <title xml:id="idm140624414580368">DIGTERSFINXEN [undertitel]</title>
+          </bibl>
+          <bibl xml:id="biblid73633">
+            <title xml:id="idm140624414579680">TRE FRANSKE FOLKEVISER</title>
+          </bibl>
+          <bibl xml:id="biblid73690">
+            <title xml:id="idm140624414578992">HYRDINDEN OG KÆRLIGHEDEN</title>
+          </bibl>
+          <bibl xml:id="biblid73811">
+            <title xml:id="idm140624414578240">DEN UNGE VIN</title>
+          </bibl>
+          <bibl xml:id="biblid74091">
+            <title xml:id="idm140624414577552">FOLKEVISE FRA BESANÇON</title>
+          </bibl>
+          <bibl xml:id="biblid74257">
+            <title xml:id="idm140624414576800">EN SLETTE</title>
+          </bibl>
+          <bibl xml:id="biblid74316">
+            <title xml:id="idm140624414576112">MALERIAGTTAGELSE</title>
+          </bibl>
+          <bibl xml:id="biblid74381">
+            <title xml:id="idm140624414575360">KATTEN</title>
+          </bibl>
+          <bibl xml:id="biblid74458">
+            <title xml:id="idm140624414574576">MUNDELÆR</title>
+          </bibl>
+          <bibl xml:id="biblid75270">
+            <title xml:id="idm140624414573728">TROEN FRA PROVINSERNE</title>
+          </bibl>
+          <bibl xml:id="biblid75388">
+            <title xml:id="idm140624414572944">TEGNET I SNE</title>
+          </bibl>
+          <bibl xml:id="biblid75461">
+            <title xml:id="idm140624414572096">DE MANGE SKØNNE</title>
+          </bibl>
+          <bibl xml:id="biblid75538">
+            <title xml:id="idm140624414571344">KVINDEMODEL</title>
+          </bibl>
+          <bibl xml:id="biblid75619">
+            <title xml:id="idm140624414570496">DET SLUKTE SLOT</title>
+          </bibl>
+          <bibl xml:id="biblid75719">
+            <title xml:id="idm140624414569712">DEN FORMLØSE FAUN</title>
+          </bibl>
+          <bibl xml:id="biblid75916">
+            <title xml:id="idm140624414568960">MARKETENDERSKENS VISE FRA DEN STORE KRIG</title>
+          </bibl>
+          <bibl xml:id="biblid76129">
+            <title xml:id="idm140624414568144">DEN GAMLE HAVN</title>
+          </bibl>
+          <bibl xml:id="biblid76409">
+            <title xml:id="idm140624414567360">HVEDEHØSTEN</title>
+          </bibl>
+          <bibl xml:id="biblid76534">
+            <title xml:id="idm140624414566608">DE FARLIGE NYE TIDER</title>
+          </bibl>
+        </listBibl>
+      </sourceDesc>
     </fileDesc>
   </teiHeader>
   <text xml:id="idm140624414565968">
     <front xml:id="idm140624414565712">
       <pb n="1" xml:id="s1" facs="adl/claussen/claussen09/claussen9001"/>
       <gap reason="cancelled" xml:id="idm140624414564352"/>
-
-<!--Sophus Claussens Lyrik VII-->
       <pb n="2" xml:id="s2" facs="adl/claussen/claussen09/claussen9002"/>
       <titlePage xml:id="idm140624414561792">
         <docAuthor xml:id="idm140624414561536">

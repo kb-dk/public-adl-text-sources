@@ -1,17 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!--gbl 23.08.2001
-noter er ikke gennemlæst,
-der er indsat kommentar med tekst MANGLER de steder hvor der er tekst der ikke kan vise, græsk, hebraisk osv.
-der forekommer et "q" med en "´" over kan ikke vises, samt et "J" med "¨" over.
-En pegende hånd med tuborg er udladt alle de steder den forekommer.
-  20030611 HHL indsat [x] for manglende græske og hebraiske tegn - men ikke entiteter for disse, der ikek er skannet
-  
--->
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="idm140015369125232"><!-- 
-       file     ./marc_dir/001614819.xml
-       field     
-       subfield  
-       prefix   -->
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="root">
   <teiHeader xml:id="idm140015369123872">
     <fileDesc xml:id="idm140015369123616">
       <titleStmt xml:id="idm140015369098160">
@@ -32,18 +20,191 @@ En pegende hånd med tuborg er udladt alle de steder den forekommer.
         <note xml:id="idm140015369093360">
 	  </note>
       </notesStmt>
-      <sourceDesc xml:id="idm140015369092848"><bibl xml:id="idm140015369092720"><author n="1" xml:id="idm140015369092032"><name xml:id="idm140015369091776"><surname xml:id="idm140015369091648">Kingo</surname>,
-      <forename xml:id="idm140015369091200">Thomas</forename></name></author><title xml:id="idm140015369090912">Samlede skrifter 2</title><pubPlace xml:id="idm140015369090624">København</pubPlace>
-<publisher xml:id="idm140015369090192">Munksgaard</publisher><date xml:id="idm140015369089856">1939-74.</date></bibl><listBibl xml:id="idm140015369089568"><bibl xml:id="biblid55055"><title xml:id="idm140015369076416">Hosianna ved Chr. VI's Salving 1671</title></bibl><bibl xml:id="biblid55922"><title xml:id="idm140015369075616">Lyk-ynske til Prinds Friderichs Fødsel 1672</title></bibl><bibl xml:id="biblid56100"><title xml:id="idm140015369074704">Velkom til Prinds Friderich ved hans Fødsel 1672</title></bibl><bibl xml:id="biblid56521"><title xml:id="idm140015369073840">Chr. V's HiemKomst fra Holstein til Kiøbenhafn 1672</title></bibl><bibl xml:id="biblid56647"><title xml:id="idm140015369072960">Kroneborgs Beskrifvelse 1672</title></bibl><bibl xml:id="biblid57931"><title xml:id="idm140015369072160">Overskrifter til Kronborgs første og anden Port [1690]</title></bibl><bibl xml:id="biblid58139"><title xml:id="idm140015369071280">Chr. V's første Ledings-Tog 1676</title></bibl><bibl xml:id="biblid59503"><title xml:id="idm140015369070448">Anhang til Chr. V's første Ledings-Tog [1677]</title></bibl><bibl xml:id="biblid66633"><title xml:id="idm140015369069584">Anden Anhang til Chr. V's første Ledings-Tog [1677]</title></bibl><bibl xml:id="biblid67234"><title xml:id="idm140015369068656">Opskrift paa Ankeret 1677</title></bibl><bibl xml:id="biblid67402"><title xml:id="idm140015369067808">Begrædelser ofver Valentin Korn 1676</title></bibl><bibl xml:id="biblid68568"><title xml:id="idm140015369066960">De Svenskes Far vel fra Tydskland 1678</title></bibl><bibl xml:id="biblid68728"><title xml:id="idm140015369066160">Nytaarsønske til Chr. V 1677</title></bibl><bibl xml:id="biblid68888"><title xml:id="idm140015369065328">Til Kongl: Majestets Tredie Feldtog 1678</title></bibl><bibl xml:id="biblid69089"><title xml:id="idm140015369064512">Nytaarsønske til Chr. V 1679</title></bibl><bibl xml:id="biblid69279"><title xml:id="idm140015369063632">Chr. V's Igienkomst fra Holstein til Fyen 1679</title></bibl><bibl xml:id="biblid69497"><title xml:id="idm140015369062816">Nytaarsønske til Chr. V 1681</title></bibl><bibl xml:id="biblid69685"><title xml:id="idm140015369061872">Chr. V's Velkom til Fyn [1681?]</title></bibl><bibl xml:id="biblid69928"><title xml:id="idm140015369061024">Nytaarsønske til Chr. V 1682</title></bibl><bibl xml:id="biblid70108"><title xml:id="idm140015369060192">Festspil ved Chr. V's Fødselsdag 1683</title></bibl><bibl xml:id="biblid70928"><title xml:id="idm140015369059296">Under Chr. V's Portræt i Danske Lov 1683</title></bibl><bibl xml:id="biblid70992"><title xml:id="idm140015369058448">De Fattige udj Odensee Hospital [1683 dl. 1684?]</title></bibl><bibl xml:id="biblid71586"><title xml:id="idm140015369057584">Chr. V's Reise i Norge 1685</title></bibl><bibl xml:id="biblid71844"><title xml:id="idm140015369056736">Paa Chr. V's Sundhed af den norske Guld-Velkom [1685?]</title></bibl><bibl xml:id="biblid71977"><title xml:id="idm140015369055872">Tanker over Sølv-Bierget ved Kongsberg 1687</title></bibl><bibl xml:id="biblid72271"><title xml:id="idm140015369054960">Lyck-Ønske og Bøn til Printz Friderich Nytaar 1686</title></bibl><bibl xml:id="biblid72984"><title xml:id="idm140015369054032">Til Skibet Prinds Frederich 1686</title></bibl><bibl xml:id="biblid73197"><title xml:id="idm140015369053184">Under Chr. V's Portræt i Norske Lov 1687</title></bibl><bibl xml:id="biblid73266"><title xml:id="idm140015369052288">Til Chr. V's Sundhed, Effter et Anstød aff en Feber 1687 </title></bibl><bibl xml:id="biblid73418"><title xml:id="idm140015369051360">Nytaarsønske til Chr. V 1690</title></bibl><bibl xml:id="biblid73529"><title xml:id="idm140015369050480">Til Chr. V's 20 Aars Regeringsjubilæum 1690</title></bibl><bibl xml:id="biblid73707"><title xml:id="idm140015369049568">To Arier ved Kongens og Arveprindsens Besøg i Odense 1690</title></bibl><bibl xml:id="biblid74176"><title xml:id="idm140015369048640">Chr. V's Ankomst til Odense fra det Ratzebufgiske Tog 1693</title></bibl><bibl xml:id="biblid74364"><title xml:id="idm140015369047696">Dend Seylende Venus 1695</title></bibl><bibl xml:id="biblid75221"><title xml:id="idm140015369046832">Nytaarsønske til Chr. V 1696</title></bibl><bibl xml:id="biblid75423"><title xml:id="idm140015369045888">Lykønske til Chr. V's Fødsels Dag 1697</title></bibl><bibl xml:id="biblid75588"><title xml:id="idm140015369044992">Paa Chr.V's Fødselsdag [udateret Fragment]</title></bibl><bibl xml:id="biblid75683"><title xml:id="idm140015369044144">Ved Fr. IV's Tronbestigelse 1699</title></bibl><bibl xml:id="biblid75913"><title xml:id="idm140015369043232">Over Holmer-Skandse 1700</title></bibl><bibl xml:id="biblid76006"><title xml:id="idm140015369042384">Lykønske til Fr. IV paa hans Fødsels Dag 1702</title></bibl><bibl xml:id="biblid76155"><title xml:id="idm140015369154560">Nytaarsønske til Fr. IV 1703</title></bibl><bibl xml:id="biblid76315"><title xml:id="idm140015369153728">Trøste-Skrift over Karen Nansens Død [1672]</title></bibl><bibl xml:id="biblid76889"><title xml:id="idm140015369152864">Lykønskning [1673?]</title></bibl><bibl xml:id="biblid77026"><title xml:id="idm140015369152048">Lyk-Ynske, der Griffenfeld blev Rigets Cantzeler [1674?]</title></bibl><bibl xml:id="biblid77256"><title xml:id="idm140015369151216">Samsøes Beskrivelse 1675</title></bibl><bibl xml:id="biblid79186"><title xml:id="idm140015369016608">Binde Brev [1675?]</title></bibl><bibl xml:id="biblid79443"><title xml:id="idm140015369015824">Velkoms Tanker over Griflfenfeld's Hiemkomst af Leding 1676</title></bibl><bibl xml:id="biblid79661"><title xml:id="idm140015369014992">Indskrift i Kapellet paa Valdemars Slot 1687</title></bibl><bibl xml:id="biblid79727"><title xml:id="idm140015369014176">Til Niels Juels Contrafey [1696?]</title></bibl><bibl xml:id="biblid79903"><title xml:id="idm140015369013424">Under Niels Juels Portræt [1697?]</title></bibl><bibl xml:id="biblid79968"><title xml:id="idm140015369012592">Latinsk Sørgedigt [1697?]</title></bibl><bibl xml:id="biblid80163"><title xml:id="idm140015369011776">Samtale med Rygtet</title></bibl><bibl xml:id="biblid81764"><title xml:id="idm140015369010992">Trøste-Brev til Fru Margarete Ulfeld 1697</title></bibl><bibl xml:id="biblid82148"><title xml:id="idm140015369010144">Paa-Skriffter udi Niels Juels Epitaphio i Holmens kirke</title></bibl><bibl xml:id="biblid83231"><title xml:id="idm140015369009328">Taksigelsis Sonnet [1697?]</title></bibl></listBibl></sourceDesc>
+      <sourceDesc xml:id="idm140015369092848">
+        <bibl xml:id="idm140015369092720">
+          <author n="1" xml:id="idm140015369092032">
+            <name xml:id="idm140015369091776"><surname xml:id="idm140015369091648">Kingo</surname>,
+      <forename xml:id="idm140015369091200">Thomas</forename></name>
+          </author>
+          <title xml:id="idm140015369090912">Samlede skrifter 2</title>
+          <pubPlace xml:id="idm140015369090624">København</pubPlace>
+          <publisher xml:id="idm140015369090192">Munksgaard</publisher>
+          <date xml:id="idm140015369089856">1939-74.</date>
+        </bibl>
+        <listBibl xml:id="idm140015369089568">
+          <bibl xml:id="biblid55055">
+            <title xml:id="idm140015369076416">Hosianna ved Chr. VI's Salving 1671</title>
+          </bibl>
+          <bibl xml:id="biblid55922">
+            <title xml:id="idm140015369075616">Lyk-ynske til Prinds Friderichs Fødsel 1672</title>
+          </bibl>
+          <bibl xml:id="biblid56100">
+            <title xml:id="idm140015369074704">Velkom til Prinds Friderich ved hans Fødsel 1672</title>
+          </bibl>
+          <bibl xml:id="biblid56521">
+            <title xml:id="idm140015369073840">Chr. V's HiemKomst fra Holstein til Kiøbenhafn 1672</title>
+          </bibl>
+          <bibl xml:id="biblid56647">
+            <title xml:id="idm140015369072960">Kroneborgs Beskrifvelse 1672</title>
+          </bibl>
+          <bibl xml:id="biblid57931">
+            <title xml:id="idm140015369072160">Overskrifter til Kronborgs første og anden Port [1690]</title>
+          </bibl>
+          <bibl xml:id="biblid58139">
+            <title xml:id="idm140015369071280">Chr. V's første Ledings-Tog 1676</title>
+          </bibl>
+          <bibl xml:id="biblid59503">
+            <title xml:id="idm140015369070448">Anhang til Chr. V's første Ledings-Tog [1677]</title>
+          </bibl>
+          <bibl xml:id="biblid66633">
+            <title xml:id="idm140015369069584">Anden Anhang til Chr. V's første Ledings-Tog [1677]</title>
+          </bibl>
+          <bibl xml:id="biblid67234">
+            <title xml:id="idm140015369068656">Opskrift paa Ankeret 1677</title>
+          </bibl>
+          <bibl xml:id="biblid67402">
+            <title xml:id="idm140015369067808">Begrædelser ofver Valentin Korn 1676</title>
+          </bibl>
+          <bibl xml:id="biblid68568">
+            <title xml:id="idm140015369066960">De Svenskes Far vel fra Tydskland 1678</title>
+          </bibl>
+          <bibl xml:id="biblid68728">
+            <title xml:id="idm140015369066160">Nytaarsønske til Chr. V 1677</title>
+          </bibl>
+          <bibl xml:id="biblid68888">
+            <title xml:id="idm140015369065328">Til Kongl: Majestets Tredie Feldtog 1678</title>
+          </bibl>
+          <bibl xml:id="biblid69089">
+            <title xml:id="idm140015369064512">Nytaarsønske til Chr. V 1679</title>
+          </bibl>
+          <bibl xml:id="biblid69279">
+            <title xml:id="idm140015369063632">Chr. V's Igienkomst fra Holstein til Fyen 1679</title>
+          </bibl>
+          <bibl xml:id="biblid69497">
+            <title xml:id="idm140015369062816">Nytaarsønske til Chr. V 1681</title>
+          </bibl>
+          <bibl xml:id="biblid69685">
+            <title xml:id="idm140015369061872">Chr. V's Velkom til Fyn [1681?]</title>
+          </bibl>
+          <bibl xml:id="biblid69928">
+            <title xml:id="idm140015369061024">Nytaarsønske til Chr. V 1682</title>
+          </bibl>
+          <bibl xml:id="biblid70108">
+            <title xml:id="idm140015369060192">Festspil ved Chr. V's Fødselsdag 1683</title>
+          </bibl>
+          <bibl xml:id="biblid70928">
+            <title xml:id="idm140015369059296">Under Chr. V's Portræt i Danske Lov 1683</title>
+          </bibl>
+          <bibl xml:id="biblid70992">
+            <title xml:id="idm140015369058448">De Fattige udj Odensee Hospital [1683 dl. 1684?]</title>
+          </bibl>
+          <bibl xml:id="biblid71586">
+            <title xml:id="idm140015369057584">Chr. V's Reise i Norge 1685</title>
+          </bibl>
+          <bibl xml:id="biblid71844">
+            <title xml:id="idm140015369056736">Paa Chr. V's Sundhed af den norske Guld-Velkom [1685?]</title>
+          </bibl>
+          <bibl xml:id="biblid71977">
+            <title xml:id="idm140015369055872">Tanker over Sølv-Bierget ved Kongsberg 1687</title>
+          </bibl>
+          <bibl xml:id="biblid72271">
+            <title xml:id="idm140015369054960">Lyck-Ønske og Bøn til Printz Friderich Nytaar 1686</title>
+          </bibl>
+          <bibl xml:id="biblid72984">
+            <title xml:id="idm140015369054032">Til Skibet Prinds Frederich 1686</title>
+          </bibl>
+          <bibl xml:id="biblid73197">
+            <title xml:id="idm140015369053184">Under Chr. V's Portræt i Norske Lov 1687</title>
+          </bibl>
+          <bibl xml:id="biblid73266">
+            <title xml:id="idm140015369052288">Til Chr. V's Sundhed, Effter et Anstød aff en Feber 1687 </title>
+          </bibl>
+          <bibl xml:id="biblid73418">
+            <title xml:id="idm140015369051360">Nytaarsønske til Chr. V 1690</title>
+          </bibl>
+          <bibl xml:id="biblid73529">
+            <title xml:id="idm140015369050480">Til Chr. V's 20 Aars Regeringsjubilæum 1690</title>
+          </bibl>
+          <bibl xml:id="biblid73707">
+            <title xml:id="idm140015369049568">To Arier ved Kongens og Arveprindsens Besøg i Odense 1690</title>
+          </bibl>
+          <bibl xml:id="biblid74176">
+            <title xml:id="idm140015369048640">Chr. V's Ankomst til Odense fra det Ratzebufgiske Tog 1693</title>
+          </bibl>
+          <bibl xml:id="biblid74364">
+            <title xml:id="idm140015369047696">Dend Seylende Venus 1695</title>
+          </bibl>
+          <bibl xml:id="biblid75221">
+            <title xml:id="idm140015369046832">Nytaarsønske til Chr. V 1696</title>
+          </bibl>
+          <bibl xml:id="biblid75423">
+            <title xml:id="idm140015369045888">Lykønske til Chr. V's Fødsels Dag 1697</title>
+          </bibl>
+          <bibl xml:id="biblid75588">
+            <title xml:id="idm140015369044992">Paa Chr.V's Fødselsdag [udateret Fragment]</title>
+          </bibl>
+          <bibl xml:id="biblid75683">
+            <title xml:id="idm140015369044144">Ved Fr. IV's Tronbestigelse 1699</title>
+          </bibl>
+          <bibl xml:id="biblid75913">
+            <title xml:id="idm140015369043232">Over Holmer-Skandse 1700</title>
+          </bibl>
+          <bibl xml:id="biblid76006">
+            <title xml:id="idm140015369042384">Lykønske til Fr. IV paa hans Fødsels Dag 1702</title>
+          </bibl>
+          <bibl xml:id="biblid76155">
+            <title xml:id="idm140015369154560">Nytaarsønske til Fr. IV 1703</title>
+          </bibl>
+          <bibl xml:id="biblid76315">
+            <title xml:id="idm140015369153728">Trøste-Skrift over Karen Nansens Død [1672]</title>
+          </bibl>
+          <bibl xml:id="biblid76889">
+            <title xml:id="idm140015369152864">Lykønskning [1673?]</title>
+          </bibl>
+          <bibl xml:id="biblid77026">
+            <title xml:id="idm140015369152048">Lyk-Ynske, der Griffenfeld blev Rigets Cantzeler [1674?]</title>
+          </bibl>
+          <bibl xml:id="biblid77256">
+            <title xml:id="idm140015369151216">Samsøes Beskrivelse 1675</title>
+          </bibl>
+          <bibl xml:id="biblid79186">
+            <title xml:id="idm140015369016608">Binde Brev [1675?]</title>
+          </bibl>
+          <bibl xml:id="biblid79443">
+            <title xml:id="idm140015369015824">Velkoms Tanker over Griflfenfeld's Hiemkomst af Leding 1676</title>
+          </bibl>
+          <bibl xml:id="biblid79661">
+            <title xml:id="idm140015369014992">Indskrift i Kapellet paa Valdemars Slot 1687</title>
+          </bibl>
+          <bibl xml:id="biblid79727">
+            <title xml:id="idm140015369014176">Til Niels Juels Contrafey [1696?]</title>
+          </bibl>
+          <bibl xml:id="biblid79903">
+            <title xml:id="idm140015369013424">Under Niels Juels Portræt [1697?]</title>
+          </bibl>
+          <bibl xml:id="biblid79968">
+            <title xml:id="idm140015369012592">Latinsk Sørgedigt [1697?]</title>
+          </bibl>
+          <bibl xml:id="biblid80163">
+            <title xml:id="idm140015369011776">Samtale med Rygtet</title>
+          </bibl>
+          <bibl xml:id="biblid81764">
+            <title xml:id="idm140015369010992">Trøste-Brev til Fru Margarete Ulfeld 1697</title>
+          </bibl>
+          <bibl xml:id="biblid82148">
+            <title xml:id="idm140015369010144">Paa-Skriffter udi Niels Juels Epitaphio i Holmens kirke</title>
+          </bibl>
+          <bibl xml:id="biblid83231">
+            <title xml:id="idm140015369009328">Taksigelsis Sonnet [1697?]</title>
+          </bibl>
+        </listBibl>
+      </sourceDesc>
     </fileDesc>
   </teiHeader>
   <text xml:id="idm140015369008688">
     <front xml:id="idm140015369008432">
       <pb n="III" facs="adl/kingo/kingo2/kingo2fm001" xml:id="idm140015369008176"/>
       <gap reason="cancelled" xml:id="idm140015369007440"/>
-<!---->
-<!---->
-<!--THOMAS KINGO SAMLEDE SKRIFTER II-->
       <pb n="IV" facs="adl/kingo/kingo2/kingo2fm002" xml:id="idm140015369005984"/>
       <div type="ack" xml:id="idm140015369001184">
         <p xml:id="idm140015369000688">
@@ -653,7 +814,6 @@ selv B 14 Dunne-] Dunre <hi rend="bold" xml:id="idm140015368723792">B<hi rend="s
           </front>
           <pb n="17" facs="adl/kingo/kingo2/king2017" xml:id="idm140015368717200"/>
           <body xml:id="idm140015368716384">
-<!--MANGLER græske tegn-->
             <opener xml:id="idm140015368715808">[x]  [x][x][x] [x]</opener>
             <lg xml:id="idm140015368715392">
               <l xml:id="idm140015368715136">GId Himlen vilde mig med Naader nu iføre,</l>
@@ -1052,7 +1212,6 @@ Aller-underdanigste Erindring<lb xml:id="idm140015368536480"/>til
           <pb n="31" facs="adl/kingo/kingo2/king2031" xml:id="idm140015368531264"/>
           <body xml:id="idm140015368530496">
             <opener xml:id="idm140015368530240">[x] &amp; [x]</opener>
-<!--MANGLER græske tegn-->
             <lg xml:id="idm140015368529456">
               <l xml:id="idm140015368529200">BEhierted Konge, Du aarvogne Scepter-Fører,</l>
               <l xml:id="idm140015368528704">Arv-kroned Christian, som Himlen selv oprører</l>
@@ -3000,7 +3159,6 @@ Universitetsbiblioteket i Kbh.).</hi>
           <pb n="101" facs="adl/kingo/kingo2/king2101" xml:id="idm140015367519776"/>
           <body xml:id="idm140015367519008">
             <opener xml:id="idm140015367518752">[x]  [x][x][x] [x]</opener>
-<!--MANGLER græske tegn-->
             <div xml:id="idm140015367518016">
               <opener xml:id="idm140015367517760">
 De Tvende Nordiske Arve-Krooners<lb xml:id="idm140015367517456"/>
@@ -3375,7 +3533,7 @@ Tredie <hi rend="italics" xml:id="idm140015367422624">HOSIANNA</hi>
 									</l>
                   <l xml:id="idm140015367340336">Da leeder du vel ud slig deylig Indfald flere,</l>
                   <l xml:id="idm140015367339888">Du vender nock, naar du begynder ret at gjoo,</l>
-                  <l xml:id="idm140015367339440">Det de Ebræers <!--MANGLER hebraiske tegn-->[x][x][x]/SUS om til en Rommer SUS/Soo</l>
+                  <l xml:id="idm140015367339440">Det de Ebræers [x][x][x]/SUS om til en Rommer SUS/Soo</l>
                 </lg>
                 <note resp="#auth" anchored="true" xml:id="idm140015367338512">* Thi <hi rend="italics" xml:id="idm140015367337712">SUEDy </hi>for sig self, kand icke sigis at være enten <hi rend="italics" xml:id="idm140015367336912">SUEDIA </hi>eller
 <hi rend="italics" xml:id="idm140015367336192">SUEDUS, </hi>derfor hug hand det sidste aff, at hans Indfald kunde være
@@ -5878,11 +6036,11 @@ CHRITI A</note>
             </lg>
             <note resp="#auth" anchored="true" xml:id="idm140015366112256">
 							[x][x][x] [x][x][x] [x][x] [x][x][x][x][x][x][x][x][x] [x][x][x] [x][x][x][x] [x][x][x][x][x]
-                    <!--MANGLER græske tegn-->
+                    
 						</note>
             <note resp="#ed" anchored="true" xml:id="idm140015366110896">
 							29 [x][x][x]..[x][x][x][x][x][x][x][x][x]] B [x][x][x][x] [x][x][x] [x][x][x][x][x][x][x][x][x][x][x] A
-                     <!--MANGLER græske tegn-->
+                     
 						</note>
             <pb n="207" facs="adl/kingo/kingo2/king2207" xml:id="idm140015366109568"/>
             <lg xml:id="idm140015366108800">
@@ -5950,10 +6108,10 @@ CHRITI A</note>
               <l xml:id="idm140015366077072">De falder Folket an i disse tvende Skibe,</l>
               <l xml:id="idm140015366076624">Hvis Klæder bloodet strax begyndt' at over-stribe,</l>
             </lg>
-            <note resp="#auth" anchored="true" xml:id="idm140015366076000"><hi rend="italics" xml:id="idm140015366075328">(d) Amos. 2. 9.</hi><!--MANGLER hebraiske tegn--> 
+            <note resp="#auth" anchored="true" xml:id="idm140015366076000"><hi rend="italics" xml:id="idm140015366075328">(d) Amos. 2. 9.</hi> 
                       [x][x][x][x][x][x][x] [x][x][x] [x][x][x]  (e) <hi rend="italics" xml:id="idm140015366074368">Sax. Gramm. edit. Sorens. pag. 93.</hi></note>
             <note resp="#ed" anchored="true" xml:id="idm140015366073696">
-							29 [x][x][x]] [x][x][x] AB<!--MANGLER hebraiske tegn--> 
+							29 [x][x][x]] [x][x][x] AB 
 						</note>
             <pb n="209" facs="adl/kingo/kingo2/king2209" xml:id="idm140015366072384"/>
             <lg xml:id="idm140015366071648">

@@ -1,10 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!--Tom opmærkning d.20.3.2002 blo -->
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="idm140711295646768"><!-- 
-       file     ./marc_dir/001625930.xml
-       field    530 
-       subfield a 
-       prefix   5.-->
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="root">
   <teiHeader xml:id="idm140711295645840">
     <fileDesc xml:id="idm140711295645584">
       <titleStmt xml:id="idm140711295691248">
@@ -23,8 +18,17 @@
         <note xml:id="idm140711295616096">
 	  </note>
       </notesStmt>
-      <sourceDesc xml:id="idm140711295615584"><bibl xml:id="idm140711295615456"><author n="1" xml:id="idm140711295614768"><name xml:id="idm140711295614512"><surname xml:id="idm140711295614384">Arrebo</surname>, <forename xml:id="idm140711295613920">Anders</forename></name></author><title xml:id="idm140711295613632"> Indledning og kommentar. Ved Vagn Lundgaard Simonsen under medvirken af Flemming Hovmann. Ordbog ved Ebba Hjorth. 1983</title><pubPlace xml:id="idm140711295613248">København</pubPlace>
-<publisher xml:id="idm140711295612816">Munksgaard.</publisher><date xml:id="idm140711295612448">1965-83.</date></bibl></sourceDesc>
+      <sourceDesc xml:id="idm140711295615584">
+        <bibl xml:id="idm140711295615456">
+          <author n="1" xml:id="idm140711295614768">
+            <name xml:id="idm140711295614512"><surname xml:id="idm140711295614384">Arrebo</surname>, <forename xml:id="idm140711295613920">Anders</forename></name>
+          </author>
+          <title xml:id="idm140711295613632"> Indledning og kommentar. Ved Vagn Lundgaard Simonsen under medvirken af Flemming Hovmann. Ordbog ved Ebba Hjorth. 1983</title>
+          <pubPlace xml:id="idm140711295613248">København</pubPlace>
+          <publisher xml:id="idm140711295612816">Munksgaard.</publisher>
+          <date xml:id="idm140711295612448">1965-83.</date>
+        </bibl>
+      </sourceDesc>
     </fileDesc>
   </teiHeader>
   <text xml:id="idm140711295611776">

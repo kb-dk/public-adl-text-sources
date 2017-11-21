@@ -1,10 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!-- Ptj rettet s. 294-303 -->
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="idm140472357436480"><!-- 
-       file     ./marc_dir/001391929.xml
-       field     
-       subfield  
-       prefix   -->
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="root">
   <teiHeader xml:id="idm140472357435616">
     <fileDesc xml:id="idm140472357435360">
       <titleStmt xml:id="idm140472357435056">
@@ -23,17 +18,20 @@
         <note xml:id="idm140472357405920">
 	  </note>
       </notesStmt>
-      <sourceDesc xml:id="idm140472357405408"><bibl xml:id="idm140472357405280"><author n="1" xml:id="idm140472357404592"><name xml:id="idm140472357404336"><surname xml:id="idm140472357404208">Bang</surname>, <forename xml:id="idm140472357403776">Herman</forename></name></author><title xml:id="idm140472357403488">Stuk</title><pubPlace xml:id="idm140472357403200">[København]</pubPlace>; <pubPlace xml:id="idm140472357402736">[Valby]</pubPlace>; <pubPlace xml:id="idm140472357402320">[Ballerup]</pubPlace>
-<publisher xml:id="idm140472357401856">Det Danske Sprog- og Litteraturselskab</publisher><publisher xml:id="idm140472357401552">Borgen</publisher><publisher xml:id="idm140472357401264">i samarbejde med Nyt Dansk Litteraturselskab</publisher><date xml:id="idm140472357400896">cop. 1987</date></bibl><listBibl xml:id="idm140472357400608"><bibl xml:id="biblid54099"><title xml:id="idm140472357387456">Stuk (Danske Klassikere)</title></bibl></listBibl></sourceDesc>
+      <sourceDesc xml:id="idm140472357405408">
+        <bibl xml:id="idm140472357405280"><author n="1" xml:id="idm140472357404592"><name xml:id="idm140472357404336"><surname xml:id="idm140472357404208">Bang</surname>, <forename xml:id="idm140472357403776">Herman</forename></name></author><title xml:id="idm140472357403488">Stuk</title><pubPlace xml:id="idm140472357403200">[København]</pubPlace>; <pubPlace xml:id="idm140472357402736">[Valby]</pubPlace>; <pubPlace xml:id="idm140472357402320">[Ballerup]</pubPlace><publisher xml:id="idm140472357401856">Det Danske Sprog- og Litteraturselskab</publisher><publisher xml:id="idm140472357401552">Borgen</publisher><publisher xml:id="idm140472357401264">i samarbejde med Nyt Dansk Litteraturselskab</publisher><date xml:id="idm140472357400896">cop. 1987</date></bibl>
+        <listBibl xml:id="idm140472357400608">
+          <bibl xml:id="biblid54099">
+            <title xml:id="idm140472357387456">Stuk (Danske Klassikere)</title>
+          </bibl>
+        </listBibl>
+      </sourceDesc>
     </fileDesc>
   </teiHeader>
   <text xml:id="workid54099" decls="#biblid54099">
     <front xml:id="idm140472357385808">
       <pb n="1" facs="adl/bang/bang7/bang7001" xml:id="idm140472357385504"/>
       <gap reason="cancelled" xml:id="idm140472357384688"/>
-<!---->
-<!---->
-<!--Stuk-->
       <pb n="2" facs="adl/bang/bang7/bang7002" xml:id="idm140472357383168"/>
       <pb n="3" facs="adl/bang/bang7/bang7003" xml:id="idm140472357382384"/>
       <titlePage xml:id="idm140472357381616">

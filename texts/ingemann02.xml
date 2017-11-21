@@ -1,9 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="idm140036559000944"><!-- 
-       file     ./marc_dir/001391930.xml
-       field     
-       subfield  
-       prefix   -->
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="root">
   <teiHeader xml:id="idm140036559006256">
     <fileDesc xml:id="idm140036559006000">
       <titleStmt xml:id="idm140036559005696">
@@ -24,17 +20,20 @@ Det Danske Sprog- og Litteraturselska</publisher>
         <note xml:id="idm140036558976128">
 	  </note>
       </notesStmt>
-      <sourceDesc xml:id="idm140036558975616"><bibl xml:id="idm140036558975488"><author n="1" xml:id="idm140036558974800"><name xml:id="idm140036558974544"><surname xml:id="idm140036558974416">Ingemann</surname>, <forename xml:id="idm140036558973952">B. S.</forename></name></author><title xml:id="idm140036558973664">Valdemar Seier</title><pubPlace xml:id="idm140036558973376">København</pubPlace>; <pubPlace xml:id="idm140036558972912">Valby</pubPlace>; <pubPlace xml:id="idm140036558972496">Ballerup</pubPlace>
-<publisher xml:id="idm140036558972032">Det Danske Sprog- og Litteraturselskab</publisher><publisher xml:id="idm140036558971728">Borgen</publisher><publisher xml:id="idm140036558971440">i samarbejde med Nyt Dansk Litteraturselskab</publisher><date xml:id="idm140036558971072">cop. 1987</date></bibl><listBibl xml:id="idm140036558970784"><bibl xml:id="biblid54477"><title xml:id="idm140036558957632">Valdemar Seier</title></bibl></listBibl></sourceDesc>
+      <sourceDesc xml:id="idm140036558975616">
+        <bibl xml:id="idm140036558975488"><author n="1" xml:id="idm140036558974800"><name xml:id="idm140036558974544"><surname xml:id="idm140036558974416">Ingemann</surname>, <forename xml:id="idm140036558973952">B. S.</forename></name></author><title xml:id="idm140036558973664">Valdemar Seier</title><pubPlace xml:id="idm140036558973376">København</pubPlace>; <pubPlace xml:id="idm140036558972912">Valby</pubPlace>; <pubPlace xml:id="idm140036558972496">Ballerup</pubPlace><publisher xml:id="idm140036558972032">Det Danske Sprog- og Litteraturselskab</publisher><publisher xml:id="idm140036558971728">Borgen</publisher><publisher xml:id="idm140036558971440">i samarbejde med Nyt Dansk Litteraturselskab</publisher><date xml:id="idm140036558971072">cop. 1987</date></bibl>
+        <listBibl xml:id="idm140036558970784">
+          <bibl xml:id="biblid54477">
+            <title xml:id="idm140036558957632">Valdemar Seier</title>
+          </bibl>
+        </listBibl>
+      </sourceDesc>
     </fileDesc>
   </teiHeader>
   <text xml:id="idm140036558956992">
     <front xml:id="idm140036558956736">
       <pb n="I" facs="adl/ingemann/ingemann2/inge2001" xml:id="idm140036558956432"/>
       <gap reason="cancelled" xml:id="idm140036558955568"/>
-<!---->
-<!---->
-<!--Valdemar Seier-->
       <pb n="II" facs="adl/ingemann/ingemann2/inge2002" xml:id="idm140036558954048"/>
       <pb n="III" facs="adl/ingemann/ingemann2/inge2003" xml:id="idm140036558953312"/>
       <titlePage xml:id="idm140036558952544">

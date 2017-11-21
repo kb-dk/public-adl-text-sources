@@ -1,13 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!--  OCR by ATAPY 19.09.2001 (Catherine Bychkova) -->
-<!-- HHL 20030320 rutinecheck
-         fiflet med at indsætte en tom <div>  i <front> for at få rigtigt sidetal på "martin luther"
-   -->
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="idm139983002340352"><!-- 
-       file     ./marc_dir/002220618.xml
-       field     
-       subfield  
-       prefix   -->
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="root">
   <teiHeader xml:id="idm139983002339424">
     <fileDesc xml:id="idm139983002339168">
       <titleStmt xml:id="idm139983002313776">
@@ -22,21 +14,26 @@
         <note xml:id="idm139983002310704">
 	  </note>
       </notesStmt>
-      <sourceDesc xml:id="idm139983002310192"><bibl xml:id="idm139983002310064"><author n="1" xml:id="idm139983002309376"><name xml:id="idm139983002309120"><surname xml:id="idm139983002308992">Knudsen</surname>, <forename xml:id="idm139983002308560">Jakob</forename></name></author><title xml:id="idm139983002308272">Martin Luther</title><pubPlace xml:id="idm139983002307984">København</pubPlace>; <pubPlace xml:id="idm139983002307520">Kristiania</pubPlace>
-<date xml:id="idm139983002307008">1915</date></bibl><listBibl xml:id="idm139983002306720"><bibl xml:id="biblid54239"><title xml:id="idm139983002293568">MARTIN LUTHER</title></bibl><bibl xml:id="biblid54361"><title xml:id="idm139983002292784">ANGST</title></bibl><bibl xml:id="biblid68166"><title xml:id="idm139983002292000">MOD</title></bibl></listBibl></sourceDesc>
+      <sourceDesc xml:id="idm139983002310192">
+        <bibl xml:id="idm139983002310064"><author n="1" xml:id="idm139983002309376"><name xml:id="idm139983002309120"><surname xml:id="idm139983002308992">Knudsen</surname>, <forename xml:id="idm139983002308560">Jakob</forename></name></author><title xml:id="idm139983002308272">Martin Luther</title><pubPlace xml:id="idm139983002307984">København</pubPlace>; <pubPlace xml:id="idm139983002307520">Kristiania</pubPlace><date xml:id="idm139983002307008">1915</date></bibl>
+        <listBibl xml:id="idm139983002306720">
+          <bibl xml:id="biblid54239">
+            <title xml:id="idm139983002293568">MARTIN LUTHER</title>
+          </bibl>
+          <bibl xml:id="biblid54361">
+            <title xml:id="idm139983002292784">ANGST</title>
+          </bibl>
+          <bibl xml:id="biblid68166">
+            <title xml:id="idm139983002292000">MOD</title>
+          </bibl>
+        </listBibl>
+      </sourceDesc>
     </fileDesc>
   </teiHeader>
   <text xml:id="idm139983002291360">
     <pb n="1" xml:id="s1" facs="adl/knudsenj/knudsenj9/knud9001"/>
     <front xml:id="idm139983002289984">
       <gap reason="cancelled" xml:id="idm139983002289680"/>
-<!---->
-<!---->
-<!---->
-<!---->
-<!---->
-<!---->
-<!--MARTIN LUTHER-->
       <div xml:id="workid54239" decls="#biblid54239">
         <p xml:id="idm139983002285872">MARTIN LUTHER</p>
       </div>

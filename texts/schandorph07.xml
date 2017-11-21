@@ -1,11 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!-- OCR by ATAPY 29.10.02 (Catherine Bychkova) -->
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="idm140492335999936"><!-- 
-       file     ./marc_dir/001832663.xml
-       field    530 
-       subfield a 
-       prefix   Bd 5 : -->
-<!-- blo : *dolgoeO* til d.v.s. ; emph til spat : græske bogstaver til [x] -->
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="root">
   <teiHeader xml:id="idm140492335998992">
     <fileDesc xml:id="idm140492335998736">
       <titleStmt xml:id="idm140492335973296">
@@ -20,17 +14,30 @@
         <note xml:id="idm140492335970224">
 	  </note>
       </notesStmt>
-      <sourceDesc xml:id="idm140492335969712"><bibl xml:id="idm140492335969584"><author n="1" xml:id="idm140492335968960"><name xml:id="idm140492335968704"><surname xml:id="idm140492335968576">Schandorph</surname>, <forename xml:id="idm140492335968144">Sophus</forename></name></author><title xml:id="idm140492335967840">Stillelivs-Folk - Poet og Junker. - 1904</title><pubPlace xml:id="idm140492335967520">København</pubPlace>
-<date xml:id="idm140492335967008">1904-05</date></bibl><listBibl xml:id="idm140492335966720"><bibl xml:id="biblid54201"><title xml:id="idm140492335953520">STILLELIVS-FOLK (1889)</title></bibl><bibl xml:id="biblid68529"><title xml:id="idm140492335952688">POET OG JUNKER (1892)</title></bibl></listBibl></sourceDesc>
+      <sourceDesc xml:id="idm140492335969712">
+        <bibl xml:id="idm140492335969584">
+          <author n="1" xml:id="idm140492335968960">
+            <name xml:id="idm140492335968704"><surname xml:id="idm140492335968576">Schandorph</surname>, <forename xml:id="idm140492335968144">Sophus</forename></name>
+          </author>
+          <title xml:id="idm140492335967840">Stillelivs-Folk - Poet og Junker. - 1904</title>
+          <pubPlace xml:id="idm140492335967520">København</pubPlace>
+          <date xml:id="idm140492335967008">1904-05</date>
+        </bibl>
+        <listBibl xml:id="idm140492335966720">
+          <bibl xml:id="biblid54201">
+            <title xml:id="idm140492335953520">STILLELIVS-FOLK (1889)</title>
+          </bibl>
+          <bibl xml:id="biblid68529">
+            <title xml:id="idm140492335952688">POET OG JUNKER (1892)</title>
+          </bibl>
+        </listBibl>
+      </sourceDesc>
     </fileDesc>
   </teiHeader>
   <text xml:id="idm140492335952048">
     <front xml:id="idm140492335951792">
       <pb n="I" facs="adl/schandorph/schandorph7/scha7fm001" xml:id="idm140492335951488"/>
       <gap reason="cancelled" xml:id="idm140492335950624"/>
-<!---->
-<!---->
-<!--S. SCHANDORPH ROMANER FEMTE BIND-->
       <pb n="II" facs="adl/schandorph/schandorph7/scha7fm002" xml:id="idm140492335949072"/>
       <pb n="III" facs="adl/schandorph/schandorph7/scha7fm003" xml:id="idm140492335948304"/>
       <titlePage xml:id="idm140492335947536">
@@ -988,7 +995,7 @@ hebraiske, kan Du købe paa min Regning til et Beløb af 50 Daler om Aaret.</p>
             <p xml:id="idm140492335321456">- Nej, nej, nej! Han tog Kollegiehæfterne frem for sig hjemme i Sværtegade.</p>
             <p xml:id="idm140492335320896">Han læste, læste og blev lige klog.</p>
             <p xml:id="idm140492335320416">- Kan jeg ud af dette blive en begejstret Forkynder af Sandheden?</p>
-            <p xml:id="idm140492335319952">Sandheden? Var den gemt i denne Griesbachs Udgave af <hi rend="italics" xml:id="idm140492335319632"><!-- &#7977; &#922;&#923;&#921;&#925;&#919; &#916;&#921;&#913;&#920;&#919;&#922;&#919; -->[x] [x][x][x][x][x] [x][x][x][x][x][x][x]</hi>?</p>
+            <p xml:id="idm140492335319952">Sandheden? Var den gemt i denne Griesbachs Udgave af <hi rend="italics" xml:id="idm140492335319632">[x] [x][x][x][x][x] [x][x][x][x][x][x][x]</hi>?</p>
             <p xml:id="idm140492335318464">Man maatte dog kunne komme til Rette med den, naar den rummedes i denne vel tykke, men ingenlunde uoverkommelige Bog.</p>
             <p xml:id="idm140492335317952">Ja - den rummede forunderlige Ting. Alt det, der var trivialiseret for ham under Religionsundervisningen i den lærde Skole gennem Lærebog og Bibelhistorie, vandt sin oprindelige Friskhed. Han skrabede den plumpe Overmaling af som Kunstkenderen af et gammelt Renæssancemøbel, som moderne Smørere har besudlet med mange fedtede Overmalinger.</p>
             <p xml:id="idm140492335316864">Bjergprædikenens forunderlig rige Stemningsskala, svingende lige fra den højeste Pathos i Lovprisningen af de fattige i Aanden og fra den blodige Satire i Hudfletningen af dem, der bad offentlig paa Gadehjørner, de hellige Poseurer, lige til Idyllen, følte han var vokset frem i dette forunderlige Milieu, hvor Reformatoren prædiker fra Bjerget i den sydlige blændende Luft for de lyttende, løst henslængte Grupper . . . gaves der noget skønnere?</p>
@@ -2848,7 +2855,7 @@ fjerkantet, militærisk Hat, under den et oprindelig ædelt formet Ansigt med Ø
             <p xml:id="idm140492334091984">Damen trak paa Skuldrene, smilede næsten umærkelig til Abbaten og stak sin Arm ind under hans, mens hun holdt ham let tilbage, for at de kunde komme i Afstand fra de to andre.</p>
             <p xml:id="idm140492334091232">- Sig mig Citatet paa Græsk, hviskede hun. Jeg har en hellig Andagt for Homers Sprog - ligesom Petrarca, der heller ikke forstod det. Det klinger som Apollons Lyre.</p>
             <p xml:id="idm140492334090496">Abbaten bøjede sig galant og citerede halv sagte:<lb xml:id="idm140492334090128"/>
--<hi rend="italics" xml:id="idm140492334089872"><!-- &#7949;&#957;&#945;&#958;, &#946;&#961;&#959;&#964;&#8182;&#953;&#963;&#953;&#957; &#959;&#8016;&#948;&#8050;&#957; &#7952;&#963;&#964; &#7936;&#960;&#8060;&#956;&#959;&#964;&#959;&#957; -->[x][x][x][x], [x][x][x][x][x][x][x][x][x] [x][x][x][x][x] [x][x][x] [x][x][x][x][x][x][x][x]</hi>.</p>
+-<hi rend="italics" xml:id="idm140492334089872">[x][x][x][x], [x][x][x][x][x][x][x][x][x] [x][x][x][x][x] [x][x][x] [x][x][x][x][x][x][x][x]</hi>.</p>
             <p xml:id="idm140492334088560">- Hvem kan lære mig Græsk? spurgte hun underlig smægtende.</p>
             <p xml:id="idm140492334088032">- Det maa være en, der elsker Dem, og som De elsker . . . ellers lærer De det aldrig.</p>
             <pb n="186" facs="adl/schandorph/schandorph7/scha7186" xml:id="idm140492334087456"/>
@@ -4578,7 +4585,7 @@ Gitteret til et symbolsk Favntag, men Gehegan løftede sin Finger med en smilend
             <p xml:id="idm140492332946752">Han var malproper at se til. Hans Krave og sorte korte Dragt var fuld af Fedte- og Snustobakspletter. Snus sad imellem Skægstubberne paa hans slet barberede Hage og i Furerne fra Næsen til Mundvigene. Paa Bordet foran Kanapéen, hvorpaa han paa Grund af Podagra indtog en halvt liggende Stilling, stod en uhyre sølvindlagt Skildpaddes Snusdaase, omtrent en halv Fod i Diameter. Smaa poliske Øjne skelede intermitterende ned mod den store røde Klumpnæse. Om Munden svævede et Satyrgrin. Hans fede, lidet plejede Haand skænkede Alfieri den gemytlige italienske Hilsen.</p>
             <p xml:id="idm140492332945504">Alfieri holdt den tidt gentagne Tale om sit Ærinde.</p>
             <p xml:id="idm140492332944992">Kardinalen lo hæst som en gammel Bonde og sagde paa Fransk :<lb xml:id="idm140492332944592"/>
-- Fy . . . fy ... <hi rend="italics" xml:id="idm140492332944304">Cicisbeo . . . Cavaliete servente!</hi> . . . Nu, Mennesker er Mennesker. Bare de ikke giver sig ud for at være mere, og (nu forsvandt Grinet fra Munden, og Øjnene løftede sig fra Næsetippen op mod det tøndehvælvede Stukloft) naar de bevare vor hellige Kirkes Tro . . . De er <hi rend="italics" xml:id="idm140492332943104">"homme de lettres"</hi>, Greve . . . Brillant . . . Vi er altsaa Medbrødre i Apollo. De har vel læst min Gendrivelse af Lockes og Voltaires Ugudeligheder i mit Hovedværk <hi rend="italics" xml:id="idm140492332942096">"L'immoitalité de l'âme démontrée contre Locke"</hi>. Men i den ugudelige Englænders Person har jeg villet ramme vor Tids Antikrist, Voltaire. Man siger, at han aldrig forvandt det Stød, og at han for at værge sig lige over for Magthaverne i den Anledning gik til Skrifte i Ferney . . . De har maaske hørt tale derom i literære Kredse . . . Nu vel, Hr. Greve . . . Jeg har altid elsket Filosofi, den har været min Hagar. Theologien har naturligvis været min Sara. Hø, hø, hø! Jeg skal ikke sætte mig mod den gode Fyrstindes Ønske. Prinsen af Stuart har jeg jo kendt her i Rom. En raa Herre uden Spor af Sans for Filosofi eller Literatur . . . Naa hans Broder . . . Deres kære Svoger . . . hø, hø, hø (atter den hostende Latter) . . . naa De forstaar jo Skæmt . . . altsaa min kære Medbroder, Kardinalen af Stuart, er just heller ingen Latiner eller <hi rend="italics" xml:id="idm140492332939600">Theologus primi ordinis</hi> . . . Men . . . men . . . men . . . De har jo en udmærket <hi rend="italics" xml:id="idm140492332938800"><!-- &#960;&#945;&#961;&#8049;&#1008;&#955;&#951;&#964;&#959;&#962; -->[x][x][x][x][x][x][x][x][x][x]</hi> . . . hm . . . jeg har i sin Tid givet mig noget af med Græsk . . . Græsk har De vel glemt . . . ja det kunde jeg nok tænke . . . nu vel, jeg burde have sat Ordet <hi rend="italics" xml:id="idm140492332937456"><!-- &#960;&#945;&#961;&#8049;&#1008;&#955;&#951;&#953;&#959;&#962; -->[x][x][x][x][x][x][x][x][x][x]</hi>
+- Fy . . . fy ... <hi rend="italics" xml:id="idm140492332944304">Cicisbeo . . . Cavaliete servente!</hi> . . . Nu, Mennesker er Mennesker. Bare de ikke giver sig ud for at være mere, og (nu forsvandt Grinet fra Munden, og Øjnene løftede sig fra Næsetippen op mod det tøndehvælvede Stukloft) naar de bevare vor hellige Kirkes Tro . . . De er <hi rend="italics" xml:id="idm140492332943104">"homme de lettres"</hi>, Greve . . . Brillant . . . Vi er altsaa Medbrødre i Apollo. De har vel læst min Gendrivelse af Lockes og Voltaires Ugudeligheder i mit Hovedværk <hi rend="italics" xml:id="idm140492332942096">"L'immoitalité de l'âme démontrée contre Locke"</hi>. Men i den ugudelige Englænders Person har jeg villet ramme vor Tids Antikrist, Voltaire. Man siger, at han aldrig forvandt det Stød, og at han for at værge sig lige over for Magthaverne i den Anledning gik til Skrifte i Ferney . . . De har maaske hørt tale derom i literære Kredse . . . Nu vel, Hr. Greve . . . Jeg har altid elsket Filosofi, den har været min Hagar. Theologien har naturligvis været min Sara. Hø, hø, hø! Jeg skal ikke sætte mig mod den gode Fyrstindes Ønske. Prinsen af Stuart har jeg jo kendt her i Rom. En raa Herre uden Spor af Sans for Filosofi eller Literatur . . . Naa hans Broder . . . Deres kære Svoger . . . hø, hø, hø (atter den hostende Latter) . . . naa De forstaar jo Skæmt . . . altsaa min kære Medbroder, Kardinalen af Stuart, er just heller ingen Latiner eller <hi rend="italics" xml:id="idm140492332939600">Theologus primi ordinis</hi> . . . Men . . . men . . . men . . . De har jo en udmærket <hi rend="italics" xml:id="idm140492332938800">[x][x][x][x][x][x][x][x][x][x]</hi> . . . hm . . . jeg har i sin Tid givet mig noget af med Græsk . . . Græsk har De vel glemt . . . ja det kunde jeg nok tænke . . . nu vel, jeg burde have sat Ordet <hi rend="italics" xml:id="idm140492332937456">[x][x][x][x][x][x][x][x][x][x]</hi>
 							<hi rend="italics" xml:id="idm140492332936544">in feminino</hi> . . . den Talskvinde, De har hos min kære Broder . . . hvis det kunde forsvares at give Ordet en feminin Form paa Græsk, hvad jeg tvivler paa . . . <hi rend="italics" xml:id="idm140492332935536">Summa summarum</hi> . . . <hi rend="italics" xml:id="idm140492332934816">Parenthesis claudatur</hi> . . . i den vakre Madame Orlandini, der fungerer
 	<pb n="295" facs="adl/schandorph/schandorph7/scha7295" xml:id="idm140492332934064"/>
 som . . . som den, der gør Honnør hos min eminente Kollega . . . hø . . . hø . . . hø . . . naturligvis i al Tugt og Ære, min gode Greve . . . nu, nu . . . nu . . .! Vi ere svage af Naturen, frelses kun ved Naaden, der erhverves ved Kærlighedsgerninger, og, jo mere vi nærme os Døden, jo mere lutres Kærligheden fra alt jordisk og bliver rent himmelsk. Ak ja, ak ja! . . . Det vil De nok erfare en Gang. Jeg har længst erfaret det. Hø, hø, hø. . . Ja, jeg skal tale Damens Sag i Kurien. Gud være med Dem! Gud befalet!</p>
@@ -5229,7 +5236,7 @@ nu vokser ud i al Uendelighed.  Jeg begynder at blive bange for mig selv.</p>
               <p xml:id="idm140492332467568">Thi vulkanske Kræfter begynder at faa den gamle Jordoverflade til at skælve . . . Fra det mig saa forhadte Frankrig hører jeg Røster . . . blot de ikke snøvlede og sagde: Ang, pang og yh . . . Uh den Svinelyd . . . det Y!</p>
               <p xml:id="idm140492332466720">Men jeg skal tilgive de Aber alt, hvis deres Hyl paa Y kan blive som Jerikos Basuner. - Du har set dem paa Ghibertis Broncedør i vort kære Firenze . . . hvis det kan faa Versaillespaladset, den dumme Kæmpeokse, til at falde i Kvag, og de saa derefter kan bygge Marmorkolonnader, om hvis Søjler Republikens frie Luftninger kan sno sig . . . Mener I, min Fyrstinde, at jeg er gal? Jeg tror det selv.</p>
               <p xml:id="idm140492332465520">Caluso siger, at jeg kan blive en stor Digter, hvis jeg rigtig sætter mig ind i det Græske. Ak - jeg har begyndt med Xenofon og Homer. Det er et svært Sprog. Men jeg tror paa Caluso, og jeg giver min Louise mit Ord paa, at jeg skal naa til at kunne bedre Græsk end Monsignore Lascaris.</p>
-              <p xml:id="idm140492332464544">Farvel, min "tilbedte Dame". Saa kaldte jeg Dig, da jeg første Gang kyssede Dit dejlige blonde Haar . . . <hi rend="italics" xml:id="idm140492332464064"><!-- &#967;&#961;&#965;&#963;&#959;&#1008;&#945;&#943;&#964;&#951;&#962; -->[x][x][x][x][x][x][x][x][x][x][x]</hi>, er Du lig Apollon.</p>
+              <p xml:id="idm140492332464544">Farvel, min "tilbedte Dame". Saa kaldte jeg Dig, da jeg første Gang kyssede Dit dejlige blonde Haar . . . <hi rend="italics" xml:id="idm140492332464064">[x][x][x][x][x][x][x][x][x][x][x]</hi>, er Du lig Apollon.</p>
               <p xml:id="idm140492332462912">Det bedste, der rummes i min Sjæl, har jeg givet Dig. Og Du, min Dame, har givet mig det betroede Pund tilbage hundred foldiggjort. Derved ere vi begge blevne uendelig rige. Lad os leve af denne Rigdom Resten af vort Liv . . . det er Calusos Indfald.</p>
               <closer xml:id="idm140492332462016">Eders af Hjærtet hengivne og<lb xml:id="idm140492332461680"/>
 længselsfuld sørgende og haabende<lb xml:id="idm140492332461328"/>
@@ -5629,7 +5636,7 @@ Sprog, og Du véd, at næst efter Poesien er Arkitekturen den Kunst, jeg elsker 
             <p xml:id="idm140492332185312">Alfieri aabnede en Skuffe, tog et stort Etui i rødt Fløjel ud og aabnede det:<lb xml:id="idm140492332184880"/>
 - Her skal Du se.</p>
             <p xml:id="idm140492332184464">Han udfoldede en stor Halskæde af Guldringe, der samlede sig om en stor Kamée med det traditionelle Billede af Homer. Under det stod graveret:<lb xml:id="idm140492332183904"/>
-							<hi rend="italics" xml:id="idm140492332183648"><!-- &#913;&#8016;&#964;&#959;&#957; &#960;&#959;&#953;&#8053;&#963;&#945;&#962; &#7944;&#955;&#981;&#953;&#8053;&#961;&#953;&#959;&#962; &#7985;&#960;&#960;&#7952; &#8009;&#956;&#8053;&#961;&#959;&#965; &#922;&#959;&#953;&#961;&#945;&#957;&#953;&#967;&#8134;&#962; &#964;&#953;&#956;&#8052;&#957; &#7970;&#955;&#966;&#945;&#957;&#949; &#948;&#949;&#953;&#959;&#964;&#8051;&#961;&#945;&#957; -->[x][x][x][x][x] [x][x][x][x][x][x][x] [x][x][x][x][x][x][x][x][x] [x][x][x][x] [x][x][x][x][x][x] [x][x][x][x][x][x][x][x][x][x] [x][x][x][x][x] [x][x][x][x][x][x] [x][x][x][x][x][x][x][x][x]</hi>.</p>
+							<hi rend="italics" xml:id="idm140492332183648">[x][x][x][x][x] [x][x][x][x][x][x][x] [x][x][x][x][x][x][x][x][x] [x][x][x][x] [x][x][x][x][x][x] [x][x][x][x][x][x][x][x][x][x] [x][x][x][x][x] [x][x][x][x][x][x] [x][x][x][x][x][x][x][x][x]</hi>.</p>
             <p xml:id="idm140492332182064">(Da Alfieri havde gjort sig til Homers Ridder, opfandt han et Hæderstegn mere guddommeligt end en kongelig Orden.)</p>
             <p xml:id="idm140492332181440">- Og ser Du, min Tommaso! Bagpaa staar 23 Digternavne, hvis Ejere jeg vil sende Ordenen . . . det vil sige de levende. Til de dødes Grave vil jeg sende Lavrbærkranse og . . .</p>
             <p xml:id="idm140492332180688">- Hvor vil Du finde de dødes Grave, min Vittorio? spurgte Caluso, Han markerede et Smil, men nænnede ikke at lade det blive tydeligt; for han saa sin Ven smile og hørte en Antydning af Latter.</p>
@@ -5772,7 +5779,7 @@ en Stentrappe, som løb uden om Husets Bagside. Paa den første Afsats trak han 
           </div>
           <div xml:id="idm140492332095424">
             <head xml:id="idm140492332095168">XXIX.</head>
-            <p xml:id="idm140492332094752">Oppefra lyste det brandgult ned over en Dør. Paa en brandrød transparent Plade stod med blaa Bogstaver: <hi rend="italics" xml:id="idm140492332094272">"<!-- &#7944;&#922;&#913;&#916;&#919;&#924;&#921;&#913; &#7977;&#923;&#927;&#925;&#921;&#922;&#919; -->[x][x][x][x][x][x][x][x] [x][x][x][x][x][x][x]"</hi>.</p>
+            <p xml:id="idm140492332094752">Oppefra lyste det brandgult ned over en Dør. Paa en brandrød transparent Plade stod med blaa Bogstaver: <hi rend="italics" xml:id="idm140492332094272">"[x][x][x][x][x][x][x][x] [x][x][x][x][x][x][x]"</hi>.</p>
             <p xml:id="idm140492332092912">Døren blev aabnet, en Portière trukken til Side.</p>
             <p xml:id="idm140492332092416">Caluso opdagede et middelstort Rum. Under det mangebjælkede Loft hang Lamper i den bekendte antike Form med Tude, hvorfra lange Flammer strakte sig ud, dirrende og spillende som Snogetunger. Væggene var helt bedækkede med brogede Tapeter og orientalske Tæppemønstre. Langs dem stod Løjbænke, hvorpaa kortkjolede og nedringede Kvinder halvt laa, halvt sad. De var klædte i forskellig farvet Silke, og over Skuldrene bar de lange Florshawler. Nogle holdt Tamburiner, andre Mandoliner i Haanden.</p>
             <p xml:id="idm140492332091312">I Baggrunden sad en høj Blondine i guldpailleteret hvidt Atlask med purpurrødt Shawl, tronende for sig som en Slags Dronning eller Sultaninde.</p>

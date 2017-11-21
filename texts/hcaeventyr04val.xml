@@ -1,13 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!-- 20021028 HHL flyttet afslutnings-div'er foran <pb/> 
-                  fjernet anfoerslstegn fra vaerktitle. Ptj Rettet  s. 14-21-46-50-51-56-84-86-87-89-96-98-99-171-196-259-260- 
-20.4.09 rettelse s. 80 VL
--->
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="idm139893301824560"><!-- 
-       file     ./marc_dir/001527411.xml
-       field    530 
-       subfield a 
-       prefix   4 : -->
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="root">
   <teiHeader xml:id="idm139893301823456">
     <fileDesc xml:id="idm139893301823200">
       <titleStmt xml:id="idm139893301797744">
@@ -23,29 +15,141 @@
 	  </note>
       </notesStmt>
       <sourceDesc xml:id="idm139893301794368">
-	<bibl xml:id="idm139893301794112">
-	  <author xml:id="idm139893301793856">
-	    <name xml:id="idm139893301793552"><surname xml:id="idm139893301793424">Andersen</surname>,
+        <bibl xml:id="idm139893301794112">
+          <author xml:id="idm139893301793856">
+            <name xml:id="idm139893301793552"><surname xml:id="idm139893301793424">Andersen</surname>,
 	    <forename xml:id="idm139893301793040">H. C.</forename></name>
-	  </author>
-	  <title xml:id="idm139893301792528">H.C. Andersens Eventyr bd. IV</title>
-	  <title xml:id="idm139893301792096">kritisk udg. efter de originale eventyrhæfter med varianter
+          </author>
+          <title xml:id="idm139893301792528">H.C. Andersens Eventyr bd. IV</title>
+          <title xml:id="idm139893301792096">kritisk udg. efter de originale eventyrhæfter med varianter
 	  ved Erik Dal</title>
-	  <pubPlace xml:id="idm139893301791536">København</pubPlace>
-	  <publisher xml:id="idm139893301791120">C. A. Reitzel</publisher>
-	  <date xml:id="idm139893301790656">1990</date>
-	</bibl>
-	<listBibl xml:id="idm139893301790064">
-      <bibl xml:id="biblid58005"><title xml:id="idm139893301776384">Fra Eventyr og Historier. Første-Andet Bind. 1862-63</title></bibl><bibl xml:id="biblid58264"><title xml:id="idm139893301775504">Metalsvinet</title></bibl><bibl xml:id="biblid60148"><title xml:id="idm139893301774720">Venskabs-Pagten</title></bibl><bibl xml:id="biblid61614"><title xml:id="idm139893301773888">En Rose fra Homers Grav</title></bibl><bibl xml:id="biblid62002"><title xml:id="idm139893301773104">Bedstemoder</title></bibl><bibl xml:id="biblid62426"><title xml:id="idm139893301772320">Fugl Phønix</title></bibl><bibl xml:id="biblid62912"><title xml:id="idm139893301771472">En Historie</title></bibl><bibl xml:id="biblid63665"><title xml:id="idm139893301770688">Den stumme Bog</title></bibl><bibl xml:id="biblid64028"><title xml:id="idm139893301769856">Ærens Tornevei</title></bibl><bibl xml:id="biblid64743"><title xml:id="idm139893301769072">Jødepigen</title></bibl><bibl xml:id="biblid65459"><title xml:id="idm139893301768288">Nye Eventyr og Historier. Anden Række. Første Samling. 1861</title></bibl><bibl xml:id="biblid65658"><title xml:id="idm139893301767344">Tolv med Posten</title></bibl><bibl xml:id="biblid66255"><title xml:id="idm139893301766512">Skarnbassen</title></bibl><bibl xml:id="biblid67739"><title xml:id="idm139893301765728">Hvad Fatter gjør, det er altid det Rigtige</title></bibl><bibl xml:id="biblid68438"><title xml:id="idm139893301764832">De Vises Steen</title></bibl><bibl xml:id="biblid70754"><title xml:id="idm139893301764048">Sneemanden</title></bibl><bibl xml:id="biblid71700"><title xml:id="idm139893301763264">I Andegaarden</title></bibl><bibl xml:id="biblid72507"><title xml:id="idm139893301762432">Det nye Aarhundredes Musa</title></bibl><bibl xml:id="biblid73931"><title xml:id="idm139893301761584">Nye Eventyr og Historier. Anden Række. Anden Samling. 1862</title></bibl><bibl xml:id="biblid74082"><title xml:id="idm139893301760656">Iisjomfruen</title></bibl><bibl xml:id="biblid81897"><title xml:id="idm139893301759872">Sommerfuglen</title></bibl><bibl xml:id="biblid82510"><title xml:id="idm139893301759088">Psychen</title></bibl><bibl xml:id="biblid84048"><title xml:id="idm139893301758256">Sneglen og Rosenhækken</title></bibl><bibl xml:id="biblid84539"><title xml:id="idm139893301757392">Nye Eventyr og Historier. Anden Række. Tredie Samling. 1865</title></bibl><bibl xml:id="biblid84673"><title xml:id="idm139893301756496">Lygtemændene ere i Byen, sagde Mosekonen</title></bibl><bibl xml:id="biblid86191"><title xml:id="idm139893301755600">Veirmøllen</title></bibl><bibl xml:id="biblid86444"><title xml:id="idm139893301754704">Sølvskillingen</title></bibl><bibl xml:id="biblid87217"><title xml:id="idm139893301753856">Bispen paa Børglum og hans Frænde</title></bibl><bibl xml:id="biblid88639"><title xml:id="idm139893301752976">I Børnestuen</title></bibl><bibl xml:id="biblid89450"><title xml:id="idm139893301752128">Guldskat</title></bibl><bibl xml:id="biblid90893"><title xml:id="idm139893301751296">Stormen flytter Skilt</title></bibl><bibl xml:id="biblid91559"><title xml:id="idm139893301750464">Nye Eventyr og Historier. Anden Række. Fjerde Samling, 1866</title></bibl><bibl xml:id="biblid91648"><title xml:id="idm139893301749520">Gjemt er ikke glemt</title></bibl><bibl xml:id="biblid92071"><title xml:id="idm139893301748688">Portnerens Søn</title></bibl><bibl xml:id="biblid95580"><title xml:id="idm139893301747888">Flyttedagen</title></bibl><bibl xml:id="biblid96201"><title xml:id="idm139893301747056">Sommergjækken</title></bibl><bibl xml:id="biblid96882"><title xml:id="idm139893301746208">Moster</title></bibl><bibl xml:id="biblid97778"><title xml:id="idm139893301745424">Skrubtudsen</title></bibl></listBibl></sourceDesc>
+          <pubPlace xml:id="idm139893301791536">København</pubPlace>
+          <publisher xml:id="idm139893301791120">C. A. Reitzel</publisher>
+          <date xml:id="idm139893301790656">1990</date>
+        </bibl>
+        <listBibl xml:id="idm139893301790064">
+          <bibl xml:id="biblid58005">
+            <title xml:id="idm139893301776384">Fra Eventyr og Historier. Første-Andet Bind. 1862-63</title>
+          </bibl>
+          <bibl xml:id="biblid58264">
+            <title xml:id="idm139893301775504">Metalsvinet</title>
+          </bibl>
+          <bibl xml:id="biblid60148">
+            <title xml:id="idm139893301774720">Venskabs-Pagten</title>
+          </bibl>
+          <bibl xml:id="biblid61614">
+            <title xml:id="idm139893301773888">En Rose fra Homers Grav</title>
+          </bibl>
+          <bibl xml:id="biblid62002">
+            <title xml:id="idm139893301773104">Bedstemoder</title>
+          </bibl>
+          <bibl xml:id="biblid62426">
+            <title xml:id="idm139893301772320">Fugl Phønix</title>
+          </bibl>
+          <bibl xml:id="biblid62912">
+            <title xml:id="idm139893301771472">En Historie</title>
+          </bibl>
+          <bibl xml:id="biblid63665">
+            <title xml:id="idm139893301770688">Den stumme Bog</title>
+          </bibl>
+          <bibl xml:id="biblid64028">
+            <title xml:id="idm139893301769856">Ærens Tornevei</title>
+          </bibl>
+          <bibl xml:id="biblid64743">
+            <title xml:id="idm139893301769072">Jødepigen</title>
+          </bibl>
+          <bibl xml:id="biblid65459">
+            <title xml:id="idm139893301768288">Nye Eventyr og Historier. Anden Række. Første Samling. 1861</title>
+          </bibl>
+          <bibl xml:id="biblid65658">
+            <title xml:id="idm139893301767344">Tolv med Posten</title>
+          </bibl>
+          <bibl xml:id="biblid66255">
+            <title xml:id="idm139893301766512">Skarnbassen</title>
+          </bibl>
+          <bibl xml:id="biblid67739">
+            <title xml:id="idm139893301765728">Hvad Fatter gjør, det er altid det Rigtige</title>
+          </bibl>
+          <bibl xml:id="biblid68438">
+            <title xml:id="idm139893301764832">De Vises Steen</title>
+          </bibl>
+          <bibl xml:id="biblid70754">
+            <title xml:id="idm139893301764048">Sneemanden</title>
+          </bibl>
+          <bibl xml:id="biblid71700">
+            <title xml:id="idm139893301763264">I Andegaarden</title>
+          </bibl>
+          <bibl xml:id="biblid72507">
+            <title xml:id="idm139893301762432">Det nye Aarhundredes Musa</title>
+          </bibl>
+          <bibl xml:id="biblid73931">
+            <title xml:id="idm139893301761584">Nye Eventyr og Historier. Anden Række. Anden Samling. 1862</title>
+          </bibl>
+          <bibl xml:id="biblid74082">
+            <title xml:id="idm139893301760656">Iisjomfruen</title>
+          </bibl>
+          <bibl xml:id="biblid81897">
+            <title xml:id="idm139893301759872">Sommerfuglen</title>
+          </bibl>
+          <bibl xml:id="biblid82510">
+            <title xml:id="idm139893301759088">Psychen</title>
+          </bibl>
+          <bibl xml:id="biblid84048">
+            <title xml:id="idm139893301758256">Sneglen og Rosenhækken</title>
+          </bibl>
+          <bibl xml:id="biblid84539">
+            <title xml:id="idm139893301757392">Nye Eventyr og Historier. Anden Række. Tredie Samling. 1865</title>
+          </bibl>
+          <bibl xml:id="biblid84673">
+            <title xml:id="idm139893301756496">Lygtemændene ere i Byen, sagde Mosekonen</title>
+          </bibl>
+          <bibl xml:id="biblid86191">
+            <title xml:id="idm139893301755600">Veirmøllen</title>
+          </bibl>
+          <bibl xml:id="biblid86444">
+            <title xml:id="idm139893301754704">Sølvskillingen</title>
+          </bibl>
+          <bibl xml:id="biblid87217">
+            <title xml:id="idm139893301753856">Bispen paa Børglum og hans Frænde</title>
+          </bibl>
+          <bibl xml:id="biblid88639">
+            <title xml:id="idm139893301752976">I Børnestuen</title>
+          </bibl>
+          <bibl xml:id="biblid89450">
+            <title xml:id="idm139893301752128">Guldskat</title>
+          </bibl>
+          <bibl xml:id="biblid90893">
+            <title xml:id="idm139893301751296">Stormen flytter Skilt</title>
+          </bibl>
+          <bibl xml:id="biblid91559">
+            <title xml:id="idm139893301750464">Nye Eventyr og Historier. Anden Række. Fjerde Samling, 1866</title>
+          </bibl>
+          <bibl xml:id="biblid91648">
+            <title xml:id="idm139893301749520">Gjemt er ikke glemt</title>
+          </bibl>
+          <bibl xml:id="biblid92071">
+            <title xml:id="idm139893301748688">Portnerens Søn</title>
+          </bibl>
+          <bibl xml:id="biblid95580">
+            <title xml:id="idm139893301747888">Flyttedagen</title>
+          </bibl>
+          <bibl xml:id="biblid96201">
+            <title xml:id="idm139893301747056">Sommergjækken</title>
+          </bibl>
+          <bibl xml:id="biblid96882">
+            <title xml:id="idm139893301746208">Moster</title>
+          </bibl>
+          <bibl xml:id="biblid97778">
+            <title xml:id="idm139893301745424">Skrubtudsen</title>
+          </bibl>
+        </listBibl>
+      </sourceDesc>
     </fileDesc>
   </teiHeader>
   <text xml:id="idm139893301854144">
     <front xml:id="idm139893301853888">
       <pb n="a" xml:id="sa" facs="adl/andersenhc/andersenhcev4/ahce4001"/>
       <gap reason="cancelled" xml:id="idm139893301852592"/>
-<!---->
-<!---->
-<!--H. C. ANDERSENS, EVENTYR IV-->
       <pb n="b" xml:id="sb" facs="adl/andersenhc/andersenhcev4/ahce4002"/>
       <titlePage xml:id="idm139893301720144">
         <docAuthor xml:id="idm139893301719888">H. C. ANDERSENS</docAuthor>
@@ -760,9 +864,6 @@
 									afhængige</hi><hi rend="bold" xml:id="idm139893301240608">O<hi rend="sup" xml:id="idm139893301240080">2</hi>
 								</hi><hi rend="italics" xml:id="idm139893301239456">og</hi><hi rend="bold" xml:id="idm139893301238880">C</hi>. <hi rend="italics" xml:id="idm139893301238224">Kursiveringerne angiver
 									afvigelser fra</hi><hi rend="bold" xml:id="idm139893301237632">A</hi>, <hi rend="italics" xml:id="idm139893301236976">jf. s. 8.</hi></note>
-<!-- <hi rend="italics">III.</hi> Metalsvinet.<lb/><hi rend="italics">(En Historie).</hi> -->
-<!-- I Byen Florents, ikke langt fra piazza delgrand&ugrave;ca l&oslash;ber en lille Tvergade, jeg troer den kaldes porta rossa, i denne foran en Slags Bazar, hvor der s&aelig;lges Gr&oslash;nt, ligger et kunstigt vel udarbeidet Metalsviin, det friske, klare Vand risler ud af Munden paa Dyret, der af &AElig;lde er ganske sortgr&oslash;nt, kun Trynen skinner, som om den var poleret blank, og det er den ogsaa af de mange hundrede B&oslash;rn og <hi rend="italics">Lazaroner</hi>, der tage fat paa den med H&aelig;nderne og s&aelig;tte deres Mund til Dyrets for at drikke. Det er et heelt Billede, at see det velformede Dyr blive omfavnet af en smuk halvn&oslash;gen Dreng, der s&aelig;tter sin friske Mund til dets Tryne. -->
-<!-- 26 en] et <hi rend="bold">C</hi>. -->
               <pb n="14" xml:id="s14" facs="adl/andersenhc/andersenhcev4/ahce4014"/>
               <p xml:id="idm139893301233488">Enhver, som kommer til <hi rend="italics" xml:id="idm139893301233200">Florents</hi>, finder nok
 								Stedet, han behøver kun at spørge den
@@ -789,11 +890,6 @@
 								nogle Salatblade og et Par Kastanier, det blev hans Aftensmad. Der
 								var ikke et Menneske paa Gaden; han var ganske ene, han satte sig
 								paa Metalsvinets Ryg, lænede sig forover, saa hans</p>
-<!-- Enhver som kommer til <hi rend="CharEx">Florents</hi> finder nok Stedet, han beh&oslash;ver kun at sp&oslash;rge den f&oslash;rste Tigger, han seer, om Metalsvinet og han vil finde det. -->
-<!-- Det var en sildig Vinteraften, Bjergene laae med Snee, men det var Maaneskin, og Maaneskin i Italien giver en Belysning, der er ligesaa god som en m&oslash;rk Vinterdag i Norden, ja den er bedre, thi Luften skinner, Luften opl&oslash;fter, mens i Norden det kolde graae Bly-Tag trykker os til Jorden, den kolde vaade Jord, der engang skal trykke vor Kiste. -->
-<!-- Henne i Hertugens Slotshave, under Piniens Tag, hvor tusinde Roser blomstre ved Vintertid, havde en lille pjaltet Dreng siddet den hele Dag, en Dreng, der kunde v&aelig;re Billedet paa Italien, saa smuk, saa leende og dog saa lidende, han var sulten og t&oslash;rstig, Ingen gav ham en Skilling og da det blev m&oslash;rkt og Haven skulde lukkes, jog Portneren ham bort. L&aelig;nge stod han dr&oslash;mmende paa Broen <hi rend="italics">over</hi> Arno og saae paa Stjernerne, der blinkede i Vandet mellem ham og den pr&aelig;gtige Marmor Bro, <hi rend="italics">della Trinit&aacute;.</hi> -->
-<!-- Han tog Veien hen til Metalsvinet, kn&aelig;lede halv ned, slog sine Arme om dets Hals, satte sin lille Mund til dets skinnende Tryne og drak i store Drag det friske Vand. T&aelig;t ved laae nogle Salatblade og et Par Kastanier, det blev hans Aftensmad. Der var ikke et Menneske paa Gaden; han var ganske ene, han satte sig paa Metalsvinets Ryg, l&aelig;nede sig forover, saa hans lille lokkede <hi rend="italics">Hovede</hi> hvilte paa Dyrets, og f&oslash;r han selv vidste det, sov han ind. -->
-<!-- 39 halv] halvt <hi rend="bold">C</hi>. 43 Hovede] Hoved <hi rend="bold">O<hi rend="sup">2</hi>C</hi>. -->
               <pb n="15" xml:id="s15" facs="adl/andersenhc/andersenhcev4/ahce4015"/>
               <p xml:id="idm139893301223152">lille, lokkede Hoved hvilte paa Dyrets, og før han selv
 								vidste det, sov han ind.</p>
@@ -829,11 +925,6 @@
 								<hi rend="bold" xml:id="idm139893301212464">O</hi>
 								<hi rend="italics" xml:id="idm139893301211808">skriver</hi>: »under Fasten«,
 								udelades.</note>
-<!-- Det var Midnat, Metalsvinet r&oslash;rte sig, han h&oslash;rte, at det sagde ganske tydeligt: &raquo;Du lille Dreng, hold dig fast, thi nu l&oslash;ber jeg!&laquo; og saa l&oslash;b det med ham; det var et l&oslash;ierligt Ridt. &mdash; F&oslash;rst kom de paa <hi rend="CharEx">piazza del granduca</hi>; og Metalhesten, som bar Hertugens Statue, vrinskede h&oslash;it; de brogede Vaaben paa det gamle Raadhuus skinnede som transparente Billeder og Michel Angelos David svingede sin Slynge; det var et s&aelig;lsomt Liv, som r&oslash;rte sig! Metalgrupperne med Perseus og med Sabinerindernes Rov stode kun altfor levende; et D&oslash;ds Skrig fra dem gik over den pr&aelig;gtige eensomme Plads. -->
-<!-- Ved <hi rend="CharEx">Palazzo degli Uffizi</hi>, i Buegangen, hvor Adelen under Fasten samles til Carnevals Gl&aelig;de, standsede Metalsvinet. -->
-<!-- &raquo;Hold dig fast!&laquo; sagde Dyret, &raquo;hold dig fast, thi nu gaaer det op <hi rend="italics">af</hi> Trappen!&laquo; Den Lille sagde ikke endnu et Ord, halv skj&aelig;lvede han, halv var han lyksalig. -->
-<!-- De traadte ind i et langt Gallerie, han kjendte det godt, han havde v&aelig;ret her f&oslash;r; V&aelig;ggene prangede med Malerier, her stode Statuer og Buster, alle i det skj&oslash;nneste Lys, ligesom om det var Dag, men pr&aelig;gtigst var det da D&oslash;ren til et af Sidev&aelig;relserne gik op; ja denne Herlighed her huskede den Lille; dog i denne Nat var Alt i sin skj&oslash;nneste Glands. -->
-<!-- 34 under Fasten] <hi rend="italics">se ovf. lin. 34.</hi> 36 af] ad <hi rend="bold">O<hi rend="sup">2</hi>C</hi>. 37 halv (<hi rend="italics">2 gg.</hi>)] halvt <hi rend="bold">C</hi>. -->
               <pb n="16" xml:id="s16" facs="adl/andersenhc/andersenhcev4/ahce4016"/>
               <p xml:id="idm139893301206688">Her stod en nøgen, deilig Qvinde, saa smuk, som kun
 								Naturen og Marmorets største Mester kunde forme hende;
@@ -861,10 +952,6 @@
 								Billeder længer, de vare de Hellige selv.</p>
               <p xml:id="idm139893301200928">Hvilken Glands og hvilken Skjønhed fra Sal til Sal! og den
 								Lille saae dem Alle; Metalsvinet gik jo Skridt for Skridt</p>
-<!-- Her stod en n&oslash;gen deilig Qvinde, saa smuk, som kun Naturen og Marmorets st&oslash;rste Mester kunde forme hende; hun bev&aelig;gede de smukke Lemmer, Delphiner sprang ved hendes Fod, Ud&oslash;delighed lyste ud af hendes &Oslash;ie. Verden kalder hende den medic&aelig;iske Venus. Paa hver Side af hende prangede <hi rend="italics">Marmorbilleder, hos hvilke Aandens Liv havde gjennemtr&aelig;ngt Stenen; det vare n&oslash;gne</hi>, deilige M&aelig;nd; den ene hv&aelig;ssede Sv&aelig;rdet, Sliberen kaldes han; de <hi rend="CharEx">brydende Gladiatorer</hi> udgjorde den anden Gruppe; Sv&aelig;rdet hv&aelig;ssedes, Kj&aelig;mperne br&oslash;des for Skj&oslash;nheds Gudinden. -->
-<!-- Drengen var som bl&aelig;ndet af al den Glands; V&aelig;ggene straalede i Farver, og alt var Liv og Bev&aelig;gelse der. Fordoblet viste sig Billedet af Venus, den jordiske Venus, saa svulmende og ildfuld, som <hi rend="CharEx">Titian</hi> havde <hi rend="italics">favnet hende ved sit Hjerte</hi>. <hi rend="italics">Det var s&aelig;lsomt at see.</hi> To deilige <hi rend="italics">Qvinder vare de; deres</hi> skj&oslash;nne ubesl&oslash;rede Lemmer strakte <hi rend="italics">de</hi> paa de bl&oslash;de Hynder, <hi rend="italics">deres Bryst</hi> h&aelig;vede sig og Hovedet bev&aelig;gede sig, saa at de rige Lokker faldt ned om de runde Skuldre, mens de m&oslash;rke &Oslash;ine udtalte <hi rend="italics">Blodets</hi> gl&oslash;dende Tanker; men ingen af alle Billederne vovede dog at tr&aelig;de heelt ud af Rammen. Skj&oslash;nheds Gudinden selv, Gladiatorerne og Sliberen bleve paa deres Plads, thi Glorien, som straalede fra Madonna, <hi rend="italics">Jesu</hi> og Johannes, bandt dem. De hellige Billeder vare ikke Billeder l&aelig;nger, de vare de Hellige selv. -->
-<!-- Hvilken Glands og hvilken Skj&oslash;nhed fra Sal til Sal! og den Lille saae dem Alle; Metalsvinet gik jo Skridt for Skridt gjennem al den Pragt og Herlighed. Det ene -->
-<!-- 39 ingen] intet <hi rend="bold">C</hi>. 41 Jesu] Jesus <hi rend="bold">O<hi rend="sup">2</hi>C</hi>. 43 dem Alle] Alt <hi rend="bold">C</hi>. -->
               <pb n="17" xml:id="s17" facs="adl/andersenhc/andersenhcev4/ahce4017"/>
               <p xml:id="idm139893301195792">gjennem al den Pragt og Herlighed. Det ene Skue fortrængte
 								det andet, kun eet Billede fæstede sig ret i Tanken, og
@@ -894,12 +981,6 @@
 								»jeg har hjulpet Dig og Du har hjulpet mig, thi kun med et
 								uskyldigt Barn paa min Ryg faaer jeg Kræfter til at
 								løbe! ja seer Du, jeg tør</p>
-<!-- Skue fortr&aelig;ngte det andet, kun eet Billede f&aelig;stede sig ret i Tanken, og meest ved de glade, lykkelige B&oslash;rn, som vare der paa, den Lille havde engang i Daglys nikket til dem. -->
-<!-- Mange vandre vist dette Billede let forbi; og dog omslutter det en Skat af Poesi, det er <hi rend="CharEx">Christus</hi>, som stiger ned i Underverdenen, men det er ei de Piinte man seer om ham, nei, det er Hedningerne; Florentineren <hi rend="CharEx">Angiolo Bronzino</hi> har malet dette <hi rend="italics">Billed</hi>; meest herligt er Udtrykket af B&oslash;rnenes Vished om, at de skulle i Himlen; to Smaa omfavne allerede hinanden, <hi rend="italics">en</hi> Lille r&aelig;kker Haanden til en anden nedenfor og peger paa sig selv, som om han sagde: &raquo;Jeg skal i Himlen!&laquo; alle &AElig;ldre staae uvisse, haabende, eller b&oslash;ie sig ydmygt bedende for den Herre Jesus. -->
-<!-- Paa dette <hi rend="italics">Billed</hi> saae Drengen l&aelig;nger end paa noget andet; Metalsvinet hvilte stille foran det; et sagte Suk blev h&oslash;rt; kom det fra Billedet eller fra Dyrets Bryst? Drengen l&oslash;ftede Haanden ud mod de smilende B&oslash;rn; &mdash; da jog Dyret afsted med ham, afsted gjennem den aabne Forsal. -->
-<!-- &raquo;Tak og Velsignelse, du deilige Dyr!&laquo; sagde den lille Dreng og klappede Metalsvinet, der bums, bums l sprang ned <hi rend="italics">af</hi> Trappen med ham. -->
-<!-- &raquo;Tak og Velsignelse selv!&laquo; sagde Metalsvinet, &raquo;jeg har hjulpet Dig og Du har hjulpet mig, thi kun med et uskyldigt Barn paa min Ryg faaer jeg Kr&aelig;fter til at l&oslash;be! ja seer du, jeg t&oslash;r endogsaa gaae ind under Straalen af Lampen foran -->
-<!-- 31 Angiolo] Angelo <hi rend="bold">C</hi>. 32, 37 Billed] Billede <hi rend="bold">C</hi>. 42 af] ad <hi rend="bold">O<hi rend="sup">2</hi>C</hi>. -->
               <pb n="18" xml:id="s18" facs="adl/andersenhc/andersenhcev4/ahce4018"/>
               <p xml:id="idm139893301185120">endogsaa gaae ind under Straalen af Lampen foran Madonnabilledet. Jeg
 								kan bære Dig hen overalt, kun ikke ind i Kirken! men
@@ -936,11 +1017,6 @@
 								Lyre og Masker; <hi rend="italics" xml:id="idm139893301167584">Italien</hi> græder
 								over hans Kiste. <hi rend="italics" xml:id="idm139893301166816">Machiavelli</hi> slutter her
 								Rækken af disse berømte Store.</note>
-<!-- Madonnabilledet. Jeg kan b&aelig;re Dig hen overalt, kun ikke ind i Kirken! men udenfor den, naar du er hos mig, kan jeg see ind <hi rend="italics">af</hi> den aabne D&oslash;r! stig ikke ned af min Ryg, gj&oslash;r du det, da ligger jeg d&oslash;d, som du seer mig om Dagen v&aelig;re det <hi rend="italics">i</hi> <hi rend="CharEx">porta rossa</hi>!&laquo; -->
-<!-- &raquo;Jeg bliver hos dig, mit velsignede Dyr I&laquo; sagde den Lille og saa gik det i susende Flugt gjennem <hi rend="CharEx">Florents</hi>&apos;s Gader, ud til Pladsen foran Kirken <hi rend="CharEx">Santa Croce</hi>! -->
-<!-- Den store Fl&oslash;id&oslash;r sprang op, Lysene straalede fra <hi rend="italics">Altret</hi>, gjennem Kirken, ud paa den eensomme Plads. -->
-<!-- En s&aelig;lsom Lysglands str&oslash;mmede ud fra et Grav-Monument i den venstre Sidegang, tusinde bev&aelig;gelige Stjerner <hi rend="italics">danne</hi> ligesom en Glorie om det. Et Vaabenm&aelig;rke prangede paa Graven, en r&oslash;d Stige i blaa Grund, den syntes at gl&oslash;de som Ild. Det var Galil&aelig;i&apos;s Grav, det er et simpelt Monument, men den r&oslash;de Stige i den blaa Grund er et betydningsfuldt Vaabenm&aelig;rke, det er som det var Kunstens eget, thi her gaaer altid Veien opad paa en gloende Stige, men til Himlen. Alle Aandens Propheter gaae til Himlen som Propheten Elias. -->
-<!-- 32, 33 af] ad <hi rend="bold">C</hi>. 37 Altret] Alteret <hi rend="bold">C</hi>. -->
               <pb n="19" xml:id="s19" facs="adl/andersenhc/andersenhcev4/ahce4019"/>
               <p xml:id="idm139893301161680">Det er en prægtig Kirke, langt skjønnere, om
 								ikke saa stor, som Florents's Marmor-Domkirke.</p>
@@ -962,13 +1038,6 @@
               <p xml:id="idm139893301157728">Frygt og Angest opfyldte Drengen ved Tanken om hende, han kaldte
 								Moder, hun, som havde igaar sendt ham ud og sagt, at han skulde
 								skaffe Penge, ingen havde han; sulten og tørstig</p>
-<!-- I Kirkens Gang til H&oslash;ire syntes hver Billedst&oslash;tte paa de rige Sarcophager at have faaet Liv. Her stod <hi rend="CharEx">Michel Angelo</hi>, der <hi rend="CharEx">Dante</hi> med Laurb&aelig;rkrands om Panden; <hi rend="CharEx">Alfieri</hi>, <hi rend="CharEx">Machiavelli</hi>, Side ved Side hvile her disse Storm&aelig;nd, Italiens Stolthed<hi rend="sup">*</hi>). Det er en pr&aelig;gtig Kirke, langt skj&oslash;nnere, om ikke saa stor, som Florents&apos;s Marmor-Domkirke. -->
-<!-- Det var som om Marmorkl&aelig;derne r&oslash;rte sig, som om de store Skikkelser end mere h&aelig;vede deres Hoved og skuede i Natten, under Sang og Toner, op mod det brogede, straalende <hi rend="italics">Altar</hi>, hvor hvidkl&aelig;dte Drenge svingede gyldne R&oslash;gelsekar; den st&aelig;rke Duft str&oslash;mmede fra Kirken ud paa den aabne Plads. -->
-<!-- Drengen strakte sin Haand ud mod Lys-Glandsen, og i samme Nu foer Metalsvinet afsted; han maatte knuge sig fast til det, Vinden susede om hans &Oslash;ren, han h&oslash;rte Kirkeporten knage paa H&aelig;ngslerne i det den lukkedes, men idetsamme syntes Bevidstheden at forlade ham, han f&oslash;lte en iisnende Kulde &mdash; og slog &Oslash;inene op. -->
-<!-- Det var Morgen, han sad, halv <hi rend="italics">gledet</hi> ned af Metalsvinet, der stod, hvor det altid pleiede at staae i Gaden <hi rend="CharEx">porta rossa</hi>. -->
-<!-- Frygt og Angest opfyldte Drengen ved Tanken om hende han kaldte Moder, hun som havde igaar sendt ham ud og sagt, at han skulde skaffe Penge, ingen havde han; sulten og t&oslash;rstig var han! endnu engang tog han Metalsvinet om -->
-<!-- <hi rend="sup">*</hi>) Ligeoverfor Galil&aelig;i&apos;s Grav findes Michel Angelos, paa Monumentet er anbragt hans Buste og desuden tre Figurer: Skulpturen, Malerkunsten og Architecturen; t&aelig;t ved er Dantes Grav (Liget selv findes i Ravenna); paa Monumentet sees <hi rend="CharEx">Italien</hi>, hun peger paa Dantes colossale Statue, <hi rend="CharEx">Poesien</hi> gr&aelig;der for den Tabte. Et Par Skridt herfra er Alfieris Gravmonument, der er prydet med Laurb&aelig;r, Lyre og Masker; Italien gr&aelig;der over hans Kiste. <hi rend="CharEx">Machiavelli</hi> slutter her R&aelig;kken af disse ber&oslash;mte Store. -->
-<!-- 21 Machiavelli] Macchiavelli <hi rend="bold">C</hi>. 26 Altar] Alter <hi rend="bold">C</hi>. 39 Figurer:] <hi rend="italics">kolon mgl.</hi> <hi rend="bold">O</hi>, <hi rend="italics">tilsat</hi> <hi rend="bold">O<hi rend="sup">2</hi></hi>. 43 Machiavelli] Macchiavelli <hi rend="bold">C</hi>. -->
               <pb n="20" xml:id="s20" facs="adl/andersenhc/andersenhcev4/ahce4020"/>
               <p xml:id="idm139893301151120">var han; endnu engang tog han Metalsvinet om Halsen, kyssede det paa
 								Trynen, nikkede til det og vandrede saa afsted, til en af de
@@ -998,10 +1067,6 @@
 								jamrede høit; - »vil Du tie, eller
 								jeg slaaer dit skraalende Hoved itu!« sagde hun og svang
 								Ildpotten, som hun holdt i Haanden,</p>
-<!-- Halsen, kyssede det paa Trynen, nikkede til det, <hi rend="italics">vandrede</hi> saa afsted, til en af de snevreste Gader, kun bred nok for et velpakket &AElig;sel. En stor jernbeslaaet D&oslash;r stod halv paa Klem, her gik han op <hi rend="italics">af</hi> en muret Trappe med skidne Mure og en glat Snor til <hi rend="italics">Gelender</hi>, og kom til et aabent Gallerie, beh&aelig;ngt med Pjalter; en Trappe f&oslash;rte herfra til Gaarden, hvor fra Br&oslash;nden store Jerntraade vare trukne til alle Husets Etager, og den ene Vandspand sv&aelig;vede ved Siden af den anden, mens Tridsen peb og Spanden dandsede i Luften, saa Vandet klaskede ned i Gaarden. Atter gik det opad en forfalden, muret Trappe; &mdash; to Matroser, det var Russere, sprang lystigt ned og havde n&aelig;r st&oslash;dt den stakkels Dreng omkuld. De kom fra deres natlige <hi rend="italics">Bacchanal</hi>. En ikke ung, men <hi rend="italics">yppig</hi> Qvindeskikkelse, med et kraftigt sort Haar, fulgte. &raquo;Hvad har du hjem?&laquo; sagde hun til Drengen. -->
-<!-- &raquo;V&aelig;r ikke vred!&laquo; bad han, &raquo;jeg fik intet, slet intet!&laquo; &mdash; og han greb i Moderens Kjole, som om han vilde kysse paa den; de traadte ind i <hi rend="italics">Kammeret</hi>: det ville vi ikke beskrive! Kun Saameget skal siges, at der stod en Hankekrukke med Kul-Ild, marito, som den kaldes, denne tog hun paa sin Arm, varmede Fingrene, og puffede Drengen med Albuen! &raquo;Jo vist har du Penge!&laquo; sagde hun! - -->
-<!-- Barnet gr&aelig;d, hun st&oslash;dte til ham med Foden; han jamrede h&oslash;it! &mdash; &raquo;Vil du tie, eller jeg slaaer dit skraalende Hoved itu!&laquo; <hi rend="italics">og hun</hi> svang Ildpotten, som hun holdt i Haanden, Drengen dukkede ned til Jorden med et Skrig. Da traadte -->
-<!-- 28 af] ad <hi rend="bold">C</hi>. 38 Kammeret] Kamret <hi rend="bold">O<hi rend="sup">2</hi>C</hi>. -->
               <pb n="21" xml:id="s21" facs="adl/andersenhc/andersenhcev4/ahce4021"/>
               <p xml:id="idm139893301141632">Drengen dukkede ned til Jorden med et Skrig. Da traadte Nabokonen ind
 								ad Døren, ogsaa hun havde sin <hi rend="italics" xml:id="idm139893301141136">marito</hi> paa Armen. »<hi rend="italics" xml:id="idm139893301140400">Felicita</hi>!
@@ -1032,11 +1097,6 @@
 								Spørgsmaal, den Gamle gjorde ham; de bleve besvarede, og
 								den gamle Mand tog ham med sig til et lille Huus tæt ved i
 								en af Sidegaderne; det var</p>
-<!-- Nabokonen ind <hi rend="italics">af</hi> D&oslash;ren, ogsaa hun havde sin marito paa Armen. &raquo;<hi rend="CharEx">Felicita</hi>! Hvad gj&oslash;r du ved Barnet!&laquo; -->
-<!-- &raquo;Barnet er mit!&laquo; svarede Felicita. &raquo;Jeg kan myrde det om jeg vil, og dig med Gianina,&laquo; og hun svingede sin Ildpotte; den anden h&aelig;vede sin parerende i Veiret, og begge Potterne foer imod hinanden, saa Skaarene, Ilden og Asken fl&oslash;i omkring i V&aelig;relset; &mdash; men Drengen var i samme Nu ude af D&oslash;ren, over Gaarden og ude af Huset. Det arme Barn l&oslash;b, saa han tilsidst ei kunde drage Aande; han standsede ved Kirken St. Croce, Kirken, hvis store D&oslash;r sidste Nat havde aabnet sig for ham, og han gik derind. Alt straalede; han kn&aelig;lede ved den f&oslash;rste Grav til H&oslash;ire, det var <hi rend="CharEx">Michel Angelos</hi>, og snart hulkede han h&oslash;it. &mdash; Folk kom og gik, Messen blev l&aelig;st, Ingen <hi rend="italics">tog Notice af</hi> Drengen; kun en gammelagtig Borger standsede, saae paa ham &mdash; og gik saa bort ligesom de Andre. -->
-<!-- Sult og T&oslash;rst plagede den Lille, han var ganske afm&aelig;gtig og syg; han kr&oslash;b hen i Krogen mellem V&aelig;ggen og Marmormonumentet og faldt i S&oslash;vn. Det var henimod Aften, da han vaagnede igjen ved at En ruskede i ham, han foer op og den samme gamle Borger stod foran ham. -->
-<!-- &raquo;Er du syg? Hvor h&oslash;rer du hjemme! Har du v&aelig;ret her den hele Dag!&laquo; var et Par af de mange Sp&oslash;rgsmaal den Gamle gjorde ham, de bleve besvarede og den gamle Mand tog ham med sig til et lille Huus t&aelig;t ved i en af Sidegaderne; det var -->
-<!-- 26 af] ad <hi rend="bold">C</hi>. 30 foer] fore <hi rend="bold">C</hi>. 31 af] ad <hi rend="bold">C</hi>. -->
               <pb n="22" xml:id="s22" facs="adl/andersenhc/andersenhcev4/ahce4022"/>
               <p xml:id="idm139893301120288">et Handskemagerværksted, de traadte ind i, Konen sad nok
 								saa flittig og syede, da de kom; en lille, hvid Bologneser, klippet
@@ -1067,11 +1127,6 @@
 								Hund; Konen truede med Fingrene, skjændte og var vred, og
 								det gik Drengen til Hjerte; tankefuld sad han i sit lille Kammer,
 								det vendte ud</p>
-<!-- et Handskemagerv&aelig;rksted, de traadte ind i; Konen sad nok saa flittig og syede, da de kom! En lille hvid Bologneser, klippet saa t&aelig;t, at man kunde see den rosenr&oslash;de Hud, hoppede paa Bordet, og sprang for den lille Dreng. &mdash; -->
-<!-- &raquo;De uskyldige Sj&aelig;le kjende hinanden,&laquo; sagde Konen og klappede Hunden og Drengen. Denne fik at spise og at drikke hos de gode Folk, og de sagde, han skulde have Lov til at blive der Natten over; n&aelig;ste Dag vilde Fader <hi rend="CharEx">Giuseppe</hi> tale med hans Moder. Han fik en lille fattig Seng; men den var kongelig pr&aelig;gtig for ham, der tidt maatte sove paa det haarde Steengulv, han sov saa godt og dr&oslash;mte om de rige Billeder og om Metalsvinet. -->
-<!-- Fader <hi rend="CharEx">Giuseppe</hi> gik ud n&aelig;ste Morgen, og det arme Barn var ikke saa glad derved, thi han vidste, at denne Gaaen ud var for at bringe ham til hans Moder, og han gr&aelig;d og kyssede den lille vevre Hund, og Konen nikkede til dem begge to. &mdash; -->
-<!-- Og hvad Besked bragte Fader <hi rend="CharEx">Giuseppe</hi>; han talte meget med sin Kone, og hun nikkede og klappede Drengen. &raquo;Det er et deiligt Barn!&laquo; sagde hun. &raquo;Hvor han kan blive en kj&oslash;n Handskemager, ligesom du var! og Fingre har han, saa fine og b&oslash;ielige. Madonna har bestemt ham til at v&aelig;re Handskemager!&laquo; -->
-<!-- Og Drengen blev der i Huset, og Konen l&aelig;rte ham selv at sye; han spiste godt, han sov godt, han blev munter og han begyndte at drille <hi rend="CharEx">Bellissima</hi>, det hed den lille Hund; Konen truede med Fingrene <hi rend="italics">og</hi> skj&aelig;ndte og var vred! &mdash; og det gik Drengen til <hi rend="italics">Hjertet</hi>, tankefuld sad han i sit lille Kammer; det vendte ud til -->
               <pb n="23" xml:id="s23" facs="adl/andersenhc/andersenhcev4/ahce4023"/>
               <p xml:id="idm139893301107968">til Gaden, der blev tørret Skind derinde; tykke
 								Jernstænger vare for Vinduerne, han kunde ikke sove,
@@ -1101,13 +1156,6 @@
 								Øiet maalte det store Billede, og uagtet det kun var en
 								tynd Streg, der kom, stod Christus dog svævende, som paa
 								det farvede Billede.</p>
-<!-- Gaden, der blev t&oslash;rret Skind derinde; tykke Jernst&aelig;nger vare for Vinduerne, han kunde ikke sove, Metalsvinet var i hans Tanke, og pludselig h&oslash;rte han uden for: Kladsk, kladsk! jo, det var bestemt det! han sprang hen til Vinduet, men der var Intet at see, det var alt forbi. -->
-<!-- &raquo;Hjelp Signore at b&aelig;re hans Farvekasse!&laquo; sagde Madamen om Morgenen til Drengen, idet den unge Nabo, Maleren, kom selv sl&aelig;bende med denne og et stort sammenrullet L&aelig;rred; <hi rend="italics">og</hi> Barnet tog Kassen, fulgte efter Maleren, og de toge Vei til Galleriet, gik op <hi rend="italics">af</hi> den samme Trappe, han kjendte godt fra hiin Nat han red paa Metalsvinet; han kjendte Statuer og Billeder, den deilige Marmor Venus, og de som levede i Farver; han gjensaae Guds Moder, Jesus og Johannes. -->
-<!-- Nu stode de stille foran Maleriet af <hi rend="CharEx">Bronzino</hi>, hvor Christus stiger ned i Underverdenen og B&oslash;rnene rundt om smile i s&oslash;d Forvisning om Himlen, det fattige Barn smilte ogsaa, thi han var her i sin Himmel! &mdash; -->
-<!-- &raquo;Ja gaae nu hjem!&laquo; sagde Maleren til ham, da han allerede havde staaet saa l&aelig;nge, at denne havde reist sit Staffelie! &mdash; -->
-<!-- &raquo;T&oslash;r jeg see Eder male?&laquo; sagde Drengen, &raquo;t&oslash;r jeg see, <hi rend="italics">hvor</hi> I faaer Billedet herover paa det hvide Stykke!&laquo; &mdash; -->
-<!-- &raquo;Nu maler jeg ikke!&laquo; svarede Manden, og tog sit Sortkridt frem, hurtigt bev&aelig;gede Haanden sig, &Oslash;iet maalte det store Billede, og uagtet det kun var en tynd Streg der kom, stod Christus dog sv&aelig;vende, som paa det farvede Billede. -->
-<!-- 33 af] ad <hi rend="bold">O<hi rend="sup">2</hi>C</hi>. 41 &raquo;t&oslash;r]&laquo; <hi rend="italics">mgl.</hi> <hi rend="bold">O</hi>. -->
               <pb n="24" xml:id="s24" facs="adl/andersenhc/andersenhcev4/ahce4024"/>
               <p xml:id="idm139893301097168">»Men saa gaa dog!« sagde Maleren, og Drengen
 								vandrede stille hjemad, satte sig op paa Bordet og -
@@ -1135,10 +1183,6 @@
 								den iførtes et lille Faareskind, der var klippet og syet
 								til den. Skindet kunde bindes med et rødt Baand fast om
 								Halsen, der var Sløife og Bjælde</p>
-<!-- &raquo;Men saa gaae dog!&laquo; sagde Maleren, og Drengen vandrede stille hjemad &mdash; satte sig op paa Bordet og &mdash; l&aelig;rte at sye Handsker. -->
-<!-- Men den hele Dag vare Tankerne i Billedsalen, og derfor stak han sig i Fingrene, bar sig keitet ad, men drillede heller ikke Bellissima! Da det blev Aften og Gaded&oslash;ren just stod aaben, listede han sig udenfor; det var koldt men stjernelyst, saa smukt og klart, <hi rend="italics">og</hi> han vandrede afsted gjennem Gaderne, hvor der allerede var stille, og snart stod han foran Metalsvinet, <hi rend="italics">som</hi> han b&oslash;iede sig ned <hi rend="italics">over</hi>, kyssede dets blanke Tryne, <hi rend="italics">satte</hi> sig paa dets Ryg &mdash; &raquo;du velsignede Dyr, sagde han, &raquo;hvor jeg har l&aelig;ngtes efter dig! vi maae i Nat ride en Tour!&laquo; -->
-<!-- Metalsvinet laae ubev&aelig;geligt og det friske V&aelig;ld sprudlede fra Munden. Den Lille sad som Rytter, da trak Nogen ham i Kl&aelig;derne; han saae til Siden, <hi rend="CharEx">Bellissima</hi>, den lille n&oslash;gen klippede <hi rend="CharEx">Bellissima</hi> var det. &mdash; Hunden var smuttet med ud af Huset og havde fulgt den Lille, uden at denne m&aelig;rkede det. <hi rend="CharEx">Bellissima</hi> bjeffede, som om den vilde sige, seer du jeg er med, hvorfor s&aelig;tter du dig her? &mdash; Ingen gloende Drage kunde have forf&aelig;rdet Drengen mere, end den lille Hund paa dette Sted. <hi rend="CharEx">Bellissima</hi> paa Gaden og det uden at v&aelig;re kl&aelig;dt paa, som den gamle Moder kaldte det! hvad vilde der blive af. Hunden kom aldrig ud ved Vintertid uden at den if&oslash;rtes et lille Faare-Skind, der var klippet og syet til den. Skindet kunde bindes med et r&oslash;dt Baand fast om Halsen, der var Sl&oslash;ife -->
-<!-- 30 koldt men] <hi rend="italics">abnorm ordafstand, komma bortfaldet</hi> <hi rend="bold">O</hi>. -->
               <pb n="25" xml:id="s25" facs="adl/andersenhc/andersenhcev4/ahce4025"/>
               <p xml:id="idm139893301086512">ved, og ligeledes bandtes det under Bugen. Hunden saae
 								næsten ud som et lille Kid, naar den ved Vintertid i denne
@@ -1168,14 +1212,6 @@
 								saa ihjel!«</p>
               <p xml:id="idm139893301076096">Der blev en Forskrækkelse, især hos Madamen, for
 								den arme</p>
-<!-- og Bjelde ved, <hi rend="italics">og</hi> ligeledes bandtes det under Bugen. Hunden saae n&aelig;sten ud, som et lille Kid, naar den ved Vintertid i denne Habit fik Lov at trippe ud med Signora. <hi rend="CharEx">Bellissima</hi> var med og ikke kl&aelig;dt paa; hvad vilde der blive af. Alle Phantasier vare forsvundne, dog kyssede Drengen Metalsvinet, tog <hi rend="CharEx">Bellissima</hi> paa Armen, Dyret rystede at Kulde og derfor l&oslash;b drengen, alt hvad han kunde. -->
-<!-- &raquo;Hvad l&oslash;ber du der med!&laquo; raabte to <hi rend="italics">Gendarmer</hi>, han m&oslash;dte, og <hi rend="CharEx">Bellissima</hi> gj&oslash;ede. &raquo;Hvor har du stjaalet den smukke Hund?&laquo; spurgte de og <hi rend="italics">tog</hi> den fra ham. -->
-<!-- &raquo;O giv mig den igjen!&laquo; jamrede Drengen. -->
-<!-- &raquo;Har du ikke stjaalet den, da kan du sige hjemme, at Hunden kan hentes paa Vagten!&laquo; og de n&aelig;vnte Stedet og gik med <hi rend="CharEx">Bellissima</hi>. -->
-<!-- Det var en N&oslash;d og Jammer. Han vidste ikke om han skulde springe i Arno, eller gaae hjem og tilstaae Alt! &mdash; de vilde vist slaae ham ihjel, t&aelig;nkte han. &mdash; &raquo;Men jeg vil gjerne slaaes ihjel! jeg vil d&oslash;e, saa kommer jeg til Jesus og Madonna!&laquo; og han gik hjem, meest for at blive slaaet ihjel. -->
-<!-- D&oslash;ren var lukket, han kunde ikke naae Hammeren, der var Ingen paa Gaden, men en Steen laae l&oslash;s og med den dundrede han paa; &raquo;hvem er det!&laquo; raabte de indenfor! &mdash; -->
-<!-- &raquo;Det er mig!&laquo; sagde han, &raquo;<hi rend="CharEx">Bellissima</hi> er borte! luk mig op og slaae mig saa ihjel!&laquo; -->
-<!-- Der blev en Forskr&aelig;kkelse, is&aelig;r hos Madamen, for den arme <hi rend="CharEx">Bellissima</hi>! -->
               <pb n="26" xml:id="s26" facs="adl/andersenhc/andersenhcev4/ahce4026"/>
               <p xml:id="idm139893301070256"><hi rend="italics" xml:id="idm139893301070128">Bellissima</hi>; hun saae strax til
 								Væggen, hvor Hundens Drapperi skulde hænge, det
@@ -1207,12 +1243,6 @@
 								tykt, et andet tyndt, men det var dog til at forstaae, selv jublede
 								han derover! Blyanten vilde kun ikke ret gaae saa lige, som den
 								skulde, mærkede han</p>
-<!-- &mdash; hun saae strax til V&aelig;ggen, hvor Hundens Drapperi skulde h&aelig;nge, det lille Faareskind hang der. -->
-<!-- &raquo;<hi rend="CharEx">Bellissima</hi> paa Vagten!&laquo; raabte hun ganske h&oslash;it! &raquo;Du onde Barn! Hvor har du faaet ham ud! Han fryser ihjel! Det fine Dyr hos de grove Soldater!&laquo; &mdash; -->
-<!-- Og Fatter maatte strax afsted! &mdash; <hi rend="italics">og</hi> Konen jamrede og Drengen gr&aelig;d! &mdash; Alle Folk i Huset kom sammen, Maleren med; han tog Drengen mellem sine Kn&aelig;, spurgte ham ud, og i Stumper og Stykker fik han den hele Historie, om Metalsvinet og om Galleriet &mdash; det var ikke godt at forstaae, Maleren tr&oslash;stede den Lille, talte godt for den Gamle, men hun blev ikke tilfreds f&oslash;r Fatter kom med <hi rend="CharEx">Bellissima</hi>, der havde v&aelig;ret mellem Soldater; der var en Gl&aelig;de, og Maleren klappede den stakkels Dreng, og gav ham en Haandfuld Billeder. -->
-<!-- O det var pr&aelig;gtige Stykker, comiske Hoveder! men fremfor Alt &mdash; <hi rend="italics">der</hi> var lyslevende Metalsvinet selv. O, intet kunde v&aelig;re herligere! ved et Par Streger stod det paa Papiret og selv Huset bag ved var antydet. -->
-<!-- &raquo;Hvo der dog kunde tegne og male! saa kunde man faae den hele Verden til sig!&laquo; -->
-<!-- N&aelig;ste Dag i det f&oslash;rste eensomme &Oslash;ieblik greb den Lille Blyanten, og paa den hvide Side af et af Billederne fors&oslash;gte han at gjengive Tegningen af Metalsvinet, og det lykkedes! &mdash; lidt skjevt, lidt op og ned, et Been tykt, et andet tyndt, men det var dog til at forstaae, selv jublede han derover! &mdash; Blyanten vilde kun ikke -->
               <pb n="27" xml:id="s27" facs="adl/andersenhc/andersenhcev4/ahce4027"/>
               <p xml:id="idm139893301058480">nok; men næste Dag stod der et Metalsviin ved Siden af det
 								andet, og det var hundrede Gange bedre; det tredie var saa godt, at
@@ -1241,11 +1271,6 @@
               <p xml:id="idm139893301052032">Maleren kom idetsamme op ad Trappen og - - her er
 								Vendepunktet i Historien.</p>
               <note anchored="true" xml:id="idm139893301051552">8 Trinità] Trinitá <hi rend="bold" xml:id="idm139893301050960">A</hi>.</note>
-<!-- ret gaae saa lige, som den skulde, m&aelig;rkede han nok; men n&aelig;ste Dag stod der et Metalsvin ved Siden af det andet, og det var hundrede Gange bedre; det tredie var saa godt, at Enhver kunde kjende det. -->
-<!-- Men det gik daarligt med Handskesyningen, det gik langsomt med By-&AElig;rinderne; thi Metalsvinet havde nu l&aelig;rt ham, at alle Billeder maatte kunne overf&oslash;res paa Papiret, og Staden <hi rend="CharEx">Florents</hi> er en heel Billedbog, naar man vil blade op i den. Der staaer paa <hi rend="CharEx">piazza della Trinit&aacute;</hi> en slank S&oslash;ile og &oslash;verst paa denne staaer <hi rend="italics">Retf&aelig;rdigheds Gudinden</hi> med tilbundne &Oslash;ine og V&aelig;gtskaal! snart stod hun paa Papiret, og det var Handskemagerens lille Dreng, som havde sat hende der. Billed-Samlingen voxte, men Alt i den var endnu d&oslash;de Ting; da hoppede en Dag <hi rend="CharEx">Bellissima</hi> foran ham! &raquo;staa stille!&laquo; sagde han, &raquo;saa skal du blive deilig, og komme med i mine Billeder!&laquo; men <hi rend="CharEx">Bellissima</hi> vilde ikke staae stille, saa maatte han bindes; Hoved og Hale blev bunden, den bjeffede og gjorde Spring, Snoren maatte strammes; da kom Signora! -->
-<!-- &raquo;<hi rend="italics">Din</hi> ugudelige Dreng! det arme Dyr!&laquo; var alt, hvad hun fik sagt og hun st&oslash;dte Drengen til Side, sparkede ham med sin Fod, viste ham ud af sit Huus; <hi rend="italics">ham</hi>, der var det utaknemmeligste Skarn, det ugudeligste Barn! og gr&aelig;dende kyssede hun sin lille halvqvalte <hi rend="CharEx">Bellissima</hi>! -->
-<!-- Maleren kom idetsamme op af Trappen og &mdash; her er Vendepunktet i Historien! -->
-<!-- 33 Retf&aelig;rdigheds Gudinden] Retf&aelig;rdighedens Gudinde <hi rend="bold">C</hi>. 40 Din] Du <hi rend="bold">C</hi>. -->
               <pb n="28" xml:id="s28" facs="adl/andersenhc/andersenhcev4/ahce4028"/>
               <p xml:id="idm139893301045648">1834 var i <hi rend="italics" xml:id="idm139893301045360">Academia delle arte</hi> en Udstilling
 								i Florents; to Malerier opstillede ved Siden af hinanden samlede en
@@ -1273,18 +1298,12 @@
               <note anchored="true" xml:id="idm139893301039184"><hi rend="sup" xml:id="idm139893301038784">*</hi>) Metalsvinet er en Afstøbning;
 								Originalen er antik og af Marmor, den har Plads ved Indgangen til
 								Galleriet i <hi rend="italics" xml:id="idm139893301037888">palazzo degli uffizi</hi>.</note>
-<!-- 1834 var i <hi rend="CharEx">Academia delle arte</hi> en Udstilling i <hi rend="CharEx">Florents</hi>; to Malerier opstillede ved Siden af hinanden samlede en M&aelig;ngde Tilskuere. Paa det mindste Maleri var fremstillet en lille lystig Dreng, der sad og tegnede; til Model havde han en lille hvid, <hi rend="italics">s&aelig;rdeles</hi> klippet Mops, men Dyret vilde ikke staae stille og var derfor bundet med Seglgarn og det baade ved Hoved og ved Hale; der var et Liv og en Sandhed deri, som maatte tiltale enhver. Maleren var, fortalte man, en ung Florentiner, der skulde v&aelig;re <hi rend="italics">fundet</hi> paa Gaden som lille Barn, <hi rend="italics">opdraget</hi> af en gammel Handskemager, han havde selv l&aelig;rt sig til at tegne; en nu ber&oslash;mt Maler havde opdaget dette Talent, da Drengen engang skulde jages bort, fordi han havde bundet Madamens Yndling, den lille Mops, og gjort denne til Model! &mdash; -->
-<!-- Handskemagerdrengen var blevet en stor Maler! det viste dette <hi rend="italics">Billede</hi> det viste is&aelig;r det st&oslash;rre ved Siden; her var kun een eneste Figur, en pjaltet, deilig Dreng, der sad og sov paa Gaden, han h&aelig;ldede sig op til <hi rend="CharEx">Metalsvinet</hi> i Gaden <hi rend="CharEx">porta rossa</hi><hi rend="sup">*</hi>). Alle Beskuerne kjendte Stedet. Barnets Arme hvilede paa Svinets Hoved; den Lille sov saa trygt, Lampen ved Madonna Billedet kastede et st&aelig;rkt, <hi rend="italics">effectfuldt</hi> Lys paa Barnets blege herlige Ansigt. &mdash; Det var et pr&aelig;gtigt -->
-<!-- <hi rend="sup">*</hi>) Metalsvinet er en Afst&oslash;bning; Originalen er antik og af Marmor, den har Plads ved Indgangen til Galleriet i palazzo degli uffizi. -->
-<!-- 34 blevet] bleven <hi rend="bold">O<hi rend="sup">2</hi>C</hi>. -->
               <pb n="29" xml:id="s29" facs="adl/andersenhc/andersenhcev4/ahce4029"/>
               <p xml:id="idm139893301032976">det, og paa Hjørnet af Rammen var hængt en
 								Laurbærkrands, men mellem de grønne Blade
 								snoede sig et sort Baand, et langt Sørgeflor hang ned
 								derfra. -</p>
               <p xml:id="idm139893301032224">Den unge Konstner var i disse Dage - død!</p>
-<!-- Maleri; en stor forgyldt Ramme omgav det, og paa Hj&oslash;rnet af Rammen var h&aelig;ngt en Laurb&aelig;rkrands, men mellem de gr&oslash;nne Blade snoede sig et sort Baand, et langt S&oslash;rgeflor hang ned derfra. &mdash; -->
-<!-- Den unge Kunstner var i disse Dage &mdash; d&oslash;d! -->
             </div>
             <pb n="30" xml:id="s30" facs="adl/andersenhc/andersenhcev4/ahce4030"/>
             <div xml:id="workid60148" decls="#biblid60148">
@@ -1320,8 +1339,6 @@
               <note anchored="true" xml:id="idm139893301008192"><hi rend="italics" xml:id="idm139893301007792">Nedenfor aftrykkes</hi><hi rend="bold" xml:id="idm139893301007232">O</hi><hi rend="italics" xml:id="idm139893301006704">med læsemåder fra de deraf
 									afhængige</hi><hi rend="bold" xml:id="idm139893301006064">O<hi rend="sup" xml:id="idm139893301005536">2</hi>
 								</hi><hi rend="italics" xml:id="idm139893301004912"> og</hi><hi rend="bold" xml:id="idm139893301004384">C</hi><hi rend="italics" xml:id="idm139893301003856">. Kusiveringerne angiver afvigelser fra</hi><hi rend="bold" xml:id="idm139893301003280">A</hi>, <hi rend="italics" xml:id="idm139893301002624">jf. s. 8.</hi></note>
-<!-- <hi rend="italics">XV.</hi> Venskabs-Pagten.<lb/><hi rend="italics">(En Novelle.)</hi> -->
-<!-- Vi have nylig gjort en lille Reise og hige alt efter en st&oslash;rre? Hvorhen? Til Sparta! til Mycene, til Delphi! der ere hundrede Steder, ved hvis Navne Hjertet slaaer af Reise-Lyst. Det gaaer til Hest, op ad Bjergstier, hen over Krat og Buske; den enkelte Reisende kommer frem som en heel Caravane. Selv rider han -->
               <pb n="31" xml:id="s31" facs="adl/andersenhc/andersenhcev4/ahce4031"/>
               <p xml:id="idm139893300999760">rider han forud med sin Argojat, en Pakhest bærer Koffert,
 								Telt og Proviant, et Par Soldater følge efter til hans
@@ -1348,14 +1365,6 @@
 								riflede</p>
               <note anchored="true" xml:id="idm139893300993344"><hi rend="sup" xml:id="idm139893300992944">*</hi>) Den tillaves af Høns, Riis og
 								Carri.</note>
-<!-- forud med sin Argojat, en Pakhest b&aelig;rer Cuffert, Telt og Proviant, et Par <hi rend="italics">Gensdarmer</hi> f&oslash;lge efter til hans Beskyttelse; intet Vertshuus med velopredt Seng venter ham efter den tr&aelig;ttende Dag-Reise, Teltet er tidt hans Tag i den store vilde Natur, Argojaten koger der en Pilaf<hi rend="sup">*</hi>), til Aftensmad; tusinde Myg omsuse det lille Telt, det er en ynkelig Nat og imorgen gaaer Veien over st&aelig;rkt opsvulmede Floder; sid fast paa din Hest, at Du ikke skyller bort. -->
-<!-- Hvad L&oslash;n er der for disse Besv&aelig;rligheder? Den st&oslash;rste! den rigeste! Naturen aabenbarer sig her i al sin Storhed, hver Plet er historisk, &Oslash;ie og Tanke nyder. Digteren kan synge derom, Maleren give det i rige Billeder, men Virkelighedens Duft, der for evig tr&aelig;nger ind og forbliver i Beskuerens Tanke, m&aelig;gte de ikke at gjengive. -->
-<!-- <hi rend="italics">I mange smaa Skizzer har jeg s&oslash;gt at beskueliggj&oslash;re een lille Str&aelig;kning, Athen og dens Omgivning, og dog hvor farvel&oslash;st staaer dette givne Billede, hvor ringe antyder det Gr&aelig;kenland, denne s&oslash;rgende Skj&oslash;nheds Genius, hvis Storhed og Sorg den Fremmede aldrig glemmer.</hi> -->
-<!-- Den eensomme Hyrde oppe paa Fjeldet vilde, ved en simpel Fort&aelig;lling af een af sit Livs Begivenheder, maaskee bedre end <hi rend="italics">jeg med mine Billeder</hi> kunne oplukke &Oslash;iet for dig, som i nogle enkelte Tr&aelig;k vil skue Hellenernes Land. -->
-<!-- Lad ham da tale, <hi rend="italics">siger min Musa</hi>!<hi rend="italics"> vel</hi>, om en Skik, en smuk eiendommelig Skik, skal Hyrden hist paa Bjerget fort&aelig;lle os: <hi rend="CharEx">Venskabs-Pagten</hi>. -->
-<!-- &raquo;Vort Huus var klinet af Leer, men D&oslash;rkarmen var riflede Marmors&oslash;iler, -->
-<!-- <hi rend="sup">*</hi>) Den tillaves af H&oslash;ns, Riis og Carri. -->
-<!-- 23 Gensdarmer] Gendarmer <hi rend="bold">m</hi>. 43 Vort] <hi rend="italics">her begynder</hi> <hi rend="bold">C</hi>, <hi rend="italics">se ovf.</hi> -->
               <pb n="32" xml:id="s32" facs="adl/andersenhc/andersenhcev4/ahce4032"/>
               <p xml:id="idm139893300986336">Marmorsøiler, fundne, hvor Huset blev bygget; Taget naaede
 								næsten til Jorden, det var nu sortbruunt og
@@ -1386,8 +1395,6 @@
 								græder saa, græder røde,
 								grønne, ja blegblaae Taarer?««
 								»»Tyrken er</p>
-<!-- fundne hvor Huset blev bygget; Taget naaede n&aelig;sten til Jorden, det var nu <hi rend="italics">sortebruunt og</hi> h&aelig;sligt, men da det blev lagt var det blomstrende Oleander og friske Laurb&aelig;rgrene hentede bag Bjergene. Der var snevert om vort Huus, Klippev&aelig;ggene stode steile opad og viste en n&oslash;gen sort Farve; &oslash;verst paa dem hang ofte Skyer, som hvide, levende Skikkelser; aldrig h&oslash;rte jeg her en Sangfugl, aldrig dandsede M&aelig;ndene her til S&aelig;kkepibernes Toner, men Stedet var helligt fra gamle Tider, Navnet selv minder derom, <hi rend="CharEx">Delphi</hi> kaldes det jo! De m&oslash;rke alvorlige Bjerge laae alle med Snee, det &oslash;verste, som skinnede l&aelig;ngst i den r&oslash;de Aftensol var <hi rend="CharEx">Parnas</hi>, B&aelig;kken n&aelig;r ved vort Huus str&oslash;mmede ned derfra og var ogsaa engang hellig, nu plumrer <hi rend="italics">&AElig;selet det</hi> med sine F&oslash;dder, dog Str&oslash;mmen rinder fort og vorder atter klar. Hvor jeg mindes hver Plet og dens hellige dybe Eensomhed! Midt i Hytten blev Ilden t&aelig;ndt, og naar den hede Aske laae h&oslash;it og gl&oslash;dende blev Br&oslash;det bagt deri; laae Sneen ude rundt om vor Hytte, saa den n&aelig;sten var skjult, da syntes min Moder gladest, da holdt hun mit Hoved mellem sine H&aelig;nder, kyssede min Pande og sang de Viser, som hun ellers aldrig sang, thi Tyrkerne vore Herrer <hi rend="italics">led</hi> dem ikke; og hun sang: &raquo;Paa Olympens Top, i den lave Granskov, sad en gammel Hjort, dens &Oslash;ine vare tunge af Taarer; r&oslash;de, ja gr&oslash;nne og blegblaa Taarer gr&aelig;d den, og en Raabuk kom forbi! &raquo;&raquo;hvad feiler <hi rend="italics">du</hi> dog, at du gr&aelig;der saa, gr&aelig;der r&oslash;de, gr&oslash;nne, ja blegblaa Taarer.&laquo;&laquo; &raquo;&raquo;Tyrken er -->
-<!-- 35 det] den <hi rend="bold">O<hi rend="sup">2</hi>C</hi>. 38 saa] saa at <hi rend="bold">C</hi>. -->
               <pb n="33" xml:id="s33" facs="adl/andersenhc/andersenhcev4/ahce4033"/>
               <p xml:id="idm139893300980160">kommen i vor By, han har vilde Hunde til sin Jagt, en
 								mægtig Hob.««
@@ -1419,8 +1426,6 @@
 								Blodet. Den lille Pige skulde være min Søster,
 								hun var saa deilig, saa skinnende klar, min Moders Øine
 								vare ei</p>
-<!-- kommet i vor By, han har vilde Hunde til sin Jagt, en m&aelig;gtig Hob!&laquo;&laquo; &raquo;&raquo;Jeg jager dem over &Oslash;erne!&laquo;&laquo; sagde den unge Raabuk, &raquo;&raquo;jeg jager dem over &Oslash;erne i det dybe Hav!&laquo;&laquo; &mdash; men f&oslash;r Aftenen faldt paa var Raabukken dr&aelig;bt, og f&oslash;r Natten kom var Hjorten <hi rend="italics">jaget</hi> og d&oslash;d!&laquo; &mdash; Og naar min Moder saaledes sang, bleve hendes &Oslash;ine vaade, og der sad en Taare i de lange &Oslash;ienhaar, men hun skjulte den og vendte saa i Asken vore sorte Br&oslash;d. Da knyttede jeg min Haand og sagde, &raquo;vi ville slaae Tyrken ihjel!&laquo; men hun gjentog af Visen: &raquo;Jeg jager dem over &Oslash;erne i det dybe Hav! &mdash; men <hi rend="italics">f&oslash;r Aften</hi> faldt paa var Raabukken dr&aelig;bt, og f&oslash;r Natten kom var Hjorten <hi rend="italics">jaget</hi> og d&oslash;d!&laquo; I flere N&aelig;tter og Dage havde vi v&aelig;ret eensomme i vor Hytte, da kom min Fader; jeg vidste, han bragte mig Muslingskaller fra Lepanto-Bugten <hi rend="italics">eller saagar</hi> en Kniv skarp og blinkende. Han bragte os denne Gang et Barn, en lille n&oslash;gen Pige, som han holdt under sin Faareskindspels, hun var <hi rend="italics">indbundet i</hi> et Skind, og alt hvad hun havde, da hun laae l&oslash;snet derfra i min Moders Skj&oslash;d, var tre S&oslash;lvmynter bundne i hendes sorte Haar. Og Fader fortalte om Tyrkerne, der havde dr&aelig;bt Barnets For&aelig;ldre, han fortalte os saa meget, at jeg dr&oslash;mte derom den hele Nat; &mdash; min Fader selv var saaret, Moder forbandt hans Arm, Saaret var dybt; den tykke Faareskinds Pels var <hi rend="italics">stivfrosset</hi> med Blodet. Den lille Pige skulde v&aelig;re min S&oslash;ster, hun var saa deilig; saa skinnende klar! min Moders &Oslash;ine vare ei mildere end hendes! <hi rend="CharEx">Anastasia</hi>, som hun -->
-<!-- 32 Aften] Aftenen <hi rend="bold">O<hi rend="sup">2</hi></hi> <hi rend="italics">som lin. 27</hi>, Aften <hi rend="bold">C</hi>. 35 saagar] endog <hi rend="bold">O<hi rend="sup">2</hi>C</hi> 37 indbundet] indbunden <hi rend="bold">C</hi>. 41 stivfrosset] stivfrossen <hi rend="bold">C</hi>. -->
               <pb n="34" xml:id="s34" facs="adl/andersenhc/andersenhcev4/ahce4034"/>
               <p xml:id="idm139893300973840">mildere end hendes; <hi rend="italics" xml:id="idm139893300973552">Anastasia</hi>, <hi rend="italics" xml:id="idm139893300972864">som</hi> hun kaldtes, skulde være min
 								Søster, thi hendes Fader var viet til min Fader, viet
@@ -1450,11 +1455,6 @@
               <p xml:id="idm139893300965792">Da de reiste, fulgte jeg dem et Stykke paa Veien, og min lille
 								Søster <hi rend="italics" xml:id="idm139893300965360">Anastasia</hi> hang, indsyet i
 								et Gedeskind, paa min</p>
-<!-- kaldtes, skulde v&aelig;re min S&oslash;ster, thi hendes Fader var viet til min Fader, viet efter gammel Skik, som vi holde den endnu; de havde i Ungdoms Tid sluttet Broderskab, valgt den skj&oslash;nneste og dydigste Pige i den hele Egn til at vie dem til Venskabs-Pagten; jeg h&oslash;rte saa tidt om den smukke s&aelig;lsomme Skik. -->
-<!-- Nu var den Lille min S&oslash;ster; hun sad paa mit Skj&oslash;d, jeg bragde hende Blomster og Fjeldfuglens Fjer, vi drak sammen af Parnassets Vande, vi sov Hoved mod Hoved under Hyttens Laurb&aelig;rtag, <hi rend="italics">mens</hi> mangen Vinter endnu min Moder sang om de r&oslash;de, de gr&oslash;nne og de blegblaa Taarer! men jeg begreb endnu ikke, at det var mit eget Folk, hvis tusindfold Sorger afspeilede sig i disse Taarer. -->
-<!-- En Dag kom der tre frankiske M&aelig;nd, anderledes kl&aelig;dte end vi; de havde deres Senge og Telte paa Heste, og meer end tyve Tyrker, <hi rend="italics">alle</hi> med Sabler og Gev&aelig;rer, ledsagede dem, thi de vare Paschaens Venner og havde Brev fra ham. De kom kun for at see vore Bjerge, for i Snee og Skyer at bestige Parnas og betragte de s&aelig;lsomme sorte steile Klipper om vor Hytte; de kunde ikke rummes inde i den og de <hi rend="italics">led</hi> heller ikke R&oslash;gen, som gik hen under Loftet ud af den lave D&oslash;r; <hi rend="italics">og</hi> de sp&aelig;ndte deres Telte ud paa den snevre Plads ved vor Hytte <hi rend="italics">og</hi> stegte Lam og Fugle, <hi rend="italics">skj&aelig;nkede</hi> s&oslash;de st&aelig;rke Vine, men Tyrkerne turde ikke drikke deraf. -->
-<!-- Da de reiste, fulgte jeg dem et Stykke paa Veien, og min lille S&oslash;ster -->
-<!-- 41 led] lede <hi rend="bold">C</hi>. -->
               <pb n="35" xml:id="s35" facs="adl/andersenhc/andersenhcev4/ahce4035"/>
               <p xml:id="idm139893300960272">Ryg. Een af de frankiske Herrer stillede mig mod en Klippe og tegnede
 								mig og hende, saa levende som vi stode der, vi saae ud som een
@@ -1482,10 +1482,6 @@
 								Hytte, og jeg fik Løg og harpixet Viin, som de heldte af
 								den tjærede Sæk, bedre havde vi det ikke hjemme.</p>
               <p xml:id="idm139893300955008">Hvor længe vi vare fangne, det veed jeg ikke; men mange</p>
-<!-- <hi rend="CharEx"><!&mdash; Anastasia</hi> hang indsyet i et Gjedeskind paa min Ryg. <hi rend="italics">En</hi> af de frankiske Herrer stillede mig mod en Klippe og tegnede mig og hende, saa levende som vi stode der, vi saae ud som een eneste Skabning; &mdash; aldrig havde jeg t&aelig;nkt derover, men <hi rend="CharEx">Anastasia</hi> og jeg vare jo ogsaa, som een, altid laae hun paa mit Skj&oslash;d eller hang paa min Ryg, og dr&oslash;mte jeg, saa var hun i mine Dr&oslash;mme. -->
-<!-- To N&aelig;tter efter indtraf andre Folk i vor Hytte, de vare v&aelig;bnede med Knive og Gev&aelig;rer; de vare Albanesere, kjekke Folk, som min Moder sagde; de bleve der kun kort, min S&oslash;ster <hi rend="CharEx">Anastasia</hi> sad paa den enes Skj&oslash;d &mdash; da han var borte, havde hun to og ikke tre S&oslash;lvmynter i sit Haar; de lagde Tobak i Papirstrimler og <hi rend="italics">r&oslash;ge</hi> deraf, og den &aelig;ldste talte om Veien, de skulde tage, og var uvis om den; &raquo;spytter jeg opad&laquo;, sagde han, &raquo;saa falder det i mit Ansigt, spytter jeg nedad, saa falder det i mit Skj&aelig;g!&laquo; &mdash; Men en Vei maatte v&aelig;lges; de gik og min Fader fulgte; lidt efter h&oslash;rte vi Skud; det knaldede igjen; &mdash; der kom Soldater i vor Hytte, de toge min Moder, mig og <hi rend="CharEx">Anastasia</hi>; R&oslash;verne havde havt Tilhold hos os, sagde de, min Fader havde fulgt dem, derfor maatte vi bort; jeg saae R&oslash;vernes Liig, jeg saae min Faders Liig; og jeg gr&aelig;d til jeg sov. Da jeg vaagnede, vare vi i F&aelig;ngsel, men Stuen var ikke elendigere end den i vor egen Hytte, og jeg fik L&oslash;g og harpixet Viin, som de heldte af den tj&aelig;rede S&aelig;k, bedre havde vi det ikke hjemme. -->
-<!-- Hvor l&aelig;nge vi vare fangne, det veed jeg ikke; men mange N&aelig;tter og Dage gik. -->
-<!-- 34 r&oslash;ge] r&oslash;g <hi rend="bold">m</hi>. -->
               <pb n="36" xml:id="s36" facs="adl/andersenhc/andersenhcev4/ahce4036"/>
               <p xml:id="idm139893300950224">Nætter og Dage gik. Da vi vandrede ud, var det vor hellige
 								Paaskefest, og jeg bar <hi rend="italics" xml:id="idm139893300949776">Anastasia</hi> paa min
@@ -1514,10 +1510,6 @@
 								sad med min lille <hi rend="italics" xml:id="idm139893300943072">Anastasia</hi> i Baaden, der
 								gik paa Vandet, som en Sky gaaer i Luften; naar Solen da sank, bleve
 								Bjergene mere mørkblaae,</p>
-<!-- Da vi vandrede ud, var det vor hellige Paaskefest, og jeg bar <hi rend="CharEx">Anastasia</hi> paa min Ryg, thi min Moder var syg; kun langsomt kunde hun gaae, og der var langt f&oslash;r vi naaede ned mod Havet, det var Lepantos Bugt. Vi traadte ind i en Kirke, der straalede med Billeder paa gylden Grund; Engle var det, o saa smukke, men jeg syntes dog, at vor lille <hi rend="CharEx">Anastasia</hi> var ligesaa smuk; midt paa Gulvet stod en Kiste fyldt med Roser, det var den Herre Christus, der laae som deilige Blomster, sagde min Moder! og Pr&aelig;sten forkyndte: Christus er opstanden! alle Folk kyssede <hi rend="italics">hinanden</hi>, <hi rend="italics">huer</hi> holdt et t&aelig;ndt Lys i sin Haand, jeg <hi rend="italics">selv fik</hi> eet, den lille <hi rend="CharEx">Anastasia</hi> eet, S&aelig;kkepiberne klang, M&aelig;ndene dandsede Haand i Haand fra Kirken, og udenfor stegte Qvinderne Paaske-Lam; vi bleve indbudne; jeg sad ved Ilden; en Dreng, &aelig;ldre end jeg, tog mig om min Hals, kyssede mig og sagde: &raquo;Christus er opstanden!&laquo; saaledes m&oslash;dtes f&oslash;rste Gang vi to, <hi rend="CharEx">Aphtanides</hi> og jeg. -->
-<!-- Min Moder kunde flette Fiskern&aelig;t, det gav her ved Bugten en god Fortjeneste, og vi bleve i lang Tid ved Havet, &mdash; det deilige Hav, der smagte som Taarer og mindede ved sine Farver om Hjortens Graad, snart var det jo r&oslash;dt, snart gr&oslash;nt og atter igjen blaat. -->
-<!-- <hi rend="CharEx"><!&mdash; Aphtanides</hi> forstod at styre en Baad, og jeg sad med min lille <hi rend="CharEx">Anastasia</hi> i Baaden, der gik paa Vandet, som en Sky gaaer i Luften; naar Solen da sank, bleve Bjergene mere <hi rend="italics">m&oslash;rkeblaae</hi>, den ene Bjergr&aelig;kke tittede over den anden, og -->
-<!-- 36 Aphtanides] Aphthanides <hi rend="bold">m</hi> <hi rend="italics">stedvis</hi>. -->
               <pb n="37" xml:id="s37" facs="adl/andersenhc/andersenhcev4/ahce4037"/>
               <p xml:id="idm139893300937680">den ene Bjergrække tittede over den anden, og
 								længst borte stod <hi rend="italics" xml:id="idm139893300937264">Parnas</hi> med sin
@@ -1548,9 +1540,6 @@
 								tilbage. Hvor der var tyst og stille! vi gik over den
 								høie Timian, der dog duftede endnu, skjøndt
 								Solen havde hentørret</p>
-<!-- l&aelig;ngst borte stod Parnas med sin Snee, i Aftensolen skinnede Bjergtoppen som et gl&oslash;dende Jern, det saae ud, som om Lyset kom inden fra, thi den skinnede l&aelig;nge i den blaa, glindsende Luft, l&aelig;nge efter at Solen var nede; de hvide S&oslash;fugle <hi rend="italics">slog</hi> med deres Vinger i Vandspeilet, ellers var her saa stille, som ved Delphi mellem de sorte Fjelde; jeg laae paa min Ryg i Baaden, <hi rend="CharEx">Anastasia</hi> sad paa mit Bryst, og Stjernerne ovenover skinnede endnu st&aelig;rkere end Lamperne i vor Kirke; det var de samme Stjerner, og de stode ganske paa det samme Sted over mig som naar jeg sad ved Delphi, udenfor vor Hytte. Jeg syntes tilsidst at v&aelig;re der endnu! &mdash; da pladskede det i Vandet og Baaden vippede st&aelig;rkt; &mdash; jeg skreg h&oslash;it, thi <hi rend="CharEx">Anastasia</hi> var <hi rend="italics">faldet</hi> i Vandet, men <hi rend="CharEx">Aphtanides</hi> var ligesaa hurtig og snart l&oslash;ftede han hende op til mig! vi toge hendes Kl&aelig;der af, vred Vandet bort og kl&aelig;dte hende saa paa igjen, det samme gjorde <hi rend="CharEx">Aphtanides</hi> ved sig selv, og vi bleve derude til T&oslash;iet igjen var t&oslash;rt, og ingen vidste vor Skr&aelig;k for den lille Pleies&oslash;ster, hvis Liv <hi rend="CharEx">Aphtanides</hi> jo nu havde Deel i. &mdash; -->
-<!-- Det blev Sommer! Solen br&aelig;ndte saa hedt, at L&oslash;vtr&aelig;erne visnede, jeg t&aelig;nkte paa vore <hi rend="italics">kj&oslash;le</hi> Bjerge, paa det friske Vand derinde; min Moder l&aelig;ngtes ogsaa, og en Aften vandrede vi igjen tilbage. Hvor der var tyst og stille! vi gik over den h&oslash;ie Timian, der dog duftede endnu, skj&oslash;ndt Solen havde hent&oslash;rret dens Blade; -->
-<!-- 26 den] det <hi rend="bold">m</hi>, den <hi rend="bold">OO<hi rend="sup">2</hi></hi>, det <hi rend="bold">C</hi>. 28 slog] sloge <hi rend="bold">C</hi>. 32 mig som] <hi rend="italics">abnorm ord- afstand</hi> <hi rend="bold">O</hi>, <hi rend="italics">komma tilsat</hi> <hi rend="bold">C</hi>. 33 Baaden] <hi rend="italics">herefter komma</hi> <hi rend="bold">O</hi> (<hi rend="italics">misforst&aring;et prik over et i i</hi> <hi rend="bold">t</hi>), <hi rend="italics">fjernet</hi> <hi rend="bold">O<hi rend="sup">2</hi></hi>. 34 faldet] falden <hi rend="bold">C</hi>. 40 kj&oslash;le] k&oslash;lige <hi rend="bold">C</hi>. -->
               <pb n="38" xml:id="s38" facs="adl/andersenhc/andersenhcev4/ahce4038"/>
               <p xml:id="idm139893300925168">dens Blade; ikke en Hyrde mødte vi, ikke en Hytte kom vi
 								forbi; Alt var stille <hi rend="italics" xml:id="idm139893300924720">og</hi> eensomt, kun
@@ -1579,13 +1568,6 @@
               <note anchored="true" xml:id="idm139893300914304">**) En Bonde, som kan læse, bliver tidt Præst
 								og kaldes allerhelligste Herre; Almuen kysser Jorden, naar den
 								møder ham.</note>
-<!-- ikke en Hyrde m&oslash;dte vi, ikke en Hytte kom vi forbi; alt var stille og eensomt, kun Stjerneskuddet sagde, at det levede deroppe i Himlen; jeg veed ikke om den klare blaa Luft lyste selv eller det var Stjernernes Straaler, vi saae godt alle Bjergenes Omrids; min Moder gjorde Ild, stegte L&oslash;gene, hun <hi rend="italics">bragde</hi> med, og jeg og den lille S&oslash;ster sov i Timianen uden at frygte for den f&aelig;le <hi rend="CharEx">Smidraki</hi><hi rend="sup">*</hi>), hvem Luen staaer ud af Halsen, endsige <hi rend="italics">frygte</hi> Ulven og Schakalen; min Moder sad jo hos os, og det troede jeg var nok. -->
-<!-- Vi naaede vort gamle Hjem, men Hytten var en Gruushob, der maatte bygges en ny. Et Par Qvinder hjalp min Moder, og i faa Dage vare Murene reiste og et nyt Tag af Oleander lagt hen over dem. Min Moder flettede af Skind og Bark mange Hylstre til Flasker, jeg passede Pr&aelig;sternes<hi rend="sup">**</hi>) lille Hjord; <hi rend="CharEx">Anastasia</hi> og de smaa Skildpader vare mine Legekammerater. -->
-<!-- En Dag fik vi Bes&oslash;g af den kj&aelig;re <hi rend="CharEx">Aphtanides</hi>, han l&aelig;ngtes saa meget efter at see os, sagde han, og han blev hele to Dage hos os. -->
-<!-- Efter en Maaned kom han igjen og fortalte os, at han skulde med et Skib til Patras og Corfu; os maatte han f&oslash;rst sige Farvel, en stor Fisk bragte han med -->
-<!-- <hi rend="sup">*</hi>) Den gr&aelig;ske Overtro lader dette Uhyre blive til af det slagtede Faars uopskaarne Mave, der sl&aelig;nges hen paa Marken. -->
-<!-- <hi rend="sup">**</hi>) En Bonde, som kan l&aelig;se, bliver tidt Pr&aelig;st og kaldes allerhelligste Herre; Almuen kysser Jorden, naar den m&oslash;der ham. -->
-<!-- 30 bragde] bragte <hi rend="bold">O<hi rend="sup">2</hi>C</hi>. -->
               <pb n="39" xml:id="s39" facs="adl/andersenhc/andersenhcev4/ahce4039"/>
               <p xml:id="idm139893300908256">fortælle saa Meget, ikke blot om Fiskerne nede ved <hi rend="italics" xml:id="idm139893300907872">Lepanto</hi>-Bugten,<hi rend="italics" xml:id="idm139893300907152"> men
 								om</hi> Konger <hi rend="italics" xml:id="idm139893300906432">og</hi> Helte, der engang havde
@@ -1614,13 +1596,6 @@
 								Grækere!«</p>
               <p xml:id="idm139893300896880"><hi rend="italics" xml:id="idm139893300896752">Anastasia</hi> blev rød, som det
 								friske Rosenblad, min Moder kyssede <hi rend="italics" xml:id="idm139893300895920">Aphtanides</hi>.</p>
-<!-- til min Moder. Han vidste at fort&aelig;lle saa meget, ikke blot om Fiskerne nede ved <hi rend="CharEx">Lepanto</hi>-Bugten, men om Konger og Helte, der engang havde hersket i Gr&aelig;kenland ligesom Tyrkerne nu. -->
-<!-- Jeg har seet Rosentr&aelig;et s&aelig;tte Knop og denne i Dage og Uger blive en udfoldet Blomst; den blev det, f&oslash;r jeg begyndte at t&aelig;nke over, hvor stor, smuk og r&oslash;dmende den var; saaledes gik det mig ogsaa med <hi rend="CharEx">Anastasia</hi>. Hun var en deilig udvoxet Pige; jeg en kraftig Kn&oslash;s; Ulveskindene paa min Moders og <hi rend="CharEx">Anastasias</hi> Seng havde jeg selv flaaet af Dyret, der faldt for min B&oslash;sse. Aar vare hengaaede. -->
-<!-- Da kom en Aften <hi rend="CharEx">Aphtanides</hi>, slank som et R&oslash;r, st&aelig;rk og bruun; han kyssede os Alle og vidste at fort&aelig;lle om det store Hav, om <hi rend="CharEx">Maltas</hi> F&aelig;stningsv&aelig;rker og <hi rend="CharEx">&AElig;gyptens</hi> s&aelig;lsomme Gravsteder; det klang forunderligt, som en af Pr&aelig;sternes Legender; jeg saae med <hi rend="italics">en</hi> Slags &AElig;rb&oslash;dighed op til ham. -->
-<!-- &raquo;Hvor du veed meget!&laquo; sagde jeg, &raquo;hvor du kan fort&aelig;lle!&laquo; -->
-<!-- &raquo;Du har dog en Gang fortalt mig det smukkeste!&laquo; sagde han, &raquo;Du har fortalt mig, hvad der aldrig er gaaet ud af min Tanke, den smukke gamle Skik om Venskabs-Pagten! den Skik, som jeg ret har Mod paa at f&oslash;lge! Broder, lad os to ogsaa, som din og <hi rend="CharEx">Anastasias</hi> Fader gjorde det, gaae til Kirken, den skj&oslash;nneste og uskyldigste Pige er <hi rend="CharEx">Anastasia</hi>, S&oslash;steren, hun skal vie os sammen! Ingen har dog en skj&oslash;nnere Skik, end vi Gr&aelig;kere!&laquo; -->
-<!-- <hi rend="CharEx"><!&mdash; Anastasia</hi> blev r&oslash;d, som det friske Rosenblad, min Moder kyssede <hi rend="CharEx">Aphtanides</hi>. -->
-<!-- 38 en] et <hi rend="bold">C</hi>. -->
               <pb n="40" xml:id="s40" facs="adl/andersenhc/andersenhcev4/ahce4040"/>
               <p xml:id="idm139893300889888">En Times Vandring fra vor Hytte, der hvor Fjeldene bære
 								Muldjord og enkelte Træer skygge, laae den lille Kirke; en
@@ -1651,10 +1626,6 @@
 								»Ville I hver, hvad der endogsaa skeer, huske, min Broder
 								er en Deel af mig! min Hemmelighed er hans, min Lykke er hans!
 								Opoffrelse,</p>
-<!-- En Times Vandring fra vor Hytte, der hvor Fjeldene b&aelig;re Muldjord og enkelte Tr&aelig;er skygge, laae den lille Kirke; en S&oslash;lv Lampe hang foran <hi rend="italics">Altret</hi>. -->
-<!-- Jeg havde mine bedste Kl&aelig;der paa, de hvide Fostaneller foldede sig rigt ned over Hofterne, den r&oslash;de Tr&oslash;ie sad snever og stram, der var S&oslash;lv i Qvasten paa min Fesz; i mit Belte sad Kniv og Pistoler. <hi rend="CharEx">Aphtanides</hi> havde sin blaa Kl&aelig;dning, som gr&aelig;ske S&oslash;m&aelig;nd <hi rend="italics">b&aelig;rer</hi> den, en S&oslash;lv-Plade med Guds Moder hang paa hans Bryst, hans Skj&aelig;rf var kostbart, som kun de rige Herrer kunde b&aelig;re det. Enhver saae nok, vi to skulde til en H&oslash;itid. Vi gik ind i den lille eensomme Kirke, hvor Aftensolen skinnede gjennem D&oslash;ren ind paa den br&aelig;ndende Lampe og de brogede Billeder i gylden Grund. Vi kn&aelig;lede paa Alterets Trin, og <hi rend="CharEx">Anastasia</hi> stillede sig foran os; en lang hvid Kjortel hang l&oslash;st og let omkring hendes smukke Lemmer; hendes hvide Hals og Bryst var bed&aelig;kket med en Sammenkjedning af gamle og nye Mynter, de dannede en heel stor Krave; hendes sorte Haar var lagt op paa Hovedet i en eneste Bukkel, der holdtes ved en lille Hue af S&oslash;lv og Guld-Mynter, fundne i de gamle Templer! skj&oslash;nnere Pynt havde ingen gr&aelig;sk Pige. Hendes Ansigt lyste, hendes &Oslash;ine vare som to Stjerner. -->
-<!-- Alle tre l&aelig;ste vi stille vor B&oslash;n; og hun spurgte os: &raquo;Ville I v&aelig;re Venner i Liv og D&oslash;d?&laquo; &mdash; Vi svarede: ja. &raquo;Ville I hver, hvad der endogsaa skeer, huske, min Broder er en Deel af mig! min Hemmelighed er hans, min Lykke er hans! -->
-<!-- 27 Altret] Alteret <hi rend="bold">C</hi>. 28 ned over Hofterne] over mine Skuldre <hi rend="bold">m</hi>. 31 b&aelig;rer] b&aelig;re <hi rend="bold">C</hi>. -->
               <pb n="41" xml:id="s41" facs="adl/andersenhc/andersenhcev4/ahce4041"/>
               <p xml:id="idm139893300880224">Udholdenhed, Alt, som for min egen Sjæl, rummer jeg for
 								ham!« og vi gjentoge vort Ja! og hun lagde vore
@@ -1684,12 +1655,6 @@
 								hende det! hun elsker maaskee ikke mig! - Broder, husk
 								paa, jeg saae hende daglig, hun er voxet op ved min Side, voxet ind
 								i min Sjæl!« -</p>
-<!-- Opofrelse, Udholdenhed, Alt som for min egen Sj&aelig;l rummer jeg for ham!&laquo; og vi gjentoge vort ja! og hun lagde vore H&aelig;nder i hinanden, kyssede os paa Panden og vi bad atter stille. Da traadte Pr&aelig;sten frem fra <hi rend="italics">Altrets</hi> D&oslash;r, velsignede os alle tre og en Sang af de andre allerhelligste Herrer l&oslash;d bag Alterv&aelig;ggen. Den evige Venskabs Pagt var sluttet. Da vi reiste os, saae jeg min Moder ved Kirkens D&oslash;r gr&aelig;de dybt og inderligt. -->
-<!-- Hvor der var lystigt i vor lille Hytte og ved Delphis Kilder! Aftenen f&oslash;r <hi rend="CharEx">Aphtanides</hi> skulde bort, sad han og jeg tankefulde paa Klippens Skr&aelig;nt, hans Arm var slynget om mit Liv, min om hans Hals, vi talte om Gr&aelig;kenlands N&oslash;d, om M&aelig;nd der kunde stoles paa; hver Tanke i vor Sj&aelig;l laae klar for os begge; da greb jeg hans Haand: -->
-<!-- &raquo;&mdash; Eet endnu skal Du vide! eet, som indtil denne Stund kun Gud og jeg veed! al min Sj&aelig;l er Kj&aelig;rlighed! det er en Kj&aelig;rlighed, st&aelig;rkere end den til min Moder og til Dig &mdash; &mdash;!&laquo; -->
-<!-- &raquo;Og hvem elsker Du?&laquo; spurgte <hi rend="CharEx">Aphtanides</hi>, og han blev r&oslash;d paa Ansigt og Hals. -->
-<!-- &raquo;Jeg elsker <hi rend="CharEx">Anastasia</hi>!&laquo; sagde jeg, &mdash; og hans Haand zittrede i min, og han blev hvid som et Liig; jeg saae det, jeg begreb det! og jeg troer ogsaa min Haand skj&aelig;lvede, jeg b&oslash;iede mig henimod ham, kyssede hans Pande og hvidskede: &raquo;jeg har aldrig sagt hende det! hun elsker maaskee ikke mig! &mdash; Broder, husk paa, jeg saa hende daglig, hun er voxet op ved min Side, voxet ind i min Sj&aelig;l!&laquo; &mdash; -->
-<!-- 28 Altrets] Alterets <hi rend="bold">C</hi>. -->
               <pb n="42" xml:id="s42" facs="adl/andersenhc/andersenhcev4/ahce4042"/>
               <p xml:id="idm139893300867696">»Og Din skal hun være!« sagde han,
 								»Din! - jeg kan ikke lyve for Dig og vil ikke
@@ -1717,11 +1682,6 @@
 								derefter min Hustru!«</p>
               <note anchored="true" xml:id="idm139893300859600">23 Hustru!«] « <hi rend="italics" xml:id="idm139893300859024">mgl.</hi>
 								<hi rend="bold" xml:id="idm139893300858336">A</hi>.</note>
-<!-- &raquo;Og Din skal hun v&aelig;re!&laquo; sagde han, &raquo;Din! &mdash; jeg kan ikke lyve for Dig og vil <hi rend="italics">det</hi> ikke heller! jeg elsker hende ogsaa! &mdash; men imorgen tager jeg bort! vi sees igjen om eet Aar, da ere I gifte, ikke sandt! &mdash; jeg har nogle Penge, det er dine! Du maa tage dem, Du skal tage dem!&laquo; stille vandrede vi over Fjeldet; det var sildig Aften, da vi stode ved min Moders Hytte. -->
-<!-- <hi rend="CharEx"><!&mdash; Anastasia</hi> holdt Lampen hen imod os, da vi traadte ind, min Moder var der ikke. <hi rend="CharEx">Anastasia</hi> saae forunderlig veemodigt paa <hi rend="CharEx">Aphtanides</hi>! &mdash; &raquo;Imorgen gaaer Du fra os!&laquo; sagde hun, &raquo;hvor det bedr&oslash;ver mig!&laquo; &mdash; -->
-<!-- &raquo;Bedr&oslash;ver dig&laquo;, sagde han, og jeg syntes der laae en Smerte deri, stor, som min egen; jeg kunde ikke tale, men han tog hendes Haand og sagde: &raquo;vor Broder der elsker Dig, har Du ham kj&aelig;r? I hans Taushed er just hans Kj&aelig;rlighed!&laquo; &mdash; og <hi rend="CharEx">Anastasia</hi> zittrede og brast i Graad, da saae jeg kun hende, t&aelig;nkte kun paa hende; min Arm slog jeg om hendes Liv og sagde: &raquo;ja, jeg elsker Dig!&laquo; Da trykkede hun sin Mund til min, hendes H&aelig;nder hvilte om min Hals; men Lampen var <hi rend="italics">faldet</hi> paa Gulvet, der var m&oslash;rkt uden om os, som i den kj&aelig;re stakkels <hi rend="CharEx">Aphtanides</hi>&apos;s Hjerte. -->
-<!-- F&oslash;r Dag stod han op, kyssede os alle til Afsked og drog bort. Min Moder havde han givet alle sine Penge til os. <hi rend="CharEx">Anastasia</hi> var min Brud og nogle Dage derefter min Hustru!&laquo; -->
-<!-- 39 faldet] falden <hi rend="bold">C</hi>. -->
             </div>
             <pb n="43" xml:id="s43" facs="adl/andersenhc/andersenhcev4/ahce4043"/>
             <div xml:id="workid61614" decls="#biblid61614">
@@ -1756,11 +1716,6 @@
               <note anchored="true" xml:id="idm139893300835456"><hi rend="italics" xml:id="idm139893300835056">Nedenfor aftrykkes</hi><hi rend="bold" xml:id="idm139893300834496">O</hi><hi rend="italics" xml:id="idm139893300833968">med læsemåder fra de deraf
 									afhængige</hi><hi rend="bold" xml:id="idm139893300833328">O<hi rend="sup" xml:id="idm139893300832800">2</hi>
 								</hi><hi rend="italics" xml:id="idm139893300832176">og</hi><hi rend="bold" xml:id="idm139893300831648">C</hi><hi rend="italics" xml:id="idm139893300831120">. Kursiveringer angiver afvigelser fra</hi><hi rend="bold" xml:id="idm139893300830544">A</hi>, <hi rend="italics" xml:id="idm139893300829888">jf. s. 8.</hi></note>
-<!-- <hi rend="italics">III.<lb/></hi>En Rose fra Homers Grav. -->
-<!-- I alle Orientens Sange klinger Nattergalens Kj&aelig;rlighed til Rosen; i de tause stjerneklare N&aelig;tter bringer den bevingede Sanger sin duftende Blomst en Serenade. -->
-<!-- Ikke langt fra Smyrna, under de h&oslash;ie Plataner, hvor Kj&oslash;bmanden driver sine bel&aelig;ssede Kameler, der h&aelig;ve stolt deres lange Hals og tr&aelig;de klodset paa en Jord, som er hellig, saae jeg en blomstrende Rosenh&aelig;k, vilde Duer fl&oslash;i mellem de h&oslash;ie Tr&aelig;ers Grene, og <hi rend="italics">Duens</hi> Vinger skinnede, i det en Solstraale gled hen over <hi rend="italics">den</hi>, som <hi rend="italics">var Vingen</hi> et Perlemor. -->
-<!-- Paa Rosenh&aelig;kken var een Blomst blandt dem alle skj&oslash;nnest, og for den sang Nattergalen sin Kj&aelig;rligheds Smerte, men Rosen var taus, ikke en Dugdraabe -->
-<!-- 23 Homers] <hi rend="italics">spatieret</hi> <hi rend="bold">t</hi>, <hi rend="italics">ikke</hi> <hi rend="bold">O&mdash;C</hi>. -->
               <pb n="44" xml:id="s44" facs="adl/andersenhc/andersenhcev4/ahce4044"/>
               <p xml:id="idm139893300825376">Taare, paa dens Blade, den bøiede sig med Grenen hen over
 								nogle store Stene.</p>
@@ -1789,11 +1744,6 @@
 								Da lød Fodtrin, der kom</p>
               <note anchored="true" xml:id="idm139893300817104">20 Grav.«] « <hi rend="italics" xml:id="idm139893300816528">mgl.</hi>
 								<hi rend="bold" xml:id="idm139893300815840">A</hi>.</note>
-<!-- laae, som en Medlidenheds Taare, paa dens Blade, den b&oslash;iede sig med Grenen hen over nogle store Stene. -->
-<!-- &raquo;Her hviler Jordens st&oslash;rste Sanger!&laquo; sagde Rosen, &raquo;over hans Grav vil jeg dufte, paa den vil jeg str&oslash;e mine Blade, naar Stormen river dem af! Iliadens Sanger blev Jord i denne Jord, hvorfra jeg spirer! &mdash; jeg, en Rose fra Horners Grav, er for hellig til at blomstre for den fattige Nattergal!&laquo; -->
-<!-- Og Nattergalen sang sig tild&oslash;de. -->
-<!-- Kameeldriveren kom med sine bel&aelig;ssede Kameler og sine sorte Slaver; hans lille Dreng fandt den d&oslash;de Fugl, den lille Sanger jordede han i den store Homers Grav; og Rosen b&aelig;vede i Vinden. Aftenen kom, Rosen foldede sine Blade t&aelig;ttere og dr&oslash;mte &mdash; at det var en deilig Solskins Dag; en Skare fremmede frankiske M&aelig;nd kom, en Pilgrimsreise havde de gjort til Horners Grav; blandt de Fremmede var en Sanger fra Norden, fra Taagernes og Nordlysenes Hjem, han br&oslash;d Rosen af, pressede den fast i en Bog og f&oslash;rte den saaledes med sig til en anden Verdensdeel, til sit fjerne F&aelig;dreland. Og Rosen visnede af Sorg og laae i den snevre Bog, som han aabnede i sit Hjem, og han sagde: &raquo;her er en Rose fra Horners Grav!&laquo; -->
-<!-- See det dr&oslash;mte Blomsten, og den vaagnede og gj&oslash;s i Vinden; en Dugdraabe faldt fra dens Blade paa Sangerens Grav, og Solen stod op, og <hi rend="italics">Rosen blussede skj&oslash;nnere end f&oslash;r</hi>, <hi rend="italics">Dagen blev heed</hi>, den var i sit varme Asien. Da l&oslash;d Fodtrin, -->
               <pb n="45" xml:id="s45" facs="adl/andersenhc/andersenhcev4/ahce4045"/>
               <p xml:id="idm139893300810752">fremmede Franker, som Rosen havde seet dem i sin Drøm, og
 								mellem de Fremmede var en Digter fra Norden; han brød
@@ -1801,8 +1751,6 @@
 								den med sig til Taagernes og Nordlysenes Hjem.</p>
               <p xml:id="idm139893300809872">Som en Mumie hviler nu Blomsterliget i hans <hi rend="italics" xml:id="idm139893300809552">Iliade</hi>, og som i Drømme hører den ham
 								aabne Bogen og sige: »Her er en Rose fra <hi rend="italics" xml:id="idm139893300808704">Homers</hi> Grav!«</p>
-<!-- der kom fremmede Franker, som Rosen havde seet dem i sin Dr&oslash;m, og mellem de Fremmede var en Digter fra Norden, han br&oslash;d Rosen af, trykkede et Kys paa dens friske Mund og f&oslash;rte den med sig til Taagernes og Nordlysenes Hjem. -->
-<!-- Som en Mumie hviler nu Blomsterliget i hans Iliade, og som i Dr&oslash;mme h&oslash;rer den ham aabne Bogen og sige: &raquo;Her er en Rose fra Homers Grav!&laquo; -->
             </div>
             <pb n="46" xml:id="s46" facs="adl/andersenhc/andersenhcev4/ahce4046"/>
             <div xml:id="workid62002" decls="#biblid62002">
@@ -1833,9 +1781,6 @@
               <note anchored="true" xml:id="idm139893300787424"><hi rend="bold" xml:id="idm139893300787024">C</hi> SS 26-68 <hi rend="italics" xml:id="idm139893300786336">s.
 									58-60.</hi></note>
               <note anchored="true" xml:id="idm139893300785648">10 den læser] den Bog læser <hi rend="bold" xml:id="idm139893300785040">mU</hi>.</note>
-<!-- <hi rend="italics">En Historie.</hi> -->
-<!-- <hi rend="italics">Ich hab&apos; eine alte Muhme,<lb/>Die ein altes B&uuml;chlein hat,<lb/>Es liegt in dem alten Buche<lb/>Ein altes, d&uuml;rres Blatt.<lb/>So d&uuml;rr sind wohl auch die H&auml;nde,<lb/>Die einst im Lenz ihr&apos;s gepfl&uuml;ckt.<lb/>Was mag doch die Alte haben?<lb/>Sie weint, so oft sie&apos;s erblickt!<lb/>Anastasius Gr&uuml;n.</hi> -->
-<!-- Bedstemoder er saa gammel, hun har saa mange Rynker og et ganske hvidt Haar, men hendes &Oslash;ine de skinne ligesom to Stjerner, ja de ere meget smukkere, de ere saa milde, saa velsignede at see ind i; <hi rend="italics">og</hi> saa kan hun de deiligste Historier og hun har en Kjole med <hi rend="italics">store</hi> Blomster, det er saadant noget tykt Silket&oslash;i, det rasler. Bedstemoder veed saa meget, for hun har levet l&aelig;nge f&oslash;rend Fader og Moder, det er ganske vist! Bedstemoder har en Psalmebog med tykke Sp&aelig;nder -->
               <pb n="47" xml:id="s47" facs="adl/andersenhc/andersenhcev4/ahce4047"/>
               <p xml:id="idm139893300781200">er ganske flad og tør, den er ikke saa smuk som Roserne,
 								hun har i Glasset, og dog smiler hun allervenligst til den, ja der
@@ -1863,10 +1808,6 @@
 								hun sig tilbage og hun trak Veiret, hun sov; men det blev mere og
 								mere stille, og hendes Ansigt var saa fuldt af Fred og Lykke,</p>
               <note anchored="true" xml:id="idm139893300777888">18 der igjen] igjen <hi rend="bold" xml:id="idm139893300777328">mU</hi>.</note>
-<!-- af S&oslash;lv og i den <hi rend="italics">Bog</hi> l&aelig;ser hun tidt; midt i den ligger en Rose, den er ganske flad og t&oslash;r, den er ikke saa smuk, som Roserne, hun har i Glasset og dog smiler hun allervenligst til den, ja der <hi rend="italics">komme</hi> Taarer i hendes &Oslash;ine! hvorfor mon Bedstemoder saaledes seer paa den visne <hi rend="italics">Blomst i</hi> den gamle Bog? -->
-<!-- Veed Du det? &mdash; Hver Gang Bedstemoders Taarer falde paa Blomsten, da <hi rend="italics">blive Farverne mere friske</hi>, da svulmer Rosen og hele Stuen fyldes med Duft, V&aelig;ggene synke, som vare de kun Taager, og rundt om er det den gr&oslash;nne, den deilige Skov, hvor Solen skinner <hi rend="italics">mellem</hi> Bladene, og Bedstemoder &mdash; ja, hun er ganske ung, hun er en deilig Pige med gule <hi rend="italics">Haar</hi>, med <hi rend="italics">runde</hi>, <hi rend="italics">r&oslash;de</hi> Kinder, smuk og yndig, ingen Rose er mere frisk; dog &Oslash;inene, de milde, velsignede &Oslash;ine &mdash; jo, <hi rend="italics">de ere</hi> endnu Bedstemoders! &mdash; Ved hendes Side sidder en Mand, <hi rend="italics">ung og kraftig</hi>, han r&aelig;kker hende Rosen og hun smiler &mdash; saaledes smiler dog ikke Bedstemoder! &mdash; jo, Smilet kommer, &mdash; han er borte, der gaae mange Tanker, <hi rend="italics">mange</hi> Skikkelser forbi! &mdash; Den smukke Mand er borte, Rosen ligger i Psalmebogen og Bedstemoder, &mdash; ja, hun sidder <hi rend="italics">igjen</hi> som en gammel Kone og seer paa den visne Rose, der ligger i Bogen. -->
-<!-- &mdash; Nu er Bedstemoder d&oslash;d! -->
-<!-- Hun sad i L&aelig;nestolen og fortalte en <hi rend="italics">deilig</hi> Historie, <hi rend="italics">hun sagde at nu var den ude, at nu var hun tr&aelig;t, og hun lagde sit Hoved tilbage for at sove</hi>;<hi rend="italics"> hun</hi> trak Veiret, hun sov, men det blev mere og mere stille og hendes Ansigt var saa fuldt af Fred -->
               <pb n="48" xml:id="s48" facs="adl/andersenhc/andersenhcev4/ahce4048"/>
               <p xml:id="idm139893300772192">det var ligesom der gik Solskin over det, og saa sagde de, hun var
 								død.</p>
@@ -1894,11 +1835,6 @@
 								falden i Støv;</p>
               <note anchored="true" xml:id="idm139893300768496">22 falden] faldet <hi rend="bold" xml:id="idm139893300767936">OO<hi rend="sup" xml:id="idm139893300767408">2</hi>
 								</hi>.</note>
-<!-- og Lykke, det var ligesom der gik Solskin over det; <hi rend="italics">hun smilede</hi>, og saa sagde de at hun var d&oslash;d. -->
-<!-- Hun blev lagt i den sorte Kiste, hun <hi rend="italics">blev lagt</hi> i det hvide Linned, hun var saa smuk, og dog vare &Oslash;inene lukkede, men alle <hi rend="italics">Rynker</hi> vare borte, hun laa med Smiil om Munden; hendes Haar var saa s&oslash;lvhvidt, saa &aelig;rv&aelig;rdigt, man blev slet ikke bange ved at see paa den D&oslash;de, det var jo den s&oslash;de, eiegode Bedstemoder. Og Psalmebogen blev lagt <hi rend="italics">i Kisten</hi> under hendes Hoved, det havde hun selv forlangt, og Rosen laa i den gamle Bog, og saa begravede de Bedstemoder. -->
-<!-- Paa Graven, t&aelig;t under Kirkemuren, plantede de et Rosentr&aelig;, og det stod fuldt <hi rend="italics">af Roser og de nikkede i Vinden og sagde til hverandre: &raquo;hvor det er deiligt at blomstre i det varme Solskin! hvor det er dejligt at bade sig i Dug og Maaneskin! og naar man saa er allersmukkest, kommer en kj&aelig;rlig Haand og plukker os til den deiligste Pige. Hvor vi ville r&oslash;dme, hvor vi ville dufte!&laquo;</hi> -->
-<!-- <hi rend="italics">Og Nattergalen h&oslash;rte hvad Roserne sagde, og Nattergalen sang om Rosen, som den unge Pige lagde i sin Psalmebog, om Rosen som gjemtes der til de friske Kinder vare runkne, til den unge Pige var en gammel Kone. Det er deiligt at leve i Erindringen!</hi> -->
-<!-- <hi rend="italics">Og medens Nattergalen sang over Roserne og over Graven, spillede Orgelet i Kirken de smukke Psalmer</hi>, der stode i Bogen under den D&oslash;des Hoved; og Maanen skinnede <hi rend="italics">saa stor og saa rund, men de D&oslash;de vare her ikke</hi>; ethvert Barn kunde ved Nattetid roligt gaae hen og plukke en Rose der ved Kirkegaardsmuren. <hi rend="italics">Een</hi> D&oslash;d veed mere end alle vi Levende vide. <hi rend="italics">De</hi> D&oslash;de <hi rend="italics">kjende</hi> den Angest vi <hi rend="italics">vilde</hi> f&oslash;le <hi rend="italics">ved det S&aelig;lsomme, om de stode frem imellem os</hi>; De D&oslash;de ere <hi rend="italics">gode og kj&aelig;rlige, de ville</hi> -->
               <pb n="49" xml:id="s49" facs="adl/andersenhc/andersenhcev4/ahce4049"/>
               <p xml:id="idm139893300761680">men ovenfor blomstre nye Roser, ovenfor synger Nattergalen, og
 								Orgelet spiller; man tænker paa den gamle Bedstemoder med
@@ -1908,8 +1844,6 @@
 								i Graven.</p>
               <note anchored="true" xml:id="idm139893300760000">3 skulde] skulle <hi rend="bold" xml:id="idm139893300759440">OO<hi rend="sup" xml:id="idm139893300758912">2</hi>
 								</hi>, skulde <hi rend="bold" xml:id="idm139893300758128">A</hi>, skulle <hi rend="bold" xml:id="idm139893300757440">C</hi>.</note>
-<!-- <hi rend="italics">ikke skr&aelig;kke os, de komme ikke.</hi> Der er Jord over Kisten, der er Jord inden i den, <hi rend="italics">Psalmebogens</hi> Blade ere St&oslash;v, Rosen med alle sine Erindringer <hi rend="italics">falder i</hi> St&oslash;v, men <hi rend="italics">ovenover</hi> blomstre nye Roser, <hi rend="italics">ovenover</hi> synger Nattergalen og Orgelet spiller; man t&aelig;nker paa den <hi rend="italics">kj&aelig;re</hi> gamle Bedstemoder med de milde, evig unge &Oslash;ine. &mdash; &Oslash;ine kunne aldrig d&oslash;e, &mdash; vore skulle engang see hende ung og smuk, som da hun f&oslash;rste Gang kyssede den friske r&oslash;de Rose, der nu er St&oslash;v i Graven. -->
-<!-- <hi rend="italics">H. C. Andersen.</hi> -->
             </div>
             <pb n="50" xml:id="s50" facs="adl/andersenhc/andersenhcev4/ahce4050"/>
             <div xml:id="workid62426" decls="#biblid62426">
@@ -11385,20 +11319,10 @@
 								skrevet om den, ogsaa havde været <hi rend="italics" xml:id="idm139893296607376">Sommergjæk</hi>, staaet til Nar i Vinteren. Blomsten
 								forstod det nu paa sin Maade, ligesom vi enhver Ting paa vor Maade.</p>
               <p xml:id="idm139893296606432">Det er Eventyret om <hi rend="italics" xml:id="idm139893296606144">Sommergjækken</hi>!</p>
-<!-- <hi rend="italics">I stedet for sidste linie har</hi> <hi rend="bold">rO</hi>: -->
-<!-- En Dag kom Bogen frem igjen, det var et andet Menneske, som saae i den: &raquo;Der ligger en Vintergj&aelig;k!&laquo; sagde han. -->
-<!-- Det var et nyt Navn for Blomsten, det havde den aldrig h&oslash;rt f&oslash;r, den kjendte kun sit gamle og holdt det i &AElig;re. -->
-<!-- &raquo;Vintergj&aelig;k!&laquo; sagde de Andre i Stuen, &raquo;det er en ny Ben&aelig;vnelse, som vi ikke have kjendt f&oslash;r i gamle Danmark. Lad os blive ved de Rette, og det er Navnet Sommergj&aelig;k, det er et kj&oslash;nt Navn, det har Mening og Betydning, og det staaer desuden i Molbechs Ordbog!&laquo; -->
-<!-- &raquo;Men i &raquo;&raquo;<hi rend="CharEx">Plantel&aelig;ren</hi>&laquo;&laquo; staaer Vintergj&aelig;k!&laquo; sagde den Anden. &raquo;Kan Du negte det?&laquo; -->
-<!-- Og saa blev der stridt om Navnet, og den Ene vilde v&aelig;re klogere end den Anden. -->
-<!-- &raquo;<hi rend="italics">Galanthus nivalis</hi> er det botaniske Navn!&laquo; &raquo;<hi rend="CharEx">Sommergj&aelig;k</hi> er det danske! jeg holder mig til mine Forf&aelig;dres fornuftige Tale og ikke til Latinen! den kan gaae hen at l&aelig;gge sig!&laquo; -->
-<!-- Og Blomsten selv holdt med ham, som kaldte den Sommergj&aelig;k, for det er der Mening i! -->
-<!-- <hi rend="italics">H. C. Andersen.</hi> -->
               <note anchored="true" xml:id="idm139893296600960">4 Bog:] <hi rend="bold" xml:id="idm139893296600512">kr</hi>, Bog i <hi rend="italics" xml:id="idm139893296599824">fejl</hi>
 								<hi rend="bold" xml:id="idm139893296599136">O</hi>. 8 den er lagt her] den her er lagt, den
 								ligger ved den yndige Sang om Rosenknoppen <hi rend="bold" xml:id="idm139893296598368">k</hi>;
 								den er lagt her <hi rend="bold" xml:id="idm139893296597664">rO</hi>. 19 om den] den <hi rend="bold" xml:id="idm139893296596976">kr</hi>, om den <hi rend="bold" xml:id="idm139893296596288">O</hi>.</note>
-<!-- 29 de] det <hi rend="bold">kr</hi> (<hi rend="italics">og foresl&aring;et Brix V 366</hi>). 30 Betydning] <hi rend="italics">herefter i</hi> <hi rend="bold">k</hi> <hi rend="italics">oprindelig kun f&aring; s&aelig;tninger og ordet</hi> Ende, <hi rend="italics">men p&aring; bladets versoside og dets overklsebning mange notater til</hi> <hi rend="bold">rO</hi><hi rend="italics">-formen</hi>. -->
             </div>
             <pb n="254" xml:id="s254" facs="adl/andersenhc/andersenhcev4/ahce4254"/>
             <div xml:id="workid96882" decls="#biblid96882">

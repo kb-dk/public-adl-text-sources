@@ -1,10 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!-- 22.10.2002 VL: missing line in header added; vaerktitles added ; long titles cut with ... -->
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="idm139761565563696"><!-- 
-       file     ./marc_dir/001601376.xml
-       field     
-       subfield  
-       prefix   -->
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="root">
   <teiHeader xml:id="idm139761565563152">
     <fileDesc xml:id="idm139761565562896">
       <titleStmt xml:id="idm139761565562592">
@@ -19,17 +14,115 @@
         <note xml:id="idm139761565534640">
 	  </note>
       </notesStmt>
-      <sourceDesc xml:id="idm139761565534128"><bibl xml:id="idm139761565534000"><author n="1" xml:id="idm139761565533312"><name xml:id="idm139761565533056"><surname xml:id="idm139761565532928">Ewald</surname>, <forename xml:id="idm139761565532464">Johannes</forename></name></author><title xml:id="idm139761565532176">Johannes Ewalds samlede skrifter</title><pubPlace xml:id="idm139761565531872">(Kbh.)</pubPlace>
-<publisher xml:id="idm139761565531408">Gyldendal</publisher><date xml:id="idm139761565531072">(1969)</date></bibl><listBibl xml:id="idm139761565530784"><bibl xml:id="biblid55848"><title xml:id="idm139761565517584">ODE TIL PRINTZ FRIDERICH, DA HAN FORNYEDE SIN DAABES PAGT (1770)</title></bibl><bibl xml:id="biblid56363"><title xml:id="idm139761565516752">TIL HERR MÜNSTER OG JFR. RING OG TIL HERR RING OGJER. THORNAM (1770)</title></bibl><bibl xml:id="biblid56667"><title xml:id="idm139761565515792">SØRGE-SANGE OPFØRT I CHRISTIANSBORGS SLOTS-KIRKE ... (1770)</title></bibl><bibl xml:id="biblid57699"><title xml:id="idm139761565514896">SØRGE-SANGE OPFØRT I ROESKILDE DOM-KIRKE DEN 14DE JUNII 1770, ... (1770)</title></bibl><bibl xml:id="biblid57991"><title xml:id="idm139761565513984">ET GLIMT FRA TIDEN IND I EVIGHEDEN VED FRUE GEHEIMERAADINDE VON SCHULINS ...(1770)</title></bibl><bibl xml:id="biblid58369"><title xml:id="idm139761565513088">OVER HR. HERMANNY (1770)</title></bibl><bibl xml:id="biblid58726"><title xml:id="idm139761565512288">PHILET EN FORTÆLNING (1770)</title></bibl><bibl xml:id="biblid59981"><title xml:id="idm139761565511456">PAA KONGENS FØDSELS-DAG. 1771</title></bibl><bibl xml:id="biblid60115"><title xml:id="idm139761565510624">PASSIONS ORATORIUM, OPFØRT AF DET SAA KALDEDE RAADHUUSSTRÆDETS MUSIKALSKE SELSKAB (1971)</title></bibl><bibl xml:id="biblid60775"><title xml:id="idm139761565509680">ADSKILLIGT AF JOHANNES EVALD (1771)</title></bibl><bibl xml:id="biblid61041"><title xml:id="idm139761565508832">PHILET EN FORTÆLNING [Andet Oplag]</title></bibl><bibl xml:id="biblid61061"><title xml:id="idm139761565508000">SØRGE-CANTATA I ANLEDNING ... ENKEDRONNING SOPHIE MAGDALENES ...</title></bibl><bibl xml:id="biblid62303"><title xml:id="idm139761565507056">ØNSKE TIL JOMFRUE CECILIA WORMSTRUP, PAA HENDES FØDSELS-DAG</title></bibl><bibl xml:id="biblid62464"><title xml:id="idm139761565506224">PHILETS FORSLAG OM PEBERSVENDENE, SOM VIST VIL BLIVE IVÆRKSAT (1771)</title></bibl><bibl xml:id="biblid65461"><title xml:id="idm139761565505264">RECITATIV OG ARIA, SIUNGET DEN 18. MAJ 1771, ...</title></bibl><bibl xml:id="biblid65634"><title xml:id="idm139761565504448">DA JEG VAR SYG (1771)</title></bibl><bibl xml:id="biblid65868"><title xml:id="idm139761565503664">DE BRUTALE KLAPPERE. ET TRAGI-COMISK FORSPIL, ... (1771)</title></bibl><bibl xml:id="biblid70386"><title xml:id="idm139761565502784">KLAGE-SANG AF EN BEKIENDT VED HR. HAAGENSENS GRAV DEN 28DE DECEMBER 1771</title></bibl><bibl xml:id="biblid70624"><title xml:id="idm139761565501936">PHILEMON OG BAUCIS. ET SKUESPIL MED SANG, I EN HANDLING. ... (1772)</title></bibl><bibl xml:id="biblid75833"><title xml:id="idm139761565501104">PAA KONGENS FØDSELS-DAG 1772</title></bibl><bibl xml:id="biblid75968"><title xml:id="idm139761565500272">AVISARTIKEL I (1772)</title></bibl><bibl xml:id="biblid76063"><title xml:id="idm139761565499440">AVISARTIKEL II (1772)</title></bibl><bibl xml:id="biblid76158"><title xml:id="idm139761565498592">HEDNINGERNES FRELSE, ET PASSIONS ORATORIUM (1772)</title></bibl><bibl xml:id="biblid77802"><title xml:id="idm139761565497728">TAARER VED HERR FREDERIK VON ARNSBACHS GRAV (1772)</title></bibl><bibl xml:id="biblid78156"><title xml:id="idm139761565496864">I ANLEDNING AF HANS EXCELLENCE HR. GREV HAXTHAUSENS AFGANG ... (1772)</title></bibl><bibl xml:id="biblid78227"><title xml:id="idm139761565495984">EN PASSIONS-SANG [STABAT MATER]. DANSK EFTERLIGNING (1772)</title></bibl><bibl xml:id="biblid78517"><title xml:id="idm139761565495104">HAAB OG ERINDRING (1772)</title></bibl><bibl xml:id="biblid79221"><title xml:id="idm139761565494192">TIL HERR BERLING OG JFR. GODICHE PAA DERES BRYLLUPSDAG DEN 9 OCTOBER 1772</title></bibl><bibl xml:id="biblid79445"><title xml:id="idm139761565493344">HARLEQUIN PATRIOT ELLER DEN UÆGTE PATRIOTISME EN COMISK COMOEDIE ...  (1772)</title></bibl><bibl xml:id="biblid97443"><title xml:id="idm139761565492368">PEBERSVENDENE. ET LYST-SPIL I FEM HANDLINGER</title></bibl></listBibl></sourceDesc>
+      <sourceDesc xml:id="idm139761565534128">
+        <bibl xml:id="idm139761565534000">
+          <author n="1" xml:id="idm139761565533312">
+            <name xml:id="idm139761565533056"><surname xml:id="idm139761565532928">Ewald</surname>, <forename xml:id="idm139761565532464">Johannes</forename></name>
+          </author>
+          <title xml:id="idm139761565532176">Johannes Ewalds samlede skrifter</title>
+          <pubPlace xml:id="idm139761565531872">(Kbh.)</pubPlace>
+          <publisher xml:id="idm139761565531408">Gyldendal</publisher>
+          <date xml:id="idm139761565531072">(1969)</date>
+        </bibl>
+        <listBibl xml:id="idm139761565530784">
+          <bibl xml:id="biblid55848">
+            <title xml:id="idm139761565517584">ODE TIL PRINTZ FRIDERICH, DA HAN FORNYEDE SIN DAABES PAGT (1770)</title>
+          </bibl>
+          <bibl xml:id="biblid56363">
+            <title xml:id="idm139761565516752">TIL HERR MÜNSTER OG JFR. RING OG TIL HERR RING OGJER. THORNAM (1770)</title>
+          </bibl>
+          <bibl xml:id="biblid56667">
+            <title xml:id="idm139761565515792">SØRGE-SANGE OPFØRT I CHRISTIANSBORGS SLOTS-KIRKE ... (1770)</title>
+          </bibl>
+          <bibl xml:id="biblid57699">
+            <title xml:id="idm139761565514896">SØRGE-SANGE OPFØRT I ROESKILDE DOM-KIRKE DEN 14DE JUNII 1770, ... (1770)</title>
+          </bibl>
+          <bibl xml:id="biblid57991">
+            <title xml:id="idm139761565513984">ET GLIMT FRA TIDEN IND I EVIGHEDEN VED FRUE GEHEIMERAADINDE VON SCHULINS ...(1770)</title>
+          </bibl>
+          <bibl xml:id="biblid58369">
+            <title xml:id="idm139761565513088">OVER HR. HERMANNY (1770)</title>
+          </bibl>
+          <bibl xml:id="biblid58726">
+            <title xml:id="idm139761565512288">PHILET EN FORTÆLNING (1770)</title>
+          </bibl>
+          <bibl xml:id="biblid59981">
+            <title xml:id="idm139761565511456">PAA KONGENS FØDSELS-DAG. 1771</title>
+          </bibl>
+          <bibl xml:id="biblid60115">
+            <title xml:id="idm139761565510624">PASSIONS ORATORIUM, OPFØRT AF DET SAA KALDEDE RAADHUUSSTRÆDETS MUSIKALSKE SELSKAB (1971)</title>
+          </bibl>
+          <bibl xml:id="biblid60775">
+            <title xml:id="idm139761565509680">ADSKILLIGT AF JOHANNES EVALD (1771)</title>
+          </bibl>
+          <bibl xml:id="biblid61041">
+            <title xml:id="idm139761565508832">PHILET EN FORTÆLNING [Andet Oplag]</title>
+          </bibl>
+          <bibl xml:id="biblid61061">
+            <title xml:id="idm139761565508000">SØRGE-CANTATA I ANLEDNING ... ENKEDRONNING SOPHIE MAGDALENES ...</title>
+          </bibl>
+          <bibl xml:id="biblid62303">
+            <title xml:id="idm139761565507056">ØNSKE TIL JOMFRUE CECILIA WORMSTRUP, PAA HENDES FØDSELS-DAG</title>
+          </bibl>
+          <bibl xml:id="biblid62464">
+            <title xml:id="idm139761565506224">PHILETS FORSLAG OM PEBERSVENDENE, SOM VIST VIL BLIVE IVÆRKSAT (1771)</title>
+          </bibl>
+          <bibl xml:id="biblid65461">
+            <title xml:id="idm139761565505264">RECITATIV OG ARIA, SIUNGET DEN 18. MAJ 1771, ...</title>
+          </bibl>
+          <bibl xml:id="biblid65634">
+            <title xml:id="idm139761565504448">DA JEG VAR SYG (1771)</title>
+          </bibl>
+          <bibl xml:id="biblid65868">
+            <title xml:id="idm139761565503664">DE BRUTALE KLAPPERE. ET TRAGI-COMISK FORSPIL, ... (1771)</title>
+          </bibl>
+          <bibl xml:id="biblid70386">
+            <title xml:id="idm139761565502784">KLAGE-SANG AF EN BEKIENDT VED HR. HAAGENSENS GRAV DEN 28DE DECEMBER 1771</title>
+          </bibl>
+          <bibl xml:id="biblid70624">
+            <title xml:id="idm139761565501936">PHILEMON OG BAUCIS. ET SKUESPIL MED SANG, I EN HANDLING. ... (1772)</title>
+          </bibl>
+          <bibl xml:id="biblid75833">
+            <title xml:id="idm139761565501104">PAA KONGENS FØDSELS-DAG 1772</title>
+          </bibl>
+          <bibl xml:id="biblid75968">
+            <title xml:id="idm139761565500272">AVISARTIKEL I (1772)</title>
+          </bibl>
+          <bibl xml:id="biblid76063">
+            <title xml:id="idm139761565499440">AVISARTIKEL II (1772)</title>
+          </bibl>
+          <bibl xml:id="biblid76158">
+            <title xml:id="idm139761565498592">HEDNINGERNES FRELSE, ET PASSIONS ORATORIUM (1772)</title>
+          </bibl>
+          <bibl xml:id="biblid77802">
+            <title xml:id="idm139761565497728">TAARER VED HERR FREDERIK VON ARNSBACHS GRAV (1772)</title>
+          </bibl>
+          <bibl xml:id="biblid78156">
+            <title xml:id="idm139761565496864">I ANLEDNING AF HANS EXCELLENCE HR. GREV HAXTHAUSENS AFGANG ... (1772)</title>
+          </bibl>
+          <bibl xml:id="biblid78227">
+            <title xml:id="idm139761565495984">EN PASSIONS-SANG [STABAT MATER]. DANSK EFTERLIGNING (1772)</title>
+          </bibl>
+          <bibl xml:id="biblid78517">
+            <title xml:id="idm139761565495104">HAAB OG ERINDRING (1772)</title>
+          </bibl>
+          <bibl xml:id="biblid79221">
+            <title xml:id="idm139761565494192">TIL HERR BERLING OG JFR. GODICHE PAA DERES BRYLLUPSDAG DEN 9 OCTOBER 1772</title>
+          </bibl>
+          <bibl xml:id="biblid79445">
+            <title xml:id="idm139761565493344">HARLEQUIN PATRIOT ELLER DEN UÆGTE PATRIOTISME EN COMISK COMOEDIE ...  (1772)</title>
+          </bibl>
+          <bibl xml:id="biblid97443">
+            <title xml:id="idm139761565492368">PEBERSVENDENE. ET LYST-SPIL I FEM HANDLINGER</title>
+          </bibl>
+        </listBibl>
+      </sourceDesc>
     </fileDesc>
   </teiHeader>
   <text xml:id="idm139761565491616">
     <front xml:id="idm139761565491360">
       <pb n="a" xml:id="sa" facs="adl/ewald/ewald4/ewald4fm001"/>
       <gap reason="cancelled" xml:id="idm139761565489840"/>
-<!---->
-<!---->
-<!--JOHANNES EWALDS, SAMLEDE SKRIFTER-->
       <pb n="b" xml:id="sb" facs="adl/ewald/ewald4/ewald4fm002"/>
       <pb n="c" xml:id="sc" facs="adl/ewald/ewald4/ewald4fm003"/>
       <titlePage xml:id="idm139761565591888">
@@ -54,9 +147,6 @@ Printed in Denmark 1969</bibl>
         </docTitle>
         <pb n="e" xml:id="se" facs="adl/ewald/ewald4/ewald4fm005"/>
         <gap reason="cancelled" xml:id="idm139761565456752"/>
-<!---->
-<!---->
-<!--JOHANNES EWALDS, SAMLEDE SKRIFTER-->
         <pb n="f" xml:id="sf" facs="adl/ewald/ewald4/ewald4fm006"/>
         <pb n="g" xml:id="sg" facs="adl/ewald/ewald4/ewald4fm007"/>
       </titlePage>

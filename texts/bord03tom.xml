@@ -1,10 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!--Tom opmærkning blo 10.10.02-->
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="idm140381641133168"><!-- 
-       file     ./marc_dir/001433218.xml
-       field    530 
-       subfield a 
-       prefix   <3>-->
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="root">
   <teiHeader xml:id="idm140381641132240">
     <fileDesc xml:id="idm140381641131984">
       <titleStmt xml:id="idm140381641131680">
@@ -23,8 +18,19 @@
         <note xml:id="idm140381641102608">
 	  </note>
       </notesStmt>
-      <sourceDesc xml:id="idm140381641102096"><bibl xml:id="idm140381641101968"><title xml:id="idm140381641101840">Den danske Mercurius / udg. af Paul Ries. - 1984</title><pubPlace xml:id="idm140381641101520">København</pubPlace>
-<publisher xml:id="idm140381641101056">Det Danske Sprog- og Litteraturselskab</publisher><date xml:id="idm140381641100704">1984-86</date></bibl><listBibl xml:id="idm140381641100416"><bibl xml:id="biblid54341"><title xml:id="idm140381641086864">Den Danske Mercurius</title></bibl></listBibl></sourceDesc>
+      <sourceDesc xml:id="idm140381641102096">
+        <bibl xml:id="idm140381641101968">
+          <title xml:id="idm140381641101840">Den danske Mercurius / udg. af Paul Ries. - 1984</title>
+          <pubPlace xml:id="idm140381641101520">København</pubPlace>
+          <publisher xml:id="idm140381641101056">Det Danske Sprog- og Litteraturselskab</publisher>
+          <date xml:id="idm140381641100704">1984-86</date>
+        </bibl>
+        <listBibl xml:id="idm140381641100416">
+          <bibl xml:id="biblid54341">
+            <title xml:id="idm140381641086864">Den Danske Mercurius</title>
+          </bibl>
+        </listBibl>
+      </sourceDesc>
     </fileDesc>
   </teiHeader>
   <text xml:id="idm140381641086224">

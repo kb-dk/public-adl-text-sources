@@ -1,15 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!--    16.09.2002 VL indsat vaerktitel
-        18.09.2020 HHL koert fanger.pl -> indsat side 116
-                   HHL aendret romer-fm til araber-fm
-                   HHL indsat id-numre
-ny fil fra ATAPY hvor <->-bindestrger er behandlet som alm. bindestreger.
--->
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="idm139639967886480"><!-- 
-       file     ./marc_dir/001398317.xml
-       field     
-       subfield  
-       prefix   -->
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="root">
   <teiHeader xml:id="idm139639967885504">
     <fileDesc xml:id="idm139639967885248">
       <titleStmt xml:id="idm139639967884992">
@@ -29,17 +19,28 @@ ny fil fra ATAPY hvor <->-bindestrger er behandlet som alm. bindestreger.
         <note xml:id="idm139639967855520">
 	  </note>
       </notesStmt>
-      <sourceDesc xml:id="idm139639967855008"><bibl xml:id="idm139639967854880"><author n="1" xml:id="idm139639967854256"><name xml:id="idm139639967854000"><surname xml:id="idm139639967853872">Biehl</surname>, <forename xml:id="idm139639967853440">Charlotta Dorothea</forename></name></author><title xml:id="idm139639967853152">Mit ubetydelige Levnets Løb</title><pubPlace xml:id="idm139639967852816">København</pubPlace>
-<publisher xml:id="idm139639967852352">Museum Tusculanum</publisher><date xml:id="idm139639967852016">1986</date></bibl><listBibl xml:id="idm139639967851728"><bibl xml:id="biblid58476"><title xml:id="idm139639967838528">Mit ubetydelige Levnets Løb</title></bibl></listBibl></sourceDesc>
+      <sourceDesc xml:id="idm139639967855008">
+        <bibl xml:id="idm139639967854880">
+          <author n="1" xml:id="idm139639967854256">
+            <name xml:id="idm139639967854000"><surname xml:id="idm139639967853872">Biehl</surname>, <forename xml:id="idm139639967853440">Charlotta Dorothea</forename></name>
+          </author>
+          <title xml:id="idm139639967853152">Mit ubetydelige Levnets Løb</title>
+          <pubPlace xml:id="idm139639967852816">København</pubPlace>
+          <publisher xml:id="idm139639967852352">Museum Tusculanum</publisher>
+          <date xml:id="idm139639967852016">1986</date>
+        </bibl>
+        <listBibl xml:id="idm139639967851728">
+          <bibl xml:id="biblid58476">
+            <title xml:id="idm139639967838528">Mit ubetydelige Levnets Løb</title>
+          </bibl>
+        </listBibl>
+      </sourceDesc>
     </fileDesc>
   </teiHeader>
   <text xml:id="idm139639967837808">
     <front xml:id="idm139639967837552">
       <pb n="1" xml:id="s1" facs="adl/biehl/biehl1/biehl1001"/>
       <gap reason="cancelled" xml:id="idm139639967836128"/>
-<!---->
-<!---->
-<!--Mit ubetydelige Levnets Løb-->
       <pb n="2" xml:id="s2" facs="adl/biehl/biehl1/biehl1002"/>
       <titlePage xml:id="idm139639967833456">
         <titlePart type="main" xml:id="idm139639967833200">

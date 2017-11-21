@@ -1,10 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!-- Tom opmærkning bnh 01.10.2001-->
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="idm139962190204048"><!-- 
-       file     ./marc_dir/001582980.xml
-       field    559 
-       subfield a 
-       prefix   -->
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="root">
   <teiHeader xml:id="idm139962190203120">
     <fileDesc xml:id="idm139962190202864">
       <titleStmt xml:id="idm139962190177328">
@@ -25,8 +20,40 @@
         <note xml:id="idm139962190172592">
 	  </note>
       </notesStmt>
-      <sourceDesc xml:id="idm139962190172080"><bibl xml:id="idm139962190171952"><author n="1" xml:id="idm139962190171264"><name xml:id="idm139962190171008"><surname xml:id="idm139962190170880">Aarestrup</surname>, <forename xml:id="idm139962190170416">Emil</forename></name></author><title xml:id="idm139962190170128">Emil Aarestrups samlede skrifter</title><pubPlace xml:id="idm139962190169824">København</pubPlace>
-<publisher xml:id="idm139962190169392">C. A. Reitzel</publisher><date xml:id="idm139962190169056">1976</date></bibl><listBibl xml:id="idm139962190168768"><bibl xml:id="biblid54138"><title xml:id="idm139962190155568">Dedikation til hr. A. Tønder</title></bibl><bibl xml:id="biblid54147"><title xml:id="idm139962190154688">Til Madam M. Zinck</title></bibl><bibl xml:id="biblid54163"><title xml:id="idm139962190153904">Rimbrev til Jomfru Anna Aagard - I</title></bibl><bibl xml:id="biblid54178"><title xml:id="idm139962190153104">Rimbrev til Jomfru Anna Aagard - II</title></bibl><bibl xml:id="biblid54187"><title xml:id="idm139962190152256">Rimbrev til Sophie Hansen</title></bibl><bibl xml:id="biblid54209"><title xml:id="idm139962190151456">Tilegnelse til Amalie Raben</title></bibl><bibl xml:id="biblid54217"><title xml:id="idm139962190150608">Sang om Grundloven</title></bibl></listBibl></sourceDesc>
+      <sourceDesc xml:id="idm139962190172080">
+        <bibl xml:id="idm139962190171952">
+          <author n="1" xml:id="idm139962190171264">
+            <name xml:id="idm139962190171008"><surname xml:id="idm139962190170880">Aarestrup</surname>, <forename xml:id="idm139962190170416">Emil</forename></name>
+          </author>
+          <title xml:id="idm139962190170128">Emil Aarestrups samlede skrifter</title>
+          <pubPlace xml:id="idm139962190169824">København</pubPlace>
+          <publisher xml:id="idm139962190169392">C. A. Reitzel</publisher>
+          <date xml:id="idm139962190169056">1976</date>
+        </bibl>
+        <listBibl xml:id="idm139962190168768">
+          <bibl xml:id="biblid54138">
+            <title xml:id="idm139962190155568">Dedikation til hr. A. Tønder</title>
+          </bibl>
+          <bibl xml:id="biblid54147">
+            <title xml:id="idm139962190154688">Til Madam M. Zinck</title>
+          </bibl>
+          <bibl xml:id="biblid54163">
+            <title xml:id="idm139962190153904">Rimbrev til Jomfru Anna Aagard - I</title>
+          </bibl>
+          <bibl xml:id="biblid54178">
+            <title xml:id="idm139962190153104">Rimbrev til Jomfru Anna Aagard - II</title>
+          </bibl>
+          <bibl xml:id="biblid54187">
+            <title xml:id="idm139962190152256">Rimbrev til Sophie Hansen</title>
+          </bibl>
+          <bibl xml:id="biblid54209">
+            <title xml:id="idm139962190151456">Tilegnelse til Amalie Raben</title>
+          </bibl>
+          <bibl xml:id="biblid54217">
+            <title xml:id="idm139962190150608">Sang om Grundloven</title>
+          </bibl>
+        </listBibl>
+      </sourceDesc>
     </fileDesc>
   </teiHeader>
   <text xml:id="idm139962190149968">

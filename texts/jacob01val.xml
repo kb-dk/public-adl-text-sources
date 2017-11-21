@@ -1,16 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!--siderne 333 til 392 skal afflages-->
-<!--hhl 27.9.2001-->
-<!-- rettelser: rd/ldquot, ndash,(unicoode 97) og 95 er fjernet (pletter)-->
-<!--HHL 08012002: ordnet bindestreger ved sideskift aht til soggning
-     Ptj rettet s. XIII  til  XXXVII - 4-5
-     20090420 VL: rettet s. 74, 79
--->
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="idm139811113720352"><!-- 
-       file     ./marc_dir/001823911.xml
-       field     
-       subfield  
-       prefix   -->
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="root">
   <teiHeader xml:id="idm139811113694192">
     <fileDesc xml:id="idm139811113693936">
       <titleStmt xml:id="idm139811113693680">
@@ -30,11 +19,19 @@
         <note xml:id="idm139811113689232">
 	  </note>
       </notesStmt>
-      <sourceDesc xml:id="idm139811113688720"><bibl xml:id="idm139811113688592"><author n="1" xml:id="idm139811113687904"><name xml:id="idm139811113687648"><surname xml:id="idm139811113687520">Jacobsen</surname>,
-      <forename xml:id="idm139811113687072">J. P.</forename></name></author><title xml:id="idm139811113686784">Samlede Værker
+      <sourceDesc xml:id="idm139811113688720">
+        <bibl xml:id="idm139811113688592">
+          <author n="1" xml:id="idm139811113687904">
+            <name xml:id="idm139811113687648"><surname xml:id="idm139811113687520">Jacobsen</surname>,
+      <forename xml:id="idm139811113687072">J. P.</forename></name>
+          </author>
+          <title xml:id="idm139811113686784">Samlede Værker
       I</title>
-      <title xml:id="idm139811113686336">Udg. paa Grundlag af Digterens efterladte Papirer af Morten Borup</title><pubPlace xml:id="idm139811113686080">København</pubPlace>
-<date xml:id="idm139811113685600">1924-29</date></bibl></sourceDesc>
+          <title xml:id="idm139811113686336">Udg. paa Grundlag af Digterens efterladte Papirer af Morten Borup</title>
+          <pubPlace xml:id="idm139811113686080">København</pubPlace>
+          <date xml:id="idm139811113685600">1924-29</date>
+        </bibl>
+      </sourceDesc>
     </fileDesc>
   </teiHeader>
   <text xml:id="idm139811113684928">

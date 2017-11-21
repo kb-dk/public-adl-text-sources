@@ -1,9 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="idm139973027573904"><!-- 
-       file     ./marc_dir/001391895.xml
-       field     
-       subfield  
-       prefix   -->
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="root">
   <teiHeader xml:id="idm139973027580288">
     <fileDesc xml:id="idm139973027580032">
       <titleStmt xml:id="idm139973027579728">
@@ -23,17 +19,20 @@
         <note xml:id="idm139973027550096">
 	  </note>
       </notesStmt>
-      <sourceDesc xml:id="idm139973027549584"><bibl xml:id="idm139973027549456"><author n="1" xml:id="idm139973027548768"><name xml:id="idm139973027548512"><surname xml:id="idm139973027548384">Bang</surname>, <forename xml:id="idm139973027547920">Herman</forename></name></author><title xml:id="idm139973027547632">Tine</title><pubPlace xml:id="idm139973027547344">[København]</pubPlace>; <pubPlace xml:id="idm139973027546880">[Valby]</pubPlace>; <pubPlace xml:id="idm139973027546464">[Ballerup]</pubPlace>
-<publisher xml:id="idm139973027546000">Det Danske Sprog- og Litteraturselskab</publisher><publisher xml:id="idm139973027545696">Borgen</publisher><publisher xml:id="idm139973027545408">i samarbejde med Nyt Dansk Litteraturselskab</publisher><date xml:id="idm139973027545040">[1986]</date></bibl><listBibl xml:id="idm139973027544752"><bibl xml:id="biblid54101"><title xml:id="idm139973027531600">Tine (Danske Klassikere)</title></bibl></listBibl></sourceDesc>
+      <sourceDesc xml:id="idm139973027549584">
+        <bibl xml:id="idm139973027549456"><author n="1" xml:id="idm139973027548768"><name xml:id="idm139973027548512"><surname xml:id="idm139973027548384">Bang</surname>, <forename xml:id="idm139973027547920">Herman</forename></name></author><title xml:id="idm139973027547632">Tine</title><pubPlace xml:id="idm139973027547344">[København]</pubPlace>; <pubPlace xml:id="idm139973027546880">[Valby]</pubPlace>; <pubPlace xml:id="idm139973027546464">[Ballerup]</pubPlace><publisher xml:id="idm139973027546000">Det Danske Sprog- og Litteraturselskab</publisher><publisher xml:id="idm139973027545696">Borgen</publisher><publisher xml:id="idm139973027545408">i samarbejde med Nyt Dansk Litteraturselskab</publisher><date xml:id="idm139973027545040">[1986]</date></bibl>
+        <listBibl xml:id="idm139973027544752">
+          <bibl xml:id="biblid54101">
+            <title xml:id="idm139973027531600">Tine (Danske Klassikere)</title>
+          </bibl>
+        </listBibl>
+      </sourceDesc>
     </fileDesc>
   </teiHeader>
   <text xml:id="workid54101" decls="#biblid54101">
     <front xml:id="idm139973027530000">
       <pb n="1" facs="adl/bang/bang8/bang8001" xml:id="idm139973027529696"/>
       <gap reason="cancelled" xml:id="idm139973027528880"/>
-<!---->
-<!---->
-<!--Tine-->
       <pb n="2" facs="adl/bang/bang8/bang8002" xml:id="idm139973027527360"/>
       <pb n="3" facs="adl/bang/bang8/bang8003" xml:id="idm139973027526576"/>
       <titlePage xml:id="idm139973027525808">

@@ -1,9 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="idm139873483436176"><!-- 
-       file     ./marc_dir/001915185.xml
-       field     
-       subfield  
-       prefix   -->
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="root">
   <teiHeader xml:id="idm139873483442560">
     <fileDesc xml:id="idm139873483442304">
       <titleStmt xml:id="idm139873483442000">
@@ -18,8 +14,21 @@
         <note xml:id="idm139873483413904">
 	  </note>
       </notesStmt>
-      <sourceDesc xml:id="idm139873483413392"><bibl xml:id="idm139873483413264"><author n="1" xml:id="idm139873483412576"><name xml:id="idm139873483412320"><surname xml:id="idm139873483412192">Hjortø</surname>, <forename xml:id="idm139873483411760">Knud</forename></name></author><title xml:id="idm139873483411504">Grøn ungdom og grå sjæle</title><pubPlace xml:id="idm139873483411184">København</pubPlace>
-<date xml:id="idm139873483410704">1911</date></bibl><listBibl xml:id="idm139873483410416"><bibl xml:id="biblid54088"><title xml:id="idm139873483397264">Grøn ungdom og grå sjæle</title></bibl></listBibl></sourceDesc>
+      <sourceDesc xml:id="idm139873483413392">
+        <bibl xml:id="idm139873483413264">
+          <author n="1" xml:id="idm139873483412576">
+            <name xml:id="idm139873483412320"><surname xml:id="idm139873483412192">Hjortø</surname>, <forename xml:id="idm139873483411760">Knud</forename></name>
+          </author>
+          <title xml:id="idm139873483411504">Grøn ungdom og grå sjæle</title>
+          <pubPlace xml:id="idm139873483411184">København</pubPlace>
+          <date xml:id="idm139873483410704">1911</date>
+        </bibl>
+        <listBibl xml:id="idm139873483410416">
+          <bibl xml:id="biblid54088">
+            <title xml:id="idm139873483397264">Grøn ungdom og grå sjæle</title>
+          </bibl>
+        </listBibl>
+      </sourceDesc>
     </fileDesc>
   </teiHeader>
   <text xml:id="workid54088" decls="#biblid54088">

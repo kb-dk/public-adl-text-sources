@@ -1,10 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!--   20021019 HHL indsat  vaerktitle-->
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="idm140573403372448"><!-- 
-       file     ./marc_dir/001848831.xml
-       field     
-       subfield  
-       prefix   -->
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="root">
   <teiHeader xml:id="idm140573403371840">
     <fileDesc xml:id="idm140573403371584">
       <titleStmt xml:id="idm140573403371280">
@@ -31,17 +26,87 @@
         <note xml:id="idm140573403339152">
 	  </note>
       </notesStmt>
-      <sourceDesc xml:id="idm140573403338640"><bibl xml:id="idm140573403338512"><author n="1" xml:id="idm140573403337824"><name xml:id="idm140573403337520"><surname xml:id="idm140573403337392">Møller</surname>, <forename xml:id="idm140573403336928">Poul Martin</forename></name></author><title xml:id="idm140573403336640">Skrifter i Udvalg</title><pubPlace xml:id="idm140573403336352">København</pubPlace>
-<date xml:id="idm140573403335888">1930</date></bibl><listBibl xml:id="idm140573403335600"><bibl xml:id="biblid54339"><title xml:id="idm140573403322448">STATISTISKSKILDRING AF LÆGDSGAARDEN I ØLSEBY-MAGLE</title></bibl><bibl xml:id="biblid55595"><title xml:id="idm140573403321568">OPTEGNELSER PAA KINAREJSEN</title></bibl><bibl xml:id="biblid56636"><title xml:id="idm140573403320768">FORSØG TIL HIMMELBREV</title></bibl><bibl xml:id="biblid56929"><title xml:id="idm140573403319952">TRØSTEGRUNDE OVER POETERNES MANGFOLDIGHED</title></bibl><bibl xml:id="biblid57271"><title xml:id="idm140573403319104">KVINDELIGHED I-III</title></bibl><bibl xml:id="biblid57704"><title xml:id="idm140573403318320">SUBSKRIPTIONSINDBYDELSE TIL ET MØNSTERARBEJDE I LATINSK STIL</title></bibl><bibl xml:id="biblid57772"><title xml:id="idm140573403317424">CENTRALSOLEN</title></bibl><bibl xml:id="biblid57838"><title xml:id="idm140573403316592">PLAN TIL EN ANTOLOGI, BETITLET: DEN FILOSOFISKE SMINKEDAASE</title></bibl><bibl xml:id="biblid57893"><title xml:id="idm140573403315760">OM AT FORTÆLLE BØRN EVENTYR</title></bibl><bibl xml:id="biblid58052"><title xml:id="idm140573403314928">OM FORÆRINGER</title></bibl><bibl xml:id="biblid58120"><title xml:id="idm140573403314128">TO FIGURER</title></bibl><bibl xml:id="biblid58205"><title xml:id="idm140573403313296">AHASVERUS</title></bibl><bibl xml:id="biblid58396"><title xml:id="idm140573403312464">NOGLE BETRAGTNINGER OVER POPULÆRE IDEERS  UDVIKLING</title></bibl><bibl xml:id="biblid58989"><title xml:id="idm140573403311584">LITTERÆR ANMELDELSE FRA 1824</title></bibl><bibl xml:id="biblid59254"><title xml:id="idm140573403310752">RECENSION AF 'EKSTREMERNE'</title></bibl><bibl xml:id="biblid60354"><title xml:id="idm140573403309952">TANKER OVER MULIGHEDEN AF BEVISER FOR MENNESKETS  UDØDELIGHED</title></bibl><bibl xml:id="biblid63266"><title xml:id="idm140573403309008">STRØTANKER FRA KINAREJSEN</title></bibl><bibl xml:id="biblid64362"><title xml:id="idm140573403308144">STRØTANKER  FRA   1822-26</title></bibl><bibl xml:id="biblid65384"><title xml:id="idm140573403307280">STRØTANKER  FRA   1826-31</title></bibl><bibl xml:id="biblid66842"><title xml:id="idm140573403306352">STRØTANKER  FRA  1831-36</title></bibl><bibl xml:id="biblid69296"><title xml:id="idm140573403305488">INDLEDNING  TIL  EN AFHANDLING OM AFFEKTATION</title></bibl></listBibl></sourceDesc>
+      <sourceDesc xml:id="idm140573403338640">
+        <bibl xml:id="idm140573403338512">
+          <author n="1" xml:id="idm140573403337824">
+            <name xml:id="idm140573403337520"><surname xml:id="idm140573403337392">Møller</surname>, <forename xml:id="idm140573403336928">Poul Martin</forename></name>
+          </author>
+          <title xml:id="idm140573403336640">Skrifter i Udvalg</title>
+          <pubPlace xml:id="idm140573403336352">København</pubPlace>
+          <date xml:id="idm140573403335888">1930</date>
+        </bibl>
+        <listBibl xml:id="idm140573403335600">
+          <bibl xml:id="biblid54339">
+            <title xml:id="idm140573403322448">STATISTISKSKILDRING AF LÆGDSGAARDEN I ØLSEBY-MAGLE</title>
+          </bibl>
+          <bibl xml:id="biblid55595">
+            <title xml:id="idm140573403321568">OPTEGNELSER PAA KINAREJSEN</title>
+          </bibl>
+          <bibl xml:id="biblid56636">
+            <title xml:id="idm140573403320768">FORSØG TIL HIMMELBREV</title>
+          </bibl>
+          <bibl xml:id="biblid56929">
+            <title xml:id="idm140573403319952">TRØSTEGRUNDE OVER POETERNES MANGFOLDIGHED</title>
+          </bibl>
+          <bibl xml:id="biblid57271">
+            <title xml:id="idm140573403319104">KVINDELIGHED I-III</title>
+          </bibl>
+          <bibl xml:id="biblid57704">
+            <title xml:id="idm140573403318320">SUBSKRIPTIONSINDBYDELSE TIL ET MØNSTERARBEJDE I LATINSK STIL</title>
+          </bibl>
+          <bibl xml:id="biblid57772">
+            <title xml:id="idm140573403317424">CENTRALSOLEN</title>
+          </bibl>
+          <bibl xml:id="biblid57838">
+            <title xml:id="idm140573403316592">PLAN TIL EN ANTOLOGI, BETITLET: DEN FILOSOFISKE SMINKEDAASE</title>
+          </bibl>
+          <bibl xml:id="biblid57893">
+            <title xml:id="idm140573403315760">OM AT FORTÆLLE BØRN EVENTYR</title>
+          </bibl>
+          <bibl xml:id="biblid58052">
+            <title xml:id="idm140573403314928">OM FORÆRINGER</title>
+          </bibl>
+          <bibl xml:id="biblid58120">
+            <title xml:id="idm140573403314128">TO FIGURER</title>
+          </bibl>
+          <bibl xml:id="biblid58205">
+            <title xml:id="idm140573403313296">AHASVERUS</title>
+          </bibl>
+          <bibl xml:id="biblid58396">
+            <title xml:id="idm140573403312464">NOGLE BETRAGTNINGER OVER POPULÆRE IDEERS  UDVIKLING</title>
+          </bibl>
+          <bibl xml:id="biblid58989">
+            <title xml:id="idm140573403311584">LITTERÆR ANMELDELSE FRA 1824</title>
+          </bibl>
+          <bibl xml:id="biblid59254">
+            <title xml:id="idm140573403310752">RECENSION AF 'EKSTREMERNE'</title>
+          </bibl>
+          <bibl xml:id="biblid60354">
+            <title xml:id="idm140573403309952">TANKER OVER MULIGHEDEN AF BEVISER FOR MENNESKETS  UDØDELIGHED</title>
+          </bibl>
+          <bibl xml:id="biblid63266">
+            <title xml:id="idm140573403309008">STRØTANKER FRA KINAREJSEN</title>
+          </bibl>
+          <bibl xml:id="biblid64362">
+            <title xml:id="idm140573403308144">STRØTANKER  FRA   1822-26</title>
+          </bibl>
+          <bibl xml:id="biblid65384">
+            <title xml:id="idm140573403307280">STRØTANKER  FRA   1826-31</title>
+          </bibl>
+          <bibl xml:id="biblid66842">
+            <title xml:id="idm140573403306352">STRØTANKER  FRA  1831-36</title>
+          </bibl>
+          <bibl xml:id="biblid69296">
+            <title xml:id="idm140573403305488">INDLEDNING  TIL  EN AFHANDLING OM AFFEKTATION</title>
+          </bibl>
+        </listBibl>
+      </sourceDesc>
     </fileDesc>
   </teiHeader>
   <text xml:id="idm140573403304736">
     <front xml:id="idm140573403304480">
       <pb n="I" facs="adl/moellerpm/moellerpm2/moel2fm001" xml:id="idm140573403304176"/>
       <gap reason="cancelled" xml:id="idm140573403303344"/>
-<!---->
-<!---->
-<!--DANMARKS NATIONALLITTERATUR POUL MØLLER SKRIFTER I UDVALG-->
       <pb n="II" facs="adl/moellerpm/moellerpm2/moel2fm002" xml:id="idm140573403301792"/>
       <pb n="III" facs="adl/moellerpm/moellerpm2/moel2fm003" xml:id="idm140573403301024"/>
       <titlePage xml:id="idm140573403300256">

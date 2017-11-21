@@ -1,16 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!-- 20030520 HHL indtastet  tekst fra rettelseblad på kolofonsiden-->
-<!-- siderne 96-97 ikke OCR'et, siderne klæber sammen og der er formentlig heller ingen tif'er
-        Teksten indskrevet, hentet fra Borup men checket med DK
-        pagineringen er også røget sig en  tur - ordnet med et perlscript    
-        i det hele taget mege kludder med pagineringen - blanke siderfx
-      Ptj rettet s 113-
-   -->
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="idm139992591891584"><!-- 
-       file     ./marc_dir/001565683.xml
-       field     
-       subfield  
-       prefix   -->
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="root">
   <teiHeader xml:id="idm139992591891088">
     <fileDesc xml:id="idm139992591864880">
       <titleStmt xml:id="idm139992591864624">
@@ -31,17 +20,140 @@
         <note xml:id="idm139992591859632">
 	  </note>
       </notesStmt>
-      <sourceDesc xml:id="idm139992591859120"><bibl xml:id="idm139992591858992"><author n="1" xml:id="idm139992591858304"><name xml:id="idm139992591858048"><surname xml:id="idm139992591857920">Jacobsen</surname>, <forename xml:id="idm139992591857488">J. P.</forename></name></author><title xml:id="idm139992591857200">Lyrik og prosa</title><pubPlace xml:id="idm139992591856912">[København]</pubPlace>; <pubPlace xml:id="idm139992591856448">[Valby]</pubPlace>
-<publisher xml:id="idm139992591855984">Det Danske Sprog- og Litteraturselskab</publisher><publisher xml:id="idm139992591855680">Borgen</publisher><date xml:id="idm139992591855344">1993</date></bibl><listBibl xml:id="idm139992591855056"><bibl xml:id="biblid54665"><title xml:id="idm139992591841904">Dagbogsoptegnelser (DK)</title></bibl><bibl xml:id="biblid56069"><title xml:id="idm139992591841072">Hervert Sperring (DK)</title></bibl><bibl xml:id="biblid61991"><title xml:id="idm139992591840240">Monomanie (DK)</title></bibl><bibl xml:id="biblid62335"><title xml:id="idm139992591839456">Skoven ved Middagstid (DK)</title></bibl><bibl xml:id="biblid62432"><title xml:id="idm139992591838656">Regnvejr i Skoven (DK)</title></bibl><bibl xml:id="biblid62507"><title xml:id="idm139992591837872">En Arabesk (DK)</title></bibl><bibl xml:id="biblid62768"><title xml:id="idm139992591837088">Digterliv (DK)</title></bibl><bibl xml:id="biblid62853"><title xml:id="idm139992591836304">Der aabnes en Dør (DK)</title></bibl><bibl xml:id="biblid63094"><title xml:id="idm139992591835488">I Seraillets Have (DK)</title></bibl><bibl xml:id="biblid63154"><title xml:id="idm139992591834592">Rim (DK)</title></bibl><bibl xml:id="biblid63236"><title xml:id="idm139992591833760">Faustina (DK)</title></bibl><bibl xml:id="biblid63473"><title xml:id="idm139992591832976">Alle Smaablomster trip, trip, trip (DK)</title></bibl><bibl xml:id="biblid63512"><title xml:id="idm139992591832128">Polka (DK)</title></bibl><bibl xml:id="biblid63596"><title xml:id="idm139992591831296">Grækenland (DK)</title></bibl><bibl xml:id="biblid63753"><title xml:id="idm139992591830448">Det er Stævnemødets Time (DK)</title></bibl><bibl xml:id="biblid63896"><title xml:id="idm139992591829616">Arabesk Til en Haandtegning af Michel Angelo. (DK)</title></bibl><bibl xml:id="biblid64320"><title xml:id="idm139992591828800">Silkesko over gylden Læst! (DK)</title></bibl><bibl xml:id="biblid64371"><title xml:id="idm139992591827856">Liglagner i Festons omkring mit Billed (DK)</title></bibl><bibl xml:id="biblid64421"><title xml:id="idm139992591826992">Det bødes der for (DK)</title></bibl><bibl xml:id="biblid64516"><title xml:id="idm139992591826128">Marine (DK)</title></bibl><bibl xml:id="biblid64589"><title xml:id="idm139992591825296">Genrebillede (DK)</title></bibl><bibl xml:id="biblid64643"><title xml:id="idm139992591824464">Cendrée og lille (DK)</title></bibl><bibl xml:id="biblid64806"><title xml:id="idm139992591823600">Har Dagen sanket al sin Sorg (DK)</title></bibl><bibl xml:id="biblid64883"><title xml:id="idm139992591822752">Irmelin Rose (DK)</title></bibl><bibl xml:id="biblid65012"><title xml:id="idm139992591821968">Evig og uden Forandring (DK)</title></bibl><bibl xml:id="biblid65068"><title xml:id="idm139992591821168">Englen Asali (DK)</title></bibl><bibl xml:id="biblid65150"><title xml:id="idm139992591820336">Det har Seraferne (DK)</title></bibl><bibl xml:id="biblid65258"><title xml:id="idm139992591819504">Saa standsed' og der den Blodets Strøm (DK)</title></bibl><bibl xml:id="biblid65307"><title xml:id="idm139992591818592">Lys over Landet (DK)</title></bibl><bibl xml:id="biblid65366"><title xml:id="idm139992591817696">Mogens (DK)</title></bibl><bibl xml:id="biblid68095"><title xml:id="idm139992591816912">Et Skud i Taagen (DK)</title></bibl><bibl xml:id="biblid69028"><title xml:id="idm139992591816080">To Verdener (DK)</title></bibl><bibl xml:id="biblid69385"><title xml:id="idm139992591815296">Fra Skitsebogen (DK)</title></bibl><bibl xml:id="biblid69766"><title xml:id="idm139992591814464">Pesten i Bergamo (DK)</title></bibl><bibl xml:id="biblid70295"><title xml:id="idm139992591813632">Fru Fønss (DK)</title></bibl><bibl xml:id="biblid71518"><title xml:id="idm139992591812784">Den gamle Vandpost (ET EVENTYR I MANER) (DK)</title></bibl><bibl xml:id="biblid71556"><title xml:id="idm139992591811920">En Cactus springer ud (DK)</title></bibl><bibl xml:id="biblid74482"><title xml:id="idm139992591811072">Wiebe Peters. KONTOUREN TIL EN ROMANFIGUR (DK)</title></bibl><bibl xml:id="biblid74587"><title xml:id="idm139992591810144">En Rejseskildring (DK)</title></bibl><bibl xml:id="biblid74639"><title xml:id="idm139992591809312">Doktor Faust (DK)</title></bibl><bibl xml:id="biblid74851"><title xml:id="idm139992591808480">Fugleredernes Filosofi (DK)</title></bibl></listBibl></sourceDesc>
+      <sourceDesc xml:id="idm139992591859120">
+        <bibl xml:id="idm139992591858992"><author n="1" xml:id="idm139992591858304"><name xml:id="idm139992591858048"><surname xml:id="idm139992591857920">Jacobsen</surname>, <forename xml:id="idm139992591857488">J. P.</forename></name></author><title xml:id="idm139992591857200">Lyrik og prosa</title><pubPlace xml:id="idm139992591856912">[København]</pubPlace>; <pubPlace xml:id="idm139992591856448">[Valby]</pubPlace><publisher xml:id="idm139992591855984">Det Danske Sprog- og Litteraturselskab</publisher><publisher xml:id="idm139992591855680">Borgen</publisher><date xml:id="idm139992591855344">1993</date></bibl>
+        <listBibl xml:id="idm139992591855056">
+          <bibl xml:id="biblid54665">
+            <title xml:id="idm139992591841904">Dagbogsoptegnelser (DK)</title>
+          </bibl>
+          <bibl xml:id="biblid56069">
+            <title xml:id="idm139992591841072">Hervert Sperring (DK)</title>
+          </bibl>
+          <bibl xml:id="biblid61991">
+            <title xml:id="idm139992591840240">Monomanie (DK)</title>
+          </bibl>
+          <bibl xml:id="biblid62335">
+            <title xml:id="idm139992591839456">Skoven ved Middagstid (DK)</title>
+          </bibl>
+          <bibl xml:id="biblid62432">
+            <title xml:id="idm139992591838656">Regnvejr i Skoven (DK)</title>
+          </bibl>
+          <bibl xml:id="biblid62507">
+            <title xml:id="idm139992591837872">En Arabesk (DK)</title>
+          </bibl>
+          <bibl xml:id="biblid62768">
+            <title xml:id="idm139992591837088">Digterliv (DK)</title>
+          </bibl>
+          <bibl xml:id="biblid62853">
+            <title xml:id="idm139992591836304">Der aabnes en Dør (DK)</title>
+          </bibl>
+          <bibl xml:id="biblid63094">
+            <title xml:id="idm139992591835488">I Seraillets Have (DK)</title>
+          </bibl>
+          <bibl xml:id="biblid63154">
+            <title xml:id="idm139992591834592">Rim (DK)</title>
+          </bibl>
+          <bibl xml:id="biblid63236">
+            <title xml:id="idm139992591833760">Faustina (DK)</title>
+          </bibl>
+          <bibl xml:id="biblid63473">
+            <title xml:id="idm139992591832976">Alle Smaablomster trip, trip, trip (DK)</title>
+          </bibl>
+          <bibl xml:id="biblid63512">
+            <title xml:id="idm139992591832128">Polka (DK)</title>
+          </bibl>
+          <bibl xml:id="biblid63596">
+            <title xml:id="idm139992591831296">Grækenland (DK)</title>
+          </bibl>
+          <bibl xml:id="biblid63753">
+            <title xml:id="idm139992591830448">Det er Stævnemødets Time (DK)</title>
+          </bibl>
+          <bibl xml:id="biblid63896">
+            <title xml:id="idm139992591829616">Arabesk Til en Haandtegning af Michel Angelo. (DK)</title>
+          </bibl>
+          <bibl xml:id="biblid64320">
+            <title xml:id="idm139992591828800">Silkesko over gylden Læst! (DK)</title>
+          </bibl>
+          <bibl xml:id="biblid64371">
+            <title xml:id="idm139992591827856">Liglagner i Festons omkring mit Billed (DK)</title>
+          </bibl>
+          <bibl xml:id="biblid64421">
+            <title xml:id="idm139992591826992">Det bødes der for (DK)</title>
+          </bibl>
+          <bibl xml:id="biblid64516">
+            <title xml:id="idm139992591826128">Marine (DK)</title>
+          </bibl>
+          <bibl xml:id="biblid64589">
+            <title xml:id="idm139992591825296">Genrebillede (DK)</title>
+          </bibl>
+          <bibl xml:id="biblid64643">
+            <title xml:id="idm139992591824464">Cendrée og lille (DK)</title>
+          </bibl>
+          <bibl xml:id="biblid64806">
+            <title xml:id="idm139992591823600">Har Dagen sanket al sin Sorg (DK)</title>
+          </bibl>
+          <bibl xml:id="biblid64883">
+            <title xml:id="idm139992591822752">Irmelin Rose (DK)</title>
+          </bibl>
+          <bibl xml:id="biblid65012">
+            <title xml:id="idm139992591821968">Evig og uden Forandring (DK)</title>
+          </bibl>
+          <bibl xml:id="biblid65068">
+            <title xml:id="idm139992591821168">Englen Asali (DK)</title>
+          </bibl>
+          <bibl xml:id="biblid65150">
+            <title xml:id="idm139992591820336">Det har Seraferne (DK)</title>
+          </bibl>
+          <bibl xml:id="biblid65258">
+            <title xml:id="idm139992591819504">Saa standsed' og der den Blodets Strøm (DK)</title>
+          </bibl>
+          <bibl xml:id="biblid65307">
+            <title xml:id="idm139992591818592">Lys over Landet (DK)</title>
+          </bibl>
+          <bibl xml:id="biblid65366">
+            <title xml:id="idm139992591817696">Mogens (DK)</title>
+          </bibl>
+          <bibl xml:id="biblid68095">
+            <title xml:id="idm139992591816912">Et Skud i Taagen (DK)</title>
+          </bibl>
+          <bibl xml:id="biblid69028">
+            <title xml:id="idm139992591816080">To Verdener (DK)</title>
+          </bibl>
+          <bibl xml:id="biblid69385">
+            <title xml:id="idm139992591815296">Fra Skitsebogen (DK)</title>
+          </bibl>
+          <bibl xml:id="biblid69766">
+            <title xml:id="idm139992591814464">Pesten i Bergamo (DK)</title>
+          </bibl>
+          <bibl xml:id="biblid70295">
+            <title xml:id="idm139992591813632">Fru Fønss (DK)</title>
+          </bibl>
+          <bibl xml:id="biblid71518">
+            <title xml:id="idm139992591812784">Den gamle Vandpost (ET EVENTYR I MANER) (DK)</title>
+          </bibl>
+          <bibl xml:id="biblid71556">
+            <title xml:id="idm139992591811920">En Cactus springer ud (DK)</title>
+          </bibl>
+          <bibl xml:id="biblid74482">
+            <title xml:id="idm139992591811072">Wiebe Peters. KONTOUREN TIL EN ROMANFIGUR (DK)</title>
+          </bibl>
+          <bibl xml:id="biblid74587">
+            <title xml:id="idm139992591810144">En Rejseskildring (DK)</title>
+          </bibl>
+          <bibl xml:id="biblid74639">
+            <title xml:id="idm139992591809312">Doktor Faust (DK)</title>
+          </bibl>
+          <bibl xml:id="biblid74851">
+            <title xml:id="idm139992591808480">Fugleredernes Filosofi (DK)</title>
+          </bibl>
+        </listBibl>
+      </sourceDesc>
     </fileDesc>
   </teiHeader>
   <text xml:id="idm139992591807744">
     <front xml:id="idm139992591807488">
       <pb n="1" xml:id="s1" facs="adl/jacobsenjp/jacobjp8/jajp8001"/>
       <gap reason="cancelled" xml:id="idm139992591806064"/>
-<!---->
-<!---->
-<!--Lyrik og prosa-->
       <pb n="2" xml:id="s2" facs="adl/jacobsenjp/jacobjp8/jajp8002"/>
       <pb n="3" xml:id="s3" facs="adl/jacobsenjp/jacobjp8/jajp8003"/>
       <titlePage xml:id="idm139992591802320">
@@ -169,7 +281,7 @@
 								noget Godt. Der er i Virkeligheden ingen der gjør det Gode for det
 								Godes Skyld, ligesaalidt som Nogen gjør det Onde for det Ondes Skyld
 								Man gjør det Gode fordi man føler sig forpligtiget dertil
-								<!--*dolgoeO*-->dvs. man gjør det Gode for at det man gjør skal
+								dvs. man gjør det Gode for at det man gjør skal
 								svare til det Ideal man higer efter at blive lig, det Ideal man saa
 								at sige har opstillet af sit futuriske Jeg, det Jeg der skulde være
 								Kamplønnen her hvor Aand og Legeme ere samlede. Den bevidste
@@ -323,7 +435,7 @@
 								skulle være saa geniale eller hans Følelser saa individuelle, at
 								hans Samtid ikke kan fatte dem.</p>
               <p xml:id="idm139992591687584">Da jeg havde faaet rystet Drengen ud af Ærmet og begyndte at udvikle
-								mig aandeligt <!--*dolgoeO*-->dvs. begyndte at studere mig selv,
+								mig aandeligt dvs. begyndte at studere mig selv,
 								blev jeg meget forbavset og tænkte: saadan som du er, er der ingen
 								Andre i Verden. Nu ved jeg ad Erfaringens Vej, at der er Mange. Jeg
 								kunde have Lyst til at hellige mit Jeg en speciel Undersøgelse
@@ -367,7 +479,7 @@
 								Tid Körners Biographi. 21 Aar og berømt Digter og Helt. Jeg maa
 								rigtignok sige med Don Carlos: »zwanzig Jahre und noch Nichts für
 								die Unsterblichkeit gethan«. Dog det kommer nok. (Lad mig huske at
-								skrive: Sejerssang <!--*dolgoeO*-->dvs. Sejer i Kjærlighed.)</p>
+								skrive: Sejerssang dvs. Sejer i Kjærlighed.)</p>
               <p xml:id="idm139992591674000">Begyndelse til en Novelle fra 1997:</p>
               <p xml:id="idm139992591673616">Det var en mørk Januarnat i Aaret 1868, da den unge, endnu ikke
 								bekjendte Digter Jens Peter Jacobsen med hastige Skridt ilede hen ad

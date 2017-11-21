@@ -1,10 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!--Tom opmærkning d. 11.06.2002 blo -->
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="idm140034837497744"><!-- 
-       file     ./marc_dir/002325397.xml
-       field     
-       subfield  
-       prefix   -->
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="root">
   <teiHeader xml:id="idm140034837502400">
     <fileDesc xml:id="idm140034837502144">
       <titleStmt xml:id="idm140034837501840">
@@ -23,8 +18,60 @@
         <note xml:id="idm140034837472496">
 	  </note>
       </notesStmt>
-      <sourceDesc xml:id="idm140034837471984"><bibl xml:id="idm140034837471856"><author n="1" xml:id="idm140034837471168"><name xml:id="idm140034837470912"><surname xml:id="idm140034837470784">Blicher</surname>, <forename xml:id="idm140034837470352">Steen Steensen</forename></name></author><title xml:id="idm140034837470064">Digte og Noveller</title><pubPlace xml:id="idm140034837469776">København</pubPlace>
-<date xml:id="idm140034837469264">1946</date></bibl><listBibl xml:id="idm140034837468976"><bibl xml:id="biblid54539"><title xml:id="idm140034837455824">Mit Fødeland (1814)</title></bibl><bibl xml:id="biblid54555"><title xml:id="idm140034837455008">Hedelærkens Velkommenhjem til Nattergalen (1819)</title></bibl><bibl xml:id="biblid54591"><title xml:id="idm140034837454096">Brudstykker af en Landsbydegns Dagbog (1824)</title></bibl><bibl xml:id="biblid54872"><title xml:id="idm140034837453232">Præsten i Thorning (1824)</title></bibl><bibl xml:id="biblid54955"><title xml:id="idm140034837452416">Røverstuen (1827)</title></bibl><bibl xml:id="biblid55369"><title xml:id="idm140034837451568">Jøderne paa Hald (1828)</title></bibl><bibl xml:id="biblid55774"><title xml:id="idm140034837450704">Ak! hvor forandret! (1828)</title></bibl><bibl xml:id="biblid56013"><title xml:id="idm140034837449904">Hosekræmmeren (1829)</title></bibl><bibl xml:id="biblid56184"><title xml:id="idm140034837449040">Morten Borup (1829)</title></bibl><bibl xml:id="biblid56250"><title xml:id="idm140034837448256">Præsten i Vejlbye (1829)</title></bibl><bibl xml:id="biblid56578"><title xml:id="idm140034837447376">Kjeltringliv (1829)</title></bibl><bibl xml:id="biblid54179"><title xml:id="idm140034837446544">Himmelbjerget (1833)</title></bibl><bibl xml:id="biblid56801"><title xml:id="idm140034837445760">Juleferierne (1834)</title></bibl><bibl xml:id="biblid57339"><title xml:id="idm140034837444976">Eneboeren paa Bolbjerg (1834)</title></bibl></listBibl></sourceDesc>
+      <sourceDesc xml:id="idm140034837471984">
+        <bibl xml:id="idm140034837471856">
+          <author n="1" xml:id="idm140034837471168">
+            <name xml:id="idm140034837470912"><surname xml:id="idm140034837470784">Blicher</surname>, <forename xml:id="idm140034837470352">Steen Steensen</forename></name>
+          </author>
+          <title xml:id="idm140034837470064">Digte og Noveller</title>
+          <pubPlace xml:id="idm140034837469776">København</pubPlace>
+          <date xml:id="idm140034837469264">1946</date>
+        </bibl>
+        <listBibl xml:id="idm140034837468976">
+          <bibl xml:id="biblid54539">
+            <title xml:id="idm140034837455824">Mit Fødeland (1814)</title>
+          </bibl>
+          <bibl xml:id="biblid54555">
+            <title xml:id="idm140034837455008">Hedelærkens Velkommenhjem til Nattergalen (1819)</title>
+          </bibl>
+          <bibl xml:id="biblid54591">
+            <title xml:id="idm140034837454096">Brudstykker af en Landsbydegns Dagbog (1824)</title>
+          </bibl>
+          <bibl xml:id="biblid54872">
+            <title xml:id="idm140034837453232">Præsten i Thorning (1824)</title>
+          </bibl>
+          <bibl xml:id="biblid54955">
+            <title xml:id="idm140034837452416">Røverstuen (1827)</title>
+          </bibl>
+          <bibl xml:id="biblid55369">
+            <title xml:id="idm140034837451568">Jøderne paa Hald (1828)</title>
+          </bibl>
+          <bibl xml:id="biblid55774">
+            <title xml:id="idm140034837450704">Ak! hvor forandret! (1828)</title>
+          </bibl>
+          <bibl xml:id="biblid56013">
+            <title xml:id="idm140034837449904">Hosekræmmeren (1829)</title>
+          </bibl>
+          <bibl xml:id="biblid56184">
+            <title xml:id="idm140034837449040">Morten Borup (1829)</title>
+          </bibl>
+          <bibl xml:id="biblid56250">
+            <title xml:id="idm140034837448256">Præsten i Vejlbye (1829)</title>
+          </bibl>
+          <bibl xml:id="biblid56578">
+            <title xml:id="idm140034837447376">Kjeltringliv (1829)</title>
+          </bibl>
+          <bibl xml:id="biblid54179">
+            <title xml:id="idm140034837446544">Himmelbjerget (1833)</title>
+          </bibl>
+          <bibl xml:id="biblid56801">
+            <title xml:id="idm140034837445760">Juleferierne (1834)</title>
+          </bibl>
+          <bibl xml:id="biblid57339">
+            <title xml:id="idm140034837444976">Eneboeren paa Bolbjerg (1834)</title>
+          </bibl>
+        </listBibl>
+      </sourceDesc>
     </fileDesc>
   </teiHeader>
   <text xml:id="idm140034837444288">

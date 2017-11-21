@@ -1,14 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!-- 2002.20.30 HHL pillet ved vaerktitle/header  og sat <pb/> korrekt-->
-<!-- udkommenteret "Pag." i indholdsfortegnelsen, ser haesligt ud -->
-<!-- div rettelser: saaet/faaet - sorbittret - sostre - Eufoldighed
-Ptj rettet s. 151-153-154-155-156-166-167-177-179-210-226-229-230-232-233-234-236-237-238-239-240-241- 
--->
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="idm139769607535328"><!-- 
-       file     ./marc_dir/002148279.xml
-       field     
-       subfield  
-       prefix   -->
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="root">
   <teiHeader xml:id="idm139769607509040">
     <fileDesc xml:id="idm139769607508784">
       <titleStmt xml:id="idm139769607508528">
@@ -27,17 +18,33 @@ Ptj rettet s. 151-153-154-155-156-166-167-177-179-210-226-229-230-232-233-234-23
         <note xml:id="idm139769607504528">
 	  </note>
       </notesStmt>
-      <sourceDesc xml:id="idm139769607504016"><bibl xml:id="idm139769607503888"><author n="1" xml:id="idm139769607503200"><name xml:id="idm139769607502944"><surname xml:id="idm139769607502816">Hertz</surname>, <forename xml:id="idm139769607502384">Henrik</forename></name></author><title xml:id="idm139769607502096">Udvalgte dramatiske Værker</title><pubPlace xml:id="idm139769607501776">København</pubPlace>
-<date xml:id="idm139769607501296">1897</date></bibl><listBibl xml:id="idm139769607501008"><bibl xml:id="biblid53734"><title xml:id="idm139769607487920">Indqvarteringen</title></bibl><bibl xml:id="biblid64372"><title xml:id="idm139769607487088">Svanehammen</title></bibl><bibl xml:id="biblid80806"><title xml:id="idm139769607486256">Fristelsen</title></bibl></listBibl></sourceDesc>
+      <sourceDesc xml:id="idm139769607504016">
+        <bibl xml:id="idm139769607503888">
+          <author n="1" xml:id="idm139769607503200">
+            <name xml:id="idm139769607502944"><surname xml:id="idm139769607502816">Hertz</surname>, <forename xml:id="idm139769607502384">Henrik</forename></name>
+          </author>
+          <title xml:id="idm139769607502096">Udvalgte dramatiske Værker</title>
+          <pubPlace xml:id="idm139769607501776">København</pubPlace>
+          <date xml:id="idm139769607501296">1897</date>
+        </bibl>
+        <listBibl xml:id="idm139769607501008">
+          <bibl xml:id="biblid53734">
+            <title xml:id="idm139769607487920">Indqvarteringen</title>
+          </bibl>
+          <bibl xml:id="biblid64372">
+            <title xml:id="idm139769607487088">Svanehammen</title>
+          </bibl>
+          <bibl xml:id="biblid80806">
+            <title xml:id="idm139769607486256">Fristelsen</title>
+          </bibl>
+        </listBibl>
+      </sourceDesc>
     </fileDesc>
   </teiHeader>
   <text xml:id="idm139769607485616">
     <front xml:id="idm139769607485360">
       <pb n="a" xml:id="sa" facs="adl/hertz/hertz04/hertz4fm001"/>
       <gap reason="cancelled" xml:id="idm139769607483856"/>
-<!---->
-<!---->
-<!--Henrik Hertz, Dramatiske Værker-->
       <titlePage xml:id="idm139769607482336">
         <docAuthor xml:id="idm139769607482080">Henrik Hertz</docAuthor>
         <docTitle xml:id="idm139769607481664">
@@ -62,7 +69,6 @@ Ptj rettet s. 151-153-154-155-156-166-167-177-179-210-226-229-230-232-233-234-23
       <div type="toc" xml:id="idm139769607473936">
         <head xml:id="idm139769607473344">Indhold.</head>
         <list type="simple" xml:id="idm139769607472928">
-<!--HHL<item>Pag.</item>-->
           <item xml:id="idm139769607472048">Indqvarteringen . . . . . . . . .1.</item>
           <item xml:id="idm139769607471616">Svanehammen . . . . . . . . . . 103.</item>
           <item xml:id="idm139769607471184">Fristelsen . . . . . . . . . . .245.</item>

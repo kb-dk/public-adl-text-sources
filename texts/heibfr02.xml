@@ -1,9 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="idm140151022910496"><!-- 
-       file     ./marc_dir/001663554.xml
-       field     
-       subfield  
-       prefix   -->
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="root">
   <teiHeader xml:id="idm140151022909840">
     <fileDesc xml:id="idm140151022909584">
       <titleStmt xml:id="idm140151022909280">
@@ -22,17 +18,28 @@
         <note xml:id="idm140151022880208">
 	  </note>
       </notesStmt>
-      <sourceDesc xml:id="idm140151022879696"><bibl xml:id="idm140151022879568"><author n="1" xml:id="idm140151022878880"><name xml:id="idm140151022878624"><surname xml:id="idm140151022878496">Heiberg</surname>, <forename xml:id="idm140151022878032">Johanne Luise</forename></name></author><title xml:id="idm140151022877744">Et liv genoplevet i erindringen</title><pubPlace xml:id="idm140151022877440">[København]</pubPlace>
-<publisher xml:id="idm140151022876976">Gyldendal</publisher><date xml:id="idm140151022876640">1973-74.</date></bibl><listBibl xml:id="idm140151022876352"><bibl xml:id="biblid54097"><title xml:id="idm140151022863200">Et liv genoplevet i erindringen, Bind II 1842-49</title></bibl></listBibl></sourceDesc>
+      <sourceDesc xml:id="idm140151022879696">
+        <bibl xml:id="idm140151022879568">
+          <author n="1" xml:id="idm140151022878880">
+            <name xml:id="idm140151022878624"><surname xml:id="idm140151022878496">Heiberg</surname>, <forename xml:id="idm140151022878032">Johanne Luise</forename></name>
+          </author>
+          <title xml:id="idm140151022877744">Et liv genoplevet i erindringen</title>
+          <pubPlace xml:id="idm140151022877440">[København]</pubPlace>
+          <publisher xml:id="idm140151022876976">Gyldendal</publisher>
+          <date xml:id="idm140151022876640">1973-74.</date>
+        </bibl>
+        <listBibl xml:id="idm140151022876352">
+          <bibl xml:id="biblid54097">
+            <title xml:id="idm140151022863200">Et liv genoplevet i erindringen, Bind II 1842-49</title>
+          </bibl>
+        </listBibl>
+      </sourceDesc>
     </fileDesc>
   </teiHeader>
   <text xml:id="workid54097" decls="#biblid54097">
     <front xml:id="idm140151022861584">
       <pb n="I" facs="adl/heibfr/heibfr2/hefr2001" xml:id="idm140151022861280"/>
       <gap reason="cancelled" xml:id="idm140151022860416"/>
-<!---->
-<!---->
-<!--Et liv genoplevet i erindringen BIND II 1842-49-->
       <pb n="II" facs="adl/heibfr/heibfr2/hefr2002" xml:id="idm140151022858864"/>
       <pb n="III" facs="adl/heibfr/heibfr2/hefr2003" xml:id="idm140151022858128"/>
       <titlePage xml:id="idm140151022857360">

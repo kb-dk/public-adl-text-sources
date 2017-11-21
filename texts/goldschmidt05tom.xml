@@ -1,10 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!--Tom opmærkning d.14.4.2002 blo -->
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="idm139806182059024"><!-- 
-       file     ./marc_dir/001823971.xml
-       field     
-       subfield  
-       prefix   -->
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="root">
   <teiHeader xml:id="idm139806182058192">
     <fileDesc xml:id="idm139806182057936">
       <titleStmt xml:id="idm139806182057632">
@@ -23,8 +18,21 @@
         <note xml:id="idm139806182028416">
 	  </note>
       </notesStmt>
-      <sourceDesc xml:id="idm139806182027904"><bibl xml:id="idm139806182027776"><author n="1" xml:id="idm139806182027088"><name xml:id="idm139806182026832"><surname xml:id="idm139806182026704">Goldschmidt</surname>, <forename xml:id="idm139806182026240">M. A.</forename></name></author><title xml:id="idm139806182025952">M. Goldschmidts Poetiske Skrifter</title><pubPlace xml:id="idm139806182025648">København</pubPlace>
-<date xml:id="idm139806182025136">1896-98</date></bibl><listBibl xml:id="idm139806182024848"><bibl xml:id="biblid54158"><title xml:id="idm139806182011696">En Jøde</title></bibl></listBibl></sourceDesc>
+      <sourceDesc xml:id="idm139806182027904">
+        <bibl xml:id="idm139806182027776">
+          <author n="1" xml:id="idm139806182027088">
+            <name xml:id="idm139806182026832"><surname xml:id="idm139806182026704">Goldschmidt</surname>, <forename xml:id="idm139806182026240">M. A.</forename></name>
+          </author>
+          <title xml:id="idm139806182025952">M. Goldschmidts Poetiske Skrifter</title>
+          <pubPlace xml:id="idm139806182025648">København</pubPlace>
+          <date xml:id="idm139806182025136">1896-98</date>
+        </bibl>
+        <listBibl xml:id="idm139806182024848">
+          <bibl xml:id="biblid54158">
+            <title xml:id="idm139806182011696">En Jøde</title>
+          </bibl>
+        </listBibl>
+      </sourceDesc>
     </fileDesc>
   </teiHeader>
   <text xml:id="idm139806182011056">

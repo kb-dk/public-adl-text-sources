@@ -1,9 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="idm140324075580384"><!-- 
-       file     ./marc_dir/001990454.xml
-       field     
-       subfield  
-       prefix   -->
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="root">
   <teiHeader xml:id="idm140324075579728">
     <fileDesc xml:id="idm140324075579472">
       <titleStmt xml:id="idm140324075579168">
@@ -18,8 +14,22 @@
         <note xml:id="idm140324075551248">
 	  </note>
       </notesStmt>
-      <sourceDesc xml:id="idm140324075550688"><bibl xml:id="idm140324075550560"><author n="1" xml:id="idm140324075549936"><name xml:id="idm140324075549680"><surname xml:id="idm140324075549552">Brandes</surname>, <forename xml:id="idm140324075549088">Edvard</forename></name></author><title xml:id="idm140324075548800">Holberg og hans Scene</title><pubPlace xml:id="idm140324075548512">København</pubPlace>
-<publisher xml:id="idm140324075548048">Gyldendal</publisher><date xml:id="idm140324075547712">1898</date></bibl><listBibl xml:id="idm140324075547424"><bibl xml:id="biblid54266"><title xml:id="idm140324075534272">Holberg og hans Scene</title></bibl></listBibl></sourceDesc>
+      <sourceDesc xml:id="idm140324075550688">
+        <bibl xml:id="idm140324075550560">
+          <author n="1" xml:id="idm140324075549936">
+            <name xml:id="idm140324075549680"><surname xml:id="idm140324075549552">Brandes</surname>, <forename xml:id="idm140324075549088">Edvard</forename></name>
+          </author>
+          <title xml:id="idm140324075548800">Holberg og hans Scene</title>
+          <pubPlace xml:id="idm140324075548512">København</pubPlace>
+          <publisher xml:id="idm140324075548048">Gyldendal</publisher>
+          <date xml:id="idm140324075547712">1898</date>
+        </bibl>
+        <listBibl xml:id="idm140324075547424">
+          <bibl xml:id="biblid54266">
+            <title xml:id="idm140324075534272">Holberg og hans Scene</title>
+          </bibl>
+        </listBibl>
+      </sourceDesc>
     </fileDesc>
   </teiHeader>
   <text xml:id="idm140324075533632">

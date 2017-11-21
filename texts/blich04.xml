@@ -1,10 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!-- VL 4.10.2002 +  ; removed '.tif' from image files' designation; added blank before <hi ..   Ptj rettet  s. 251-276-346-   -->
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="idm140011520736768"><!-- 
-       file     ./marc_dir/001383696.xml
-       field     
-       subfield  
-       prefix   -->
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="root">
   <teiHeader xml:id="idm140011520702800">
     <fileDesc xml:id="idm140011520702544">
       <titleStmt xml:id="idm140011520702240">
@@ -25,8 +20,67 @@
         <note xml:id="idm140011520670752">
 	  </note>
       </notesStmt>
-      <sourceDesc xml:id="idm140011520670240"><bibl xml:id="idm140011520670112"><author n="1" xml:id="idm140011520669936"><name xml:id="idm140011520669568"><surname xml:id="idm140011520669440">Blicher</surname>, <forename xml:id="idm140011520668976">Steen Steensen</forename></name></author><title xml:id="idm140011520668688">Udvalgte værker</title><pubPlace xml:id="idm140011520668384">[København]</pubPlace>
-<publisher xml:id="idm140011520667920">Gyldendal</publisher><date xml:id="idm140011520667584">1982-83</date></bibl><listBibl xml:id="idm140011520667296"><bibl xml:id="biblid54879"><title xml:id="idm140011520654144">Selvbiografi (Steen Steensen Blicher)</title></bibl><bibl xml:id="biblid57535"><title xml:id="idm140011520653344">Jydske Røverhistorier</title></bibl><bibl xml:id="biblid57812"><title xml:id="idm140011520652528">Oldsagn paa Alheden</title></bibl><bibl xml:id="biblid58551"><title xml:id="idm140011520651744">Brudstykker af en Landsbydegns Dagbog</title></bibl><bibl xml:id="biblid60188"><title xml:id="idm140011520650896">Else Sandberg</title></bibl><bibl xml:id="biblid60580"><title xml:id="idm140011520650112">En Aften-Underholdning paa Dagbjerg Dos</title></bibl><bibl xml:id="biblid60796"><title xml:id="idm140011520649312">Røverstuen</title></bibl><bibl xml:id="biblid63790"><title xml:id="idm140011520648480">Stakkels Louis!</title></bibl><bibl xml:id="biblid66033"><title xml:id="idm140011520647648">Jøderne paa Hald</title></bibl><bibl xml:id="biblid69191"><title xml:id="idm140011520646800">Sildig Opvaagnen</title></bibl><bibl xml:id="biblid70524"><title xml:id="idm140011520645968">Ak! hvor forandret!</title></bibl><bibl xml:id="biblid72414"><title xml:id="idm140011520645136">Hosekræmmeren</title></bibl><bibl xml:id="biblid73730"><title xml:id="idm140011520644336">Peer Spillemands Skibsjournal</title></bibl><bibl xml:id="biblid75253"><title xml:id="idm140011520643472">Præsten i Vejlbye</title></bibl><bibl xml:id="biblid77621"><title xml:id="idm140011520642624">Kjeltringliv</title></bibl><bibl xml:id="biblid79119"><title xml:id="idm140011520641840">Telse</title></bibl></listBibl></sourceDesc>
+      <sourceDesc xml:id="idm140011520670240">
+        <bibl xml:id="idm140011520670112">
+          <author n="1" xml:id="idm140011520669936">
+            <name xml:id="idm140011520669568"><surname xml:id="idm140011520669440">Blicher</surname>, <forename xml:id="idm140011520668976">Steen Steensen</forename></name>
+          </author>
+          <title xml:id="idm140011520668688">Udvalgte værker</title>
+          <pubPlace xml:id="idm140011520668384">[København]</pubPlace>
+          <publisher xml:id="idm140011520667920">Gyldendal</publisher>
+          <date xml:id="idm140011520667584">1982-83</date>
+        </bibl>
+        <listBibl xml:id="idm140011520667296">
+          <bibl xml:id="biblid54879">
+            <title xml:id="idm140011520654144">Selvbiografi (Steen Steensen Blicher)</title>
+          </bibl>
+          <bibl xml:id="biblid57535">
+            <title xml:id="idm140011520653344">Jydske Røverhistorier</title>
+          </bibl>
+          <bibl xml:id="biblid57812">
+            <title xml:id="idm140011520652528">Oldsagn paa Alheden</title>
+          </bibl>
+          <bibl xml:id="biblid58551">
+            <title xml:id="idm140011520651744">Brudstykker af en Landsbydegns Dagbog</title>
+          </bibl>
+          <bibl xml:id="biblid60188">
+            <title xml:id="idm140011520650896">Else Sandberg</title>
+          </bibl>
+          <bibl xml:id="biblid60580">
+            <title xml:id="idm140011520650112">En Aften-Underholdning paa Dagbjerg Dos</title>
+          </bibl>
+          <bibl xml:id="biblid60796">
+            <title xml:id="idm140011520649312">Røverstuen</title>
+          </bibl>
+          <bibl xml:id="biblid63790">
+            <title xml:id="idm140011520648480">Stakkels Louis!</title>
+          </bibl>
+          <bibl xml:id="biblid66033">
+            <title xml:id="idm140011520647648">Jøderne paa Hald</title>
+          </bibl>
+          <bibl xml:id="biblid69191">
+            <title xml:id="idm140011520646800">Sildig Opvaagnen</title>
+          </bibl>
+          <bibl xml:id="biblid70524">
+            <title xml:id="idm140011520645968">Ak! hvor forandret!</title>
+          </bibl>
+          <bibl xml:id="biblid72414">
+            <title xml:id="idm140011520645136">Hosekræmmeren</title>
+          </bibl>
+          <bibl xml:id="biblid73730">
+            <title xml:id="idm140011520644336">Peer Spillemands Skibsjournal</title>
+          </bibl>
+          <bibl xml:id="biblid75253">
+            <title xml:id="idm140011520643472">Præsten i Vejlbye</title>
+          </bibl>
+          <bibl xml:id="biblid77621">
+            <title xml:id="idm140011520642624">Kjeltringliv</title>
+          </bibl>
+          <bibl xml:id="biblid79119">
+            <title xml:id="idm140011520641840">Telse</title>
+          </bibl>
+        </listBibl>
+      </sourceDesc>
     </fileDesc>
   </teiHeader>
   <text xml:id="idm140011520641200">

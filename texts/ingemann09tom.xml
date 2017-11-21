@@ -1,10 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!--Tom opmærkning d. 23.09.2002 blo -->
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="idm140438204553104"><!-- 
-       file     ./marc_dir/001916176.xml
-       field    248 
-       subfield a 
-       prefix   IV.-->
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="root">
   <teiHeader xml:id="idm140438204557632">
     <fileDesc xml:id="idm140438204557376">
       <titleStmt xml:id="idm140438204557072">
@@ -23,8 +18,22 @@
         <note xml:id="idm140438204528048">
 	  </note>
       </notesStmt>
-      <sourceDesc xml:id="idm140438204527536"><bibl xml:id="idm140438204527408"><author n="1" xml:id="idm140438204526720"><name xml:id="idm140438204526464"><surname xml:id="idm140438204526336">Ingemann</surname>, <forename xml:id="idm140438204525872">B. S.</forename></name></author><title xml:id="idm140438204525584">Historiske Romaner</title><title xml:id="idm140438204525296">: I. Valdemar Seier</title><pubPlace xml:id="idm140438204525008">København</pubPlace>
-<date xml:id="idm140438204524528">1911-1912</date></bibl><listBibl xml:id="idm140438204524240"><bibl xml:id="biblid54250"><title xml:id="idm140438204511088">Prins Otto af Danmark og hans Samtid</title></bibl></listBibl></sourceDesc>
+      <sourceDesc xml:id="idm140438204527536">
+        <bibl xml:id="idm140438204527408">
+          <author n="1" xml:id="idm140438204526720">
+            <name xml:id="idm140438204526464"><surname xml:id="idm140438204526336">Ingemann</surname>, <forename xml:id="idm140438204525872">B. S.</forename></name>
+          </author>
+          <title xml:id="idm140438204525584">Historiske Romaner</title>
+          <title xml:id="idm140438204525296">: I. Valdemar Seier</title>
+          <pubPlace xml:id="idm140438204525008">København</pubPlace>
+          <date xml:id="idm140438204524528">1911-1912</date>
+        </bibl>
+        <listBibl xml:id="idm140438204524240">
+          <bibl xml:id="biblid54250">
+            <title xml:id="idm140438204511088">Prins Otto af Danmark og hans Samtid</title>
+          </bibl>
+        </listBibl>
+      </sourceDesc>
     </fileDesc>
   </teiHeader>
   <text xml:id="idm140438204510400">

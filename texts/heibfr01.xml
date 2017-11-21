@@ -1,9 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="idm139849790069904"><!-- 
-       file     ./marc_dir/001663554.xml
-       field     
-       subfield  
-       prefix   -->
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="root">
   <teiHeader xml:id="idm139849790069248">
     <fileDesc xml:id="idm139849790068992">
       <titleStmt xml:id="idm139849790068688">
@@ -22,17 +18,28 @@
         <note xml:id="idm139849790039376">
 	  </note>
       </notesStmt>
-      <sourceDesc xml:id="idm139849790038864"><bibl xml:id="idm139849790038736"><author n="1" xml:id="idm139849790038048"><name xml:id="idm139849790037792"><surname xml:id="idm139849790037664">Heiberg</surname>, <forename xml:id="idm139849790037200">Johanne Luise</forename></name></author><title xml:id="idm139849790036912">Et liv genoplevet i erindringen</title><pubPlace xml:id="idm139849790036608">[København]</pubPlace>
-<publisher xml:id="idm139849790036144">Gyldendal</publisher><date xml:id="idm139849790035808">1973-74.</date></bibl><listBibl xml:id="idm139849790035520"><bibl xml:id="biblid54096"><title xml:id="idm139849790022368">Et liv genoplevet i erindringen, Bind I 1812-42</title></bibl></listBibl></sourceDesc>
+      <sourceDesc xml:id="idm139849790038864">
+        <bibl xml:id="idm139849790038736">
+          <author n="1" xml:id="idm139849790038048">
+            <name xml:id="idm139849790037792"><surname xml:id="idm139849790037664">Heiberg</surname>, <forename xml:id="idm139849790037200">Johanne Luise</forename></name>
+          </author>
+          <title xml:id="idm139849790036912">Et liv genoplevet i erindringen</title>
+          <pubPlace xml:id="idm139849790036608">[København]</pubPlace>
+          <publisher xml:id="idm139849790036144">Gyldendal</publisher>
+          <date xml:id="idm139849790035808">1973-74.</date>
+        </bibl>
+        <listBibl xml:id="idm139849790035520">
+          <bibl xml:id="biblid54096">
+            <title xml:id="idm139849790022368">Et liv genoplevet i erindringen, Bind I 1812-42</title>
+          </bibl>
+        </listBibl>
+      </sourceDesc>
     </fileDesc>
   </teiHeader>
   <text xml:id="workid54096" decls="#biblid54096">
     <front xml:id="idm139849790020752">
       <pb n="I" facs="adl/heibfr/heibfr1/hefr1001" xml:id="idm139849790020448"/>
       <gap reason="cancelled" xml:id="idm139849790019584"/>
-<!---->
-<!---->
-<!--Et liv genoplevet i erindringen BIND I 1812-42-->
       <pb n="II" facs="adl/heibfr/heibfr1/hefr1002" xml:id="idm139849790018032"/>
       <pb n="III" facs="adl/heibfr/heibfr1/hefr1003" xml:id="idm139849790017296"/>
       <titlePage xml:id="idm139849790016528">
@@ -72,13 +79,8 @@ ISBN 87 00 20667 9 (indb.)</p>
       </div>
       <pb n="V" facs="adl/heibfr/heibfr1/hefr1005" xml:id="idm139849790005408"/>
       <div xml:id="idm139849790004592">
-	<p xml:id="idm139849790004288"/>
-        <signed xml:id="idm139849790004032">
-	  <hi rend="italics" xml:id="idm139849790003776">Til minde om</hi>
-	  <lb xml:id="idm139849790003088"/>
-	  <hi rend="italics" xml:id="idm139849790002832">Johan Ludvig Heiberg</hi>
-	  <lb xml:id="idm139849790002144"/>
-	  <hi rend="italics" xml:id="idm139849790001888">Udgivet den</hi> 14. <hi rend="italics" xml:id="idm139849790001168">december 1891</hi>
+        <p xml:id="idm139849790004288"/>
+        <signed xml:id="idm139849790004032"><hi rend="italics" xml:id="idm139849790003776">Til minde om</hi><lb xml:id="idm139849790003088"/><hi rend="italics" xml:id="idm139849790002832">Johan Ludvig Heiberg</hi><lb xml:id="idm139849790002144"/><hi rend="italics" xml:id="idm139849790001888">Udgivet den</hi> 14. <hi rend="italics" xml:id="idm139849790001168">december 1891</hi>
 	</signed>
       </div>
       <pb n="VI" facs="adl/heibfr/heibfr1/hefr1006" xml:id="idm139849790000224"/>

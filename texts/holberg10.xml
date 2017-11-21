@@ -1,9 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="idm140342681995152"><!-- 
-       file     ./marc_dir/001629300.xml
-       field    248 
-       subfield g 
-       prefix   10-->
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="root">
   <teiHeader xml:id="idm140342681999888">
     <fileDesc xml:id="idm140342681999632">
       <titleStmt xml:id="idm140342681999328">
@@ -24,17 +20,24 @@
         <note xml:id="idm140342681969344">
 	  </note>
       </notesStmt>
-      <sourceDesc xml:id="idm140342681968832"><bibl xml:id="idm140342681968704"><author n="1" xml:id="idm140342681968016"><name xml:id="idm140342681967760"><surname xml:id="idm140342681967632">Holberg</surname>, <forename xml:id="idm140342681967168">Ludvig</forename></name></author><title xml:id="idm140342681966880">Værker i tolv bind</title><title xml:id="idm140342681966576">1: Natur- og folkeret</title><pubPlace xml:id="idm140342681966288">[København]</pubPlace>
-<publisher xml:id="idm140342681965824">Rosenkilde og Bagger</publisher><date xml:id="idm140342681965536">1969-1971</date></bibl></sourceDesc>
+      <sourceDesc xml:id="idm140342681968832">
+        <bibl xml:id="idm140342681968704">
+          <author n="1" xml:id="idm140342681968016">
+            <name xml:id="idm140342681967760"><surname xml:id="idm140342681967632">Holberg</surname>, <forename xml:id="idm140342681967168">Ludvig</forename></name>
+          </author>
+          <title xml:id="idm140342681966880">Værker i tolv bind</title>
+          <title xml:id="idm140342681966576">1: Natur- og folkeret</title>
+          <pubPlace xml:id="idm140342681966288">[København]</pubPlace>
+          <publisher xml:id="idm140342681965824">Rosenkilde og Bagger</publisher>
+          <date xml:id="idm140342681965536">1969-1971</date>
+        </bibl>
+      </sourceDesc>
     </fileDesc>
   </teiHeader>
   <text xml:id="idm140342681964864">
     <front xml:id="idm140342681964608">
       <pb n="I" facs="adl/holberg/holberg10/holb10001" xml:id="idm140342681964304"/>
       <gap reason="cancelled" xml:id="idm140342681963440"/>
-<!---->
-<!---->
-<!--LUDVIG HOLBERG VÆRKER i tolv Bind -->
       <pb n="II" facs="adl/holberg/holberg10/holb10002" xml:id="idm140342681961936"/>
       <pb n="III" facs="adl/holberg/holberg10/holb10003" xml:id="idm140342681961168"/>
       <titlePage xml:id="idm140342681960400">

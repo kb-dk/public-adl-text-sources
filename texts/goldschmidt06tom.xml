@@ -1,10 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!--Tom opmærkning d.30.4.2002 blo -->
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="idm139977137810480"><!-- 
-       file     ./marc_dir/001823971.xml
-       field     
-       subfield  
-       prefix   -->
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="root">
   <teiHeader xml:id="idm139977137809648">
     <fileDesc xml:id="idm139977137809392">
       <titleStmt xml:id="idm139977137809088">
@@ -23,8 +18,51 @@
         <note xml:id="idm139977137779728">
 	  </note>
       </notesStmt>
-      <sourceDesc xml:id="idm139977137779216"><bibl xml:id="idm139977137779088"><author n="1" xml:id="idm139977137778400"><name xml:id="idm139977137778144"><surname xml:id="idm139977137778016">Goldschmidt</surname>, <forename xml:id="idm139977137777584">M. A.</forename></name></author><title xml:id="idm139977137777328">M. Goldschmidts Poetiske Skrifter</title><pubPlace xml:id="idm139977137777024">København</pubPlace>
-<date xml:id="idm139977137776544">1896-98</date></bibl><listBibl xml:id="idm139977137776288"><bibl xml:id="biblid54145"><title xml:id="idm139977137763136">Fortællinger</title></bibl><bibl xml:id="biblid54163"><title xml:id="idm139977137762288">Slaget ved Marengo</title></bibl><bibl xml:id="biblid54417"><title xml:id="idm139977137761456">Erinddinger fra min Onkels Hus</title></bibl><bibl xml:id="biblid54998"><title xml:id="idm139977137760656">En Almuefest</title></bibl><bibl xml:id="biblid55068"><title xml:id="idm139977137759872">For otte Skilling Hvedebrød</title></bibl><bibl xml:id="biblid55332"><title xml:id="idm139977137759040">Aron og Esther eller et Afsnit af Rabbi Nathan Clauseners Liv</title></bibl><bibl xml:id="biblid55683"><title xml:id="idm139977137758208">Drømmene</title></bibl><bibl xml:id="biblid55896"><title xml:id="idm139977137757424">Watteau's Maleri eller Saadan ere Mandfolkene</title></bibl><bibl xml:id="biblid56006"><title xml:id="idm139977137756608">Fortælling om en Flue</title></bibl><bibl xml:id="biblid56076"><title xml:id="idm139977137755744">Kejser Napoleon. Et Æventyr for Børn</title></bibl><bibl xml:id="biblid56228"><title xml:id="idm139977137754896">Don Cleophas</title></bibl></listBibl></sourceDesc>
+      <sourceDesc xml:id="idm139977137779216">
+        <bibl xml:id="idm139977137779088">
+          <author n="1" xml:id="idm139977137778400">
+            <name xml:id="idm139977137778144"><surname xml:id="idm139977137778016">Goldschmidt</surname>, <forename xml:id="idm139977137777584">M. A.</forename></name>
+          </author>
+          <title xml:id="idm139977137777328">M. Goldschmidts Poetiske Skrifter</title>
+          <pubPlace xml:id="idm139977137777024">København</pubPlace>
+          <date xml:id="idm139977137776544">1896-98</date>
+        </bibl>
+        <listBibl xml:id="idm139977137776288">
+          <bibl xml:id="biblid54145">
+            <title xml:id="idm139977137763136">Fortællinger</title>
+          </bibl>
+          <bibl xml:id="biblid54163">
+            <title xml:id="idm139977137762288">Slaget ved Marengo</title>
+          </bibl>
+          <bibl xml:id="biblid54417">
+            <title xml:id="idm139977137761456">Erinddinger fra min Onkels Hus</title>
+          </bibl>
+          <bibl xml:id="biblid54998">
+            <title xml:id="idm139977137760656">En Almuefest</title>
+          </bibl>
+          <bibl xml:id="biblid55068">
+            <title xml:id="idm139977137759872">For otte Skilling Hvedebrød</title>
+          </bibl>
+          <bibl xml:id="biblid55332">
+            <title xml:id="idm139977137759040">Aron og Esther eller et Afsnit af Rabbi Nathan Clauseners Liv</title>
+          </bibl>
+          <bibl xml:id="biblid55683">
+            <title xml:id="idm139977137758208">Drømmene</title>
+          </bibl>
+          <bibl xml:id="biblid55896">
+            <title xml:id="idm139977137757424">Watteau's Maleri eller Saadan ere Mandfolkene</title>
+          </bibl>
+          <bibl xml:id="biblid56006">
+            <title xml:id="idm139977137756608">Fortælling om en Flue</title>
+          </bibl>
+          <bibl xml:id="biblid56076">
+            <title xml:id="idm139977137755744">Kejser Napoleon. Et Æventyr for Børn</title>
+          </bibl>
+          <bibl xml:id="biblid56228">
+            <title xml:id="idm139977137754896">Don Cleophas</title>
+          </bibl>
+        </listBibl>
+      </sourceDesc>
     </fileDesc>
   </teiHeader>
   <text xml:id="idm139977137754256">

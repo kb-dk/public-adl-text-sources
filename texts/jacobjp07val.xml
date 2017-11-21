@@ -1,13 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!-- HHL 2003.03.04 check efter liste
-                    lavet table i indholdsfortegnelse
-                    Ptj rettet s. 16-19-101-106-153-
-                    -->
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="idm140176978914432"><!-- 
-       file     ./marc_dir/001473498.xml
-       field     
-       subfield  
-       prefix   -->
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="root">
   <teiHeader xml:id="idm140176978913536">
     <fileDesc xml:id="idm140176978913280">
       <titleStmt xml:id="idm140176978912976">
@@ -27,17 +19,20 @@
         <note xml:id="idm140176978883296">
 	  </note>
       </notesStmt>
-      <sourceDesc xml:id="idm140176978882784"><bibl xml:id="idm140176978882656"><author n="1" xml:id="idm140176978881968"><name xml:id="idm140176978881712"><surname xml:id="idm140176978881584">Jacobsen</surname>, <forename xml:id="idm140176978881120">J. P.</forename></name></author><title xml:id="idm140176978880832">Fru Marie Grubbe</title><pubPlace xml:id="idm140176978880544">[København]</pubPlace>; <pubPlace xml:id="idm140176978880080">[Valby]</pubPlace>
-<publisher xml:id="idm140176978879616">Det Danske Sprog- og Litteraturselskab</publisher><publisher xml:id="idm140176978879312">Borgen</publisher><date xml:id="idm140176978878976">cop. 1989</date></bibl><listBibl xml:id="idm140176978878688"><bibl xml:id="biblid54105"><title xml:id="idm140176978865536">Fru Marie Grubbe</title></bibl></listBibl></sourceDesc>
+      <sourceDesc xml:id="idm140176978882784">
+        <bibl xml:id="idm140176978882656"><author n="1" xml:id="idm140176978881968"><name xml:id="idm140176978881712"><surname xml:id="idm140176978881584">Jacobsen</surname>, <forename xml:id="idm140176978881120">J. P.</forename></name></author><title xml:id="idm140176978880832">Fru Marie Grubbe</title><pubPlace xml:id="idm140176978880544">[København]</pubPlace>; <pubPlace xml:id="idm140176978880080">[Valby]</pubPlace><publisher xml:id="idm140176978879616">Det Danske Sprog- og Litteraturselskab</publisher><publisher xml:id="idm140176978879312">Borgen</publisher><date xml:id="idm140176978878976">cop. 1989</date></bibl>
+        <listBibl xml:id="idm140176978878688">
+          <bibl xml:id="biblid54105">
+            <title xml:id="idm140176978865536">Fru Marie Grubbe</title>
+          </bibl>
+        </listBibl>
+      </sourceDesc>
     </fileDesc>
   </teiHeader>
   <text xml:id="workid54105" decls="#biblid54105">
     <front xml:id="idm140176978863952">
       <pb n="1" xml:id="s1" facs="adl/jacobsenjp/jacobjp7/jajp7001"/>
       <gap reason="cancelled" xml:id="idm140176978862496"/>
-<!---->
-<!---->
-<!--Fru Marie Grubbe-->
       <pb n="2" xml:id="s2" facs="adl/jacobsenjp/jacobjp7/jajp7002"/>
       <pb n="3" xml:id="s3" facs="adl/jacobsenjp/jacobjp7/jajp7003"/>
       <titlePage xml:id="idm140176978858752">

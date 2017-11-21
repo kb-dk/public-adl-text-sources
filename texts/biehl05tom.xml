@@ -1,10 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!--Tom opmærkning d.09.10.2002 blo -->
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="idm140537918786688"><!-- 
-       file     ./marc_dir/002161766.xml
-       field     
-       subfield  
-       prefix   -->
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="root">
   <teiHeader xml:id="idm140537918785792">
     <fileDesc xml:id="idm140537918785536">
       <titleStmt xml:id="idm140537918785232">
@@ -19,8 +14,33 @@
         <note xml:id="idm140537918757296">
 	  </note>
       </notesStmt>
-      <sourceDesc xml:id="idm140537918756784"><bibl xml:id="idm140537918756656"><author n="1" xml:id="idm140537918755968"><name xml:id="idm140537918755712"><surname xml:id="idm140537918755584">Biehl</surname>, <forename xml:id="idm140537918755152">Charlotta Dorothea</forename></name></author><title xml:id="idm140537918754864">Moralske Fortællinger</title><pubPlace xml:id="idm140537918754544">København</pubPlace>
-<date xml:id="idm140537918754032">1781-82</date></bibl><listBibl xml:id="idm140537918753744"><bibl xml:id="biblid54233"><title xml:id="idm140537918740592">Moralske Fortællinger III</title></bibl><bibl xml:id="biblid54257"><title xml:id="idm140537918739776">Den Fortvivlede Elsker</title></bibl><bibl xml:id="biblid55086"><title xml:id="idm140537918738992">Stille Band har Dyb Grund</title></bibl><bibl xml:id="biblid56532"><title xml:id="idm140537918738144">Den Nysgierrige</title></bibl><bibl xml:id="biblid57320"><title xml:id="idm140537918737312">De stridge Meeninger</title></bibl></listBibl></sourceDesc>
+      <sourceDesc xml:id="idm140537918756784">
+        <bibl xml:id="idm140537918756656">
+          <author n="1" xml:id="idm140537918755968">
+            <name xml:id="idm140537918755712"><surname xml:id="idm140537918755584">Biehl</surname>, <forename xml:id="idm140537918755152">Charlotta Dorothea</forename></name>
+          </author>
+          <title xml:id="idm140537918754864">Moralske Fortællinger</title>
+          <pubPlace xml:id="idm140537918754544">København</pubPlace>
+          <date xml:id="idm140537918754032">1781-82</date>
+        </bibl>
+        <listBibl xml:id="idm140537918753744">
+          <bibl xml:id="biblid54233">
+            <title xml:id="idm140537918740592">Moralske Fortællinger III</title>
+          </bibl>
+          <bibl xml:id="biblid54257">
+            <title xml:id="idm140537918739776">Den Fortvivlede Elsker</title>
+          </bibl>
+          <bibl xml:id="biblid55086">
+            <title xml:id="idm140537918738992">Stille Band har Dyb Grund</title>
+          </bibl>
+          <bibl xml:id="biblid56532">
+            <title xml:id="idm140537918738144">Den Nysgierrige</title>
+          </bibl>
+          <bibl xml:id="biblid57320">
+            <title xml:id="idm140537918737312">De stridge Meeninger</title>
+          </bibl>
+        </listBibl>
+      </sourceDesc>
     </fileDesc>
   </teiHeader>
   <text xml:id="idm140537918736672">

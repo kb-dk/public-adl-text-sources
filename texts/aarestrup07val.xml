@@ -1,16 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!--  OCR by ATAPY; remake 28.05.03 (Catherine Bychkova)
-         20030530 HHL fjernet et par vaerktitler, tilføjet (DK) i vaerktitle
-                      checked iflg. assumptions
-                      "Til - -" tilføjet næste linie i vaerktitle
-                      Dobbelttitler kvalificeret med næste linie
-                      indhold + register lavet til tabel
-    -->
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="idm139875157703728"><!-- 
-       file     ./marc_dir/001870521.xml
-       field     
-       subfield  
-       prefix   -->
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="root">
   <teiHeader xml:id="idm139875157702656">
     <fileDesc xml:id="idm139875157702400">
       <titleStmt xml:id="idm139875157676912">
@@ -30,8 +19,545 @@
         <note xml:id="idm139875157672384">
 	  </note>
       </notesStmt>
-      <sourceDesc xml:id="idm139875157671872"><bibl xml:id="idm139875157671744"><author n="1" xml:id="idm139875157671056"><name xml:id="idm139875157670800"><surname xml:id="idm139875157670672">Aarestrup</surname>, <forename xml:id="idm139875157670208">Emil</forename></name></author><title xml:id="idm139875157669920">Udvalgte digte</title><pubPlace xml:id="idm139875157669632">[København]</pubPlace>; <pubPlace xml:id="idm139875157669168">[Valby]</pubPlace>
-<publisher xml:id="idm139875157668704">Det Danske Sprog- og Litteraturselskab</publisher><publisher xml:id="idm139875157668400">Borgen</publisher><date xml:id="idm139875157668064">1999</date></bibl><listBibl xml:id="idm139875157667776"><bibl xml:id="biblid54586"><title xml:id="idm139875157654624">Digte 1838 (DK)</title></bibl><bibl xml:id="biblid54620"><title xml:id="idm139875157653776">Oprindelse (DK)</title></bibl><bibl xml:id="biblid54690"><title xml:id="idm139875157652992">Luca Signorelli (DK)</title></bibl><bibl xml:id="biblid55182"><title xml:id="idm139875157652160">Fjeldspringet (DK)</title></bibl><bibl xml:id="biblid55439"><title xml:id="idm139875157651376">Sidskensang (DK)</title></bibl><bibl xml:id="biblid55713"><title xml:id="idm139875157650544">Den unge Poet (DK)</title></bibl><bibl xml:id="biblid55925"><title xml:id="idm139875157649712">Et Aftensuk (DK)</title></bibl><bibl xml:id="biblid56067"><title xml:id="idm139875157648880">Nøddevise (DK)</title></bibl><bibl xml:id="biblid56421"><title xml:id="idm139875157648080">Ungdomsmod (DK)</title></bibl><bibl xml:id="biblid56599"><title xml:id="idm139875157647248">Børnepsalme (DK)</title></bibl><bibl xml:id="biblid56705"><title xml:id="idm139875157646448">Torsten og Trine (DK)</title></bibl><bibl xml:id="biblid56893"><title xml:id="idm139875157645664">Vinens Gud (DK)</title></bibl><bibl xml:id="biblid57122"><title xml:id="idm139875157644832">Skjøn Ellens Elsker (DK)</title></bibl><bibl xml:id="biblid57345"><title xml:id="idm139875157643968">Den 14de November Til Oehlenschläger (DK)</title></bibl><bibl xml:id="biblid57582"><title xml:id="idm139875157643120">Stævnemødet (DK)</title></bibl><bibl xml:id="biblid57837"><title xml:id="idm139875157642272">Bruden (DK)</title></bibl><bibl xml:id="biblid58060"><title xml:id="idm139875157641488">Til et Barn (DK)</title></bibl><bibl xml:id="biblid58237"><title xml:id="idm139875157640704">Havfruen (DK)</title></bibl><bibl xml:id="biblid58686"><title xml:id="idm139875157639920">Sommerens Tale (DK)</title></bibl><bibl xml:id="biblid59013"><title xml:id="idm139875157639088">Nordexpeditionen (DK)</title></bibl><bibl xml:id="biblid59252"><title xml:id="idm139875157638256">Ulykken rammer Alle (DK)</title></bibl><bibl xml:id="biblid59461"><title xml:id="idm139875157637408">Gunløde (DK)</title></bibl><bibl xml:id="biblid59570"><title xml:id="idm139875157636560">Pater Hugo (DK)</title></bibl><bibl xml:id="biblid59760"><title xml:id="idm139875157635728">Til en Veninde (DK)</title></bibl><bibl xml:id="biblid59848"><title xml:id="idm139875157634896">Enken (DK)</title></bibl><bibl xml:id="biblid60024"><title xml:id="idm139875157634064">Forsvar (DK)</title></bibl><bibl xml:id="biblid60357"><title xml:id="idm139875157633232">Bondestriden (DK)</title></bibl><bibl xml:id="biblid60768"><title xml:id="idm139875157632400">Amalie Raben (DK)</title></bibl><bibl xml:id="biblid60917"><title xml:id="idm139875157631504">Naturraisonnement (DK)</title></bibl><bibl xml:id="biblid61511"><title xml:id="idm139875157630720">Til - -[En Børneflok, en Jomfruskare] (DK)</title></bibl><bibl xml:id="biblid61653"><title xml:id="idm139875157629824">Ghasele (DK)</title></bibl><bibl xml:id="biblid61745"><title xml:id="idm139875157628992">Til Vinterveiret (DK)</title></bibl><bibl xml:id="biblid62061"><title xml:id="idm139875157628208">Var det Synd? (DK)</title></bibl><bibl xml:id="biblid62186"><title xml:id="idm139875157627376">Til Elskov (DK)</title></bibl><bibl xml:id="biblid62294"><title xml:id="idm139875157733312">Mary (DK)</title></bibl><bibl xml:id="biblid62622"><title xml:id="idm139875157732592">Til Nanna (DK)</title></bibl><bibl xml:id="biblid62848"><title xml:id="idm139875157731872">Stamtræet (DK)</title></bibl><bibl xml:id="biblid63006"><title xml:id="idm139875157731120">Kun en Time (DK)</title></bibl><bibl xml:id="biblid63129"><title xml:id="idm139875157730336">Med en Brystnaal (DK)</title></bibl><bibl xml:id="biblid63268"><title xml:id="idm139875157729552">Jorden (DK)</title></bibl><bibl xml:id="biblid63435"><title xml:id="idm139875157601424">Forgjæves Opmuntring (DK)</title></bibl><bibl xml:id="biblid63573"><title xml:id="idm139875157600608">Bylivet (DK)</title></bibl><bibl xml:id="biblid63860"><title xml:id="idm139875157599824">I Fjelleboden (DK)</title></bibl><bibl xml:id="biblid63966"><title xml:id="idm139875157599040">Eremiten (DK)</title></bibl><bibl xml:id="biblid64161"><title xml:id="idm139875157598256">Silhouetter af en Præstefamilie (DK)</title></bibl><bibl xml:id="biblid64413"><title xml:id="idm139875157597408">Ved en Vens Hjemkomst (DK)</title></bibl><bibl xml:id="biblid64595"><title xml:id="idm139875157596656">Elegie  [Af mangen gravitetisk Sjæl, hvor tidt] (DK)</title></bibl><bibl xml:id="biblid64823"><title xml:id="idm139875157595776">Aturernes Grave (DK)</title></bibl><bibl xml:id="biblid65137"><title xml:id="idm139875157594992">Ritorneller [Blomst af Mimosen] (DK)</title></bibl><bibl xml:id="biblid65946"><title xml:id="idm139875157594240">Charlottenlund (DK)</title></bibl><bibl xml:id="biblid66851"><title xml:id="idm139875157593456">Dyrehaugen (DK)</title></bibl><bibl xml:id="biblid67527"><title xml:id="idm139875157592672">Erotiske Situationer (DK)</title></bibl><bibl xml:id="biblid67552"><title xml:id="idm139875157591856">Paa Bjerget (DK)</title></bibl><bibl xml:id="biblid67746"><title xml:id="idm139875157591072">Ved Huset (DK)</title></bibl><bibl xml:id="biblid67798"><title xml:id="idm139875157590288">Fjerboldtspillet (DK)</title></bibl><bibl xml:id="biblid67897"><title xml:id="idm139875157589504">I Theatret (DK)</title></bibl><bibl xml:id="biblid68018"><title xml:id="idm139875157588720">En Middag (DK)</title></bibl><bibl xml:id="biblid68105"><title xml:id="idm139875157587936">Erkjendelse (DK)</title></bibl><bibl xml:id="biblid68148"><title xml:id="idm139875157583024">Brønden (DK)</title></bibl><bibl xml:id="biblid68235"><title xml:id="idm139875157582336">I en Landsbykirke (DK)</title></bibl><bibl xml:id="biblid68612"><title xml:id="idm139875157581648">I Blæsten (DK)</title></bibl><bibl xml:id="biblid68673"><title xml:id="idm139875157580896">En Morgenvandring (DK)</title></bibl><bibl xml:id="biblid68814"><title xml:id="idm139875157580208">Den Uforsigtige (DK)</title></bibl><bibl xml:id="biblid68918"><title xml:id="idm139875157579520">Latteren (DK)</title></bibl><bibl xml:id="biblid68970"><title xml:id="idm139875157578768">Declamationen (DK)</title></bibl><bibl xml:id="biblid69047"><title xml:id="idm139875157577984">Distraction (DK)</title></bibl><bibl xml:id="biblid69251"><title xml:id="idm139875157577200">Platanen (DK)</title></bibl><bibl xml:id="biblid69428"><title xml:id="idm139875157576352">Den Sovende  [Karether rulled i Sandet] (DK)</title></bibl><bibl xml:id="biblid69533"><title xml:id="idm139875157575536">En Soirée (DK)</title></bibl><bibl xml:id="biblid69882"><title xml:id="idm139875157574784">Paa Sneen (DK)</title></bibl><bibl xml:id="biblid70084"><title xml:id="idm139875157573936">Reflexion (DK)</title></bibl><bibl xml:id="biblid70207"><title xml:id="idm139875157573152">Uglen (DK)</title></bibl><bibl xml:id="biblid70347"><title xml:id="idm139875157572368">Tilstaaelse (DK)</title></bibl><bibl xml:id="biblid70472"><title xml:id="idm139875157571584">Det Ubegribelige (DK)</title></bibl><bibl xml:id="biblid70531"><title xml:id="idm139875157570736">Beskrivelsen (DK)</title></bibl><bibl xml:id="biblid70620"><title xml:id="idm139875157569952">Tilbageholdenhed (DK)</title></bibl><bibl xml:id="biblid70706"><title xml:id="idm139875157569104">Kanefarten (DK)</title></bibl><bibl xml:id="biblid70784"><title xml:id="idm139875157568320">I Haugen (DK)</title></bibl><bibl xml:id="biblid70870"><title xml:id="idm139875157567536">Solens Nedgang (DK)</title></bibl><bibl xml:id="biblid70993"><title xml:id="idm139875157566752">Dødsstraffen (DK)</title></bibl><bibl xml:id="biblid71059"><title xml:id="idm139875157566000">Anmodning (DK)</title></bibl><bibl xml:id="biblid71130"><title xml:id="idm139875157565216">Henrykkelse (DK)</title></bibl><bibl xml:id="biblid71234"><title xml:id="idm139875157564432">Skoveensomhed (DK)</title></bibl><bibl xml:id="biblid71312"><title xml:id="idm139875157563648">Midnatsscene (DK)</title></bibl><bibl xml:id="biblid71399"><title xml:id="idm139875157562864">Grenenes Lyd (DK)</title></bibl><bibl xml:id="biblid71487"><title xml:id="idm139875157562080">Umuligheden (DK)</title></bibl><bibl xml:id="biblid71548"><title xml:id="idm139875157561296">Straf (DK)</title></bibl><bibl xml:id="biblid71618"><title xml:id="idm139875157560512">Blikket (DK)</title></bibl><bibl xml:id="biblid71660"><title xml:id="idm139875157559664">Det første Bud (DK)</title></bibl><bibl xml:id="biblid71730"><title xml:id="idm139875157558784">Vanskelighed (DK)</title></bibl><bibl xml:id="biblid71773"><title xml:id="idm139875157558000">Det Overstaaede (DK)</title></bibl><bibl xml:id="biblid71842"><title xml:id="idm139875157557216">Advarsel (DK)</title></bibl><bibl xml:id="biblid71937"><title xml:id="idm139875157556432">En Afsked (DK)</title></bibl><bibl xml:id="biblid72026"><title xml:id="idm139875157555584">Formaning (DK)</title></bibl><bibl xml:id="biblid72096"><title xml:id="idm139875157554800">Angst (DK)</title></bibl><bibl xml:id="biblid72138"><title xml:id="idm139875157554016">Ved Stranden (DK)</title></bibl><bibl xml:id="biblid72208"><title xml:id="idm139875157553232">I Gravcapellet (DK)</title></bibl><bibl xml:id="biblid72304"><title xml:id="idm139875157552448">Flugt (DK)</title></bibl><bibl xml:id="biblid72392"><title xml:id="idm139875157551664">Sygdommen (DK)</title></bibl><bibl xml:id="biblid72462"><title xml:id="idm139875157550880">Hvilestedet (DK)</title></bibl><bibl xml:id="biblid72539"><title xml:id="idm139875157550048">I Ruinerne (DK)</title></bibl><bibl xml:id="biblid72645"><title xml:id="idm139875157549200">Sørgesangen (DK)</title></bibl><bibl xml:id="biblid72788"><title xml:id="idm139875157548336">Det Sidste (DK)</title></bibl><bibl xml:id="biblid72944"><title xml:id="idm139875157547504">Idyll (DK)</title></bibl><bibl xml:id="biblid73329"><title xml:id="idm139875157546672">Ved Viol-Urnen - (DK)</title></bibl><bibl xml:id="biblid73409"><title xml:id="idm139875157545888">Øhlenschlägers Collegium (DK)</title></bibl><bibl xml:id="biblid73483"><title xml:id="idm139875157545088">Sørgedragten (DK)</title></bibl><bibl xml:id="biblid73660"><title xml:id="idm139875157544288">Elegie [Hvor min Hauges Grønt i Høsten skrantner og blegner] (DK)</title></bibl><bibl xml:id="biblid73710"><title xml:id="idm139875157543392">Elegie [O hvor det lyser roligt, klart i mit drømmende Indre!] (DK)</title></bibl><bibl xml:id="biblid73754"><title xml:id="idm139875157542416">Digterskjæbne (DK)</title></bibl><bibl xml:id="biblid73805"><title xml:id="idm139875157541552">Du! Du! Du Søde ... (DK)</title></bibl><bibl xml:id="biblid73888"><title xml:id="idm139875157540672">Jeg havde faaet Brev fra dig, Nanette ... (DK)</title></bibl><bibl xml:id="biblid73970"><title xml:id="idm139875157539744">Kjære Fritz! titusind Tak ... (DK)</title></bibl><bibl xml:id="biblid74134"><title xml:id="idm139875157538848">W. Hogarths sidste Malerie (DK)</title></bibl><bibl xml:id="biblid74437"><title xml:id="idm139875157538048">Epigrammer (DK)</title></bibl><bibl xml:id="biblid74662"><title xml:id="idm139875157537200">Din Følelse er Aske (DK)</title></bibl><bibl xml:id="biblid74704"><title xml:id="idm139875157536272">Resignation (DK)</title></bibl><bibl xml:id="biblid74868"><title xml:id="idm139875157535424">Sommerfugle jeg elsker at fange et eneste Misgreb ... (DK)</title></bibl><bibl xml:id="biblid74915"><title xml:id="idm139875157534592">Fortvivlelse (DK)</title></bibl><bibl xml:id="biblid74994"><title xml:id="idm139875157533808">Paa Maskeraden ... (DK)</title></bibl><bibl xml:id="biblid75120"><title xml:id="idm139875157533024">Hemisphærerne (DK)</title></bibl><bibl xml:id="biblid75207"><title xml:id="idm139875157532224">Der er en Sjæl i denne Albu ... (DK)</title></bibl><bibl xml:id="biblid75297"><title xml:id="idm139875157531312">Der er en Trolddom paa Din Læbe ... (DK)</title></bibl><bibl xml:id="biblid75376"><title xml:id="idm139875157530416">Tag dette Kys, og tusind til, du Søde ... (DK)</title></bibl><bibl xml:id="biblid75461"><title xml:id="idm139875157529488">Enthusiasme (DK)</title></bibl><bibl xml:id="biblid75550"><title xml:id="idm139875157528640">Hvilke Spaltninger og Ridser ... (DK)</title></bibl><bibl xml:id="biblid75593"><title xml:id="idm139875157527840">Lavinen (DK)</title></bibl><bibl xml:id="biblid75636"><title xml:id="idm139875157527056">Hvilke Ætherregioner (DK)</title></bibl><bibl xml:id="biblid75699"><title xml:id="idm139875157526176">Skyggerne (DK)</title></bibl><bibl xml:id="biblid75794"><title xml:id="idm139875157525392">Paamindelse (DK)</title></bibl><bibl xml:id="biblid75874"><title xml:id="idm139875157524544">Tilstaaelsen (DK)</title></bibl><bibl xml:id="biblid76267"><title xml:id="idm139875157523760">Venskabstrøst (DK)</title></bibl><bibl xml:id="biblid76360"><title xml:id="idm139875157522960">Trudsel (DK)</title></bibl><bibl xml:id="biblid76444"><title xml:id="idm139875157522176">Sonet (DK)</title></bibl><bibl xml:id="biblid76527"><title xml:id="idm139875157521344">Eensomheden (DK)</title></bibl><bibl xml:id="biblid76641"><title xml:id="idm139875157520560">Ja, jeg har sværmet bagvendt for din Ynde ... (DK)</title></bibl><bibl xml:id="biblid76786"><title xml:id="idm139875157519632">Forgjæves! min Længsel (DK)</title></bibl><bibl xml:id="biblid77021"><title xml:id="idm139875157518736">Lokkerne (DK)</title></bibl><bibl xml:id="biblid77099"><title xml:id="idm139875157517840">Hendes Lokker (DK)</title></bibl><bibl xml:id="biblid77337"><title xml:id="idm139875157516992">Taarerne (DK)</title></bibl><bibl xml:id="biblid77540"><title xml:id="idm139875157516208">Tidlig Skilsmisse (DK)</title></bibl><bibl xml:id="biblid78026"><title xml:id="idm139875157515312">Frøerne - (DK)</title></bibl><bibl xml:id="biblid78150"><title xml:id="idm139875157514512">Vi sad i Vinternatten (DK)</title></bibl><bibl xml:id="biblid78217"><title xml:id="idm139875157513648">Hør, Dødens Klokker kime ... (DK)</title></bibl><bibl xml:id="biblid78394"><title xml:id="idm139875157512816">Bebreidelsen (DK)</title></bibl><bibl xml:id="biblid78506"><title xml:id="idm139875157512032">Digternes Prydelse (DK)</title></bibl><bibl xml:id="biblid78591"><title xml:id="idm139875157511184">Ritorneller [Hvor hans Manerer ere ridderlige!] (DK)</title></bibl><bibl xml:id="biblid80662"><title xml:id="idm139875157510368">Drankeren Barthold (DK)</title></bibl><bibl xml:id="biblid80984"><title xml:id="idm139875157509584">Den Sovende  [Lad mig dække dine spæde] (DK)</title></bibl><bibl xml:id="biblid81111"><title xml:id="idm139875157508608">Drømmen (DK)</title></bibl><bibl xml:id="biblid81252"><title xml:id="idm139875157507744">Kjære Ven! Jeg har faaet en Maneer ... (DK)</title></bibl><bibl xml:id="biblid81328"><title xml:id="idm139875157506880">Tilegnelse (DK)</title></bibl><bibl xml:id="biblid81439"><title xml:id="idm139875157505984">Yndig er Ourebygaard i Sommerens blussende Skjønhed ... (DK)</title></bibl><bibl xml:id="biblid81639"><title xml:id="idm139875157505088">Min Ven - Christian Petersen ... (DK)</title></bibl><bibl xml:id="biblid81719"><title xml:id="idm139875157504224">Kjøbenhavnske Minder (DK)</title></bibl><bibl xml:id="biblid82133"><title xml:id="idm139875157503344">Kom, Gudsengel, stille Død ... (DK)</title></bibl><bibl xml:id="biblid82259"><title xml:id="idm139875157502432">Til Kritikerne - (DK)</title></bibl><bibl xml:id="biblid82357"><title xml:id="idm139875157501584">Paa en Dag, der er bestemt til Lykønskninger og Foræringer ... (DK)</title></bibl><bibl xml:id="biblid53994"><title xml:id="idm139875157500608">Jeg føler Venskab for det Gamle ... (DK)</title></bibl><bibl xml:id="biblid54024"><title xml:id="idm139875157499760">Er Du en Christen? - spurgte du mig nylig ... (DK)</title></bibl><bibl xml:id="biblid82653"><title xml:id="idm139875157498880">Med Roser og Ranunkler (DK)</title></bibl><bibl xml:id="biblid82796"><title xml:id="idm139875157498080">O hvor smukt dette Landskabs Form i sit dæmrende Mørke ... (DK)</title></bibl><bibl xml:id="biblid82932"><title xml:id="idm139875157497120">Her rasler Skoven og her suser Sivet ... (DK)</title></bibl><bibl xml:id="biblid83023"><title xml:id="idm139875157496240">Naar jeg i Eenrum færdes ... (DK)</title></bibl><bibl xml:id="biblid83182"><title xml:id="idm139875157495344">Man har Sagn om Borgtapeter ... (DK)</title></bibl><bibl xml:id="biblid83423"><title xml:id="idm139875157494544">Du var henrivende paa Børneballet ... (DK)</title></bibl><bibl xml:id="biblid83504"><title xml:id="idm139875157493648">Min elskte Viv ... (DK)</title></bibl><bibl xml:id="biblid83724"><title xml:id="idm139875157492752">Som i en hellig Dødskamp ... (DK)</title></bibl><bibl xml:id="biblid83832"><title xml:id="idm139875157491920">Jeg saa dig blusse og jeg skjalv ... (DK)</title></bibl><bibl xml:id="biblid83874"><title xml:id="idm139875157491040">Du var den fine Rose ... (DK)</title></bibl><bibl xml:id="biblid83898"><title xml:id="idm139875157490240">Her var end Naturen samlet ... (DK)</title></bibl><bibl xml:id="biblid83923"><title xml:id="idm139875157489440">Embryo (DK)</title></bibl><bibl xml:id="biblid83958"><title xml:id="idm139875157488656">Fragment (DK)</title></bibl><bibl xml:id="biblid83993"><title xml:id="idm139875157487760">Men fra Erindringen, det Svundne (DK)</title></bibl><bibl xml:id="biblid84018"><title xml:id="idm139875157486960">I disse Sneeregioner (DK)</title></bibl><bibl xml:id="biblid84083"><title xml:id="idm139875157486096">Optegnelser I. Uddrag (DK)</title></bibl><bibl xml:id="biblid84358"><title xml:id="idm139875157485296">Optegnelser II. Uddrag (DK)</title></bibl><bibl xml:id="biblid84610"><title xml:id="idm139875157484448">Optegnelser III. Uddrag (DK)</title></bibl></listBibl></sourceDesc>
+      <sourceDesc xml:id="idm139875157671872">
+        <bibl xml:id="idm139875157671744"><author n="1" xml:id="idm139875157671056"><name xml:id="idm139875157670800"><surname xml:id="idm139875157670672">Aarestrup</surname>, <forename xml:id="idm139875157670208">Emil</forename></name></author><title xml:id="idm139875157669920">Udvalgte digte</title><pubPlace xml:id="idm139875157669632">[København]</pubPlace>; <pubPlace xml:id="idm139875157669168">[Valby]</pubPlace><publisher xml:id="idm139875157668704">Det Danske Sprog- og Litteraturselskab</publisher><publisher xml:id="idm139875157668400">Borgen</publisher><date xml:id="idm139875157668064">1999</date></bibl>
+        <listBibl xml:id="idm139875157667776">
+          <bibl xml:id="biblid54586">
+            <title xml:id="idm139875157654624">Digte 1838 (DK)</title>
+          </bibl>
+          <bibl xml:id="biblid54620">
+            <title xml:id="idm139875157653776">Oprindelse (DK)</title>
+          </bibl>
+          <bibl xml:id="biblid54690">
+            <title xml:id="idm139875157652992">Luca Signorelli (DK)</title>
+          </bibl>
+          <bibl xml:id="biblid55182">
+            <title xml:id="idm139875157652160">Fjeldspringet (DK)</title>
+          </bibl>
+          <bibl xml:id="biblid55439">
+            <title xml:id="idm139875157651376">Sidskensang (DK)</title>
+          </bibl>
+          <bibl xml:id="biblid55713">
+            <title xml:id="idm139875157650544">Den unge Poet (DK)</title>
+          </bibl>
+          <bibl xml:id="biblid55925">
+            <title xml:id="idm139875157649712">Et Aftensuk (DK)</title>
+          </bibl>
+          <bibl xml:id="biblid56067">
+            <title xml:id="idm139875157648880">Nøddevise (DK)</title>
+          </bibl>
+          <bibl xml:id="biblid56421">
+            <title xml:id="idm139875157648080">Ungdomsmod (DK)</title>
+          </bibl>
+          <bibl xml:id="biblid56599">
+            <title xml:id="idm139875157647248">Børnepsalme (DK)</title>
+          </bibl>
+          <bibl xml:id="biblid56705">
+            <title xml:id="idm139875157646448">Torsten og Trine (DK)</title>
+          </bibl>
+          <bibl xml:id="biblid56893">
+            <title xml:id="idm139875157645664">Vinens Gud (DK)</title>
+          </bibl>
+          <bibl xml:id="biblid57122">
+            <title xml:id="idm139875157644832">Skjøn Ellens Elsker (DK)</title>
+          </bibl>
+          <bibl xml:id="biblid57345">
+            <title xml:id="idm139875157643968">Den 14de November Til Oehlenschläger (DK)</title>
+          </bibl>
+          <bibl xml:id="biblid57582">
+            <title xml:id="idm139875157643120">Stævnemødet (DK)</title>
+          </bibl>
+          <bibl xml:id="biblid57837">
+            <title xml:id="idm139875157642272">Bruden (DK)</title>
+          </bibl>
+          <bibl xml:id="biblid58060">
+            <title xml:id="idm139875157641488">Til et Barn (DK)</title>
+          </bibl>
+          <bibl xml:id="biblid58237">
+            <title xml:id="idm139875157640704">Havfruen (DK)</title>
+          </bibl>
+          <bibl xml:id="biblid58686">
+            <title xml:id="idm139875157639920">Sommerens Tale (DK)</title>
+          </bibl>
+          <bibl xml:id="biblid59013">
+            <title xml:id="idm139875157639088">Nordexpeditionen (DK)</title>
+          </bibl>
+          <bibl xml:id="biblid59252">
+            <title xml:id="idm139875157638256">Ulykken rammer Alle (DK)</title>
+          </bibl>
+          <bibl xml:id="biblid59461">
+            <title xml:id="idm139875157637408">Gunløde (DK)</title>
+          </bibl>
+          <bibl xml:id="biblid59570">
+            <title xml:id="idm139875157636560">Pater Hugo (DK)</title>
+          </bibl>
+          <bibl xml:id="biblid59760">
+            <title xml:id="idm139875157635728">Til en Veninde (DK)</title>
+          </bibl>
+          <bibl xml:id="biblid59848">
+            <title xml:id="idm139875157634896">Enken (DK)</title>
+          </bibl>
+          <bibl xml:id="biblid60024">
+            <title xml:id="idm139875157634064">Forsvar (DK)</title>
+          </bibl>
+          <bibl xml:id="biblid60357">
+            <title xml:id="idm139875157633232">Bondestriden (DK)</title>
+          </bibl>
+          <bibl xml:id="biblid60768">
+            <title xml:id="idm139875157632400">Amalie Raben (DK)</title>
+          </bibl>
+          <bibl xml:id="biblid60917">
+            <title xml:id="idm139875157631504">Naturraisonnement (DK)</title>
+          </bibl>
+          <bibl xml:id="biblid61511">
+            <title xml:id="idm139875157630720">Til - -[En Børneflok, en Jomfruskare] (DK)</title>
+          </bibl>
+          <bibl xml:id="biblid61653">
+            <title xml:id="idm139875157629824">Ghasele (DK)</title>
+          </bibl>
+          <bibl xml:id="biblid61745">
+            <title xml:id="idm139875157628992">Til Vinterveiret (DK)</title>
+          </bibl>
+          <bibl xml:id="biblid62061">
+            <title xml:id="idm139875157628208">Var det Synd? (DK)</title>
+          </bibl>
+          <bibl xml:id="biblid62186">
+            <title xml:id="idm139875157627376">Til Elskov (DK)</title>
+          </bibl>
+          <bibl xml:id="biblid62294">
+            <title xml:id="idm139875157733312">Mary (DK)</title>
+          </bibl>
+          <bibl xml:id="biblid62622">
+            <title xml:id="idm139875157732592">Til Nanna (DK)</title>
+          </bibl>
+          <bibl xml:id="biblid62848">
+            <title xml:id="idm139875157731872">Stamtræet (DK)</title>
+          </bibl>
+          <bibl xml:id="biblid63006">
+            <title xml:id="idm139875157731120">Kun en Time (DK)</title>
+          </bibl>
+          <bibl xml:id="biblid63129">
+            <title xml:id="idm139875157730336">Med en Brystnaal (DK)</title>
+          </bibl>
+          <bibl xml:id="biblid63268">
+            <title xml:id="idm139875157729552">Jorden (DK)</title>
+          </bibl>
+          <bibl xml:id="biblid63435">
+            <title xml:id="idm139875157601424">Forgjæves Opmuntring (DK)</title>
+          </bibl>
+          <bibl xml:id="biblid63573">
+            <title xml:id="idm139875157600608">Bylivet (DK)</title>
+          </bibl>
+          <bibl xml:id="biblid63860">
+            <title xml:id="idm139875157599824">I Fjelleboden (DK)</title>
+          </bibl>
+          <bibl xml:id="biblid63966">
+            <title xml:id="idm139875157599040">Eremiten (DK)</title>
+          </bibl>
+          <bibl xml:id="biblid64161">
+            <title xml:id="idm139875157598256">Silhouetter af en Præstefamilie (DK)</title>
+          </bibl>
+          <bibl xml:id="biblid64413">
+            <title xml:id="idm139875157597408">Ved en Vens Hjemkomst (DK)</title>
+          </bibl>
+          <bibl xml:id="biblid64595">
+            <title xml:id="idm139875157596656">Elegie  [Af mangen gravitetisk Sjæl, hvor tidt] (DK)</title>
+          </bibl>
+          <bibl xml:id="biblid64823">
+            <title xml:id="idm139875157595776">Aturernes Grave (DK)</title>
+          </bibl>
+          <bibl xml:id="biblid65137">
+            <title xml:id="idm139875157594992">Ritorneller [Blomst af Mimosen] (DK)</title>
+          </bibl>
+          <bibl xml:id="biblid65946">
+            <title xml:id="idm139875157594240">Charlottenlund (DK)</title>
+          </bibl>
+          <bibl xml:id="biblid66851">
+            <title xml:id="idm139875157593456">Dyrehaugen (DK)</title>
+          </bibl>
+          <bibl xml:id="biblid67527">
+            <title xml:id="idm139875157592672">Erotiske Situationer (DK)</title>
+          </bibl>
+          <bibl xml:id="biblid67552">
+            <title xml:id="idm139875157591856">Paa Bjerget (DK)</title>
+          </bibl>
+          <bibl xml:id="biblid67746">
+            <title xml:id="idm139875157591072">Ved Huset (DK)</title>
+          </bibl>
+          <bibl xml:id="biblid67798">
+            <title xml:id="idm139875157590288">Fjerboldtspillet (DK)</title>
+          </bibl>
+          <bibl xml:id="biblid67897">
+            <title xml:id="idm139875157589504">I Theatret (DK)</title>
+          </bibl>
+          <bibl xml:id="biblid68018">
+            <title xml:id="idm139875157588720">En Middag (DK)</title>
+          </bibl>
+          <bibl xml:id="biblid68105">
+            <title xml:id="idm139875157587936">Erkjendelse (DK)</title>
+          </bibl>
+          <bibl xml:id="biblid68148">
+            <title xml:id="idm139875157583024">Brønden (DK)</title>
+          </bibl>
+          <bibl xml:id="biblid68235">
+            <title xml:id="idm139875157582336">I en Landsbykirke (DK)</title>
+          </bibl>
+          <bibl xml:id="biblid68612">
+            <title xml:id="idm139875157581648">I Blæsten (DK)</title>
+          </bibl>
+          <bibl xml:id="biblid68673">
+            <title xml:id="idm139875157580896">En Morgenvandring (DK)</title>
+          </bibl>
+          <bibl xml:id="biblid68814">
+            <title xml:id="idm139875157580208">Den Uforsigtige (DK)</title>
+          </bibl>
+          <bibl xml:id="biblid68918">
+            <title xml:id="idm139875157579520">Latteren (DK)</title>
+          </bibl>
+          <bibl xml:id="biblid68970">
+            <title xml:id="idm139875157578768">Declamationen (DK)</title>
+          </bibl>
+          <bibl xml:id="biblid69047">
+            <title xml:id="idm139875157577984">Distraction (DK)</title>
+          </bibl>
+          <bibl xml:id="biblid69251">
+            <title xml:id="idm139875157577200">Platanen (DK)</title>
+          </bibl>
+          <bibl xml:id="biblid69428">
+            <title xml:id="idm139875157576352">Den Sovende  [Karether rulled i Sandet] (DK)</title>
+          </bibl>
+          <bibl xml:id="biblid69533">
+            <title xml:id="idm139875157575536">En Soirée (DK)</title>
+          </bibl>
+          <bibl xml:id="biblid69882">
+            <title xml:id="idm139875157574784">Paa Sneen (DK)</title>
+          </bibl>
+          <bibl xml:id="biblid70084">
+            <title xml:id="idm139875157573936">Reflexion (DK)</title>
+          </bibl>
+          <bibl xml:id="biblid70207">
+            <title xml:id="idm139875157573152">Uglen (DK)</title>
+          </bibl>
+          <bibl xml:id="biblid70347">
+            <title xml:id="idm139875157572368">Tilstaaelse (DK)</title>
+          </bibl>
+          <bibl xml:id="biblid70472">
+            <title xml:id="idm139875157571584">Det Ubegribelige (DK)</title>
+          </bibl>
+          <bibl xml:id="biblid70531">
+            <title xml:id="idm139875157570736">Beskrivelsen (DK)</title>
+          </bibl>
+          <bibl xml:id="biblid70620">
+            <title xml:id="idm139875157569952">Tilbageholdenhed (DK)</title>
+          </bibl>
+          <bibl xml:id="biblid70706">
+            <title xml:id="idm139875157569104">Kanefarten (DK)</title>
+          </bibl>
+          <bibl xml:id="biblid70784">
+            <title xml:id="idm139875157568320">I Haugen (DK)</title>
+          </bibl>
+          <bibl xml:id="biblid70870">
+            <title xml:id="idm139875157567536">Solens Nedgang (DK)</title>
+          </bibl>
+          <bibl xml:id="biblid70993">
+            <title xml:id="idm139875157566752">Dødsstraffen (DK)</title>
+          </bibl>
+          <bibl xml:id="biblid71059">
+            <title xml:id="idm139875157566000">Anmodning (DK)</title>
+          </bibl>
+          <bibl xml:id="biblid71130">
+            <title xml:id="idm139875157565216">Henrykkelse (DK)</title>
+          </bibl>
+          <bibl xml:id="biblid71234">
+            <title xml:id="idm139875157564432">Skoveensomhed (DK)</title>
+          </bibl>
+          <bibl xml:id="biblid71312">
+            <title xml:id="idm139875157563648">Midnatsscene (DK)</title>
+          </bibl>
+          <bibl xml:id="biblid71399">
+            <title xml:id="idm139875157562864">Grenenes Lyd (DK)</title>
+          </bibl>
+          <bibl xml:id="biblid71487">
+            <title xml:id="idm139875157562080">Umuligheden (DK)</title>
+          </bibl>
+          <bibl xml:id="biblid71548">
+            <title xml:id="idm139875157561296">Straf (DK)</title>
+          </bibl>
+          <bibl xml:id="biblid71618">
+            <title xml:id="idm139875157560512">Blikket (DK)</title>
+          </bibl>
+          <bibl xml:id="biblid71660">
+            <title xml:id="idm139875157559664">Det første Bud (DK)</title>
+          </bibl>
+          <bibl xml:id="biblid71730">
+            <title xml:id="idm139875157558784">Vanskelighed (DK)</title>
+          </bibl>
+          <bibl xml:id="biblid71773">
+            <title xml:id="idm139875157558000">Det Overstaaede (DK)</title>
+          </bibl>
+          <bibl xml:id="biblid71842">
+            <title xml:id="idm139875157557216">Advarsel (DK)</title>
+          </bibl>
+          <bibl xml:id="biblid71937">
+            <title xml:id="idm139875157556432">En Afsked (DK)</title>
+          </bibl>
+          <bibl xml:id="biblid72026">
+            <title xml:id="idm139875157555584">Formaning (DK)</title>
+          </bibl>
+          <bibl xml:id="biblid72096">
+            <title xml:id="idm139875157554800">Angst (DK)</title>
+          </bibl>
+          <bibl xml:id="biblid72138">
+            <title xml:id="idm139875157554016">Ved Stranden (DK)</title>
+          </bibl>
+          <bibl xml:id="biblid72208">
+            <title xml:id="idm139875157553232">I Gravcapellet (DK)</title>
+          </bibl>
+          <bibl xml:id="biblid72304">
+            <title xml:id="idm139875157552448">Flugt (DK)</title>
+          </bibl>
+          <bibl xml:id="biblid72392">
+            <title xml:id="idm139875157551664">Sygdommen (DK)</title>
+          </bibl>
+          <bibl xml:id="biblid72462">
+            <title xml:id="idm139875157550880">Hvilestedet (DK)</title>
+          </bibl>
+          <bibl xml:id="biblid72539">
+            <title xml:id="idm139875157550048">I Ruinerne (DK)</title>
+          </bibl>
+          <bibl xml:id="biblid72645">
+            <title xml:id="idm139875157549200">Sørgesangen (DK)</title>
+          </bibl>
+          <bibl xml:id="biblid72788">
+            <title xml:id="idm139875157548336">Det Sidste (DK)</title>
+          </bibl>
+          <bibl xml:id="biblid72944">
+            <title xml:id="idm139875157547504">Idyll (DK)</title>
+          </bibl>
+          <bibl xml:id="biblid73329">
+            <title xml:id="idm139875157546672">Ved Viol-Urnen - (DK)</title>
+          </bibl>
+          <bibl xml:id="biblid73409">
+            <title xml:id="idm139875157545888">Øhlenschlägers Collegium (DK)</title>
+          </bibl>
+          <bibl xml:id="biblid73483">
+            <title xml:id="idm139875157545088">Sørgedragten (DK)</title>
+          </bibl>
+          <bibl xml:id="biblid73660">
+            <title xml:id="idm139875157544288">Elegie [Hvor min Hauges Grønt i Høsten skrantner og blegner] (DK)</title>
+          </bibl>
+          <bibl xml:id="biblid73710">
+            <title xml:id="idm139875157543392">Elegie [O hvor det lyser roligt, klart i mit drømmende Indre!] (DK)</title>
+          </bibl>
+          <bibl xml:id="biblid73754">
+            <title xml:id="idm139875157542416">Digterskjæbne (DK)</title>
+          </bibl>
+          <bibl xml:id="biblid73805">
+            <title xml:id="idm139875157541552">Du! Du! Du Søde ... (DK)</title>
+          </bibl>
+          <bibl xml:id="biblid73888">
+            <title xml:id="idm139875157540672">Jeg havde faaet Brev fra dig, Nanette ... (DK)</title>
+          </bibl>
+          <bibl xml:id="biblid73970">
+            <title xml:id="idm139875157539744">Kjære Fritz! titusind Tak ... (DK)</title>
+          </bibl>
+          <bibl xml:id="biblid74134">
+            <title xml:id="idm139875157538848">W. Hogarths sidste Malerie (DK)</title>
+          </bibl>
+          <bibl xml:id="biblid74437">
+            <title xml:id="idm139875157538048">Epigrammer (DK)</title>
+          </bibl>
+          <bibl xml:id="biblid74662">
+            <title xml:id="idm139875157537200">Din Følelse er Aske (DK)</title>
+          </bibl>
+          <bibl xml:id="biblid74704">
+            <title xml:id="idm139875157536272">Resignation (DK)</title>
+          </bibl>
+          <bibl xml:id="biblid74868">
+            <title xml:id="idm139875157535424">Sommerfugle jeg elsker at fange et eneste Misgreb ... (DK)</title>
+          </bibl>
+          <bibl xml:id="biblid74915">
+            <title xml:id="idm139875157534592">Fortvivlelse (DK)</title>
+          </bibl>
+          <bibl xml:id="biblid74994">
+            <title xml:id="idm139875157533808">Paa Maskeraden ... (DK)</title>
+          </bibl>
+          <bibl xml:id="biblid75120">
+            <title xml:id="idm139875157533024">Hemisphærerne (DK)</title>
+          </bibl>
+          <bibl xml:id="biblid75207">
+            <title xml:id="idm139875157532224">Der er en Sjæl i denne Albu ... (DK)</title>
+          </bibl>
+          <bibl xml:id="biblid75297">
+            <title xml:id="idm139875157531312">Der er en Trolddom paa Din Læbe ... (DK)</title>
+          </bibl>
+          <bibl xml:id="biblid75376">
+            <title xml:id="idm139875157530416">Tag dette Kys, og tusind til, du Søde ... (DK)</title>
+          </bibl>
+          <bibl xml:id="biblid75461">
+            <title xml:id="idm139875157529488">Enthusiasme (DK)</title>
+          </bibl>
+          <bibl xml:id="biblid75550">
+            <title xml:id="idm139875157528640">Hvilke Spaltninger og Ridser ... (DK)</title>
+          </bibl>
+          <bibl xml:id="biblid75593">
+            <title xml:id="idm139875157527840">Lavinen (DK)</title>
+          </bibl>
+          <bibl xml:id="biblid75636">
+            <title xml:id="idm139875157527056">Hvilke Ætherregioner (DK)</title>
+          </bibl>
+          <bibl xml:id="biblid75699">
+            <title xml:id="idm139875157526176">Skyggerne (DK)</title>
+          </bibl>
+          <bibl xml:id="biblid75794">
+            <title xml:id="idm139875157525392">Paamindelse (DK)</title>
+          </bibl>
+          <bibl xml:id="biblid75874">
+            <title xml:id="idm139875157524544">Tilstaaelsen (DK)</title>
+          </bibl>
+          <bibl xml:id="biblid76267">
+            <title xml:id="idm139875157523760">Venskabstrøst (DK)</title>
+          </bibl>
+          <bibl xml:id="biblid76360">
+            <title xml:id="idm139875157522960">Trudsel (DK)</title>
+          </bibl>
+          <bibl xml:id="biblid76444">
+            <title xml:id="idm139875157522176">Sonet (DK)</title>
+          </bibl>
+          <bibl xml:id="biblid76527">
+            <title xml:id="idm139875157521344">Eensomheden (DK)</title>
+          </bibl>
+          <bibl xml:id="biblid76641">
+            <title xml:id="idm139875157520560">Ja, jeg har sværmet bagvendt for din Ynde ... (DK)</title>
+          </bibl>
+          <bibl xml:id="biblid76786">
+            <title xml:id="idm139875157519632">Forgjæves! min Længsel (DK)</title>
+          </bibl>
+          <bibl xml:id="biblid77021">
+            <title xml:id="idm139875157518736">Lokkerne (DK)</title>
+          </bibl>
+          <bibl xml:id="biblid77099">
+            <title xml:id="idm139875157517840">Hendes Lokker (DK)</title>
+          </bibl>
+          <bibl xml:id="biblid77337">
+            <title xml:id="idm139875157516992">Taarerne (DK)</title>
+          </bibl>
+          <bibl xml:id="biblid77540">
+            <title xml:id="idm139875157516208">Tidlig Skilsmisse (DK)</title>
+          </bibl>
+          <bibl xml:id="biblid78026">
+            <title xml:id="idm139875157515312">Frøerne - (DK)</title>
+          </bibl>
+          <bibl xml:id="biblid78150">
+            <title xml:id="idm139875157514512">Vi sad i Vinternatten (DK)</title>
+          </bibl>
+          <bibl xml:id="biblid78217">
+            <title xml:id="idm139875157513648">Hør, Dødens Klokker kime ... (DK)</title>
+          </bibl>
+          <bibl xml:id="biblid78394">
+            <title xml:id="idm139875157512816">Bebreidelsen (DK)</title>
+          </bibl>
+          <bibl xml:id="biblid78506">
+            <title xml:id="idm139875157512032">Digternes Prydelse (DK)</title>
+          </bibl>
+          <bibl xml:id="biblid78591">
+            <title xml:id="idm139875157511184">Ritorneller [Hvor hans Manerer ere ridderlige!] (DK)</title>
+          </bibl>
+          <bibl xml:id="biblid80662">
+            <title xml:id="idm139875157510368">Drankeren Barthold (DK)</title>
+          </bibl>
+          <bibl xml:id="biblid80984">
+            <title xml:id="idm139875157509584">Den Sovende  [Lad mig dække dine spæde] (DK)</title>
+          </bibl>
+          <bibl xml:id="biblid81111">
+            <title xml:id="idm139875157508608">Drømmen (DK)</title>
+          </bibl>
+          <bibl xml:id="biblid81252">
+            <title xml:id="idm139875157507744">Kjære Ven! Jeg har faaet en Maneer ... (DK)</title>
+          </bibl>
+          <bibl xml:id="biblid81328">
+            <title xml:id="idm139875157506880">Tilegnelse (DK)</title>
+          </bibl>
+          <bibl xml:id="biblid81439">
+            <title xml:id="idm139875157505984">Yndig er Ourebygaard i Sommerens blussende Skjønhed ... (DK)</title>
+          </bibl>
+          <bibl xml:id="biblid81639">
+            <title xml:id="idm139875157505088">Min Ven - Christian Petersen ... (DK)</title>
+          </bibl>
+          <bibl xml:id="biblid81719">
+            <title xml:id="idm139875157504224">Kjøbenhavnske Minder (DK)</title>
+          </bibl>
+          <bibl xml:id="biblid82133">
+            <title xml:id="idm139875157503344">Kom, Gudsengel, stille Død ... (DK)</title>
+          </bibl>
+          <bibl xml:id="biblid82259">
+            <title xml:id="idm139875157502432">Til Kritikerne - (DK)</title>
+          </bibl>
+          <bibl xml:id="biblid82357">
+            <title xml:id="idm139875157501584">Paa en Dag, der er bestemt til Lykønskninger og Foræringer ... (DK)</title>
+          </bibl>
+          <bibl xml:id="biblid53994">
+            <title xml:id="idm139875157500608">Jeg føler Venskab for det Gamle ... (DK)</title>
+          </bibl>
+          <bibl xml:id="biblid54024">
+            <title xml:id="idm139875157499760">Er Du en Christen? - spurgte du mig nylig ... (DK)</title>
+          </bibl>
+          <bibl xml:id="biblid82653">
+            <title xml:id="idm139875157498880">Med Roser og Ranunkler (DK)</title>
+          </bibl>
+          <bibl xml:id="biblid82796">
+            <title xml:id="idm139875157498080">O hvor smukt dette Landskabs Form i sit dæmrende Mørke ... (DK)</title>
+          </bibl>
+          <bibl xml:id="biblid82932">
+            <title xml:id="idm139875157497120">Her rasler Skoven og her suser Sivet ... (DK)</title>
+          </bibl>
+          <bibl xml:id="biblid83023">
+            <title xml:id="idm139875157496240">Naar jeg i Eenrum færdes ... (DK)</title>
+          </bibl>
+          <bibl xml:id="biblid83182">
+            <title xml:id="idm139875157495344">Man har Sagn om Borgtapeter ... (DK)</title>
+          </bibl>
+          <bibl xml:id="biblid83423">
+            <title xml:id="idm139875157494544">Du var henrivende paa Børneballet ... (DK)</title>
+          </bibl>
+          <bibl xml:id="biblid83504">
+            <title xml:id="idm139875157493648">Min elskte Viv ... (DK)</title>
+          </bibl>
+          <bibl xml:id="biblid83724">
+            <title xml:id="idm139875157492752">Som i en hellig Dødskamp ... (DK)</title>
+          </bibl>
+          <bibl xml:id="biblid83832">
+            <title xml:id="idm139875157491920">Jeg saa dig blusse og jeg skjalv ... (DK)</title>
+          </bibl>
+          <bibl xml:id="biblid83874">
+            <title xml:id="idm139875157491040">Du var den fine Rose ... (DK)</title>
+          </bibl>
+          <bibl xml:id="biblid83898">
+            <title xml:id="idm139875157490240">Her var end Naturen samlet ... (DK)</title>
+          </bibl>
+          <bibl xml:id="biblid83923">
+            <title xml:id="idm139875157489440">Embryo (DK)</title>
+          </bibl>
+          <bibl xml:id="biblid83958">
+            <title xml:id="idm139875157488656">Fragment (DK)</title>
+          </bibl>
+          <bibl xml:id="biblid83993">
+            <title xml:id="idm139875157487760">Men fra Erindringen, det Svundne (DK)</title>
+          </bibl>
+          <bibl xml:id="biblid84018">
+            <title xml:id="idm139875157486960">I disse Sneeregioner (DK)</title>
+          </bibl>
+          <bibl xml:id="biblid84083">
+            <title xml:id="idm139875157486096">Optegnelser I. Uddrag (DK)</title>
+          </bibl>
+          <bibl xml:id="biblid84358">
+            <title xml:id="idm139875157485296">Optegnelser II. Uddrag (DK)</title>
+          </bibl>
+          <bibl xml:id="biblid84610">
+            <title xml:id="idm139875157484448">Optegnelser III. Uddrag (DK)</title>
+          </bibl>
+        </listBibl>
+      </sourceDesc>
     </fileDesc>
   </teiHeader>
   <text xml:id="idm139875157483760">
@@ -9261,7 +9787,7 @@ Af: Optegnelser I-III</head>
               <l xml:id="idm139875153799760">Den <hi rend="italics" xml:id="idm139875153799472">ubevidste</hi> og <hi rend="italics" xml:id="idm139875153798752">bevidste</hi> Skjønhed</l>
             </lg>
             <lg xml:id="idm139875153797776">
-              <l xml:id="idm139875153797520"><hi rend="italics" xml:id="idm139875153797392">devirginer</hi><!--*dolgoeO*--> dvs. krænke en Jomfru</l>
+              <l xml:id="idm139875153797520"><hi rend="italics" xml:id="idm139875153797392">devirginer</hi> dvs. krænke en Jomfru</l>
             </lg>
             <lg xml:id="idm139875153796192">
               <l xml:id="idm139875153795936">Mod dem, der elske mig, har jeg ikke Mod</l>
@@ -9347,10 +9873,10 @@ Rhetorik</p>
                 <l xml:id="idm139875153762128">Hvide Katte med blaa Øine ere næsten altid døve</l>
               </lg>
               <pb n="246" xml:id="s246" facs="adl/aarestrup/aare7/aare7246"/>
-              <p xml:id="idm139875153760304">Virtuoser - Roser - Cicisbeo - Cicisbeatet - Novizia <!--*dolgoeO*--> dvs. den første Aars Kone, viser sig kun i sin Mands Selskab. - Siden haves Cicisbeo eller Cavaliere servente, valgt efter Konens Smag eller Mandens Jalousie, undertiden forudbetinget og valgt i Ægteskabscontracten - Han indfinder sig ved Damens Toilet og faaer Befalinger angaaende Dagens Forlystelser Kun ved Middagstid og Sengetid overleveres hun Manden. -</p>
+              <p xml:id="idm139875153760304">Virtuoser - Roser - Cicisbeo - Cicisbeatet - Novizia  dvs. den første Aars Kone, viser sig kun i sin Mands Selskab. - Siden haves Cicisbeo eller Cavaliere servente, valgt efter Konens Smag eller Mandens Jalousie, undertiden forudbetinget og valgt i Ægteskabscontracten - Han indfinder sig ved Damens Toilet og faaer Befalinger angaaende Dagens Forlystelser Kun ved Middagstid og Sengetid overleveres hun Manden. -</p>
               <p xml:id="idm139875153758896">Instituter - Glutter - Amors Metaphysik - presse - Delicatesse - Titulaturvæsen - Præludier - Studier - galante Kirker, kaldes i Rom de, hvor Damer i erotisk Hensigt indfinde sig, fE. St Carlo al Corso. - Tone - romersk <hi rend="italics" xml:id="idm139875153758176">Conservatione</hi> (Selskab) - Cicerone - Elegiker - Nobili - a rivedere! - Comfort findes i London; Elégance i Paris - Syerske - Tiggerske - Bjergslot - Person - Pardon - Patron - Lazaron - Baron - Makron - Llama - Vasco de Gama - Rubini (Navn) -</p>
-              <p xml:id="idm139875153756912">Pelargonie - Antonie - Limonie - Fuchsia coccinea - Accasia Lonicera hviner Violiner - Beduiner Georginer - Vinca minor c. flore purp. - Sempervivum montanum - Aloe margaritacea - Cactus arachnoideus - Canna indica - Calla - Weimuthsfyrren <!--*dolgoeO*--> dvs. Pinus strobus - Pinus pinaster - Cerastium tomentosum (hvide Plante) Begnonia catalpa (Trompettræ) - Tulipantræ - Nereum splendens - purpurblomstr. Caprifolium Lonicera - kjødfarvede Roser - Grangrenens lange, grønne Manke - à son aise - Amore Mosaik - (Sousterrains v. Kjelder) - Emiliani - Andreani - Lazzoreschi - Gavioli - Scuriatti - Mazzini -</p>
-              <p xml:id="idm139875153755216">Viddel. Hestenavne <!--*dolgoeO*--> dvs. Fenella, Kaphozard, en Coloss Hoppe -, Thekla - Dame blanche -</p>
+              <p xml:id="idm139875153756912">Pelargonie - Antonie - Limonie - Fuchsia coccinea - Accasia Lonicera hviner Violiner - Beduiner Georginer - Vinca minor c. flore purp. - Sempervivum montanum - Aloe margaritacea - Cactus arachnoideus - Canna indica - Calla - Weimuthsfyrren  dvs. Pinus strobus - Pinus pinaster - Cerastium tomentosum (hvide Plante) Begnonia catalpa (Trompettræ) - Tulipantræ - Nereum splendens - purpurblomstr. Caprifolium Lonicera - kjødfarvede Roser - Grangrenens lange, grønne Manke - à son aise - Amore Mosaik - (Sousterrains v. Kjelder) - Emiliani - Andreani - Lazzoreschi - Gavioli - Scuriatti - Mazzini -</p>
+              <p xml:id="idm139875153755216">Viddel. Hestenavne  dvs. Fenella, Kaphozard, en Coloss Hoppe -, Thekla - Dame blanche -</p>
               <p xml:id="idm139875153754432">En Bravour i Blikket - i Figuren, Stillingen <hi rend="italics" xml:id="idm139875153754112">Natur -</hi>
 						</p>
               <p xml:id="idm139875153753328">Sultanindehoved. Industrialismus. Prosaismus. -</p>
@@ -9483,11 +10009,11 @@ rødblomstrende Oleander om Brøndene i Klosterhaugen<lb xml:id="idm139875153715
               <p xml:id="idm139875153687184">Potz wetter! potz tausend! Kotz tausend! Kotz wunder! (: tidligere fandt denne Forandring, af Ærbødighed for Ordet Gud, sted hos de Franske: sangbieu (sang de dieu), corbieu (corps de dieu), vertubleu (v. de dieu) morbleu (m. de dieu), vertugoi (vertu de dieu) morguoi (m. de dieu).</p>
               <p xml:id="idm139875153686208">sgu, saa Gud - <hi rend="italics" xml:id="idm139875153685920">God</hi>dag? - ja, <hi rend="italics" xml:id="idm139875153685232">Gudvel! -</hi> Gud veed - Gud vide - du evige <hi rend="italics" xml:id="idm139875153684496">norske</hi> Gud. (Hartmann, vom Segensprechen. Nürnberg 1680.)</p>
               <p xml:id="idm139875153683552">Herregud! - den <hi rend="italics" xml:id="idm139875153683264">Gamle</hi>, den <hi rend="italics" xml:id="idm139875153682544">gl</hi>. Gud - Han <hi rend="italics" xml:id="idm139875153681856">deroppe -</hi> den <hi rend="italics" xml:id="idm139875153681136">høieste</hi> Gud - den <hi rend="italics" xml:id="idm139875153680416">store</hi> Gud -</p>
-              <p xml:id="idm139875153679568">Dræ, Rugsædens Blomstring. Rugen staaer i Dræ. Drypnæset - Dræve - tale langsomt. hysser drysser, kysser, dysser. Druelæber. Druemund Druehals paa Kanonen. Druekam, Stilkskelettet af Klasen. Drueskud <!--*dolgoeO*--> dvs. Kartetsker.</p>
-              <p xml:id="idm139875153678432">Drømmetaage. Drømmesyn, spil. <hi rend="italics" xml:id="idm139875153678096">drøie</hi> <!--*dolgoeO*--> dvs. give Drøide. drøse. Det buldrer kun lidt hvor Duer dandse. Ordsp. Duerik <!--*dolgoeO*--> dvs. Duehan. Duefænger. duefrom. duefarvet, blaa. Dreil - Seil - 
+              <p xml:id="idm139875153679568">Dræ, Rugsædens Blomstring. Rugen staaer i Dræ. Drypnæset - Dræve - tale langsomt. hysser drysser, kysser, dysser. Druelæber. Druemund Druehals paa Kanonen. Druekam, Stilkskelettet af Klasen. Drueskud  dvs. Kartetsker.</p>
+              <p xml:id="idm139875153678432">Drømmetaage. Drømmesyn, spil. <hi rend="italics" xml:id="idm139875153678096">drøie</hi>  dvs. give Drøide. drøse. Det buldrer kun lidt hvor Duer dandse. Ordsp. Duerik  dvs. Duehan. Duefænger. duefrom. duefarvet, blaa. Dreil - Seil - 
 <pb n="253" xml:id="s253" facs="adl/aarestrup/aare7/aare7253"/>
-Skibet <hi rend="italics" xml:id="idm139875153675184">duver</hi> eller duer, bevæges langtsomt af Bølgerne dvaledød. Duunskjæg - dval <!--*dolgoeO*--> dvs. flau, vammel</p>
-              <p xml:id="idm139875153673888">- at dybe, f Ex Ploven. - dægge <!--*dolgoeO*--> dvs. opfostre, kjæle for. <hi rend="italics" xml:id="idm139875153673152">Dæggehorn</hi> Eddikebrygger = Byron. Eenling. Efterklang, lyd. Eftersnak, sang. elskovstyrket - Elskovsbøn -gave -minde -vise -pant, elskovssvag. -</p>
+Skibet <hi rend="italics" xml:id="idm139875153675184">duver</hi> eller duer, bevæges langtsomt af Bølgerne dvaledød. Duunskjæg - dval  dvs. flau, vammel</p>
+              <p xml:id="idm139875153673888">- at dybe, f Ex Ploven. - dægge  dvs. opfostre, kjæle for. <hi rend="italics" xml:id="idm139875153673152">Dæggehorn</hi> Eddikebrygger = Byron. Eenling. Efterklang, lyd. Eftersnak, sang. elskovstyrket - Elskovsbøn -gave -minde -vise -pant, elskovssvag. -</p>
               <p xml:id="idm139875153672080">Enevoldsskjønne - Konens Enevælde - Er, errer, Kobber[r]ust, flunk Flunk Blink</p>
               <p xml:id="idm139875153671520">Et Fang Hø, et Fang Mø.</p>
               <p xml:id="idm139875153671072">Skyernes Krepflor, Melkeflor.</p>
@@ -10915,7 +11441,7 @@ imod en væg. - <hi rend="italics" xml:id="idm139875152325440">Achat(sokkel</hi>
               <eg xml:id="idm139875152304320">251</eg>
               <p xml:id="idm139875152303936"><hi rend="italics" xml:id="idm139875152303808">Kim(edyr</hi>): anlæg til et foster el. en plante, en ansats til noget. - <hi rend="italics" xml:id="idm139875152302976">Infusorier</hi>: el. infusionsdyr: en type encellede dyr. - <hi rend="italics" xml:id="idm139875152302224">Mollusker</hi>: bløddyr, se n.t.s. 244. - <hi rend="italics" xml:id="idm139875152301456">Konstdrivt</hi>: kunst- el. kunstig drift. - <hi rend="italics" xml:id="idm139875152300720">Reptilier(ne</hi>): krybdyr. - <hi rend="italics" xml:id="idm139875152300000">vertebralløs(e</hi>): hvirvelløs. - <hi rend="italics" xml:id="idm139875152299248">Amphibie(r</hi>): padde, dyr der kan leve både i vand og på land.</p>
               <eg xml:id="idm139875152298304">252</eg>
-              <p xml:id="idm139875152297920"><hi rend="italics" xml:id="idm139875152297792">Argonauter</hi>: if. gr. mytologi de søfolk, der under Jasons ledelse sejlede ud for at hente det gyldne skind. - <hi rend="italics" xml:id="idm139875152296880">Potz wetter!</hi>: ty. Guds vejr, evt. Guds torden. - <hi rend="italics" xml:id="idm139875152296144">potz tausend!</hi>: ty., Guds djævel. - <hi rend="italics" xml:id="idm139875152295392">Kotz tausend!</hi>: ty., Guds djævel. - <hi rend="italics" xml:id="idm139875152294640">Kotz wunder!</hi>: ty., Guds under. - <hi rend="italics" xml:id="idm139875152293920">sangbieu (sang de dieu</hi>): fr., Guds blod. - <hi rend="italics" xml:id="idm139875152293200">corbieu (corps de dieu</hi>): fr., Guds legeme. - <hi rend="italics" xml:id="idm139875152292480">vertubleu (v. de dieu</hi>): fr., Guds dyd. - <hi rend="italics" xml:id="idm139875152291760">morbleu (m. de dieu</hi>): fr., Guds død. - <hi rend="italics" xml:id="idm139875152291008">vertugoi (vertu de dieu</hi>): fr., Guds dyd. - <hi rend="italics" xml:id="idm139875152290288">morguoi (m. de dieu</hi>): fr., Guds død. - <hi rend="italics" xml:id="idm139875152289536">Drypnæset</hi>: med dryppende næse; også krummet næse med nedadhængende spids. - <hi rend="italics" xml:id="idm139875152288688">dysse(r</hi>): dysse i søvn. - <hi rend="italics" xml:id="idm139875152287936">Druehals paa Kanonen</hi>: rund knap på bundstykket af en kanon. - <hi rend="italics" xml:id="idm139875152287152">Drueskud</hi><!--*dolgoeO*--> dvs. <hi rend="italics" xml:id="idm139875152286272">Kartetsk(er</hi>): el. kardæsk: ældre ammunitionsform til forladekanoner bestående af et cylindrisk hylster, der indeholdt små kugler eller jernstykker, der spredtes som en byge. - <hi rend="italics" xml:id="idm139875152285232">drøie (...) Drøide</hi>: gøre holdbart. - <hi rend="italics" xml:id="idm139875152284448">drøse</hi>: drysse, bevæge el. arbejde langsomt. - <hi rend="italics" xml:id="idm139875152283664">Det buldrer</hi><pb n="326" xml:id="s326" facs="adl/aarestrup/aare7/aare7326"/><hi rend="italics" xml:id="idm139875152281936">kun lidt (...) dandse</hi>: el. det dunner [dvs. »lyder«] ikke, dér Duen danser <hi rend="italics" xml:id="idm139875152281120">(Dansk Ordsprogs-Skat</hi> (se n.t.s. 23), nr. 1238). - <hi rend="italics" xml:id="idm139875152280384">Ordsp</hi>.: ordsprog.</p>
+              <p xml:id="idm139875152297920"><hi rend="italics" xml:id="idm139875152297792">Argonauter</hi>: if. gr. mytologi de søfolk, der under Jasons ledelse sejlede ud for at hente det gyldne skind. - <hi rend="italics" xml:id="idm139875152296880">Potz wetter!</hi>: ty. Guds vejr, evt. Guds torden. - <hi rend="italics" xml:id="idm139875152296144">potz tausend!</hi>: ty., Guds djævel. - <hi rend="italics" xml:id="idm139875152295392">Kotz tausend!</hi>: ty., Guds djævel. - <hi rend="italics" xml:id="idm139875152294640">Kotz wunder!</hi>: ty., Guds under. - <hi rend="italics" xml:id="idm139875152293920">sangbieu (sang de dieu</hi>): fr., Guds blod. - <hi rend="italics" xml:id="idm139875152293200">corbieu (corps de dieu</hi>): fr., Guds legeme. - <hi rend="italics" xml:id="idm139875152292480">vertubleu (v. de dieu</hi>): fr., Guds dyd. - <hi rend="italics" xml:id="idm139875152291760">morbleu (m. de dieu</hi>): fr., Guds død. - <hi rend="italics" xml:id="idm139875152291008">vertugoi (vertu de dieu</hi>): fr., Guds dyd. - <hi rend="italics" xml:id="idm139875152290288">morguoi (m. de dieu</hi>): fr., Guds død. - <hi rend="italics" xml:id="idm139875152289536">Drypnæset</hi>: med dryppende næse; også krummet næse med nedadhængende spids. - <hi rend="italics" xml:id="idm139875152288688">dysse(r</hi>): dysse i søvn. - <hi rend="italics" xml:id="idm139875152287936">Druehals paa Kanonen</hi>: rund knap på bundstykket af en kanon. - <hi rend="italics" xml:id="idm139875152287152">Drueskud</hi> dvs. <hi rend="italics" xml:id="idm139875152286272">Kartetsk(er</hi>): el. kardæsk: ældre ammunitionsform til forladekanoner bestående af et cylindrisk hylster, der indeholdt små kugler eller jernstykker, der spredtes som en byge. - <hi rend="italics" xml:id="idm139875152285232">drøie (...) Drøide</hi>: gøre holdbart. - <hi rend="italics" xml:id="idm139875152284448">drøse</hi>: drysse, bevæge el. arbejde langsomt. - <hi rend="italics" xml:id="idm139875152283664">Det buldrer</hi><pb n="326" xml:id="s326" facs="adl/aarestrup/aare7/aare7326"/><hi rend="italics" xml:id="idm139875152281936">kun lidt (...) dandse</hi>: el. det dunner [dvs. »lyder«] ikke, dér Duen danser <hi rend="italics" xml:id="idm139875152281120">(Dansk Ordsprogs-Skat</hi> (se n.t.s. 23), nr. 1238). - <hi rend="italics" xml:id="idm139875152280384">Ordsp</hi>.: ordsprog.</p>
               <eg xml:id="idm139875152279536">253</eg>
               <p xml:id="idm139875152279152"><hi rend="italics" xml:id="idm139875152279024">Duunskjæg</hi>: dunagtigt skæg. - <hi rend="italics" xml:id="idm139875152278272">Dæggehorn</hi>: sutteflaske gjort af horn og benyttet til dyreunger, der ikke el. kun delvis har diet. - <hi rend="italics" xml:id="idm139875152277472">Eddikebrygger</hi>: jf. 'sur som en eddikebrygger'. - <hi rend="italics" xml:id="idm139875152276736">Byron</hi>: se n.t.s. 128. - <hi rend="italics" xml:id="idm139875152276016">Eenling</hi>: ener. - <hi rend="italics" xml:id="idm139875152275296">Enevoldsskjøn(ne</hi>): enevældigt skøn. - <hi rend="italics" xml:id="idm139875152274528">errer</hi>: overtraekkes med ir: grøn hinde, der danner sig på overfladen af kobber-, messing- og bronzeting; også ophidse. - <hi rend="italics" xml:id="idm139875152273584">flunk</hi>: imperativ af flunke: blinke, glimte. - <hi rend="italics" xml:id="idm139875152272832">Flunk</hi>: blink, glimt. - <hi rend="italics" xml:id="idm139875152272112">Fang</hi>: det, man kan gribe om, favnfuld. - <hi rend="italics" xml:id="idm139875152271376">Mø</hi>: jomfru. - <hi rend="italics" xml:id="idm139875152270656">Krepflor</hi>: se n.t.s. 102. - <hi rend="italics" xml:id="idm139875152269936">flye</hi>: flyve, flygte, give el. række én noget i en fart. - <hi rend="italics" xml:id="idm139875152269120">Flyvhast</hi>: stor hast.</p>
             </div>

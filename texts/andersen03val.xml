@@ -1,13 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!-- HHL 20021112 rettet o/oe adskillige steder - daarlig tiff
-	HHL 20021111 ordnet bindestreg v. sideskift - bindestreger manglede
-   HHL 20031119 yderligere rettelser, indholdsfort -> tabel. 
--->
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="idm140167599430864"><!-- 
-       file     ./marc_dir/001517385.xml
-       field     
-       subfield  
-       prefix   -->
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="root">
   <teiHeader xml:id="idm140167599429728">
     <fileDesc xml:id="idm140167599429472">
       <titleStmt xml:id="idm140167599404080">
@@ -26,17 +18,20 @@
         <note xml:id="idm140167599399904">
 	  </note>
       </notesStmt>
-      <sourceDesc xml:id="idm140167599399392"><bibl xml:id="idm140167599399264"><author n="1" xml:id="idm140167599398576"><name xml:id="idm140167599398320"><surname xml:id="idm140167599398192">Andersen</surname>, <forename xml:id="idm140167599397760">H. C.</forename></name></author><title xml:id="idm140167599397472">Improvisatoren</title><pubPlace xml:id="idm140167599397184">[København]</pubPlace>; <pubPlace xml:id="idm140167599396720">[Valby]</pubPlace>; <pubPlace xml:id="idm140167599396304">[Ballerup]</pubPlace>
-<publisher xml:id="idm140167599395840">Det Danske Sprog- og Litteraturselskab</publisher><publisher xml:id="idm140167599395536">Borgen</publisher><publisher xml:id="idm140167599395248">i samarbejde med Nyt Dansk Litteraturselskab</publisher><date xml:id="idm140167599394880">cop. 1991</date></bibl><listBibl xml:id="idm140167599394592"><bibl xml:id="biblid54101"><title xml:id="idm140167599381440">Improvisatoren</title></bibl></listBibl></sourceDesc>
+      <sourceDesc xml:id="idm140167599399392">
+        <bibl xml:id="idm140167599399264"><author n="1" xml:id="idm140167599398576"><name xml:id="idm140167599398320"><surname xml:id="idm140167599398192">Andersen</surname>, <forename xml:id="idm140167599397760">H. C.</forename></name></author><title xml:id="idm140167599397472">Improvisatoren</title><pubPlace xml:id="idm140167599397184">[København]</pubPlace>; <pubPlace xml:id="idm140167599396720">[Valby]</pubPlace>; <pubPlace xml:id="idm140167599396304">[Ballerup]</pubPlace><publisher xml:id="idm140167599395840">Det Danske Sprog- og Litteraturselskab</publisher><publisher xml:id="idm140167599395536">Borgen</publisher><publisher xml:id="idm140167599395248">i samarbejde med Nyt Dansk Litteraturselskab</publisher><date xml:id="idm140167599394880">cop. 1991</date></bibl>
+        <listBibl xml:id="idm140167599394592">
+          <bibl xml:id="biblid54101">
+            <title xml:id="idm140167599381440">Improvisatoren</title>
+          </bibl>
+        </listBibl>
+      </sourceDesc>
     </fileDesc>
   </teiHeader>
   <text xml:id="workid54101" decls="#biblid54101">
     <front xml:id="idm140167599379856">
       <pb n="1" facs="adl/andersenhc/andersenhc3/anhc3001" xml:id="idm140167599379552"/>
       <gap reason="cancelled" xml:id="idm140167599378736"/>
-<!---->
-<!---->
-<!--Improvisatoren-->
       <pb n="2" facs="adl/andersenhc/andersenhc3/anhc3002" xml:id="idm140167599377216"/>
       <pb n="3" facs="adl/andersenhc/andersenhc3/anhc3003" xml:id="idm140167599376432"/>
       <titlePage xml:id="idm140167599375664">
@@ -389,9 +384,9 @@
 								hellige Januarii Katakomber ved Neapel Helgenbilleder og
 								Inscriptioner, men slet gjorte. Paa de Christnes Grave ere afbildede
 								en Fisk, i hvis græske Navn:
-								[x][x][x][x][x]<!-- &iotapsili;&chi;&theta;&upsilonoxia;&sigma; -->
+								[x][x][x][x][x]
 								ligge Begyndelsesbogstaverne til
-								[x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x]<!-- &iotapsili;&eta;&sigma;&omicron;&upsilonperispomeni;&omicron;&chi;&rho;&iota;&sigma;&tau;&omicronoxia;&omicron;&theta;&epsilon;&omicron;&upsilonperispomeni;&upsilon;&iotadasia;&omicronoxia;&sigma;&sigma;&omega;&tau;&etaoxia;&rho; -->:
+								[x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x]:
 								(Jesus Christus, Guds Søn, Frelser).</note>
               <pb n="19" facs="adl/andersenhc/andersenhc3/anhc3019" xml:id="idm140167599260816"/>
               <p xml:id="idm140167599260048">Lyd. Medens jeg saaledes sad i mine egne Tanker, blev jeg pludselig

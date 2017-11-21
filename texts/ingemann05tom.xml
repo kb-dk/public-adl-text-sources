@@ -1,10 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!--Tom opmærkning d. 31.07.2002 blo -->
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="idm139792953306256"><!-- 
-       file     ./marc_dir/002158988.xml
-       field     
-       subfield  
-       prefix   -->
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="root">
   <teiHeader xml:id="idm139792953305328">
     <fileDesc xml:id="idm139792953305072">
       <titleStmt xml:id="idm139792953304768">
@@ -19,8 +14,70 @@
         <note xml:id="idm139792953276784">
 	  </note>
       </notesStmt>
-      <sourceDesc xml:id="idm139792953276272"><bibl xml:id="idm139792953276144"><author n="1" xml:id="idm139792953275504"><name xml:id="idm139792953275248"><surname xml:id="idm139792953275120">Ingemann</surname>, <forename xml:id="idm139792953274688">B. S.</forename></name></author><title xml:id="idm139792953274400">Procne</title><pubPlace xml:id="idm139792953274112">København</pubPlace>
-<publisher xml:id="idm139792953273648">Boas Brünnich</publisher><date xml:id="idm139792953273296">1813</date></bibl><listBibl xml:id="idm139792953273008"><bibl xml:id="biblid54237"><title xml:id="idm139792953259808">Prolog</title></bibl><bibl xml:id="biblid53728"><title xml:id="idm139792953259024">De tvende Geister</title></bibl><bibl xml:id="biblid54514"><title xml:id="idm139792953258240">Athene blandt Konsterne</title></bibl><bibl xml:id="biblid54566"><title xml:id="idm139792953257456">Fiskerne</title></bibl><bibl xml:id="biblid54599"><title xml:id="idm139792953256672">Graveren</title></bibl><bibl xml:id="biblid54651"><title xml:id="idm139792953255840">Klosterløftet</title></bibl><bibl xml:id="biblid54702"><title xml:id="idm139792953255040">Carl den femtes Gang i Liigkisten</title></bibl><bibl xml:id="biblid54753"><title xml:id="idm139792953254240">Ridder Toggenburg</title></bibl><bibl xml:id="biblid54805"><title xml:id="idm139792953253456">Aarbye Kirkegaard</title></bibl><bibl xml:id="biblid54856"><title xml:id="idm139792953252672">Den hellige Green</title></bibl><bibl xml:id="biblid54880"><title xml:id="idm139792953251840">Edvard</title></bibl><bibl xml:id="biblid54922"><title xml:id="idm139792953251008">Rosenkrandsen</title></bibl><bibl xml:id="biblid54956"><title xml:id="idm139792953250224">Veiviserinden</title></bibl><bibl xml:id="biblid54980"><title xml:id="idm139792953249392">Nattevandrerinden</title></bibl><bibl xml:id="biblid55024"><title xml:id="idm139792953248608">Harperne</title></bibl><bibl xml:id="biblid55069"><title xml:id="idm139792953247776">Varners pöetiske Vandringer</title></bibl><bibl xml:id="biblid54404"><title xml:id="idm139792953246944">Turnus</title></bibl></listBibl></sourceDesc>
+      <sourceDesc xml:id="idm139792953276272">
+        <bibl xml:id="idm139792953276144">
+          <author n="1" xml:id="idm139792953275504">
+            <name xml:id="idm139792953275248"><surname xml:id="idm139792953275120">Ingemann</surname>, <forename xml:id="idm139792953274688">B. S.</forename></name>
+          </author>
+          <title xml:id="idm139792953274400">Procne</title>
+          <pubPlace xml:id="idm139792953274112">København</pubPlace>
+          <publisher xml:id="idm139792953273648">Boas Brünnich</publisher>
+          <date xml:id="idm139792953273296">1813</date>
+        </bibl>
+        <listBibl xml:id="idm139792953273008">
+          <bibl xml:id="biblid54237">
+            <title xml:id="idm139792953259808">Prolog</title>
+          </bibl>
+          <bibl xml:id="biblid53728">
+            <title xml:id="idm139792953259024">De tvende Geister</title>
+          </bibl>
+          <bibl xml:id="biblid54514">
+            <title xml:id="idm139792953258240">Athene blandt Konsterne</title>
+          </bibl>
+          <bibl xml:id="biblid54566">
+            <title xml:id="idm139792953257456">Fiskerne</title>
+          </bibl>
+          <bibl xml:id="biblid54599">
+            <title xml:id="idm139792953256672">Graveren</title>
+          </bibl>
+          <bibl xml:id="biblid54651">
+            <title xml:id="idm139792953255840">Klosterløftet</title>
+          </bibl>
+          <bibl xml:id="biblid54702">
+            <title xml:id="idm139792953255040">Carl den femtes Gang i Liigkisten</title>
+          </bibl>
+          <bibl xml:id="biblid54753">
+            <title xml:id="idm139792953254240">Ridder Toggenburg</title>
+          </bibl>
+          <bibl xml:id="biblid54805">
+            <title xml:id="idm139792953253456">Aarbye Kirkegaard</title>
+          </bibl>
+          <bibl xml:id="biblid54856">
+            <title xml:id="idm139792953252672">Den hellige Green</title>
+          </bibl>
+          <bibl xml:id="biblid54880">
+            <title xml:id="idm139792953251840">Edvard</title>
+          </bibl>
+          <bibl xml:id="biblid54922">
+            <title xml:id="idm139792953251008">Rosenkrandsen</title>
+          </bibl>
+          <bibl xml:id="biblid54956">
+            <title xml:id="idm139792953250224">Veiviserinden</title>
+          </bibl>
+          <bibl xml:id="biblid54980">
+            <title xml:id="idm139792953249392">Nattevandrerinden</title>
+          </bibl>
+          <bibl xml:id="biblid55024">
+            <title xml:id="idm139792953248608">Harperne</title>
+          </bibl>
+          <bibl xml:id="biblid55069">
+            <title xml:id="idm139792953247776">Varners pöetiske Vandringer</title>
+          </bibl>
+          <bibl xml:id="biblid54404">
+            <title xml:id="idm139792953246944">Turnus</title>
+          </bibl>
+        </listBibl>
+      </sourceDesc>
     </fileDesc>
   </teiHeader>
   <text xml:id="idm139792953246256">

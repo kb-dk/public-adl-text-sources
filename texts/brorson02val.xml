@@ -1,10 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!-- 20021029 HHL indsat vaerktitle, omstruktureret div''er-->
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="idm140451210099872"><!-- 
-       file     ./marc_dir/001848791.xml
-       field    530 
-       subfield a 
-       prefix   Bd. 2 :-->
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="root">
   <teiHeader xml:id="idm140451210099312">
     <fileDesc xml:id="idm140451210099056">
       <titleStmt xml:id="idm140451210098752">
@@ -19,17 +14,507 @@
         <note xml:id="idm140451210070544">
 	  </note>
       </notesStmt>
-      <sourceDesc xml:id="idm140451210070032"><bibl xml:id="idm140451210069904"><author n="1" xml:id="idm140451210069216"><name xml:id="idm140451210068960"><surname xml:id="idm140451210068832">Brorson</surname>, <forename xml:id="idm140451210068368">Hans Adolph</forename></name></author><title xml:id="idm140451210068080"> Troens rare Klenodie, 3.-7. del, samt 2 tillæg. - 1953</title><pubPlace xml:id="idm140451210067696">København</pubPlace>
-<date xml:id="idm140451210067184">1951-56</date></bibl><listBibl xml:id="idm140451210066896"><bibl xml:id="biblid54956"><title xml:id="idm140451210053744">Troens Rare Klenodie, 3. Del. Troens Midler</title></bibl><bibl xml:id="biblid54970"><title xml:id="idm140451210052928">Loven er et helligt bud</title></bibl><bibl xml:id="biblid55759"><title xml:id="idm140451210052144">Jeg er den eene alvise stærke GUd</title></bibl><bibl xml:id="biblid56777"><title xml:id="idm140451210051312">GUds riges evangelium</title></bibl><bibl xml:id="biblid57434"><title xml:id="idm140451210050528">Op alle folk paa denne jord</title></bibl><bibl xml:id="biblid57969"><title xml:id="idm140451210049728">Hvor lystig, sød og yndig</title></bibl><bibl xml:id="biblid59129"><title xml:id="idm140451210048912">Det er et lifligt ord</title></bibl><bibl xml:id="biblid59666"><title xml:id="idm140451210048080">Dig, dig, min HErre, vil jeg prise</title></bibl><bibl xml:id="biblid60381"><title xml:id="idm140451210047280">De ord, som du mig lader høre</title></bibl><bibl xml:id="biblid60714"><title xml:id="idm140451210046400">Vel den! der veed, i JEsu navn</title></bibl><bibl xml:id="biblid60989"><title xml:id="idm140451210045552">Jeg er rede til at bede</title></bibl><bibl xml:id="biblid61367"><title xml:id="idm140451210044720">Giv dig, min kiere siel, til roe</title></bibl><bibl xml:id="biblid61999"><title xml:id="idm140451210043872">Falder paa dig modgangs hede</title></bibl><bibl xml:id="biblid62307"><title xml:id="idm140451210043024">Du folk, som christne kaldes vil</title></bibl><bibl xml:id="biblid63069"><title xml:id="idm140451210042224">I siele, som igien saa ilde</title></bibl><bibl xml:id="biblid63393"><title xml:id="idm140451210041376">O hvad er det en herre-stand</title></bibl><bibl xml:id="biblid64025"><title xml:id="idm140451210040576">O siel! hvor blev de gode ord</title></bibl><bibl xml:id="biblid64711"><title xml:id="idm140451210039776">I morgen skal mit bryllup staae</title></bibl><bibl xml:id="biblid64994"><title xml:id="idm140451210038928">Aldrig kand jeg sige</title></bibl><bibl xml:id="biblid65607"><title xml:id="idm140451210038096">Vil du til HErrens alter gaae</title></bibl><bibl xml:id="biblid66287"><title xml:id="idm140451210037248">Op og smyk dig, siel! med glæde</title></bibl><bibl xml:id="biblid66909"><title xml:id="idm140451210036368">Saa gaaer nu sielens høytid an</title></bibl><bibl xml:id="biblid67735"><title xml:id="idm140451210035536">Troens Rare Klenodie, 4. Del. Troens Frugt</title></bibl><bibl xml:id="biblid67749"><title xml:id="idm140451210034720">O siel, som daglig glad og sund</title></bibl><bibl xml:id="biblid68428"><title xml:id="idm140451210033872">O Gud! mit lives fader! vilt</title></bibl><bibl xml:id="biblid68875"><title xml:id="idm140451210033024">Du est allene, store Gud!</title></bibl><bibl xml:id="biblid70027"><title xml:id="idm140451210032224">Du est allene værd, o Gud for alle guder</title></bibl><bibl xml:id="biblid70480"><title xml:id="idm140451210031328">Synes det i kors og pine</title></bibl><bibl xml:id="biblid70842"><title xml:id="idm140451210030480">Det er den daglig trøst, hvormed</title></bibl><bibl xml:id="biblid71267"><title xml:id="idm140451210029600">Jeg gaaer i fare, hvor jeg gaaer</title></bibl><bibl xml:id="biblid71692"><title xml:id="idm140451210028752">Min JEsu! mit lives</title></bibl><bibl xml:id="biblid72206"><title xml:id="idm140451210027920">I prægtige himle og jorden tillige!</title></bibl><bibl xml:id="biblid72522"><title xml:id="idm140451210027024">Ach kunde jeg mig ned i JEsu sødhed senke</title></bibl><bibl xml:id="biblid72752"><title xml:id="idm140451210026128">Min JEsus hand er min begyndelse og ende</title></bibl><bibl xml:id="biblid73072"><title xml:id="idm140451210025264">Vil du have roe min siel?</title></bibl><bibl xml:id="biblid73777"><title xml:id="idm140451210024416">Bort verden af mit sind og øye</title></bibl><bibl xml:id="biblid74199"><title xml:id="idm140451210023536">Kommer, hvo vil viisdom lære!</title></bibl><bibl xml:id="biblid74951"><title xml:id="idm140451210022656">Hvo vil med til himmerige</title></bibl><bibl xml:id="biblid75590"><title xml:id="idm140451210021808">Den onde leve-maade</title></bibl><bibl xml:id="biblid77327"><title xml:id="idm140451210020976">Min siel, hvo vilde være</title></bibl><bibl xml:id="biblid77927"><title xml:id="idm140451210020112">Eet er nødigt, dette ene</title></bibl><bibl xml:id="biblid78649"><title xml:id="idm140451210019184">Den vey du gikst i kors og trang</title></bibl><bibl xml:id="biblid79215"><title xml:id="idm140451210018336">Ach! maatte hun sin JEsum skue</title></bibl><bibl xml:id="biblid79673"><title xml:id="idm140451210129408">Min JEsu, søde siele-lyst!</title></bibl><bibl xml:id="biblid80606"><title xml:id="idm140451210128592">O JEsu! min brudgom! livsaligste ven!</title></bibl><bibl xml:id="biblid81103"><title xml:id="idm140451210127840">Taalmodighed behøves</title></bibl><bibl xml:id="biblid81976"><title xml:id="idm140451210127024">Vær i korset troe og stille</title></bibl><bibl xml:id="biblid82478"><title xml:id="idm140451210126192">Du skenker mig dig selv, du selv min deel vil være</title></bibl><bibl xml:id="biblid83253"><title xml:id="idm140451209992800">JEsum, JEsum, JEsum sigter</title></bibl><bibl xml:id="biblid83548"><title xml:id="idm140451209992016">Allerstørste præst, som dig</title></bibl><bibl xml:id="biblid83853"><title xml:id="idm140451209991184">JEsu, du min lyst i live</title></bibl><bibl xml:id="biblid84366"><title xml:id="idm140451209990368">Vær trøstig mit hierte, bedrøv dig ey meer</title></bibl><bibl xml:id="biblid84670"><title xml:id="idm140451209989504">Lær mig, hvordan jeg skal dig, JEsu, finde</title></bibl><bibl xml:id="biblid85504"><title xml:id="idm140451209988592">Sørger du endnu min siel?</title></bibl><bibl xml:id="biblid85829"><title xml:id="idm140451209987776">Stille er min siel til GUd</title></bibl><bibl xml:id="biblid86210"><title xml:id="idm140451209987024">Min nok beklemte aand!</title></bibl><bibl xml:id="biblid87251"><title xml:id="idm140451209986240">Roe er sielens beste skat</title></bibl><bibl xml:id="biblid88202"><title xml:id="idm140451209985488">Den ypperligste vey</title></bibl><bibl xml:id="biblid88933"><title xml:id="idm140451209984704">Skal kierlighed sin prøve staae</title></bibl><bibl xml:id="biblid89718"><title xml:id="idm140451209983872">Hvor seer det ud i verdens ørk</title></bibl><bibl xml:id="biblid90604"><title xml:id="idm140451209978976">I HErrens udvalde, som hellighed øve</title></bibl><bibl xml:id="biblid91385"><title xml:id="idm140451209978288">Far her ud, urene aand!</title></bibl><bibl xml:id="biblid92222"><title xml:id="idm140451209977600">Flye min aand, og bryd med styrke</title></bibl><bibl xml:id="biblid92666"><title xml:id="idm140451209976912">Du hiertens fryd for rene sinde</title></bibl><bibl xml:id="biblid93532"><title xml:id="idm140451209976224">Troens Rare Klenodie, 5. Del. Troens Kamp og Seyer</title></bibl><bibl xml:id="biblid93546"><title xml:id="idm140451209975472">Den troe, som JEsum favner</title></bibl><bibl xml:id="biblid94390"><title xml:id="idm140451209974784">Vor trængsel, hvor besværlig</title></bibl><bibl xml:id="biblid95098"><title xml:id="idm140451209973984">Vort kors giør sure miner</title></bibl><bibl xml:id="biblid95731"><title xml:id="idm140451209973136">Vor GUd er tro i liv og død</title></bibl><bibl xml:id="biblid96234"><title xml:id="idm140451209972304">Min christen, er dit kors saa svart</title></bibl><bibl xml:id="biblid97060"><title xml:id="idm140451209971552">Den vey gaaer vist til himmerige</title></bibl><bibl xml:id="biblid98644"><title xml:id="idm140451209970800">Kun frisk derind!</title></bibl><bibl xml:id="biblid99427"><title xml:id="idm140451209970016">Nu derfor maa du dog ey plat</title></bibl><bibl xml:id="biblid100080"><title xml:id="idm140451209969264">En christen har et kæmpe-mood</title></bibl><bibl xml:id="biblid101146"><title xml:id="idm140451209968432">Det koster megen kamp og striid</title></bibl><bibl xml:id="biblid101637"><title xml:id="idm140451209967680">Det koster ey for megen striid</title></bibl><bibl xml:id="biblid102121"><title xml:id="idm140451209966880">Nærmer kun eder, spot, jammer og nød</title></bibl><bibl xml:id="biblid102596"><title xml:id="idm140451209965968">Vor troe kand giennem alle baand</title></bibl><bibl xml:id="biblid103154"><title xml:id="idm140451209965120">Op I christne! ruster eder!</title></bibl><bibl xml:id="biblid103922"><title xml:id="idm140451209964320">Frisk op beklemte sind</title></bibl><bibl xml:id="biblid104237"><title xml:id="idm140451209963536">Far dog fort! far dog fort!</title></bibl><bibl xml:id="biblid104678"><title xml:id="idm140451209962672">Her løber jeg i blinde</title></bibl><bibl xml:id="biblid105541"><title xml:id="idm140451209961792">Er jeg da her allene vild og fremmet?</title></bibl><bibl xml:id="biblid106403"><title xml:id="idm140451209960992">Jammer har mig plat omgivet</title></bibl><bibl xml:id="biblid107447"><title xml:id="idm140451209960128">Armod volder mig at skrige</title></bibl><bibl xml:id="biblid107868"><title xml:id="idm140451209959328">JEsu! hvor er livets kilde?</title></bibl><bibl xml:id="biblid108357"><title xml:id="idm140451209958464">Op! vaag og beed</title></bibl><bibl xml:id="biblid108867"><title xml:id="idm140451209957680">Hvad fattes mig? hvi er jeg dog</title></bibl><bibl xml:id="biblid109754"><title xml:id="idm140451209956880">O vaager op af verdens drømme</title></bibl><bibl xml:id="biblid110063"><title xml:id="idm140451209955936">JEsu al min fryd og ære</title></bibl><bibl xml:id="biblid110500"><title xml:id="idm140451209955072">Hvad skader dig, min aand, at du dig altid klager</title></bibl><bibl xml:id="biblid111073"><title xml:id="idm140451209954256">Halleluja! jeg har min JEsum funden</title></bibl><bibl xml:id="biblid111880"><title xml:id="idm140451209953456">Nu da til lykke</title></bibl><bibl xml:id="biblid112751"><title xml:id="idm140451209952608">Staa fast, min siel! staa fast</title></bibl><bibl xml:id="biblid113451"><title xml:id="idm140451209951744">Det koster meer, end man for først betænker</title></bibl><bibl xml:id="biblid114153"><title xml:id="idm140451209950816">I lemmer, hvis hoved har himlen i vælde</title></bibl><bibl xml:id="biblid114754"><title xml:id="idm140451209949920">O slagtet lam! som dødens stærke strikker</title></bibl><bibl xml:id="biblid115411"><title xml:id="idm140451209949008">Troens Rare Klenodie, 6. Del. Troens Herlighed</title></bibl><bibl xml:id="biblid115425"><title xml:id="idm140451209948192">Ach! seer dog, hvilken kierlighed</title></bibl><bibl xml:id="biblid116119"><title xml:id="idm140451209947392">Jeg er GUds Jedidijah</title></bibl><bibl xml:id="biblid116428"><title xml:id="idm140451209946544">O de siele, de allene</title></bibl><bibl xml:id="biblid117052"><title xml:id="idm140451209945760">Vær lystig i HErren, hans due og dukke</title></bibl><bibl xml:id="biblid117335"><title xml:id="idm140451209944848">O hvor yndigt og hvor fyndigt</title></bibl><bibl xml:id="biblid117987"><title xml:id="idm140451209943984">O! hvilken ære</title></bibl><bibl xml:id="biblid118821"><title xml:id="idm140451209943120">O søde naade-stand!</title></bibl><bibl xml:id="biblid119904"><title xml:id="idm140451209942304">JEsu! naar jeg sindet ned</title></bibl><bibl xml:id="biblid120366"><title xml:id="idm140451209941504">O hvor rigtig o hvor vigtig</title></bibl><bibl xml:id="biblid120976"><title xml:id="idm140451209940704">Ach! hvad er man uden JEsu fremmed, ræd og bettel-arm</title></bibl><bibl xml:id="biblid121533"><title xml:id="idm140451209939824">Ach hvad er man dog i JEsu salig, mægtig, skiøn og riig</title></bibl><bibl xml:id="biblid121836"><title xml:id="idm140451209938896">Hvad er din herlighed dog stor</title></bibl><bibl xml:id="biblid122503"><title xml:id="idm140451209938096">Min JEsum vil jeg, intet meer</title></bibl><bibl xml:id="biblid123588"><title xml:id="idm140451209937232">Hvo er denne fyrste-datter</title></bibl><bibl xml:id="biblid124437"><title xml:id="idm140451209936432">Hvem der havde dog forlaaret</title></bibl><bibl xml:id="biblid124751"><title xml:id="idm140451209935584">Min brudgom, den liflige, skiønne og søde</title></bibl><bibl xml:id="biblid125576"><title xml:id="idm140451209934672">At livet blev til sinds</title></bibl><bibl xml:id="biblid126422"><title xml:id="idm140451209933888">Meer end himmel-søde</title></bibl><bibl xml:id="biblid127356"><title xml:id="idm140451209933072">Bort I kiødelige tanker</title></bibl><bibl xml:id="biblid127790"><title xml:id="idm140451209932256">Den sagte bevægelses liflige vind</title></bibl><bibl xml:id="biblid128422"><title xml:id="idm140451209931360">O du, den jeg længes efter</title></bibl><bibl xml:id="biblid128731"><title xml:id="idm140451209930544">Hvad ere de christne dog glimrende smukke</title></bibl><bibl xml:id="biblid129731"><title xml:id="idm140451209929728">Troens Rare Klenodie, 7. Del. Troens Ende</title></bibl><bibl xml:id="biblid129745"><title xml:id="idm140451209928848">Du arme støv og jord, hvad bilder du dig ind</title></bibl><bibl xml:id="biblid130155"><title xml:id="idm140451209927920">Allevegne hvor jeg vanker</title></bibl><bibl xml:id="biblid130424"><title xml:id="idm140451209927120">Den tiid gaaer an, som JEsus selv har sat</title></bibl><bibl xml:id="biblid130830"><title xml:id="idm140451209926304">Nu, Gud skee lof, at stunden</title></bibl><bibl xml:id="biblid131515"><title xml:id="idm140451209925440">Saa kom, forønskte dødens stund</title></bibl><bibl xml:id="biblid132436"><title xml:id="idm140451209924544">Op! op! I folk paa jordens kreds</title></bibl><bibl xml:id="biblid54385"><title xml:id="idm140451209923680">I Jomfruer, I kloge</title></bibl><bibl xml:id="biblid133763"><title xml:id="idm140451209922784">Een draabe kun at smage</title></bibl><bibl xml:id="biblid134467"><title xml:id="idm140451209922000">Er det saaledes, eller skeer</title></bibl><bibl xml:id="biblid135308"><title xml:id="idm140451209921200">I sikre folk paa jorden!</title></bibl><bibl xml:id="biblid136120"><title xml:id="idm140451209920400">See dagen bryder frem med magt</title></bibl><bibl xml:id="biblid136949"><title xml:id="idm140451209919600">Syng hierte! syng en aften-sang</title></bibl><bibl xml:id="biblid137623"><title xml:id="idm140451209918736">Troens rare Klenodie. Et lidet Tillæg</title></bibl><bibl xml:id="biblid137634"><title xml:id="idm140451209917888">Paa JEsu død og blodig saar</title></bibl><bibl xml:id="biblid137992"><title xml:id="idm140451209917056">Omenniske, som troer og veed</title></bibl><bibl xml:id="biblid138522"><title xml:id="idm140451209916256">Den gamle Adams sind med verdens frygt sig piner</title></bibl><bibl xml:id="biblid139123"><title xml:id="idm140451209915440">O Gud, som tiden vender</title></bibl><bibl xml:id="biblid139868"><title xml:id="idm140451209914656">Syndre! hvad er klokken slagen?</title></bibl><bibl xml:id="biblid140800"><title xml:id="idm140451209913792">Op! op! at møde</title></bibl><bibl xml:id="biblid141418"><title xml:id="idm140451209912992">Den siel, som Gud i sandhed kiender</title></bibl><bibl xml:id="biblid142076"><title xml:id="idm140451209912144">Hvor Gud mig fører, gaaer jeg glad</title></bibl><bibl xml:id="biblid142479"><title xml:id="idm140451209911200">I sinde, som finde ey hvile paa jorden</title></bibl><bibl xml:id="biblid143131"><title xml:id="idm140451209910400">O havde jeg dog tusind tunger</title></bibl><bibl xml:id="biblid143903"><title xml:id="idm140451209909600">Op! op! min aand, fra hele verdens rige</title></bibl><bibl xml:id="biblid144458"><title xml:id="idm140451209908800">Al priis og lof og ære bør</title></bibl><bibl xml:id="biblid144987"><title xml:id="idm140451209907968">Mit hierte skal brænde som offer i ilden</title></bibl><bibl xml:id="biblid146024"><title xml:id="idm140451209907056">Hører dog, I christne-lande!</title></bibl><bibl xml:id="biblid146969"><title xml:id="idm140451209906160">I Christo har jeg livet</title></bibl><bibl xml:id="biblid147221"><title xml:id="idm140451209905376">Min død er mig til gode</title></bibl><bibl xml:id="biblid147451"><title xml:id="idm140451209904496">Nu! jeg har vunden</title></bibl><bibl xml:id="biblid147971"><title xml:id="idm140451209903712">Troens rare Klenodie. Det allersidste Tillæg</title></bibl><bibl xml:id="biblid148042"><title xml:id="idm140451209902736">Raaber, ach! raabe enhver, som kand raabe!</title></bibl><bibl xml:id="biblid148298"><title xml:id="idm140451209901872">Op, hierte, op med fryde-skriig</title></bibl><bibl xml:id="biblid149100"><title xml:id="idm140451209901072">Ach! hvorledes skal jeg skue</title></bibl><bibl xml:id="biblid149826"><title xml:id="idm140451209900208">I JEsu saar er al min salighed</title></bibl><bibl xml:id="biblid150172"><title xml:id="idm140451209899344">Halleluja tusind gang</title></bibl><bibl xml:id="biblid150592"><title xml:id="idm140451209898560">Hvor skal jeg vel lindring finde</title></bibl><bibl xml:id="biblid151020"><title xml:id="idm140451209897648">Den, som der vinder, skal æde de søde</title></bibl><bibl xml:id="biblid151909"><title xml:id="idm140451209896800">Den elskte Jerusalems længsel mig nøder at ile</title></bibl><bibl xml:id="biblid152745"><title xml:id="idm140451209895872">Amen! JEsus hand skal raade</title></bibl></listBibl></sourceDesc>
+      <sourceDesc xml:id="idm140451210070032">
+        <bibl xml:id="idm140451210069904">
+          <author n="1" xml:id="idm140451210069216">
+            <name xml:id="idm140451210068960"><surname xml:id="idm140451210068832">Brorson</surname>, <forename xml:id="idm140451210068368">Hans Adolph</forename></name>
+          </author>
+          <title xml:id="idm140451210068080"> Troens rare Klenodie, 3.-7. del, samt 2 tillæg. - 1953</title>
+          <pubPlace xml:id="idm140451210067696">København</pubPlace>
+          <date xml:id="idm140451210067184">1951-56</date>
+        </bibl>
+        <listBibl xml:id="idm140451210066896">
+          <bibl xml:id="biblid54956">
+            <title xml:id="idm140451210053744">Troens Rare Klenodie, 3. Del. Troens Midler</title>
+          </bibl>
+          <bibl xml:id="biblid54970">
+            <title xml:id="idm140451210052928">Loven er et helligt bud</title>
+          </bibl>
+          <bibl xml:id="biblid55759">
+            <title xml:id="idm140451210052144">Jeg er den eene alvise stærke GUd</title>
+          </bibl>
+          <bibl xml:id="biblid56777">
+            <title xml:id="idm140451210051312">GUds riges evangelium</title>
+          </bibl>
+          <bibl xml:id="biblid57434">
+            <title xml:id="idm140451210050528">Op alle folk paa denne jord</title>
+          </bibl>
+          <bibl xml:id="biblid57969">
+            <title xml:id="idm140451210049728">Hvor lystig, sød og yndig</title>
+          </bibl>
+          <bibl xml:id="biblid59129">
+            <title xml:id="idm140451210048912">Det er et lifligt ord</title>
+          </bibl>
+          <bibl xml:id="biblid59666">
+            <title xml:id="idm140451210048080">Dig, dig, min HErre, vil jeg prise</title>
+          </bibl>
+          <bibl xml:id="biblid60381">
+            <title xml:id="idm140451210047280">De ord, som du mig lader høre</title>
+          </bibl>
+          <bibl xml:id="biblid60714">
+            <title xml:id="idm140451210046400">Vel den! der veed, i JEsu navn</title>
+          </bibl>
+          <bibl xml:id="biblid60989">
+            <title xml:id="idm140451210045552">Jeg er rede til at bede</title>
+          </bibl>
+          <bibl xml:id="biblid61367">
+            <title xml:id="idm140451210044720">Giv dig, min kiere siel, til roe</title>
+          </bibl>
+          <bibl xml:id="biblid61999">
+            <title xml:id="idm140451210043872">Falder paa dig modgangs hede</title>
+          </bibl>
+          <bibl xml:id="biblid62307">
+            <title xml:id="idm140451210043024">Du folk, som christne kaldes vil</title>
+          </bibl>
+          <bibl xml:id="biblid63069">
+            <title xml:id="idm140451210042224">I siele, som igien saa ilde</title>
+          </bibl>
+          <bibl xml:id="biblid63393">
+            <title xml:id="idm140451210041376">O hvad er det en herre-stand</title>
+          </bibl>
+          <bibl xml:id="biblid64025">
+            <title xml:id="idm140451210040576">O siel! hvor blev de gode ord</title>
+          </bibl>
+          <bibl xml:id="biblid64711">
+            <title xml:id="idm140451210039776">I morgen skal mit bryllup staae</title>
+          </bibl>
+          <bibl xml:id="biblid64994">
+            <title xml:id="idm140451210038928">Aldrig kand jeg sige</title>
+          </bibl>
+          <bibl xml:id="biblid65607">
+            <title xml:id="idm140451210038096">Vil du til HErrens alter gaae</title>
+          </bibl>
+          <bibl xml:id="biblid66287">
+            <title xml:id="idm140451210037248">Op og smyk dig, siel! med glæde</title>
+          </bibl>
+          <bibl xml:id="biblid66909">
+            <title xml:id="idm140451210036368">Saa gaaer nu sielens høytid an</title>
+          </bibl>
+          <bibl xml:id="biblid67735">
+            <title xml:id="idm140451210035536">Troens Rare Klenodie, 4. Del. Troens Frugt</title>
+          </bibl>
+          <bibl xml:id="biblid67749">
+            <title xml:id="idm140451210034720">O siel, som daglig glad og sund</title>
+          </bibl>
+          <bibl xml:id="biblid68428">
+            <title xml:id="idm140451210033872">O Gud! mit lives fader! vilt</title>
+          </bibl>
+          <bibl xml:id="biblid68875">
+            <title xml:id="idm140451210033024">Du est allene, store Gud!</title>
+          </bibl>
+          <bibl xml:id="biblid70027">
+            <title xml:id="idm140451210032224">Du est allene værd, o Gud for alle guder</title>
+          </bibl>
+          <bibl xml:id="biblid70480">
+            <title xml:id="idm140451210031328">Synes det i kors og pine</title>
+          </bibl>
+          <bibl xml:id="biblid70842">
+            <title xml:id="idm140451210030480">Det er den daglig trøst, hvormed</title>
+          </bibl>
+          <bibl xml:id="biblid71267">
+            <title xml:id="idm140451210029600">Jeg gaaer i fare, hvor jeg gaaer</title>
+          </bibl>
+          <bibl xml:id="biblid71692">
+            <title xml:id="idm140451210028752">Min JEsu! mit lives</title>
+          </bibl>
+          <bibl xml:id="biblid72206">
+            <title xml:id="idm140451210027920">I prægtige himle og jorden tillige!</title>
+          </bibl>
+          <bibl xml:id="biblid72522">
+            <title xml:id="idm140451210027024">Ach kunde jeg mig ned i JEsu sødhed senke</title>
+          </bibl>
+          <bibl xml:id="biblid72752">
+            <title xml:id="idm140451210026128">Min JEsus hand er min begyndelse og ende</title>
+          </bibl>
+          <bibl xml:id="biblid73072">
+            <title xml:id="idm140451210025264">Vil du have roe min siel?</title>
+          </bibl>
+          <bibl xml:id="biblid73777">
+            <title xml:id="idm140451210024416">Bort verden af mit sind og øye</title>
+          </bibl>
+          <bibl xml:id="biblid74199">
+            <title xml:id="idm140451210023536">Kommer, hvo vil viisdom lære!</title>
+          </bibl>
+          <bibl xml:id="biblid74951">
+            <title xml:id="idm140451210022656">Hvo vil med til himmerige</title>
+          </bibl>
+          <bibl xml:id="biblid75590">
+            <title xml:id="idm140451210021808">Den onde leve-maade</title>
+          </bibl>
+          <bibl xml:id="biblid77327">
+            <title xml:id="idm140451210020976">Min siel, hvo vilde være</title>
+          </bibl>
+          <bibl xml:id="biblid77927">
+            <title xml:id="idm140451210020112">Eet er nødigt, dette ene</title>
+          </bibl>
+          <bibl xml:id="biblid78649">
+            <title xml:id="idm140451210019184">Den vey du gikst i kors og trang</title>
+          </bibl>
+          <bibl xml:id="biblid79215">
+            <title xml:id="idm140451210018336">Ach! maatte hun sin JEsum skue</title>
+          </bibl>
+          <bibl xml:id="biblid79673">
+            <title xml:id="idm140451210129408">Min JEsu, søde siele-lyst!</title>
+          </bibl>
+          <bibl xml:id="biblid80606">
+            <title xml:id="idm140451210128592">O JEsu! min brudgom! livsaligste ven!</title>
+          </bibl>
+          <bibl xml:id="biblid81103">
+            <title xml:id="idm140451210127840">Taalmodighed behøves</title>
+          </bibl>
+          <bibl xml:id="biblid81976">
+            <title xml:id="idm140451210127024">Vær i korset troe og stille</title>
+          </bibl>
+          <bibl xml:id="biblid82478">
+            <title xml:id="idm140451210126192">Du skenker mig dig selv, du selv min deel vil være</title>
+          </bibl>
+          <bibl xml:id="biblid83253">
+            <title xml:id="idm140451209992800">JEsum, JEsum, JEsum sigter</title>
+          </bibl>
+          <bibl xml:id="biblid83548">
+            <title xml:id="idm140451209992016">Allerstørste præst, som dig</title>
+          </bibl>
+          <bibl xml:id="biblid83853">
+            <title xml:id="idm140451209991184">JEsu, du min lyst i live</title>
+          </bibl>
+          <bibl xml:id="biblid84366">
+            <title xml:id="idm140451209990368">Vær trøstig mit hierte, bedrøv dig ey meer</title>
+          </bibl>
+          <bibl xml:id="biblid84670">
+            <title xml:id="idm140451209989504">Lær mig, hvordan jeg skal dig, JEsu, finde</title>
+          </bibl>
+          <bibl xml:id="biblid85504">
+            <title xml:id="idm140451209988592">Sørger du endnu min siel?</title>
+          </bibl>
+          <bibl xml:id="biblid85829">
+            <title xml:id="idm140451209987776">Stille er min siel til GUd</title>
+          </bibl>
+          <bibl xml:id="biblid86210">
+            <title xml:id="idm140451209987024">Min nok beklemte aand!</title>
+          </bibl>
+          <bibl xml:id="biblid87251">
+            <title xml:id="idm140451209986240">Roe er sielens beste skat</title>
+          </bibl>
+          <bibl xml:id="biblid88202">
+            <title xml:id="idm140451209985488">Den ypperligste vey</title>
+          </bibl>
+          <bibl xml:id="biblid88933">
+            <title xml:id="idm140451209984704">Skal kierlighed sin prøve staae</title>
+          </bibl>
+          <bibl xml:id="biblid89718">
+            <title xml:id="idm140451209983872">Hvor seer det ud i verdens ørk</title>
+          </bibl>
+          <bibl xml:id="biblid90604">
+            <title xml:id="idm140451209978976">I HErrens udvalde, som hellighed øve</title>
+          </bibl>
+          <bibl xml:id="biblid91385">
+            <title xml:id="idm140451209978288">Far her ud, urene aand!</title>
+          </bibl>
+          <bibl xml:id="biblid92222">
+            <title xml:id="idm140451209977600">Flye min aand, og bryd med styrke</title>
+          </bibl>
+          <bibl xml:id="biblid92666">
+            <title xml:id="idm140451209976912">Du hiertens fryd for rene sinde</title>
+          </bibl>
+          <bibl xml:id="biblid93532">
+            <title xml:id="idm140451209976224">Troens Rare Klenodie, 5. Del. Troens Kamp og Seyer</title>
+          </bibl>
+          <bibl xml:id="biblid93546">
+            <title xml:id="idm140451209975472">Den troe, som JEsum favner</title>
+          </bibl>
+          <bibl xml:id="biblid94390">
+            <title xml:id="idm140451209974784">Vor trængsel, hvor besværlig</title>
+          </bibl>
+          <bibl xml:id="biblid95098">
+            <title xml:id="idm140451209973984">Vort kors giør sure miner</title>
+          </bibl>
+          <bibl xml:id="biblid95731">
+            <title xml:id="idm140451209973136">Vor GUd er tro i liv og død</title>
+          </bibl>
+          <bibl xml:id="biblid96234">
+            <title xml:id="idm140451209972304">Min christen, er dit kors saa svart</title>
+          </bibl>
+          <bibl xml:id="biblid97060">
+            <title xml:id="idm140451209971552">Den vey gaaer vist til himmerige</title>
+          </bibl>
+          <bibl xml:id="biblid98644">
+            <title xml:id="idm140451209970800">Kun frisk derind!</title>
+          </bibl>
+          <bibl xml:id="biblid99427">
+            <title xml:id="idm140451209970016">Nu derfor maa du dog ey plat</title>
+          </bibl>
+          <bibl xml:id="biblid100080">
+            <title xml:id="idm140451209969264">En christen har et kæmpe-mood</title>
+          </bibl>
+          <bibl xml:id="biblid101146">
+            <title xml:id="idm140451209968432">Det koster megen kamp og striid</title>
+          </bibl>
+          <bibl xml:id="biblid101637">
+            <title xml:id="idm140451209967680">Det koster ey for megen striid</title>
+          </bibl>
+          <bibl xml:id="biblid102121">
+            <title xml:id="idm140451209966880">Nærmer kun eder, spot, jammer og nød</title>
+          </bibl>
+          <bibl xml:id="biblid102596">
+            <title xml:id="idm140451209965968">Vor troe kand giennem alle baand</title>
+          </bibl>
+          <bibl xml:id="biblid103154">
+            <title xml:id="idm140451209965120">Op I christne! ruster eder!</title>
+          </bibl>
+          <bibl xml:id="biblid103922">
+            <title xml:id="idm140451209964320">Frisk op beklemte sind</title>
+          </bibl>
+          <bibl xml:id="biblid104237">
+            <title xml:id="idm140451209963536">Far dog fort! far dog fort!</title>
+          </bibl>
+          <bibl xml:id="biblid104678">
+            <title xml:id="idm140451209962672">Her løber jeg i blinde</title>
+          </bibl>
+          <bibl xml:id="biblid105541">
+            <title xml:id="idm140451209961792">Er jeg da her allene vild og fremmet?</title>
+          </bibl>
+          <bibl xml:id="biblid106403">
+            <title xml:id="idm140451209960992">Jammer har mig plat omgivet</title>
+          </bibl>
+          <bibl xml:id="biblid107447">
+            <title xml:id="idm140451209960128">Armod volder mig at skrige</title>
+          </bibl>
+          <bibl xml:id="biblid107868">
+            <title xml:id="idm140451209959328">JEsu! hvor er livets kilde?</title>
+          </bibl>
+          <bibl xml:id="biblid108357">
+            <title xml:id="idm140451209958464">Op! vaag og beed</title>
+          </bibl>
+          <bibl xml:id="biblid108867">
+            <title xml:id="idm140451209957680">Hvad fattes mig? hvi er jeg dog</title>
+          </bibl>
+          <bibl xml:id="biblid109754">
+            <title xml:id="idm140451209956880">O vaager op af verdens drømme</title>
+          </bibl>
+          <bibl xml:id="biblid110063">
+            <title xml:id="idm140451209955936">JEsu al min fryd og ære</title>
+          </bibl>
+          <bibl xml:id="biblid110500">
+            <title xml:id="idm140451209955072">Hvad skader dig, min aand, at du dig altid klager</title>
+          </bibl>
+          <bibl xml:id="biblid111073">
+            <title xml:id="idm140451209954256">Halleluja! jeg har min JEsum funden</title>
+          </bibl>
+          <bibl xml:id="biblid111880">
+            <title xml:id="idm140451209953456">Nu da til lykke</title>
+          </bibl>
+          <bibl xml:id="biblid112751">
+            <title xml:id="idm140451209952608">Staa fast, min siel! staa fast</title>
+          </bibl>
+          <bibl xml:id="biblid113451">
+            <title xml:id="idm140451209951744">Det koster meer, end man for først betænker</title>
+          </bibl>
+          <bibl xml:id="biblid114153">
+            <title xml:id="idm140451209950816">I lemmer, hvis hoved har himlen i vælde</title>
+          </bibl>
+          <bibl xml:id="biblid114754">
+            <title xml:id="idm140451209949920">O slagtet lam! som dødens stærke strikker</title>
+          </bibl>
+          <bibl xml:id="biblid115411">
+            <title xml:id="idm140451209949008">Troens Rare Klenodie, 6. Del. Troens Herlighed</title>
+          </bibl>
+          <bibl xml:id="biblid115425">
+            <title xml:id="idm140451209948192">Ach! seer dog, hvilken kierlighed</title>
+          </bibl>
+          <bibl xml:id="biblid116119">
+            <title xml:id="idm140451209947392">Jeg er GUds Jedidijah</title>
+          </bibl>
+          <bibl xml:id="biblid116428">
+            <title xml:id="idm140451209946544">O de siele, de allene</title>
+          </bibl>
+          <bibl xml:id="biblid117052">
+            <title xml:id="idm140451209945760">Vær lystig i HErren, hans due og dukke</title>
+          </bibl>
+          <bibl xml:id="biblid117335">
+            <title xml:id="idm140451209944848">O hvor yndigt og hvor fyndigt</title>
+          </bibl>
+          <bibl xml:id="biblid117987">
+            <title xml:id="idm140451209943984">O! hvilken ære</title>
+          </bibl>
+          <bibl xml:id="biblid118821">
+            <title xml:id="idm140451209943120">O søde naade-stand!</title>
+          </bibl>
+          <bibl xml:id="biblid119904">
+            <title xml:id="idm140451209942304">JEsu! naar jeg sindet ned</title>
+          </bibl>
+          <bibl xml:id="biblid120366">
+            <title xml:id="idm140451209941504">O hvor rigtig o hvor vigtig</title>
+          </bibl>
+          <bibl xml:id="biblid120976">
+            <title xml:id="idm140451209940704">Ach! hvad er man uden JEsu fremmed, ræd og bettel-arm</title>
+          </bibl>
+          <bibl xml:id="biblid121533">
+            <title xml:id="idm140451209939824">Ach hvad er man dog i JEsu salig, mægtig, skiøn og riig</title>
+          </bibl>
+          <bibl xml:id="biblid121836">
+            <title xml:id="idm140451209938896">Hvad er din herlighed dog stor</title>
+          </bibl>
+          <bibl xml:id="biblid122503">
+            <title xml:id="idm140451209938096">Min JEsum vil jeg, intet meer</title>
+          </bibl>
+          <bibl xml:id="biblid123588">
+            <title xml:id="idm140451209937232">Hvo er denne fyrste-datter</title>
+          </bibl>
+          <bibl xml:id="biblid124437">
+            <title xml:id="idm140451209936432">Hvem der havde dog forlaaret</title>
+          </bibl>
+          <bibl xml:id="biblid124751">
+            <title xml:id="idm140451209935584">Min brudgom, den liflige, skiønne og søde</title>
+          </bibl>
+          <bibl xml:id="biblid125576">
+            <title xml:id="idm140451209934672">At livet blev til sinds</title>
+          </bibl>
+          <bibl xml:id="biblid126422">
+            <title xml:id="idm140451209933888">Meer end himmel-søde</title>
+          </bibl>
+          <bibl xml:id="biblid127356">
+            <title xml:id="idm140451209933072">Bort I kiødelige tanker</title>
+          </bibl>
+          <bibl xml:id="biblid127790">
+            <title xml:id="idm140451209932256">Den sagte bevægelses liflige vind</title>
+          </bibl>
+          <bibl xml:id="biblid128422">
+            <title xml:id="idm140451209931360">O du, den jeg længes efter</title>
+          </bibl>
+          <bibl xml:id="biblid128731">
+            <title xml:id="idm140451209930544">Hvad ere de christne dog glimrende smukke</title>
+          </bibl>
+          <bibl xml:id="biblid129731">
+            <title xml:id="idm140451209929728">Troens Rare Klenodie, 7. Del. Troens Ende</title>
+          </bibl>
+          <bibl xml:id="biblid129745">
+            <title xml:id="idm140451209928848">Du arme støv og jord, hvad bilder du dig ind</title>
+          </bibl>
+          <bibl xml:id="biblid130155">
+            <title xml:id="idm140451209927920">Allevegne hvor jeg vanker</title>
+          </bibl>
+          <bibl xml:id="biblid130424">
+            <title xml:id="idm140451209927120">Den tiid gaaer an, som JEsus selv har sat</title>
+          </bibl>
+          <bibl xml:id="biblid130830">
+            <title xml:id="idm140451209926304">Nu, Gud skee lof, at stunden</title>
+          </bibl>
+          <bibl xml:id="biblid131515">
+            <title xml:id="idm140451209925440">Saa kom, forønskte dødens stund</title>
+          </bibl>
+          <bibl xml:id="biblid132436">
+            <title xml:id="idm140451209924544">Op! op! I folk paa jordens kreds</title>
+          </bibl>
+          <bibl xml:id="biblid54385">
+            <title xml:id="idm140451209923680">I Jomfruer, I kloge</title>
+          </bibl>
+          <bibl xml:id="biblid133763">
+            <title xml:id="idm140451209922784">Een draabe kun at smage</title>
+          </bibl>
+          <bibl xml:id="biblid134467">
+            <title xml:id="idm140451209922000">Er det saaledes, eller skeer</title>
+          </bibl>
+          <bibl xml:id="biblid135308">
+            <title xml:id="idm140451209921200">I sikre folk paa jorden!</title>
+          </bibl>
+          <bibl xml:id="biblid136120">
+            <title xml:id="idm140451209920400">See dagen bryder frem med magt</title>
+          </bibl>
+          <bibl xml:id="biblid136949">
+            <title xml:id="idm140451209919600">Syng hierte! syng en aften-sang</title>
+          </bibl>
+          <bibl xml:id="biblid137623">
+            <title xml:id="idm140451209918736">Troens rare Klenodie. Et lidet Tillæg</title>
+          </bibl>
+          <bibl xml:id="biblid137634">
+            <title xml:id="idm140451209917888">Paa JEsu død og blodig saar</title>
+          </bibl>
+          <bibl xml:id="biblid137992">
+            <title xml:id="idm140451209917056">Omenniske, som troer og veed</title>
+          </bibl>
+          <bibl xml:id="biblid138522">
+            <title xml:id="idm140451209916256">Den gamle Adams sind med verdens frygt sig piner</title>
+          </bibl>
+          <bibl xml:id="biblid139123">
+            <title xml:id="idm140451209915440">O Gud, som tiden vender</title>
+          </bibl>
+          <bibl xml:id="biblid139868">
+            <title xml:id="idm140451209914656">Syndre! hvad er klokken slagen?</title>
+          </bibl>
+          <bibl xml:id="biblid140800">
+            <title xml:id="idm140451209913792">Op! op! at møde</title>
+          </bibl>
+          <bibl xml:id="biblid141418">
+            <title xml:id="idm140451209912992">Den siel, som Gud i sandhed kiender</title>
+          </bibl>
+          <bibl xml:id="biblid142076">
+            <title xml:id="idm140451209912144">Hvor Gud mig fører, gaaer jeg glad</title>
+          </bibl>
+          <bibl xml:id="biblid142479">
+            <title xml:id="idm140451209911200">I sinde, som finde ey hvile paa jorden</title>
+          </bibl>
+          <bibl xml:id="biblid143131">
+            <title xml:id="idm140451209910400">O havde jeg dog tusind tunger</title>
+          </bibl>
+          <bibl xml:id="biblid143903">
+            <title xml:id="idm140451209909600">Op! op! min aand, fra hele verdens rige</title>
+          </bibl>
+          <bibl xml:id="biblid144458">
+            <title xml:id="idm140451209908800">Al priis og lof og ære bør</title>
+          </bibl>
+          <bibl xml:id="biblid144987">
+            <title xml:id="idm140451209907968">Mit hierte skal brænde som offer i ilden</title>
+          </bibl>
+          <bibl xml:id="biblid146024">
+            <title xml:id="idm140451209907056">Hører dog, I christne-lande!</title>
+          </bibl>
+          <bibl xml:id="biblid146969">
+            <title xml:id="idm140451209906160">I Christo har jeg livet</title>
+          </bibl>
+          <bibl xml:id="biblid147221">
+            <title xml:id="idm140451209905376">Min død er mig til gode</title>
+          </bibl>
+          <bibl xml:id="biblid147451">
+            <title xml:id="idm140451209904496">Nu! jeg har vunden</title>
+          </bibl>
+          <bibl xml:id="biblid147971">
+            <title xml:id="idm140451209903712">Troens rare Klenodie. Det allersidste Tillæg</title>
+          </bibl>
+          <bibl xml:id="biblid148042">
+            <title xml:id="idm140451209902736">Raaber, ach! raabe enhver, som kand raabe!</title>
+          </bibl>
+          <bibl xml:id="biblid148298">
+            <title xml:id="idm140451209901872">Op, hierte, op med fryde-skriig</title>
+          </bibl>
+          <bibl xml:id="biblid149100">
+            <title xml:id="idm140451209901072">Ach! hvorledes skal jeg skue</title>
+          </bibl>
+          <bibl xml:id="biblid149826">
+            <title xml:id="idm140451209900208">I JEsu saar er al min salighed</title>
+          </bibl>
+          <bibl xml:id="biblid150172">
+            <title xml:id="idm140451209899344">Halleluja tusind gang</title>
+          </bibl>
+          <bibl xml:id="biblid150592">
+            <title xml:id="idm140451209898560">Hvor skal jeg vel lindring finde</title>
+          </bibl>
+          <bibl xml:id="biblid151020">
+            <title xml:id="idm140451209897648">Den, som der vinder, skal æde de søde</title>
+          </bibl>
+          <bibl xml:id="biblid151909">
+            <title xml:id="idm140451209896800">Den elskte Jerusalems længsel mig nøder at ile</title>
+          </bibl>
+          <bibl xml:id="biblid152745">
+            <title xml:id="idm140451209895872">Amen! JEsus hand skal raade</title>
+          </bibl>
+        </listBibl>
+      </sourceDesc>
     </fileDesc>
   </teiHeader>
   <text xml:id="idm140451209895184">
     <front xml:id="idm140451209894928">
       <pb n="a" xml:id="sa" facs="adl/brorson/brorson2/bror2fm001"/>
       <gap reason="cancelled" xml:id="idm140451209893552"/>
-<!---->
-<!---->
-<!--HANS ADOLPH BRORSON, SAMLEDE SKRIFTER-->
       <pb n="b" xml:id="sb" facs="adl/brorson/brorson2/bror2fm002"/>
       <titlePage xml:id="idm140451209890896">
         <docAuthor xml:id="idm140451209890640">HANS ADOLPH BRORSON</docAuthor>

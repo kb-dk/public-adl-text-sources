@@ -1,10 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!--Tom opmærkning blo 26.06.02-->
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="idm139891795888016"><!-- 
-       file     ./marc_dir/002729949.xml
-       field     
-       subfield  
-       prefix   -->
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="root">
   <teiHeader xml:id="idm139891795892544">
     <fileDesc xml:id="idm139891795892288">
       <titleStmt xml:id="idm139891795891984">
@@ -19,8 +14,36 @@
         <note xml:id="idm139891795864112">
 	  </note>
       </notesStmt>
-      <sourceDesc xml:id="idm139891795863600"><bibl xml:id="idm139891795863472"><author n="1" xml:id="idm139891795862832"><name xml:id="idm139891795862576"><surname xml:id="idm139891795862448">Gyllembourg-Ehrensvärd</surname>, <forename xml:id="idm139891795861952">T. C.</forename></name></author><title xml:id="idm139891795861664">samlede skrifter af Forf</title><pubPlace xml:id="idm139891795861360">København</pubPlace>
-<date xml:id="idm139891795860848">1866-67</date></bibl><listBibl xml:id="idm139891795860560"><bibl xml:id="biblid54255"><title xml:id="idm139891795847360">To Tidsaldre (1845)</title></bibl><bibl xml:id="biblid56869"><title xml:id="idm139891795846528">Til Kjøbenhavns flyvende Post</title></bibl><bibl xml:id="biblid56972"><title xml:id="idm139891795845696">Til den flyvende Post, fra 219</title></bibl><bibl xml:id="biblid57091"><title xml:id="idm139891795844896">Til den flyvende Post, fra 220</title></bibl><bibl xml:id="biblid54317"><title xml:id="idm139891795844096">I Anledningen af en Blikkenslagers Brev i Fædrelandet (1837) Nr, 152</title></bibl><bibl xml:id="biblid54393"><title xml:id="idm139891795843184">Jens Drabelig</title></bibl></listBibl></sourceDesc>
+      <sourceDesc xml:id="idm139891795863600">
+        <bibl xml:id="idm139891795863472">
+          <author n="1" xml:id="idm139891795862832">
+            <name xml:id="idm139891795862576"><surname xml:id="idm139891795862448">Gyllembourg-Ehrensvärd</surname>, <forename xml:id="idm139891795861952">T. C.</forename></name>
+          </author>
+          <title xml:id="idm139891795861664">samlede skrifter af Forf</title>
+          <pubPlace xml:id="idm139891795861360">København</pubPlace>
+          <date xml:id="idm139891795860848">1866-67</date>
+        </bibl>
+        <listBibl xml:id="idm139891795860560">
+          <bibl xml:id="biblid54255">
+            <title xml:id="idm139891795847360">To Tidsaldre (1845)</title>
+          </bibl>
+          <bibl xml:id="biblid56869">
+            <title xml:id="idm139891795846528">Til Kjøbenhavns flyvende Post</title>
+          </bibl>
+          <bibl xml:id="biblid56972">
+            <title xml:id="idm139891795845696">Til den flyvende Post, fra 219</title>
+          </bibl>
+          <bibl xml:id="biblid57091">
+            <title xml:id="idm139891795844896">Til den flyvende Post, fra 220</title>
+          </bibl>
+          <bibl xml:id="biblid54317">
+            <title xml:id="idm139891795844096">I Anledningen af en Blikkenslagers Brev i Fædrelandet (1837) Nr, 152</title>
+          </bibl>
+          <bibl xml:id="biblid54393">
+            <title xml:id="idm139891795843184">Jens Drabelig</title>
+          </bibl>
+        </listBibl>
+      </sourceDesc>
     </fileDesc>
   </teiHeader>
   <text xml:id="idm139891795842496">

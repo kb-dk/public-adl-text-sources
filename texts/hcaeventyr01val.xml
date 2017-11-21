@@ -1,15 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!-- 
-16. april 2002 - HHL
-- rettet </lb> til <lb/> 7 steder
-- rettet side a - f til 1 - 6
-- flyttet alle pagebreaks til liniestart - ellers virker fanger.pl ikke
--->
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="idm139674379394080"><!-- 
-       file     ./marc_dir/001527411.xml
-       field    530 
-       subfield a 
-       prefix   1 : -->
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="root">
   <teiHeader xml:id="idm139674379393296">
     <fileDesc xml:id="idm139674379393040">
       <titleStmt xml:id="idm139674379392736">
@@ -25,29 +15,111 @@
 	  </note>
       </notesStmt>
       <sourceDesc xml:id="idm139674379364080">
-	<bibl xml:id="idm139674379363824">
-	  <author xml:id="idm139674379363568">
-	    <name xml:id="idm139674379363264"><surname xml:id="idm139674379363136">Andersen</surname>,
+        <bibl xml:id="idm139674379363824">
+          <author xml:id="idm139674379363568">
+            <name xml:id="idm139674379363264"><surname xml:id="idm139674379363136">Andersen</surname>,
 	    <forename xml:id="idm139674379362720">H. C.</forename></name>
-	  </author>
-	  <title xml:id="idm139674379362176">H.C. Andersens Eventyr bd. I</title>
-	  <title xml:id="idm139674379361744">kritisk udg. efter de originale eventyrhæfter med varianter
+          </author>
+          <title xml:id="idm139674379362176">H.C. Andersens Eventyr bd. I</title>
+          <title xml:id="idm139674379361744">kritisk udg. efter de originale eventyrhæfter med varianter
 	  ved Erik Dal</title>
-	  <pubPlace xml:id="idm139674379361184">København</pubPlace>
-	  <publisher xml:id="idm139674379360768">C. A. Reitzel</publisher>
-	  <date xml:id="idm139674379360304">1990</date>
-	</bibl>
-	<listBibl xml:id="idm139674379359712">
-      <bibl xml:id="biblid57967"><title xml:id="idm139674379345984">Eventyr, fortalte for Børn. Første Samling. Første Hefte. 1885.</title></bibl><bibl xml:id="biblid58084"><title xml:id="idm139674379345088">Fyrtøiet</title></bibl><bibl xml:id="biblid59091"><title xml:id="idm139674379344304">Lille Claus og store Claus</title></bibl><bibl xml:id="biblid61051"><title xml:id="idm139674379343504">Prindsessen paa Ærten</title></bibl><bibl xml:id="biblid61317"><title xml:id="idm139674379342688">Den lille Idas Blomster</title></bibl><bibl xml:id="biblid62461"><title xml:id="idm139674379341904">Eventyr, fortalte for Børn. Første Samling. Andet Hefte. 1885.</title></bibl><bibl xml:id="biblid62544"><title xml:id="idm139674379340960">Tommelise</title></bibl><bibl xml:id="biblid64209"><title xml:id="idm139674379340128">Den uartige Dreng</title></bibl><bibl xml:id="biblid64656"><title xml:id="idm139674379339280">Reisekammeraten</title></bibl><bibl xml:id="biblid67529"><title xml:id="idm139674379338496">Eventyr, fortalte for Børn.Første Samling. Tredie Hefte. 1837.</title></bibl><bibl xml:id="biblid67635"><title xml:id="idm139674379337552">Den lille Havfrue</title></bibl><bibl xml:id="biblid70012"><title xml:id="idm139674379336768">Keiserens nye Klæder</title></bibl><bibl xml:id="biblid70856"><title xml:id="idm139674379335952">Eventyr, fortalte for Børn. Ny Samling. 1888-42.</title></bibl><bibl xml:id="biblid71035"><title xml:id="idm139674379335088">Eventyr, fortalte for Børn. Ny Samling. Første Hefte. 1838.</title></bibl><bibl xml:id="biblid71131"><title xml:id="idm139674379334144">Gaaseurten</title></bibl><bibl xml:id="biblid71646"><title xml:id="idm139674379333312">Den standhaftige Tinsoldat</title></bibl><bibl xml:id="biblid72161"><title xml:id="idm139674379332512">De vilde Svaner</title></bibl><bibl xml:id="biblid73868"><title xml:id="idm139674379331728">Eventyr, fortalte for Børn. Ny Samling. Andet Hefte. 1839.</title></bibl><bibl xml:id="biblid73944"><title xml:id="idm139674379330800">Paradisets Have</title></bibl><bibl xml:id="biblid75874"><title xml:id="idm139674379330016">Den flyvende Kuffert</title></bibl><bibl xml:id="biblid76647"><title xml:id="idm139674379329184">Storkene</title></bibl><bibl xml:id="biblid77542"><title xml:id="idm139674379328352">Eventyr, fortalte for Børn. Ny Samling. Tredie Hefte. 1842.</title></bibl><bibl xml:id="biblid77637"><title xml:id="idm139674379327408">Ole Lukøie</title></bibl><bibl xml:id="biblid79553"><title xml:id="idm139674379326512">Rosen-Alfen</title></bibl><bibl xml:id="biblid80388"><title xml:id="idm139674379325680">Svinedrengen</title></bibl><bibl xml:id="biblid81228"><title xml:id="idm139674379423744">Boghveden</title></bibl><bibl xml:id="biblid81537"><title xml:id="idm139674379423024">Dødningen, et fyensk Folke-Eventyr</title></bibl><bibl xml:id="biblid83529"><title xml:id="idm139674379422192">Lykkens Kalosker</title></bibl></listBibl></sourceDesc>
+          <pubPlace xml:id="idm139674379361184">København</pubPlace>
+          <publisher xml:id="idm139674379360768">C. A. Reitzel</publisher>
+          <date xml:id="idm139674379360304">1990</date>
+        </bibl>
+        <listBibl xml:id="idm139674379359712">
+          <bibl xml:id="biblid57967">
+            <title xml:id="idm139674379345984">Eventyr, fortalte for Børn. Første Samling. Første Hefte. 1885.</title>
+          </bibl>
+          <bibl xml:id="biblid58084">
+            <title xml:id="idm139674379345088">Fyrtøiet</title>
+          </bibl>
+          <bibl xml:id="biblid59091">
+            <title xml:id="idm139674379344304">Lille Claus og store Claus</title>
+          </bibl>
+          <bibl xml:id="biblid61051">
+            <title xml:id="idm139674379343504">Prindsessen paa Ærten</title>
+          </bibl>
+          <bibl xml:id="biblid61317">
+            <title xml:id="idm139674379342688">Den lille Idas Blomster</title>
+          </bibl>
+          <bibl xml:id="biblid62461">
+            <title xml:id="idm139674379341904">Eventyr, fortalte for Børn. Første Samling. Andet Hefte. 1885.</title>
+          </bibl>
+          <bibl xml:id="biblid62544">
+            <title xml:id="idm139674379340960">Tommelise</title>
+          </bibl>
+          <bibl xml:id="biblid64209">
+            <title xml:id="idm139674379340128">Den uartige Dreng</title>
+          </bibl>
+          <bibl xml:id="biblid64656">
+            <title xml:id="idm139674379339280">Reisekammeraten</title>
+          </bibl>
+          <bibl xml:id="biblid67529">
+            <title xml:id="idm139674379338496">Eventyr, fortalte for Børn.Første Samling. Tredie Hefte. 1837.</title>
+          </bibl>
+          <bibl xml:id="biblid67635">
+            <title xml:id="idm139674379337552">Den lille Havfrue</title>
+          </bibl>
+          <bibl xml:id="biblid70012">
+            <title xml:id="idm139674379336768">Keiserens nye Klæder</title>
+          </bibl>
+          <bibl xml:id="biblid70856">
+            <title xml:id="idm139674379335952">Eventyr, fortalte for Børn. Ny Samling. 1888-42.</title>
+          </bibl>
+          <bibl xml:id="biblid71035">
+            <title xml:id="idm139674379335088">Eventyr, fortalte for Børn. Ny Samling. Første Hefte. 1838.</title>
+          </bibl>
+          <bibl xml:id="biblid71131">
+            <title xml:id="idm139674379334144">Gaaseurten</title>
+          </bibl>
+          <bibl xml:id="biblid71646">
+            <title xml:id="idm139674379333312">Den standhaftige Tinsoldat</title>
+          </bibl>
+          <bibl xml:id="biblid72161">
+            <title xml:id="idm139674379332512">De vilde Svaner</title>
+          </bibl>
+          <bibl xml:id="biblid73868">
+            <title xml:id="idm139674379331728">Eventyr, fortalte for Børn. Ny Samling. Andet Hefte. 1839.</title>
+          </bibl>
+          <bibl xml:id="biblid73944">
+            <title xml:id="idm139674379330800">Paradisets Have</title>
+          </bibl>
+          <bibl xml:id="biblid75874">
+            <title xml:id="idm139674379330016">Den flyvende Kuffert</title>
+          </bibl>
+          <bibl xml:id="biblid76647">
+            <title xml:id="idm139674379329184">Storkene</title>
+          </bibl>
+          <bibl xml:id="biblid77542">
+            <title xml:id="idm139674379328352">Eventyr, fortalte for Børn. Ny Samling. Tredie Hefte. 1842.</title>
+          </bibl>
+          <bibl xml:id="biblid77637">
+            <title xml:id="idm139674379327408">Ole Lukøie</title>
+          </bibl>
+          <bibl xml:id="biblid79553">
+            <title xml:id="idm139674379326512">Rosen-Alfen</title>
+          </bibl>
+          <bibl xml:id="biblid80388">
+            <title xml:id="idm139674379325680">Svinedrengen</title>
+          </bibl>
+          <bibl xml:id="biblid81228">
+            <title xml:id="idm139674379423744">Boghveden</title>
+          </bibl>
+          <bibl xml:id="biblid81537">
+            <title xml:id="idm139674379423024">Dødningen, et fyensk Folke-Eventyr</title>
+          </bibl>
+          <bibl xml:id="biblid83529">
+            <title xml:id="idm139674379422192">Lykkens Kalosker</title>
+          </bibl>
+        </listBibl>
+      </sourceDesc>
     </fileDesc>
   </teiHeader>
   <text xml:id="idm139674379421552">
     <front xml:id="idm139674379421296">
       <pb n="1" xml:id="s1" facs="adl/andersenhc/andersenhcev1/ahce1001"/>
       <gap reason="cancelled" xml:id="idm139674379419936"/>
-<!---->
-<!---->
-<!--H. C. ANDERSENS, EVENTYR I-->
       <pb n="2" xml:id="s2" facs="adl/andersenhc/andersenhcev1/ahce1002"/>
       <titlePage xml:id="idm139674379297888">
         <docAuthor xml:id="idm139674379297632">H. C. ANDERSENS</docAuthor>

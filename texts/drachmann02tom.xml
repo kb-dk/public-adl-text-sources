@@ -1,10 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!--Tom opmærkning d.01.5.2002 blo -->
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="idm140172389858400"><!-- 
-       file     ./marc_dir/001823907.xml
-       field     
-       subfield  
-       prefix   -->
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="root">
   <teiHeader xml:id="idm140172389857568">
     <fileDesc xml:id="idm140172389857312">
       <titleStmt xml:id="idm140172389857008">
@@ -19,8 +14,36 @@
         <note xml:id="idm140172389828928">
 	  </note>
       </notesStmt>
-      <sourceDesc xml:id="idm140172389828416"><bibl xml:id="idm140172389828288"><author n="1" xml:id="idm140172389827600"><name xml:id="idm140172389827344"><surname xml:id="idm140172389827216">Drachmann</surname>, <forename xml:id="idm140172389826784">Holger</forename></name></author><title xml:id="idm140172389826496">Samlede poetiske Skrifter</title><pubPlace xml:id="idm140172389826192">Kbh. &amp; Kristiania</pubPlace>
-<date xml:id="idm140172389825568">1906-1909</date></bibl><listBibl xml:id="idm140172389825312"><bibl xml:id="biblid54254"><title xml:id="idm140172389812160">En Overkomplet</title></bibl><bibl xml:id="biblid56364"><title xml:id="idm140172389811376">Tannhäuser</title></bibl><bibl xml:id="biblid57425"><title xml:id="idm140172389810592">Ungt Blod. Tre Fortællinger fra vore Dage</title></bibl><bibl xml:id="biblid57466"><title xml:id="idm140172389809744">Dædalus</title></bibl><bibl xml:id="biblid57966"><title xml:id="idm140172389808960">Najaden</title></bibl><bibl xml:id="biblid58249"><title xml:id="idm140172389808128">To Skud</title></bibl></listBibl></sourceDesc>
+      <sourceDesc xml:id="idm140172389828416">
+        <bibl xml:id="idm140172389828288">
+          <author n="1" xml:id="idm140172389827600">
+            <name xml:id="idm140172389827344"><surname xml:id="idm140172389827216">Drachmann</surname>, <forename xml:id="idm140172389826784">Holger</forename></name>
+          </author>
+          <title xml:id="idm140172389826496">Samlede poetiske Skrifter</title>
+          <pubPlace xml:id="idm140172389826192">Kbh. &amp; Kristiania</pubPlace>
+          <date xml:id="idm140172389825568">1906-1909</date>
+        </bibl>
+        <listBibl xml:id="idm140172389825312">
+          <bibl xml:id="biblid54254">
+            <title xml:id="idm140172389812160">En Overkomplet</title>
+          </bibl>
+          <bibl xml:id="biblid56364">
+            <title xml:id="idm140172389811376">Tannhäuser</title>
+          </bibl>
+          <bibl xml:id="biblid57425">
+            <title xml:id="idm140172389810592">Ungt Blod. Tre Fortællinger fra vore Dage</title>
+          </bibl>
+          <bibl xml:id="biblid57466">
+            <title xml:id="idm140172389809744">Dædalus</title>
+          </bibl>
+          <bibl xml:id="biblid57966">
+            <title xml:id="idm140172389808960">Najaden</title>
+          </bibl>
+          <bibl xml:id="biblid58249">
+            <title xml:id="idm140172389808128">To Skud</title>
+          </bibl>
+        </listBibl>
+      </sourceDesc>
     </fileDesc>
   </teiHeader>
   <text xml:id="idm140172389807488">

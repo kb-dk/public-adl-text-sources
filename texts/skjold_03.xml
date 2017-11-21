@@ -1,9 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="idm140608115805552"><!-- 
-       file     ./marc_dir/002137051.xml
-       field     
-       subfield  
-       prefix   -->
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="root">
   <teiHeader xml:id="idm140608115804896">
     <fileDesc xml:id="idm140608115804640">
       <titleStmt xml:id="idm140608115804336">
@@ -18,8 +14,83 @@
         <note xml:id="idm140608115776208">
 	  </note>
       </notesStmt>
-      <sourceDesc xml:id="idm140608115775696"><bibl xml:id="idm140608115775568"><author n="1" xml:id="idm140608115774880"><name xml:id="idm140608115774624"><surname xml:id="idm140608115774496">Skjoldborg</surname>, <forename xml:id="idm140608115774064">Johan</forename></name></author><title xml:id="idm140608115773776">Dynæs Digte</title><pubPlace xml:id="idm140608115773472">København</pubPlace>; <pubPlace xml:id="idm140608115773008">Kristiania</pubPlace>
-<publisher xml:id="idm140608115772544">Gyldendalske Boghandel, Nordisk Forlag</publisher><date xml:id="idm140608115772192">1915</date></bibl><listBibl xml:id="idm140608115771904"><bibl xml:id="biblid54088"><title xml:id="idm140608115758752">Dynæs Digte</title></bibl><bibl xml:id="biblid54677"><title xml:id="idm140608115757952">Kabbelejen</title></bibl><bibl xml:id="biblid54788"><title xml:id="idm140608115757168">Dynæs-Kilderne</title></bibl><bibl xml:id="biblid54882"><title xml:id="idm140608115756368">Rørsangeren</title></bibl><bibl xml:id="biblid54983"><title xml:id="idm140608115755520">Nu drager de vilde Svaner</title></bibl><bibl xml:id="biblid55111"><title xml:id="idm140608115754720">Hjemkomst</title></bibl><bibl xml:id="biblid55639"><title xml:id="idm140608115753936">Husmandssangen</title></bibl><bibl xml:id="biblid55723"><title xml:id="idm140608115753152">Hjemmet</title></bibl><bibl xml:id="biblid55813"><title xml:id="idm140608115752320">Du Husmand</title></bibl><bibl xml:id="biblid55940"><title xml:id="idm140608115751536">Den gamle Husmand </title></bibl><bibl xml:id="biblid56054"><title xml:id="idm140608115750752">Ungkarlen</title></bibl><bibl xml:id="biblid56148"><title xml:id="idm140608115749968">Hyttesang</title></bibl><bibl xml:id="biblid56271"><title xml:id="idm140608115749136">Ny Signaler</title></bibl><bibl xml:id="biblid56361"><title xml:id="idm140608115748304">Der vokser Skov paa Heden</title></bibl><bibl xml:id="biblid56452"><title xml:id="idm140608115747456">Skolesang</title></bibl><bibl xml:id="biblid56598"><title xml:id="idm140608115746672">Grundlovssang</title></bibl><bibl xml:id="biblid56694"><title xml:id="idm140608115745776">Kvinden</title></bibl><bibl xml:id="biblid56866"><title xml:id="idm140608115744992">Morgensang</title></bibl><bibl xml:id="biblid56956"><title xml:id="idm140608115744160">Majsang</title></bibl><bibl xml:id="biblid57050"><title xml:id="idm140608115743376">Sytten Aar</title></bibl><bibl xml:id="biblid57131"><title xml:id="idm140608115742544">Sommerdaw</title></bibl><bibl xml:id="biblid57218"><title xml:id="idm140608115741648">Jeppe Aakjær</title></bibl><bibl xml:id="biblid57360"><title xml:id="idm140608115740800">I æ Awtægtsstow</title></bibl><bibl xml:id="biblid57490"><title xml:id="idm140608115739952">Hjemm fræ</title></bibl></listBibl></sourceDesc>
+      <sourceDesc xml:id="idm140608115775696">
+        <bibl xml:id="idm140608115775568"><author n="1" xml:id="idm140608115774880"><name xml:id="idm140608115774624"><surname xml:id="idm140608115774496">Skjoldborg</surname>, <forename xml:id="idm140608115774064">Johan</forename></name></author><title xml:id="idm140608115773776">Dynæs Digte</title><pubPlace xml:id="idm140608115773472">København</pubPlace>; <pubPlace xml:id="idm140608115773008">Kristiania</pubPlace><publisher xml:id="idm140608115772544">Gyldendalske Boghandel, Nordisk Forlag</publisher><date xml:id="idm140608115772192">1915</date></bibl>
+        <listBibl xml:id="idm140608115771904">
+          <bibl xml:id="biblid54088">
+            <title xml:id="idm140608115758752">Dynæs Digte</title>
+          </bibl>
+          <bibl xml:id="biblid54677">
+            <title xml:id="idm140608115757952">Kabbelejen</title>
+          </bibl>
+          <bibl xml:id="biblid54788">
+            <title xml:id="idm140608115757168">Dynæs-Kilderne</title>
+          </bibl>
+          <bibl xml:id="biblid54882">
+            <title xml:id="idm140608115756368">Rørsangeren</title>
+          </bibl>
+          <bibl xml:id="biblid54983">
+            <title xml:id="idm140608115755520">Nu drager de vilde Svaner</title>
+          </bibl>
+          <bibl xml:id="biblid55111">
+            <title xml:id="idm140608115754720">Hjemkomst</title>
+          </bibl>
+          <bibl xml:id="biblid55639">
+            <title xml:id="idm140608115753936">Husmandssangen</title>
+          </bibl>
+          <bibl xml:id="biblid55723">
+            <title xml:id="idm140608115753152">Hjemmet</title>
+          </bibl>
+          <bibl xml:id="biblid55813">
+            <title xml:id="idm140608115752320">Du Husmand</title>
+          </bibl>
+          <bibl xml:id="biblid55940">
+            <title xml:id="idm140608115751536">Den gamle Husmand </title>
+          </bibl>
+          <bibl xml:id="biblid56054">
+            <title xml:id="idm140608115750752">Ungkarlen</title>
+          </bibl>
+          <bibl xml:id="biblid56148">
+            <title xml:id="idm140608115749968">Hyttesang</title>
+          </bibl>
+          <bibl xml:id="biblid56271">
+            <title xml:id="idm140608115749136">Ny Signaler</title>
+          </bibl>
+          <bibl xml:id="biblid56361">
+            <title xml:id="idm140608115748304">Der vokser Skov paa Heden</title>
+          </bibl>
+          <bibl xml:id="biblid56452">
+            <title xml:id="idm140608115747456">Skolesang</title>
+          </bibl>
+          <bibl xml:id="biblid56598">
+            <title xml:id="idm140608115746672">Grundlovssang</title>
+          </bibl>
+          <bibl xml:id="biblid56694">
+            <title xml:id="idm140608115745776">Kvinden</title>
+          </bibl>
+          <bibl xml:id="biblid56866">
+            <title xml:id="idm140608115744992">Morgensang</title>
+          </bibl>
+          <bibl xml:id="biblid56956">
+            <title xml:id="idm140608115744160">Majsang</title>
+          </bibl>
+          <bibl xml:id="biblid57050">
+            <title xml:id="idm140608115743376">Sytten Aar</title>
+          </bibl>
+          <bibl xml:id="biblid57131">
+            <title xml:id="idm140608115742544">Sommerdaw</title>
+          </bibl>
+          <bibl xml:id="biblid57218">
+            <title xml:id="idm140608115741648">Jeppe Aakjær</title>
+          </bibl>
+          <bibl xml:id="biblid57360">
+            <title xml:id="idm140608115740800">I æ Awtægtsstow</title>
+          </bibl>
+          <bibl xml:id="biblid57490">
+            <title xml:id="idm140608115739952">Hjemm fræ</title>
+          </bibl>
+        </listBibl>
+      </sourceDesc>
     </fileDesc>
   </teiHeader>
   <text xml:id="workid54088" decls="#biblid54088">

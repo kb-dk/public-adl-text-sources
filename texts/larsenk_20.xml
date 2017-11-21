@@ -1,9 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="idm140618749441936"><!-- 
-       file     ./marc_dir/001967776.xml
-       field     
-       subfield  
-       prefix   -->
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="root">
   <teiHeader xml:id="idm140618749446768">
     <fileDesc xml:id="idm140618749446512">
       <titleStmt xml:id="idm140618749446208">
@@ -21,8 +17,14 @@
         <note xml:id="idm140618749417136">
 	  </note>
       </notesStmt>
-      <sourceDesc xml:id="idm140618749416576"><bibl xml:id="idm140618749416448"><author n="1" xml:id="idm140618749415760"><name xml:id="idm140618749415504"><surname xml:id="idm140618749415376">Larsen</surname>, <forename xml:id="idm140618749414944">Karl</forename></name></author><title xml:id="idm140618749414656">Set og tænkt under den store Krig</title><pubPlace xml:id="idm140618749414320">København</pubPlace>; <pubPlace xml:id="idm140618749413856">Kristiania</pubPlace>
-<publisher xml:id="idm140618749413392">Erslev &amp; Hasselbalchs Forlag</publisher><publisher xml:id="idm140618749413040">Scheteligs Boghandel</publisher><date xml:id="idm140618749412704">1915</date></bibl><listBibl xml:id="idm140618749412416"><bibl xml:id="biblid54096"><title xml:id="idm140618749399264">Set og tænkt under den store Krig (1)</title></bibl></listBibl></sourceDesc>
+      <sourceDesc xml:id="idm140618749416576">
+        <bibl xml:id="idm140618749416448"><author n="1" xml:id="idm140618749415760"><name xml:id="idm140618749415504"><surname xml:id="idm140618749415376">Larsen</surname>, <forename xml:id="idm140618749414944">Karl</forename></name></author><title xml:id="idm140618749414656">Set og tænkt under den store Krig</title><pubPlace xml:id="idm140618749414320">København</pubPlace>; <pubPlace xml:id="idm140618749413856">Kristiania</pubPlace><publisher xml:id="idm140618749413392">Erslev &amp; Hasselbalchs Forlag</publisher><publisher xml:id="idm140618749413040">Scheteligs Boghandel</publisher><date xml:id="idm140618749412704">1915</date></bibl>
+        <listBibl xml:id="idm140618749412416">
+          <bibl xml:id="biblid54096">
+            <title xml:id="idm140618749399264">Set og tænkt under den store Krig (1)</title>
+          </bibl>
+        </listBibl>
+      </sourceDesc>
     </fileDesc>
   </teiHeader>
   <text xml:id="workid54096" decls="#biblid54096">

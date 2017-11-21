@@ -1,10 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!-- HHL 08.08.2002 tilføjet vaerktitler-->
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="idm140287316273040"><!-- 
-       file     ./marc_dir/001823114.xml
-       field    530 
-       subfield a 
-       prefix   5. Bind-->
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="root">
   <teiHeader xml:id="idm140287316277792">
     <fileDesc xml:id="idm140287316277536">
       <titleStmt xml:id="idm140287316277232">
@@ -25,28 +20,34 @@
 	  </note>
       </notesStmt>
       <sourceDesc xml:id="idm140287316246928">
-	<bibl xml:id="idm140287316246672">
-	  <author n="1" xml:id="idm140287316245856">
-	    <name xml:id="idm140287316245424">
-	      <surname xml:id="idm140287316245120">Helgesen</surname>, <forename xml:id="idm140287316244656">Poul</forename>
-	    </name>
-	  </author>
-	  <title xml:id="idm140287316243984">Skrifter af Paulus Helie 5. Bind  / ved Marius
+        <bibl xml:id="idm140287316246672">
+          <author n="1" xml:id="idm140287316245856">
+            <name xml:id="idm140287316245424"><surname xml:id="idm140287316245120">Helgesen</surname>, <forename xml:id="idm140287316244656">Poul</forename></name>
+          </author>
+          <title xml:id="idm140287316243984">Skrifter af Paulus Helie 5. Bind  / ved Marius
 	  Kristensen. - 1935</title>
-	  <title xml:id="idm140287316243520">Udgivet af Det Danske Sprog- og Litteraturselskab</title>
-	  <pubPlace xml:id="idm140287316243072">København</pubPlace>
-	  <date xml:id="idm140287316242608">1932-1948</date>
-	</bibl>
-      <listBibl xml:id="idm140287316242016"><bibl xml:id="biblid54262"><title xml:id="idm140287316228864">Om den Lutherske Handel. (1532)</title></bibl><bibl xml:id="biblid58233"><title xml:id="idm140287316228016">En kristen Fyrstes Lære (1534)</title></bibl><bibl xml:id="biblid65017"><title xml:id="idm140287316227136">En kristelig Forligelse (1534)</title></bibl></listBibl></sourceDesc>
+          <title xml:id="idm140287316243520">Udgivet af Det Danske Sprog- og Litteraturselskab</title>
+          <pubPlace xml:id="idm140287316243072">København</pubPlace>
+          <date xml:id="idm140287316242608">1932-1948</date>
+        </bibl>
+        <listBibl xml:id="idm140287316242016">
+          <bibl xml:id="biblid54262">
+            <title xml:id="idm140287316228864">Om den Lutherske Handel. (1532)</title>
+          </bibl>
+          <bibl xml:id="biblid58233">
+            <title xml:id="idm140287316228016">En kristen Fyrstes Lære (1534)</title>
+          </bibl>
+          <bibl xml:id="biblid65017">
+            <title xml:id="idm140287316227136">En kristelig Forligelse (1534)</title>
+          </bibl>
+        </listBibl>
+      </sourceDesc>
     </fileDesc>
   </teiHeader>
   <text xml:id="idm140287316226448">
     <front xml:id="idm140287316226192">
       <pb n="I" facs="adl/helgesen/helgesen5/helg5fm001" xml:id="idm140287316225888"/>
       <gap reason="cancelled" xml:id="idm140287316225056"/>
-<!---->
-<!---->
-<!--SKRIFTER AF PAULUS HELIE BIND V-->
       <pb n="II" facs="adl/helgesen/helgesen5/helg5fm002" xml:id="idm140287316223504"/>
       <pb n="III" facs="adl/helgesen/helgesen5/helg5fm003" xml:id="idm140287316222736"/>
       <titlePage xml:id="idm140287316221968">
