@@ -1,13 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!-- VL 4.10.2002 + vaerktitle -->
-<!-- 20030523 HHL rettet fejlene ved Litteraturselskab
-                     tabel ved indh.fort.
-                     -->
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="idm140427080190784"><!-- 
-       file     ./marc_dir/001391916.xml
-       field     
-       subfield  
-       prefix   -->
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="root">
   <teiHeader xml:id="idm140427080189920">
     <fileDesc xml:id="idm140427080189664">
       <titleStmt xml:id="idm140427080164272">
@@ -28,17 +20,20 @@ Det Danske Sprog- og Litteraturselskab</publisher>
         <note xml:id="idm140427080159440">
 	  </note>
       </notesStmt>
-      <sourceDesc xml:id="idm140427080158928"><bibl xml:id="idm140427080158800"><author n="1" xml:id="idm140427080158112"><name xml:id="idm140427080157856"><surname xml:id="idm140427080157728">Drachmann</surname>, <forename xml:id="idm140427080157296">Holger</forename></name></author><title xml:id="idm140427080157040">En Overkomplet</title><pubPlace xml:id="idm140427080156752">[København]</pubPlace>; <pubPlace xml:id="idm140427080156288">[Valby]</pubPlace>; <pubPlace xml:id="idm140427080155872">[Ballerup]</pubPlace>
-<publisher xml:id="idm140427080155408">Det Danske Sprog- og Litteraturselskab</publisher><publisher xml:id="idm140427080155104">Borgen</publisher><publisher xml:id="idm140427080154816">i samarbejde med Nyt Dansk Litteraturselskab</publisher><date xml:id="idm140427080154448">cop. 1987</date></bibl><listBibl xml:id="idm140427080154160"><bibl xml:id="biblid54108"><title xml:id="idm140427080141008">En Overkomplet</title></bibl></listBibl></sourceDesc>
+      <sourceDesc xml:id="idm140427080158928">
+        <bibl xml:id="idm140427080158800"><author n="1" xml:id="idm140427080158112"><name xml:id="idm140427080157856"><surname xml:id="idm140427080157728">Drachmann</surname>, <forename xml:id="idm140427080157296">Holger</forename></name></author><title xml:id="idm140427080157040">En Overkomplet</title><pubPlace xml:id="idm140427080156752">[København]</pubPlace>; <pubPlace xml:id="idm140427080156288">[Valby]</pubPlace>; <pubPlace xml:id="idm140427080155872">[Ballerup]</pubPlace><publisher xml:id="idm140427080155408">Det Danske Sprog- og Litteraturselskab</publisher><publisher xml:id="idm140427080155104">Borgen</publisher><publisher xml:id="idm140427080154816">i samarbejde med Nyt Dansk Litteraturselskab</publisher><date xml:id="idm140427080154448">cop. 1987</date></bibl>
+        <listBibl xml:id="idm140427080154160">
+          <bibl xml:id="biblid54108">
+            <title xml:id="idm140427080141008">En Overkomplet</title>
+          </bibl>
+        </listBibl>
+      </sourceDesc>
     </fileDesc>
   </teiHeader>
   <text xml:id="workid54108" decls="#biblid54108">
     <pb n="1" xml:id="s1" facs="adl/drachmann/drachmann13/drac13001"/>
     <front xml:id="idm140427080138224">
       <gap reason="cancelled" xml:id="idm140427080137920"/>
-<!---->
-<!---->
-<!--En Overkomplet-->
       <pb n="2" xml:id="s2" facs="adl/drachmann/drachmann13/drac13002"/>
       <pb n="3" xml:id="s3" facs="adl/drachmann/drachmann13/drac13003"/>
       <titlePage xml:id="idm140427080134176">

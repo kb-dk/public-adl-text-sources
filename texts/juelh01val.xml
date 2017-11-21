@@ -1,14 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!-- OCR by ATAPY 10.10.02 (Catherine Bychkova) -->
-<!-- HHL 2003.03.06 emph udkommenteret og erstattet af kursiv
-     HHL 2003.03.06 checkliste gennemgået
-Ptj rettet s. 3-5-8-11-13-16-19-23-
--->
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="idm139742594797104"><!-- 
-       file     ./marc_dir/001520685.xml
-       field     
-       subfield  
-       prefix   -->
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="root">
   <teiHeader xml:id="idm139742594763008">
     <fileDesc xml:id="idm139742594762752">
       <titleStmt xml:id="idm139742594762496">
@@ -28,17 +19,27 @@ Ptj rettet s. 3-5-8-11-13-16-19-23-
         <note xml:id="idm139742594733104">
 	  </note>
       </notesStmt>
-      <sourceDesc xml:id="idm139742594732544"><bibl xml:id="idm139742594732416"><author n="1" xml:id="idm139742594731728"><name xml:id="idm139742594731472"><surname xml:id="idm139742594731344">Juel-Hansen</surname>, <forename xml:id="idm139742594730880">Erna</forename></name></author><title xml:id="idm139742594730592">En ung Dames Historie</title><pubPlace xml:id="idm139742594730304">København</pubPlace>
-<date xml:id="idm139742594729792">1888</date></bibl><listBibl xml:id="idm139742594729504"><bibl xml:id="biblid54320"><title xml:id="idm139742594716352">EN UNG DAMES HISTORIE</title></bibl></listBibl></sourceDesc>
+      <sourceDesc xml:id="idm139742594732544">
+        <bibl xml:id="idm139742594732416">
+          <author n="1" xml:id="idm139742594731728">
+            <name xml:id="idm139742594731472"><surname xml:id="idm139742594731344">Juel-Hansen</surname>, <forename xml:id="idm139742594730880">Erna</forename></name>
+          </author>
+          <title xml:id="idm139742594730592">En ung Dames Historie</title>
+          <pubPlace xml:id="idm139742594730304">København</pubPlace>
+          <date xml:id="idm139742594729792">1888</date>
+        </bibl>
+        <listBibl xml:id="idm139742594729504">
+          <bibl xml:id="biblid54320">
+            <title xml:id="idm139742594716352">EN UNG DAMES HISTORIE</title>
+          </bibl>
+        </listBibl>
+      </sourceDesc>
     </fileDesc>
   </teiHeader>
   <text xml:id="idm139742594715712">
     <front xml:id="idm139742594715456">
       <pb n="a" facs="adl/juelh/juelh01/juelh1fm001" xml:id="idm139742594715152"/>
       <gap reason="cancelled" xml:id="idm139742594714288"/>
-<!---->
-<!---->
-<!--EN UNG DAMES HISTORIE.-->
       <pb n="b" facs="adl/juelh/juelh01/juelh1fm002" xml:id="idm139742594712768"/>
       <pb n="c" facs="adl/juelh/juelh01/juelh1fm003" xml:id="idm139742594711984"/>
       <titlePage xml:id="idm139742594711216">
@@ -682,7 +683,7 @@ Ptj rettet s. 3-5-8-11-13-16-19-23-
 								mig!"</p>
               <p xml:id="idm139742594530064">"Men - har du ingen Veninder haft? De plejer
 								ellers - -"</p>
-              <p xml:id="idm139742594529600">"Veninder? Pyt! Jeg <!--<emph>--><hi rend="italics" xml:id="idm139742594529120">måtte</hi><!--</emph>--> ingen have - og desuden, hvor
+              <p xml:id="idm139742594529600">"Veninder? Pyt! Jeg <hi rend="italics" xml:id="idm139742594529120">måtte</hi> ingen have - og desuden, hvor
 								skulde de komme fra? Når man ikke går i Skole, får man ingen
 								Veninder - - jeg kunde da ikke være Veninde med
 								Clara og Olga og Emma, og hvad alle Kusinerne hedder. De er jo meget
@@ -842,11 +843,11 @@ Ptj rettet s. 3-5-8-11-13-16-19-23-
 								havde sagt - der var noget grimt ved det</p>
               <p xml:id="idm139742594492400">- noget - - uf! Og dog måtte det være
 								mageløst at være Brud. Så godt Olivia havde set ud! og det
-									<!--<emph>--><hi rend="italics" xml:id="idm139742594491696">var</hi><!--</emph>--> Kransen
+									<hi rend="italics" xml:id="idm139742594491696">var</hi> Kransen
 								og Sløret og den hvide Atlaskeskjole. Å, lækkert at have sådan én på
 								og blive beundret - Kirken havde været proppende fuld
 								- - men - - så det,
-									<!--<emph>--><hi rend="italics" xml:id="idm139742594490320">han</hi><!--</emph>--> havde
+									<hi rend="italics" xml:id="idm139742594490320">han</hi> havde
 								talt om - et andet Slags Bryllup - -
 								å, det var vist meget, meget sødt: to i hinandens Arme -
 								så underlig de Ord tog i èn - men hvem skulde det være?
@@ -892,7 +893,7 @@ Ptj rettet s. 3-5-8-11-13-16-19-23-
               <p xml:id="idm139742594477536">Det stod hun just og prøvede denne lange, lange Formiddag, der ikke
 								var til at få Ende på. Galt havde det været at få Tiden til at gå,
 								mens hun læste med Frøken Petersen, men nu - ja, skjønt
-								hun ikke for alt i Verden vilde have <!--<emph>--><hi rend="italics" xml:id="idm139742594476544">det</hi><!--</emph>--> igjen, var det nu næsten endnu værre.
+								hun ikke for alt i Verden vilde have <hi rend="italics" xml:id="idm139742594476544">det</hi> igjen, var det nu næsten endnu værre.
 								Især om Formiddagen, mens Papa var ude eller sad og skrev, og Mama
 								havde travlt i Huset, Himlen véd med hvad - -
 								Gud, hvor sådan en Formiddag kunde være dræbende!</p>
@@ -1163,7 +1164,7 @@ Ptj rettet s. 3-5-8-11-13-16-19-23-
 								begyndte hun for fra på hele Historien.</p>
               <p xml:id="idm139742594591392">Det var altfor dejligt til at blive kjed af, og det hang så underlig
 								sammen; hver nok så lille Ting, der var sket den Dag, havde sin
-								Betydning og måtte med, for at <!--<emph>--><hi rend="italics" xml:id="idm139742594398032">det</hi><!--</emph>--> kunde komme, sådan som det kom.</p>
+								Betydning og måtte med, for at <hi rend="italics" xml:id="idm139742594398032">det</hi> kunde komme, sådan som det kom.</p>
               <p xml:id="idm139742594397040">Lige fra den dødelige Angst, hun havde udstået, da Mama den Morgen
 								var vågnet med sin "store Migraine" og
 								allerede ved Frokosttid havde erklæret, hun umulig kunde gå med på
@@ -1206,12 +1207,12 @@ Ptj rettet s. 3-5-8-11-13-16-19-23-
 								havde været inde i Sovekamret og kigge på Mama, der var næsten
 								bevidstløs af Smerte; fra den Kant var ingen Fare at frygte, og Papa
 								vilde hun tage med Overraskelse. Med Mama eller uden Mama, på
-								Karneval <!--<emph>--><hi rend="italics" xml:id="idm139742594388128">vilde</hi><!--</emph>-->
+								Karneval <hi rend="italics" xml:id="idm139742594388128">vilde</hi>
 								hun, måtte hun.</p>
               <p xml:id="idm139742594387088">Og så fik hun Stupigen til at løbe af Sted med en Seddel til
 								Christian, hvori hun gjorde ham Rede for Sagernes fortvivlede
 								Stilling og bad ham hjælpe hende - - men i
-								Svaret stod der: Klæd dig blot på, du <!--<emph>--><hi rend="italics" xml:id="idm139742594386192">skal</hi><!--</emph>--> med, om jeg så skal
+								Svaret stod der: Klæd dig blot på, du <hi rend="italics" xml:id="idm139742594386192">skal</hi> med, om jeg så skal
 								bortføre dig!</p>
               <p xml:id="idm139742594385104">Sådan en Hjærtebanken og Kvalme hun havde haft hele Eftermiddagen af
 								bare Spænding.</p>
@@ -1221,7 +1222,7 @@ Ptj rettet s. 3-5-8-11-13-16-19-23-
 								var ét kritisk Øjeblik, hvor Margrethe var parat med Saxen for at
 								ofre Halvdelen, men så lykkedes Kunststykket, og Effekten var
 								glimrende.</p>
-              <p xml:id="idm139742594383504"><!--<emph>--><hi rend="italics" xml:id="idm139742594383216">De</hi><!--</emph>--> havde
+              <p xml:id="idm139742594383504"><hi rend="italics" xml:id="idm139742594383216">De</hi> havde
 								rigtignok været lykkelige i gamle Dage at kunne gå med sådanne
 								Frisurer til daglig - Gud, hvor det var klædeligt
 								- hun var jo formelig kjøn, og det, inden hun havde fået
@@ -1540,7 +1541,7 @@ Ptj rettet s. 3-5-8-11-13-16-19-23-
               <p xml:id="idm139742594308432">"Ja, men det var også kun de udvalgte, Christians Venner
 								- -" afbrød Margrethe ham kry og
 								umådelig ivrig.</p>
-              <p xml:id="idm139742594307776">"Ja, Død og Pine - <!--<emph>--><hi rend="italics" xml:id="idm139742594307264">Christians</hi><!--</emph>--> Venner, det tror
+              <p xml:id="idm139742594307776">"Ja, Død og Pine - <hi rend="italics" xml:id="idm139742594307264">Christians</hi> Venner, det tror
 								jeg!" sagde han og lo smørret.</p>
               <p xml:id="idm139742594306160">Margrethe blev højrød i Hovedet. Så havde Papa virkelig mærket noget.
 								Men hun sagde ingen Ting, for hun vilde ikke igjen løbe sig en Stave
@@ -1735,7 +1736,7 @@ Ptj rettet s. 3-5-8-11-13-16-19-23-
 								så' tit efter i Spejlet, om hun ikke blev hulkindet, og på Graden
 								holdt hun Øjnene fæstede på Brostenene. Der var ikke det til, som
 								skulde få hende til at løfte dem. For hun brød sig om ingen Ting,
-								nu, <!--<emph>--><hi rend="italics" xml:id="idm139742594260192">han</hi><!--</emph>--> var borte
+								nu, <hi rend="italics" xml:id="idm139742594260192">han</hi> var borte
 								og aldrig vilde komme igjen, nej aldrig. Hvordan skulde hun dog
 								kunne undvære ham, sådan de havde haft det sammen i den sidste Tid?
 								Og så alt dette nye, der var begyndt mellem dem just nu, og som hun
@@ -1816,20 +1817,20 @@ Ptj rettet s. 3-5-8-11-13-16-19-23-
               <p xml:id="idm139742594239648">"Storartet!" forsikrede Margrethe fanatisk.</p>
               <p xml:id="idm139742594239200">De tav lidt, skulde gå - men ventede.</p>
               <p xml:id="idm139742594238720">Så begyndte én igjen, hun trak lidt på Ordene:<lb xml:id="idm139742594238352"/> "Så' I
-									<!--<emph>--><hi rend="italics" xml:id="idm139742594237856">hende</hi><!--</emph>-->
+									<hi rend="italics" xml:id="idm139742594237856">hende</hi>
 								- hun var med i Dag?"</p>
               <p xml:id="idm139742594236832">"Ja - - hun var med -
 								-"</p>
               <p xml:id="idm139742594236400">"Hun er - - meget sød!"</p>
-              <p xml:id="idm139742594235952">"Ja, <!--<emph>--><hi rend="italics" xml:id="idm139742594235504">meget</hi><!--</emph>--> sød!"</p>
-              <p xml:id="idm139742594234528">"Rigtig - <!--<emph>--><hi rend="italics" xml:id="idm139742594234048">rigtig</hi><!--</emph>--> sød!" forsikrede Stemmerne i
+              <p xml:id="idm139742594235952">"Ja, <hi rend="italics" xml:id="idm139742594235504">meget</hi> sød!"</p>
+              <p xml:id="idm139742594234528">"Rigtig - <hi rend="italics" xml:id="idm139742594234048">rigtig</hi> sød!" forsikrede Stemmerne i
 								Kor så eftertrykkelig, som var det Svar på en Indvending.</p>
               <p xml:id="idm139742594232864">"Men - -" begyndte én,
 								"lidt verdslig - - lidt for verdslig
 								- - siges der -
 								-"</p>
               <p xml:id="idm139742594232256">"Desværre!" sukkede en anden.</p>
-              <p xml:id="idm139742594231792">"Hvor det er muligt, når man er gift med <!--<emph>--><hi rend="italics" xml:id="idm139742594231280">ham!"</hi><!--</emph>-->
+              <p xml:id="idm139742594231792">"Hvor det er muligt, når man er gift med <hi rend="italics" xml:id="idm139742594231280">ham!"</hi>
 							</p>
               <p xml:id="idm139742594230256">"Er han voldsomt forelsket i hende?" spurgte
 								Margrethe ivrig.</p>
@@ -1837,11 +1838,11 @@ Ptj rettet s. 3-5-8-11-13-16-19-23-
               <p xml:id="idm139742594229408">"Det er der ingen Tvivl om."</p>
               <p xml:id="idm139742594228976">"Umådelig!" kom det fra den ene efter den <pb n="83" xml:id="s83" facs="adl/juelh/juelh01/juelh1083"/> anden med overdreven
 								Bekræftelse, og dumpende lidt bag efter, et stærkt understreget:
-									<!--<emph>--><hi rend="italics" xml:id="idm139742594227008">"endnu"</hi><!--</emph>--> .</p>
+									<hi rend="italics" xml:id="idm139742594227008">"endnu"</hi> .</p>
               <p xml:id="idm139742594226032">De sukkede.</p>
               <p xml:id="idm139742594225648">Så var det Præknen igjen. Indledningen havde været ubeskrivelig, og
-								Bønnen da til Slut, <!--<emph>--><hi rend="italics" xml:id="idm139742594224976">den</hi><!--</emph>--> Inderlighed, ja, og Udlægningen af
-								Evangeliet, <!--<emph>--><hi rend="italics" xml:id="idm139742594223872">så</hi><!--</emph>-->
+								Bønnen da til Slut, <hi rend="italics" xml:id="idm139742594224976">den</hi> Inderlighed, ja, og Udlægningen af
+								Evangeliet, <hi rend="italics" xml:id="idm139742594223872">så</hi>
 								dybt - - og hans Gestus - plastiske
 								- de Øjne, det Udtryk - og så dejlig længe han
 								havde talt - vist en hel Time, og det var dog for kort,
@@ -1865,16 +1866,16 @@ Ptj rettet s. 3-5-8-11-13-16-19-23-
 								rigtignok!"</p>
               <pb n="84" xml:id="s84" facs="adl/juelh/juelh01/juelh1084"/>
               <p xml:id="idm139742594216240">Halvt bebrejdende, helt overbevisende kom det fra alle Stemmerne.</p>
-              <p xml:id="idm139742594215776">"Husk dog på," tog én fat, <!--<emph>--><hi rend="italics" xml:id="idm139742594215248">"hvor</hi><!--</emph>--> forberedt hun
-								er. <!--<emph>--><hi rend="italics" xml:id="idm139742594214192">Han</hi><!--</emph>--> kommer
+              <p xml:id="idm139742594215776">"Husk dog på," tog én fat, <hi rend="italics" xml:id="idm139742594215248">"hvor</hi> forberedt hun
+								er. <hi rend="italics" xml:id="idm139742594214192">Han</hi> kommer
 								hver Dag og taler med hende, læser for hende, beder med hende, tænk,
 								at dø sådan!" det lød begejstret.</p>
               <p xml:id="idm139742594212976">"Ja - sådan - å -
 								-" de fik næsten Begejstringen forkert i
 								Halsen, så ivrig forsikrede de, at de gjærne vilde dø
-									<!--<emph>--><hi rend="italics" xml:id="idm139742594212256">strax</hi><!--</emph>-->
-								'- <!--<emph>--><hi rend="italics" xml:id="idm139742594211216">sådan</hi><!--</emph>--> .</p>
-              <p xml:id="idm139742594210240">"Men I siger, det er <!--<emph>--><hi rend="italics" xml:id="idm139742594209792">hans</hi><!--</emph>--> Skyld - hun fik Brystsyge af
+									<hi rend="italics" xml:id="idm139742594212256">strax</hi>
+								'- <hi rend="italics" xml:id="idm139742594211216">sådan</hi> .</p>
+              <p xml:id="idm139742594210240">"Men I siger, det er <hi rend="italics" xml:id="idm139742594209792">hans</hi> Skyld - hun fik Brystsyge af
 								Sorg, fordi han giftede sig med en anden -"
 								hviskede Margrethe. Der var noget oprørsk i Tonen. Men Indsigelserne
 								regnede ned over hende:<lb xml:id="idm139742594208544"/> "Ja -
@@ -1947,7 +1948,7 @@ Ptj rettet s. 3-5-8-11-13-16-19-23-
               <p xml:id="idm139742594193296">Så godt hun havde fået det, siden hun kom her ud. For den Gang
 								- uf, så led og kjed og tom hun havde været. Men nu var
 								hun bleven et helt andet Menneske - Gudskelov,
-									<!--<emph>--><hi rend="italics" xml:id="idm139742594192448">helt</hi><!--</emph>-->
+									<hi rend="italics" xml:id="idm139742594192448">helt</hi>
 								anderledes. Og det bedste Bevis var da, at havde nogen, da hun tog
 								her ud, sagt hende, hun vilde være glad ved at blive så længe hos
 								Tante Malle, havde hun da troet, de var rent af Lave. Hun havde
@@ -1998,7 +1999,7 @@ Ptj rettet s. 3-5-8-11-13-16-19-23-
               <p xml:id="idm139742594182784">Og derfor troede hun nu, vilde hun tro, skjønt - skjønt
 								alle Papas Indvendinger og Argumenter summede hende om Ørerne,
 								ligesom Bierne deroppe - - - ikke
-								tænke, <!--<emph>--><hi rend="italics" xml:id="idm139742594181936">blot</hi><!--</emph>--> tro,
+								tænke, <hi rend="italics" xml:id="idm139742594181936">blot</hi> tro,
 								havde Pastor Jensen sagt, og bede - bede -
 								- så fandt Gud én selv, og så havde hun jo Pastoren til at
 								hjælpe sig.</p>
@@ -2007,7 +2008,7 @@ Ptj rettet s. 3-5-8-11-13-16-19-23-
 								nok fra Fyen, og så det, at han så tit var ligesom lidt hæs og måtte
 								hviske, gjorde det, han sagde, så hemmelighedsfuldt sikkert
 								- Miraklerne og alt det blev så let at begribe, Englene
-									<!--<emph>--><hi rend="italics" xml:id="idm139742594179616">var</hi><!--</emph>--> til, man
+									<hi rend="italics" xml:id="idm139742594179616">var</hi> til, man
 								måtte tro det, man så' dem næsten - <pb n="90" xml:id="s90" facs="adl/juelh/juelh01/juelh1090"/> ligesom Tante Malle - ja, det
 								med Tante Malle var egentlig lige ved at være uhyggeligt, især nu,
 								de mørke Aftner var begyndt, for hun så' de døde, alle dem, hun
@@ -2032,7 +2033,7 @@ Ptj rettet s. 3-5-8-11-13-16-19-23-
 								det var dog det, hun længtes efter - hun vilde have ham
 								igjen, akkurat som <pb n="91" xml:id="s91" facs="adl/juelh/juelh01/juelh1091"/> han
 								var, - og det kunde hun jo ikke -
-									<!--<emph>--><hi rend="italics" xml:id="idm139742594173920">han</hi><!--</emph>--> , en
+									<hi rend="italics" xml:id="idm139742594173920">han</hi> , en
 								salig, forklaret And, og hun, et stakkels syndigt Menneskebarn her
 								på Jorden. Og det var ligesom det gjorde, at han gled fra hende,
 								blev så underlig borte, og når hun alligevel længtes, var hun
@@ -2447,7 +2448,7 @@ Ptj rettet s. 3-5-8-11-13-16-19-23-
 								det? Så var det jo sandt, hvad der stod i Vielses Ritualet, at det
 								var Syndens Straf - - men var det da Synd at
 								gifte sig? eller var det for nogen anden Synd - for den
-								Snak om Eva og Æblet, <!--<emph>--><hi rend="italics" xml:id="idm139742594082848">det</hi><!--</emph>--> kunde det ikke være - men de sagde
+								Snak om Eva og Æblet, <hi rend="italics" xml:id="idm139742594082848">det</hi> kunde det ikke være - men de sagde
 								jo også, at Gud selv havde indstiftet Ægteskabet -
 								- - ikke til at hitte Rede i, ikke til at hitte
 								Rede i!</p>
@@ -2470,7 +2471,7 @@ Ptj rettet s. 3-5-8-11-13-16-19-23-
 								de brune, dybe Øjne, "Hjorteøjnene", der havde
 								hvilet på hende hin Karnevalsnat og gjort hende så underlig
 								forvirret, at hun et Øjeblik ikke rigtig vidste -
-								- å nej, Snak, hun <!--<emph>--><hi rend="italics" xml:id="idm139742594077808">vilde</hi><!--</emph>--> ikke holde af nogen anden end Christian,
+								- å nej, Snak, hun <hi rend="italics" xml:id="idm139742594077808">vilde</hi> ikke holde af nogen anden end Christian,
 								hvor meget hun end længtes. Hun var Enke, hans Enke - og
 								nu, hun vidste alt dette, var det jo godt, men så trist, så trist.
 								Livet var rigtig nok ikke det, man troede og håbede - nej,
@@ -2485,7 +2486,7 @@ Ptj rettet s. 3-5-8-11-13-16-19-23-
 								vågnede hun, ved, at Papa stak Hovedet ind ad Døren til hende, med
 								Ansigtet ganske hvidt af Sæbeskum, og råbte lystig:<lb xml:id="idm139742594075392"/>
 								<pb n="111" xml:id="s111" facs="adl/juelh/juelh01/juelh1111"/> "Gratulerer
-								til den nye Værdighed, <!--<emph>--><hi rend="italics" xml:id="idm139742594073680">Tante</hi><!--</emph>--> Margrethe - værs'go' og gratuler
+								til den nye Værdighed, <hi rend="italics" xml:id="idm139742594073680">Tante</hi> Margrethe - værs'go' og gratuler
 								igjen - Bedstefader til en Dreng på otte Pund!"</p>
               <p xml:id="idm139742594072512">Margrethe foer op over Ende i Sengen og spurgte åndeløst:<lb xml:id="idm139742594072128"/>
 								"Men Olivia, Papa - er hun - er hun
@@ -2634,7 +2635,7 @@ Ptj rettet s. 3-5-8-11-13-16-19-23-
 								- - å, det var ikke til at finde ud af,
 								altsammen lige umuligt at begribe.</p>
               <p xml:id="idm139742594041296">Og så var der Papa. Han var så stærk og frejdig og vis i
-									<!--<emph>--><hi rend="italics" xml:id="idm139742594040688">sin</hi><!--</emph>--> Sag, lige
+									<hi rend="italics" xml:id="idm139742594040688">sin</hi> Sag, lige
 								så vis som Pastor Jensen på sit, og han troede ikke et Muk på det
 								hele, hverken på Christus eller Mirakler eller et <pb n="118" xml:id="s118" facs="adl/juelh/juelh01/juelh1118"/> evigt Liv -
 								- hvem havde så Ret? Her hjemme var det Papa -
@@ -2676,9 +2677,9 @@ Ptj rettet s. 3-5-8-11-13-16-19-23-
 								Opmuntring. Hun ærgrede sig bestandig over, så fjoget hun var i
 								Selskab hjemme.</p>
               <p xml:id="idm139742594030944">Hvorfor skulde de også altid spørge hende, om hun havde læst
-									<!--<emph>--><hi rend="italics" xml:id="idm139742594030336">den</hi><!--</emph>--> nye Bog,
-								eller set <!--<emph>--><hi rend="italics" xml:id="idm139742594029312">det</hi><!--</emph>-->
-								Stykke, eller hørt <!--<emph>--><hi rend="italics" xml:id="idm139742594028256">den</hi><!--</emph>--> og <!--<emph>--><hi rend="italics" xml:id="idm139742594027248">den</hi><!--</emph>--> Taler i Rigsdagen, eller hvad hun mente om
+									<hi rend="italics" xml:id="idm139742594030336">den</hi> nye Bog,
+								eller set <hi rend="italics" xml:id="idm139742594029312">det</hi>
+								Stykke, eller hørt <hi rend="italics" xml:id="idm139742594028256">den</hi> og <hi rend="italics" xml:id="idm139742594027248">den</hi> Taler i Rigsdagen, eller hvad hun mente om
 								Partistillingen? Hun måtte jo ingen nye Bøger læse, kom kun i
 								Theatret, når de gav noget gammelt Skrab, Elverhøj eller en <pb n="120" xml:id="s120" facs="adl/juelh/juelh01/juelh1120"/> Ballet, og hun syntes,
 								Politik var det kjedsommeligste af alt på Jorden.</p>
@@ -2716,11 +2717,11 @@ Ptj rettet s. 3-5-8-11-13-16-19-23-
 								blev vild, kåd, uimodståelig tillokkende i denne pludselige Rus.</p>
               <p xml:id="idm139742594018208">Men blot hun kom ned i Vognen eller indenfor i den blå Stues
 								hjemmevante Ro, var det borte som et Kornmod, og hun huskede indtil
-								Pinagtigbed, hvordan det <!--<emph>--><hi rend="italics" xml:id="idm139742594017408">skulde</hi><!--</emph>--> være, hver Rørelse i hendes Sind,
-									<!--<emph>--><hi rend="italics" xml:id="idm139742594016288">hans</hi><!--</emph>-->
-								<!--<emph>--><hi rend="italics" xml:id="idm139742594015248">Kys</hi><!--</emph>--> ,
-									<!--<emph>--><hi rend="italics" xml:id="idm139742594014240">hans</hi><!--</emph>-->
-								Håndtryk, <!--<emph>--><hi rend="italics" xml:id="idm139742594013168">hans</hi><!--</emph>-->
+								Pinagtigbed, hvordan det <hi rend="italics" xml:id="idm139742594017408">skulde</hi> være, hver Rørelse i hendes Sind,
+									<hi rend="italics" xml:id="idm139742594016288">hans</hi>
+								<hi rend="italics" xml:id="idm139742594015248">Kys</hi> ,
+									<hi rend="italics" xml:id="idm139742594014240">hans</hi>
+								Håndtryk, <hi rend="italics" xml:id="idm139742594013168">hans</hi>
 								Ord havde fremkaldt den Gang - - og så var det
 								slet ikke det, og hun var vis på, hun aldrig kunde elske nogen anden
 								end ham, at hun var dømt <pb n="122" xml:id="s122" facs="adl/juelh/juelh01/juelh1122"/>
@@ -2788,7 +2789,7 @@ Ptj rettet s. 3-5-8-11-13-16-19-23-
               <p xml:id="idm139742593996048">"Å - han - -" så
 								nødig Margrethe vilde, blev hun dog rød, men skyndte sig at række
 								efter Salatfadet og få en stor Portion på sin Tallerken,
-								"ja, tænk Papa, han er <!--<emph>--><hi rend="italics" xml:id="idm139742593995200">ung</hi><!--</emph>--> , det vil sige ikke sådan ganske ung
+								"ja, tænk Papa, han er <hi rend="italics" xml:id="idm139742593995200">ung</hi> , det vil sige ikke sådan ganske ung
 								- og så er han smuk, du - jeg tror aldrig, jeg
 								har set nogen så - - og så alvorlig, men
 								umådelig interessant. Det vil sige, han taler jo kun om Botanik og
@@ -2804,7 +2805,7 @@ Ptj rettet s. 3-5-8-11-13-16-19-23-
 								det!"</p>
               <p xml:id="idm139742593991280">Men Margrethe stak Armen ind under hans, lagde Hovedet op til hans
 								Skulder, missede med Øjnene og sagde kjælent-surmulende:<lb xml:id="idm139742593990736"/>
-								"Søde Papa - ikke drille. Det <!--<emph>--><hi rend="italics" xml:id="idm139742593990192">var</hi><!--</emph>--> tosset af mig -
+								"Søde Papa - ikke drille. Det <hi rend="italics" xml:id="idm139742593990192">var</hi> tosset af mig -
 								men jeg kunde jo ikke vide - -" så,
 								nu havde hun igjen nær forplumret sig, for det, hun ikke for alt i
 								Verden vilde tilstå, men siden lå og tænkte på inde på Sofaen i sin
@@ -2856,7 +2857,7 @@ Ptj rettet s. 3-5-8-11-13-16-19-23-
 								og Hunblomstens Kjønsorganer og alt det, uden at blinke, uden at
 								blive rød, som om det var den naturligste Sag af Verden. Det var det
 								også, det følte hun lige til Bunden af sit Hjærte. Blot man talte
-								rigtig ud om Tingene, alvorligt og kjønt, som <!--<emph>--><hi rend="italics" xml:id="idm139742593977856">han</hi><!--</emph>--> gjorde det, var det slet
+								rigtig ud om Tingene, alvorligt og kjønt, som <hi rend="italics" xml:id="idm139742593977856">han</hi> gjorde det, var det slet
 								ikke flovt - - hvorfor havde dog ingen gjort det
 								før?</p>
               <p xml:id="idm139742593976704">Men mon Mama egentlig vidste alt dette - nej, men hun
@@ -2895,7 +2896,7 @@ Ptj rettet s. 3-5-8-11-13-16-19-23-
 								Verdens Ting. Hun blev sær og urimelig og havde syv Sind over én
 								Dørtærskel. Livet var en Plage, og Kjærlighed - hun gøs
 								ved Tanken om, hvad den kunde bringe, og ønskede sig i Blomsternes,
-								Planternes Sted - og sa var <!--<emph>--><hi rend="italics" xml:id="idm139742593969168">det</hi><!--</emph>--> dog for koldt, for lidet
+								Planternes Sted - og sa var <hi rend="italics" xml:id="idm139742593969168">det</hi> dog for koldt, for lidet
 								svarende til alt, hvad hendes eget Blod hviskede om og forlangte.
 								Herregud, hvad Verden var for et Vilderede - det var det
 								eneste visse, hun kom til som Resultat af sine Erfaringer.</p>
@@ -2948,7 +2949,7 @@ Ptj rettet s. 3-5-8-11-13-16-19-23-
 								Magt hun kjendte, løb Tankerne sur i hendes Hoved om dette ene, hun
 								intet Øjeblik tabte af sin Bevidsthed - - og
 								sommetider var det det vildeste Vås: ikke et Ord sandt om denne Pige
-								og dette Barn, som var <!--<emph>--><hi rend="italics" xml:id="idm139742593955968">hans</hi><!--</emph>--> - - Vrøvl og Løgn,
+								og dette Barn, som var <hi rend="italics" xml:id="idm139742593955968">hans</hi> - - Vrøvl og Løgn,
 								Vrøvl og Løgn alt sammen - - - og
 								sommetider var det sandt - og så var det den dybeste Sorg
 								og Fortvivlelse, rigtig som noget rev og sled i hende <pb n="133" xml:id="s133" facs="adl/juelh/juelh01/juelh1133"/> et Sted med skarpe Kløer og
@@ -3066,7 +3067,7 @@ Ptj rettet s. 3-5-8-11-13-16-19-23-
 								Favntag. Det blev hende ganske trangt for Brystet derved -
 								- og dog -- Gud, hvor var han dejlig!
 								Hvor så' de andre spinkle og kejtede ud ved Siden af ham -
-								- - ja, <!--<emph>--><hi rend="italics" xml:id="idm139742593925552">han</hi><!--</emph>--> var en Mand, som ingen, ingen anden!</p>
+								- - ja, <hi rend="italics" xml:id="idm139742593925552">han</hi> var en Mand, som ingen, ingen anden!</p>
               <p xml:id="idm139742593924560">Blot han rørte sig, gik eller løb, en Smidighed, en Kraft i hvert
 								Ledemod - - å, det var en <pb n="141" xml:id="s141" facs="adl/juelh/juelh01/juelh1141"/> Øjenlyst uden Lige - -
 								blot det aldrig skulde bolde op!</p>
@@ -3097,7 +3098,7 @@ Ptj rettet s. 3-5-8-11-13-16-19-23-
               <p xml:id="idm139742593916736">"Å, hvad så, --" svarede
 								Margrethe ligegyldig, ligesom vågnende og føjede til, næsten mod sin
 								Vilje: "du - var han ikke dejlig?"
-								- det <!--<emph>--><hi rend="italics" xml:id="idm139742593915936">måtte</hi><!--</emph>--> ud.</p>
+								- det <hi rend="italics" xml:id="idm139742593915936">måtte</hi> ud.</p>
               <p xml:id="idm139742593914960">Ludovika lo himmelhøjt: "Nå-å- Møller?
 								Jo, Krop er der nok af, og kjøn er den, men det, der skulde sætte
 								Fut i alt det Kjød - pyt! Nej, Tak for mig, hellere den
@@ -3429,11 +3430,11 @@ Ptj rettet s. 3-5-8-11-13-16-19-23-
 								Videnskabsmand og Opdager, om Værker, han vilde skrive o. s. v. Og
 								sikkert var det, at i den aller sidste Tid var der som en Forandring
 								at spore i hans Væsen overfor hende - en Forandring, som
-									<!--<emph>--><hi rend="italics" xml:id="idm139742593838480">kunde</hi><!--</emph>--> betyde
+									<hi rend="italics" xml:id="idm139742593838480">kunde</hi> betyde
 								- - - gode Gud! Hun holdt Hænderne for
 								Øjnene, Tårerne styrtede hende ned ad Kinderne, og det var, som om
 								alt skulde opløse sig i hende af Lykke og Forventning, når hun
-								tænkte på, <!--<emph>--><hi rend="italics" xml:id="idm139742593837008">hvad</hi><!--</emph>-->
+								tænkte på, <hi rend="italics" xml:id="idm139742593837008">hvad</hi>
 								det muligvis kunde betyde.</p>
               <p xml:id="idm139742593835984">Han talte ikke slet så meget som før - de kunde, rent ud
 								sagt, nu og da gå næsten hele Stien igjennem fra Øster til Nørre
@@ -3509,7 +3510,7 @@ Ptj rettet s. 3-5-8-11-13-16-19-23-
 								og tie stille. Jeg har noget at sige Dem, som - som
 								-" Nej, det var umuligt nu, det kunde han høre
 								på Stemmen, som slog Klik.</p>
-              <p xml:id="idm139742593816144">Han var selv fuldstændig rolig. Han <!--<emph>--><hi rend="italics" xml:id="idm139742593815600">vilde </hi><!--</emph>--> være det. Hvad skulde al denne
+              <p xml:id="idm139742593816144">Han var selv fuldstændig rolig. Han <hi rend="italics" xml:id="idm139742593815600">vilde </hi> være det. Hvad skulde al denne
 								unødige Op hidselse til for så simpel en Sag. Der skød op i ham en
 								triumferende Fornemmelse af, at han var hendes Skæbnes Herre, kunde
 								tørre Tårerne i disse smukke Øjne, få Ansigtet til at stråle af
@@ -3825,7 +3826,7 @@ Ptj rettet s. 3-5-8-11-13-16-19-23-
 								Hjærteanliggender og ikke til Moderen. Men han holdt af hende for
 								det, hun var hans Øjesten, hans Hjærtebarn, kommet så at sige på
 								hans gamle Dage, så længe efter Olivia -. Og nu skulde han
-								af med hende, give hende i en anden Mands <!--<emph>--><hi rend="italics" xml:id="idm139742593738208">Vold!</hi><!--</emph>--> Der rejste sig noget
+								af med hende, give hende i en anden Mands <hi rend="italics" xml:id="idm139742593738208">Vold!</hi> Der rejste sig noget
 								ligesom Vrede i hans Sind mod dette fremmede Menneske, der trængte
 								sig ind og tog hende. Det havde han ikke følt det ringeste til, da
 								Pastoren kom og forlangte Olivia, snarere en Smule Forbavselse over,
@@ -3930,7 +3931,7 @@ Ptj rettet s. 3-5-8-11-13-16-19-23-
 								Tristhed over hende, mens de snakkede og snakkede der henne ved
 								Vinduet. Hun havde mod Sædvane haft så let til Gråden i Dag, også nu
 								piblede der et Par Tårer i Øjekrogen - å, om Papa nu gik,
-								og <!--<emph>--><hi rend="italics" xml:id="idm139742593712336">han</hi><!--</emph>--> kom hen
+								og <hi rend="italics" xml:id="idm139742593712336">han</hi> kom hen
 								til hende og stod her foran, ganske nær, og bøjede sig over hende,
 								kyssede Tårerne bort fra hendes Øjne og spurgte -
 								-</p>
@@ -4180,7 +4181,7 @@ Ptj rettet s. 3-5-8-11-13-16-19-23-
 								kostbar, jeg kan ikke vente på dig."</p>
               <p xml:id="idm139742593652784">Så forandrede hun Tiden for deres Møder til højere op på Dagen og var
 								siden altid på Pletten før han.</p>
-              <p xml:id="idm139742593652160">For hun <!--<emph>--><hi rend="italics" xml:id="idm139742593651680">måtte</hi><!--</emph>--> se
+              <p xml:id="idm139742593652160">For hun <hi rend="italics" xml:id="idm139742593651680">måtte</hi> se
 								ham, og hun nagedes bestandig af den pinligste Uro, fra det Øjeblik,
 								de skiltes, til hun så' ham igjen. Når hun så fik Øje på ham, hørte
 								hans Skridt eller kjendte hans Ringen, kunde der komme over hende et
@@ -4216,7 +4217,7 @@ Ptj rettet s. 3-5-8-11-13-16-19-23-
 								så ubehagelig han kunde være bag efter, rigtig ond, så hun kom til
 								at græde derved og dog følte en hemmelig Jubel i Bevidstheden om at
 								have Magt over ham, og så gjorde Forsøget om og om igjen vilkårlig,
-								med velberåd Hu: jo, han <!--<emph>--><hi rend="italics" xml:id="idm139742593643248">var</hi><!--</emph>--> skinsyg, altså elskede han hende.</p>
+								med velberåd Hu: jo, han <hi rend="italics" xml:id="idm139742593643248">var</hi> skinsyg, altså elskede han hende.</p>
               <pb n="195" xml:id="s195" facs="adl/juelh/juelh01/juelh1195"/>
               <p xml:id="idm139742593641072">Men hvorfor viste han hende det ikke, sådan som hun ønskede det, i
 								Ord, i Kjærtegn? Hvorfor hørte hun det ikke i hans Stemme
@@ -4894,12 +4895,12 @@ Ptj rettet s. 3-5-8-11-13-16-19-23-
               <p xml:id="idm139742593458096">Men når hun så' dem sammen inden fire Vægge, kunde hun bedre forstå
 								det. For han var forelsket, så det forslog noget. Hun kunde blive
 								ganske hed, når hun så' - skjønt hun slet ikke vilde se
-								- hvordan han kjælede for Ludovika. Jo, <!--<emph>--><hi rend="italics" xml:id="idm139742593457104">han</hi><!--</emph>--> var forelsket!</p>
+								- hvordan han kjælede for Ludovika. Jo, <hi rend="italics" xml:id="idm139742593457104">han</hi> var forelsket!</p>
               <p xml:id="idm139742593456160">Og det fortalte Ludovika også, når de sad sladrende sammen om
 								Formiddagen, mens Manden var ude, og hun gav hende med åbenmundet
 									<pb n="231" xml:id="s231" facs="adl/juelh/juelh01/juelh1231"/> Fortrolighed
 								Exempler på, hvordan hun blev elsket, ofte af så intim Natur, at hun
-								uvilkårlig greb sig i det og huskede, at Margrethe <!--<emph>--><hi rend="italics" xml:id="idm139742593453824">kun</hi><!--</emph>--> var forlovet -
+								uvilkårlig greb sig i det og huskede, at Margrethe <hi rend="italics" xml:id="idm139742593453824">kun</hi> var forlovet -
 								men hvad, hun skulde jo snart giftes, og så fik hun det dog at vide.
 								Og Margrethe sugede disse Meddelelser ind, nok med hemmelig Sky og
 								Undseelse, men som en sød Gift, der blev i Blodet og skabte tågede,
@@ -4994,7 +4995,7 @@ Ptj rettet s. 3-5-8-11-13-16-19-23-
               <p xml:id="idm139742593430944">"Ja - med den var der for ham begyndt en hel ny
 								Tilværelse, også på anden Måde," han blev rød, da han
 								sagde det, hun så' det, og så jog det varmt gjennem hende, hvad der
-								lå i Ordene, <!--<emph>--><hi rend="italics" xml:id="idm139742593430048">"også</hi><!--</emph>--> på anden Måde".</p>
+								lå i Ordene, <hi rend="italics" xml:id="idm139742593430048">"også</hi> på anden Måde".</p>
               <p xml:id="idm139742593429024">"Hvordan da - - å fortæl, vil De
 								ikke?" sagde hun bønlig og turde ikke løfte Blikket. Hun
 								kunde føle gjennem sine Øjelåg, hvordan han så' på hende. Gud i
@@ -5028,7 +5029,7 @@ Ptj rettet s. 3-5-8-11-13-16-19-23-
 								Pladsen og få det hængt op - det var også det, han havde
 								at takke for Indbydelsen til i Aften. Og nu velsignede han sin
 								Skæbne, at han havde taget imod den og ikke var rejst strax, som han
-								helst havde villet, for <!--<emph>--><hi rend="italics" xml:id="idm139742593421280">det</hi><!--</emph>--> var det, han havde arbejdet for -
+								helst havde villet, for <hi rend="italics" xml:id="idm139742593421280">det</hi> var det, han havde arbejdet for -
 								han måtte bort her fra for at blive til noget, ryste
 								Hjemmefødningens Støv af sig, ud til lysere Luft, til rigere Liv,
 								fylde Sindet med det rigtig store i Kunsten og Naturen. Ved den
@@ -5611,8 +5612,8 @@ Ptj rettet s. 3-5-8-11-13-16-19-23-
 								- blev hendes næste Spørgsmål: "Vil du altid
 								elske mig?"</p>
               <p xml:id="idm139742593274608">Det tog lidt i ham, han ventede et Øjeblik med Svaret, som om han
-								betænkte sig, og sagde så: <!--<emph>--><hi rend="italics" xml:id="idm139742593273936">"Altid</hi><!--</emph>--> er sådant et stort Ord.
-								Jeg vil bytte det med et andet og svare, <!--<emph>--><hi rend="italics" xml:id="idm139742593272768">længe."</hi><!--</emph>-->
+								betænkte sig, og sagde så: <hi rend="italics" xml:id="idm139742593273936">"Altid</hi> er sådant et stort Ord.
+								Jeg vil bytte det med et andet og svare, <hi rend="italics" xml:id="idm139742593272768">længe."</hi>
 							</p>
               <p xml:id="idm139742593271792">Hun sukkede og så' på ham, næsten smertelig. Så føjede han til med
 								utålmodig Hast:</p>
@@ -5703,7 +5704,7 @@ Ptj rettet s. 3-5-8-11-13-16-19-23-
 								sig hen over Panden. Han måtte være besindig, kold, <pb n="268" xml:id="s268" facs="adl/juelh/juelh01/juelh1268"/> når han nu skulde tale til
 								hende. Men han følte sig til Mode næsten, som var han en Morder, og
 								hun Ofret, han skulde støde Kniven i.</p>
-              <p xml:id="idm139742593247728">Men det <!--<emph>--><hi rend="italics" xml:id="idm139742593247248">skulde</hi><!--</emph>-->
+              <p xml:id="idm139742593247728">Men det <hi rend="italics" xml:id="idm139742593247248">skulde</hi>
 								være, bedre så at støde til i en Hast. Så kom det, kortere, hårdere,
 								end han havde villet det, uden Indledning:<lb xml:id="idm139742593246112"/>
 								"Margrethe - vi må skilles."</p>
@@ -5898,7 +5899,7 @@ Ptj rettet s. 3-5-8-11-13-16-19-23-
 								et Øjeblik havde dulmet, kom igjen. Hun måtte give sig ganske højt
 								af Smærte, og med Smærten fulgte en forfærdelig Angst, hun stred som
 								for Livet hvert Øjeblik i et Kvælningsanfald - nej,
-									<!--<emph>--><hi rend="italics" xml:id="idm139742593197216">dette</hi><!--</emph>--> vilde
+									<hi rend="italics" xml:id="idm139742593197216">dette</hi> vilde
 								hun ikke lide.</p>
               <p xml:id="idm139742593196192">Hun tog et nyt Pulver.</p>
               <p xml:id="idm139742593195808">Så gled et ukjendt Velvære over hende. Krampen hørte op. Den
@@ -5935,7 +5936,7 @@ Ptj rettet s. 3-5-8-11-13-16-19-23-
 								plejede, når hun fejlede noget, og klappede hende og sagde et Par
 								kjælende, opmuntrende Ord, åbnede hun næppe Øjnene, bad blot bønlig
 								klagende eller irriteret vrissende, at de vilde lade hende i Ro.</p>
-              <p xml:id="idm139742593186000">Hun <!--<emph>--><hi rend="italics" xml:id="idm139742593185520">vilde</hi><!--</emph>--> sove. Så
+              <p xml:id="idm139742593186000">Hun <hi rend="italics" xml:id="idm139742593185520">vilde</hi> sove. Så
 								længe led hun ikke - og så drømte hun - de
 								lykkeligste, saligste Drømme.</p>
               <p xml:id="idm139742593184320">Da hun Dagen efter blev sig helt bevidst, var hun så sløv og mat, at
@@ -6205,7 +6206,7 @@ Ptj rettet s. 3-5-8-11-13-16-19-23-
 								myndig: "Du behøver ikke at være bange, det er mig,
 								Henning Møller - din - din Forlovede
 								-"</p>
-              <p xml:id="idm139742593117984">"Nå - var <!--<emph>--><hi rend="italics" xml:id="idm139742593117504">det</hi><!--</emph>--> ikke en Overraskelse!" hørte hun
+              <p xml:id="idm139742593117984">"Nå - var <hi rend="italics" xml:id="idm139742593117504">det</hi> ikke en Overraskelse!" hørte hun
 								Papa udbryde, lidt snøftende, som når han var rørt.</p>
               <p xml:id="idm139742593116352">Jo, det var en Overraskelse.</p>
               <p xml:id="idm139742593115920">Hun vidste ikke, hvad der kom over hende, men hun kunde ikke rive sig

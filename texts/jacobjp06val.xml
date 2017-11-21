@@ -1,11 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!-- 20030520 HHL  OCR ok
-                        table i indholdsfortegnelse-->
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="idm140133806807888"><!-- 
-       file     ./marc_dir/001722949.xml
-       field     
-       subfield  
-       prefix   -->
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="root">
   <teiHeader xml:id="idm140133806807232">
     <fileDesc xml:id="idm140133806806976">
       <titleStmt xml:id="idm140133806781488">
@@ -25,17 +19,20 @@
         <note xml:id="idm140133806777088">
 	  </note>
       </notesStmt>
-      <sourceDesc xml:id="idm140133806776576"><bibl xml:id="idm140133806776448"><author n="1" xml:id="idm140133806775760"><name xml:id="idm140133806775504"><surname xml:id="idm140133806775376">Jacobsen</surname>, <forename xml:id="idm140133806774912">J. P.</forename></name></author><title xml:id="idm140133806774624">Niels Lyhne</title><pubPlace xml:id="idm140133806774336">[København]</pubPlace>; <pubPlace xml:id="idm140133806773872">[Valby]</pubPlace>; <pubPlace xml:id="idm140133806773456">[Ballerup]</pubPlace>
-<publisher xml:id="idm140133806772992">Det Danske Sprog- og Litteraturselskab</publisher><publisher xml:id="idm140133806772688">Borgen</publisher><publisher xml:id="idm140133806772400">i samarbejde med Nyt Dansk Litteraturselskab</publisher><date xml:id="idm140133806772032">1995</date></bibl><listBibl xml:id="idm140133806771744"><bibl xml:id="biblid54104"><title xml:id="idm140133806758592">Niels Lyhne</title></bibl></listBibl></sourceDesc>
+      <sourceDesc xml:id="idm140133806776576">
+        <bibl xml:id="idm140133806776448"><author n="1" xml:id="idm140133806775760"><name xml:id="idm140133806775504"><surname xml:id="idm140133806775376">Jacobsen</surname>, <forename xml:id="idm140133806774912">J. P.</forename></name></author><title xml:id="idm140133806774624">Niels Lyhne</title><pubPlace xml:id="idm140133806774336">[København]</pubPlace>; <pubPlace xml:id="idm140133806773872">[Valby]</pubPlace>; <pubPlace xml:id="idm140133806773456">[Ballerup]</pubPlace><publisher xml:id="idm140133806772992">Det Danske Sprog- og Litteraturselskab</publisher><publisher xml:id="idm140133806772688">Borgen</publisher><publisher xml:id="idm140133806772400">i samarbejde med Nyt Dansk Litteraturselskab</publisher><date xml:id="idm140133806772032">1995</date></bibl>
+        <listBibl xml:id="idm140133806771744">
+          <bibl xml:id="biblid54104">
+            <title xml:id="idm140133806758592">Niels Lyhne</title>
+          </bibl>
+        </listBibl>
+      </sourceDesc>
     </fileDesc>
   </teiHeader>
   <text xml:id="workid54104" decls="#biblid54104">
     <front xml:id="idm140133806756960">
       <pb n="1" xml:id="s1" facs="adl/jacobsenjp/jacobjp6/jajp6001"/>
       <gap reason="cancelled" xml:id="idm140133806755504"/>
-<!---->
-<!---->
-<!--Niels Lyhne-->
       <pb n="2" xml:id="s2" facs="adl/jacobsenjp/jacobjp6/jajp6002"/>
       <pb n="3" xml:id="s3" facs="adl/jacobsenjp/jacobjp6/jajp6003"/>
       <titlePage xml:id="idm140133806751760">

@@ -1,9 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="idm139969800411328"><!-- 
-       file     ./marc_dir/001915196.xml
-       field     
-       subfield  
-       prefix   -->
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="root">
   <teiHeader xml:id="idm139969800415744">
     <fileDesc xml:id="idm139969800415488">
       <titleStmt xml:id="idm139969800415184">
@@ -21,8 +17,26 @@
         <note xml:id="idm139969800386128">
 	  </note>
       </notesStmt>
-      <sourceDesc xml:id="idm139969800385616"><bibl xml:id="idm139969800385488"><author n="1" xml:id="idm139969800384800"><name xml:id="idm139969800384544"><surname xml:id="idm139969800384416">Hjortø</surname>, <forename xml:id="idm139969800383984">Knud</forename></name></author><title xml:id="idm139969800383728">Ud for skrænten</title><pubPlace xml:id="idm139969800383424">København</pubPlace>; <pubPlace xml:id="idm139969800382992">Kristiania</pubPlace>
-<date xml:id="idm139969800382480">1922</date></bibl><listBibl xml:id="idm139969800382192"><bibl xml:id="biblid54096"><title xml:id="idm139969800369040">Ud for skrænten</title></bibl><bibl xml:id="biblid54621"><title xml:id="idm139969800368192">Sidse på Sandet</title></bibl><bibl xml:id="biblid57958"><title xml:id="idm139969800367344">Rokballe-Maren</title></bibl><bibl xml:id="biblid60452"><title xml:id="idm139969800366560">Magister Cogitans og hans Kone</title></bibl><bibl xml:id="biblid63299"><title xml:id="idm139969800365760">Den gamle Historie om Alverden</title></bibl></listBibl></sourceDesc>
+      <sourceDesc xml:id="idm139969800385616">
+        <bibl xml:id="idm139969800385488"><author n="1" xml:id="idm139969800384800"><name xml:id="idm139969800384544"><surname xml:id="idm139969800384416">Hjortø</surname>, <forename xml:id="idm139969800383984">Knud</forename></name></author><title xml:id="idm139969800383728">Ud for skrænten</title><pubPlace xml:id="idm139969800383424">København</pubPlace>; <pubPlace xml:id="idm139969800382992">Kristiania</pubPlace><date xml:id="idm139969800382480">1922</date></bibl>
+        <listBibl xml:id="idm139969800382192">
+          <bibl xml:id="biblid54096">
+            <title xml:id="idm139969800369040">Ud for skrænten</title>
+          </bibl>
+          <bibl xml:id="biblid54621">
+            <title xml:id="idm139969800368192">Sidse på Sandet</title>
+          </bibl>
+          <bibl xml:id="biblid57958">
+            <title xml:id="idm139969800367344">Rokballe-Maren</title>
+          </bibl>
+          <bibl xml:id="biblid60452">
+            <title xml:id="idm139969800366560">Magister Cogitans og hans Kone</title>
+          </bibl>
+          <bibl xml:id="biblid63299">
+            <title xml:id="idm139969800365760">Den gamle Historie om Alverden</title>
+          </bibl>
+        </listBibl>
+      </sourceDesc>
     </fileDesc>
   </teiHeader>
   <text xml:id="workid54096" decls="#biblid54096">

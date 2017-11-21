@@ -1,14 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!--jbh 19.09.2001-->
-<!--HHL 20021009 fjernet bindestreger ved sideslut-->
-<!-- HHL 20031219 rettet enkelte fejl ved </hi> og udråbstegn mv 
-  Ptj rettet s. 15-19-47-48-49-68-72-76-87-114-161-188-192-207-
--->
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="idm139827615923088"><!-- 
-       file     ./marc_dir/001680948.xml
-       field    530 
-       subfield a 
-       prefix   7. -->
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="root">
   <teiHeader xml:id="idm139827615922176">
     <fileDesc xml:id="idm139827615921920">
       <titleStmt xml:id="idm139827615896496">
@@ -28,17 +19,28 @@
         <note xml:id="idm139827615891984">
 	  </note>
       </notesStmt>
-      <sourceDesc xml:id="idm139827615891472"><bibl xml:id="idm139827615891344"><author n="1" xml:id="idm139827615890656"><name xml:id="idm139827615890400"><surname xml:id="idm139827615890272">Wied</surname>, <forename xml:id="idm139827615889808">Gustav</forename></name></author><title xml:id="idm139827615889520">Livsens Ondskab. 1967</title><pubPlace xml:id="idm139827615889232">København</pubPlace>
-<publisher xml:id="idm139827615888800">Rosenkilde og Bagger</publisher><date xml:id="idm139827615888464">1966-</date></bibl><listBibl xml:id="idm139827615888176"><bibl xml:id="biblid54549"><title xml:id="idm139827615875024">Livsens Ondskab</title></bibl></listBibl></sourceDesc>
+      <sourceDesc xml:id="idm139827615891472">
+        <bibl xml:id="idm139827615891344">
+          <author n="1" xml:id="idm139827615890656">
+            <name xml:id="idm139827615890400"><surname xml:id="idm139827615890272">Wied</surname>, <forename xml:id="idm139827615889808">Gustav</forename></name>
+          </author>
+          <title xml:id="idm139827615889520">Livsens Ondskab. 1967</title>
+          <pubPlace xml:id="idm139827615889232">København</pubPlace>
+          <publisher xml:id="idm139827615888800">Rosenkilde og Bagger</publisher>
+          <date xml:id="idm139827615888464">1966-</date>
+        </bibl>
+        <listBibl xml:id="idm139827615888176">
+          <bibl xml:id="biblid54549">
+            <title xml:id="idm139827615875024">Livsens Ondskab</title>
+          </bibl>
+        </listBibl>
+      </sourceDesc>
     </fileDesc>
   </teiHeader>
   <text xml:id="idm139827615874384">
     <front xml:id="idm139827615874128">
       <pb n="1" facs="adl/wied/wied7/wied7001" xml:id="idm139827615873824"/>
       <gap reason="cancelled" xml:id="idm139827615873008"/>
-<!---->
-<!---->
-<!--ROMANER NOVELLER SKUESPIL-->
       <pb n="2" facs="adl/wied/wied7/wied7002" xml:id="idm139827615871456"/>
       <pb n="3" facs="adl/wied/wied7/wied7003" xml:id="idm139827615870688"/>
       <titlePage xml:id="idm139827615869920">

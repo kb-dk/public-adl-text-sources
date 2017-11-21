@@ -1,12 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!-- 13.11.2002 VL: fm problems! with file names hertz11 must be corrected when files are found. 
-Changed Naturen og Kunsten to one text (had been divided into I and II, with each its own vaerktitle) ;
- removed vaerktitle from  Om gjengangerbreven. Needs tag: notes, appendix ?-->
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="idm140481648147520"><!-- 
-       file     ./marc_dir/002038239.xml
-       field     
-       subfield  
-       prefix   -->
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="root">
   <teiHeader xml:id="idm140481648146448">
     <fileDesc xml:id="idm140481648146192">
       <titleStmt xml:id="idm140481648120816">
@@ -25,17 +18,66 @@ Changed Naturen og Kunsten to one text (had been divided into I and II, with eac
         <note xml:id="idm140481648116704">
 	  </note>
       </notesStmt>
-      <sourceDesc xml:id="idm140481648116192"><bibl xml:id="idm140481648116064"><author n="1" xml:id="idm140481648115376"><name xml:id="idm140481648115120"><surname xml:id="idm140481648114992">Hertz</surname>, <forename xml:id="idm140481648114528">Henrik</forename></name></author><title xml:id="idm140481648114240">Digte fra forskjellige Perioder, 1.-4. Deel.</title><pubPlace xml:id="idm140481648113920">København</pubPlace>
-<date xml:id="idm140481648113440">1851-62.</date></bibl><listBibl xml:id="idm140481648113152"><bibl xml:id="biblid54586"><title xml:id="idm140481648100000">Gjenganger-Breve eller poetiske Epistler fra Paradis.</title></bibl><bibl xml:id="biblid54709"><title xml:id="idm140481648099184">Musernes Vinter-Leir.</title></bibl><bibl xml:id="biblid54950"><title xml:id="idm140481648098400">Retouren fra Paradis</title></bibl><bibl xml:id="biblid56420"><title xml:id="idm140481648097616">Toget mod Algier eller Apologie for min Gaaen-igjen.</title></bibl><bibl xml:id="biblid58304"><title xml:id="idm140481648096800">Knud Sjællandsfars Testamente eller Gjengangerens allersidste Villie.</title></bibl><bibl xml:id="biblid60673"><title xml:id="idm140481648095888">Afskrift af Knud Sjællandsfars i Paradis skrevne Testemente,</title></bibl><bibl xml:id="biblid62116"><title xml:id="idm140481648094992">Den massive Poeste eller Paradisets Ars poetica.</title></bibl><bibl xml:id="biblid63858"><title xml:id="idm140481648094128">Poesiens; Folkestemme contra Æsthetikens Polignac.</title></bibl><bibl xml:id="biblid64736"><title xml:id="idm140481648093264">Hvad Ende tog det med Jens Immanuel Baggesen?</title></bibl><bibl xml:id="biblid66053"><title xml:id="idm140481648092400">Fire poetiske Epistler fra Knud Sjællandsfar til Grandskeren**, Naturforskeren** og Digteren**.</title></bibl><bibl xml:id="biblid71623"><title xml:id="idm140481648091440">Naturen og Kunsten.</title></bibl><bibl xml:id="biblid77710"><title xml:id="idm140481648090608">I</title></bibl><bibl xml:id="biblid78136"><title xml:id="idm140481648089760">II</title></bibl><bibl xml:id="biblid79168"><title xml:id="idm140481648089008">Tourneneringen</title></bibl></listBibl></sourceDesc>
+      <sourceDesc xml:id="idm140481648116192">
+        <bibl xml:id="idm140481648116064">
+          <author n="1" xml:id="idm140481648115376">
+            <name xml:id="idm140481648115120"><surname xml:id="idm140481648114992">Hertz</surname>, <forename xml:id="idm140481648114528">Henrik</forename></name>
+          </author>
+          <title xml:id="idm140481648114240">Digte fra forskjellige Perioder, 1.-4. Deel.</title>
+          <pubPlace xml:id="idm140481648113920">København</pubPlace>
+          <date xml:id="idm140481648113440">1851-62.</date>
+        </bibl>
+        <listBibl xml:id="idm140481648113152">
+          <bibl xml:id="biblid54586">
+            <title xml:id="idm140481648100000">Gjenganger-Breve eller poetiske Epistler fra Paradis.</title>
+          </bibl>
+          <bibl xml:id="biblid54709">
+            <title xml:id="idm140481648099184">Musernes Vinter-Leir.</title>
+          </bibl>
+          <bibl xml:id="biblid54950">
+            <title xml:id="idm140481648098400">Retouren fra Paradis</title>
+          </bibl>
+          <bibl xml:id="biblid56420">
+            <title xml:id="idm140481648097616">Toget mod Algier eller Apologie for min Gaaen-igjen.</title>
+          </bibl>
+          <bibl xml:id="biblid58304">
+            <title xml:id="idm140481648096800">Knud Sjællandsfars Testamente eller Gjengangerens allersidste Villie.</title>
+          </bibl>
+          <bibl xml:id="biblid60673">
+            <title xml:id="idm140481648095888">Afskrift af Knud Sjællandsfars i Paradis skrevne Testemente,</title>
+          </bibl>
+          <bibl xml:id="biblid62116">
+            <title xml:id="idm140481648094992">Den massive Poeste eller Paradisets Ars poetica.</title>
+          </bibl>
+          <bibl xml:id="biblid63858">
+            <title xml:id="idm140481648094128">Poesiens; Folkestemme contra Æsthetikens Polignac.</title>
+          </bibl>
+          <bibl xml:id="biblid64736">
+            <title xml:id="idm140481648093264">Hvad Ende tog det med Jens Immanuel Baggesen?</title>
+          </bibl>
+          <bibl xml:id="biblid66053">
+            <title xml:id="idm140481648092400">Fire poetiske Epistler fra Knud Sjællandsfar til Grandskeren**, Naturforskeren** og Digteren**.</title>
+          </bibl>
+          <bibl xml:id="biblid71623">
+            <title xml:id="idm140481648091440">Naturen og Kunsten.</title>
+          </bibl>
+          <bibl xml:id="biblid77710">
+            <title xml:id="idm140481648090608">I</title>
+          </bibl>
+          <bibl xml:id="biblid78136">
+            <title xml:id="idm140481648089760">II</title>
+          </bibl>
+          <bibl xml:id="biblid79168">
+            <title xml:id="idm140481648089008">Tourneneringen</title>
+          </bibl>
+        </listBibl>
+      </sourceDesc>
     </fileDesc>
   </teiHeader>
   <text xml:id="idm140481648088368">
     <front xml:id="idm140481648088112">
       <pb n="a" xml:id="sa" facs="adl/hertz/hertz11/hertz11fm001"/>
       <gap reason="cancelled" xml:id="idm140481648086608"/>
-<!---->
-<!---->
-<!--Digte fra forskjellige Perioder af Henrik Hertz.-->
       <titlePage xml:id="idm140481648085024">
         <docAuthor xml:id="idm140481648084720">Henrik Hertz.</docAuthor>
         <docTitle xml:id="idm140481648084304">
@@ -5458,9 +5500,9 @@ Gjengangerbrevenes Periode 1830-1833; fjerde Deel nogle blandede, mindre Digte, 
           <pb n="204" xml:id="s204" facs="adl/hertz/hertz11/hertz11204"/>
           <pb n="205" xml:id="s205" facs="adl/hertz/hertz11/hertz11205"/>
           <div xml:id="idm140481645664304">
-	    <head xml:id="idm140481645664000">Naturen og Kunsten. Anden Afdeling.</head>
-	    <pb n="206" xml:id="s206" facs="adl/hertz/hertz11/hertz11206"/>
-	    <pb n="207" xml:id="s207" facs="adl/hertz/hertz11/hertz11207"/>
+            <head xml:id="idm140481645664000">Naturen og Kunsten. Anden Afdeling.</head>
+            <pb n="206" xml:id="s206" facs="adl/hertz/hertz11/hertz11206"/>
+            <pb n="207" xml:id="s207" facs="adl/hertz/hertz11/hertz11207"/>
             <lg xml:id="idm140481645661184">
               <l xml:id="idm140481645660928">Den næste Aften traf jeg min Veninde</l>
               <l xml:id="idm140481645660448">Paa hendes Yndlings-Bænk, et venligt Sted,</l>

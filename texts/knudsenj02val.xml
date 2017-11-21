@@ -1,10 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!-- 20030521 HHL genindlæst, sidecheck, tabel i indholdsfortegnelse, romertal fjernet -->
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="idm140237362503168"><!-- 
-       file     ./marc_dir/001764959.xml
-       field     
-       subfield  
-       prefix   -->
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="root">
   <teiHeader xml:id="idm140237362469200">
     <fileDesc xml:id="idm140237362468944">
       <titleStmt xml:id="idm140237362468688">
@@ -24,17 +19,20 @@
         <note xml:id="idm140237362438400">
 	  </note>
       </notesStmt>
-      <sourceDesc xml:id="idm140237362437888"><bibl xml:id="idm140237362437760"><author n="1" xml:id="idm140237362437072"><name xml:id="idm140237362436816"><surname xml:id="idm140237362436688">Knudsen</surname>, <forename xml:id="idm140237362436224">Jakob</forename></name></author><title xml:id="idm140237362435936">Sind</title><pubPlace xml:id="idm140237362435648">[København]</pubPlace>; <pubPlace xml:id="idm140237362435184">[Valby]</pubPlace>
-<publisher xml:id="idm140237362434720">Det Danske Sprog- og Litteraturselskab</publisher><publisher xml:id="idm140237362434416">Borgen</publisher><date xml:id="idm140237362434080">1996</date></bibl><listBibl xml:id="idm140237362433792"><bibl xml:id="biblid54106"><title xml:id="idm140237362420640">Sind (Danske Klassikere)</title></bibl></listBibl></sourceDesc>
+      <sourceDesc xml:id="idm140237362437888">
+        <bibl xml:id="idm140237362437760"><author n="1" xml:id="idm140237362437072"><name xml:id="idm140237362436816"><surname xml:id="idm140237362436688">Knudsen</surname>, <forename xml:id="idm140237362436224">Jakob</forename></name></author><title xml:id="idm140237362435936">Sind</title><pubPlace xml:id="idm140237362435648">[København]</pubPlace>; <pubPlace xml:id="idm140237362435184">[Valby]</pubPlace><publisher xml:id="idm140237362434720">Det Danske Sprog- og Litteraturselskab</publisher><publisher xml:id="idm140237362434416">Borgen</publisher><date xml:id="idm140237362434080">1996</date></bibl>
+        <listBibl xml:id="idm140237362433792">
+          <bibl xml:id="biblid54106">
+            <title xml:id="idm140237362420640">Sind (Danske Klassikere)</title>
+          </bibl>
+        </listBibl>
+      </sourceDesc>
     </fileDesc>
   </teiHeader>
   <text xml:id="workid54106" decls="#biblid54106">
     <front xml:id="idm140237362418992">
       <pb n="1" xml:id="s1" facs="adl/knudsenj/knudsenj2/knud2001"/>
       <gap reason="cancelled" xml:id="idm140237362417488"/>
-<!---->
-<!---->
-<!--Sind-->
       <pb n="2" xml:id="s2" facs="adl/knudsenj/knudsenj2/knud2002"/>
       <pb n="3" xml:id="s3" facs="adl/knudsenj/knudsenj2/knud2003"/>
       <titlePage xml:id="idm140237362413744">
@@ -79,7 +77,7 @@ Omslag: Stig Brøgger · Tryk: Rounborgs grafiske Hus, Holstebro</p>
           <p xml:id="idm140237362371600">Han saae Glasskabet for sig, inde i Kjøbmandens Kontor, med alle disse pæne Porcellænssager i, som han i saa mange Aar havde ønsket at beskue, og som det netop skulde falde Kjøbmanden ind at vise ham i Aften, da han havde saa bestemt Ordre til at være hjemme Kl. 10.</p>
           <p xml:id="idm140237362370656">Han følte Trang til atter at see paa sit Uhr. Men der var ikke Tid. Han havde jo ogsaa seet, da han løb ud af Butiken, at det <hi rend="italics" xml:id="idm140237362370128">var</hi> 10. Det var første Gang, at et Klokkeslæt paa hans nye Konfirmations-Uhr havde haft et rigtig sørgeligt Udseende. Hidtil havde det været saa glædeligt hver Gang at see, hvor det kunde gaa.</p>
           <p xml:id="idm140237362368944">Han vilde springe over Grøften, ind paa Grønningen langs Vejen, hvor der var blødere for hans bare Fødder. I Springet brast hans Læber fra hinanden, og han begyndte at puste, at stønne med vidt aaben Mund og af sine Lungers fulde Kraft – stadig løbende alt hvad han kunde.</p>
-	  <p xml:id="idm140237362367984">Samtidig var det, som en hed Luft af glødende Tanker slog ham imøde, og hans Ansigt blev badet i Sved. Det var som en Ovn, en Verden af rødglødende Muligheder: <hi rend="italics" xml:id="idm140237362367376">sin Faders Vrede</hi>, han saae ind i. Det var just det frygtelige ved hans Faders Vrede, at han sletikke kunde overskue dens Muligheder. Han havde jo nok været der før, men han havde været saa overvældet hver Gang, saa han egenlig ikke kunde huske, hvad der var skeet. Det var ikke Pryglene, – det var denne Ildregn af Vrede, – og denne Følelse af at være fordømt. – – Og atter saae han Glasskabet hos Kjøbmanden, især denne 
+          <p xml:id="idm140237362367984">Samtidig var det, som en hed Luft af glødende Tanker slog ham imøde, og hans Ansigt blev badet i Sved. Det var som en Ovn, en Verden af rødglødende Muligheder: <hi rend="italics" xml:id="idm140237362367376">sin Faders Vrede</hi>, han saae ind i. Det var just det frygtelige ved hans Faders Vrede, at han sletikke kunde overskue dens Muligheder. Han havde jo nok været der før, men han havde været saa overvældet hver Gang, saa han egenlig ikke kunde huske, hvad der var skeet. Det var ikke Pryglene, – det var denne Ildregn af Vrede, – og denne Følelse af at være fordømt. – – Og atter saae han Glasskabet hos Kjøbmanden, især denne 
 	<pb n="8" xml:id="s8" facs="adl/knudsenj/knudsenj2/knud2008"/>
 Porcellænsnisse til Svovlstikker – – – at han virkelig havde kunnet være saa optaget af den Figur, skjønt han vidste, hvad det gjaldt.</p>
           <p xml:id="idm140237362364320">Han standsede pludselig ved en Ledstolpe, satte Hænderne imod den, gispende og pustende, idet han skjød Ryg som en Kat. – Tænk, hvis han gjorde Oprør mod sin Fader! – Men Tanken var saa fjærn, saa uvirkelig, – og dog mærkede han, hvordan hele hans Verden vilde gaa under med det samme, – han kom til at tænke paa Billedet af Samson deroppe i Skolen, der trykker de to Støttepiller om og faar hele den uhyre Bygning ned over sig. – Saa vilde der da ikke være andet tilbage end Gud i Himlen, – for han blev dog vel tilbage?</p>
@@ -467,8 +465,11 @@ Selvretfærdighed, som I snakker om: Æ kan da æt gjøre for, te Æ har erfaret
           <p xml:id="idm140237362089136">»Det veed Æ æt, hvad det gjorde. Men vi er da helleræt fuldkommen, fordi vi lever i Ordet. Og saa havde vi en ydmyg Præst i ham. Æ troer, det er mere værd, om en Præst han er ydmyg, end om han kan lade være at drikke en femme-seks Drammer til hans Mellemmad.«</p>
           <p xml:id="idm140237362088464">»Det er sandt, Per!«</p>
           <p xml:id="idm140237362088048">»Og troer Du nu, han havde drukket mindre Brændevin, fordet om han havde læst noget mer i Bibelen heller i Luthers Skrifter?«</p>
-          <p xml:id="idm140237362087520">Nu begyndte den Mand, som i Vognen havde siddet ved Siden ad Fynboen, at istemme Salmen:</p><!--<lb xml:id="idm140237362087152"/>-->
-	  <lg><l>Herren han har besøgt sit Folk -</l></lg><!--<lb xml:id="idm140237362086816"/>--><p>
+          <p xml:id="idm140237362087520">Nu begyndte den Mand, som i Vognen havde siddet ved Siden ad Fynboen, at istemme Salmen:</p>
+          <lg xml:id="idadba1aaf-e440-45e6-bd92-c57dfa7738c1">
+            <l xml:id="id54c5fa03-94ca-49f1-96c4-e2d3992c59b0">Herren han har besøgt sit Folk -</l>
+          </lg>
+          <p xml:id="id06faf8d4-7f73-4f52-a988-d155aa543893">
 og straks efter sang alle med.
 </p>
           <note anchored="true" xml:id="idm140237362086384">* enhver sin Natur = enhvers Natur.</note>

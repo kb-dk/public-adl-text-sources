@@ -1,10 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!-- 20070620 VL rettelser på titelblad -->
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="idm140068786904096"><!-- 
-       file     ./marc_dir/001707603.xml
-       field     
-       subfield  
-       prefix   -->
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="root">
   <teiHeader xml:id="idm140068786903424">
     <fileDesc xml:id="idm140068786903168">
       <titleStmt xml:id="idm140068786902864">
@@ -26,31 +21,54 @@ Det Danske Sprog- og Litteraturselska</publisher>
 	  </note>
       </notesStmt>
       <sourceDesc xml:id="idm140068786872592">
-	<bibl xml:id="idm140068786872464">
-	  <author n="1" xml:id="idm140068786871776">
-	    <name xml:id="idm140068786871520">
-	      <surname xml:id="idm140068786871392">Goldschmidt</surname>,
-	      <forename xml:id="idm140068786870928">M. A.</forename>
-	    </name>
-	  </author>
-	  <title xml:id="idm140068786870672">Noveller og andre fortællinger</title>
-	  <pubPlace xml:id="idm140068786870336">[København]</pubPlace>;
-	  <pubPlace xml:id="idm140068786869872">[Valby]</pubPlace>
-	  <publisher xml:id="idm140068786869408">Det Danske Sprog- og Litteraturselskab</publisher>
-	  <publisher xml:id="idm140068786869104">Borgen</publisher>
-	  <date xml:id="idm140068786868768">1994</date>
-	</bibl>
-      <listBibl xml:id="idm140068786868480">
-      <bibl xml:id="biblid54268"><title xml:id="idm140068786855328">Mendel Hertz</title></bibl><bibl xml:id="biblid54998"><title xml:id="idm140068786854544">Breve fra Choleratiden</title></bibl><bibl xml:id="biblid59259"><title xml:id="idm140068786853712">Den Vægelsindede paa Graahede</title></bibl><bibl xml:id="biblid62363"><title xml:id="idm140068786852880">Avrohmche Nattergal</title></bibl><bibl xml:id="biblid64288"><title xml:id="idm140068786852096">Tømmerpladsen</title></bibl><bibl xml:id="biblid65250"><title xml:id="idm140068786851296">Bjergtagen I</title></bibl><bibl xml:id="biblid65873"><title xml:id="idm140068786850512">Bjergtagen II</title></bibl><bibl xml:id="biblid66262"><title xml:id="idm140068786849728">En coopersk Roman</title></bibl><bibl xml:id="biblid66520"><title xml:id="idm140068786848944">Vandcommissionen</title></bibl><bibl xml:id="biblid66679"><title xml:id="idm140068786848112">Fortælling om en Flue</title></bibl><bibl xml:id="biblid66936"><title xml:id="idm140068786847248">En Dampskibstur</title></bibl><bibl xml:id="biblid67065"><title xml:id="idm140068786846464">Kjærlighedshistorier fra mange Lande</title></bibl></listBibl></sourceDesc>
+        <bibl xml:id="idm140068786872464"><author n="1" xml:id="idm140068786871776"><name xml:id="idm140068786871520"><surname xml:id="idm140068786871392">Goldschmidt</surname>,
+	      <forename xml:id="idm140068786870928">M. A.</forename></name></author><title xml:id="idm140068786870672">Noveller og andre fortællinger</title><pubPlace xml:id="idm140068786870336">[København]</pubPlace>;
+	  <pubPlace xml:id="idm140068786869872">[Valby]</pubPlace><publisher xml:id="idm140068786869408">Det Danske Sprog- og Litteraturselskab</publisher><publisher xml:id="idm140068786869104">Borgen</publisher><date xml:id="idm140068786868768">1994</date></bibl>
+        <listBibl xml:id="idm140068786868480">
+          <bibl xml:id="biblid54268">
+            <title xml:id="idm140068786855328">Mendel Hertz</title>
+          </bibl>
+          <bibl xml:id="biblid54998">
+            <title xml:id="idm140068786854544">Breve fra Choleratiden</title>
+          </bibl>
+          <bibl xml:id="biblid59259">
+            <title xml:id="idm140068786853712">Den Vægelsindede paa Graahede</title>
+          </bibl>
+          <bibl xml:id="biblid62363">
+            <title xml:id="idm140068786852880">Avrohmche Nattergal</title>
+          </bibl>
+          <bibl xml:id="biblid64288">
+            <title xml:id="idm140068786852096">Tømmerpladsen</title>
+          </bibl>
+          <bibl xml:id="biblid65250">
+            <title xml:id="idm140068786851296">Bjergtagen I</title>
+          </bibl>
+          <bibl xml:id="biblid65873">
+            <title xml:id="idm140068786850512">Bjergtagen II</title>
+          </bibl>
+          <bibl xml:id="biblid66262">
+            <title xml:id="idm140068786849728">En coopersk Roman</title>
+          </bibl>
+          <bibl xml:id="biblid66520">
+            <title xml:id="idm140068786848944">Vandcommissionen</title>
+          </bibl>
+          <bibl xml:id="biblid66679">
+            <title xml:id="idm140068786848112">Fortælling om en Flue</title>
+          </bibl>
+          <bibl xml:id="biblid66936">
+            <title xml:id="idm140068786847248">En Dampskibstur</title>
+          </bibl>
+          <bibl xml:id="biblid67065">
+            <title xml:id="idm140068786846464">Kjærlighedshistorier fra mange Lande</title>
+          </bibl>
+        </listBibl>
+      </sourceDesc>
     </fileDesc>
   </teiHeader>
   <text xml:id="idm140068786845680">
     <front xml:id="idm140068786845424">
       <pb n="I" facs="adl/goldschmidt/goldschmidt02/gold2001" xml:id="idm140068786845120"/>
       <gap reason="cancelled" xml:id="idm140068786844288"/>
-<!---->
-<!---->
-<!--Noveller og andre fortællinger-->
       <pb n="II" facs="adl/goldschmidt/goldschmidt02/gold2002" xml:id="idm140068786842768"/>
       <pb n="III" facs="adl/goldschmidt/goldschmidt02/gold2003" xml:id="idm140068786842000"/>
       <titlePage xml:id="idm140068786841232">

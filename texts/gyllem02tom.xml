@@ -1,10 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!--Tom opmærkning blo 25.06.02-->
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="idm140374660701312"><!-- 
-       file     ./marc_dir/002729949.xml
-       field     
-       subfield  
-       prefix   -->
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="root">
   <teiHeader xml:id="idm140374660700384">
     <fileDesc xml:id="idm140374660700128">
       <titleStmt xml:id="idm140374660734464">
@@ -19,8 +14,33 @@
         <note xml:id="idm140374660671920">
 	  </note>
       </notesStmt>
-      <sourceDesc xml:id="idm140374660671408"><bibl xml:id="idm140374660671280"><author n="1" xml:id="idm140374660670640"><name xml:id="idm140374660670384"><surname xml:id="idm140374660670256">Gyllembourg-Ehrensvärd</surname>, <forename xml:id="idm140374660669760">T. C.</forename></name></author><title xml:id="idm140374660669504">samlede skrifter af Forf</title><pubPlace xml:id="idm140374660669200">København</pubPlace>
-<date xml:id="idm140374660668688">1866-67</date></bibl><listBibl xml:id="idm140374660668400"><bibl xml:id="biblid54254"><title xml:id="idm140374660655248">Slægtskab og Djævelskab (1830)</title></bibl><bibl xml:id="biblid55446"><title xml:id="idm140374660654416">Den lille Karen (1830)</title></bibl><bibl xml:id="biblid55655"><title xml:id="idm140374660653632">Sproglæreren (1831)</title></bibl><bibl xml:id="biblid56143"><title xml:id="idm140374660652816">Magt og List (1831)</title></bibl><bibl xml:id="biblid56948"><title xml:id="idm140374660652032">Fregatskibet Svanen (1831)</title></bibl></listBibl></sourceDesc>
+      <sourceDesc xml:id="idm140374660671408">
+        <bibl xml:id="idm140374660671280">
+          <author n="1" xml:id="idm140374660670640">
+            <name xml:id="idm140374660670384"><surname xml:id="idm140374660670256">Gyllembourg-Ehrensvärd</surname>, <forename xml:id="idm140374660669760">T. C.</forename></name>
+          </author>
+          <title xml:id="idm140374660669504">samlede skrifter af Forf</title>
+          <pubPlace xml:id="idm140374660669200">København</pubPlace>
+          <date xml:id="idm140374660668688">1866-67</date>
+        </bibl>
+        <listBibl xml:id="idm140374660668400">
+          <bibl xml:id="biblid54254">
+            <title xml:id="idm140374660655248">Slægtskab og Djævelskab (1830)</title>
+          </bibl>
+          <bibl xml:id="biblid55446">
+            <title xml:id="idm140374660654416">Den lille Karen (1830)</title>
+          </bibl>
+          <bibl xml:id="biblid55655">
+            <title xml:id="idm140374660653632">Sproglæreren (1831)</title>
+          </bibl>
+          <bibl xml:id="biblid56143">
+            <title xml:id="idm140374660652816">Magt og List (1831)</title>
+          </bibl>
+          <bibl xml:id="biblid56948">
+            <title xml:id="idm140374660652032">Fregatskibet Svanen (1831)</title>
+          </bibl>
+        </listBibl>
+      </sourceDesc>
     </fileDesc>
   </teiHeader>
   <text xml:id="idm140374660651344">

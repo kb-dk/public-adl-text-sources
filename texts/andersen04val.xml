@@ -1,10 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!--  Ptj rettet  s. 9 -122-129-130-149-245-264-   -->
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="idm140137151732592"><!-- 
-       file     ./marc_dir/001391928.xml
-       field     
-       subfield  
-       prefix   -->
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="root">
   <teiHeader xml:id="idm140137151731824">
     <fileDesc xml:id="idm140137151731568">
       <titleStmt xml:id="idm140137151706160">
@@ -23,17 +18,20 @@
         <note xml:id="idm140137151702032">
 	  </note>
       </notesStmt>
-      <sourceDesc xml:id="idm140137151701520"><bibl xml:id="idm140137151701392"><author n="1" xml:id="idm140137151700704"><name xml:id="idm140137151700448"><surname xml:id="idm140137151700320">Andersen</surname>, <forename xml:id="idm140137151699888">H. C.</forename></name></author><title xml:id="idm140137151699600">O.T.</title><pubPlace xml:id="idm140137151699312">[København]</pubPlace>; <pubPlace xml:id="idm140137151698848">[Valby]</pubPlace>; <pubPlace xml:id="idm140137151698432">[Ballerup]</pubPlace>
-<publisher xml:id="idm140137151697968">Det Danske Sprog- og Litteraturselskab</publisher><publisher xml:id="idm140137151697664">Borgen</publisher><publisher xml:id="idm140137151697376">i samarbejde med Nyt Dansk Litteraturselskab</publisher><date xml:id="idm140137151697008">cop. 1987</date></bibl><listBibl xml:id="idm140137151696720"><bibl xml:id="biblid54102"><title xml:id="idm140137151683520">O.T.</title></bibl></listBibl></sourceDesc>
+      <sourceDesc xml:id="idm140137151701520">
+        <bibl xml:id="idm140137151701392"><author n="1" xml:id="idm140137151700704"><name xml:id="idm140137151700448"><surname xml:id="idm140137151700320">Andersen</surname>, <forename xml:id="idm140137151699888">H. C.</forename></name></author><title xml:id="idm140137151699600">O.T.</title><pubPlace xml:id="idm140137151699312">[København]</pubPlace>; <pubPlace xml:id="idm140137151698848">[Valby]</pubPlace>; <pubPlace xml:id="idm140137151698432">[Ballerup]</pubPlace><publisher xml:id="idm140137151697968">Det Danske Sprog- og Litteraturselskab</publisher><publisher xml:id="idm140137151697664">Borgen</publisher><publisher xml:id="idm140137151697376">i samarbejde med Nyt Dansk Litteraturselskab</publisher><date xml:id="idm140137151697008">cop. 1987</date></bibl>
+        <listBibl xml:id="idm140137151696720">
+          <bibl xml:id="biblid54102">
+            <title xml:id="idm140137151683520">O.T.</title>
+          </bibl>
+        </listBibl>
+      </sourceDesc>
     </fileDesc>
   </teiHeader>
   <text xml:id="workid54102" decls="#biblid54102">
     <front xml:id="idm140137151681936">
       <pb n="1" facs="adl/andersenhc/andersenhc4/anhc4001" xml:id="idm140137151681632"/>
       <gap reason="cancelled" xml:id="idm140137151680816"/>
-<!---->
-<!---->
-<!--O.T.-->
       <pb n="2" facs="adl/andersenhc/andersenhc4/anhc4002" xml:id="idm140137151679296"/>
       <pb n="3" facs="adl/andersenhc/andersenhc4/anhc4003" xml:id="idm140137151762064"/>
       <titlePage xml:id="idm140137151761296">
@@ -2809,7 +2807,7 @@
               </epigraph>
               <p xml:id="idm140137150565728">Ikke blot om <hi rend="italics" xml:id="idm140137150565440">Ottos </hi>Anliggender, men om <hi rend="italics" xml:id="idm140137150564720">Staden </hi>derovre, som Præsten ([x][x][x]
 								[x][x][x][x][x][x]
-								<!-- &kappa;&alfa;&tau; &epsilonpsili;&xi;&omicron;&chi;&eta;&nu;-->
+								
 								) kaldte Kjobenhavn, var det han vilde tale. Kun eengang om Ugen kom
 								»Viborg Samler« til ham og de kjobenhavnske Blade brugte en heel
 								Maaned, til at gaae Omgang. »Man vilde gjerne folge med Tiderne!«

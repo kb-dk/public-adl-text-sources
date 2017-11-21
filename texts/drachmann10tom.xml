@@ -1,10 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!--Tom opmærkning blo 09.05.02-->
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="idm140515552386016"><!-- 
-       file     ./marc_dir/001823907.xml
-       field     
-       subfield  
-       prefix   -->
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="root">
   <teiHeader xml:id="idm140515552385184">
     <fileDesc xml:id="idm140515552384928">
       <titleStmt xml:id="idm140515552419264">
@@ -19,8 +14,321 @@
         <note xml:id="idm140515552356720">
 	  </note>
       </notesStmt>
-      <sourceDesc xml:id="idm140515552356208"><bibl xml:id="idm140515552356080"><author n="1" xml:id="idm140515552355392"><name xml:id="idm140515552355136"><surname xml:id="idm140515552355008">Drachmann</surname>, <forename xml:id="idm140515552354576">Holger</forename></name></author><title xml:id="idm140515552354320">Samlede poetiske Skrifter</title><pubPlace xml:id="idm140515552354016">Kbh. &amp; Kristiania</pubPlace>
-<date xml:id="idm140515552353392">1906-1909</date></bibl><listBibl xml:id="idm140515552353136"><bibl xml:id="biblid54134"><title xml:id="idm140515552339984">Troldtøj</title></bibl><bibl xml:id="biblid54153"><title xml:id="idm140515552339200">Sommernat paa Indsøen</title></bibl><bibl xml:id="biblid53735"><title xml:id="idm140515552338384">Nissen</title></bibl><bibl xml:id="biblid54419"><title xml:id="idm140515552337552">Mosekonen</title></bibl><bibl xml:id="biblid54475"><title xml:id="idm140515552336768">Helhesten</title></bibl><bibl xml:id="biblid54673"><title xml:id="idm140515552335936">Havfruen</title></bibl><bibl xml:id="biblid54716"><title xml:id="idm140515552335104">Basilisken</title></bibl><bibl xml:id="biblid54786"><title xml:id="idm140515552334272">Aa-Manden</title></bibl><bibl xml:id="biblid54810"><title xml:id="idm140515552333440">Den vilde Jæger</title></bibl><bibl xml:id="biblid54880"><title xml:id="idm140515552332592">Elverfolket</title></bibl><bibl xml:id="biblid54910"><title xml:id="idm140515552331744">Heksen</title></bibl><bibl xml:id="biblid54999"><title xml:id="idm140515552330960">Elverkongen</title></bibl><bibl xml:id="biblid55068"><title xml:id="idm140515552330112">Natravnen</title></bibl><bibl xml:id="biblid55093"><title xml:id="idm140515552329328">Maren</title></bibl><bibl xml:id="biblid55163"><title xml:id="idm140515552328544">Lygtemænd</title></bibl><bibl xml:id="biblid55235"><title xml:id="idm140515552327712">Travis</title></bibl><bibl xml:id="biblid55266"><title xml:id="idm140515552326880">Ouverture [Travis]</title></bibl><bibl xml:id="biblid55285"><title xml:id="idm140515552326048">Søndagsgudstjeneste i Travis</title></bibl><bibl xml:id="biblid55316"><title xml:id="idm140515552325168">Et Møde med Rud. Baumbach</title></bibl><bibl xml:id="biblid55353"><title xml:id="idm140515552324304">Den lille Hund</title></bibl><bibl xml:id="biblid55385"><title xml:id="idm140515552323520">Der Trottel</title></bibl><bibl xml:id="biblid55416"><title xml:id="idm140515552322624">Ophelia [fra Travis]</title></bibl><bibl xml:id="biblid55460"><title xml:id="idm140515552321792">En fremmed Fugl imellem Bjergene</title></bibl><bibl xml:id="biblid55504"><title xml:id="idm140515552320944">Den gamle Marquis</title></bibl><bibl xml:id="biblid55568"><title xml:id="idm140515552320160">Othello [fra Travis]</title></bibl><bibl xml:id="biblid55644"><title xml:id="idm140515552319264">Maria Luschari</title></bibl><bibl xml:id="biblid55728"><title xml:id="idm140515552318480">Kuglen som traf. Et Sagn</title></bibl><bibl xml:id="biblid56049"><title xml:id="idm140515552317632">Unge Viser af Svend Trøst</title></bibl><bibl xml:id="biblid56053"><title xml:id="idm140515552316768">Noter til Dannevang</title></bibl><bibl xml:id="biblid56068"><title xml:id="idm140515552315936">Ande-Dam</title></bibl><bibl xml:id="biblid56080"><title xml:id="idm140515552315104">Mit Land, mit gamle Land</title></bibl><bibl xml:id="biblid56093"><title xml:id="idm140515552314192">Fra Guldbryllupstiden</title></bibl><bibl xml:id="biblid56095"><title xml:id="idm140515552415680">Uniform</title></bibl><bibl xml:id="biblid56101"><title xml:id="idm140515552414896">Der er Manden!</title></bibl><bibl xml:id="biblid56113"><title xml:id="idm140515552414112">Bum, bum!</title></bibl><bibl xml:id="biblid56118"><title xml:id="idm140515552413328">Tornerose [fra Travis]</title></bibl><bibl xml:id="biblid56130"><title xml:id="idm140515552412544">Requiescat!</title></bibl><bibl xml:id="biblid56137"><title xml:id="idm140515552411760">Til Søs</title></bibl><bibl xml:id="biblid56139"><title xml:id="idm140515552288176">Dødvande</title></bibl><bibl xml:id="biblid56150"><title xml:id="idm140515552287392">Rejsepas</title></bibl><bibl xml:id="biblid56156"><title xml:id="idm140515552286608">Kaperbrev</title></bibl><bibl xml:id="biblid56168"><title xml:id="idm140515552285824">Cave canem!</title></bibl><bibl xml:id="biblid56179"><title xml:id="idm140515552285040">Moral</title></bibl><bibl xml:id="biblid56191"><title xml:id="idm140515552284256">Ach, Paludan</title></bibl><bibl xml:id="biblid56204"><title xml:id="idm140515552283472">Sange under Pesten</title></bibl><bibl xml:id="biblid56206"><title xml:id="idm140515552282688">Introitus</title></bibl><bibl xml:id="biblid56218"><title xml:id="idm140515552281840">Lystig!</title></bibl><bibl xml:id="biblid56223"><title xml:id="idm140515552281056">Værtshus</title></bibl><bibl xml:id="biblid56235"><title xml:id="idm140515552280272">Alle saa gaar vi rabundus</title></bibl><bibl xml:id="biblid56247"><title xml:id="idm140515552279520">Kyper, sæt mig Vinen frem -</title></bibl><bibl xml:id="biblid56259"><title xml:id="idm140515552278688">Gerne drikker jeg KIldevand</title></bibl><bibl xml:id="biblid56264"><title xml:id="idm140515552277936">Jeg sad om Aftnen ene -</title></bibl><bibl xml:id="biblid56276"><title xml:id="idm140515552277152">Døden og Apotekeren</title></bibl><bibl xml:id="biblid56288"><title xml:id="idm140515552276336">Forændreløse</title></bibl><bibl xml:id="biblid56293"><title xml:id="idm140515552275584">Nej, synge vil jeg -</title></bibl><bibl xml:id="biblid56298"><title xml:id="idm140515552274800">Graver, kom op</title></bibl><bibl xml:id="biblid56310"><title xml:id="idm140515552274016">I Skipperknejpen</title></bibl><bibl xml:id="biblid56322"><title xml:id="idm140515552273232">Hos Kyllingemor</title></bibl><bibl xml:id="biblid56334"><title xml:id="idm140515552272448">Den blege Frygt</title></bibl><bibl xml:id="biblid56346"><title xml:id="idm140515552271664">Desinfektion</title></bibl><bibl xml:id="biblid56358"><title xml:id="idm140515552266816">Vi stod i det lille katolske Kapel</title></bibl><bibl xml:id="biblid56364"><title xml:id="idm140515552266192">Der gik et Par Elskende</title></bibl><bibl xml:id="biblid56375"><title xml:id="idm140515552265504">De lever op igen</title></bibl><bibl xml:id="biblid56381"><title xml:id="idm140515552264816">Die Liebe, nur die Lieb' ist Leben</title></bibl><bibl xml:id="biblid56394"><title xml:id="idm140515552264128">September [fra Travis]</title></bibl><bibl xml:id="biblid56396"><title xml:id="idm140515552263440">Septemberdagens Pige</title></bibl><bibl xml:id="biblid56407"><title xml:id="idm140515552262720">Spadseretur</title></bibl><bibl xml:id="biblid56432"><title xml:id="idm140515552261904">Valkyrie-Ridt</title></bibl><bibl xml:id="biblid56445"><title xml:id="idm140515552261120">Smaa Elskovsviser</title></bibl><bibl xml:id="biblid56447"><title xml:id="idm140515552260272">Jeg har i Slotte huset</title></bibl><bibl xml:id="biblid56459"><title xml:id="idm140515552259488">Jeg hører de høje Palmer</title></bibl><bibl xml:id="biblid56464"><title xml:id="idm140515552258608">Dog, det er godt</title></bibl><bibl xml:id="biblid56470"><title xml:id="idm140515552257824">Alle Klokker bringer fjernt -</title></bibl><bibl xml:id="biblid56481"><title xml:id="idm140515552257072">Mine Børn er mine Sange</title></bibl><bibl xml:id="biblid56487"><title xml:id="idm140515552256256">Hun kom fra det fattige Arbejderhjem</title></bibl><bibl xml:id="biblid56492"><title xml:id="idm140515552255504">Alle Kilder aabner sig</title></bibl><bibl xml:id="biblid56504"><title xml:id="idm140515552254720">Alvorsmand</title></bibl><bibl xml:id="biblid56510"><title xml:id="idm140515552253872">Vor Kærlighed er ren og god</title></bibl><bibl xml:id="biblid56515"><title xml:id="idm140515552252976">Od dette Folk, som gav mig Dig</title></bibl><bibl xml:id="biblid56528"><title xml:id="idm140515552252176">Glade Viser - Gadeviser</title></bibl><bibl xml:id="biblid56530"><title xml:id="idm140515552251392">Tabula rasa</title></bibl><bibl xml:id="biblid56535"><title xml:id="idm140515552250544">Præster</title></bibl><bibl xml:id="biblid56547"><title xml:id="idm140515552249760">Gamle Guder</title></bibl><bibl xml:id="biblid56552"><title xml:id="idm140515552248976">Syndebuk og Offerlam</title></bibl><bibl xml:id="biblid56564"><title xml:id="idm140515552248128">Linedanser</title></bibl><bibl xml:id="biblid56576"><title xml:id="idm140515552247344">O Morten, Morten Luther!</title></bibl><bibl xml:id="biblid56589"><title xml:id="idm140515552246480">Slutning</title></bibl><bibl xml:id="biblid56591"><title xml:id="idm140515552245632">Tre Ting</title></bibl><bibl xml:id="biblid56603"><title xml:id="idm140515552244848">Niels</title></bibl><bibl xml:id="biblid56623"><title xml:id="idm140515552244000">Proletarer</title></bibl><bibl xml:id="biblid56625"><title xml:id="idm140515552243216">Rot Jer sammen!</title></bibl><bibl xml:id="biblid56637"><title xml:id="idm140515552242432">Byg op!</title></bibl><bibl xml:id="biblid56643"><title xml:id="idm140515552241584">Love!</title></bibl><bibl xml:id="biblid56655"><title xml:id="idm140515552240752">Raad Jer selv</title></bibl><bibl xml:id="biblid56660"><title xml:id="idm140515552239968">Vi har os lært at nøjes -</title></bibl><bibl xml:id="biblid56672"><title xml:id="idm140515552239152">Der gennemstrømmer mig en Ild</title></bibl><bibl xml:id="biblid56684"><title xml:id="idm140515552238208">Finis</title></bibl><bibl xml:id="biblid56696"><title xml:id="idm140515552237360">Til de Unge iblandt os</title></bibl><bibl xml:id="biblid56712"><title xml:id="idm140515552236576">Øen i Sydhavet</title></bibl><bibl xml:id="biblid57086"><title xml:id="idm140515552235744">Bonifacius-Skæret</title></bibl><bibl xml:id="biblid57461"><title xml:id="idm140515552234880">Gøglere</title></bibl></listBibl></sourceDesc>
+      <sourceDesc xml:id="idm140515552356208">
+        <bibl xml:id="idm140515552356080">
+          <author n="1" xml:id="idm140515552355392">
+            <name xml:id="idm140515552355136"><surname xml:id="idm140515552355008">Drachmann</surname>, <forename xml:id="idm140515552354576">Holger</forename></name>
+          </author>
+          <title xml:id="idm140515552354320">Samlede poetiske Skrifter</title>
+          <pubPlace xml:id="idm140515552354016">Kbh. &amp; Kristiania</pubPlace>
+          <date xml:id="idm140515552353392">1906-1909</date>
+        </bibl>
+        <listBibl xml:id="idm140515552353136">
+          <bibl xml:id="biblid54134">
+            <title xml:id="idm140515552339984">Troldtøj</title>
+          </bibl>
+          <bibl xml:id="biblid54153">
+            <title xml:id="idm140515552339200">Sommernat paa Indsøen</title>
+          </bibl>
+          <bibl xml:id="biblid53735">
+            <title xml:id="idm140515552338384">Nissen</title>
+          </bibl>
+          <bibl xml:id="biblid54419">
+            <title xml:id="idm140515552337552">Mosekonen</title>
+          </bibl>
+          <bibl xml:id="biblid54475">
+            <title xml:id="idm140515552336768">Helhesten</title>
+          </bibl>
+          <bibl xml:id="biblid54673">
+            <title xml:id="idm140515552335936">Havfruen</title>
+          </bibl>
+          <bibl xml:id="biblid54716">
+            <title xml:id="idm140515552335104">Basilisken</title>
+          </bibl>
+          <bibl xml:id="biblid54786">
+            <title xml:id="idm140515552334272">Aa-Manden</title>
+          </bibl>
+          <bibl xml:id="biblid54810">
+            <title xml:id="idm140515552333440">Den vilde Jæger</title>
+          </bibl>
+          <bibl xml:id="biblid54880">
+            <title xml:id="idm140515552332592">Elverfolket</title>
+          </bibl>
+          <bibl xml:id="biblid54910">
+            <title xml:id="idm140515552331744">Heksen</title>
+          </bibl>
+          <bibl xml:id="biblid54999">
+            <title xml:id="idm140515552330960">Elverkongen</title>
+          </bibl>
+          <bibl xml:id="biblid55068">
+            <title xml:id="idm140515552330112">Natravnen</title>
+          </bibl>
+          <bibl xml:id="biblid55093">
+            <title xml:id="idm140515552329328">Maren</title>
+          </bibl>
+          <bibl xml:id="biblid55163">
+            <title xml:id="idm140515552328544">Lygtemænd</title>
+          </bibl>
+          <bibl xml:id="biblid55235">
+            <title xml:id="idm140515552327712">Travis</title>
+          </bibl>
+          <bibl xml:id="biblid55266">
+            <title xml:id="idm140515552326880">Ouverture [Travis]</title>
+          </bibl>
+          <bibl xml:id="biblid55285">
+            <title xml:id="idm140515552326048">Søndagsgudstjeneste i Travis</title>
+          </bibl>
+          <bibl xml:id="biblid55316">
+            <title xml:id="idm140515552325168">Et Møde med Rud. Baumbach</title>
+          </bibl>
+          <bibl xml:id="biblid55353">
+            <title xml:id="idm140515552324304">Den lille Hund</title>
+          </bibl>
+          <bibl xml:id="biblid55385">
+            <title xml:id="idm140515552323520">Der Trottel</title>
+          </bibl>
+          <bibl xml:id="biblid55416">
+            <title xml:id="idm140515552322624">Ophelia [fra Travis]</title>
+          </bibl>
+          <bibl xml:id="biblid55460">
+            <title xml:id="idm140515552321792">En fremmed Fugl imellem Bjergene</title>
+          </bibl>
+          <bibl xml:id="biblid55504">
+            <title xml:id="idm140515552320944">Den gamle Marquis</title>
+          </bibl>
+          <bibl xml:id="biblid55568">
+            <title xml:id="idm140515552320160">Othello [fra Travis]</title>
+          </bibl>
+          <bibl xml:id="biblid55644">
+            <title xml:id="idm140515552319264">Maria Luschari</title>
+          </bibl>
+          <bibl xml:id="biblid55728">
+            <title xml:id="idm140515552318480">Kuglen som traf. Et Sagn</title>
+          </bibl>
+          <bibl xml:id="biblid56049">
+            <title xml:id="idm140515552317632">Unge Viser af Svend Trøst</title>
+          </bibl>
+          <bibl xml:id="biblid56053">
+            <title xml:id="idm140515552316768">Noter til Dannevang</title>
+          </bibl>
+          <bibl xml:id="biblid56068">
+            <title xml:id="idm140515552315936">Ande-Dam</title>
+          </bibl>
+          <bibl xml:id="biblid56080">
+            <title xml:id="idm140515552315104">Mit Land, mit gamle Land</title>
+          </bibl>
+          <bibl xml:id="biblid56093">
+            <title xml:id="idm140515552314192">Fra Guldbryllupstiden</title>
+          </bibl>
+          <bibl xml:id="biblid56095">
+            <title xml:id="idm140515552415680">Uniform</title>
+          </bibl>
+          <bibl xml:id="biblid56101">
+            <title xml:id="idm140515552414896">Der er Manden!</title>
+          </bibl>
+          <bibl xml:id="biblid56113">
+            <title xml:id="idm140515552414112">Bum, bum!</title>
+          </bibl>
+          <bibl xml:id="biblid56118">
+            <title xml:id="idm140515552413328">Tornerose [fra Travis]</title>
+          </bibl>
+          <bibl xml:id="biblid56130">
+            <title xml:id="idm140515552412544">Requiescat!</title>
+          </bibl>
+          <bibl xml:id="biblid56137">
+            <title xml:id="idm140515552411760">Til Søs</title>
+          </bibl>
+          <bibl xml:id="biblid56139">
+            <title xml:id="idm140515552288176">Dødvande</title>
+          </bibl>
+          <bibl xml:id="biblid56150">
+            <title xml:id="idm140515552287392">Rejsepas</title>
+          </bibl>
+          <bibl xml:id="biblid56156">
+            <title xml:id="idm140515552286608">Kaperbrev</title>
+          </bibl>
+          <bibl xml:id="biblid56168">
+            <title xml:id="idm140515552285824">Cave canem!</title>
+          </bibl>
+          <bibl xml:id="biblid56179">
+            <title xml:id="idm140515552285040">Moral</title>
+          </bibl>
+          <bibl xml:id="biblid56191">
+            <title xml:id="idm140515552284256">Ach, Paludan</title>
+          </bibl>
+          <bibl xml:id="biblid56204">
+            <title xml:id="idm140515552283472">Sange under Pesten</title>
+          </bibl>
+          <bibl xml:id="biblid56206">
+            <title xml:id="idm140515552282688">Introitus</title>
+          </bibl>
+          <bibl xml:id="biblid56218">
+            <title xml:id="idm140515552281840">Lystig!</title>
+          </bibl>
+          <bibl xml:id="biblid56223">
+            <title xml:id="idm140515552281056">Værtshus</title>
+          </bibl>
+          <bibl xml:id="biblid56235">
+            <title xml:id="idm140515552280272">Alle saa gaar vi rabundus</title>
+          </bibl>
+          <bibl xml:id="biblid56247">
+            <title xml:id="idm140515552279520">Kyper, sæt mig Vinen frem -</title>
+          </bibl>
+          <bibl xml:id="biblid56259">
+            <title xml:id="idm140515552278688">Gerne drikker jeg KIldevand</title>
+          </bibl>
+          <bibl xml:id="biblid56264">
+            <title xml:id="idm140515552277936">Jeg sad om Aftnen ene -</title>
+          </bibl>
+          <bibl xml:id="biblid56276">
+            <title xml:id="idm140515552277152">Døden og Apotekeren</title>
+          </bibl>
+          <bibl xml:id="biblid56288">
+            <title xml:id="idm140515552276336">Forændreløse</title>
+          </bibl>
+          <bibl xml:id="biblid56293">
+            <title xml:id="idm140515552275584">Nej, synge vil jeg -</title>
+          </bibl>
+          <bibl xml:id="biblid56298">
+            <title xml:id="idm140515552274800">Graver, kom op</title>
+          </bibl>
+          <bibl xml:id="biblid56310">
+            <title xml:id="idm140515552274016">I Skipperknejpen</title>
+          </bibl>
+          <bibl xml:id="biblid56322">
+            <title xml:id="idm140515552273232">Hos Kyllingemor</title>
+          </bibl>
+          <bibl xml:id="biblid56334">
+            <title xml:id="idm140515552272448">Den blege Frygt</title>
+          </bibl>
+          <bibl xml:id="biblid56346">
+            <title xml:id="idm140515552271664">Desinfektion</title>
+          </bibl>
+          <bibl xml:id="biblid56358">
+            <title xml:id="idm140515552266816">Vi stod i det lille katolske Kapel</title>
+          </bibl>
+          <bibl xml:id="biblid56364">
+            <title xml:id="idm140515552266192">Der gik et Par Elskende</title>
+          </bibl>
+          <bibl xml:id="biblid56375">
+            <title xml:id="idm140515552265504">De lever op igen</title>
+          </bibl>
+          <bibl xml:id="biblid56381">
+            <title xml:id="idm140515552264816">Die Liebe, nur die Lieb' ist Leben</title>
+          </bibl>
+          <bibl xml:id="biblid56394">
+            <title xml:id="idm140515552264128">September [fra Travis]</title>
+          </bibl>
+          <bibl xml:id="biblid56396">
+            <title xml:id="idm140515552263440">Septemberdagens Pige</title>
+          </bibl>
+          <bibl xml:id="biblid56407">
+            <title xml:id="idm140515552262720">Spadseretur</title>
+          </bibl>
+          <bibl xml:id="biblid56432">
+            <title xml:id="idm140515552261904">Valkyrie-Ridt</title>
+          </bibl>
+          <bibl xml:id="biblid56445">
+            <title xml:id="idm140515552261120">Smaa Elskovsviser</title>
+          </bibl>
+          <bibl xml:id="biblid56447">
+            <title xml:id="idm140515552260272">Jeg har i Slotte huset</title>
+          </bibl>
+          <bibl xml:id="biblid56459">
+            <title xml:id="idm140515552259488">Jeg hører de høje Palmer</title>
+          </bibl>
+          <bibl xml:id="biblid56464">
+            <title xml:id="idm140515552258608">Dog, det er godt</title>
+          </bibl>
+          <bibl xml:id="biblid56470">
+            <title xml:id="idm140515552257824">Alle Klokker bringer fjernt -</title>
+          </bibl>
+          <bibl xml:id="biblid56481">
+            <title xml:id="idm140515552257072">Mine Børn er mine Sange</title>
+          </bibl>
+          <bibl xml:id="biblid56487">
+            <title xml:id="idm140515552256256">Hun kom fra det fattige Arbejderhjem</title>
+          </bibl>
+          <bibl xml:id="biblid56492">
+            <title xml:id="idm140515552255504">Alle Kilder aabner sig</title>
+          </bibl>
+          <bibl xml:id="biblid56504">
+            <title xml:id="idm140515552254720">Alvorsmand</title>
+          </bibl>
+          <bibl xml:id="biblid56510">
+            <title xml:id="idm140515552253872">Vor Kærlighed er ren og god</title>
+          </bibl>
+          <bibl xml:id="biblid56515">
+            <title xml:id="idm140515552252976">Od dette Folk, som gav mig Dig</title>
+          </bibl>
+          <bibl xml:id="biblid56528">
+            <title xml:id="idm140515552252176">Glade Viser - Gadeviser</title>
+          </bibl>
+          <bibl xml:id="biblid56530">
+            <title xml:id="idm140515552251392">Tabula rasa</title>
+          </bibl>
+          <bibl xml:id="biblid56535">
+            <title xml:id="idm140515552250544">Præster</title>
+          </bibl>
+          <bibl xml:id="biblid56547">
+            <title xml:id="idm140515552249760">Gamle Guder</title>
+          </bibl>
+          <bibl xml:id="biblid56552">
+            <title xml:id="idm140515552248976">Syndebuk og Offerlam</title>
+          </bibl>
+          <bibl xml:id="biblid56564">
+            <title xml:id="idm140515552248128">Linedanser</title>
+          </bibl>
+          <bibl xml:id="biblid56576">
+            <title xml:id="idm140515552247344">O Morten, Morten Luther!</title>
+          </bibl>
+          <bibl xml:id="biblid56589">
+            <title xml:id="idm140515552246480">Slutning</title>
+          </bibl>
+          <bibl xml:id="biblid56591">
+            <title xml:id="idm140515552245632">Tre Ting</title>
+          </bibl>
+          <bibl xml:id="biblid56603">
+            <title xml:id="idm140515552244848">Niels</title>
+          </bibl>
+          <bibl xml:id="biblid56623">
+            <title xml:id="idm140515552244000">Proletarer</title>
+          </bibl>
+          <bibl xml:id="biblid56625">
+            <title xml:id="idm140515552243216">Rot Jer sammen!</title>
+          </bibl>
+          <bibl xml:id="biblid56637">
+            <title xml:id="idm140515552242432">Byg op!</title>
+          </bibl>
+          <bibl xml:id="biblid56643">
+            <title xml:id="idm140515552241584">Love!</title>
+          </bibl>
+          <bibl xml:id="biblid56655">
+            <title xml:id="idm140515552240752">Raad Jer selv</title>
+          </bibl>
+          <bibl xml:id="biblid56660">
+            <title xml:id="idm140515552239968">Vi har os lært at nøjes -</title>
+          </bibl>
+          <bibl xml:id="biblid56672">
+            <title xml:id="idm140515552239152">Der gennemstrømmer mig en Ild</title>
+          </bibl>
+          <bibl xml:id="biblid56684">
+            <title xml:id="idm140515552238208">Finis</title>
+          </bibl>
+          <bibl xml:id="biblid56696">
+            <title xml:id="idm140515552237360">Til de Unge iblandt os</title>
+          </bibl>
+          <bibl xml:id="biblid56712">
+            <title xml:id="idm140515552236576">Øen i Sydhavet</title>
+          </bibl>
+          <bibl xml:id="biblid57086">
+            <title xml:id="idm140515552235744">Bonifacius-Skæret</title>
+          </bibl>
+          <bibl xml:id="biblid57461">
+            <title xml:id="idm140515552234880">Gøglere</title>
+          </bibl>
+        </listBibl>
+      </sourceDesc>
     </fileDesc>
   </teiHeader>
   <text xml:id="idm140515552234240">

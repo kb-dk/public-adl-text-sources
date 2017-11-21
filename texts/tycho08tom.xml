@@ -1,10 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!--Tom opmærkning d. 11.10.2002 blo -->
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="idm140709425679408"><!-- 
-       file     ./marc_dir/001573955.xml
-       field     
-       subfield  
-       prefix   -->
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="root">
   <teiHeader xml:id="idm140709425678576">
     <fileDesc xml:id="idm140709425678320">
       <titleStmt xml:id="idm140709425678016">
@@ -23,8 +18,21 @@
         <note xml:id="idm140709425648912">
 	  </note>
       </notesStmt>
-      <sourceDesc xml:id="idm140709425648400"><bibl xml:id="idm140709425648272"><author n="1" xml:id="idm140709425647584"><name xml:id="idm140709425647328"><surname xml:id="idm140709425647200">Brahe</surname>, <forename xml:id="idm140709425646736">Tycho</forename></name></author><title xml:id="idm140709425646448">Tychonis Brahe Dani opera omnia</title><pubPlace xml:id="idm140709425646144">Hauniæ</pubPlace>
-<date xml:id="idm140709425645632">1913-29</date></bibl><listBibl xml:id="idm140709425645344"><bibl xml:id="biblid54243"><title xml:id="idm140709425632192">Epigramma ad Oligerum Rosenkrantzium Sponsum</title></bibl></listBibl></sourceDesc>
+      <sourceDesc xml:id="idm140709425648400">
+        <bibl xml:id="idm140709425648272">
+          <author n="1" xml:id="idm140709425647584">
+            <name xml:id="idm140709425647328"><surname xml:id="idm140709425647200">Brahe</surname>, <forename xml:id="idm140709425646736">Tycho</forename></name>
+          </author>
+          <title xml:id="idm140709425646448">Tychonis Brahe Dani opera omnia</title>
+          <pubPlace xml:id="idm140709425646144">Hauniæ</pubPlace>
+          <date xml:id="idm140709425645632">1913-29</date>
+        </bibl>
+        <listBibl xml:id="idm140709425645344">
+          <bibl xml:id="biblid54243">
+            <title xml:id="idm140709425632192">Epigramma ad Oligerum Rosenkrantzium Sponsum</title>
+          </bibl>
+        </listBibl>
+      </sourceDesc>
     </fileDesc>
   </teiHeader>
   <text xml:id="idm140709425631488">

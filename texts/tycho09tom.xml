@@ -1,10 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!--Tom opmærkning d. 11.10.2002 blo -->
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="idm139660972264560"><!-- 
-       file     ./marc_dir/001573955.xml
-       field     
-       subfield  
-       prefix   -->
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="root">
   <teiHeader xml:id="idm139660972263664">
     <fileDesc xml:id="idm139660972263408">
       <titleStmt xml:id="idm139660972237872">
@@ -23,8 +18,114 @@
         <note xml:id="idm139660972233936">
 	  </note>
       </notesStmt>
-      <sourceDesc xml:id="idm139660972233424"><bibl xml:id="idm139660972233296"><author n="1" xml:id="idm139660972232608"><name xml:id="idm139660972232352"><surname xml:id="idm139660972232224">Brahe</surname>, <forename xml:id="idm139660972231792">Tycho</forename></name></author><title xml:id="idm139660972231504">Tychonis Brahe Dani opera omnia</title><pubPlace xml:id="idm139660972231200">Hauniæ</pubPlace>
-<date xml:id="idm139660972230688">1913-29</date></bibl><listBibl xml:id="idm139660972230400"><bibl xml:id="biblid54247"><title xml:id="idm139660972217248">D.O.M.S. [Gravskrift over dødfødt tvillingebror]</title></bibl><bibl xml:id="biblid54263"><title xml:id="idm139660972216384">M. Andreæ Welleio Saxonis ... [Digt om Anders Sørensens Vedels Saxo-oversættelse]</title></bibl><bibl xml:id="biblid54268"><title xml:id="idm139660972215440">Epitaphium quod in templo... [Gravskrift over datteren Kristine]</title></bibl><bibl xml:id="biblid54283"><title xml:id="idm139660972214560">Fundamentali Uraniburgi lapidi hæc [Uranienborgs grundsten]</title></bibl><bibl xml:id="biblid54288"><title xml:id="idm139660972213664">Typographiæ [Epigram]</title></bibl><bibl xml:id="biblid54294"><title xml:id="idm139660972212848">Circa Effigiem Tychonis [Epigram]</title></bibl><bibl xml:id="biblid54299"><title xml:id="idm139660972212048">Circa Arma Tychonis [Epigram]</title></bibl><bibl xml:id="biblid54314"><title xml:id="idm139660972211248">Epitaphium [Gravskrift over Johannes Pratensis]</title></bibl><bibl xml:id="biblid54339"><title xml:id="idm139660972210384">Doctissimo et hummanissimo viro ... [Gravskrift over Hans Frandsen]</title></bibl><bibl xml:id="biblid54355"><title xml:id="idm139660972209504">Nobilitate ingenii ... [Digt til Jakob Ulfeldt]</title></bibl><bibl xml:id="biblid54371"><title xml:id="idm139660972208640">Magnifico, amplissimo ... [Digt til Niels Kaas]</title></bibl><bibl xml:id="biblid54447"><title xml:id="idm139660972207776">Nobilissimo et amplissimo viro [Digt til Henrik Rantzau]</title></bibl><bibl xml:id="biblid54483"><title xml:id="idm139660972206896">Inscriptiones Croneburgenses [2 indskriptioner fra Kronborg]</title></bibl><bibl xml:id="biblid54509"><title xml:id="idm139660972206064">4 epigrammer i anledningen af Frederik II's død</title></bibl><bibl xml:id="biblid54514"><title xml:id="idm139660972205200">Iudicis est æqui ... [Epigram]</title></bibl><bibl xml:id="biblid54530"><title xml:id="idm139660972204320">In Nic. Cragii ... [Epigram om Niels Krags Respublica L...]</title></bibl><bibl xml:id="biblid54535"><title xml:id="idm139660972203440">Urania Titani</title></bibl><bibl xml:id="biblid54691"><title xml:id="idm139660972202608">Tycho Brahe lusit hæc  cum Sophia... [2 epigrammer om Sophie Brahe og Erik Lange]</title></bibl><bibl xml:id="biblid54696"><title xml:id="idm139660972201632">Ad Martinum Braschium [Epigram til Martinus Braschius]</title></bibl><bibl xml:id="biblid54702"><title xml:id="idm139660972200816">Ad Daniam elegia</title></bibl><bibl xml:id="biblid54739"><title xml:id="idm139660972200032">Sub pyramide tegumento.. [Et vers på en pyramide]</title></bibl><bibl xml:id="biblid54744"><title xml:id="idm139660972199056">In librum ... [Dedikation af Astronomiæ I...] </title></bibl><bibl xml:id="biblid54760"><title xml:id="idm139660972198080">Ante Stellas restitutas [Dedikation]</title></bibl><bibl xml:id="biblid54766"><title xml:id="idm139660972197232">Per varios casus ... [Epigram]</title></bibl><bibl xml:id="biblid54771"><title xml:id="idm139660972294144">Disce puer virtutem ... [Epigram i sønnen Tycho Brahes stambog]</title></bibl><bibl xml:id="biblid54787"><title xml:id="idm139660972293312">Ad Daniam et Danos integros excusatio</title></bibl><bibl xml:id="biblid54792"><title xml:id="idm139660972292624">Dania ad Tychonem Braheum suum alumnum</title></bibl><bibl xml:id="biblid54808"><title xml:id="idm139660972291936">Ad Daniam [Epigram]</title></bibl><bibl xml:id="biblid54813"><title xml:id="idm139660972291152">Supra januam observatorii ... [Inskription over døren til observatoriet i Benatky]</title></bibl><bibl xml:id="biblid54818"><title xml:id="idm139660972290224">Supra januam novi laboratorii ... [Inskription over døren til det nye laboratorium i Benatky]</title></bibl><bibl xml:id="biblid54824"><title xml:id="idm139660972171024">Latinsk oversættelse af et græsk epigram</title></bibl><bibl xml:id="biblid54839"><title xml:id="idm139660972170176">Si quid agat ... [Fragment]</title></bibl></listBibl></sourceDesc>
+      <sourceDesc xml:id="idm139660972233424">
+        <bibl xml:id="idm139660972233296">
+          <author n="1" xml:id="idm139660972232608">
+            <name xml:id="idm139660972232352"><surname xml:id="idm139660972232224">Brahe</surname>, <forename xml:id="idm139660972231792">Tycho</forename></name>
+          </author>
+          <title xml:id="idm139660972231504">Tychonis Brahe Dani opera omnia</title>
+          <pubPlace xml:id="idm139660972231200">Hauniæ</pubPlace>
+          <date xml:id="idm139660972230688">1913-29</date>
+        </bibl>
+        <listBibl xml:id="idm139660972230400">
+          <bibl xml:id="biblid54247">
+            <title xml:id="idm139660972217248">D.O.M.S. [Gravskrift over dødfødt tvillingebror]</title>
+          </bibl>
+          <bibl xml:id="biblid54263">
+            <title xml:id="idm139660972216384">M. Andreæ Welleio Saxonis ... [Digt om Anders Sørensens Vedels Saxo-oversættelse]</title>
+          </bibl>
+          <bibl xml:id="biblid54268">
+            <title xml:id="idm139660972215440">Epitaphium quod in templo... [Gravskrift over datteren Kristine]</title>
+          </bibl>
+          <bibl xml:id="biblid54283">
+            <title xml:id="idm139660972214560">Fundamentali Uraniburgi lapidi hæc [Uranienborgs grundsten]</title>
+          </bibl>
+          <bibl xml:id="biblid54288">
+            <title xml:id="idm139660972213664">Typographiæ [Epigram]</title>
+          </bibl>
+          <bibl xml:id="biblid54294">
+            <title xml:id="idm139660972212848">Circa Effigiem Tychonis [Epigram]</title>
+          </bibl>
+          <bibl xml:id="biblid54299">
+            <title xml:id="idm139660972212048">Circa Arma Tychonis [Epigram]</title>
+          </bibl>
+          <bibl xml:id="biblid54314">
+            <title xml:id="idm139660972211248">Epitaphium [Gravskrift over Johannes Pratensis]</title>
+          </bibl>
+          <bibl xml:id="biblid54339">
+            <title xml:id="idm139660972210384">Doctissimo et hummanissimo viro ... [Gravskrift over Hans Frandsen]</title>
+          </bibl>
+          <bibl xml:id="biblid54355">
+            <title xml:id="idm139660972209504">Nobilitate ingenii ... [Digt til Jakob Ulfeldt]</title>
+          </bibl>
+          <bibl xml:id="biblid54371">
+            <title xml:id="idm139660972208640">Magnifico, amplissimo ... [Digt til Niels Kaas]</title>
+          </bibl>
+          <bibl xml:id="biblid54447">
+            <title xml:id="idm139660972207776">Nobilissimo et amplissimo viro [Digt til Henrik Rantzau]</title>
+          </bibl>
+          <bibl xml:id="biblid54483">
+            <title xml:id="idm139660972206896">Inscriptiones Croneburgenses [2 indskriptioner fra Kronborg]</title>
+          </bibl>
+          <bibl xml:id="biblid54509">
+            <title xml:id="idm139660972206064">4 epigrammer i anledningen af Frederik II's død</title>
+          </bibl>
+          <bibl xml:id="biblid54514">
+            <title xml:id="idm139660972205200">Iudicis est æqui ... [Epigram]</title>
+          </bibl>
+          <bibl xml:id="biblid54530">
+            <title xml:id="idm139660972204320">In Nic. Cragii ... [Epigram om Niels Krags Respublica L...]</title>
+          </bibl>
+          <bibl xml:id="biblid54535">
+            <title xml:id="idm139660972203440">Urania Titani</title>
+          </bibl>
+          <bibl xml:id="biblid54691">
+            <title xml:id="idm139660972202608">Tycho Brahe lusit hæc  cum Sophia... [2 epigrammer om Sophie Brahe og Erik Lange]</title>
+          </bibl>
+          <bibl xml:id="biblid54696">
+            <title xml:id="idm139660972201632">Ad Martinum Braschium [Epigram til Martinus Braschius]</title>
+          </bibl>
+          <bibl xml:id="biblid54702">
+            <title xml:id="idm139660972200816">Ad Daniam elegia</title>
+          </bibl>
+          <bibl xml:id="biblid54739">
+            <title xml:id="idm139660972200032">Sub pyramide tegumento.. [Et vers på en pyramide]</title>
+          </bibl>
+          <bibl xml:id="biblid54744">
+            <title xml:id="idm139660972199056">In librum ... [Dedikation af Astronomiæ I...] </title>
+          </bibl>
+          <bibl xml:id="biblid54760">
+            <title xml:id="idm139660972198080">Ante Stellas restitutas [Dedikation]</title>
+          </bibl>
+          <bibl xml:id="biblid54766">
+            <title xml:id="idm139660972197232">Per varios casus ... [Epigram]</title>
+          </bibl>
+          <bibl xml:id="biblid54771">
+            <title xml:id="idm139660972294144">Disce puer virtutem ... [Epigram i sønnen Tycho Brahes stambog]</title>
+          </bibl>
+          <bibl xml:id="biblid54787">
+            <title xml:id="idm139660972293312">Ad Daniam et Danos integros excusatio</title>
+          </bibl>
+          <bibl xml:id="biblid54792">
+            <title xml:id="idm139660972292624">Dania ad Tychonem Braheum suum alumnum</title>
+          </bibl>
+          <bibl xml:id="biblid54808">
+            <title xml:id="idm139660972291936">Ad Daniam [Epigram]</title>
+          </bibl>
+          <bibl xml:id="biblid54813">
+            <title xml:id="idm139660972291152">Supra januam observatorii ... [Inskription over døren til observatoriet i Benatky]</title>
+          </bibl>
+          <bibl xml:id="biblid54818">
+            <title xml:id="idm139660972290224">Supra januam novi laboratorii ... [Inskription over døren til det nye laboratorium i Benatky]</title>
+          </bibl>
+          <bibl xml:id="biblid54824">
+            <title xml:id="idm139660972171024">Latinsk oversættelse af et græsk epigram</title>
+          </bibl>
+          <bibl xml:id="biblid54839">
+            <title xml:id="idm139660972170176">Si quid agat ... [Fragment]</title>
+          </bibl>
+        </listBibl>
+      </sourceDesc>
     </fileDesc>
   </teiHeader>
   <text xml:id="idm139660972169536">

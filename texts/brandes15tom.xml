@@ -1,10 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!--Tom opmærkning jbh 27.09.01-->
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="idm140141206293584"><!-- 
-       file     ./marc_dir/001823972.xml
-       field     
-       subfield  
-       prefix   -->
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="root">
   <teiHeader xml:id="idm140141206292688">
     <fileDesc xml:id="idm140141206292432">
       <titleStmt xml:id="idm140141206292128">
@@ -19,8 +14,24 @@
         <note xml:id="idm140141206264144">
 	  </note>
       </notesStmt>
-      <sourceDesc xml:id="idm140141206263632"><bibl xml:id="idm140141206263504"><author n="1" xml:id="idm140141206262816"><name xml:id="idm140141206262560"><surname xml:id="idm140141206262432">Brandes</surname>, <forename xml:id="idm140141206262000">Georg</forename></name></author><title xml:id="idm140141206261712">Samlede Skrifter</title><pubPlace xml:id="idm140141206261424">København</pubPlace>
-<date xml:id="idm140141206260912">1899-1910</date></bibl><listBibl xml:id="idm140141206260624"><bibl xml:id="biblid53742"><title xml:id="idm140141206247424">Danmark</title></bibl><bibl xml:id="biblid57362"><title xml:id="idm140141206246640">Tanker</title></bibl></listBibl></sourceDesc>
+      <sourceDesc xml:id="idm140141206263632">
+        <bibl xml:id="idm140141206263504">
+          <author n="1" xml:id="idm140141206262816">
+            <name xml:id="idm140141206262560"><surname xml:id="idm140141206262432">Brandes</surname>, <forename xml:id="idm140141206262000">Georg</forename></name>
+          </author>
+          <title xml:id="idm140141206261712">Samlede Skrifter</title>
+          <pubPlace xml:id="idm140141206261424">København</pubPlace>
+          <date xml:id="idm140141206260912">1899-1910</date>
+        </bibl>
+        <listBibl xml:id="idm140141206260624">
+          <bibl xml:id="biblid53742">
+            <title xml:id="idm140141206247424">Danmark</title>
+          </bibl>
+          <bibl xml:id="biblid57362">
+            <title xml:id="idm140141206246640">Tanker</title>
+          </bibl>
+        </listBibl>
+      </sourceDesc>
     </fileDesc>
   </teiHeader>
   <text xml:id="idm140141206246000">

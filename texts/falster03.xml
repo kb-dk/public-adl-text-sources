@@ -1,11 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!--  OCR by ATAPY 11.09.2001 (Catherine Bychkova) -->
-<!-- VL: Greek letters replaced with [x] ;  emph replaced with spat ; dolgoeO replaced with d.v.s. -->
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="idm140486189718000"><!-- 
-       file     ./marc_dir/001942950.xml
-       field     
-       subfield  
-       prefix   -->
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="root">
   <teiHeader xml:id="idm140486189717456">
     <fileDesc xml:id="idm140486189717200">
       <titleStmt xml:id="idm140486189691904">
@@ -24,17 +18,20 @@
         <note xml:id="idm140486189687552">
 	  </note>
       </notesStmt>
-      <sourceDesc xml:id="idm140486189687040"><bibl xml:id="idm140486189686912"><author n="1" xml:id="idm140486189686224"><name xml:id="idm140486189685968"><surname xml:id="idm140486189685840">Falster</surname>, <forename xml:id="idm140486189685408">Christian</forename></name></author><title xml:id="idm140486189685120">Lærdoms Lystgaard eller Adskillige Discurser</title><pubPlace xml:id="idm140486189684752">København</pubPlace>; <pubPlace xml:id="idm140486189684288">Kristiania</pubPlace>
-<date xml:id="idm140486189683776">1919-20</date></bibl><listBibl xml:id="idm140486189683488"><bibl xml:id="biblid54271"><title xml:id="idm140486189670336">LÆRDOMS LYSTGAARD ELLER ADSKILLIGE DISCURSER TREDIE PART</title></bibl></listBibl></sourceDesc>
+      <sourceDesc xml:id="idm140486189687040">
+        <bibl xml:id="idm140486189686912"><author n="1" xml:id="idm140486189686224"><name xml:id="idm140486189685968"><surname xml:id="idm140486189685840">Falster</surname>, <forename xml:id="idm140486189685408">Christian</forename></name></author><title xml:id="idm140486189685120">Lærdoms Lystgaard eller Adskillige Discurser</title><pubPlace xml:id="idm140486189684752">København</pubPlace>; <pubPlace xml:id="idm140486189684288">Kristiania</pubPlace><date xml:id="idm140486189683776">1919-20</date></bibl>
+        <listBibl xml:id="idm140486189683488">
+          <bibl xml:id="biblid54271">
+            <title xml:id="idm140486189670336">LÆRDOMS LYSTGAARD ELLER ADSKILLIGE DISCURSER TREDIE PART</title>
+          </bibl>
+        </listBibl>
+      </sourceDesc>
     </fileDesc>
   </teiHeader>
   <text xml:id="idm140486189669568">
     <front xml:id="idm140486189669312">
       <pb n="I" facs="adl/falster/falster3/fals3fm001" xml:id="idm140486189669008"/>
       <gap reason="cancelled" xml:id="idm140486189668176"/>
-<!---->
-<!---->
-<!--CHRISTIAN FALSTERs LÆRDOMS LYSTGAARD-->
       <pb n="II" facs="adl/falster/falster3/fals3fm002" xml:id="idm140486189666672"/>
       <titlePage xml:id="idm140486189665904">
         <titlePart type="main" xml:id="idm140486189665648">MED UNDERSTØTTELSE<lb xml:id="idm140486189665024"/>AF CARLSBERGFONDET<lb xml:id="idm140486189664736"/>UDGIVET AF<lb xml:id="idm140486189664448"/>
@@ -310,7 +307,7 @@ VELTALENHED.</head>
 or hvis Skyld du efter mit Skønnende ikke har Grund ti! at røre en Finger?« »Jovist«, svarer han, »havde jeg ikke Brug for at kende det, saa vilde jeg ikke idag overløbe dig.«</p>
             <p xml:id="idm140486189191104">Imidlertid fremtager han af Lommen det Bibliotheque (jeg mener den tunge Pakke Acter), som hans Advocat havde sendt ham, og viser mig nogle latinske Steder, indflikkede paa de tyske Procuratorers pralende Maneer, samt beder mig venligt tjene ham i at fortolke dem. Men jeg vilde hellere have gjort alt andet for min Ven, om jeg havde kunnet undgaa denne Bestilling. Hvorfor? Jo, jeg kendte alt paa Forhaand den latinske Skrivemaade, som Advocaterne bruge; det var mig ej ubekendt, at de finde deres Fornøjelse i barbariske og forfalskede Ord, ret som kunde de aldrig skrive priseligere end efter <hi rend="italics" xml:id="idm140486189189632">Mørke-Mændenes</hi> Mønster<hi rend="sup" xml:id="idm140486189188896">a);</hi> og jeg frygtede forud, at den nærværende juridiske Stil vilde volde mig meget Hovedbrud. Min Frygt slog heller ikke fejl: alt var opfyldt med utydelige Omsvøb; der var næsten lige saa mange Fejl som der var Ord, og det de uhyrligste af alle Uhyrer, i hvilkes Fortolkning jeg blev stikkende lige som <hi rend="italics" xml:id="idm140486189187648">Øget i Grøften</hi> (som det med et bondeagtigt Sprog hedder hos <hi rend="italics" xml:id="idm140486189186896">Livium</hi>
 							<hi rend="sup" xml:id="idm140486189186208">b)</hi>), skamfuld, tvivlraadig, nødt til at tilstaa, at <hi rend="italics" xml:id="idm140486189185472">det ikke stod mig klartc</hi>
-							<hi rend="sup" xml:id="idm140486189184768">)</hi>. Af vor Taskenspiller-Advocats utallige Latterligheder lyster det mig at nævne en: <hi rend="italics" xml:id="idm140486189183952"><hi rend="spat" xml:id="idm140486189183552">Scotare</hi></hi>, hvilket dunkle Ord jeg i Begyndelsen i mit stille Sind tænkte paa at aflede af det græske Ord <hi rend="italics" xml:id="idm140486189182656">[x][x][x][x][x][x]<!-- &#931;&#1008;&#8057;&#964;&#959;&#962; --></hi>, Mørke, men siden
+							<hi rend="sup" xml:id="idm140486189184768">)</hi>. Af vor Taskenspiller-Advocats utallige Latterligheder lyster det mig at nævne en: <hi rend="italics" xml:id="idm140486189183952"><hi rend="spat" xml:id="idm140486189183552">Scotare</hi></hi>, hvilket dunkle Ord jeg i Begyndelsen i mit stille Sind tænkte paa at aflede af det græske Ord <hi rend="italics" xml:id="idm140486189182656">[x][x][x][x][x][x]</hi>, Mørke, men siden
 	<pb n="39" facs="adl/falster/falster3/fals3039" xml:id="idm140486189181648"/>
 hørte jeg af en vis Mand, at det var det samme som det danske: <hi rend="italics" xml:id="idm140486189180736">at skøde</hi>
 							<hi rend="sup" xml:id="idm140486189180048">d)</hi>.</p>
@@ -1545,7 +1542,7 @@ tid, rigsråd og lensmand på Malmøhus. - Birgitte Thott, den navnkundige lærd
                 <p xml:id="idm140486186964624">m) <hi rend="spat" xml:id="idm140486186964368">V. Constantin. Porphyrogenetus de Administrando Imperio Cap. XIII p. 27</hi>. - Konstantin VII Porphyrogennetos var kejser i Byzants 912- 59 og har efterladt en hel del skrifter, deriblandt det her anførte om kejserdømmets statsforvaltning.</p>
                 <p xml:id="idm140486186963152">n) I Falsters eget exemplar er her tilskrevet en ved bogens beskæring beskadiget henvisning: ...... <hi rend="spat" xml:id="idm140486186962672">Pancirolli ...... T. II, Tit. XI</hi>. - Om Pancirollius se 2. del, note j til XXX. discurs.</p>
                 <p xml:id="idm140486186961776">o) Lævinus Lemnius (1505-1568), hollandsk læge i Ziricksee (Zeeland), skrev bl. a. et værk med titel: Fire bøger om naturens skjulte vidundere.</p>
-                <p xml:id="idm140486186961088">p) <hi rend="spat" xml:id="idm140486186960832">Lib. I § 23 p. m. 15</hi>. - Om Diogenes Laërtios se 1. del, II. discurs, note d. - Thales fra Milet, den ældste græske filosof, en af Grækenlands »syv vise«, levede i første halvdel af 6. årh. f. Chr. - <hi rend="italics" xml:id="idm140486186959728">[x][x][x][x][x][x][x][x][x][x][x]<!-- &#7944;&#963;&#964;&#961;&#959;&#955;&#959;&#947;&#8055;&#945;&#956; --></hi>, er naturligvis trykfejl for <hi rend="italics" xml:id="idm140486186958688">Ἀστρολογίαν</hi>.</p>
+                <p xml:id="idm140486186961088">p) <hi rend="spat" xml:id="idm140486186960832">Lib. I § 23 p. m. 15</hi>. - Om Diogenes Laërtios se 1. del, II. discurs, note d. - Thales fra Milet, den ældste græske filosof, en af Grækenlands »syv vise«, levede i første halvdel af 6. årh. f. Chr. - <hi rend="italics" xml:id="idm140486186959728">[x][x][x][x][x][x][x][x][x][x][x]</hi>, er naturligvis trykfejl for <hi rend="italics" xml:id="idm140486186958688">Ἀστρολογίαν</hi>.</p>
                 <p xml:id="idm140486186957856">q) <hi rend="spat" xml:id="idm140486186957600">L. Cit. § 24</hi>. - Oldtiden kendte vel magnetsten, men ikke kompas; et sådant nævnes første gang i Evropa i slutningen af 12. årh. Derimod synes Kineserne at have kendt det længe før.</p>
               </div>
               <div xml:id="idm140486186956272">
@@ -1636,7 +1633,7 @@ var en stoisk filosof i 3. årh. f. Chr., elev af Zenon. Han lagde hovedvægten 
               </div>
               <div xml:id="idm140486186860608">
                 <head xml:id="idm140486186860352">VI. DISCURS.</head>
-                <p xml:id="idm140486186859936">a) <hi rend="spat" xml:id="idm140486186859680">1.Tim. VI, 15 &amp; Apocal. XVII, 14 &amp; XXI, 16</hi> - I Falsters eget exemplar er her tilføjet en firdelt figur med et B i hvert af de fire rum samt <hi rend="italics" xml:id="idm140486186858704">[x][x][x][x][x][x][x][x] [x][x][x][x][x][x][x][x] [x][x][x][x][x][x][x][x][x] [x][x][x][x][x][x][x][x][x]<!-- &#914;&#945;&#963;&#953;&#955;&#949;&#8059;&#962; &#946;&#945;&#963;&#953;&#955;&#8051;&#969;&#957; &#914;&#945;&#963;&#953;&#955;&#949;&#8059;&#969;&#957; &#914;&#945;&#963;&#953;&#955;&#949;&#8166;&#963;&#953; --></hi> (d.v.s. Kongernes konge med kongedømme over kongerne), <hi rend="spat" xml:id="idm140486186857344">se Henningii Muhamedanus Precans p. 512 sq</hi>. - Om dette skrift se 1. del, note g til XIII. discurs.</p>
+                <p xml:id="idm140486186859936">a) <hi rend="spat" xml:id="idm140486186859680">1.Tim. VI, 15 &amp; Apocal. XVII, 14 &amp; XXI, 16</hi> - I Falsters eget exemplar er her tilføjet en firdelt figur med et B i hvert af de fire rum samt <hi rend="italics" xml:id="idm140486186858704">[x][x][x][x][x][x][x][x] [x][x][x][x][x][x][x][x] [x][x][x][x][x][x][x][x][x] [x][x][x][x][x][x][x][x][x]</hi> (d.v.s. Kongernes konge med kongedømme over kongerne), <hi rend="spat" xml:id="idm140486186857344">se Henningii Muhamedanus Precans p. 512 sq</hi>. - Om dette skrift se 1. del, note g til XIII. discurs.</p>
                 <p xml:id="idm140486186856448">b. <hi rend="spat" xml:id="idm140486186856192">Gap. XII princ</hi>. (i begyndelsen) <hi rend="spat" xml:id="idm140486186855472">p. m. 240</hi>. - Om Dionysius Areopagita se V. discurs, note ab.</p>
                 <p xml:id="idm140486186854592">c) <hi rend="spat" xml:id="idm140486186854336">VII,12</hi>.</p>
                 <p xml:id="idm140486186853520">d) <hi rend="spat" xml:id="idm140486186853264">Ezech. XXVI, 7 &amp; Dan, II, 37</hi>. - I den latinske originaltext er <hi rend="spat" xml:id="idm140486186852512">quibus</hi> trykfejl for <hi rend="spat" xml:id="idm140486186851792">qui</hi>.</p>
@@ -1835,7 +1832,7 @@ z) <hi rend="spat" xml:id="idm140486186692192">V. Jul. Capitol. c. 23</hi>. - Go
                 <p xml:id="idm140486186640000">c) I Falsters eget exemplar er her tilskrevet i marginen: <hi rend="spat" xml:id="idm140486186639664">Aldus Manutius, ...... og andre. Sammenlign Morhof ..... 22 og hvad sammesteds .... til pag. 33, samt Huétii Commentar. de Rebus - p. 164</hi>. - Aldus Manutius er den navnkundige venetianske humanist og bogtrykker (1449- 1515). Om Morhof og hans Polyhistor se 2. del, note b til VI. discurs, og om den franske biskop Huét og hans selvbiografi, der her anføres, 1. del, IV. discurs, note r og IX. discurs, note r.</p>
                 <p xml:id="idm140486186638032">d) <hi rend="spat" xml:id="idm140486186637776">De Leg. Gent. Lib</hi>. (om at læse hedningernes bøger). <hi rend="spat" xml:id="idm140486186636992">Cap. XIX</hi>. - Om kirkefaderen Basilius den store (d. 379) se 1. del, II. discurs, note g. Hippokrates er den navnkundige græske læge (c. 460-377 f. Chr.). - Citatet anføres på Græsk og oversættes på Latin.</p>
                 <p xml:id="idm140486186635760">e) <hi rend="spat" xml:id="idm140486186635504">De Senect</hi>. (om alderdommen) <hi rend="spat" xml:id="idm140486186634784">Cap. XI</hi>.</p>
-                <p xml:id="idm140486186633968">f) Vid. [x][x][x][x][x][x][x] [x][x][x][x][x][x][x][x][x][x][x][x]<!-- &#8025;&#947;&#953;&#949;&#953;&#957;&#8048; --> <!-- <hi rend="italics">&#928;&#945;&#961;&#945;&#947;&#947;&#8051;&#955;&#956;&#945;&#964;&#945;</hi> --> (Sundheds-forskrifter). - Om Plutark se 1. del, note f til V. discurs.</p>
+                <p xml:id="idm140486186633968">f) Vid. [x][x][x][x][x][x][x] [x][x][x][x][x][x][x][x][x][x][x][x]  (Sundheds-forskrifter). - Om Plutark se 1. del, note f til V. discurs.</p>
                 <p xml:id="idm140486186632528">g) <hi rend="spat" xml:id="idm140486186632272">In Lib. de Tuenda Sanitate Studiosorum</hi> (I sin Bog om at tage Vare paa de Studerendes Helbred). - Den tyske læge Gregorius Horst (1578- 1636), professor i Wittenberg, Giessen m. m., senere Physicus primarius i Ulm, er bl. a, forfatter til den nævnte tractat: de tuenda sanitate litteratorum, libris II.</p>
                 <p xml:id="idm140486186631008">h) <hi rend="spat" xml:id="idm140486186630752">In Institut. Rei Schol</hi>. - Joh. Matth. Gesner (1691 - 1761) var klassisk filolog og skolemand, bl. a. konrektor i Weimar 1715-29, rektor i Leipzig 1730-34, og forbedrede undervisningen på mange punkter ved sine reformer.</p>
                 <p xml:id="idm140486186629520">i) <hi rend="spat" xml:id="idm140486186629264">Orig. VI, 7</hi> - Om den spanske biskop Isidor
@@ -1991,7 +1988,7 @@ stykker o. l.), som Plautus og Terents efterlignede på Latin. De attiske digter
                 <p xml:id="idm140486186471152">j) <hi rend="spat" xml:id="idm140486186470896">P. 362 sq</hi>. - Den i det følgende nævnte Ochus er den samme som den dygtige persiske konge Artaxerxes III (361-338 f. Chr.).</p>
                 <p xml:id="idm140486186469840">k) I Falsters eget exemplar er tilskrevet: <hi rend="spat" xml:id="idm140486186469520">Sammenlign Ælian. H. V. (Historia Varia) ..... p. m. 267</hi>. - Om Ælian se 1. del, II. discurs, note p.</p>
                 <p xml:id="idm140486186468496">l)<hi rend="spat" xml:id="idm140486186468240">Lib. VI, Cap. 3, p. m. 545</hi>. - Om Quintilian se 1. del, V. discurs, note l.</p>
-                <p xml:id="idm140486186467344">m) In V. <hi rend="italics" xml:id="idm140486186467056">[x][x][x][x]<!-- &#8012;&#957;&#959;&#962; --></hi> (ved ordet: Æsel) p. m. 667 sq. - Suidas var en byzantinsk ordbogsforfatter, se 1. del, note g til XLI. discurs.</p>
+                <p xml:id="idm140486186467344">m) In V. <hi rend="italics" xml:id="idm140486186467056">[x][x][x][x]</hi> (ved ordet: Æsel) p. m. 667 sq. - Suidas var en byzantinsk ordbogsforfatter, se 1. del, note g til XLI. discurs.</p>
                 <p xml:id="idm140486186465776">n) Lib. II, p. m. 121 (= II 47).</p>
                 <p xml:id="idm140486186465392">o) L. III, c. 4., p. 140. - Om Diodoros fra Sicilien se 1. del, note c til XLVI. discurs.</p>
                 <pb n="248" facs="adl/falster/falster3/fals3248" xml:id="idm140486186464896"/>
@@ -2007,13 +2004,13 @@ stykker o. l.), som Plautus og Terents efterlignede på Latin. De attiske digter
                 <p xml:id="idm140486186452112">z) Vid. Ælian. Hist. Var. Lib. IV, cap. 9. - Om Ælian og hans Historiæ variæ se 1. del, note p til II. discurs.</p>
                 <p xml:id="idm140486186451488">æ) <hi rend="spat" xml:id="idm140486186451200">Vid. Laërt in Vita Epicuri Lib. X, § 8, p. m. 607. - Conf. Sext. Empir. adv. Mathemat. sub. init. (i begyndelsen) p. m. 215 sq</hi>. - Om den skeptiske filosof Sextus Empiricus (en trykfejl i hans navn
 	<pb n="249" facs="adl/falster/falster3/fals3249" xml:id="idm140486186450176"/>
-er rettet) se 2. del, VII discurs, note e. - Flere af skældsordene er ordspilsagtige, hvad der i nogen grad er efterlignet i oversættelsen. - Blandt de nævnte personer er Protagoras den kendte sofist (Sokrates' samtidige); Antidoros er ikke kendt som filosof; måske skal der læses Antidotos, en ellers ikke videre kendt stoiker. Om Demokrit se 1. del, IX. discurs, note b. Platonikernes øgenavn sigter til Platons ophold hos tyrannen Dionysios i Syrakus. - I Falsters eget exemplar er her tilskrevet i marginen: <hi rend="spat" xml:id="idm140486186448624">Cyprianus kaldtes af adskillige Coprianus</hi> (af <hi rend="italics" xml:id="idm140486186447872">[x][x][x][x][x][x]<!-- &#922;&#8057;&#960;&#961;&#959;&#962; --></hi> Møg); <hi rend="spat" xml:id="idm140486186446928">se Lactantium. Saaledes kalder hos Saxonem Grep Erik en Møgdynge og et Skarn; sammenlign Wormii Epistler p. 18</hi>, - Om Lactants og Cyprian se 1. del, II. discurs, note f, og VII. discurs, note l, om Ole Worms brevveksling 2. del, XXXII. discurs, note f.</p>
+er rettet) se 2. del, VII discurs, note e. - Flere af skældsordene er ordspilsagtige, hvad der i nogen grad er efterlignet i oversættelsen. - Blandt de nævnte personer er Protagoras den kendte sofist (Sokrates' samtidige); Antidoros er ikke kendt som filosof; måske skal der læses Antidotos, en ellers ikke videre kendt stoiker. Om Demokrit se 1. del, IX. discurs, note b. Platonikernes øgenavn sigter til Platons ophold hos tyrannen Dionysios i Syrakus. - I Falsters eget exemplar er her tilskrevet i marginen: <hi rend="spat" xml:id="idm140486186448624">Cyprianus kaldtes af adskillige Coprianus</hi> (af <hi rend="italics" xml:id="idm140486186447872">[x][x][x][x][x][x]</hi> Møg); <hi rend="spat" xml:id="idm140486186446928">se Lactantium. Saaledes kalder hos Saxonem Grep Erik en Møgdynge og et Skarn; sammenlign Wormii Epistler p. 18</hi>, - Om Lactants og Cyprian se 1. del, II. discurs, note f, og VII. discurs, note l, om Ole Worms brevveksling 2. del, XXXII. discurs, note f.</p>
                 <p xml:id="idm140486186445744">ø) <hi rend="spat" xml:id="idm140486186445456">Vid. Lexica Latina</hi>.</p>
                 <p xml:id="idm140486186444640">aa) <hi rend="spat" xml:id="idm140486186444352">Vid. Catull. LXXXIV, 3</hi>. - Om den romerske digter Catullus se 1. del, note n til IV. discurs.</p>
                 <p xml:id="idm140486186443456">ab) <hi rend="spat" xml:id="idm140486186443168">Cic. in Pison. c. 9</hi>.</p>
                 <p xml:id="idm140486186442352">ac) <hi rend="spat" xml:id="idm140486186442064">Gell. IV, 20. Conf. Salmas. ad Histor. August. p. 484</hi>. - Den navnkundige franske filolog Claudius Salmasius (Claude de Salmaise) levede 1588 - 1653. - Det her anførte værk er en udgave (med noter) af de senere romerske kejserlevneder (Scriptores historiæ Augustæ), der udkom i Paris 1620.</p>
                 <p xml:id="idm140486186440720">ad) <hi rend="spat" xml:id="idm140486186440432">Gell. II, 21; XI, 16; &amp; Cat. apud Plinium Lib. XXIX, Cap. 1</hi>. - Om Plinius' Historia naturalis se 1. del, VIII. discurs, note j. Plinius citerer her Cato den ældre (d. 149 f. Chr.). Ordet, der her er oversat ved Molbo, er Opicus, d.v.s. en Osker; således hed den gamle befolkning i Syditalien.</p>
-                <p xml:id="idm140486186438992">ae) <hi rend="spat" xml:id="idm140486186438704">Vid. Horat. I Sat. 10. Conf. Menag. ad Laërt. Libr. IX, § 43, p. m. 409, de Græcis, qui pariter nequam homines [x][x][x][x][x][x][x]<!-- &#966;&#977;&#949;&#8150;&#961;&#945;&#962; -->, Cimices, dixere</hi> (om Grækerne, der ligeledes kaldte
+                <p xml:id="idm140486186438992">ae) <hi rend="spat" xml:id="idm140486186438704">Vid. Horat. I Sat. 10. Conf. Menag. ad Laërt. Libr. IX, § 43, p. m. 409, de Græcis, qui pariter nequam homines [x][x][x][x][x][x][x], Cimices, dixere</hi> (om Grækerne, der ligeledes kaldte
 	<pb n="250" facs="adl/falster/falster3/fals3250" xml:id="idm140486186437248"/>
 Skarns Mennesker Vægge lus). - Om Menagius se 1. del, note e til IX. discurs.</p>
                 <p xml:id="idm140486186436176">af) <hi rend="spat" xml:id="idm140486186435888">Vide Plautum non uno loco</hi>. - (Se hos Plautus på mere end ét sted).</p>
@@ -2065,7 +2062,7 @@ dissertation de Obscoenis Pontificiorum Decimis (om de Paveliges usømmelige Tie
                 <p xml:id="idm140486186382976">æ) <hi rend="spat" xml:id="idm140486186382688">Annal. 11,85, 1</hi>
 								</p>
                 <p xml:id="idm140486186381872">ø) <hi rend="spat" xml:id="idm140486186381584">Lib. VII, Cap. 5, ex. 7</hi>. - Om Valerius Maximus se 1. del, IV. discurs, note t.</p>
-                <p xml:id="idm140486186380704">aa) <hi rend="italics" xml:id="idm140486186380416">[x][x][x][x] [x][x][x][x][x][x][x][x][x]<!-- &#928;&#949;&#961;&#8054; &#928;&#959;&#955;&#953;&#964;&#949;&#8055;&#969;&#957; --></hi>
+                <p xml:id="idm140486186380704">aa) <hi rend="italics" xml:id="idm140486186380416">[x][x][x][x] [x][x][x][x][x][x][x][x][x]</hi>
 									<hi rend="spat" xml:id="idm140486186379376"> p. m. 983</hi>. - Se 1. del, XLIV. discurs, note m. Periandros var tyran i Korinth c. 600 f. Chr. Citatet anføres på Græsk og oversættes på Latin.</p>
               </div>
               <div xml:id="idm140486186378144">
@@ -2085,7 +2082,7 @@ dissertation de Obscoenis Pontificiorum Decimis (om de Paveliges usømmelige Tie
                 <p xml:id="idm140486186362960">i) <hi rend="spat" xml:id="idm140486186362704">V. Pausan. Lib. IX, p. m. 598</hi>. - Om Pavsanias se 1. del, note c til XI. discurs.</p>
                 <p xml:id="idm140486186361808">j) <hi rend="spat" xml:id="idm140486186361552">Strab. L. XVI, p. m. 1130</hi>. - Om geografen Strabon se 1. del, note t til XIV. discurs.</p>
                 <p xml:id="idm140486186360640">k) <hi rend="spat" xml:id="idm140486186360384">De Moribus Gent</hi>. (om Folkenes Sæder) <hi rend="spat" xml:id="idm140486186359632">p. m. 117</hi>. - Om Nikolaos fra Damaskes se 2. del, note g til XXXII. discurs. Pisiderne var et folk i det sydlige Lilleasien. - Citatet anføres på Græsk og oversættes på Latin. - I Falsters eget exemplar er her i marginen tilskrevet: <hi rend="spat" xml:id="idm140486186358464">Horkvinde skulde hos de gamle Germaner piskes igennem hele Landsbyen, se Taciti Germaniam XIX,2</hi>.</p>
-                <p xml:id="idm140486186357568">l) <hi rend="italics" xml:id="idm140486186357312">[x][x][x][x] [x][x][x][x][x]<!-- &#928;&#949;&#961;&#8054; &#928;&#959;&#955;&#953;&#964; --></hi>
+                <p xml:id="idm140486186357568">l) <hi rend="italics" xml:id="idm140486186357312">[x][x][x][x] [x][x][x][x][x]</hi>
 									<hi rend="spat" xml:id="idm140486186356320">. p. 991</hi>. - Om Herakieides se note f. - Lepreion var en by i det vestlige Peloponnes. - Citates anføres på Græsk og oversættes på Latin. - I Falsters eget exemplar er her tilskrevet en ved bogens beskæring noget ødelagt randnote: <hi rend="spat" xml:id="idm140486186355152">Stor. Turcica T. I c. 8(?) p. 106</hi>. - Jfr. ovenfor note d. - Der menes rimeligvis Samuel Storovius, der 1585 udgav Historia Chersonesi Turcicæ (den tyrkiske halvøs historie).</p>
                 <p xml:id="idm140486186354016">m) Man tænker uvilkårlig på Kasten Worm, jfr. 1. del, II. discurs, note a og 2. del, XXXII. discurs, note a.</p>
                 <p xml:id="idm140486186353392">n) <hi rend="spat" xml:id="idm140486186353136">Noct. Attic. XX, 1</hi>.</p>
@@ -2342,7 +2339,7 @@ Janviers latinske oversættelse af David Kimchis udlægning af Davids salmer udk
 	<pb n="277" facs="adl/falster/falster3/fals3277" xml:id="idm140486186073072"/>
 Laërtios se 1. del, note d til II. discurs. Citatet anføres på Græsk og oversættes på Latin.</p>
                 <p xml:id="idm140486186071968">k) <hi rend="spat" xml:id="idm140486186071712">Loc. cit. § 104</hi>. - Citatet anføres på Græsk og oversættes på Latin.</p>
-                <p xml:id="idm140486186070752">l)<hi rend="spat" xml:id="idm140486186070496">Ibid. § 105. Conf. Suid. in v</hi>. <hi rend="italics" xml:id="idm140486186069760">[x][x][x][x][x][x][x][x]<!-- &#922;&#965;&#957;&#953;&#963;&#956;&#8057;&#962; --></hi> (ved ordet: kynisme) <hi rend="spat" xml:id="idm140486186068768">p. m. 517</hi>. - Om Suidas' lexikon se 1. del, XLI. discurs, note g.</p>
+                <p xml:id="idm140486186070752">l)<hi rend="spat" xml:id="idm140486186070496">Ibid. § 105. Conf. Suid. in v</hi>. <hi rend="italics" xml:id="idm140486186069760">[x][x][x][x][x][x][x][x]</hi> (ved ordet: kynisme) <hi rend="spat" xml:id="idm140486186068768">p. m. 517</hi>. - Om Suidas' lexikon se 1. del, XLI. discurs, note g.</p>
                 <p xml:id="idm140486186067952">m) Lib. III cap. 29, p. 113. - Om Athenaios se 1. del, XV. discurs, note k. - Citatet anføres på Græsk og oversættes på Latin. - Evbulos tilhørte den såkaldte mellemste attiske komedie og virkede c, 360 f. Chr.</p>
                 <p xml:id="idm140486186067120">n) <hi rend="spat" xml:id="idm140486186066864">Lib. cit. § 99</hi>. - Den kyniske filosof Menippos fra Gadara levede i Theben i 2. årh. f. Chr.; han var discipel af Diogenes. - Citatet anføres på Græsk og oversætttes på Latin. Om Diogenes Laërtios se 1. del, II. discurs, note d.</p>
                 <p xml:id="idm140486186065568">o) Bodmeri er lån mod pant i et skib og dets ladning; på grund af risikoen var renten her meget høj.</p>
@@ -2363,7 +2360,7 @@ Laërtios se 1. del, note d til II. discurs. Citatet anføres på Græsk og over
                 <p xml:id="idm140486186053040">a) Epist. CVI.</p>
                 <p xml:id="idm140486186052624">b) Juvenal. Sat. XIV, v. 195. - Briganterne var et folk i det nordlige Britannien. Om Juvenal se 1. del, II. discurs, note o.</p>
                 <p xml:id="idm140486186052096">c) <hi rend="spat" xml:id="idm140486186051840">In Dialogo</hi>
-									<hi rend="italics" xml:id="idm140486186051152">[x][x][x][x][x][x][x] [x][x][x] <!-- &#935;&#8049;&#961;&#969;&#957;&#959;&#962; &#1008;&#945;&#8055; --></hi> [x][x][x][x][x]<!-- &#7961;&#961;&#956;&#959;&#8166; --> <hi rend="spat" xml:id="idm140486186049776">etc</hi>. (1 Charons og Hermes' samtale etc.) p, m. 142. - Om Lukian se note i til XIV. discurs ovenfor.</p>
+									<hi rend="italics" xml:id="idm140486186051152">[x][x][x][x][x][x][x] [x][x][x] </hi> [x][x][x][x][x] <hi rend="spat" xml:id="idm140486186049776">etc</hi>. (1 Charons og Hermes' samtale etc.) p, m. 142. - Om Lukian se note i til XIV. discurs ovenfor.</p>
                 <p xml:id="idm140486186048880">d) <hi rend="spat" xml:id="idm140486186048624">In Orat. IV ad Philosophiam pag. 65 sq</hi>. - Jacopo Facciolati (1682-1769) var en anset italiensk filolog, der virkede i Padova. - Om Cartesius se 1. del, L discurs, note j.</p>
                 <p xml:id="idm140486186047648">e) <hi rend="spat" xml:id="idm140486186047392">Vid. Lomejer. de Biblioth. cap. IX pag. 187</hi>. - Se om dette skrift <hi rend="italics" xml:id="idm140486186046640">2</hi>. del, XI. discurs, note o.</p>
                 <p xml:id="idm140486186045808">f) Vid. Gell. VII, 3. - Om Gellius se 1. del, I. discurs, note g.</p>

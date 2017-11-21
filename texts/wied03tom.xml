@@ -1,10 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!--Tom opmærkning d.9.8.2001 gb, rettet af jbh 21.9.2001 -->
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="idm140625580580240"><!-- 
-       file     ./marc_dir/001680948.xml
-       field    530 
-       subfield a 
-       prefix   3. -->
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="root">
   <teiHeader xml:id="idm140625580579392">
     <fileDesc xml:id="idm140625580579136">
       <titleStmt xml:id="idm140625580578832">
@@ -24,8 +19,85 @@
         <note xml:id="idm140625580549120">
 	  </note>
       </notesStmt>
-      <sourceDesc xml:id="idm140625580548608"><bibl xml:id="idm140625580548480"><author n="1" xml:id="idm140625580547792"><name xml:id="idm140625580547536"><surname xml:id="idm140625580547408">Wied</surname>, <forename xml:id="idm140625580546944">Gustav</forename></name></author><title xml:id="idm140625580546656">Barnlige Sjæle. To Kroner og halvtreds. Erotik. En Bryllupsnat. 1967</title><pubPlace xml:id="idm140625580546240">København</pubPlace>
-<publisher xml:id="idm140625580545808">Rosenkilde og Bagger</publisher><date xml:id="idm140625580545472">1966-</date></bibl><listBibl xml:id="idm140625580545184"><bibl xml:id="biblid54148"><title xml:id="idm140625580532032">Barnlige Sjæle</title></bibl><bibl xml:id="biblid54404"><title xml:id="idm140625580531232">Mester Bømler</title></bibl><bibl xml:id="biblid54473"><title xml:id="idm140625580530432">De unge og de gamle</title></bibl><bibl xml:id="biblid54523"><title xml:id="idm140625580529648">En farende svend</title></bibl><bibl xml:id="biblid54548"><title xml:id="idm140625580528864">Fra Kierkegaarden</title></bibl><bibl xml:id="biblid54611"><title xml:id="idm140625580528032">En Forestilling</title></bibl><bibl xml:id="biblid54674"><title xml:id="idm140625580527200">Lavs Madsen</title></bibl><bibl xml:id="biblid54724"><title xml:id="idm140625580526368">Fluen</title></bibl><bibl xml:id="biblid54768"><title xml:id="idm140625580525536">En Runde</title></bibl><bibl xml:id="biblid54824"><title xml:id="idm140625580524704">Syg</title></bibl><bibl xml:id="biblid54849"><title xml:id="idm140625580523856">Madam Bertelsen</title></bibl><bibl xml:id="biblid54880"><title xml:id="idm140625580523072">I Middagsstunden</title></bibl><bibl xml:id="biblid54942"><title xml:id="idm140625580522288">En Brevveksling</title></bibl><bibl xml:id="biblid55005"><title xml:id="idm140625580521504">Paa Marken</title></bibl><bibl xml:id="biblid55055"><title xml:id="idm140625580520720">En cand.jur.</title></bibl><bibl xml:id="biblid55125"><title xml:id="idm140625580519936">Hos Jessens</title></bibl><bibl xml:id="biblid55318"><title xml:id="idm140625580519104">Marked</title></bibl><bibl xml:id="biblid55376"><title xml:id="idm140625580518272">Ungdom og Uskyld</title></bibl><bibl xml:id="biblid55472"><title xml:id="idm140625580517440">Afslutning</title></bibl><bibl xml:id="biblid55641"><title xml:id="idm140625580516608">To Kroner og Halvtreds</title></bibl><bibl xml:id="biblid55705"><title xml:id="idm140625580515712">Erotik</title></bibl><bibl xml:id="biblid56245"><title xml:id="idm140625580514880">En Bryllupsnat</title></bibl></listBibl></sourceDesc>
+      <sourceDesc xml:id="idm140625580548608">
+        <bibl xml:id="idm140625580548480">
+          <author n="1" xml:id="idm140625580547792">
+            <name xml:id="idm140625580547536"><surname xml:id="idm140625580547408">Wied</surname>, <forename xml:id="idm140625580546944">Gustav</forename></name>
+          </author>
+          <title xml:id="idm140625580546656">Barnlige Sjæle. To Kroner og halvtreds. Erotik. En Bryllupsnat. 1967</title>
+          <pubPlace xml:id="idm140625580546240">København</pubPlace>
+          <publisher xml:id="idm140625580545808">Rosenkilde og Bagger</publisher>
+          <date xml:id="idm140625580545472">1966-</date>
+        </bibl>
+        <listBibl xml:id="idm140625580545184">
+          <bibl xml:id="biblid54148">
+            <title xml:id="idm140625580532032">Barnlige Sjæle</title>
+          </bibl>
+          <bibl xml:id="biblid54404">
+            <title xml:id="idm140625580531232">Mester Bømler</title>
+          </bibl>
+          <bibl xml:id="biblid54473">
+            <title xml:id="idm140625580530432">De unge og de gamle</title>
+          </bibl>
+          <bibl xml:id="biblid54523">
+            <title xml:id="idm140625580529648">En farende svend</title>
+          </bibl>
+          <bibl xml:id="biblid54548">
+            <title xml:id="idm140625580528864">Fra Kierkegaarden</title>
+          </bibl>
+          <bibl xml:id="biblid54611">
+            <title xml:id="idm140625580528032">En Forestilling</title>
+          </bibl>
+          <bibl xml:id="biblid54674">
+            <title xml:id="idm140625580527200">Lavs Madsen</title>
+          </bibl>
+          <bibl xml:id="biblid54724">
+            <title xml:id="idm140625580526368">Fluen</title>
+          </bibl>
+          <bibl xml:id="biblid54768">
+            <title xml:id="idm140625580525536">En Runde</title>
+          </bibl>
+          <bibl xml:id="biblid54824">
+            <title xml:id="idm140625580524704">Syg</title>
+          </bibl>
+          <bibl xml:id="biblid54849">
+            <title xml:id="idm140625580523856">Madam Bertelsen</title>
+          </bibl>
+          <bibl xml:id="biblid54880">
+            <title xml:id="idm140625580523072">I Middagsstunden</title>
+          </bibl>
+          <bibl xml:id="biblid54942">
+            <title xml:id="idm140625580522288">En Brevveksling</title>
+          </bibl>
+          <bibl xml:id="biblid55005">
+            <title xml:id="idm140625580521504">Paa Marken</title>
+          </bibl>
+          <bibl xml:id="biblid55055">
+            <title xml:id="idm140625580520720">En cand.jur.</title>
+          </bibl>
+          <bibl xml:id="biblid55125">
+            <title xml:id="idm140625580519936">Hos Jessens</title>
+          </bibl>
+          <bibl xml:id="biblid55318">
+            <title xml:id="idm140625580519104">Marked</title>
+          </bibl>
+          <bibl xml:id="biblid55376">
+            <title xml:id="idm140625580518272">Ungdom og Uskyld</title>
+          </bibl>
+          <bibl xml:id="biblid55472">
+            <title xml:id="idm140625580517440">Afslutning</title>
+          </bibl>
+          <bibl xml:id="biblid55641">
+            <title xml:id="idm140625580516608">To Kroner og Halvtreds</title>
+          </bibl>
+          <bibl xml:id="biblid55705">
+            <title xml:id="idm140625580515712">Erotik</title>
+          </bibl>
+          <bibl xml:id="biblid56245">
+            <title xml:id="idm140625580514880">En Bryllupsnat</title>
+          </bibl>
+        </listBibl>
+      </sourceDesc>
     </fileDesc>
   </teiHeader>
   <text xml:id="idm140625580514240">

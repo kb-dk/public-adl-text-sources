@@ -1,10 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!--  Ptj rettet s. 128-203-                         -->
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="idm140296367225568"><!-- 
-       file     ./marc_dir/001458865.xml
-       field     
-       subfield  
-       prefix   -->
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="root">
   <teiHeader xml:id="idm140296367229328">
     <fileDesc xml:id="idm140296367229072">
       <titleStmt xml:id="idm140296367228768">
@@ -24,17 +19,65 @@
         <note xml:id="idm140296367199008">
 	  </note>
       </notesStmt>
-      <sourceDesc xml:id="idm140296367198496"><bibl xml:id="idm140296367198368"><title xml:id="idm140296367198240">Fjorten eventyr og fortællinger</title><pubPlace xml:id="idm140296367197904">[København]</pubPlace>
-<publisher xml:id="idm140296367197440">Det Danske Sprog- og Litteraturselskab</publisher><publisher xml:id="idm140296367197136">Borgen</publisher><date xml:id="idm140296367196800">1989</date></bibl><listBibl xml:id="idm140296367196512"><bibl xml:id="biblid54262"><title xml:id="idm140296367182960">Det høie Spil</title></bibl><bibl xml:id="biblid54564"><title xml:id="idm140296367182160">Sphinxen</title></bibl><bibl xml:id="biblid58868"><title xml:id="idm140296367181376">Moster Maria</title></bibl><bibl xml:id="biblid60391"><title xml:id="idm140296367180544">Det forbandede Huus</title></bibl><bibl xml:id="biblid61382"><title xml:id="idm140296367179760">Varulven</title></bibl><bibl xml:id="biblid62237"><title xml:id="idm140296367178928">Glasskabet</title></bibl><bibl xml:id="biblid62379"><title xml:id="idm140296367178144">Selv-Citationen</title></bibl><bibl xml:id="biblid62627"><title xml:id="idm140296367177360">Niels Dragon</title></bibl><bibl xml:id="biblid62744"><title xml:id="idm140296367176528">De fortryllede Fingre</title></bibl><bibl xml:id="biblid64025"><title xml:id="idm140296367175744">Araberen i Constantinopel</title></bibl><bibl xml:id="biblid64297"><title xml:id="idm140296367174944">Skolekammeraterne</title></bibl><bibl xml:id="biblid66148"><title xml:id="idm140296367174160">Den Fremmede</title></bibl><bibl xml:id="biblid66957"><title xml:id="idm140296367173376">Pulcinellen</title></bibl><bibl xml:id="biblid67711"><title xml:id="idm140296367172592">De tvende Draaber</title></bibl></listBibl></sourceDesc>
+      <sourceDesc xml:id="idm140296367198496">
+        <bibl xml:id="idm140296367198368">
+          <title xml:id="idm140296367198240">Fjorten eventyr og fortællinger</title>
+          <pubPlace xml:id="idm140296367197904">[København]</pubPlace>
+          <publisher xml:id="idm140296367197440">Det Danske Sprog- og Litteraturselskab</publisher>
+          <publisher xml:id="idm140296367197136">Borgen</publisher>
+          <date xml:id="idm140296367196800">1989</date>
+        </bibl>
+        <listBibl xml:id="idm140296367196512">
+          <bibl xml:id="biblid54262">
+            <title xml:id="idm140296367182960">Det høie Spil</title>
+          </bibl>
+          <bibl xml:id="biblid54564">
+            <title xml:id="idm140296367182160">Sphinxen</title>
+          </bibl>
+          <bibl xml:id="biblid58868">
+            <title xml:id="idm140296367181376">Moster Maria</title>
+          </bibl>
+          <bibl xml:id="biblid60391">
+            <title xml:id="idm140296367180544">Det forbandede Huus</title>
+          </bibl>
+          <bibl xml:id="biblid61382">
+            <title xml:id="idm140296367179760">Varulven</title>
+          </bibl>
+          <bibl xml:id="biblid62237">
+            <title xml:id="idm140296367178928">Glasskabet</title>
+          </bibl>
+          <bibl xml:id="biblid62379">
+            <title xml:id="idm140296367178144">Selv-Citationen</title>
+          </bibl>
+          <bibl xml:id="biblid62627">
+            <title xml:id="idm140296367177360">Niels Dragon</title>
+          </bibl>
+          <bibl xml:id="biblid62744">
+            <title xml:id="idm140296367176528">De fortryllede Fingre</title>
+          </bibl>
+          <bibl xml:id="biblid64025">
+            <title xml:id="idm140296367175744">Araberen i Constantinopel</title>
+          </bibl>
+          <bibl xml:id="biblid64297">
+            <title xml:id="idm140296367174944">Skolekammeraterne</title>
+          </bibl>
+          <bibl xml:id="biblid66148">
+            <title xml:id="idm140296367174160">Den Fremmede</title>
+          </bibl>
+          <bibl xml:id="biblid66957">
+            <title xml:id="idm140296367173376">Pulcinellen</title>
+          </bibl>
+          <bibl xml:id="biblid67711">
+            <title xml:id="idm140296367172592">De tvende Draaber</title>
+          </bibl>
+        </listBibl>
+      </sourceDesc>
     </fileDesc>
   </teiHeader>
   <text xml:id="idm140296367171952">
     <front xml:id="idm140296367171696">
       <pb n="I" facs="adl/ingemann/ingemann1/inge1001" xml:id="idm140296367171344"/>
       <gap reason="cancelled" xml:id="idm140296367170528"/>
-<!---->
-<!---->
-<!--Fjorten Eventyr og Fortællinger-->
       <pb n="II" facs="adl/ingemann/ingemann1/inge1002" xml:id="idm140296367169008"/>
       <pb n="III" facs="adl/ingemann/ingemann1/inge1003" xml:id="idm140296367168240"/>
       <titlePage xml:id="idm140296367167472">

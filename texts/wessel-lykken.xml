@@ -1,9 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="idm139685817662448"><!-- 
-       file     ./marc_dir/002160401.xml
-       field     
-       subfield  
-       prefix   -->
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="root">
   <teiHeader xml:id="idm139685817661792">
     <fileDesc xml:id="idm139685817661536">
       <titleStmt xml:id="idm139685817661232">
@@ -22,14 +18,23 @@
         <note xml:id="idm139685817632176">
 	  </note>
       </notesStmt>
-      <sourceDesc xml:id="idm139685817631664"><bibl xml:id="idm139685817631536"><author n="1" xml:id="idm139685817630848"><name xml:id="idm139685817630592"><surname xml:id="idm139685817630464">Wessel</surname>, <forename xml:id="idm139685817630032">Johan Herman</forename></name></author><title xml:id="idm139685817629744">Lykken bedre end Forstanden. Et Lystspil i 5 Optog</title><pubPlace xml:id="idm139685817629424">[S.l.]</pubPlace>
-<date xml:id="idm139685817628912">[s.a.]</date></bibl><listBibl xml:id="idm139685817628624"><bibl xml:id="biblid54107"><title xml:id="idm139685817615472">Lykken bedre end Forstanden</title></bibl></listBibl></sourceDesc>
+      <sourceDesc xml:id="idm139685817631664">
+        <bibl xml:id="idm139685817631536">
+          <author n="1" xml:id="idm139685817630848">
+            <name xml:id="idm139685817630592"><surname xml:id="idm139685817630464">Wessel</surname>, <forename xml:id="idm139685817630032">Johan Herman</forename></name>
+          </author>
+          <title xml:id="idm139685817629744">Lykken bedre end Forstanden. Et Lystspil i 5 Optog</title>
+          <pubPlace xml:id="idm139685817629424">[S.l.]</pubPlace>
+          <date xml:id="idm139685817628912">[s.a.]</date>
+        </bibl>
+        <listBibl xml:id="idm139685817628624">
+          <bibl xml:id="biblid54107">
+            <title xml:id="idm139685817615472">Lykken bedre end Forstanden</title>
+          </bibl>
+        </listBibl>
+      </sourceDesc>
     </fileDesc>
   </teiHeader>
-<!-- opmærkning 4.9.2001 VL -->
-<!-- Henrik Andersson har brugt 1. udg. 1776; sidetallene kommer derfra -->
-<!--  imagefiles til denne tekst er i fraktur, -->
-
   <text xml:id="workid54107" decls="#biblid54107">
     <front xml:id="idm139685817612736">
       <pb n="1" facs="adl/wessel/wessel2/Tif/wess2001" xml:id="idm139685817612432"/>

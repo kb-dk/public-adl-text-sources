@@ -1,10 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!--Tom opmærkning blo 25.06.02-->
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="idm140469644037232"><!-- 
-       file     ./marc_dir/002729949.xml
-       field     
-       subfield  
-       prefix   -->
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="root">
   <teiHeader xml:id="idm140469644036368">
     <fileDesc xml:id="idm140469644036112">
       <titleStmt xml:id="idm140469644035808">
@@ -19,8 +14,24 @@
         <note xml:id="idm140469644007856">
 	  </note>
       </notesStmt>
-      <sourceDesc xml:id="idm140469644007344"><bibl xml:id="idm140469644007216"><author n="1" xml:id="idm140469644006528"><name xml:id="idm140469644006272"><surname xml:id="idm140469644006144">Gyllembourg-Ehrensvärd</surname>, <forename xml:id="idm140469644005648">T. C.</forename></name></author><title xml:id="idm140469644005360">samlede skrifter af Forf</title><pubPlace xml:id="idm140469644005056">København</pubPlace>
-<date xml:id="idm140469644004544">1866-67</date></bibl><listBibl xml:id="idm140469644004256"><bibl xml:id="biblid54254"><title xml:id="idm140469643991104">Montanus den Yngre (1837)</title></bibl><bibl xml:id="biblid56165"><title xml:id="idm140469643990304">Nisida (1837)</title></bibl></listBibl></sourceDesc>
+      <sourceDesc xml:id="idm140469644007344">
+        <bibl xml:id="idm140469644007216">
+          <author n="1" xml:id="idm140469644006528">
+            <name xml:id="idm140469644006272"><surname xml:id="idm140469644006144">Gyllembourg-Ehrensvärd</surname>, <forename xml:id="idm140469644005648">T. C.</forename></name>
+          </author>
+          <title xml:id="idm140469644005360">samlede skrifter af Forf</title>
+          <pubPlace xml:id="idm140469644005056">København</pubPlace>
+          <date xml:id="idm140469644004544">1866-67</date>
+        </bibl>
+        <listBibl xml:id="idm140469644004256">
+          <bibl xml:id="biblid54254">
+            <title xml:id="idm140469643991104">Montanus den Yngre (1837)</title>
+          </bibl>
+          <bibl xml:id="biblid56165">
+            <title xml:id="idm140469643990304">Nisida (1837)</title>
+          </bibl>
+        </listBibl>
+      </sourceDesc>
     </fileDesc>
   </teiHeader>
   <text xml:id="idm140469643989664">

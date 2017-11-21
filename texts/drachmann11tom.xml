@@ -1,10 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!--Tom opmærkning blo 02.05.02-->
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="idm139885185199120"><!-- 
-       file     ./marc_dir/001823907.xml
-       field     
-       subfield  
-       prefix   -->
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="root">
   <teiHeader xml:id="idm139885185198224">
     <fileDesc xml:id="idm139885185197968">
       <titleStmt xml:id="idm139885185243632">
@@ -19,8 +14,63 @@
         <note xml:id="idm139885185169696">
 	  </note>
       </notesStmt>
-      <sourceDesc xml:id="idm139885185169184"><bibl xml:id="idm139885185169056"><author n="1" xml:id="idm139885185168368"><name xml:id="idm139885185168112"><surname xml:id="idm139885185167984">Drachmann</surname>, <forename xml:id="idm139885185167520">Holger</forename></name></author><title xml:id="idm139885185167232">Samlede poetiske Skrifter</title><pubPlace xml:id="idm139885185166928">Kbh. &amp; Kristiania</pubPlace>
-<date xml:id="idm139885185166304">1906-1909</date></bibl><listBibl xml:id="idm139885185166048"><bibl xml:id="biblid54134"><title xml:id="idm139885185152896">Vølund Smed</title></bibl><bibl xml:id="biblid55079"><title xml:id="idm139885185152096">Renæssance</title></bibl><bibl xml:id="biblid55437"><title xml:id="idm139885185151312">Kitzwalde</title></bibl><bibl xml:id="biblid55998"><title xml:id="idm139885185150528">Melodramaer</title></bibl><bibl xml:id="biblid56016"><title xml:id="idm139885185149744">Præludium</title></bibl><bibl xml:id="biblid56035"><title xml:id="idm139885185148960">Middelalderlig</title></bibl><bibl xml:id="biblid56125"><title xml:id="idm139885185148128">Snefrid</title></bibl><bibl xml:id="biblid56269"><title xml:id="idm139885185147344">Amor Triumfans</title></bibl><bibl xml:id="biblid56398"><title xml:id="idm139885185146560">Dansen paa Koldinghus</title></bibl><bibl xml:id="biblid56567"><title xml:id="idm139885185145776">Til Hyrdefløjtens Toner</title></bibl><bibl xml:id="biblid56746"><title xml:id="idm139885185144912">Brav-Karl</title></bibl><bibl xml:id="biblid57186"><title xml:id="idm139885185144128">Kors og Kaarde</title></bibl><bibl xml:id="biblid57204"><title xml:id="idm139885185143296">Mod Høst</title></bibl><bibl xml:id="biblid57222"><title xml:id="idm139885185142464">Mellem Trosfæller</title></bibl><bibl xml:id="biblid57426"><title xml:id="idm139885185141616">Naar Klostermuren brydes</title></bibl></listBibl></sourceDesc>
+      <sourceDesc xml:id="idm139885185169184">
+        <bibl xml:id="idm139885185169056">
+          <author n="1" xml:id="idm139885185168368">
+            <name xml:id="idm139885185168112"><surname xml:id="idm139885185167984">Drachmann</surname>, <forename xml:id="idm139885185167520">Holger</forename></name>
+          </author>
+          <title xml:id="idm139885185167232">Samlede poetiske Skrifter</title>
+          <pubPlace xml:id="idm139885185166928">Kbh. &amp; Kristiania</pubPlace>
+          <date xml:id="idm139885185166304">1906-1909</date>
+        </bibl>
+        <listBibl xml:id="idm139885185166048">
+          <bibl xml:id="biblid54134">
+            <title xml:id="idm139885185152896">Vølund Smed</title>
+          </bibl>
+          <bibl xml:id="biblid55079">
+            <title xml:id="idm139885185152096">Renæssance</title>
+          </bibl>
+          <bibl xml:id="biblid55437">
+            <title xml:id="idm139885185151312">Kitzwalde</title>
+          </bibl>
+          <bibl xml:id="biblid55998">
+            <title xml:id="idm139885185150528">Melodramaer</title>
+          </bibl>
+          <bibl xml:id="biblid56016">
+            <title xml:id="idm139885185149744">Præludium</title>
+          </bibl>
+          <bibl xml:id="biblid56035">
+            <title xml:id="idm139885185148960">Middelalderlig</title>
+          </bibl>
+          <bibl xml:id="biblid56125">
+            <title xml:id="idm139885185148128">Snefrid</title>
+          </bibl>
+          <bibl xml:id="biblid56269">
+            <title xml:id="idm139885185147344">Amor Triumfans</title>
+          </bibl>
+          <bibl xml:id="biblid56398">
+            <title xml:id="idm139885185146560">Dansen paa Koldinghus</title>
+          </bibl>
+          <bibl xml:id="biblid56567">
+            <title xml:id="idm139885185145776">Til Hyrdefløjtens Toner</title>
+          </bibl>
+          <bibl xml:id="biblid56746">
+            <title xml:id="idm139885185144912">Brav-Karl</title>
+          </bibl>
+          <bibl xml:id="biblid57186">
+            <title xml:id="idm139885185144128">Kors og Kaarde</title>
+          </bibl>
+          <bibl xml:id="biblid57204">
+            <title xml:id="idm139885185143296">Mod Høst</title>
+          </bibl>
+          <bibl xml:id="biblid57222">
+            <title xml:id="idm139885185142464">Mellem Trosfæller</title>
+          </bibl>
+          <bibl xml:id="biblid57426">
+            <title xml:id="idm139885185141616">Naar Klostermuren brydes</title>
+          </bibl>
+        </listBibl>
+      </sourceDesc>
     </fileDesc>
   </teiHeader>
   <text xml:id="idm139885185140880">

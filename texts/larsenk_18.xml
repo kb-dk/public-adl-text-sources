@@ -1,9 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="idm139929086049616"><!-- 
-       file     ./marc_dir/003455836.xml
-       field     
-       subfield  
-       prefix   -->
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="root">
   <teiHeader xml:id="idm139929086048960">
     <fileDesc xml:id="idm139929086048704">
       <titleStmt xml:id="idm139929086048400">
@@ -18,8 +14,14 @@
         <note xml:id="idm139929086020352">
 	  </note>
       </notesStmt>
-      <sourceDesc xml:id="idm139929086019840"><bibl xml:id="idm139929086019712"><author n="1" xml:id="idm139929086019024"><name xml:id="idm139929086018768"><surname xml:id="idm139929086018640">Larsen</surname>, <forename xml:id="idm139929086018208">Karl</forename></name></author><title xml:id="idm139929086017920">Militarismens Fallit</title><pubPlace xml:id="idm139929086017632">København</pubPlace>; <pubPlace xml:id="idm139929086017168">Kristiania</pubPlace>
-<publisher xml:id="idm139929086016704">Nyt Nordisk Forlag</publisher><date xml:id="idm139929086016368">1919</date></bibl><listBibl xml:id="idm139929086016080"><bibl xml:id="biblid54087"><title xml:id="idm139929086002928">Militarismens Fallit</title></bibl></listBibl></sourceDesc>
+      <sourceDesc xml:id="idm139929086019840">
+        <bibl xml:id="idm139929086019712"><author n="1" xml:id="idm139929086019024"><name xml:id="idm139929086018768"><surname xml:id="idm139929086018640">Larsen</surname>, <forename xml:id="idm139929086018208">Karl</forename></name></author><title xml:id="idm139929086017920">Militarismens Fallit</title><pubPlace xml:id="idm139929086017632">København</pubPlace>; <pubPlace xml:id="idm139929086017168">Kristiania</pubPlace><publisher xml:id="idm139929086016704">Nyt Nordisk Forlag</publisher><date xml:id="idm139929086016368">1919</date></bibl>
+        <listBibl xml:id="idm139929086016080">
+          <bibl xml:id="biblid54087">
+            <title xml:id="idm139929086002928">Militarismens Fallit</title>
+          </bibl>
+        </listBibl>
+      </sourceDesc>
     </fileDesc>
   </teiHeader>
   <text xml:id="workid54087" decls="#biblid54087">

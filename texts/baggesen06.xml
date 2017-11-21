@@ -1,18 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!-- VL 4.10.2002 + vaerktitle; removed '.tif' ; added </docTitle> in line 40; added blank before all <hi .. Ptj rettet s.310-321  
-VL 20090420 rettet s. 228 og 288
--->
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="idm139952571960432"><!-- 
-       file     ./marc_dir/001629721.xml
-       field     
-       subfield  
-       prefix   -->
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="root">
   <teiHeader xml:id="idm139952571959408">
     <fileDesc xml:id="idm139952571959152">
       <titleStmt xml:id="idm139952571933744">
         <title xml:id="idm139952571933488">LABYRINTEN</title>
         <respStmt xml:id="idm139952571933104">
-	  <name xml:id="idm139952571932848"/>
+          <name xml:id="idm139952571932848"/>
           <resp xml:id="idm139952571932592">TORBEN BROSTRØM</resp>
         </respStmt>
         <author xml:id="idm139952571932032">JENS BAGGESEN</author>
@@ -26,8 +19,22 @@ VL 20090420 rettet s. 228 og 288
         <note xml:id="idm139952571929328">
 	  </note>
       </notesStmt>
-      <sourceDesc xml:id="idm139952571928816"><bibl xml:id="idm139952571928688"><author n="1" xml:id="idm139952571928000"><name xml:id="idm139952571927744"><surname xml:id="idm139952571927616">Baggesen</surname>, <forename xml:id="idm139952571927152">Jens</forename></name></author><title xml:id="idm139952571926864">Labyrinten eller Reise giennem Tydskland, Schweitz og Frankrig</title><pubPlace xml:id="idm139952571926528">(Kbh.)</pubPlace>
-<publisher xml:id="idm139952571926064">Gyldendal</publisher><date xml:id="idm139952571925728">1971)</date></bibl><listBibl xml:id="idm139952571925440"><bibl xml:id="biblid54102"><title xml:id="idm139952571912240">Labyrinten</title></bibl></listBibl></sourceDesc>
+      <sourceDesc xml:id="idm139952571928816">
+        <bibl xml:id="idm139952571928688">
+          <author n="1" xml:id="idm139952571928000">
+            <name xml:id="idm139952571927744"><surname xml:id="idm139952571927616">Baggesen</surname>, <forename xml:id="idm139952571927152">Jens</forename></name>
+          </author>
+          <title xml:id="idm139952571926864">Labyrinten eller Reise giennem Tydskland, Schweitz og Frankrig</title>
+          <pubPlace xml:id="idm139952571926528">(Kbh.)</pubPlace>
+          <publisher xml:id="idm139952571926064">Gyldendal</publisher>
+          <date xml:id="idm139952571925728">1971)</date>
+        </bibl>
+        <listBibl xml:id="idm139952571925440">
+          <bibl xml:id="biblid54102">
+            <title xml:id="idm139952571912240">Labyrinten</title>
+          </bibl>
+        </listBibl>
+      </sourceDesc>
     </fileDesc>
   </teiHeader>
   <text xml:id="workid54102" decls="#biblid54102">
@@ -35,23 +42,23 @@ VL 20090420 rettet s. 228 og 288
       <pb n="1" xml:id="s1" facs="adl/baggesen/baggesen6/bagg6001"/>
       <docImprint xml:id="idm139952571909248">
         <publisher xml:id="idm139952571908992">GYLDENDALS BIBLIOTEK</publisher>
-	<note xml:id="idm139952571908528">
-	  <p xml:id="idm139952571908224">
-	    <hi rend="bold" xml:id="idm139952571907872">
-	      <hi rend="italic" xml:id="idm139952571907296">Under redaktion af Erling Nielsen i samråd med Det danske
+        <note xml:id="idm139952571908528">
+          <p xml:id="idm139952571908224">
+            <hi rend="bold" xml:id="idm139952571907872">
+              <hi rend="italic" xml:id="idm139952571907296">Under redaktion af Erling Nielsen i samråd med Det danske
 	      Akademi</hi>
-	    </hi>
-	  </p>
-	  <p xml:id="idm139952571906224">
-	    <hi rend="bold" xml:id="idm139952571905968">BIND 4</hi>
-	  </p>
-	  <p xml:id="idm139952571905152">
-	    <hi rend="bold" xml:id="idm139952571904896">JENS BAGGESEN</hi>
-	  </p>
-	  <p xml:id="idm139952571904080">
-	    <hi rend="bold" xml:id="idm139952571903824">LABYRINTEN</hi>
-	  </p>
-	</note>
+            </hi>
+          </p>
+          <p xml:id="idm139952571906224">
+            <hi rend="bold" xml:id="idm139952571905968">BIND 4</hi>
+          </p>
+          <p xml:id="idm139952571905152">
+            <hi rend="bold" xml:id="idm139952571904896">JENS BAGGESEN</hi>
+          </p>
+          <p xml:id="idm139952571904080">
+            <hi rend="bold" xml:id="idm139952571903824">LABYRINTEN</hi>
+          </p>
+        </note>
       </docImprint>
       <pb n="2" xml:id="s2" facs="adl/baggesen/baggesen6/bagg6002"/>
       <pb n="3" xml:id="s3" facs="adl/baggesen/baggesen6/bagg6003"/>
@@ -59,10 +66,8 @@ VL 20090420 rettet s. 228 og 288
       <docTitle xml:id="idm139952571987888">
         <titlePart type="main" xml:id="idm139952571987632">
           <title level="m" xml:id="idm139952571987104">LABYRINTEN
-	  <hi rend="bold" xml:id="idm139952571986576">
-	  <hi rend="italic" xml:id="idm139952571986048">eller Reise giennem Tydskland, Schweitz og Frankerig
-	  </hi>
-	  </hi>
+	  <hi rend="bold" xml:id="idm139952571986576"><hi rend="italic" xml:id="idm139952571986048">eller Reise giennem Tydskland, Schweitz og Frankerig
+	  </hi></hi>
 	  </title>
         </titlePart>
       </docTitle>

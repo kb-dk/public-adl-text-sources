@@ -1,9 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="idm139728780254272"><!-- 
-       file     ./marc_dir/003015628.xml
-       field     
-       subfield  
-       prefix   -->
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="root">
   <teiHeader xml:id="idm139728780253616">
     <fileDesc xml:id="idm139728780253360">
       <titleStmt xml:id="idm139728780253056">
@@ -18,8 +14,22 @@
         <note xml:id="idm139728780225056">
 	  </note>
       </notesStmt>
-      <sourceDesc xml:id="idm139728780224544"><bibl xml:id="idm139728780224416"><author n="1" xml:id="idm139728780223728"><name xml:id="idm139728780223472"><surname xml:id="idm139728780223344">Hjortø</surname>, <forename xml:id="idm139728780222912">Knud</forename></name></author><title xml:id="idm139728780222624">Under det svindende Lys</title><pubPlace xml:id="idm139728780222336">København</pubPlace>
-<publisher xml:id="idm139728780221872">Nyt Nordisk Forlag Arnold Busck</publisher><date xml:id="idm139728780221520">1933</date></bibl><listBibl xml:id="idm139728780221232"><bibl xml:id="biblid54088"><title xml:id="idm139728780208080">Under det svindende lys</title></bibl></listBibl></sourceDesc>
+      <sourceDesc xml:id="idm139728780224544">
+        <bibl xml:id="idm139728780224416">
+          <author n="1" xml:id="idm139728780223728">
+            <name xml:id="idm139728780223472"><surname xml:id="idm139728780223344">Hjortø</surname>, <forename xml:id="idm139728780222912">Knud</forename></name>
+          </author>
+          <title xml:id="idm139728780222624">Under det svindende Lys</title>
+          <pubPlace xml:id="idm139728780222336">København</pubPlace>
+          <publisher xml:id="idm139728780221872">Nyt Nordisk Forlag Arnold Busck</publisher>
+          <date xml:id="idm139728780221520">1933</date>
+        </bibl>
+        <listBibl xml:id="idm139728780221232">
+          <bibl xml:id="biblid54088">
+            <title xml:id="idm139728780208080">Under det svindende lys</title>
+          </bibl>
+        </listBibl>
+      </sourceDesc>
     </fileDesc>
   </teiHeader>
   <text xml:id="workid54088" decls="#biblid54088">

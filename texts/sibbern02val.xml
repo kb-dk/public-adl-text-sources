@@ -1,12 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!-- edited with XML Spy v3.5 NT (http://www.xmlspy.com) by DWA (Det Kongelige Bibliotek) -->
-<!--jbh 24.08.2001-->
-<!--hhl 9.10.2001 check før oplægning rækkefølge <pb og </div-->
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="idm140446916451184"><!-- 
-       file     ./marc_dir/002014388.xml
-       field     
-       subfield  
-       prefix   -->
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="root">
   <teiHeader xml:id="idm140446916450384">
     <fileDesc xml:id="idm140446916450128">
       <titleStmt xml:id="idm140446916424704">
@@ -25,17 +18,30 @@
         <note xml:id="idm140446916420576">
 	  </note>
       </notesStmt>
-      <sourceDesc xml:id="idm140446916420064"><bibl xml:id="idm140446916419936"><author n="1" xml:id="idm140446916419248"><name xml:id="idm140446916418992"><surname xml:id="idm140446916418864">Sibbern</surname>, <forename xml:id="idm140446916418400">F. C.</forename></name></author><title xml:id="idm140446916418112">Gabrielis' Breve</title><pubPlace xml:id="idm140446916417824">København</pubPlace>
-<date xml:id="idm140446916417344">1927</date></bibl><listBibl xml:id="idm140446916417056"><bibl xml:id="biblid55185"><title xml:id="idm140446916403904">Efterladte Breve af Gabrielis</title></bibl><bibl xml:id="biblid62115"><title xml:id="idm140446916403104">Udaf Grabrielis`s breve til og fra hjemmet</title></bibl></listBibl></sourceDesc>
+      <sourceDesc xml:id="idm140446916420064">
+        <bibl xml:id="idm140446916419936">
+          <author n="1" xml:id="idm140446916419248">
+            <name xml:id="idm140446916418992"><surname xml:id="idm140446916418864">Sibbern</surname>, <forename xml:id="idm140446916418400">F. C.</forename></name>
+          </author>
+          <title xml:id="idm140446916418112">Gabrielis' Breve</title>
+          <pubPlace xml:id="idm140446916417824">København</pubPlace>
+          <date xml:id="idm140446916417344">1927</date>
+        </bibl>
+        <listBibl xml:id="idm140446916417056">
+          <bibl xml:id="biblid55185">
+            <title xml:id="idm140446916403904">Efterladte Breve af Gabrielis</title>
+          </bibl>
+          <bibl xml:id="biblid62115">
+            <title xml:id="idm140446916403104">Udaf Grabrielis`s breve til og fra hjemmet</title>
+          </bibl>
+        </listBibl>
+      </sourceDesc>
     </fileDesc>
   </teiHeader>
   <text xml:id="idm140446916402400">
     <front xml:id="idm140446916402144">
       <pb n="a" xml:id="sa" facs="adl/sibbern/sibbern2/sibb2fm01"/>
       <gap reason="cancelled" xml:id="idm140446916400672"/>
-<!---->
-<!---->
-<!--DANMARKS NATIONALLITTERATUR GABRIELIS' BREVE-->
       <pb n="b" xml:id="sb" facs="adl/sibbern/sibbern2/sibb2fm02"/>
       <pb n="c" xml:id="sc" facs="adl/sibbern/sibbern2/sibb2fm03"/>
       <div xml:id="idm140446916396848">

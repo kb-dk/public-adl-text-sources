@@ -1,11 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!--  OCR by ATAPY 6.10.2002 (Catherine Bychkova) -->
-<!-- VL: 18.10.02 dolgoeO replaced by d.v.s. -->
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="idm140504746130208"><!-- 
-       file     ./marc_dir/002314460.xml
-       field     
-       subfield  
-       prefix   -->
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="root">
   <teiHeader xml:id="idm140504746129552">
     <fileDesc xml:id="idm140504746129296">
       <titleStmt xml:id="idm140504746103792">
@@ -20,17 +14,28 @@
         <note xml:id="idm140504746100784">
 	  </note>
       </notesStmt>
-      <sourceDesc xml:id="idm140504746100272"><bibl xml:id="idm140504746100144"><author><name><surname>Bergsøe</surname>,
-	<forename>Vilhelm</forename></name></author><title xml:id="idm140504746098384">Poetiske Skrifter, 1-7 - Bind II</title><pubPlace xml:id="idm140504746098128">København</pubPlace><date xml:id="idm140504746097648">1905-</date></bibl><listBibl xml:id="idm140504746097360"><bibl xml:id="biblid54211"><title xml:id="idm140504746084208">FRA DEN GAMLE FABRIK</title></bibl></listBibl></sourceDesc>
+      <sourceDesc xml:id="idm140504746100272">
+        <bibl xml:id="idm140504746100144">
+          <author xml:id="idd79b1862-dd83-4b54-b53b-e054336639d3">
+            <name xml:id="idfabc5c91-3afa-464b-b464-b8a3d9aed3fb"><surname xml:id="idb0d4f7a2-fc97-4681-828a-1ee1c9fdae3a">Bergsøe</surname>,
+	<forename xml:id="id19fb7286-907c-4713-b635-98327353a4cf">Vilhelm</forename></name>
+          </author>
+          <title xml:id="idm140504746098384">Poetiske Skrifter, 1-7 - Bind II</title>
+          <pubPlace xml:id="idm140504746098128">København</pubPlace>
+          <date xml:id="idm140504746097648">1905-</date>
+        </bibl>
+        <listBibl xml:id="idm140504746097360">
+          <bibl xml:id="biblid54211">
+            <title xml:id="idm140504746084208">FRA DEN GAMLE FABRIK</title>
+          </bibl>
+        </listBibl>
+      </sourceDesc>
     </fileDesc>
   </teiHeader>
   <text xml:id="idm140504746083568">
     <front xml:id="idm140504746083312">
       <pb n="I" facs="adl/bergsoe/bergsoe2/berg2001" xml:id="idm140504746083008"/>
       <gap reason="cancelled" xml:id="idm140504746082144"/>
-<!---->
-<!---->
-<!--VILHELM BERGSØE POETISKE SKRIFTER ANDET BIND-->
       <pb n="II" facs="adl/bergsoe/bergsoe2/berg2002" xml:id="idm140504746080624"/>
       <pb n="III" facs="adl/bergsoe/bergsoe2/berg2003" xml:id="idm140504746079856"/>
       <titlePage xml:id="idm140504746079088">

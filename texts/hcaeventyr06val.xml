@@ -1,10 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!-- 20021028 HHL flyttet afslutnings-div'er foran <pb/>. Ptj rettet s. 42. -->
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="idm139779805633488"><!-- 
-       file     ./marc_dir/001527411.xml
-       field     
-       subfield  
-       prefix   -->
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="root">
   <teiHeader xml:id="idm139779805632832">
     <fileDesc xml:id="idm139779805632576">
       <titleStmt xml:id="idm139779805632272">
@@ -20,19 +15,21 @@
 	  </note>
       </notesStmt>
       <sourceDesc xml:id="idm139779805603664">
-	<bibl xml:id="idm139779805603408">
-	  <author xml:id="idm139779805603152">
-	    <name xml:id="idm139779805602848"><surname xml:id="idm139779805602720">Andersen</surname>,
+        <bibl xml:id="idm139779805603408">
+          <author xml:id="idm139779805603152">
+            <name xml:id="idm139779805602848"><surname xml:id="idm139779805602720">Andersen</surname>,
 	    <forename xml:id="idm139779805602272">H. C.</forename></name>
-	  </author>
-	  <title xml:id="idm139779805601728">H.C. Andersens Eventyr bd. VI</title>
-	  <title xml:id="idm139779805601296">kritisk udg. efter de originale eventyrhæfter med varianter
+          </author>
+          <title xml:id="idm139779805601728">H.C. Andersens Eventyr bd. VI</title>
+          <title xml:id="idm139779805601296">kritisk udg. efter de originale eventyrhæfter med varianter
 	  ved Erik Dal</title>
-	  <pubPlace xml:id="idm139779805600736">København</pubPlace>
-	  <publisher xml:id="idm139779805600320">C. A. Reitzel</publisher>
-	  <date xml:id="idm139779805599856">1990</date>
-	</bibl>
-	<listBibl xml:id="idm139779805599264"><bibl xml:id="idm139779805599136"/></listBibl>
+          <pubPlace xml:id="idm139779805600736">København</pubPlace>
+          <publisher xml:id="idm139779805600320">C. A. Reitzel</publisher>
+          <date xml:id="idm139779805599856">1990</date>
+        </bibl>
+        <listBibl xml:id="idm139779805599264">
+          <bibl xml:id="idm139779805599136"/>
+        </listBibl>
       </sourceDesc>
     </fileDesc>
   </teiHeader>
@@ -40,9 +37,6 @@
     <front xml:id="idm139779805598240">
       <pb n="I" xml:id="sa" facs="adl/andersenhc/andersenhcev6/ahce6fm001"/>
       <gap reason="cancelled" xml:id="idm139779805583840"/>
-<!---->
-<!---->
-<!--H. C. ANDERSENS, EVENTYR VI-->
       <pb n="II" xml:id="sb" facs="adl/andersenhc/andersenhcev6/ahce6fm002"/>
       <titlePage xml:id="idm139779805581184">
         <docAuthor xml:id="idm139779805580928">H. C. ANDERSENS</docAuthor>

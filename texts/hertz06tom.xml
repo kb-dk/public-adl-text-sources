@@ -1,10 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!--Tom opmærkning d.01.07.2002 blo -->
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="idm139916130264976"><!-- 
-       file     ./marc_dir/002148279.xml
-       field     
-       subfield  
-       prefix   -->
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="root">
   <teiHeader xml:id="idm139916130269632">
     <fileDesc xml:id="idm139916130269376">
       <titleStmt xml:id="idm139916130269072">
@@ -19,8 +14,27 @@
         <note xml:id="idm139916130240992">
 	  </note>
       </notesStmt>
-      <sourceDesc xml:id="idm139916130240480"><bibl xml:id="idm139916130240352"><author n="1" xml:id="idm139916130239664"><name xml:id="idm139916130239408"><surname xml:id="idm139916130239280">Hertz</surname>, <forename xml:id="idm139916130238816">Henrik</forename></name></author><title xml:id="idm139916130238528">Udvalgte dramatiske Værker</title><pubPlace xml:id="idm139916130238208">København</pubPlace>
-<date xml:id="idm139916130237728">1897</date></bibl><listBibl xml:id="idm139916130237440"><bibl xml:id="biblid54241"><title xml:id="idm139916130224288">Tonietta</title></bibl><bibl xml:id="biblid55913"><title xml:id="idm139916130223504">Audiensen</title></bibl><bibl xml:id="biblid56858"><title xml:id="idm139916130222720">De Deporterede</title></bibl></listBibl></sourceDesc>
+      <sourceDesc xml:id="idm139916130240480">
+        <bibl xml:id="idm139916130240352">
+          <author n="1" xml:id="idm139916130239664">
+            <name xml:id="idm139916130239408"><surname xml:id="idm139916130239280">Hertz</surname>, <forename xml:id="idm139916130238816">Henrik</forename></name>
+          </author>
+          <title xml:id="idm139916130238528">Udvalgte dramatiske Værker</title>
+          <pubPlace xml:id="idm139916130238208">København</pubPlace>
+          <date xml:id="idm139916130237728">1897</date>
+        </bibl>
+        <listBibl xml:id="idm139916130237440">
+          <bibl xml:id="biblid54241">
+            <title xml:id="idm139916130224288">Tonietta</title>
+          </bibl>
+          <bibl xml:id="biblid55913">
+            <title xml:id="idm139916130223504">Audiensen</title>
+          </bibl>
+          <bibl xml:id="biblid56858">
+            <title xml:id="idm139916130222720">De Deporterede</title>
+          </bibl>
+        </listBibl>
+      </sourceDesc>
     </fileDesc>
   </teiHeader>
   <text xml:id="idm139916130222080">

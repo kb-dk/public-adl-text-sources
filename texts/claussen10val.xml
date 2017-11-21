@@ -1,14 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!-- OCR by ATAPY 06.12.02 (Catherine Bychkova) -->
-<!-- HHL 20030317 checket sidetal mv
-        Pagebreaks rettet i  forhold til vaerktitler
-        visse vaerktitler udkommenteret
-        -->
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="idm139718459667696"><!-- 
-       file     ./marc_dir/001383642.xml
-       field    248 
-       subfield g 
-       prefix   Bd. 8 | a-->
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="root">
   <teiHeader xml:id="idm139718459636000">
     <fileDesc xml:id="idm139718459635744">
       <titleStmt xml:id="idm139718459635488">
@@ -25,17 +16,50 @@
         <note xml:id="idm139718459605344">
 	  </note>
       </notesStmt>
-      <sourceDesc xml:id="idm139718459604832"><bibl xml:id="idm139718459604704"><author n="1" xml:id="idm139718459604528"><name xml:id="idm139718459604272"><surname xml:id="idm139718459604144">Claussen</surname>, <forename xml:id="idm139718459603680">Sophus</forename></name></author><title xml:id="idm139718459603392">Sophus Claussens lyrik</title><title xml:id="idm139718459603104">Bd. 8: Lyrikoversættelser</title><pubPlace xml:id="idm139718459602784">[København]</pubPlace>
-<publisher xml:id="idm139718459602320">Det Danske Sprog- og Litteraturselskab ; Gyldendal</publisher><date xml:id="idm139718459601952">1982-</date></bibl><listBibl xml:id="idm139718459601664"><bibl xml:id="biblid54844"><title xml:id="idm139718459588512">HEINRICH HEINE: ATTA TROLL. EN SOMMERNATSDRØM</title></bibl><bibl xml:id="biblid69735"><title xml:id="idm139718459587600">PERCY BYSSHE SHELLEY THE SENSITIVE PLANT DEN FØLENDE BLOMST</title></bibl><bibl xml:id="biblid76690"><title xml:id="idm139718459586704">LORD BYRON: ITALIEN. Af Beppo</title></bibl><bibl xml:id="biblid76955"><title xml:id="idm139718459585904">CHARLES BAUDELAIRE: BLODFONTÆNEN</title></bibl><bibl xml:id="biblid77047"><title xml:id="idm139718459585024">CHARLES BAUDELAIRE: ALTANEN</title></bibl><bibl xml:id="biblid77220"><title xml:id="idm139718459584224">CHARLES BAUDELAIRE: BØN</title></bibl><bibl xml:id="biblid77270"><title xml:id="idm139718459583408">GIOSUÉ CARDUCCI: ITALIENS SEJRE</title></bibl><bibl xml:id="biblid77339"><title xml:id="idm139718459582576">SEKS DIGTE AF ALFRED DE MUSSET TIL GEORGE SAND</title></bibl></listBibl></sourceDesc>
+      <sourceDesc xml:id="idm139718459604832">
+        <bibl xml:id="idm139718459604704">
+          <author n="1" xml:id="idm139718459604528">
+            <name xml:id="idm139718459604272"><surname xml:id="idm139718459604144">Claussen</surname>, <forename xml:id="idm139718459603680">Sophus</forename></name>
+          </author>
+          <title xml:id="idm139718459603392">Sophus Claussens lyrik</title>
+          <title xml:id="idm139718459603104">Bd. 8: Lyrikoversættelser</title>
+          <pubPlace xml:id="idm139718459602784">[København]</pubPlace>
+          <publisher xml:id="idm139718459602320">Det Danske Sprog- og Litteraturselskab ; Gyldendal</publisher>
+          <date xml:id="idm139718459601952">1982-</date>
+        </bibl>
+        <listBibl xml:id="idm139718459601664">
+          <bibl xml:id="biblid54844">
+            <title xml:id="idm139718459588512">HEINRICH HEINE: ATTA TROLL. EN SOMMERNATSDRØM</title>
+          </bibl>
+          <bibl xml:id="biblid69735">
+            <title xml:id="idm139718459587600">PERCY BYSSHE SHELLEY THE SENSITIVE PLANT DEN FØLENDE BLOMST</title>
+          </bibl>
+          <bibl xml:id="biblid76690">
+            <title xml:id="idm139718459586704">LORD BYRON: ITALIEN. Af Beppo</title>
+          </bibl>
+          <bibl xml:id="biblid76955">
+            <title xml:id="idm139718459585904">CHARLES BAUDELAIRE: BLODFONTÆNEN</title>
+          </bibl>
+          <bibl xml:id="biblid77047">
+            <title xml:id="idm139718459585024">CHARLES BAUDELAIRE: ALTANEN</title>
+          </bibl>
+          <bibl xml:id="biblid77220">
+            <title xml:id="idm139718459584224">CHARLES BAUDELAIRE: BØN</title>
+          </bibl>
+          <bibl xml:id="biblid77270">
+            <title xml:id="idm139718459583408">GIOSUÉ CARDUCCI: ITALIENS SEJRE</title>
+          </bibl>
+          <bibl xml:id="biblid77339">
+            <title xml:id="idm139718459582576">SEKS DIGTE AF ALFRED DE MUSSET TIL GEORGE SAND</title>
+          </bibl>
+        </listBibl>
+      </sourceDesc>
     </fileDesc>
   </teiHeader>
   <text xml:id="idm139718459581824">
     <front xml:id="idm139718459581568">
       <pb n="1" xml:id="s1" facs="adl/claussen/claussen10/claussen10001"/>
       <gap reason="cancelled" xml:id="idm139718459580144"/>
-<!---->
-<!---->
-<!--Sophus Claussens Lyrik VIII-->
       <pb n="2" xml:id="s2" facs="adl/claussen/claussen10/claussen10002"/>
       <titlePage xml:id="idm139718459577488">
         <docAuthor xml:id="idm139718459577232">

@@ -1,15 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!-- OCR by ATAPY 03.12.02/06.12.02 (Catherine Bychkova) -->
-<!-- HHL 20030314 checket iflg liste 
-                             vaerktitler uden initierende romertal
-                             indsat "[undertitel]" hvis dublet
-                             Ptj rettet s. 30 
-                             -->
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="idm140012641205328"><!-- 
-       file     ./marc_dir/001383642.xml
-       field    248 
-       subfield g 
-       prefix   Bd. 1 | a-->
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="root">
   <teiHeader xml:id="idm140012641204336">
     <fileDesc xml:id="idm140012641204080">
       <titleStmt xml:id="idm140012641203824">
@@ -25,17 +15,233 @@
         <note xml:id="idm140012641174368">
 	  </note>
       </notesStmt>
-      <sourceDesc xml:id="idm140012641173856"><bibl xml:id="idm140012641173728"><author n="1" xml:id="idm140012641173552"><name xml:id="idm140012641173296"><surname xml:id="idm140012641173168">Claussen</surname>, <forename xml:id="idm140012641172704">Sophus</forename></name></author><title xml:id="idm140012641172416">Sophus Claussens lyrik</title><title xml:id="idm140012641172128">Bd. 1: Naturbørn</title><pubPlace xml:id="idm140012641171824">[København]</pubPlace>
-<publisher xml:id="idm140012641171360">Det Danske Sprog- og Litteraturselskab ; Gyldendal</publisher><date xml:id="idm140012641170992">1982-</date></bibl><listBibl xml:id="idm140012641170704"><bibl xml:id="biblid57209"><title xml:id="idm140012641157552">Naturbørn</title></bibl><bibl xml:id="biblid57317"><title xml:id="idm140012641156720">DØGNDRØMME</title></bibl><bibl xml:id="biblid57467"><title xml:id="idm140012641155920">JEG SYNTES -</title></bibl><bibl xml:id="biblid57714"><title xml:id="idm140012641155136">KAN DU DRØMME MED MIG?</title></bibl><bibl xml:id="biblid57846"><title xml:id="idm140012641154272">DU SOM EN LILLE KATTEKILLING ER ...</title></bibl><bibl xml:id="biblid57924"><title xml:id="idm140012641153472">VAAR I VINTER</title></bibl><bibl xml:id="biblid58001"><title xml:id="idm140012641152640">DÆMRING</title></bibl><bibl xml:id="biblid58206"><title xml:id="idm140012641151808">HVER MORGEN, NAAR JEG VAAGNER</title></bibl><bibl xml:id="biblid58324"><title xml:id="idm140012641151008">SAGTELIG ...</title></bibl><bibl xml:id="biblid58478"><title xml:id="idm140012641150224">PAA STRANDVEJEN</title></bibl><bibl xml:id="biblid58617"><title xml:id="idm140012641149392">SENT HJEM</title></bibl><bibl xml:id="biblid58773"><title xml:id="idm140012641148560">KÆRLIGHED</title></bibl><bibl xml:id="biblid58830"><title xml:id="idm140012641147728">BAGEFTER</title></bibl><bibl xml:id="biblid59030"><title xml:id="idm140012641146944">EN STORMDRØM DER GAAR ...</title></bibl><bibl xml:id="biblid59171"><title xml:id="idm140012641146080">MESSALINA</title></bibl><bibl xml:id="biblid59360"><title xml:id="idm140012641145248">FOR GOD!</title></bibl><bibl xml:id="biblid59578"><title xml:id="idm140012641144416">KÆRLIGHEDS PROGRAM</title></bibl><bibl xml:id="biblid59831"><title xml:id="idm140012641143616">SOLNEDGANG</title></bibl><bibl xml:id="biblid60030"><title xml:id="idm140012641142832">HVORFOR MON?</title></bibl><bibl xml:id="biblid60085"><title xml:id="idm140012641142048">EFTER REGNEN</title></bibl><bibl xml:id="biblid60173"><title xml:id="idm140012641141216">SOMMERMORGEN</title></bibl><bibl xml:id="biblid60248"><title xml:id="idm140012641140432">PAN</title></bibl><bibl xml:id="biblid60597"><title xml:id="idm140012641139632">FALDENDE SNÉ</title></bibl><bibl xml:id="biblid60980"><title xml:id="idm140012641138720">EN FABEL</title></bibl><bibl xml:id="biblid61155"><title xml:id="idm140012641137936">MANNA</title></bibl><bibl xml:id="biblid61392"><title xml:id="idm140012641137104">HILSEN*</title></bibl><bibl xml:id="biblid61526"><title xml:id="idm140012641136272">ANTONIUS GYNT</title></bibl><bibl xml:id="biblid61541"><title xml:id="idm140012641135440">Drømme</title></bibl><bibl xml:id="biblid61586"><title xml:id="idm140012641134608">Vision</title></bibl><bibl xml:id="biblid61693"><title xml:id="idm140012641133760">Det værste</title></bibl><bibl xml:id="biblid61800"><title xml:id="idm140012641132976">Sommervarme</title></bibl><bibl xml:id="biblid62102"><title xml:id="idm140012641132128">Forbandelse!</title></bibl><bibl xml:id="biblid62180"><title xml:id="idm140012641131296">Nye Piger Et Resultat</title></bibl><bibl xml:id="biblid62656"><title xml:id="idm140012641130464">RAADLØS</title></bibl><bibl xml:id="biblid62756"><title xml:id="idm140012641129632">MAANESKIN</title></bibl><bibl xml:id="biblid62852"><title xml:id="idm140012641234816">FØRSTE GANG</title></bibl><bibl xml:id="biblid63025"><title xml:id="idm140012641234128">SPØGELSESFRYGT</title></bibl><bibl xml:id="biblid63104"><title xml:id="idm140012641233376">DINE KYS ER IMOD DIG</title></bibl><bibl xml:id="biblid63330"><title xml:id="idm140012641232592">ANKA! ANKA!</title></bibl><bibl xml:id="biblid63399"><title xml:id="idm140012641231744">DER SLUMRED I DIT BLIK...</title></bibl><bibl xml:id="biblid63490"><title xml:id="idm140012641230992">EFTERAARSDIGT</title></bibl><bibl xml:id="biblid63608"><title xml:id="idm140012641103616">ET FARVEL</title></bibl><bibl xml:id="biblid63726"><title xml:id="idm140012641102832">I DRIFT</title></bibl><bibl xml:id="biblid63844"><title xml:id="idm140012641102048">AFTENSKUMRING</title></bibl><bibl xml:id="biblid64257"><title xml:id="idm140012641101264">I MARTS</title></bibl><bibl xml:id="biblid64412"><title xml:id="idm140012641100480">FRISKT VEJR</title></bibl><bibl xml:id="biblid64625"><title xml:id="idm140012641099696">Tidsbillede</title></bibl><bibl xml:id="biblid64680"><title xml:id="idm140012641098848">Hos de ventende</title></bibl><bibl xml:id="biblid64809"><title xml:id="idm140012641098064">Metamorfose</title></bibl><bibl xml:id="biblid64924"><title xml:id="idm140012641097280">Poesi</title></bibl><bibl xml:id="biblid65131"><title xml:id="idm140012641096496">Ungdom</title></bibl><bibl xml:id="biblid65336"><title xml:id="idm140012641095712">Nymennesker Et Brev</title></bibl><bibl xml:id="biblid65846"><title xml:id="idm140012641094928">Credo</title></bibl><bibl xml:id="biblid66010"><title xml:id="idm140012641094144">TIL ALLE</title></bibl><bibl xml:id="biblid66021"><title xml:id="idm140012641093360">Nu har I fulgt til disse sidste Blade</title></bibl><bibl xml:id="biblid67194"><title xml:id="idm140012641092544">Dog har jeg Troen paa en Salighed</title></bibl><bibl xml:id="biblid73683"><title xml:id="idm140012641091792">MINA</title></bibl><bibl xml:id="biblid73856"><title xml:id="idm140012641091008">OUVERTURE</title></bibl><bibl xml:id="biblid73954"><title xml:id="idm140012641090224">1884</title></bibl><bibl xml:id="biblid74101"><title xml:id="idm140012641085376">MINA [undertitel]</title></bibl><bibl xml:id="biblid74316"><title xml:id="idm140012641084688">EKSEKUTION</title></bibl><bibl xml:id="biblid74459"><title xml:id="idm140012641084000">VENINDERNE</title></bibl><bibl xml:id="biblid74611"><title xml:id="idm140012641083312">BRUDDET</title></bibl><bibl xml:id="biblid74764"><title xml:id="idm140012641082624">FORVANDLINGENS LOV</title></bibl><bibl xml:id="biblid75016"><title xml:id="idm140012641081936">NYE MAAL</title></bibl><bibl xml:id="biblid75119"><title xml:id="idm140012641081184">NYT FORAAR /MINA</title></bibl><bibl xml:id="biblid75516"><title xml:id="idm140012641080400">LIDENSKABENS VINGER - SJÆLENS TEGNING</title></bibl><bibl xml:id="biblid75791"><title xml:id="idm140012641079488">ET TILBAGEFALD</title></bibl><bibl xml:id="biblid76216"><title xml:id="idm140012641078704">EPILOG</title></bibl></listBibl></sourceDesc>
+      <sourceDesc xml:id="idm140012641173856">
+        <bibl xml:id="idm140012641173728">
+          <author n="1" xml:id="idm140012641173552">
+            <name xml:id="idm140012641173296"><surname xml:id="idm140012641173168">Claussen</surname>, <forename xml:id="idm140012641172704">Sophus</forename></name>
+          </author>
+          <title xml:id="idm140012641172416">Sophus Claussens lyrik</title>
+          <title xml:id="idm140012641172128">Bd. 1: Naturbørn</title>
+          <pubPlace xml:id="idm140012641171824">[København]</pubPlace>
+          <publisher xml:id="idm140012641171360">Det Danske Sprog- og Litteraturselskab ; Gyldendal</publisher>
+          <date xml:id="idm140012641170992">1982-</date>
+        </bibl>
+        <listBibl xml:id="idm140012641170704">
+          <bibl xml:id="biblid57209">
+            <title xml:id="idm140012641157552">Naturbørn</title>
+          </bibl>
+          <bibl xml:id="biblid57317">
+            <title xml:id="idm140012641156720">DØGNDRØMME</title>
+          </bibl>
+          <bibl xml:id="biblid57467">
+            <title xml:id="idm140012641155920">JEG SYNTES -</title>
+          </bibl>
+          <bibl xml:id="biblid57714">
+            <title xml:id="idm140012641155136">KAN DU DRØMME MED MIG?</title>
+          </bibl>
+          <bibl xml:id="biblid57846">
+            <title xml:id="idm140012641154272">DU SOM EN LILLE KATTEKILLING ER ...</title>
+          </bibl>
+          <bibl xml:id="biblid57924">
+            <title xml:id="idm140012641153472">VAAR I VINTER</title>
+          </bibl>
+          <bibl xml:id="biblid58001">
+            <title xml:id="idm140012641152640">DÆMRING</title>
+          </bibl>
+          <bibl xml:id="biblid58206">
+            <title xml:id="idm140012641151808">HVER MORGEN, NAAR JEG VAAGNER</title>
+          </bibl>
+          <bibl xml:id="biblid58324">
+            <title xml:id="idm140012641151008">SAGTELIG ...</title>
+          </bibl>
+          <bibl xml:id="biblid58478">
+            <title xml:id="idm140012641150224">PAA STRANDVEJEN</title>
+          </bibl>
+          <bibl xml:id="biblid58617">
+            <title xml:id="idm140012641149392">SENT HJEM</title>
+          </bibl>
+          <bibl xml:id="biblid58773">
+            <title xml:id="idm140012641148560">KÆRLIGHED</title>
+          </bibl>
+          <bibl xml:id="biblid58830">
+            <title xml:id="idm140012641147728">BAGEFTER</title>
+          </bibl>
+          <bibl xml:id="biblid59030">
+            <title xml:id="idm140012641146944">EN STORMDRØM DER GAAR ...</title>
+          </bibl>
+          <bibl xml:id="biblid59171">
+            <title xml:id="idm140012641146080">MESSALINA</title>
+          </bibl>
+          <bibl xml:id="biblid59360">
+            <title xml:id="idm140012641145248">FOR GOD!</title>
+          </bibl>
+          <bibl xml:id="biblid59578">
+            <title xml:id="idm140012641144416">KÆRLIGHEDS PROGRAM</title>
+          </bibl>
+          <bibl xml:id="biblid59831">
+            <title xml:id="idm140012641143616">SOLNEDGANG</title>
+          </bibl>
+          <bibl xml:id="biblid60030">
+            <title xml:id="idm140012641142832">HVORFOR MON?</title>
+          </bibl>
+          <bibl xml:id="biblid60085">
+            <title xml:id="idm140012641142048">EFTER REGNEN</title>
+          </bibl>
+          <bibl xml:id="biblid60173">
+            <title xml:id="idm140012641141216">SOMMERMORGEN</title>
+          </bibl>
+          <bibl xml:id="biblid60248">
+            <title xml:id="idm140012641140432">PAN</title>
+          </bibl>
+          <bibl xml:id="biblid60597">
+            <title xml:id="idm140012641139632">FALDENDE SNÉ</title>
+          </bibl>
+          <bibl xml:id="biblid60980">
+            <title xml:id="idm140012641138720">EN FABEL</title>
+          </bibl>
+          <bibl xml:id="biblid61155">
+            <title xml:id="idm140012641137936">MANNA</title>
+          </bibl>
+          <bibl xml:id="biblid61392">
+            <title xml:id="idm140012641137104">HILSEN*</title>
+          </bibl>
+          <bibl xml:id="biblid61526">
+            <title xml:id="idm140012641136272">ANTONIUS GYNT</title>
+          </bibl>
+          <bibl xml:id="biblid61541">
+            <title xml:id="idm140012641135440">Drømme</title>
+          </bibl>
+          <bibl xml:id="biblid61586">
+            <title xml:id="idm140012641134608">Vision</title>
+          </bibl>
+          <bibl xml:id="biblid61693">
+            <title xml:id="idm140012641133760">Det værste</title>
+          </bibl>
+          <bibl xml:id="biblid61800">
+            <title xml:id="idm140012641132976">Sommervarme</title>
+          </bibl>
+          <bibl xml:id="biblid62102">
+            <title xml:id="idm140012641132128">Forbandelse!</title>
+          </bibl>
+          <bibl xml:id="biblid62180">
+            <title xml:id="idm140012641131296">Nye Piger Et Resultat</title>
+          </bibl>
+          <bibl xml:id="biblid62656">
+            <title xml:id="idm140012641130464">RAADLØS</title>
+          </bibl>
+          <bibl xml:id="biblid62756">
+            <title xml:id="idm140012641129632">MAANESKIN</title>
+          </bibl>
+          <bibl xml:id="biblid62852">
+            <title xml:id="idm140012641234816">FØRSTE GANG</title>
+          </bibl>
+          <bibl xml:id="biblid63025">
+            <title xml:id="idm140012641234128">SPØGELSESFRYGT</title>
+          </bibl>
+          <bibl xml:id="biblid63104">
+            <title xml:id="idm140012641233376">DINE KYS ER IMOD DIG</title>
+          </bibl>
+          <bibl xml:id="biblid63330">
+            <title xml:id="idm140012641232592">ANKA! ANKA!</title>
+          </bibl>
+          <bibl xml:id="biblid63399">
+            <title xml:id="idm140012641231744">DER SLUMRED I DIT BLIK...</title>
+          </bibl>
+          <bibl xml:id="biblid63490">
+            <title xml:id="idm140012641230992">EFTERAARSDIGT</title>
+          </bibl>
+          <bibl xml:id="biblid63608">
+            <title xml:id="idm140012641103616">ET FARVEL</title>
+          </bibl>
+          <bibl xml:id="biblid63726">
+            <title xml:id="idm140012641102832">I DRIFT</title>
+          </bibl>
+          <bibl xml:id="biblid63844">
+            <title xml:id="idm140012641102048">AFTENSKUMRING</title>
+          </bibl>
+          <bibl xml:id="biblid64257">
+            <title xml:id="idm140012641101264">I MARTS</title>
+          </bibl>
+          <bibl xml:id="biblid64412">
+            <title xml:id="idm140012641100480">FRISKT VEJR</title>
+          </bibl>
+          <bibl xml:id="biblid64625">
+            <title xml:id="idm140012641099696">Tidsbillede</title>
+          </bibl>
+          <bibl xml:id="biblid64680">
+            <title xml:id="idm140012641098848">Hos de ventende</title>
+          </bibl>
+          <bibl xml:id="biblid64809">
+            <title xml:id="idm140012641098064">Metamorfose</title>
+          </bibl>
+          <bibl xml:id="biblid64924">
+            <title xml:id="idm140012641097280">Poesi</title>
+          </bibl>
+          <bibl xml:id="biblid65131">
+            <title xml:id="idm140012641096496">Ungdom</title>
+          </bibl>
+          <bibl xml:id="biblid65336">
+            <title xml:id="idm140012641095712">Nymennesker Et Brev</title>
+          </bibl>
+          <bibl xml:id="biblid65846">
+            <title xml:id="idm140012641094928">Credo</title>
+          </bibl>
+          <bibl xml:id="biblid66010">
+            <title xml:id="idm140012641094144">TIL ALLE</title>
+          </bibl>
+          <bibl xml:id="biblid66021">
+            <title xml:id="idm140012641093360">Nu har I fulgt til disse sidste Blade</title>
+          </bibl>
+          <bibl xml:id="biblid67194">
+            <title xml:id="idm140012641092544">Dog har jeg Troen paa en Salighed</title>
+          </bibl>
+          <bibl xml:id="biblid73683">
+            <title xml:id="idm140012641091792">MINA</title>
+          </bibl>
+          <bibl xml:id="biblid73856">
+            <title xml:id="idm140012641091008">OUVERTURE</title>
+          </bibl>
+          <bibl xml:id="biblid73954">
+            <title xml:id="idm140012641090224">1884</title>
+          </bibl>
+          <bibl xml:id="biblid74101">
+            <title xml:id="idm140012641085376">MINA [undertitel]</title>
+          </bibl>
+          <bibl xml:id="biblid74316">
+            <title xml:id="idm140012641084688">EKSEKUTION</title>
+          </bibl>
+          <bibl xml:id="biblid74459">
+            <title xml:id="idm140012641084000">VENINDERNE</title>
+          </bibl>
+          <bibl xml:id="biblid74611">
+            <title xml:id="idm140012641083312">BRUDDET</title>
+          </bibl>
+          <bibl xml:id="biblid74764">
+            <title xml:id="idm140012641082624">FORVANDLINGENS LOV</title>
+          </bibl>
+          <bibl xml:id="biblid75016">
+            <title xml:id="idm140012641081936">NYE MAAL</title>
+          </bibl>
+          <bibl xml:id="biblid75119">
+            <title xml:id="idm140012641081184">NYT FORAAR /MINA</title>
+          </bibl>
+          <bibl xml:id="biblid75516">
+            <title xml:id="idm140012641080400">LIDENSKABENS VINGER - SJÆLENS TEGNING</title>
+          </bibl>
+          <bibl xml:id="biblid75791">
+            <title xml:id="idm140012641079488">ET TILBAGEFALD</title>
+          </bibl>
+          <bibl xml:id="biblid76216">
+            <title xml:id="idm140012641078704">EPILOG</title>
+          </bibl>
+        </listBibl>
+      </sourceDesc>
     </fileDesc>
   </teiHeader>
   <text xml:id="idm140012641078064">
     <front xml:id="idm140012641077808">
       <pb n="1" xml:id="s1" facs="adl/claussen/claussen03/claussen3001"/>
       <gap reason="cancelled" xml:id="idm140012641076448"/>
-<!---->
-<!---->
-<!--Sophus Claussens Lyrik I-->
       <pb n="2" xml:id="s2" facs="adl/claussen/claussen03/claussen3002"/>
       <titlePage xml:id="idm140012641073888">
         <docAuthor xml:id="idm140012641073632">
@@ -429,9 +635,7 @@
       <pb n="11" xml:id="s11" facs="adl/claussen/claussen03/claussen3011"/>
       <div xml:id="idm140012640914816">
         <head xml:id="idm140012640914560">
-<!--<emph>-->
           <hi rend="italics" xml:id="idm140012640913952">UDGIVERENS FORORD</hi>
-<!--</emph>-->
         </head>
         <p xml:id="idm140012640912816"><hi rend="italics" xml:id="idm140012640912688">Jeg husker en Kuffert, en stor mavesvær Kuffert, der ikke
 						kunde lukkes, fordi de taalmodige Papirmasser ikke mere vilde lade sig
@@ -6607,7 +6811,7 @@
 									Hospitaler"!</hi> (<hi rend="italics" xml:id="idm140012638162672">+</hi> C)</l>
             </lg>
             <pb n="181" xml:id="s181" facs="adl/claussen/claussen03/claussen3181"/>
-            <p xml:id="idm140012638160560">Nyt afsn. (VIII), der svarer til XI<lb xml:id="idm140012638160256"/> Overskriften &lt; <hi rend="italics" xml:id="idm140012638159952"><!--<emph>--><hi rend="italics" xml:id="idm140012638159360">En Sidste - Nat</hi><!--</emph>--></hi> (+ C)<lb xml:id="idm140012638158512"/> Afsn. følges str. for str.; str. V dog ej i A + C.
+            <p xml:id="idm140012638160560">Nyt afsn. (VIII), der svarer til XI<lb xml:id="idm140012638160256"/> Overskriften &lt; <hi rend="italics" xml:id="idm140012638159952"><hi rend="italics" xml:id="idm140012638159360">En Sidste - Nat</hi></hi> (+ C)<lb xml:id="idm140012638158512"/> Afsn. følges str. for str.; str. V dog ej i A + C.
 							Fragmentet slutter med str. XVI<lb xml:id="idm140012638158064"/> B Titlen &lt; <hi rend="italics" xml:id="idm140012638157776">Kyllingsorger</hi>. Øverste højre hjørne: <hi rend="italics" xml:id="idm140012638157024">Trykt som Manuskript</hi>.</p>
             <p xml:id="idm140012638156208">Overskrifter til de enkelte afsn. udeladt Rettelserne (bl., SC's
 							håndskrift) findes kun i forb. m. I, I-III<lb xml:id="idm140012638155712"/> Bogtr. følger
@@ -6998,7 +7202,7 @@
     <back xml:id="idm140012637952240">
       <pb n="189" xml:id="s189" facs="adl/claussen/claussen03/claussen3189"/>
       <div xml:id="idm140012637950784">
-        <head xml:id="idm140012637950528"><!--<emph>--><hi rend="italics" xml:id="idm140012637950208">FORKORTELSESLISTE OG BIBLIOGRAFI</hi><!--</emph>--><lb xml:id="idm140012637949472"/> (1887-1931)</head>
+        <head xml:id="idm140012637950528"><hi rend="italics" xml:id="idm140012637950208">FORKORTELSESLISTE OG BIBLIOGRAFI</hi><lb xml:id="idm140012637949472"/> (1887-1931)</head>
         <div xml:id="idm140012637949088">
           <head xml:id="idm140012637948832">
             <hi rend="italics" xml:id="idm140012637948576">I: Bøger af Sophus Claussen</hi>

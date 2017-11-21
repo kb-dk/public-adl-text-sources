@@ -1,10 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!-- 19.19.2002 VL: + vaerktitle -->
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="idm139686922324816"><!-- 
-       file     ./marc_dir/002359667.xml
-       field     
-       subfield  
-       prefix   -->
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="root">
   <teiHeader xml:id="idm139686922324208">
     <fileDesc xml:id="idm139686922323952">
       <titleStmt xml:id="idm139686922323648">
@@ -26,17 +21,28 @@ Det Danske Sprog- og Litteraturselskab</publisher>
         <note xml:id="idm139686922293712">
 	  </note>
       </notesStmt>
-      <sourceDesc xml:id="idm139686922293200"><bibl xml:id="idm139686922293072"><author n="1" xml:id="idm139686922292384"><name xml:id="idm139686922292128"><surname xml:id="idm139686922292000">Goldschmidt</surname>, <forename xml:id="idm139686922291536">M. A.</forename></name></author><title xml:id="idm139686922291248">Hjemløs</title><pubPlace xml:id="idm139686922290960">[København]</pubPlace>
-<publisher xml:id="idm139686922290496">Det Danske Sprog- og Litteraturselskab</publisher><date xml:id="idm139686922290144">1999</date></bibl><listBibl xml:id="idm139686922289856"><bibl xml:id="biblid54308"><title xml:id="idm139686922276704">Hjemløs. En Fortælling I</title></bibl></listBibl></sourceDesc>
+      <sourceDesc xml:id="idm139686922293200">
+        <bibl xml:id="idm139686922293072">
+          <author n="1" xml:id="idm139686922292384">
+            <name xml:id="idm139686922292128"><surname xml:id="idm139686922292000">Goldschmidt</surname>, <forename xml:id="idm139686922291536">M. A.</forename></name>
+          </author>
+          <title xml:id="idm139686922291248">Hjemløs</title>
+          <pubPlace xml:id="idm139686922290960">[København]</pubPlace>
+          <publisher xml:id="idm139686922290496">Det Danske Sprog- og Litteraturselskab</publisher>
+          <date xml:id="idm139686922290144">1999</date>
+        </bibl>
+        <listBibl xml:id="idm139686922289856">
+          <bibl xml:id="biblid54308">
+            <title xml:id="idm139686922276704">Hjemløs. En Fortælling I</title>
+          </bibl>
+        </listBibl>
+      </sourceDesc>
     </fileDesc>
   </teiHeader>
   <text xml:id="idm139686922276000">
     <front xml:id="idm139686922275744">
       <pb n="I" facs="adl/goldschmidt/goldschmidt03/gold3001" xml:id="idm139686922275440"/>
       <gap reason="cancelled" xml:id="idm139686922274608"/>
-<!---->
-<!---->
-<!--Hjemløs I-->
       <pb n="II" facs="adl/goldschmidt/goldschmidt03/gold3002" xml:id="idm139686922273120"/>
       <pb n="III" facs="adl/goldschmidt/goldschmidt03/gold3003" xml:id="idm139686922272352"/>
       <titlePage xml:id="idm139686922271584">

@@ -1,11 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!-- VL 07.10.02 + vaerktitle; .tif fjernet; blank før kursiv indført 
-Ptj rettet s.8-9-10-   -->
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="idm140312760556912"><!-- 
-       file     ./marc_dir/002036511.xml
-       field     
-       subfield  
-       prefix   -->
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="root">
   <teiHeader xml:id="idm140312760555920">
     <fileDesc xml:id="idm140312760555664">
       <titleStmt xml:id="idm140312760555360">
@@ -24,8 +18,450 @@ Ptj rettet s.8-9-10-   -->
         <note xml:id="idm140312760526032">
 	  </note>
       </notesStmt>
-      <sourceDesc xml:id="idm140312760525520"><bibl xml:id="idm140312760525392"><author n="1" xml:id="idm140312760524704"><name xml:id="idm140312760524448"><surname xml:id="idm140312760524320">Bødtcher</surname>, <forename xml:id="idm140312760523888">Ludvig</forename></name></author><title xml:id="idm140312760523632">Samlede Digte</title><pubPlace xml:id="idm140312760523344">Holstebro</pubPlace>
-<date xml:id="idm140312760522832">1940</date></bibl><listBibl xml:id="idm140312760522544"><bibl xml:id="biblid55716"><title xml:id="idm140312760509392">FREDENSBORG</title></bibl><bibl xml:id="biblid55808"><title xml:id="idm140312760508608">DEN FROMME CLARA</title></bibl><bibl xml:id="biblid56008"><title xml:id="idm140312760507824">JÆGERPHANTASI</title></bibl><bibl xml:id="biblid56231"><title xml:id="idm140312760507024">DRØMMEREN</title></bibl><bibl xml:id="biblid56429"><title xml:id="idm140312760506192">DAG OG NAT</title></bibl><bibl xml:id="biblid56946"><title xml:id="idm140312760505360">DEN EFTERLADTE ROSE</title></bibl><bibl xml:id="biblid57105"><title xml:id="idm140312760504576">HR. BLOK</title></bibl><bibl xml:id="biblid57274"><title xml:id="idm140312760503792">TURNERINGEN</title></bibl><bibl xml:id="biblid58281"><title xml:id="idm140312760502960">FUGLEN</title></bibl><bibl xml:id="biblid61015"><title xml:id="idm140312760502176">KONG CHRISTIAN DEN OTTENDE</title></bibl><bibl xml:id="biblid61196"><title xml:id="idm140312760501312">FARVEL TIL MARTHES KILDE</title></bibl><bibl xml:id="biblid61690"><title xml:id="idm140312760500512">FODSPORET</title></bibl><bibl xml:id="biblid61966"><title xml:id="idm140312760499728">PHILOSOPHEN</title></bibl><bibl xml:id="biblid62154"><title xml:id="idm140312760498896">TIL A. OEHLENSCHLÄGER</title></bibl><bibl xml:id="biblid62319"><title xml:id="idm140312760498032">I A. OEHLENSCHLÄGERS ALBUM</title></bibl><bibl xml:id="biblid62406"><title xml:id="idm140312760497168">SANG DEN 8de MARTS</title></bibl><bibl xml:id="biblid62631"><title xml:id="idm140312760496336">MUNDUS OG PAULINA</title></bibl><bibl xml:id="biblid64015"><title xml:id="idm140312760495552">OPMUNTRING</title></bibl><bibl xml:id="biblid64335"><title xml:id="idm140312760494720">AFTEN VED ARICCIA</title></bibl><bibl xml:id="biblid64941"><title xml:id="idm140312760493888">MØDET MED BACCHUS</title></bibl><bibl xml:id="biblid66370"><title xml:id="idm140312760493040">JULESANG I ROM</title></bibl><bibl xml:id="biblid66549"><title xml:id="idm140312760492208">NEMI</title></bibl><bibl xml:id="biblid66914"><title xml:id="idm140312760491376">MORGEN I NEMI</title></bibl><bibl xml:id="biblid67333"><title xml:id="idm140312760490544">SANG DEN 28de JANUAR 1833 I ROM</title></bibl><bibl xml:id="biblid67503"><title xml:id="idm140312760489696">GJENKOMST TIL NEMI</title></bibl><bibl xml:id="biblid68003"><title xml:id="idm140312760488800">PAA FREGATTEN BELLONA I NORDSØEN 1835</title></bibl><bibl xml:id="biblid68162"><title xml:id="idm140312760487904">FISKEREN I NEMI</title></bibl><bibl xml:id="biblid68654"><title xml:id="idm140312760487120">TIL THORVALDSEN</title></bibl><bibl xml:id="biblid68807"><title xml:id="idm140312760486288">PIAZZA BARBERINA</title></bibl><bibl xml:id="biblid69425"><title xml:id="idm140312760485456">I APENNINERNE</title></bibl><bibl xml:id="biblid69657"><title xml:id="idm140312760484672">ATHENODORUS</title></bibl><bibl xml:id="biblid71161"><title xml:id="idm140312760483840">FREDERIK DEN SYVENDE</title></bibl><bibl xml:id="biblid71279"><title xml:id="idm140312760483008">I FORAARET</title></bibl><bibl xml:id="biblid71376"><title xml:id="idm140312760482176">TIL B. S. INGEMANN</title></bibl><bibl xml:id="biblid71541"><title xml:id="idm140312760481344">I LUNDEN</title></bibl><bibl xml:id="biblid71666"><title xml:id="idm140312760586240">NATTEN</title></bibl><bibl xml:id="biblid72037"><title xml:id="idm140312760585456">HØSTMINDE</title></bibl><bibl xml:id="biblid72214"><title xml:id="idm140312760584672">I GALOP</title></bibl><bibl xml:id="biblid72425"><title xml:id="idm140312760583888">TIL C. HAUCH</title></bibl><bibl xml:id="biblid72652"><title xml:id="idm140312760583104">EN ROSE</title></bibl><bibl xml:id="biblid72918"><title xml:id="idm140312760582256">GULDBRYLLUPSDIGT</title></bibl><bibl xml:id="biblid73244"><title xml:id="idm140312760455120">TIL CHRISTIAN WINTHER</title></bibl><bibl xml:id="biblid73368"><title xml:id="idm140312760454336">DEN GAMLE GREVE</title></bibl><bibl xml:id="biblid75074"><title xml:id="idm140312760453552">DE FORELSKEDE</title></bibl><bibl xml:id="biblid75597"><title xml:id="idm140312760452768">ET SUK FRA SKOVEN</title></bibl><bibl xml:id="biblid75783"><title xml:id="idm140312760451984">EROS</title></bibl><bibl xml:id="biblid75954"><title xml:id="idm140312760451200">FISKEREN</title></bibl><bibl xml:id="biblid76224"><title xml:id="idm140312760450416">SØLVBRYLLUPSSANG</title></bibl><bibl xml:id="biblid76338"><title xml:id="idm140312760449664">ANNINE</title></bibl><bibl xml:id="biblid76502"><title xml:id="idm140312760448880">LORENZO</title></bibl><bibl xml:id="biblid76801"><title xml:id="idm140312760448032">EN FESTSKAAL FOR ROM 1868</title></bibl><bibl xml:id="biblid76936"><title xml:id="idm140312760447280">HIMLEN AABEN</title></bibl><bibl xml:id="biblid77030"><title xml:id="idm140312760446496">SKJULTE KRÆFTER</title></bibl><bibl xml:id="biblid77083"><title xml:id="idm140312760445744">VED ET TAB</title></bibl><bibl xml:id="biblid77137"><title xml:id="idm140312760444896">ET VARSEL</title></bibl><bibl xml:id="biblid77407"><title xml:id="idm140312760444112">MOD SLUTNINGEN</title></bibl><bibl xml:id="biblid77632"><title xml:id="idm140312760443328">OLDINGENS TILBAGEBLIK PAA LIVET</title></bibl><bibl xml:id="biblid77842"><title xml:id="idm140312760442576">PROLOG</title></bibl><bibl xml:id="biblid77979"><title xml:id="idm140312760437728">DEN KLØGTIGE JOHAN</title></bibl><bibl xml:id="biblid78052"><title xml:id="idm140312760437040">PAA EN VENS DØR</title></bibl><bibl xml:id="biblid78140"><title xml:id="idm140312760436352">DEN HELLIGE KILDE</title></bibl><bibl xml:id="biblid78452"><title xml:id="idm140312760435664">DA JEG VAR SYG</title></bibl><bibl xml:id="biblid78502"><title xml:id="idm140312760434976">LUCAS OG LISETTE</title></bibl><bibl xml:id="biblid78586"><title xml:id="idm140312760434288">PROLOG (21. Sept. 1817)</title></bibl><bibl xml:id="biblid78706"><title xml:id="idm140312760433600">STRENGEN</title></bibl><bibl xml:id="biblid78825"><title xml:id="idm140312760432720">UNDER KRITIKEREN H. C. G. PROFTS PORTRÆT</title></bibl><bibl xml:id="biblid78864"><title xml:id="idm140312760431872">EPIGRAM (Iil ej...)</title></bibl><bibl xml:id="biblid78905"><title xml:id="idm140312760431024">SANG (ved Ingemanns Hjemkomst)</title></bibl><bibl xml:id="biblid79064"><title xml:id="idm140312760430272">OPMUNTRING</title></bibl><bibl xml:id="biblid79220"><title xml:id="idm140312760429488">HUN GIK TIL SØNDAGSDANDSEN</title></bibl><bibl xml:id="biblid79376"><title xml:id="idm140312760428608">BALVISE</title></bibl><bibl xml:id="biblid79485"><title xml:id="idm140312760427824">SANG (Rahbeks Sølvbryllup)</title></bibl><bibl xml:id="biblid79658"><title xml:id="idm140312760427008">EN JULESANG (1824)</title></bibl><bibl xml:id="biblid79820"><title xml:id="idm140312760426224">SANG PAA EN FØDSELSDAG</title></bibl><bibl xml:id="biblid79939"><title xml:id="idm140312760425408">JULEVISE, 1825</title></bibl><bibl xml:id="biblid80161"><title xml:id="idm140312760424624">I H. C. ANDERSENS STAMBOG</title></bibl><bibl xml:id="biblid80201"><title xml:id="idm140312760423872">DE DANSKES SANG I ROM</title></bibl><bibl xml:id="biblid80428"><title xml:id="idm140312760423088">GRAVSKRIFT (Carl Winsløw)</title></bibl><bibl xml:id="biblid80463"><title xml:id="idm140312760422272">NU KNOPPES ATTER TRÆET</title></bibl><bibl xml:id="biblid80540"><title xml:id="idm140312760421456">DET REGNER -</title></bibl><bibl xml:id="biblid80709"><title xml:id="idm140312760420672">CHARLOTTENLUNDSAFTENEN</title></bibl><bibl xml:id="biblid80790"><title xml:id="idm140312760419888">SØLVBRYLLUPSSANG (15de Marts 1839)</title></bibl><bibl xml:id="biblid80911"><title xml:id="idm140312760419056">HVORDAN HUN ER</title></bibl><bibl xml:id="biblid80983"><title xml:id="idm140312760418224">TIL EN CONFIRMANTINDE</title></bibl><bibl xml:id="biblid81086"><title xml:id="idm140312760417440">TIL EN DAME</title></bibl><bibl xml:id="biblid81176"><title xml:id="idm140312760416656">EPIGRAM (Hvor vrangt...)</title></bibl><bibl xml:id="biblid81221"><title xml:id="idm140312760415792">MED EN PENNEVIDSKER</title></bibl><bibl xml:id="biblid81256"><title xml:id="idm140312760415008">AFSKEDSSANG TIL EN VEN</title></bibl><bibl xml:id="biblid81350"><title xml:id="idm140312760414160">STRIKKEBREVE</title></bibl><bibl xml:id="biblid81563"><title xml:id="idm140312760413376">AARSSKIFTE</title></bibl><bibl xml:id="biblid81656"><title xml:id="idm140312760412480">MED EN RUBINRING</title></bibl><bibl xml:id="biblid81691"><title xml:id="idm140312760411696">SØLVBRYLLUPSSANG (1846)</title></bibl><bibl xml:id="biblid81903"><title xml:id="idm140312760410816">DEN 6te JULI</title></bibl><bibl xml:id="biblid82229"><title xml:id="idm140312760410032">ET FORTROLIGT ØJEBLIK</title></bibl><bibl xml:id="biblid82640"><title xml:id="idm140312760409152">SOPHIESHAAB</title></bibl><bibl xml:id="biblid82803"><title xml:id="idm140312760408304">MED EN GAVE</title></bibl><bibl xml:id="biblid82842"><title xml:id="idm140312760407456">1 SEPTEMBER 1859</title></bibl><bibl xml:id="biblid83044"><title xml:id="idm140312760406672">SANG TIL KONGEN (1860)</title></bibl><bibl xml:id="biblid83134"><title xml:id="idm140312760405888">SMUK, MEN DUM</title></bibl><bibl xml:id="biblid83179"><title xml:id="idm140312760405040">VED ET 50AARIGT STUDENTERJUBILÆUM</title></bibl><bibl xml:id="biblid83390"><title xml:id="idm140312760404208">EN JUBELSKAAL</title></bibl><bibl xml:id="biblid83565"><title xml:id="idm140312760403360">TIL CHRISTIAN WINTHER</title></bibl><bibl xml:id="biblid83715"><title xml:id="idm140312760402576">HANNIBAL LETH</title></bibl><bibl xml:id="biblid83788"><title xml:id="idm140312760401792">I EN UNG MUSIKERS STAMBOG</title></bibl><bibl xml:id="biblid83847"><title xml:id="idm140312760400928">STAMBOGSBLAD</title></bibl><bibl xml:id="biblid83918"><title xml:id="idm140312760400144">1 MAI 1866</title></bibl><bibl xml:id="biblid84004"><title xml:id="idm140312760399296">TIL FREDERIKKE LETH (1867)</title></bibl><bibl xml:id="biblid84047"><title xml:id="idm140312760398496">TIL FREDERIKKE LETH (1868)</title></bibl><bibl xml:id="biblid84110"><title xml:id="idm140312760397696">TIL MIN EGEN DRENG</title></bibl><bibl xml:id="biblid84254"><title xml:id="idm140312760396912">VEIEN SPÆRRET</title></bibl><bibl xml:id="biblid84426"><title xml:id="idm140312760396112">GULDBRYLLUPSBREV</title></bibl><bibl xml:id="biblid84592"><title xml:id="idm140312760395264">TIL FREDERIKKE LETH (1869)</title></bibl><bibl xml:id="biblid84682"><title xml:id="idm140312760394464">SKRIFTESTOLEN</title></bibl><bibl xml:id="biblid86054"><title xml:id="idm140312760393680">APRIL</title></bibl><bibl xml:id="biblid86147"><title xml:id="idm140312760392832">NOTTURNO</title></bibl><bibl xml:id="biblid86287"><title xml:id="idm140312760392048">INDSKRIFT PAA EN GULDTUMLING</title></bibl><bibl xml:id="biblid86326"><title xml:id="idm140312760391184">TIL EN KUNSTNERINDE</title></bibl><bibl xml:id="biblid86407"><title xml:id="idm140312760390336">EN AFTEN I HJEMMET</title></bibl><bibl xml:id="biblid86820"><title xml:id="idm140312760389552">TIL FREDERIKKE LETH (1871)</title></bibl><bibl xml:id="biblid86883"><title xml:id="idm140312760388752">FORAARSHILSEN</title></bibl><bibl xml:id="biblid87087"><title xml:id="idm140312760387904">DECEMBER</title></bibl><bibl xml:id="biblid87180"><title xml:id="idm140312760387056">TIL MIN KJÆRE VEN IL MAESTRO A. P. BERGGREEN!</title></bibl><bibl xml:id="biblid87234"><title xml:id="idm140312760386144">I EN LILLE PIGES ALBUM</title></bibl><bibl xml:id="biblid87447"><title xml:id="idm140312760385360">TIL FREDERIKKE LETH (1872)</title></bibl><bibl xml:id="biblid87529"><title xml:id="idm140312760384560">VIOLERNE</title></bibl><bibl xml:id="biblid87976"><title xml:id="idm140312760383776">BRYLLUPSDIGT</title></bibl><bibl xml:id="biblid88071"><title xml:id="idm140312760382928">TIL CHRISTIAN AGERSKOV</title></bibl><bibl xml:id="biblid88118"><title xml:id="idm140312760382080">ENGLEN ISRAFIL</title></bibl><bibl xml:id="biblid88330"><title xml:id="idm140312760381232">EFTER SORGEN</title></bibl><bibl xml:id="biblid88399"><title xml:id="idm140312760380448">VED EN CONFIRMATION</title></bibl><bibl xml:id="biblid88493"><title xml:id="idm140312760379664">TIL EN GAMMEL VEN</title></bibl><bibl xml:id="biblid88724"><title xml:id="idm140312760378768">TIL MIN KJÆRE THEODOR SCHORN</title></bibl><bibl xml:id="biblid88777"><title xml:id="idm140312760377872">SOMME DAGE</title></bibl><bibl xml:id="biblid88934"><title xml:id="idm140312760377024">EN TYV I ROM</title></bibl><bibl xml:id="biblid89603"><title xml:id="idm140312760376176">TIL FREDERIKKE LETH (1874)</title></bibl><bibl xml:id="biblid89689"><title xml:id="idm140312760375312">DU KAN LIGNES VED EN HAVE</title></bibl><bibl xml:id="biblid89778"><title xml:id="idm140312760374512">MED EN JULEENGEL</title></bibl><bibl xml:id="biblid89932"><title xml:id="idm140312760373664">TIL FRU EMMA BØDTCHER, f. ROSENSTAND</title></bibl><bibl xml:id="biblid89972"><title xml:id="idm140312760372752">VED TILBAGESENDELSEN AF EN BOG EFTER TRETTEN AARS LAAN</title></bibl><bibl xml:id="biblid90011"><title xml:id="idm140312760371936">I SKOVEN</title></bibl><bibl xml:id="biblid90139"><title xml:id="idm140312760371152">DET ER EN YNDIG TID</title></bibl><bibl xml:id="biblid90212"><title xml:id="idm140312760370304">DEN GAMLES BØN</title></bibl><bibl xml:id="biblid90283"><title xml:id="idm140312760369504">ET MØDE</title></bibl><bibl xml:id="biblid90627"><title xml:id="idm140312760368720">SANGFUGLEN</title></bibl></listBibl></sourceDesc>
+      <sourceDesc xml:id="idm140312760525520">
+        <bibl xml:id="idm140312760525392">
+          <author n="1" xml:id="idm140312760524704">
+            <name xml:id="idm140312760524448"><surname xml:id="idm140312760524320">Bødtcher</surname>, <forename xml:id="idm140312760523888">Ludvig</forename></name>
+          </author>
+          <title xml:id="idm140312760523632">Samlede Digte</title>
+          <pubPlace xml:id="idm140312760523344">Holstebro</pubPlace>
+          <date xml:id="idm140312760522832">1940</date>
+        </bibl>
+        <listBibl xml:id="idm140312760522544">
+          <bibl xml:id="biblid55716">
+            <title xml:id="idm140312760509392">FREDENSBORG</title>
+          </bibl>
+          <bibl xml:id="biblid55808">
+            <title xml:id="idm140312760508608">DEN FROMME CLARA</title>
+          </bibl>
+          <bibl xml:id="biblid56008">
+            <title xml:id="idm140312760507824">JÆGERPHANTASI</title>
+          </bibl>
+          <bibl xml:id="biblid56231">
+            <title xml:id="idm140312760507024">DRØMMEREN</title>
+          </bibl>
+          <bibl xml:id="biblid56429">
+            <title xml:id="idm140312760506192">DAG OG NAT</title>
+          </bibl>
+          <bibl xml:id="biblid56946">
+            <title xml:id="idm140312760505360">DEN EFTERLADTE ROSE</title>
+          </bibl>
+          <bibl xml:id="biblid57105">
+            <title xml:id="idm140312760504576">HR. BLOK</title>
+          </bibl>
+          <bibl xml:id="biblid57274">
+            <title xml:id="idm140312760503792">TURNERINGEN</title>
+          </bibl>
+          <bibl xml:id="biblid58281">
+            <title xml:id="idm140312760502960">FUGLEN</title>
+          </bibl>
+          <bibl xml:id="biblid61015">
+            <title xml:id="idm140312760502176">KONG CHRISTIAN DEN OTTENDE</title>
+          </bibl>
+          <bibl xml:id="biblid61196">
+            <title xml:id="idm140312760501312">FARVEL TIL MARTHES KILDE</title>
+          </bibl>
+          <bibl xml:id="biblid61690">
+            <title xml:id="idm140312760500512">FODSPORET</title>
+          </bibl>
+          <bibl xml:id="biblid61966">
+            <title xml:id="idm140312760499728">PHILOSOPHEN</title>
+          </bibl>
+          <bibl xml:id="biblid62154">
+            <title xml:id="idm140312760498896">TIL A. OEHLENSCHLÄGER</title>
+          </bibl>
+          <bibl xml:id="biblid62319">
+            <title xml:id="idm140312760498032">I A. OEHLENSCHLÄGERS ALBUM</title>
+          </bibl>
+          <bibl xml:id="biblid62406">
+            <title xml:id="idm140312760497168">SANG DEN 8de MARTS</title>
+          </bibl>
+          <bibl xml:id="biblid62631">
+            <title xml:id="idm140312760496336">MUNDUS OG PAULINA</title>
+          </bibl>
+          <bibl xml:id="biblid64015">
+            <title xml:id="idm140312760495552">OPMUNTRING</title>
+          </bibl>
+          <bibl xml:id="biblid64335">
+            <title xml:id="idm140312760494720">AFTEN VED ARICCIA</title>
+          </bibl>
+          <bibl xml:id="biblid64941">
+            <title xml:id="idm140312760493888">MØDET MED BACCHUS</title>
+          </bibl>
+          <bibl xml:id="biblid66370">
+            <title xml:id="idm140312760493040">JULESANG I ROM</title>
+          </bibl>
+          <bibl xml:id="biblid66549">
+            <title xml:id="idm140312760492208">NEMI</title>
+          </bibl>
+          <bibl xml:id="biblid66914">
+            <title xml:id="idm140312760491376">MORGEN I NEMI</title>
+          </bibl>
+          <bibl xml:id="biblid67333">
+            <title xml:id="idm140312760490544">SANG DEN 28de JANUAR 1833 I ROM</title>
+          </bibl>
+          <bibl xml:id="biblid67503">
+            <title xml:id="idm140312760489696">GJENKOMST TIL NEMI</title>
+          </bibl>
+          <bibl xml:id="biblid68003">
+            <title xml:id="idm140312760488800">PAA FREGATTEN BELLONA I NORDSØEN 1835</title>
+          </bibl>
+          <bibl xml:id="biblid68162">
+            <title xml:id="idm140312760487904">FISKEREN I NEMI</title>
+          </bibl>
+          <bibl xml:id="biblid68654">
+            <title xml:id="idm140312760487120">TIL THORVALDSEN</title>
+          </bibl>
+          <bibl xml:id="biblid68807">
+            <title xml:id="idm140312760486288">PIAZZA BARBERINA</title>
+          </bibl>
+          <bibl xml:id="biblid69425">
+            <title xml:id="idm140312760485456">I APENNINERNE</title>
+          </bibl>
+          <bibl xml:id="biblid69657">
+            <title xml:id="idm140312760484672">ATHENODORUS</title>
+          </bibl>
+          <bibl xml:id="biblid71161">
+            <title xml:id="idm140312760483840">FREDERIK DEN SYVENDE</title>
+          </bibl>
+          <bibl xml:id="biblid71279">
+            <title xml:id="idm140312760483008">I FORAARET</title>
+          </bibl>
+          <bibl xml:id="biblid71376">
+            <title xml:id="idm140312760482176">TIL B. S. INGEMANN</title>
+          </bibl>
+          <bibl xml:id="biblid71541">
+            <title xml:id="idm140312760481344">I LUNDEN</title>
+          </bibl>
+          <bibl xml:id="biblid71666">
+            <title xml:id="idm140312760586240">NATTEN</title>
+          </bibl>
+          <bibl xml:id="biblid72037">
+            <title xml:id="idm140312760585456">HØSTMINDE</title>
+          </bibl>
+          <bibl xml:id="biblid72214">
+            <title xml:id="idm140312760584672">I GALOP</title>
+          </bibl>
+          <bibl xml:id="biblid72425">
+            <title xml:id="idm140312760583888">TIL C. HAUCH</title>
+          </bibl>
+          <bibl xml:id="biblid72652">
+            <title xml:id="idm140312760583104">EN ROSE</title>
+          </bibl>
+          <bibl xml:id="biblid72918">
+            <title xml:id="idm140312760582256">GULDBRYLLUPSDIGT</title>
+          </bibl>
+          <bibl xml:id="biblid73244">
+            <title xml:id="idm140312760455120">TIL CHRISTIAN WINTHER</title>
+          </bibl>
+          <bibl xml:id="biblid73368">
+            <title xml:id="idm140312760454336">DEN GAMLE GREVE</title>
+          </bibl>
+          <bibl xml:id="biblid75074">
+            <title xml:id="idm140312760453552">DE FORELSKEDE</title>
+          </bibl>
+          <bibl xml:id="biblid75597">
+            <title xml:id="idm140312760452768">ET SUK FRA SKOVEN</title>
+          </bibl>
+          <bibl xml:id="biblid75783">
+            <title xml:id="idm140312760451984">EROS</title>
+          </bibl>
+          <bibl xml:id="biblid75954">
+            <title xml:id="idm140312760451200">FISKEREN</title>
+          </bibl>
+          <bibl xml:id="biblid76224">
+            <title xml:id="idm140312760450416">SØLVBRYLLUPSSANG</title>
+          </bibl>
+          <bibl xml:id="biblid76338">
+            <title xml:id="idm140312760449664">ANNINE</title>
+          </bibl>
+          <bibl xml:id="biblid76502">
+            <title xml:id="idm140312760448880">LORENZO</title>
+          </bibl>
+          <bibl xml:id="biblid76801">
+            <title xml:id="idm140312760448032">EN FESTSKAAL FOR ROM 1868</title>
+          </bibl>
+          <bibl xml:id="biblid76936">
+            <title xml:id="idm140312760447280">HIMLEN AABEN</title>
+          </bibl>
+          <bibl xml:id="biblid77030">
+            <title xml:id="idm140312760446496">SKJULTE KRÆFTER</title>
+          </bibl>
+          <bibl xml:id="biblid77083">
+            <title xml:id="idm140312760445744">VED ET TAB</title>
+          </bibl>
+          <bibl xml:id="biblid77137">
+            <title xml:id="idm140312760444896">ET VARSEL</title>
+          </bibl>
+          <bibl xml:id="biblid77407">
+            <title xml:id="idm140312760444112">MOD SLUTNINGEN</title>
+          </bibl>
+          <bibl xml:id="biblid77632">
+            <title xml:id="idm140312760443328">OLDINGENS TILBAGEBLIK PAA LIVET</title>
+          </bibl>
+          <bibl xml:id="biblid77842">
+            <title xml:id="idm140312760442576">PROLOG</title>
+          </bibl>
+          <bibl xml:id="biblid77979">
+            <title xml:id="idm140312760437728">DEN KLØGTIGE JOHAN</title>
+          </bibl>
+          <bibl xml:id="biblid78052">
+            <title xml:id="idm140312760437040">PAA EN VENS DØR</title>
+          </bibl>
+          <bibl xml:id="biblid78140">
+            <title xml:id="idm140312760436352">DEN HELLIGE KILDE</title>
+          </bibl>
+          <bibl xml:id="biblid78452">
+            <title xml:id="idm140312760435664">DA JEG VAR SYG</title>
+          </bibl>
+          <bibl xml:id="biblid78502">
+            <title xml:id="idm140312760434976">LUCAS OG LISETTE</title>
+          </bibl>
+          <bibl xml:id="biblid78586">
+            <title xml:id="idm140312760434288">PROLOG (21. Sept. 1817)</title>
+          </bibl>
+          <bibl xml:id="biblid78706">
+            <title xml:id="idm140312760433600">STRENGEN</title>
+          </bibl>
+          <bibl xml:id="biblid78825">
+            <title xml:id="idm140312760432720">UNDER KRITIKEREN H. C. G. PROFTS PORTRÆT</title>
+          </bibl>
+          <bibl xml:id="biblid78864">
+            <title xml:id="idm140312760431872">EPIGRAM (Iil ej...)</title>
+          </bibl>
+          <bibl xml:id="biblid78905">
+            <title xml:id="idm140312760431024">SANG (ved Ingemanns Hjemkomst)</title>
+          </bibl>
+          <bibl xml:id="biblid79064">
+            <title xml:id="idm140312760430272">OPMUNTRING</title>
+          </bibl>
+          <bibl xml:id="biblid79220">
+            <title xml:id="idm140312760429488">HUN GIK TIL SØNDAGSDANDSEN</title>
+          </bibl>
+          <bibl xml:id="biblid79376">
+            <title xml:id="idm140312760428608">BALVISE</title>
+          </bibl>
+          <bibl xml:id="biblid79485">
+            <title xml:id="idm140312760427824">SANG (Rahbeks Sølvbryllup)</title>
+          </bibl>
+          <bibl xml:id="biblid79658">
+            <title xml:id="idm140312760427008">EN JULESANG (1824)</title>
+          </bibl>
+          <bibl xml:id="biblid79820">
+            <title xml:id="idm140312760426224">SANG PAA EN FØDSELSDAG</title>
+          </bibl>
+          <bibl xml:id="biblid79939">
+            <title xml:id="idm140312760425408">JULEVISE, 1825</title>
+          </bibl>
+          <bibl xml:id="biblid80161">
+            <title xml:id="idm140312760424624">I H. C. ANDERSENS STAMBOG</title>
+          </bibl>
+          <bibl xml:id="biblid80201">
+            <title xml:id="idm140312760423872">DE DANSKES SANG I ROM</title>
+          </bibl>
+          <bibl xml:id="biblid80428">
+            <title xml:id="idm140312760423088">GRAVSKRIFT (Carl Winsløw)</title>
+          </bibl>
+          <bibl xml:id="biblid80463">
+            <title xml:id="idm140312760422272">NU KNOPPES ATTER TRÆET</title>
+          </bibl>
+          <bibl xml:id="biblid80540">
+            <title xml:id="idm140312760421456">DET REGNER -</title>
+          </bibl>
+          <bibl xml:id="biblid80709">
+            <title xml:id="idm140312760420672">CHARLOTTENLUNDSAFTENEN</title>
+          </bibl>
+          <bibl xml:id="biblid80790">
+            <title xml:id="idm140312760419888">SØLVBRYLLUPSSANG (15de Marts 1839)</title>
+          </bibl>
+          <bibl xml:id="biblid80911">
+            <title xml:id="idm140312760419056">HVORDAN HUN ER</title>
+          </bibl>
+          <bibl xml:id="biblid80983">
+            <title xml:id="idm140312760418224">TIL EN CONFIRMANTINDE</title>
+          </bibl>
+          <bibl xml:id="biblid81086">
+            <title xml:id="idm140312760417440">TIL EN DAME</title>
+          </bibl>
+          <bibl xml:id="biblid81176">
+            <title xml:id="idm140312760416656">EPIGRAM (Hvor vrangt...)</title>
+          </bibl>
+          <bibl xml:id="biblid81221">
+            <title xml:id="idm140312760415792">MED EN PENNEVIDSKER</title>
+          </bibl>
+          <bibl xml:id="biblid81256">
+            <title xml:id="idm140312760415008">AFSKEDSSANG TIL EN VEN</title>
+          </bibl>
+          <bibl xml:id="biblid81350">
+            <title xml:id="idm140312760414160">STRIKKEBREVE</title>
+          </bibl>
+          <bibl xml:id="biblid81563">
+            <title xml:id="idm140312760413376">AARSSKIFTE</title>
+          </bibl>
+          <bibl xml:id="biblid81656">
+            <title xml:id="idm140312760412480">MED EN RUBINRING</title>
+          </bibl>
+          <bibl xml:id="biblid81691">
+            <title xml:id="idm140312760411696">SØLVBRYLLUPSSANG (1846)</title>
+          </bibl>
+          <bibl xml:id="biblid81903">
+            <title xml:id="idm140312760410816">DEN 6te JULI</title>
+          </bibl>
+          <bibl xml:id="biblid82229">
+            <title xml:id="idm140312760410032">ET FORTROLIGT ØJEBLIK</title>
+          </bibl>
+          <bibl xml:id="biblid82640">
+            <title xml:id="idm140312760409152">SOPHIESHAAB</title>
+          </bibl>
+          <bibl xml:id="biblid82803">
+            <title xml:id="idm140312760408304">MED EN GAVE</title>
+          </bibl>
+          <bibl xml:id="biblid82842">
+            <title xml:id="idm140312760407456">1 SEPTEMBER 1859</title>
+          </bibl>
+          <bibl xml:id="biblid83044">
+            <title xml:id="idm140312760406672">SANG TIL KONGEN (1860)</title>
+          </bibl>
+          <bibl xml:id="biblid83134">
+            <title xml:id="idm140312760405888">SMUK, MEN DUM</title>
+          </bibl>
+          <bibl xml:id="biblid83179">
+            <title xml:id="idm140312760405040">VED ET 50AARIGT STUDENTERJUBILÆUM</title>
+          </bibl>
+          <bibl xml:id="biblid83390">
+            <title xml:id="idm140312760404208">EN JUBELSKAAL</title>
+          </bibl>
+          <bibl xml:id="biblid83565">
+            <title xml:id="idm140312760403360">TIL CHRISTIAN WINTHER</title>
+          </bibl>
+          <bibl xml:id="biblid83715">
+            <title xml:id="idm140312760402576">HANNIBAL LETH</title>
+          </bibl>
+          <bibl xml:id="biblid83788">
+            <title xml:id="idm140312760401792">I EN UNG MUSIKERS STAMBOG</title>
+          </bibl>
+          <bibl xml:id="biblid83847">
+            <title xml:id="idm140312760400928">STAMBOGSBLAD</title>
+          </bibl>
+          <bibl xml:id="biblid83918">
+            <title xml:id="idm140312760400144">1 MAI 1866</title>
+          </bibl>
+          <bibl xml:id="biblid84004">
+            <title xml:id="idm140312760399296">TIL FREDERIKKE LETH (1867)</title>
+          </bibl>
+          <bibl xml:id="biblid84047">
+            <title xml:id="idm140312760398496">TIL FREDERIKKE LETH (1868)</title>
+          </bibl>
+          <bibl xml:id="biblid84110">
+            <title xml:id="idm140312760397696">TIL MIN EGEN DRENG</title>
+          </bibl>
+          <bibl xml:id="biblid84254">
+            <title xml:id="idm140312760396912">VEIEN SPÆRRET</title>
+          </bibl>
+          <bibl xml:id="biblid84426">
+            <title xml:id="idm140312760396112">GULDBRYLLUPSBREV</title>
+          </bibl>
+          <bibl xml:id="biblid84592">
+            <title xml:id="idm140312760395264">TIL FREDERIKKE LETH (1869)</title>
+          </bibl>
+          <bibl xml:id="biblid84682">
+            <title xml:id="idm140312760394464">SKRIFTESTOLEN</title>
+          </bibl>
+          <bibl xml:id="biblid86054">
+            <title xml:id="idm140312760393680">APRIL</title>
+          </bibl>
+          <bibl xml:id="biblid86147">
+            <title xml:id="idm140312760392832">NOTTURNO</title>
+          </bibl>
+          <bibl xml:id="biblid86287">
+            <title xml:id="idm140312760392048">INDSKRIFT PAA EN GULDTUMLING</title>
+          </bibl>
+          <bibl xml:id="biblid86326">
+            <title xml:id="idm140312760391184">TIL EN KUNSTNERINDE</title>
+          </bibl>
+          <bibl xml:id="biblid86407">
+            <title xml:id="idm140312760390336">EN AFTEN I HJEMMET</title>
+          </bibl>
+          <bibl xml:id="biblid86820">
+            <title xml:id="idm140312760389552">TIL FREDERIKKE LETH (1871)</title>
+          </bibl>
+          <bibl xml:id="biblid86883">
+            <title xml:id="idm140312760388752">FORAARSHILSEN</title>
+          </bibl>
+          <bibl xml:id="biblid87087">
+            <title xml:id="idm140312760387904">DECEMBER</title>
+          </bibl>
+          <bibl xml:id="biblid87180">
+            <title xml:id="idm140312760387056">TIL MIN KJÆRE VEN IL MAESTRO A. P. BERGGREEN!</title>
+          </bibl>
+          <bibl xml:id="biblid87234">
+            <title xml:id="idm140312760386144">I EN LILLE PIGES ALBUM</title>
+          </bibl>
+          <bibl xml:id="biblid87447">
+            <title xml:id="idm140312760385360">TIL FREDERIKKE LETH (1872)</title>
+          </bibl>
+          <bibl xml:id="biblid87529">
+            <title xml:id="idm140312760384560">VIOLERNE</title>
+          </bibl>
+          <bibl xml:id="biblid87976">
+            <title xml:id="idm140312760383776">BRYLLUPSDIGT</title>
+          </bibl>
+          <bibl xml:id="biblid88071">
+            <title xml:id="idm140312760382928">TIL CHRISTIAN AGERSKOV</title>
+          </bibl>
+          <bibl xml:id="biblid88118">
+            <title xml:id="idm140312760382080">ENGLEN ISRAFIL</title>
+          </bibl>
+          <bibl xml:id="biblid88330">
+            <title xml:id="idm140312760381232">EFTER SORGEN</title>
+          </bibl>
+          <bibl xml:id="biblid88399">
+            <title xml:id="idm140312760380448">VED EN CONFIRMATION</title>
+          </bibl>
+          <bibl xml:id="biblid88493">
+            <title xml:id="idm140312760379664">TIL EN GAMMEL VEN</title>
+          </bibl>
+          <bibl xml:id="biblid88724">
+            <title xml:id="idm140312760378768">TIL MIN KJÆRE THEODOR SCHORN</title>
+          </bibl>
+          <bibl xml:id="biblid88777">
+            <title xml:id="idm140312760377872">SOMME DAGE</title>
+          </bibl>
+          <bibl xml:id="biblid88934">
+            <title xml:id="idm140312760377024">EN TYV I ROM</title>
+          </bibl>
+          <bibl xml:id="biblid89603">
+            <title xml:id="idm140312760376176">TIL FREDERIKKE LETH (1874)</title>
+          </bibl>
+          <bibl xml:id="biblid89689">
+            <title xml:id="idm140312760375312">DU KAN LIGNES VED EN HAVE</title>
+          </bibl>
+          <bibl xml:id="biblid89778">
+            <title xml:id="idm140312760374512">MED EN JULEENGEL</title>
+          </bibl>
+          <bibl xml:id="biblid89932">
+            <title xml:id="idm140312760373664">TIL FRU EMMA BØDTCHER, f. ROSENSTAND</title>
+          </bibl>
+          <bibl xml:id="biblid89972">
+            <title xml:id="idm140312760372752">VED TILBAGESENDELSEN AF EN BOG EFTER TRETTEN AARS LAAN</title>
+          </bibl>
+          <bibl xml:id="biblid90011">
+            <title xml:id="idm140312760371936">I SKOVEN</title>
+          </bibl>
+          <bibl xml:id="biblid90139">
+            <title xml:id="idm140312760371152">DET ER EN YNDIG TID</title>
+          </bibl>
+          <bibl xml:id="biblid90212">
+            <title xml:id="idm140312760370304">DEN GAMLES BØN</title>
+          </bibl>
+          <bibl xml:id="biblid90283">
+            <title xml:id="idm140312760369504">ET MØDE</title>
+          </bibl>
+          <bibl xml:id="biblid90627">
+            <title xml:id="idm140312760368720">SANGFUGLEN</title>
+          </bibl>
+        </listBibl>
+      </sourceDesc>
     </fileDesc>
   </teiHeader>
   <text xml:id="idm140312760368080">

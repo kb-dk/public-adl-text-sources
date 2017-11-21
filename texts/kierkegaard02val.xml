@@ -1,13 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!-- VL: 14.10.02 fjernet et par overflødige vaerktitler. emph replaced with spat; 
-Greek letters replaced with [x]. dolgoeO replaced with d.v.s.; » fjernet fra vaerktitle
-Ptj rettet  mange "o" til ø 
--->
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="idm140578677591152"><!-- 
-       file     ./marc_dir/001693702.xml
-       field     
-       subfield  
-       prefix   -->
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="root">
   <teiHeader xml:id="idm140578677590144">
     <fileDesc xml:id="idm140578677589888">
       <titleStmt xml:id="idm140578677564464">
@@ -28,17 +20,38 @@ Ptj rettet  mange "o" til ø
         <note xml:id="idm140578677559776">
 	  </note>
       </notesStmt>
-      <sourceDesc xml:id="idm140578677559264"><bibl xml:id="idm140578677559136"><author n="1" xml:id="idm140578677558448"><name xml:id="idm140578677558192"><surname xml:id="idm140578677558064">Kierkegaard</surname>, <forename xml:id="idm140578677557632">Søren</forename></name></author><title xml:id="idm140578677557376">Frygt og bæven</title><pubPlace xml:id="idm140578677557072">[S.l.]</pubPlace>
-<publisher xml:id="idm140578677556608">Det Danske Sprog- og Litteraturselskab</publisher><publisher xml:id="idm140578677556304">Borgen</publisher><date xml:id="idm140578677555968">1994</date></bibl><listBibl xml:id="idm140578677555680"><bibl xml:id="biblid54242"><title xml:id="idm140578677542528">Frygt og Bæven</title></bibl><bibl xml:id="biblid60565"><title xml:id="idm140578677541728">Tre opbyggelige Taler</title></bibl><bibl xml:id="biblid62753"><title xml:id="idm140578677540944">Sygdommen til Døden</title></bibl><bibl xml:id="biblid70233"><title xml:id="idm140578677540128">Ypperstepræsten - Tolderen - Synderinden</title></bibl></listBibl></sourceDesc>
+      <sourceDesc xml:id="idm140578677559264">
+        <bibl xml:id="idm140578677559136">
+          <author n="1" xml:id="idm140578677558448">
+            <name xml:id="idm140578677558192"><surname xml:id="idm140578677558064">Kierkegaard</surname>, <forename xml:id="idm140578677557632">Søren</forename></name>
+          </author>
+          <title xml:id="idm140578677557376">Frygt og bæven</title>
+          <pubPlace xml:id="idm140578677557072">[S.l.]</pubPlace>
+          <publisher xml:id="idm140578677556608">Det Danske Sprog- og Litteraturselskab</publisher>
+          <publisher xml:id="idm140578677556304">Borgen</publisher>
+          <date xml:id="idm140578677555968">1994</date>
+        </bibl>
+        <listBibl xml:id="idm140578677555680">
+          <bibl xml:id="biblid54242">
+            <title xml:id="idm140578677542528">Frygt og Bæven</title>
+          </bibl>
+          <bibl xml:id="biblid60565">
+            <title xml:id="idm140578677541728">Tre opbyggelige Taler</title>
+          </bibl>
+          <bibl xml:id="biblid62753">
+            <title xml:id="idm140578677540944">Sygdommen til Døden</title>
+          </bibl>
+          <bibl xml:id="biblid70233">
+            <title xml:id="idm140578677540128">Ypperstepræsten - Tolderen - Synderinden</title>
+          </bibl>
+        </listBibl>
+      </sourceDesc>
     </fileDesc>
   </teiHeader>
   <text xml:id="idm140578677539392">
     <front xml:id="idm140578677539136">
       <pb n="1" facs="adl/kierkegaard/kierkegaard2/kierkeg2001" xml:id="idm140578677538832"/>
       <gap reason="cancelled" xml:id="idm140578677538048"/>
-<!---->
-<!---->
-<!--Frygt og Bæven Sygdommen til Døden Taler-->
       <pb n="2" facs="adl/kierkegaard/kierkegaard2/kierkeg2002" xml:id="idm140578677536528"/>
       <pb n="3" facs="adl/kierkegaard/kierkegaard2/kierkeg2003" xml:id="idm140578677535712"/>
       <titlePage xml:id="idm140578677534944">
@@ -1633,10 +1646,10 @@ Ptj rettet  mange "o" til ø
 									er gjeldende for Enhver, hvilket fra en anden Side lader sig
 									udtrykke saaledes, at det er gjeldende i ethvert Øieblik. Det
 									hviler immanent i sig selv, har Intet uden for sig, der er dets
-										<hi rend="italics" xml:id="idm140578677196912"><hi rend="bold" xml:id="idm140578677196512">[x][x][x][x][x]<!-- &#964;&#949;&#955;&#959;&#962; --></hi></hi> , men er selv <hi rend="italics" xml:id="idm140578677195568"><hi rend="bold" xml:id="idm140578677195168">[x][x][x][x][x]<!-- &#964;&#949;&#955;&#959;&#962; --></hi></hi> for Alt, hvad det har udenfor sig, og naar det Ethiske har
+										<hi rend="italics" xml:id="idm140578677196912"><hi rend="bold" xml:id="idm140578677196512">[x][x][x][x][x]</hi></hi> , men er selv <hi rend="italics" xml:id="idm140578677195568"><hi rend="bold" xml:id="idm140578677195168">[x][x][x][x][x]</hi></hi> for Alt, hvad det har udenfor sig, og naar det Ethiske har
 									optaget dette i sig, da kommer det ikke videre. Umiddelbar
 									sandselig og sjælelig bestemmet er den Enkelte den Enkelte, der
-									i det Almene har sit <hi rend="italics" xml:id="idm140578677193824"><hi rend="bold" xml:id="idm140578677193424">[x][x][x][x][x]<!-- &#964;&#949;&#955;&#959;&#962; --></hi></hi>, og dette er hans ethiske Opgave, bestandig at udtrykke
+									i det Almene har sit <hi rend="italics" xml:id="idm140578677193824"><hi rend="bold" xml:id="idm140578677193424">[x][x][x][x][x]</hi></hi>, og dette er hans ethiske Opgave, bestandig at udtrykke
 									sig selv i dette, at ophæve sin Enkelthed for at blive det
 									Almene. Saasnart den Enkelte vil gjøre sig gjeldende i sin
 									Enkelthed ligeoverfor det Almene, da synder han, og kan kun ved
@@ -1648,10 +1661,10 @@ Ptj rettet  mange "o" til ø
 									dette det Høieste, der lader sig sige om Mennesket og om hans
 									Tilværelse, saa har det Ethiske samme Beskaffenhed som et
 									Menneskes evige Salighed, hvilken i al Evighed og i ethvert
-									Øieblik er hans <hi rend="italics" xml:id="idm140578677190640"><hi rend="bold" xml:id="idm140578677190240">[x][x][x][x][x]<!--&#964;&#949;&#955;&#959;&#962; --></hi></hi>, da det vilde være en Modsigelse, at den skulde kunne
+									Øieblik er hans <hi rend="italics" xml:id="idm140578677190640"><hi rend="bold" xml:id="idm140578677190240">[x][x][x][x][x]</hi></hi>, da det vilde være en Modsigelse, at den skulde kunne
 									opgives(d.v.s. teleologisk suspenderes) da den, saasnart den
 									suspenderes, forskjærtses, medens hvad der suspenderes ikke er
-									forskjærtset, men netop bevaret i det Høiere, der er dets <hi rend="italics" xml:id="idm140578677188816"><hi rend="bold" xml:id="idm140578677188416">[x][x][x][x][x]<!-- &#964;&#949;&#955;&#959;&#962; --></hi></hi>.</p>
+									forskjærtset, men netop bevaret i det Høiere, der er dets <hi rend="italics" xml:id="idm140578677188816"><hi rend="bold" xml:id="idm140578677188416">[x][x][x][x][x]</hi></hi>.</p>
                 <p xml:id="idm140578677187424">Forholder det sig saaledes, da har Hegel Ret, naar han lader
 									Mennesket i det Gode og Samvittigheden kun være bestemmet som
 									den Enkelte, han har Ret i at betragte denne Bestemmethed som en
@@ -1810,13 +1823,13 @@ Ptj rettet  mange "o" til ø
 									man saa kunde troe det?</p>
                 <p xml:id="idm140578677160688">Forskjellen mellem den tragiske Helt og Abraham er let
 									iøinefaldende. Den tragiske Helt bliver endnu indenfor det
-									Ethiske. Han lader et Udtryk af det Ethiske have sit <hi rend="italics" xml:id="idm140578677160048"><hi rend="bold" xml:id="idm140578677159648">[x][x][x][x][x]<!--&#964;&#949;&#955;&#959;&#962; --></hi></hi> i et høiere Udtryk af det Ethiske, han nedsætter det
+									Ethiske. Han lader et Udtryk af det Ethiske have sit <hi rend="italics" xml:id="idm140578677160048"><hi rend="bold" xml:id="idm140578677159648">[x][x][x][x][x]</hi></hi> i et høiere Udtryk af det Ethiske, han nedsætter det
 									ethiske Forhold mellem Fader og Søn eller Datter og Fader til en
 									Følelse, der har sin Dialektik i sit Forhold til Sædelighedens
 									Idee. Der kan da ikke her være Tale om en teleologisk Suspension
 									af selve det Ethiske.</p>
                 <p xml:id="idm140578677157984">Med Abraham forholder det sig anderledes. Han overskred ved sin
-									Gjerning hele det Ethiske, og havde et høiere <hi rend="italics" xml:id="idm140578677157472"><hi rend="bold" xml:id="idm140578677157072">[x][x][x][x][x]<!-- &#964;&#949;&#955;&#959;&#962; --></hi></hi> udenfor, i Forhold til hvilket han suspenderede dette. Thi
+									Gjerning hele det Ethiske, og havde et høiere <hi rend="italics" xml:id="idm140578677157472"><hi rend="bold" xml:id="idm140578677157072">[x][x][x][x][x]</hi></hi> udenfor, i Forhold til hvilket han suspenderede dette. Thi
 									jeg gad dog nok vide, hvorledes man vil bringe Abrahams Gjerning
 									i Forhold til det Almene, om der lader sig opdage nogensomhelst
 									anden Berøring mellem det, Abraham gjorde, og det Almene end
@@ -1927,9 +1940,7 @@ Ptj rettet  mange "o" til ø
 									leilighedsviis i vor Tid hører et Svar i Retning af Paradoxet,
 									da lyder det gjerne saaledes: det bedømmer man efter Udfaldet.
 									En Helt, der er bleven sin Samtids
-									[x][x][x][x][x][x][x][x][x]<!-- <hi rend="italics">
-										<hi rend="bold">&#963;&#967;&#945;&#957;&#948;&#945;&#955;&#959;&#957; </hi>
-									</hi> -->,
+									[x][x][x][x][x][x][x][x][x],
 									i Bevidsthed af, at han er et Paradox, der ikke kan gjøre sig
 									forstaaelig, tilraaber trøstig Samtiden: Udfaldet skal vel
 									bevise, at jeg var berettiget I vor Tid hører man sjeldnere
@@ -2255,8 +2266,8 @@ Ptj rettet  mange "o" til ø
 									Dog denne Taushed er kun en Udflugt, som Intet hjælper. Den
 									theologiske Studerende han faaer imidlertid at vide, at disse
 									Ord forekomme i det nye Testamente, og i et eller andet
-									exegetisk Hjælpemiddel finder han den Oplysning, at <hi rend="italics" xml:id="idm140578677083200"><hi rend="bold" xml:id="idm140578677082800">[x][x][x][x][x][x]<!-- &#956;&#953;&#963;&#949;&#953;&#957; --></hi></hi> paa dette og et Par andre Steder <hi rend="italics" xml:id="idm140578677081888">per
-											<hi rend="bold" xml:id="idm140578677081328">[x][x][x][x][x][x][x]<!-- &#956;&#949;&#953;&#969;&#963;&#953;&#957; --></hi>
+									exegetisk Hjælpemiddel finder han den Oplysning, at <hi rend="italics" xml:id="idm140578677083200"><hi rend="bold" xml:id="idm140578677082800">[x][x][x][x][x][x]</hi></hi> paa dette og et Par andre Steder <hi rend="italics" xml:id="idm140578677081888">per
+											<hi rend="bold" xml:id="idm140578677081328">[x][x][x][x][x][x][x]</hi>
 									</hi> betyder: <hi rend="italics" xml:id="idm140578677080224">minus diligo, posthabeo, non
 										colo, nihili facio</hi>. Forbindelsen, hvori disse Ord
 									forekomme, synes dog ikke at bestyrke denne smagfulde
@@ -2270,8 +2281,8 @@ Ptj rettet  mange "o" til ø
                 <p xml:id="idm140578677077440">Dersom hiin fromme og kjelne Exeget, der ved saaledes at prutte
 									mener at smugle Christendommen ind i Verden, havde Lykke til at
 									overbevise et Menneske om, at dette baade gramaticalsk,
-									linguistisk og <hi rend="italics" xml:id="idm140578677076944"><hi rend="bold" xml:id="idm140578677076544">[x][x][x][x]<!-- &#967;&#945;&#964;' -->
-											[x][x][x][x][x][x][x][x][x]<!-- &#945;&#957;&#945;&#955;&#959;&#947;&#953;&#945;&#957; --></hi></hi> var Meningen af hiint Sted, saa vil han, forhaabentlig,
+									linguistisk og <hi rend="italics" xml:id="idm140578677076944"><hi rend="bold" xml:id="idm140578677076544">[x][x][x][x]
+											[x][x][x][x][x][x][x][x][x]</hi></hi> var Meningen af hiint Sted, saa vil han, forhaabentlig,
 									ogsaa have Lykke til i samme Øieblik at overbevise det samme
 									Menneske om, at Christendommen er noget af det Erbarmeligste i
 									Verden. Thi den Lære, der i et af sine mest lyriske Udbrud, hvor
@@ -2650,12 +2661,10 @@ Ptj rettet  mange "o" til ø
 										[x][x][x] [x][x][x] [x][x][x] [x][x][x][x][x] [x][x][x][x]
 										[x][x][x][x] [x][x][x][x] [x][x][x][x],
 										[x][x][x][x][x][x][x][x][x][x] [x][x][x]
-										[x][x][x][x][x][x][x][x][x][x][x]<!-- <hi rend="italics">
-											<hi rend="bold">&#948;&#965;&#959; &#956;&#949;&#957; &#959;&#965;&#957; &#964;&#959;&#965; &#956;&#965;&#977;&#959;&#965; &#956;&#949;&#961;&#951;, &#960;&#949;&#961;&#953; &#964;&#945;&#965;&#964;' &#949;&#963;&#964;&#953;, &#960;&#949;&#961;&#953;&#960;&#949;&#964;&#949;&#953;&#945; &#954;&#945;&#953; &#945;&#957;&#945;&#947;&#957;&#969;&#961;&#953;&#963;&#953;&#962;</hi>
-										</hi> -->(cfr.
+										[x][x][x][x][x][x][x][x][x][x][x](cfr.
 											<hi rend="italics" xml:id="idm140578677373760">cap</hi>. 11). Det er naturligt kun
 										det andet Moment, der her beskæftiger mig: <hi rend="italics" xml:id="idm140578677372304">
-											[x][x][x][x][x][x][x][x][x][x][x]<!-- &#945;&#957;&#945;&#947;&#957;&#969;&#961;&#953;&#963;&#953;&#962; --></hi>,
+											[x][x][x][x][x][x][x][x][x][x][x]</hi>,
 										Gjenkjendelsen. Overalt hvor der kan være Tale om en
 										Gjenkjendelse, der er <hi rend="italics" xml:id="idm140578677371232">eo ipso</hi> Tale
 										om en foregaaende Skjulthed. Som da Gjenkjendelsen bliver
@@ -2663,9 +2672,9 @@ Ptj rettet  mange "o" til ø
 										Spændende i det dramatiske Liv. Hvad Aristoteles i det
 										Foregaaende af samme Capitel udvikler angaaende Tragediens
 										forskjellige Værd alt i Forhold til som
-										[x][x][x][x][x][x][x][x][x][x]<!-- <hi rend="italics">&#960;&#949;&#961;&#953;&#960;&#949;&#964;&#949;&#953;&#945;</hi> -->
+										[x][x][x][x][x][x][x][x][x][x]
 										og
-										[x][x][x][x][x][x][x][x][x][x][x]<!-- <hi rend="italics">&#945;&#957;&#945;&#947;&#957;&#969;&#961;&#953;&#963;&#953;&#962;</hi> -->
+										[x][x][x][x][x][x][x][x][x][x][x]
 										carambolere, samt om den enkelte og den dobbelte
 										Gjenkjendelse, kan jeg her ikke tage Hensyn til, om det end
 										frister ved sin Inderlighed og sin stille Fortabelse især
@@ -3385,7 +3394,7 @@ Ptj rettet  mange "o" til ø
 											Hedenskab, de to egentlige Repræsentanter for den græske
 											Anskuelse af Tilværelsen <hi rend="italics" xml:id="idm140578676865472">
 												[x][x][x][x][x]
-												[x][x][x][x][x][x]<!-- <hi rend="bold">&#947;&#957;&#969;&#977;&#953; &#963;&#945;&#965;&#964;&#959;&#957;</hi> -->
+												[x][x][x][x][x][x]
 											</hi>, hver paa sin Viis have antydet, at man ved at
 											fordybe sig i sig selv først og fremmest opdager
 											Dispositionen til det Onde. At jeg tænker paa Pythagoras
@@ -3442,9 +3451,7 @@ Ptj rettet  mange "o" til ø
 										[x][x][x][x][x][x] [x] [x][x][x][x][x][x][x][x],
 										[x][x][x][x][x] [x][x] [x][x][x][x][x][x] [x] [x][x][x]
 										[x][x][x][x][x][x][x][x]
-										[x][x][x][x][x][x][x][x]<!-- <hi rend="italics">
-											<hi rend="bold">&#960;&#8049;&#957;&#964;&#969;&#962; &#947;&#8048;&#961; &#959;&#8016;&#948;&#949;&#953;&#962; &#8142;&#917;&#961;&#969;&#964;&#945; &#7956;&#981;&#965;&#947;&#949;&#957; &#7972; &#981;&#949;&#965;&#958;&#949;&#964;&#945;&#953;, &#956;&#8051;&#967;&#961;&#953; &#7940;&#957; &#954;&#8049;&#955;&#955;&#962; &#8086; &#954;&#945;&#8054; &#8000;&#981;&#977;&#945;&#955;&#956;&#959;&#953; &#946;&#955;&#8051;&#960;&#969;&#963;&#953;&#957;</hi>
-										</hi> -->
+										[x][x][x][x][x][x][x][x]
 										(cfr. <hi rend="italics" xml:id="idm140578676854512">Longi Pastoralia</hi>). Der var
 										mangen Pige, der blev ulykkelig i Kjærlighed, men hun blev
 										det dog, Sara var det, før hun blev det Det er tungt, ikke
@@ -3619,7 +3626,7 @@ Ptj rettet  mange "o" til ø
 										ene Digter efter den anden ufortrøden hen ad den slagne
 										Landevei. Lad os foretage en lille Forandring. Faust er
 										Tvivleren [x][x][x]
-										[x][x][x][x][x][x]<!-- <hi rend="italics"><hi rend="bold">&#1008;&#945;&#964;' &#949;&#958;&#959;&#967;&#951;&#957;</hi></hi> -->;
+										[x][x][x][x][x][x];
 										men haner en sympathetisk Natur. Selv i Goethes Opfattelse
 										af Faust savner jeg et dybere psykologisk Indblik i Tvivlens
 										hemmelige Samtaler med sig selv. I vor tid, da jo Alle have
@@ -4219,7 +4226,7 @@ Ptj rettet  mange "o" til ø
 									[x][x][x][x][x][x][x][x][x] [x][x] [x][x][x][x] [x][x][x][x][x]
 									[x][x] [x][x][x] [x][x] [x][x][x] [x][x][x][x][x]
 									[x][x][x][x][x][x][x] [x][x][x]
-									[x][x][x][x][x][x][x]<!-- <hi rend="italics"><hi rend="bold">&#922;&#945;&#953; &#960;&#959;&#964;&#945;&#956;&#959;&#965; &#961;&#959;&#951; &#945;&#960;&#949;&#953;&#1008;&#945;&#950;&#969;&#957; &#964;&#945; &#959;&#957;&#964;&#945; &#955;&#949;&#947;&#949;&#953; &#8033;&#962; &#948;&#953;&#962; &#949;&#962; &#964;&#959;&#957; &#945;&#965;&#964;&#959;&#957; &#960;&#959;&#964;&#945;&#956;&#959;&#957; &#959;&#965;&#1008; &#949;&#956;&#946;&#945;&#953;&#951;&#962;</hi></hi> -->.
+									[x][x][x][x][x][x][x].
 									Cfr. <hi rend="italics" xml:id="idm140578676730592">Platos Cratyllus</hi> § 402.
 									Ast 3die B.Pag. 158.</note>
                 <note anchored="true" xml:id="idm140578676729088">**Cfr. Tennemann Gesch. d Philos. 1ster B. Pag. 220.</note>
@@ -5912,15 +5919,15 @@ Ptj rettet  mange "o" til ø
 										altsaa blot reflecteres paa Synthesens Momenter ....... 187</item>
                   <item xml:id="idm140578676431920">a) Fortvivlelse seet under Bestemmelsen Endelighed
 										- Uendelighed .......... 187</item>
-                  <item xml:id="idm140578676431424"> [x]<!-- &#945; -->) <hi rend="italics" xml:id="idm140578676430816">Uendelighedens
+                  <item xml:id="idm140578676431424"> [x]) <hi rend="italics" xml:id="idm140578676430816">Uendelighedens
 											Fortvivlelse er at mangle Endelighed</hi> .... 188</item>
-                  <item xml:id="idm140578676429952"> [x]<!-- &#946; -->) <hi rend="italics" xml:id="idm140578676429344">Endelighedens
+                  <item xml:id="idm140578676429952"> [x]) <hi rend="italics" xml:id="idm140578676429344">Endelighedens
 											Fortvivlelse er at mangle Uendelighed</hi> .... 190</item>
                   <item xml:id="idm140578676428480">b) Fortvivlelse seet under Bestemmelsen Mulighed
 										- Nødvendighed ......... 192</item>
-                  <item xml:id="idm140578676427904"> [x]<!-- &#945; -->) <hi rend="italics" xml:id="idm140578676427296">Mulighedens
+                  <item xml:id="idm140578676427904"> [x]) <hi rend="italics" xml:id="idm140578676427296">Mulighedens
 											Fortvivlelse er at mangle Nødvendighed</hi> .... 192</item>
-                  <item xml:id="idm140578676426368"> [x]<!-- &#946; -->) <hi rend="italics" xml:id="idm140578676425760">Nødvendighedens Fortvivlelse er at mangle Mulighed</hi>
+                  <item xml:id="idm140578676426368"> [x]) <hi rend="italics" xml:id="idm140578676425760">Nødvendighedens Fortvivlelse er at mangle Mulighed</hi>
 										.... 194</item>
                   <item xml:id="idm140578676424864">B. Fortvivlelse seet under Bestemmelsen: Bevidsthed .. 198</item>
                   <item xml:id="idm140578676424400">a) Den Fortvivlelse, som er uvidende om, at den er
@@ -5934,13 +5941,13 @@ Ptj rettet  mange "o" til ø
 										hvori der dog er noget Evigt, og nu enten fortvivlet ikke
 										vil være sig selv, eller fortvivlet vil være sig selv
 										....... 203</item>
-                  <item xml:id="idm140578676421264"> [x]<!-- &#945; -->)<hi rend="italics" xml:id="idm140578676420608">Fortvivlet ikke
+                  <item xml:id="idm140578676421264"> [x])<hi rend="italics" xml:id="idm140578676420608">Fortvivlet ikke
 											at wlle være stg selv, Svaghedens Fortvivlelse</hi> ...
 										205</item>
                   <item xml:id="idm140578676419664">1) Fortvivlelse over det Jordiske eller over noget Jordisk
 										... 206</item>
                   <item xml:id="idm140578676419184">2) Fortvivlelse om det Evige eller over sig selv .... 215</item>
-                  <item xml:id="idm140578676418720">[x]<!-- &#946; -->) <hi rend="italics" xml:id="idm140578676418112">Fortvivlet at
+                  <item xml:id="idm140578676418720">[x]) <hi rend="italics" xml:id="idm140578676418112">Fortvivlet at
 											ville være sig selv, Trods</hi> ....... 221</item>
                 </list>
               </item>
@@ -6686,14 +6693,14 @@ Ptj rettet  mange "o" til ø
 												enten det veed af det eller ikke. Dog er et Selv i
 												ethvert Øieblik, det er til, i Vorden, thi Selvet
 												[x][x][x][x]
-												[x][x][x][x][x][x][x]<!-- &#1008;&#945;&#964;&#945; &#948;&#965;&#957;&#945;&#956;&#953;&#957; -->
+												[x][x][x][x][x][x][x]
 												er ikke virkeligt til, er blot Det, der skal blive
 												til. Forsaavidt da Selvet ikke vorder sig selv, er
 												det ikke sig selv; men det ikke at være sig selv er
 												just Fortvivlelse.</p>
                     </div>
                     <div xml:id="idm140578676283536">
-                      <head xml:id="idm140578676283280"> [x]<!--&#945;-->) <hi rend="italics" xml:id="idm140578676282672">Uendelighedens Fortvivlelse er at mangle
+                      <head xml:id="idm140578676283280"> [x]) <hi rend="italics" xml:id="idm140578676282672">Uendelighedens Fortvivlelse er at mangle
 												Endelighed</hi>
 											</head>
                       <p xml:id="idm140578676281920">At dette er saaledes, ligger i det Dialektiske at
@@ -6823,11 +6830,11 @@ Ptj rettet  mange "o" til ø
 												dog.</p>
                     </div>
                     <div xml:id="idm140578676263584">
-                      <head xml:id="idm140578676263328"> [x]<!-- &#946; -->) <hi rend="italics" xml:id="idm140578676262720">Endelighedens Fortvivlelse er at mangle
+                      <head xml:id="idm140578676263328"> [x]) <hi rend="italics" xml:id="idm140578676262720">Endelighedens Fortvivlelse er at mangle
 												Uendelighed</hi>
 											</head>
                       <p xml:id="idm140578676261888">At Dette er saaledes, ligger, som viist blev under
-												[x]<!-- &#945; -->, i det Dialektiske, at Selvet
+												[x], i det Dialektiske, at Selvet
 												er en Synthese, hvorfor det Ene er sit Modsatte.</p>
                       <p xml:id="idm140578676260992">At mangle Uendelighed er fortvivlet Begrændsethed,
 												Bornerethed. Hermed er dog naturligviis kun, ethisk,
@@ -6940,13 +6947,13 @@ Ptj rettet  mange "o" til ø
 												er Mulighed og Nødvendighed lige væsentlige. Ligesom
 												der til Selvet hører Uendelighed og Endelighed
 												([x][x][x][x][x][x] -
-												[x][x][x][x][x]<!-- &#945;&#960;&#949;&#953;&#961;&#959;&#957; &mdash; &#960;&#949;&#961;&#945;&#962; -->),
+												[x][x][x][x][x]),
 												saaledes ogsaa Mulighed og Nødvendighed Et Selv, der
 												ingen Mulighed har, er fortvivlet, og ligesaa et
 												Selv, der ingen Nødvendighed har.</p>
                     </div>
                     <div xml:id="idm140578676244976">
-                      <head xml:id="idm140578676244720"> [x]<!-- &#945; -->) <hi rend="italics" xml:id="idm140578676244112">Mulighedens Fortvivlelse er at mangle
+                      <head xml:id="idm140578676244720"> [x]) <hi rend="italics" xml:id="idm140578676244112">Mulighedens Fortvivlelse er at mangle
 												Nødvendighed</hi>
 											</head>
                       <p xml:id="idm140578676243216">At Dette er saaledes, ligger, som viist blev, i det
@@ -6956,11 +6963,11 @@ Ptj rettet  mange "o" til ø
 												saaledes er Nødvendighed i Forhold til Mulighed Det,
 												der holder igjen. Idet Selvet, som Synthese af
 												Endelighed og Uendelighed, er sat, er [x][x][x][x]
-												[x][x][x][x][x][x][x]<!-- &#1008;&#945;&#964;&#945; &#948;&#965;&#957;&#945;&#956;&#953;&#957; -->,
+												[x][x][x][x][x][x][x],
 												for nu at vorde, reflekterer det sig i Phantasiens
 												Medium, og derved viser den uendelige Mulighed sig.
 												Selvet er [x][x][x][x]
-												[x][x][x][x][x][x][x]<!-- &#1008;&#945;&#964;&#945; &#948;&#965;&#957;&#945;&#956;&#953;&#957; -->
+												[x][x][x][x][x][x][x]
 												lige saa meget muligt som nødvendigt; thi det er jo
 												sig selv, men det skal vorde sig selv. Forsaavidt
 												det er sig selv, er det Nødvendigt, og forsaavidt
@@ -7053,7 +7060,7 @@ Ptj rettet  mange "o" til ø
 												omkommer i Det, han var angest for at omkomme i.</p>
                     </div>
                     <div xml:id="idm140578676228976">
-                      <head xml:id="idm140578676228720"> [x]<!-- &#946; -->) <hi rend="italics" xml:id="idm140578676228112">Nødvendighedens Fortvivlelse er at mangle
+                      <head xml:id="idm140578676228720"> [x]) <hi rend="italics" xml:id="idm140578676228112">Nødvendighedens Fortvivlelse er at mangle
 												Mulighed</hi>
 											</head>
                       <p xml:id="idm140578676227216">Dersom man vilde sammenligne det at løbe vild i
@@ -7581,14 +7588,14 @@ Ptj rettet  mange "o" til ø
 												den Magt, som satte det (cfr. A, A.).</p>
                     </div>
                     <div xml:id="idm140578676151088">
-                      <head xml:id="idm140578676150832"> [x]<!-- &#945; -->) <hi rend="italics" xml:id="idm140578676150224">Fortvivlet ikke at ville være sig selv,
+                      <head xml:id="idm140578676150832"> [x]) <hi rend="italics" xml:id="idm140578676150224">Fortvivlet ikke at ville være sig selv,
 												Svaghedens Fortvivlelse</hi>
 											</head>
                       <div xml:id="idm140578676149296">
                         <p xml:id="idm140578676148992">Naar denne Form af Fortvivlelse kaldes
 												Svaghedens, saa er den allerede indeholdt en
 												Reflexion paa den anden Form
-												[x]<!-- <hi rend="italics">(&#946;)</hi> -->,
+												[x],
 												fortvivlet at ville være sig selv. Det er
 												saaledes kun relative Modsætninger. Ganske uden
 												Trods er ingen Fortvivlelse; der ligger jo ogsaa
@@ -7610,7 +7617,7 @@ Ptj rettet  mange "o" til ø
 												Arrigskab, fordi man kun er berettiget til
 												at forudsætte, at det Evige [x][x][x][x]
 												[x][x][x][x][x][x]
-												<!-- &#1008;&#945;&#964;&#945; &#948;&#965;&#957;&#945;&#956;&#953;&#957; -->
+												
 												er tilstede i Barnet, ei er berettiget til
 												at fordre det af det, som man er berettiget
 												til at fordre det af den Ældre, om hvem det
@@ -7725,7 +7732,7 @@ Ptj rettet  mange "o" til ø
 												Selv, og ham selv, et Noget nied indenfor
 												Timelighedens og Verdslighedens Omfang, i
 												umiddelbar Sammenhæng med det Andet ([x][x]
-												[x][x][x][x][x][x]<!-- &#964;&#959; &#949;&#964;&#949;&#961;&#959;&#957; -->)
+												[x][x][x][x][x][x])
 												og har kun et illusorisk Skin af som var der
 												noget Evigt i det Saaledes hænger Selvet
 												umiddelbart sammen med det Andet, ønskende,
@@ -8234,7 +8241,7 @@ Ptj rettet  mange "o" til ø
 												Fortvivlelse over sin Svaghed, medens den dog
 												endnu bliver indenfor Væsens-Bestemmelsen:
 												Svaghedens Fortvivlelse, som forskjellig fra
-												[x]<!-- &#946; --> (Trods). Der er altsaa
+												[x] (Trods). Der er altsaa
 												kun en relativ Forskjel Denne er, at den
 												foregaaende Form har Svaghedens Bevidsthed som
 												sin sidste Bevidsthed, medens her Bevidstheden
@@ -8532,19 +8539,19 @@ Ptj rettet  mange "o" til ø
                       </div>
                     </div>
                     <div xml:id="idm140578676029696">
-                      <head xml:id="idm140578676029440"> [x]<!-- &#946; -->) <hi rend="italics" xml:id="idm140578676028832">Den
+                      <head xml:id="idm140578676029440"> [x]) <hi rend="italics" xml:id="idm140578676028832">Den
 												Fortvivlelse, fortvivlet at ville være sig selv,
 												Trods</hi>
 											</head>
                       <p xml:id="idm140578676027904">Som der blev viist, at man kunde kalde
-												[x]<!-- &#945; --> Qvindelighedens Fortvivlelse,
+												[x] Qvindelighedens Fortvivlelse,
 												saaledes kan man kalde denne Fortvivlelse
 												Mandlighedens. Den er derfor ogsaa i Forhold til den
 												foregaaende: Fortvivlelse seet under Bestemmelsen
 												Aand. Men saaledes er just ogsaa Mandlighed
 												væsentlig hørende under Bestemmelsen Aand, medens
 												Qvindelighed er en lavere Synthese.</p>
-                      <p xml:id="idm140578676026368">Den under [x]<!-- &#945; -->, 2 beskrevne
+                      <p xml:id="idm140578676026368">Den under [x], 2 beskrevne
 												Fortvivlelse var over sin Svaghed, den Fortvivlede
 												vil ikke være sig selv. Men gaaes der dialektisk eet
 												eneste Skridt videre, kommer den saaledes
@@ -8836,7 +8843,7 @@ Ptj rettet  mange "o" til ø
 												udelukkende for sig selv, en Verden, hvor det
 												fortvivlede Selv rastløs og tantalisk er
 												beskjæftiget med at ville være sig selv.</p>
-                      <p xml:id="idm140578675987536">Vi begyndte ([x]<!-- &#945; --> 1) med den
+                      <p xml:id="idm140578675987536">Vi begyndte ([x] 1) med den
 												laveste Form af Fortvivlelse, som fortvivlet ikke
 												vil være sig selv. Den dæmoniske Fortvivlelse er den
 												meest potentserede af den Fortvivlelse, der
@@ -8980,7 +8987,7 @@ Ptj rettet  mange "o" til ø
 											evigt Selv <hi rend="italics" xml:id="idm140578675959200">(C. B. a</hi>.), saa en
 											Viden om at have et Selv, hvori der dog er noget Evigt
 												<hi rend="italics" xml:id="idm140578675958400">(C. B. k</hi>), og hermdenfor
-											([x]<!-- &#945; -->. 1. 2.[x]<!-- &#946;  --> )
+											([x]. 1. 2.[x] )
 											blev igjen efterviist Gradationer. Denne hele
 											Betragtning maa nu dialektisk vendes paa en ny Maade.
 											Sagen er denne. Den Gradation i Bevidstheden om Selvet,

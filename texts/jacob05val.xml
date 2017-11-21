@@ -1,11 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!--bnh 27.9.2001-->
-<!-- HHL 16.09.2002 rettet smaafejl i titler-->
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="idm140501113506672"><!-- 
-       file     ./marc_dir/001823911.xml
-       field     
-       subfield  
-       prefix   -->
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="root">
   <teiHeader xml:id="idm140501113506016">
     <fileDesc xml:id="idm140501113505760">
       <titleStmt xml:id="idm140501113505456">
@@ -25,13 +19,57 @@
         <note xml:id="idm140501113475744">
 	  </note>
       </notesStmt>
-      <sourceDesc xml:id="idm140501113475232"><bibl xml:id="idm140501113475104"><author n="1" xml:id="idm140501113474416"><name xml:id="idm140501113474160"><surname xml:id="idm140501113474032">Jacobsen</surname>,
-      <forename xml:id="idm140501113473584">J. P.</forename></name></author>
-<title xml:id="idm140501113473120">Samlede Værker
+      <sourceDesc xml:id="idm140501113475232">
+        <bibl xml:id="idm140501113475104">
+          <author n="1" xml:id="idm140501113474416">
+            <name xml:id="idm140501113474160"><surname xml:id="idm140501113474032">Jacobsen</surname>,
+      <forename xml:id="idm140501113473584">J. P.</forename></name>
+          </author>
+          <title xml:id="idm140501113473120">Samlede Værker
       V</title>
-      <title xml:id="idm140501113472672">Udg. paa Grundlag af Digterens efterladte Papirer af Morten Borup</title>
-<pubPlace xml:id="idm140501113472208">København</pubPlace>
-<date xml:id="idm140501113471776">1924-29</date></bibl><listBibl xml:id="idm140501113471488"><bibl xml:id="biblid54295"><title xml:id="idm140501113458336">Om Bevægelsen i Planteriget</title></bibl><bibl xml:id="biblid54588"><title xml:id="idm140501113457456">Darwins Theori</title></bibl><bibl xml:id="biblid55027"><title xml:id="idm140501113456672">Menneskeslægtens Oprindelse</title></bibl><bibl xml:id="biblid55277"><title xml:id="idm140501113455840">Af Planternes Livshistorie</title></bibl><bibl xml:id="biblid55334"><title xml:id="idm140501113455040">Parringsvalget</title></bibl><bibl xml:id="biblid55691"><title xml:id="idm140501113454208">Fugleredernes Filosofi</title></bibl><bibl xml:id="biblid55873"><title xml:id="idm140501113453424">Et Brev om Darwinismen</title></bibl><bibl xml:id="biblid55930"><title xml:id="idm140501113452640">Svar paa 'Et naturvidenskabeligt Spørgsmaal'</title></bibl><bibl xml:id="biblid55961"><title xml:id="idm140501113451728">Ch. Darwin: 'The Descent of Man'</title></bibl><bibl xml:id="biblid56005"><title xml:id="idm140501113450928">Sindsbevægelsernes Udtryk</title></bibl><bibl xml:id="biblid56141"><title xml:id="idm140501113450112">Udkast til en Evolutionslære</title></bibl><bibl xml:id="biblid57026"><title xml:id="idm140501113449232">Bøgeskoven</title></bibl></listBibl></sourceDesc>
+          <title xml:id="idm140501113472672">Udg. paa Grundlag af Digterens efterladte Papirer af Morten Borup</title>
+          <pubPlace xml:id="idm140501113472208">København</pubPlace>
+          <date xml:id="idm140501113471776">1924-29</date>
+        </bibl>
+        <listBibl xml:id="idm140501113471488">
+          <bibl xml:id="biblid54295">
+            <title xml:id="idm140501113458336">Om Bevægelsen i Planteriget</title>
+          </bibl>
+          <bibl xml:id="biblid54588">
+            <title xml:id="idm140501113457456">Darwins Theori</title>
+          </bibl>
+          <bibl xml:id="biblid55027">
+            <title xml:id="idm140501113456672">Menneskeslægtens Oprindelse</title>
+          </bibl>
+          <bibl xml:id="biblid55277">
+            <title xml:id="idm140501113455840">Af Planternes Livshistorie</title>
+          </bibl>
+          <bibl xml:id="biblid55334">
+            <title xml:id="idm140501113455040">Parringsvalget</title>
+          </bibl>
+          <bibl xml:id="biblid55691">
+            <title xml:id="idm140501113454208">Fugleredernes Filosofi</title>
+          </bibl>
+          <bibl xml:id="biblid55873">
+            <title xml:id="idm140501113453424">Et Brev om Darwinismen</title>
+          </bibl>
+          <bibl xml:id="biblid55930">
+            <title xml:id="idm140501113452640">Svar paa 'Et naturvidenskabeligt Spørgsmaal'</title>
+          </bibl>
+          <bibl xml:id="biblid55961">
+            <title xml:id="idm140501113451728">Ch. Darwin: 'The Descent of Man'</title>
+          </bibl>
+          <bibl xml:id="biblid56005">
+            <title xml:id="idm140501113450928">Sindsbevægelsernes Udtryk</title>
+          </bibl>
+          <bibl xml:id="biblid56141">
+            <title xml:id="idm140501113450112">Udkast til en Evolutionslære</title>
+          </bibl>
+          <bibl xml:id="biblid57026">
+            <title xml:id="idm140501113449232">Bøgeskoven</title>
+          </bibl>
+        </listBibl>
+      </sourceDesc>
     </fileDesc>
   </teiHeader>
   <text xml:id="idm140501113448592">

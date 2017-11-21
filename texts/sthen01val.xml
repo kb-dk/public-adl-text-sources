@@ -1,15 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!-- OCR by ATAPY 22.11.02/26.11.02 (Catherine Bychkova) -->
-<!-- forespørgsel ude hos DSL/Jens Lyster om afkortelse af lange titler
-     HHL 20030317 har nu modtaget titelliste fra jens Lyster - næsten alle titler over 100 tegn havde han tilrettet..
-     Peter tænker over dobbelte vaerktitelattributter så vi kan få førstelinien med
-
--->
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="idm140299314490368"><!-- 
-       file     ./marc_dir/001704312.xml
-       field     
-       subfield  
-       prefix   -->
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="root">
   <teiHeader xml:id="idm140299314489264">
     <fileDesc xml:id="idm140299314463792">
       <titleStmt xml:id="idm140299314463536">
@@ -29,18 +19,339 @@
         <note xml:id="idm140299314458944">
 	  </note>
       </notesStmt>
-      <sourceDesc xml:id="idm140299314458432"><bibl xml:id="idm140299314458304"><author n="1" xml:id="idm140299314457616"><name xml:id="idm140299314457360"><surname xml:id="idm140299314457232">Sthen</surname>,
-      <forename xml:id="idm140299314456848">Hans Christensen</forename></name></author><title xml:id="idm140299314456560">En liden Vandrebog</title><pubPlace xml:id="idm140299314456272">København</pubPlace>
-<publisher xml:id="idm140299314455808">Det Danske Sprog- og Litteraturselskab</publisher><publisher xml:id="idm140299314455504">C.A. Reitzel</publisher><date xml:id="idm140299314455168">1994</date></bibl><listBibl xml:id="idm140299314454880"><bibl xml:id="biblid55259"><title xml:id="idm140299314441728">Psalm. 145</title></bibl><bibl xml:id="biblid55302"><title xml:id="idm140299314440944">Fortalen til den Christelige Læsere</title></bibl><bibl xml:id="biblid55585"><title xml:id="idm140299314440096">Det første du reyss dig op om Morgenen, da sig saa</title></bibl><bibl xml:id="biblid55685"><title xml:id="idm140299314439232">En almindelig Bøn, som kand brugis baade Morgen oc Afften</title></bibl><bibl xml:id="biblid56200"><title xml:id="idm140299314438352">En anden Bøn om Morgenen, korteligere at bede</title></bibl><bibl xml:id="biblid56489"><title xml:id="idm140299314437488">Naar du gaar vdaff dit Kammer, i din Gaard, eller paa Gaden, da læss den 21 Psalme</title></bibl><bibl xml:id="biblid56625"><title xml:id="idm140299314436560">Et kort Benedicite, naar du gaar til Bords</title></bibl><bibl xml:id="biblid56687"><title xml:id="idm140299314435696">En kort Gratias effter Maaltid</title></bibl><bibl xml:id="biblid56796"><title xml:id="idm140299314434896">Naar det ringer Tolff, da tag din Hat aff, bede oc sige: JESU CHRISTE Fili vivi Dei, Miserere mei</title></bibl><bibl xml:id="biblid57049"><title xml:id="idm140299314434032">En bøn at bede om Afftenen, før mand gaar til Seng</title></bibl><bibl xml:id="biblid57167"><title xml:id="idm140299314433104">En anden Afften Bøn, vden Rijm</title></bibl><bibl xml:id="biblid57235"><title xml:id="idm140299314432272">Naar du legger dig til søffns, Da sig:</title></bibl><bibl xml:id="biblid57293"><title xml:id="idm140299314431376">En Bøn at bede om Mandagen, eller først om Vgen</title></bibl><bibl xml:id="biblid57422"><title xml:id="idm140299314430512">En daglig velsignelse, at liuse offuer sigliuse offuer sig</title></bibl><bibl xml:id="biblid57529"><title xml:id="idm140299314429632">ALIUD</title></bibl><bibl xml:id="biblid57574"><title xml:id="idm140299314428800">Et aabenbarligt Scrifftemaal oc Bekiendelse for Gud  ... Aff den 51 Psalme ...</title></bibl><bibl xml:id="biblid57915"><title xml:id="idm140299314427952">En anden aabenbarlig Bekiendelse for Gud</title></bibl><bibl xml:id="biblid58014"><title xml:id="idm140299314427072">En Bøn at bede, naar mand gaar til Alterens Sacramente</title></bibl><bibl xml:id="biblid58122"><title xml:id="idm140299314426144">Tacksigelse oc Bøn, effter mand haffuer været til Guds Bord</title></bibl><bibl xml:id="biblid58231"><title xml:id="idm140299314425248">En almindelig Tacksigelse effter Christi Nadere</title></bibl><bibl xml:id="biblid58252"><title xml:id="idm140299314424384">En Bøn at bede for et siugt Menniske der berættis</title></bibl><bibl xml:id="biblid58297"><title xml:id="idm140299314423520">En Bøn at bede for et siugt Menniske, der ligger i sit Yderste</title></bibl><bibl xml:id="biblid58339"><title xml:id="idm140299314422576">En smuck Bøn for vnge Børn, at bede i Huset, Morgen oc Afften</title></bibl><bibl xml:id="biblid58461"><title xml:id="idm140299314421568">Et Litanie, hoss Siuge Folck at bede</title></bibl><bibl xml:id="biblid58532"><title xml:id="idm140299314420768">En anden Bøn, i sit yderste selff at bede</title></bibl><bibl xml:id="biblid58593"><title xml:id="idm140299314419872">En Bøn at bede, naar mand icke end skiønt selff gaar til Alteret, Men er dog til stede ... </title></bibl><bibl xml:id="biblid58634"><title xml:id="idm140299314418864">En Bøn, Som gode Christne kunde bede for en fattig Fange, som ... skal staa sin Ræt...</title></bibl><bibl xml:id="biblid58684"><title xml:id="idm140299314417808">En Bøn, at bruge, naar mand vil vandre eller reyse aff By</title></bibl><bibl xml:id="biblid58822"><title xml:id="idm140299314416880">Naar du far aff sted, da giør først IEsu Christi Kaarsis betegnelse for dig, oc sig:</title></bibl><bibl xml:id="biblid58871"><title xml:id="idm140299314415888">En Vise at siunge, om det samme</title></bibl><bibl xml:id="biblid58996"><title xml:id="idm140299314415040">Endnu en anden Velsignelse, at bede oc sige, naar mand vil reyse</title></bibl><bibl xml:id="biblid59101"><title xml:id="idm140299314414208">En Bøn om et saligt Endeligt at  bede, eller i sit yderste</title></bibl><bibl xml:id="biblid59231"><title xml:id="idm140299314413280">Den gamle Christelige Dagevise, Den signede dag som wi nu see, etc.</title></bibl><bibl xml:id="biblid59534"><title xml:id="idm140299314412400">En Morgensang</title></bibl><bibl xml:id="biblid59912"><title xml:id="idm140299314520064">En Afften eller Natsang: Siungis vnder de Noder: Ieg tiente mig vdi Greffuens Gaard, etc.</title></bibl><bibl xml:id="biblid60147"><title xml:id="idm140299314519264">En Christelig Vise oc Dict, om Adams oc Eves syndige Afffald fra Gud ...</title></bibl><bibl xml:id="biblid61104"><title xml:id="idm140299314518480">Om den hellige Ecteskabs Statis Indstifftelse i Paradjss, imellem Adam oc Eva, etc.</title></bibl><bibl xml:id="biblid61623"><title xml:id="idm140299314517632">En Arm Synderis Klagemaal oc Bekiendelse for Gud ... met den Tone, Ieg stod mig op en Morgenstund</title></bibl><bibl xml:id="biblid62093"><title xml:id="idm140299314516704">En Christelig Supplicatz til Guds Søn, siungis met den Thone: Es ist auff Erden kein schwerer ...</title></bibl><bibl xml:id="biblid62417"><title xml:id="idm140299314386608">Et anfectet Menniskis Bøn til Gud. Siungis met den Thone: O Gud huor saare mig lengis, etc.</title></bibl><bibl xml:id="biblid62613"><title xml:id="idm140299314385616">En Vise om Verdens Suig, oc falske Venner. Siungis ... som den Psalme: Vaag op, vaag op i Guds Naffn</title></bibl><bibl xml:id="biblid62911"><title xml:id="idm140299314384752">En anden Vise om Wtroskab, siungis met den Thone: Ieg veed en Vrt baade deylig oc bold, etc.</title></bibl><bibl xml:id="biblid63241"><title xml:id="idm140299314383888">Om Trøst oc Frimodighed, mod all Kaarss oc Modgang ... met den Thone: Aff dybeste Nød lader ...</title></bibl><bibl xml:id="biblid63508"><title xml:id="idm140299314382928">En Bekiendelse oc Bøn til Gud, i Synd, Sorg, oc Legemlig suaghed ...</title></bibl><bibl xml:id="biblid63807"><title xml:id="idm140299314382016">En arm Synderis Klagemaal for Gud, siungis met den Thone: Ich armes Megdlein klage mich sehr</title></bibl><bibl xml:id="biblid63948"><title xml:id="idm140299314381152">En Tacksigelse effter Maaltid, eller anden tid at siunge</title></bibl><bibl xml:id="biblid64115"><title xml:id="idm140299314380320">En lærafftig oc trøstelig Vise, Siungis met de Noder: Mag ich Vnglück nicht wiederstahn.  H. C.</title></bibl><bibl xml:id="biblid64692"><title xml:id="idm140299314379360">En Søfaren Vise, kand siungis met Det Stemme: Vden HErren opholder vort Huss oc Gaard, etc.</title></bibl><bibl xml:id="biblid65274"><title xml:id="idm140299314378400">Regula pietatis. Qui vult DEO servire, hunc oportet exspectare consilium Domini...</title></bibl><bibl xml:id="biblid65456"><title xml:id="idm140299314377552">En anden Regel at skicke sig der effter i gode Sæder</title></bibl><bibl xml:id="biblid65966"><title xml:id="idm140299314376672">Om Døden, en nyttig Betænckelse oc Regel. AUGUSTINUS. Communis est mortis via ...</title></bibl><bibl xml:id="biblid66311"><title xml:id="idm140299314375744">Besluttelse paa alle forscreffne Regle</title></bibl><bibl xml:id="biblid66493"><title xml:id="idm140299314374992">Regulæ vitæ. Det er: Nogle sønderlige Liffs Regle, giort vdi Rjm...</title></bibl><bibl xml:id="biblid67177"><title xml:id="idm140299314374080">En anden kort Regel</title></bibl><bibl xml:id="biblid67226"><title xml:id="idm140299314373296">En anden Regel</title></bibl><bibl xml:id="biblid67342"><title xml:id="idm140299314372512">Arma nobilitatis</title></bibl><bibl xml:id="biblid67371"><title xml:id="idm140299314371728">Der ere fem sønderlige Stycker, som et Gudfryctigt Menniske skal daglig haffue i tancke oc ...</title></bibl><bibl xml:id="biblid67918"><title xml:id="idm140299314370768">En liden Christelig betractelse, paa min Fødsels dag, som er den 25. Novemb...Anno 44. H. C.</title></bibl><bibl xml:id="biblid68460"><title xml:id="idm140299314365680">Symbolum Joh. Christ. Sthenij, Roschild. CONSTANS AMOR ET LABOR OMNIA VINCIT...</title></bibl><bibl xml:id="biblid68580"><title xml:id="idm140299314364896">Her effter følge nogle faa Sange, som mand kand bruge til Skibs, eller andensteds paa Reysen...</title></bibl><bibl xml:id="biblid68605"><title xml:id="idm140299314363936">En Tacksigelse oc Bøn om Morgenen</title></bibl><bibl xml:id="biblid68930"><title xml:id="idm140299314363168">Den signede Dag som wi, etc. Findis i den Bogstaff H. 7. Blad.</title></bibl><bibl xml:id="biblid68948"><title xml:id="idm140299314362400">Om HERRENS Bøn</title></bibl><bibl xml:id="biblid69182"><title xml:id="idm140299314361648">Den LXVII. Psalme, Deus misereatur nostri, &amp;c.</title></bibl><bibl xml:id="biblid69357"><title xml:id="idm140299314360848">Den XLVI. Psalme, Deus noster refugium &amp; virtus, &amp;c.</title></bibl><bibl xml:id="biblid69530"><title xml:id="idm140299314360032">En Bøn til Christum</title></bibl><bibl xml:id="biblid69688"><title xml:id="idm140299314359184">Kong Frederichs den Andens, Sallig, Symbolum</title></bibl><bibl xml:id="biblid69824"><title xml:id="idm140299314358304">En Aandelig Vise, at siunge vdi Nøds Fare</title></bibl><bibl xml:id="biblid70019"><title xml:id="idm140299314357456">Den CXXVIII. Psalme, at bede om Guds Velsignelse</title></bibl><bibl xml:id="biblid70129"><title xml:id="idm140299314356640">Bøner for Maaltid</title></bibl><bibl xml:id="biblid70230"><title xml:id="idm140299314355888">Tacksigelse effter Maaltid</title></bibl><bibl xml:id="biblid70321"><title xml:id="idm140299314355136">En anden Tacksigelse</title></bibl><bibl xml:id="biblid70424"><title xml:id="idm140299314354352">En anden rundelig Loffsang, for Guds runde Laan</title></bibl><bibl xml:id="biblid70642"><title xml:id="idm140299314353536">Den CIII. Psalme, Benedic anima mea Domino</title></bibl><bibl xml:id="biblid70863"><title xml:id="idm140299314352720">En anden Loffsang</title></bibl><bibl xml:id="biblid71071"><title xml:id="idm140299314351872">En Psalme, at loffue oc prjse den Hellige Trefoldighed met</title></bibl><bibl xml:id="biblid71230"><title xml:id="idm140299314351040">En anden Tacksigelse [2]</title></bibl><bibl xml:id="biblid71360"><title xml:id="idm140299314350288">En Tacksigelse oc Bøn om Afftenen. Den Hymne, Christe qui lux es &amp; dies, &amp;c.</title></bibl><bibl xml:id="biblid71499"><title xml:id="idm140299314349392">En anden Tacksigelse [3]</title></bibl><bibl xml:id="biblid71623"><title xml:id="idm140299314348640">En bøn om en salig stund oc tid, at skillis fra denne verden, aff August. sprock: Turbabor sed ...</title></bibl><bibl xml:id="biblid71786"><title xml:id="idm140299314347616">Den Hymne, Veni creator Spiritus, &amp;c. Doct. Mart. Luth.</title></bibl><bibl xml:id="biblid71933"><title xml:id="idm140299314346784">Om Dommedag oc Opstandelse: Vaager op i Christne alle, Vaager op, etc.</title></bibl><bibl xml:id="biblid72240"><title xml:id="idm140299314345888">Trøst i Liffs fare, oc Sorrig for dette Liffs Næring</title></bibl><bibl xml:id="biblid72575"><title xml:id="idm140299314344944">Om Verdslig Øffrighed. Den CXXVII. Psalme, Nisi Dominus ædificaverit domum, &amp;c.</title></bibl><bibl xml:id="biblid72814"><title xml:id="idm140299314344016">Om CHristi Pijne oc Død</title></bibl><bibl xml:id="biblid73186"><title xml:id="idm140299314343200">Nu bede wi den hellig Aand, etc. Doct. Mart. Luth.</title></bibl><bibl xml:id="biblid73304"><title xml:id="idm140299314342384">Ieg vil mig en Iomfru lofue, er en gammel</title></bibl><bibl xml:id="biblid73651"><title xml:id="idm140299314341504">Maria hun er en Iomfru reen, etc. Christelig foruent, IEsu Christo til Loff oc AEre. M. H. Tom.</title></bibl><bibl xml:id="biblid73844"><title xml:id="idm140299314340640">HErr Christ Gud Faders Eenbaarne Søn. Kand ocsaa siungis i Christi Fødsels Høytid</title></bibl><bibl xml:id="biblid74026"><title xml:id="idm140299314339696">En Tacksigelse til den hellige Trefoldighed, for Guds Høymæctige Velgierninger...</title></bibl><bibl xml:id="biblid74443"><title xml:id="idm140299314338768">En Bøn til Christum, om en salig ... Endeligt. D. Paulus Eberus filiolis faciebat...</title></bibl><bibl xml:id="biblid74686"><title xml:id="idm140299314337760">En Christelig Morgensang, Siungis met de Noder: Aus meines Hertzen grunde, etc.</title></bibl><bibl xml:id="biblid75116"><title xml:id="idm140299314336912">Et GRATIAS effter Maaltid at siunge, met de Noder, Som: Naar wi i største Nøden staa, etc.</title></bibl><bibl xml:id="biblid75280"><title xml:id="idm140299314335888">En ny Vise, tagen aff det 22. Capittel Matthæi, om den Konge som giorde sin Søns Bryllup, etc.</title></bibl><bibl xml:id="biblid75982"><title xml:id="idm140299314334928">Den anden Vise, Sommersens tid ieg prijse vil, Christelige forandret</title></bibl><bibl xml:id="biblid76160"><title xml:id="idm140299314334096">Den tredie Vise, Et trofast Hierte, etc. Ocsaa Christelige forandret</title></bibl><bibl xml:id="biblid76358"><title xml:id="idm140299314333264">En Klagevise, offuer Verdens Wtroskaff</title></bibl><bibl xml:id="biblid76815"><title xml:id="idm140299314332464">En Vise om Vngdommens wstadighed, Siungis som den: Ieg gick mig vdi Rosens Lund, etc.</title></bibl><bibl xml:id="biblid76998"><title xml:id="idm140299314331552">En klagelig oc dog trøstelig Sang oc Vise, for en Person der suag oc til Alders kommen er</title></bibl><bibl xml:id="biblid77415"><title xml:id="idm140299314330544">Den Troende Sielis Aandelige Brudsang, om IEsu Christo, hendis Himmelske Brudgom</title></bibl><bibl xml:id="biblid77747"><title xml:id="idm140299314329696">En Aandelig Vise, aff Tydske paa Danske vdsæt, Ieg veed et euigt Himmerig, etc.</title></bibl><bibl xml:id="biblid77926"><title xml:id="idm140299314328768">Victurus genium debet habere Liber</title></bibl><bibl xml:id="biblid77937"><title xml:id="idm140299314327968">Bogen taler til Læseren</title></bibl><bibl xml:id="biblid78091"><title xml:id="idm140299314327152">Læseren taler til Bogen</title></bibl></listBibl></sourceDesc>
+      <sourceDesc xml:id="idm140299314458432">
+        <bibl xml:id="idm140299314458304">
+          <author n="1" xml:id="idm140299314457616">
+            <name xml:id="idm140299314457360"><surname xml:id="idm140299314457232">Sthen</surname>,
+      <forename xml:id="idm140299314456848">Hans Christensen</forename></name>
+          </author>
+          <title xml:id="idm140299314456560">En liden Vandrebog</title>
+          <pubPlace xml:id="idm140299314456272">København</pubPlace>
+          <publisher xml:id="idm140299314455808">Det Danske Sprog- og Litteraturselskab</publisher>
+          <publisher xml:id="idm140299314455504">C.A. Reitzel</publisher>
+          <date xml:id="idm140299314455168">1994</date>
+        </bibl>
+        <listBibl xml:id="idm140299314454880">
+          <bibl xml:id="biblid55259">
+            <title xml:id="idm140299314441728">Psalm. 145</title>
+          </bibl>
+          <bibl xml:id="biblid55302">
+            <title xml:id="idm140299314440944">Fortalen til den Christelige Læsere</title>
+          </bibl>
+          <bibl xml:id="biblid55585">
+            <title xml:id="idm140299314440096">Det første du reyss dig op om Morgenen, da sig saa</title>
+          </bibl>
+          <bibl xml:id="biblid55685">
+            <title xml:id="idm140299314439232">En almindelig Bøn, som kand brugis baade Morgen oc Afften</title>
+          </bibl>
+          <bibl xml:id="biblid56200">
+            <title xml:id="idm140299314438352">En anden Bøn om Morgenen, korteligere at bede</title>
+          </bibl>
+          <bibl xml:id="biblid56489">
+            <title xml:id="idm140299314437488">Naar du gaar vdaff dit Kammer, i din Gaard, eller paa Gaden, da læss den 21 Psalme</title>
+          </bibl>
+          <bibl xml:id="biblid56625">
+            <title xml:id="idm140299314436560">Et kort Benedicite, naar du gaar til Bords</title>
+          </bibl>
+          <bibl xml:id="biblid56687">
+            <title xml:id="idm140299314435696">En kort Gratias effter Maaltid</title>
+          </bibl>
+          <bibl xml:id="biblid56796">
+            <title xml:id="idm140299314434896">Naar det ringer Tolff, da tag din Hat aff, bede oc sige: JESU CHRISTE Fili vivi Dei, Miserere mei</title>
+          </bibl>
+          <bibl xml:id="biblid57049">
+            <title xml:id="idm140299314434032">En bøn at bede om Afftenen, før mand gaar til Seng</title>
+          </bibl>
+          <bibl xml:id="biblid57167">
+            <title xml:id="idm140299314433104">En anden Afften Bøn, vden Rijm</title>
+          </bibl>
+          <bibl xml:id="biblid57235">
+            <title xml:id="idm140299314432272">Naar du legger dig til søffns, Da sig:</title>
+          </bibl>
+          <bibl xml:id="biblid57293">
+            <title xml:id="idm140299314431376">En Bøn at bede om Mandagen, eller først om Vgen</title>
+          </bibl>
+          <bibl xml:id="biblid57422">
+            <title xml:id="idm140299314430512">En daglig velsignelse, at liuse offuer sigliuse offuer sig</title>
+          </bibl>
+          <bibl xml:id="biblid57529">
+            <title xml:id="idm140299314429632">ALIUD</title>
+          </bibl>
+          <bibl xml:id="biblid57574">
+            <title xml:id="idm140299314428800">Et aabenbarligt Scrifftemaal oc Bekiendelse for Gud  ... Aff den 51 Psalme ...</title>
+          </bibl>
+          <bibl xml:id="biblid57915">
+            <title xml:id="idm140299314427952">En anden aabenbarlig Bekiendelse for Gud</title>
+          </bibl>
+          <bibl xml:id="biblid58014">
+            <title xml:id="idm140299314427072">En Bøn at bede, naar mand gaar til Alterens Sacramente</title>
+          </bibl>
+          <bibl xml:id="biblid58122">
+            <title xml:id="idm140299314426144">Tacksigelse oc Bøn, effter mand haffuer været til Guds Bord</title>
+          </bibl>
+          <bibl xml:id="biblid58231">
+            <title xml:id="idm140299314425248">En almindelig Tacksigelse effter Christi Nadere</title>
+          </bibl>
+          <bibl xml:id="biblid58252">
+            <title xml:id="idm140299314424384">En Bøn at bede for et siugt Menniske der berættis</title>
+          </bibl>
+          <bibl xml:id="biblid58297">
+            <title xml:id="idm140299314423520">En Bøn at bede for et siugt Menniske, der ligger i sit Yderste</title>
+          </bibl>
+          <bibl xml:id="biblid58339">
+            <title xml:id="idm140299314422576">En smuck Bøn for vnge Børn, at bede i Huset, Morgen oc Afften</title>
+          </bibl>
+          <bibl xml:id="biblid58461">
+            <title xml:id="idm140299314421568">Et Litanie, hoss Siuge Folck at bede</title>
+          </bibl>
+          <bibl xml:id="biblid58532">
+            <title xml:id="idm140299314420768">En anden Bøn, i sit yderste selff at bede</title>
+          </bibl>
+          <bibl xml:id="biblid58593">
+            <title xml:id="idm140299314419872">En Bøn at bede, naar mand icke end skiønt selff gaar til Alteret, Men er dog til stede ... </title>
+          </bibl>
+          <bibl xml:id="biblid58634">
+            <title xml:id="idm140299314418864">En Bøn, Som gode Christne kunde bede for en fattig Fange, som ... skal staa sin Ræt...</title>
+          </bibl>
+          <bibl xml:id="biblid58684">
+            <title xml:id="idm140299314417808">En Bøn, at bruge, naar mand vil vandre eller reyse aff By</title>
+          </bibl>
+          <bibl xml:id="biblid58822">
+            <title xml:id="idm140299314416880">Naar du far aff sted, da giør først IEsu Christi Kaarsis betegnelse for dig, oc sig:</title>
+          </bibl>
+          <bibl xml:id="biblid58871">
+            <title xml:id="idm140299314415888">En Vise at siunge, om det samme</title>
+          </bibl>
+          <bibl xml:id="biblid58996">
+            <title xml:id="idm140299314415040">Endnu en anden Velsignelse, at bede oc sige, naar mand vil reyse</title>
+          </bibl>
+          <bibl xml:id="biblid59101">
+            <title xml:id="idm140299314414208">En Bøn om et saligt Endeligt at  bede, eller i sit yderste</title>
+          </bibl>
+          <bibl xml:id="biblid59231">
+            <title xml:id="idm140299314413280">Den gamle Christelige Dagevise, Den signede dag som wi nu see, etc.</title>
+          </bibl>
+          <bibl xml:id="biblid59534">
+            <title xml:id="idm140299314412400">En Morgensang</title>
+          </bibl>
+          <bibl xml:id="biblid59912">
+            <title xml:id="idm140299314520064">En Afften eller Natsang: Siungis vnder de Noder: Ieg tiente mig vdi Greffuens Gaard, etc.</title>
+          </bibl>
+          <bibl xml:id="biblid60147">
+            <title xml:id="idm140299314519264">En Christelig Vise oc Dict, om Adams oc Eves syndige Afffald fra Gud ...</title>
+          </bibl>
+          <bibl xml:id="biblid61104">
+            <title xml:id="idm140299314518480">Om den hellige Ecteskabs Statis Indstifftelse i Paradjss, imellem Adam oc Eva, etc.</title>
+          </bibl>
+          <bibl xml:id="biblid61623">
+            <title xml:id="idm140299314517632">En Arm Synderis Klagemaal oc Bekiendelse for Gud ... met den Tone, Ieg stod mig op en Morgenstund</title>
+          </bibl>
+          <bibl xml:id="biblid62093">
+            <title xml:id="idm140299314516704">En Christelig Supplicatz til Guds Søn, siungis met den Thone: Es ist auff Erden kein schwerer ...</title>
+          </bibl>
+          <bibl xml:id="biblid62417">
+            <title xml:id="idm140299314386608">Et anfectet Menniskis Bøn til Gud. Siungis met den Thone: O Gud huor saare mig lengis, etc.</title>
+          </bibl>
+          <bibl xml:id="biblid62613">
+            <title xml:id="idm140299314385616">En Vise om Verdens Suig, oc falske Venner. Siungis ... som den Psalme: Vaag op, vaag op i Guds Naffn</title>
+          </bibl>
+          <bibl xml:id="biblid62911">
+            <title xml:id="idm140299314384752">En anden Vise om Wtroskab, siungis met den Thone: Ieg veed en Vrt baade deylig oc bold, etc.</title>
+          </bibl>
+          <bibl xml:id="biblid63241">
+            <title xml:id="idm140299314383888">Om Trøst oc Frimodighed, mod all Kaarss oc Modgang ... met den Thone: Aff dybeste Nød lader ...</title>
+          </bibl>
+          <bibl xml:id="biblid63508">
+            <title xml:id="idm140299314382928">En Bekiendelse oc Bøn til Gud, i Synd, Sorg, oc Legemlig suaghed ...</title>
+          </bibl>
+          <bibl xml:id="biblid63807">
+            <title xml:id="idm140299314382016">En arm Synderis Klagemaal for Gud, siungis met den Thone: Ich armes Megdlein klage mich sehr</title>
+          </bibl>
+          <bibl xml:id="biblid63948">
+            <title xml:id="idm140299314381152">En Tacksigelse effter Maaltid, eller anden tid at siunge</title>
+          </bibl>
+          <bibl xml:id="biblid64115">
+            <title xml:id="idm140299314380320">En lærafftig oc trøstelig Vise, Siungis met de Noder: Mag ich Vnglück nicht wiederstahn.  H. C.</title>
+          </bibl>
+          <bibl xml:id="biblid64692">
+            <title xml:id="idm140299314379360">En Søfaren Vise, kand siungis met Det Stemme: Vden HErren opholder vort Huss oc Gaard, etc.</title>
+          </bibl>
+          <bibl xml:id="biblid65274">
+            <title xml:id="idm140299314378400">Regula pietatis. Qui vult DEO servire, hunc oportet exspectare consilium Domini...</title>
+          </bibl>
+          <bibl xml:id="biblid65456">
+            <title xml:id="idm140299314377552">En anden Regel at skicke sig der effter i gode Sæder</title>
+          </bibl>
+          <bibl xml:id="biblid65966">
+            <title xml:id="idm140299314376672">Om Døden, en nyttig Betænckelse oc Regel. AUGUSTINUS. Communis est mortis via ...</title>
+          </bibl>
+          <bibl xml:id="biblid66311">
+            <title xml:id="idm140299314375744">Besluttelse paa alle forscreffne Regle</title>
+          </bibl>
+          <bibl xml:id="biblid66493">
+            <title xml:id="idm140299314374992">Regulæ vitæ. Det er: Nogle sønderlige Liffs Regle, giort vdi Rjm...</title>
+          </bibl>
+          <bibl xml:id="biblid67177">
+            <title xml:id="idm140299314374080">En anden kort Regel</title>
+          </bibl>
+          <bibl xml:id="biblid67226">
+            <title xml:id="idm140299314373296">En anden Regel</title>
+          </bibl>
+          <bibl xml:id="biblid67342">
+            <title xml:id="idm140299314372512">Arma nobilitatis</title>
+          </bibl>
+          <bibl xml:id="biblid67371">
+            <title xml:id="idm140299314371728">Der ere fem sønderlige Stycker, som et Gudfryctigt Menniske skal daglig haffue i tancke oc ...</title>
+          </bibl>
+          <bibl xml:id="biblid67918">
+            <title xml:id="idm140299314370768">En liden Christelig betractelse, paa min Fødsels dag, som er den 25. Novemb...Anno 44. H. C.</title>
+          </bibl>
+          <bibl xml:id="biblid68460">
+            <title xml:id="idm140299314365680">Symbolum Joh. Christ. Sthenij, Roschild. CONSTANS AMOR ET LABOR OMNIA VINCIT...</title>
+          </bibl>
+          <bibl xml:id="biblid68580">
+            <title xml:id="idm140299314364896">Her effter følge nogle faa Sange, som mand kand bruge til Skibs, eller andensteds paa Reysen...</title>
+          </bibl>
+          <bibl xml:id="biblid68605">
+            <title xml:id="idm140299314363936">En Tacksigelse oc Bøn om Morgenen</title>
+          </bibl>
+          <bibl xml:id="biblid68930">
+            <title xml:id="idm140299314363168">Den signede Dag som wi, etc. Findis i den Bogstaff H. 7. Blad.</title>
+          </bibl>
+          <bibl xml:id="biblid68948">
+            <title xml:id="idm140299314362400">Om HERRENS Bøn</title>
+          </bibl>
+          <bibl xml:id="biblid69182">
+            <title xml:id="idm140299314361648">Den LXVII. Psalme, Deus misereatur nostri, &amp;c.</title>
+          </bibl>
+          <bibl xml:id="biblid69357">
+            <title xml:id="idm140299314360848">Den XLVI. Psalme, Deus noster refugium &amp; virtus, &amp;c.</title>
+          </bibl>
+          <bibl xml:id="biblid69530">
+            <title xml:id="idm140299314360032">En Bøn til Christum</title>
+          </bibl>
+          <bibl xml:id="biblid69688">
+            <title xml:id="idm140299314359184">Kong Frederichs den Andens, Sallig, Symbolum</title>
+          </bibl>
+          <bibl xml:id="biblid69824">
+            <title xml:id="idm140299314358304">En Aandelig Vise, at siunge vdi Nøds Fare</title>
+          </bibl>
+          <bibl xml:id="biblid70019">
+            <title xml:id="idm140299314357456">Den CXXVIII. Psalme, at bede om Guds Velsignelse</title>
+          </bibl>
+          <bibl xml:id="biblid70129">
+            <title xml:id="idm140299314356640">Bøner for Maaltid</title>
+          </bibl>
+          <bibl xml:id="biblid70230">
+            <title xml:id="idm140299314355888">Tacksigelse effter Maaltid</title>
+          </bibl>
+          <bibl xml:id="biblid70321">
+            <title xml:id="idm140299314355136">En anden Tacksigelse</title>
+          </bibl>
+          <bibl xml:id="biblid70424">
+            <title xml:id="idm140299314354352">En anden rundelig Loffsang, for Guds runde Laan</title>
+          </bibl>
+          <bibl xml:id="biblid70642">
+            <title xml:id="idm140299314353536">Den CIII. Psalme, Benedic anima mea Domino</title>
+          </bibl>
+          <bibl xml:id="biblid70863">
+            <title xml:id="idm140299314352720">En anden Loffsang</title>
+          </bibl>
+          <bibl xml:id="biblid71071">
+            <title xml:id="idm140299314351872">En Psalme, at loffue oc prjse den Hellige Trefoldighed met</title>
+          </bibl>
+          <bibl xml:id="biblid71230">
+            <title xml:id="idm140299314351040">En anden Tacksigelse [2]</title>
+          </bibl>
+          <bibl xml:id="biblid71360">
+            <title xml:id="idm140299314350288">En Tacksigelse oc Bøn om Afftenen. Den Hymne, Christe qui lux es &amp; dies, &amp;c.</title>
+          </bibl>
+          <bibl xml:id="biblid71499">
+            <title xml:id="idm140299314349392">En anden Tacksigelse [3]</title>
+          </bibl>
+          <bibl xml:id="biblid71623">
+            <title xml:id="idm140299314348640">En bøn om en salig stund oc tid, at skillis fra denne verden, aff August. sprock: Turbabor sed ...</title>
+          </bibl>
+          <bibl xml:id="biblid71786">
+            <title xml:id="idm140299314347616">Den Hymne, Veni creator Spiritus, &amp;c. Doct. Mart. Luth.</title>
+          </bibl>
+          <bibl xml:id="biblid71933">
+            <title xml:id="idm140299314346784">Om Dommedag oc Opstandelse: Vaager op i Christne alle, Vaager op, etc.</title>
+          </bibl>
+          <bibl xml:id="biblid72240">
+            <title xml:id="idm140299314345888">Trøst i Liffs fare, oc Sorrig for dette Liffs Næring</title>
+          </bibl>
+          <bibl xml:id="biblid72575">
+            <title xml:id="idm140299314344944">Om Verdslig Øffrighed. Den CXXVII. Psalme, Nisi Dominus ædificaverit domum, &amp;c.</title>
+          </bibl>
+          <bibl xml:id="biblid72814">
+            <title xml:id="idm140299314344016">Om CHristi Pijne oc Død</title>
+          </bibl>
+          <bibl xml:id="biblid73186">
+            <title xml:id="idm140299314343200">Nu bede wi den hellig Aand, etc. Doct. Mart. Luth.</title>
+          </bibl>
+          <bibl xml:id="biblid73304">
+            <title xml:id="idm140299314342384">Ieg vil mig en Iomfru lofue, er en gammel</title>
+          </bibl>
+          <bibl xml:id="biblid73651">
+            <title xml:id="idm140299314341504">Maria hun er en Iomfru reen, etc. Christelig foruent, IEsu Christo til Loff oc AEre. M. H. Tom.</title>
+          </bibl>
+          <bibl xml:id="biblid73844">
+            <title xml:id="idm140299314340640">HErr Christ Gud Faders Eenbaarne Søn. Kand ocsaa siungis i Christi Fødsels Høytid</title>
+          </bibl>
+          <bibl xml:id="biblid74026">
+            <title xml:id="idm140299314339696">En Tacksigelse til den hellige Trefoldighed, for Guds Høymæctige Velgierninger...</title>
+          </bibl>
+          <bibl xml:id="biblid74443">
+            <title xml:id="idm140299314338768">En Bøn til Christum, om en salig ... Endeligt. D. Paulus Eberus filiolis faciebat...</title>
+          </bibl>
+          <bibl xml:id="biblid74686">
+            <title xml:id="idm140299314337760">En Christelig Morgensang, Siungis met de Noder: Aus meines Hertzen grunde, etc.</title>
+          </bibl>
+          <bibl xml:id="biblid75116">
+            <title xml:id="idm140299314336912">Et GRATIAS effter Maaltid at siunge, met de Noder, Som: Naar wi i største Nøden staa, etc.</title>
+          </bibl>
+          <bibl xml:id="biblid75280">
+            <title xml:id="idm140299314335888">En ny Vise, tagen aff det 22. Capittel Matthæi, om den Konge som giorde sin Søns Bryllup, etc.</title>
+          </bibl>
+          <bibl xml:id="biblid75982">
+            <title xml:id="idm140299314334928">Den anden Vise, Sommersens tid ieg prijse vil, Christelige forandret</title>
+          </bibl>
+          <bibl xml:id="biblid76160">
+            <title xml:id="idm140299314334096">Den tredie Vise, Et trofast Hierte, etc. Ocsaa Christelige forandret</title>
+          </bibl>
+          <bibl xml:id="biblid76358">
+            <title xml:id="idm140299314333264">En Klagevise, offuer Verdens Wtroskaff</title>
+          </bibl>
+          <bibl xml:id="biblid76815">
+            <title xml:id="idm140299314332464">En Vise om Vngdommens wstadighed, Siungis som den: Ieg gick mig vdi Rosens Lund, etc.</title>
+          </bibl>
+          <bibl xml:id="biblid76998">
+            <title xml:id="idm140299314331552">En klagelig oc dog trøstelig Sang oc Vise, for en Person der suag oc til Alders kommen er</title>
+          </bibl>
+          <bibl xml:id="biblid77415">
+            <title xml:id="idm140299314330544">Den Troende Sielis Aandelige Brudsang, om IEsu Christo, hendis Himmelske Brudgom</title>
+          </bibl>
+          <bibl xml:id="biblid77747">
+            <title xml:id="idm140299314329696">En Aandelig Vise, aff Tydske paa Danske vdsæt, Ieg veed et euigt Himmerig, etc.</title>
+          </bibl>
+          <bibl xml:id="biblid77926">
+            <title xml:id="idm140299314328768">Victurus genium debet habere Liber</title>
+          </bibl>
+          <bibl xml:id="biblid77937">
+            <title xml:id="idm140299314327968">Bogen taler til Læseren</title>
+          </bibl>
+          <bibl xml:id="biblid78091">
+            <title xml:id="idm140299314327152">Læseren taler til Bogen</title>
+          </bibl>
+        </listBibl>
+      </sourceDesc>
     </fileDesc>
   </teiHeader>
   <text xml:id="idm140299314326448">
     <front xml:id="idm140299314326192">
       <pb n="1" xml:id="s1" facs="adl/stehn/stehn1/stehn1001"/>
       <gap reason="cancelled" xml:id="idm140299314324752"/>
-<!---->
-<!---->
-<!--Hans Christensen Sthens Skrifter I-->
       <pb n="2" xml:id="s2" facs="adl/stehn/stehn1/stehn1002"/>
       <pb n="3" xml:id="s3" facs="adl/stehn/stehn1/stehn1003"/>
       <titlePage xml:id="idm140299314320944">

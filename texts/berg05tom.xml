@@ -1,10 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!--Tom opmærkning blo 28.05.02-->
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="idm139798459733904"><!-- 
-       file     ./marc_dir/002314460.xml
-       field     
-       subfield  
-       prefix   -->
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="root">
   <teiHeader xml:id="idm139798459738432">
     <fileDesc xml:id="idm139798459738176">
       <titleStmt xml:id="idm139798459737872">
@@ -19,8 +14,57 @@
         <note xml:id="idm139798459710000">
 	  </note>
       </notesStmt>
-      <sourceDesc xml:id="idm139798459709488"><bibl xml:id="idm139798459709360"><author n="1" xml:id="idm139798459708672"><name xml:id="idm139798459708416"><surname xml:id="idm139798459708288">Bergsøe</surname>, <forename xml:id="idm139798459707856">Vilhelm</forename></name></author><title xml:id="idm139798459707568">Poetiske Skrifter, 1-7 - Bind V</title><pubPlace xml:id="idm139798459707280">København</pubPlace>
-<date xml:id="idm139798459706768">1905-</date></bibl><listBibl xml:id="idm139798459706480"><bibl xml:id="biblid54252"><title xml:id="idm139798459693328">Fra Gamle Dage</title></bibl><bibl xml:id="biblid54257"><title xml:id="idm139798459692544">Le Prince noir</title></bibl><bibl xml:id="biblid54994"><title xml:id="idm139798459691760">De sidste paa Solei</title></bibl><bibl xml:id="biblid55535"><title xml:id="idm139798459690928">Dalila</title></bibl><bibl xml:id="biblid55839"><title xml:id="idm139798459690096">En Mæcen</title></bibl><bibl xml:id="biblid55966"><title xml:id="idm139798459689264">Jo større Fæ des bedre Lykke!</title></bibl><bibl xml:id="biblid56287"><title xml:id="idm139798459688432">Familien Pulce</title></bibl><bibl xml:id="biblid56395"><title xml:id="idm139798459687600">I Skumringen</title></bibl><bibl xml:id="biblid56418"><title xml:id="idm139798459686816">Den gamle Terrin</title></bibl><bibl xml:id="biblid56922"><title xml:id="idm139798459685984">Guldgraveren</title></bibl><bibl xml:id="biblid54448"><title xml:id="idm139798459685200">Stærke Jørgen</title></bibl><bibl xml:id="biblid57578"><title xml:id="idm139798459684400">Runevældsmarken</title></bibl><bibl xml:id="biblid57789"><title xml:id="idm139798459683600">Flyvefisken Promteheus. (En Fremtidsfantasi)</title></bibl></listBibl></sourceDesc>
+      <sourceDesc xml:id="idm139798459709488">
+        <bibl xml:id="idm139798459709360">
+          <author n="1" xml:id="idm139798459708672">
+            <name xml:id="idm139798459708416"><surname xml:id="idm139798459708288">Bergsøe</surname>, <forename xml:id="idm139798459707856">Vilhelm</forename></name>
+          </author>
+          <title xml:id="idm139798459707568">Poetiske Skrifter, 1-7 - Bind V</title>
+          <pubPlace xml:id="idm139798459707280">København</pubPlace>
+          <date xml:id="idm139798459706768">1905-</date>
+        </bibl>
+        <listBibl xml:id="idm139798459706480">
+          <bibl xml:id="biblid54252">
+            <title xml:id="idm139798459693328">Fra Gamle Dage</title>
+          </bibl>
+          <bibl xml:id="biblid54257">
+            <title xml:id="idm139798459692544">Le Prince noir</title>
+          </bibl>
+          <bibl xml:id="biblid54994">
+            <title xml:id="idm139798459691760">De sidste paa Solei</title>
+          </bibl>
+          <bibl xml:id="biblid55535">
+            <title xml:id="idm139798459690928">Dalila</title>
+          </bibl>
+          <bibl xml:id="biblid55839">
+            <title xml:id="idm139798459690096">En Mæcen</title>
+          </bibl>
+          <bibl xml:id="biblid55966">
+            <title xml:id="idm139798459689264">Jo større Fæ des bedre Lykke!</title>
+          </bibl>
+          <bibl xml:id="biblid56287">
+            <title xml:id="idm139798459688432">Familien Pulce</title>
+          </bibl>
+          <bibl xml:id="biblid56395">
+            <title xml:id="idm139798459687600">I Skumringen</title>
+          </bibl>
+          <bibl xml:id="biblid56418">
+            <title xml:id="idm139798459686816">Den gamle Terrin</title>
+          </bibl>
+          <bibl xml:id="biblid56922">
+            <title xml:id="idm139798459685984">Guldgraveren</title>
+          </bibl>
+          <bibl xml:id="biblid54448">
+            <title xml:id="idm139798459685200">Stærke Jørgen</title>
+          </bibl>
+          <bibl xml:id="biblid57578">
+            <title xml:id="idm139798459684400">Runevældsmarken</title>
+          </bibl>
+          <bibl xml:id="biblid57789">
+            <title xml:id="idm139798459683600">Flyvefisken Promteheus. (En Fremtidsfantasi)</title>
+          </bibl>
+        </listBibl>
+      </sourceDesc>
     </fileDesc>
   </teiHeader>
   <text xml:id="idm139798459682896">

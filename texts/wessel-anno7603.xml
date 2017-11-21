@@ -1,9 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="idm140008437177392"><!-- 
-       file     ./marc_dir/002160402.xml
-       field     
-       subfield  
-       prefix   -->
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="root">
   <teiHeader xml:id="idm140008437176736">
     <fileDesc xml:id="idm140008437176480">
       <titleStmt xml:id="idm140008437176176">
@@ -22,14 +18,23 @@
         <note xml:id="idm140008437146976">
 	  </note>
       </notesStmt>
-      <sourceDesc xml:id="idm140008437146464"><bibl xml:id="idm140008437146336"><author n="1" xml:id="idm140008437145648"><name xml:id="idm140008437145392"><surname xml:id="idm140008437145264">Wessel</surname>, <forename xml:id="idm140008437144800">Johan Herman</forename></name></author><title xml:id="idm140008437144512">Anno 7603</title><pubPlace xml:id="idm140008437144224">København</pubPlace>
-<date xml:id="idm140008437143712">1785</date></bibl><listBibl xml:id="idm140008437143424"><bibl xml:id="biblid54108"><title xml:id="idm140008437130272">Anno 7603</title></bibl></listBibl></sourceDesc>
+      <sourceDesc xml:id="idm140008437146464">
+        <bibl xml:id="idm140008437146336">
+          <author n="1" xml:id="idm140008437145648">
+            <name xml:id="idm140008437145392"><surname xml:id="idm140008437145264">Wessel</surname>, <forename xml:id="idm140008437144800">Johan Herman</forename></name>
+          </author>
+          <title xml:id="idm140008437144512">Anno 7603</title>
+          <pubPlace xml:id="idm140008437144224">København</pubPlace>
+          <date xml:id="idm140008437143712">1785</date>
+        </bibl>
+        <listBibl xml:id="idm140008437143424">
+          <bibl xml:id="biblid54108">
+            <title xml:id="idm140008437130272">Anno 7603</title>
+          </bibl>
+        </listBibl>
+      </sourceDesc>
     </fileDesc>
   </teiHeader>
-<!-- opmærkning 7.9.2001 VL -->
-<!-- Henrik Andersson har brugt udg. 1785; sidetallene kommer derfra -->
-<!-- der findes ikke imagefiles til denne tekst, da den er til en ny DSL udgave af Wessels SS som HA har under forberedelse
--->
   <text xml:id="workid54108" decls="#biblid54108">
     <front xml:id="idm140008437127456">
       <pb n="1" facs="adl/wessel/wessel3/wess3001" xml:id="idm140008437127152"/>

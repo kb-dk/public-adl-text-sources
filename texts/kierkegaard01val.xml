@@ -1,13 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!--  OCR by ATAPY 20.09.2001 (Catherine Bychkova) -->
-<!-- VL 10.10.02 dolgoeO changed to d.v.s. ; greek letters to [x] ; <emph> to spat 
-    Ptj rettet s.13-14-111-202- plus x antal "o" til "ø"
--->
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="idm140698093018000"><!-- 
-       file     ./marc_dir/001497565.xml
-       field     
-       subfield  
-       prefix   -->
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="root">
   <teiHeader xml:id="idm140698093017024">
     <fileDesc xml:id="idm140698093016768">
       <titleStmt xml:id="idm140698092991344">
@@ -28,17 +20,20 @@
         <note xml:id="idm140698092986704">
 	  </note>
       </notesStmt>
-      <sourceDesc xml:id="idm140698092986192"><bibl xml:id="idm140698092986064"><author n="1" xml:id="idm140698092985376"><name xml:id="idm140698092985120"><surname xml:id="idm140698092984992">Kierkegaard</surname>, <forename xml:id="idm140698092984560">Søren</forename></name></author><title xml:id="idm140698092984304">Begrebet Angest</title><pubPlace xml:id="idm140698092984016">[København]</pubPlace>; <pubPlace xml:id="idm140698092983552">Valby</pubPlace>
-<publisher xml:id="idm140698092983088">Det Danske Sprog- og Litteraturselskab</publisher><publisher xml:id="idm140698092982784">Borgen</publisher><date xml:id="idm140698092982448">1991</date></bibl><listBibl xml:id="idm140698092982160"><bibl xml:id="biblid54239"><title xml:id="idm140698092969008">Begrebet Angest</title></bibl></listBibl></sourceDesc>
+      <sourceDesc xml:id="idm140698092986192">
+        <bibl xml:id="idm140698092986064"><author n="1" xml:id="idm140698092985376"><name xml:id="idm140698092985120"><surname xml:id="idm140698092984992">Kierkegaard</surname>, <forename xml:id="idm140698092984560">Søren</forename></name></author><title xml:id="idm140698092984304">Begrebet Angest</title><pubPlace xml:id="idm140698092984016">[København]</pubPlace>; <pubPlace xml:id="idm140698092983552">Valby</pubPlace><publisher xml:id="idm140698092983088">Det Danske Sprog- og Litteraturselskab</publisher><publisher xml:id="idm140698092982784">Borgen</publisher><date xml:id="idm140698092982448">1991</date></bibl>
+        <listBibl xml:id="idm140698092982160">
+          <bibl xml:id="biblid54239">
+            <title xml:id="idm140698092969008">Begrebet Angest</title>
+          </bibl>
+        </listBibl>
+      </sourceDesc>
     </fileDesc>
   </teiHeader>
   <text xml:id="idm140698092968368">
     <front xml:id="idm140698092968112">
       <pb n="1" facs="adl/kierkegaard/kierkegaard1/kierkeg1001" xml:id="idm140698092967808"/>
       <gap reason="cancelled" xml:id="idm140698092966992"/>
-<!---->
-<!---->
-<!--Begrebet Angest-->
       <pb n="2" facs="adl/kierkegaard/kierkegaard1/kierkeg1002" xml:id="idm140698092965472"/>
       <pb n="3" facs="adl/kierkegaard/kierkegaard1/kierkeg1003" xml:id="idm140698092964688"/>
       <titlePage xml:id="idm140698092963920">
@@ -204,7 +199,7 @@
 							afvinder vel endogsaa den Rettroende denne Concession, fordi han maaskee
 							ikke strax gjennemskuer Misforstaaelsen, at den ikke har sin Grund i det
 							Senere, men i hiin [x][x][x][x][x][x]
-							[x][x][x][x][x][x]<!-- <hi rend="italics">&#960;&#961;&#969;&#964;&#959;&#957; &#968;&#949;&#965;&#948;&#959;&#962;</hi> -->
+							[x][x][x][x][x][x]
 							.Tabet er umiskjendeligt; thi Troen taber derved, at den berøves, hvad
 							den lovligt tilhører, sin historiske Forudsætning; Dogmatiken taber
 							derved, at den kommer til at begynde, ikke hvor den har sin Begynden,
@@ -257,10 +252,10 @@
 							tvende Videnskaber: Ethiken og Dogmatiken, især da man efter at have
 							faaet Ordet Forsoning bragt ind, nu ogsaa hentyder paa, at Logik og
 							[x][x][x][x][x]
-							<!-- <hi rend="italics">&#955;&#959;&#947;&#959;&#962;</hi> -->
+							
 							(det dogmatiske) svare til hinanden, og at Logiken er den egentlige Lære
 							om
-							[x][x][x][x][x]<!-- <hi rend="italics">&#955;&#959;&#947;&#959;&#962;</hi> -->.
+							[x][x][x][x][x].
 							Ethiken og Dogmatiken stride i et skjebnesvangert <hi rend="italics" xml:id="idm140698093042112">confinium</hi> om Forsoningen. Angeren og Skylden frempiner ethisk
 							Forsoningen, medens Dogmatiken i Receptiviteten for den tilbudne
 							Forsoning har den historisk concrete Umiddelbarhed, med hvilken den
@@ -442,7 +437,7 @@
 							corresponderer med denne ved at ville henstille sig som Opgave for
 							ethvert Menneske saaledes, at den vil gjøre ham til det sande, til det
 							hele Menneske, Mennesket [x][x][x]'
-							[x][x][x][x][x][x]<!-- <hi rend="italics">&#954;&#945;&#964;' &#949;&#958;&#959;&#967;&#951;&#957;</hi> -->,
+							[x][x][x][x][x][x],
 							desto mere spænder den Vanskeligheden. I Kampen for at realisere
 							Ethikens Opgave viser Synden sig ikke som Noget, der kun tilfældigt
 							tilhører et tilfældigt <note anchored="true" xml:id="idm140698092812992"><p xml:id="idm140698092812592">* Dette Punkt betræffende vil man finde adskillige Bemærkninger i
@@ -583,7 +578,7 @@
 							som Opgave, dog ikke i Bevægelsen fra oven ned efter, men fra neden op
 							efter.</p>
             <p xml:id="idm140698092788224">Aristoteles har som bekjendt brugt Benævnelsen [x][x][x][x][x]
-							[x][x][x][x][x][x][x][x][x]<!-- <hi rend="italics">&#960;&#961;&#969;&#964;&#951; &#966;&#953;&#955;&#959;&#963;&#959;&#966;&#953;&#945;</hi> -->
+							[x][x][x][x][x][x][x][x][x]
 							og derved betegnet nærmest det Metaphysiske, skjøndt han tillige optog
 							en Deel af hvad der efter vore Begreber hørte ind under Theologien.
 							Dette er aldeles i sin Orden, at i Hedenskabet Theologien maatte
@@ -591,7 +586,7 @@
 							Gjennemreflekterethed, som gjorde, at Theatret i Hedenskabet havde
 							Realitet som en Art Gudstjeneste. Vil man nu abstrahere fra denne
 							Tvetydighed, saa kunde man beholde Benævnelsen ogved [x][x][x][x][x]
-							[x][x][x][x][x][x][x][x][x]<!-- <hi rend="italics">&#960;&#961;&#969;&#964;&#951; &#966;&#953;&#955;&#959;&#963;&#959;&#966;&#953;&#945;</hi> -->*
+							[x][x][x][x][x][x][x][x][x]*
 							forstaae den videnskabelige Totalitet, man kunde kalde den ethniske,
 							hvis Væsen er Immanentsen, eller græsk talt, Erindringen, og ved <hi rend="italics" xml:id="idm140698092786000">secunda philosophia</hi> forstaae den, hvis Væsen er
 							Transcendentsen eller Gjentagelsen**.</p>
@@ -740,7 +735,7 @@
 								forskjellige Consessioner, da frembyder der sig en Gradation, i
 								hvilken den dybe protestantiske Fromhed gaaer af med Seiren. Den
 								græske Kirke kalder Arvesynden: [x][x][x][x][x][x][x][x]
-								[x][x][x][x][x][x][x][x][x][x][x][x][x][x]<!-- <hi rend="italics">&#7937;&#956;&#8049;&#961;&#964;&#951;&#956;&#945; &#960;&#961;&#959;&#964;&#959;&#960;&#945;&#964;&#959;&#961;&#953;&#954;&#959;&#957;</hi> -->.
+								[x][x][x][x][x][x][x][x][x][x][x][x][x][x].
 								Den har ikke engang et Begreb; thi dette Ord er kun en historisk
 								Angivelse, der ikke som Begrebet angiver det Nærværende, men kun det
 								historisk Afsluttede. <hi rend="italics" xml:id="idm140698092754816">Vitium originis</hi>
@@ -1788,7 +1783,7 @@
 								Tilværelse har jeg betegnet som objektiv Angest.</p>
               <p xml:id="idm140698092546864">Hvad her menes kan jeg antyde ved at minde om Skriftordet
 								[x][x][x][x][x][x][x][x][x][x][x][x] [x][x][x]
-								[x][x][x][x][x][x][x]<!-- <hi rend="italics">&#7936;&#960;&#959;&#954;&#945;&#961;&#945;&#948;&#959;&#954;&#953;&#945; &#964;&#8134;&#962; &#954;&#964;&#8055;&#963;&#949;&#969;&#962;</hi> -->
+								[x][x][x][x][x][x][x]
 								(Rom. 8, 19.) Forsaavidt der nemlig skal være Tale om en Forlængsel,
 								følger det af sig selv, at Skabningen befinder sig i en
 								Ufuldkommenhedens Tilstand Man overseer ofte ved saadanne Udtryk og
@@ -1848,7 +1843,7 @@
 										tildeels ogsaa selv har kaldt det Negative, og hvad der hos
 										Hegel blev i Ordet det Negative nærmere bestemmet som det
 										Dialektiske. ([x][x]
-										[x][x][x][x][x][x]<!-- <hi rend="italics">&#964;&#959; &#7953;&#964;&#949;&#961;&#959;&#957;</hi> -->.)
+										[x][x][x][x][x][x].)
 										Tvetydigheden viser sig ogsaa hos Schellmg, thi han taler om
 										en Melancholie, der er udbredt over Naturen, og tillige om
 										et Tungsind i Guddommen Dog er det fornemhg Hovedtanken i

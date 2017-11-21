@@ -1,15 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!-- 22.10.2002 VL: missing line in header added ; + vaerktitle ; cut titles to under 100 char ; 
-div corrected in all the verse plays
- 
- 20030812 HHL erstattet og udkommenteret ??? med et n, også LÆV's ex er ulæseligt
- 20070620 VL rettelser på s. 88, 190, 316
- -->
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="idm139851049651344"><!-- 
-       file     ./marc_dir/001601376.xml
-       field     
-       subfield  
-       prefix   -->
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="root">
   <teiHeader xml:id="idm139851049650272">
     <fileDesc xml:id="idm139851049650016">
       <titleStmt xml:id="idm139851049624560">
@@ -24,17 +14,148 @@ div corrected in all the verse plays
         <note xml:id="idm139851049621648">
 	  </note>
       </notesStmt>
-      <sourceDesc xml:id="idm139851049621136"><bibl xml:id="idm139851049621008"><author n="1" xml:id="idm139851049620320"><name xml:id="idm139851049620064"><surname xml:id="idm139851049619936">Ewald</surname>, <forename xml:id="idm139851049619504">Johannes</forename></name></author><title xml:id="idm139851049619248">Johannes Ewalds samlede skrifter</title><pubPlace xml:id="idm139851049618944">(Kbh.)</pubPlace>
-<publisher xml:id="idm139851049618480">Gyldendal</publisher><date xml:id="idm139851049618144">(1969)</date></bibl><listBibl xml:id="idm139851049617856"><bibl xml:id="biblid55795"><title xml:id="idm139851049604704">CERERIS OG THETIDIS STRID. EN PROLOGUE (1774)</title></bibl><bibl xml:id="biblid57154"><title xml:id="idm139851049603888">LANDSBYE-HØITIDEN (1775)</title></bibl><bibl xml:id="biblid58850"><title xml:id="idm139851049603072">BALDERS DØD. (1775)</title></bibl><bibl xml:id="biblid70869"><title xml:id="idm139851049602208">I ANLEDNING AF DEN SAL. MAD. JAKOBSENS DØDSFALD I RONDSTED DEN 1 MAY 1775</title></bibl><bibl xml:id="biblid71268"><title xml:id="idm139851049601296">RUNGSTEDS LYKSALIGHEDER. EN ODE (1775)</title></bibl><bibl xml:id="biblid71605"><title xml:id="idm139851049600496">ODE TIL ARVE-PRINDSEN, DEN 11. OCTOBER 1776</title></bibl><bibl xml:id="biblid71973"><title xml:id="idm139851049599680">SØRGE-CANTATE OPFØRT PAA WALK. COLLEGII ... CHRISTIAN HORREBOWS DØD (1776)</title></bibl><bibl xml:id="biblid72297"><title xml:id="idm139851049598704">SØRGE-CANTATA OPFØRT ... PEDER HOLMS DØD (1777)</title></bibl><bibl xml:id="biblid72670"><title xml:id="idm139851049597792">VERS PAA ET SØLV SKILDT GIVET TIL ET KONGE-BAAND ... (1777)</title></bibl><bibl xml:id="biblid72726"><title xml:id="idm139851049596848">I ANLEDNING AF HENDES KONGELIGE MAJESTÆTS DRONNING JULIANA MARIA ... 1777</title></bibl><bibl xml:id="biblid73227"><title xml:id="idm139851049595888">TANKER VED GRAVEN AF DEN UNGE JENS SANDERSCHOV (1777)</title></bibl><bibl xml:id="biblid73486"><title xml:id="idm139851049595072">SØRGE-CANTATA VED SALIG HERR ULRICH FRIDERICH SUHMS BEGRAVELSE DEN 22 JAN. 1778</title></bibl><bibl xml:id="biblid73888"><title xml:id="idm139851049594096">SANG I ANLEDNING AF KONGENS FØDSELSDAG 1778</title></bibl><bibl xml:id="biblid74029"><title xml:id="idm139851049593184">OPINIONS (1778)</title></bibl><bibl xml:id="biblid74252"><title xml:id="idm139851049592400">ET HENGIVENT ØNSKE (1778)</title></bibl><bibl xml:id="biblid74304"><title xml:id="idm139851049591584">AFTENEN: ET FRAGMENT (1778)</title></bibl><bibl xml:id="biblid74386"><title xml:id="idm139851049590736">ESELET OG BONDEN. EN FABEL (1778)</title></bibl><bibl xml:id="biblid74693"><title xml:id="idm139851049589936">KLAGE-SANG OVER SKIØDEHUNDEN: MASKE (1778)</title></bibl><bibl xml:id="biblid75784"><title xml:id="idm139851049589040">VED EN FEST PAA KRONPRINDSENS FØDSELSDAG (1778)</title></bibl><bibl xml:id="biblid76119"><title xml:id="idm139851049588128">UNDER FRUE CAROLINE WALTHERS PORTRAIT (1778)</title></bibl><bibl xml:id="biblid76142"><title xml:id="idm139851049587264">INDFØDS-RETTEN (1778)</title></bibl><bibl xml:id="biblid77260"><title xml:id="idm139851049586400">I ANLEDNING AF HENDES KONGELIGE MAJESTÆTS DRONNING JULIANA MARIA ... (1778)</title></bibl><bibl xml:id="biblid77718"><title xml:id="idm139851049585424">DET NYE AAR 1779</title></bibl><bibl xml:id="biblid78004"><title xml:id="idm139851049584592">CANTATE OPFØRT VED UNIVERSITETETS ... KONGENS FØDSELSDAG 1779</title></bibl><bibl xml:id="biblid78278"><title xml:id="idm139851049583696">CANTATE VED JUBILEET DEN 11 MAY 1779 I ANLEDNING AF UNIVERSITETETS INDVIELSE</title></bibl><bibl xml:id="biblid78707"><title xml:id="idm139851049582800">FISKERNE. ET SYNGESPIL I TRE HANDLINGER. EN PRIISDIGT (1779)</title></bibl><bibl xml:id="biblid92255"><title xml:id="idm139851049581904">EPIGRAMMER</title></bibl><bibl xml:id="biblid92417"><title xml:id="idm139851049581072">EN NYE AANDELIG SANG (1779)</title></bibl><bibl xml:id="biblid93531"><title xml:id="idm139851049580224">TIL MIN M*** (1780)</title></bibl><bibl xml:id="biblid93817"><title xml:id="idm139851049579328">SAMTLIGE SKRIFTER I, TILEGNELSE (1780)</title></bibl><bibl xml:id="biblid93885"><title xml:id="idm139851049578528">SAMTLIGE SKRIFTER I, FORTALE (1780)</title></bibl><bibl xml:id="biblid94884"><title xml:id="idm139851049577616">POENITENTEN. EN ODE (1780)</title></bibl><bibl xml:id="biblid95294"><title xml:id="idm139851049576704">FØLELSER VED DEN HELLIGE NADVERE. EN ODE, (1780)</title></bibl><bibl xml:id="biblid95622"><title xml:id="idm139851049575792">TIL SIELEN. EN ODE (1780)</title></bibl><bibl xml:id="biblid96205"><title xml:id="idm139851049574944">TIL ARVEPRINDS FREDERIK, DEN 11. OCTOBER 1779. EN ODE</title></bibl><bibl xml:id="biblid96626"><title xml:id="idm139851049574080">MESTER SYNAALS FORTELLING I (1780)</title></bibl><bibl xml:id="biblid98181"><title xml:id="idm139851049573168">MESTER SYNAALS FORTELLING II (1780)</title></bibl><bibl xml:id="biblid98808"><title xml:id="idm139851049572256">TIL MIN M** PAA HANS BRODERS FØDSELSDAG (1780)</title></bibl><bibl xml:id="biblid99306"><title xml:id="idm139851049571344">JOHANNES EWALDS SIDSTE POETISKE FØLELSER NOGLE TIMER FØR HANS DØD (1781)</title></bibl><bibl xml:id="biblid99438"><title xml:id="idm139851049570384">GRATULATION DA SEIGR. PEDER HUULEGAARD OG ... BRYLLUPS-FÆST (1759)</title></bibl><bibl xml:id="biblid100034"><title xml:id="idm139851049569488">TANKER I ANLEDNING AF SR. HUULEGAARDS DØDELIGE AFGANG (1769)</title></bibl></listBibl></sourceDesc>
+      <sourceDesc xml:id="idm139851049621136">
+        <bibl xml:id="idm139851049621008">
+          <author n="1" xml:id="idm139851049620320">
+            <name xml:id="idm139851049620064"><surname xml:id="idm139851049619936">Ewald</surname>, <forename xml:id="idm139851049619504">Johannes</forename></name>
+          </author>
+          <title xml:id="idm139851049619248">Johannes Ewalds samlede skrifter</title>
+          <pubPlace xml:id="idm139851049618944">(Kbh.)</pubPlace>
+          <publisher xml:id="idm139851049618480">Gyldendal</publisher>
+          <date xml:id="idm139851049618144">(1969)</date>
+        </bibl>
+        <listBibl xml:id="idm139851049617856">
+          <bibl xml:id="biblid55795">
+            <title xml:id="idm139851049604704">CERERIS OG THETIDIS STRID. EN PROLOGUE (1774)</title>
+          </bibl>
+          <bibl xml:id="biblid57154">
+            <title xml:id="idm139851049603888">LANDSBYE-HØITIDEN (1775)</title>
+          </bibl>
+          <bibl xml:id="biblid58850">
+            <title xml:id="idm139851049603072">BALDERS DØD. (1775)</title>
+          </bibl>
+          <bibl xml:id="biblid70869">
+            <title xml:id="idm139851049602208">I ANLEDNING AF DEN SAL. MAD. JAKOBSENS DØDSFALD I RONDSTED DEN 1 MAY 1775</title>
+          </bibl>
+          <bibl xml:id="biblid71268">
+            <title xml:id="idm139851049601296">RUNGSTEDS LYKSALIGHEDER. EN ODE (1775)</title>
+          </bibl>
+          <bibl xml:id="biblid71605">
+            <title xml:id="idm139851049600496">ODE TIL ARVE-PRINDSEN, DEN 11. OCTOBER 1776</title>
+          </bibl>
+          <bibl xml:id="biblid71973">
+            <title xml:id="idm139851049599680">SØRGE-CANTATE OPFØRT PAA WALK. COLLEGII ... CHRISTIAN HORREBOWS DØD (1776)</title>
+          </bibl>
+          <bibl xml:id="biblid72297">
+            <title xml:id="idm139851049598704">SØRGE-CANTATA OPFØRT ... PEDER HOLMS DØD (1777)</title>
+          </bibl>
+          <bibl xml:id="biblid72670">
+            <title xml:id="idm139851049597792">VERS PAA ET SØLV SKILDT GIVET TIL ET KONGE-BAAND ... (1777)</title>
+          </bibl>
+          <bibl xml:id="biblid72726">
+            <title xml:id="idm139851049596848">I ANLEDNING AF HENDES KONGELIGE MAJESTÆTS DRONNING JULIANA MARIA ... 1777</title>
+          </bibl>
+          <bibl xml:id="biblid73227">
+            <title xml:id="idm139851049595888">TANKER VED GRAVEN AF DEN UNGE JENS SANDERSCHOV (1777)</title>
+          </bibl>
+          <bibl xml:id="biblid73486">
+            <title xml:id="idm139851049595072">SØRGE-CANTATA VED SALIG HERR ULRICH FRIDERICH SUHMS BEGRAVELSE DEN 22 JAN. 1778</title>
+          </bibl>
+          <bibl xml:id="biblid73888">
+            <title xml:id="idm139851049594096">SANG I ANLEDNING AF KONGENS FØDSELSDAG 1778</title>
+          </bibl>
+          <bibl xml:id="biblid74029">
+            <title xml:id="idm139851049593184">OPINIONS (1778)</title>
+          </bibl>
+          <bibl xml:id="biblid74252">
+            <title xml:id="idm139851049592400">ET HENGIVENT ØNSKE (1778)</title>
+          </bibl>
+          <bibl xml:id="biblid74304">
+            <title xml:id="idm139851049591584">AFTENEN: ET FRAGMENT (1778)</title>
+          </bibl>
+          <bibl xml:id="biblid74386">
+            <title xml:id="idm139851049590736">ESELET OG BONDEN. EN FABEL (1778)</title>
+          </bibl>
+          <bibl xml:id="biblid74693">
+            <title xml:id="idm139851049589936">KLAGE-SANG OVER SKIØDEHUNDEN: MASKE (1778)</title>
+          </bibl>
+          <bibl xml:id="biblid75784">
+            <title xml:id="idm139851049589040">VED EN FEST PAA KRONPRINDSENS FØDSELSDAG (1778)</title>
+          </bibl>
+          <bibl xml:id="biblid76119">
+            <title xml:id="idm139851049588128">UNDER FRUE CAROLINE WALTHERS PORTRAIT (1778)</title>
+          </bibl>
+          <bibl xml:id="biblid76142">
+            <title xml:id="idm139851049587264">INDFØDS-RETTEN (1778)</title>
+          </bibl>
+          <bibl xml:id="biblid77260">
+            <title xml:id="idm139851049586400">I ANLEDNING AF HENDES KONGELIGE MAJESTÆTS DRONNING JULIANA MARIA ... (1778)</title>
+          </bibl>
+          <bibl xml:id="biblid77718">
+            <title xml:id="idm139851049585424">DET NYE AAR 1779</title>
+          </bibl>
+          <bibl xml:id="biblid78004">
+            <title xml:id="idm139851049584592">CANTATE OPFØRT VED UNIVERSITETETS ... KONGENS FØDSELSDAG 1779</title>
+          </bibl>
+          <bibl xml:id="biblid78278">
+            <title xml:id="idm139851049583696">CANTATE VED JUBILEET DEN 11 MAY 1779 I ANLEDNING AF UNIVERSITETETS INDVIELSE</title>
+          </bibl>
+          <bibl xml:id="biblid78707">
+            <title xml:id="idm139851049582800">FISKERNE. ET SYNGESPIL I TRE HANDLINGER. EN PRIISDIGT (1779)</title>
+          </bibl>
+          <bibl xml:id="biblid92255">
+            <title xml:id="idm139851049581904">EPIGRAMMER</title>
+          </bibl>
+          <bibl xml:id="biblid92417">
+            <title xml:id="idm139851049581072">EN NYE AANDELIG SANG (1779)</title>
+          </bibl>
+          <bibl xml:id="biblid93531">
+            <title xml:id="idm139851049580224">TIL MIN M*** (1780)</title>
+          </bibl>
+          <bibl xml:id="biblid93817">
+            <title xml:id="idm139851049579328">SAMTLIGE SKRIFTER I, TILEGNELSE (1780)</title>
+          </bibl>
+          <bibl xml:id="biblid93885">
+            <title xml:id="idm139851049578528">SAMTLIGE SKRIFTER I, FORTALE (1780)</title>
+          </bibl>
+          <bibl xml:id="biblid94884">
+            <title xml:id="idm139851049577616">POENITENTEN. EN ODE (1780)</title>
+          </bibl>
+          <bibl xml:id="biblid95294">
+            <title xml:id="idm139851049576704">FØLELSER VED DEN HELLIGE NADVERE. EN ODE, (1780)</title>
+          </bibl>
+          <bibl xml:id="biblid95622">
+            <title xml:id="idm139851049575792">TIL SIELEN. EN ODE (1780)</title>
+          </bibl>
+          <bibl xml:id="biblid96205">
+            <title xml:id="idm139851049574944">TIL ARVEPRINDS FREDERIK, DEN 11. OCTOBER 1779. EN ODE</title>
+          </bibl>
+          <bibl xml:id="biblid96626">
+            <title xml:id="idm139851049574080">MESTER SYNAALS FORTELLING I (1780)</title>
+          </bibl>
+          <bibl xml:id="biblid98181">
+            <title xml:id="idm139851049573168">MESTER SYNAALS FORTELLING II (1780)</title>
+          </bibl>
+          <bibl xml:id="biblid98808">
+            <title xml:id="idm139851049572256">TIL MIN M** PAA HANS BRODERS FØDSELSDAG (1780)</title>
+          </bibl>
+          <bibl xml:id="biblid99306">
+            <title xml:id="idm139851049571344">JOHANNES EWALDS SIDSTE POETISKE FØLELSER NOGLE TIMER FØR HANS DØD (1781)</title>
+          </bibl>
+          <bibl xml:id="biblid99438">
+            <title xml:id="idm139851049570384">GRATULATION DA SEIGR. PEDER HUULEGAARD OG ... BRYLLUPS-FÆST (1759)</title>
+          </bibl>
+          <bibl xml:id="biblid100034">
+            <title xml:id="idm139851049569488">TANKER I ANLEDNING AF SR. HUULEGAARDS DØDELIGE AFGANG (1769)</title>
+          </bibl>
+        </listBibl>
+      </sourceDesc>
     </fileDesc>
   </teiHeader>
   <text xml:id="idm139851049568656">
     <front xml:id="idm139851049568400">
       <pb n="a" xml:id="sa" facs="adl/ewald/ewald5/ewald5fm001"/>
       <gap reason="cancelled" xml:id="idm139851049566928"/>
-<!---->
-<!---->
-<!--JOHANNES EWALDS, SAMLEDE SKRIFTER-->
       <pb n="b" xml:id="sb" facs="adl/ewald/ewald5/ewald5fm002"/>
       <pb n="c" xml:id="sc" facs="adl/ewald/ewald5/ewald5fm003"/>
       <titlePage xml:id="idm139851049563168">
@@ -52,9 +173,6 @@ div corrected in all the verse plays
         </docTitle>
         <pb n="e" xml:id="se" facs="adl/ewald/ewald5/ewald5fm005"/>
         <gap reason="cancelled" xml:id="idm139851049553648"/>
-<!---->
-<!---->
-<!--JOHANNES EWALDS, SAMLEDE SKRIFTER-->
         <pb n="f" xml:id="sf" facs="adl/ewald/ewald5/ewald5fm006"/>
         <pb n="g" xml:id="sg" facs="adl/ewald/ewald5/ewald5fm007"/>
       </titlePage>
@@ -3966,7 +4084,7 @@ div corrected in all the verse plays
                   <stage type="mix" xml:id="idm139851047925792">(som seer med Foragt efter Loke.)</stage>
                   <l xml:id="idm139851047925120">Forvorpne! -</l>
                   <l xml:id="idm139851047924704">Ha, feige Træl! og du tilsoerst mig Venskab!</l>
-                  <l xml:id="idm139851047924208">Nei, aldrig varst du Hothers Ven<!--???-->, Forræder!</l>
+                  <l xml:id="idm139851047924208">Nei, aldrig varst du Hothers Ven, Forræder!</l>
                   <l xml:id="idm139851047923408">Men Gudernes, men Dydens soerne Fiende.</l>
                 </sp>
                 <sp xml:id="idm139851047922848">

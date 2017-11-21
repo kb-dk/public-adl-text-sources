@@ -1,9 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="idm140278138727568"><!-- 
-       file     ./marc_dir/002143500.xml
-       field     
-       subfield  
-       prefix   -->
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="root">
   <teiHeader xml:id="idm140278138726912">
     <fileDesc xml:id="idm140278138726656">
       <titleStmt xml:id="idm140278138726352">
@@ -18,8 +14,22 @@
         <note xml:id="idm140278138698288">
 	  </note>
       </notesStmt>
-      <sourceDesc xml:id="idm140278138697776"><bibl xml:id="idm140278138697648"><author n="1" xml:id="idm140278138697072"><name xml:id="idm140278138696816"><surname xml:id="idm140278138696688">Brandes</surname>, <forename xml:id="idm140278138696256">Edvard</forename></name></author><title xml:id="idm140278138695968">Et Brud</title><pubPlace xml:id="idm140278138695680">Kjøbenhavn</pubPlace>
-<publisher xml:id="idm140278138695216">P. G. Philipsens Forlag</publisher><date xml:id="idm140278138694880">1885</date></bibl><listBibl xml:id="idm140278138694592"><bibl xml:id="biblid54088"><title xml:id="idm140278138681440">Et Brud</title></bibl></listBibl></sourceDesc>
+      <sourceDesc xml:id="idm140278138697776">
+        <bibl xml:id="idm140278138697648">
+          <author n="1" xml:id="idm140278138697072">
+            <name xml:id="idm140278138696816"><surname xml:id="idm140278138696688">Brandes</surname>, <forename xml:id="idm140278138696256">Edvard</forename></name>
+          </author>
+          <title xml:id="idm140278138695968">Et Brud</title>
+          <pubPlace xml:id="idm140278138695680">Kjøbenhavn</pubPlace>
+          <publisher xml:id="idm140278138695216">P. G. Philipsens Forlag</publisher>
+          <date xml:id="idm140278138694880">1885</date>
+        </bibl>
+        <listBibl xml:id="idm140278138694592">
+          <bibl xml:id="biblid54088">
+            <title xml:id="idm140278138681440">Et Brud</title>
+          </bibl>
+        </listBibl>
+      </sourceDesc>
     </fileDesc>
   </teiHeader>
   <text xml:id="workid54088" decls="#biblid54088">

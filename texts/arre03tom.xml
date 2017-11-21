@@ -1,10 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!--Tom opmærkning d.20.3.2002 blo -->
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="idm139638012558320"><!-- 
-       file     ./marc_dir/001625930.xml
-       field    530 
-       subfield a 
-       prefix   3.-->
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="root">
   <teiHeader xml:id="idm139638012557392">
     <fileDesc xml:id="idm139638012557136">
       <titleStmt xml:id="idm139638012531760">
@@ -23,8 +18,22 @@
         <note xml:id="idm139638012527760">
 	  </note>
       </notesStmt>
-      <sourceDesc xml:id="idm139638012527248"><bibl xml:id="idm139638012527120"><author n="1" xml:id="idm139638012526496"><name xml:id="idm139638012526240"><surname xml:id="idm139638012526112">Arrebo</surname>, <forename xml:id="idm139638012525680">Anders</forename></name></author><title xml:id="idm139638012525392"> Prædikener. Ossa rediviva 1680. Torcular Christi 1670. Udg. af Vagn Lundgaard Simonsen. 1975</title><pubPlace xml:id="idm139638012524928">København</pubPlace>
-<publisher xml:id="idm139638012524496">Munksgaard</publisher><date xml:id="idm139638012524160">1965-83.</date></bibl><listBibl xml:id="idm139638012523872"><bibl xml:id="biblid54300"><title xml:id="idm139638012510672">Anders Arrebo. Prædikener</title></bibl></listBibl></sourceDesc>
+      <sourceDesc xml:id="idm139638012527248">
+        <bibl xml:id="idm139638012527120">
+          <author n="1" xml:id="idm139638012526496">
+            <name xml:id="idm139638012526240"><surname xml:id="idm139638012526112">Arrebo</surname>, <forename xml:id="idm139638012525680">Anders</forename></name>
+          </author>
+          <title xml:id="idm139638012525392"> Prædikener. Ossa rediviva 1680. Torcular Christi 1670. Udg. af Vagn Lundgaard Simonsen. 1975</title>
+          <pubPlace xml:id="idm139638012524928">København</pubPlace>
+          <publisher xml:id="idm139638012524496">Munksgaard</publisher>
+          <date xml:id="idm139638012524160">1965-83.</date>
+        </bibl>
+        <listBibl xml:id="idm139638012523872">
+          <bibl xml:id="biblid54300">
+            <title xml:id="idm139638012510672">Anders Arrebo. Prædikener</title>
+          </bibl>
+        </listBibl>
+      </sourceDesc>
     </fileDesc>
   </teiHeader>
   <text xml:id="idm139638012509968">

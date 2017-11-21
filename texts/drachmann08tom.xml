@@ -1,10 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!--Tom opmærkning blo 09.05.02-->
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="idm139873598166928"><!-- 
-       file     ./marc_dir/001823907.xml
-       field     
-       subfield  
-       prefix   -->
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="root">
   <teiHeader xml:id="idm139873598171456">
     <fileDesc xml:id="idm139873598171200">
       <titleStmt xml:id="idm139873598170896">
@@ -19,8 +14,147 @@
         <note xml:id="idm139873598143024">
 	  </note>
       </notesStmt>
-      <sourceDesc xml:id="idm139873598142512"><bibl xml:id="idm139873598142384"><author n="1" xml:id="idm139873598141696"><name xml:id="idm139873598141440"><surname xml:id="idm139873598141312">Drachmann</surname>, <forename xml:id="idm139873598140848">Holger</forename></name></author><title xml:id="idm139873598140560">Samlede poetiske Skrifter</title><pubPlace xml:id="idm139873598140256">Kbh. &amp; Kristiania</pubPlace>
-<date xml:id="idm139873598139632">1906-1909</date></bibl><listBibl xml:id="idm139873598139376"><bibl xml:id="biblid54134"><title xml:id="idm139873598126224">Med den brede Pensel</title></bibl><bibl xml:id="biblid55812"><title xml:id="idm139873598125392">Fest-Spil i Hundredaaret efter de store Landbo-Reformer og Stavnsbaandets løsning</title></bibl><bibl xml:id="biblid56043"><title xml:id="idm139873598124464">Tyrkisk Rokoko. En Mode-Legende fra Anno 1748</title></bibl><bibl xml:id="biblid56169"><title xml:id="idm139873598123648">To Dramatiske Digte</title></bibl><bibl xml:id="biblid56187"><title xml:id="idm139873598122816">Tyrkisk Rokoko</title></bibl><bibl xml:id="biblid56441"><title xml:id="idm139873598122032">Esther</title></bibl><bibl xml:id="biblid56868"><title xml:id="idm139873598121248">Tusind og en Nat</title></bibl><bibl xml:id="biblid57323"><title xml:id="idm139873598120416">Sangenes Bog</title></bibl><bibl xml:id="biblid57356"><title xml:id="idm139873598119632">Foraarsregn</title></bibl><bibl xml:id="biblid57368"><title xml:id="idm139873598118848">Der vælder Lyd</title></bibl><bibl xml:id="biblid57374"><title xml:id="idm139873598118000">Jule-Sne</title></bibl><bibl xml:id="biblid57386"><title xml:id="idm139873598117168">Foran Vandfaldet</title></bibl><bibl xml:id="biblid57404"><title xml:id="idm139873598116336">Stemning</title></bibl><bibl xml:id="biblid57417"><title xml:id="idm139873598115552">En Sang fra Rom</title></bibl><bibl xml:id="biblid57435"><title xml:id="idm139873598114720">Jeg takker Dig, min Fader, at Du ikke var rig</title></bibl><bibl xml:id="biblid57447"><title xml:id="idm139873598113856">Visen om Agnete og Havmandet</title></bibl><bibl xml:id="biblid57459"><title xml:id="idm139873598113008">Ved Siden af mig spilles der Klavér</title></bibl><bibl xml:id="biblid57471"><title xml:id="idm139873598112112">Med et broget Blad</title></bibl><bibl xml:id="biblid57482"><title xml:id="idm139873598111280">Vølund</title></bibl><bibl xml:id="biblid57495"><title xml:id="idm139873598110448">Sommer og Høst</title></bibl><bibl xml:id="biblid57497"><title xml:id="idm139873598109648">Den røde vilde Vin</title></bibl><bibl xml:id="biblid57509"><title xml:id="idm139873598108800">Naar Linden blomstrer</title></bibl><bibl xml:id="biblid57528"><title xml:id="idm139873598107968">Den unge Ørn</title></bibl><bibl xml:id="biblid57546"><title xml:id="idm139873598107120">Sommerdrømme paa Havet</title></bibl><bibl xml:id="biblid57565"><title xml:id="idm139873598106304">Landevejssalmer</title></bibl><bibl xml:id="biblid57610"><title xml:id="idm139873598105456">Musa</title></bibl><bibl xml:id="biblid57649"><title xml:id="idm139873598104672">Jakobsstigen</title></bibl><bibl xml:id="biblid57660"><title xml:id="idm139873598103840">Folkevise</title></bibl><bibl xml:id="biblid57680"><title xml:id="idm139873598103008">Digte fra Levanten</title></bibl><bibl xml:id="biblid57688"><title xml:id="idm139873598102176">Suleima</title></bibl><bibl xml:id="biblid57740"><title xml:id="idm139873598101392">I Ørknen</title></bibl><bibl xml:id="biblid57812"><title xml:id="idm139873598100560">Tilbage</title></bibl><bibl xml:id="biblid57912"><title xml:id="idm139873598099728">Farende Sange</title></bibl><bibl xml:id="biblid57914"><title xml:id="idm139873598201856">Jeg ønskede mig tilbage</title></bibl><bibl xml:id="biblid57925"><title xml:id="idm139873598201040">Valborgs-Sangen</title></bibl><bibl xml:id="biblid57938"><title xml:id="idm139873598200256">Jeg havde mig en Hjertenskær</title></bibl><bibl xml:id="biblid57950"><title xml:id="idm139873598199424">Hvor stedes nu min Gertrud</title></bibl><bibl xml:id="biblid57968"><title xml:id="idm139873598198672">Borgruin</title></bibl><bibl xml:id="biblid57973"><title xml:id="idm139873598197888">Hundred jernklædte Mænd</title></bibl><bibl xml:id="biblid57985"><title xml:id="idm139873598073568">Min Vin - min Kaarde - og min Elskerinde</title></bibl><bibl xml:id="biblid57997"><title xml:id="idm139873598072752">Lad mig dø, naar jeg dog ej kan leve</title></bibl><bibl xml:id="biblid58010"><title xml:id="idm139873598071840">Kilden</title></bibl><bibl xml:id="biblid58025"><title xml:id="idm139873598071056">Ved Dampskibet Jarl's Totale Forlis</title></bibl></listBibl></sourceDesc>
+      <sourceDesc xml:id="idm139873598142512">
+        <bibl xml:id="idm139873598142384">
+          <author n="1" xml:id="idm139873598141696">
+            <name xml:id="idm139873598141440"><surname xml:id="idm139873598141312">Drachmann</surname>, <forename xml:id="idm139873598140848">Holger</forename></name>
+          </author>
+          <title xml:id="idm139873598140560">Samlede poetiske Skrifter</title>
+          <pubPlace xml:id="idm139873598140256">Kbh. &amp; Kristiania</pubPlace>
+          <date xml:id="idm139873598139632">1906-1909</date>
+        </bibl>
+        <listBibl xml:id="idm139873598139376">
+          <bibl xml:id="biblid54134">
+            <title xml:id="idm139873598126224">Med den brede Pensel</title>
+          </bibl>
+          <bibl xml:id="biblid55812">
+            <title xml:id="idm139873598125392">Fest-Spil i Hundredaaret efter de store Landbo-Reformer og Stavnsbaandets løsning</title>
+          </bibl>
+          <bibl xml:id="biblid56043">
+            <title xml:id="idm139873598124464">Tyrkisk Rokoko. En Mode-Legende fra Anno 1748</title>
+          </bibl>
+          <bibl xml:id="biblid56169">
+            <title xml:id="idm139873598123648">To Dramatiske Digte</title>
+          </bibl>
+          <bibl xml:id="biblid56187">
+            <title xml:id="idm139873598122816">Tyrkisk Rokoko</title>
+          </bibl>
+          <bibl xml:id="biblid56441">
+            <title xml:id="idm139873598122032">Esther</title>
+          </bibl>
+          <bibl xml:id="biblid56868">
+            <title xml:id="idm139873598121248">Tusind og en Nat</title>
+          </bibl>
+          <bibl xml:id="biblid57323">
+            <title xml:id="idm139873598120416">Sangenes Bog</title>
+          </bibl>
+          <bibl xml:id="biblid57356">
+            <title xml:id="idm139873598119632">Foraarsregn</title>
+          </bibl>
+          <bibl xml:id="biblid57368">
+            <title xml:id="idm139873598118848">Der vælder Lyd</title>
+          </bibl>
+          <bibl xml:id="biblid57374">
+            <title xml:id="idm139873598118000">Jule-Sne</title>
+          </bibl>
+          <bibl xml:id="biblid57386">
+            <title xml:id="idm139873598117168">Foran Vandfaldet</title>
+          </bibl>
+          <bibl xml:id="biblid57404">
+            <title xml:id="idm139873598116336">Stemning</title>
+          </bibl>
+          <bibl xml:id="biblid57417">
+            <title xml:id="idm139873598115552">En Sang fra Rom</title>
+          </bibl>
+          <bibl xml:id="biblid57435">
+            <title xml:id="idm139873598114720">Jeg takker Dig, min Fader, at Du ikke var rig</title>
+          </bibl>
+          <bibl xml:id="biblid57447">
+            <title xml:id="idm139873598113856">Visen om Agnete og Havmandet</title>
+          </bibl>
+          <bibl xml:id="biblid57459">
+            <title xml:id="idm139873598113008">Ved Siden af mig spilles der Klavér</title>
+          </bibl>
+          <bibl xml:id="biblid57471">
+            <title xml:id="idm139873598112112">Med et broget Blad</title>
+          </bibl>
+          <bibl xml:id="biblid57482">
+            <title xml:id="idm139873598111280">Vølund</title>
+          </bibl>
+          <bibl xml:id="biblid57495">
+            <title xml:id="idm139873598110448">Sommer og Høst</title>
+          </bibl>
+          <bibl xml:id="biblid57497">
+            <title xml:id="idm139873598109648">Den røde vilde Vin</title>
+          </bibl>
+          <bibl xml:id="biblid57509">
+            <title xml:id="idm139873598108800">Naar Linden blomstrer</title>
+          </bibl>
+          <bibl xml:id="biblid57528">
+            <title xml:id="idm139873598107968">Den unge Ørn</title>
+          </bibl>
+          <bibl xml:id="biblid57546">
+            <title xml:id="idm139873598107120">Sommerdrømme paa Havet</title>
+          </bibl>
+          <bibl xml:id="biblid57565">
+            <title xml:id="idm139873598106304">Landevejssalmer</title>
+          </bibl>
+          <bibl xml:id="biblid57610">
+            <title xml:id="idm139873598105456">Musa</title>
+          </bibl>
+          <bibl xml:id="biblid57649">
+            <title xml:id="idm139873598104672">Jakobsstigen</title>
+          </bibl>
+          <bibl xml:id="biblid57660">
+            <title xml:id="idm139873598103840">Folkevise</title>
+          </bibl>
+          <bibl xml:id="biblid57680">
+            <title xml:id="idm139873598103008">Digte fra Levanten</title>
+          </bibl>
+          <bibl xml:id="biblid57688">
+            <title xml:id="idm139873598102176">Suleima</title>
+          </bibl>
+          <bibl xml:id="biblid57740">
+            <title xml:id="idm139873598101392">I Ørknen</title>
+          </bibl>
+          <bibl xml:id="biblid57812">
+            <title xml:id="idm139873598100560">Tilbage</title>
+          </bibl>
+          <bibl xml:id="biblid57912">
+            <title xml:id="idm139873598099728">Farende Sange</title>
+          </bibl>
+          <bibl xml:id="biblid57914">
+            <title xml:id="idm139873598201856">Jeg ønskede mig tilbage</title>
+          </bibl>
+          <bibl xml:id="biblid57925">
+            <title xml:id="idm139873598201040">Valborgs-Sangen</title>
+          </bibl>
+          <bibl xml:id="biblid57938">
+            <title xml:id="idm139873598200256">Jeg havde mig en Hjertenskær</title>
+          </bibl>
+          <bibl xml:id="biblid57950">
+            <title xml:id="idm139873598199424">Hvor stedes nu min Gertrud</title>
+          </bibl>
+          <bibl xml:id="biblid57968">
+            <title xml:id="idm139873598198672">Borgruin</title>
+          </bibl>
+          <bibl xml:id="biblid57973">
+            <title xml:id="idm139873598197888">Hundred jernklædte Mænd</title>
+          </bibl>
+          <bibl xml:id="biblid57985">
+            <title xml:id="idm139873598073568">Min Vin - min Kaarde - og min Elskerinde</title>
+          </bibl>
+          <bibl xml:id="biblid57997">
+            <title xml:id="idm139873598072752">Lad mig dø, naar jeg dog ej kan leve</title>
+          </bibl>
+          <bibl xml:id="biblid58010">
+            <title xml:id="idm139873598071840">Kilden</title>
+          </bibl>
+          <bibl xml:id="biblid58025">
+            <title xml:id="idm139873598071056">Ved Dampskibet Jarl's Totale Forlis</title>
+          </bibl>
+        </listBibl>
+      </sourceDesc>
     </fileDesc>
   </teiHeader>
   <text xml:id="idm139873598070416">

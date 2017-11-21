@@ -1,11 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!-- Ptj rettet s. 24-65-71-73 
-VL: 20090420 rettelse s. 69, 353, 346, 344,  -->
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="idm140611311266880"><!-- 
-       file     ./marc_dir/001823910.xml
-       field     
-       subfield  
-       prefix   -->
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="root">
   <teiHeader xml:id="idm140611311265936">
     <fileDesc xml:id="idm140611311265680">
       <titleStmt xml:id="idm140611311297696">
@@ -20,8 +14,104 @@ VL: 20090420 rettelse s. 69, 353, 346, 344,  -->
         <note xml:id="idm140611311237488">
 	  </note>
       </notesStmt>
-      <sourceDesc xml:id="idm140611311236976"><bibl xml:id="idm140611311236848"><author n="1" xml:id="idm140611311236160"><name xml:id="idm140611311235904"><surname xml:id="idm140611311235776">Bang</surname>, <forename xml:id="idm140611311235344">Herman</forename></name></author><title xml:id="idm140611311235088">Værker i Mindeudgave</title><pubPlace xml:id="idm140611311234768">København</pubPlace>; <pubPlace xml:id="idm140611311234304">Kristiania</pubPlace>
-<publisher xml:id="idm140611311233840">Gyldendal</publisher><date xml:id="idm140611311233504">1920-1921</date></bibl><listBibl xml:id="idm140611311233216"><bibl xml:id="biblid54228"><title xml:id="idm140611311220016">PRÆSTEN</title></bibl><bibl xml:id="biblid54720"><title xml:id="idm140611311219232">FRØKENEN</title></bibl><bibl xml:id="biblid55078"><title xml:id="idm140611311218448">DEN SIDSTE AFTEN</title></bibl><bibl xml:id="biblid55466"><title xml:id="idm140611311217664">FRAGMENT</title></bibl><bibl xml:id="biblid55760"><title xml:id="idm140611311216880">PERNILLE</title></bibl><bibl xml:id="biblid56249"><title xml:id="idm140611311216048">CHOPIN</title></bibl><bibl xml:id="biblid57040"><title xml:id="idm140611311215264">VE DEN, FRA HVEM FORARGELSEN KOMMER</title></bibl><bibl xml:id="biblid57292"><title xml:id="idm140611311214416">GENSTRIDIGE SIND</title></bibl><bibl xml:id="biblid57838"><title xml:id="idm140611311213568">FORAN ALTERET</title></bibl><bibl xml:id="biblid58447"><title xml:id="idm140611311212784">KÆRLIGHED</title></bibl><bibl xml:id="biblid58685"><title xml:id="idm140611311212000">ELNA</title></bibl><bibl xml:id="biblid59880"><title xml:id="idm140611311211168">FRANZ PANDER</title></bibl><bibl xml:id="biblid61105"><title xml:id="idm140611311210384">FRATELLI BEDINI</title></bibl><bibl xml:id="biblid63191"><title xml:id="idm140611311209600">CHARLOT DU PONT</title></bibl><bibl xml:id="biblid66008"><title xml:id="idm140611311208768">LES QUATRE DIABLES</title></bibl><bibl xml:id="biblid70927"><title xml:id="idm140611311207936">OTTO HEINRICH</title></bibl><bibl xml:id="biblid72157"><title xml:id="idm140611311207152">SON ALTESSE</title></bibl><bibl xml:id="biblid77247"><title xml:id="idm140611311206368">EN DEJLIG DAG</title></bibl><bibl xml:id="biblid80368"><title xml:id="idm140611311205536">IRENE HOLM</title></bibl><bibl xml:id="biblid81395"><title xml:id="idm140611311204704">FRØKEN CAJA</title></bibl><bibl xml:id="biblid83962"><title xml:id="idm140611311203856">GENNEM ROSENBORG HAVE</title></bibl><bibl xml:id="biblid84048"><title xml:id="idm140611311203072">Liv og Død</title></bibl><bibl xml:id="biblid84220"><title xml:id="idm140611311202240">EN FORTÆLLING OM LYKKEN</title></bibl><bibl xml:id="biblid87615"><title xml:id="idm140611311201376">EN FORTÆLLING OM ELSKOV</title></bibl><bibl xml:id="biblid90910"><title xml:id="idm140611311200560">EN FORTÆLLING OM DEM DER SKAL DØ</title></bibl><bibl xml:id="biblid91677"><title xml:id="idm140611311199680">RAVNENE</title></bibl><bibl xml:id="biblid96871"><title xml:id="idm140611311198848">JULEGAVER</title></bibl><bibl xml:id="biblid98778"><title xml:id="idm140611311198064">Sælsomme Fortællinger</title></bibl><bibl xml:id="biblid98853"><title xml:id="idm140611311197248">BARCHAN ER DØD</title></bibl><bibl xml:id="biblid99878"><title xml:id="idm140611311196448">MEN DU SKAL MINDES MIG</title></bibl><bibl xml:id="biblid100723"><title xml:id="idm140611311195664">STÆRKEST</title></bibl></listBibl></sourceDesc>
+      <sourceDesc xml:id="idm140611311236976">
+        <bibl xml:id="idm140611311236848"><author n="1" xml:id="idm140611311236160"><name xml:id="idm140611311235904"><surname xml:id="idm140611311235776">Bang</surname>, <forename xml:id="idm140611311235344">Herman</forename></name></author><title xml:id="idm140611311235088">Værker i Mindeudgave</title><pubPlace xml:id="idm140611311234768">København</pubPlace>; <pubPlace xml:id="idm140611311234304">Kristiania</pubPlace><publisher xml:id="idm140611311233840">Gyldendal</publisher><date xml:id="idm140611311233504">1920-1921</date></bibl>
+        <listBibl xml:id="idm140611311233216">
+          <bibl xml:id="biblid54228">
+            <title xml:id="idm140611311220016">PRÆSTEN</title>
+          </bibl>
+          <bibl xml:id="biblid54720">
+            <title xml:id="idm140611311219232">FRØKENEN</title>
+          </bibl>
+          <bibl xml:id="biblid55078">
+            <title xml:id="idm140611311218448">DEN SIDSTE AFTEN</title>
+          </bibl>
+          <bibl xml:id="biblid55466">
+            <title xml:id="idm140611311217664">FRAGMENT</title>
+          </bibl>
+          <bibl xml:id="biblid55760">
+            <title xml:id="idm140611311216880">PERNILLE</title>
+          </bibl>
+          <bibl xml:id="biblid56249">
+            <title xml:id="idm140611311216048">CHOPIN</title>
+          </bibl>
+          <bibl xml:id="biblid57040">
+            <title xml:id="idm140611311215264">VE DEN, FRA HVEM FORARGELSEN KOMMER</title>
+          </bibl>
+          <bibl xml:id="biblid57292">
+            <title xml:id="idm140611311214416">GENSTRIDIGE SIND</title>
+          </bibl>
+          <bibl xml:id="biblid57838">
+            <title xml:id="idm140611311213568">FORAN ALTERET</title>
+          </bibl>
+          <bibl xml:id="biblid58447">
+            <title xml:id="idm140611311212784">KÆRLIGHED</title>
+          </bibl>
+          <bibl xml:id="biblid58685">
+            <title xml:id="idm140611311212000">ELNA</title>
+          </bibl>
+          <bibl xml:id="biblid59880">
+            <title xml:id="idm140611311211168">FRANZ PANDER</title>
+          </bibl>
+          <bibl xml:id="biblid61105">
+            <title xml:id="idm140611311210384">FRATELLI BEDINI</title>
+          </bibl>
+          <bibl xml:id="biblid63191">
+            <title xml:id="idm140611311209600">CHARLOT DU PONT</title>
+          </bibl>
+          <bibl xml:id="biblid66008">
+            <title xml:id="idm140611311208768">LES QUATRE DIABLES</title>
+          </bibl>
+          <bibl xml:id="biblid70927">
+            <title xml:id="idm140611311207936">OTTO HEINRICH</title>
+          </bibl>
+          <bibl xml:id="biblid72157">
+            <title xml:id="idm140611311207152">SON ALTESSE</title>
+          </bibl>
+          <bibl xml:id="biblid77247">
+            <title xml:id="idm140611311206368">EN DEJLIG DAG</title>
+          </bibl>
+          <bibl xml:id="biblid80368">
+            <title xml:id="idm140611311205536">IRENE HOLM</title>
+          </bibl>
+          <bibl xml:id="biblid81395">
+            <title xml:id="idm140611311204704">FRØKEN CAJA</title>
+          </bibl>
+          <bibl xml:id="biblid83962">
+            <title xml:id="idm140611311203856">GENNEM ROSENBORG HAVE</title>
+          </bibl>
+          <bibl xml:id="biblid84048">
+            <title xml:id="idm140611311203072">Liv og Død</title>
+          </bibl>
+          <bibl xml:id="biblid84220">
+            <title xml:id="idm140611311202240">EN FORTÆLLING OM LYKKEN</title>
+          </bibl>
+          <bibl xml:id="biblid87615">
+            <title xml:id="idm140611311201376">EN FORTÆLLING OM ELSKOV</title>
+          </bibl>
+          <bibl xml:id="biblid90910">
+            <title xml:id="idm140611311200560">EN FORTÆLLING OM DEM DER SKAL DØ</title>
+          </bibl>
+          <bibl xml:id="biblid91677">
+            <title xml:id="idm140611311199680">RAVNENE</title>
+          </bibl>
+          <bibl xml:id="biblid96871">
+            <title xml:id="idm140611311198848">JULEGAVER</title>
+          </bibl>
+          <bibl xml:id="biblid98778">
+            <title xml:id="idm140611311198064">Sælsomme Fortællinger</title>
+          </bibl>
+          <bibl xml:id="biblid98853">
+            <title xml:id="idm140611311197248">BARCHAN ER DØD</title>
+          </bibl>
+          <bibl xml:id="biblid99878">
+            <title xml:id="idm140611311196448">MEN DU SKAL MINDES MIG</title>
+          </bibl>
+          <bibl xml:id="biblid100723">
+            <title xml:id="idm140611311195664">STÆRKEST</title>
+          </bibl>
+        </listBibl>
+      </sourceDesc>
     </fileDesc>
   </teiHeader>
   <text xml:id="idm140611311195024">

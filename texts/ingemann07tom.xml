@@ -1,10 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!--Tom opmærkning d. 31.07.2002 blo -->
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="idm140086266350656"><!-- 
-       file     ./marc_dir/001916180.xml
-       field     
-       subfield  
-       prefix   -->
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="root">
   <teiHeader xml:id="idm140086266349776">
     <fileDesc xml:id="idm140086266349520">
       <titleStmt xml:id="idm140086266349216">
@@ -19,9 +14,26 @@
         <note xml:id="idm140086266321264">
 	  </note>
       </notesStmt>
-      <sourceDesc xml:id="idm140086266320752"><bibl xml:id="idm140086266320624"><author n="1" xml:id="idm140086266319984"><name xml:id="idm140086266319728"><surname xml:id="idm140086266319600">Ingemann</surname>,
-      <forename xml:id="idm140086266319152">B. S.</forename></name></author><title xml:id="idm140086266318864">Landsbybørnene, Bd. 2</title><pubPlace xml:id="idm140086266318544">København</pubPlace>
-<publisher xml:id="idm140086266318112">Det danske Forlag</publisher><date xml:id="idm140086266317776">1943</date></bibl><listBibl xml:id="idm140086266317488"><bibl xml:id="biblid54252"><title xml:id="idm140086266304336">Landsbybørnene. Tredie Del</title></bibl><bibl xml:id="biblid56129"><title xml:id="idm140086266303520">Landsbybørnene. Fjerde Del</title></bibl></listBibl></sourceDesc>
+      <sourceDesc xml:id="idm140086266320752">
+        <bibl xml:id="idm140086266320624">
+          <author n="1" xml:id="idm140086266319984">
+            <name xml:id="idm140086266319728"><surname xml:id="idm140086266319600">Ingemann</surname>,
+      <forename xml:id="idm140086266319152">B. S.</forename></name>
+          </author>
+          <title xml:id="idm140086266318864">Landsbybørnene, Bd. 2</title>
+          <pubPlace xml:id="idm140086266318544">København</pubPlace>
+          <publisher xml:id="idm140086266318112">Det danske Forlag</publisher>
+          <date xml:id="idm140086266317776">1943</date>
+        </bibl>
+        <listBibl xml:id="idm140086266317488">
+          <bibl xml:id="biblid54252">
+            <title xml:id="idm140086266304336">Landsbybørnene. Tredie Del</title>
+          </bibl>
+          <bibl xml:id="biblid56129">
+            <title xml:id="idm140086266303520">Landsbybørnene. Fjerde Del</title>
+          </bibl>
+        </listBibl>
+      </sourceDesc>
     </fileDesc>
   </teiHeader>
   <text xml:id="idm140086266302816">

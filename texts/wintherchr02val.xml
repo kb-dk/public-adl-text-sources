@@ -1,14 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!-- edited with XML Spy v3.5 NT (http://www.xmlspy.com) by Birgit Henriksen (the royal library denmark) -->
-<!--gbl 22.0.8.2001
-titelblad for serie er lavet lidt ad hoc.
-indlednig er ikke delt op i afsnit.-->
-<!--20021017 HHL fjernet bindestreger ved sideslut-->
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="idm140340192573776"><!-- 
-       file     ./marc_dir/001848833.xml
-       field     
-       subfield  
-       prefix   -->
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="root">
   <teiHeader xml:id="idm140340192573232">
     <fileDesc xml:id="idm140340192547760">
       <titleStmt xml:id="idm140340192547504">
@@ -27,17 +18,138 @@ indlednig er ikke delt op i afsnit.-->
         <note xml:id="idm140340192543520">
 	  </note>
       </notesStmt>
-      <sourceDesc xml:id="idm140340192543008"><bibl xml:id="idm140340192542880"><author n="1" xml:id="idm140340192542192"><name xml:id="idm140340192541936"><surname xml:id="idm140340192541808">Winther</surname>, <forename xml:id="idm140340192541344">Christian</forename></name></author><title xml:id="idm140340192541056">Poetiske Skrifter</title><pubPlace xml:id="idm140340192540768">København</pubPlace>
-<date xml:id="idm140340192540256">1927-29</date></bibl><listBibl xml:id="idm140340192539968"><bibl xml:id="biblid57032"><title xml:id="idm140340192526816">Træsnit</title></bibl><bibl xml:id="biblid57096"><title xml:id="idm140340192526032">Vignet</title></bibl><bibl xml:id="biblid57550"><title xml:id="idm140340192525248">Hans og Grethe</title></bibl><bibl xml:id="biblid57778"><title xml:id="idm140340192524416">Steffen og Anne</title></bibl><bibl xml:id="biblid58385"><title xml:id="idm140340192523632">Henrik og Else</title></bibl><bibl xml:id="biblid58945"><title xml:id="idm140340192522848">Jørgen OG Trine</title></bibl><bibl xml:id="biblid59403"><title xml:id="idm140340192522000">Johan og Lise</title></bibl><bibl xml:id="biblid59913"><title xml:id="idm140340192521104">Christen og Lene</title></bibl><bibl xml:id="biblid60634"><title xml:id="idm140340192520320">Svend og Inger</title></bibl><bibl xml:id="biblid61482"><title xml:id="idm140340192519488">Erik og Ellen</title></bibl><bibl xml:id="biblid62110"><title xml:id="idm140340192518704">Jacob og Lone</title></bibl><bibl xml:id="biblid63086"><title xml:id="idm140340192517920">Fragmenter</title></bibl><bibl xml:id="biblid63192"><title xml:id="idm140340192517088">Første Fragment</title></bibl><bibl xml:id="biblid64788"><title xml:id="idm140340192516288">Andet Fragment</title></bibl><bibl xml:id="biblid66153"><title xml:id="idm140340192515456">Tredie Fragment</title></bibl><bibl xml:id="biblid67044"><title xml:id="idm140340192604160">Hjortens Flugt</title></bibl><bibl xml:id="biblid67087"><title xml:id="idm140340192603440">Forspil</title></bibl><bibl xml:id="biblid67324"><title xml:id="idm140340192602720">Flugten</title></bibl><bibl xml:id="biblid69064"><title xml:id="idm140340192601936">I Møllen</title></bibl><bibl xml:id="biblid70250"><title xml:id="idm140340192601152">Rhitra</title></bibl><bibl xml:id="biblid71782"><title xml:id="idm140340192600368">Den vandrende Sanger</title></bibl><bibl xml:id="biblid72412"><title xml:id="idm140340192489408">I Kongsgaarden</title></bibl><bibl xml:id="biblid74543"><title xml:id="idm140340192488624">Gulitza</title></bibl><bibl xml:id="biblid76738"><title xml:id="idm140340192487840">Jørgen og Anna</title></bibl><bibl xml:id="biblid78097"><title xml:id="idm140340192487024">Skovbroderen</title></bibl><bibl xml:id="biblid79085"><title xml:id="idm140340192486240">Hr. Peder Jernskjæg</title></bibl><bibl xml:id="biblid82255"><title xml:id="idm140340192485424">Paa Herreborgen</title></bibl><bibl xml:id="biblid84007"><title xml:id="idm140340192484576">Eselet</title></bibl><bibl xml:id="biblid86480"><title xml:id="idm140340192483792">I Jægerhuset</title></bibl><bibl xml:id="biblid88112"><title xml:id="idm140340192483040">St. Hans' Aften</title></bibl><bibl xml:id="biblid88958"><title xml:id="idm140340192482256">Uglens Hjerte</title></bibl><bibl xml:id="biblid90181"><title xml:id="idm140340192481472">Befrielsen</title></bibl><bibl xml:id="biblid92522"><title xml:id="idm140340192480688">I Riddersalen</title></bibl><bibl xml:id="biblid94465"><title xml:id="idm140340192479904">I Fruerburet</title></bibl><bibl xml:id="biblid95466"><title xml:id="idm140340192479120">Moder og Datter</title></bibl><bibl xml:id="biblid96481"><title xml:id="idm140340192478336">Korset</title></bibl><bibl xml:id="biblid97829"><title xml:id="idm140340192477552">Tvekampen</title></bibl><bibl xml:id="biblid98343"><title xml:id="idm140340192476768">Et Farvel</title></bibl></listBibl></sourceDesc>
+      <sourceDesc xml:id="idm140340192543008">
+        <bibl xml:id="idm140340192542880">
+          <author n="1" xml:id="idm140340192542192">
+            <name xml:id="idm140340192541936"><surname xml:id="idm140340192541808">Winther</surname>, <forename xml:id="idm140340192541344">Christian</forename></name>
+          </author>
+          <title xml:id="idm140340192541056">Poetiske Skrifter</title>
+          <pubPlace xml:id="idm140340192540768">København</pubPlace>
+          <date xml:id="idm140340192540256">1927-29</date>
+        </bibl>
+        <listBibl xml:id="idm140340192539968">
+          <bibl xml:id="biblid57032">
+            <title xml:id="idm140340192526816">Træsnit</title>
+          </bibl>
+          <bibl xml:id="biblid57096">
+            <title xml:id="idm140340192526032">Vignet</title>
+          </bibl>
+          <bibl xml:id="biblid57550">
+            <title xml:id="idm140340192525248">Hans og Grethe</title>
+          </bibl>
+          <bibl xml:id="biblid57778">
+            <title xml:id="idm140340192524416">Steffen og Anne</title>
+          </bibl>
+          <bibl xml:id="biblid58385">
+            <title xml:id="idm140340192523632">Henrik og Else</title>
+          </bibl>
+          <bibl xml:id="biblid58945">
+            <title xml:id="idm140340192522848">Jørgen OG Trine</title>
+          </bibl>
+          <bibl xml:id="biblid59403">
+            <title xml:id="idm140340192522000">Johan og Lise</title>
+          </bibl>
+          <bibl xml:id="biblid59913">
+            <title xml:id="idm140340192521104">Christen og Lene</title>
+          </bibl>
+          <bibl xml:id="biblid60634">
+            <title xml:id="idm140340192520320">Svend og Inger</title>
+          </bibl>
+          <bibl xml:id="biblid61482">
+            <title xml:id="idm140340192519488">Erik og Ellen</title>
+          </bibl>
+          <bibl xml:id="biblid62110">
+            <title xml:id="idm140340192518704">Jacob og Lone</title>
+          </bibl>
+          <bibl xml:id="biblid63086">
+            <title xml:id="idm140340192517920">Fragmenter</title>
+          </bibl>
+          <bibl xml:id="biblid63192">
+            <title xml:id="idm140340192517088">Første Fragment</title>
+          </bibl>
+          <bibl xml:id="biblid64788">
+            <title xml:id="idm140340192516288">Andet Fragment</title>
+          </bibl>
+          <bibl xml:id="biblid66153">
+            <title xml:id="idm140340192515456">Tredie Fragment</title>
+          </bibl>
+          <bibl xml:id="biblid67044">
+            <title xml:id="idm140340192604160">Hjortens Flugt</title>
+          </bibl>
+          <bibl xml:id="biblid67087">
+            <title xml:id="idm140340192603440">Forspil</title>
+          </bibl>
+          <bibl xml:id="biblid67324">
+            <title xml:id="idm140340192602720">Flugten</title>
+          </bibl>
+          <bibl xml:id="biblid69064">
+            <title xml:id="idm140340192601936">I Møllen</title>
+          </bibl>
+          <bibl xml:id="biblid70250">
+            <title xml:id="idm140340192601152">Rhitra</title>
+          </bibl>
+          <bibl xml:id="biblid71782">
+            <title xml:id="idm140340192600368">Den vandrende Sanger</title>
+          </bibl>
+          <bibl xml:id="biblid72412">
+            <title xml:id="idm140340192489408">I Kongsgaarden</title>
+          </bibl>
+          <bibl xml:id="biblid74543">
+            <title xml:id="idm140340192488624">Gulitza</title>
+          </bibl>
+          <bibl xml:id="biblid76738">
+            <title xml:id="idm140340192487840">Jørgen og Anna</title>
+          </bibl>
+          <bibl xml:id="biblid78097">
+            <title xml:id="idm140340192487024">Skovbroderen</title>
+          </bibl>
+          <bibl xml:id="biblid79085">
+            <title xml:id="idm140340192486240">Hr. Peder Jernskjæg</title>
+          </bibl>
+          <bibl xml:id="biblid82255">
+            <title xml:id="idm140340192485424">Paa Herreborgen</title>
+          </bibl>
+          <bibl xml:id="biblid84007">
+            <title xml:id="idm140340192484576">Eselet</title>
+          </bibl>
+          <bibl xml:id="biblid86480">
+            <title xml:id="idm140340192483792">I Jægerhuset</title>
+          </bibl>
+          <bibl xml:id="biblid88112">
+            <title xml:id="idm140340192483040">St. Hans' Aften</title>
+          </bibl>
+          <bibl xml:id="biblid88958">
+            <title xml:id="idm140340192482256">Uglens Hjerte</title>
+          </bibl>
+          <bibl xml:id="biblid90181">
+            <title xml:id="idm140340192481472">Befrielsen</title>
+          </bibl>
+          <bibl xml:id="biblid92522">
+            <title xml:id="idm140340192480688">I Riddersalen</title>
+          </bibl>
+          <bibl xml:id="biblid94465">
+            <title xml:id="idm140340192479904">I Fruerburet</title>
+          </bibl>
+          <bibl xml:id="biblid95466">
+            <title xml:id="idm140340192479120">Moder og Datter</title>
+          </bibl>
+          <bibl xml:id="biblid96481">
+            <title xml:id="idm140340192478336">Korset</title>
+          </bibl>
+          <bibl xml:id="biblid97829">
+            <title xml:id="idm140340192477552">Tvekampen</title>
+          </bibl>
+          <bibl xml:id="biblid98343">
+            <title xml:id="idm140340192476768">Et Farvel</title>
+          </bibl>
+        </listBibl>
+      </sourceDesc>
     </fileDesc>
   </teiHeader>
   <text xml:id="idm140340192476128">
     <front xml:id="idm140340192475872">
       <pb n="a" facs="adl/winther/winther2/wint2fm001" xml:id="swint2fm001"/>
       <gap reason="cancelled" xml:id="idm140340192474384"/>
-<!---->
-<!---->
-<!--DANMARKS NATIONALLITTERATUR, CHR.  WINTHERS POETISKE SKRIFTER-->
       <pb n="b" facs="adl/winther/winther2/wint2fm002" xml:id="swint2fm002"/>
       <pb n="c" facs="adl/winther/winther2/wint2fm003" xml:id="swint2fm003"/>
       <div xml:id="idm140340192470496">

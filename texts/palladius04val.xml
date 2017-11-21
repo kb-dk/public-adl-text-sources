@@ -1,17 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!-- OCR by ATAPY 14.01.03 (Catherine Bychkova) -->
-<!--
-20030407 HHL udkommenteret og ændret <emph> til italics                 
-20030407 HHL pillet ved vaerktitle, flyttet dem fra indledningen til selve teksten, snydt med en ekstra <div><p></p></div> til vaerktitlen
-20030407 HHL ændringer cf. assumptions.doc
-20030408: der mangler tekst til salmen side 373 - 377, vers 1 til 383 + side 388f. Indsat 
-
--->
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="idm140034112071600"><!-- 
-       file     ./marc_dir/001823113.xml
-       field     
-       subfield  
-       prefix   -->
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="root">
   <teiHeader xml:id="idm140034112072432">
     <fileDesc xml:id="idm140034112046064">
       <titleStmt xml:id="idm140034112045808">
@@ -30,8 +18,52 @@
         <note xml:id="idm140034112041584">
 	  </note>
       </notesStmt>
-      <sourceDesc xml:id="idm140034112041072"><bibl xml:id="idm140034112040944"><author n="1" xml:id="idm140034112040256"><name xml:id="idm140034112040000"><surname xml:id="idm140034112039872">Palladius</surname>, <forename xml:id="idm140034112039408">Peder</forename></name></author><title xml:id="idm140034112039120">Peder Palladius' Danske Skrifter</title><pubPlace xml:id="idm140034112038816">København</pubPlace>
-<publisher xml:id="idm140034112038352">H.H. Thiele</publisher><date xml:id="idm140034112038016">1911-1926</date></bibl><listBibl xml:id="idm140034112037728"><bibl xml:id="biblid83710"><title xml:id="idm140034112024576">SALMER</title></bibl><bibl xml:id="biblid84077"><title xml:id="idm140034112023792">Menniske vilt du mig høre</title></bibl><bibl xml:id="biblid84770"><title xml:id="idm140034112022928">Den signede Dag, O Skaber god</title></bibl><bibl xml:id="biblid85792"><title xml:id="idm140034112022128">Hielp oss O HERre Jesu Christ</title></bibl><bibl xml:id="biblid86427"><title xml:id="idm140034112021328">Hen hoss Babylonis flod</title></bibl><bibl xml:id="biblid86781"><title xml:id="idm140034112020496">Sandelig Gud er Israel god oc naadig</title></bibl><bibl xml:id="biblid87568"><title xml:id="idm140034112019648">Huo som vil salig udi Verden leffue</title></bibl><bibl xml:id="biblid87809"><title xml:id="idm140034112018848">Døden dig trengde Herre Jesu Christ</title></bibl><bibl xml:id="biblid88025"><title xml:id="idm140034112018000">Min Siel ophøyer Herren</title></bibl><bibl xml:id="biblid88570"><title xml:id="idm140034112017184">WI Tro alle sammen paa en Gud</title></bibl><bibl xml:id="biblid89533"><title xml:id="idm140034112016336">O Gud vor Fader i euighed</title></bibl></listBibl></sourceDesc>
+      <sourceDesc xml:id="idm140034112041072">
+        <bibl xml:id="idm140034112040944">
+          <author n="1" xml:id="idm140034112040256">
+            <name xml:id="idm140034112040000"><surname xml:id="idm140034112039872">Palladius</surname>, <forename xml:id="idm140034112039408">Peder</forename></name>
+          </author>
+          <title xml:id="idm140034112039120">Peder Palladius' Danske Skrifter</title>
+          <pubPlace xml:id="idm140034112038816">København</pubPlace>
+          <publisher xml:id="idm140034112038352">H.H. Thiele</publisher>
+          <date xml:id="idm140034112038016">1911-1926</date>
+        </bibl>
+        <listBibl xml:id="idm140034112037728">
+          <bibl xml:id="biblid83710">
+            <title xml:id="idm140034112024576">SALMER</title>
+          </bibl>
+          <bibl xml:id="biblid84077">
+            <title xml:id="idm140034112023792">Menniske vilt du mig høre</title>
+          </bibl>
+          <bibl xml:id="biblid84770">
+            <title xml:id="idm140034112022928">Den signede Dag, O Skaber god</title>
+          </bibl>
+          <bibl xml:id="biblid85792">
+            <title xml:id="idm140034112022128">Hielp oss O HERre Jesu Christ</title>
+          </bibl>
+          <bibl xml:id="biblid86427">
+            <title xml:id="idm140034112021328">Hen hoss Babylonis flod</title>
+          </bibl>
+          <bibl xml:id="biblid86781">
+            <title xml:id="idm140034112020496">Sandelig Gud er Israel god oc naadig</title>
+          </bibl>
+          <bibl xml:id="biblid87568">
+            <title xml:id="idm140034112019648">Huo som vil salig udi Verden leffue</title>
+          </bibl>
+          <bibl xml:id="biblid87809">
+            <title xml:id="idm140034112018848">Døden dig trengde Herre Jesu Christ</title>
+          </bibl>
+          <bibl xml:id="biblid88025">
+            <title xml:id="idm140034112018000">Min Siel ophøyer Herren</title>
+          </bibl>
+          <bibl xml:id="biblid88570">
+            <title xml:id="idm140034112017184">WI Tro alle sammen paa en Gud</title>
+          </bibl>
+          <bibl xml:id="biblid89533">
+            <title xml:id="idm140034112016336">O Gud vor Fader i euighed</title>
+          </bibl>
+        </listBibl>
+      </sourceDesc>
     </fileDesc>
   </teiHeader>
   <text xml:id="idm140034112015648">
@@ -99,9 +131,6 @@ INDHOLDSOVERSIGT</head>
       </div>
       <pb n="c" facs="adl/palladius/palladius04/palladius04fm003" xml:id="idm140034111971232"/>
       <gap reason="cancelled" xml:id="idm140034111970464"/>
-<!---->
-<!---->
-<!--Peder Palladius' Danske Skrifter-->
       <pb n="d" facs="adl/palladius/palladius04/palladius04fm004" xml:id="idm140034111969008"/>
       <pb n="e" facs="adl/palladius/palladius04/palladius04fm005" xml:id="idm140034111968240"/>
       <titlePage xml:id="idm140034111967472">
@@ -236,9 +265,9 @@ Søstre er da en i alt væsentligt ordret Oversættelse af et lille latinsk Skri
             <note anchored="true" xml:id="idm140034111887712">
               <p xml:id="idm140034111887216"><hi rend="sup" xml:id="idm140034111887088">1</hi>
 Hvis det skulde lykkes at finde den latinske Original, kunde denne muligvis hjælpe til at give en sikker Datering af Vexiø-Haandskriftet. Jeg har foran (I. Bind 349 f.) ment at kunne bestemme dets Alder til 1557; en Afhandling af Dr. Brøndum-Nielsen i Arkiv f. nord. Fil. XXXI. 109, hvori Haandskriftet ansættes til 1551, har imidlertid bragt mig i Tvivl om min Daterings Rigtighed; denne vilde jo imidlertid blive bekræftet, hvis det viste sig, at den latinske Original var
-                        <hi rend="italics" xml:id="idm140034111885696"><!--<emph>-->yngre<!--</emph--></hi>
+                        <hi rend="italics" xml:id="idm140034111885696">yngre</hi>
 end 1551; var Originalen
-                        <hi rend="italics" xml:id="idm140034111884624"><!--<emph>-->ældre<!--</emph--></hi>
+                        <hi rend="italics" xml:id="idm140034111884624">ældre</hi>
 , kunde den intet Bidrag yde til Haandskriftets Tidsfæstelse.</p>
             </note>
           </div>
@@ -406,7 +435,7 @@ og, dels for at dække det herved blottede Ben, dels for at give Dragten et præ
 brugtes i 16. og 17. Aarh. om et Klædningsstykke, der nærmest svarer til, hvad man nu betegner ved "Buxer". Om Udviklingen fra Hoser til Buxer og specielt om Pluderhosernes Oprindelse og Udvikling kan henvises til Troels Lund's Dagligt Liv 4. Bog. samt til Osborns nedennævnte Udgave af "Vom Hosenteufel". At den gamle Brug af Ordet "Hoser" senere glemtes ses af flg. Sted i et Brev fra Terpager til Langebek 1750 om Palladius' Skrift (Langebekiana S. 65): "mig synes at Titelen er ilde given paa Dansk; thi Musculus har kaldet Bogen: der Hose-Teufel, hvilket burde være givet: Buxe-Dievel."</p></note>
                         <note anchored="true" xml:id="idm140034111812832"><p xml:id="idm140034111812432"><hi rend="sup" xml:id="idm140034111812304">2</hi>
 De tyske Landsknægte, der var Ophavsmændene til den ny Mode, bar ogsaa spaltede Hoser uden For, ligesom de ved fuldstændig Blottelse af Laaret (ofte kun paa det ene Ben) naaede Bevægelsesfrihed. Men i denne Form trængte Hoserne vistnok aldrig indenfor Borgerskabet. Naar Musculus stadig taler om de anstødelige Blottelser, maa sikkert derved forstaas Blottelse af den paagældende Legemsdels
-                              <hi rend="italics" xml:id="idm140034111811024"><!--<emph>-->Form<!--</emph--></hi>
+                              <hi rend="italics" xml:id="idm140034111811024">Form</hi>
 , ikke Nøgenhed. Jf. ndf. S. 38 L. 8. med tilhørende Note.</p></note>
                         <pb n="14" facs="adl/palladius/palladius04/palladius04014" xml:id="idm140034111809712"/>
 til at bestaa af lange Strimler, der blev holdt sammen i Livet og under Knæet, og det lette For gav man efterhaanden en saadan Vidde, at det - skønt fæstnet ved Knæet - faldt i folderige Poser ned til Anklerne. Forpartiet dannedes af "Kilen", der bestod af fire Strimler, mellem hvilke Foret vældede ud, og hvorpaa der til yderligere Fremhævelse var anbragt en mægtig Sløjfe. Samtidig med, at den snævre Benbeklædning havde udviklet sig til de overdaadigt vide Hoser, der naaede fra Livet ned til Foden og gjorde Brogene overflødige, var den lange Kjortel blevet ombyttet med en kort Trøje, saa For- og Bagparti af den nedre Del af Legemet saas i al deres Pragt.</p>
@@ -438,12 +467,12 @@ Se ndf. S. 47 L. 6f.</note>
                            <hi rend="italics" xml:id="idm140034111792592">Krag</hi>
 og
                            <hi rend="italics" xml:id="idm140034111791856">Stephanius'</hi>
-Chr. III.s Historie (Oversættelsen 1776. 386): "Ved samme Tider [<!--*dolgoeO*-->dvs. 1556] gik der stor Overdaadighed i Svang blant de unge Hofjunkere, hvorudover Kongen lod udgaae en Forordning
+Chr. III.s Historie (Oversættelsen 1776. 386): "Ved samme Tider [dvs. 1556] gik der stor Overdaadighed i Svang blant de unge Hofjunkere, hvorudover Kongen lod udgaae en Forordning
                            <hi rend="sup" xml:id="idm140034111790544">a</hi>
 ) om Klædedragt: hvori han lod forbyde at bære Buxer med meget vidtløftige Folder udi, og som naaede til Skoene, hvilken Dragt ellers var brugelig iblant militaire Personer. Ja nogle gik endog saa vidt med deres Overdaadighed, at de brugte lige saa meget Silketøy eller Skarlagen til en Klædning, som tre eller fire fuldvoxne Personer kunde have nok af. Saadanne overdaadige Klæder pleyede Kongen at kalde
-                           <hi rend="italics" xml:id="idm140034111789280"><!--<emph>-->von Huus<!--</emph--></hi>
+                           <hi rend="italics" xml:id="idm140034111789280">von Huus</hi>
 ,
-                           <hi rend="italics" xml:id="idm140034111788224"><!--<emph>-->von Hoff<!--</emph--></hi>
+                           <hi rend="italics" xml:id="idm140034111788224">von Hoff</hi>
                            <hi rend="sup" xml:id="idm140034111787216">b</hi>
 ); og da han mærkede, at han ikke ved Forordningen kunde hemme sligt, udskikkede han Betientere paa Gader og Stræder, som med Knive sønderskare saadanne overdaadige Klæder paa hvem de mødte, hvorved de fleste bleve afskrækkede, og optoge den forrige tarvelige Dragt igen." Jf.
                            <hi rend="italics" xml:id="idm140034111785952">Huttfelds</hi>
@@ -528,23 +557,23 @@ ved
 (Bl. E 1
                               <hi rend="sup" xml:id="idm140034111751712">v</hi>
 ).</bibl><q xml:id="idm140034111751088">wie gar fleissig wird sich der liebe Adam vor aller
-                              <hi rend="italics" xml:id="idm140034111750832"><!--<emph>-->entblössung gehütet<!--</emph--></hi>
+                              <hi rend="italics" xml:id="idm140034111750832">entblössung gehütet</hi>
 / vnd mit seiner lieben Eua mit dem beltz sich bedecket haben/
-                              <hi rend="italics" xml:id="idm140034111749648"><!--<emph>-->zu vermeiden vnd zudempfen<!--</emph--></hi>
+                              <hi rend="italics" xml:id="idm140034111749648">zu vermeiden vnd zudempfen</hi>
 seiner vorderbten natur
-                              <hi rend="italics" xml:id="idm140034111748560"><!--<emph>-->böse lüste vnd anreitzung<!--</emph--></hi>
+                              <hi rend="italics" xml:id="idm140034111748560">böse lüste vnd anreitzung</hi>
 .</q></cit>
                         <cit xml:id="idm140034111747392"><bibl xml:id="idm140034111747264"><hi rend="italics" xml:id="idm140034111747136">Oversætt. 1556</hi>
 (ndf. S. 32 L. 20 ff.).</bibl><q xml:id="idm140034111746416">Huor saare flittelige haffuer vor Kære fader Adam/
-                              <hi rend="italics" xml:id="idm140034111745984"><!--<emph>-->voctet oc beuaret<!--</emph--></hi>
+                              <hi rend="italics" xml:id="idm140034111745984">voctet oc beuaret</hi>
 sig f
-                              <hi rend="italics" xml:id="idm140034111744896"><!--<emph>-->or al barhed och nøgenhed<!--</emph--></hi>
+                              <hi rend="italics" xml:id="idm140034111744896">or al barhed och nøgenhed</hi>
 / oc haffuer met sin kære Eua/vel
-                              <hi rend="italics" xml:id="idm140034111743712"><!--<emph>-->bundet om sig oc teckit sig til<!--</emph--></hi>
+                              <hi rend="italics" xml:id="idm140034111743712">bundet om sig oc teckit sig til</hi>
 / met den skindkiortel
-                              <hi rend="italics" xml:id="idm140034111742624"><!--<emph>-->at forhindre/ dempe oc nedlegge<!--</emph--></hi>
+                              <hi rend="italics" xml:id="idm140034111742624">at forhindre/ dempe oc nedlegge</hi>
 hans forkrenct natur/
-                              <hi rend="italics" xml:id="idm140034111741536"><!--<emph>-->onde begeringer/ løst oc tillaackelse<!--</emph--></hi>
+                              <hi rend="italics" xml:id="idm140034111741536">onde begeringer/ løst oc tillaackelse</hi>
 til Synd
                               <hi rend="sup" xml:id="idm140034111740496">2</hi>
 .</q></cit>
@@ -577,7 +606,7 @@ Forfatteren fremstiller det forargelige ved den ny Mode og Oversætteren underst
 . 35 L. 23
                               <hi rend="italics" xml:id="idm140034111726080">ff</hi>
 .</bibl><q xml:id="idm140034111725424">.. vore vnge Kompaner lade gøre dem saa stackede Kiortler oc Mantler/ som icke kunde skiule Remmerne/ end sige Kilen/ oc lade saa forklude deris Hoser/ oc lade gøre Kilen faar paa met Helffuedis flammer oc klude/ wmaadelig stor/ at Dieffuelen sidder oc kaager der vd paa alle sider/ aleniste til forargelse oc it ont exempel/ ia at arme vanuittige oc wskyldige Piger forledis oc forlaackis der aff/
-                              <hi rend="italics" xml:id="idm140034111724496"><!--<emph>-->ia skendis oc voldtagis der aff<!--</emph--></hi>
+                              <hi rend="italics" xml:id="idm140034111724496">ia skendis oc voldtagis der aff</hi>
                               <hi rend="sup" xml:id="idm140034111723440">1</hi>
 / thi huad for tancker oc huskud de nødis til at faa der aff/ i det at du saa treder frem vnder øyen faar dem/ giffuer ieg dig selff at betencke/ du veedst det vel oc gør det ocsaa der faar/</q></cit>
                      </p>
@@ -632,20 +661,20 @@ benyttet et senere Tryk, tør man slutte dels af, at han maa have oversat Skrift
             </div>
             <div xml:id="idm140034111695360">
               <head xml:id="idm140034111695104">IV.</head>
-              <p xml:id="idm140034111694720">Efter "Hosedjævelen" følger en Formaning til den kristne Læser, forfattet af Palladius, Denne Formanings Morale er, at selv om man naturligvis ikke maa forarge i det ydre, saa sidder den værste Synd dog ikke i Klæderne: "Den fromme Doktor (<!--*dolgoeO*-->dvs. Musculus) siger i sin Bog, at den Hosedjævel sidder ikkun i de Lumpehoser og kaager (<!--*dolgoeO*-->dvs. kigger) ud med sit Skok (<!--*dolgoeO*-->dvs. Skare). O Herre Gud! der som disse andre (scil. Djævle) og deres lige sade ikke højere op paa Legemet hver med sit Skok, ja i Hjertet og i Sjælen med, paa alle deres Patroner og Anhængere, da kunde der end findes Raad til at ryste den Hosedjævel af Benene med sit Selskab". Af disse andre Djævle nævnes først og fremmest den gamle
-                        <hi rend="italics" xml:id="idm140034111692096"><!--<emph>-->Afgudsdjævel<!--</emph--></hi>
+              <p xml:id="idm140034111694720">Efter "Hosedjævelen" følger en Formaning til den kristne Læser, forfattet af Palladius, Denne Formanings Morale er, at selv om man naturligvis ikke maa forarge i det ydre, saa sidder den værste Synd dog ikke i Klæderne: "Den fromme Doktor (dvs. Musculus) siger i sin Bog, at den Hosedjævel sidder ikkun i de Lumpehoser og kaager (dvs. kigger) ud med sit Skok (dvs. Skare). O Herre Gud! der som disse andre (scil. Djævle) og deres lige sade ikke højere op paa Legemet hver med sit Skok, ja i Hjertet og i Sjælen med, paa alle deres Patroner og Anhængere, da kunde der end findes Raad til at ryste den Hosedjævel af Benene med sit Selskab". Af disse andre Djævle nævnes først og fremmest den gamle
+                        <hi rend="italics" xml:id="idm140034111692096">Afgudsdjævel</hi>
 , d. e. den katolske Helgendyrkelse, "der endnu kommer Folk til at bøje deres Knæ for Stok og Sten i den og den Kirke og at løbe hen til den og den Sted, som de have lovet dem hen til". Saa er der
-                        <hi rend="italics" xml:id="idm140034111690608"><!--<emph>-->Hovmodighedsdjævelen<!--</emph--></hi>
-- Forfængelighedens og Ødselhedens Djævel - der faar Folk til at leve "langt over deres egen Stand, Vilkaar (<!--*dolgoeO*-->dvs. Stilling, Forhold) og Evne, som hine Fugle, der flyve højere end de have Vinger
+                        <hi rend="italics" xml:id="idm140034111690608">Hovmodighedsdjævelen</hi>
+- Forfængelighedens og Ødselhedens Djævel - der faar Folk til at leve "langt over deres egen Stand, Vilkaar (dvs. Stilling, Forhold) og Evne, som hine Fugle, der flyve højere end de have Vinger
                         <pb n="21" facs="adl/palladius/palladius04/palladius04021" xml:id="idm140034111688800"/>
                         <figure xml:id="idm140034111688064"><figDesc xml:id="idm140034111687936">Træsnit paa Titelbladet til den tyske Orig. 1555.</figDesc></figure>
 til . . , det Slags Hovmod, som opholdes af fattige og syge Menneskers Arbejd, Blod og Armod, det er besynderlige denne Djævels rette Vildbrad". Derefter nævner Palladius
-                        <hi rend="italics" xml:id="idm140034111687024"><!--<emph>-->Aagerdjævelen<!--</emph--></hi>
+                        <hi rend="italics" xml:id="idm140034111687024">Aagerdjævelen</hi>
 , der har Tag i alle: Adel, Borgere, Bønder, Mænd og Kvinder, Svende og Drenge, ja endogsaa Stoddere: "naar en Stodder har tigget saa mange Blafferter (en lille Mønt), som han kan skifte en Daler til sig for, saa har han strax saa meget lært, at han véd at sætte dem
                         <pb n="22" facs="adl/palladius/palladius04/palladius04022" xml:id="idm140034111685360"/>
 ud paa Aager og Rente for to, tre eller fire Hvid om Ugen at oppebære hver Lørdag ad Aften, til han fanger sin Daler igen". Endelig nævner han
-                        <hi rend="italics" xml:id="idm140034111684272"><!--<emph>-->Drankerdjævelen<!--</emph--></hi>
-, som lokker Folk til at sidde "udi Krohus først hos Brændevin, saa hos Tyskøl, paa det sidste ud paa Natten hos Pryssing (<!--*dolgoeO*-->dvs. Danziger-Øl), hos Vin og anden Drik, til hen imod Dag de væltes i Seng, saa fulde som Svin, saa at de aldrig faar Solens Opgang eller Nedgang at se, fordi om Aftenen sidder de til Driks med Slemmen og Demmen, og om Morgenen ligger de og snorker udi deres Drukkenskab". Det er dog ikke saaledes, at Palladius lader hin Djævel, der sidder i Klæderne, ganske slippe. Han tillægger den endda ret kraftige Ulykker; "Hver kan se tilbage . . hvad for Straf der er kommen ind i Danmark efter løsagtige Klæder, Adfore og onde Sæder". Og han vedbliver: Fra Valland kom "de vælske Roer" (syfilitisk? Udslæt) sammen med den fremmede Klædesæd, og fra Spanien kom - i Følge med "de hispaniske Sæder og Klædebon" - "den hispaniske Skab" (ogsaa en venerisk Syge). Mens disse Sygdomme atter var i Aftagende eller forsvundet, da Palladius skrev om de tyske Pluderhoser, hang de fransoske Pokker (den egentlige Syfilis), som kom ind i Riget "sammen med de fransoske løsagtige Noder og Fagter i Klæder og Sæder", endnu "fuldt hart ved". Ogsaa Svedesygen fra England og Hedesygen fra Skotland maatte de fremmede Moder bære Skyld for, ligesom Spedalskhed, Kræft, Faldende Sot og Popelsi (Apoplexi): "visselige hver ere kommen fra sin Hjørne i Verden for Synd og Ondskabs Skyld". Der var da Aarsag nok til at sky de syndige Hoser, som vilde bringe Straf ikke blot over dem, der bar dem, men ogsaa over disses Efterkommere, saa "Børn i Vuggen maa røve (<!--*dolgoeO*-->dvs. rue, angre) det som de maa intet om volde", eller - tilføjer Palladius - "som det almindelige Sprog lyder: det skal Grisene gælde, som de gamle Svin bryde".</p>
+                        <hi rend="italics" xml:id="idm140034111684272">Drankerdjævelen</hi>
+, som lokker Folk til at sidde "udi Krohus først hos Brændevin, saa hos Tyskøl, paa det sidste ud paa Natten hos Pryssing (dvs. Danziger-Øl), hos Vin og anden Drik, til hen imod Dag de væltes i Seng, saa fulde som Svin, saa at de aldrig faar Solens Opgang eller Nedgang at se, fordi om Aftenen sidder de til Driks med Slemmen og Demmen, og om Morgenen ligger de og snorker udi deres Drukkenskab". Det er dog ikke saaledes, at Palladius lader hin Djævel, der sidder i Klæderne, ganske slippe. Han tillægger den endda ret kraftige Ulykker; "Hver kan se tilbage . . hvad for Straf der er kommen ind i Danmark efter løsagtige Klæder, Adfore og onde Sæder". Og han vedbliver: Fra Valland kom "de vælske Roer" (syfilitisk? Udslæt) sammen med den fremmede Klædesæd, og fra Spanien kom - i Følge med "de hispaniske Sæder og Klædebon" - "den hispaniske Skab" (ogsaa en venerisk Syge). Mens disse Sygdomme atter var i Aftagende eller forsvundet, da Palladius skrev om de tyske Pluderhoser, hang de fransoske Pokker (den egentlige Syfilis), som kom ind i Riget "sammen med de fransoske løsagtige Noder og Fagter i Klæder og Sæder", endnu "fuldt hart ved". Ogsaa Svedesygen fra England og Hedesygen fra Skotland maatte de fremmede Moder bære Skyld for, ligesom Spedalskhed, Kræft, Faldende Sot og Popelsi (Apoplexi): "visselige hver ere kommen fra sin Hjørne i Verden for Synd og Ondskabs Skyld". Der var da Aarsag nok til at sky de syndige Hoser, som vilde bringe Straf ikke blot over dem, der bar dem, men ogsaa over disses Efterkommere, saa "Børn i Vuggen maa røve (dvs. rue, angre) det som de maa intet om volde", eller - tilføjer Palladius - "som det almindelige Sprog lyder: det skal Grisene gælde, som de gamle Svin bryde".</p>
             </div>
             <pb n="23" facs="adl/palladius/palladius04/palladius04023" xml:id="idm140034111679904"/>
             <div xml:id="idm140034111679168">
@@ -1269,7 +1298,7 @@ mangler. Rimeligvis har Titelen været den anførte:
                      <hi rend="italics" xml:id="idm140034111299920">bluth-uergiessung</hi>
 , jf. Kalkar I. 222.</p>
             <p xml:id="idm140034111299072">S. 27 L. 25.
-                     <hi rend="italics" xml:id="idm140034111298768">offuersettelse</hi> <!--*dolgoeO*-->
+                     <hi rend="italics" xml:id="idm140034111298768">offuersettelse</hi> 
 dvs. "Opskruning af Priserne", jf. Kalkar III, 433 (næppe "for høj Ansættelse af Afgift" som oversat, Kalkar V, 794.</p>
             <p xml:id="idm140034111297344">S. 27 L. 25.
                      <hi rend="italics" xml:id="idm140034111297040">besuering</hi>
@@ -1334,7 +1363,7 @@ Ved Orig. betegnes her og i det flg. den tyske Originaludgave 1555.</note>
             <p xml:id="idm140034111270912">Vnd do wir nun von Gott beruffen, mit ernstem vnd hartem befelich/ im Predigamt/ Gottes gnad jedermenniglich/ heuffig vnd vberflüssig anzubieten/ Welche aber/ do sie voracht vnd nit angenomen wirt/ Gottes folgenden zorn vnd straffe verkündigen/ vnd vns wiederumb wider die Welt trötzlich aufflenen/ vnd jrer boßheit widersprechen sollen/ vnd do vnser straffen bey jnen nicht hafftet/ vnd nichts ausrichtet/ das sie auch vnter vnser trewen vormanung immer erger wirt/ sollen wir mit Noha/ Lot/ Abraham/ den Propheten/ vnd Aposteln/ nicht müde werden/ nit auff hören zu schreien/ bis es Gott im Himmel verdreust/ das ers nit lenger dulden/ noch zu sehen kan/ vnd endtlich alles in einen hauffen werffe. - Dem nach hat mich mein Ampt vnd beruff darein ich von Got (wiewol gantz vnwirdig) gesetzt/ vorursacht/ das ich nicht allein in meiner Kirchen/ vnd Vniuersitet/ mit predigen vnd lesen/ sondern auch mit einem offentlichen schreiben vnd wee klagen/ wieder solche grosse boßheit (welche den jüngsten tag one zweiffel bald wird rege machen) mich habe wollen aufflenen/ vnangesehen was ich für vndanck damit vordienen/ vnnd auff mich laden werde. - Dieweil es aber auff ein mal zu viel/ zu schreiben/ vnd andern zu lesen/ sein würde/ do ich in der gemein vnd weitleufftig von dem jetzigem/ vnerbarlichem pracht der kleidung/ allein zur sunde/ ergernis/ vnd zu aureitzung böser begirde vnd vnzucht/ schreiben solte/ will ich alles hindan setzen/ bis zu seiner zeit/ Vnd mich jtzt allein an den einigen hosen teuffel machen/ der sich in diesen tagen vnd jaren/ aller erst aus der Helle begeben/ den jungen gesellen in die hosen gefaren/ vnd in 6000. jaren nie sich hat dürffen erfür machen/ Das ichs gewisslich darfür halte/ das diß der letzte Teuffel sey/ der noch fik dem jüngsten tag/ in der ordnung als der letzte/ auch das seine auff erden thun vnd ausrichten sol. - Wolan wir wollen vns an jm
                      <pb n="70" facs="adl/palladius/palladius04/palladius04070" xml:id="idm140034111268320"/>
 vorsuchen/ vnd jn angreiffen/ damit er sich bei seiner geselschaft nit zu rümen hab/ er allein hab seine sach on allen wiederstandt naus gefüret/ Vnd wollen es do anheben.</p>
-            <p xml:id="idm140034111267056"><hi rend="italics" xml:id="idm140034111266928"><!--<emph>-->Die Erste stind/ des Pluderichten hosen<!--</emph--></hi><lb xml:id="idm140034111266000"/><hi rend="italics" xml:id="idm140034111265872"><!--<emph>-->teuffels/ wieder die scham/ zucht/ vnd<!--</emph--></hi><lb xml:id="idm140034111264976"/><hi rend="italics" xml:id="idm140034111264848"><!--<emph>-->erbarkeit/ von natur den menschen<!--</emph--></hi><lb xml:id="idm140034111263952"/><hi rend="italics" xml:id="idm140034111263824"><!--<emph>--> angeborn vnd eingepflantzt<!--</emph--></hi>
+            <p xml:id="idm140034111267056"><hi rend="italics" xml:id="idm140034111266928">Die Erste stind/ des Pluderichten hosen</hi><lb xml:id="idm140034111266000"/><hi rend="italics" xml:id="idm140034111265872">teuffels/ wieder die scham/ zucht/ vnd</hi><lb xml:id="idm140034111264976"/><hi rend="italics" xml:id="idm140034111264848">erbarkeit/ von natur den menschen</hi><lb xml:id="idm140034111263952"/><hi rend="italics" xml:id="idm140034111263824"> angeborn vnd eingepflantzt</hi>
 .</p>
             <p xml:id="idm140034111262672">Im Buch der Schöpffung/ am 2. cap. sagt Moises/ das Adam vnd sein Weib sein nackent gewesen/ vnd haben sich nit geschemet/ wie wir denn des noch ein füncklein vnd kleine anzeigung haben/ an den kleinen kindern/ welche von wegen der vnschuldt/ auch von keiner schew oder scham wissen/ auch nicht ander leut/ sich jrer nackenheit schewen/ sondern am aller liebsten also blos stehen vnd handeln/ Aber folgend in der historia des erbfals/ do Adam die schantz vorsehen hat/ da jm die augen auffgethan/ vnd er sich nackent sihet/ macht er jm als bald/ sampt seiner lieben Eua/ von Feigen blettern ehien schurtz/ hüllet vnd decket zu auffs best er kan/ aus vrsach das er wol erkant hat/ was er ausgericht/ vnd in waß schand er geratten/ wie hinfurt an/ seine nachkümling/ in solcher vorrückter vnd vorterbter natur/ in sünden entpfangen/ wie Dauid sagt/ in sunden geborn/ in sünden leben vnd sterben/ vnd zu ewiger schand sollen gesetzt werden/ Deswegen decket vnd hüllet er sich.</p>
             <p xml:id="idm140034111260416">S. 30 L. 26.
@@ -1365,7 +1394,7 @@ tilføjet af Palladius.</p>
                      <hi rend="italics" xml:id="idm140034111249904">gøre sig megit bart oc blot</hi>
 , jf. Noten til S. 38 L. 8f.</p>
             <p xml:id="idm140034111248992">S. 31 L. 14.
-                     <hi rend="italics" xml:id="idm140034111248688">arriger</hi> <!--*dolgoeO*-->
+                     <hi rend="italics" xml:id="idm140034111248688">arriger</hi> 
 dvs.
                      <hi rend="italics" xml:id="idm140034111247600">argere</hi>
 , "slettere".</p>
@@ -1377,17 +1406,17 @@ dvs.
 .</p>
             <p xml:id="idm140034111244080">S. 32 L.8.
                      <hi rend="italics" xml:id="idm140034111243776">angrer/ røffuer</hi>
-[<!--*dolgoeO*-->dvs. ruer]
+[dvs. ruer]
                      <hi rend="italics" xml:id="idm140034111242672">oc klager</hi>
 , Orig.
                      <hi rend="italics" xml:id="idm140034111241968">büssen vnd klagen</hi>
 .</p>
             <p xml:id="idm140034111241136">S. 32 L. 28.
                      <hi rend="italics" xml:id="idm140034111240832">denne ny pract oc Klædebaan;
-                        <hi rend="italics" xml:id="idm140034111240176"><!--<emph>-->pract<!--</emph--></hi>
+                        <hi rend="italics" xml:id="idm140034111240176">pract</hi>
                      </hi>
 er formentlig Trykfejl for
-                     <hi rend="italics" xml:id="idm140034111238944"><hi rend="italics" xml:id="idm140034111238576"><!--<emph>-->dract<!--</emph--></hi></hi>
+                     <hi rend="italics" xml:id="idm140034111238944"><hi rend="italics" xml:id="idm140034111238576">dract</hi></hi>
 (Orig. har:
                      <hi rend="italics" xml:id="idm140034111237488">diese jetzige tracht vnd kleidung</hi>
 ), selvom den almindelige Form for "Dragt" i Hosedjævlen er
@@ -1404,7 +1433,7 @@ er formentlig Trykfejl for
                      <hi rend="italics" xml:id="idm140034111232832">ein gemeine sage vnd geschrey</hi>
 .</p>
             <p xml:id="idm140034111232000">S. 33 L. 16,
-                     <hi rend="italics" xml:id="idm140034111231696">viløbende</hi> <!--*dolgoeO*-->
+                     <hi rend="italics" xml:id="idm140034111231696">viløbende</hi> 
 dvs. vidløbende, Orig.
                      <hi rend="italics" xml:id="idm140034111230544">vberal gangen</hi>
 .</p>
@@ -1450,7 +1479,7 @@ dvs. vidløbende, Orig.
                      <hi rend="italics" xml:id="idm140034111214880">die nit die nestel, geschweig dann den latz bedecken</hi>
 . Her gengiver Palladius altsaa
                      <hi rend="italics" xml:id="idm140034111214096">die nestel</hi>
-ved "Remmerne", <!--*dolgoeO*-->dvs. de Remme, hvormed Benklæderne bares oppe, og som blev stukket igennem Bindegabene (jf. Noten ovf. til S. 30 L. 26f.
+ved "Remmerne", dvs. de Remme, hvormed Benklæderne bares oppe, og som blev stukket igennem Bindegabene (jf. Noten ovf. til S. 30 L. 26f.
                      <hi rend="italics" xml:id="idm140034111212752">"Kilen"</hi>
 , der latz, gjordes uforholdsmæssig stor og fremtrædende og bidrog i høj Grad til at give Benklæderne et anstødeligt Tilsnit.</p>
             <p xml:id="idm140034111211696">S. 35 L. 28f.
@@ -1523,20 +1552,20 @@ ved
             <p xml:id="idm140034111184528">S. 38 L. 34.
                      <hi rend="italics" xml:id="idm140034111184224">i baghusene</hi>
 , Orig.
-                     <hi rend="italics" xml:id="idm140034111183488">in den hinder heusern <!--*dolgoeO*-->dvs.</hi>
+                     <hi rend="italics" xml:id="idm140034111183488">in den hinder heusern dvs.</hi>
 "i Bordellerne" (jf. Grimm, der dog kun har Citat fra "Hosedjævelen").</p>
             <p xml:id="idm140034111182192">S. 39 L. 29.
                      <hi rend="italics" xml:id="idm140034111181888">Hosselomper</hi>
 , Orig,
                      <hi rend="italics" xml:id="idm140034111181152">hosen lumpen</hi>
-, "de som gaar med lumpe de Hoser" (Grimm), <!--*dolgoeO*-->dvs. de der (til Pryd) gaar med Lapper paa Hoserne, jfr. Kalkar V, 470.</p>
+, "de som gaar med lumpe de Hoser" (Grimm), dvs. de der (til Pryd) gaar med Lapper paa Hoserne, jfr. Kalkar V, 470.</p>
             <p xml:id="idm140034111179872">S. 40 L. 13.
                      <hi rend="italics" xml:id="idm140034111179568">skuoe</hi>
 , skue; lign, Stavemaader er anført hos Kalkar III, 803.</p>
             <p xml:id="idm140034111178656">S. 40 L. 14f.
                      <hi rend="italics" xml:id="idm140034111178352">vdj mange oc hoss fult</hi>
 (Orig.
-                     <hi rend="italics" xml:id="idm140034111177616">viel vnd mennig), <!--*dolgoeO*-->dvs.</hi>
+                     <hi rend="italics" xml:id="idm140034111177616">viel vnd mennig), dvs.</hi>
 "hos mange og i fuldt Maal", se Kalkar II, 270.</p>
             <p xml:id="idm140034111176416">S. 40 L. 27.
                      <hi rend="italics" xml:id="idm140034111176112">Nobiskro =</hi>
@@ -1548,7 +1577,7 @@ II, 663, IV, 310.</p>
             <p xml:id="idm140034111173744">S. 41 L. 19.
                      <hi rend="italics" xml:id="idm140034111173440">met lomper oc Rauffueposer</hi>
 , Orig.
-                     <hi rend="italics" xml:id="idm140034111172688">mit lumpen vnd hadern <!--*dolgoeO*-->dvs.</hi>
+                     <hi rend="italics" xml:id="idm140034111172688">mit lumpen vnd hadern dvs.</hi>
 "med Klude og Pjalter",
                      <hi rend="italics" xml:id="idm140034111171616">Rauffueposer</hi>
 er vist
@@ -1556,7 +1585,7 @@ er vist
 , "Pjalteposer"; jf, jy.
                      <hi rend="italics" xml:id="idm140034111170128">rag</hi>
 , "Skrab", "Pjalter",
-                     <hi rend="italics" xml:id="idm140034111169408"><!--<emph>-->"Ragelse"<!--</emph--></hi>
+                     <hi rend="italics" xml:id="idm140034111169408">"Ragelse"</hi>
 og raje, "pjaltede Klæder", se Feilberg III, 5 og 7.</p>
             <p xml:id="idm140034111168112">S. 41 L. 20. Den øverste Del af Bl. C 4 er afrevet. Den til
                      <pb n="73" facs="adl/palladius/palladius04/palladius04073" xml:id="idm140034111167680"/>
@@ -1584,7 +1613,7 @@ svarende Text i Originalen lyder: Sie sprechen aber kleider verdammen nicht/ das
             <p xml:id="idm140034111155088">S. 43 L. 3-15. Efter en anden Beretning lod Kurfyrst Joakim, da han fra Slotsvinduet saa en fornem Herre udstyret med prægtige Pluderhoser, en af sine Tjenere paa Stedet gennemskære Benklæderne fra Bæltet, saa de til de forbigaaendes Jubel faldt ned om Benene paa den ulyksalige (se Osborn ani Skr. S. XIII), En Fremgangsmaade, der jo svarer til den Christian III. - efter Krags og Huitfelds Beretninger (se Indledn. foran S.16 Fodn.) - anvendte.</p>
             <p xml:id="idm140034111153840">S. 43 L. 18.
                      <hi rend="italics" xml:id="idm140034111153536">at straffe de gode met det onde</hi>
-(<!--*dolgoeO*-->dvs. med ondt) = Orig.
+(dvs. med ondt) = Orig.
                      <hi rend="italics" xml:id="idm140034111152416">den frommen mit dem bösen zu straffen</hi>
 .</p>
             <p xml:id="idm140034111151568">S. 43 L. 23 f.
@@ -1659,14 +1688,14 @@ Diese kurze vormanung aber/ vom Hosenteuffel/ will ich euch meinen grosgünstige
             <p xml:id="idm140034111122000">S. 47 L. 10 f. Talen er formentlig om nogle tyske Landsknægte, der skulde tjene paa Flaaden, jf. Troels-Lund, anf. Skr. IV, 43.</p>
             <p xml:id="idm140034111121344">S. 47 L. 31.
                      <hi rend="italics" xml:id="idm140034111121040">finde</hi>
-, <!--*dolgoeO*-->dvs. "idømme", jf. Kalkar I, S.540
+, dvs. "idømme", jf. Kalkar I, S.540
                      <hi rend="sup" xml:id="idm140034111119872">b</hi>
 L. 12 f.</p>
             <p xml:id="idm140034111119120">S. 48 L. 5 f.
                      <hi rend="italics" xml:id="idm140034111118816">Børn</hi>
 -
                      <hi rend="italics" xml:id="idm140034111118080">volde</hi>
-, <!--*dolgoeO*-->dvs.
+, dvs.
                      <hi rend="italics" xml:id="idm140034111116992">"Børn i</hi>
 Vuggen maa angre det, de selv er uden Skyld i". Brugen af
                      <hi rend="italics" xml:id="idm140034111116240">volde om</hi>
@@ -1712,7 +1741,7 @@ L. 48).</p>
                      <hi rend="italics" xml:id="idm140034111099952">Paacker</hi>
 (eller
                      <hi rend="italics" xml:id="idm140034111099216">Franzoser</hi>
-) <!--*dolgoeO*-->dvs. Syfilis. Om Lukningen af Badstuer for at hindre Udbredelsen af "Pokker" se bl. a- P.Eliesens Danske Skrifter I, 152.</p>
+) dvs. Syfilis. Om Lukningen af Badstuer for at hindre Udbredelsen af "Pokker" se bl. a- P.Eliesens Danske Skrifter I, 152.</p>
             <p xml:id="idm140034111097904">S. 49 L.
                      <hi rend="italics" xml:id="idm140034111097600">6. den Engelske suedsiuge</hi>
 . Om denne pestagtige Syge, der i første Halvdel af 16. Aarh. hærgede Nordtyskland og Skandinavien, se Mansa, Folkesygdommenes Historie, 1873, S. 140 ff. Jf. Kalkar IV, 225.</p>
@@ -1724,7 +1753,7 @@ L. 48).</p>
 ; om Forargelsen mod de nymodens højpullede Hatte se Troeis-Lund anf. Udg. IV, 94 ff. At de toppede Huer ogsaa senere vakte Forargelse, viser følgende Sted i en Rigsraadsskrivelse fra 1631: "Rigens raadtz betenckende er att om de toppede Luer och letferdig klede dracht schulle med de Høylerde delibereris, hvad Deriß betenckende er, at mand der wdi kunde anordne." (Chr.IV.s Breve, udg. af Molbech, 457, Fodn.).</p>
             <p xml:id="idm140034111093424">S. 51 L. 1.
                      <hi rend="italics" xml:id="idm140034111093120">hand føre styre der til</hi>
-, "han føre Roret i den Retning" <!--*dolgoeO*-->dvs. "gid han maa styre i den Retning, derhen".</p>
+, "han føre Roret i den Retning" dvs. "gid han maa styre i den Retning, derhen".</p>
             <p xml:id="idm140034111091808">S. 51 L. 16. Om
                      <hi rend="italics" xml:id="idm140034111091504">Johannes Hilten</hi>
 og hans Profeti se foran Bind III, 118-19, Note til S. 32 L. 22 og S. 42 L. 22.</p>
@@ -2044,7 +2073,7 @@ ved det pyntelige
                         <hi rend="italics" xml:id="idm140034110928128">vnge mennisker den stund de staa i blomster oc ere deylige oc smucke</hi>
 (S. 96 L. 23 f.), og en ligefrem Sætning som
                         <hi rend="italics" xml:id="idm140034110927232">wann er</hi>
-(<!--*dolgoeO*-->dvs. Gud)
+(dvs. Gud)
                         <hi rend="italics" xml:id="idm140034110926144">zu uns herab sihet</hi>
 gengives:
                         <hi rend="italics" xml:id="idm140034110925440">naar hand nogen tid skiuder sine øyen ned aff den høye Himmel til oss</hi>
@@ -2264,7 +2293,7 @@ fra Malmø. Biogr. Lex. VII, 365.</p>
             <p xml:id="idm140034110771920">S. 89 L. 5. l Cor. 7.21. Biblen 1550 har:
                      <hi rend="italics" xml:id="idm140034110771584">Est du kaldet en Tienere/ sørge icke/ Men kant du bliffue Fri/ da bruge det meget helder</hi>
 , hvilket nøje stemmer med Texten i Luthers Bibeloversættelse, mens Meningen med Grundtexten sikkert er: "Hvis du kaldes en Træl, saa bryd dig ikke om det;
-                     <hi rend="italics" xml:id="idm140034110770352"><!--<emph>-->men selv om du ogsaa<!--</emph--></hi>
+                     <hi rend="italics" xml:id="idm140034110770352">men selv om du ogsaa</hi>
 kan blive fri, saa lad det heller fare." Palladius' Gengivelse bygger paa Luthers, men fører denne et Skridt videre, idet det tilraades Trællen at lægge Vind paa at blive fri, hvorved man er naaet til den stik modsatte Opfattelse af Grundtextens.</p>
             <p xml:id="idm140034110768672">S. 89 L. 10.
                      <hi rend="italics" xml:id="idm140034110768368">at sticke eders fødder vnder eders eget bordende</hi>
@@ -2490,7 +2519,7 @@ etc. Ps. 33.18.</p>
                      <hi rend="italics" xml:id="idm140034110677488">Sondern vnsere Jar sind dahin/ wie ein strom wasser</hi>
 . Billedet er taget fra Luthers Bibeloversætt. Ps. 90.5:
                      <hi rend="italics" xml:id="idm140034110676592">Du lessest sie</hi>
-(<!--*dolgoeO*-->dvs. Aarene)
+(dvs. Aarene)
                      <hi rend="italics" xml:id="idm140034110675504">da hin faren wie einen Strom</hi>
 = Biblen 1550:
                      <hi rend="italics" xml:id="idm140034110674784">Du lader dem hen fare som en Strøm</hi>
@@ -2513,7 +2542,7 @@ etc. Ps. 33.18.</p>
                      <hi rend="italics" xml:id="idm140034110668256">Tacknemmelighed</hi>
 ; jf. S. 94 L. 25 f. og L. 32.</p>
             <p xml:id="idm140034110667392">S.94 L. 13 f. oc
-                     <hi rend="italics" xml:id="idm140034110667088">naar det vil være met oss, <!--*dolgoeO*-->dvs.</hi>
+                     <hi rend="italics" xml:id="idm140034110667088">naar det vil være met oss, dvs.</hi>
 "og naar det er forbi med os", jf. Kalkar IV, 910
                      <hi rend="sup" xml:id="idm140034110665936">b</hi>
 L.48f. Orig. har:
@@ -2564,7 +2593,7 @@ L. 11 f. og "være med" ovf. Noten til S. 94 L. 13 f.</p>
             <p xml:id="idm140034110647472">S. 95 L. 12 f.
                      <hi rend="italics" xml:id="idm140034110647168">oc den</hi>
 ..
-                     <hi rend="italics" xml:id="idm140034110646432">fuldende, <!--*dolgoeO*-->dvs.</hi>
+                     <hi rend="italics" xml:id="idm140034110646432">fuldende, dvs.</hi>
 "og fuldende det", nemlig: Ægteskabet; at her er brugt Fk. skyldes, at Palladius har haft "Ægteskabs Stat" i Tankerne, jf.
                      <hi rend="italics" xml:id="idm140034110645120">denne Stat</hi>
 L. 14.</p>
@@ -3023,7 +3052,7 @@ I Videnskabernes Selskabs Almanak for 1766 meddeles under 1570 følgende Titel:
                         <lb xml:id="idm140034110430864"/>
 vedføjet Salmetext vandt dog stor Udbredelse. Vi kender følgende Udgaver:</p>
               <p xml:id="idm140034110430304">A. Udgaver
-                        <hi rend="italics" xml:id="idm140034110430000"><!--<emph>-->med<!--</emph--></hi>
+                        <hi rend="italics" xml:id="idm140034110430000">med</hi>
 Palladius' Fortale:</p>
               <p xml:id="idm140034110428832">l. Den ældste bevarede Udgave er fra 1578. Det er efter denne Palladius' Fortale ndf. er meddelt. Udgaven
                         <pb n="122" facs="adl/palladius/palladius04/palladius04122" xml:id="idm140034110428304"/>
@@ -3072,7 +3101,7 @@ ff.). Paa sidste Blad:
                         <hi rend="italics" xml:id="idm140034110412464">Prentet i Lybeck/ hoss Laurentz Albrecht. Anno 1599</hi>
 .</p>
               <p xml:id="idm140034110411616">Denne Udgave er formentlig et Optryk af
-                        <hi rend="italics" xml:id="idm140034110411280"><!--<emph>-->Original-Udgaven 1556<!--</emph--></hi>
+                        <hi rend="italics" xml:id="idm140034110411280">Original-Udgaven 1556</hi>
 (eller af et senere Oplag af denne). Selve Originalen er tabt, men Udgaven nævnes i Vid. Selsk. Almanak 1765 tinder Titlen:
                         <hi rend="italics" xml:id="idm140034110409920">Davids Psalter fordansket af Erasmus Mich. Lætus. Prentet i Lybeck 1556. in</hi>
 8
@@ -3085,7 +3114,7 @@ ff.). Paa sidste Blad:
               <p xml:id="idm140034110406448"><hi rend="italics" xml:id="idm140034110406320">Prentet i Helsingør/ Aff Peder Huæn. M.DC.X</hi>
 . Indhold som i de foregaaende Udgaver.</p>
               <p xml:id="idm140034110405360">B. Udgaver, i hvilke Palladius' Fortale er
-                        <hi rend="italics" xml:id="idm140034110405024"><!--<emph>-->udeladt<!--</emph--></hi>
+                        <hi rend="italics" xml:id="idm140034110405024">udeladt</hi>
 :</p>
               <p xml:id="idm140034110403856">5.
                         <hi rend="italics" xml:id="idm140034110403552">Dauids Psalter met Doct. Martini Lutheri Summarier</hi>
@@ -3225,11 +3254,11 @@ zuvor kommen/ meinen Leichnam zu salben/ zu meinem Begräbnis. Warlich ich sage 
 .
                            <hi rend="italics" xml:id="idm140034110342784">156-157</hi>
 :</bibl>
-                <q xml:id="idm140034110341968"><hi rend="italics" xml:id="idm140034110341840"><!--<emph>-->Oc Der Jhesus vaar nu i Bethanien/ vdi Simonis den Spedalskis hus/ da traaddeen Quinde til hannem/ som haffde it Glass<!--</emph--></hi>
+                <q xml:id="idm140034110341968"><hi rend="italics" xml:id="idm140034110341840">Oc Der Jhesus vaar nu i Bethanien/ vdi Simonis den Spedalskis hus/ da traaddeen Quinde til hannem/ som haffde it Glass</hi>
 met wforfalsket Nardis vand
                            <hi rend="sup" xml:id="idm140034110340624">6</hi>
 / oc hun sønderbrød glasset/
-                           <hi rend="italics" xml:id="idm140034110339872"><!--<emph>-->oc vdstyrte det paa hans hoffuet/ som hand sad til bordz. Der nogle aff hans Disciple det saae/ toge de det til mistycke/ oc sagde: Huor til tiener dette wraad?<!--</emph--></hi>
+                           <hi rend="italics" xml:id="idm140034110339872">oc vdstyrte det paa hans hoffuet/ som hand sad til bordz. Der nogle aff hans Disciple det saae/ toge de det til mistycke/ oc sagde: Huor til tiener dette wraad?</hi>
 Mand kunde haffue solt dette vand mere end for try Hundrede Penninge/ oc giffuet Fattige.</q>
               </cit>
               <note anchored="true" xml:id="idm140034110338352"><hi rend="sup" xml:id="idm140034110337984">1</hi>
@@ -3255,13 +3284,13 @@ Det skyldes sikkert en ren Lapsus, at Ordet
               <pb n="132" facs="adl/palladius/palladius04/palladius04132" xml:id="idm140034110327072"/>
               <cit xml:id="idm140034110326304">
                 <q xml:id="idm140034110326048">Oc de knurrede paa hende.
-                           <hi rend="italics" xml:id="idm140034110325728"><!--<emph>-->Der Jhesus det merckte/ sagde hand<!--</emph--></hi>
+                           <hi rend="italics" xml:id="idm140034110325728">Der Jhesus det merckte/ sagde hand</hi>
 til dem: Lader hende met fred/
-                           <hi rend="italics" xml:id="idm140034110324592"><!--<emph>-->Hui bekumre i denne Quinde? Hun haffuer giort en god gierning mod mig/ I haffue altid Fattige hos eder<!--</emph--></hi>
+                           <hi rend="italics" xml:id="idm140034110324592">Hui bekumre i denne Quinde? Hun haffuer giort en god gierning mod mig/ I haffue altid Fattige hos eder</hi>
 / Oc naar i ville da kunde i giøre dem til gode/
-                           <hi rend="italics" xml:id="idm140034110323328"><!--<emph>-->Men mig haffue i icke altid<!--</emph--></hi>
+                           <hi rend="italics" xml:id="idm140034110323328">Men mig haffue i icke altid</hi>
 . Hun giorde huad hun kunde/ At hun vdstyrte dette vand paa mit Legeme / der met er hun tilfaarn kommen at salue mit Legeme/ til min begraffuelse.
-                           <hi rend="italics" xml:id="idm140034110322112"><!--<emph>-->Sandelige/ ieg siger eder/ Huor som dette Euangelium bliffuer predicket i den gantske Verden/ der skal mand oc sige det/ til hendis hukommelse/ det hun haffuer nu giort<!--</emph--></hi>
+                           <hi rend="italics" xml:id="idm140034110322112">Sandelige/ ieg siger eder/ Huor som dette Euangelium bliffuer predicket i den gantske Verden/ der skal mand oc sige det/ til hendis hukommelse/ det hun haffuer nu giort</hi>
 .
                            <hi rend="sup" xml:id="idm140034110320896">1</hi>
                         </q>
@@ -3282,7 +3311,7 @@ I dette Citat er den Del, der er taget fra Matthæus (eller er fælles for Matth
                         <hi rend="sup" xml:id="idm140034110311168">1</hi>
                      </p>
               <p xml:id="idm140034110310416">Efter hvert lille Afsnit har Bugenhagen tilføjet en Kommentar; alle disse Kommentarer har Palladius udeladt ligesom de større sammenhængende Betragtninger ("Om Jødernes Blindhed, Om Paaskefesten" m. m., se ovf. S. 130). Palladius har villet give Lidelseshistorien
-                        <hi rend="italics" xml:id="idm140034110309552"><!--<emph>-->efter den danske Bibel<!--</emph--></hi>
+                        <hi rend="italics" xml:id="idm140034110309552">efter den danske Bibel</hi>
 ; hertil har han benyttet Bugenhagens Sammenstilling af Skriftsteder; men hvad der hos Bugenhagen fandtes af jævne Forklaringer eller lærde Udlægninger har han uden Vaklen strøget.</p>
             </div>
             <div xml:id="idm140034110307872">
@@ -3299,7 +3328,7 @@ Cidron etc. Der effter maa han paa en halff time wise folket hans pinsels brug/ 
 Tavsen deler her Lidelseshistorien i sex Prædikener at holde i Passionsugens sex Dage
                         <hi rend="sup" xml:id="idm140034110298224">3</hi>
 , og
-                        <hi rend="italics" xml:id="idm140034110297552"><!--<emph>-->Texten<!--</emph--></hi>
+                        <hi rend="italics" xml:id="idm140034110297552">Texten</hi>
 til disse Fasteprædikener er, uden at Tavsen forresten nævner det, taget fra Bugenhagen.</p>
               <note anchored="true" xml:id="idm140034110296192"><hi rend="sup" xml:id="idm140034110295824">1</hi>
 Saaledes ogsaa Palladius' Oversættelse, mens Tavsens Oversættelse (se ndf.) har:
@@ -3326,7 +3355,7 @@ Prædikerne kunde ogsaa holdes hver Onsdag og Fredag fra Midfaste Søndagen. Beg
               <head xml:id="idm140034110284592">III.</head>
               <p xml:id="idm140034110284176">Af selvstændige Udgaver af Passionshistorien i Palladius' Oversættelse kendes følgende:</p>
               <p xml:id="idm140034110283600">1.
-                        <hi rend="italics" xml:id="idm140034110283296"><!--<emph>-->Originaludgaven 1556<!--</emph--></hi>
+                        <hi rend="italics" xml:id="idm140034110283296">Originaludgaven 1556</hi>
 . Udgaven er nu tabt I ældre Bibliografier (saaledes hos Nyerup og Kraft, Biskop Harboe (i NkS. 2710. 4° III), C. L. Heiberg o. a.) opgives København som Trykkested; den har da efter al Sandsynlighed været trykt hos Hans Vingaard ligesom Palladius' øvrige samtidige Skrifter.
                         <hi rend="sup" xml:id="idm140034110281632">3</hi>
                      </p>
@@ -3338,25 +3367,25 @@ Saaledes findes Lidelseshistorien svarende til Texten ndf. S. 169- 184 i forsk. 
 I Kat. over Sjællands Stiftsbibliotek opgives det, at Bibl. har et Exemplar af Udg. 1556, men dette skyldes en Fejl fra Katalogets Affatter.</note>
               <pb n="136" facs="adl/palladius/palladius04/palladius04136" xml:id="idm140034110276192"/>
               <p xml:id="idm140034110275376">2.
-                        <hi rend="italics" xml:id="idm140034110275072"><!--<emph>-->Udgaven 1575<!--</emph--></hi>
+                        <hi rend="italics" xml:id="idm140034110275072">Udgaven 1575</hi>
 . Titelblad og Format se nedenfor. Udgaven er trykt hos Matz Vingaard med en stor smuk Type (17 Linjer paa Siden). Efter Passionshistorien, der slutter paa Blad O 8 og saaledes omfatter 14 Oktavark, følger Tidemands "Jerusalems oc Jødernis Jemmerlige oc Ynckelige forstøringe kortelige aff Josephi Historie fordansket".</p>
               <p xml:id="idm140034110273248">Paa sidste Textblad (V 6) staar:
                         <hi rend="italics" xml:id="idm140034110272912">Denne bog er Prentet i Kiøbenhaffn/ aff Matz Vingaard/ Borgere oc Bogeprentere der sammesteds/ paa hans egen bekaastning/ Oc bleff fuldent den 22. dag Septembris/ Aar M. D. LXXV. Oc findis hun sammesteds til kiøbs</hi>
 . Derefter et Træsnit og Mads Vingaards Symbolum. Af denne Udgave findes 2 Exemplarer paa det kgl. Bibl. Det ene - trykt paa tykt gult Papir og indbundet i et samtidigt Pergamentbind med Blindtryk - er særdeles godt bevaret. Desuden ejer Sjællands Stiftsbiblotek et Exemplar.</p>
               <p xml:id="idm140034110271136">3.
-                        <hi rend="italics" xml:id="idm140034110270832"><!--<emph>-->Udgave 1581<!--</emph--></hi>
+                        <hi rend="italics" xml:id="idm140034110270832">Udgave 1581</hi>
 . Indhold, Titelblad og Format som foregaaende; dog har Foden af Titelbladet følgende noget afvigende Ordlyd:
                         <hi rend="italics" xml:id="idm140034110269504">Er her ocsaa Jerusalems oc Jødernis | ynckelige Forstøring/ etc. | Nu tryckt vdi Kiøbenhaffn paa ny igien/ | oc met skøne Figurer beprydet. | Cum Gratia &amp; Privilegio. | 1581</hi>
 . Denne Udgave er trykt hos Andreas Gutteruitz i København. To Exemplarer, hvoraf det ene stærkt beskaaret, findes paa d. kgl. Bibliotek. Desuden Exemplarer i Univ. Bibl. og i Karen Brahes Bogsamling.</p>
               <p xml:id="idm140034110268000">4.
-                        <hi rend="italics" xml:id="idm140034110267696"><!--<emph>-->Udgave 1603<!--</emph--></hi>
+                        <hi rend="italics" xml:id="idm140034110267696">Udgave 1603</hi>
 . Indhold, Titelblad og Format som de foregaaende Udgaver. Paa Foden af Titelbladet:
                         <hi rend="italics" xml:id="idm140034110266528">Prentet i Kiøbenhaffn | hos Henrick Valdkirch</hi>
 . Paa sidste Blad: Anno.
                         <hi rend="italics" xml:id="idm140034110265728">M. DC. III</hi>
 . Exemplar paa d. kgl. Bibl.</p>
               <p xml:id="idm140034110264864">5.
-                        <hi rend="italics" xml:id="idm140034110264560"><!--<emph>-->Udgave 1628<!--</emph--></hi>
+                        <hi rend="italics" xml:id="idm140034110264560">Udgave 1628</hi>
 . Indhold, Titel og Format som foregaaende. Paa Foden af Titelbladet:
                         <hi rend="italics" xml:id="idm140034110263408">Prentet i Kiøbenhaffn/ hos</hi>
 |
@@ -3368,23 +3397,23 @@ I Kat. over Sjællands Stiftsbibliotek opgives det, at Bibl. har et Exemplar af 
 Dette Exemplar er indbundet sammen med det som Tillæg til Udgaven 1644 forfattede Skrift af Jesp. Brochmand.</note>
               <pb n="137" facs="adl/palladius/palladius04/palladius04137" xml:id="idm140034110259760"/>
               <p xml:id="idm140034110258992">6.
-                        <hi rend="italics" xml:id="idm140034110258688"><!--<emph>-->Udgave 1644<!--</emph--></hi>
+                        <hi rend="italics" xml:id="idm140034110258688">Udgave 1644</hi>
 . Indholdet af denne Udgave er det samme som i de foregaaende: Palladius' Oversættelse af Bugenhagens Evangelieharmoni og Tidemands Fordanskning af Jerusalems Forstyrrelse; men herefter er føjet et Skrift af Jesp. Brochmand:
                         <hi rend="italics" xml:id="idm140034110257120">Gudelig Vndervjssning Om vor Herris oc Frelseris JESV CHristil Pjne oc Død</hi>
 . Bogen er
                         <hi rend="italics" xml:id="idm140034110256288">Prentet i Kiøbenhaffn/ Aff Peter Haake, Aar M. DC.XLIV</hi>
 . Titelblad og Format som omstaaende facsimilerede Gengivelse. Exemplar paa d. kgl. Bibliotek.</p>
               <p xml:id="idm140034110255264">7.
-                        <hi rend="italics" xml:id="idm140034110254960"><!--<emph>-->Udgave 1644<!--</emph--></hi>
+                        <hi rend="italics" xml:id="idm140034110254960">Udgave 1644</hi>
 . Format og Indhold som foregaaende Udgave; men paa Foden af Titelbladet staar, at Bogen er prentet paa
                         <hi rend="italics" xml:id="idm140034110253776">Jochim Moltkens</hi>
 Bekostning. Trykkeriets Navn er ikke angivet. Exemplar paa Universitets Biblioteket.</p>
               <p xml:id="idm140034110252896">8.
-                        <hi rend="italics" xml:id="idm140034110252592"><!--<emph>-->Udgave uden Aarstal<!--</emph--></hi>
+                        <hi rend="italics" xml:id="idm140034110252592">Udgave uden Aarstal</hi>
 . Denne Udgave er trykt hos Henrich Waldkirch. Indhold og Udstyr svarer i alle Enkeltheder til Udgaven 1603. Blot er der intet Aarstal angivet paa sidste Blad. Smukt bevaret Exemplar paa d. kgl. Bibliotek.</p>
               <p xml:id="idm140034110251200">9-10. Mens de ovf. beskrevne Udgaver er fuldstændige Optryk af den ældste kendte Udgave, findes der et Par Fragmenter af nogle smaa Udgaver, der ligesom de ovenfor nævnte Salmebøger har benyttet Palladius' Text til Passionshistorien, men udelader de øvrige bibelske Stykker og Palladius' og Bugenhagens Fortaler og heller ikke paa Titelbladet nævner disses Navne.</p>
               <p xml:id="idm140034110250112">Der er bevaret to saadanne Fragmenter, begge findes paa det kgl. Bibliotek:</p>
-              <p xml:id="idm140034110249632"><hi rend="italics" xml:id="idm140034110249504"><!--<emph>-->Fragment 1601<!--</emph--></hi>
+              <p xml:id="idm140034110249632"><hi rend="italics" xml:id="idm140034110249504">Fragment 1601</hi>
 . Titelblad og Format som omstaaende facsimilerede Gengivelse. Bevaret er Bl. A, Aij, Aiij, Aiiij samt fire usignerede Blade. Paa Bagsiden af Titelbladet findes et Skriftsted, derefter begynder øverst paa A 2
                         <hi rend="sup" xml:id="idm140034110248016">r</hi>
 Passionshistorien med Ordene:
@@ -3403,13 +3432,13 @@ S. 177 L. 7
                            </figDesc>
                 </figure>
               </p>
-              <p xml:id="idm140034110240880"><hi rend="italics" xml:id="idm140034110240752"><!--<emph>-->Fragment u. A<!--</emph--></hi>
+              <p xml:id="idm140034110240880"><hi rend="italics" xml:id="idm140034110240752">Fragment u. A</hi>
 . Dette Fragment mangler Titelblad, og den øverste Del af Bladene er skaaret af. Der er bevaret sex Blade af Arkene A, B, C og sex Blade af Tidemands Jerusalems Forstyrrelse. Format og Type er
                         <pb n="140" facs="adl/palladius/palladius04/palladius04140" xml:id="idm140034110239264"/>
 omtrent som paa det første Fragment. Udgaven er forsynet med smaa Træsnit.
                         <hi rend="sup" xml:id="idm140034110238304">1</hi></p>
               <p xml:id="idm140034110237680">11. Foruden disse Fragmenter findes et fuldstændigt Exemplar af en
-                        <hi rend="italics" xml:id="idm140034110237216"><!--<emph>-->Udgave fra 1741<!--</emph--></hi>
+                        <hi rend="italics" xml:id="idm140034110237216">Udgave fra 1741</hi>
 af Passionshistorien svarende til Texten nedenfor S. 169 L. 2-S. 184 L. 2. Titlen er:
                         <hi rend="italics" xml:id="idm140034110236048">Passio. | Vor HERRES | JEsu Christi | Pines og Døds Historie, | Efter de fire Evangelisters Beskrivelse. | Matth</hi>
 . 26.
@@ -4219,12 +4248,12 @@ Fremgangsmaaden bliver klar. Texterne svarer til hinanden som følger:</p>
               <head xml:id="idm140034109694576">II.</head>
               <p xml:id="idm140034109694192">Af Bogen om Drukkenskab kendes flg. Udgaver:</p>
               <p xml:id="idm140034109693744">1.
-                        <hi rend="italics" xml:id="idm140034109693440"><!--<emph>-->Udgaven 1556<!--</emph--></hi>
+                        <hi rend="italics" xml:id="idm140034109693440">Udgaven 1556</hi>
 . Titelblad og Format som den ndf. facsimilerede Gengivelse. Bogen bestaar af 20 Blade, signeret A-C. Bogtrykkerens Navn er ikke angivet, men
                         <pb n="205" facs="adl/palladius/palladius04/palladius04205" xml:id="idm140034109692224"/>
 det typografiske Udstyr viser, at Bogen er trykt hos Hans Vingaard. Det eneste bevarede Exemplar findes paa det kgl. Bibliothek.</p>
               <p xml:id="idm140034109691168">2.
-                        <hi rend="italics" xml:id="idm140034109690864"><!--<emph>-->Udgave 1559<!--</emph--></hi>
+                        <hi rend="italics" xml:id="idm140034109690864">Udgave 1559</hi>
 . Titlen er:
                         <hi rend="italics" xml:id="idm140034109689776">Aarsage/ | huor faare en Chri</hi>
 |
@@ -4236,7 +4265,7 @@ det typografiske Udstyr viser, at Bogen er trykt hos Hans Vingaard. Det eneste b
                         <hi rend="sup" xml:id="idm140034109686224">2</hi>
                      </p>
               <p xml:id="idm140034109685472">3.
-                        <hi rend="italics" xml:id="idm140034109685168"><!--<emph>-->Udgave 1610<!--</emph--></hi>
+                        <hi rend="italics" xml:id="idm140034109685168">Udgave 1610</hi>
 . Titlen er:
                         <hi rend="italics" xml:id="idm140034109684080">Druckenskabs | Affljusning/ | eller | Aarsage/ | Huorfaare en Christen | aldelis bør at sky oc fly den | formaledidede Dru- | ckenskab.| Nicol. Pallad. |</hi>
 (En flakt Ørn).
@@ -4249,9 +4278,9 @@ og er underskrevet
                         <hi rend="italics" xml:id="idm140034109680112">Nok en anden Sang/ igennem seet paa Ny</hi>
 og er underskrevet
                         <hi rend="italics" xml:id="idm140034109679344">R. H. R</hi>
-. (<!--*dolgoeO*-->dvs. Rasmus Hansen Reravius). Af Udgaven er ét Exemplar bevaret, det findes i Hjelmstjernes Samling paa d. kgl. Bibliothek.</p>
+. (dvs. Rasmus Hansen Reravius). Af Udgaven er ét Exemplar bevaret, det findes i Hjelmstjernes Samling paa d. kgl. Bibliothek.</p>
               <p xml:id="idm140034109677904">4.
-                        <hi rend="italics" xml:id="idm140034109677600"><!--<emph>-->Udgave 1626<!--</emph--></hi>
+                        <hi rend="italics" xml:id="idm140034109677600">Udgave 1626</hi>
 . Titlen er:
                         <hi rend="italics" xml:id="idm140034109676544">Druckenskabs | Affliußning/</hi>
 |
@@ -4535,35 +4564,35 @@ Se det foran S. 15 anførte Skrift af Max Osborn om Djævlelitteraturen. Heri fi
                                  <hi rend="sup" xml:id="idm140034109518256">v</hi>
                               </hi>
 .</bibl><q xml:id="idm140034109517504">Das aber nun eben diese zeit vorhanden/ vnd wir jetzunder in der selbigen sein/ vnd leben/ inn welcher das bild nicht allein auff thönern/ sonder gar auff kotichen füssen stehe/ aber nit inn die
-                              <hi rend="italics" xml:id="idm140034109516784"><!--<emph>-->leng vnd ferne<!--</emph--></hi>
+                              <hi rend="italics" xml:id="idm140034109516784">leng vnd ferne</hi>
 bestehen kan/ vnd ferner nichts zugewarten/ dann daß alles durch einander gehe/ sein wir inn dem/ alle semptlich vnd ein stimmig/ vnser eigen Propheten/ vnd vnsers eigen vnglücks
-                              <hi rend="italics" xml:id="idm140034109515296"><!--<emph>-->verkündiger vnd weissager/ schreien, klagen vnd sagen<!--</emph--></hi>
+                              <hi rend="italics" xml:id="idm140034109515296">verkündiger vnd weissager/ schreien, klagen vnd sagen</hi>
 zu gleich/ die boßheit sey auffs höchste gestiegen/ alle vntugendt habe den höchsten grad erlanget/ Die Welt
-                              <hi rend="italics" xml:id="idm140034109513888"><!--<emph>-->vormag noch kan nicht<!--</emph--></hi>
+                              <hi rend="italics" xml:id="idm140034109513888">vormag noch kan nicht</hi>
 erger werden/</q></cit>
                         <cit xml:id="idm140034109512752"><bibl xml:id="idm140034109512624"><hi rend="italics" xml:id="idm140034109512496">Oversættelsen (ndf. S. 234</hi>
 ).</bibl><q xml:id="idm140034109511776">Men at lige den samme tid er nu faar haande/ och at wi
-                              <hi rend="italics" xml:id="idm140034109511424"><!--<emph>-->ere oc leffue<!--</emph--></hi>
+                              <hi rend="italics" xml:id="idm140034109511424">ere oc leffue</hi>
 nu i den samme/ huor vdi det Billede
                               <hi rend="sup" xml:id="idm140034109510304">3</hi>
 staar icke alleniste paa Lierføder/ men aldelis paa idel
-                              <hi rend="italics" xml:id="idm140034109509488"><!--<emph>-->dreck oc skarn<!--</emph--></hi>
+                              <hi rend="italics" xml:id="idm140034109509488">dreck oc skarn</hi>
 / som kand icke bliffue fremdelis lenger bestaaende/ oc mand haffuer inted lenger ath
-                              <hi rend="italics" xml:id="idm140034109508352"><!--<emph>-->tøffue eller forbide<!--</emph--></hi>
+                              <hi rend="italics" xml:id="idm140034109508352">tøffue eller forbide</hi>
 efter/ end ath alle ting skulle gaa
-                              <hi rend="italics" xml:id="idm140034109507232"><!--<emph>-->til grunde<!--</emph--></hi>
+                              <hi rend="italics" xml:id="idm140034109507232">til grunde</hi>
 /
-                              <hi rend="italics" xml:id="idm140034109506176"><!--<emph>-->oc falde i hul<!--</emph--></hi>
+                              <hi rend="italics" xml:id="idm140034109506176">oc falde i hul</hi>
 / met huer andre/ Der vdi ere wi alle sammen/ met en røst til hobe vor egne Propheter/ som
-                              <hi rend="italics" xml:id="idm140034109504912"><!--<emph>-->forkynde och Prophetere<!--</emph--></hi>
+                              <hi rend="italics" xml:id="idm140034109504912">forkynde och Prophetere</hi>
 om vor egen wlycke/
-                              <hi rend="italics" xml:id="idm140034109503840"><!--<emph>-->robe oc skrige/ klage oc sige<!--</emph--></hi>
+                              <hi rend="italics" xml:id="idm140034109503840">robe oc skrige/ klage oc sige</hi>
 til lige/ at ondskab er opstigit paa det alder høyeste/ alle wdygder haffue faat den høyeste
-                              <hi rend="italics" xml:id="idm140034109502544"><!--<emph>-->grade oc sæde<!--</emph--></hi>
+                              <hi rend="italics" xml:id="idm140034109502544">grade oc sæde</hi>
 / Verden
-                              <hi rend="italics" xml:id="idm140034109501456"><!--<emph>-->formaa icke/ oc ey helder kand<!--</emph--></hi>
+                              <hi rend="italics" xml:id="idm140034109501456">formaa icke/ oc ey helder kand</hi>
 bliffue
-                              <hi rend="italics" xml:id="idm140034109500384"><!--<emph>-->argere oc verre<!--</emph--></hi>
+                              <hi rend="italics" xml:id="idm140034109500384">argere oc verre</hi>
 /</q></cit>
                      </p>
               <note anchored="true" xml:id="idm140034109499072"><hi rend="sup" xml:id="idm140034109498704">1</hi>
@@ -4577,16 +4606,16 @@ Talen er om Billedet i Nebukadnezars Drøm, Dan. 2. si ff.</note>
                         <hi rend="italics" xml:id="idm140034109493520">"dass nicht müglich ist/ das Gott wird lenger können zusehen/ er wird. . mit feusten müssen drein schlagen"</hi>
 ; dette oversætter Palladius: Synden er steget "saa
                         <hi rend="italics" xml:id="idm140034109492448">høyt oc saa gruselige/ at det er icke mueligt/ at Gud kand saa lenger
-                           <hi rend="italics" xml:id="idm140034109491712"><!--<emph>-->see igennem fingre<!--</emph--></hi>
+                           <hi rend="italics" xml:id="idm140034109491712">see igennem fingre</hi>
 / met mindre end
-                           <hi rend="italics" xml:id="idm140034109490608"><!--<emph>-->hand slar der i met Neffuen<!--</emph--></hi>
+                           <hi rend="italics" xml:id="idm140034109490608">hand slar der i met Neffuen</hi>
 "</hi>
 (ndf. S. 261 L. 5 fl.).</p>
             </div>
             <div xml:id="idm140034109489104">
               <head xml:id="idm140034109488848">II.</head>
               <p xml:id="idm140034109488464">Palladius indleder sin Oversættelse med et Forord, i hvilket han siger, at han har udgivet tre smaa Bøger mod Sværgen og Banden, paa det, "at naar Rebet er tresnoet, da holder det snareste". Disse tre Bøger er:</p>
-              <p xml:id="idm140034109487632">1) et Kvatern (<!--*dolgoeO*-->dvs. en lille Bog paa fire Dobbeltblade) paa Latin, uddraget af Musculus' Skrift, og tilskrevet den danske Præstestand paa Øvrighedens Befaling. Der kan ikke være Tvivl om, at dette Skrift er identisk med en lille Bog paa 8 Blade, der findes paa det kgl. Bibliothek, med Titlen:
+              <p xml:id="idm140034109487632">1) et Kvatern (dvs. en lille Bog paa fire Dobbeltblade) paa Latin, uddraget af Musculus' Skrift, og tilskrevet den danske Præstestand paa Øvrighedens Befaling. Der kan ikke være Tvivl om, at dette Skrift er identisk med en lille Bog paa 8 Blade, der findes paa det kgl. Bibliothek, med Titlen:
                         <hi rend="italics" xml:id="idm140034109486432">Compendiolvm, in qvo pessima &amp; horrendissima jurandi &amp; maledicendi consuetudo vtcunque deprædicari possit</hi>
 .</p>
               <p xml:id="idm140034109485472">Forordet lyder:
@@ -4608,10 +4637,10 @@ Cvpit Magistratus noster hoc Compendiolum/ per vos in primis vestro Populo vestr
                         <pb n="223" facs="adl/palladius/palladius04/palladius04223" xml:id="idm140034109476832"/>
 hvilket Palladius med en let Omredigering af Visitatsbogens Text (se Kommentaren til S. 232 L. l ff.) fremhæver, at det ikke blot er Manddrabere, Horfolk, Skørlevneds Folk, Bolere, Slemmere og Demmere og aabenbare Løgnere, men ogsaa Bandere og Sværgere, som lyses i Kirkens Band.</p>
               <p xml:id="idm140034109475344">Af sproglig Interesse er Fremstillingen af,
-                        <hi rend="italics" xml:id="idm140034109475008"><!--<emph>-->hvorledes<!--</emph--></hi>
+                        <hi rend="italics" xml:id="idm140034109475008">hvorledes</hi>
 man bander. Man siger ikke som forhen Ederne "bart her vd", men sammentrækker dem til et Ord som
                         <hi rend="italics" xml:id="idm140034109473712">St</hi>
-ø for "Guds Død" i Eder som: "Stø, gack tremmen i vaald", "Stø, du skalt faa tusinde" olgn., eller man forfejrer (<!--*dolgoeO*-->dvs. besmykker) sin Banden ved Skæmte-Eder som
+ø for "Guds Død" i Eder som: "Stø, gack tremmen i vaald", "Stø, du skalt faa tusinde" olgn., eller man forfejrer (dvs. besmykker) sin Banden ved Skæmte-Eder som
                         <hi rend="italics" xml:id="idm140034109472304">Guds klunden</hi>
 (for: hellige vunden),
                         <hi rend="italics" xml:id="idm140034109471584">Guds sacralent</hi>
@@ -4622,14 +4651,14 @@ man bander. Man siger ikke som forhen Ederne "bart her vd", men sammentrækker d
               <head xml:id="idm140034109469216">III.</head>
               <p xml:id="idm140034109468800">Af Skriftet om Sværgen og Banden kendes to Udgaver.</p>
               <p xml:id="idm140034109468288">l.
-                        <hi rend="italics" xml:id="idm140034109467984"><!--<emph>-->Originaludgaven 1557<!--</emph--></hi>
+                        <hi rend="italics" xml:id="idm140034109467984">Originaludgaven 1557</hi>
 . Denne er i Kvart-Format; de bevarede (noget beskaarne) Exemplarer er 19 1/2 x 13 1/2 cm. Udgaven bestaar af 7 Læg, signeret A-G, med 4 Blade i hvert. Der er 30 Linjer paa Siden. Træsnittet paa Titelbladet (se ndf. S. 227), der som ovf. nævnt - bortset fra Aarstallet - nøje stemmer med Træsnittet hos Musculus, viser, hvorledes Menneskenes Eder gennemstinger Kristi ganske Legeme (jfr. Texten ndf. S. 237-38), Omkring Korset staar bandende Mænd af alle Samfundsklasser: Vexellereren med sin Pung, Adelsmanden med sin Fjerbaret, Munken med sin Kutte osv. og bag dem
                         <pb n="224" facs="adl/palladius/palladius04/palladius04224" xml:id="idm140034109466096"/>
 en vældig Djævel med Dyrefjæs, raslende med Lænkerne, der skal fængsle Banderne. I Baggrunden ses til venstre en rasende Kusk, der hæver Pisken for at slaa løs paa sine Øg, tilhøjre to Mænd med Pludderhoser, der skældende drager Sværdet mod hinanden. I Forgrunden til højre spiller to Børn Tærning ell. lign. De er blevet uenig om Spillet og den ene bander den anden. Til venstre ses to Djævle siddende paa Hug, den bageste hvisker Menneskenes Synder til den forreste, der registrerer dem paa en lang Pergamentrulle - øverst paa hvilken Aarstallet
                         <hi rend="italics" xml:id="idm140034109464688">1557</hi>
 læses. - Bagsiden af Titelbladet er blank. Bogen er trykt i København. Trykkeren er ikke navngivet, men det typografiske Udstyr viser, at Skriftet ligesom Palladius' samtidige Skrifter er udgaaet fra Hans Vingaards Presse (se Lauritz Nielsens anf. Afh. S. 103). Paa det kgl. Bibl. findes to Exemplarer af denne Udgave.</p>
               <p xml:id="idm140034109463248">2.
-                        <hi rend="italics" xml:id="idm140034109462944"><!--<emph>-->Udgave 1624<!--</emph--></hi>
+                        <hi rend="italics" xml:id="idm140034109462944">Udgave 1624</hi>
 . I denne Udgave, der er i Duodez, sign. A-L, findes tre Skrifter: 1. et anonymt Skrift "Om Guds hellige Navns Vanbrug", Bl. A 2
                         <hi rend="sup" xml:id="idm140034109461728">r</hi>
 -B 8
@@ -4705,7 +4734,7 @@ end nu vilde opholde verden en tid lang och lade det Billede (som er ellers icke
                      <pb n="236" facs="adl/palladius/palladius04/palladius04236" xml:id="idm140034109411552"/>
 som kand icke nu/ mere bliffue argere eller verre. Oc at ieg effter den hellige pauli tilladelsse/ ocsaa lader mig it lidet bruge/ effter mit sind oc gode tycke/ och er dette at Sathan skal faar Domme dag her vdøse al sin ondskab oc forgifftighed tilforn/ oc inted heholde tilbage/ holder ieg oc acter det || aldelis derfaare (ieg vil lade en anden tencke huad hannem gaat tycker) at den alder groffueste oc siste ondskab/ som Dieffuelen haffuer spart til it Stick/ mod det hellige Euangelium/ oc mod vor herris Christi Rige/ er alle rede framkommen/ til Valete/ at giøre skade oc forsøge sig der paa i det siste/ at gøre it anlaab/ met sin Storm/ til vor Herre Jesum Christum oc hans kircke.</p>
             <p xml:id="idm140034109409616">Huilcken siste oc alder verste syud/ som er Gud paa det høyeste til mode/ er vden al tuil den forskreckelig oc gruselig Guds bespaattelse/ som er at suære oc bande/ huilcken synd haffuer aldrig værit vdi Verden/ ey helder nogen tid hørt saa som mand maa nu høre. Hedninger haffde vel oc deris suæren oc banden/ Disligiste vore Faareldre/ Men saadan en gruselig bespaattelse/ som nu er i alle Stater/ oc brugelig/ baade hoss de Gamle oc hoss de Vnge/ haffuer Gud icke vild oplade Døren eller obenbarit ind til denne tid/ men haffuer holdit den tillest i Helffuede vnder stercke laass/ huilcken der haffuer nu brøt sig vd/ som den der lenge haffuer værit indeluct/ och er vdfalden met stor vold och mact vdi hobe tal/ at hun haffuer saa hastelige indtagit oc opfylt gandske Danmarck och besynderlige de Steder som det hellige Euangelium predickis vdi/ at det er nu kommit saa ner/ at nogit ner det tredie eller fierde ord hoss huert Menniske/ liden eller Stor/ er en gruselig Guds bespaattelse/ met Suæren och Banden/ och vort Danske sprog/ vil icke lade sig lenger tale/ icke helder vel lyde oc klinge i øren/ vden hun bliffuer tyck oc fast spæckit/ met Suæren oc Banden/ huilcken skendige last mand acter icke nu at være Synd/ men til at pryde oc Smycke sin tale met/ at ocsaa de vnge Børn/ som komme fra Vogen || oc til deris
-                     <hi rend="italics" xml:id="idm140034109407312"><!--<emph>-->Abc<!--</emph--></hi>
+                     <hi rend="italics" xml:id="idm140034109407312">Abc</hi>
 / opuoxe der met oc ere langt bedre ferdige oc nemme til at bande met adskillige slags bander/ end de ere vdi Troens artickle oc vdi Bønen/
                      <pb n="237" facs="adl/palladius/palladius04/palladius04237" xml:id="idm140034109405936"/>
 Fader vor/ Thi Suæren oc Banden er nu kommen oc indryct i deris sted. Thi Fader oc Moder/ Hosbonde oc hustru kunde vel lade øret til inde i deris huss/ och høre saadanne skendige laster/ aff deris Tiunde oc Børn/ ia vel hoss bordit/ vden al fortrydelse eller straff/ icke anderlunde end at Bande heder at Bede. Øffrigheden haffuer tilstopit øren ocsaa emod saadan Banden/ lige som Ormen gør/ oc vil icke høre/ oc der som de end høre det/ da holde de oc regne det for ingen Synd.</p>
@@ -4940,15 +4969,15 @@ Anno 1557.</trailer>
           <div xml:id="idm140034109212096">
             <head xml:id="idm140034109211840">NOTER.</head>
             <p xml:id="idm140034109211424">S. 229 L. 10. Af de danske Smaabøger med Bibeltexter, som Palladius hentyder til, kendes nu af
-                     <hi rend="italics" xml:id="idm140034109210912"><!--<emph>-->Davids Salmer<!--</emph--></hi>
+                     <hi rend="italics" xml:id="idm140034109210912">Davids Salmer</hi>
 : Udgaver fra 1528, 1531, 1533 og 1557 (Bibl. Danica I. 27), af
-                     <hi rend="italics" xml:id="idm140034109209776"><!--<emph>-->Salomons Ordsprog<!--</emph--></hi>
+                     <hi rend="italics" xml:id="idm140034109209776">Salomons Ordsprog</hi>
 : en Udgave fra 1552 (sst. 33), af
-                     <hi rend="italics" xml:id="idm140034109208688"><!--<emph>-->Jesu Sirach<!--</emph--></hi>
+                     <hi rend="italics" xml:id="idm140034109208688">Jesu Sirach</hi>
 : en Udgave fra 1541 (sst. 44).</p>
             <p xml:id="idm140034109207504">S. 229 L. 16 f. Hermed sigter Palladius vel især til sit eget Skrift om Aager, udgivet foran, Bind II 389, og til Niels Palladius' Skrift om Drukkenskab: se foran S. 201 ff.</p>
             <p xml:id="idm140034109206752">S. 229 L. 30.
-                     <hi rend="italics" xml:id="idm140034109206448">i trende maade</hi> <!--*dolgoeO*-->
+                     <hi rend="italics" xml:id="idm140034109206448">i trende maade</hi> 
 dvs. paa tre forskellige Maader, nemlig i de tre Bøger om Sværgen og Banden, Palladius omtrent samtidig udgav, og som han omtaler nærmere S. 230, jfr. Indledn. foran S. 221f. - Ordsproget om det tresnoede Reb findes som Nr. 890 hos Peder Laale, jf. Præd. 4.12.</p>
             <p xml:id="idm140034109204768">S. 230 L. 2 f. Jac.3.5.</p>
             <p xml:id="idm140034109204384">S. 230 L. 20.
@@ -4967,20 +4996,20 @@ osv.</p>
 og
                      <hi rend="italics" xml:id="idm140034109198016">Eunuchus</hi>
 er taget fra Vulgata.
-                     <hi rend="italics" xml:id="idm140034109197264"><!--<emph>-->Den første Centurio<!--</emph--></hi>
+                     <hi rend="italics" xml:id="idm140034109197264">Den første Centurio</hi>
 er Høvedsmanden Matth. 8.5 ff.,
-                     <hi rend="italics" xml:id="idm140034109196064"><!--<emph>-->den anden Centurio<!--</emph--></hi>
+                     <hi rend="italics" xml:id="idm140034109196064">den anden Centurio</hi>
 er Høvedsmanden ved Kristi Kors, Matth. 27.54,
-                     <hi rend="italics" xml:id="idm140034109194896"><!--<emph>-->Regulus<!--</emph--></hi>
+                     <hi rend="italics" xml:id="idm140034109194896">Regulus</hi>
 er Vulgatas Udtryk for den kongelige Embedsmand Johs. 4.46,
-                     <hi rend="italics" xml:id="idm140034109193792"><!--<emph>-->Eunuchus<!--</emph--></hi>
+                     <hi rend="italics" xml:id="idm140034109193792">Eunuchus</hi>
 for Hofmanden Ap. G. 8.27,
-                     <hi rend="italics" xml:id="idm140034109192720"><!--<emph>-->Jairus<!--</emph--></hi>
+                     <hi rend="italics" xml:id="idm140034109192720">Jairus</hi>
 er Synagogeforstanderen i Capernaum (Marc. 5.22). - De to Centurioner, Regulus og Jairus nævnes paa samme Maade i Visitatsbogen (Grundtvigs Udg. S. 32, jfr. Kommentaren
                      <pb n="272" facs="adl/palladius/palladius04/palladius04272" xml:id="idm140034109191312"/>
 sst. S. 145) og i det tilsvarende Stykke i Fortalen til "Sjælens Lægedom", se nærv. Udg. I 327.</p>
             <p xml:id="idm140034109190192">S. 231 L. 17. (dem) som
-                     <hi rend="italics" xml:id="idm140034109189872">skal det bære faar, <!--*dolgoeO*-->dvs.</hi>
+                     <hi rend="italics" xml:id="idm140034109189872">skal det bære faar, dvs.</hi>
 (dem) som skal foreholde (Menigheden) det, d. e. Præsterne, jf. proponere foran S. 221 f.</p>
             <p xml:id="idm140034109188512">S. 231 L. 19f. Jfr. Matth. 11.17.</p>
             <p xml:id="idm140034109188080">S. 231 L. 21.
@@ -4992,11 +5021,11 @@ sonderlich
                      <hi rend="italics" xml:id="idm140034109185088">Jar werden wolle .. Das aber nach solchem erschrecklichen vngewitter vnd wunderzeichen/ auch zum vberfluß/ ein Comet am Himel.. sich hat sehen lossen/ sich mit dem schwantz oder straal inn alle winckel vnd ecken gewendet/</hi>
 ..
                      <hi rend="italics" xml:id="idm140034109183920">Ob es aber etwas anders oder geringers bedeute/ dann eben das/ das Gott gleich/ in diesem Cometen/ seine eigene hand aus dem Himel raus recke/ vnd die ruthen darein gefasset habe/ mit ausgestrecktem arm die ruthe weise vnd anzeige/ wie er mit feusten drein schlahen will/ vnnd den lang gedroeten zorn ins werck bringen/ dass will ich die Astrologos lossen streitten vnd fechten."</hi>
-                     <hi rend="italics" xml:id="idm140034109182864"><!--<emph>-->Kometen<!--</emph--></hi>
+                     <hi rend="italics" xml:id="idm140034109182864">Kometen</hi>
 omtales udførligt i Helvaderus' Silva Chronologica circuli Baltici. 1624. II S. 157, hvor ogsaa
-                     <hi rend="italics" xml:id="idm140034109181568"><!--<emph>-->Solformørkelsen<!--</emph--></hi>
+                     <hi rend="italics" xml:id="idm140034109181568">Solformørkelsen</hi>
 beskrives;
-                     <hi rend="italics" xml:id="idm140034109180496"><!--<emph>-->Dyrtiden<!--</emph--></hi>
+                     <hi rend="italics" xml:id="idm140034109180496">Dyrtiden</hi>
 omtales sst. S. 158.</p>
             <p xml:id="idm140034109179360">S. 231 L. 31. Denne Spaadom har jeg ikke kunnet finde Hjemmel for hverken i de gamle Spaadomsbøger eller hos Johs. Hilten, som ellers er Palladius' Hovedkilde for Forudsigelser.</p>
             <p xml:id="idm140034109178608">S. 232 L. l-S. 233 L. 4 svarer til Visitatsbogen, Grundtvigs Udg. S. 122 L. 23-S. 123 L. 32, en Jævnstilling af de to Texter findes i Kommentaren hos Grundtvig S. 16.-Exempelvis kan anføres Texten i Haandskriftet af Visitatsbogen svarende til Texten foran S. 232 L. l-9:
@@ -5026,7 +5055,7 @@ Draaber.</p>
                      <hi rend="italics" xml:id="idm140034109167184">en beset in Euangelio</hi>
 , jfr. Marc. 5.9 Bibl.. 1550. Oc
                      <hi rend="italics" xml:id="idm140034109166432">hand</hi>
-(<!--*dolgoeO*-->dvs. den besatte)
+(dvs. den besatte)
                      <hi rend="italics" xml:id="idm140034109165344">suarede/ oc sagde/ Skock heder ieg</hi>
 .</p>
             <p xml:id="idm140034109164544">S. 232 L. 34.
@@ -5048,7 +5077,7 @@ bruges endnu dialektisk.
                      <hi rend="italics" xml:id="idm140034109158368">tramr</hi>
 ) = den onde, se Grundtvig i Visitatsbogen S. 222 og Kalkar IV, 440; Udgaven 1624 tilføjer:
                      <hi rend="italics" xml:id="idm140034109157440">den Reemand</hi>
-[<!--*dolgoeO*-->dvs.
+[dvs.
                      <hi rend="italics" xml:id="idm140034109156352">Rædemand</hi>
 , Fugleskræmsel, jf. Feilbergs Ordb. III, 110]/
                      <hi rend="italics" xml:id="idm140034109155536">el Busemand/ i</hi>
@@ -5132,13 +5161,13 @@ osv., Orig.:
             <p xml:id="idm140034109122560">S. 237 L. 7. Om Hugormen, der tilstopper sine Øren, jfr. Ps. 58.5.</p>
             <p xml:id="idm140034109122032">S. 237 L. 11 f.
                      <hi rend="italics" xml:id="idm140034109121728">ellers icke saa hoss andet
-                        <hi rend="italics" xml:id="idm140034109121136"><!--<emph>-->Faalck<!--</emph--></hi>
+                        <hi rend="italics" xml:id="idm140034109121136">Faalck</hi>
                      </hi>
 osv, = Orig.
                      <hi rend="italics" xml:id="idm140034109119920">sonst bey keinem
-                        <hi rend="italics" xml:id="idm140034109119360"><!--<emph>-->Volck<!--</emph--></hi>
+                        <hi rend="italics" xml:id="idm140034109119360">Volck</hi>
 / noch bis auff diese stund/ auch in keiner andern
-                        <hi rend="italics" xml:id="idm140034109118224"><!--<emph>-->Nation<!--</emph--></hi>
+                        <hi rend="italics" xml:id="idm140034109118224">Nation</hi>
 oder sprach</hi>
 .</p>
             <p xml:id="idm140034109116960"><hi rend="italics" xml:id="idm140034109116832">S</hi>
@@ -5150,7 +5179,7 @@ oder sprach</hi>
                      <hi rend="italics" xml:id="idm140034109114384">Skendespes</hi>
 d. e. Skændespyd, skændigt Spyd,
                      <pb n="275" facs="adl/palladius/palladius04/palladius04275" xml:id="idm140034109113568"/>
-                     <!--*dolgoeO*-->dvs. gudsbespottende Ed; jfr. Fremstillingen paa Titelbladet af " Skændespydene".</p>
+                     dvs. gudsbespottende Ed; jfr. Fremstillingen paa Titelbladet af " Skændespydene".</p>
             <p xml:id="idm140034109112096">S. 238 L. 29.
                      <hi rend="italics" xml:id="idm140034109111792">disse Land</hi>
 , Orig.
@@ -5170,7 +5199,7 @@ etc. Orig.
                      <hi rend="italics" xml:id="idm140034109106144">ligge paa oss.. oc hvile sig</hi>
 , d. v. s. ligge og tynge paa os.</p>
             <p xml:id="idm140034109105264">S. 239 L. 32.
-                     <hi rend="italics" xml:id="idm140034109104960">den høye Maiestat</hi> <!--*dolgoeO*-->
+                     <hi rend="italics" xml:id="idm140034109104960">den høye Maiestat</hi> 
 dvs. Gud.</p>
             <p xml:id="idm140034109103776">S. 239 L. 36 ff. Ez. 3.17-19, Oversættelsen = Biblen 1550.</p>
             <p xml:id="idm140034109103264">S. 241 L. 23 ff. Jfr. Orig.: (Vi vil vise, at Sværgen og Banden)
@@ -5182,7 +5211,7 @@ etc.</p>
             <p xml:id="idm140034109100272">S. 242 L. 6. Johs. 3.16. Ordlyden noget afvigende fra Biblen 1550.</p>
             <p xml:id="idm140034109099808">S. 243 L. 12 f.
                      <hi rend="italics" xml:id="idm140034109099504">met mange vnderlige oc fiserlige</hi>
-[<!--*dolgoeO*-->dvs. opfindsomme]
+[dvs. opfindsomme]
                      <hi rend="italics" xml:id="idm140034109098400">hoffueder</hi>
 , Orig.
                      <hi rend="italics" xml:id="idm140034109097696">mit vielen hohen vnnd geschwinden köpffen</hi>
@@ -5224,7 +5253,7 @@ Orig.
 .</p>
             <p xml:id="idm140034109082768">S.246 L.22.
                      <hi rend="italics" xml:id="idm140034109082464">denne fierde tilsted maade</hi>
-, <!--*dolgoeO*-->dvs."denne fjerde [af
+, dvs."denne fjerde [af
                      <pb n="276" facs="adl/palladius/palladius04/palladius04276" xml:id="idm140034109081344"/>
 Gud] tilstedte [tilladte, taalte] Maade". Jfr. S. 245 L. 16 f., L. 22 f. og S. 246 L. 19. Orig.
                      <hi rend="italics" xml:id="idm140034109080480">dieser vierten nachgelassen weis</hi>
@@ -5248,7 +5277,7 @@ osv. er ordret Oversættelse af Originalens Text.</p>
 uden som i lignende Tilfælde (se Noterne til S. 235 L. 17 og 24 og S. 249 L. 26) at tilføje Navnet, skyldes det sikkert, at han ikke har vidst, hvem Sentensen skyldtes. Det er desværre heller ikke lykkedes mig - trods udmærket sagkyndig Bistand - at stedfæste selve det anførte Citat; men af ganske lignende Art er følgende, som Augustin anfører (Adv. gen. IV):
                      <hi rend="italics" xml:id="idm140034109072400">Qui desinit obviare cum potest, consentit</hi>
 .</p>
-            <p xml:id="idm140034109071552">S. 249 L. 26 f. Stedet lyder hos Aristoteles (De Coelo 1.4): <!--&#8001;-->[x] <!--&#948;-->[x]<!--&#8050;-->[x] <!--&#977;-->[x]<!--&#949;-->[x]<!--&#8056;-->[x]<!--&#962;-->[x] <!--&#1008;-->[x]<!--&#945;-->[x]<!--&#8054;-->[x] <!--&#7969;-->[x] <!--&#981;-->[x]<!--&#8059;-->[x]<!--&#963;-->[x]<!--&#953;-->[x]<!--&#962;-->[x] <!--&#959;-->[x]<!--&#8016;-->[x]<!--&#948;-->[x]<!--&#8050;-->[x]<!--&#957;-->[x] <!--&#956;-->[x]<!--&#8049;-->[x]<!--&#964;-->[x]<!--&#951;-->[x]<!--&#957;-->[x] <!--&#960;-->[x]<!--&#959;-->[x]<!--&#953;-->[x]<!--&#959;-->[x]<!--&#8166;-->[x]<!--&#963;-->[x]<!--&#953;-->[x]<!--&#957;-->[x]. Den tyske Orig. har kun
+            <p xml:id="idm140034109071552">S. 249 L. 26 f. Stedet lyder hos Aristoteles (De Coelo 1.4): [x] [x][x] [x][x][x][x] [x][x][x] [x] [x][x][x][x][x] [x][x][x][x][x] [x][x][x][x][x] [x][x][x][x][x][x][x][x]. Den tyske Orig. har kun
                      <hi rend="italics" xml:id="idm140034109060272">die Heiden</hi>
 , ikke Aristoteles' Navn. Jfr. Noten til S. 248 L. 30.</p>
             <p xml:id="idm140034109059424">S. 249 L. 30.
@@ -5419,7 +5448,7 @@ Orig.
 Tilsyn.</p>
             <p xml:id="idm140034108991456">S. 267 L. 8.
                      <hi rend="italics" xml:id="idm140034108991152">da maa mand vel formaa sig</hi>
-[<!--*dolgoeO*-->dvs. formode]
+[dvs. formode]
                      <hi rend="italics" xml:id="idm140034108990048">til visse</hi>
 , Orig.
                      <hi rend="italics" xml:id="idm140034108989344">ist auch die vormutung gewiss</hi>
@@ -5447,7 +5476,7 @@ er muligvis Trykfejl for
                      <hi rend="italics" xml:id="idm140034108980464">Vlrich Schrötter]</hi>
 fra Willisau.</p>
             <p xml:id="idm140034108979600">S. 269 L. 22 f.
-                     <hi rend="italics" xml:id="idm140034108979296">at den ene maa nyde den anden at <!--*dolgoeO*-->dvs.</hi>
+                     <hi rend="italics" xml:id="idm140034108979296">at den ene maa nyde den anden at dvs.</hi>
 at den ene maa undgælde for den anden, Orig.
                      <hi rend="italics" xml:id="idm140034108978112">das einer des andern entgelten werde müssen</hi>
 .</p>
@@ -5455,7 +5484,7 @@ at den ene maa undgælde for den anden, Orig.
 . 269 L. 23. Her ender Musculus' Skrift.</p>
             <note anchored="true" xml:id="idm140034108976240"><hi rend="sup" xml:id="idm140034108975840">1</hi>
 Jeg skylder Professor
-                     <hi rend="italics" xml:id="idm140034108975152"><!--<emph>-->David Simonsen<!--</emph--></hi>
+                     <hi rend="italics" xml:id="idm140034108975152">David Simonsen</hi>
 Tak for de her givne Oplysninger.</note>
             <pb n="279" facs="adl/palladius/palladius04/palladius04279" xml:id="idm140034108973936"/>
             <p xml:id="idm140034108973200">S. 270 L. l f.
@@ -5715,7 +5744,7 @@ Fred oc Naade aff Gud ved Jesum Christum.</head>
           <pb n="286" facs="adl/palladius/palladius04/palladius04286" xml:id="idm140034108815856"/>
           <div xml:id="idm140034108815088">
             <head xml:id="idm140034108814832">NOTER.</head>
-            <p xml:id="idm140034108814416">S. 284. Som det ses, er der ikke faa Trykfejl paa Titelbladet; dets rette Text lyder: Historia Pinun<!--&macr;-->[x]ar og vpprisu Drottins uors Jesu Christi vt af fiorum Gudzspialla mon<!--&macr;-->[x]um af D: Johanni Bugenhagen Pomerano at nyiu med athygle till samans lelin. þar med eirninn eyding og nidrbrot Herusalem borgar og allra Gydinga lydz hid stuttligazta handtierut og yfuerskodut/ Enn a norrænu utlaugd af mier Odde Gotzskalkzsyne / Arum epter Gudz burd. M. D. xlv. Areykum i Anluese [<!--*dolgoeO*-->dvs. a
+            <p xml:id="idm140034108814416">S. 284. Som det ses, er der ikke faa Trykfejl paa Titelbladet; dets rette Text lyder: Historia Pinun[x]ar og vpprisu Drottins uors Jesu Christi vt af fiorum Gudzspialla mon[x]um af D: Johanni Bugenhagen Pomerano at nyiu med athygle till samans lelin. þar med eirninn eyding og nidrbrot Herusalem borgar og allra Gydinga lydz hid stuttligazta handtierut og yfuerskodut/ Enn a norrænu utlaugd af mier Odde Gotzskalkzsyne / Arum epter Gudz burd. M. D. xlv. Areykum i Anluese [dvs. a
                      <hi rend="italics" xml:id="idm140034108812384">Reykjum i Ölvesi</hi>
 , "paa Gaarden Reykir i Ölves" - hvor Oddur boede].</p>
             <p xml:id="idm140034108811456">S. 285 L. 13. Ps. 8.3.</p>
@@ -5734,7 +5763,7 @@ er Biskop
                      <hi rend="italics" xml:id="idm140034108805312">Knud Stensen</hi>
 , Høvidsmand paa Island 1564 69; se Safn til sögu Islands II. 701 f.</p>
             <p xml:id="idm140034108804336">S. 285 L. 28.
-                     <hi rend="italics" xml:id="idm140034108804032">deris egen villighed oc wederuordenhed <!--*dolgoeO*-->dvs.</hi>
+                     <hi rend="italics" xml:id="idm140034108804032">deris egen villighed oc wederuordenhed dvs.</hi>
 deres Egenvillighed og Genstridighed.</p>
           </div>
         </back>
@@ -5825,7 +5854,7 @@ FREDERIK II
           <pb n="295" facs="adl/palladius/palladius04/palladius04295" xml:id="idm140034108772720"/>
           <div type="indledning" xml:id="idm140034108771952">
             <head xml:id="idm140034108771424">INDLEDNING.</head>
-            <p xml:id="idm140034108771008">NYTAARSDAG 1559 døde Christian den Tredje. Fra sin Sotteseng sendte Palladius et Trøsteskrift til Frederik II i Anledning af Kongens Død. Palladius' Biografer berømmer det lille Skrift for den Kraft og Varme, hvormed det er affattet (se f. Ex. A. C. L. Heibergs Biografi i Theol. Tidsskr, IV. 158, N. M. Petersens Literaturhist. II. 260); det synes mig dog, at Skriftet er lidet kraftfuldt og - naar man tager Hensyn til, hvor nær Palladius var knyttet til Christian III - i paafaldende ringe Grad præget af personlig Følelse, hvilket vel skyldes, at Palladius den Gang var svækket af sin aarelange Sygdom. Han har heller næppe selv besørget Udgivelsen; efter Trøstebrevet og en dertil knyttet Bøn følger nemlig forskellige andre Bønner, der snarere synes sammenflikkede af en ukyndig Bogtrykker end samlede af Sjællands Biskop. Under Overskriften "Christi Gensvar" er saaledes anbragt nogle Skriftsteder - med Forbillede i "Et Svar af Gud" i "Nogle mærkelige Bønner" (se nærv. Udg. II. 124) og i Guds Gensvar i "En Undervisning kortelig at bede" (sst. 294) - der ganske umotiveret gaar over i Bønneform; og de følgende Stykker er forældede Øvrigheds-Bønner, i hvilke der f. Ex. bedes: "giff min Herre oc Konge sin Helbrede/ lenge oc vel ath beholde", "Lad denne Bibel komme i huer mandz haand", "gør det Concilium tetrent [<!--*dolgoeO*-->dvs. til Trent, d. e. Trident] til skamme . . at disse Bededage motte bliffue hoss deris fruct" o. s. v. Som det ses er dette i høj Grad tidsbestemte Bønner, der har ringe Tilknytning til Trøsteskriftet
+            <p xml:id="idm140034108771008">NYTAARSDAG 1559 døde Christian den Tredje. Fra sin Sotteseng sendte Palladius et Trøsteskrift til Frederik II i Anledning af Kongens Død. Palladius' Biografer berømmer det lille Skrift for den Kraft og Varme, hvormed det er affattet (se f. Ex. A. C. L. Heibergs Biografi i Theol. Tidsskr, IV. 158, N. M. Petersens Literaturhist. II. 260); det synes mig dog, at Skriftet er lidet kraftfuldt og - naar man tager Hensyn til, hvor nær Palladius var knyttet til Christian III - i paafaldende ringe Grad præget af personlig Følelse, hvilket vel skyldes, at Palladius den Gang var svækket af sin aarelange Sygdom. Han har heller næppe selv besørget Udgivelsen; efter Trøstebrevet og en dertil knyttet Bøn følger nemlig forskellige andre Bønner, der snarere synes sammenflikkede af en ukyndig Bogtrykker end samlede af Sjællands Biskop. Under Overskriften "Christi Gensvar" er saaledes anbragt nogle Skriftsteder - med Forbillede i "Et Svar af Gud" i "Nogle mærkelige Bønner" (se nærv. Udg. II. 124) og i Guds Gensvar i "En Undervisning kortelig at bede" (sst. 294) - der ganske umotiveret gaar over i Bønneform; og de følgende Stykker er forældede Øvrigheds-Bønner, i hvilke der f. Ex. bedes: "giff min Herre oc Konge sin Helbrede/ lenge oc vel ath beholde", "Lad denne Bibel komme i huer mandz haand", "gør det Concilium tetrent [dvs. til Trent, d. e. Trident] til skamme . . at disse Bededage motte bliffue hoss deris fruct" o. s. v. Som det ses er dette i høj Grad tidsbestemte Bønner, der har ringe Tilknytning til Trøsteskriftet
                      <pb n="296" facs="adl/palladius/palladius04/palladius04296" xml:id="idm140034108768080"/>
 til den udvalgte Konge. - Heller ikke sidste Del af Bogen kan tillægges Palladius. Det er en tarvelig, stærkt forkortet, dansk Bearbejdelse af
                      <hi rend="italics" xml:id="idm140034108766992">Ruprecht Geisspucher's</hi>
@@ -5974,7 +6003,7 @@ haffue wi i vor Børne lærdom.</head>
             <p xml:id="idm140034108675520">O Himmelske Fader forbarme dig offuer oss Arme Syndige Menniske/ forlad oss alle vore synder/ vnd oss end nu en stadige fred bortstød den Wgudelige Paffue met alle hans Anhengere/ oc den grumme Turck/ Lad dit salige Ord bliffue vid mact/ see oss til gode til Liff oc Siel/ giff min Herre oc Konge sin Helbrede/ lenge oc vel ath beholde/ vor Naadigste Frue/ hendis Kære Børn/ Husuale alle bedrøffuede hiertter/ til Land och Vand/ i Trengsel och Fengsel/ i huor som de findis/ Vnd oss ath leffue lenge oc vel i troen til deg/ I Kærlighed til vor Fattige neste/ vnder det Hellige Korss/ at gøre vort Embede naagelunde fyllest/ for var oss fra synd och Ondskaff/ Jo lenger Jo mere ind til vor dødedag/ giff oss en skellig Opstandelse/ paa Domme dag/ Lad denne Bibel komme i huer mandz haand/ til din || ære oc til deris Salighed/ faa vore wuenner andit at tage vare/ Lad din Hellige Kircke bliffue ved dit Salige Ord/ gør det Concilium tetrent til skamme/ for dit Hellige naffns ære skyld/ at disse Bede dage motte bliffue hoss deris fruct/ at al forargelse motte fortagis/ Lad din Benedidelse oc uelsignelse</p>
             <p xml:id="idm140034108672800">vere offuer oss allesammen til Euig tid/ Dig</p>
             <p xml:id="idm140034108672352">ske Loff oc ære til Euig tid.</p>
-            <trailer xml:id="idm140034108671888"><hi rend="italics" xml:id="idm140034108671760"><!--<emph>-->AMEN<!--</emph--></hi>
+            <trailer xml:id="idm140034108671888"><hi rend="italics" xml:id="idm140034108671760">AMEN</hi>
 . ||</trailer>
           </div>
           <pb n="314" facs="adl/palladius/palladius04/palladius04314" xml:id="idm140034108670464"/>
@@ -6032,16 +6061,16 @@ Orig.
                      <hi rend="italics" xml:id="idm140034108642704">doegel</hi>
 , "Digel".</p>
             <p xml:id="idm140034108641856">S. 303 L. 26.
-                     <hi rend="italics" xml:id="idm140034108641552"><hi rend="italics" xml:id="idm140034108641152"><!--<emph>-->oc<!--</emph--></hi><hi rend="italics" xml:id="idm140034108640240"><!--<emph>-->ey<!--</emph--></hi>
+                     <hi rend="italics" xml:id="idm140034108641552"><hi rend="italics" xml:id="idm140034108641152">oc</hi><hi rend="italics" xml:id="idm140034108640240">ey</hi>
 kand Brendes aff</hi>
 ; Stedet synes forskrevet; Meningen maa være:
-                     <hi rend="italics" xml:id="idm140034108638944"><!--<emph>-->at det<!--</emph--></hi>
+                     <hi rend="italics" xml:id="idm140034108638944">at det</hi>
 kan brændes af.</p>
             <p xml:id="idm140034108637728">S. 303 L. 29.
                      <hi rend="italics" xml:id="idm140034108637424">Mod</hi>
 , egl. Præget paa Mønten, se Kalkar III. 116; her vist: Støbeformen.</p>
             <p xml:id="idm140034108636464">S. 303 L.29.
-                     <hi rend="italics" xml:id="idm140034108636160">Guld koede <!--*dolgoeO*-->dvs.</hi>
+                     <hi rend="italics" xml:id="idm140034108636160">Guld koede dvs.</hi>
 Klenodie, Skat.
                      <hi rend="italics" xml:id="idm140034108635104">Portegalizer</hi>
 , en Guldmønt, alm. skrevet
@@ -6194,7 +6223,7 @@ SKRIFTEMAAL
 En Fortale til den kristne Læser, undertegnet
                         <hi rend="italics" xml:id="idm140034108575104">P. Pall</hi>
 . Fortalen knytter sig nær til Skriftemaalet, saa det maa anses for givet, at den er affattet hertil. Saa følger selve Skriftemaalet i Form af en Syndsbekendelse knyttet til de 10 Bud. Det er dette Stykke, der paa Titelbladet siges at være oversat efter Melanchthons Loci; men heri findes intet, der har kunnet være Grundlag for Skriftemaalet. Hvordan Melanchthons Navn er kommet ind paa Titelbladet, er ikke godt at sige,
-                        <hi rend="italics" xml:id="idm140034108573744"><!--<emph>-->muligvis<!--</emph--></hi>
+                        <hi rend="italics" xml:id="idm140034108573744">muligvis</hi>
 er Skriftemaalet tidligere udgivet sammen med Uddrag af Loci og er derved ført med over paa Titelbladet af den anonyme Udgiver. Melanchthons Skrift nævnes naturligvis ikke i Palladius' Forord til Skriftemaalet. Iøvrigt har selve Skriftemaalsformen mange Forbilleder og Efterlignere, her skal blot nævnes
                         <hi rend="italics" xml:id="idm140034108572016">"ith almindeligt scrifftemaal begrebet vti de thi Guds budord"</hi>
 etc. i Henrik Smiths Katekismus 1537 og
@@ -6214,15 +6243,15 @@ af "Et almindeligt Skriftemaal" 1652.</figDesc></figure><pb n="328" facs="adl/pa
 En daglig og personlig Bekendelse. Ordret, men ikke bogstavret Optryk af Palladius' "Nytaarsgave til Københavns Indbyggere" 1551 (udgivet foran Bind II S. 69 ff.). En facsimileret Gengivelse af Titel-Siden findes foran S. 326.</p>
               <p xml:id="idm140034108564992"><hi rend="bold" xml:id="idm140034108564864">3.</hi>
 Et Trøsteskrift, hvis Forfatter ikke er angivet. Efter Form og Indhold
-                        <hi rend="italics" xml:id="idm140034108564000"><!--<emph>-->kunde<!--</emph--></hi>
+                        <hi rend="italics" xml:id="idm140034108564000">kunde</hi>
 Forfatteren være Palladius; men ogsaa andre af Reformationstidens Skribenter kunde have affattet den lille Opsats. I hvert Fald har jeg dog ment denne burde medtages - ligesom et Par Bønner om Syndsforladelse og om Afvenden af Fare, hvormed Skriftet slutter.</p>
             </div>
             <div xml:id="idm140034108562160">
               <head xml:id="idm140034108561904">II.</head>
               <p xml:id="idm140034108561520">Af "Et almindeligt Skriftemaal kendes 2 Udgaver:</p>
-              <p xml:id="idm140034108561072"><hi rend="bold" xml:id="idm140034108560944">1.</hi><hi rend="italics" xml:id="idm140034108560448"><!--<emph>-->Udgaven 1561<!--</emph--></hi>
+              <p xml:id="idm140034108561072"><hi rend="bold" xml:id="idm140034108560944">1.</hi><hi rend="italics" xml:id="idm140034108560448">Udgaven 1561</hi>
 . Denne er i Duodez-Format som modstaaende facsimilerede Titelblad. Den lille Bog bestaar af 4 6-bladede Læg, signeret A-D. Linjetallet er 21. Kolumnerne er forsynet med sort enkeltstreget Ramme. Bogtrykkeren er - som angivet paa sidste Blad - Lauritz Benedict. Det eneste bevarede Exemplar findes paa det kgl. Bibliothek.</p>
-              <p xml:id="idm140034108558608"><hi rend="bold" xml:id="idm140034108558480">2.</hi><hi rend="italics" xml:id="idm140034108557984"><!--<emph>-->Optryk 1652<!--</emph--></hi>
+              <p xml:id="idm140034108558608"><hi rend="bold" xml:id="idm140034108558480">2.</hi><hi rend="italics" xml:id="idm140034108557984">Optryk 1652</hi>
 , besørget af Jens Søffrensøn Nør-Nissom Bogen, der har Format som foranstaaende facsimilerede Titelblad, indledes med en Fortale (a 2
                         <hi rend="sup" xml:id="idm140034108556592">r</hi>
 -a 6
@@ -6316,7 +6345,7 @@ at du skalt findis Retferdig/ naar mand vil sige ath du straffer wrelige/ Ja vis
 sin hellig Aand/ ath ieg kand rette mig i mit leffnet oc i
                      <lb xml:id="idm140034108510784"/>
 mine sæder/ oc fly alle forargelser.</p>
-            <trailer xml:id="idm140034108510304"><hi rend="italics" xml:id="idm140034108510176"><!--<emph>-->AMEN<!--</emph--></hi>
+            <trailer xml:id="idm140034108510304"><hi rend="italics" xml:id="idm140034108510176">AMEN</hi>
 .</trailer>
           </div>
           <div xml:id="idm140034108508880">
@@ -6353,7 +6382,7 @@ Syndernis forladelse.</head>
             <p xml:id="idm140034108492800">O HERRe Jesu Christe/ Du som est all Naadens och Barmhiertigheds kielde/ Du som huercken Dauid eller Mattheo den Toldere/ ey den obenbare Syndere den Publican/ ey heller den Synderinde i Staden/ Luce 7. Ey den forlorne Søn/ Ey Petro/ ey Zacheo/ ey Røffueren paa kaarssit/ ey Paulo den grumme Løue emod dig och dine Limmer/ Eller nogit armt syndigt Menniske/ din Naade/ Miskund oc Barmhiertighed/ nogen tid veiret eller || nectet haffuer/ men heller robt haffuer/ sigendis/ til alle groffue/ suare och store Syndere/ Kommer til mig alle som bemøyede/ Angestfulde ere/ och besuarede met fordømmelsens farlighed oc grueligheds byrde/ Jeg vil vederquege eder i all eders sorig och hiertens bedrøffuelse. Tag vare paa mig (O HERRe Jesu) oc see Naadeligen til mig/ Met samme dine Barmhiertigheds øyen/ met huilcke du saaest til Petrum/ Paulum och Dauid. Jeg arme vsle syndere staar for dig/ met saa mange store och suare Synder belastet oc betynget/ saa ath ieg icke tør opløffte mine øyne til || Himmelen/ Thi ath ieg mig forferer
                      <pb n="339" facs="adl/palladius/palladius04/palladius04339" xml:id="idm140034108489968"/>
 och forskrecker for din Guddommelige Maiestet oc Mectighed/ huilcken ieg saa grueligen fortørnet haffuer/ Och ved ieg fordi ey andet ath sige/ end (O HERRE) ver mig arme Syndere Naadig oc Barmhiertig. Vend din vrede fra mig/ och deel och skifft din Naade/ och Miskundhed met mig. O Herre Jesu/ det er min hiertens inderlige begiering oc Bøn til dig/
-                     <hi rend="italics" xml:id="idm140034108488384"><!--<emph>-->AMEN<!--</emph--></hi>
+                     <hi rend="italics" xml:id="idm140034108488384">AMEN</hi>
 . ||</p>
           </div>
           <div xml:id="idm140034108487088">
@@ -6364,7 +6393,7 @@ hender i all tilkommendis nød och fare/ som oss hende
 kand eller forestaar.</head>
             <p xml:id="idm140034108485600">O HERRE/ Allmectigste Gud/ du som vel vedst/ met huor stor begiering/ attraa/ tredskhed/ list/ anslag och Finantzeri/ vore fiende synlige oc wsynlige/ stunde effter vor forderffuelse/ Desligeste vedst du ocsaa vel vort tyrstige Kiøds oc Blods breck och bryst/ Thi du haffuer oss sielff skabt/ Wi befale oss gantskelige och aldelis i din beuaring/ beskytning oc beskermelse/ || Och din hielp/ Trøst oc husualelse/ Beuare oss (O HERRE) vnder dine vingers skugge/ det er/ din Godheds oc Barmhiertigheds forsuar och beskermelse/ Saa at wi icke falde i den euige Død.</p>
             <p xml:id="idm140034108484144">Opliuse vore hierters øyne/ met det Himmelske liuses skin oc Soel/ och met en hjertelig vellyst til dit Hellige oc Saliggiørendis Ord at tro/ Och beuare oss O HERRE til alle dygdelige oc gode gierninger/ ath vere flitige/ vaagne/ kloge/ vise oc forsynlige/ paa det at wi dig altid kunde loffue/ prise oc ære/
-                     <hi rend="italics" xml:id="idm140034108483232"><!--<emph>-->AMEN<!--</emph--></hi>
+                     <hi rend="italics" xml:id="idm140034108483232">AMEN</hi>
 . ||</p>
             <trailer xml:id="idm140034108482064">Matth. iij.
                      <lb xml:id="idm140034108481760"/>
@@ -6487,7 +6516,7 @@ Se P. Severinsens Oversigt over det 17, Aarh.s "fuldkomne" Salmebøger i Kirkehi
                 <l xml:id="idm140034108434208">og med Sankte Peder begræde</l>
                 <l xml:id="idm140034108433744">dine Synder af ganske Hjerte og Hu.</l>
               </lg>
-              <p xml:id="idm140034108433184">Som Indholdet er jævnt, saaledes ogsaa Formen. De 4-linjede Strofer er parvis rimede: l. og 3., 2. og 4, Linje; Rimene er ganske godt overholdt, snart i Rigssprogform: Tro <!--&#8766;-->[x] Ro (Vers 13), snart i jydsk Form: Lov <!--&#8766;-->[x] Hu (Vers 8). Ogsaa Rytmen er, naar Hensyn tages til Tidens ikke meget udviklede metriske Sans, overholdt taaleligt. Skemaet er: 3, 3, 3, 4 betonede Stavelser i de 4 Linjer.</p>
+              <p xml:id="idm140034108433184">Som Indholdet er jævnt, saaledes ogsaa Formen. De 4-linjede Strofer er parvis rimede: l. og 3., 2. og 4, Linje; Rimene er ganske godt overholdt, snart i Rigssprogform: Tro [x] Ro (Vers 13), snart i jydsk Form: Lov [x] Hu (Vers 8). Ogsaa Rytmen er, naar Hensyn tages til Tidens ikke meget udviklede metriske Sans, overholdt taaleligt. Skemaet er: 3, 3, 3, 4 betonede Stavelser i de 4 Linjer.</p>
               <p xml:id="idm140034108431568">Salmen findes i et lille Flyveblad fra 1557, der indeholder to Viser: Palladius
                         <hi rend="sup" xml:id="idm140034108431184">1</hi>
 Salme om Guds Retfærdighed og Folkevisen om Verdens Skabelse. Bladet er kun bevaret i ét Exemplar, der findes paa det kgl. Bibliothek. Titelbladet er defekt, idet dets nederste Tredjedel er afrevet (se omstaaende Gengivelse). Træsnittet er tidligere
@@ -6503,7 +6532,7 @@ benyttet i Palladius' Oversættelse af Enchiridion (se nærv. Udg. I. 79). Paa s
             </div>
             <pb n="347" facs="adl/palladius/palladius04/palladius04347" xml:id="idm140034108425776"/>
             <div xml:id="idm140034108425008">
-              <p xml:id="idm140034108424752"><hi rend="italics" xml:id="idm140034108424624"><!--<emph>-->Melodien<!--</emph--></hi>
+              <p xml:id="idm140034108424752"><hi rend="italics" xml:id="idm140034108424624">Melodien</hi>
 angives saaledes paa Flyvebladets Titelblad:
                         <hi rend="italics" xml:id="idm140034108423504">"siungis met de noder Danhiusers Vise gaar met"
                            <hi rend="sup" xml:id="idm140034108422912">1</hi>
@@ -6637,16 +6666,16 @@ Hans Thomissøns Salmebog 1569. Bl. Aaa 8
 (Register V).</note>
                         <pb n="352" facs="adl/palladius/palladius04/palladius04352" xml:id="idm140034108370752"/>
 1569, ser vi, at Strofebygningen hos Palladius er forskellig fra begge disse. I den svenske Text er der de to Strofeformer: den sexlinjede med Rimskema a b a b a b og den syvlinjede med Rimskema a a b a b a b ("Edda" S. 181), Den danske Text fra 1569 svarer til den sexlinjede svenske. Men Palladius' Vise har hverken sex eller syv Linjer, men otte, der falder i to Halvstrofer a b a b c d c d. Stavelsestallet er ensartet i alle Viserne: den syvlinjede 4434343, den sexlinjede (svensk og dansk) 434343, Palladius 4343 4343. Palladius har altsaa benyttet den samme rytmiske Form som i den gamle Dagvise, men omformet dennes Strofebygning. Men
-                        <hi rend="italics" xml:id="idm140034108368624"><!--<emph>-->hvilken<!--</emph--></hi>
+                        <hi rend="italics" xml:id="idm140034108368624">hvilken</hi>
 Strofebygning? Har han haft for sig den regelmæssige sexlinjede Strofeform, som vi kender fra Hans Thomissøn eller har han haft Blandingsformen, som vi kender fra den svenske Opskrift? Følger vi Dr. Brix, er der ingen Tvivl om, at Palladius som Grundlag har haft den ublandede sexlinjede Vise: den oprindelige Dagvise, der i Danmark var blevet bevaret uden væsentlige Ændringer fra Middelalderen, mens den svenske Blandingstext ikke var trængt ind her. Men paa Forhaand er Sandsynligheden større for, at Palladius har haft en strofisk uregelmæssig formet Vise: en saadan var der jo al Grund til at omstøbe i regelrette Strofer. Og dette viser sig da ogsaa at være Tilfældet.</p>
               <p xml:id="idm140034108366752">Palladius' Dagvise er fra Indholdets Side en fuldstændig Nydigtning: en Besyngelse af de syv Skabelsesdage, til hvilket intet tilsvarende findes hverken i den gamle svenske Text eller i Hans Thomissøns danske. Men paa to Punkter er der direkte Laan: det ene er Optakten: "Den signede Dag", der findes som Optakt baade i den svenske og danske Form, og som Dr. Brix ogsaa mener har været Optakt til den oprindelige Dagvise, det andet er et Par Linjer i Str. 12, hvor sidste Halwers lyder:</p>
               <lg xml:id="idm140034108365648">
                 <l xml:id="idm140034108365392">Aandelig ro oc Legemlig fred</l>
                 <l xml:id="idm140034108364960">
-                  <hi rend="italics" xml:id="idm140034108364704"><!--<emph>-->Lad oss i Verden at hende/<!--</emph--></hi>
+                  <hi rend="italics" xml:id="idm140034108364704">Lad oss i Verden at hende/</hi>
                 </l>
                 <l xml:id="idm140034108363552">
-                  <hi rend="italics" xml:id="idm140034108363296"><!--<emph>-->Ret formaal oc Christelig død<!--</emph--></hi>
+                  <hi rend="italics" xml:id="idm140034108363296">Ret formaal oc Christelig død</hi>
                 </l>
                 <l xml:id="idm140034108362112">Naar dette liff haffuer ende.</l>
               </lg>
@@ -6655,10 +6684,10 @@ Strofebygning? Har han haft for sig den regelmæssige sexlinjede Strofeform, som
               <lg xml:id="idm140034108359760">
                 <l xml:id="idm140034108359504">then herran jak saa j vin oc j brödh</l>
                 <l xml:id="idm140034108359024">
-                  <hi rend="italics" xml:id="idm140034108358768"><!--<emph>-->leet os j värdinna at henda<!--</emph--></hi>
+                  <hi rend="italics" xml:id="idm140034108358768">leet os j värdinna at henda</hi>
                 </l>
                 <l xml:id="idm140034108357552">
-                  <hi rend="italics" xml:id="idm140034108357296"><!--<emph>-->rät formäle oc cristelikin dödh<!--</emph--></hi>
+                  <hi rend="italics" xml:id="idm140034108357296">rät formäle oc cristelikin dödh</hi>
                 </l>
                 <l xml:id="idm140034108356112">oc gledhi for vtan ända.</l>
               </lg>
@@ -6696,7 +6725,7 @@ give "Om Vaaren baade Løv og Grene/ Blomster og Frugt om Sommerens Tid/ og Korn
             </div>
             <div xml:id="idm140034108340112">
               <p xml:id="idm140034108339856">Palladius' Dagvise optryktes i alle Udgaver af Hans Thomissøns Salmebog samt i Cassubens, Daniel Paullis og "1010"-Salmebogen, men optoges ikke i nogen af de autoriserede Salmebøger. - Den er i nyere Tid meddelt hos Brandt og Helweg, I. 51 og (delvis) hos Nutzhorn II. 102 f.</p>
-              <p xml:id="idm140034108338896"><hi rend="italics" xml:id="idm140034108338768"><!--<emph>-->Melodien<!--</emph--></hi>
+              <p xml:id="idm140034108338896"><hi rend="italics" xml:id="idm140034108338768">Melodien</hi>
 findes - efter Hans Thomissøns Salmebog 1569, Bl. 146 - omsat i moderne Form hos Nutzhorn II. 102, hvorefter den er gengivet ndf. i Noterne.</p>
               <note anchored="true" xml:id="idm140034108337296"><hi rend="sup" xml:id="idm140034108336928">1</hi>
 Første Linje lyder i den sv. Opskrift:
@@ -6979,9 +7008,9 @@ har Biblen 1550 (i Overensstemmelse med Luther-Biblen):
                         <hi rend="italics" xml:id="idm140034108225056">in corda</hi>
 (der stemmer med Grundtexten).</p>
               <p xml:id="idm140034108224192">Mens Palladius har taget
-                        <hi rend="italics" xml:id="idm140034108223872"><!--<emph>-->Formen<!--</emph--></hi>
+                        <hi rend="italics" xml:id="idm140034108223872">Formen</hi>
 til sin Brudesalme fra den nu tabte Mariskjold-Vise, er
-                        <hi rend="italics" xml:id="idm140034108222736"><!--<emph>-->Indholdet<!--</emph--></hi>
+                        <hi rend="italics" xml:id="idm140034108222736">Indholdet</hi>
 altsaa taget fra Davids 45. Salme, saaledes at Palladius hertil har benyttet baade Oversættelsen i den danske Bibel og den ham i Blodet siddende Vulgata-Text.
                         <hi rend="sup" xml:id="idm140034108221344">1</hi>
                      </p>
@@ -7001,7 +7030,7 @@ af Hans Thomissøn til og med Udg. 1634; ligeledes findes den i Cassubens Salmeb
                 <l xml:id="idm140034108213872">Saa vorde nu Drotten vort Skjold | I Vee og i Vaade!</l>
               </lg>
               <p xml:id="idm140034108213296">Heller ikke Grundtvigs Bearbejdelse vandt Indpas i Menighedssangen.</p>
-              <p xml:id="idm140034108212832"><hi rend="italics" xml:id="idm140034108212704"><!--<emph>-->Melodien<!--</emph--></hi>
+              <p xml:id="idm140034108212832"><hi rend="italics" xml:id="idm140034108212704">Melodien</hi>
 til Palladius' Salme kender vi kun fra Hans Thomissøns Salmebog; omsat i det nuværende Nodesystem findes den i Nutzhorns Salmehistorie anf. St., hvorefter den er gengivet ndf. i Noterne.</p>
             </div>
             <pb n="363" facs="adl/palladius/palladius04/palladius04363" xml:id="idm140034108211008"/>
@@ -7163,9 +7192,9 @@ fortørnis.</p>
                   </head>
             <div xml:id="idm140034108153184">
               <p xml:id="idm140034108152928">Det er den gammeltestamentlige Salme Nr. 137 med dens utilslørede Lovprisning af Hævnen ("
-                        <hi rend="italics" xml:id="idm140034108152416"><!--<emph>-->Hil den, som gengælder Dig den Gerning, Du øvede mod os! Hil den, der griber dine spæde Børn og knuser dem mod Klippen!<!--</emph--></hi>
+                        <hi rend="italics" xml:id="idm140034108152416">Hil den, som gengælder Dig den Gerning, Du øvede mod os! Hil den, der griber dine spæde Børn og knuser dem mod Klippen!</hi>
 "), som Palladius her parafraserer og skænker de fromme evangelisk-kristne Præster i Danmarks og Norges Riger til Trøst og Husvalelse, "bedendis at i siunge altid gierne denne Psalme/ met det Haab/ at den som vdfride sit Folck aff det Babylonske fengsel/
-                        <hi rend="italics" xml:id="idm140034108150576"><!--<emph>-->oc betalede de Wgudelige deris forfølgelse oc fortryckelse/ hand ocsaa naadelige vil see til eder/ oc betale eders wuennere<!--</emph--></hi>
+                        <hi rend="italics" xml:id="idm140034108150576">oc betalede de Wgudelige deris forfølgelse oc fortryckelse/ hand ocsaa naadelige vil see til eder/ oc betale eders wuennere</hi>
 ".</p>
               <p xml:id="idm140034108149200">Palladius' Parafrase bestaar af 6 fir-linjede Strofer, der i en saare mangelfuld metrisk Form gengiver Biblens Text; dertil er føjet en to-linjet Slutningsstrofe, der gentager den i Forordet fremsatte Anvendelse af Salmen paa Datiden: ligesom den skal blive salig, der med ondt betalte Jødernes Fjender hvad ondt de havde tilføjet Guds udvalgte Folk, saaledes skad ogsaa den blive salig, der betaler Pavens Folk det onde, de har gjort de fromme Kristne (d. e. Lutheranerne).</p>
               <p xml:id="idm140034108147936">Til Oplysning om Forholdet mellem den danske Bibeltext og Palladius' Salme anfører jeg første og sidste Yers af denne:
@@ -7179,7 +7208,7 @@ fortørnis.</p>
               <p xml:id="idm140034108137984">Forordet viser, at Salmen oprindelig er udkommet som Enkelttryk 1554; men dette Tryk er, som de fleste andre Originaltryk til Palladius' Salmer, gaaet tabt. Det ældste Findested er i Hans Thomissøns Salmebog 1569 (Bl. 229 ff.). I dennes senere Oplag findes den til og med 1634. Desuden er den optaget i Cassubens, Paullis og "1010"-Salmebogen, hvorimod den ikke har fundet Plads i nogen af de autoriserede Salmebøger. Nyere Optryk af den findes hos Brandt og Helweg I. 55 og hos Nutzhorn II. 166.</p>
             </div>
             <div xml:id="idm140034108136528">
-              <p xml:id="idm140034108136272"><hi rend="italics" xml:id="idm140034108136144"><!--<emph>-->Melodien<!--</emph--></hi>
+              <p xml:id="idm140034108136272"><hi rend="italics" xml:id="idm140034108136144">Melodien</hi>
 kendes kun fra Hans Thomissøns Salmebog, hvorefter den er gengivet i moderne Transskription af Nutzhorn (Salmehist. ani Sk., meddelt ndf. i Noterne). Som denne bemærker, gør Salmens Mangel paa Rytme og Regelmæssighed det meget vanskeligt at tilpasse Melodien til Texten. Intet Under derfor, at den tidligt viste sig uskikket til at indøves i Menighederne til Gudstjenestebrug.</p>
             </div>
             <pb n="369" facs="adl/palladius/palladius04/palladius04369" xml:id="idm140034108134176"/>
@@ -7209,7 +7238,7 @@ hart ved Zion. Dominue Jesus vos
                         <lb xml:id="idm140034108124656"/>
 conseruet et consoletur/
                         <lb xml:id="idm140034108124336"/>
-                        <hi rend="italics" xml:id="idm140034108124080"><!--<emph>-->AMEN<!--</emph--></hi>
+                        <hi rend="italics" xml:id="idm140034108124080">AMEN</hi>
 .
                         <lb xml:id="idm140034108122992"/>
 M. D. liiij.</p>
@@ -7287,7 +7316,7 @@ M. D. liiij.</p>
             <div xml:id="idm140034108094448">
               <p xml:id="idm140034108094192">Palladius' Salme er, som Forordet viser, først udkommet som Enkelttryk 1554, men er nu kun bevaret i Hans Thomissøns Salmebog (Udgaverne 1569-1634). I de senere autoriserede Salmebøger optoges den ikke, hvorimod den findes i Cassubens Salmebog.</p>
               <p xml:id="idm140034108093296">Som "Liturgi" er Salmen forbigaaet baade af Brandt og Helweg og i Nutzhorns Salmehistorie.</p>
-              <p xml:id="idm140034108092800"><hi rend="italics" xml:id="idm140034108092672"><!--<emph>-->Melodien<!--</emph--></hi>
+              <p xml:id="idm140034108092800"><hi rend="italics" xml:id="idm140034108092672">Melodien</hi>
 er - efter Hans Thomissøns Noder, Udg. 1569, Bl. 219 ff. - gengivet i moderne Form ndf. i Noterne.</p>
             </div>
             <pb n="373" facs="adl/palladius/palladius04/palladius04373" xml:id="idm140034108091152"/>
@@ -7439,7 +7468,7 @@ og en anonym Oversættelse af Luthers anden Bearbejdelse af Ps. 128 (Wol dem, de
               <p xml:id="idm140034108014176">Palladius Salme findes i alle Udgaver af Hans Thomissøns Salmebog; dernæst optoges den i Niels Jespersens Gradual 1573
                         <hi rend="sup" xml:id="idm140034108013616">3</hi>
 , hvorfra den gik over i Kingos Salmebog 1699 og Pontoppidans 1740. Derimod udelodes den i Guldbergs Salmebog og de senere autoriserede Salmebøger. Men Salmen er optaget i det 17. og 18. Aarh.s Privatsamlinger (Cassubens, Daniel Paullis og ,,1010"-Salmebogen) og gennem de senere Oplag af Kingos Salmebog er den naaet ned til Nutiden. Saaledes findes den Ord til Ord i "Den forordnede Kirke-Psalmebog af Th. Kingo, Dr.", trykt i Herning 1915 og er altsaa endnu i levende Brug hos de stærke Jyder. - Nyoptryk hos Brandt og Helweg I. 53 og hos Nutzhorn II. 134.</p>
-              <p xml:id="idm140034108011968"><hi rend="italics" xml:id="idm140034108011840"><!--<emph>-->Melodien<!--</emph--></hi>
+              <p xml:id="idm140034108011968"><hi rend="italics" xml:id="idm140034108011840">Melodien</hi>
 er i moderne Form gengivet ndf. i Noterne efter Nutzhorn anf. St., hvor der findes Oplysninger om dens Oprindelse og Udbredelse.</p>
               <note anchored="true" xml:id="idm140034108010528"><hi rend="sup" xml:id="idm140034108010160">1-2</hi>
 Optrykt i Salmebøger fra Reformationstiden I. 166 og I. 168, se desuden Severinsens Reformationstidens Salmedigtning S. 14 og Nutzhorns Salmehist. I. 286.</note>
@@ -7529,7 +7558,7 @@ Dette Kyrie, der er optrykt som første Salme paa Langfredag hos Hans Thomissøn
                      </p>
               <p xml:id="idm140034107973936">Palladius' Oversættelse kendes først fra Hans Thomissøns Salmebog 1569 (Bl. 78), hvor den er anbragt lige efter den latinske Text. Den er optaget i alle Udgaver af Hans Thomissøns Salmebog og i Cassubens, Daniel Paullis og "1010"-Salmebogen, derimod ikke i nogen af de autoriserede Salmebøger fra ældre Tid; men i 19. Aarh. har den atter faaet Plads i Menighedssangen, idet den blev omdigtet af Grundtvig og i denne Form optaget i l. Tillæg til Konventssalmebogen, hvorfra den er gaaet over i den nu autoriserede "Psalmebog for Kirke og Hjem" (Nr. 215).</p>
               <p xml:id="idm140034107972896">Nyoptryk af Salmen i dens oprindelige Form findes hos Brandt og Helweg I. 51 og hos Nutzhorn II. 64.</p>
-              <p xml:id="idm140034107972400"><hi rend="italics" xml:id="idm140034107972272"><!--<emph>-->Melodien<!--</emph--></hi>
+              <p xml:id="idm140034107972400"><hi rend="italics" xml:id="idm140034107972272">Melodien</hi>
 findes i Hans Thomissøns Salmebog, hvorefter den omsat i moderne Form er meddelt hos Nutzhorn anf. St. (aftrykt ndi i Noterne). Men denne Melodi er ikke bevaret til Salmen i dens nuværende omdigtede Skikkelse, hvorom der er gjort nærmere Rede hos Nutzhorn.</p>
               <note anchored="true" xml:id="idm140034107970560"><hi rend="sup" xml:id="idm140034107970192">1</hi>
 Se
@@ -7570,7 +7599,7 @@ var et fast Tilbehør til Aftensang (Vesper) og
 til Natsang (Completorium).
                         <hi rend="sup" xml:id="idm140034107955248">1</hi>
 Disse
-                        <hi rend="italics" xml:id="idm140034107954576"><!--<emph>-->kanoniske Tider<!--</emph--></hi>
+                        <hi rend="italics" xml:id="idm140034107954576">kanoniske Tider</hi>
 blev ved at holdes; Peblingerne sang dem i Domkirkerne, og - som Forordet viser - har Palladius da til dette Brug 1553 udgivet de to Lovsange.</p>
               <p xml:id="idm140034107953248">Texten til "Magnificat" er Luc. 1. 46-55, til "Nunc dimittis" Luc. 2. 29-32. Palladius har imidlertid ikke, som man skulde tro af hans lille Forord, selv oversat Biblens Text, men afskrevet denne ordret efter Biblen 1550. Exempelvis kan anføres Begyndelsen af "Magnificat":
                         <lb xml:id="idm140034107952384"/>
@@ -7587,7 +7616,7 @@ Se Bruun, Psalmebøger fra Reformationstiden I. 23 og 27, II. 63 og Severinsen a
 Nutzhorn skriver (II. 262), at vi her har Marias Ord i Luc. l "poetisk bearbejdede til en Menighedssalme", som han anfører i sin Helhed, hvorimod han udelader Nunc dimittis, fordi "den er en paa ren Prosa meddelt Gengivelse" af Bibeltexten. Som ovenfor nævnt er begge "Salmer" Ord for Ord afskrevne efter Chr. III's Bibel, saa der ikke er mindste Grund til at behandle dem paa forskellig Maade.</note>
               <pb n="387" facs="adl/palladius/palladius04/palladius04387" xml:id="idm140034107943168"/>
               <p xml:id="idm140034107942400">"Magnificat" og "Nunc dimittis" er optaget i alle Udgaver af Hans Thomissøns Salmebog, men ikke i nogen af de senere autoriserede Salmebøger; derimod findes de i Cassubens, Daniel Paullis og "1010"-Salmebogen.</p>
-              <p xml:id="idm140034107941584"><hi rend="italics" xml:id="idm140034107941456"><!--<emph>-->Melodien<!--</emph--></hi>
+              <p xml:id="idm140034107941584"><hi rend="italics" xml:id="idm140034107941456">Melodien</hi>
 findes kun hos Hans Thomissøn. Til "Magnificat" er den i moderne Form gengivet hos Nutzhorn II. 262, hvorefter den er meddelt ndf. i Noterne; her er ligeledes Transskription af Melodien til "Antiphon" og "Nunc dimittis" meddelt.</p>
             </div>
             <pb n="388" facs="adl/palladius/palladius04/palladius04388" xml:id="idm140034107939680"/>
@@ -7700,7 +7729,7 @@ M.D.liij.||</head>
                      </p>
               <p xml:id="idm140034107887920">Indholdet af den bevarede Del af Trykket udgøres af to Salmer, Den første; "Min Siel befaler ieg vdi din Haand" er underskrevet
                         <hi rend="italics" xml:id="idm140034107887344">Georg. Johan</hi>
-, (<!--*dolgoeO*-->dvs. Jørgen Jensen Sadolin), den anden er Palladius' Oversættelse af Troessalmen.</p>
+, (dvs. Jørgen Jensen Sadolin), den anden er Palladius' Oversættelse af Troessalmen.</p>
               <note anchored="true" xml:id="idm140034107886000">
                 <p xml:id="idm140034107885504"><hi rend="sup" xml:id="idm140034107885376">1</hi>
 I Nikolaj Kirke bevaredes Hans Tavsens Oversættelse som Troessalme, saa længe Kirken bestod (til Branden 1795) se Nutzhorn anf. Skr. I. 264.</p>
@@ -7719,7 +7748,7 @@ Se Kirkehist. Sami. IV. 601 ff., hvor det lille Tryk er gengivet.</note>
                 <figure xml:id="idm140034107879024"/>
               </p>
               <p xml:id="idm140034107878640">Hvad
-                        <hi rend="italics" xml:id="idm140034107878336"><!--<emph>-->Melodien<!--</emph--></hi>
+                        <hi rend="italics" xml:id="idm140034107878336">Melodien</hi>
 angaar hedder det i Overskriften, at Salmen synges
                         <hi rend="italics" xml:id="idm140034107877200">"met de samme noder/ wi tro alle sammen etc.</hi>
 "; d. v. s. at man som rimeligt var benyttede den til Luthers Salme hørende Melodi, der var indført sammen med de ældre Oversættelser.
@@ -7858,9 +7887,9 @@ senere tilføjet: och Bom ynckeligt och Børgelig er at høre.</note>
               <p xml:id="idm140034107784048">I det hele er Gyldenstjernes 34 Strofer blevet til 29 hos Palladius - og det kunde være langt nok.
                         <hi rend="sup" xml:id="idm140034107783520">1</hi>
 Noget Spor af Forfatterens Katolicisme finder vi ikke i Salmen, derimod er den, som de ovenfor anførte Vers vil have vist, stærkt præget af hans Hjemstavnsmaal. Mens Palladius' Rim væsentlig hviler paa Skriftsproget, saaledes som det fremtræder paa Tryk, er Gyldenstjernes Rim dannet efter Øret - vel at mærke efter en Jydes Øre. I det ovenfor anførte V. 19 er Rigssprogets
-                        <hi rend="italics" xml:id="idm140034107782080">ned <!--&#8766;-->[x] -speger</hi>
+                        <hi rend="italics" xml:id="idm140034107782080">ned [x] -speger</hi>
 et ynkeligt Rimpar, men omsat til vestjydsk
-                        <hi rend="italics" xml:id="idm140034107780992">næj'r</hi> <!--&#8766;-->
+                        <hi rend="italics" xml:id="idm140034107780992">næj'r</hi> 
 [x]
                         <hi rend="italics" xml:id="idm140034107779904">spoej'r</hi>
 er der intet i Vejen; i V. 17 rimes
@@ -7868,17 +7897,17 @@ er der intet i Vejen; i V. 17 rimes
 paa
                         <hi rend="italics" xml:id="idm140034107778432">hannem</hi>
 ; det duer først, naar man læser
-                        <hi rend="italics" xml:id="idm140034107777600">fram <!--&#8766;-->[x] ham</hi>
+                        <hi rend="italics" xml:id="idm140034107777600">fram [x] ham</hi>
 ; paa samme Maade forholder Skriftsprogets
-                        <hi rend="italics" xml:id="idm140034107776512">børn <!--&#8766;-->[x] løn i</hi>
+                        <hi rend="italics" xml:id="idm140034107776512">børn [x] løn i</hi>
 V. 27 sig til Mundartens:
-                        <hi rend="italics" xml:id="idm140034107775440">bø'n <!--&#8766;-->[x] løn</hi>
+                        <hi rend="italics" xml:id="idm140034107775440">bø'n [x] løn</hi>
 , Skriftsprogets
-                        <hi rend="italics" xml:id="idm140034107774368">hans ord</hi> <!--&#8766;-->
+                        <hi rend="italics" xml:id="idm140034107774368">hans ord</hi> 
 [x]
                         <hi rend="italics" xml:id="idm140034107773280">creatar</hi>
 i V. 25 sig til det levende Sprogs
-                        <hi rend="italics" xml:id="idm140034107772544">hans u'r <!--&#8766;-->[x] kretu'r</hi>
+                        <hi rend="italics" xml:id="idm140034107772544">hans u'r [x] kretu'r</hi>
 o. s. v. Og som det gaar med Rimene saaledes med Rytmen; først naar man sløjfer de trykløse Endestavelser, bliver der Mening i Knud Gyldenstjernes Metrik. Selv om han derfor ikke er nogen stor Poet eller Sprogmester, er det uretfærdigt, naar man - idet man ikke har taget Hensyn til disse Forhold - har frakendt ham al Sans for Rytme og Rim.
                         <hi rend="sup" xml:id="idm140034107770800">2</hi>
                      </p>
@@ -7893,7 +7922,7 @@ om Salmen, at "hverken Indhold eller Form bærer mindste Spor af poetisk Begavel
                         <hi rend="sup" xml:id="idm140034107762768">1</hi>
                      </p>
               <p xml:id="idm140034107762016">Salmen er optrykt efter Hans Thomissøns Salmebog hos Brandt og Helweg I. 58 f. og hos Nutzhorn II. 58 f. efter Gyldenstjernes Manuskript er den som nævnt optrykt i Kirkehist. Saml. VI. 428 f.</p>
-              <p xml:id="idm140034107761232"><hi rend="italics" xml:id="idm140034107761104"><!--<emph>-->Melodien<!--</emph--></hi>
+              <p xml:id="idm140034107761232"><hi rend="italics" xml:id="idm140034107761104">Melodien</hi>
 er i moderne Form meddelt hos Nutzhorn anf. St. hvorefter den er gengivet ndf. i Noterne. Historiske Oplysninger om den findes hos Nutzhorn II. 63.</p>
               <note anchored="true" xml:id="idm140034107759776"><hi rend="sup" xml:id="idm140034107759408">1</hi>
 A. Chr. Bangs Erindringer

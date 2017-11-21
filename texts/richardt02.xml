@@ -1,10 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!-- 17.09.2002 HHL indsat vaerktitler-->
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="idm140352323861488"><!-- 
-       file     ./marc_dir/002053814.xml
-       field     
-       subfield  
-       prefix   -->
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="root">
   <teiHeader xml:id="idm140352323860880">
     <fileDesc xml:id="idm140352323860624">
       <titleStmt xml:id="idm140352323860320">
@@ -19,17 +14,480 @@
         <note xml:id="idm140352323831984">
 	  </note>
       </notesStmt>
-      <sourceDesc xml:id="idm140352323831424"><bibl xml:id="idm140352323831296"><author n="1" xml:id="idm140352323830608"><name xml:id="idm140352323830352"><surname xml:id="idm140352323830224">Richardt</surname>, <forename xml:id="idm140352323829792">Chr.</forename></name></author><title xml:id="idm140352323829536">Samlede Digte. Anden deel.</title><pubPlace xml:id="idm140352323829232">København</pubPlace>
-<date xml:id="idm140352323828752">1895</date></bibl><listBibl xml:id="idm140352323828464"><bibl xml:id="biblid53729"><title xml:id="idm140352323815312">Billedtexter 1 - 3 (I)</title></bibl><bibl xml:id="biblid53735"><title xml:id="idm140352323814528">Overraskelse</title></bibl><bibl xml:id="biblid55262"><title xml:id="idm140352323813744">Betids</title></bibl><bibl xml:id="biblid55481"><title xml:id="idm140352323812912">Patient</title></bibl><bibl xml:id="biblid55848"><title xml:id="idm140352323812080">En Valplads.</title></bibl><bibl xml:id="biblid56360"><title xml:id="idm140352323811248">Hugormen.</title></bibl><bibl xml:id="biblid56425"><title xml:id="idm140352323810464">Pigen ved Brønden.</title></bibl><bibl xml:id="biblid56486"><title xml:id="idm140352323809664">I Schweiz.</title></bibl><bibl xml:id="biblid56722"><title xml:id="idm140352323808832">Sejrs-Bud.</title></bibl><bibl xml:id="biblid57409"><title xml:id="idm140352323808048">Paradisets Fugle.</title></bibl><bibl xml:id="biblid57550"><title xml:id="idm140352323807216">En Længsel.</title></bibl><bibl xml:id="biblid57654"><title xml:id="idm140352323806416">Jakob i Hebron.</title></bibl><bibl xml:id="biblid58459"><title xml:id="idm140352323805632">Judith. Et bibelsk Heltedigt i ni Sange.</title></bibl><bibl xml:id="biblid62783"><title xml:id="idm140352323804768">Bønnen.</title></bibl><bibl xml:id="biblid62874"><title xml:id="idm140352323803936">Takken.</title></bibl><bibl xml:id="biblid62949"><title xml:id="idm140352323803104">Peters Befrielse.</title></bibl><bibl xml:id="biblid63569"><title xml:id="idm140352323802272">Areopagos.</title></bibl><bibl xml:id="biblid63915"><title xml:id="idm140352323801424">Bosporos.</title></bibl><bibl xml:id="biblid66161"><title xml:id="idm140352323800592">Ved Tanganika-Søen.</title></bibl><bibl xml:id="biblid66804"><title xml:id="idm140352323799728">Missions-Psalme.</title></bibl><bibl xml:id="biblid66925"><title xml:id="idm140352323798944">Paaskemorgen.</title></bibl><bibl xml:id="biblid67245"><title xml:id="idm140352323798112">Det ubekjendte Land.</title></bibl><bibl xml:id="biblid68334"><title xml:id="idm140352323797280">Snestorm i Maj.</title></bibl><bibl xml:id="biblid68520"><title xml:id="idm140352323796448">Til Overvejelse.</title></bibl><bibl xml:id="biblid69414"><title xml:id="idm140352323795616">Sønderjydens Sang.</title></bibl><bibl xml:id="biblid69606"><title xml:id="idm140352323794768">Foraars-Gry.</title></bibl><bibl xml:id="biblid69825"><title xml:id="idm140352323793936">Opfarten til Upsal.</title></bibl><bibl xml:id="biblid70666"><title xml:id="idm140352323793104">Ved Dannemora.</title></bibl><bibl xml:id="biblid70871"><title xml:id="idm140352323792272">Til Nordens Ungdom.</title></bibl><bibl xml:id="biblid71032"><title xml:id="idm140352323791424">Fjeld og Dal.</title></bibl><bibl xml:id="biblid71794"><title xml:id="idm140352323790592">Frembrud.</title></bibl><bibl xml:id="biblid72059"><title xml:id="idm140352323789760">Ved Kysthospitalets Indvielse.</title></bibl><bibl xml:id="biblid72459"><title xml:id="idm140352323788912">Ved Emmaus-Kirkens Indvielse.</title></bibl><bibl xml:id="biblid72790"><title xml:id="idm140352323788000">Stævns.</title></bibl><bibl xml:id="biblid73198"><title xml:id="idm140352323787168">Frederik Hammerich</title></bibl><bibl xml:id="biblid73332"><title xml:id="idm140352323786384">H. N. Clausen</title></bibl><bibl xml:id="biblid73545"><title xml:id="idm140352323891200">Frederik Paludan-Müller</title></bibl><bibl xml:id="biblid73687"><title xml:id="idm140352323890448">Ved Aften.</title></bibl><bibl xml:id="biblid73757"><title xml:id="idm140352323889664">Vinter og Vaar.</title></bibl><bibl xml:id="biblid74201"><title xml:id="idm140352323888880">Drot og Folk.</title></bibl><bibl xml:id="biblid74265"><title xml:id="idm140352323888096">Nattergalen.</title></bibl><bibl xml:id="biblid74356"><title xml:id="idm140352323887312">Billedtexter 1 - 5.</title></bibl><bibl xml:id="biblid74364"><title xml:id="idm140352323760304">Nisse-Frieri</title></bibl><bibl xml:id="biblid74628"><title xml:id="idm140352323759520">Hund og Krage.</title></bibl><bibl xml:id="biblid74805"><title xml:id="idm140352323758736">Tamt og vildt.</title></bibl><bibl xml:id="biblid75147"><title xml:id="idm140352323757952">Naar jeg bli'r stor.</title></bibl><bibl xml:id="biblid75306"><title xml:id="idm140352323757104">Pigen med Katten.</title></bibl><bibl xml:id="biblid75414"><title xml:id="idm140352323756320">Møllen og Kirken.</title></bibl><bibl xml:id="biblid75555"><title xml:id="idm140352323755504">I Høst.</title></bibl><bibl xml:id="biblid75753"><title xml:id="idm140352323754720">Korn i Hus.</title></bibl><bibl xml:id="biblid76140"><title xml:id="idm140352323753936">Ved Allehelgenstid.</title></bibl><bibl xml:id="biblid76329"><title xml:id="idm140352323753152">Vierwaldstädter-Søen.</title></bibl><bibl xml:id="biblid76431"><title xml:id="idm140352323752336">Kamar.</title></bibl><bibl xml:id="biblid76782"><title xml:id="idm140352323751552">Til H. C. Andersen. [Et Leve for Helten af anden April]</title></bibl><bibl xml:id="biblid76944"><title xml:id="idm140352323750736">Ved Indvielsen af N. Zahles Skoler.</title></bibl><bibl xml:id="biblid77093"><title xml:id="idm140352323749984">Ved Præsten P. A. Fengers Embeds-Jubilæum.</title></bibl><bibl xml:id="biblid77245"><title xml:id="idm140352323749120">Til Santal-Missionæren H. P. Børresen.</title></bibl><bibl xml:id="biblid77426"><title xml:id="idm140352323748272">Mumie-Kornet.</title></bibl><bibl xml:id="biblid77549"><title xml:id="idm140352323747488">Spørgsmaal.</title></bibl><bibl xml:id="biblid77731"><title xml:id="idm140352323746736">Den trange Vej.</title></bibl><bibl xml:id="biblid77816"><title xml:id="idm140352323741888">Gjertrud Rask.</title></bibl><bibl xml:id="biblid78198"><title xml:id="idm140352323741200">Glem og husk!</title></bibl><bibl xml:id="biblid78332"><title xml:id="idm140352323740512">Effata!</title></bibl><bibl xml:id="biblid78490"><title xml:id="idm140352323739824">Træet og Grenene.</title></bibl><bibl xml:id="biblid78653"><title xml:id="idm140352323739136">Bethanien.</title></bibl><bibl xml:id="biblid78924"><title xml:id="idm140352323738448">Asenindens Føl.</title></bibl><bibl xml:id="biblid79238"><title xml:id="idm140352323737696">Røveren paa Korset.</title></bibl><bibl xml:id="biblid79408"><title xml:id="idm140352323736912">Vasen.</title></bibl><bibl xml:id="biblid79886"><title xml:id="idm140352323736096">Spirerne.</title></bibl><bibl xml:id="biblid79978"><title xml:id="idm140352323735312">Præstevalget.</title></bibl><bibl xml:id="biblid81510"><title xml:id="idm140352323734496">Vinterens Begravelse.</title></bibl><bibl xml:id="biblid81773"><title xml:id="idm140352323733712">Et Møde i Rom.</title></bibl><bibl xml:id="biblid84133"><title xml:id="idm140352323732960">For Kjøbenhavns Universitet.</title></bibl><bibl xml:id="biblid84738"><title xml:id="idm140352323732128">For Studenterne.</title></bibl><bibl xml:id="biblid84898"><title xml:id="idm140352323731344">Ved Promotionsfesten.</title></bibl><bibl xml:id="biblid85920"><title xml:id="idm140352323730560">Sverig-Norges Universiteter.</title></bibl><bibl xml:id="biblid86064"><title xml:id="idm140352323729808">Ved Studenter-Sangforeningens Fest.</title></bibl><bibl xml:id="biblid86605"><title xml:id="idm140352323728992">Ved Indvielsen af Fredericias nye Skolebygning.</title></bibl><bibl xml:id="biblid86792"><title xml:id="idm140352323728176">Danmark. Foraaret 1879.</title></bibl><bibl xml:id="biblid86936"><title xml:id="idm140352323727392">Paragraf 5.</title></bibl><bibl xml:id="biblid87010"><title xml:id="idm140352323726608">Carl Ploug.</title></bibl><bibl xml:id="biblid87265"><title xml:id="idm140352323725824">C. Hostrup.</title></bibl><bibl xml:id="biblid87651"><title xml:id="idm140352323725040">Ved Helligaands-Kirkens Fornyelse.</title></bibl><bibl xml:id="biblid87899"><title xml:id="idm140352323724288">Til H. L. Martensen.</title></bibl><bibl xml:id="biblid88082"><title xml:id="idm140352323723504">Rudolf Frimodt</title></bibl><bibl xml:id="biblid88267"><title xml:id="idm140352323722720">Gotfred Benjamin Rode</title></bibl><bibl xml:id="biblid88416"><title xml:id="idm140352323721936">Peter Arnold Heise</title></bibl><bibl xml:id="biblid88548"><title xml:id="idm140352323721152">Maanebroen.</title></bibl><bibl xml:id="biblid88668"><title xml:id="idm140352323720368">Hvad hjalp det mig </title></bibl><bibl xml:id="biblid88788"><title xml:id="idm140352323719584">Christus-Troen.</title></bibl><bibl xml:id="biblid88964"><title xml:id="idm140352323718736">Bøn og Arbejd!</title></bibl><bibl xml:id="biblid89168"><title xml:id="idm140352323717984">Kjærlighed.</title></bibl><bibl xml:id="biblid89254"><title xml:id="idm140352323717232">Matthæus.</title></bibl><bibl xml:id="biblid89467"><title xml:id="idm140352323716448">Paulus i Cæsarea.</title></bibl><bibl xml:id="biblid90155"><title xml:id="idm140352323715648">Ydre Mission.</title></bibl><bibl xml:id="biblid90341"><title xml:id="idm140352323714864">Indre Mission.</title></bibl><bibl xml:id="biblid90522"><title xml:id="idm140352323714032">Spejling.</title></bibl><bibl xml:id="biblid90642"><title xml:id="idm140352323713184">Foraar begynder.</title></bibl><bibl xml:id="biblid90899"><title xml:id="idm140352323712400">Børn.</title></bibl><bibl xml:id="biblid91087"><title xml:id="idm140352323711616">Af en Opera.</title></bibl><bibl xml:id="biblid91092"><title xml:id="idm140352323710768">Laugenes Fanetog</title></bibl><bibl xml:id="biblid91420"><title xml:id="idm140352323709984">Sang. [Jeg fanged engang en ædel Falk]</title></bibl><bibl xml:id="biblid91514"><title xml:id="idm140352323709136">I Kongens Kjøkken.</title></bibl><bibl xml:id="biblid91874"><title xml:id="idm140352323708272">Fyens Hegn.</title></bibl><bibl xml:id="biblid92130"><title xml:id="idm140352323707488">Uglen og Smaafuglene.</title></bibl><bibl xml:id="biblid92413"><title xml:id="idm140352323706704">Mit Piletræ.</title></bibl><bibl xml:id="biblid92541"><title xml:id="idm140352323705856">Herodes' Død.</title></bibl><bibl xml:id="biblid92948"><title xml:id="idm140352323704992">I Bergen.</title></bibl><bibl xml:id="biblid94247"><title xml:id="idm140352323704144">Mand overbord.</title></bibl><bibl xml:id="biblid95179"><title xml:id="idm140352323703296">Luther i Worms.</title></bibl><bibl xml:id="biblid95628"><title xml:id="idm140352323702448">De tvende Taarne.</title></bibl><bibl xml:id="biblid95847"><title xml:id="idm140352323701600">Hans Kryger.</title></bibl><bibl xml:id="biblid95996"><title xml:id="idm140352323700816">Steen Steensen Blicher.</title></bibl><bibl xml:id="biblid96269"><title xml:id="idm140352323699968">N. F. S. Grundtvig.</title></bibl><bibl xml:id="biblid96735"><title xml:id="idm140352323699184">Foraar. Variationer over et gammelt Thema.</title></bibl><bibl xml:id="biblid96744"><title xml:id="idm140352323698368">Bebudelse</title></bibl><bibl xml:id="biblid96819"><title xml:id="idm140352323697584">Vaagnende Vaar.</title></bibl><bibl xml:id="biblid97028"><title xml:id="idm140352323696736">Visne Blade.</title></bibl><bibl xml:id="biblid97135"><title xml:id="idm140352323695952">Vindenes Værk.</title></bibl><bibl xml:id="biblid97318"><title xml:id="idm140352323695152">Gaaet ud.</title></bibl><bibl xml:id="biblid97414"><title xml:id="idm140352323694368">Forvandling.</title></bibl><bibl xml:id="biblid97497"><title xml:id="idm140352323693584">Vaarens Fylde.</title></bibl><bibl xml:id="biblid97677"><title xml:id="idm140352323692736">Hvad Tiden fordrer.</title></bibl><bibl xml:id="biblid97878"><title xml:id="idm140352323691952">Hvem er Han?</title></bibl><bibl xml:id="biblid98251"><title xml:id="idm140352323691104">Derfor!</title></bibl><bibl xml:id="biblid98489"><title xml:id="idm140352323690208">Salvingen i Bethania.</title></bibl><bibl xml:id="biblid98671"><title xml:id="idm140352323689360">Martin Hammerich</title></bibl><bibl xml:id="biblid98843"><title xml:id="idm140352323688576">H. L. Martensen</title></bibl><bibl xml:id="biblid99004"><title xml:id="idm140352323687792">Ved Afdækning af Mindestenen for Enkedronning Caroline Amalie</title></bibl><bibl xml:id="biblid99115"><title xml:id="idm140352323686848">Ved N. F. S. Grundtvigs Hundredaarsfest i Udby.</title></bibl><bibl xml:id="biblid99312"><title xml:id="idm140352323686032">Ved Missionshuset 'Bethanias' Indvielse.</title></bibl><bibl xml:id="biblid99495"><title xml:id="idm140352323685152">Tyendeliv.</title></bibl><bibl xml:id="biblid99610"><title xml:id="idm140352323684304">Tro og Gjerning.</title></bibl><bibl xml:id="biblid99686"><title xml:id="idm140352323683456">Under fremmed Navn.</title></bibl><bibl xml:id="biblid99784"><title xml:id="idm140352323682672">Pløjetid.</title></bibl><bibl xml:id="biblid99911"><title xml:id="idm140352323681888">Fra Aarets Tider 1 - 5.</title></bibl><bibl xml:id="biblid99917"><title xml:id="idm140352323681104">Koldt Foraar.</title></bibl><bibl xml:id="biblid100029"><title xml:id="idm140352323680320">Somrens Farvel.</title></bibl><bibl xml:id="biblid100290"><title xml:id="idm140352323679472">Ved Juletid. [Den hvide Snee har lagt sig]</title></bibl><bibl xml:id="biblid100657"><title xml:id="idm140352323678656">Efter Snestorm.</title></bibl><bibl xml:id="biblid100829"><title xml:id="idm140352323677872">Skovens Saga.</title></bibl><bibl xml:id="biblid101159"><title xml:id="idm140352323677040">Til Kong Christian IX.</title></bibl><bibl xml:id="biblid101395"><title xml:id="idm140352323676256">For Danmark.</title></bibl><bibl xml:id="biblid101574"><title xml:id="idm140352323675408">Til Kongen.</title></bibl><bibl xml:id="biblid101724"><title xml:id="idm140352323674624">For Universitetet.</title></bibl><bibl xml:id="biblid101956"><title xml:id="idm140352323673840">Ved Velgjørenheds-Selskabets Skoles Jubilæum.</title></bibl><bibl xml:id="biblid102175"><title xml:id="idm140352323672928">Forlæggernes Skaal. Ved Nordisk Boghandler-Møde.</title></bibl><bibl xml:id="biblid102392"><title xml:id="idm140352323672064">Billedtexter 1 - 3 (II)</title></bibl><bibl xml:id="biblid102397"><title xml:id="idm140352323671280">Ubudne Gjæster.</title></bibl><bibl xml:id="biblid102503"><title xml:id="idm140352323670432">Tiggeri.</title></bibl><bibl xml:id="biblid102688"><title xml:id="idm140352323669536">Dørvogteren.</title></bibl><bibl xml:id="biblid102910"><title xml:id="idm140352323668736">Rejsebrev</title></bibl></listBibl></sourceDesc>
+      <sourceDesc xml:id="idm140352323831424">
+        <bibl xml:id="idm140352323831296">
+          <author n="1" xml:id="idm140352323830608">
+            <name xml:id="idm140352323830352"><surname xml:id="idm140352323830224">Richardt</surname>, <forename xml:id="idm140352323829792">Chr.</forename></name>
+          </author>
+          <title xml:id="idm140352323829536">Samlede Digte. Anden deel.</title>
+          <pubPlace xml:id="idm140352323829232">København</pubPlace>
+          <date xml:id="idm140352323828752">1895</date>
+        </bibl>
+        <listBibl xml:id="idm140352323828464">
+          <bibl xml:id="biblid53729">
+            <title xml:id="idm140352323815312">Billedtexter 1 - 3 (I)</title>
+          </bibl>
+          <bibl xml:id="biblid53735">
+            <title xml:id="idm140352323814528">Overraskelse</title>
+          </bibl>
+          <bibl xml:id="biblid55262">
+            <title xml:id="idm140352323813744">Betids</title>
+          </bibl>
+          <bibl xml:id="biblid55481">
+            <title xml:id="idm140352323812912">Patient</title>
+          </bibl>
+          <bibl xml:id="biblid55848">
+            <title xml:id="idm140352323812080">En Valplads.</title>
+          </bibl>
+          <bibl xml:id="biblid56360">
+            <title xml:id="idm140352323811248">Hugormen.</title>
+          </bibl>
+          <bibl xml:id="biblid56425">
+            <title xml:id="idm140352323810464">Pigen ved Brønden.</title>
+          </bibl>
+          <bibl xml:id="biblid56486">
+            <title xml:id="idm140352323809664">I Schweiz.</title>
+          </bibl>
+          <bibl xml:id="biblid56722">
+            <title xml:id="idm140352323808832">Sejrs-Bud.</title>
+          </bibl>
+          <bibl xml:id="biblid57409">
+            <title xml:id="idm140352323808048">Paradisets Fugle.</title>
+          </bibl>
+          <bibl xml:id="biblid57550">
+            <title xml:id="idm140352323807216">En Længsel.</title>
+          </bibl>
+          <bibl xml:id="biblid57654">
+            <title xml:id="idm140352323806416">Jakob i Hebron.</title>
+          </bibl>
+          <bibl xml:id="biblid58459">
+            <title xml:id="idm140352323805632">Judith. Et bibelsk Heltedigt i ni Sange.</title>
+          </bibl>
+          <bibl xml:id="biblid62783">
+            <title xml:id="idm140352323804768">Bønnen.</title>
+          </bibl>
+          <bibl xml:id="biblid62874">
+            <title xml:id="idm140352323803936">Takken.</title>
+          </bibl>
+          <bibl xml:id="biblid62949">
+            <title xml:id="idm140352323803104">Peters Befrielse.</title>
+          </bibl>
+          <bibl xml:id="biblid63569">
+            <title xml:id="idm140352323802272">Areopagos.</title>
+          </bibl>
+          <bibl xml:id="biblid63915">
+            <title xml:id="idm140352323801424">Bosporos.</title>
+          </bibl>
+          <bibl xml:id="biblid66161">
+            <title xml:id="idm140352323800592">Ved Tanganika-Søen.</title>
+          </bibl>
+          <bibl xml:id="biblid66804">
+            <title xml:id="idm140352323799728">Missions-Psalme.</title>
+          </bibl>
+          <bibl xml:id="biblid66925">
+            <title xml:id="idm140352323798944">Paaskemorgen.</title>
+          </bibl>
+          <bibl xml:id="biblid67245">
+            <title xml:id="idm140352323798112">Det ubekjendte Land.</title>
+          </bibl>
+          <bibl xml:id="biblid68334">
+            <title xml:id="idm140352323797280">Snestorm i Maj.</title>
+          </bibl>
+          <bibl xml:id="biblid68520">
+            <title xml:id="idm140352323796448">Til Overvejelse.</title>
+          </bibl>
+          <bibl xml:id="biblid69414">
+            <title xml:id="idm140352323795616">Sønderjydens Sang.</title>
+          </bibl>
+          <bibl xml:id="biblid69606">
+            <title xml:id="idm140352323794768">Foraars-Gry.</title>
+          </bibl>
+          <bibl xml:id="biblid69825">
+            <title xml:id="idm140352323793936">Opfarten til Upsal.</title>
+          </bibl>
+          <bibl xml:id="biblid70666">
+            <title xml:id="idm140352323793104">Ved Dannemora.</title>
+          </bibl>
+          <bibl xml:id="biblid70871">
+            <title xml:id="idm140352323792272">Til Nordens Ungdom.</title>
+          </bibl>
+          <bibl xml:id="biblid71032">
+            <title xml:id="idm140352323791424">Fjeld og Dal.</title>
+          </bibl>
+          <bibl xml:id="biblid71794">
+            <title xml:id="idm140352323790592">Frembrud.</title>
+          </bibl>
+          <bibl xml:id="biblid72059">
+            <title xml:id="idm140352323789760">Ved Kysthospitalets Indvielse.</title>
+          </bibl>
+          <bibl xml:id="biblid72459">
+            <title xml:id="idm140352323788912">Ved Emmaus-Kirkens Indvielse.</title>
+          </bibl>
+          <bibl xml:id="biblid72790">
+            <title xml:id="idm140352323788000">Stævns.</title>
+          </bibl>
+          <bibl xml:id="biblid73198">
+            <title xml:id="idm140352323787168">Frederik Hammerich</title>
+          </bibl>
+          <bibl xml:id="biblid73332">
+            <title xml:id="idm140352323786384">H. N. Clausen</title>
+          </bibl>
+          <bibl xml:id="biblid73545">
+            <title xml:id="idm140352323891200">Frederik Paludan-Müller</title>
+          </bibl>
+          <bibl xml:id="biblid73687">
+            <title xml:id="idm140352323890448">Ved Aften.</title>
+          </bibl>
+          <bibl xml:id="biblid73757">
+            <title xml:id="idm140352323889664">Vinter og Vaar.</title>
+          </bibl>
+          <bibl xml:id="biblid74201">
+            <title xml:id="idm140352323888880">Drot og Folk.</title>
+          </bibl>
+          <bibl xml:id="biblid74265">
+            <title xml:id="idm140352323888096">Nattergalen.</title>
+          </bibl>
+          <bibl xml:id="biblid74356">
+            <title xml:id="idm140352323887312">Billedtexter 1 - 5.</title>
+          </bibl>
+          <bibl xml:id="biblid74364">
+            <title xml:id="idm140352323760304">Nisse-Frieri</title>
+          </bibl>
+          <bibl xml:id="biblid74628">
+            <title xml:id="idm140352323759520">Hund og Krage.</title>
+          </bibl>
+          <bibl xml:id="biblid74805">
+            <title xml:id="idm140352323758736">Tamt og vildt.</title>
+          </bibl>
+          <bibl xml:id="biblid75147">
+            <title xml:id="idm140352323757952">Naar jeg bli'r stor.</title>
+          </bibl>
+          <bibl xml:id="biblid75306">
+            <title xml:id="idm140352323757104">Pigen med Katten.</title>
+          </bibl>
+          <bibl xml:id="biblid75414">
+            <title xml:id="idm140352323756320">Møllen og Kirken.</title>
+          </bibl>
+          <bibl xml:id="biblid75555">
+            <title xml:id="idm140352323755504">I Høst.</title>
+          </bibl>
+          <bibl xml:id="biblid75753">
+            <title xml:id="idm140352323754720">Korn i Hus.</title>
+          </bibl>
+          <bibl xml:id="biblid76140">
+            <title xml:id="idm140352323753936">Ved Allehelgenstid.</title>
+          </bibl>
+          <bibl xml:id="biblid76329">
+            <title xml:id="idm140352323753152">Vierwaldstädter-Søen.</title>
+          </bibl>
+          <bibl xml:id="biblid76431">
+            <title xml:id="idm140352323752336">Kamar.</title>
+          </bibl>
+          <bibl xml:id="biblid76782">
+            <title xml:id="idm140352323751552">Til H. C. Andersen. [Et Leve for Helten af anden April]</title>
+          </bibl>
+          <bibl xml:id="biblid76944">
+            <title xml:id="idm140352323750736">Ved Indvielsen af N. Zahles Skoler.</title>
+          </bibl>
+          <bibl xml:id="biblid77093">
+            <title xml:id="idm140352323749984">Ved Præsten P. A. Fengers Embeds-Jubilæum.</title>
+          </bibl>
+          <bibl xml:id="biblid77245">
+            <title xml:id="idm140352323749120">Til Santal-Missionæren H. P. Børresen.</title>
+          </bibl>
+          <bibl xml:id="biblid77426">
+            <title xml:id="idm140352323748272">Mumie-Kornet.</title>
+          </bibl>
+          <bibl xml:id="biblid77549">
+            <title xml:id="idm140352323747488">Spørgsmaal.</title>
+          </bibl>
+          <bibl xml:id="biblid77731">
+            <title xml:id="idm140352323746736">Den trange Vej.</title>
+          </bibl>
+          <bibl xml:id="biblid77816">
+            <title xml:id="idm140352323741888">Gjertrud Rask.</title>
+          </bibl>
+          <bibl xml:id="biblid78198">
+            <title xml:id="idm140352323741200">Glem og husk!</title>
+          </bibl>
+          <bibl xml:id="biblid78332">
+            <title xml:id="idm140352323740512">Effata!</title>
+          </bibl>
+          <bibl xml:id="biblid78490">
+            <title xml:id="idm140352323739824">Træet og Grenene.</title>
+          </bibl>
+          <bibl xml:id="biblid78653">
+            <title xml:id="idm140352323739136">Bethanien.</title>
+          </bibl>
+          <bibl xml:id="biblid78924">
+            <title xml:id="idm140352323738448">Asenindens Føl.</title>
+          </bibl>
+          <bibl xml:id="biblid79238">
+            <title xml:id="idm140352323737696">Røveren paa Korset.</title>
+          </bibl>
+          <bibl xml:id="biblid79408">
+            <title xml:id="idm140352323736912">Vasen.</title>
+          </bibl>
+          <bibl xml:id="biblid79886">
+            <title xml:id="idm140352323736096">Spirerne.</title>
+          </bibl>
+          <bibl xml:id="biblid79978">
+            <title xml:id="idm140352323735312">Præstevalget.</title>
+          </bibl>
+          <bibl xml:id="biblid81510">
+            <title xml:id="idm140352323734496">Vinterens Begravelse.</title>
+          </bibl>
+          <bibl xml:id="biblid81773">
+            <title xml:id="idm140352323733712">Et Møde i Rom.</title>
+          </bibl>
+          <bibl xml:id="biblid84133">
+            <title xml:id="idm140352323732960">For Kjøbenhavns Universitet.</title>
+          </bibl>
+          <bibl xml:id="biblid84738">
+            <title xml:id="idm140352323732128">For Studenterne.</title>
+          </bibl>
+          <bibl xml:id="biblid84898">
+            <title xml:id="idm140352323731344">Ved Promotionsfesten.</title>
+          </bibl>
+          <bibl xml:id="biblid85920">
+            <title xml:id="idm140352323730560">Sverig-Norges Universiteter.</title>
+          </bibl>
+          <bibl xml:id="biblid86064">
+            <title xml:id="idm140352323729808">Ved Studenter-Sangforeningens Fest.</title>
+          </bibl>
+          <bibl xml:id="biblid86605">
+            <title xml:id="idm140352323728992">Ved Indvielsen af Fredericias nye Skolebygning.</title>
+          </bibl>
+          <bibl xml:id="biblid86792">
+            <title xml:id="idm140352323728176">Danmark. Foraaret 1879.</title>
+          </bibl>
+          <bibl xml:id="biblid86936">
+            <title xml:id="idm140352323727392">Paragraf 5.</title>
+          </bibl>
+          <bibl xml:id="biblid87010">
+            <title xml:id="idm140352323726608">Carl Ploug.</title>
+          </bibl>
+          <bibl xml:id="biblid87265">
+            <title xml:id="idm140352323725824">C. Hostrup.</title>
+          </bibl>
+          <bibl xml:id="biblid87651">
+            <title xml:id="idm140352323725040">Ved Helligaands-Kirkens Fornyelse.</title>
+          </bibl>
+          <bibl xml:id="biblid87899">
+            <title xml:id="idm140352323724288">Til H. L. Martensen.</title>
+          </bibl>
+          <bibl xml:id="biblid88082">
+            <title xml:id="idm140352323723504">Rudolf Frimodt</title>
+          </bibl>
+          <bibl xml:id="biblid88267">
+            <title xml:id="idm140352323722720">Gotfred Benjamin Rode</title>
+          </bibl>
+          <bibl xml:id="biblid88416">
+            <title xml:id="idm140352323721936">Peter Arnold Heise</title>
+          </bibl>
+          <bibl xml:id="biblid88548">
+            <title xml:id="idm140352323721152">Maanebroen.</title>
+          </bibl>
+          <bibl xml:id="biblid88668">
+            <title xml:id="idm140352323720368">Hvad hjalp det mig </title>
+          </bibl>
+          <bibl xml:id="biblid88788">
+            <title xml:id="idm140352323719584">Christus-Troen.</title>
+          </bibl>
+          <bibl xml:id="biblid88964">
+            <title xml:id="idm140352323718736">Bøn og Arbejd!</title>
+          </bibl>
+          <bibl xml:id="biblid89168">
+            <title xml:id="idm140352323717984">Kjærlighed.</title>
+          </bibl>
+          <bibl xml:id="biblid89254">
+            <title xml:id="idm140352323717232">Matthæus.</title>
+          </bibl>
+          <bibl xml:id="biblid89467">
+            <title xml:id="idm140352323716448">Paulus i Cæsarea.</title>
+          </bibl>
+          <bibl xml:id="biblid90155">
+            <title xml:id="idm140352323715648">Ydre Mission.</title>
+          </bibl>
+          <bibl xml:id="biblid90341">
+            <title xml:id="idm140352323714864">Indre Mission.</title>
+          </bibl>
+          <bibl xml:id="biblid90522">
+            <title xml:id="idm140352323714032">Spejling.</title>
+          </bibl>
+          <bibl xml:id="biblid90642">
+            <title xml:id="idm140352323713184">Foraar begynder.</title>
+          </bibl>
+          <bibl xml:id="biblid90899">
+            <title xml:id="idm140352323712400">Børn.</title>
+          </bibl>
+          <bibl xml:id="biblid91087">
+            <title xml:id="idm140352323711616">Af en Opera.</title>
+          </bibl>
+          <bibl xml:id="biblid91092">
+            <title xml:id="idm140352323710768">Laugenes Fanetog</title>
+          </bibl>
+          <bibl xml:id="biblid91420">
+            <title xml:id="idm140352323709984">Sang. [Jeg fanged engang en ædel Falk]</title>
+          </bibl>
+          <bibl xml:id="biblid91514">
+            <title xml:id="idm140352323709136">I Kongens Kjøkken.</title>
+          </bibl>
+          <bibl xml:id="biblid91874">
+            <title xml:id="idm140352323708272">Fyens Hegn.</title>
+          </bibl>
+          <bibl xml:id="biblid92130">
+            <title xml:id="idm140352323707488">Uglen og Smaafuglene.</title>
+          </bibl>
+          <bibl xml:id="biblid92413">
+            <title xml:id="idm140352323706704">Mit Piletræ.</title>
+          </bibl>
+          <bibl xml:id="biblid92541">
+            <title xml:id="idm140352323705856">Herodes' Død.</title>
+          </bibl>
+          <bibl xml:id="biblid92948">
+            <title xml:id="idm140352323704992">I Bergen.</title>
+          </bibl>
+          <bibl xml:id="biblid94247">
+            <title xml:id="idm140352323704144">Mand overbord.</title>
+          </bibl>
+          <bibl xml:id="biblid95179">
+            <title xml:id="idm140352323703296">Luther i Worms.</title>
+          </bibl>
+          <bibl xml:id="biblid95628">
+            <title xml:id="idm140352323702448">De tvende Taarne.</title>
+          </bibl>
+          <bibl xml:id="biblid95847">
+            <title xml:id="idm140352323701600">Hans Kryger.</title>
+          </bibl>
+          <bibl xml:id="biblid95996">
+            <title xml:id="idm140352323700816">Steen Steensen Blicher.</title>
+          </bibl>
+          <bibl xml:id="biblid96269">
+            <title xml:id="idm140352323699968">N. F. S. Grundtvig.</title>
+          </bibl>
+          <bibl xml:id="biblid96735">
+            <title xml:id="idm140352323699184">Foraar. Variationer over et gammelt Thema.</title>
+          </bibl>
+          <bibl xml:id="biblid96744">
+            <title xml:id="idm140352323698368">Bebudelse</title>
+          </bibl>
+          <bibl xml:id="biblid96819">
+            <title xml:id="idm140352323697584">Vaagnende Vaar.</title>
+          </bibl>
+          <bibl xml:id="biblid97028">
+            <title xml:id="idm140352323696736">Visne Blade.</title>
+          </bibl>
+          <bibl xml:id="biblid97135">
+            <title xml:id="idm140352323695952">Vindenes Værk.</title>
+          </bibl>
+          <bibl xml:id="biblid97318">
+            <title xml:id="idm140352323695152">Gaaet ud.</title>
+          </bibl>
+          <bibl xml:id="biblid97414">
+            <title xml:id="idm140352323694368">Forvandling.</title>
+          </bibl>
+          <bibl xml:id="biblid97497">
+            <title xml:id="idm140352323693584">Vaarens Fylde.</title>
+          </bibl>
+          <bibl xml:id="biblid97677">
+            <title xml:id="idm140352323692736">Hvad Tiden fordrer.</title>
+          </bibl>
+          <bibl xml:id="biblid97878">
+            <title xml:id="idm140352323691952">Hvem er Han?</title>
+          </bibl>
+          <bibl xml:id="biblid98251">
+            <title xml:id="idm140352323691104">Derfor!</title>
+          </bibl>
+          <bibl xml:id="biblid98489">
+            <title xml:id="idm140352323690208">Salvingen i Bethania.</title>
+          </bibl>
+          <bibl xml:id="biblid98671">
+            <title xml:id="idm140352323689360">Martin Hammerich</title>
+          </bibl>
+          <bibl xml:id="biblid98843">
+            <title xml:id="idm140352323688576">H. L. Martensen</title>
+          </bibl>
+          <bibl xml:id="biblid99004">
+            <title xml:id="idm140352323687792">Ved Afdækning af Mindestenen for Enkedronning Caroline Amalie</title>
+          </bibl>
+          <bibl xml:id="biblid99115">
+            <title xml:id="idm140352323686848">Ved N. F. S. Grundtvigs Hundredaarsfest i Udby.</title>
+          </bibl>
+          <bibl xml:id="biblid99312">
+            <title xml:id="idm140352323686032">Ved Missionshuset 'Bethanias' Indvielse.</title>
+          </bibl>
+          <bibl xml:id="biblid99495">
+            <title xml:id="idm140352323685152">Tyendeliv.</title>
+          </bibl>
+          <bibl xml:id="biblid99610">
+            <title xml:id="idm140352323684304">Tro og Gjerning.</title>
+          </bibl>
+          <bibl xml:id="biblid99686">
+            <title xml:id="idm140352323683456">Under fremmed Navn.</title>
+          </bibl>
+          <bibl xml:id="biblid99784">
+            <title xml:id="idm140352323682672">Pløjetid.</title>
+          </bibl>
+          <bibl xml:id="biblid99911">
+            <title xml:id="idm140352323681888">Fra Aarets Tider 1 - 5.</title>
+          </bibl>
+          <bibl xml:id="biblid99917">
+            <title xml:id="idm140352323681104">Koldt Foraar.</title>
+          </bibl>
+          <bibl xml:id="biblid100029">
+            <title xml:id="idm140352323680320">Somrens Farvel.</title>
+          </bibl>
+          <bibl xml:id="biblid100290">
+            <title xml:id="idm140352323679472">Ved Juletid. [Den hvide Snee har lagt sig]</title>
+          </bibl>
+          <bibl xml:id="biblid100657">
+            <title xml:id="idm140352323678656">Efter Snestorm.</title>
+          </bibl>
+          <bibl xml:id="biblid100829">
+            <title xml:id="idm140352323677872">Skovens Saga.</title>
+          </bibl>
+          <bibl xml:id="biblid101159">
+            <title xml:id="idm140352323677040">Til Kong Christian IX.</title>
+          </bibl>
+          <bibl xml:id="biblid101395">
+            <title xml:id="idm140352323676256">For Danmark.</title>
+          </bibl>
+          <bibl xml:id="biblid101574">
+            <title xml:id="idm140352323675408">Til Kongen.</title>
+          </bibl>
+          <bibl xml:id="biblid101724">
+            <title xml:id="idm140352323674624">For Universitetet.</title>
+          </bibl>
+          <bibl xml:id="biblid101956">
+            <title xml:id="idm140352323673840">Ved Velgjørenheds-Selskabets Skoles Jubilæum.</title>
+          </bibl>
+          <bibl xml:id="biblid102175">
+            <title xml:id="idm140352323672928">Forlæggernes Skaal. Ved Nordisk Boghandler-Møde.</title>
+          </bibl>
+          <bibl xml:id="biblid102392">
+            <title xml:id="idm140352323672064">Billedtexter 1 - 3 (II)</title>
+          </bibl>
+          <bibl xml:id="biblid102397">
+            <title xml:id="idm140352323671280">Ubudne Gjæster.</title>
+          </bibl>
+          <bibl xml:id="biblid102503">
+            <title xml:id="idm140352323670432">Tiggeri.</title>
+          </bibl>
+          <bibl xml:id="biblid102688">
+            <title xml:id="idm140352323669536">Dørvogteren.</title>
+          </bibl>
+          <bibl xml:id="biblid102910">
+            <title xml:id="idm140352323668736">Rejsebrev</title>
+          </bibl>
+        </listBibl>
+      </sourceDesc>
     </fileDesc>
   </teiHeader>
   <text xml:id="idm140352323668096">
     <front xml:id="idm140352323667840">
       <pb n="I" facs="adl/richardt/richardt2/rich2fm001" xml:id="idm140352323667584"/>
       <gap reason="cancelled" xml:id="idm140352323666816"/>
-<!---->
-<!---->
-<!--SAMLEDE DIGTE. ANDEN DEEL.-->
       <pb n="II" facs="adl/richardt/richardt2/rich2fm002" xml:id="idm140352323665264"/>
       <pb n="III" facs="adl/richardt/richardt2/rich2fm003" xml:id="idm140352323664496"/>
       <titlePage xml:id="idm140352323663728">
@@ -8493,8 +8951,8 @@
             <l xml:id="idm140352320095440">Tak for Eders Blyants-Præd'ken!</l>
             <l xml:id="idm140352320094976">Sandt at sige, fik jeg jævnlig</l>
             <l xml:id="idm140352320094512">Lyst at rive overende</l>
-	    <l xml:id="idm140352320094096">alle disse Helgenstøtter,</l>
-	    <l>alle disse malte Syndere,</l>
+            <l xml:id="idm140352320094096">alle disse Helgenstøtter,</l>
+            <l xml:id="id54dd5454-b07b-4cf5-a8f5-03a4a9f201c1">alle disse malte Syndere,</l>
             <l xml:id="idm140352320093600">som fra Christus tage Æren!</l>
             <l xml:id="idm140352320093136">Ære være Sankt Franciscus,</l>
             <l xml:id="idm140352320092704">Sankt Hubertus og de andre, -</l>

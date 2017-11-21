@@ -1,11 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!--  OCR by ATAPY 24.12.02 (Catherine Bychkova) -->
-<!-- HHL 2003.03.07  checket efter script og assumptions.doc-->
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="idm140027970321120"><!-- 
-       file     ./marc_dir/002148875.xml
-       field     
-       subfield  
-       prefix   -->
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="root">
   <teiHeader xml:id="idm140027970320576">
     <fileDesc xml:id="idm140027970320320">
       <titleStmt xml:id="idm140027970294832">
@@ -20,17 +14,22 @@
         <note xml:id="idm140027970291680">
 	  </note>
       </notesStmt>
-      <sourceDesc xml:id="idm140027970291120"><bibl xml:id="idm140027970290992"><author n="1" xml:id="idm140027970290304"><name xml:id="idm140027970290048"><surname xml:id="idm140027970289920">Kaalund</surname>, <forename xml:id="idm140027970289456">H. V.</forename></name></author><title xml:id="idm140027970289168">Fulvia</title><pubPlace xml:id="idm140027970288880">København</pubPlace>
-<date xml:id="idm140027970288400">1891</date></bibl></sourceDesc>
+      <sourceDesc xml:id="idm140027970291120">
+        <bibl xml:id="idm140027970290992">
+          <author n="1" xml:id="idm140027970290304">
+            <name xml:id="idm140027970290048"><surname xml:id="idm140027970289920">Kaalund</surname>, <forename xml:id="idm140027970289456">H. V.</forename></name>
+          </author>
+          <title xml:id="idm140027970289168">Fulvia</title>
+          <pubPlace xml:id="idm140027970288880">København</pubPlace>
+          <date xml:id="idm140027970288400">1891</date>
+        </bibl>
+      </sourceDesc>
     </fileDesc>
   </teiHeader>
   <text xml:id="idm140027970287728">
     <front xml:id="idm140027970287472">
       <pb n="1" xml:id="s1" facs="adl/kaalund/kaalund2/kaal2001"/>
       <gap reason="cancelled" xml:id="idm140027970273584"/>
-<!---->
-<!---->
-<!--FULVIA.-->
       <pb n="2" xml:id="s2" facs="adl/kaalund/kaalund2/kaal2002"/>
       <pb n="3" xml:id="s3" facs="adl/kaalund/kaalund2/kaal2003"/>
       <titlePage xml:id="idm140027970269840">
@@ -184,7 +183,7 @@ Seer Du den høje Bygning, som rager op histude tæt ved Kejserborgen, den, hvis
             </sp>
             <sp xml:id="idm140027970170480">
               <speaker xml:id="idm140027970170224">FØRSTE SLAVE.</speaker>
-              <p xml:id="idm140027970169792">Nej - <!--<emph>--><hi rend="italics" xml:id="idm140027970169312">det</hi><!--</emph>-->  er jo en gammel Historie. Hvad jeg taler om er noget ganske Andet, det er en sort Sten, seer Du, som skal forestille Solen. Flere af vore Templer er allerede paa kejserlig Befaling blevne omkalfatrede og indviede til den nye Guddom.</p>
+              <p xml:id="idm140027970169792">Nej - <hi rend="italics" xml:id="idm140027970169312">det</hi>  er jo en gammel Historie. Hvad jeg taler om er noget ganske Andet, det er en sort Sten, seer Du, som skal forestille Solen. Flere af vore Templer er allerede paa kejserlig Befaling blevne omkalfatrede og indviede til den nye Guddom.</p>
             </sp>
             <pb n="14" xml:id="s14" facs="adl/kaalund/kaalund2/kaal2014"/>
             <sp xml:id="idm140027970166912">
@@ -246,7 +245,7 @@ jeg sige Dig, end alve os og begaa Dumheder. - Men, ved mit Skjæg! der har vi d
             </sp>
             <sp xml:id="idm140027970144656">
               <speaker xml:id="idm140027970144400">FØRSTE SLAVE.</speaker>
-              <p xml:id="idm140027970143968">Ih - <!--<emph>--><hi rend="italics" xml:id="idm140027970143488">Signalet</hi><!--</emph>--> , Menneske! <!--<emph>--><hi rend="italics" xml:id="idm140027970142448">Triumftoget</hi><!--</emph>--> ! - Nu første Mand hjem til den Gamle! Vejen og Trapperne i fire Spring!</p>
+              <p xml:id="idm140027970143968">Ih - <hi rend="italics" xml:id="idm140027970143488">Signalet</hi> , Menneske! <hi rend="italics" xml:id="idm140027970142448">Triumftoget</hi> ! - Nu første Mand hjem til den Gamle! Vejen og Trapperne i fire Spring!</p>
             </sp>
             <stage type="mix" xml:id="idm140027970141184">(Løber ud til Højre, fulgt af den Anden.)</stage>
           </div>
@@ -873,7 +872,7 @@ jeg sige Dig, end alve os og begaa Dumheder. - Men, ved mit Skjæg! der har vi d
               <l xml:id="idm140027969914496">Dig venter. Vid da: Aqvilinus selv,</l>
               <l xml:id="idm140027969914064">Prokonsul Aqvilinus - tænk Dig, Barn!</l>
               <l xml:id="idm140027969913584">har været her, imens Du holdt din Tale</l>
-              <l xml:id="idm140027969913104">hist i Musejon; - <!--<emph>--><hi rend="italics" xml:id="idm140027969912624">han</hi><!--</emph>--> , den Mægtigste</l>
+              <l xml:id="idm140027969913104">hist i Musejon; - <hi rend="italics" xml:id="idm140027969912624">han</hi> , den Mægtigste</l>
               <l xml:id="idm140027969911632">næst Cæsar selv i denne Del af Riget,</l>
               <l xml:id="idm140027969911152">har gjæstet mig i denne Formiddag</l>
               <l xml:id="idm140027969910688">og anholdt om din Haand!</l>
@@ -1324,7 +1323,7 @@ jeg sige Dig, end alve os og begaa Dumheder. - Men, ved mit Skjæg! der har vi d
           <sp xml:id="idm140027969751216">
             <speaker xml:id="idm140027969750960">AQVILINUS.</speaker>
             <lg xml:id="idm140027969750544">
-              <l xml:id="idm140027969750288">Den, som kan trodse <!--<emph>--><hi rend="italics" xml:id="idm140027969749808">ham</hi><!--</emph>--> , er ikke til!</l>
+              <l xml:id="idm140027969750288">Den, som kan trodse <hi rend="italics" xml:id="idm140027969749808">ham</hi> , er ikke til!</l>
             </lg>
           </sp>
           <sp xml:id="idm140027969748608">
@@ -1350,7 +1349,7 @@ jeg sige Dig, end alve os og begaa Dumheder. - Men, ved mit Skjæg! der har vi d
               <l xml:id="idm140027969742000">Rosen visner,</l>
               <l xml:id="idm140027969741584">og Elskov blusser kort som Ild i Straa. -</l>
               <l xml:id="idm140027969741136">Der er et Ord - et lille - men som isner</l>
-              <l xml:id="idm140027969740688">igjennem Marv og Ben: <!--<emph>--><hi rend="italics" xml:id="idm140027969740208">Du skal forgaa!</hi><!--</emph>--> 
+              <l xml:id="idm140027969740688">igjennem Marv og Ben: <hi rend="italics" xml:id="idm140027969740208">Du skal forgaa!</hi> 
 							</l>
               <l xml:id="idm140027969739232">Forsvinde som et Bølgeslag i Havet!</l>
               <l xml:id="idm140027969738752">- Det Ord har tidlig mig til Alvor avet;</l>
@@ -1585,11 +1584,9 @@ jeg sige Dig, end alve os og begaa Dumheder. - Men, ved mit Skjæg! der har vi d
             <speaker xml:id="idm140027969657584">FULVIA</speaker>
             <stage type="mix" xml:id="idm140027969657168">(foragtelig).</stage>
             <lg xml:id="idm140027969656512">
-              <l xml:id="idm140027969656256">Ja - og <!--<emph>--><hi rend="italics" xml:id="idm140027969655776">Ran</hi><!--</emph>-->  -</l>
+              <l xml:id="idm140027969656256">Ja - og <hi rend="italics" xml:id="idm140027969655776">Ran</hi>  -</l>
               <l xml:id="idm140027969654784">
-<!--<emph>-->
                 <hi rend="italics" xml:id="idm140027969654208">og Vold og Mord!</hi>
-<!--</emph>-->
               </l>
             </lg>
           </sp>
@@ -1604,7 +1601,7 @@ jeg sige Dig, end alve os og begaa Dumheder. - Men, ved mit Skjæg! der har vi d
           <sp xml:id="idm140027969650336">
             <speaker xml:id="idm140027969650080">FULVIA.</speaker>
             <lg xml:id="idm140027969649664">
-              <l xml:id="idm140027969649408">Du sigter højt - <!--<emph>--><hi rend="italics" xml:id="idm140027969648912">men ej saa højt som jeg</hi><!--</emph>--> !</l>
+              <l xml:id="idm140027969649408">Du sigter højt - <hi rend="italics" xml:id="idm140027969648912">men ej saa højt som jeg</hi> !</l>
             </lg>
           </sp>
           <sp xml:id="idm140027969647648">
@@ -1685,7 +1682,7 @@ jeg sige Dig, end alve os og begaa Dumheder. - Men, ved mit Skjæg! der har vi d
               <pb n="45" xml:id="s45" facs="adl/kaalund/kaalund2/kaal2045"/>
               <l xml:id="idm140027969620400">- Verden har Ret, skjøndt den er barsk og raa,</l>
               <l xml:id="idm140027969619904">den fordrer Gjerning - løb mod den din Pande;</l>
-              <l xml:id="idm140027969619408"><!--<emph>--><hi rend="italics" xml:id="idm140027969619088">Den og Naturen</hi><!--</emph>-->  skal Du lade staa!</l>
+              <l xml:id="idm140027969619408"><hi rend="italics" xml:id="idm140027969619088">Den og Naturen</hi>  skal Du lade staa!</l>
             </lg>
           </sp>
           <sp xml:id="idm140027969617856">
@@ -1716,7 +1713,7 @@ jeg sige Dig, end alve os og begaa Dumheder. - Men, ved mit Skjæg! der har vi d
             <speaker xml:id="idm140027969609856">AQVILINUS.</speaker>
             <lg xml:id="idm140027969609440">
               <l xml:id="idm140027969609184">Halstarrig er Du, ihvor højt Du higer, -</l>
-              <l xml:id="idm140027969608704"><!--<emph>--><hi rend="italics" xml:id="idm140027969608384">skjøn</hi><!--</emph>-->  - men barnagtig midt i al din Trods!</l>
+              <l xml:id="idm140027969608704"><hi rend="italics" xml:id="idm140027969608384">skjøn</hi>  - men barnagtig midt i al din Trods!</l>
             </lg>
           </sp>
           <sp xml:id="idm140027969607104">
@@ -1736,7 +1733,7 @@ jeg sige Dig, end alve os og begaa Dumheder. - Men, ved mit Skjæg! der har vi d
           <sp xml:id="idm140027969602608">
             <speaker xml:id="idm140027969602352">FULVIA.</speaker>
             <lg xml:id="idm140027969601936">
-              <l xml:id="idm140027969601680"><!--<emph>--><hi rend="italics" xml:id="idm140027969601360">Mit allersidste</hi><!--</emph>--> !</l>
+              <l xml:id="idm140027969601680"><hi rend="italics" xml:id="idm140027969601360">Mit allersidste</hi> !</l>
             </lg>
           </sp>
           <pb n="46" xml:id="s46" facs="adl/kaalund/kaalund2/kaal2046"/>
@@ -1828,7 +1825,7 @@ jeg sige Dig, end alve os og begaa Dumheder. - Men, ved mit Skjæg! der har vi d
               <l xml:id="idm140027969569536">saa helstøbt, broncehaard som denne Romer,</l>
               <l xml:id="idm140027969569056">der pukker paa at staa saa fast paa Jorden,</l>
               <l xml:id="idm140027969568608">kan tabe Ligevægten i en Kamp</l>
-              <l xml:id="idm140027969568144">med mig - <!--<emph>--><hi rend="italics" xml:id="idm140027969567664">mig</hi><!--</emph>--> , som han kaldte for et Barn!</l>
+              <l xml:id="idm140027969568144">med mig - <hi rend="italics" xml:id="idm140027969567664">mig</hi> , som han kaldte for et Barn!</l>
             </lg>
           </sp>
           <sp xml:id="idm140027969566416">
@@ -1879,7 +1876,7 @@ jeg sige Dig, end alve os og begaa Dumheder. - Men, ved mit Skjæg! der har vi d
               <l xml:id="idm140027969550288">Herlige Sokrates! Du, som grimmest blandt alle de Vise,</l>
               <l xml:id="idm140027969549840">magted den højeste Kunst, som nogen Dødelig øved,</l>
               <l xml:id="idm140027969549328">som Praxiteles ej, hvor skjønt han end Marmoret formed,</l>
-              <l xml:id="idm140027969548816">heller ej Phidias, <!--<emph>--><hi rend="italics" xml:id="idm140027969548336">han</hi><!--</emph>--> , som neddrog Guder til Jorden,</l>
+              <l xml:id="idm140027969548816">heller ej Phidias, <hi rend="italics" xml:id="idm140027969548336">han</hi> , som neddrog Guder til Jorden,</l>
               <l xml:id="idm140027969547344">evned at hæve sig til: den Kunst, sig selv at besejre</l>
               <l xml:id="idm140027969546832">og i guddommelig Ro udforme sig selv, som af Blokken</l>
               <l xml:id="idm140027969546384">Kunstneren mejsler et Billed frem, der straaler af Skjønhed,</l>
@@ -1893,7 +1890,7 @@ jeg sige Dig, end alve os og begaa Dumheder. - Men, ved mit Skjæg! der har vi d
               <l xml:id="idm140027969541760">- Frels mig fra Malstrømmens Magt, lad ej dens Hvirvel mig drage</l>
               <l xml:id="idm140027969541232">ned i det oprørte Hav, af hvis Bølger Menneskepøblen</l>
               <l xml:id="idm140027969540720">villieløs skylles omkring som Mollusker og Slimdyr i Dybet.</l>
-              <l xml:id="idm140027969540192">- Viden er Alt, har Du sagt. Ak, hvad véd jeg? - <!--<emph>--><hi rend="italics" xml:id="idm140027969539632">Intet</hi><!--</emph>--> ! - Selv Du dog</l>
+              <l xml:id="idm140027969540192">- Viden er Alt, har Du sagt. Ak, hvad véd jeg? - <hi rend="italics" xml:id="idm140027969539632">Intet</hi> ! - Selv Du dog</l>
               <l xml:id="idm140027969538656">tilstod i dybest Forstand: Viden paa Jorden er Intet.</l>
               <l xml:id="idm140027969538208">- Intet at vide og Alt? O Gaade! Hvo kan det forene ?</l>
               <l xml:id="idm140027969537760">Hæv mig, o Sokrates, Du! til dit Syn paa det evige Ene!</l>
@@ -2010,14 +2007,14 @@ jeg sige Dig, end alve os og begaa Dumheder. - Men, ved mit Skjæg! der har vi d
             </lg>
             <stage type="mix" xml:id="idm140027969499552">(med et pludseligt Udbrud; men dæmpet.)</stage>
             <lg xml:id="idm140027969498832">
-              <l xml:id="idm140027969498576"><!--<emph>--><hi rend="italics" xml:id="idm140027969498256">Vi elske hende begge</hi><!--</emph>--> !</l>
+              <l xml:id="idm140027969498576"><hi rend="italics" xml:id="idm140027969498256">Vi elske hende begge</hi> !</l>
             </lg>
           </sp>
           <sp xml:id="idm140027969497024">
             <speaker xml:id="idm140027969496768">THEODOROS</speaker>
             <stage type="mix" xml:id="idm140027969496384">(ligeledes).</stage>
             <lg xml:id="idm140027969495728">
-              <l xml:id="idm140027969495472"><!--<emph>--><hi rend="italics" xml:id="idm140027969495152">Jeg som Du</hi><!--</emph>--> !</l>
+              <l xml:id="idm140027969495472"><hi rend="italics" xml:id="idm140027969495152">Jeg som Du</hi> !</l>
               <l xml:id="idm140027969494176">for første Gang har Læben sagt det nu!</l>
               <l xml:id="idm140027969493696">- Hun kalder os for sine Dobbeltstjerner.</l>
               <l xml:id="idm140027969493248">Ak! - samme Afstand os fra hende fjerner!</l>
@@ -2263,7 +2260,7 @@ jeg sige Dig, end alve os og begaa Dumheder. - Men, ved mit Skjæg! der har vi d
             <speaker xml:id="idm140027969409328">LYSIAS</speaker>
             <stage type="mix" xml:id="idm140027969408912">(spændt).</stage>
             <lg xml:id="idm140027969408256">
-              <l xml:id="idm140027969408000">Nej! <!--<emph>--><hi rend="italics" xml:id="idm140027969407520">Jeg maa tale med Dig</hi><!--</emph>--> !</l>
+              <l xml:id="idm140027969408000">Nej! <hi rend="italics" xml:id="idm140027969407520">Jeg maa tale med Dig</hi> !</l>
             </lg>
           </sp>
           <pb n="57" xml:id="s57" facs="adl/kaalund/kaalund2/kaal2057"/>
@@ -2451,11 +2448,11 @@ jeg sige Dig, end alve os og begaa Dumheder. - Men, ved mit Skjæg! der har vi d
               <l xml:id="idm140027969336032">men suger Honning af den som en Bi.</l>
               <pb n="61" xml:id="s61" facs="adl/kaalund/kaalund2/kaal2061"/>
               <l xml:id="idm140027969334496">- Og sammenligner jeg ham med den Anden,</l>
-              <l xml:id="idm140027969334048">da kommer han, <!--<emph>--><hi rend="italics" xml:id="idm140027969333568">Helleneren</hi><!--</emph>--> , til kort:</l>
+              <l xml:id="idm140027969334048">da kommer han, <hi rend="italics" xml:id="idm140027969333568">Helleneren</hi> , til kort:</l>
               <l xml:id="idm140027969332592">Den stolte Romer har dog mér af Manden -</l>
-              <l xml:id="idm140027969332112"><!--<emph>--><hi rend="italics" xml:id="idm140027969331792">han</hi><!--</emph>-->  sukker ej - men sætter Haardt mod Haardt.</l>
+              <l xml:id="idm140027969332112"><hi rend="italics" xml:id="idm140027969331792">han</hi>  sukker ej - men sætter Haardt mod Haardt.</l>
               <l xml:id="idm140027969330736">Jeg burde hade ham - han er min Fjende. -</l>
-              <l xml:id="idm140027969330288"><!--<emph>--><hi rend="italics" xml:id="idm140027969330000">Min</hi><!--</emph>--><!--<emph>--><hi rend="italics" xml:id="idm140027969329152">Fjende</hi><!--</emph>--> ? - Ak, gid jeg mig selv forstod!</l>
+              <l xml:id="idm140027969330288"><hi rend="italics" xml:id="idm140027969330000">Min</hi><hi rend="italics" xml:id="idm140027969329152">Fjende</hi> ? - Ak, gid jeg mig selv forstod!</l>
               <l xml:id="idm140027969328128">Et føler jeg: jeg er af Kjød og Blod -</l>
               <l xml:id="idm140027969327648">og Sejren - den vil blive svær at vinde!</l>
             </lg>
@@ -2677,7 +2674,7 @@ jeg sige Dig, end alve os og begaa Dumheder. - Men, ved mit Skjæg! der har vi d
               <l xml:id="idm140027969252704">Velan l kan denne Arm sig ikke maale</l>
               <l xml:id="idm140027969252272">i Styrke med en Mands - stærk er min Vilje!</l>
               <l xml:id="idm140027969251776">Lad kun de vilde Heste fare frem,</l>
-              <l xml:id="idm140027969251344">jeg skal dog vise, jeg kan tøjle <!--<emph>--><hi rend="italics" xml:id="idm140027969250816">dem</hi><!--</emph>--> !</l>
+              <l xml:id="idm140027969251344">jeg skal dog vise, jeg kan tøjle <hi rend="italics" xml:id="idm140027969250816">dem</hi> !</l>
             </lg>
           </sp>
           <stage type="mix" xml:id="idm140027969245552">(gaar.)</stage>
@@ -2710,7 +2707,7 @@ jeg sige Dig, end alve os og begaa Dumheder. - Men, ved mit Skjæg! der har vi d
               <l xml:id="idm140027969232816">som jeg til Trods for Alt endnu har kjær!</l>
               <l xml:id="idm140027969232336">- Er jeg da virkelig saa lidet værd?</l>
               <l xml:id="idm140027969231856">Staar hun saa himmelhøjt, at hun kan skue</l>
-              <l xml:id="idm140027969231376">paa Jorden ned som paa en ussel <!--<emph>--><hi rend="italics" xml:id="idm140027969230880">Tue</hi><!--</emph>--> ?</l>
+              <l xml:id="idm140027969231376">paa Jorden ned som paa en ussel <hi rend="italics" xml:id="idm140027969230880">Tue</hi> ?</l>
               <l xml:id="idm140027969229936">saa højt, at hun kan smile med Foragt,</l>
               <l xml:id="idm140027969229456">fordi mit Maal er ikke mér end Magt?</l>
               <l xml:id="idm140027969228976">Er jeg maaske af Selvtillid forblindet?</l>
@@ -2722,7 +2719,7 @@ jeg sige Dig, end alve os og begaa Dumheder. - Men, ved mit Skjæg! der har vi d
               <l xml:id="idm140027969226224">langt mindre hun, den uerfarne Kvinde!</l>
               <l xml:id="idm140027969225792">Jeg har dog mandig stridt, mens hun har drømt,</l>
               <l xml:id="idm140027969225296">og højt som hun jeg kan mit Hoved bære.</l>
-              <l xml:id="idm140027969224816">- »<!--<emph>--><hi rend="italics" xml:id="idm140027969224368">En Afgrund skiller os</hi><!--</emph>--> ?« - det faar saa være!</l>
+              <l xml:id="idm140027969224816">- »<hi rend="italics" xml:id="idm140027969224368">En Afgrund skiller os</hi> ?« - det faar saa være!</l>
               <l xml:id="idm140027969223328">Nu vel, alene vil min Vej jeg gaa. -</l>
               <l xml:id="idm140027969222896">Lad Saaret bløde - Ingen skal det mærke.</l>
               <l xml:id="idm140027969222416">I denne Verden trives kun de Stærke!</l>
@@ -2864,7 +2861,7 @@ jeg sige Dig, end alve os og begaa Dumheder. - Men, ved mit Skjæg! der har vi d
             <lg xml:id="idm140027969176080">
               <l xml:id="idm140027969175824">Han siger fnise, Herre - nej, han lo</l>
               <l xml:id="idm140027969175392">saa frækt, at han blev jaget ud af Salen!</l>
-              <l xml:id="idm140027969174912">Jeg derimod - <!--<emph>--><hi rend="italics" xml:id="idm140027969174432">jeg</hi><!--</emph>-->  blev og fulgte Talen; -</l>
+              <l xml:id="idm140027969174912">Jeg derimod - <hi rend="italics" xml:id="idm140027969174432">jeg</hi>  blev og fulgte Talen; -</l>
               <l xml:id="idm140027969173392">og hvis Du naadigst vil mig unde Æren</l>
               <l xml:id="idm140027969172912">at sætte Dig en Smule ind i Læren</l>
               <l xml:id="idm140027969172448">om Vorden, Væren og om Ikkeværen,</l>
@@ -2890,8 +2887,8 @@ jeg sige Dig, end alve os og begaa Dumheder. - Men, ved mit Skjæg! der har vi d
             <speaker xml:id="idm140027969166272">ARISTIAS.</speaker>
             <lg xml:id="idm140027969165856">
               <l xml:id="idm140027969165600">Han mener dem, han henter fra den sunde</l>
-              <l xml:id="idm140027969165168">- <!--<emph>--><hi rend="italics" xml:id="idm140027969164688">saakaldte</hi><!--</emph>-->  sunde - Menneskeforstand;</l>
-              <l xml:id="idm140027969163664"><!--<emph>--><hi rend="italics" xml:id="idm140027969163376">dem</hi><!--</emph>-->  kalder han Beviser! Prøv ham bare,</l>
+              <l xml:id="idm140027969165168">- <hi rend="italics" xml:id="idm140027969164688">saakaldte</hi>  sunde - Menneskeforstand;</l>
+              <l xml:id="idm140027969163664"><hi rend="italics" xml:id="idm140027969163376">dem</hi>  kalder han Beviser! Prøv ham bare,</l>
               <l xml:id="idm140027969162336">forsøg det selv. - Lad ham en Gang forsvare,</l>
               <l xml:id="idm140027969161840">hvad han forstaar ved Liv og Existens,</l>
               <l xml:id="idm140027969161408">saa skal Du mærke strax, hvor han er læns</l>
@@ -2996,7 +2993,7 @@ jeg sige Dig, end alve os og begaa Dumheder. - Men, ved mit Skjæg! der har vi d
           <sp xml:id="idm140027969129104">
             <speaker xml:id="idm140027969128848">AQVILINUS.</speaker>
             <lg xml:id="idm140027969128432">
-              <l xml:id="idm140027969128176"><!--<emph>--><hi rend="italics" xml:id="idm140027969127856">Mit</hi><!--</emph>-->  er kun praktisk, men det holder Stik!</l>
+              <l xml:id="idm140027969128176"><hi rend="italics" xml:id="idm140027969127856">Mit</hi>  er kun praktisk, men det holder Stik!</l>
             </lg>
             <stage type="mix" xml:id="idm140027969126688">(til Vagten.)</stage>
             <lg xml:id="idm140027969126064">
@@ -3015,7 +3012,7 @@ jeg sige Dig, end alve os og begaa Dumheder. - Men, ved mit Skjæg! der har vi d
             <speaker xml:id="idm140027969122352">AQVILINUS</speaker>
             <stage type="mix" xml:id="idm140027969121936">(med stolt Foragt).</stage>
             <lg xml:id="idm140027969121280">
-              <l xml:id="idm140027969121024">Kun paa den sunde - <!--<emph>--><hi rend="italics" xml:id="idm140027969120544">saakaldte</hi><!--</emph>-->  sunde Menneskeforstand!</l>
+              <l xml:id="idm140027969121024">Kun paa den sunde - <hi rend="italics" xml:id="idm140027969120544">saakaldte</hi>  sunde Menneskeforstand!</l>
             </lg>
             <stage type="mix" xml:id="idm140027969119392">(til Spyddragerne, idet de føre Kritas og Aristias ud.)</stage>
             <lg xml:id="idm140027969118640">
@@ -3149,7 +3146,7 @@ jeg sige Dig, end alve os og begaa Dumheder. - Men, ved mit Skjæg! der har vi d
             <lg xml:id="idm140027969073680">
               <l xml:id="idm140027969073424">Vel, Herre! Da Du taler selv derom,</l>
               <l xml:id="idm140027969072992">jeg vil ej længer tie: Folket knurrer -</l>
-              <l xml:id="idm140027969072512">det <!--<emph>--><hi rend="italics" xml:id="idm140027969072032">kjeder</hi><!--</emph>-->  sig!</l>
+              <l xml:id="idm140027969072512">det <hi rend="italics" xml:id="idm140027969072032">kjeder</hi>  sig!</l>
             </lg>
           </sp>
           <sp xml:id="idm140027969070800">
@@ -3213,13 +3210,13 @@ jeg sige Dig, end alve os og begaa Dumheder. - Men, ved mit Skjæg! der har vi d
             <speaker xml:id="idm140027969050336">HØVDINGEN</speaker>
             <stage type="mix" xml:id="idm140027969049920">(med Værdighed).</stage>
             <lg xml:id="idm140027969049248">
-              <l xml:id="idm140027969048992">En Mand - en <!--<emph>--><hi rend="italics" xml:id="idm140027969048512">hél!</hi><!--</emph>--> 
+              <l xml:id="idm140027969048992">En Mand - en <hi rend="italics" xml:id="idm140027969048512">hél!</hi> 
 							</l>
               <l xml:id="idm140027969047536">Ej noget mæsket, purpurklædt Uhyre,</l>
               <l xml:id="idm140027969047056">ej nogen Dreng, som han, der raser nu;</l>
-              <l xml:id="idm140027969046624">- <!--<emph>--><hi rend="italics" xml:id="idm140027969046176">En Mand med Herskeraand</hi><!--</emph>-->  - en Mand <!--<emph>--><hi rend="italics" xml:id="idm140027969045136">som Du</hi><!--</emph>--> ,</l>
+              <l xml:id="idm140027969046624">- <hi rend="italics" xml:id="idm140027969046176">En Mand med Herskeraand</hi>  - en Mand <hi rend="italics" xml:id="idm140027969045136">som Du</hi> ,</l>
               <l xml:id="idm140027969044160">hvis stærke Haand kan Verdenstøjlen styre!</l>
-              <l xml:id="idm140027969043664">Magten er <!--<emph>--><hi rend="italics" xml:id="idm140027969043216">din</hi><!--</emph>-->  - den koster kun et Ord!</l>
+              <l xml:id="idm140027969043664">Magten er <hi rend="italics" xml:id="idm140027969043216">din</hi>  - den koster kun et Ord!</l>
             </lg>
           </sp>
           <sp xml:id="idm140027969041968">
@@ -3227,7 +3224,7 @@ jeg sige Dig, end alve os og begaa Dumheder. - Men, ved mit Skjæg! der har vi d
             <stage type="mix" xml:id="idm140027969041328">(i stærk Spænding).</stage>
             <lg xml:id="idm140027969040640">
               <l xml:id="idm140027969040384">Den koster Mere: Brud paa Tro og Love!</l>
-              <l xml:id="idm140027969039952">- <!--<emph>--><hi rend="italics" xml:id="idm140027969039472">Oprør!-ja, sig det kun: et Kejsermord</hi><!--</emph>--> !</l>
+              <l xml:id="idm140027969039952">- <hi rend="italics" xml:id="idm140027969039472">Oprør!-ja, sig det kun: et Kejsermord</hi> !</l>
             </lg>
           </sp>
           <sp xml:id="idm140027969038176">
@@ -3289,7 +3286,7 @@ jeg sige Dig, end alve os og begaa Dumheder. - Men, ved mit Skjæg! der har vi d
             <stage type="mix" xml:id="idm140027969018016">(farer heftig imod de indtrædende Høvdinger).</stage>
             <lg xml:id="idm140027969017280">
               <l xml:id="idm140027969017024">Tilbage der! Hvor tør I vove ukaldt</l>
-              <l xml:id="idm140027969016544">at trænge ind til <!--<emph>--><hi rend="italics" xml:id="idm140027969016048">mig?</hi><!--</emph>--> 
+              <l xml:id="idm140027969016544">at trænge ind til <hi rend="italics" xml:id="idm140027969016048">mig?</hi> 
 							</l>
             </lg>
           </sp>
@@ -4004,7 +4001,7 @@ bønhørt mig! Prøv mig, send mig ud i Verden! Det er ikke syndig Længsel efte
           <pb n="99" xml:id="s99" facs="adl/kaalund/kaalund2/kaal2099"/>
           <sp xml:id="idm140027968735952">
             <speaker xml:id="idm140027968735696">ROCCHUS.</speaker>
-            <p xml:id="idm140027968735280">Ja, det har ogsaa Josephus gjort, <!--<emph>--><hi rend="italics" xml:id="idm140027968734784">han</hi><!--</emph>--> , som længes efter at komme ud i Verden. - Hvor gammel er Du?</p>
+            <p xml:id="idm140027968735280">Ja, det har ogsaa Josephus gjort, <hi rend="italics" xml:id="idm140027968734784">han</hi> , som længes efter at komme ud i Verden. - Hvor gammel er Du?</p>
           </sp>
           <sp xml:id="idm140027968733568">
             <speaker xml:id="idm140027968733312">EUGENIUS.</speaker>
@@ -4112,7 +4109,7 @@ bønhørt mig! Prøv mig, send mig ud i Verden! Det er ikke syndig Længsel efte
               <l xml:id="idm140027968691344">skal friste mig. - Men ak! hvad nytter det?</l>
               <l xml:id="idm140027968690896">Jeg bærer Fristelsen dybt i mig selv;</l>
               <l xml:id="idm140027968690416">bestandig lyder der en Røst herinde:</l>
-              <l xml:id="idm140027968689936"><!--<emph>--><hi rend="italics" xml:id="idm140027968689616">hans</hi><!--</emph>--> , som bebrejded mig: jeg ej var Kvinde!</l>
+              <l xml:id="idm140027968689936"><hi rend="italics" xml:id="idm140027968689616">hans</hi> , som bebrejded mig: jeg ej var Kvinde!</l>
               <l xml:id="idm140027968688576">Jeg hører den i hvert mit Hjertes Slag -</l>
               <l xml:id="idm140027968688096">midt i min Andagt - baade Nat og Dag:</l>
               <l xml:id="idm140027968687664">- »Det er Naturen, som Du kjæmper mod -</l>
@@ -4281,7 +4278,7 @@ bønhørt mig! Prøv mig, send mig ud i Verden! Det er ikke syndig Længsel efte
             <speaker xml:id="idm140027968631904">MENIPPOS</speaker>
             <stage type="mix" xml:id="idm140027968631488">(farer tilbage).</stage>
             <lg xml:id="idm140027968630832">
-              <l xml:id="idm140027968630576">O, Himmel: <!--<emph>--><hi rend="italics" xml:id="idm140027968630096">Fulvia</hi><!--</emph>--> ! er det Bedrag?</l>
+              <l xml:id="idm140027968630576">O, Himmel: <hi rend="italics" xml:id="idm140027968630096">Fulvia</hi> ! er det Bedrag?</l>
               <l xml:id="idm140027968629120">Staa nu de Døde op ved højlys Dag!</l>
             </lg>
           </sp>
@@ -4304,7 +4301,7 @@ bønhørt mig! Prøv mig, send mig ud i Verden! Det er ikke syndig Længsel efte
           <sp xml:id="idm140027968622336">
             <speaker xml:id="idm140027968622080">FULVIA.</speaker>
             <lg xml:id="idm140027968621664">
-              <l xml:id="idm140027968621408">Nej - jeg er <!--<emph>--><hi rend="italics" xml:id="idm140027968620928">den</hi><!--</emph>--> , I tro'de død og tabt!</l>
+              <l xml:id="idm140027968621408">Nej - jeg er <hi rend="italics" xml:id="idm140027968620928">den</hi> , I tro'de død og tabt!</l>
             </lg>
           </sp>
           <sp xml:id="idm140027968619664">
@@ -4362,7 +4359,7 @@ bønhørt mig! Prøv mig, send mig ud i Verden! Det er ikke syndig Længsel efte
               <l xml:id="idm140027968601168">Nok, nok! Hvad jeg skal gjøre, nu jeg véd!</l>
               <l xml:id="idm140027968600672">Selv vil jeg knuse Billedstøttens Hoved,</l>
               <l xml:id="idm140027968600192">- styrte mit eget Afgudsbilled ned!</l>
-              <l xml:id="idm140027968599760">- I Nat det skal alt ske! - <!--<emph>--><hi rend="italics" xml:id="idm140027968599264">Nu er det lovet</hi><!--</emph>--> !</l>
+              <l xml:id="idm140027968599760">- I Nat det skal alt ske! - <hi rend="italics" xml:id="idm140027968599264">Nu er det lovet</hi> !</l>
             </lg>
           </sp>
           <sp xml:id="idm140027968598032">
@@ -4374,7 +4371,7 @@ bønhørt mig! Prøv mig, send mig ud i Verden! Det er ikke syndig Længsel efte
           <sp xml:id="idm140027968596400">
             <speaker xml:id="idm140027968596144">FULVIA.</speaker>
             <lg xml:id="idm140027968595728">
-              <l xml:id="idm140027968595472"><!--<emph>--><hi rend="italics" xml:id="idm140027968595152">Nu</hi><!--</emph>-->  vel! saa soner jeg min Hedningbrøde</l>
+              <l xml:id="idm140027968595472"><hi rend="italics" xml:id="idm140027968595152">Nu</hi>  vel! saa soner jeg min Hedningbrøde</l>
               <l xml:id="idm140027968594112">og lider Straffen for det Selvbedrag,</l>
               <l xml:id="idm140027968593680">hvoraf I To har vækket mig i Dag!</l>
             </lg>
@@ -4428,7 +4425,7 @@ bønhørt mig! Prøv mig, send mig ud i Verden! Det er ikke syndig Længsel efte
         </sp>
         <sp xml:id="idm140027968573152">
           <speaker xml:id="idm140027968572896">FØRSTE SLAVE.</speaker>
-          <p xml:id="idm140027968572464">- Vrangen af Herligheden! Ja, <!--<emph>--><hi rend="italics" xml:id="idm140027968571968">den</hi><!--</emph>-->  er god nok til os Slaver, men slet ikke saa daarlig endda til at faa Humør af! Alligevel: pris Guderne, Kammerat, at Du har oplevet at komme med til en saadan Fest! - Betænk: det er Datteren af vort Hus - af <!--<emph>--><hi rend="italics" xml:id="idm140027968570544">vort</hi><!--</emph>--> , - som al den Ære gjælder! Der staar hun, det velsignede Pigebarn, hugget i Sten; nu løber Guderne ikke saa let af med hende som sidst. Med Skam at tale om føler jeg mig ligesom lidt hjertegreben ved alt dette: ja, jeg tror, der sidder en Taare i mit ene Øje, skjøndt jeg fristes til at lé med det andet.</p>
+          <p xml:id="idm140027968572464">- Vrangen af Herligheden! Ja, <hi rend="italics" xml:id="idm140027968571968">den</hi>  er god nok til os Slaver, men slet ikke saa daarlig endda til at faa Humør af! Alligevel: pris Guderne, Kammerat, at Du har oplevet at komme med til en saadan Fest! - Betænk: det er Datteren af vort Hus - af <hi rend="italics" xml:id="idm140027968570544">vort</hi> , - som al den Ære gjælder! Der staar hun, det velsignede Pigebarn, hugget i Sten; nu løber Guderne ikke saa let af med hende som sidst. Med Skam at tale om føler jeg mig ligesom lidt hjertegreben ved alt dette: ja, jeg tror, der sidder en Taare i mit ene Øje, skjøndt jeg fristes til at lé med det andet.</p>
         </sp>
         <sp xml:id="idm140027968568800">
           <speaker xml:id="idm140027968568544">ANDEN SLAVE.</speaker>
@@ -4492,13 +4489,13 @@ jo ung og dejlig: - En eller Anden kan jo have bortført hende mod eller maaské
         </sp>
         <sp xml:id="idm140027968546128">
           <speaker xml:id="idm140027968545872">ANDEN SLAVE.</speaker>
-          <p xml:id="idm140027968545456">Sligt skal nok være skét i gamle Dage - men i <!--<emph>--><hi rend="italics" xml:id="idm140027968544896">vor Tid!</hi><!--</emph>--> 
+          <p xml:id="idm140027968545456">Sligt skal nok være skét i gamle Dage - men i <hi rend="italics" xml:id="idm140027968544896">vor Tid!</hi> 
 					</p>
         </sp>
         <sp xml:id="idm140027968543792">
           <speaker xml:id="idm140027968543536">FØRSTE SLAVE.</speaker>
-          <p xml:id="idm140027968543104">Ikke sandt? det er det Vidunderligste. I <!--<emph>--><hi rend="italics" xml:id="idm140027968542624">vor</hi><!--</emph>--> 
-						<!--<emph>--><hi rend="italics" xml:id="idm140027968541616">Tid</hi><!--</emph>--> !</p>
+          <p xml:id="idm140027968543104">Ikke sandt? det er det Vidunderligste. I <hi rend="italics" xml:id="idm140027968542624">vor</hi> 
+						<hi rend="italics" xml:id="idm140027968541616">Tid</hi> !</p>
         </sp>
         <sp xml:id="idm140027968540544">
           <speaker xml:id="idm140027968540288">ANDEN SLAVE.</speaker>
@@ -4902,8 +4899,8 @@ har røvet hende!« Lysias og I var de Eneste, som gav mig Medhold.</p>
             <l xml:id="idm140027968377728">og vække Livets Pulsslag i dets Bryst!</l>
             <l xml:id="idm140027968377248">- Ja, kunde hun fornemme nu min Røst,</l>
             <l xml:id="idm140027968376768">hun vilde næppe mér saa stolt mig vrage.</l>
-            <l xml:id="idm140027968376288">Af hende har jeg lært, det <!--<emph>--><hi rend="italics" xml:id="idm140027968375760">at</hi><!--</emph>--> 
-							<!--<emph>--><hi rend="italics" xml:id="idm140027968374752">forsage</hi><!--</emph>--> 
+            <l xml:id="idm140027968376288">Af hende har jeg lært, det <hi rend="italics" xml:id="idm140027968375760">at</hi> 
+							<hi rend="italics" xml:id="idm140027968374752">forsage</hi> 
 						</l>
             <l xml:id="idm140027968373728">kan veje mér end jordisk Herskermagt.</l>
             <l xml:id="idm140027968373248">- »Synk i Dig selv, synk ned!« har hun jo sagt -</l>
@@ -4950,7 +4947,7 @@ har røvet hende!« Lysias og I var de Eneste, som gav mig Medhold.</p>
           <stage type="mix" xml:id="idm140027968355472">(Idet hun vil slaa til, slipper hun pludselig Hammeren, kaster sig lidenskabelig om Billedstøttens Hals og trykker et Kys paa dens Mund. Forfærdet over sin egen Dristighed og bedækkende sit Ansigt med sine Hænder, stiger hun hurtig ned.)</stage>
           <lg xml:id="idm140027968354352">
             <l xml:id="idm140027968354096">Jeg er fortabt! Hvor skjuler jeg min Skam!</l>
-            <l xml:id="idm140027968353648">Vé mig, Usalige, - <!--<emph>--><hi rend="italics" xml:id="idm140027968353136">jeg elsker ham!</hi><!--</emph>--> 
+            <l xml:id="idm140027968353648">Vé mig, Usalige, - <hi rend="italics" xml:id="idm140027968353136">jeg elsker ham!</hi> 
 						</l>
           </lg>
         </sp>
@@ -5195,7 +5192,7 @@ har røvet hende!« Lysias og I var de Eneste, som gav mig Medhold.</p>
             <speaker xml:id="idm140027968269440">LUCAS</speaker>
             <stage type="mix" xml:id="idm140027968269024">(slaaende Hænderne sammen).</stage>
             <lg xml:id="idm140027968268320">
-              <l xml:id="idm140027968268064">Du vil forlade os? <!--<emph>--><hi rend="italics" xml:id="idm140027968267584">Du - vor Abbed?</hi><!--</emph>--> 
+              <l xml:id="idm140027968268064">Du vil forlade os? <hi rend="italics" xml:id="idm140027968267584">Du - vor Abbed?</hi> 
 							</l>
               <l xml:id="idm140027968266608">Umuligt!</l>
             </lg>
@@ -5211,7 +5208,7 @@ har røvet hende!« Lysias og I var de Eneste, som gav mig Medhold.</p>
             <speaker xml:id="idm140027968263424">MALCHUS</speaker>
             <stage type="mix" xml:id="idm140027968263008">(afsides).</stage>
             <lg xml:id="idm140027968262352">
-              <l xml:id="idm140027968262096">Jeg sagde <!--<emph>--><hi rend="italics" xml:id="idm140027968261616">nok</hi><!--</emph>--> : det kunde ikke gaa.</l>
+              <l xml:id="idm140027968262096">Jeg sagde <hi rend="italics" xml:id="idm140027968261616">nok</hi> : det kunde ikke gaa.</l>
               <l xml:id="idm140027968260624">Han var for ung og mangled Bén i Panden.</l>
               <l xml:id="idm140027968260144">- Hvo véd, hvem Valget nu kan falde paa?</l>
             </lg>
@@ -5529,7 +5526,7 @@ har røvet hende!« Lysias og I var de Eneste, som gav mig Medhold.</p>
           </sp>
           <sp xml:id="idm140027968145520">
             <speaker xml:id="idm140027968145264">PHRYNE.</speaker>
-            <p xml:id="idm140027968144848">Modgang? - Véd Du ikke, jeg er Enke for anden Gang? Det er jo næppe et halvt Aar siden, at Du selv beredte min sidste Mand til Døden. - Sé Dig om; det var <!--<emph>--><hi rend="italics" xml:id="idm140027968144064">her</hi><!--</emph>--> , netop i dette Hus. Har Du glemt det? Han var af samme Tro som Du, men en fejg Stakkel. Frygten for Forfølgelse bragte ham til at fornægte sin Tro; selv for mig skjulte han den, lige til han laa paa sit Yderste.</p>
+            <p xml:id="idm140027968144848">Modgang? - Véd Du ikke, jeg er Enke for anden Gang? Det er jo næppe et halvt Aar siden, at Du selv beredte min sidste Mand til Døden. - Sé Dig om; det var <hi rend="italics" xml:id="idm140027968144064">her</hi> , netop i dette Hus. Har Du glemt det? Han var af samme Tro som Du, men en fejg Stakkel. Frygten for Forfølgelse bragte ham til at fornægte sin Tro; selv for mig skjulte han den, lige til han laa paa sit Yderste.</p>
           </sp>
           <sp xml:id="idm140027968142496">
             <speaker xml:id="idm140027968142240">FULVIA</speaker>
@@ -5890,8 +5887,8 @@ Grib ham! Denne Formastelige har villet krænke mig i mit eget Hus Selv vil jeg 
               <l xml:id="idm140027968009056">Ih, bevares:</l>
               <l xml:id="idm140027968008640">Vor forrige Abbed, den gamle Mand,</l>
               <l xml:id="idm140027968008208">som gik i Barndom! Det var ham, der valgte</l>
-              <l xml:id="idm140027968007760"><!--<emph>--><hi rend="italics" xml:id="idm140027968007440">ham</hi><!--</emph>-->  her til Eftermand. - Jeg sagde strax,</l>
-              <l xml:id="idm140027968006448">det kunde ikke gaa. - Hvem <!--<emph>--><hi rend="italics" xml:id="idm140027968005984">denne</hi><!--</emph>-->  var,</l>
+              <l xml:id="idm140027968007760"><hi rend="italics" xml:id="idm140027968007440">ham</hi>  her til Eftermand. - Jeg sagde strax,</l>
+              <l xml:id="idm140027968006448">det kunde ikke gaa. - Hvem <hi rend="italics" xml:id="idm140027968005984">denne</hi>  var,</l>
               <l xml:id="idm140027968005008">hvorfra han stammed, vidste Ingen af os.</l>
               <l xml:id="idm140027968004560">Han kom, som han var falden ned fra Maanen,</l>
               <l xml:id="idm140027968004112">men Lærdom havde han mér end vi Andre</l>
@@ -5954,9 +5951,7 @@ Grib ham! Denne Formastelige har villet krænke mig i mit eget Hus Selv vil jeg 
             <stage type="mix" xml:id="idm140027967983056">(i den højeste Bevægelse).</stage>
             <lg xml:id="idm140027967982352">
               <l xml:id="idm140027967982096">
-<!--<emph>-->
                 <hi rend="italics" xml:id="idm140027967981488">Fulvia!</hi>
-<!--</emph>-->
               </l>
             </lg>
           </sp>
@@ -6110,7 +6105,7 @@ Grib ham! Denne Formastelige har villet krænke mig i mit eget Hus Selv vil jeg 
               <l xml:id="idm140027967923104">Jeg nødes til at hæve denne Sag;</l>
               <l xml:id="idm140027967922640">højst gaadefuld - vidunderlig er Grunden:</l>
               <l xml:id="idm140027967922160">Et Underværk er skét ved højlys Dag -</l>
-              <l xml:id="idm140027967921680">sé - her er Kappen - <!--<emph>--><hi rend="italics" xml:id="idm140027967921168">Munken</hi><!--</emph>-->  er forsvunden!</l>
+              <l xml:id="idm140027967921680">sé - her er Kappen - <hi rend="italics" xml:id="idm140027967921168">Munken</hi>  er forsvunden!</l>
             </lg>
             <stage type="mix" xml:id="idm140027967920064">(kaster Kutten ud til de Udenforstaaende, som svare med en forvirret Mumlen, medens han atter hurtigt tillukker Indgangen.)</stage>
           </sp>
@@ -6236,7 +6231,7 @@ Grib ham! Denne Formastelige har villet krænke mig i mit eget Hus Selv vil jeg 
             <speaker xml:id="idm140027967878288">AQVILINUS.</speaker>
             <lg xml:id="idm140027967877872">
               <l xml:id="idm140027967877616">Dog Pris for ham! Hans Magt dø'r aldrig ud!</l>
-              <l xml:id="idm140027967877120">Hans Vinger skal os til den <!--<emph>--><hi rend="italics" xml:id="idm140027967876624">store</hi><!--</emph>-->  bære!</l>
+              <l xml:id="idm140027967877120">Hans Vinger skal os til den <hi rend="italics" xml:id="idm140027967876624">store</hi>  bære!</l>
             </lg>
           </sp>
           <stage type="mix" xml:id="idm140027967875392">(Tæppet falder.)</stage>

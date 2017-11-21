@@ -1,10 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!-- 22.10.2002 VL: + vaerktitle ; ignored problem of parallel Dansih /Latin texts -->
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="idm139705701079872"><!-- 
-       file     ./marc_dir/001451843.xml
-       field     
-       subfield  
-       prefix   -->
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="root">
   <teiHeader xml:id="idm139705701079216">
     <fileDesc xml:id="idm139705701078960">
       <titleStmt xml:id="idm139705701113280">
@@ -20,29 +15,55 @@
 	  </note>
       </notesStmt>
       <sourceDesc xml:id="idm139705701050224">
-	<bibl xml:id="idm139705701050096">
-	  <title xml:id="idm139705701049968">C. C. Lyschander's digtning 1579-1623</title>
-	  <author n="1" xml:id="idm139820486852240">
-	    <name xml:id="idm1398204868519843asdf">
-	      <surname xml:id="idm139820486851856a6dfs">Lyschander</surname>, 
-	      <forename xml:id="idm139820486851392a7df">C. C.</forename>
-	    </name>
-	  </author>
-	  <pubPlace xml:id="idm139705701049664">Kbh. Reitzel</pubPlace>
+        <bibl xml:id="idm139705701050096">
+          <title xml:id="idm139705701049968">C. C. Lyschander's digtning 1579-1623</title>
+          <author n="1" xml:id="idm139820486852240">
+            <name xml:id="idm1398204868519843asdf"><surname xml:id="idm139820486851856a6dfs">Lyschander</surname>, 
+	      <forename xml:id="idm139820486851392a7df">C. C.</forename></name>
+          </author>
+          <pubPlace xml:id="idm139705701049664">Kbh. Reitzel</pubPlace>
           <date xml:id="idm139705701049184">1989</date>
-	</bibl>
-      <listBibl xml:id="idm139705701048896"><bibl xml:id="biblid55277"><title xml:id="idm139705701035344">EPITHALAMIUM</title></bibl><bibl xml:id="biblid56181"><title xml:id="idm139705701034512">CARMEN ELEGIACUM</title></bibl><bibl xml:id="biblid57056"><title xml:id="idm139705701033728">PROPAGATIO FIDEI</title></bibl><bibl xml:id="biblid60191"><title xml:id="idm139705701032944">IN JUBILÆUM DANICUM</title></bibl><bibl xml:id="biblid60413"><title xml:id="idm139705701032128">Billeslægtens Rimkrønike</title></bibl><bibl xml:id="biblid67754"><title xml:id="idm139705701031312">Den Grønlandske Cronica</title></bibl><bibl xml:id="biblid90338"><title xml:id="idm139705701030448">Den Calmarnske Triumph</title></bibl><bibl xml:id="biblid93636"><title xml:id="idm139705701029664">Christian V's Udvælgelse</title></bibl><bibl xml:id="biblid100219"><title xml:id="idm139705701028800">Christians V's Hylding</title></bibl><bibl xml:id="biblid108473"><title xml:id="idm139705701028016">Danske Kongers Slectebog (Digte indlagt i)</title></bibl></listBibl></sourceDesc>
+        </bibl>
+        <listBibl xml:id="idm139705701048896">
+          <bibl xml:id="biblid55277">
+            <title xml:id="idm139705701035344">EPITHALAMIUM</title>
+          </bibl>
+          <bibl xml:id="biblid56181">
+            <title xml:id="idm139705701034512">CARMEN ELEGIACUM</title>
+          </bibl>
+          <bibl xml:id="biblid57056">
+            <title xml:id="idm139705701033728">PROPAGATIO FIDEI</title>
+          </bibl>
+          <bibl xml:id="biblid60191">
+            <title xml:id="idm139705701032944">IN JUBILÆUM DANICUM</title>
+          </bibl>
+          <bibl xml:id="biblid60413">
+            <title xml:id="idm139705701032128">Billeslægtens Rimkrønike</title>
+          </bibl>
+          <bibl xml:id="biblid67754">
+            <title xml:id="idm139705701031312">Den Grønlandske Cronica</title>
+          </bibl>
+          <bibl xml:id="biblid90338">
+            <title xml:id="idm139705701030448">Den Calmarnske Triumph</title>
+          </bibl>
+          <bibl xml:id="biblid93636">
+            <title xml:id="idm139705701029664">Christian V's Udvælgelse</title>
+          </bibl>
+          <bibl xml:id="biblid100219">
+            <title xml:id="idm139705701028800">Christians V's Hylding</title>
+          </bibl>
+          <bibl xml:id="biblid108473">
+            <title xml:id="idm139705701028016">Danske Kongers Slectebog (Digte indlagt i)</title>
+          </bibl>
+        </listBibl>
+      </sourceDesc>
     </fileDesc>
   </teiHeader>
   <text xml:id="idm139705701027264">
     <front xml:id="idm139705701027008">
       <pb n="a" xml:id="sa" facs="adl/lyschander/lyschander1/lysc1001"/>
       <gap reason="cancelled" xml:id="idm139705701025536"/>
-<!---->
-<!---->
-<!--C.C. LYSCHANDER's, Digtning-->
       <pb n="b" xml:id="sb" facs="adl/lyschander/lyschander1/lysc1002"/>
-<!--  <figure/> -->
       <pb n="c" xml:id="sc" facs="adl/lyschander/lyschander1/lysc1003"/>
       <titlePage xml:id="idm139705701107600">
         <docAuthor xml:id="idm139705701107344">C.C. Lyschander's</docAuthor>
@@ -10043,16 +10064,16 @@
               <l xml:id="idm139705696310416">ste Herre oc Printz, ynsker Jeg</l>
               <l xml:id="idm139705696309984">Et languarigt Liff oc lycksalig Fremgang.</l>
             </lg>
-            <p xml:id="idm139705696309408">STormectige Høybaarne Første, Allernaadigste Herre oc Printz: Effterdi voris Alder oc Tid, hastig henløber, oc den Menniskelige Yhukommelse er suag oc glemsom, oc lader offte mange lofflige oc tenckverdige Driffter oc Gierninger, v-actsommeligen hengaa oc forgettis: Oc Gierningen med det lofflige Naffn oc Rycte, er Herrer- nis oc Førsternis, Lands oc Rigers dyrebariste oc bestandigste Skat oc <!-- &par; --> liggende Fæ: Da at aldelis intet i fremtiden skulde fattis eller forbigaais vdi Eders Førstelige Naadis Historia: Haffuer Jeg til første anfang oc begyndelse, for nogen tid, til en ringe Aminde oc Yhukommelse, enfoldelige oc kortelige hentegnet Eders Førstelige Naades Vduellelsis oc Hyldings Beskriffuelse. Oc effterdi mange gaat Folck haffuer begieret, den maatte dennem meddelis, oc bliffue et <hi rend="italics" xml:id="idm139705696307552">Publicum Bonum,</hi> oc gemene Rigens Indbyggere til Gaffn oc gode: Oc nogen mine synderligste Herrer oc Fordrere, haffuer saadant for gaat anseet: Da lader Jeg nu her den gemene Mand til gode (effter voris fordum Danske vijsz) paa Danske Rim, effterdi Rimen dog gierne læsis, oc henger snarligen vdi Hukommelsen, Eders forbemelte Førstelige Naadis Vduellelsis oc Hyldings Historia paa Trycken wdgaa.</p>
+            <p xml:id="idm139705696309408">STormectige Høybaarne Første, Allernaadigste Herre oc Printz: Effterdi voris Alder oc Tid, hastig henløber, oc den Menniskelige Yhukommelse er suag oc glemsom, oc lader offte mange lofflige oc tenckverdige Driffter oc Gierninger, v-actsommeligen hengaa oc forgettis: Oc Gierningen med det lofflige Naffn oc Rycte, er Herrer- nis oc Førsternis, Lands oc Rigers dyrebariste oc bestandigste Skat oc  liggende Fæ: Da at aldelis intet i fremtiden skulde fattis eller forbigaais vdi Eders Førstelige Naadis Historia: Haffuer Jeg til første anfang oc begyndelse, for nogen tid, til en ringe Aminde oc Yhukommelse, enfoldelige oc kortelige hentegnet Eders Førstelige Naades Vduellelsis oc Hyldings Beskriffuelse. Oc effterdi mange gaat Folck haffuer begieret, den maatte dennem meddelis, oc bliffue et <hi rend="italics" xml:id="idm139705696307552">Publicum Bonum,</hi> oc gemene Rigens Indbyggere til Gaffn oc gode: Oc nogen mine synderligste Herrer oc Fordrere, haffuer saadant for gaat anseet: Da lader Jeg nu her den gemene Mand til gode (effter voris fordum Danske vijsz) paa Danske Rim, effterdi Rimen dog gierne læsis, oc henger snarligen vdi Hukommelsen, Eders forbemelte Førstelige Naadis Vduellelsis oc Hyldings Historia paa Trycken wdgaa.</p>
             <p xml:id="idm139705696305984">Først at den skal vere en liden Anviszning oc Tenckeseddel (som sagt er) huoraff E. F. N. Historia i fremtiden kand anfangis, siden ordentlige forfylgis, fremdragis, og paa det sidste (det Gud Allmectigste giffue E.F.N. Liff oc Tid til) lofflige forferdigis oc fuldkommis.</p>
             <p xml:id="idm139705696305040">Dernest det kand vere Effterkommerne oc alle</p>
             <pb n="298" xml:id="s298" facs="adl/lyschander/lyschander1/lysc1298"/>
             <p xml:id="idm139705696303456">vitterligt, huad Ordning, Skick oc Ceremonier haffuer veret holden vdi E. F. N. oc voris Tid, naar nogle vnge Herrer eller Printzer skulle keysis eller hyldis til det <hi rend="italics" xml:id="idm139705696303024">Danske </hi>Rige.</p>
             <p xml:id="idm139705696302176">Der hosz ocsaa at alle Stender oc Stater, med menige Rigens Indbyggere, kand altid haffue for Øyne, oc lade sig rinde vdi Sinde, med huad Eed oc Løffte de ere E.F.N. forplictige, oc en huer tiltencke det med dis støre Ære, Liudighed oc Tieniste, oprictigen oc ærligen at holde oc forsuare.</p>
-            <p xml:id="idm139705696301184">Oc endog Jeg vel bekiender, saadant ringe Arbede er icke verdigt, at føris E.F.N. for Øyne: Dog effterdi det anrører høye Sager oc Personer, E. F. N. Elskelige Herr Fader, voris Naadige Herre, som aff Høyguictige Aarsager oc Betenckning haffuer med <hi rend="italics" xml:id="idm139705696300400">Danmarckis</hi> Rigis Høyguise Raad, Adel oc den gantske Menighed, saadant betiden forsictelige stillet vdi Gierning: Desligeste medfører E.F.N, første Indgang til den Danske Crone, oc beslutter sig paa det gantske Rigis Velferd oc Herlighed: Da haffuer Jeg fordristet mig det E. F. N. paa det allerydmygeligste at <hi rend="italics" xml:id="idm139705696299088">præsentere:</hi> Paa det vnderdanigste bedendis, at E. F. N. vilde det mildeligen optage oc lade sig Naadelige befalde. Oc effterdi Verdens oc Menniskens Domme ere vnderlige oc atskillige, oc Pennen haffuer iblant mange Dyder, ocsaa altid disse onde <!-- &par; --> Lyder, at huer mand vil effter sit Hoffuit oc Haand, den om macke oc mage, oc siden der med saa snart pladtzere som noget nyttigt eller gaffnligt henskriffue: Oc er Verdens Lyde, at ingen ting er alle til maade. At E. F. N. derfore vilde tage denne ringe Fortegnelse, med Eders lofflige Forfædris <hi rend="italics" xml:id="idm139705696297200">Historier</hi> oc voris gandske Fæderne Rigis <hi rend="italics" xml:id="idm139705696296464">Antiquiteter,</hi> vnder E.F.N. Skerm oc Beskyttelse; Er den første Anfang icke saa geskickt eller fuldkommen som det sig burde, at den ringe begynte Impe maa dog finde Naade oc Ynde.</p>
+            <p xml:id="idm139705696301184">Oc endog Jeg vel bekiender, saadant ringe Arbede er icke verdigt, at føris E.F.N. for Øyne: Dog effterdi det anrører høye Sager oc Personer, E. F. N. Elskelige Herr Fader, voris Naadige Herre, som aff Høyguictige Aarsager oc Betenckning haffuer med <hi rend="italics" xml:id="idm139705696300400">Danmarckis</hi> Rigis Høyguise Raad, Adel oc den gantske Menighed, saadant betiden forsictelige stillet vdi Gierning: Desligeste medfører E.F.N, første Indgang til den Danske Crone, oc beslutter sig paa det gantske Rigis Velferd oc Herlighed: Da haffuer Jeg fordristet mig det E. F. N. paa det allerydmygeligste at <hi rend="italics" xml:id="idm139705696299088">præsentere:</hi> Paa det vnderdanigste bedendis, at E. F. N. vilde det mildeligen optage oc lade sig Naadelige befalde. Oc effterdi Verdens oc Menniskens Domme ere vnderlige oc atskillige, oc Pennen haffuer iblant mange Dyder, ocsaa altid disse onde  Lyder, at huer mand vil effter sit Hoffuit oc Haand, den om macke oc mage, oc siden der med saa snart pladtzere som noget nyttigt eller gaffnligt henskriffue: Oc er Verdens Lyde, at ingen ting er alle til maade. At E. F. N. derfore vilde tage denne ringe Fortegnelse, med Eders lofflige Forfædris <hi rend="italics" xml:id="idm139705696297200">Historier</hi> oc voris gandske Fæderne Rigis <hi rend="italics" xml:id="idm139705696296464">Antiquiteter,</hi> vnder E.F.N. Skerm oc Beskyttelse; Er den første Anfang icke saa geskickt eller fuldkommen som det sig burde, at den ringe begynte Impe maa dog finde Naade oc Ynde.</p>
             <p xml:id="idm139705696295296">Den Himmelske, oc altid regerendis Gud oc Konge, som selff kaarer oc wdueller, oc giffuer Land oc Rige, Crone oc Velde, huem hand lyster, oc haffuer Herrernis</p>
             <pb n="299" xml:id="s299" facs="adl/lyschander/lyschander1/lysc1299"/>
-            <p xml:id="idm139705696293536">Hierte, Liff oc Lycke vdi Volde: Hand befale sin Krafft oc naadelige stadfeste det hand haffuer begyndt, Vall, Hyll- <!-- &par; --> -ding, Land oc Rige, Liff oc languarigt Regemente vdi E. F. N. Hender; Saa denne min ringe begyndelse, kand altid voxe med alle Kongelige oc Førstelige Dyder, oc med tiden giffue den Effterkommendis alder en stor vijtløfftig oc rømmelig <hi rend="italics" xml:id="idm139705696292336">Cronica.</hi> Oc vil her med haffue E.F.N. vnder den Allerhøyestis Beskyttelse til Liff oc Siel befalet. <hi rend="italics" xml:id="idm139705696291472">Actum Herfølgæ, Sancte</hi> Oluff Kongis Dag, <hi rend="italics" xml:id="idm139705696290720">Anno 1623.</hi>
+            <p xml:id="idm139705696293536">Hierte, Liff oc Lycke vdi Volde: Hand befale sin Krafft oc naadelige stadfeste det hand haffuer begyndt, Vall, Hyll-  -ding, Land oc Rige, Liff oc languarigt Regemente vdi E. F. N. Hender; Saa denne min ringe begyndelse, kand altid voxe med alle Kongelige oc Førstelige Dyder, oc med tiden giffue den Effterkommendis alder en stor vijtløfftig oc rømmelig <hi rend="italics" xml:id="idm139705696292336">Cronica.</hi> Oc vil her med haffue E.F.N. vnder den Allerhøyestis Beskyttelse til Liff oc Siel befalet. <hi rend="italics" xml:id="idm139705696291472">Actum Herfølgæ, Sancte</hi> Oluff Kongis Dag, <hi rend="italics" xml:id="idm139705696290720">Anno 1623.</hi>
 						</p>
             <lg xml:id="idm139705696289904">
               <l xml:id="idm139705696289648">E. Førstelige Naadis</l>

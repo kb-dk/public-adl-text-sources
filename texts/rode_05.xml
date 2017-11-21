@@ -1,9 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="idm140670972408080"><!-- 
-       file     ./marc_dir/002003480.xml
-       field     
-       subfield  
-       prefix   -->
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="root">
   <teiHeader xml:id="idm140670972414464">
     <fileDesc xml:id="idm140670972414208">
       <titleStmt xml:id="idm140670972413904">
@@ -21,8 +17,14 @@
         <note xml:id="idm140670972384944">
 	  </note>
       </notesStmt>
-      <sourceDesc xml:id="idm140670972384432"><bibl xml:id="idm140670972384304"><author n="1" xml:id="idm140670972383616"><name xml:id="idm140670972383360"><surname xml:id="idm140670972383232">Rode</surname>, <forename xml:id="idm140670972382800">Helge</forename></name></author><title xml:id="idm140670972382512">Krig og Aand</title><pubPlace xml:id="idm140670972382224">Kjøbenhavn</pubPlace>; <pubPlace xml:id="idm140670972381760">Kristiania</pubPlace>
-<publisher xml:id="idm140670972381296">Gyldendalske Boghandel</publisher><date xml:id="idm140670972380960">1917</date></bibl><listBibl xml:id="idm140670972380672"><bibl xml:id="biblid54094"><title xml:id="idm140670972367520">Krig og Aand</title></bibl></listBibl></sourceDesc>
+      <sourceDesc xml:id="idm140670972384432">
+        <bibl xml:id="idm140670972384304"><author n="1" xml:id="idm140670972383616"><name xml:id="idm140670972383360"><surname xml:id="idm140670972383232">Rode</surname>, <forename xml:id="idm140670972382800">Helge</forename></name></author><title xml:id="idm140670972382512">Krig og Aand</title><pubPlace xml:id="idm140670972382224">Kjøbenhavn</pubPlace>; <pubPlace xml:id="idm140670972381760">Kristiania</pubPlace><publisher xml:id="idm140670972381296">Gyldendalske Boghandel</publisher><date xml:id="idm140670972380960">1917</date></bibl>
+        <listBibl xml:id="idm140670972380672">
+          <bibl xml:id="biblid54094">
+            <title xml:id="idm140670972367520">Krig og Aand</title>
+          </bibl>
+        </listBibl>
+      </sourceDesc>
     </fileDesc>
   </teiHeader>
   <text xml:id="workid54094" decls="#biblid54094">

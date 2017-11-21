@@ -1,11 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!-- 20030520 HHL ingen vaerktitler fra ABBYY - indsat  
-      Ptj rettet s. 162-168-169-179-199- 523 -     -->
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="idm140721251744704"><!-- 
-       file     ./marc_dir/002112707.xml
-       field     
-       subfield  
-       prefix   -->
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="root">
   <teiHeader xml:id="idm140721251744048">
     <fileDesc xml:id="idm140721251743792">
       <titleStmt xml:id="idm140721251743488">
@@ -25,17 +19,38 @@
         <note xml:id="idm140721251713504">
 	  </note>
       </notesStmt>
-      <sourceDesc xml:id="idm140721251712992"><bibl xml:id="idm140721251712864"><author n="1" xml:id="idm140721251712176"><name xml:id="idm140721251711920"><surname xml:id="idm140721251711792">Heiberg</surname>, <forename xml:id="idm140721251711328">Johan Ludvig</forename></name></author><title xml:id="idm140721251711040">Dramatik i udvalg</title><pubPlace xml:id="idm140721251710752">[København]</pubPlace>; <pubPlace xml:id="idm140721251710288">[Valby]</pubPlace>
-<publisher xml:id="idm140721251709824">Det Danske Sprog- og Litteraturselskab</publisher><publisher xml:id="idm140721251709520">Borgen</publisher><date xml:id="idm140721251709184">2000</date></bibl><listBibl xml:id="idm140721251708896"><bibl xml:id="biblid54574"><title xml:id="idm140721251695744">Julespøg og Nytaarsløier</title></bibl><bibl xml:id="biblid75711"><title xml:id="idm140721251694880">Aprilsnarrene</title></bibl><bibl xml:id="biblid90201"><title xml:id="idm140721251694048">Recensenten og Dyret</title></bibl><bibl xml:id="biblid103751"><title xml:id="idm140721251773792">Nei</title></bibl><bibl xml:id="biblid112646"><title xml:id="idm140721251773104">Emilies Hjertebanken</title></bibl><bibl xml:id="biblid113483"><title xml:id="idm140721251772320">Ulla skal paa Bal</title></bibl><bibl xml:id="biblid116068"><title xml:id="idm140721251771536">Nøddeknækkerne</title></bibl></listBibl></sourceDesc>
+      <sourceDesc xml:id="idm140721251712992">
+        <bibl xml:id="idm140721251712864"><author n="1" xml:id="idm140721251712176"><name xml:id="idm140721251711920"><surname xml:id="idm140721251711792">Heiberg</surname>, <forename xml:id="idm140721251711328">Johan Ludvig</forename></name></author><title xml:id="idm140721251711040">Dramatik i udvalg</title><pubPlace xml:id="idm140721251710752">[København]</pubPlace>; <pubPlace xml:id="idm140721251710288">[Valby]</pubPlace><publisher xml:id="idm140721251709824">Det Danske Sprog- og Litteraturselskab</publisher><publisher xml:id="idm140721251709520">Borgen</publisher><date xml:id="idm140721251709184">2000</date></bibl>
+        <listBibl xml:id="idm140721251708896">
+          <bibl xml:id="biblid54574">
+            <title xml:id="idm140721251695744">Julespøg og Nytaarsløier</title>
+          </bibl>
+          <bibl xml:id="biblid75711">
+            <title xml:id="idm140721251694880">Aprilsnarrene</title>
+          </bibl>
+          <bibl xml:id="biblid90201">
+            <title xml:id="idm140721251694048">Recensenten og Dyret</title>
+          </bibl>
+          <bibl xml:id="biblid103751">
+            <title xml:id="idm140721251773792">Nei</title>
+          </bibl>
+          <bibl xml:id="biblid112646">
+            <title xml:id="idm140721251773104">Emilies Hjertebanken</title>
+          </bibl>
+          <bibl xml:id="biblid113483">
+            <title xml:id="idm140721251772320">Ulla skal paa Bal</title>
+          </bibl>
+          <bibl xml:id="biblid116068">
+            <title xml:id="idm140721251771536">Nøddeknækkerne</title>
+          </bibl>
+        </listBibl>
+      </sourceDesc>
     </fileDesc>
   </teiHeader>
   <text xml:id="idm140721251770896">
     <front xml:id="idm140721251770640">
       <pb n="1" xml:id="s1" facs="adl/heibergjl/heibergjl4/heibergjl4001"/>
       <gap reason="cancelled" xml:id="idm140721251668256"/>
-<!---->
-<!---->
-<!--Dramatik i udvalg-->
       <pb n="2" xml:id="s2" facs="adl/heibergjl/heibergjl4/heibergjl4002"/>
       <pb n="3" xml:id="s3" facs="adl/heibergjl/heibergjl4/heibergjl4003"/>
       <titlePage xml:id="idm140721251664848">
@@ -85,9 +100,6 @@
       <text xml:id="workid54574" decls="#biblid54574">
         <front xml:id="idm140721251646768">
           <gap reason="cancelled" xml:id="idm140721251646512"/>
-<!---->
-<!---->
-<!--Julespøg og Nytaarsløier Comødie-->
           <pb n="8" xml:id="s8" facs="adl/heibergjl/heibergjl4/heibergjl4008"/>
           <titlePage xml:id="idm140721251643904">
             <docAuthor xml:id="idm140721251643648">J.L. HEIBERG</docAuthor>

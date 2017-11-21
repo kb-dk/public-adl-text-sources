@@ -1,15 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!-- edited with XML Spy v4.3 U (http://www.xmlspy.com) by Birgit Henriksen (Det kongelige Bibliotek) -->
-<!-- OCR by ATAPY 07.11.02 (Catherine Bychkova) -->
-<!-- HHL 2003.03.06 emph udkommenteret og -> kursiv
-                    checket iflg. liste
-                    Ptj rettet s. 15-
-                    -->
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="idm140622394301200"><!-- 
-       file     ./marc_dir/001751262.xml
-       field     
-       subfield  
-       prefix   -->
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="root">
   <teiHeader xml:id="idm140622394300368">
     <fileDesc xml:id="idm140622394300112">
       <titleStmt xml:id="idm140622394274688">
@@ -30,17 +20,29 @@
         <note xml:id="idm140622394269984">
 	  </note>
       </notesStmt>
-      <sourceDesc xml:id="idm140622394269472"><bibl xml:id="idm140622394269344"><author n="1" xml:id="idm140622394268656"><name xml:id="idm140622394268400"><surname xml:id="idm140622394268272">Steffens</surname>, <forename xml:id="idm140622394267808">Henrich</forename></name></author><title xml:id="idm140622394267520">Indledning til philosophiske Forelæsninger</title><pubPlace xml:id="idm140622394267168">København</pubPlace>
-<publisher xml:id="idm140622394266704">Det Danske Sprog- og Litteraturselskab</publisher><publisher xml:id="idm140622394266400">C.A. Reitzel</publisher><date xml:id="idm140622394266064">1996</date></bibl><listBibl xml:id="idm140622394265776"><bibl xml:id="biblid54807"><title xml:id="idm140622394252624">Indledning til philosophiske Forelæsninger af Henrich Steffens</title></bibl></listBibl></sourceDesc>
+      <sourceDesc xml:id="idm140622394269472">
+        <bibl xml:id="idm140622394269344">
+          <author n="1" xml:id="idm140622394268656">
+            <name xml:id="idm140622394268400"><surname xml:id="idm140622394268272">Steffens</surname>, <forename xml:id="idm140622394267808">Henrich</forename></name>
+          </author>
+          <title xml:id="idm140622394267520">Indledning til philosophiske Forelæsninger</title>
+          <pubPlace xml:id="idm140622394267168">København</pubPlace>
+          <publisher xml:id="idm140622394266704">Det Danske Sprog- og Litteraturselskab</publisher>
+          <publisher xml:id="idm140622394266400">C.A. Reitzel</publisher>
+          <date xml:id="idm140622394266064">1996</date>
+        </bibl>
+        <listBibl xml:id="idm140622394265776">
+          <bibl xml:id="biblid54807">
+            <title xml:id="idm140622394252624">Indledning til philosophiske Forelæsninger af Henrich Steffens</title>
+          </bibl>
+        </listBibl>
+      </sourceDesc>
     </fileDesc>
   </teiHeader>
   <text xml:id="idm140622394251840">
     <front xml:id="idm140622394251584">
       <pb n="1" xml:id="s1" facs="adl/steffens/steffens01/stef1001"/>
       <gap reason="cancelled" xml:id="idm140622394250160"/>
-<!---->
-<!---->
-<!--HENRICH STEFFENS-->
       <pb n="2" xml:id="s2" facs="adl/steffens/steffens01/stef1002"/>
       <pb n="3" xml:id="s3" facs="adl/steffens/steffens01/stef1003"/>
       <titlePage xml:id="idm140622394246416">
@@ -5861,9 +5863,7 @@
               <eg xml:id="idm140622392554272">15, 18</eg>
               <p xml:id="idm140622392553856">
                 <hi rend="italics" xml:id="idm140622392553600">ved &lt; </hi>
-<!--<emph>-->
                 <hi rend="italics" xml:id="idm140622392552560">ved</hi>
-<!--</emph>-->
               </p>
               <eg xml:id="idm140622392551456">16, 8</eg>
               <p xml:id="idm140622392551072">som det kom &lt; som et kom</p>
@@ -6140,9 +6140,9 @@
 								følgende anvendes to forkortelser <hi rend="italics" xml:id="idm140622392432368">US = Nik Fred
 									Sev Grundtvigs Udvalgte Skrifter</hi>, bd I-X, København
 								1904-09, ved Holger Begtrup, <hi rend="italics" xml:id="idm140622392431520">VU =</hi>
-								<!--<emph>-->
+								
 								<hi rend="italics" xml:id="idm140622392430480">NFS</hi>
-								<!--</emph>--> . Grundtvig <hi rend="italics" xml:id="idm140622392429456">Værker i Udvalg</hi>,
+								 . Grundtvig <hi rend="italics" xml:id="idm140622392429456">Værker i Udvalg</hi>,
 								bd I-X, København 1940-49, ved Georg Christensen og Hal Koch
 								- Henvisningen her gælder <hi rend="italics" xml:id="idm140622392428528">VU</hi>, bd
 								I, P 95</note>
@@ -6172,9 +6172,9 @@
 							derefter Grundtvigs holdninger til Goethe Børge Ørsted <hi rend="italics" xml:id="idm140622392414080">J P Mynster og Henrich Steffens</hi>, bd. I-II,
 							København 1965, nævner kun Goethe-forelæsningerne i forbigående p. 403
 							Derimod har Grundtvigforskningen behandlet Grundtvigs Steffens-notater,
-							men naturligvis med sigte på Grundtvigs udvikling, f. eks F Rønning <!--<emph>-->
+							men naturligvis med sigte på Grundtvigs udvikling, f. eks F Rønning 
 							<hi rend="italics" xml:id="idm140622392412544"><hi rend="italics" xml:id="idm140622392412176">N.FS Grundtvig</hi></hi>
-							<!--</emph>--> , bd I.1, København 1907, p 81 f, William Michelsen <hi rend="italics" xml:id="idm140622392411008">Tilblivelsen af Grundtvigs historiesyn</hi>,
+							 , bd I.1, København 1907, p 81 f, William Michelsen <hi rend="italics" xml:id="idm140622392411008">Tilblivelsen af Grundtvigs historiesyn</hi>,
 							København 1954, pp 198, 253, 256-261, Niels Kofoed <hi rend="italics" xml:id="idm140622392410192">Grundtvig som selvbiograf</hi>, København 1954, pp 42 ff Efter
 							nærværende bidrags offentliggørelse i <hi rend="italics" xml:id="idm140622392409312">Danske
 							Studier</hi> 1971 er de sparsomme resultater blevet inddraget i
@@ -6218,9 +6218,9 @@
 								kilde, jf H Hansen <hi rend="italics" xml:id="idm140622392390224">Steen Steensen Blichers
 									Barndom og Ungdom</hi>, Kobenhavn 1902, pp 96-100</note>
 							<note anchored="true" xml:id="idm140622392389328">9 Gustav Albeck udsendte i 1979 en komplet, gennemkommenteret
-								udgave af <!--<emph>-->
+								udgave af 
 								<hi rend="italics" xml:id="idm140622392388384"><hi rend="italics" xml:id="idm140622392388016">N</hi><hi rend="italics" xml:id="idm140622392387440">F S Grundtvigs Dag- og Udtogsbøger</hi></hi>
-								<!--</emph>--> , bd I-II, Kebenhavn Da Albeck overalt henviser til
+								 , bd I-II, Kebenhavn Da Albeck overalt henviser til
 								manuskripterne med fascikel- og blad- eller sidetal, kan de i det
 								følgende citerede manuskripttekster let lokaliseres hos ham</note>
 							<pb n="230" xml:id="s230" facs="adl/steffens/steffens01/stef1230"/> korte og fattige de end er,

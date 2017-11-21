@@ -1,11 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!--  OCR by ATAPY 11.10.02 (Catherine Bychkova) -->
-<!-- HHL 2003.03.06 rettet iflg. checkliste og assumptions-dokumentet-->
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="idm140146209160144"><!-- 
-       file     ./marc_dir/001832663.xml
-       field    530 
-       subfield a 
-       prefix   Bd 1 :-->
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="root">
   <teiHeader xml:id="idm140146209159360">
     <fileDesc xml:id="idm140146209159104">
       <titleStmt xml:id="idm140146209158800">
@@ -20,17 +14,30 @@
         <note xml:id="idm140146209130448">
 	  </note>
       </notesStmt>
-      <sourceDesc xml:id="idm140146209129936"><bibl xml:id="idm140146209129808"><author n="1" xml:id="idm140146209129120"><name xml:id="idm140146209128864"><surname xml:id="idm140146209128736">Schandorph</surname>, <forename xml:id="idm140146209128304">Sophus</forename></name></author><title xml:id="idm140146209128000"> Uden Midtpunkt - Smaafolk. - 1904</title><pubPlace xml:id="idm140146209127696">København</pubPlace>
-<date xml:id="idm140146209127184">1904-05</date></bibl><listBibl xml:id="idm140146209126896"><bibl xml:id="biblid54321"><title xml:id="idm140146209113744">UDEN MIDTPUNKT (1878)</title></bibl><bibl xml:id="biblid68577"><title xml:id="idm140146209112960">SMAAFOLK (1880)</title></bibl></listBibl></sourceDesc>
+      <sourceDesc xml:id="idm140146209129936">
+        <bibl xml:id="idm140146209129808">
+          <author n="1" xml:id="idm140146209129120">
+            <name xml:id="idm140146209128864"><surname xml:id="idm140146209128736">Schandorph</surname>, <forename xml:id="idm140146209128304">Sophus</forename></name>
+          </author>
+          <title xml:id="idm140146209128000"> Uden Midtpunkt - Smaafolk. - 1904</title>
+          <pubPlace xml:id="idm140146209127696">København</pubPlace>
+          <date xml:id="idm140146209127184">1904-05</date>
+        </bibl>
+        <listBibl xml:id="idm140146209126896">
+          <bibl xml:id="biblid54321">
+            <title xml:id="idm140146209113744">UDEN MIDTPUNKT (1878)</title>
+          </bibl>
+          <bibl xml:id="biblid68577">
+            <title xml:id="idm140146209112960">SMAAFOLK (1880)</title>
+          </bibl>
+        </listBibl>
+      </sourceDesc>
     </fileDesc>
   </teiHeader>
   <text xml:id="idm140146209112320">
     <front xml:id="idm140146209112064">
       <pb n="a" xml:id="sa" facs="adl/schandorph/schandorph3/scha3fm001"/>
       <gap reason="cancelled" xml:id="idm140146209110560"/>
-<!---->
-<!---->
-<!--S. SCHANDORPH ROMANER FØRSTE BIND-->
       <pb n="b" xml:id="sb" facs="adl/schandorph/schandorph3/scha3fm002"/>
       <pb n="c" xml:id="sc" facs="adl/schandorph/schandorph3/scha3fm003"/>
       <titlePage xml:id="idm140146209106736">

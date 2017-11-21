@@ -1,9 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="idm139645822491664"><!-- 
-       file     ./marc_dir/001915199.xml
-       field     
-       subfield  
-       prefix   -->
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="root">
   <teiHeader xml:id="idm139645822491008">
     <fileDesc xml:id="idm139645822490752">
       <titleStmt xml:id="idm139645822490448">
@@ -21,8 +17,39 @@
         <note xml:id="idm139645822461504">
 	  </note>
       </notesStmt>
-      <sourceDesc xml:id="idm139645822460992"><bibl xml:id="idm139645822460864"><author n="1" xml:id="idm139645822460176"><name xml:id="idm139645822459920"><surname xml:id="idm139645822459792">Hjortø</surname>, <forename xml:id="idm139645822459360">Knud</forename></name></author><title xml:id="idm139645822459104">Drømmen om kvinden</title><pubPlace xml:id="idm139645822458800">København</pubPlace>
-<date xml:id="idm139645822458320">1928</date></bibl><listBibl xml:id="idm139645822458064"><bibl xml:id="biblid54096"><title xml:id="idm139645822444912">Drømmen om kvinden</title></bibl><bibl xml:id="biblid54641"><title xml:id="idm139645822444112">Luftspejling</title></bibl><bibl xml:id="biblid58238"><title xml:id="idm139645822443328">Fjender</title></bibl><bibl xml:id="biblid59091"><title xml:id="idm139645822442496">De dødes lov</title></bibl><bibl xml:id="biblid60055"><title xml:id="idm139645822441696">Kvindeglimt</title></bibl><bibl xml:id="biblid60967"><title xml:id="idm139645822440912">Den hvide sky</title></bibl><bibl xml:id="biblid61984"><title xml:id="idm139645822440080">Drømmen om kvinden (novellen)</title></bibl></listBibl></sourceDesc>
+      <sourceDesc xml:id="idm139645822460992">
+        <bibl xml:id="idm139645822460864">
+          <author n="1" xml:id="idm139645822460176">
+            <name xml:id="idm139645822459920"><surname xml:id="idm139645822459792">Hjortø</surname>, <forename xml:id="idm139645822459360">Knud</forename></name>
+          </author>
+          <title xml:id="idm139645822459104">Drømmen om kvinden</title>
+          <pubPlace xml:id="idm139645822458800">København</pubPlace>
+          <date xml:id="idm139645822458320">1928</date>
+        </bibl>
+        <listBibl xml:id="idm139645822458064">
+          <bibl xml:id="biblid54096">
+            <title xml:id="idm139645822444912">Drømmen om kvinden</title>
+          </bibl>
+          <bibl xml:id="biblid54641">
+            <title xml:id="idm139645822444112">Luftspejling</title>
+          </bibl>
+          <bibl xml:id="biblid58238">
+            <title xml:id="idm139645822443328">Fjender</title>
+          </bibl>
+          <bibl xml:id="biblid59091">
+            <title xml:id="idm139645822442496">De dødes lov</title>
+          </bibl>
+          <bibl xml:id="biblid60055">
+            <title xml:id="idm139645822441696">Kvindeglimt</title>
+          </bibl>
+          <bibl xml:id="biblid60967">
+            <title xml:id="idm139645822440912">Den hvide sky</title>
+          </bibl>
+          <bibl xml:id="biblid61984">
+            <title xml:id="idm139645822440080">Drømmen om kvinden (novellen)</title>
+          </bibl>
+        </listBibl>
+      </sourceDesc>
     </fileDesc>
   </teiHeader>
   <text xml:id="workid54096" decls="#biblid54096">

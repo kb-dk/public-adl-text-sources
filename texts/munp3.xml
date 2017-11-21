@@ -1,9 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="idm139786700603664"><!-- 
-       file     ./marc_dir/00[no record].xml
-       field     
-       subfield  
-       prefix   -->
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="root">
   <teiHeader xml:id="idm139786700610048">
     <fileDesc xml:id="idm139786700609792">
       <titleStmt xml:id="idm139786700609488">
@@ -18,13 +14,21 @@
         <note xml:id="idm139786700581456">
 	  </note>
       </notesStmt>
-      <sourceDesc xml:id="idm139786700580944"><bibl
-						  xml:id="idm139786700580816">
-<author n="1" xml:id="idm140381329052672">
+      <sourceDesc xml:id="idm139786700580944">
+        <bibl xml:id="idm139786700580816">
+          <author n="1" xml:id="idm140381329052672">
             <name xml:id="idm140381329052240"><surname xml:id="idm140381329052112">Munch-Petersen</surname>,
 	  <forename xml:id="idm140381329051664">Gustaf</forename></name>
           </author>
-<title xml:id="idm139786700580688">Upubliceret</title><title xml:id="idm139786700580432">et indiskret svar paa et diskret spørgsmaal</title></bibl><listBibl xml:id="idm139786700580064"><bibl xml:id="biblid54091"><title xml:id="idm139786700566576">et indiskret svar paa et diskret spørgsmaal - upubliceret, 1931</title></bibl></listBibl></sourceDesc>
+          <title xml:id="idm139786700580688">Upubliceret</title>
+          <title xml:id="idm139786700580432">et indiskret svar paa et diskret spørgsmaal</title>
+        </bibl>
+        <listBibl xml:id="idm139786700580064">
+          <bibl xml:id="biblid54091">
+            <title xml:id="idm139786700566576">et indiskret svar paa et diskret spørgsmaal - upubliceret, 1931</title>
+          </bibl>
+        </listBibl>
+      </sourceDesc>
     </fileDesc>
   </teiHeader>
   <text xml:id="idm139786700565792">
@@ -88,42 +92,6 @@
             <l xml:id="idm139786700542704">langt borte fra dig</l>
           </lg>
         </div>
-<!-- div>
-	  <head>kammerater!<lb/>
-	  linien, feb. 1934<lb/>
-	  (uddrag)
-	  </head>
-
-	  <p>- en kunstner, som ikke er revolutionær, er ikke kunstner
-	  han er alle virkelige kunstneres lumskeste og farligste
-	  fjende <del type="editorial" hand="martine"/> den
-	  revolution, som er kunstnerens, er ikke brødets brødets
-	  revolutionære er hans selvfølgelige kampfæller, men paa et
-	  ham uvedkommende omraade hans maal er at skabe mennesker som
-	  <hi rend="italics">fuldt ud</hi> er i stand til at
-	  tilgodegøre sig frugterne af disse hans kampfællers
-	  resultater de rydder, skaber plads, aabner en menneskeværdig
-	  jord -, hans opgave er at danne de mennesker, der værdigt og
-	  frigjorte først gennem hans arbejde blir aabne for den
-	  frugtbarhedens varme, som brødets revolutionære har beredt
-	  dem <del type="editorial" hand="martine"/>.  de bestaaende
-	  samfund nu <del type="editorial" hand="martine"/> gør det
-	  saa vanskeligt for de nulevende mennesker at indtage <hi
-	  rend="italics">den</hi> plads <del type="editorial"
-	  hand="martine"/> der er deres og kun deres <del
-	  type="editorial" hand="martine"/> - en verdens og
-	  samfundsordning, der gennemfører den minutiøse
-	  specialisering, der ene kan give mening til hvert eneste
-	  menneskeliv <del type="editorial" hand="martine"/> kun en
-	  sådan kan en virkelig kunstner gøre til sit ideal og den som
-	  nægter at acceptere dette (uendelig fjærne, men eneste
-	  værdige) maal -, hans skæbne skal drukne som djævelens suk i
-	  ærkeenglenes brusende sang <del type="editorial"
-	  hand="martine"/> vi vil et samfund for <hi
-	  rend="italics">alle</hi> mennesker, undtagen de golde, de
-	  snyltende, de indifferente lad os frygte sygdommen mere end
-	  helbredelsen!</p>
-	</div -->
       </div>
     </body>
   </text>

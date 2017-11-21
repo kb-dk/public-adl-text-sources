@@ -1,13 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!--  OCR by ATAPY 5.10.2001 (Catherine Bychkova) -->
-<!-- VL Greek letters replaced by [x] ;  emph replaced by spat
-Phtj rettet s. 111-
--->
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="idm139969849842272"><!-- 
-       file     ./marc_dir/001552582.xml
-       field     
-       subfield  
-       prefix   -->
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="root">
   <teiHeader xml:id="idm139969849841616">
     <fileDesc xml:id="idm139969849841360">
       <titleStmt xml:id="idm139969849815984">
@@ -28,17 +20,20 @@ Phtj rettet s. 111-
         <note xml:id="idm139969849811296">
 	  </note>
       </notesStmt>
-      <sourceDesc xml:id="idm139969849810784"><bibl xml:id="idm139969849810656"><author n="1" xml:id="idm139969849809968"><name xml:id="idm139969849809712"><surname xml:id="idm139969849809584">Kierkegaard</surname>, <forename xml:id="idm139969849809152">Søren</forename></name></author><title xml:id="idm139969849808896">Dagbøger i udvalg 1834-1846</title><pubPlace xml:id="idm139969849808560">[København]</pubPlace>; <pubPlace xml:id="idm139969849808128">[Valby]</pubPlace>
-<publisher xml:id="idm139969849807696">Det Danske Sprog- og Litteraturselskab</publisher><publisher xml:id="idm139969849807392">Borgen</publisher><date xml:id="idm139969849807088">1992</date></bibl><listBibl xml:id="idm139969849806800"><bibl xml:id="biblid54108"><title xml:id="idm139969849793648">Dagbøger i udvalg 1834-1846</title></bibl></listBibl></sourceDesc>
+      <sourceDesc xml:id="idm139969849810784">
+        <bibl xml:id="idm139969849810656"><author n="1" xml:id="idm139969849809968"><name xml:id="idm139969849809712"><surname xml:id="idm139969849809584">Kierkegaard</surname>, <forename xml:id="idm139969849809152">Søren</forename></name></author><title xml:id="idm139969849808896">Dagbøger i udvalg 1834-1846</title><pubPlace xml:id="idm139969849808560">[København]</pubPlace>; <pubPlace xml:id="idm139969849808128">[Valby]</pubPlace><publisher xml:id="idm139969849807696">Det Danske Sprog- og Litteraturselskab</publisher><publisher xml:id="idm139969849807392">Borgen</publisher><date xml:id="idm139969849807088">1992</date></bibl>
+        <listBibl xml:id="idm139969849806800">
+          <bibl xml:id="biblid54108">
+            <title xml:id="idm139969849793648">Dagbøger i udvalg 1834-1846</title>
+          </bibl>
+        </listBibl>
+      </sourceDesc>
     </fileDesc>
   </teiHeader>
   <text xml:id="workid54108" decls="#biblid54108">
     <front xml:id="idm139969849792016">
       <pb n="1" facs="adl/kierkegaard/kierkegaard3/kierkeg3001" xml:id="idm139969849791712"/>
       <gap reason="cancelled" xml:id="idm139969849790896"/>
-<!---->
-<!---->
-<!--Dagbøger i udvalg 1834-1846-->
       <pb n="2" facs="adl/kierkegaard/kierkegaard3/kierkeg3002" xml:id="idm139969849789280"/>
       <pb n="3" facs="adl/kierkegaard/kierkegaard3/kierkeg3003" xml:id="idm139969849788576"/>
       <titlePage xml:id="idm139969849787808">
@@ -145,7 +140,7 @@ Phtj rettet s. 111-
         </div>
         <div xml:id="idm139969849737424">
           <p xml:id="idm139969849737168">[x][x][x][x][x][x] [x][x][x]
-						[x][x][x][x][x][x][x][x][x][x][x][x]<!-- &#945;&#966;&#949;&#963;&#953;&#962; &#964;&#969;&#957; &#960;&#945;&#961;&#945;&#960;&#964;&#969;&#956;&#945;&#964;&#969;&#957; -->
+						[x][x][x][x][x][x][x][x][x][x][x][x]
 						. Dette Udtryk bruges bestandig hvor der handles om Retfærdiggjørelse. Det
 						synes derfor ikke saa meget at betegne: Eftergivelse af Synderne som:
 						Slappelse af Synderne. Det er: Msk. er ved Retfærdiggj øreisens Act stillet
@@ -747,7 +742,7 @@ Phtj rettet s. 111-
           <opener xml:id="idm139969849588112">[Til 46]</opener>
           <p xml:id="idm139969849587696">Nu er det rigtignok sandt, at f. E. Paulus i Brevet til Galaterne kalder den
 						(IV,3) [x][x][x][x][x][x][x][x] [x][x][x]
-						[x][x][x][x][x][x]<!-- &#963;&#964;&#959;&#953;&#967;&#949;&#953;&#945; &#964;&#959;&#965; &#954;&#959;&#963;&#956;&#959;&#965; -->
+						[x][x][x][x][x][x]
 						; og netop paa dette Sted stilles den i det Hele taget paa lige Trin med
 						Hedenskabet. Men det hjælper os ikke stort; thi det bringer os kun ind i en
 						Modsigelse, da der i N: T: paa andre Stæder tydelig læres, at Mosaismen og
@@ -928,7 +923,7 @@ Phtj rettet s. 111-
 						NB. med den Vægt, som det tilkom som Symbolum ligesom han netop i l Cor. XI
 						siger [x][x][x] [x][x][x][x][x][x][x][x][x] [x][x][x] [x][x][x]
 						[x][x][x][x][x][x] [x] [x][x][x] [x][x][x][x][x][x][x][x]
-						[x][x][x][x]<!-- &#949;&#947;&#969; &#960;&#945;&#961;&#949;&#955;&#945;&#946;&#959;&#957; &#945;&#960;&#959; &#964;&#959;&#965; &#954;&#965;&#961;&#953;&#959;&#965;, &#948; &#954;&#945;&#953; &#960;&#945;&#961;&#949;&#948;&#969;&#954;&#945; &#965;&#956;&#953;&#957; -->
+						[x][x][x][x]
 						. etc. 2) har Mag. Lindb. gjort opmærksom paa med H. t: at man heller ikke
 						fandt det hos de ældste Kfædre, at de holdt det hemmeligt. Men sæt nu ogsaa
 						at det var saa, saa har den Grund dog vel ikke afholdt Apostlene fra at
@@ -983,7 +978,7 @@ Phtj rettet s. 111-
         <div xml:id="idm139969849535440">
           <opener xml:id="idm139969849535184">[Til 60]</opener>
           <p xml:id="idm139969849534768">Misforstaaelse af Theorie om
-						»[x][x][x][x][x]<!-- &#955;&#959;&#947;&#959;&#962; -->«
+						»[x][x][x][x][x]«
 						overført paa Ordet, da dog det levende Ord hvor levende det end er ikke er
 						skabende i den Forstand, netop fordi det ikke er absolut skabende, netop
 						derfor kommer hell. ikke hele Fylden frem, og derfor er der ingen absolut
@@ -1741,7 +1736,7 @@ Phtj rettet s. 111-
 						nytter det Mennesket først at ville bestemme det Udvortes og siden det
 						Grundconstituerende. Man maa først lære at kjende sig selv, inden man
 						kjender noget Andet ([x][x][x][x][x]
-						[x][x][x][x][x][x][x]<!-- &#947;&#957;&#969;&#952;&#953; &#963;&#949;&#945;&#965;&#964;&#959;&#957; -->).
+						[x][x][x][x][x][x][x]).
 						Først naar Mennesket saaledes inderlig har forstaaet <hi rend="italics" xml:id="idm139969849351088">sig
 							selv</hi> og nu seer sin Gang" hen af sin Bane, først da faaer hans Liv
 						Ro og Betydning, først da bliver han fri for hiin besværlige, uheldsvangre
@@ -1899,7 +1894,7 @@ Phtj rettet s. 111-
           <p xml:id="idm139969849317200">Træffende og meget prægnant er hele GI. T. Lov Standpunctet i Modsætning til
 						N. T. angivet i Heb: 12,24. »[x][x][x][x][x][x] [x][x][x][x][x][x][x][x][x]
 						[x][x][x][x][x][x][x][x] [x][x][x][x][x][x][x][x] [x][x][x][x] [x][x][x]
-						[x][x][x]<!-- &#945;&#953;&#956;&#945;&#964;&#953; &#961;&#945;&#957;&#964;&#953;&#963;&#956;&#959;&#965; &#954;&#961;&#949;&#953;&#964;&#964;&#959;&#957; &#955;&#945;&#955;&#959;&#965;&#957;&#964;&#953; &#960;&#945;&#961;&#945; &#964;&#959;&#957; &#913;&#946;&#949;&#955; -->«
+						[x][x][x]«
 						(Hævn. Straf - Kjerlighed. Naade).</p>
           <closer xml:id="idm139969849315616">
             <date xml:id="idm139969849315360">d. 10 Aug.35.</date>
@@ -2921,7 +2916,7 @@ Phtj rettet s. 111-
           <p xml:id="idm139969849065104">Der maa dog gives en Grændse for Begeistxing, og der gives dog Ting, som ere
 						saa ringe, at det i høieste Grad er uværdigt at blive begeistret, og hvor
 						man bør revse den - tillod man end Pythagoras under det Udraab
-						[x][x][x][x][x][x]<!-- &#949;&#965;&#961;&#951;&#954;&#945; -->
+						[x][x][x][x][x][x]
 						at løbe nøgen gjennem Gaderne, saa vilde man vist føle sig høilig forundret,
 						naar Een, der havde fundet en Knappenaal, vilde gjøre det Samme. -</p>
           <p xml:id="idm139969849063504">Hvoraf kommer det, at vi ønske helst at læse det Comiske i Selskab, det
@@ -3089,7 +3084,7 @@ Phtj rettet s. 111-
         </div>
         <div xml:id="idm139969849020912">
           <p xml:id="idm139969849020656">Hvilken
-						[x][x][x][x][x][x][x][x]<!-- &#960;&#961;&#959;&#964;&#965;&#960;&#959;&#962; -->
+						[x][x][x][x][x][x][x][x]
 						for det enkelte Mskliv ligger deri, at vi altid see Nationernes poetiske
 						Udvikling begynde med det episke og først da følger det lyriske.</p>
           <closer xml:id="idm139969849019520">
@@ -3107,7 +3102,7 @@ Phtj rettet s. 111-
         <div xml:id="idm139969849016816">
           <p xml:id="idm139969849016560">Ligger ikke i l Corinth: XIII,12 [x][x][x][x][x][x][x][x] [x][x][x]
 						[x][x][x][x] [x][x] [x][x][x][x][x][x][x][x] [x][x]
-						[x][x][x][x][x][x][x][x][x]<!-- &#946;&#955;&#949;&#960;&#959;&#956;&#949;&#957; &#947;&#945;&#961; &#945;&#961;&#964;&#953; &#948;&#7984; &#949;&#963;&#959;&#960;&#964;&#961;&#959;&#965; &#949;&#957; &#945;&#953;&#957;&#953;&#947;&#956;&#945;&#964;&#953; -->
+						[x][x][x][x][x][x][x][x][x]
 						en Anerkjendelse af <hi rend="italics" xml:id="idm139969849015520">Allegoriens</hi> Nødvendighed for
 						vort nu værende Standpunct?</p>
           <p xml:id="idm139969849014640">Allegoriens Forhold til det Romantiske?</p>
@@ -3119,7 +3114,7 @@ Phtj rettet s. 111-
           <p xml:id="idm139969849013024">da netop hele Ideen ikke kan hvile og opfattes i det egentlige Udtryk.
 						- Billedet -</p>
           <p xml:id="idm139969849012528">Forsaavidt Chrstd: blev staaende ved Læren om Gud-Msk.
-						[x][x][x][x][x][x][x][x][x][x]<!-- &#952;&#949;&#945;&#957;&#964;&#961;&#969;&#960;&#959;&#962; -->,
+						[x][x][x][x][x][x][x][x][x][x],
 						forsaavidt er den ikke romantisk; det er og den Side Hegel fornemlig har
 						trukket frem.</p>
           <closer xml:id="idm139969849011408">
@@ -4785,7 +4780,7 @@ Phtj rettet s. 111-
 						forskjellig fra den tidligere og overhovedet fra enhver anden Tids, er saa
 						evident, at det blot behøves at erindre derom. Men hvorledes? See vi hen til
 						Tidsalderen, da finde vi en Mængde Msk. der ret egl. i græsk Forstand ere
-						[x][x][x][x][x][x][x][x][x]<!-- &#960;&#961;&#945;&#954;&#964;&#953;&#967;&#959;&#953; -->,
+						[x][x][x][x][x][x][x][x][x],
 						hvilke allerede Aristoteles anviser det laveste Trin i Udvikl:.
 						Beskjæftigede med deres Sysler med at dyrke deres Jord og som det hedder at
 						opdrage deres Børn - d: v: s: til »confirmerede Ædere« leve de
@@ -4942,7 +4937,7 @@ Phtj rettet s. 111-
           <p xml:id="idm139969848526112">Philosopherne give gjerne med den ene Haand og tage med den anden, saaledes
 						f. E. Kant, der vel lærte os noget om Kategoriernes Tilnærmelse til det egl.
 						sande
-						([x][x][x][x][x][x][x][x]<!-- &#957;&#959;&#959;&#965;&#956;&#949;&#957;&#945; -->)
+						([x][x][x][x][x][x][x][x])
 						men ved at gjøre den <hi rend="italics" xml:id="idm139969848524960">uendelig</hi> derved tog alt
 						tilbage. Overhovedet spiller denne Brug af Ordet uendelig en stor Rolle i
 						Philosophien. -</p>
@@ -5089,7 +5084,7 @@ Phtj rettet s. 111-
 						dernæst befandtes Jorden at være udmarvet.</p>
           <p xml:id="idm139969848488000">Det Humoristiske, der overhovedet ligger i Chrstd. er udtrykt i
 						en Hovedsætning, hvor det hedder, at Sandheden er skjult i Mysteriet <pb n="146" facs="adl/kierkegaard/kierkegaard3/kierkeg3146" xml:id="idm139969848487440"/> ([x][x] [x][x][x][x][x][x][x][x]
-						[x][x][x][x][x][x][x][x]<!-- &#949;&#957; &#956;&#965;&#963;&#964;&#951;&#961;&#953;&#8179; &#945;&#960;&#959;&#954;&#961;&#965;&#966;&#951; -->),
+						[x][x][x][x][x][x][x][x]),
 						hvor jo ikke blot læres, at Sandheden her findes i et Mysterium (et Udsagn
 						Verden i det Hele har haft mere Lyst til at høre, da der jo tidt nok har
 						dannet sig Mysterier, ihvorvel de i disse Indlemmede da igjen strax
@@ -5099,7 +5094,7 @@ Phtj rettet s. 111-
           <p xml:id="idm139969848483712">Forsaavidt Chrstd. ikke udskiller det Romantiske fra sig vil den bestandig,
 						hvormeget den christelige Erkjendelse end tiltager, dog altid huske sin
 						Oprindelse og derfor <hi rend="italics" xml:id="idm139969848483264">vide</hi> Alt [x][x]
-						[x][x][x][x][x][x][x][x]<!--&#949;&#957; &#956;&#965;&#963;&#964;&#951;&#961;&#953;&#8179; -->).</p>
+						[x][x][x][x][x][x][x][x]).</p>
           <p xml:id="idm139969848482032">Det Humoristiske i Chrstd. træder ogsaa frem i den Sætning: mit Aag er let og
 						min Byrde ikke tung; thi den er det jo vistnok i høieste Grad er tung for
 						Verden den tungeste der kan tænkes - Selvfornægtelse.</p>
@@ -5149,7 +5144,7 @@ Phtj rettet s. 111-
             <p xml:id="idm139969848471744">§ og Begrebet Aabenbaring kan i sig meget godt indeholde
 							Begrebet af det Skjulte, ligesom det Ord »Port« bruges for at betegne at
 							man ikke kommer tilbage [x][x]
-							[x][x][x][x][x][x][x][x]<!-- &#949;&#957; &#956;&#965;&#963;&#964;&#951;&#961;&#953;&#8179; -->?
+							[x][x][x][x][x][x][x][x]?
 							Dødens Porte. -</p>
           </note>
           <p xml:id="idm139969848470608"/>
@@ -5276,8 +5271,8 @@ Phtj rettet s. 111-
         </div>
         <div xml:id="idm139969848438864">
           <p xml:id="idm139969848438608">Det er den i Rom: VIII,19 omtalte
-						[x][x][x][x][x][x][x][x][x][x][x][x]<!-- &#945;&#960;&#959;&#954;&#945;&#961;&#945;&#948;&#959;&#954;&#953;&#945; &#964;&#951;&#962;-->
-						[x][x][x][x][x][x][x]<!-- &#954;&#964;&#953;&#963;&#949;&#969;&#962;-->,
+						[x][x][x][x][x][x][x][x][x][x][x][x]
+						[x][x][x][x][x][x][x],
 						hvortil enkelte poetiske Glimt svare i Sagnene f. E. om Havfruer der blive
 						forløste ved Msk. Kjærlighed, om Gnomer etc. (F. de la Motte Fouqué,
 						Hoffmann, Ingemann som reproducerende de gi. Sagn, hvis anden Side er den,
@@ -5788,9 +5783,9 @@ Phtj rettet s. 111-
           <p xml:id="idm139969848300000">Det Erkjendelsens Moment som den tilkommende Salighed dog nødvendigviis ogsaa
 						maa indeholde, træder paa en Maade frem Eph: 1,21. »over ethvert Navn, der
 						skal nævnes ikke blot [x][x] [x][x] [x][x][x][x][x]
-						[x][x][x][x]<!-- 949;&#957; &#964;&#969; &#945;&#953;&#969;&#957;&#953; &#964;&#959;&#965;&#964;&#969; -->;
+						[x][x][x][x];
 						men ogsaa [x][x] [x][x]
-						[x][x][x][x][x][x][x][x]<!-- &#949;&#118; &#964;&#969; &#956;&#949;&#955;&#955;&#959;&#957;&#964;&#953; -->«,
+						[x][x][x][x][x][x][x][x]«,
 						hvor jo dog det tillige er indeholdt, at man vil komme til at gøre
 						Bekjendtskab med Navne, der have større Betydning end selv de allerstørste
 						verdenshistoriske.</p>
@@ -5898,7 +5893,7 @@ Phtj rettet s. 111-
         </div>
         <div xml:id="idm139969848272688">
           <p xml:id="idm139969848272432">Desto værre er min egl. Aand saa hyppigt tilstæde hos mig kun [x][x][x][x]
-						[x][x][x][x][x][x]<!-- &#954;&#945;&#964;&#945; &#954;&#961;&#965;&#968;&#953;&#957; -->.</p>
+						[x][x][x][x][x][x].</p>
           <closer xml:id="idm139969848271408">
             <date xml:id="idm139969848271152">d. 20 Sept. 37.</date>
           </closer>
@@ -6020,7 +6015,7 @@ Phtj rettet s. 111-
           <p xml:id="idm139969848241184">Der er dog Intet farligere for et Msk., Intet mere lammende end en vis
 						isolerende Henstirren paa sig selv, hvorved Verdenshistorie, Mskliv, Samfund
 						kort Alt forsvinder, og man ligesom
-						<!-- &#959;&#956;&#966;&#945;&#955;&#959;&#968;&#965;&#967;&#953;&#964;&#945;&#953; -->[x][x][x][x][x][x][x][x][x][x][x][x][x]
+						[x][x][x][x][x][x][x][x][x][x][x][x][x]
 						i en egoistisk Cirkel bestandig kun seer sin egen Navle. - Det er
 						derfor saa dybt at Chrstus ene bar Verdens Synd - ene -
 						ikke blot, fordi <pb n="168" facs="adl/kierkegaard/kierkegaard3/kierkeg3168" xml:id="idm139969848240048"/> Ingen vilde ell. kunde
@@ -6372,7 +6367,7 @@ Phtj rettet s. 111-
         <div xml:id="idm139969848152736">
           <p xml:id="idm139969848152480">Forholdet mellem Chrstd. og Gnosticisme er paa en meget betegnende Maade
 						antydet i Forholdet mellem de to Bestemmelser, de komme til: Chrstd. til
-						[x][x][x][x][x]<!-- &#955;&#959;&#947;&#959;&#962; --> ,
+						[x][x][x][x][x] ,
 						Gnosticismen til »Navn« (Chrstus var den usynlige Guds Navn) det sidste er
 						netop det i høi Grad Abstrakte, saaledes som jo hele Gnosticismen var en
 						Abstraktion, hvorfor de jo egl. ikke kunde komme til en Tid- og
@@ -6486,7 +6481,7 @@ Phtj rettet s. 111-
         <div xml:id="idm139969848121776">
           <opener xml:id="idm139969848121520">[I marginen til 252]</opener>
           <p xml:id="idm139969848121104">Eenheden deraf er den sande
-						[x][x][x][x][x][x][x][x][x][x]<!-- &#960;&#955;&#949;&#961;&#959;&#966;&#959;&#961;&#953;&#945; -->,
+						[x][x][x][x][x][x][x][x][x][x],
 						der efterhaanden tiltager i Kraft og mere og mere fjerner alle Kastevinde og
 						seirrig fører Msk. over alle Hindringer. -</p>
           <p xml:id="idm139969848119936">Et af de Udbrud, hvor det msklige i Chrsto stærkest træder frem er dog i hans
@@ -6644,10 +6639,10 @@ Phtj rettet s. 111-
           </note>
           <note anchored="true" xml:id="idm139969848083088">
             <p xml:id="idm139969848082560">[] [I marginen] cfr. Rom. 1,16
-							[x][x][x][x][x][x][x]<!--&#948;&#965;&#957;&#945;&#956;&#953;&#962;-->
-							[x][x][x]<!-- &#947;&#945;&#961;-->
-							[x][x][x][x]<!--&#952;&#949;&#959;&#965; -->
-							[x][x][x][x][x]<!-- &#949;&#963;&#964;&#953;&#957;-->.</p>
+							[x][x][x][x][x][x][x]
+							[x][x][x]
+							[x][x][x][x]
+							[x][x][x][x][x].</p>
           </note>
         </div>
         <div xml:id="idm139969848080400">
@@ -7016,9 +7011,9 @@ Phtj rettet s. 111-
         <div xml:id="idm139969847983056">
           <p xml:id="idm139969847982800">Og vil Chrstus end ikke tillade os at følge ham, saaledes som han afslog den
 						Besattes Bøn
-						[x][x][x][x][x]<!--&#949;&#953;&#957;&#945;&#953;-->
-						[x][x][x]<!-- &#963;&#965;&#118; -->
-						[x][x][x][x]<!-- &#945;&#965;&#964;&#969; -->) Luc. 8,38 saa
+						[x][x][x][x][x]
+						[x][x][x]
+						[x][x][x][x]) Luc. 8,38 saa
 						ville vi dog som denne gaae hen til vor Familie og vor Hjemstavn og forkynde
 						Guds Godhed og hvad der er skeet med os. cfr. Luc. 8,39.</p>
           <closer xml:id="idm139969847980976">
@@ -7144,7 +7139,7 @@ Phtj rettet s. 111-
           <p xml:id="idm139969847947568">Der har været Mangfoldige, der omtrent have staaet i samme Forhold til Jesus
 						som Barrabas (han heed: Jesus Barrabas). Barrabas er omtrent paa Dansk: »N.
 						N.«,
-						[x][x][x][x][x][x][x][x]<!-- &#1488;&#1489;&#1464;&#1488;&#1464;&#1491;&#1489;&#1464; -->
+						[x][x][x][x][x][x][x][x]
 						, filius patris, sin Faders Søn. - Forøvrigt er det sørgeligt, at
 						vi slet ikke veed Mere om Barrabas; han forekommer mig i mange Maader at
 						kunne blive et Sidestykke til den evige Jøde. Hans øvrige Liv maa dog være
@@ -7280,17 +7275,17 @@ Phtj rettet s. 111-
         </div>
         <div xml:id="idm139969847902544">
           <p xml:id="idm139969847902288">Det gjelder om enhver Idee, hvad der siges om Messias: den er
-						[x][x][x][x][x][x][x]<!-- &#945;&#960;&#945;&#964;&#969;&#961; -->,
-						[x][x][x][x][x][x]<!-- &#945;&#956;&#951;&#964;&#969;&#961;-->,
-						[x][x][x][x][x][x][x][x][x][x][x][x][x]<!-- &#945;&#947;&#949;&#957;&#949;&#945;&#955;&#959;&#947;&#951;&#964;&#959;&#962;-->
-						[x][x][x][x][x][x][x][x][x][x][x][x][x]<!-- &#945;&#947;&#949;&#957;&#949;&#945;&#955;&#959;&#947;&#951;&#964;&#959;&#962; -->,
-						[x][x][x][x]<!-- &#956;&#951;&#964;&#949;-->
-						[x][x][x][x][x]<!-- &#945;&#961;&#967;&#951;&#957; -->
-						[x][x][x][x][x][x]<!-- &#7969;&#956;&#949;&#961;&#969;&#957; -->
-						[x][x][x][x]<!-- &#956;&#951;&#964;&#949; -->
-						[x][x][x][x]<!-- &#950;&#969;&#951;&#962; -->
-						[x][x][x][x][x]<!-- &#964;&#949;&#955;&#959;&#962; -->
-						[x][x][x][x]<!-- &#949;&#967;&#969;&#957; -->. (Heb: 7,3.)</p>
+						[x][x][x][x][x][x][x],
+						[x][x][x][x][x][x],
+						[x][x][x][x][x][x][x][x][x][x][x][x][x]
+						[x][x][x][x][x][x][x][x][x][x][x][x][x],
+						[x][x][x][x]
+						[x][x][x][x][x]
+						[x][x][x][x][x][x]
+						[x][x][x][x]
+						[x][x][x][x]
+						[x][x][x][x][x]
+						[x][x][x][x]. (Heb: 7,3.)</p>
           <closer xml:id="idm139969847897760">
             <date xml:id="idm139969847897504">d.10 Feb: 39.</date>
           </closer>
@@ -7382,8 +7377,8 @@ Phtj rettet s. 111-
           <p xml:id="idm139969847874304">Naar man seer det Uvæsen orthodoxe Hegelianere have drevet med deres Mesters
 						Kategorier, som laae der en Salighed deri, hvo kommer da ikke til at tænke
 						paa de
-						[x][x][x][x][x][x][x][x][x][x][x][x]<!-- &#947;&#949;&#957;&#949;&#945;&#955;&#959;&#947;&#953;&#945;&#953; -->
-						[x][x][x][x][x][x][x][x][x]<!-- &#945;&#960;&#949;&#961;&#945;&#957;&#964;&#959;&#953; -->
+						[x][x][x][x][x][x][x][x][x][x][x][x]
+						[x][x][x][x][x][x][x][x][x]
 						som Paulus advarer imod l Tim: l ,4.</p>
           <closer xml:id="idm139969847872688">
             <date xml:id="idm139969847872432">d. 19 Feb: 39.</date>
@@ -7436,11 +7431,11 @@ Phtj rettet s. 111-
         <div xml:id="idm139969847861680">
           <p xml:id="idm139969847861424">I Chrstd. er Alt blevet et Trin lavere, idet der er kommen et høiere Moment
 						ind.
-						[x][x][x][x][x][x][x][x][x]<!-- 960;&#961;&#959;&#966;&#949;&#964;&#949;&#953;&#945; -->
+						[x][x][x][x][x][x][x][x][x]
 						var det høieste i det gl. T; men i det N. T. er [x][x]
-						[x][x][x][x][x][x]<!-- &#949;&#957; &#947;&#955;&#969;&#963;&#963;&#951; &#955;&#945;&#955;&#949;&#953;&#957; -->
+						[x][x][x][x][x][x]
 						, saa at
-						[x][x][x][x][x][x][x][x][x]<!-- &#960;&#961;&#959;&#966;&#949;&#964;&#949;&#953;&#945; -->
+						[x][x][x][x][x][x][x][x][x]
 						beholder Bevidstheden i sig ikke som i det gl.T.</p>
           <closer xml:id="idm139969847859328">
             <date xml:id="idm139969847859072">d. 9 Martz 39.</date>
@@ -7631,9 +7626,9 @@ Phtj rettet s. 111-
         <div xml:id="idm139969847815488">
           <p xml:id="idm139969847815232">Det chr. Liv har Aphorismer af egen Beskaffenhed, som falde udenfor alle
 						æsthetiske Bestemmelser saaledes f. E. Paulus cfr. Rom. 1,1
-						[x][x][x][x][x][x][x][x][x][x][x]<!-- &#945;&#966;&#969;&#961;&#953;&#963;&#956;&#949;&#957;&#959;&#962; -->
+						[x][x][x][x][x][x][x][x][x][x][x]
 						[x][x][x]
-						[x][x][x][x][x][x][x][x][x][x]<!-- &#949;&#953;&#962; &#949;&#965;&#945;&#947;&#947;&#949;&#955;&#953;&#959;&#957;-->
+						[x][x][x][x][x][x][x][x][x][x]
 						.</p>
           <closer xml:id="idm139969847813520">
             <date xml:id="idm139969847813264">d. 23 April 39.</date>
@@ -7642,7 +7637,7 @@ Phtj rettet s. 111-
         <div xml:id="idm139969847812592">
           <p xml:id="idm139969847812336">Christus er den sande magister matheseos</p>
           <closer xml:id="idm139969847811888">[x][x][x][x][x][x] [x][x] [x][x]
-						[x][x][x][x][x]<!--&#949;&#956;&#945;&#952;&#949;&#957; &#945;&#966;'&#969;&#118; &#949;&#960;&#945;&#952;&#949; -->
+						[x][x][x][x][x]
 						Heb. 5,8.<lb xml:id="idm139969847811056"/>
 						<date xml:id="idm139969847810800">d. 23 April 39.</date>
 					</closer>
@@ -8172,7 +8167,7 @@ Phtj rettet s. 111-
 						[x][x][x][x][x][x][x][x][x][x] [x][x][x] [x][x][x][x][x][x][x][x]! [x][x][x]
 						[x][x] [x][x][x][x][x][x][x] [x][x] [x][x][x] [x][x][x][x][x][x][x]
 						[x][x][x] [x][x][x][x][x][x][x] [x][x][x][x][x][x]
-						<!-- &#964;&#945;&#955;&#945;&#953;&#960;&#969;&#961;&#959;&#962; &#949;&#947;&#969; &#945;&#957;&#952;&#961;&#969;&#960;&#959;&#962;! &#964;&#953;&#962; &#956;&#949; &#961;&#965;&#963;&#949;&#964;&#945;&#953; &#949;&#954; &#964;&#959;&#965; &#963;&#969;&#956;&#945;&#964;&#959;&#962; &#964;&#959;&#965; &#952;&#945;&#957;&#945;&#964;&#959;&#965; &#964;&#959;&#965;&#964;&#959;&#965; -->;
+						;
 						Rom. 7,24. Eller naar som i enkelte Eventyr Tanken udvider sig saa det ikke
 						længere er et enkelt Individ men en heel Udvikling der ligger under for
 						denne Fortryllelse? Og hvor Faae ere det ikke, som selv ikke under denne
@@ -8407,7 +8402,7 @@ Phtj rettet s. 111-
           <p xml:id="idm139969847617216">Det som vi i en vis Retning betegne med Navnet: »Spleen«, hvad Mystikerne
 						kjende under Benævnelsen: de matte Øieblikke, kjender Middelalderen under
 						Navnet: acedia
-						([x][x][x][x][x][x]<!-- &#945;&#954;&#951;&#948;&#953;&#945; -->,
+						([x][x][x][x][x][x],
 						Sløvhed). Gregor moralia in Job.: XIII p. 435.: virum solitarium ubique
 						comitatur acedia...est animi remissio, mentis enervatio, neglectus religiosæ
 						exercitationis, odium professionis, laudatrix rerum secularium.
@@ -8470,9 +8465,9 @@ Phtj rettet s. 111-
 						nok.</p>
           <pb n="224" facs="adl/kierkegaard/kierkegaard3/kierkeg3224" xml:id="idm139969847601216"/>
           <p xml:id="idm139969847600448">Det gaaer mig som Sarah:
-						[x][x][x][x][x][x][x][x][x][x][x][x]<!-- &#957;&#949;&#957;&#949;&#954;&#961;&#969;&#956;&#949;&#957;&#959;&#962; -->
+						[x][x][x][x][x][x][x][x][x][x][x][x]
 						faaer jeg Examen [x][x][x][x] [x][x][x][x][x]
-						[x][x][x][x][x][x][x]<!-- &#960;&#945;&#961;&#945; &#954;&#945;&#953;&#961;&#959;&#957; &#7969;&#955;&#953;&#954;&#953;&#945;&#962; -->.</p>
+						[x][x][x][x][x][x][x].</p>
           <p xml:id="idm139969847599152">I visse Maader kan jeg sige om Don Juan, hvad Elvira siger til ham: »Du min
 						Lykkes Morder«; -</p>
           <p xml:id="idm139969847598544">thi i Sandhed: det er dette Stykke, der saa diabolisk har grebet mig, at jeg
@@ -9014,7 +9009,7 @@ Phtj rettet s. 111-
           <p xml:id="idm139969847448224">Jeg føler ret i denne Tid min THintetgjørelse, saa mit Forhold til Chrstd.
 						synes at skulde blive aldeles lidende: [x][x][x] [x][x][x][x][x][x][x][x]
 						[x][x] [x][x][x][x] [x][x][x] [x][x][x][x] [x][x]
-						[x][x][x][x]<!-- &#953;&#957;&#945; &#966;&#945;&#957;&#949;&#961;&#969;&#952;&#8131; &#964;&#945; &#949;&#961;&#947;&#945; &#964;&#959;&#965; &#952;&#949;&#959;&#965; &#949;&#957; &#945;&#965;&#964;&#8179; -->
+						[x][x][x][x]
 						Joh: 9,3. ligesom ved den <hi rend="italics" xml:id="idm139969847446944">blindfødte</hi>
 					</p>
           <closer xml:id="idm139969847446160">
@@ -9506,10 +9501,10 @@ Phtj rettet s. 111-
           <p xml:id="idm139969847309360">Jeg ledte netop efter et Udtryk for at betegne den Classe af Msk., jeg kunde
 						have Lyst at skrive for, i den Overbeviisning, at de ville dele min
 						Anskuelse, og nu finder jeg det hos Lucian:
-						[x][x][x][x][x][x][x][x][x][x]<!-- 960;&#945;&#961;&#945;&#957;&#949;&#954;&#961;&#959;&#953; -->
+						[x][x][x][x][x][x][x][x][x][x]
 						(Een, der ligesom jeg er død), og jeg kunde have Lyst at udgive et Skrift
 						for
-						[x][x][x][x][x][x][x][x][x][x]<!-- &#960;&#945;&#961;&#945;&#957;&#949;&#954;&#961;&#959;&#953; -->.</p>
+						[x][x][x][x][x][x][x][x][x][x].</p>
           <closer xml:id="idm139969847307696">
             <date xml:id="idm139969847307440">d. 9 Jan: 38.</date>
           </closer>
@@ -9638,7 +9633,7 @@ Phtj rettet s. 111-
 						Forsteninger, og ligesom saadanne Ord forstenede i en bestemt Casus.
 						-</p>
           <p xml:id="idm139969847273296">Vore Politikere ere ligesom de græske Reciproker
-						([x][x][x][x][x][x][x][x]<!-- &#945;&#955;&#955;&#951;&#955;&#959;&#953;&#957; -->),
+						([x][x][x][x][x][x][x][x]),
 						der mangle nominativ, singularis og alle Subjekts-Casus - de kunne
 						kun tænkes i Pluralis og i Forholds-Casus. - <pb n="257" facs="adl/kierkegaard/kierkegaard3/kierkeg3257" xml:id="idm139969847272208"/> Det gaaer med Livet som med Tonerne, den rene
 						Tone er en Svæven mellem det Rene og det Falske og deri ligger det Skjønne,
@@ -9784,7 +9779,7 @@ Phtj rettet s. 111-
 						vilde han jo blot sætte sig paa lige Trin dermed, men nu vaagner der et
 						Helvede af Tilbøieligheder. -</p>
           <p xml:id="idm139969847233344">Det er meget betegnende at Grækerne kalde en Afsindig
-						[x][x][x][x][x][x][x][x][x]<!-- &#952;&#949;&#959;&#946;&#955;&#945;&#946;&#951;&#962; -->;
+						[x][x][x][x][x][x][x][x][x];
 						thi Vanvid har vist sin Grund i Gudernes Vrede, der berøve Een Leiligheden
 						til at forbedre sig og benytte Tiden.</p>
           <p xml:id="idm139969847232080">Jeg har i disse Dage læst Görres Athanasius ikke blot med Øinene men med hele
@@ -10082,7 +10077,7 @@ Phtj rettet s. 111-
         <div xml:id="idm139969847157616">
           <note anchored="true" xml:id="idm139969847157360">
             <p xml:id="idm139969847156832"> ikke den uendelige Taushed
-							[x][x][x][x]<!-- &#963;&#953;&#947;&#951; --> der er det
+							[x][x][x][x] der er det
 							abstrakte saa eiendommeligt.</p>
           </note>
         </div>
@@ -10108,7 +10103,7 @@ Phtj rettet s. 111-
 						Samfund med Homer etc., at han ogsaa ønskede at spørge dem; thi dette maa jo
 						enten være for at vise ogsaa dem at de Intet vidste og saaledes at nedstyrte
 						ethvert
-						[x][x][x][x][x]<!-- &#965;&#968;&#969;&#956;&#945; --> i
+						[x][x][x][x][x] i
 						Uvidenhedens einfache tomme Uendelighed; eller her det Positive gjorde sig
 						gjældende, en Spørgen i Interesse af at faae noget at vide. Hvad den nyere
 						Philosophie har saa travlt med, at faae fjernet enhver Forudsætning for at
@@ -10188,7 +10183,7 @@ Phtj rettet s. 111-
 						, [x][x][x][x][x] [x][x][x][x][x][x] [x][x][x] [x][x][x][x][x][x]
 						[x][x][x][x], [x][x][x][x][x] [x][x] [x][x][x][x][x] [x][x][x]
 						[x][x][x][x][x]
-						<!-- &#937; &#931;&#959;&#955;&#969;&#957; , &#931;&#959;&#955;&#969;&#957; &#7961;&#955;&#955;&#951;&#957;&#949;&#962; &#945;&#949;&#953; &#960;&#945;&#953;&#948;&#949;&#962; &#949;&#963;&#964;&#949;, &#947;&#949;&#961;&#969;&#957; &#948;&#949; &#7961;&#955;&#955;&#951;&#118; &#959;&#965;&#954; &#949;&#963;&#964;&#953;&#957; -->
+						
 						er den bedste og meest prægnante Aphorisme over Græcitæten.</p>
           <closer xml:id="idm139969847132048">
             <date xml:id="idm139969847131792">d. 10 Aug.40.</date>
@@ -11787,10 +11782,10 @@ Phtj rettet s. 111-
 						vil han finde Muligheden intensivere end Virkeligheden.</p>
           <pb n="329" facs="adl/kierkegaard/kierkegaard3/kierkeg3329" xml:id="idm139969846737392"/>
           <p xml:id="idm139969846736624">Det er ret interessant, at Pythagoræerne antoge, at
-						[x][x]<!-- &#949;&#957; --> både er
-						[x][x][x][x][x][x][x]<!-- &#960;&#949;&#961;&#953;&#964;&#964;&#959;&#118; -->
+						[x][x] både er
+						[x][x][x][x][x][x][x]
 						og
-						[x][x][x][x][x][x]<!-- &#945;&#961;&#964;&#953;&#959;&#957; -->
+						[x][x][x][x][x][x]
 						- det er ligesom den Væren der baade er Væren og ikke-Væren
 						*dolgoeO* Bevægelsen.</p>
           <p xml:id="idm139969846734688">Naar jeg har ladet »Enten - Eller« ende med den Sætning: at kun den
@@ -11814,7 +11809,7 @@ Phtj rettet s. 111-
 						det han kunde være stolt af, følte sig ringere end Alle.</p>
           <p xml:id="idm139969846730736">Det er det, jeg ønsker hos et Msk., hvad en Stoiker bruger i ond Forstand:
 						[x][x][x][x][x][x][x][x][x][x][x] [x][x][x]
-						[x][x][x][x][x]<!-- &#949;&#965;&#954;&#945;&#964;&#945;&#966;&#959;&#961;&#953;&#945; &#949;&#953;&#962; &#960;&#945;&#952;&#959;&#962; -->
+						[x][x][x][x][x]
 						(cfr. Tennemann Ges. d. Ph. B. 4. p. 129. not.).</p>
           <p xml:id="idm139969846729664">Om jeg end ikke har beviist Andet ved at skrive »Enten - Eller«,
 						saa har jeg dog beviist, at man i dansk Litteratur kan skrive et Værk, at
@@ -12657,7 +12652,7 @@ Phtj rettet s. 111-
           <p xml:id="idm139969846541248">Guddommens Forhold til Mennesket saaledes som al Philosophie er istand til at
 						opfatte den, har allerede Aristoteles udtrykt fortræffelig, naar han siger:
 						at Gud bevæger Alt, selv
-						[x][x][x][x][x][x][x][x]<!-- &#945;&#954;&#953;&#957;&#951;&#964;&#959;&#962; -->.
+						[x][x][x][x][x][x][x][x].
 						(Saavidt jeg erindrer gjorde Schelling opmærksom herpaa i Berlin.) Det er
 						egl. det abstrakte Begreb af U-Foranderlighed, og hans Virken er derfor en
 						magnetisk Tryllevirken ligesom en Cirene-Sang. Saaledes ender al
@@ -12857,7 +12852,7 @@ Phtj rettet s. 111-
           <p xml:id="idm139969846494528">Den Betragtning, der seer Livets Dupplicitæt (Dualisme) er høiere og dybere
 						end den, der søger efter Eenheden eller »gjør Studier til E enheden« (et
 						Udtryk af Hegel om al Philosophies Stræben); den, der seer Evigheden som
-						[x][x][x][x][x]<!-- &#964;&#949;&#955;&#959;&#962; -->,
+						[x][x][x][x][x],
 						og overhovedet den teleologiske Betragtning er høiere end al Immanents,
 						eller al Tale om causa sufficiens. Den Lidenskab, der saae Hedenskabet som
 						Synd, og antog Helvedsstraffenes Evighed, er større end summa summarum af
@@ -13474,7 +13469,7 @@ Phtj rettet s. 111-
           <pb n="387" facs="adl/kierkegaard/kierkegaard3/kierkeg3387" xml:id="idm139969846334240"/>
           <p xml:id="idm139969846333472">Efterhaanden bliver der da lidt mere Tale om Paradoxet; snart bliver da
 						Snakken derom og ved Hjælp deraf Paradoxet til et
-						[x][x][x][x][x][x][x]<!-- &#949;&#957;&#948;&#959;&#958;&#959;&#957; -->.
+						[x][x][x][x][x][x][x].
 						Hvor det dog er comisk med disse Msker, der eengang for alle ere fritagne
 						for at tænke Noget ved hvad de sige, og som blot ere graadige efter at faae
 						et nyt Ord at rende med.</p>
@@ -13611,14 +13606,14 @@ Phtj rettet s. 111-
 						mangt et Lys over de religieuse Problemer. Det hele Spørgsmaal om Væren og
 						Ikke-Væren, som slet ikke findes i den aristoteliske Philosophie (hans
 						[x][x][x][x][x]
-						[x][x][x][x][x]<!-- &#959;&#965;&#963;&#953;&#945; &#960;&#961;&#969;&#964;&#951; -->
+						[x][x][x][x][x]
 						og
-						[x][x][x][x][x][x][x]<!-- &#948;&#949;&#965;&#964;&#949;&#961;&#945; -->
+						[x][x][x][x][x][x][x]
 						cfr. categorierne er noget ganske Andet) henlægger han til Rhetoriken, som
 						den der især skal frembringe Overbeviisning.
-						[x][x][x][x][x][x]<!-- &#960;&#953;&#963;&#964;&#953;&#962; -->,
+						[x][x][x][x][x][x],
 						i pluralis bruger han det
-						[x][x][x][x][x][x][x]<!-- &#960;&#953;&#963;&#964;&#949;&#953;&#962; -->.</p>
+						[x][x][x][x][x][x][x].</p>
           <p xml:id="idm139969846295296">Hvis jeg ikke husker feil er det i Minna v. Barnhelm, at Lessing lader een af
 						Personerne sige, at et Suk uden Ord er den bedste Maade at tilbede Gud paa.
 						Det lyder ret godt, men betyder dog egl., at man ikke ret tør ell. vil
@@ -13732,7 +13727,7 @@ Phtj rettet s. 111-
         <div xml:id="idm139969846263392">
           <opener xml:id="idm139969846263136">[I marginen til 17]</opener>
           <p xml:id="idm139969846262720">Aristoteles sætter Talekunsten og Midlerne til at vække Tro
-						([x][x][x][x][x][x][x]<!-- &#960;&#953;&#963;&#964;&#949;&#953;&#962; -->)
+						([x][x][x][x][x][x][x])
 						i Forhold til Sandsynlighed, saa den har (til Forskjel fra Viden) med det at
 						gjøre der ogsaa kan forholde sig paa en anden Maade. Den christelige
 						Veltalenhed vilde deri være forskjellig fra den græske at den har alene med
@@ -14183,7 +14178,7 @@ Phtj rettet s. 111-
           <p xml:id="idm139969846153024">Stundom høres det, at naar man ikke bliver den Samme, saa er der
 						ingen Udødelighed. Gud veed, hvorledes det skal lykkes den Slags Folk, der i
 						Livet allerede forandres utroligt mange Gange. (Det er ret <pb n="411" facs="adl/kierkegaard/kierkegaard3/kierkeg3411" xml:id="idm139969846152320"/> godt, hvad der findes hos Plutarch i en lille
-						Opsats om det Ord: [x][x]<!-- &#949;&#953; --> i Delphi §
+						Opsats om det Ord: [x][x] i Delphi §
 						18.).</p>
           <note anchored="true" xml:id="idm139969846150896">
             <p xml:id="idm139969846150400"> [I marginen] efter Døden.</p>
@@ -14551,7 +14546,7 @@ Phtj rettet s. 111-
           <p xml:id="idm139969846059792">Naar man læser i Luther faaer man jo rigtignok Indtrykket af en vis en sikker
 						Aand, der taler med en Afgjorthed som er »gewaltig« (er predigte gewaltig
 						-
-						[x][x][x][x][x][x][x]<!-- &#949;&#958;&#959;&#965;&#963;&#953;&#945; -->
+						[x][x][x][x][x][x][x]
 						Mth: Ev. 7.). Og dog synes mig denne Sikkerhed at have noget Tumultuarisk
 						ved sig, som netop er Usikkerhed. Det er bekjendt nok, at den modsatte
 						Sjelstilstand ofte søger sit Skjul hos sin Modsætning. Man opmander sig selv

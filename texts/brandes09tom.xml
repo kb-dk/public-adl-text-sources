@@ -1,10 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!--Tom opmærkning jbh 27.09.01-->
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="idm139925172782272"><!-- 
-       file     ./marc_dir/001823972.xml
-       field     
-       subfield  
-       prefix   -->
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="root">
   <teiHeader xml:id="idm139925172750752">
     <fileDesc xml:id="idm139925172750496">
       <titleStmt xml:id="idm139925172750192">
@@ -19,8 +14,27 @@
         <note xml:id="idm139925172722224">
 	  </note>
       </notesStmt>
-      <sourceDesc xml:id="idm139925172721712"><bibl xml:id="idm139925172721584"><author n="1" xml:id="idm139925172720896"><name xml:id="idm139925172720640"><surname xml:id="idm139925172720512">Brandes</surname>, <forename xml:id="idm139925172720048">Georg</forename></name></author><title xml:id="idm139925172719760">Samlede Skrifter</title><pubPlace xml:id="idm139925172719472">København</pubPlace>
-<date xml:id="idm139925172718960">1899-1910</date></bibl><listBibl xml:id="idm139925172718672"><bibl xml:id="biblid54149"><title xml:id="idm139925172705520">William Shakespeare: Tredje del</title></bibl><bibl xml:id="biblid56108"><title xml:id="idm139925172704720">Lord Beaconsfield</title></bibl><bibl xml:id="biblid57813"><title xml:id="idm139925172703936">Stuart Mill</title></bibl></listBibl></sourceDesc>
+      <sourceDesc xml:id="idm139925172721712">
+        <bibl xml:id="idm139925172721584">
+          <author n="1" xml:id="idm139925172720896">
+            <name xml:id="idm139925172720640"><surname xml:id="idm139925172720512">Brandes</surname>, <forename xml:id="idm139925172720048">Georg</forename></name>
+          </author>
+          <title xml:id="idm139925172719760">Samlede Skrifter</title>
+          <pubPlace xml:id="idm139925172719472">København</pubPlace>
+          <date xml:id="idm139925172718960">1899-1910</date>
+        </bibl>
+        <listBibl xml:id="idm139925172718672">
+          <bibl xml:id="biblid54149">
+            <title xml:id="idm139925172705520">William Shakespeare: Tredje del</title>
+          </bibl>
+          <bibl xml:id="biblid56108">
+            <title xml:id="idm139925172704720">Lord Beaconsfield</title>
+          </bibl>
+          <bibl xml:id="biblid57813">
+            <title xml:id="idm139925172703936">Stuart Mill</title>
+          </bibl>
+        </listBibl>
+      </sourceDesc>
     </fileDesc>
   </teiHeader>
   <text xml:id="idm139925172703296">

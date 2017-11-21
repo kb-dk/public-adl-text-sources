@@ -1,9 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="idm140596064299776"><!-- 
-       file     ./marc_dir/001391915.xml
-       field     
-       subfield  
-       prefix   -->
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="root">
   <teiHeader xml:id="idm140596064307680">
     <fileDesc xml:id="idm140596064307424">
       <titleStmt xml:id="idm140596064307120">
@@ -23,15 +19,26 @@
         <note xml:id="idm140596064277888">
 	  </note>
       </notesStmt>
-      <sourceDesc xml:id="idm140596064277376"><bibl xml:id="idm140596064277248"><author n="1" xml:id="idm140596064276560"><name xml:id="idm140596064276304"><surname xml:id="idm140596064276176">Larsen</surname>, <forename xml:id="idm140596064275712">Karl</forename></name></author><title xml:id="idm140596064275424">Københavnerfortællinger</title><pubPlace xml:id="idm140596064275104">[København]</pubPlace>; <pubPlace xml:id="idm140596064274640">[Valby]</pubPlace>; <pubPlace xml:id="idm140596064274224">[Ballerup]</pubPlace>
-<publisher xml:id="idm140596064273760">Det Danske Sprog- og Litteraturselskab</publisher><publisher xml:id="idm140596064273456">Borgen</publisher><publisher xml:id="idm140596064273168">i samarbejde med Nyt Dansk Litteraturselskab</publisher><date xml:id="idm140596064272800">cop. 1987</date></bibl><listBibl xml:id="idm140596064272512"><bibl xml:id="biblid54234"><title xml:id="idm140596064259360">Udenfor Rangklasserne</title></bibl><bibl xml:id="biblid60226"><title xml:id="idm140596064258576">Kresjan Vesterbro</title></bibl><bibl xml:id="biblid63000"><title xml:id="idm140596064257792">I det gamle Voldkvartér</title></bibl></listBibl></sourceDesc>
+      <sourceDesc xml:id="idm140596064277376">
+        <bibl xml:id="idm140596064277248"><author n="1" xml:id="idm140596064276560"><name xml:id="idm140596064276304"><surname xml:id="idm140596064276176">Larsen</surname>, <forename xml:id="idm140596064275712">Karl</forename></name></author><title xml:id="idm140596064275424">Københavnerfortællinger</title><pubPlace xml:id="idm140596064275104">[København]</pubPlace>; <pubPlace xml:id="idm140596064274640">[Valby]</pubPlace>; <pubPlace xml:id="idm140596064274224">[Ballerup]</pubPlace><publisher xml:id="idm140596064273760">Det Danske Sprog- og Litteraturselskab</publisher><publisher xml:id="idm140596064273456">Borgen</publisher><publisher xml:id="idm140596064273168">i samarbejde med Nyt Dansk Litteraturselskab</publisher><date xml:id="idm140596064272800">cop. 1987</date></bibl>
+        <listBibl xml:id="idm140596064272512">
+          <bibl xml:id="biblid54234">
+            <title xml:id="idm140596064259360">Udenfor Rangklasserne</title>
+          </bibl>
+          <bibl xml:id="biblid60226">
+            <title xml:id="idm140596064258576">Kresjan Vesterbro</title>
+          </bibl>
+          <bibl xml:id="biblid63000">
+            <title xml:id="idm140596064257792">I det gamle Voldkvartér</title>
+          </bibl>
+        </listBibl>
+      </sourceDesc>
     </fileDesc>
   </teiHeader>
   <text xml:id="idm140596064257088">
     <front xml:id="idm140596064256832">
       <pb n="1" facs="lars1001" xml:id="idm140596064256528" rend="missing"/>
       <gap reason="cancelled" xml:id="idm140596064255744"/>
-<!--Københavnerfortællinger-->
       <pb n="2" facs="lars1002" xml:id="idm140596064254768" rend="missing"/>
       <pb n="3" facs="lars1003" xml:id="idm140596064254064" rend="missing"/>
       <titlePage xml:id="idm140596064253296">

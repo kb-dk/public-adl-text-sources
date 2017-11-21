@@ -1,9 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="idm139818922105744"><!-- 
-       file     ./marc_dir/002143496.xml
-       field     
-       subfield  
-       prefix   -->
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="root">
   <teiHeader xml:id="idm139818922105088">
     <fileDesc xml:id="idm139818922104832">
       <titleStmt xml:id="idm139818922104528">
@@ -18,8 +14,21 @@
         <note xml:id="idm139818922076528">
 	  </note>
       </notesStmt>
-      <sourceDesc xml:id="idm139818922076016"><bibl xml:id="idm139818922075888"><author n="1" xml:id="idm139818922075248"><name xml:id="idm139818922074992"><surname xml:id="idm139818922074864">Brandes</surname>, <forename xml:id="idm139818922074432">Edvard</forename></name></author><title xml:id="idm139818922074144">Gyngende Grund</title><pubPlace xml:id="idm139818922073856">København</pubPlace>
-<date xml:id="idm139818922073376">1882</date></bibl><listBibl xml:id="idm139818922073088"><bibl xml:id="biblid54088"><title xml:id="idm139818922059936">Gyngende Grund</title></bibl></listBibl></sourceDesc>
+      <sourceDesc xml:id="idm139818922076016">
+        <bibl xml:id="idm139818922075888">
+          <author n="1" xml:id="idm139818922075248">
+            <name xml:id="idm139818922074992"><surname xml:id="idm139818922074864">Brandes</surname>, <forename xml:id="idm139818922074432">Edvard</forename></name>
+          </author>
+          <title xml:id="idm139818922074144">Gyngende Grund</title>
+          <pubPlace xml:id="idm139818922073856">København</pubPlace>
+          <date xml:id="idm139818922073376">1882</date>
+        </bibl>
+        <listBibl xml:id="idm139818922073088">
+          <bibl xml:id="biblid54088">
+            <title xml:id="idm139818922059936">Gyngende Grund</title>
+          </bibl>
+        </listBibl>
+      </sourceDesc>
     </fileDesc>
   </teiHeader>
   <text xml:id="workid54088" decls="#biblid54088">

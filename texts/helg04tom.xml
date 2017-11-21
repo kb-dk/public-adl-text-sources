@@ -1,10 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!--Tom opmærkning d. 19.06.2002 blo -->
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="idm140462237252688"><!-- 
-       file     ./marc_dir/001823114.xml
-       field    530 
-       subfield a 
-       prefix   4. Bind-->
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="root">
   <teiHeader xml:id="idm140462237251888">
     <fileDesc xml:id="idm140462237251632">
       <titleStmt xml:id="idm140462237251328">
@@ -24,18 +19,37 @@
 	  </note>
       </notesStmt>
       <sourceDesc xml:id="idm140462237221536">
-	<bibl xml:id="idm140462237221280">
-	  <author n="1" xml:id="idm140462237220464">
-	    <name xml:id="idm140462237220032"><surname xml:id="idm140462237219904">Helgesen</surname>, <forename xml:id="idm140462237219440">Poul</forename>
-	    </name>
-	    </author>
-	    <title xml:id="idm140462237218768">Skrifter af Paulus Helie 4. Bind  / ved Marius
+        <bibl xml:id="idm140462237221280">
+          <author n="1" xml:id="idm140462237220464">
+            <name xml:id="idm140462237220032"><surname xml:id="idm140462237219904">Helgesen</surname>, <forename xml:id="idm140462237219440">Poul</forename></name>
+          </author>
+          <title xml:id="idm140462237218768">Skrifter af Paulus Helie 4. Bind  / ved Marius
 	    Kristensen. - 1934</title>
-	    <title xml:id="idm140462237218304">Udgivet af Det Danske Sprog- og Litteraturselskab</title>
-	    <pubPlace xml:id="idm140462237217856">København</pubPlace>
-	    <date xml:id="idm140462237217392">1932-1948</date>
-	</bibl>
-      <listBibl xml:id="idm140462237216800"><bibl xml:id="biblid54263"><title xml:id="idm140462237203648">Om den hellige Messe imod Messedræbere (1531)</title></bibl><bibl xml:id="biblid54574"><title xml:id="idm140462237202784">Om det hemmelige Stykke i Messen, som kaldes Canon (1531)</title></bibl><bibl xml:id="biblid54578"><title xml:id="idm140462237201952">Brev til Borgmester og Raad i Randers</title></bibl><bibl xml:id="biblid54768"><title xml:id="idm140462237201104">Messens Canon paa Dansk</title></bibl><bibl xml:id="biblid55532"><title xml:id="idm140462237200272">Biskoppernes og Prælanternes Forklaring paa den kristne Tros Bekendelse (tabt)</title></bibl><bibl xml:id="biblid55560"><title xml:id="idm140462237199296">Biskoppernes og Prælanternes Svar til de lutherske Artikler (1533)</title></bibl></listBibl></sourceDesc>
+          <title xml:id="idm140462237218304">Udgivet af Det Danske Sprog- og Litteraturselskab</title>
+          <pubPlace xml:id="idm140462237217856">København</pubPlace>
+          <date xml:id="idm140462237217392">1932-1948</date>
+        </bibl>
+        <listBibl xml:id="idm140462237216800">
+          <bibl xml:id="biblid54263">
+            <title xml:id="idm140462237203648">Om den hellige Messe imod Messedræbere (1531)</title>
+          </bibl>
+          <bibl xml:id="biblid54574">
+            <title xml:id="idm140462237202784">Om det hemmelige Stykke i Messen, som kaldes Canon (1531)</title>
+          </bibl>
+          <bibl xml:id="biblid54578">
+            <title xml:id="idm140462237201952">Brev til Borgmester og Raad i Randers</title>
+          </bibl>
+          <bibl xml:id="biblid54768">
+            <title xml:id="idm140462237201104">Messens Canon paa Dansk</title>
+          </bibl>
+          <bibl xml:id="biblid55532">
+            <title xml:id="idm140462237200272">Biskoppernes og Prælanternes Forklaring paa den kristne Tros Bekendelse (tabt)</title>
+          </bibl>
+          <bibl xml:id="biblid55560">
+            <title xml:id="idm140462237199296">Biskoppernes og Prælanternes Svar til de lutherske Artikler (1533)</title>
+          </bibl>
+        </listBibl>
+      </sourceDesc>
     </fileDesc>
   </teiHeader>
   <text xml:id="idm140462237198464">

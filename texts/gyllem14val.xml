@@ -1,15 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!-- OCR by ATAPY 11.11.02/14.11.02 Catherine Bychkova-->
-<!-- HHL 2002.11.14 Checket for oe/o - ikke fundet noget
-     HHL 2003.03.03 checket vaerktitle;    
-     HHL 2003.03.03 ændret/udkommenteret  <emph> -> italics (1x!)
-     Ptj rettet s. 92
--->
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="idm139726069828464"><!-- 
-       file     ./marc_dir/001391914.xml
-       field     
-       subfield  
-       prefix   -->
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="root">
   <teiHeader xml:id="idm139726069827472">
     <fileDesc xml:id="idm139726069827216">
       <titleStmt xml:id="idm139726069801792">
@@ -30,23 +20,24 @@
         <note xml:id="idm139726069797168">
 	  </note>
       </notesStmt>
-      <sourceDesc xml:id="idm139726069796656"><bibl
-						  xml:id="idm139726069796528"><author
-										  n="1"
-										  xml:id="idm139726069795840"><name
-														  xml:id="idm139726069795584"><surname
-																		  xml:id="idm139726069795456">Gyllembourg-Ehrensvärd</surname>,
-      <forename xml:id="idm139726069794992">T. C.</forename></name></author><title xml:id="idm139726069794704">Drøm og Virkelighed</title><pubPlace xml:id="idm139726069794384">[København]</pubPlace>; <pubPlace xml:id="idm139726069793920">[Valby]</pubPlace>; <pubPlace xml:id="idm139726069793504">[Ballerup]</pubPlace>
-<publisher xml:id="idm139726069793040">Det Danske Sprog- og Litteraturselskab</publisher><publisher xml:id="idm139726069792736">Borgen</publisher><publisher xml:id="idm139726069792448">i samarbejde med Nyt Dansk Litteraturselskab</publisher><date xml:id="idm139726069792080">cop. 1986</date></bibl><listBibl xml:id="idm139726069791792"><bibl xml:id="biblid54373"><title xml:id="idm139726069778640">Drøm og Virkelighed</title></bibl><bibl xml:id="biblid58123"><title xml:id="idm139726069777824">To Tidsaldre</title></bibl></listBibl></sourceDesc>
+      <sourceDesc xml:id="idm139726069796656">
+        <bibl xml:id="idm139726069796528"><author n="1" xml:id="idm139726069795840"><name xml:id="idm139726069795584"><surname xml:id="idm139726069795456">Gyllembourg-Ehrensvärd</surname>,
+      <forename xml:id="idm139726069794992">T. C.</forename></name></author><title xml:id="idm139726069794704">Drøm og Virkelighed</title><pubPlace xml:id="idm139726069794384">[København]</pubPlace>; <pubPlace xml:id="idm139726069793920">[Valby]</pubPlace>; <pubPlace xml:id="idm139726069793504">[Ballerup]</pubPlace><publisher xml:id="idm139726069793040">Det Danske Sprog- og Litteraturselskab</publisher><publisher xml:id="idm139726069792736">Borgen</publisher><publisher xml:id="idm139726069792448">i samarbejde med Nyt Dansk Litteraturselskab</publisher><date xml:id="idm139726069792080">cop. 1986</date></bibl>
+        <listBibl xml:id="idm139726069791792">
+          <bibl xml:id="biblid54373">
+            <title xml:id="idm139726069778640">Drøm og Virkelighed</title>
+          </bibl>
+          <bibl xml:id="biblid58123">
+            <title xml:id="idm139726069777824">To Tidsaldre</title>
+          </bibl>
+        </listBibl>
+      </sourceDesc>
     </fileDesc>
   </teiHeader>
   <text xml:id="idm139726069777184">
     <front xml:id="idm139726069776928">
       <pb n="1" xml:id="s1" facs="adl/gyllem/gyllem14/gyllem14001"/>
       <gap reason="cancelled" xml:id="idm139726069775472"/>
-<!---->
-<!---->
-<!--Drøm og Virkelighed To Tidsaldre-->
       <pb n="2" xml:id="s2" facs="adl/gyllem/gyllem14/gyllem14002"/>
       <pb n="3" xml:id="s3" facs="adl/gyllem/gyllem14/gyllem14003"/>
       <titlePage xml:id="idm139726069771712">
@@ -4351,7 +4342,7 @@
 							leveres ham efter hans Hjemkomst. Man havde med omhyggeligt Overlæg
 							betænkt Alt hvad der kunde tjene til at skjule Claudines Opholdssted.
 							Hun vilde ombytte sin Faders Familienavn med hans Døbenavn, og kalde sig
-							efter dette <hi rend="italics" xml:id="idm139726068776864"><!--<emph>-->Johansen<!--</emph>--></hi>,
+							efter dette <hi rend="italics" xml:id="idm139726068776864">Johansen</hi>,
 							dernæst skulde hun ifølge Christianes Ønske udgives for Enke efter en
 							Sømand, der var bleven borte paa en Søreise.</p>
             <p xml:id="idm139726068775408">Om Aftenen kom Susanne. Man sagde hende, at Claudine Dagen efter vilde

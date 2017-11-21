@@ -1,9 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="idm139787515783904"><!-- 
-       file     ./marc_dir/001923196.xml
-       field     
-       subfield  
-       prefix   -->
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="root">
   <teiHeader xml:id="idm139787515787792">
     <fileDesc xml:id="idm139787515787536">
       <titleStmt xml:id="idm139787515787232">
@@ -21,9 +17,22 @@
         <note xml:id="idm139787515758336">
 	  </note>
       </notesStmt>
-      <sourceDesc xml:id="idm139787515757824"><bibl xml:id="idm139787515757696"><author n="1" xml:id="idm139787515757008"><name xml:id="idm139787515756752"><surname xml:id="idm139787515756624">Rode</surname>,
-      <forename xml:id="idm139787515756208">Helge</forename></name></author><title xml:id="idm139787515755920">Det store Forlis</title><pubPlace xml:id="idm139787515755632">København</pubPlace>
-<date xml:id="idm139787515755152">1917</date></bibl><listBibl xml:id="idm139787515754864"><bibl xml:id="biblid54094"><title xml:id="idm139787515741712">Det store Forlis</title></bibl></listBibl></sourceDesc>
+      <sourceDesc xml:id="idm139787515757824">
+        <bibl xml:id="idm139787515757696">
+          <author n="1" xml:id="idm139787515757008">
+            <name xml:id="idm139787515756752"><surname xml:id="idm139787515756624">Rode</surname>,
+      <forename xml:id="idm139787515756208">Helge</forename></name>
+          </author>
+          <title xml:id="idm139787515755920">Det store Forlis</title>
+          <pubPlace xml:id="idm139787515755632">København</pubPlace>
+          <date xml:id="idm139787515755152">1917</date>
+        </bibl>
+        <listBibl xml:id="idm139787515754864">
+          <bibl xml:id="biblid54094">
+            <title xml:id="idm139787515741712">Det store Forlis</title>
+          </bibl>
+        </listBibl>
+      </sourceDesc>
     </fileDesc>
   </teiHeader>
   <text xml:id="workid54094" decls="#biblid54094">

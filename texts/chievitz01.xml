@@ -1,10 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!--  Ptj rettet s.14-27  -->
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="idm139771790677904"><!-- 
-       file     ./marc_dir/001513240.xml
-       field     
-       subfield  
-       prefix   -->
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="root">
   <teiHeader xml:id="idm139771790682480">
     <fileDesc xml:id="idm139771790682224">
       <titleStmt xml:id="idm139771790681920">
@@ -25,17 +20,20 @@
         <note xml:id="idm139771790651968">
 	  </note>
       </notesStmt>
-      <sourceDesc xml:id="idm139771790651456"><bibl xml:id="idm139771790651328"><author n="1" xml:id="idm139771790650640"><name xml:id="idm139771790650384"><surname xml:id="idm139771790650256">Chievitz</surname>, <forename xml:id="idm139771790649792">Poul</forename></name></author><title xml:id="idm139771790649504">Fra Gaden</title><pubPlace xml:id="idm139771790649216">[København]</pubPlace>; <pubPlace xml:id="idm139771790648752">[Valby]</pubPlace>
-<publisher xml:id="idm139771790648288">Det Danske Sprog- og Litteraturselskab</publisher><publisher xml:id="idm139771790647984">Borgen</publisher><date xml:id="idm139771790647648">1991</date></bibl><listBibl xml:id="idm139771790647360"><bibl xml:id="biblid54105"><title xml:id="idm139771790634208">Fra Gaden</title></bibl></listBibl></sourceDesc>
+      <sourceDesc xml:id="idm139771790651456">
+        <bibl xml:id="idm139771790651328"><author n="1" xml:id="idm139771790650640"><name xml:id="idm139771790650384"><surname xml:id="idm139771790650256">Chievitz</surname>, <forename xml:id="idm139771790649792">Poul</forename></name></author><title xml:id="idm139771790649504">Fra Gaden</title><pubPlace xml:id="idm139771790649216">[København]</pubPlace>; <pubPlace xml:id="idm139771790648752">[Valby]</pubPlace><publisher xml:id="idm139771790648288">Det Danske Sprog- og Litteraturselskab</publisher><publisher xml:id="idm139771790647984">Borgen</publisher><date xml:id="idm139771790647648">1991</date></bibl>
+        <listBibl xml:id="idm139771790647360">
+          <bibl xml:id="biblid54105">
+            <title xml:id="idm139771790634208">Fra Gaden</title>
+          </bibl>
+        </listBibl>
+      </sourceDesc>
     </fileDesc>
   </teiHeader>
   <text xml:id="workid54105" decls="#biblid54105">
     <front xml:id="idm139771790632624">
       <pb n="I" facs="adl/chievitz/chievitz1/chievitz1001" xml:id="idm139771790632320"/>
       <gap reason="cancelled" xml:id="idm139771790631456"/>
-<!---->
-<!---->
-<!--Fra Gaden-->
       <pb n="II" facs="adl/chievitz/chievitz1/chievitz1002" xml:id="idm139771790629936"/>
       <pb n="III" facs="adl/chievitz/chievitz1/chievitz1003" xml:id="idm139771790629200"/>
       <titlePage xml:id="idm139771790628432">

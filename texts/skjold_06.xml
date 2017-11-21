@@ -1,9 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="idm140460965922704"><!-- 
-       file     ./marc_dir/002046384.xml
-       field     
-       subfield  
-       prefix   -->
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="root">
   <teiHeader xml:id="idm140460965927408">
     <fileDesc xml:id="idm140460965927152">
       <titleStmt xml:id="idm140460965926848">
@@ -21,8 +17,21 @@
         <note xml:id="idm140460965897760">
 	  </note>
       </notesStmt>
-      <sourceDesc xml:id="idm140460965897248"><bibl xml:id="idm140460965897120"><author n="1" xml:id="idm140460965896432"><name xml:id="idm140460965896176"><surname xml:id="idm140460965896048">Skjoldborg</surname>, <forename xml:id="idm140460965895584">Johan</forename></name></author><title xml:id="idm140460965895296">Præsten i Løgum. Fortælling</title><pubPlace xml:id="idm140460965894960">København</pubPlace>
-<date xml:id="idm140460965894480">1921-22.</date></bibl><listBibl xml:id="idm140460965894192"><bibl xml:id="biblid54098"><title xml:id="idm140460965881040">Præsten i Løgum (1)</title></bibl></listBibl></sourceDesc>
+      <sourceDesc xml:id="idm140460965897248">
+        <bibl xml:id="idm140460965897120">
+          <author n="1" xml:id="idm140460965896432">
+            <name xml:id="idm140460965896176"><surname xml:id="idm140460965896048">Skjoldborg</surname>, <forename xml:id="idm140460965895584">Johan</forename></name>
+          </author>
+          <title xml:id="idm140460965895296">Præsten i Løgum. Fortælling</title>
+          <pubPlace xml:id="idm140460965894960">København</pubPlace>
+          <date xml:id="idm140460965894480">1921-22.</date>
+        </bibl>
+        <listBibl xml:id="idm140460965894192">
+          <bibl xml:id="biblid54098">
+            <title xml:id="idm140460965881040">Præsten i Løgum (1)</title>
+          </bibl>
+        </listBibl>
+      </sourceDesc>
     </fileDesc>
   </teiHeader>
   <text xml:id="workid54098" decls="#biblid54098">

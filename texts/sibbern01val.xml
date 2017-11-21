@@ -1,13 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!-- edited with XML Spy v4.3 U (http://www.xmlspy.com) by Birgit Henriksen (Det kongelige Bibliotek) -->
-<!--jbh 15.08.2001-->
-<!--hhl 9.10.2001 check før oplægning rækkefølge <pb og </div-->
-<!--20021014 HHL fjernet bidnestreger ved sideslut-->
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="idm139907531348288"><!-- 
-       file     ./marc_dir/001803409.xml
-       field     
-       subfield  
-       prefix   -->
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="root">
   <teiHeader xml:id="idm139907531347744">
     <fileDesc xml:id="idm139907531322352">
       <titleStmt xml:id="idm139907531322048">
@@ -26,17 +18,30 @@
         <note xml:id="idm139907531317968">
 	  </note>
       </notesStmt>
-      <sourceDesc xml:id="idm139907531317456"><bibl xml:id="idm139907531317328"><author n="1" xml:id="idm139907531316640"><name xml:id="idm139907531316384"><surname xml:id="idm139907531316256">Sibbern</surname>, <forename xml:id="idm139907531315792">F. C.</forename></name></author><title xml:id="idm139907531315504">Efterladte Breve af Gabrielis</title><pubPlace xml:id="idm139907531315200">[København]</pubPlace>
-<publisher xml:id="idm139907531314736">Det Danske Sprog- og Litteraturselskab</publisher><publisher xml:id="idm139907531314432">[Valby]</publisher><publisher xml:id="idm139907531314144">Borgen</publisher><date xml:id="idm139907531313808">[1998]</date></bibl><listBibl xml:id="idm139907531313520"><bibl xml:id="biblid54429"><title xml:id="idm139907531300368">Efterladte Breve af Gabrielis</title></bibl></listBibl></sourceDesc>
+      <sourceDesc xml:id="idm139907531317456">
+        <bibl xml:id="idm139907531317328">
+          <author n="1" xml:id="idm139907531316640">
+            <name xml:id="idm139907531316384"><surname xml:id="idm139907531316256">Sibbern</surname>, <forename xml:id="idm139907531315792">F. C.</forename></name>
+          </author>
+          <title xml:id="idm139907531315504">Efterladte Breve af Gabrielis</title>
+          <pubPlace xml:id="idm139907531315200">[København]</pubPlace>
+          <publisher xml:id="idm139907531314736">Det Danske Sprog- og Litteraturselskab</publisher>
+          <publisher xml:id="idm139907531314432">[Valby]</publisher>
+          <publisher xml:id="idm139907531314144">Borgen</publisher>
+          <date xml:id="idm139907531313808">[1998]</date>
+        </bibl>
+        <listBibl xml:id="idm139907531313520">
+          <bibl xml:id="biblid54429">
+            <title xml:id="idm139907531300368">Efterladte Breve af Gabrielis</title>
+          </bibl>
+        </listBibl>
+      </sourceDesc>
     </fileDesc>
   </teiHeader>
   <text xml:id="idm139907531299680">
     <pb n="1" facs="adl/sibbern/sibbern1/sibb1001" xml:id="idm139907531299376"/>
     <front xml:id="idm139907531298640">
       <gap reason="cancelled" xml:id="idm139907531298336"/>
-<!---->
-<!---->
-<!--Efterladte Breve af Gabrielis-->
       <pb n="2" facs="adl/sibbern/sibbern1/sibb1002" xml:id="idm139907531296784"/>
       <pb n="3" facs="adl/sibbern/sibbern1/sibb1003" xml:id="idm139907531296016"/>
       <titlePage xml:id="idm139907531295248">

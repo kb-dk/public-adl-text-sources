@@ -1,9 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="idm140082307336928"><!-- 
-       file     ./marc_dir/002168583.xml
-       field    248 
-       subfield g 
-       prefix   3 | a-->
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="root">
   <teiHeader xml:id="idm140082307340912">
     <fileDesc xml:id="idm140082307340656">
       <titleStmt xml:id="idm140082307340352">
@@ -18,8 +14,14 @@
         <note xml:id="idm140082307312192">
 	  </note>
       </notesStmt>
-      <sourceDesc xml:id="idm140082307311680"><bibl xml:id="idm140082307311552"><author n="1" xml:id="idm140082307310912"><name xml:id="idm140082307310656"><surname xml:id="idm140082307310528">Larsen</surname>, <forename xml:id="idm140082307310064">Karl</forename></name></author><title xml:id="idm140082307309776">De, der tog hjemmefra</title><title xml:id="idm140082307309488">3: Bedre Folks Børn. Cand.phil.'en, Farmaceuten, Boghandleren</title><pubPlace xml:id="idm140082307309088">København</pubPlace>; <pubPlace xml:id="idm140082307308624">Kristiania</pubPlace>
-<publisher xml:id="idm140082307308160">Gyldendalske Boghandel. Nordisk Forlag</publisher><date xml:id="idm140082307307808">1912-1914</date></bibl><listBibl xml:id="idm140082307307520"><bibl xml:id="biblid54088"><title xml:id="idm140082307294368">De, der tog hjemmefra</title></bibl></listBibl></sourceDesc>
+      <sourceDesc xml:id="idm140082307311680">
+        <bibl xml:id="idm140082307311552"><author n="1" xml:id="idm140082307310912"><name xml:id="idm140082307310656"><surname xml:id="idm140082307310528">Larsen</surname>, <forename xml:id="idm140082307310064">Karl</forename></name></author><title xml:id="idm140082307309776">De, der tog hjemmefra</title><title xml:id="idm140082307309488">3: Bedre Folks Børn. Cand.phil.'en, Farmaceuten, Boghandleren</title><pubPlace xml:id="idm140082307309088">København</pubPlace>; <pubPlace xml:id="idm140082307308624">Kristiania</pubPlace><publisher xml:id="idm140082307308160">Gyldendalske Boghandel. Nordisk Forlag</publisher><date xml:id="idm140082307307808">1912-1914</date></bibl>
+        <listBibl xml:id="idm140082307307520">
+          <bibl xml:id="biblid54088">
+            <title xml:id="idm140082307294368">De, der tog hjemmefra</title>
+          </bibl>
+        </listBibl>
+      </sourceDesc>
     </fileDesc>
   </teiHeader>
   <text xml:id="workid54088" decls="#biblid54088">

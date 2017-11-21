@@ -1,11 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!-- OCR by ATAPY 29.10.02 (Catherine Bychkova) -->
-<!-- BLo 7.11.02: emph til spat ; dolgoeO til d.v.s. ; græske bogstaver til [x] -->
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="idm139709266783072"><!-- 
-       file     ./marc_dir/001832663.xml
-       field    530 
-       subfield a 
-       prefix   Bd 2 :-->
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="root">
   <teiHeader xml:id="idm139709266782560">
     <fileDesc xml:id="idm139709266782304">
       <titleStmt xml:id="idm139709266782000">
@@ -20,17 +14,27 @@
         <note xml:id="idm139709266753680">
 	  </note>
       </notesStmt>
-      <sourceDesc xml:id="idm139709266753168"><bibl xml:id="idm139709266753040"><author n="1" xml:id="idm139709266752352"><name xml:id="idm139709266752096"><surname xml:id="idm139709266751968">Schandorph</surname>, <forename xml:id="idm139709266751536">Sophus</forename></name></author><title xml:id="idm139709266751232"> Thomas Friis's Historie. - 1904</title><pubPlace xml:id="idm139709266750928">København</pubPlace>
-<date xml:id="idm139709266750416">1904-05</date></bibl><listBibl xml:id="idm139709266750128"><bibl xml:id="biblid54192"><title xml:id="idm139709266736928">THOMAS FRIS'S HISTORIE (1881)</title></bibl></listBibl></sourceDesc>
+      <sourceDesc xml:id="idm139709266753168">
+        <bibl xml:id="idm139709266753040">
+          <author n="1" xml:id="idm139709266752352">
+            <name xml:id="idm139709266752096"><surname xml:id="idm139709266751968">Schandorph</surname>, <forename xml:id="idm139709266751536">Sophus</forename></name>
+          </author>
+          <title xml:id="idm139709266751232"> Thomas Friis's Historie. - 1904</title>
+          <pubPlace xml:id="idm139709266750928">København</pubPlace>
+          <date xml:id="idm139709266750416">1904-05</date>
+        </bibl>
+        <listBibl xml:id="idm139709266750128">
+          <bibl xml:id="biblid54192">
+            <title xml:id="idm139709266736928">THOMAS FRIS'S HISTORIE (1881)</title>
+          </bibl>
+        </listBibl>
+      </sourceDesc>
     </fileDesc>
   </teiHeader>
   <text xml:id="idm139709266736240">
     <front xml:id="idm139709266735984">
       <pb n="I" facs="adl/schandorph/schandorph4/scha4fm001" xml:id="idm139709266735680"/>
       <gap reason="cancelled" xml:id="idm139709266734848"/>
-<!---->
-<!---->
-<!--S. SCHANDORPH ROMANER ANDET BIND-->
       <pb n="II" facs="adl/schandorph/schandorph4/scha4fm002" xml:id="idm139709266733296"/>
       <pb n="III" facs="adl/schandorph/schandorph4/scha4fm003" xml:id="idm139709266732528"/>
       <titlePage xml:id="idm139709266731760">
@@ -1973,50 +1977,6 @@ Din Dig altid ømt elskende Fader<lb xml:id="idm139709265191424"/>
               <p xml:id="idm139709265188112">"Tilværelsen uden om mig med alle sine idiotiske Institutioner: Kirke, Politi, Sprøjtevæsen, Kontorer, Universiteter og Pengevæsen, dette Gøgleri, som Kretinerne kalde Virkeligheden, eksisterer aldeles ikke", - og han var sikker paa, at han nok som Samson en Gang skulde vælte hele Historien over Ende; hvad Friehling havde drømt om, skulde han, Thomas Fris, gøre til Virkelighed. Ordet "Ideal", som han tidt havde hørt nævne, ogsaa af sine Lærere, men hvortil han havde havt Møje med at knytte nogen Forestilling, fik Form i et Billede - en Kvindes, hvis Træk vare sammenvævede af hint skæbnesvangre Portræt af den unge, halvnøgne Kvinde i Friehlings Salon og af det krøllokkede Barn, han havde siddet med i den høje Sæd hjemme. Han saa udfordrende ud i Rummet, han søgte en Fjende; han havde noget at hævne: det var den Uret og Sorg, hans Moder havde lidt i Livet, noget at naa og vinde . . . ja hvad var det? Ja, det var "Idealet". Og hvad var det? Ja, foreløbig Verdens dejligste Kvinde. Han slog til de Skolebøger, der laa paa det lille Bord foran Vinduet; det var for ham ligesom Brokker af den Verden, han vilde hævne sig paa; den Verden, der havde
  <pb n="177" facs="adl/schandorph/schandorph4/scha4177" xml:id="idm139709265186016"/>
 ødelagt hans Moder og Friehling, bragt ham selv - til at skammes ved sin Velgører Smed Johansen osv. osv. Bøgerne faldt paa Gulvet, paa en nær, der, idet den røg hen ad Bordpladen, aabnede sig. Thomas's Øje faldt ned paa Bladet. Det var Odysseens 11te Sang. Han læste følgende Vers, hvis Kasus og Tempusformer han i Begyndelsen af Skoleaaret havde analyseret uden at tænke paa Indholdet:</p>
-<!--  <lg>
-								<l>...<hi rend="italics">&#7936;&#965;&#964;&#8048;&#961; '&#8050;&#947;&#969;&#947;'  &#7952;&#977;&#949;&#955;&#959;&#957;  &#981;&#961;&#949;&#963;&#8054; &#956;&#949;&#961;&#956;&#951;&#961;&#8055;&#958;&#945;&#962;</hi>
-								</l>
-								<l>
-									<hi rend="italics">&#956;&#951;&#964;&#961;&#8056;&#962; &#7952;&#956;&#8134;&#962; &#968;&#965;&#1008;&#8052;&#957; '&#949;&#955;&#8051;&#949;&#953;&#957; &#1008;&#945;&#964;&#945;&#964;&#949;&#977;&#957;&#951;&#965;&#8055;&#951;&#962;</hi>.</l>
-								<l>
-									<hi rend="italics">&#964;&#961;&#8054;&#962; &#956;&#8050;&#957; &#7952;&#981;&#969;&#961;&#956;&#8053;&#977;&#951;&#957;. '&#949;&#955;&#8051;&#949;&#953;&#957;&#32;&#964;&#8050; &#956;&#949;&#32;&#977;&#965;&#956;&#8056;&#962; &#7936;&#947;&#8061;&#947;&#949;&#953;</hi>.</l>
-								<l>
-									<hi rend="italics">&#964;&#961;&#8054;&#962; &#948;&#8051; &#956;&#959;&#953; &#7952;&#1008; &#967;&#949;&#953;&#961;&#8182;&#957; &#963;&#1008;&#953;&#8134;, &#949;&#7988;&#1008;&#949;&#955;&#959;&#957; &#7971; &#1008;&#945;&#8054; &#8000;&#957;&#949;&#8055;&#961;&#8179;</hi>
-								</l>
-								<l>
-									<hi rend="italics">&#7956;&#960;&#964;&#945;&#964;'. &#7952;&#956;&#959;&#8054; &#948;'&#7940;&#967;&#959;&#962; &#8000;&#958;&#8058; &#947;&#949;&#957;&#8051;&#963;&#1008;&#949;&#964;&#959; &#1008;&#951;&#961;&#8057;&#977;&#953; &#956;&#8118;&#955;&#955;&#959;&#957;</hi>.</l>
-								<l>
-									<hi rend="italics">&#1008;&#945;&#8055; &#956;&#953;&#957; &#981;&#969;&#957;&#8053;&#963;&#945;&#962; &#7957;&#960;&#949;&#945; &#960;&#964;&#949;&#961;&#8057;&#949;&#957;&#964;&#945; &#960;&#961;&#959;&#963;&#951;&#8059;&#948;&#969;&#957;</hi>.</l>
-								<l>
-									<hi rend="italics">..&#924;&#8134;&#964;&#949;&#961; &#7952;&#956;&#8053;, &#964;&#8055; &#957;&#8059; &#956;'&#8000;&#965; &#956;&#8055;&#956;&#957;&#949;&#953;&#962; &#958;&#955;&#8051;&#949;&#953;&#957; &#956;&#949;&#956;&#945;&#8182;&#964;&#945;</hi>,</l>
-								<l>
-									<hi rend="italics">&#8000;&#981;&#961;&#945; &#1008;&#945;&#8055; &#949;&#7984;&#957; '&#913;&#8147;&#948;&#945;&#959; &#981;&#8055;&#955;&#945;&#962; &#960;&#949;&#961;&#8054; &#967;&#949;&#8150;&#961;&#949; &#946;&#945;&#955;&#8057;&#957;&#964;&#949;</hi>,</l>
-								<l>
-									<hi rend="italics">&#7936;&#956;&#981;&#959;&#964;&#8051;&#961;&#969; &#1008;&#961;&#965;&#949;&#961;&#959;&#8150;&#959; &#964;&#949;&#964;&#945;&#961;&#960;&#8061;&#956;&#949;&#963;&#977;&#945; &#947;&#8057;&#959;&#953;&#959;</hi>;</l>
-								<l>
-									<hi rend="italics">&#7974; &#964;&#8055; &#956;&#959;&#953; &#949;&#7988;&#948;&#969;&#955;&#959;&#957; &#964;&#8057;&#948;' &#7936;&#947;&#945;&#8059;&#951; &#928;&#949;&#961;&#963;&#949;&#981;&#8057;&#957;&#949;&#953;&#945;</hi>
-								</l>
-								<l>
-									<hi rend="italics">&#8036;&#964;&#961;&#965;&#957;', &#8004;&#981;&#961;' &#7956;&#964;&#953; &#956;&#8118;&#955;&#955;&#959;&#957; &#8000;&#948;&#965;&#961;&#8057;&#956;&#949;&#957;&#959;&#962; &#963;&#964;&#949;&#957;&#945;&#967;&#8055;&#950;&#969;</hi>; </l>
-								<l>
-									<hi rend="italics">&#937;&#962; &#7952;&#981;&#8048;&#956;&#951;&#957;. &#7969; &#948;'&#945;&#8016;&#964;&#953;&#1008;' &#7936;&#956;&#949;&#943;&#946;&#949;&#964;&#959; &#960;&#8057;&#964;&#957;&#953;&#945; &#956;&#951;&#964;&#951;&#961;</hi>.</l>
-								<l>
-									<hi rend="italics">&ldquor;&#8036; &#956;&#959;&#953;, &#964;&#8051;&#1008;&#957;&#959;&#957; &#7952;&#956;&#8056;&#957;, &#960;&#949;&#961;&#8054; &#960;&#8049;&#957;&#964;&#969;&#957; &#1008;&#8049;&#956;&#956;&#959;&#961;&#949; &#981;&#969;&#964;&#8182;&#957;</hi>,</l>
-								<l>
-									<hi rend="italics">&#959;&#8020;&#964;&#953; &#963;&#949; &#928;&#949;&#961;&#963;&#949;&#981;&#8057;&#957;&#949;&#953;&#945; &#916;&#953;&#8056;&#962; &#977;&#965;&#947;&#8049;&#964;&#951;&#961; &#7936;&#960;&#945;&#981;&#953;&#963;&#1008;&#949;&#953;</hi>
-								</l>
-								<l>
-									<hi rend="italics">&#7936;&#955;&#955;' &#945;&#8020;&#964;&#951;, &#948;&#8055;&#1008;&#951; &#7952;&#963;&#964;&#8054; &#946;&#961;&#959;&#964;&#8182;&#957;, &#8001;&#964;&#949; &#1008;&#8050;&#957; &#964;&#949; &#977;&#8049;&#957;&#969;&#963;&#953;&#957;</hi>.</l>
-								<l>
-									<hi rend="italics">&#959;&#8016; &#947;&#8048;&#961; &#7956;&#964;&#953; &#963;&#8049;&#961;&#1008;&#8049;&#962; &#964;&#949; &#1008;&#945;&#8054; &#8000;&#963;&#964;&#8051;&#945; &#7990;&#957;&#949;&#962; &#7956;&#967;&#959;&#965;&#963;&#953;&#957;</hi>.</l>
-								<l>
-									<hi rend="italics">&#7936;&#955;&#955;&#8048; &#964;&#8048; &#956;&#8051;&#957; &#964;&#949; &#960;&#965;&#961;&#8056;&#962; &#1008;&#961;&#945;&#964;&#949;&#961;&#8056;&#957; &#956;&#8051;&#957;&#959;&#962; &#945;&#7984;&#977;&#959;&#956;&#8051;&#957;&#959;&#8055;&#959;</hi>
-								</l>
-								<l>
-									<hi rend="italics">&#948;&#945;&#956;&#957;&#8118;. &#7952;&#960;&#949;&#8055; &#1008;&#949; &#960;&#961;&#8182;&#964;&#945; &#955;&#8055;&#960;&#951; &#955;&#949;&#8059;&#1008;' &#8000;&#963;&#964;&#8051;&#945; &#977;&#965;&#956;&#8057;&#962;</hi>.</l>
-								<l>
-									<hi rend="italics">&#968;&#965;&#967;&#8052; &#948;', &#7968;&#8163;&#964;' &#8004;&#965;&#949;&#953;&#961;&#959;&#962; &#7936;&#960;&#959;&#960;&#964;&#945;&#956;&#8050;&#957;&#951; &#960;&#949;&#960;&#8057;&#964;&#951;&#964;&#945;&#953;.*</hi>)</l>
-							</lg>  -->
               <lg xml:id="idm139709265184336">
                 <l xml:id="idm139709265184080">...<hi rend="italics" xml:id="idm139709265183824">[x][x][x][x][x] '[x][x][x][x]'  [x][x][x][x][x][x]  [x][x][x][x][x] [x][x][x][x][x][x][x][x][x][x]</hi>
 								</l>
@@ -2563,7 +2523,7 @@ og var stødt imod et Møbel, og, da Valling syntes at ville trænge nærmere in
  <pb n="234" facs="adl/schandorph/schandorph4/scha4234" xml:id="idm139709264696800"/>
 Afgørelsesmiddel i, hvad han med doktrinær Respekt for Literatur, Kunst og Journalistik ansaa for rent aandelige Kampe, væmmede ham. Sæt nu f. Eks. en politisk Modstander faldt paa aj prygle den Redaktør, der i hans Øjne var en næsten ideal Skikkelse! Det vilde have været en Helligbrøde, for hvilken den skyldige ikke vilde være straffet for strængt med Baal og Brand. Indvendig kogte en nervøs Hidsighed, længe efter at den ydre Flades lette Krusning forlængst var glattet; men han ængstedes ved Tanken om et Udbrud - det vilde blive frygteligt, om det kom, mente han - derfor tog han sin Hat, nikkede melankolsk til Thomas, mumlede noget om at se op til ham siden, hilste ceremonielt paa de andre og gik. Og saa vilde endda hans onde Skæbne, at han i Døren skulde møde Kolberg, hvem han efter Thomas's Skildringer og efter det almindelige Rygte betragtede som en af Reaktionens argeste Fanatikere, hemmelige Skribenter og aabenbare Missionærer. Fuldmægtigens naturlige Høflighed og Blødhed veg for Harmen; han løb ham brydsk forbi; under Nedstigningen af Trapperne kogte Forbitrelsen højere og højere op i ham. Han maatte køle sig med en Iskage hos en Konditor; og, hvis en forbigaaende havde set hans misfornøjede Ansigt gennem Vinduesruden, vilde han have troet, at han nedslugte Medicin. Først da han kom hjem, sang han sig til Sindsro ved sit Klaver gennem en lille, fin Melodi til en sentimental Tekst og med et dulmende Akkompagnement, der mindede om fjærne Landsbykirkeklokker.</p>
               <p xml:id="idm139709264694064">Gundelach, der ikke kunde lide Kolberg, tog straks Anledning af hans Indtrædelse til at lave sig til at gaa.</p>
-              <p xml:id="idm139709264693440">- Jeg skal til Middag hos Grossereren, sagde han. Grossereren <hi rend="italics" xml:id="idm139709264693104">"&gt;[x][x][x] '[x][x][x][x][x][x]<!-- &#1008;&#945;&#964; '&#7952;&#958;&#959;&#967;&#8053;&#957; --></hi> var altid Malerikøberen. Han sagde det for at drille Kolberg, men denne bed ikke paa og sagde blot: Vel bekomme! Gud ske Lov, det ikke er mig. Til Grum sagde han:</p>
+              <p xml:id="idm139709264693440">- Jeg skal til Middag hos Grossereren, sagde han. Grossereren <hi rend="italics" xml:id="idm139709264693104">"&gt;[x][x][x] '[x][x][x][x][x][x]</hi> var altid Malerikøberen. Han sagde det for at drille Kolberg, men denne bed ikke paa og sagde blot: Vel bekomme! Gud ske Lov, det ikke er mig. Til Grum sagde han:</p>
               <p xml:id="idm139709264691520">- Jeg vilde gærne tale med Fris under fire Øjne; undskyld . . . men det haster.</p>
               <p xml:id="idm139709264690960">Thomas følte sit Hjærte knuge sig sammen. Der var tændt noget i ham, der lignede Had, mod denne Mand; men at lade det faa Udbrud fandt han dels dumt og umotiveret, dels vidste han ikke, hvor vidt det kunde drive ham, hvis han lod det faa Luft. Kolberg sagde rolig:</p>
               <p xml:id="idm139709264690032">- Jeg har sagt til Valling, at De flytter, og at jeg skal skaffe ham en anden Lejer. De maa jo let kunne faa Regens og Kommunitet om en Maanedstid.</p>
@@ -2816,7 +2776,7 @@ Afhaspning af Bønner i Kordøren og af Salmer, medens han bar Tavlerne om. Han 
  <pb n="258" facs="adl/schandorph/schandorph4/scha4258" xml:id="idm139709264495264"/>
 holdt ikke paa ham; thi der havde, medens han talte, rejst sig en Lyst til Modstand mod Fuldmægtigens Tankegang hos ham, men det var ham uklart, hvad der egentlig opirrede ham derimod. Adspredt spiste han sit mere end tarvelige Aftensmaaltid; derefter satte han sig til Rette i Sofaen med den lange Pibe hængende ned paa Gulvet. Han trængte til at faa lyst op i det, som rørte sig i ham, noget, som var blevet vakt ved Fuldmægtigens halv ufrivillige, improviserede Selvbekendelser.</p>
               <p xml:id="idm139709264493520">Der var noget i hans Sjæl, der higede ud fra denne Dis, hvori de klare Omrids udviskedes, der rugede farve- og lysmattende, klang- og sangdæmpende over de Billeder, som Fuldmægtigen havde skitseret; han længtes efter et Brud i Kirkehvælvingen, saa Stjernehimlen kunde ses, han trængte til en flerstemmig koloreret Sang i Stedet for den unisone. Der rørte sig hos ham en Lyst til at opponere mod det, der vilde dulme og dysse i vort Lands Kunst, mod de sagte rindende Vandes Musik, mod den bundne, frygtsomme Sanseligheds Poesi. Var sligt ikke en Frugt af det forkælede Liv, hvori han selv var begyndt at figurere, hint Salonliv i Rigmændenes Huse med Brysselertæpper og tunge Portierer, med Patchouli i Stedet for atmosfærisk Luft, med Damer, der vare lige saa fulde af Hensyn som deres Dragter af blødt Tulle og Gaze, i Stedet for rankt voksne, frie og dygtige Kvinder; med disse underlige Mænd, der lod Politikere, Kunstnere og Literater skalte og valte i deres Hus og selv gik om som Lejetjenere? Hvor var Folket? Hvor var Soldaterne? Han kunde endnu ikke andet end beundre de raadende Politikere, de kommanderende Generaler; men hvad stod bag alt dette? Folket paa Landet? Folket i Hovedstaden? Han tænkte paa Umuligheden af at begejstre f. Eks. hans Fader eller Ole Sørensen for den skandinaviske Idé eller give Etatsraad Planck virkelig Forstand paa Literatur og Kunst. Og nu han selv i dette Øjeblik? Var han andet end en gold Grubler, der som en Ædderkop spandt sig ind i sine farveløse, graa Tanketraade, uden Evne til et Arbejde, der kunde give et klingende eller synligt Udslag? Var han Digter, han, som de kaldte Digteren Fris?</p>
-              <p xml:id="idm139709264491232">Digter? - Saa længe han udelukkende havde suget aandelig Næring af tysk systematisk og dansk lejlighedsvis Æsthetik, stod en Digter for ham som en <hi rend="italics" xml:id="idm139709264490656">vates</hi>, et gudinspireret Menneske, besat af [x][x][x][x][x] [x][x][x] [x][x][x][x][x][x]<!-- &#956;&#945;&#957;&#8055;&#945; &#964;&#8182;&#957; &#956;&#959;&#8166;&#963;&#969;&#957; -->, der blev et Geni, hvis Appelsinen ramte midt i Turbanpulden, eller en gal Mand, en Energumen
+              <p xml:id="idm139709264491232">Digter? - Saa længe han udelukkende havde suget aandelig Næring af tysk systematisk og dansk lejlighedsvis Æsthetik, stod en Digter for ham som en <hi rend="italics" xml:id="idm139709264490656">vates</hi>, et gudinspireret Menneske, besat af [x][x][x][x][x] [x][x][x] [x][x][x][x][x][x], der blev et Geni, hvis Appelsinen ramte midt i Turbanpulden, eller en gal Mand, en Energumen
  <pb n="259" facs="adl/schandorph/schandorph4/scha4259" xml:id="idm139709264489392"/>
 som Friehling, hvis den blot strejfede den og gled ned over Øret paa den ene Side. Det havde været ham en trøsterig Theori. Da Fuldmægtigen havde hilset ham som Digter, og da hint Skydebanepublikum havde hyldet ham, da troede han, at Pulden var bleven ramt i Centrum, og, naar senere Tvivlen kom, beroligede han den ved at sige: Appelsinen kommer nok; jeg føler en saadan Kløe lige under Turbanpuldens Midtpunkt, der venter paa den faldende Appelsin. Lader os da æde og drikke; i Morgen kommer Musen, naar jeg mindst aner det, mens jeg sover eller dvasker over en Pibe Tobak.</p>
               <p xml:id="idm139709264487760">Saa havde Filologen Ross en Gang i Studenterforeningen under en Diskussion ytret: Vi maa bort fra Indflydelserne fra Tyskland; vi maa have en <hi rend="spat" xml:id="idm139709264487344">dansk</hi> Videnskab, en <hi rend="spat" xml:id="idm139709264486624">dansk</hi> Kunst, en <hi rend="spat" xml:id="idm139709264485904">dansk</hi> Filosofi. Thomas havde været i Modsigelseshjørnet og havde sagt: Aa, vi har jo altid kun bearbejdet Strømninger udenlands fra; nu skal vel Bøtten vendes; nu skal vi vel have dem fra Frankrig som i det forrige Aarhundrede. Da havde Ross udraabt: Fra Frankrig? Det uvidenskabeligste, det løseste Land i Verden? Der forfladiges al Videnskab til populært Causerie uden stringent Terminologi! Og en bekendt yngre Æsthetiker rykkede ham til Undsætning og udbrød: Og al Poesi bliver Frivolitet og Gemenhed som hos Alfred de Musset; Romanen er enten som hos Victor Hugo Billeder fra en Opiumsrus eller som hos Balzac store Stykker raat Kød, som er skaarne ud af Samfunds- og Menneskedyret. Thomas tav; han skammede sig over sin dybe Uvidenhed. Æsthetikeren betragtede ham ud fra sine rødrandede, kertelsvuldne Øjenkroge, lagde sin Arm om hans Skulder, saa hans fede, røde og klamme Haand berørte Thomas's Kind og frembragte et Modbydelighedsgys gennem hans hele Legeme, som om en klæbrig Tudse var strøget over hans Hud. Saa havde Æsthetikeren sagt med sin langsomme, paa hvert Ord fordringsfuldt smagende Diktion: Saadan et kønt, ungt, dansk Digterfrø maa ikke vandes af Likør og Absinth. De skal aldrig læse nogen anden fransk Forfatter end Molière, Fris.</p>
@@ -2824,7 +2784,7 @@ som Friehling, hvis den blot strejfede den og gled ned over Øret paa den ene Si
  <pb n="260" facs="adl/schandorph/schandorph4/scha4260" xml:id="idm139709264481520"/>
 ham. Hans Theorier vare ham endnu for stærke. Hvad det end er, Poesi er det ikke, sagde han. Men han laante fra Studenterforeningens Bibliotek efterhaanden Pére Goriot, Eugénie Grandet, César Birotteau og flere mindre Fortællinger, læste dem i aandeløs Hast, plaget bag efter af Samvittighedsnag over sin slette Smag, og gjorde saa Bod, inden han gik i Seng ved at læse Digte som Plougs "Fostbrødrelaget" højt foran Spejlet med Forsøg paa at eftergøre den før nævnte berømte Skuespillers og Deklamators store Stemmeregister, uden at ane, at hans Stemme snart sank ned i det gryntende, snart slog over i en latterlig Fistel.</p>
               <p xml:id="idm139709264479872">Nu havde Fuldmægtigens Bekendelser vakt Trods i ham mod dansk Blødagtighed. Hvad om netop det at gaa Samtiden paa Livet, at skildre et holdningsløst, for alle Stemninger svajende Individ som Lucien Chardon i "Les illusions perdues" og lade ham i Kraft af hans altfortærende Forfængelighed synke dybere og dybere i Niveau med de frivole Journalister, kæltringeagtige Industririddere og liderlige Skuespillerinder, mellem hvilke han færdedes? Blev ikke Poesien, naar den tog en saadan Opgave, sin Tids manende Kassandra? Var det ikke en større Rolle at spille end at overtage "Formilderens" Rolle i Tiecks "der gestiefelte Kater", der rører Klokkespillet, naar Kongen er gnaven? Skulde der ikke holdes et satirisk Hulspejl op for den i Kurs værende Rigmandsidealitet, alle de forlorne "Biedermänner"? Kunde han, Thomas Fris, det? Og havde han Mod? Nej! Det, han skulde bekæmpe, var jo hans og hans Kreds's beundrende eller i al Fald betalende Publikum. Han mindedes Haimons Replik til Kreon i Antigone:</p>
-              <p xml:id="idm139709264477616">[x][x][x][x][x] [x][x][x][x][x][x]  [x]'[x][x] [x][x] [x][x][x] [x][x][x][x][x][x] [x][x][x][x][x]<!-- &#1008;&#945;&#955;&#8182;&#962; &#7952;&#961;&#8053;&#956;&#951;&#962;  &#947;'&#945;&#965; &#963;&#8058; &#947;&#8134;&#962; &#7940;&#961;&#967;&#959;&#953;&#962; &#956;&#8057;&#957;&#959;&#962; -->.</p>
+              <p xml:id="idm139709264477616">[x][x][x][x][x] [x][x][x][x][x][x]  [x]'[x][x] [x][x] [x][x][x] [x][x][x][x][x][x] [x][x][x][x][x].</p>
               <p xml:id="idm139709264476576">(det vilde være rart for Dig, om Du herskede ene i et mennesketomt Land). Selvironiens Krydsild tændtes i ham; den viste ham hans eget Billede i Karikatur som en ung Mand, der er ved at revne af indvendig digterisk Fylde, men som ikke kan faa klemt andet ud end nogle søde Lejlighedssange og patriotiske Udgydelser, Genklang af, hvad Alverden versificerede og lyriserede over. Og dog var han vis paa, at, hvis han i dette Øjeblik blev hilset som Digter, f. Eks. af Etatsraadinde Planck, vilde Kuragen atter blusse op i ham. Udmattet og enerveret af frugtesløs Vrede paa sig selv og paa alle Mennesker, misundte han sin Ven Fuldmægtigen hans harmoniske Tro paa alt, hvad Tiden fordrede, der skulde tros paa. Kraftløs til en radikal Fornægtelse, kastede
  <pb n="261" facs="adl/schandorph/schandorph4/scha4261" xml:id="idm139709264474752"/>
 han sig hen paa sin Sofa med lukkede Øjne og med Ansigtet vendt ind mod Væggen.</p>
@@ -3790,7 +3750,7 @@ hvis Øjne skinnede i Mørket som en Hunds. Men Hr. Nissen tog klemmende om hans
 	<pb n="355" facs="adl/schandorph/schandorph4/scha4355" xml:id="idm139709263661808"/>
 Dig ikke paa Dialektik. Men Du er nu ikke Statsøkonom eller Filosof, Ringborg; Du er bare en strandet Digter.</p>
               <p xml:id="idm139709263660624">Hvis Du paastaar, at jeg er Digter, saa faar Du Punscheglasset i Hovedet, Din Drukkendidrik! raabte Ringborg.</p>
-              <p xml:id="idm139709263660112">- Sagde Du Drukkendidrik? Du er en Hykler, paa græsk <hi rend="italics" xml:id="idm139709263659728">'[x][x][x][x][x][x][x][x][x]<!-- &#965;&#960;&#959;&#1008;&#961;&#953;&#964;&#8053;&#962; --></hi>. Men jeg tilgiver Dig; jeg kan ikke udstaa Sagsanlæggelser for Injurier. Jeg er Digter, ja Fanden sprælle mig, det er jeg. Og N. M. Petersen siger, at alle store Digtere i Danmark . . . eller han siger . . . at Wessel drak sig gennem Livet, og at Oehlenschläger aad sig gennem Livet. Men hør . . . véd Du hvad? Paa Wessels Tid var Digterne Zigeunere, Jonglører, Troubadourer, Profeter og Glossolalister, og det er dog meget bedre end at blive Ædedolke, som de er blevne, siden de blev Professorer og Etatsrødder. Naa Du Kantøffelnæse (han slog Opvarteren, der som Tegn paa sin Bestilling bar et grønt Forklæde i Læderseler, i Knæhasene), to Punscher i en telegrafisk Fart! Forstaar Du, Du Laksørred!</p>
+              <p xml:id="idm139709263660112">- Sagde Du Drukkendidrik? Du er en Hykler, paa græsk <hi rend="italics" xml:id="idm139709263659728">'[x][x][x][x][x][x][x][x][x]</hi>. Men jeg tilgiver Dig; jeg kan ikke udstaa Sagsanlæggelser for Injurier. Jeg er Digter, ja Fanden sprælle mig, det er jeg. Og N. M. Petersen siger, at alle store Digtere i Danmark . . . eller han siger . . . at Wessel drak sig gennem Livet, og at Oehlenschläger aad sig gennem Livet. Men hør . . . véd Du hvad? Paa Wessels Tid var Digterne Zigeunere, Jonglører, Troubadourer, Profeter og Glossolalister, og det er dog meget bedre end at blive Ædedolke, som de er blevne, siden de blev Professorer og Etatsrødder. Naa Du Kantøffelnæse (han slog Opvarteren, der som Tegn paa sin Bestilling bar et grønt Forklæde i Læderseler, i Knæhasene), to Punscher i en telegrafisk Fart! Forstaar Du, Du Laksørred!</p>
               <p xml:id="idm139709263657056">Opvarteren blev vækket af sin staaende Søvn og bragte i en Fart det forlangte. Nissen holdt hvert Glas ud i sin Haand, saa langt han kunde spænde, og deklamerede med snøvlende Basstemme:</p>
               <lg xml:id="idm139709263656272">
                 <l xml:id="idm139709263656016">Her ser I Skjalden Fris, en vidt berømt</l>

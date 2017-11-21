@@ -1,14 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!--jbh 20.09.2001-->
-<!--HHL 200210 11 fjernet bindestreger ved sideslut-->
-<!-- HHL 20031219 rettet enkelte fejl ved </hi>
- Ptj rettet s. 33-
--->
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="idm140538567506864"><!-- 
-       file     ./marc_dir/001680948.xml
-       field    530 
-       subfield a 
-       prefix   8. -->
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="root">
   <teiHeader xml:id="idm140538567506000">
     <fileDesc xml:id="idm140538567505744">
       <titleStmt xml:id="idm140538567480240">
@@ -28,17 +19,28 @@
         <note xml:id="idm140538567475744">
 	  </note>
       </notesStmt>
-      <sourceDesc xml:id="idm140538567475232"><bibl xml:id="idm140538567475104"><author n="1" xml:id="idm140538567474416"><name xml:id="idm140538567474160"><surname xml:id="idm140538567474032">Wied</surname>, <forename xml:id="idm140538567473568">Gustav</forename></name></author><title xml:id="idm140538567473280">Knagsted. 1967</title><pubPlace xml:id="idm140538567472992">København</pubPlace>
-<publisher xml:id="idm140538567472560">Rosenkilde og Bagger</publisher><date xml:id="idm140538567472224">1966-</date></bibl><listBibl xml:id="idm140538567471936"><bibl xml:id="biblid54315"><title xml:id="idm140538567458784">Knagsted</title></bibl></listBibl></sourceDesc>
+      <sourceDesc xml:id="idm140538567475232">
+        <bibl xml:id="idm140538567475104">
+          <author n="1" xml:id="idm140538567474416">
+            <name xml:id="idm140538567474160"><surname xml:id="idm140538567474032">Wied</surname>, <forename xml:id="idm140538567473568">Gustav</forename></name>
+          </author>
+          <title xml:id="idm140538567473280">Knagsted. 1967</title>
+          <pubPlace xml:id="idm140538567472992">København</pubPlace>
+          <publisher xml:id="idm140538567472560">Rosenkilde og Bagger</publisher>
+          <date xml:id="idm140538567472224">1966-</date>
+        </bibl>
+        <listBibl xml:id="idm140538567471936">
+          <bibl xml:id="biblid54315">
+            <title xml:id="idm140538567458784">Knagsted</title>
+          </bibl>
+        </listBibl>
+      </sourceDesc>
     </fileDesc>
   </teiHeader>
   <text xml:id="idm140538567458144">
     <pb n="1" facs="adl/wied/wied8/wied8001" xml:id="idm140538567457840"/>
     <front xml:id="idm140538567457072">
       <gap reason="cancelled" xml:id="idm140538567456768"/>
-<!---->
-<!---->
-<!--ROMANER NOVELLER SKUESPIL-->
       <pb n="2" facs="adl/wied/wied8/wied8002" xml:id="idm140538567455216"/>
       <pb n="3" facs="adl/wied/wied8/wied8003" xml:id="idm140538567454448"/>
       <titlePage xml:id="idm140538567453680">

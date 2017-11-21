@@ -1,10 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!-- HHL 08.08.2002 tilføjet vaerktitler -->
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="idm140085696797936"><!-- 
-       file     ./marc_dir/001823114.xml
-       field    530 
-       subfield a 
-       prefix   1. Bind -->
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="root">
   <teiHeader xml:id="idm140085696797104">
     <fileDesc xml:id="idm140085696796848">
       <titleStmt xml:id="idm140085696796544">
@@ -25,28 +20,43 @@
 	  </note>
       </notesStmt>
       <sourceDesc xml:id="idm140085696766304">
-	<bibl xml:id="idm140085696766048">
-	  <author n="1" xml:id="idm140085696765232">
-	    <name xml:id="idm140085696764800">
-	      <surname xml:id="idm140085696764496">Helgesen</surname>, <forename xml:id="idm140085696764032">Poul</forename>
-	    </name>
-	  </author>
-	  <title xml:id="idm140085696763360">Skrifter af Paulus Helie 1. Bind  / ved Marius
+        <bibl xml:id="idm140085696766048">
+          <author n="1" xml:id="idm140085696765232">
+            <name xml:id="idm140085696764800"><surname xml:id="idm140085696764496">Helgesen</surname>, <forename xml:id="idm140085696764032">Poul</forename></name>
+          </author>
+          <title xml:id="idm140085696763360">Skrifter af Paulus Helie 1. Bind  / ved Marius
 	  Kristensen. - 1932</title>
-	  <title xml:id="idm140085696762896">Udgivet af Det Danske Sprog- og Litteraturselskab</title>
-	  <pubPlace xml:id="idm140085696762448">København</pubPlace>
-	  <date xml:id="idm140085696761984">1932-1948</date>
-	</bibl>
-	<listBibl xml:id="idm140085696761392">
-	  <bibl xml:id="biblid54553"><title xml:id="idm140085696748112">En christhen førstis lære
-      (1520)</title></bibl><bibl xml:id="biblid60723"><title xml:id="idm140085696747264">Epistola ad
-      Johannem Laurentii (1523)</title></bibl><bibl xml:id="biblid60819"><title xml:id="idm140085696746448">Christiern den Andens Rimkrønike
-      (1523)</title></bibl><bibl xml:id="biblid61832"><title xml:id="idm140085696745584">Epistola ad
-      Petrum Iuari (1524)</title></bibl><bibl xml:id="biblid62094"><title xml:id="idm140085696744736">Een
+          <title xml:id="idm140085696762896">Udgivet af Det Danske Sprog- og Litteraturselskab</title>
+          <pubPlace xml:id="idm140085696762448">København</pubPlace>
+          <date xml:id="idm140085696761984">1932-1948</date>
+        </bibl>
+        <listBibl xml:id="idm140085696761392">
+          <bibl xml:id="biblid54553">
+            <title xml:id="idm140085696748112">En christhen førstis lære
+      (1520)</title>
+          </bibl>
+          <bibl xml:id="biblid60723">
+            <title xml:id="idm140085696747264">Epistola ad
+      Johannem Laurentii (1523)</title>
+          </bibl>
+          <bibl xml:id="biblid60819">
+            <title xml:id="idm140085696746448">Christiern den Andens Rimkrønike
+      (1523)</title>
+          </bibl>
+          <bibl xml:id="biblid61832">
+            <title xml:id="idm140085696745584">Epistola ad
+      Petrum Iuari (1524)</title>
+          </bibl>
+          <bibl xml:id="biblid62094">
+            <title xml:id="idm140085696744736">Een
       cristelig vnderwyszning (Martin Luthers Bedebog)
-      (1526)</title></bibl><bibl xml:id="biblid65702"><title xml:id="idm140085696743856">Undervisning om
-      Luthers Handel (1526)</title></bibl>
-	</listBibl>
+      (1526)</title>
+          </bibl>
+          <bibl xml:id="biblid65702">
+            <title xml:id="idm140085696743856">Undervisning om
+      Luthers Handel (1526)</title>
+          </bibl>
+        </listBibl>
       </sourceDesc>
     </fileDesc>
   </teiHeader>
@@ -54,9 +64,6 @@
     <front xml:id="idm140085696742640">
       <pb n="I" facs="adl/helgesen/helgesen1/helg1fm001" xml:id="idm140085696742336"/>
       <gap reason="cancelled" xml:id="idm140085696741504"/>
-<!---->
-<!---->
-<!--SKRIFTER AF PAULUS HELIE BIND 1-->
       <pb n="II" facs="adl/helgesen/helgesen1/helg1fm002" xml:id="idm140085696739952"/>
       <pb n="III" facs="adl/helgesen/helgesen1/helg1fm003" xml:id="idm140085696739184"/>
       <titlePage xml:id="idm140085696738416">

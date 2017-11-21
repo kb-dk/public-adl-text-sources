@@ -1,10 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!-- 20040817 mærkelige halve pb-angivelser fjernet-->
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="idm140270082354384"><!-- 
-       file     ./marc_dir/001680948.xml
-       field    530 
-       subfield a 
-       prefix   5. -->
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="root">
   <teiHeader xml:id="idm140270082353600">
     <fileDesc xml:id="idm140270082353344">
       <titleStmt xml:id="idm140270082353040">
@@ -15,26 +10,75 @@
         <publisher xml:id="idm140270082326448">ROSENKILDE OG BAGGER</publisher>
         <pubPlace xml:id="idm140270082326064">København</pubPlace>
         <date xml:id="idm140270082325632">1967</date>
-	<idno xml:id="idm140270082325248" xml:base="texts/wied05val.xml">001680948:05</idno>
-        
+        <idno xml:id="idm140270082325248" xml:base="texts/wied05val.xml">001680948:05</idno>
       </publicationStmt>
       <notesStmt xml:id="idm140270082324400">
         <note xml:id="idm140270082324144">
 	  </note>
       </notesStmt>
-      <sourceDesc xml:id="idm140270082323632"><bibl xml:id="idm140270082323504"><author n="1" xml:id="idm140270082322816"><name xml:id="idm140270082322560"><surname xml:id="idm140270082322432">Wied</surname>,
-      <forename xml:id="idm140270082321984">Gustav</forename></name></author><title xml:id="idm140270082321696">Første Violin. Adel,
-      Gejstlighed, Borger og Bonde. Det svage Køn. Den hellige Aand H. C. Andersen. Et Par Handsker. 1967</title><pubPlace xml:id="idm140270082321168">København</pubPlace>
-<publisher xml:id="idm140270082320736">Rosenkilde og Bagger</publisher><date xml:id="idm140270082320448">1966-</date></bibl><listBibl xml:id="idm140270082320112"><bibl xml:id="biblid54327"><title xml:id="idm140270082306912">Første Violin</title></bibl><bibl xml:id="biblid90630"><title xml:id="idm140270082306112">Adel, Gejstlighed, Borger og Bonde </title></bibl><bibl xml:id="biblid90669"><title xml:id="idm140270082305264">En Mindefest</title></bibl><bibl xml:id="biblid97011"><title xml:id="idm140270082304432">Herrens Venner...</title></bibl><bibl xml:id="biblid100412"><title xml:id="idm140270082303648">Centrum</title></bibl><bibl xml:id="biblid109749"><title xml:id="idm140270082302864">Døden</title></bibl><bibl xml:id="biblid115845"><title xml:id="idm140270082302080">Det svage Køn</title></bibl><bibl xml:id="biblid115882"><title xml:id="idm140270082301280">Hendes Naade</title></bibl><bibl xml:id="biblid123588"><title xml:id="idm140270082300496">Fru Mimi</title></bibl><bibl xml:id="biblid129764"><title xml:id="idm140270082299712">Frøken Mathilde</title></bibl><bibl xml:id="biblid135687"><title xml:id="idm140270082298912">Ane-Marie</title></bibl><bibl xml:id="biblid140634"><title xml:id="idm140270082298128">Den Hellige Aand</title></bibl><bibl xml:id="biblid142229"><title xml:id="idm140270082297296">H. C. Andersen</title></bibl><bibl xml:id="biblid143508"><title xml:id="idm140270082296464">Et par Handsker eller Damen fra Landet</title></bibl></listBibl></sourceDesc>
+      <sourceDesc xml:id="idm140270082323632">
+        <bibl xml:id="idm140270082323504">
+          <author n="1" xml:id="idm140270082322816">
+            <name xml:id="idm140270082322560"><surname xml:id="idm140270082322432">Wied</surname>,
+      <forename xml:id="idm140270082321984">Gustav</forename></name>
+          </author>
+          <title xml:id="idm140270082321696">Første Violin. Adel,
+      Gejstlighed, Borger og Bonde. Det svage Køn. Den hellige Aand H. C. Andersen. Et Par Handsker. 1967</title>
+          <pubPlace xml:id="idm140270082321168">København</pubPlace>
+          <publisher xml:id="idm140270082320736">Rosenkilde og Bagger</publisher>
+          <date xml:id="idm140270082320448">1966-</date>
+        </bibl>
+        <listBibl xml:id="idm140270082320112">
+          <bibl xml:id="biblid54327">
+            <title xml:id="idm140270082306912">Første Violin</title>
+          </bibl>
+          <bibl xml:id="biblid90630">
+            <title xml:id="idm140270082306112">Adel, Gejstlighed, Borger og Bonde </title>
+          </bibl>
+          <bibl xml:id="biblid90669">
+            <title xml:id="idm140270082305264">En Mindefest</title>
+          </bibl>
+          <bibl xml:id="biblid97011">
+            <title xml:id="idm140270082304432">Herrens Venner...</title>
+          </bibl>
+          <bibl xml:id="biblid100412">
+            <title xml:id="idm140270082303648">Centrum</title>
+          </bibl>
+          <bibl xml:id="biblid109749">
+            <title xml:id="idm140270082302864">Døden</title>
+          </bibl>
+          <bibl xml:id="biblid115845">
+            <title xml:id="idm140270082302080">Det svage Køn</title>
+          </bibl>
+          <bibl xml:id="biblid115882">
+            <title xml:id="idm140270082301280">Hendes Naade</title>
+          </bibl>
+          <bibl xml:id="biblid123588">
+            <title xml:id="idm140270082300496">Fru Mimi</title>
+          </bibl>
+          <bibl xml:id="biblid129764">
+            <title xml:id="idm140270082299712">Frøken Mathilde</title>
+          </bibl>
+          <bibl xml:id="biblid135687">
+            <title xml:id="idm140270082298912">Ane-Marie</title>
+          </bibl>
+          <bibl xml:id="biblid140634">
+            <title xml:id="idm140270082298128">Den Hellige Aand</title>
+          </bibl>
+          <bibl xml:id="biblid142229">
+            <title xml:id="idm140270082297296">H. C. Andersen</title>
+          </bibl>
+          <bibl xml:id="biblid143508">
+            <title xml:id="idm140270082296464">Et par Handsker eller Damen fra Landet</title>
+          </bibl>
+        </listBibl>
+      </sourceDesc>
     </fileDesc>
   </teiHeader>
   <text xml:id="idm140270082295776">
     <front xml:id="idm140270082295520">
       <pb n="I" facs="adl/wied/wied5/wied5001" xml:id="idm140270082295216"/>
       <gap reason="cancelled" xml:id="idm140270082294384"/>
-<!---->
-<!---->
-<!--ROMANER NOVELLER SKUESPIL-->
       <pb n="II" facs="adl/wied/wied5/wied5002" xml:id="idm140270082292832"/>
       <pb n="III" facs="adl/wied/wied5/wied5003" xml:id="idm140270082292064"/>
       <titlePage xml:id="idm140270082291296">

@@ -1,10 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!--Tom opmærkning d.15.10.2002 blo -->
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="idm140084155878720"><!-- 
-       file     ./marc_dir/002086960.xml
-       field     
-       subfield  
-       prefix   -->
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="root">
   <teiHeader xml:id="idm140084155877856">
     <fileDesc xml:id="idm140084155877600">
       <titleStmt xml:id="idm140084155877296">
@@ -19,8 +14,22 @@
         <note xml:id="idm140084155849264">
 	  </note>
       </notesStmt>
-      <sourceDesc xml:id="idm140084155848752"><bibl xml:id="idm140084155848624"><author n="1" xml:id="idm140084155847936"><name xml:id="idm140084155847680"><surname xml:id="idm140084155847552">Steffens</surname>, <forename xml:id="idm140084155847088">Henrich</forename></name></author><title xml:id="idm140084155846800">Was ich erlebte</title><pubPlace xml:id="idm140084155846512">Breslau</pubPlace>
-<publisher xml:id="idm140084155846048">Josef Mar</publisher><date xml:id="idm140084155845712">1840-44</date></bibl><listBibl xml:id="idm140084155845424"><bibl xml:id="biblid53744"><title xml:id="idm140084155832272">Wat ich erlebte. Fünfter Band</title></bibl></listBibl></sourceDesc>
+      <sourceDesc xml:id="idm140084155848752">
+        <bibl xml:id="idm140084155848624">
+          <author n="1" xml:id="idm140084155847936">
+            <name xml:id="idm140084155847680"><surname xml:id="idm140084155847552">Steffens</surname>, <forename xml:id="idm140084155847088">Henrich</forename></name>
+          </author>
+          <title xml:id="idm140084155846800">Was ich erlebte</title>
+          <pubPlace xml:id="idm140084155846512">Breslau</pubPlace>
+          <publisher xml:id="idm140084155846048">Josef Mar</publisher>
+          <date xml:id="idm140084155845712">1840-44</date>
+        </bibl>
+        <listBibl xml:id="idm140084155845424">
+          <bibl xml:id="biblid53744">
+            <title xml:id="idm140084155832272">Wat ich erlebte. Fünfter Band</title>
+          </bibl>
+        </listBibl>
+      </sourceDesc>
     </fileDesc>
   </teiHeader>
   <text xml:id="idm140084155831552">

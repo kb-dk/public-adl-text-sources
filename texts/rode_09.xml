@@ -1,9 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="idm140397623975056"><!-- 
-       file     ./marc_dir/001920536.xml
-       field     
-       subfield  
-       prefix   -->
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="root">
   <teiHeader xml:id="idm140397623974400">
     <fileDesc xml:id="idm140397623974144">
       <titleStmt xml:id="idm140397623973840">
@@ -21,8 +17,22 @@
         <note xml:id="idm140397623944256">
 	  </note>
       </notesStmt>
-      <sourceDesc xml:id="idm140397623943744"><bibl xml:id="idm140397623943616"><author n="1" xml:id="idm140397623942928"><name xml:id="idm140397623942672"><surname xml:id="idm140397623942544">Rode</surname>, <forename xml:id="idm140397623942080">Helge</forename></name></author><title xml:id="idm140397623941792">Regenerationen i vort Aandsliv</title><pubPlace xml:id="idm140397623941488">København</pubPlace>
-<publisher xml:id="idm140397623941024">Gyldendalske Boghandel. Nordisk Forlag</publisher><date xml:id="idm140397623940672">1923</date></bibl><listBibl xml:id="idm140397623940384"><bibl xml:id="biblid54100"><title xml:id="idm140397623927232">Regenerationen i vort Aandsliv</title></bibl></listBibl></sourceDesc>
+      <sourceDesc xml:id="idm140397623943744">
+        <bibl xml:id="idm140397623943616">
+          <author n="1" xml:id="idm140397623942928">
+            <name xml:id="idm140397623942672"><surname xml:id="idm140397623942544">Rode</surname>, <forename xml:id="idm140397623942080">Helge</forename></name>
+          </author>
+          <title xml:id="idm140397623941792">Regenerationen i vort Aandsliv</title>
+          <pubPlace xml:id="idm140397623941488">København</pubPlace>
+          <publisher xml:id="idm140397623941024">Gyldendalske Boghandel. Nordisk Forlag</publisher>
+          <date xml:id="idm140397623940672">1923</date>
+        </bibl>
+        <listBibl xml:id="idm140397623940384">
+          <bibl xml:id="biblid54100">
+            <title xml:id="idm140397623927232">Regenerationen i vort Aandsliv</title>
+          </bibl>
+        </listBibl>
+      </sourceDesc>
     </fileDesc>
   </teiHeader>
   <text xml:id="workid54100" decls="#biblid54100">
@@ -319,7 +329,7 @@ Sortsyn vil belaste Gennembrudet med hele Ansvaret, gør det sig skyldig i en Ov
             <p xml:id="idm140397623572880">Jeg paastaar ikke, at det er noget Under, der er sket, jeg taler kun om Værkets Virkemidler og Virkning, den som griber Præsterne paa Scenen og Tilskuerne i Salen. — Det som fylder alle er jo intet andet, end Underets Poesi.</p>
             <p xml:id="idm140397623572016">Hvad mere sker der? Jo, den syge, lamme Klara har rejst sig fra sit Smertens Leje og kommer vandrende i sine hvide Klæder. Sang har bedt saa brændende, om at det maa ske og hans Bøn bliver opfyldt. — Jeg paastaar ikke, at det er noget Mirakel; men saaledes virker det! Atter Haab, Tro, Sejr. Underets Poesi!</p>
             <p xml:id="idm140397623570992">Men nu kommer altsaa Tragedien. Nederlaget som gør Skuespillet til Tragedie? Jeg ser bort fra, at Klaras Død er ganske vilkaarlig, og at hendes Helbredelse lige saa godt kunde have været varig, hvorved den oplyste Verden unægtelig vilde være bleven noget lang i Ansigtet og Dramaet have manglet
-<!--second range-->
+
 <pb n="51" xml:id="s51" facs="adl/rode/rode_09/rode_09_051"/>
 let den nødvendige Slutning. Jeg holder mig til det, som sker: Klara dør, og dermed dør og`saa Sang. „Men dette var ikke Meningen", siger han og ser op med et barnligt Blik. Og saa tilføjer han lidt efter et spørgende: „Eller"? — Og dør!</p>
             <p xml:id="idm140397623568080">Jo, det var netop Meningen! Det betød, at nu tvivlede Sang. Hans Tro var dræbt og han selv med den. Saaledes vilde Forfatteren det.</p>
@@ -564,7 +574,6 @@ let den nødvendige Slutning. Jeg holder mig til det, som sker: Klara dør, og d
           <p xml:id="idm140397623288144">Saa stille er Ordene, saa vemodig er Stemningen. Først nu forstaar vi helt denne Bogs dæmpede Tale. Vi synker halvt hen i Skumringen, sidder en Stund tavse og ser frem for os, inden vi drejer Lyset op.</p>
           <p xml:id="idm140397623287344">Vi ser da at Bogens Stilhed ligesom er dobbeltbundet, under Mandens Vemod mærker vi atter Forskerens Alvor. Et stort dagklart Arbejde er udført. Et Arkiv, et omfattende Stof bragt frem fra Mørket, omhyggelig ordnet og undersøgt.</p>
           <p xml:id="idm140397623286480">Topsøes fine Skikkelse bliver her fuldt belyst, hans Arbejder kritisk prøvet. Hans Mangler som Kunstner bliver ikke skjult, Fantasiens Begrænsning, Stilens hyppige Brug af gængse Clichéer, dokumenteres, medens paa den anden Side hans naturlige Lune, hans Humor og Alvor, hans stundom fortryllende poetisk-psykologiske Finsans træder levende frem.</p>
-<!--third range -->
           <pb n="101" xml:id="s101" facs="adl/rode/rode_09/rode_09_101"/>
           <p xml:id="idm140397623283968">Jeg hører ingenlunde til dem, der nu forkaster J. P. Jacobsen som Prosaist. „Marie Grubbe" rager stadig højt op i vor Literatur, en fornyet Gennemlæsning viser nok nogle Pletter, men alt ialt staar dette Værk med ædel og fast Holdning. Den meget omtalte Stil er roligere og værdigere, end jeg nu havde ventet at finde den.</p>
           <p xml:id="idm140397623282960">Derimod er Niels Lyhnes anstrengende Fritænkeri mere mærket af Tidens Tand end Topsøes „Neutralitet i det religiøse". Med Uhygge møder jeg i Vilhelm Andersens Bog følgende Citat fra Jacobsens og Halvfjersernes Hovedværk: „Der var Stormgangsjubel i de unge Sjæle, og der var Tro paa store Tankestjerners Lys, og der var Haab, som der var Have". Mærker vi ikke, at Ormene havde travlt allerede dengang med et Haab og en Tro, som søgte sig saadanne Udtryk?</p>
@@ -770,7 +779,7 @@ let den nødvendige Slutning. Jeg holder mig til det, som sker: Klara dør, og d
           <p xml:id="idm140397623012544">Et lykkeligt Fund er dette Stof, det rummer i sig selv en Bevægelse, der føres til Ophør gennem et dramatisk Sammenstød. Her er Linje og Flugt, Opsving og Fald. Bevægelsen er bleven plastisk, og saaledes er der fremkommet et Kunstværk, som hviler i sig selv, — udløst af Udviklingens Evindelighed! Derfor kan Bogen godt have Perspektiv og Fremblik — ja, den faar det netop derved.</p>
           <p xml:id="idm140397623011424">De stakkels Cimbrer udvikler sig overhovedet ikke i denne Bog, det gaar den forkerte Vej med dem, de gaar tilgrunde; men dette bevæger langt dybere, end om de havde opfundet en Slaamaskine. — Kunsten har nu engang sit eget Hjerte og sin egen Fornuft.</p>
           <p xml:id="idm140397623010512">Maaske er det netop Cimbrernes kranke Lykke, der har frigjort Digterens Følelse og gjort den kunstnerisk frugtbar. — I „Bræen" og „Det tabte Land" blev „Udviklingen" baaret af Enkeltvæsener:
-<!--fourth range -->
+
 <pb n="151" xml:id="s151" facs="adl/rode/rode_09/rode_09_151"/>
 Dreng og Fyr, som ikke blev til Personligheder for Læseren, hvad enten dette nu kom af Opgavens Uløselighed, Forfatterens svigtende Evne eller af hans Program. I „Cimbrernes Tog" faar han heller ikke meget ud af de enkelte; men det er lykkedes ham at gøre Stammen til Personlighed, fordi den her har fælles Oplevelser og en Skæbne, som bevæger. Jensen har en stor Evne til at skildre Flokken, men den er ikke kommet helt til sin Ret i de tidligere Bøger, hvor han søgte at samle Interessen om abstrakte Personifikationer, der sprængte Rammen. I „Cimbrernes Tog" glimter der nu og da et Ansigt frem, som faar Liv af Stammens samlede Liv!</p>
           <p xml:id="idm140397623007456">Historikerne om de historiske Skrøbeligheder, der jo ikke mangler. Som Kunstværk har „Cimbrernes Tog" langt fastere Grund under Fødderne end dens Forgængere. En god Hjælp er det, at Forhistorien har sit Sted i Jylland, hvor Digteren er saa fuldt ud hjemme, medens Afslutningen sker i Romerriget, hvis blotte Navn fremkalder Syner, og som i sig selv er et Symbol.</p>

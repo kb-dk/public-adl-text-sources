@@ -1,9 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="idm140342405102624"><!-- 
-       file     ./marc_dir/002015959.xml
-       field     
-       subfield  
-       prefix   -->
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="root">
   <teiHeader xml:id="idm140342405101968">
     <fileDesc xml:id="idm140342405101712">
       <titleStmt xml:id="idm140342405101408">
@@ -18,8 +14,21 @@
         <note xml:id="idm140342405073360">
 	  </note>
       </notesStmt>
-      <sourceDesc xml:id="idm140342405072800"><bibl xml:id="idm140342405072672"><author n="1" xml:id="idm140342405072048"><name xml:id="idm140342405071792"><surname xml:id="idm140342405071664">Brandes</surname>, <forename xml:id="idm140342405071232">Edvard</forename></name></author><title xml:id="idm140342405070944">Lykkens Blændværk</title><pubPlace xml:id="idm140342405070640">København</pubPlace>
-<date xml:id="idm140342405070160">1898</date></bibl><listBibl xml:id="idm140342405069872"><bibl xml:id="biblid54090"><title xml:id="idm140342405056720">Lykkens Blændværk</title></bibl></listBibl></sourceDesc>
+      <sourceDesc xml:id="idm140342405072800">
+        <bibl xml:id="idm140342405072672">
+          <author n="1" xml:id="idm140342405072048">
+            <name xml:id="idm140342405071792"><surname xml:id="idm140342405071664">Brandes</surname>, <forename xml:id="idm140342405071232">Edvard</forename></name>
+          </author>
+          <title xml:id="idm140342405070944">Lykkens Blændværk</title>
+          <pubPlace xml:id="idm140342405070640">København</pubPlace>
+          <date xml:id="idm140342405070160">1898</date>
+        </bibl>
+        <listBibl xml:id="idm140342405069872">
+          <bibl xml:id="biblid54090">
+            <title xml:id="idm140342405056720">Lykkens Blændværk</title>
+          </bibl>
+        </listBibl>
+      </sourceDesc>
     </fileDesc>
   </teiHeader>
   <text xml:id="workid54090" decls="#biblid54090">

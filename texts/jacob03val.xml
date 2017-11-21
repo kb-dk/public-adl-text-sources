@@ -1,17 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!-- sider 299-348 skal afflages-->
-<!--hhl 27.9.2001-->
-<!-- rettelser: rd/ldquot, ndash,(unicoode 97) og 95 er fjernet (pletter)-->
-<!-- HHL 16.09.2002 rettet smaafejl-->
-<!--HHL 08012002: ordnet bindestreger ved sideskift aht til soegning
-       Ptj rettet s.  53-123-134-155-165-169-183-
-       20090420 VL: rettet s. 65
--->
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="idm139892129170640"><!-- 
-       file     ./marc_dir/001823911.xml
-       field     
-       subfield  
-       prefix   -->
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="root">
   <teiHeader xml:id="idm139892129112896">
     <fileDesc xml:id="idm139892129112640">
       <titleStmt xml:id="idm139892129112384">
@@ -31,11 +19,99 @@
         <note xml:id="idm139892129107968">
 	  </note>
       </notesStmt>
-      <sourceDesc xml:id="idm139892129107456"><bibl xml:id="idm139892129107328"><author n="1" xml:id="idm139892129106640"><name xml:id="idm139892129106384"><surname xml:id="idm139892129106256">Jacobsen</surname>,
-      <forename xml:id="idm139892129105808">J. P.</forename></name></author><title xml:id="idm139892129105520">Samlede Værker
+      <sourceDesc xml:id="idm139892129107456">
+        <bibl xml:id="idm139892129107328">
+          <author n="1" xml:id="idm139892129106640">
+            <name xml:id="idm139892129106384"><surname xml:id="idm139892129106256">Jacobsen</surname>,
+      <forename xml:id="idm139892129105808">J. P.</forename></name>
+          </author>
+          <title xml:id="idm139892129105520">Samlede Værker
       III</title>
-      <title xml:id="idm139892129105072">Udg. paa Grundlag af Digterens efterladte Papirer af Morten Borup</title> <pubPlace xml:id="idm139892129104640">København</pubPlace>
-<date xml:id="idm139892129104160">1924-29</date></bibl><listBibl xml:id="idm139892129103872"><bibl xml:id="biblid55586"><title xml:id="idm139892129090720">DAGBOGSOPTEGNELSER OG STRØTANKER</title></bibl><bibl xml:id="biblid57660"><title xml:id="idm139892129089888">EN FORTÆLLING OM TRE</title></bibl><bibl xml:id="biblid57737"><title xml:id="idm139892129089024">DEN  GAMLE  VANDPOST (ET  EVENTYR   I  MANER)</title></bibl><bibl xml:id="biblid57805"><title xml:id="idm139892129088208">ET  KJÆRLIGHEDSFORHOLD (SKIZZE)</title></bibl><bibl xml:id="biblid57943"><title xml:id="idm139892129087376">EROTISKE   STUDIER EFTER BIBLEN</title></bibl><bibl xml:id="biblid58116"><title xml:id="idm139892129086528">EN  CACTUS   SPRINGER  UD</title></bibl><bibl xml:id="biblid58272"><title xml:id="idm139892129085680">EFTERAAR</title></bibl><bibl xml:id="biblid58441"><title xml:id="idm139892129084896">STEMNINGER</title></bibl><bibl xml:id="biblid58631"><title xml:id="idm139892129084112">EN   ARABESK</title></bibl><bibl xml:id="biblid59267"><title xml:id="idm139892129083280">GURRESANGE</title></bibl><bibl xml:id="biblid61392"><title xml:id="idm139892129082384">KORMAK   OG   STENGERDE</title></bibl><bibl xml:id="biblid63426"><title xml:id="idm139892129081552">I TONER!</title></bibl><bibl xml:id="biblid63820"><title xml:id="idm139892129080768">CLARA (PATHOLOGISK SKIZZE)</title></bibl><bibl xml:id="biblid64079"><title xml:id="idm139892129079968">WIEBE   PETERS KONTOUREN TIL EN ROMANFIGUR</title></bibl><bibl xml:id="biblid64262"><title xml:id="idm139892129079152">BRUDSTYKKE  AF  EN FORTÆLLING (1)</title></bibl><bibl xml:id="biblid64366"><title xml:id="idm139892129078272">MOGENS</title></bibl><bibl xml:id="biblid67752"><title xml:id="idm139892129077488">ET  SKUD   I  TAAGEN</title></bibl><bibl xml:id="biblid68990"><title xml:id="idm139892129076704">EN  REJSEERINDRING</title></bibl><bibl xml:id="biblid69087"><title xml:id="idm139892129075872">TO  VERDENER. EN SKITSE</title></bibl><bibl xml:id="biblid69533"><title xml:id="idm139892129075040">FRA  SKITSEBOGEN</title></bibl><bibl xml:id="biblid70068"><title xml:id="idm139892129074208">PESTEN  I  BERGAMO</title></bibl><bibl xml:id="biblid70857"><title xml:id="idm139892129073376">FRU  FØNSS</title></bibl><bibl xml:id="biblid72542"><title xml:id="idm139892129072544">ANNE   CHARLOTTE</title></bibl><bibl xml:id="biblid73107"><title xml:id="idm139892129071696">BRUDSTYKKE  AF  EN FORTÆLLING (2)</title></bibl><bibl xml:id="biblid73203"><title xml:id="idm139892129070800">BRUDSTYKKE  AF  EN FORTÆLLING (3)</title></bibl><bibl xml:id="biblid73290"><title xml:id="idm139892129169408">BRUDSTYKKE AF EN FORTÆLLING (4)</title></bibl></listBibl></sourceDesc>
+          <title xml:id="idm139892129105072">Udg. paa Grundlag af Digterens efterladte Papirer af Morten Borup</title>
+          <pubPlace xml:id="idm139892129104640">København</pubPlace>
+          <date xml:id="idm139892129104160">1924-29</date>
+        </bibl>
+        <listBibl xml:id="idm139892129103872">
+          <bibl xml:id="biblid55586">
+            <title xml:id="idm139892129090720">DAGBOGSOPTEGNELSER OG STRØTANKER</title>
+          </bibl>
+          <bibl xml:id="biblid57660">
+            <title xml:id="idm139892129089888">EN FORTÆLLING OM TRE</title>
+          </bibl>
+          <bibl xml:id="biblid57737">
+            <title xml:id="idm139892129089024">DEN  GAMLE  VANDPOST (ET  EVENTYR   I  MANER)</title>
+          </bibl>
+          <bibl xml:id="biblid57805">
+            <title xml:id="idm139892129088208">ET  KJÆRLIGHEDSFORHOLD (SKIZZE)</title>
+          </bibl>
+          <bibl xml:id="biblid57943">
+            <title xml:id="idm139892129087376">EROTISKE   STUDIER EFTER BIBLEN</title>
+          </bibl>
+          <bibl xml:id="biblid58116">
+            <title xml:id="idm139892129086528">EN  CACTUS   SPRINGER  UD</title>
+          </bibl>
+          <bibl xml:id="biblid58272">
+            <title xml:id="idm139892129085680">EFTERAAR</title>
+          </bibl>
+          <bibl xml:id="biblid58441">
+            <title xml:id="idm139892129084896">STEMNINGER</title>
+          </bibl>
+          <bibl xml:id="biblid58631">
+            <title xml:id="idm139892129084112">EN   ARABESK</title>
+          </bibl>
+          <bibl xml:id="biblid59267">
+            <title xml:id="idm139892129083280">GURRESANGE</title>
+          </bibl>
+          <bibl xml:id="biblid61392">
+            <title xml:id="idm139892129082384">KORMAK   OG   STENGERDE</title>
+          </bibl>
+          <bibl xml:id="biblid63426">
+            <title xml:id="idm139892129081552">I TONER!</title>
+          </bibl>
+          <bibl xml:id="biblid63820">
+            <title xml:id="idm139892129080768">CLARA (PATHOLOGISK SKIZZE)</title>
+          </bibl>
+          <bibl xml:id="biblid64079">
+            <title xml:id="idm139892129079968">WIEBE   PETERS KONTOUREN TIL EN ROMANFIGUR</title>
+          </bibl>
+          <bibl xml:id="biblid64262">
+            <title xml:id="idm139892129079152">BRUDSTYKKE  AF  EN FORTÆLLING (1)</title>
+          </bibl>
+          <bibl xml:id="biblid64366">
+            <title xml:id="idm139892129078272">MOGENS</title>
+          </bibl>
+          <bibl xml:id="biblid67752">
+            <title xml:id="idm139892129077488">ET  SKUD   I  TAAGEN</title>
+          </bibl>
+          <bibl xml:id="biblid68990">
+            <title xml:id="idm139892129076704">EN  REJSEERINDRING</title>
+          </bibl>
+          <bibl xml:id="biblid69087">
+            <title xml:id="idm139892129075872">TO  VERDENER. EN SKITSE</title>
+          </bibl>
+          <bibl xml:id="biblid69533">
+            <title xml:id="idm139892129075040">FRA  SKITSEBOGEN</title>
+          </bibl>
+          <bibl xml:id="biblid70068">
+            <title xml:id="idm139892129074208">PESTEN  I  BERGAMO</title>
+          </bibl>
+          <bibl xml:id="biblid70857">
+            <title xml:id="idm139892129073376">FRU  FØNSS</title>
+          </bibl>
+          <bibl xml:id="biblid72542">
+            <title xml:id="idm139892129072544">ANNE   CHARLOTTE</title>
+          </bibl>
+          <bibl xml:id="biblid73107">
+            <title xml:id="idm139892129071696">BRUDSTYKKE  AF  EN FORTÆLLING (2)</title>
+          </bibl>
+          <bibl xml:id="biblid73203">
+            <title xml:id="idm139892129070800">BRUDSTYKKE  AF  EN FORTÆLLING (3)</title>
+          </bibl>
+          <bibl xml:id="biblid73290">
+            <title xml:id="idm139892129169408">BRUDSTYKKE AF EN FORTÆLLING (4)</title>
+          </bibl>
+        </listBibl>
+      </sourceDesc>
     </fileDesc>
   </teiHeader>
   <text xml:id="idm139892129168688">

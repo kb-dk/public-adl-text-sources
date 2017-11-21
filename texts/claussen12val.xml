@@ -1,12 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!-- OCR by ATAPY 10.12.02 (Catherine Bychkova) -->
-<!-- HHL 20030313        checket iflg liste
-              -->
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="idm140570242251648"><!-- 
-       file     ./marc_dir/001383642.xml
-       field    248 
-       subfield g 
-       prefix   Bd. 9 | a-->
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="root">
   <teiHeader xml:id="idm140570242251088">
     <fileDesc xml:id="idm140570242250832">
       <titleStmt xml:id="idm140570242250528">
@@ -23,18 +16,24 @@
         <note xml:id="idm140570242220384">
 	  </note>
       </notesStmt>
-      <sourceDesc xml:id="idm140570242219872"><bibl xml:id="idm140570242219744"><author n="1" xml:id="idm140570242219568"><name xml:id="idm140570242219312"><surname xml:id="idm140570242219184">Claussen</surname>, <forename xml:id="idm140570242218720">Sophus</forename></name></author><title xml:id="idm140570242218432">Sophus Claussens lyrik</title><title xml:id="idm140570242218144">: </title><pubPlace xml:id="idm140570242217888">[København]</pubPlace>
-<publisher xml:id="idm140570242217424">Det Danske Sprog- og Litteraturselskab ; Gyldendal</publisher><date xml:id="idm140570242217056">1982-</date></bibl></sourceDesc>
+      <sourceDesc xml:id="idm140570242219872">
+        <bibl xml:id="idm140570242219744">
+          <author n="1" xml:id="idm140570242219568">
+            <name xml:id="idm140570242219312"><surname xml:id="idm140570242219184">Claussen</surname>, <forename xml:id="idm140570242218720">Sophus</forename></name>
+          </author>
+          <title xml:id="idm140570242218432">Sophus Claussens lyrik</title>
+          <title xml:id="idm140570242218144">: </title>
+          <pubPlace xml:id="idm140570242217888">[København]</pubPlace>
+          <publisher xml:id="idm140570242217424">Det Danske Sprog- og Litteraturselskab ; Gyldendal</publisher>
+          <date xml:id="idm140570242217056">1982-</date>
+        </bibl>
+      </sourceDesc>
     </fileDesc>
   </teiHeader>
   <text xml:id="idm140570242216384">
     <front xml:id="idm140570242216128">
       <pb n="235" xml:id="s235" facs="adl/claussen/claussen12/claussen12235"/>
       <gap reason="cancelled" xml:id="idm140570242202144"/>
-<!---->
-<!---->
-<!---->
-<!--Sophus Claussens Lyrik IX:2-->
       <pb n="236" xml:id="s236" facs="adl/claussen/claussen12/claussen12236"/>
       <pb n="237" xml:id="s237" facs="adl/claussen/claussen12/claussen12237"/>
       <titlePage xml:id="idm140570242198000">

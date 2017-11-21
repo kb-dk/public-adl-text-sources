@@ -1,9 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="idm140022826171536"><!-- 
-       file     ./marc_dir/003455704.xml
-       field     
-       subfield  
-       prefix   -->
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="root">
   <teiHeader xml:id="idm140022826170880">
     <fileDesc xml:id="idm140022826170624">
       <titleStmt xml:id="idm140022826170320">
@@ -18,8 +14,21 @@
         <note xml:id="idm140022826142256">
 	  </note>
       </notesStmt>
-      <sourceDesc xml:id="idm140022826141744"><bibl xml:id="idm140022826141616"><author n="1" xml:id="idm140022826140928"><name xml:id="idm140022826140672"><surname xml:id="idm140022826140544">Larsen</surname>, <forename xml:id="idm140022826140080">Karl</forename></name></author><title xml:id="idm140022826139792">En KvindesSkriftemaal</title><pubPlace xml:id="idm140022826139504">København</pubPlace>
-<date xml:id="idm140022826138992">1901</date></bibl><listBibl xml:id="idm140022826138704"><bibl xml:id="biblid54087"><title xml:id="idm140022826125552">En Kvindes Skriftemaal </title></bibl></listBibl></sourceDesc>
+      <sourceDesc xml:id="idm140022826141744">
+        <bibl xml:id="idm140022826141616">
+          <author n="1" xml:id="idm140022826140928">
+            <name xml:id="idm140022826140672"><surname xml:id="idm140022826140544">Larsen</surname>, <forename xml:id="idm140022826140080">Karl</forename></name>
+          </author>
+          <title xml:id="idm140022826139792">En KvindesSkriftemaal</title>
+          <pubPlace xml:id="idm140022826139504">København</pubPlace>
+          <date xml:id="idm140022826138992">1901</date>
+        </bibl>
+        <listBibl xml:id="idm140022826138704">
+          <bibl xml:id="biblid54087">
+            <title xml:id="idm140022826125552">En Kvindes Skriftemaal </title>
+          </bibl>
+        </listBibl>
+      </sourceDesc>
     </fileDesc>
   </teiHeader>
   <text xml:id="workid54087" decls="#biblid54087">

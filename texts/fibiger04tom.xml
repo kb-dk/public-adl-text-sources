@@ -1,10 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!--Tom opmærkning blo 24.09.02-->
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="idm140523095594352"><!-- 
-       file     ./marc_dir/001913360.xml
-       field     
-       subfield  
-       prefix   -->
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="root">
   <teiHeader xml:id="idm140523095599488">
     <fileDesc xml:id="idm140523095599232">
       <titleStmt xml:id="idm140523095598928">
@@ -19,8 +14,21 @@
         <note xml:id="idm140523095571024">
 	  </note>
       </notesStmt>
-      <sourceDesc xml:id="idm140523095570512"><bibl xml:id="idm140523095570384"><author n="1" xml:id="idm140523095569696"><name xml:id="idm140523095569440"><surname xml:id="idm140523095569312">Fibiger</surname>, <forename xml:id="idm140523095568848">Mathilde</forename></name></author><title xml:id="idm140523095568560">En Skizze efter det virkelige Liv</title><pubPlace xml:id="idm140523095568256">København</pubPlace>
-<date xml:id="idm140523095567776">1853</date></bibl><listBibl xml:id="idm140523095567488"><bibl xml:id="biblid54232"><title xml:id="idm140523095554336">En Skitzze efter det virkelige Liv</title></bibl></listBibl></sourceDesc>
+      <sourceDesc xml:id="idm140523095570512">
+        <bibl xml:id="idm140523095570384">
+          <author n="1" xml:id="idm140523095569696">
+            <name xml:id="idm140523095569440"><surname xml:id="idm140523095569312">Fibiger</surname>, <forename xml:id="idm140523095568848">Mathilde</forename></name>
+          </author>
+          <title xml:id="idm140523095568560">En Skizze efter det virkelige Liv</title>
+          <pubPlace xml:id="idm140523095568256">København</pubPlace>
+          <date xml:id="idm140523095567776">1853</date>
+        </bibl>
+        <listBibl xml:id="idm140523095567488">
+          <bibl xml:id="biblid54232">
+            <title xml:id="idm140523095554336">En Skitzze efter det virkelige Liv</title>
+          </bibl>
+        </listBibl>
+      </sourceDesc>
     </fileDesc>
   </teiHeader>
   <text xml:id="idm140523095553648">

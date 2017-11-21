@@ -1,9 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="idm140033056877600"><!-- 
-       file     ./marc_dir/002150303.xml
-       field     
-       subfield  
-       prefix   -->
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="root">
   <teiHeader xml:id="idm140033056876944">
     <fileDesc xml:id="idm140033056876688">
       <titleStmt xml:id="idm140033056876384">
@@ -18,8 +14,22 @@
         <note xml:id="idm140033056848496">
 	  </note>
       </notesStmt>
-      <sourceDesc xml:id="idm140033056847984"><bibl xml:id="idm140033056847856"><author n="1" xml:id="idm140033056847168"><name xml:id="idm140033056846912"><surname xml:id="idm140033056846784">Michaëlis</surname>, <forename xml:id="idm140033056846352">Sophus</forename></name></author><title xml:id="idm140033056846064">Vanemennesker</title><pubPlace xml:id="idm140033056845776">København</pubPlace>
-<publisher xml:id="idm140033056845312">Jacob H. Mansas Forlag</publisher><date xml:id="idm140033056844976">1892</date></bibl><listBibl xml:id="idm140033056844688"><bibl xml:id="biblid54087"><title xml:id="idm140033056831536">Vanemennesker</title></bibl></listBibl></sourceDesc>
+      <sourceDesc xml:id="idm140033056847984">
+        <bibl xml:id="idm140033056847856">
+          <author n="1" xml:id="idm140033056847168">
+            <name xml:id="idm140033056846912"><surname xml:id="idm140033056846784">Michaëlis</surname>, <forename xml:id="idm140033056846352">Sophus</forename></name>
+          </author>
+          <title xml:id="idm140033056846064">Vanemennesker</title>
+          <pubPlace xml:id="idm140033056845776">København</pubPlace>
+          <publisher xml:id="idm140033056845312">Jacob H. Mansas Forlag</publisher>
+          <date xml:id="idm140033056844976">1892</date>
+        </bibl>
+        <listBibl xml:id="idm140033056844688">
+          <bibl xml:id="biblid54087">
+            <title xml:id="idm140033056831536">Vanemennesker</title>
+          </bibl>
+        </listBibl>
+      </sourceDesc>
     </fileDesc>
   </teiHeader>
   <text xml:id="workid54087" decls="#biblid54087">
