@@ -1,10 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!--Tom opmærkning d. 11.10.2002 blo -->
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="idm140418390018784"><!-- 
-       file     ./marc_dir/001573955.xml
-       field     
-       subfield  
-       prefix   -->
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="root">
   <teiHeader xml:id="idm140418390022592">
     <fileDesc xml:id="idm140418390022336">
       <titleStmt xml:id="idm140418390022032">
@@ -23,8 +18,42 @@
         <note xml:id="idm140418389992736">
 	  </note>
       </notesStmt>
-      <sourceDesc xml:id="idm140418389992224"><bibl xml:id="idm140418389992096"><author n="1" xml:id="idm140418389991408"><name xml:id="idm140418389991152"><surname xml:id="idm140418389991024">Brahe</surname>, <forename xml:id="idm140418389990560">Tycho</forename></name></author><title xml:id="idm140418389990272">Tychonis Brahe Dani opera omnia</title><pubPlace xml:id="idm140418389989968">Hauniæ</pubPlace>
-<date xml:id="idm140418389989456">1913-29</date></bibl><listBibl xml:id="idm140418389989168"><bibl xml:id="biblid54243"><title xml:id="idm140418389976016">In ... Nicolai Copernici Instrumentum Parallaticum ...</title></bibl><bibl xml:id="biblid54282"><title xml:id="idm140418389975152">In Cl. Ptolemaei Alexandrini effifiem</title></bibl><bibl xml:id="biblid54300"><title xml:id="idm140418389974304">In D. Nicolai Copernici ... effigiem ...</title></bibl><bibl xml:id="biblid54337"><title xml:id="idm140418389973488">Urania hæc... [Indskrift på Stjerneborg]</title></bibl><bibl xml:id="biblid54355"><title xml:id="idm140418389972592">8 epigrammer under portrætter på Stjerneborg</title></bibl><bibl xml:id="biblid54384"><title xml:id="idm140418389971728">Tempora circuitu ... [Indskrift på et ur på Stjerneborg]</title></bibl><bibl xml:id="biblid54403"><title xml:id="idm140418389970848">Inclyte Mavriti ... [Epiram til Moritz af Hessen]</title></bibl><bibl xml:id="biblid54422"><title xml:id="idm140418389970032">Magni Herois ... [Digt i anledningen af Wilhelm af Hessens død]</title></bibl></listBibl></sourceDesc>
+      <sourceDesc xml:id="idm140418389992224">
+        <bibl xml:id="idm140418389992096">
+          <author n="1" xml:id="idm140418389991408">
+            <name xml:id="idm140418389991152"><surname xml:id="idm140418389991024">Brahe</surname>, <forename xml:id="idm140418389990560">Tycho</forename></name>
+          </author>
+          <title xml:id="idm140418389990272">Tychonis Brahe Dani opera omnia</title>
+          <pubPlace xml:id="idm140418389989968">Hauniæ</pubPlace>
+          <date xml:id="idm140418389989456">1913-29</date>
+        </bibl>
+        <listBibl xml:id="idm140418389989168">
+          <bibl xml:id="biblid54243">
+            <title xml:id="idm140418389976016">In ... Nicolai Copernici Instrumentum Parallaticum ...</title>
+          </bibl>
+          <bibl xml:id="biblid54282">
+            <title xml:id="idm140418389975152">In Cl. Ptolemaei Alexandrini effifiem</title>
+          </bibl>
+          <bibl xml:id="biblid54300">
+            <title xml:id="idm140418389974304">In D. Nicolai Copernici ... effigiem ...</title>
+          </bibl>
+          <bibl xml:id="biblid54337">
+            <title xml:id="idm140418389973488">Urania hæc... [Indskrift på Stjerneborg]</title>
+          </bibl>
+          <bibl xml:id="biblid54355">
+            <title xml:id="idm140418389972592">8 epigrammer under portrætter på Stjerneborg</title>
+          </bibl>
+          <bibl xml:id="biblid54384">
+            <title xml:id="idm140418389971728">Tempora circuitu ... [Indskrift på et ur på Stjerneborg]</title>
+          </bibl>
+          <bibl xml:id="biblid54403">
+            <title xml:id="idm140418389970848">Inclyte Mavriti ... [Epiram til Moritz af Hessen]</title>
+          </bibl>
+          <bibl xml:id="biblid54422">
+            <title xml:id="idm140418389970032">Magni Herois ... [Digt i anledningen af Wilhelm af Hessens død]</title>
+          </bibl>
+        </listBibl>
+      </sourceDesc>
     </fileDesc>
   </teiHeader>
   <text xml:id="idm140418389969248">

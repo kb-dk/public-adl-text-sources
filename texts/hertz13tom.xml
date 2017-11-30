@@ -1,10 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!--Tom opmærkning d. 30.09.2002 blo -->
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="idm140711341853808"><!-- 
-       file     ./marc_dir/002188046.xml
-       field     
-       subfield  
-       prefix   -->
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="root">
   <teiHeader xml:id="idm140711341852880">
     <fileDesc xml:id="idm140711341852624">
       <titleStmt xml:id="idm140711341852320">
@@ -19,8 +14,21 @@
         <note xml:id="idm140711341824368">
 	  </note>
       </notesStmt>
-      <sourceDesc xml:id="idm140711341823856"><bibl xml:id="idm140711341823728"><author n="1" xml:id="idm140711341823088"><name xml:id="idm140711341822832"><surname xml:id="idm140711341822704">Hertz</surname>, <forename xml:id="idm140711341822272">Henrik</forename></name></author><title xml:id="idm140711341821984">Stemninger og Tilstande</title><pubPlace xml:id="idm140711341821696">København</pubPlace>
-<date xml:id="idm140711341821184">1839</date></bibl><listBibl xml:id="idm140711341820896"><bibl xml:id="biblid54246"><title xml:id="idm140711341807696">Stemninger og Tilstande</title></bibl></listBibl></sourceDesc>
+      <sourceDesc xml:id="idm140711341823856">
+        <bibl xml:id="idm140711341823728">
+          <author n="1" xml:id="idm140711341823088">
+            <name xml:id="idm140711341822832"><surname xml:id="idm140711341822704">Hertz</surname>, <forename xml:id="idm140711341822272">Henrik</forename></name>
+          </author>
+          <title xml:id="idm140711341821984">Stemninger og Tilstande</title>
+          <pubPlace xml:id="idm140711341821696">København</pubPlace>
+          <date xml:id="idm140711341821184">1839</date>
+        </bibl>
+        <listBibl xml:id="idm140711341820896">
+          <bibl xml:id="biblid54246">
+            <title xml:id="idm140711341807696">Stemninger og Tilstande</title>
+          </bibl>
+        </listBibl>
+      </sourceDesc>
     </fileDesc>
   </teiHeader>
   <text xml:id="idm140711341807056">

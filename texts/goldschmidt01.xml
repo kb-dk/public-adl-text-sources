@@ -1,9 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="idm140700593839152"><!-- 
-       file     ./marc_dir/001445737.xml
-       field     
-       subfield  
-       prefix   -->
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="root">
   <teiHeader xml:id="idm140700593838496">
     <fileDesc xml:id="idm140700593838240">
       <titleStmt xml:id="idm140700593837936">
@@ -25,25 +21,23 @@ Det Danske Sprog- og Litteraturselskab</publisher>
 	</note>
       </notesStmt>
       <sourceDesc xml:id="idm140700593807856">
-	<bibl xml:id="idm140700593807728">
-	  <title xml:id="idm140700593807600">Arvingen</title>
-	  <author n="1" xml:id="idm139820486852240">
-	    <name xml:id="idm139820486851984asdf">
-	      <surname xml:id="idm139820486851856adfs">Goldschmidt</surname>, 
-	      <forename xml:id="idm139820486851392adf">M. A.</forename>
-	    </name>
-	  </author>
-	  <pubPlace xml:id="idm140700593807312">[S.l.]</pubPlace>
-	  <publisher xml:id="idm140700593806848">Det Danske Sprog- og Litteraturselskab</publisher>
-	  <publisher xml:id="idm140700593806544">Borgen</publisher>
-	  <date xml:id="idm140700593806208">1988</date>
-	</bibl>
-	<listBibl xml:id="idm140700593805920">
-	  <bibl xml:id="biblid54528">
-	    <title xml:id="idm140700593792368">Arvingen
+        <bibl xml:id="idm140700593807728">
+          <title xml:id="idm140700593807600">Arvingen</title>
+          <author n="1" xml:id="idm139820486852240">
+            <name xml:id="idm139820486851984asdf"><surname xml:id="idm139820486851856adfs">Goldschmidt</surname>, 
+	      <forename xml:id="idm139820486851392adf">M. A.</forename></name>
+          </author>
+          <pubPlace xml:id="idm140700593807312">[S.l.]</pubPlace>
+          <publisher xml:id="idm140700593806848">Det Danske Sprog- og Litteraturselskab</publisher>
+          <publisher xml:id="idm140700593806544">Borgen</publisher>
+          <date xml:id="idm140700593806208">1988</date>
+        </bibl>
+        <listBibl xml:id="idm140700593805920">
+          <bibl xml:id="biblid54528">
+            <title xml:id="idm140700593792368">Arvingen
 	    </title>
-	  </bibl>
-	</listBibl>
+          </bibl>
+        </listBibl>
       </sourceDesc>
     </fileDesc>
   </teiHeader>
@@ -51,9 +45,6 @@ Det Danske Sprog- og Litteraturselskab</publisher>
     <front xml:id="idm140700593791472">
       <pb n="I" facs="adl/goldschmidt/goldschmidt01/gold1001" xml:id="idm140700593791120"/>
       <gap reason="cancelled" xml:id="idm140700593790304"/>
-<!---->
-<!---->
-<!--Arvingen-->
       <pb n="II" facs="adl/goldschmidt/goldschmidt01/gold1002" xml:id="idm140700593788784"/>
       <pb n="III" facs="adl/goldschmidt/goldschmidt01/gold1003" xml:id="idm140700593788048"/>
       <titlePage xml:id="idm140700593787280">

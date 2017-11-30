@@ -1,10 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!--Tom opmærkning d.23.07.2002 blo -->
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="idm140411564652432"><!-- 
-       file     ./marc_dir/002220626.xml
-       field    Wrong 
-       subfield  
-       prefix   record with link. Should be Kbh. 1917. Header says Gyldendal 1942-->
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="root">
   <teiHeader xml:id="idm140411564657168">
     <fileDesc xml:id="idm140411564656912">
       <titleStmt xml:id="idm140411564656656">
@@ -19,8 +14,14 @@
         <note xml:id="idm140411564628416">
 	  </note>
       </notesStmt>
-      <sourceDesc xml:id="idm140411564627904"><bibl xml:id="idm140411564627776"><author n="1" xml:id="idm140411564627088"><name xml:id="idm140411564626832"><surname xml:id="idm140411564626704">Knudsen</surname>, <forename xml:id="idm140411564626240">Jakob</forename></name></author><title xml:id="idm140411564625952">Romaner og Fortællinger, bind 5A</title><pubPlace xml:id="idm140411564625616">København</pubPlace>; <pubPlace xml:id="idm140411564625152">Kristiania</pubPlace>
-<date xml:id="idm140411564624640">1917</date></bibl><listBibl xml:id="idm140411564624352"><bibl xml:id="biblid54241"><title xml:id="idm140411564611200">En Ungdom</title></bibl></listBibl></sourceDesc>
+      <sourceDesc xml:id="idm140411564627904">
+        <bibl xml:id="idm140411564627776"><author n="1" xml:id="idm140411564627088"><name xml:id="idm140411564626832"><surname xml:id="idm140411564626704">Knudsen</surname>, <forename xml:id="idm140411564626240">Jakob</forename></name></author><title xml:id="idm140411564625952">Romaner og Fortællinger, bind 5A</title><pubPlace xml:id="idm140411564625616">København</pubPlace>; <pubPlace xml:id="idm140411564625152">Kristiania</pubPlace><date xml:id="idm140411564624640">1917</date></bibl>
+        <listBibl xml:id="idm140411564624352">
+          <bibl xml:id="biblid54241">
+            <title xml:id="idm140411564611200">En Ungdom</title>
+          </bibl>
+        </listBibl>
+      </sourceDesc>
     </fileDesc>
   </teiHeader>
   <text xml:id="idm140411564610560">

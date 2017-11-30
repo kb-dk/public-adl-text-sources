@@ -1,10 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!--Tom opmærkning blo 03.05.02-->
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="idm140618993552592"><!-- 
-       file     ./marc_dir/004175732.xml
-       field    248 
-       subfield g 
-       prefix   Bd. 1 | a-->
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="root">
   <teiHeader xml:id="idm140618993551792">
     <fileDesc xml:id="idm140618993551536">
       <titleStmt xml:id="idm140618993551232">
@@ -19,8 +14,29 @@
         <note xml:id="idm140618993523056">
 	  </note>
       </notesStmt>
-      <sourceDesc xml:id="idm140618993522544"><bibl xml:id="idm140618993522416"><author n="1" xml:id="idm140618993521728"><name xml:id="idm140618993521472"><surname xml:id="idm140618993521344">Nansen</surname>, <forename xml:id="idm140618993520880">Peter</forename></name></author><title xml:id="idm140618993520592">Samlede Skrifter</title><title xml:id="idm140618993520304">Bd. 1: Julies Dagbog; Maria; Guds Fred</title><pubPlace xml:id="idm140618993520000">[København]</pubPlace>
-<publisher xml:id="idm140618993519536">Gyldendal</publisher><date xml:id="idm140618993519200">1908-09</date></bibl><listBibl xml:id="idm140618993518912"><bibl xml:id="biblid54134"><title xml:id="idm140618993505760">Julies Dagbog</title></bibl><bibl xml:id="biblid55454"><title xml:id="idm140618993504976">Maria</title></bibl><bibl xml:id="biblid55963"><title xml:id="idm140618993504192">Guds Fred</title></bibl></listBibl></sourceDesc>
+      <sourceDesc xml:id="idm140618993522544">
+        <bibl xml:id="idm140618993522416">
+          <author n="1" xml:id="idm140618993521728">
+            <name xml:id="idm140618993521472"><surname xml:id="idm140618993521344">Nansen</surname>, <forename xml:id="idm140618993520880">Peter</forename></name>
+          </author>
+          <title xml:id="idm140618993520592">Samlede Skrifter</title>
+          <title xml:id="idm140618993520304">Bd. 1: Julies Dagbog; Maria; Guds Fred</title>
+          <pubPlace xml:id="idm140618993520000">[København]</pubPlace>
+          <publisher xml:id="idm140618993519536">Gyldendal</publisher>
+          <date xml:id="idm140618993519200">1908-09</date>
+        </bibl>
+        <listBibl xml:id="idm140618993518912">
+          <bibl xml:id="biblid54134">
+            <title xml:id="idm140618993505760">Julies Dagbog</title>
+          </bibl>
+          <bibl xml:id="biblid55454">
+            <title xml:id="idm140618993504976">Maria</title>
+          </bibl>
+          <bibl xml:id="biblid55963">
+            <title xml:id="idm140618993504192">Guds Fred</title>
+          </bibl>
+        </listBibl>
+      </sourceDesc>
     </fileDesc>
   </teiHeader>
   <text xml:id="idm140618993503552">

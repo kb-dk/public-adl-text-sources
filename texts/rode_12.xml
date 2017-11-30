@@ -1,9 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="idm139797392852336"><!-- 
-       file     ./marc_dir/004775827.xml
-       field     
-       subfield  
-       prefix   -->
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="root">
   <teiHeader xml:id="idm139797392857696">
     <fileDesc xml:id="idm139797392857440">
       <titleStmt xml:id="idm139797392857136">
@@ -21,8 +17,22 @@
         <note xml:id="idm139797392828048">
 	  </note>
       </notesStmt>
-      <sourceDesc xml:id="idm139797392827536"><bibl xml:id="idm139797392827408"><author n="1" xml:id="idm139797392826720"><name xml:id="idm139797392826464"><surname xml:id="idm139797392826336">Rode</surname>, <forename xml:id="idm139797392825904">Helge</forename></name></author><title xml:id="idm139797392825616">Det sjælelige Gennembrud</title><pubPlace xml:id="idm139797392825296">København</pubPlace>
-<publisher xml:id="idm139797392824832">Gyldendal</publisher><date xml:id="idm139797392824496">1928</date></bibl><listBibl xml:id="idm139797392824208"><bibl xml:id="biblid54096"><title xml:id="idm139797392811056">Det Sjælelige Gennembrud</title></bibl></listBibl></sourceDesc>
+      <sourceDesc xml:id="idm139797392827536">
+        <bibl xml:id="idm139797392827408">
+          <author n="1" xml:id="idm139797392826720">
+            <name xml:id="idm139797392826464"><surname xml:id="idm139797392826336">Rode</surname>, <forename xml:id="idm139797392825904">Helge</forename></name>
+          </author>
+          <title xml:id="idm139797392825616">Det sjælelige Gennembrud</title>
+          <pubPlace xml:id="idm139797392825296">København</pubPlace>
+          <publisher xml:id="idm139797392824832">Gyldendal</publisher>
+          <date xml:id="idm139797392824496">1928</date>
+        </bibl>
+        <listBibl xml:id="idm139797392824208">
+          <bibl xml:id="biblid54096">
+            <title xml:id="idm139797392811056">Det Sjælelige Gennembrud</title>
+          </bibl>
+        </listBibl>
+      </sourceDesc>
     </fileDesc>
   </teiHeader>
   <text xml:id="workid54096" decls="#biblid54096">

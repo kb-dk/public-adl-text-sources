@@ -1,10 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!--Tom opmærkning blo 26.06.02-->
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="idm139655190776912"><!-- 
-       file     ./marc_dir/002729949.xml
-       field     
-       subfield  
-       prefix   -->
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="root">
   <teiHeader xml:id="idm139655190776016">
     <fileDesc xml:id="idm139655190775760">
       <titleStmt xml:id="idm139655190775456">
@@ -19,8 +14,24 @@
         <note xml:id="idm139655190747472">
 	  </note>
       </notesStmt>
-      <sourceDesc xml:id="idm139655190746960"><bibl xml:id="idm139655190746832"><author n="1" xml:id="idm139655190746144"><name xml:id="idm139655190745888"><surname xml:id="idm139655190745760">Gyllembourg-Ehrensvärd</surname>, <forename xml:id="idm139655190745264">T. C.</forename></name></author><title xml:id="idm139655190745008">samlede skrifter af Forf</title><pubPlace xml:id="idm139655190744704">København</pubPlace>
-<date xml:id="idm139655190744192">1866-67</date></bibl><listBibl xml:id="idm139655190743904"><bibl xml:id="biblid54255"><title xml:id="idm139655190730704">Nær og Fjern (1841)</title></bibl><bibl xml:id="biblid56465"><title xml:id="idm139655190729888">En Brevveksling (1843)</title></bibl></listBibl></sourceDesc>
+      <sourceDesc xml:id="idm139655190746960">
+        <bibl xml:id="idm139655190746832">
+          <author n="1" xml:id="idm139655190746144">
+            <name xml:id="idm139655190745888"><surname xml:id="idm139655190745760">Gyllembourg-Ehrensvärd</surname>, <forename xml:id="idm139655190745264">T. C.</forename></name>
+          </author>
+          <title xml:id="idm139655190745008">samlede skrifter af Forf</title>
+          <pubPlace xml:id="idm139655190744704">København</pubPlace>
+          <date xml:id="idm139655190744192">1866-67</date>
+        </bibl>
+        <listBibl xml:id="idm139655190743904">
+          <bibl xml:id="biblid54255">
+            <title xml:id="idm139655190730704">Nær og Fjern (1841)</title>
+          </bibl>
+          <bibl xml:id="biblid56465">
+            <title xml:id="idm139655190729888">En Brevveksling (1843)</title>
+          </bibl>
+        </listBibl>
+      </sourceDesc>
     </fileDesc>
   </teiHeader>
   <text xml:id="idm139655190729248">

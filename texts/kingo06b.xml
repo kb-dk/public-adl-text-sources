@@ -1,9 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="idm140374939167888"><!-- 
-       file     ./marc_dir/001614819.xml
-       field     
-       subfield  
-       prefix   -->
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="root">
   <teiHeader xml:id="idm140374939167232">
     <fileDesc xml:id="idm140374939166976">
       <titleStmt xml:id="idm140374939166672">
@@ -25,9 +21,18 @@ Lone Fatum og Albert Fabritius
         <note xml:id="idm140374939137104">
 	  </note>
       </notesStmt>
-      <sourceDesc xml:id="idm140374939136592"><bibl xml:id="idm140374939136464"><author n="1" xml:id="idm140374939135776"><name xml:id="idm140374939135520"><surname xml:id="idm140374939135392">Kingo</surname>,
-      <forename xml:id="idm140374939134976">Thomas</forename></name></author><title xml:id="idm140374939134688">Samlede skrifter 6B</title><pubPlace xml:id="idm140374939134400">København</pubPlace>
-<publisher xml:id="idm140374939133968">Munksgaard</publisher><date xml:id="idm140374939133632">1939-74.</date></bibl></sourceDesc>
+      <sourceDesc xml:id="idm140374939136592">
+        <bibl xml:id="idm140374939136464">
+          <author n="1" xml:id="idm140374939135776">
+            <name xml:id="idm140374939135520"><surname xml:id="idm140374939135392">Kingo</surname>,
+      <forename xml:id="idm140374939134976">Thomas</forename></name>
+          </author>
+          <title xml:id="idm140374939134688">Samlede skrifter 6B</title>
+          <pubPlace xml:id="idm140374939134400">København</pubPlace>
+          <publisher xml:id="idm140374939133968">Munksgaard</publisher>
+          <date xml:id="idm140374939133632">1939-74.</date>
+        </bibl>
+      </sourceDesc>
     </fileDesc>
   </teiHeader>
   <text xml:id="idm140374939132960">

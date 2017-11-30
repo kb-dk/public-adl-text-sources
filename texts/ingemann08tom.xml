@@ -1,10 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!--Tom opmærkning d. 23.09.2002 blo -->
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="idm140360108973264"><!-- 
-       file     ./marc_dir/001916176.xml
-       field    248 
-       subfield a 
-       prefix   III. -->
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="root">
   <teiHeader xml:id="idm140360108972464">
     <fileDesc xml:id="idm140360108972208">
       <titleStmt xml:id="idm140360108971904">
@@ -23,8 +18,22 @@
         <note xml:id="idm140360108942496">
 	  </note>
       </notesStmt>
-      <sourceDesc xml:id="idm140360108941984"><bibl xml:id="idm140360108941856"><author n="1" xml:id="idm140360108941168"><name xml:id="idm140360108940912"><surname xml:id="idm140360108940784">Ingemann</surname>, <forename xml:id="idm140360108940320">B. S.</forename></name></author><title xml:id="idm140360108940032">Historiske Romaner</title><title xml:id="idm140360108939744">: I. Valdemar Seier</title><pubPlace xml:id="idm140360108939456">København</pubPlace>
-<date xml:id="idm140360108938976">1911-1912</date></bibl><listBibl xml:id="idm140360108938688"><bibl xml:id="biblid54251"><title xml:id="idm140360108925536">Kong Erik og de Fredløse</title></bibl></listBibl></sourceDesc>
+      <sourceDesc xml:id="idm140360108941984">
+        <bibl xml:id="idm140360108941856">
+          <author n="1" xml:id="idm140360108941168">
+            <name xml:id="idm140360108940912"><surname xml:id="idm140360108940784">Ingemann</surname>, <forename xml:id="idm140360108940320">B. S.</forename></name>
+          </author>
+          <title xml:id="idm140360108940032">Historiske Romaner</title>
+          <title xml:id="idm140360108939744">: I. Valdemar Seier</title>
+          <pubPlace xml:id="idm140360108939456">København</pubPlace>
+          <date xml:id="idm140360108938976">1911-1912</date>
+        </bibl>
+        <listBibl xml:id="idm140360108938688">
+          <bibl xml:id="biblid54251">
+            <title xml:id="idm140360108925536">Kong Erik og de Fredløse</title>
+          </bibl>
+        </listBibl>
+      </sourceDesc>
     </fileDesc>
   </teiHeader>
   <text xml:id="idm140360108924832">

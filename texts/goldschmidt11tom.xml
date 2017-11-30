@@ -1,10 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!--Tom opmærkning d.30.4.2002 blo -->
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="idm140454498700256"><!-- 
-       file     ./marc_dir/001823971.xml
-       field     
-       subfield  
-       prefix   -->
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="root">
   <teiHeader xml:id="idm140454498699424">
     <fileDesc xml:id="idm140454498699168">
       <titleStmt xml:id="idm140454498673648">
@@ -23,8 +18,72 @@
         <note xml:id="idm140454498669504">
 	  </note>
       </notesStmt>
-      <sourceDesc xml:id="idm140454498668992"><bibl xml:id="idm140454498668864"><author n="1" xml:id="idm140454498668176"><name xml:id="idm140454498667920"><surname xml:id="idm140454498667792">Goldschmidt</surname>, <forename xml:id="idm140454498667360">M. A.</forename></name></author><title xml:id="idm140454498667104">M. Goldschmidts Poetiske Skrifter</title><pubPlace xml:id="idm140454498666800">København</pubPlace>
-<date xml:id="idm140454498666320">1896-98</date></bibl><listBibl xml:id="idm140454498666064"><bibl xml:id="biblid54159"><title xml:id="idm140454498652944">Den Vægelsindede paa Graahede</title></bibl><bibl xml:id="biblid54813"><title xml:id="idm140454498652064">Kjærlighedshistorier fra mange Lande</title></bibl><bibl xml:id="biblid54881"><title xml:id="idm140454498651216">Den polske Kongesøn</title></bibl><bibl xml:id="biblid54905"><title xml:id="idm140454498650400">Paolo og Giovanna</title></bibl><bibl xml:id="biblid54949"><title xml:id="idm140454498649616">Patrick O'Brien og Cathleen</title></bibl><bibl xml:id="biblid55043"><title xml:id="idm140454498648816">Henry Cecil og Sarah</title></bibl><bibl xml:id="biblid55113"><title xml:id="idm140454498648032">Billedhuggeren</title></bibl><bibl xml:id="biblid55138"><title xml:id="idm140454498647248">Senki</title></bibl><bibl xml:id="biblid55189"><title xml:id="idm140454498646464">Lureley</title></bibl><bibl xml:id="biblid55311"><title xml:id="idm140454498645632">Fuglen, der sang</title></bibl><bibl xml:id="biblid55388"><title xml:id="idm140454498644784">Assar og Mirjam</title></bibl><bibl xml:id="biblid55458"><title xml:id="idm140454498644000">Guds Engel fra Rørvig</title></bibl><bibl xml:id="biblid55573"><title xml:id="idm140454498643184">Henrik og Rosalia</title></bibl><bibl xml:id="biblid55669"><title xml:id="idm140454498642352">Genremaleren</title></bibl><bibl xml:id="biblid55741"><title xml:id="idm140454498641520">Hertugen af Villa-Medina</title></bibl><bibl xml:id="biblid55805"><title xml:id="idm140454498640672">Sidi-el-Barduk og Zuleima</title></bibl><bibl xml:id="biblid55960"><title xml:id="idm140454498639760">Anmærkninger</title></bibl><bibl xml:id="biblid55987"><title xml:id="idm140454498638912">Ravnen</title></bibl></listBibl></sourceDesc>
+      <sourceDesc xml:id="idm140454498668992">
+        <bibl xml:id="idm140454498668864">
+          <author n="1" xml:id="idm140454498668176">
+            <name xml:id="idm140454498667920"><surname xml:id="idm140454498667792">Goldschmidt</surname>, <forename xml:id="idm140454498667360">M. A.</forename></name>
+          </author>
+          <title xml:id="idm140454498667104">M. Goldschmidts Poetiske Skrifter</title>
+          <pubPlace xml:id="idm140454498666800">København</pubPlace>
+          <date xml:id="idm140454498666320">1896-98</date>
+        </bibl>
+        <listBibl xml:id="idm140454498666064">
+          <bibl xml:id="biblid54159">
+            <title xml:id="idm140454498652944">Den Vægelsindede paa Graahede</title>
+          </bibl>
+          <bibl xml:id="biblid54813">
+            <title xml:id="idm140454498652064">Kjærlighedshistorier fra mange Lande</title>
+          </bibl>
+          <bibl xml:id="biblid54881">
+            <title xml:id="idm140454498651216">Den polske Kongesøn</title>
+          </bibl>
+          <bibl xml:id="biblid54905">
+            <title xml:id="idm140454498650400">Paolo og Giovanna</title>
+          </bibl>
+          <bibl xml:id="biblid54949">
+            <title xml:id="idm140454498649616">Patrick O'Brien og Cathleen</title>
+          </bibl>
+          <bibl xml:id="biblid55043">
+            <title xml:id="idm140454498648816">Henry Cecil og Sarah</title>
+          </bibl>
+          <bibl xml:id="biblid55113">
+            <title xml:id="idm140454498648032">Billedhuggeren</title>
+          </bibl>
+          <bibl xml:id="biblid55138">
+            <title xml:id="idm140454498647248">Senki</title>
+          </bibl>
+          <bibl xml:id="biblid55189">
+            <title xml:id="idm140454498646464">Lureley</title>
+          </bibl>
+          <bibl xml:id="biblid55311">
+            <title xml:id="idm140454498645632">Fuglen, der sang</title>
+          </bibl>
+          <bibl xml:id="biblid55388">
+            <title xml:id="idm140454498644784">Assar og Mirjam</title>
+          </bibl>
+          <bibl xml:id="biblid55458">
+            <title xml:id="idm140454498644000">Guds Engel fra Rørvig</title>
+          </bibl>
+          <bibl xml:id="biblid55573">
+            <title xml:id="idm140454498643184">Henrik og Rosalia</title>
+          </bibl>
+          <bibl xml:id="biblid55669">
+            <title xml:id="idm140454498642352">Genremaleren</title>
+          </bibl>
+          <bibl xml:id="biblid55741">
+            <title xml:id="idm140454498641520">Hertugen af Villa-Medina</title>
+          </bibl>
+          <bibl xml:id="biblid55805">
+            <title xml:id="idm140454498640672">Sidi-el-Barduk og Zuleima</title>
+          </bibl>
+          <bibl xml:id="biblid55960">
+            <title xml:id="idm140454498639760">Anmærkninger</title>
+          </bibl>
+          <bibl xml:id="biblid55987">
+            <title xml:id="idm140454498638912">Ravnen</title>
+          </bibl>
+        </listBibl>
+      </sourceDesc>
     </fileDesc>
   </teiHeader>
   <text xml:id="idm140454498638224">

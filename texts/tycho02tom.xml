@@ -1,10 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!--Tom opmærkning d. 11.06.2002 blo -->
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="idm139905714260976"><!-- 
-       file     ./marc_dir/001573955.xml
-       field     
-       subfield  
-       prefix   -->
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="root">
   <teiHeader xml:id="idm139905714260048">
     <fileDesc xml:id="idm139905714259792">
       <titleStmt xml:id="idm139905714259488">
@@ -23,8 +18,21 @@
         <note xml:id="idm139905714230336">
 	  </note>
       </notesStmt>
-      <sourceDesc xml:id="idm139905714229824"><bibl xml:id="idm139905714229696"><author n="1" xml:id="idm139905714229008"><name xml:id="idm139905714228752"><surname xml:id="idm139905714228624">Brahe</surname>, <forename xml:id="idm139905714228160">Tycho</forename></name></author><title xml:id="idm139905714227872">Tychonis Brahe Dani opera omnia</title><pubPlace xml:id="idm139905714227568">Hauniæ</pubPlace>
-<date xml:id="idm139905714227056">1913-29</date></bibl><listBibl xml:id="idm139905714226768"><bibl xml:id="biblid54250"><title xml:id="idm139905714213616">Paræneticum ad Astronomiae Cultores</title></bibl></listBibl></sourceDesc>
+      <sourceDesc xml:id="idm139905714229824">
+        <bibl xml:id="idm139905714229696">
+          <author n="1" xml:id="idm139905714229008">
+            <name xml:id="idm139905714228752"><surname xml:id="idm139905714228624">Brahe</surname>, <forename xml:id="idm139905714228160">Tycho</forename></name>
+          </author>
+          <title xml:id="idm139905714227872">Tychonis Brahe Dani opera omnia</title>
+          <pubPlace xml:id="idm139905714227568">Hauniæ</pubPlace>
+          <date xml:id="idm139905714227056">1913-29</date>
+        </bibl>
+        <listBibl xml:id="idm139905714226768">
+          <bibl xml:id="biblid54250">
+            <title xml:id="idm139905714213616">Paræneticum ad Astronomiae Cultores</title>
+          </bibl>
+        </listBibl>
+      </sourceDesc>
     </fileDesc>
   </teiHeader>
   <text xml:id="idm139905714212880">

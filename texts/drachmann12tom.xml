@@ -1,10 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!--Tom opmærkning blo 09.05.02-->
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="idm140026787335120"><!-- 
-       file     ./marc_dir/001823907.xml
-       field     
-       subfield  
-       prefix   -->
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="root">
   <teiHeader xml:id="idm140026787334288">
     <fileDesc xml:id="idm140026787334032">
       <titleStmt xml:id="idm140026787308528">
@@ -19,8 +14,174 @@
         <note xml:id="idm140026787305712">
 	  </note>
       </notesStmt>
-      <sourceDesc xml:id="idm140026787305200"><bibl xml:id="idm140026787305072"><author n="1" xml:id="idm140026787304384"><name xml:id="idm140026787304128"><surname xml:id="idm140026787304000">Drachmann</surname>, <forename xml:id="idm140026787303568">Holger</forename></name></author><title xml:id="idm140026787303312">Samlede poetiske Skrifter</title><pubPlace xml:id="idm140026787303008">Kbh. &amp; Kristiania</pubPlace>
-<date xml:id="idm140026787302416">1906-1909</date></bibl><listBibl xml:id="idm140026787302160"><bibl xml:id="biblid54134"><title xml:id="idm140026787289072">Guerre. Et Drama</title></bibl><bibl xml:id="biblid53727"><title xml:id="idm140026787288288">Den Hellige Ild</title></bibl><bibl xml:id="biblid55792"><title xml:id="idm140026787287504">Hallfred Vandraadeskjald</title></bibl><bibl xml:id="biblid56298"><title xml:id="idm140026787286592">Broget Løv</title></bibl><bibl xml:id="biblid56310"><title xml:id="idm140026787285808">Romantik i Danmark</title></bibl><bibl xml:id="biblid56312"><title xml:id="idm140026787284976">Solglød i Skoven</title></bibl><bibl xml:id="biblid56325"><title xml:id="idm140026787284128">Foraar i Danmark</title></bibl><bibl xml:id="biblid56336"><title xml:id="idm140026787283344">Jeg er kun en Visemager</title></bibl><bibl xml:id="biblid56348"><title xml:id="idm140026787282560">Farende Folk</title></bibl><bibl xml:id="biblid56360"><title xml:id="idm140026787281776">Paa Udvandrerskibet</title></bibl><bibl xml:id="biblid56372"><title xml:id="idm140026787280944">Det gamle Kristianshavn</title></bibl><bibl xml:id="biblid56384"><title xml:id="idm140026787280112">Til Emil Poulsen</title></bibl><bibl xml:id="biblid56396"><title xml:id="idm140026787279328">Foraars-Bud</title></bibl><bibl xml:id="biblid56408"><title xml:id="idm140026787278432">Mine Torne dem gemmer jeg</title></bibl><bibl xml:id="biblid56421"><title xml:id="idm140026787277568">Atter i Norge [Digte]</title></bibl><bibl xml:id="biblid56423"><title xml:id="idm140026787276672">Atter i Norge</title></bibl><bibl xml:id="biblid56441"><title xml:id="idm140026787275840">Fjæld-Luft</title></bibl><bibl xml:id="biblid56453"><title xml:id="idm140026787275008">Norsk Divan</title></bibl><bibl xml:id="biblid56464"><title xml:id="idm140026787274224">Ved Højfjældet</title></bibl><bibl xml:id="biblid56476"><title xml:id="idm140026787273376">Henrik Ibsen</title></bibl><bibl xml:id="biblid56488"><title xml:id="idm140026787272592">Højfjæld</title></bibl><bibl xml:id="biblid56508"><title xml:id="idm140026787271760">Galge-Viser</title></bibl><bibl xml:id="biblid56510"><title xml:id="idm140026787270928">Commune naufragium</title></bibl><bibl xml:id="biblid56528"><title xml:id="idm140026787270096">Djævle-Øen</title></bibl><bibl xml:id="biblid56540"><title xml:id="idm140026787269248">Braavalla-Brænding</title></bibl><bibl xml:id="biblid56552"><title xml:id="idm140026787268400">Evropas gamle Krokette</title></bibl><bibl xml:id="biblid56564"><title xml:id="idm140026787267568">Væ victis</title></bibl><bibl xml:id="biblid56582"><title xml:id="idm140026787266736">Rus og Krig</title></bibl><bibl xml:id="biblid56600"><title xml:id="idm140026787265904">Aqua vitæ</title></bibl><bibl xml:id="biblid56612"><title xml:id="idm140026787265072">O Galgetræ, o Galgetræ</title></bibl><bibl xml:id="biblid56625"><title xml:id="idm140026787264208">Gige-Sange</title></bibl><bibl xml:id="biblid56628"><title xml:id="idm140026787263424">Fjæld-Stigning</title></bibl><bibl xml:id="biblid56646"><title xml:id="idm140026787262576">Nu skulde vi bruge Styrken</title></bibl><bibl xml:id="biblid56665"><title xml:id="idm140026787261728">Vision</title></bibl><bibl xml:id="biblid56683"><title xml:id="idm140026787260896">Cosa rara, cosa sovente</title></bibl><bibl xml:id="biblid56695"><title xml:id="idm140026787260064">Sommer-Drømme</title></bibl><bibl xml:id="biblid56708"><title xml:id="idm140026787364704">Minderuner</title></bibl><bibl xml:id="biblid56710"><title xml:id="idm140026787363984">Vilhelm Topsøe [Minderune]</title></bibl><bibl xml:id="biblid56722"><title xml:id="idm140026787363168">Vilhelm Wiehe [Minderune]</title></bibl><bibl xml:id="biblid56734"><title xml:id="idm140026787362416">Etatsraad Frederik Hegel [Minderune]</title></bibl><bibl xml:id="biblid56752"><title xml:id="idm140026787361664">Viggo Drewsen [Minderune]</title></bibl><bibl xml:id="biblid56764"><title xml:id="idm140026787360912">Johanne Louise Heiberg [Minderune]</title></bibl><bibl xml:id="biblid56783"><title xml:id="idm140026787234192">C. Berg [Minderune]</title></bibl><bibl xml:id="biblid56801"><title xml:id="idm140026787233408">Julius Lange [Minderune]</title></bibl><bibl xml:id="biblid56814"><title xml:id="idm140026787232656">Carl Rohl Smith [Minderune]</title></bibl><bibl xml:id="biblid56826"><title xml:id="idm140026787231904">Sophus Schandorph [Minderune]</title></bibl><bibl xml:id="biblid56844"><title xml:id="idm140026787231152">Til min Mor [Minderune]</title></bibl><bibl xml:id="biblid56866"><title xml:id="idm140026787230368">Det Grønne Haab</title></bibl><bibl xml:id="biblid57332"><title xml:id="idm140026787229552">Kirke og Orgel. En Landsby-Elegi</title></bibl><bibl xml:id="biblid57935"><title xml:id="idm140026787228800">Den Fattige Drengs Eventyr</title></bibl><bibl xml:id="biblid58037"><title xml:id="idm140026787228048">Hr. Oluf han Rider -</title></bibl><bibl xml:id="biblid58641"><title xml:id="idm140026787227264">Den Blaa Grotte. Capri-Breve</title></bibl></listBibl></sourceDesc>
+      <sourceDesc xml:id="idm140026787305200">
+        <bibl xml:id="idm140026787305072">
+          <author n="1" xml:id="idm140026787304384">
+            <name xml:id="idm140026787304128"><surname xml:id="idm140026787304000">Drachmann</surname>, <forename xml:id="idm140026787303568">Holger</forename></name>
+          </author>
+          <title xml:id="idm140026787303312">Samlede poetiske Skrifter</title>
+          <pubPlace xml:id="idm140026787303008">Kbh. &amp; Kristiania</pubPlace>
+          <date xml:id="idm140026787302416">1906-1909</date>
+        </bibl>
+        <listBibl xml:id="idm140026787302160">
+          <bibl xml:id="biblid54134">
+            <title xml:id="idm140026787289072">Guerre. Et Drama</title>
+          </bibl>
+          <bibl xml:id="biblid53727">
+            <title xml:id="idm140026787288288">Den Hellige Ild</title>
+          </bibl>
+          <bibl xml:id="biblid55792">
+            <title xml:id="idm140026787287504">Hallfred Vandraadeskjald</title>
+          </bibl>
+          <bibl xml:id="biblid56298">
+            <title xml:id="idm140026787286592">Broget Løv</title>
+          </bibl>
+          <bibl xml:id="biblid56310">
+            <title xml:id="idm140026787285808">Romantik i Danmark</title>
+          </bibl>
+          <bibl xml:id="biblid56312">
+            <title xml:id="idm140026787284976">Solglød i Skoven</title>
+          </bibl>
+          <bibl xml:id="biblid56325">
+            <title xml:id="idm140026787284128">Foraar i Danmark</title>
+          </bibl>
+          <bibl xml:id="biblid56336">
+            <title xml:id="idm140026787283344">Jeg er kun en Visemager</title>
+          </bibl>
+          <bibl xml:id="biblid56348">
+            <title xml:id="idm140026787282560">Farende Folk</title>
+          </bibl>
+          <bibl xml:id="biblid56360">
+            <title xml:id="idm140026787281776">Paa Udvandrerskibet</title>
+          </bibl>
+          <bibl xml:id="biblid56372">
+            <title xml:id="idm140026787280944">Det gamle Kristianshavn</title>
+          </bibl>
+          <bibl xml:id="biblid56384">
+            <title xml:id="idm140026787280112">Til Emil Poulsen</title>
+          </bibl>
+          <bibl xml:id="biblid56396">
+            <title xml:id="idm140026787279328">Foraars-Bud</title>
+          </bibl>
+          <bibl xml:id="biblid56408">
+            <title xml:id="idm140026787278432">Mine Torne dem gemmer jeg</title>
+          </bibl>
+          <bibl xml:id="biblid56421">
+            <title xml:id="idm140026787277568">Atter i Norge [Digte]</title>
+          </bibl>
+          <bibl xml:id="biblid56423">
+            <title xml:id="idm140026787276672">Atter i Norge</title>
+          </bibl>
+          <bibl xml:id="biblid56441">
+            <title xml:id="idm140026787275840">Fjæld-Luft</title>
+          </bibl>
+          <bibl xml:id="biblid56453">
+            <title xml:id="idm140026787275008">Norsk Divan</title>
+          </bibl>
+          <bibl xml:id="biblid56464">
+            <title xml:id="idm140026787274224">Ved Højfjældet</title>
+          </bibl>
+          <bibl xml:id="biblid56476">
+            <title xml:id="idm140026787273376">Henrik Ibsen</title>
+          </bibl>
+          <bibl xml:id="biblid56488">
+            <title xml:id="idm140026787272592">Højfjæld</title>
+          </bibl>
+          <bibl xml:id="biblid56508">
+            <title xml:id="idm140026787271760">Galge-Viser</title>
+          </bibl>
+          <bibl xml:id="biblid56510">
+            <title xml:id="idm140026787270928">Commune naufragium</title>
+          </bibl>
+          <bibl xml:id="biblid56528">
+            <title xml:id="idm140026787270096">Djævle-Øen</title>
+          </bibl>
+          <bibl xml:id="biblid56540">
+            <title xml:id="idm140026787269248">Braavalla-Brænding</title>
+          </bibl>
+          <bibl xml:id="biblid56552">
+            <title xml:id="idm140026787268400">Evropas gamle Krokette</title>
+          </bibl>
+          <bibl xml:id="biblid56564">
+            <title xml:id="idm140026787267568">Væ victis</title>
+          </bibl>
+          <bibl xml:id="biblid56582">
+            <title xml:id="idm140026787266736">Rus og Krig</title>
+          </bibl>
+          <bibl xml:id="biblid56600">
+            <title xml:id="idm140026787265904">Aqua vitæ</title>
+          </bibl>
+          <bibl xml:id="biblid56612">
+            <title xml:id="idm140026787265072">O Galgetræ, o Galgetræ</title>
+          </bibl>
+          <bibl xml:id="biblid56625">
+            <title xml:id="idm140026787264208">Gige-Sange</title>
+          </bibl>
+          <bibl xml:id="biblid56628">
+            <title xml:id="idm140026787263424">Fjæld-Stigning</title>
+          </bibl>
+          <bibl xml:id="biblid56646">
+            <title xml:id="idm140026787262576">Nu skulde vi bruge Styrken</title>
+          </bibl>
+          <bibl xml:id="biblid56665">
+            <title xml:id="idm140026787261728">Vision</title>
+          </bibl>
+          <bibl xml:id="biblid56683">
+            <title xml:id="idm140026787260896">Cosa rara, cosa sovente</title>
+          </bibl>
+          <bibl xml:id="biblid56695">
+            <title xml:id="idm140026787260064">Sommer-Drømme</title>
+          </bibl>
+          <bibl xml:id="biblid56708">
+            <title xml:id="idm140026787364704">Minderuner</title>
+          </bibl>
+          <bibl xml:id="biblid56710">
+            <title xml:id="idm140026787363984">Vilhelm Topsøe [Minderune]</title>
+          </bibl>
+          <bibl xml:id="biblid56722">
+            <title xml:id="idm140026787363168">Vilhelm Wiehe [Minderune]</title>
+          </bibl>
+          <bibl xml:id="biblid56734">
+            <title xml:id="idm140026787362416">Etatsraad Frederik Hegel [Minderune]</title>
+          </bibl>
+          <bibl xml:id="biblid56752">
+            <title xml:id="idm140026787361664">Viggo Drewsen [Minderune]</title>
+          </bibl>
+          <bibl xml:id="biblid56764">
+            <title xml:id="idm140026787360912">Johanne Louise Heiberg [Minderune]</title>
+          </bibl>
+          <bibl xml:id="biblid56783">
+            <title xml:id="idm140026787234192">C. Berg [Minderune]</title>
+          </bibl>
+          <bibl xml:id="biblid56801">
+            <title xml:id="idm140026787233408">Julius Lange [Minderune]</title>
+          </bibl>
+          <bibl xml:id="biblid56814">
+            <title xml:id="idm140026787232656">Carl Rohl Smith [Minderune]</title>
+          </bibl>
+          <bibl xml:id="biblid56826">
+            <title xml:id="idm140026787231904">Sophus Schandorph [Minderune]</title>
+          </bibl>
+          <bibl xml:id="biblid56844">
+            <title xml:id="idm140026787231152">Til min Mor [Minderune]</title>
+          </bibl>
+          <bibl xml:id="biblid56866">
+            <title xml:id="idm140026787230368">Det Grønne Haab</title>
+          </bibl>
+          <bibl xml:id="biblid57332">
+            <title xml:id="idm140026787229552">Kirke og Orgel. En Landsby-Elegi</title>
+          </bibl>
+          <bibl xml:id="biblid57935">
+            <title xml:id="idm140026787228800">Den Fattige Drengs Eventyr</title>
+          </bibl>
+          <bibl xml:id="biblid58037">
+            <title xml:id="idm140026787228048">Hr. Oluf han Rider -</title>
+          </bibl>
+          <bibl xml:id="biblid58641">
+            <title xml:id="idm140026787227264">Den Blaa Grotte. Capri-Breve</title>
+          </bibl>
+        </listBibl>
+      </sourceDesc>
     </fileDesc>
   </teiHeader>
   <text xml:id="idm140026787226624">

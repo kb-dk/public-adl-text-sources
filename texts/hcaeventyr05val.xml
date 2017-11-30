@@ -1,11 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!-- 20021028 HHL flyttet afslutnings-div'er foran <pb/> -->
-<!--              HHL fjernet anfoerselstegn fra vaerktitle . Ptj rettet  s. 27-74-133-145-148-152-154-162-164-180-183-186-187-189-197-198-199-201-237-252-  -->
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="idm139748574944288"><!-- 
-       file     ./marc_dir/001527411.xml
-       field    530 
-       subfield a 
-       prefix   5 : -->
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="root">
   <teiHeader xml:id="idm139748574943392">
     <fileDesc xml:id="idm139748574943136">
       <titleStmt xml:id="idm139748574917680">
@@ -21,26 +15,183 @@
 	  </note>
       </notesStmt>
       <sourceDesc xml:id="idm139748574914128">
-	<bibl xml:id="idm139748574913872">
-	  <author xml:id="idm139748574913616">
-	    <name xml:id="idm139748574913312"><surname xml:id="idm139748574913184">Andersen</surname>,
+        <bibl xml:id="idm139748574913872">
+          <author xml:id="idm139748574913616">
+            <name xml:id="idm139748574913312"><surname xml:id="idm139748574913184">Andersen</surname>,
 	    <forename xml:id="idm139748574912800">H. C.</forename></name>
-	  </author>
-	  <title xml:id="idm139748574912256">H.C. Andersens Eventyr bd. V</title>
-	  <title xml:id="idm139748574911824">kritisk udg. efter de originale eventyrhæfter med varianter
+          </author>
+          <title xml:id="idm139748574912256">H.C. Andersens Eventyr bd. V</title>
+          <title xml:id="idm139748574911824">kritisk udg. efter de originale eventyrhæfter med varianter
 	  ved Erik Dal</title>
-	  <pubPlace xml:id="idm139748574911264">København</pubPlace>
-	  <publisher xml:id="idm139748574910848">C. A. Reitzel</publisher>
-	  <date xml:id="idm139748574910384">1990</date>
-	</bibl>
-<listBibl xml:id="idm139748574909744"><bibl xml:id="biblid58428"><title xml:id="idm139748574896192">Den onde Fyrste. (Et Sagn.)</title></bibl><bibl xml:id="biblid58777"><title xml:id="idm139748574895344">Marionetspilleren</title></bibl><bibl xml:id="biblid59364"><title xml:id="idm139748574894512">To Brødre</title></bibl><bibl xml:id="biblid59777"><title xml:id="idm139748574893728">Den gamle Kirkeklokke. (Skrevet til »Schillers Album«.)</title></bibl><bibl xml:id="biblid60355"><title xml:id="idm139748574892848">Theepotten</title></bibl><bibl xml:id="biblid60587"><title xml:id="idm139748574892064">Folkesangens Fugl. En Stemning</title></bibl><bibl xml:id="biblid61002"><title xml:id="idm139748574891264">De smaa Grønne</title></bibl><bibl xml:id="biblid61309"><title xml:id="idm139748574890416">Nissen og Madamen</title></bibl><bibl xml:id="biblid62224"><title xml:id="idm139748574889632">Peiter, Peter og Peer</title></bibl><bibl xml:id="biblid62929"><title xml:id="idm139748574888848">Vænø og Glænø</title></bibl><bibl xml:id="biblid63454"><title xml:id="idm139748574888048">Gudfaders Billedbog</title></bibl><bibl xml:id="biblid68036"><title xml:id="idm139748574887264">Dryaden. Et Eventyr fra Udstillingstiden i Paris 1867. 1868</title></bibl><bibl xml:id="biblid71277"><title xml:id="idm139748574886432">Tre nye Eventyr og Historier. 1870</title></bibl><bibl xml:id="biblid71364"><title xml:id="idm139748574885584">Hønse-Grethes Familie</title></bibl><bibl xml:id="biblid73187"><title xml:id="idm139748574884720">Hvad Tidselen oplevede</title></bibl><bibl xml:id="biblid73807"><title xml:id="idm139748574883936">Hvad man kan hitte paa</title></bibl><bibl xml:id="biblid74151"><title xml:id="idm139748574883152">Fra Eventyr og Historier. Femte Bind. 1874</title></bibl><bibl xml:id="biblid74377"><title xml:id="idm139748574882288">Laserne</title></bibl><bibl xml:id="biblid74729"><title xml:id="idm139748574881504">Loppen og Professoren</title></bibl><bibl xml:id="biblid75316"><title xml:id="idm139748574880672">Nye Eventyr og Historier. Tredie Række. Første Samling. 1872</title></bibl><bibl xml:id="biblid75487"><title xml:id="idm139748574879776">Lykken kan ligge i en Pind</title></bibl><bibl xml:id="biblid75901"><title xml:id="idm139748574878864">Kometen</title></bibl><bibl xml:id="biblid76942"><title xml:id="idm139748574878032">Ugedagene</title></bibl><bibl xml:id="biblid77516"><title xml:id="idm139748574877200">Solskins-Historier</title></bibl><bibl xml:id="biblid78005"><title xml:id="idm139748574876352">Oldefa'er</title></bibl><bibl xml:id="biblid79140"><title xml:id="idm139748574875520">Hvem var den Lykkeligste?</title></bibl><bibl xml:id="biblid79781"><title xml:id="idm139748574874720">Lysene</title></bibl><bibl xml:id="biblid80174"><title xml:id="idm139748574873888">Det Utroligste</title></bibl><bibl xml:id="biblid81100"><title xml:id="idm139748574873104">Hvad hele Familien sagde</title></bibl><bibl xml:id="biblid81715"><title xml:id="idm139748574872256">Dandse, dandse Dukke min!</title></bibl><bibl xml:id="biblid82048"><title xml:id="idm139748574871408">Spørg Amagermo'er!</title></bibl><bibl xml:id="biblid82314"><title xml:id="idm139748574870560">Den store Søslange</title></bibl><bibl xml:id="biblid84017"><title xml:id="idm139748574869648">Gartneren og Herskabet</title></bibl><bibl xml:id="biblid84802"><title xml:id="idm139748574973952">Nye Eventyr og Historier. Tredie Række. Anden Samling. 1872</title></bibl><bibl xml:id="biblid84918"><title xml:id="idm139748574973120">Rolighed</title></bibl><bibl xml:id="biblid85177"><title xml:id="idm139748574972336">Hvad gamle Johanne fortalte</title></bibl><bibl xml:id="biblid87357"><title xml:id="idm139748574971584">Portnøglen</title></bibl><bibl xml:id="biblid89136"><title xml:id="idm139748574970800">Krøblingen</title></bibl><bibl xml:id="biblid90607"><title xml:id="idm139748574970016">Tante Tandpine</title></bibl><bibl xml:id="biblid92026"><title xml:id="idm139748574843600">Det sjunkne Kloster. Efter Gottschalcks tydske Folkesagn</title></bibl><bibl xml:id="biblid92230"><title xml:id="idm139748574842704">Den fattige Kone og den lille Canariefugl</title></bibl><bibl xml:id="biblid92332"><title xml:id="idm139748574841888">Smaahistorier. (Efter det Tydske*)</title></bibl><bibl xml:id="biblid92789"><title xml:id="idm139748574841136">Temperamenterne.</title></bibl><bibl xml:id="biblid93075"><title xml:id="idm139748574840352">Kartoflerne</title></bibl><bibl xml:id="biblid93257"><title xml:id="idm139748574839568">Urbanus</title></bibl><bibl xml:id="biblid93598"><title xml:id="idm139748574838784">Æblet</title></bibl><bibl xml:id="biblid93931"><title xml:id="idm139748574837936">Man siger -!</title></bibl><bibl xml:id="biblid94157"><title xml:id="idm139748574837152">Vor gamle Skolemester</title></bibl><bibl xml:id="biblid94415"><title xml:id="idm139748574836368">Herrebladene</title></bibl><bibl xml:id="biblid95135"><title xml:id="idm139748574835520">Qvæk</title></bibl><bibl xml:id="biblid95380"><title xml:id="idm139748574834736">Skriveren.</title></bibl><bibl xml:id="biblid95579"><title xml:id="idm139748574833952">Danish Popular Legends. By Hans Christian Andersen</title></bibl></listBibl></sourceDesc>
+          <pubPlace xml:id="idm139748574911264">København</pubPlace>
+          <publisher xml:id="idm139748574910848">C. A. Reitzel</publisher>
+          <date xml:id="idm139748574910384">1990</date>
+        </bibl>
+        <listBibl xml:id="idm139748574909744">
+          <bibl xml:id="biblid58428">
+            <title xml:id="idm139748574896192">Den onde Fyrste. (Et Sagn.)</title>
+          </bibl>
+          <bibl xml:id="biblid58777">
+            <title xml:id="idm139748574895344">Marionetspilleren</title>
+          </bibl>
+          <bibl xml:id="biblid59364">
+            <title xml:id="idm139748574894512">To Brødre</title>
+          </bibl>
+          <bibl xml:id="biblid59777">
+            <title xml:id="idm139748574893728">Den gamle Kirkeklokke. (Skrevet til »Schillers Album«.)</title>
+          </bibl>
+          <bibl xml:id="biblid60355">
+            <title xml:id="idm139748574892848">Theepotten</title>
+          </bibl>
+          <bibl xml:id="biblid60587">
+            <title xml:id="idm139748574892064">Folkesangens Fugl. En Stemning</title>
+          </bibl>
+          <bibl xml:id="biblid61002">
+            <title xml:id="idm139748574891264">De smaa Grønne</title>
+          </bibl>
+          <bibl xml:id="biblid61309">
+            <title xml:id="idm139748574890416">Nissen og Madamen</title>
+          </bibl>
+          <bibl xml:id="biblid62224">
+            <title xml:id="idm139748574889632">Peiter, Peter og Peer</title>
+          </bibl>
+          <bibl xml:id="biblid62929">
+            <title xml:id="idm139748574888848">Vænø og Glænø</title>
+          </bibl>
+          <bibl xml:id="biblid63454">
+            <title xml:id="idm139748574888048">Gudfaders Billedbog</title>
+          </bibl>
+          <bibl xml:id="biblid68036">
+            <title xml:id="idm139748574887264">Dryaden. Et Eventyr fra Udstillingstiden i Paris 1867. 1868</title>
+          </bibl>
+          <bibl xml:id="biblid71277">
+            <title xml:id="idm139748574886432">Tre nye Eventyr og Historier. 1870</title>
+          </bibl>
+          <bibl xml:id="biblid71364">
+            <title xml:id="idm139748574885584">Hønse-Grethes Familie</title>
+          </bibl>
+          <bibl xml:id="biblid73187">
+            <title xml:id="idm139748574884720">Hvad Tidselen oplevede</title>
+          </bibl>
+          <bibl xml:id="biblid73807">
+            <title xml:id="idm139748574883936">Hvad man kan hitte paa</title>
+          </bibl>
+          <bibl xml:id="biblid74151">
+            <title xml:id="idm139748574883152">Fra Eventyr og Historier. Femte Bind. 1874</title>
+          </bibl>
+          <bibl xml:id="biblid74377">
+            <title xml:id="idm139748574882288">Laserne</title>
+          </bibl>
+          <bibl xml:id="biblid74729">
+            <title xml:id="idm139748574881504">Loppen og Professoren</title>
+          </bibl>
+          <bibl xml:id="biblid75316">
+            <title xml:id="idm139748574880672">Nye Eventyr og Historier. Tredie Række. Første Samling. 1872</title>
+          </bibl>
+          <bibl xml:id="biblid75487">
+            <title xml:id="idm139748574879776">Lykken kan ligge i en Pind</title>
+          </bibl>
+          <bibl xml:id="biblid75901">
+            <title xml:id="idm139748574878864">Kometen</title>
+          </bibl>
+          <bibl xml:id="biblid76942">
+            <title xml:id="idm139748574878032">Ugedagene</title>
+          </bibl>
+          <bibl xml:id="biblid77516">
+            <title xml:id="idm139748574877200">Solskins-Historier</title>
+          </bibl>
+          <bibl xml:id="biblid78005">
+            <title xml:id="idm139748574876352">Oldefa'er</title>
+          </bibl>
+          <bibl xml:id="biblid79140">
+            <title xml:id="idm139748574875520">Hvem var den Lykkeligste?</title>
+          </bibl>
+          <bibl xml:id="biblid79781">
+            <title xml:id="idm139748574874720">Lysene</title>
+          </bibl>
+          <bibl xml:id="biblid80174">
+            <title xml:id="idm139748574873888">Det Utroligste</title>
+          </bibl>
+          <bibl xml:id="biblid81100">
+            <title xml:id="idm139748574873104">Hvad hele Familien sagde</title>
+          </bibl>
+          <bibl xml:id="biblid81715">
+            <title xml:id="idm139748574872256">Dandse, dandse Dukke min!</title>
+          </bibl>
+          <bibl xml:id="biblid82048">
+            <title xml:id="idm139748574871408">Spørg Amagermo'er!</title>
+          </bibl>
+          <bibl xml:id="biblid82314">
+            <title xml:id="idm139748574870560">Den store Søslange</title>
+          </bibl>
+          <bibl xml:id="biblid84017">
+            <title xml:id="idm139748574869648">Gartneren og Herskabet</title>
+          </bibl>
+          <bibl xml:id="biblid84802">
+            <title xml:id="idm139748574973952">Nye Eventyr og Historier. Tredie Række. Anden Samling. 1872</title>
+          </bibl>
+          <bibl xml:id="biblid84918">
+            <title xml:id="idm139748574973120">Rolighed</title>
+          </bibl>
+          <bibl xml:id="biblid85177">
+            <title xml:id="idm139748574972336">Hvad gamle Johanne fortalte</title>
+          </bibl>
+          <bibl xml:id="biblid87357">
+            <title xml:id="idm139748574971584">Portnøglen</title>
+          </bibl>
+          <bibl xml:id="biblid89136">
+            <title xml:id="idm139748574970800">Krøblingen</title>
+          </bibl>
+          <bibl xml:id="biblid90607">
+            <title xml:id="idm139748574970016">Tante Tandpine</title>
+          </bibl>
+          <bibl xml:id="biblid92026">
+            <title xml:id="idm139748574843600">Det sjunkne Kloster. Efter Gottschalcks tydske Folkesagn</title>
+          </bibl>
+          <bibl xml:id="biblid92230">
+            <title xml:id="idm139748574842704">Den fattige Kone og den lille Canariefugl</title>
+          </bibl>
+          <bibl xml:id="biblid92332">
+            <title xml:id="idm139748574841888">Smaahistorier. (Efter det Tydske*)</title>
+          </bibl>
+          <bibl xml:id="biblid92789">
+            <title xml:id="idm139748574841136">Temperamenterne.</title>
+          </bibl>
+          <bibl xml:id="biblid93075">
+            <title xml:id="idm139748574840352">Kartoflerne</title>
+          </bibl>
+          <bibl xml:id="biblid93257">
+            <title xml:id="idm139748574839568">Urbanus</title>
+          </bibl>
+          <bibl xml:id="biblid93598">
+            <title xml:id="idm139748574838784">Æblet</title>
+          </bibl>
+          <bibl xml:id="biblid93931">
+            <title xml:id="idm139748574837936">Man siger -!</title>
+          </bibl>
+          <bibl xml:id="biblid94157">
+            <title xml:id="idm139748574837152">Vor gamle Skolemester</title>
+          </bibl>
+          <bibl xml:id="biblid94415">
+            <title xml:id="idm139748574836368">Herrebladene</title>
+          </bibl>
+          <bibl xml:id="biblid95135">
+            <title xml:id="idm139748574835520">Qvæk</title>
+          </bibl>
+          <bibl xml:id="biblid95380">
+            <title xml:id="idm139748574834736">Skriveren.</title>
+          </bibl>
+          <bibl xml:id="biblid95579">
+            <title xml:id="idm139748574833952">Danish Popular Legends. By Hans Christian Andersen</title>
+          </bibl>
+        </listBibl>
+      </sourceDesc>
     </fileDesc>
   </teiHeader>
   <text xml:id="idm139748574833248">
     <front xml:id="idm139748574832992">
       <pb n="a" xml:id="sa" facs="adl/andersenhc/andersenhcev5/ahce5001"/>
       <gap reason="cancelled" xml:id="idm139748574831600"/>
-<!--H. C. ANDERSENS, EVENTYR V-->
       <pb n="b" xml:id="sb" facs="adl/andersenhc/andersenhcev5/ahce5002"/>
       <titlePage xml:id="idm139748574829680">
         <docAuthor xml:id="idm139748574829424">H. C. ANDERSENS</docAuthor>
@@ -6688,10 +6839,6 @@
 									183 m. blank bagside.</hi></note>
               <note anchored="true" xml:id="idm139748571695360"><hi rend="italics" xml:id="idm139748571694960">Nedenfor aftrykkes</hi><hi rend="bold" xml:id="idm139748571694400">O</hi><hi rend="italics" xml:id="idm139748571693872">med læsemåder fra</hi><hi rend="bold" xml:id="idm139748571693296">q</hi><hi rend="italics" xml:id="idm139748571692768">og</hi><hi rend="bold" xml:id="idm139748571692240">r</hi>. <hi rend="italics" xml:id="idm139748571691584">Kursiveringer angiver
 									afvigelser fra</hi><hi rend="bold" xml:id="idm139748571690992">A</hi>.</note>
-<!-- Det Utroligste.<lb/><hi rend="italics">(Et Eventyr.)</hi> -->
-<!-- Den, som kunde gj&oslash;re det Utroligste, skulde have Kongens Datter og det halve Rige. De unge Mennesker, ja de gamle med, ansp&aelig;ndte alle deres Tanker, Sener og Muskler; To spiste sig tild&oslash;de, og En drak sig ihjel for at gj&oslash;re det Utroligste efter deres Smag, men det var ikke paa den Maade, det skulde gj&oslash;res. Smaa Gadedrenge &oslash;vede sig <hi rend="italics">i huer</hi> at spytte sig selv paa Ryggen, det ansaae de for det Utroligste. -->
-<!-- Paa en bestemt Dag skulde det fremvises, hvad Enhver havde at fremvise som det Utroligste. Der var ansat som Dommere <hi rend="italics">fra B&oslash;rn paa</hi> tre Aar til Folk op -->
-<!-- 26 Et Eventyr af Hans Christian Andersen <hi rend="bold">q</hi>, Et Eventyr <hi rend="bold">r</hi>. -->
               <pb n="149" xml:id="s149" facs="adl/andersenhc/andersenhcev5/ahce5149"/>
               <p xml:id="idm139748571686864">Udstilling af utrolige Ting, men Alle vare snart enige om at det
 								Utroligste var her et stort Stue-Uhr i Foderal,
@@ -6720,9 +6867,6 @@
               <p xml:id="idm139748571673136">Slog Klokken <hi rend="italics" xml:id="idm139748571672848">fem</hi> viste sig <hi rend="italics" xml:id="idm139748571672112">de fem Sandser: Synet</hi> kom som Brillemager, <hi rend="italics" xml:id="idm139748571671392">Hørelsen</hi> som Kobbersmed, <hi rend="italics" xml:id="idm139748571670672">Lugten</hi> solgte Violer og
 								Skovmærker, <hi rend="italics" xml:id="idm139748571669888">Smagen</hi> var Kok og <hi rend="italics" xml:id="idm139748571669168">Følelsen</hi> Bedemand med
 								Sørgeflor ned til Hælene.</p>
-<!-- i de halvfems. Der blev en heel Udstilling af utrolige Ting, men Alle vare <hi rend="italics">de</hi> enige om, at det Utroligste var her et stort Stue-Uhr i Foderal, m&aelig;rkv&aelig;rdigt udspekuleret uden og inden. Ved hvert Klokkeslet kom der levende Billeder, som viste hvad Klokken var slaaet. Det var hele tolv Forestillinger med bev&aelig;gelige Figurer og med Sang og Tale. &raquo;Det var det Utroligste!&laquo; sagde Folk. -->
-<!-- Klokken slog eet, og Moses stod paa Bjerget og nedskrev paa Lovens Tavler det f&oslash;rste Troens Bud: &raquo;Der er kun een eneste sand Gud.&laquo; Klokken slog to, da viste sig Paradisets Have, hvor Adam og Eva m&oslash;dtes, lykkelige begge To, uden at eie Saameget som et Kl&aelig;deskab; de beh&oslash;vede det heller ikke. Ved Slaget tre viste sig de hellige tre Konger, den ene kulsort, det <hi rend="italics">kunde han ikke</hi> gj&oslash;re ved, Solen havde sv&aelig;rtet ham. De kom med R&oslash;gelse og Kostbarheder. Paa Slaget fire kom Aarstiderne: Foraaret med Kukkeren paa en udsprungen B&oslash;gegreen; Sommeren med en Gr&aelig;shoppe paa det modne Kornax; Efteraaret med en tom Storkerede, Fuglen var <hi rend="italics">fl&oslash;iet</hi> bort; Vinteren med en gammel Krage, der kunde fort&aelig;lle Historier i Kakkelovnskrogen, gamle Minder. Slog Klokken fem, viste sig de fem Sandser: Synet kom som Brillemager, H&oslash;relsen som Kobbersmed, Lugten solgte Violer og Skovm&aelig;rker, Smagen var -->
-<!-- 26 de] snart <hi rend="bold">q</hi>, de <hi rend="bold">r</hi>. 35 kunde han ikke] han ikke kunde <hi rend="bold">q</hi>, kunde han ikke <hi rend="bold">r</hi>. 39 fl&oslash;iet] <hi rend="bold">q</hi>, fl&oslash;ien <hi rend="bold">r</hi>. -->
               <pb n="150" xml:id="s150" facs="adl/andersenhc/andersenhcev5/ahce5150"/>
               <p xml:id="idm139748571664384">Klokken slog <hi rend="italics" xml:id="idm139748571664128">sex</hi>: der sad en Spiller, han
 								kastede Tærning og denne vendte den høieste
@@ -6754,11 +6898,6 @@
 								sagde alle Mennesker.</p>
               <p xml:id="idm139748571649504">Konstneren var en ung Mand, hjertensgod, barneglad, tro</p>
               <note anchored="true" xml:id="idm139748571649056">17 Roser] Roser frem <hi rend="bold" xml:id="idm139748571648496">B</hi>.</note>
-<!-- Kok og F&oslash;lelsen Bedemand med S&oslash;rgeflor ned til H&aelig;lene. Klokken slog sex: der sad en Spiller, han kastede T&aelig;rning, og denne vendte den h&oslash;ieste Side op, og der stod sex. Saa kom de syv Ugedage eller de syv D&oslash;dssynder, det <hi rend="italics">var</hi> Folk ikke enige om, de h&oslash;rte jo sammen og vare ikke let at skille. Saa kom et Munke-Kor og sang Ottesang; paa Slaget ni fulgte de ni Muser: en var ansat ved Astronomien, en ved det historiske Arkiv, Resten h&oslash;rte til Theatret. Paa Slaget ti traadte atter Moses frem med Lovens Tavler, der stode alle Guds Bud, og de vare ti. Klokken slog igjen, da hoppede og sprang smaa <hi rend="italics">Piger og Drenge</hi>, de legede en Leg og sang dertil: &raquo;Bro, bro, brille! Klokken er slaaet elleve!&laquo; og det var den slaaet. Nu slog den tolv, da traadte frem V&aelig;gteren med Kabuds og Morgenstjerne, han sang det gamle V&aelig;gter vers: -->
-<!-- &raquo;Det var ved Midnatstide,<lb/>Vor Frelser han blev f&oslash;dt!&laquo; -->
-<!-- og idet han sang, voxte Roser, og de bleve til Englehoveder, baarne af <hi rend="italics">regnbufarvede</hi> Vinger. -->
-<!-- Det var yndigt at h&oslash;re, det var deiligt at see. Det Hele var et magel&oslash;st Kunstv&aelig;rk, det Utroligste, sagde alle Mennesker. Kunstneren var en ung Mand, hjertensgod, barneglad, tro Ven, og hj&aelig;lpsom mod sine fattige For&aelig;ldre; han -->
-<!-- 28 h&oslash;rte til] ved <hi rend="bold">q</hi>, h&oslash;rte til <hi rend="bold">r</hi>. -->
               <pb n="151" xml:id="s151" facs="adl/andersenhc/andersenhcev5/ahce5151"/>
               <p xml:id="idm139748571643312">Ven og hjelpsom mod sine fattige Forældre; han fortjente
 								Prindsessen og det halve Rige.</p>
@@ -6790,13 +6929,6 @@
 								Aftenen, det tager sig bedst ud. Byens</p>
               <note anchored="true" xml:id="idm139748571636592">5 blevet] bleven <hi rend="bold" xml:id="idm139748571636032">B</hi>. 21 blæses]
 								blæstes <hi rend="bold" xml:id="idm139748571635296">qr</hi>, blæses <hi rend="bold" xml:id="idm139748571634608">A</hi>, blæstes <hi rend="bold" xml:id="idm139748571633920">B</hi>.</note>
-<!-- fortjente Prindsessen og det halve Rige. Afgj&oslash;relsens Dag var <hi rend="italics">kommet</hi>, hele Byen stod i Stads, og Prindsessen sad paa Landets Throne, der havde faaet nye Kr&oslash;lhaar, men dog ikke var blevet mere magelig og behagelig. Dommerne rundt om saae saa <hi rend="italics">polisk</hi> hen til ham, der skulde vinde, og han stod freidig og glad, hans Lykke var vis, han havde gjort det Utroligste. -->
-<!-- &raquo;Nei, det skal nu jeg gj&oslash;re!&laquo; <hi rend="italics">raabte en</hi> lang, knoklet Kraftkarl. &raquo;Jeg er Manden for det Utroligste!&laquo; og saa svingede han en stor &Oslash;xe mod Kunstv&aelig;rket: &raquo;Krisk! krask! qvas!&laquo; der laae det Hele. Hjul og Fjedre foer rundt om, Alt var &oslash;delagt. -->
-<!-- &raquo;Det kunde jeg!&laquo; sagde Manden. &raquo;Min Gjerning har slaaet hans og slaaet Eder Allesammen. Jeg har gjort det Utroligste!&laquo; -->
-<!-- &raquo;&Oslash;delsegge et saadant Kunstv&aelig;rk!&laquo; sagde Dommerne, &raquo;ja det var det Utroligste!&laquo; -->
-<!-- Hele Folket sagde det Samme, og saa skulde han have Prindsessen og det halve Rige, for en Lov er en Lov, selv om <hi rend="italics">ogsaa</hi> den er det Utroligste. -->
-<!-- Der <hi rend="italics">bl&aelig;stes</hi> fra Volden og fra alle Byens Taarne: &raquo;Brylluppet skal feires!&laquo; Prindsessen var slet ikke forn&oslash;iet for det, men yndig saae hun ud, og kostelig var hun kl&aelig;dt paa. Kirken straalede med Lys seent paa Aftenen, det <hi rend="italics">tog</hi> sig -->
-<!-- 29 polisk] politiske <hi rend="bold">qr</hi>. 31 raabte] raabte lige i det samme <hi rend="bold">qr</hi>. 39 ogsaa den] den <hi rend="bold">q</hi>, ogsaa den <hi rend="bold">r</hi>. 42 tog] tager <hi rend="bold">q</hi>, tog <hi rend="bold">r</hi>. -->
               <pb n="152" xml:id="s152" facs="adl/andersenhc/andersenhcev5/ahce5152"/>
               <p xml:id="idm139748571627936">adelige Jomfruer sang og førte Bruden frem, Ridderskabet
 								sang og fulgte Brudgommen; han kneisede som om han aldrig kunde
@@ -6827,13 +6959,6 @@
               <p xml:id="idm139748571620272">Men han skammede sig ikke.</p>
               <p xml:id="idm139748571619840">Alle de Skikkelser, hvert Klokkeslet havde at fremvise, traadte</p>
               <note anchored="true" xml:id="idm139748571619376">14 først] Først kom <hi rend="bold" xml:id="idm139748571618784">B</hi>.</note>
-<!-- bedst ud. Byens adelige Jomfruer sang og f&oslash;rte Bruden frem; Ridderskabet sang og fulgte Brudgommen; han kneisede, som om han aldrig kunde kn&aelig;kkes over. -->
-<!-- Nu holdt Sangen op, der blev saa stille, at man kunde have h&oslash;rt en Knappenaal falde til Jorden, men midt i den Stilhed fl&oslash;i, med Bulder og Brag, den store Kirked&oslash;r op, og &mdash; &raquo;buml bum!&laquo; der kom hele Uhrv&aelig;rket <hi rend="italics">marscherende igjennem</hi>. Kirkegangen og stillede sig mellem Brud og Brudgom. D&oslash;de Mennesker kunne ikke gaae igjen, det vide vi meget godt, men et Kunstv&aelig;rk kan gaae igjen; Legemet var slaaet istykker, men ikke Aanden, Kunstaanden sp&oslash;gede, og det var ingen Sp&oslash;g. -->
-<!-- Kunstv&aelig;rket stod der livagtigt som da det var heelt og ur&oslash;rt. Klokkeslagene l&oslash;d, det ene <hi rend="italics">efter</hi> det andet lige til tolv, og <hi rend="italics">Skikkelserne mylrede</hi> frem; f&oslash;rst Moses; der lyste ligesom <hi rend="italics">Ildslue</hi> ud af hans Pande; han kastede Lovens tunge Steentavler paa Brudgommens F&oslash;dder og bandt dem til Kirkegulvet. -->
-<!-- &raquo;Jeg kan ikke l&oslash;fte dem igjen,&laquo; sagde Moses. &raquo;Du har slaaet Armene af mig! staa, som Du staaer!&laquo; -->
-<!-- Nu kom Adam og Eva, de Vise fra &Oslash;sterland og de fire Aarstider; hver sagde ham ubehagelige Sandheder: &raquo;skam Dig I&laquo; men han skammede sig ikke. -->
-<!-- <hi rend="italics"><!&mdash; Alle Skikkelser</hi>, hvert Klokkeslet havde at fremvise, traadte ud af Uhret, og -->
-<!-- 29 igjennem] midt igjennem <hi rend="bold">qr</hi>. 35 efter] Slag paa <hi rend="bold">q</hi>, paa <hi rend="bold">r</hi>. -->
               <pb n="153" xml:id="s153" facs="adl/andersenhc/andersenhcev5/ahce5153"/>
               <p xml:id="idm139748571612992">ud af Uhret, og alle voxte de i forfærdelig
 								Størrelse, det var <hi rend="italics" xml:id="idm139748571612576">som</hi> om der
@@ -6854,12 +6979,6 @@
               <p xml:id="idm139748571608064">Og han stod i Kirken, det hele Folk var hans Følgeskab,
 								Alle glædede sig, Alle velsignede ham; der var ikke Een,
 								der var misundelig, - ja det var det <hi rend="italics" xml:id="idm139748571607456">Utroligste</hi>!</p>
-<!-- alle voxte de i forf&aelig;rdelig St&oslash;rrelse, det var, <hi rend="italics">som der blev neppe</hi> Plads for de virkelige Mennesker; og da, ved <hi rend="italics">det</hi> tolvte Slag, V&aelig;gteren traadte ud med Kabuds og Morgenstjerne, blev der et underligt R&oslash;re. V&aelig;gteren gik lige ind paa Brudgommen og slog ham for Panden med Morgenstjernen. -->
-<!-- &raquo;Lig der!&laquo; sagde han. &raquo;<hi rend="italics">Nu ere vi</hi> h&aelig;vnede og Mester med! vi forsvinde!&laquo; og saa forsvandt hele Kunstv&aelig;rket, men Lysene rundt om i Kirken <hi rend="italics">bleve</hi> til store Lysblomster, og de forgyldte Stjerner under Loftet sendte lange, klare Straaler, Orgelet klang af sig selv; alle Mennesker sagde, at det var det Utroligste, de havde oplevet. -->
-<!-- &raquo;Vil De saa tilsige den Rigtige!&laquo; sagde Prindsessen, &raquo;han, som gjorde Kunstv&aelig;rket, han v&aelig;re min &AElig;gtemand og Herre!&laquo; -->
-<!-- Og han stod i Kirken, det hele Folk var hans F&oslash;lgeskab; Alle gl&aelig;dede sig, Alle velsignede ham; der var ikke Een, der var misundelig, ja det var det <hi rend="CharEx">Utroligste</hi>. -->
-<!-- <hi rend="italics"><!&mdash; H. C. Andersen.</hi> -->
-<!-- 18 som] som om <hi rend="bold">q</hi>, som r. 22 Nu ere] Lige for Lige! nu er <hi rend="bold">q</hi>, Nu ere <hi rend="bold">r</hi>. <hi rend="italics">Under texten</hi> H. C. Andersen <hi rend="bold">r</hi>. -->
             </div>
             <pb n="154" xml:id="s154" facs="adl/andersenhc/andersenhcev5/ahce5154"/>
             <div xml:id="workid81100" decls="#biblid81100">

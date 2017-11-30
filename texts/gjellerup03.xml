@@ -1,9 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="idm140607022132256"><!-- 
-       file     ./marc_dir/001913826.xml
-       field     
-       subfield  
-       prefix   -->
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="root">
   <teiHeader xml:id="idm140607022131600">
     <fileDesc xml:id="idm140607022131344">
       <titleStmt xml:id="idm140607022131040">
@@ -18,17 +14,27 @@
         <note xml:id="idm140607022102800">
 	  </note>
       </notesStmt>
-      <sourceDesc xml:id="idm140607022102288"><bibl xml:id="idm140607022102160"><author n="1" xml:id="idm140607022101584"><name xml:id="idm140607022101328"><surname xml:id="idm140607022101200">Gjellerup</surname>, <forename xml:id="idm140607022100736">Karl</forename></name></author><!-- ordinary shit --><title xml:id="idm140607022100256">Møllen. Roman i 5 Bøger</title><pubPlace xml:id="idm140607022099936">København</pubPlace>
-<date xml:id="idm140607022099456">1896</date></bibl><listBibl xml:id="idm140607022099200"><bibl xml:id="biblid54091"><title xml:id="idm140607022086048">Møllen</title></bibl></listBibl></sourceDesc>
+      <sourceDesc xml:id="idm140607022102288">
+        <bibl xml:id="idm140607022102160">
+          <author n="1" xml:id="idm140607022101584">
+            <name xml:id="idm140607022101328"><surname xml:id="idm140607022101200">Gjellerup</surname>, <forename xml:id="idm140607022100736">Karl</forename></name>
+          </author>
+          <title xml:id="idm140607022100256">Møllen. Roman i 5 Bøger</title>
+          <pubPlace xml:id="idm140607022099936">København</pubPlace>
+          <date xml:id="idm140607022099456">1896</date>
+        </bibl>
+        <listBibl xml:id="idm140607022099200">
+          <bibl xml:id="biblid54091">
+            <title xml:id="idm140607022086048">Møllen</title>
+          </bibl>
+        </listBibl>
+      </sourceDesc>
     </fileDesc>
   </teiHeader>
   <text xml:id="workid54091" decls="#biblid54091">
     <front xml:id="idm140607022084464">
       <pb n="I" facs="adl/gjellerup/gjellerup3/gjel3fm001" xml:id="idm140607022084160"/>
       <gap reason="cancelled" xml:id="idm140607022083296"/>
-<!---->
-<!---->
-<!--MØLLEN-->
       <pb n="II" facs="adl/gjellerup/gjellerup3/gjel3fm002" xml:id="idm140607022081696"/>
       <pb n="III" facs="adl/gjellerup/gjellerup3/gjel3fm003" xml:id="idm140607022081040"/>
       <titlePage xml:id="idm140607022080272">

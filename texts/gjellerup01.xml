@@ -1,9 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="idm139731118955552"><!-- 
-       file     ./marc_dir/001913819.xml
-       field     
-       subfield  
-       prefix   -->
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="root">
   <teiHeader xml:id="idm139731118954896">
     <fileDesc xml:id="idm139731118954640">
       <titleStmt xml:id="idm139731118954336">
@@ -18,17 +14,27 @@
         <note xml:id="idm139731118926368">
 	  </note>
       </notesStmt>
-      <sourceDesc xml:id="idm139731118925856"><bibl xml:id="idm139731118925728"><author n="1" xml:id="idm139731118925040"><name xml:id="idm139731118924784"><surname xml:id="idm139731118924656">Gjellerup</surname>, <forename xml:id="idm139731118924192">Karl</forename></name></author><title xml:id="idm139731118923904">Minna</title><pubPlace xml:id="idm139731118923616">København</pubPlace>
-<date xml:id="idm139731118923136">1889</date></bibl><listBibl xml:id="idm139731118922848"><bibl xml:id="biblid54089"><title xml:id="idm139731118909696">Minna</title></bibl></listBibl></sourceDesc>
+      <sourceDesc xml:id="idm139731118925856">
+        <bibl xml:id="idm139731118925728">
+          <author n="1" xml:id="idm139731118925040">
+            <name xml:id="idm139731118924784"><surname xml:id="idm139731118924656">Gjellerup</surname>, <forename xml:id="idm139731118924192">Karl</forename></name>
+          </author>
+          <title xml:id="idm139731118923904">Minna</title>
+          <pubPlace xml:id="idm139731118923616">København</pubPlace>
+          <date xml:id="idm139731118923136">1889</date>
+        </bibl>
+        <listBibl xml:id="idm139731118922848">
+          <bibl xml:id="biblid54089">
+            <title xml:id="idm139731118909696">Minna</title>
+          </bibl>
+        </listBibl>
+      </sourceDesc>
     </fileDesc>
   </teiHeader>
   <text xml:id="workid54089" decls="#biblid54089">
     <front xml:id="idm139731118908064">
       <pb n="I" facs="adl/gjellerup/gjellerup1/gjel1fm001" xml:id="idm139731118907760"/>
       <gap reason="cancelled" xml:id="idm139731118906896"/>
-<!---->
-<!---->
-<!--MINNA.-->
       <pb n="II" facs="adl/gjellerup/gjellerup1/gjel1fm002" xml:id="idm139731118905376"/>
       <pb n="III" facs="adl/gjellerup/gjellerup1/gjel1fm003" xml:id="idm139731118904640"/>
       <titlePage xml:id="idm139731118903872">

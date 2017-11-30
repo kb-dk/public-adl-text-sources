@@ -1,16 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!-- OCR by ATAPY 05.11.02/29.11.02 (Catherine Bychkova) -->
-<!-- HHL 20030313        checket iflg liste
-             vaerktitler skrevet ud for at checke dubletter   
-             i samme hug fjernet initierende romertal fra titler og visse undervaerktitler
-            Heroica / undertitel
-            Ptj rettet s. 174 - 
-            -->
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="idm140111865514992"><!-- 
-       file     ./marc_dir/001383642.xml
-       field    248 
-       subfield g 
-       prefix   Bd. 6 | a-->
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="root">
   <teiHeader xml:id="idm140111865513984">
     <fileDesc xml:id="idm140111865513728">
       <titleStmt xml:id="idm140111865488240">
@@ -26,17 +15,242 @@
         <note xml:id="idm140111865484000">
 	  </note>
       </notesStmt>
-      <sourceDesc xml:id="idm140111865483488"><bibl xml:id="idm140111865483360"><author n="1" xml:id="idm140111865483184"><name xml:id="idm140111865482928"><surname xml:id="idm140111865482800">Claussen</surname>, <forename xml:id="idm140111865482336">Sophus</forename></name></author><title xml:id="idm140111865482048">Sophus Claussens lyrik</title><title xml:id="idm140111865481760">Bd. 6: Heroica</title><pubPlace xml:id="idm140111865481472">[København]</pubPlace>
-<publisher xml:id="idm140111865481008">Det Danske Sprog- og Litteraturselskab ; Gyldendal</publisher><date xml:id="idm140111865480640">1982-</date></bibl><listBibl xml:id="idm140111865480352"><bibl xml:id="biblid55518"><title xml:id="idm140111865467200">Ny Aand /Heroica</title></bibl><bibl xml:id="biblid56074"><title xml:id="idm140111865466416">HEXAMETERBREVE</title></bibl><bibl xml:id="biblid56117"><title xml:id="idm140111865465632">FØRSTE HEXAMETERBREV TIL JOHANNES JØRGENSEN</title></bibl><bibl xml:id="biblid56366"><title xml:id="idm140111865464768">HEXAMETER-HYMNE TIL PAN OG GIOVANNI</title></bibl><bibl xml:id="biblid56716"><title xml:id="idm140111865463968">ANRAABELSE</title></bibl><bibl xml:id="biblid56845"><title xml:id="idm140111865463184">SØNDAG I SKOVEN</title></bibl><bibl xml:id="biblid57031"><title xml:id="idm140111865462384">HEROICA</title></bibl><bibl xml:id="biblid57060"><title xml:id="idm140111865461600">HEROICA [undertitel]</title></bibl><bibl xml:id="biblid57191"><title xml:id="idm140111865460816">JEG GAV DEN UNGE GUD MIT HJERTE</title></bibl><bibl xml:id="biblid57352"><title xml:id="idm140111865459904">EROBRERE</title></bibl><bibl xml:id="biblid57582"><title xml:id="idm140111865459120">DRØMT EN MORGENSTUND</title></bibl><bibl xml:id="biblid57826"><title xml:id="idm140111865458256">DON LUIS DE GÓNGORASSONET OM MADRID</title></bibl><bibl xml:id="biblid57927"><title xml:id="idm140111865457360">NAT PAA HAVET</title></bibl><bibl xml:id="biblid58000"><title xml:id="idm140111865456576">DER ER INTET SAA YNDIGT I FORAARETS GRY</title></bibl><bibl xml:id="biblid58126"><title xml:id="idm140111865455728">FLYVEREN OG PIGEN</title></bibl><bibl xml:id="biblid58259"><title xml:id="idm140111865454944">SKUMRINGSBILLEDE</title></bibl><bibl xml:id="biblid58410"><title xml:id="idm140111865454112">FORKLARINGEN</title></bibl><bibl xml:id="biblid58514"><title xml:id="idm140111865453280">I BEGYNDELSEN VAR</title></bibl><bibl xml:id="biblid58621"><title xml:id="idm140111865452448">December 1923</title></bibl><bibl xml:id="biblid58715"><title xml:id="idm140111865451616">I STADEN</title></bibl><bibl xml:id="biblid58768"><title xml:id="idm140111865450784">21. 2. 24</title></bibl><bibl xml:id="biblid58821"><title xml:id="idm140111865449952">VINTERFLORA</title></bibl><bibl xml:id="biblid58872"><title xml:id="idm140111865449120">VAARBEBUDELSE</title></bibl><bibl xml:id="biblid58921"><title xml:id="idm140111865448288">KAN SOMMERFUGLEVINGER TYNGE</title></bibl><bibl xml:id="biblid58979"><title xml:id="idm140111865447488">30.7.23. 'Hôtel de la plage', Donville</title></bibl><bibl xml:id="biblid59076"><title xml:id="idm140111865446592">ET FORAARSBUD</title></bibl><bibl xml:id="biblid59159"><title xml:id="idm140111865445696">FANTASIA</title></bibl><bibl xml:id="biblid59196"><title xml:id="idm140111865444864">FANTASIA [undertitel]</title></bibl><bibl xml:id="biblid59408"><title xml:id="idm140111865444032">EN HISTORIE</title></bibl><bibl xml:id="biblid59573"><title xml:id="idm140111865443200">VED AFRODITES STØTTE</title></bibl><bibl xml:id="biblid59809"><title xml:id="idm140111865442384">MODELLERNE</title></bibl><bibl xml:id="biblid60057"><title xml:id="idm140111865441552">DEN LYKKELIGE MALER</title></bibl><bibl xml:id="biblid60368"><title xml:id="idm140111865440720">BØGEN OG NÆLDEN</title></bibl><bibl xml:id="biblid60618"><title xml:id="idm140111865439872">ALLE NORDENS FUGLE</title></bibl><bibl xml:id="biblid60780"><title xml:id="idm140111865439040">SJÆLLAND OG DIGTEREN</title></bibl><bibl xml:id="biblid60898"><title xml:id="idm140111865438176">J. F. WILLUMSEN</title></bibl><bibl xml:id="biblid61214"><title xml:id="idm140111865437344">NILS COLLETT VOGT</title></bibl><bibl xml:id="biblid61297"><title xml:id="idm140111865436512">TIL THØGER LARSEN</title></bibl><bibl xml:id="biblid61404"><title xml:id="idm140111865435712">SEJRE OG VUNDER</title></bibl><bibl xml:id="biblid61523"><title xml:id="idm140111865434928">SKÆRVESLAGERENS VISE</title></bibl><bibl xml:id="biblid61638"><title xml:id="idm140111865434064">VAARSANG VED JUL</title></bibl><bibl xml:id="biblid61766"><title xml:id="idm140111865433232">KLODENS SANGE</title></bibl><bibl xml:id="biblid61877"><title xml:id="idm140111865432400">INDE FRA KLODENS VÆRKSTED</title></bibl><bibl xml:id="biblid61965"><title xml:id="idm140111865431536">FEMTE JUNI</title></bibl><bibl xml:id="biblid62169"><title xml:id="idm140111865430704">DENSTÆRKE DAME I TELTET</title></bibl><bibl xml:id="biblid62265"><title xml:id="idm140111865429840">JEG TRAF EN SKØNHED ...</title></bibl><bibl xml:id="biblid62460"><title xml:id="idm140111865428976">FØLFOD</title></bibl><bibl xml:id="biblid62504"><title xml:id="idm140111865428144">FORAAR</title></bibl><bibl xml:id="biblid62599"><title xml:id="idm140111865427248">TERMINSBEKYMRINGER</title></bibl><bibl xml:id="biblid62684"><title xml:id="idm140111865426416">DEN NYE PROKURATOR</title></bibl><bibl xml:id="biblid62769"><title xml:id="idm140111865425584">VOR MOR PAA GAARDEN</title></bibl><bibl xml:id="biblid62869"><title xml:id="idm140111865424688">NYE TIDER</title></bibl><bibl xml:id="biblid62997"><title xml:id="idm140111865423840">STROFER I TUSMØRKET</title></bibl><bibl xml:id="biblid63097"><title xml:id="idm140111865422912">JEG VIL BEGRAVES I FRED</title></bibl><bibl xml:id="biblid63185"><title xml:id="idm140111865422016">STORE FARLIGE ...</title></bibl><bibl xml:id="biblid63239"><title xml:id="idm140111865421184">KÆRE NY ...</title></bibl><bibl xml:id="biblid63300"><title xml:id="idm140111865420336">UNDER EN SØLVPOPPEL</title></bibl><bibl xml:id="biblid63457"><title xml:id="idm140111865419472">MODER NATUR</title></bibl><bibl xml:id="biblid63534"><title xml:id="idm140111865418640">KANALBILLEDE</title></bibl><bibl xml:id="biblid63717"><title xml:id="idm140111865413744">TVESYN</title></bibl><bibl xml:id="biblid63887"><title xml:id="idm140111865412960">PRINSESSENS DOSSIER</title></bibl><bibl xml:id="biblid64506"><title xml:id="idm140111865544640">DEN LILLE BAJAZET OG KVINDERNE</title></bibl><bibl xml:id="biblid64654"><title xml:id="idm140111865543952">UNG GLORIE</title></bibl><bibl xml:id="biblid64807"><title xml:id="idm140111865543168">VINTERDAG</title></bibl><bibl xml:id="biblid64914"><title xml:id="idm140111865542384">SKABELSE</title></bibl><bibl xml:id="biblid64990"><title xml:id="idm140111865541600">KVINDENS BEKENDELSE</title></bibl><bibl xml:id="biblid65084"><title xml:id="idm140111865540816">RUSSERINDEN</title></bibl><bibl xml:id="biblid65415"><title xml:id="idm140111865386992">HUMLEN</title></bibl><bibl xml:id="biblid65516"><title xml:id="idm140111865386208">BARNERIM</title></bibl><bibl xml:id="biblid65588"><title xml:id="idm140111865385360">FEST-EPILOG</title></bibl><bibl xml:id="biblid65728"><title xml:id="idm140111865384576">ATOMERNES OPRØR</title></bibl><bibl xml:id="biblid65772"><title xml:id="idm140111865383824">ATOMERNES OPRØR  [undertitel]</title></bibl></listBibl></sourceDesc>
+      <sourceDesc xml:id="idm140111865483488">
+        <bibl xml:id="idm140111865483360">
+          <author n="1" xml:id="idm140111865483184">
+            <name xml:id="idm140111865482928"><surname xml:id="idm140111865482800">Claussen</surname>, <forename xml:id="idm140111865482336">Sophus</forename></name>
+          </author>
+          <title xml:id="idm140111865482048">Sophus Claussens lyrik</title>
+          <title xml:id="idm140111865481760">Bd. 6: Heroica</title>
+          <pubPlace xml:id="idm140111865481472">[København]</pubPlace>
+          <publisher xml:id="idm140111865481008">Det Danske Sprog- og Litteraturselskab ; Gyldendal</publisher>
+          <date xml:id="idm140111865480640">1982-</date>
+        </bibl>
+        <listBibl xml:id="idm140111865480352">
+          <bibl xml:id="biblid55518">
+            <title xml:id="idm140111865467200">Ny Aand /Heroica</title>
+          </bibl>
+          <bibl xml:id="biblid56074">
+            <title xml:id="idm140111865466416">HEXAMETERBREVE</title>
+          </bibl>
+          <bibl xml:id="biblid56117">
+            <title xml:id="idm140111865465632">FØRSTE HEXAMETERBREV TIL JOHANNES JØRGENSEN</title>
+          </bibl>
+          <bibl xml:id="biblid56366">
+            <title xml:id="idm140111865464768">HEXAMETER-HYMNE TIL PAN OG GIOVANNI</title>
+          </bibl>
+          <bibl xml:id="biblid56716">
+            <title xml:id="idm140111865463968">ANRAABELSE</title>
+          </bibl>
+          <bibl xml:id="biblid56845">
+            <title xml:id="idm140111865463184">SØNDAG I SKOVEN</title>
+          </bibl>
+          <bibl xml:id="biblid57031">
+            <title xml:id="idm140111865462384">HEROICA</title>
+          </bibl>
+          <bibl xml:id="biblid57060">
+            <title xml:id="idm140111865461600">HEROICA [undertitel]</title>
+          </bibl>
+          <bibl xml:id="biblid57191">
+            <title xml:id="idm140111865460816">JEG GAV DEN UNGE GUD MIT HJERTE</title>
+          </bibl>
+          <bibl xml:id="biblid57352">
+            <title xml:id="idm140111865459904">EROBRERE</title>
+          </bibl>
+          <bibl xml:id="biblid57582">
+            <title xml:id="idm140111865459120">DRØMT EN MORGENSTUND</title>
+          </bibl>
+          <bibl xml:id="biblid57826">
+            <title xml:id="idm140111865458256">DON LUIS DE GÓNGORASSONET OM MADRID</title>
+          </bibl>
+          <bibl xml:id="biblid57927">
+            <title xml:id="idm140111865457360">NAT PAA HAVET</title>
+          </bibl>
+          <bibl xml:id="biblid58000">
+            <title xml:id="idm140111865456576">DER ER INTET SAA YNDIGT I FORAARETS GRY</title>
+          </bibl>
+          <bibl xml:id="biblid58126">
+            <title xml:id="idm140111865455728">FLYVEREN OG PIGEN</title>
+          </bibl>
+          <bibl xml:id="biblid58259">
+            <title xml:id="idm140111865454944">SKUMRINGSBILLEDE</title>
+          </bibl>
+          <bibl xml:id="biblid58410">
+            <title xml:id="idm140111865454112">FORKLARINGEN</title>
+          </bibl>
+          <bibl xml:id="biblid58514">
+            <title xml:id="idm140111865453280">I BEGYNDELSEN VAR</title>
+          </bibl>
+          <bibl xml:id="biblid58621">
+            <title xml:id="idm140111865452448">December 1923</title>
+          </bibl>
+          <bibl xml:id="biblid58715">
+            <title xml:id="idm140111865451616">I STADEN</title>
+          </bibl>
+          <bibl xml:id="biblid58768">
+            <title xml:id="idm140111865450784">21. 2. 24</title>
+          </bibl>
+          <bibl xml:id="biblid58821">
+            <title xml:id="idm140111865449952">VINTERFLORA</title>
+          </bibl>
+          <bibl xml:id="biblid58872">
+            <title xml:id="idm140111865449120">VAARBEBUDELSE</title>
+          </bibl>
+          <bibl xml:id="biblid58921">
+            <title xml:id="idm140111865448288">KAN SOMMERFUGLEVINGER TYNGE</title>
+          </bibl>
+          <bibl xml:id="biblid58979">
+            <title xml:id="idm140111865447488">30.7.23. 'Hôtel de la plage', Donville</title>
+          </bibl>
+          <bibl xml:id="biblid59076">
+            <title xml:id="idm140111865446592">ET FORAARSBUD</title>
+          </bibl>
+          <bibl xml:id="biblid59159">
+            <title xml:id="idm140111865445696">FANTASIA</title>
+          </bibl>
+          <bibl xml:id="biblid59196">
+            <title xml:id="idm140111865444864">FANTASIA [undertitel]</title>
+          </bibl>
+          <bibl xml:id="biblid59408">
+            <title xml:id="idm140111865444032">EN HISTORIE</title>
+          </bibl>
+          <bibl xml:id="biblid59573">
+            <title xml:id="idm140111865443200">VED AFRODITES STØTTE</title>
+          </bibl>
+          <bibl xml:id="biblid59809">
+            <title xml:id="idm140111865442384">MODELLERNE</title>
+          </bibl>
+          <bibl xml:id="biblid60057">
+            <title xml:id="idm140111865441552">DEN LYKKELIGE MALER</title>
+          </bibl>
+          <bibl xml:id="biblid60368">
+            <title xml:id="idm140111865440720">BØGEN OG NÆLDEN</title>
+          </bibl>
+          <bibl xml:id="biblid60618">
+            <title xml:id="idm140111865439872">ALLE NORDENS FUGLE</title>
+          </bibl>
+          <bibl xml:id="biblid60780">
+            <title xml:id="idm140111865439040">SJÆLLAND OG DIGTEREN</title>
+          </bibl>
+          <bibl xml:id="biblid60898">
+            <title xml:id="idm140111865438176">J. F. WILLUMSEN</title>
+          </bibl>
+          <bibl xml:id="biblid61214">
+            <title xml:id="idm140111865437344">NILS COLLETT VOGT</title>
+          </bibl>
+          <bibl xml:id="biblid61297">
+            <title xml:id="idm140111865436512">TIL THØGER LARSEN</title>
+          </bibl>
+          <bibl xml:id="biblid61404">
+            <title xml:id="idm140111865435712">SEJRE OG VUNDER</title>
+          </bibl>
+          <bibl xml:id="biblid61523">
+            <title xml:id="idm140111865434928">SKÆRVESLAGERENS VISE</title>
+          </bibl>
+          <bibl xml:id="biblid61638">
+            <title xml:id="idm140111865434064">VAARSANG VED JUL</title>
+          </bibl>
+          <bibl xml:id="biblid61766">
+            <title xml:id="idm140111865433232">KLODENS SANGE</title>
+          </bibl>
+          <bibl xml:id="biblid61877">
+            <title xml:id="idm140111865432400">INDE FRA KLODENS VÆRKSTED</title>
+          </bibl>
+          <bibl xml:id="biblid61965">
+            <title xml:id="idm140111865431536">FEMTE JUNI</title>
+          </bibl>
+          <bibl xml:id="biblid62169">
+            <title xml:id="idm140111865430704">DENSTÆRKE DAME I TELTET</title>
+          </bibl>
+          <bibl xml:id="biblid62265">
+            <title xml:id="idm140111865429840">JEG TRAF EN SKØNHED ...</title>
+          </bibl>
+          <bibl xml:id="biblid62460">
+            <title xml:id="idm140111865428976">FØLFOD</title>
+          </bibl>
+          <bibl xml:id="biblid62504">
+            <title xml:id="idm140111865428144">FORAAR</title>
+          </bibl>
+          <bibl xml:id="biblid62599">
+            <title xml:id="idm140111865427248">TERMINSBEKYMRINGER</title>
+          </bibl>
+          <bibl xml:id="biblid62684">
+            <title xml:id="idm140111865426416">DEN NYE PROKURATOR</title>
+          </bibl>
+          <bibl xml:id="biblid62769">
+            <title xml:id="idm140111865425584">VOR MOR PAA GAARDEN</title>
+          </bibl>
+          <bibl xml:id="biblid62869">
+            <title xml:id="idm140111865424688">NYE TIDER</title>
+          </bibl>
+          <bibl xml:id="biblid62997">
+            <title xml:id="idm140111865423840">STROFER I TUSMØRKET</title>
+          </bibl>
+          <bibl xml:id="biblid63097">
+            <title xml:id="idm140111865422912">JEG VIL BEGRAVES I FRED</title>
+          </bibl>
+          <bibl xml:id="biblid63185">
+            <title xml:id="idm140111865422016">STORE FARLIGE ...</title>
+          </bibl>
+          <bibl xml:id="biblid63239">
+            <title xml:id="idm140111865421184">KÆRE NY ...</title>
+          </bibl>
+          <bibl xml:id="biblid63300">
+            <title xml:id="idm140111865420336">UNDER EN SØLVPOPPEL</title>
+          </bibl>
+          <bibl xml:id="biblid63457">
+            <title xml:id="idm140111865419472">MODER NATUR</title>
+          </bibl>
+          <bibl xml:id="biblid63534">
+            <title xml:id="idm140111865418640">KANALBILLEDE</title>
+          </bibl>
+          <bibl xml:id="biblid63717">
+            <title xml:id="idm140111865413744">TVESYN</title>
+          </bibl>
+          <bibl xml:id="biblid63887">
+            <title xml:id="idm140111865412960">PRINSESSENS DOSSIER</title>
+          </bibl>
+          <bibl xml:id="biblid64506">
+            <title xml:id="idm140111865544640">DEN LILLE BAJAZET OG KVINDERNE</title>
+          </bibl>
+          <bibl xml:id="biblid64654">
+            <title xml:id="idm140111865543952">UNG GLORIE</title>
+          </bibl>
+          <bibl xml:id="biblid64807">
+            <title xml:id="idm140111865543168">VINTERDAG</title>
+          </bibl>
+          <bibl xml:id="biblid64914">
+            <title xml:id="idm140111865542384">SKABELSE</title>
+          </bibl>
+          <bibl xml:id="biblid64990">
+            <title xml:id="idm140111865541600">KVINDENS BEKENDELSE</title>
+          </bibl>
+          <bibl xml:id="biblid65084">
+            <title xml:id="idm140111865540816">RUSSERINDEN</title>
+          </bibl>
+          <bibl xml:id="biblid65415">
+            <title xml:id="idm140111865386992">HUMLEN</title>
+          </bibl>
+          <bibl xml:id="biblid65516">
+            <title xml:id="idm140111865386208">BARNERIM</title>
+          </bibl>
+          <bibl xml:id="biblid65588">
+            <title xml:id="idm140111865385360">FEST-EPILOG</title>
+          </bibl>
+          <bibl xml:id="biblid65728">
+            <title xml:id="idm140111865384576">ATOMERNES OPRØR</title>
+          </bibl>
+          <bibl xml:id="biblid65772">
+            <title xml:id="idm140111865383824">ATOMERNES OPRØR  [undertitel]</title>
+          </bibl>
+        </listBibl>
+      </sourceDesc>
     </fileDesc>
   </teiHeader>
   <text xml:id="idm140111865383104">
     <front xml:id="idm140111865382848">
       <pb n="I" facs="adl/claussen/claussen08/claussen8001" xml:id="idm140111865382592"/>
       <gap reason="cancelled" xml:id="idm140111865381856"/>
-<!---->
-<!---->
-<!--Sophus Claussens Lyrik VI-->
       <pb n="II" facs="adl/claussen/claussen08/claussen8002" xml:id="idm140111865380400"/>
       <titlePage xml:id="idm140111865379632">
         <docAuthor xml:id="idm140111865379376">

@@ -1,13 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!-- VL 4.10.2002 + ; removed '.tif' , added blank space in toc. added blank before <hi 
-     HHL30020219 ændret #&8217; til "'" i Maitre d'Ecole, baade i vaerktitle og anderswo 
-     Ptj rettet  s. 138-266-270-2-327-340-342-345-348-350-
--->
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="idm140535018298512"><!-- 
-       file     ./marc_dir/001383696.xml
-       field     
-       subfield  
-       prefix   -->
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="root">
   <teiHeader xml:id="idm140535018297584">
     <fileDesc xml:id="idm140535018297328">
       <titleStmt xml:id="idm140535018297024">
@@ -28,8 +20,73 @@
         <note xml:id="idm140535018265552">
 	  </note>
       </notesStmt>
-      <sourceDesc xml:id="idm140535018265040"><bibl xml:id="idm140535018264912"><author n="1" xml:id="idm140535018264736"><name xml:id="idm140535018264368"><surname xml:id="idm140535018264240">Blicher</surname>, <forename xml:id="idm140535018263776">Steen Steensen</forename></name></author><title xml:id="idm140535018263488">Udvalgte værker</title><pubPlace xml:id="idm140535018263184">[København]</pubPlace>
-<publisher xml:id="idm140535018262720">Gyldendal</publisher><date xml:id="idm140535018262384">1982-83</date></bibl><listBibl xml:id="idm140535018262096"><bibl xml:id="biblid54644"><title xml:id="idm140535018248944">Himmelbjerget</title></bibl><bibl xml:id="biblid56215"><title xml:id="idm140535018248160">Eremitten ved Grenaae</title></bibl><bibl xml:id="biblid57186"><title xml:id="idm140535018247376">Juleferierne</title></bibl><bibl xml:id="biblid60966"><title xml:id="idm140535018246544">Eneboeren paa Bolbjerg</title></bibl><bibl xml:id="biblid62109"><title xml:id="idm140535018245712">Marie</title></bibl><bibl xml:id="biblid62979"><title xml:id="idm140535018244928">Skytten paa Aunsbjerg</title></bibl><bibl xml:id="biblid64181"><title xml:id="idm140535018244144">Baglænds</title></bibl><bibl xml:id="biblid66367"><title xml:id="idm140535018243360">Høstferierne</title></bibl><bibl xml:id="biblid70772"><title xml:id="idm140535018242512">Julianes Giftermaal</title></bibl><bibl xml:id="biblid72199"><title xml:id="idm140535018241680">De tre Helligaftener</title></bibl><bibl xml:id="biblid73060"><title xml:id="idm140535018240896">Eneste Barn</title></bibl><bibl xml:id="biblid73780"><title xml:id="idm140535018240112">Guillaume de Martonniere</title></bibl><bibl xml:id="biblid74515"><title xml:id="idm140535018239312">Le Petitmaître d'Ecole</title></bibl><bibl xml:id="biblid75049"><title xml:id="idm140535018238448">Kniplerinden</title></bibl><bibl xml:id="biblid76769"><title xml:id="idm140535018237664">Skinsyge</title></bibl><bibl xml:id="biblid77560"><title xml:id="idm140535018236832">De Udøbte</title></bibl><bibl xml:id="biblid78796"><title xml:id="idm140535018235936">Faawal Hammeløw</title></bibl><bibl xml:id="biblid79548"><title xml:id="idm140535018235088">Bettefanden</title></bibl></listBibl></sourceDesc>
+      <sourceDesc xml:id="idm140535018265040">
+        <bibl xml:id="idm140535018264912">
+          <author n="1" xml:id="idm140535018264736">
+            <name xml:id="idm140535018264368"><surname xml:id="idm140535018264240">Blicher</surname>, <forename xml:id="idm140535018263776">Steen Steensen</forename></name>
+          </author>
+          <title xml:id="idm140535018263488">Udvalgte værker</title>
+          <pubPlace xml:id="idm140535018263184">[København]</pubPlace>
+          <publisher xml:id="idm140535018262720">Gyldendal</publisher>
+          <date xml:id="idm140535018262384">1982-83</date>
+        </bibl>
+        <listBibl xml:id="idm140535018262096">
+          <bibl xml:id="biblid54644">
+            <title xml:id="idm140535018248944">Himmelbjerget</title>
+          </bibl>
+          <bibl xml:id="biblid56215">
+            <title xml:id="idm140535018248160">Eremitten ved Grenaae</title>
+          </bibl>
+          <bibl xml:id="biblid57186">
+            <title xml:id="idm140535018247376">Juleferierne</title>
+          </bibl>
+          <bibl xml:id="biblid60966">
+            <title xml:id="idm140535018246544">Eneboeren paa Bolbjerg</title>
+          </bibl>
+          <bibl xml:id="biblid62109">
+            <title xml:id="idm140535018245712">Marie</title>
+          </bibl>
+          <bibl xml:id="biblid62979">
+            <title xml:id="idm140535018244928">Skytten paa Aunsbjerg</title>
+          </bibl>
+          <bibl xml:id="biblid64181">
+            <title xml:id="idm140535018244144">Baglænds</title>
+          </bibl>
+          <bibl xml:id="biblid66367">
+            <title xml:id="idm140535018243360">Høstferierne</title>
+          </bibl>
+          <bibl xml:id="biblid70772">
+            <title xml:id="idm140535018242512">Julianes Giftermaal</title>
+          </bibl>
+          <bibl xml:id="biblid72199">
+            <title xml:id="idm140535018241680">De tre Helligaftener</title>
+          </bibl>
+          <bibl xml:id="biblid73060">
+            <title xml:id="idm140535018240896">Eneste Barn</title>
+          </bibl>
+          <bibl xml:id="biblid73780">
+            <title xml:id="idm140535018240112">Guillaume de Martonniere</title>
+          </bibl>
+          <bibl xml:id="biblid74515">
+            <title xml:id="idm140535018239312">Le Petitmaître d'Ecole</title>
+          </bibl>
+          <bibl xml:id="biblid75049">
+            <title xml:id="idm140535018238448">Kniplerinden</title>
+          </bibl>
+          <bibl xml:id="biblid76769">
+            <title xml:id="idm140535018237664">Skinsyge</title>
+          </bibl>
+          <bibl xml:id="biblid77560">
+            <title xml:id="idm140535018236832">De Udøbte</title>
+          </bibl>
+          <bibl xml:id="biblid78796">
+            <title xml:id="idm140535018235936">Faawal Hammeløw</title>
+          </bibl>
+          <bibl xml:id="biblid79548">
+            <title xml:id="idm140535018235088">Bettefanden</title>
+          </bibl>
+        </listBibl>
+      </sourceDesc>
     </fileDesc>
   </teiHeader>
   <text xml:id="idm140535018234448">

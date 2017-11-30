@@ -1,9 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="idm140442771413952"><!-- 
-       file     ./marc_dir/002220404.xml
-       field     
-       subfield  
-       prefix   -->
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="root">
   <teiHeader xml:id="idm140442771413296">
     <fileDesc xml:id="idm140442771413040">
       <titleStmt xml:id="idm140442771412736">
@@ -18,8 +14,20 @@
         <note xml:id="idm140442771384688">
 	  </note>
       </notesStmt>
-      <sourceDesc xml:id="idm140442771384176"><bibl xml:id="idm140442771384048"><author n="1" xml:id="idm140442771383472"><name xml:id="idm140442771383216"><surname xml:id="idm140442771383088">Larsen</surname>, <forename xml:id="idm140442771382656">Karl</forename></name></author><title xml:id="idm140442771382368">Det springende Punkt</title><pubPlace xml:id="idm140442771382080">København</pubPlace>; <pubPlace xml:id="idm140442771381616">Kristiania</pubPlace>
-<date xml:id="idm140442771381104">1911</date></bibl><listBibl xml:id="idm140442771380816"><bibl xml:id="biblid54088"><title xml:id="idm140442771367664">Det springende Punkt</title></bibl><bibl xml:id="biblid53741"><title xml:id="idm140442771366880">Chr. F. Holm</title></bibl><bibl xml:id="biblid58472"><title xml:id="idm140442771366096">Knud Holter</title></bibl></listBibl></sourceDesc>
+      <sourceDesc xml:id="idm140442771384176">
+        <bibl xml:id="idm140442771384048"><author n="1" xml:id="idm140442771383472"><name xml:id="idm140442771383216"><surname xml:id="idm140442771383088">Larsen</surname>, <forename xml:id="idm140442771382656">Karl</forename></name></author><title xml:id="idm140442771382368">Det springende Punkt</title><pubPlace xml:id="idm140442771382080">København</pubPlace>; <pubPlace xml:id="idm140442771381616">Kristiania</pubPlace><date xml:id="idm140442771381104">1911</date></bibl>
+        <listBibl xml:id="idm140442771380816">
+          <bibl xml:id="biblid54088">
+            <title xml:id="idm140442771367664">Det springende Punkt</title>
+          </bibl>
+          <bibl xml:id="biblid53741">
+            <title xml:id="idm140442771366880">Chr. F. Holm</title>
+          </bibl>
+          <bibl xml:id="biblid58472">
+            <title xml:id="idm140442771366096">Knud Holter</title>
+          </bibl>
+        </listBibl>
+      </sourceDesc>
     </fileDesc>
   </teiHeader>
   <text xml:id="workid54088" decls="#biblid54088">

@@ -1,12 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!-- VL har skiftet 12 græske tegn ud (s. 114) med [x] 
-VL: 20090420 rettelser på s. 118 
--->
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="idm140218345303104"><!-- 
-       file     ./marc_dir/001491114.xml
-       field     
-       subfield  
-       prefix   -->
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="root">
   <teiHeader xml:id="idm140218345302240">
     <fileDesc xml:id="idm140218345301984">
       <titleStmt xml:id="idm140218345301680">
@@ -28,16 +21,23 @@ Det Danske Sprog- og Litteraturselskab</publisher>
         <note xml:id="idm140218345271616">
 	  </note>
       </notesStmt>
-      <sourceDesc xml:id="idm140218345271104"><bibl xml:id="idm140218345270976"><author n="1" xml:id="idm140218345270288"><name xml:id="idm140218345270032"><surname xml:id="idm140218345269904">Claussen</surname>, <forename xml:id="idm140218345269440">Sophus</forename></name></author><title xml:id="idm140218345269152">Antonius i Paris</title><pubPlace xml:id="idm140218345268864">[København]</pubPlace>; <pubPlace xml:id="idm140218345268400">[Valby]</pubPlace>; <pubPlace xml:id="idm140218345267984">[Ballerup]</pubPlace>
-<publisher xml:id="idm140218345267520">Det Danske Sprog- og Litteraturselskab</publisher><publisher xml:id="idm140218345267216">Borgen</publisher><publisher xml:id="idm140218345266928">[i samarbejde med Nyt Dansk Litteraturselskab]</publisher><date xml:id="idm140218345266560">cop. 1990</date></bibl><listBibl xml:id="idm140218345266272"><bibl xml:id="biblid53748"><title xml:id="idm140218345253120">Antonius i Paris (Danske Klassikere)</title></bibl><bibl xml:id="biblid65294"><title xml:id="idm140218345252320">Valfart (Danske Klassikere)</title></bibl></listBibl></sourceDesc>
+      <sourceDesc xml:id="idm140218345271104">
+        <bibl xml:id="idm140218345270976"><author n="1" xml:id="idm140218345270288"><name xml:id="idm140218345270032"><surname xml:id="idm140218345269904">Claussen</surname>, <forename xml:id="idm140218345269440">Sophus</forename></name></author><title xml:id="idm140218345269152">Antonius i Paris</title><pubPlace xml:id="idm140218345268864">[København]</pubPlace>; <pubPlace xml:id="idm140218345268400">[Valby]</pubPlace>; <pubPlace xml:id="idm140218345267984">[Ballerup]</pubPlace><publisher xml:id="idm140218345267520">Det Danske Sprog- og Litteraturselskab</publisher><publisher xml:id="idm140218345267216">Borgen</publisher><publisher xml:id="idm140218345266928">[i samarbejde med Nyt Dansk Litteraturselskab]</publisher><date xml:id="idm140218345266560">cop. 1990</date></bibl>
+        <listBibl xml:id="idm140218345266272">
+          <bibl xml:id="biblid53748">
+            <title xml:id="idm140218345253120">Antonius i Paris (Danske Klassikere)</title>
+          </bibl>
+          <bibl xml:id="biblid65294">
+            <title xml:id="idm140218345252320">Valfart (Danske Klassikere)</title>
+          </bibl>
+        </listBibl>
+      </sourceDesc>
     </fileDesc>
   </teiHeader>
   <text xml:id="idm140218345251632">
     <front xml:id="idm140218345251376">
       <pb n="I" facs="adl/claussen/claussen1/claussen1001" xml:id="idm140218345251072"/>
       <gap reason="cancelled" xml:id="idm140218345250240"/>
-
-      <!-- Antonius i Paris Valfart -->
       <pb n="II" facs="adl/claussen/claussen1/claussen1002" xml:id="idm140218345249328"/>
       <pb n="III" facs="adl/claussen/claussen1/claussen1003" xml:id="idm140218345248560"/>
       <titlePage xml:id="idm140218345247792">
@@ -74,8 +74,8 @@ Det Danske Sprog- og Litteraturselskab</publisher>
       <pb n="VI" facs="adl/claussen/claussen1/claussen1006" xml:id="idm140218345215920"/>
       <div xml:id="idm140218345215184">
         <p xml:id="idm140218345214928">Antonius i Paris udkom i tidsrummet 31.1.-6.2.1896, kostede 3
-        kroner og omfatter [VIII + 2] + 216 s.</p> 
-	<p xml:id="idm140218345214416">I Antonius i Paris. II
+        kroner og omfatter [VIII + 2] + 216 s.</p>
+        <p xml:id="idm140218345214416">I Antonius i Paris. II
         blank, derefter frontispice-bilag: sa. ill som på det her afbildede
         bogomslag (med rødbrun tekst, ill.s bredde 109 mm). III Antonius i
         Paris. Hans Optegnelser ved Sophus
@@ -1699,7 +1699,7 @@ Vil jeg efter Frokost have ham til at spasere lidt med mig, siger han, at han ha
 	<pb n="114" facs="adl/claussen/claussen1/claussen1114" xml:id="idm140218344186336"/>
 var skudt tilbage fra den kække Pande. Det er Mme Eugénies evige Sorg, at Verlaine, hvis øvrige Dragt for Resten passer saa slet dertil, aldrig kan bevare en høj Hat. <hi rend="italics" xml:id="idm140218344185152">Quand il est furieux, il les casse  -</hi> siger hun  -: naar Digteren er i ondt Lune, kan han ikke udholde Synet af denne sorte, silkeglatte Samfundsløgn: han knuser ganske simpelt sine høje Hatte.</p>
             <p xml:id="idm140218344183984">P. gjorde mig et Forslag for at more Digterkongen, der slige Aftener er som et lykkeligt Barn. Vi bad ham i Kraft af sin Majestæt at indstifte en Orden og udnævne os til dens Riddere. P. forlangte Pen, Blæk og Papir og rev af det himmelblaa Hylster, hvori min Tobak var indpakket, sirlige Strimler til at fæste i vore Knaphuller, medens Paul Verlaine med mange store Snirkler begyndte at skrive:<lb xml:id="idm140218344182912"/>
-»Ego, [x][x][x][x][x][x][x][x][x][x][x][x]<!-- &#960;&#959;&#955; &#921;, &#946;&#945;&#963;&#953;&#955;&#949;&#965;&#962;-->, creavi.« Derefter fulgte i en underbar Blanding af Græsk, Latin og Fransk vor Udnævnelse til Riddere af det grønne (Verlaine vaklede en Stund mellem blaat og grønt, men foretrak det grønne, Absinthens Farve). Han fastsatte endvidere, at vor faste Borg skulde være Mullers Kafé, som han paa poetisk Latin kaldte <hi rend="italics" xml:id="idm140218344181456">Taverna mulierum</hi>, eftersom der altid er et broget Flor af Kvinder paa dette Sted.</p>
+»Ego, [x][x][x][x][x][x][x][x][x][x][x][x], creavi.« Derefter fulgte i en underbar Blanding af Græsk, Latin og Fransk vor Udnævnelse til Riddere af det grønne (Verlaine vaklede en Stund mellem blaat og grønt, men foretrak det grønne, Absinthens Farve). Han fastsatte endvidere, at vor faste Borg skulde være Mullers Kafé, som han paa poetisk Latin kaldte <hi rend="italics" xml:id="idm140218344181456">Taverna mulierum</hi>, eftersom der altid er et broget Flor af Kvinder paa dette Sted.</p>
             <p xml:id="idm140218344180560">Endelig rejste han sig med sit tunge Egespir i Haanden, og knælende paa Gulvet modtog først P., saa jeg Ridderslaget. <hi rend="italics" xml:id="idm140218344180048">Trémouillat</hi>, en meget blufærdig og ganske vittig Forfatter af satiriske Viser og for Resten Assistent i et eller andet Ministerium, korn til og maatte ogsaa knæle. Verlaine uddelte Slaget med en Forlegenhed, der viste hans Glæde.</p>
             <p xml:id="idm140218344178752">Og da nu Ridderskabet var dannet, drak vi Riddere af det grønne med hverandre og med Kong Paul den første  - af Glassene med den grønne Drik og de blegrode Rosenblade.</p>
             <pb n="115" facs="adl/claussen/claussen1/claussen1115" xml:id="idm140218344178016"/>

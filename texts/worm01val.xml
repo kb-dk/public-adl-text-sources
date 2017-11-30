@@ -1,10 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!--  OCR by ATAPY 31.10.02 (Catherine Bychkova) -->
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="idm140677736831936"><!-- 
-       file     ./marc_dir/001629316.xml
-       field    530 
-       subfield a 
-       prefix   Bd. 1-->
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="root">
   <teiHeader xml:id="idm140677736831376">
     <fileDesc xml:id="idm140677736831120">
       <titleStmt xml:id="idm140677736830816">
@@ -23,8 +18,291 @@
         <note xml:id="idm140677736801552">
 	  </note>
       </notesStmt>
-      <sourceDesc xml:id="idm140677736801040"><bibl xml:id="idm140677736800912"><author n="1" xml:id="idm140677736800224"><name xml:id="idm140677736799968"><surname xml:id="idm140677736799840">Worm</surname>, <forename xml:id="idm140677736799376">Jacob</forename></name></author><title xml:id="idm140677736798768">. - [1968]</title><pubPlace xml:id="idm140677736798512">København</pubPlace>
-<date xml:id="idm140677736798000">[1968]-1994</date></bibl><listBibl xml:id="idm140677736797712"><bibl xml:id="biblid55965"><title xml:id="idm140677736784512">JACOB WORM OG THOMAS KINGO</title></bibl><bibl xml:id="biblid56004"><title xml:id="idm140677736783712">SATYRE OVER KINGOS KALOT</title></bibl><bibl xml:id="biblid56421"><title xml:id="idm140677736782912">CONTRA-SVAR PAA KINGOS KALOTVISE</title></bibl><bibl xml:id="biblid56790"><title xml:id="idm140677736782112">NOGLE CARDINALERS FORSLAG</title></bibl><bibl xml:id="biblid56865"><title xml:id="idm140677736781200">Den lille Rubberts Fische-bad,</title></bibl><bibl xml:id="biblid58700"><title xml:id="idm140677736780400">Corollaria.</title></bibl><bibl xml:id="biblid58958"><title xml:id="idm140677736779616">Horse-Mager,</title></bibl><bibl xml:id="biblid59238"><title xml:id="idm140677736778784">DA KINGO BLEF BISCOP</title></bibl><bibl xml:id="biblid59343"><title xml:id="idm140677736778000">GUD OG BELIAL</title></bibl><bibl xml:id="biblid60882"><title xml:id="idm140677736777168">BAADS-MENDS ÆRE-DIGT OM DEN GYLDENE WIN-TAPPER-SVEND</title></bibl><bibl xml:id="biblid61337"><title xml:id="idm140677736776240">STUDIOSUS LAMENTANS DET ER STUDENTERNIS GRAAD</title></bibl><bibl xml:id="biblid64083"><title xml:id="idm140677736775376">Tillæg I.</title></bibl><bibl xml:id="biblid64221"><title xml:id="idm140677736774544">Tillæg II.</title></bibl><bibl xml:id="biblid64318"><title xml:id="idm140677736773760">Tillæg III.</title></bibl><bibl xml:id="biblid64369"><title xml:id="idm140677736772960">EN NYE RIIME KUNST</title></bibl><bibl xml:id="biblid64681"><title xml:id="idm140677736772112">SIBYLLÆ, SPAADOM [OM] NORDENS ANTICHRIST</title></bibl><bibl xml:id="biblid66836"><title xml:id="idm140677736771264">POST SCRIPTUM TRAGICUM ET PROPHETIÆ COMPLEMENTUM</title></bibl><bibl xml:id="biblid55514"><title xml:id="idm140677736770352">MAY ER VELKOMMEN</title></bibl><bibl xml:id="biblid69859"><title xml:id="idm140677736769520">LYCHENS UBESTANDIGHEDS SPEYL</title></bibl><bibl xml:id="biblid72366"><title xml:id="idm140677736768672">STUDIOSUS LAMENTANS REDIVIVUS ET CONTINUATUS</title></bibl><bibl xml:id="biblid75244"><title xml:id="idm140677736767808">KONGENS VÆMODIGE KLAGEMAAL</title></bibl><bibl xml:id="biblid80515"><title xml:id="idm140677736766992">GEJSTLIGHEDENS HESTE-SUCK OG HOPPE-GISP</title></bibl><bibl xml:id="biblid81914"><title xml:id="idm140677736766192">SUPPLICATION TIL KONGEN OM CONSUMPTIONENS OC ANDRE SCHATTERS AFSLAG</title></bibl><bibl xml:id="biblid82631"><title xml:id="idm140677736765312">HOROLOGIUM REGIUM</title></bibl><bibl xml:id="biblid82636"><title xml:id="idm140677736764480">Dryp [Himmel] Salfve-Flod ned i min Pen og Hierne!</title></bibl><bibl xml:id="biblid83056"><title xml:id="idm140677736763552">Hora prima!Deus adsit Regibus sua Gratia.</title></bibl><bibl xml:id="biblid83287"><title xml:id="idm140677736762688">Hora Secunda!Deus adsit Regibus sua Gratia.</title></bibl><bibl xml:id="biblid83517"><title xml:id="idm140677736761824">Hora Tertia!Deus adsit Regibus sua Gratia.</title></bibl><bibl xml:id="biblid83786"><title xml:id="idm140677736761008">Hora Quarta!Deus adsit Regibus sua Gratia.</title></bibl><bibl xml:id="biblid84028"><title xml:id="idm140677736760144">Hora Quinta!Deus adsit Regibus sua Gratia.</title></bibl><bibl xml:id="biblid84274"><title xml:id="idm140677736759280">Hora Sexta!Deus adsit Regibus sua gratia.</title></bibl><bibl xml:id="biblid84547"><title xml:id="idm140677736758416">Hora Septima!Deus adsit Regibus sua Gratia.</title></bibl><bibl xml:id="biblid84746"><title xml:id="idm140677736757552">Hora Octava!Deus adsit Regibus sua Gratia.</title></bibl><bibl xml:id="biblid84922"><title xml:id="idm140677736756688">Hora Nona! Deus adsit Regibus sua Gratia.</title></bibl><bibl xml:id="biblid85154"><title xml:id="idm140677736755824">Hora Decima! Deus adsit Regibus sua Gratia.</title></bibl><bibl xml:id="biblid85395"><title xml:id="idm140677736754960">Hora Undecima! Deus adsit Regibus sua Gratia.</title></bibl><bibl xml:id="biblid85585"><title xml:id="idm140677736754080">Hora Duodecima! Deus adsit Regibus sua Gratia.</title></bibl><bibl xml:id="biblid85831"><title xml:id="idm140677736753216">Conclusio. Seyerverket settes till Huile.</title></bibl><bibl xml:id="biblid90904"><title xml:id="idm140677736752352">JESU KLAGEMAA OVER JUDAS OG JØDERNE</title></bibl><bibl xml:id="biblid92837"><title xml:id="idm140677736751392">HANS KONGELIG MAJTS VELKOM</title></bibl><bibl xml:id="biblid93110"><title xml:id="idm140677736750592">ALLERUNDERDANIGSTE SUPPLICATION</title></bibl><bibl xml:id="biblid93230"><title xml:id="idm140677736749728">KONG CHR. 5. NATIVITET OG GLÆDES-FØDSELS DAG</title></bibl><bibl xml:id="biblid94367"><title xml:id="idm140677736748816">ALLERUNDERDANIGST SUPPLICATION</title></bibl><bibl xml:id="biblid94660"><title xml:id="idm140677736861696">WIBORIGS WELKOM</title></bibl><bibl xml:id="biblid94958"><title xml:id="idm140677736860976">TIL GYLDENLØVE I</title></bibl><bibl xml:id="biblid95609"><title xml:id="idm140677736860288">ALLERUNDERDANIGST DEPRECATION OG AFFBITT</title></bibl><bibl xml:id="biblid96017"><title xml:id="idm140677736859472">TIL PRINTZ FRIDERICH</title></bibl><bibl xml:id="biblid96146"><title xml:id="idm140677736858688">TIL GYLDENLØVE II</title></bibl><bibl xml:id="biblid96698"><title xml:id="idm140677736857936">GRAAD OG GLÆDE</title></bibl><bibl xml:id="biblid97456"><title xml:id="idm140677736722928">DEND DYREBARESTE DIAMANT</title></bibl><bibl xml:id="biblid98091"><title xml:id="idm140677736722112">STORMÆCTIGSTE HØYSTBAARNE MONARCH ALLER NAADIGSTEARVE-KONGE!</title></bibl><bibl xml:id="biblid98384"><title xml:id="idm140677736721216">TIL DRONNINGEN</title></bibl><bibl xml:id="biblid98619"><title xml:id="idm140677736720432">TIL GYLDENLØVE III</title></bibl><bibl xml:id="biblid98802"><title xml:id="idm140677736719680">TIL DOCTOR THOMAS KINGO</title></bibl><bibl xml:id="biblid99022"><title xml:id="idm140677736718832">TIL FRUE SIDSEL GRUBBE</title></bibl><bibl xml:id="biblid99355"><title xml:id="idm140677736718048">MIN ALLERNAADIGSTE ARFVE HERRES OG KONGES EVANGELISKE PAASKE TANCKER</title></bibl><bibl xml:id="biblid99755"><title xml:id="idm140677736717216">DEND FROMME KONG DAVIDS FORKLARING</title></bibl><bibl xml:id="biblid100018"><title xml:id="idm140677736716464">TIL GYLDENLØVE IV</title></bibl><bibl xml:id="biblid100227"><title xml:id="idm140677736711648">KONGELIG MAYTS FØDSELS-DAGS TANKE-RIIM</title></bibl><bibl xml:id="biblid100859"><title xml:id="idm140677736710960">TIL GREVINDE SOPHIA AMALIA MOTH</title></bibl><bibl xml:id="biblid101002"><title xml:id="idm140677736710272">TIL KONGEN</title></bibl><bibl xml:id="biblid101337"><title xml:id="idm140677736709520">EPIGRAM I</title></bibl><bibl xml:id="biblid101386"><title xml:id="idm140677736708832">EN RETSINDIG HERRENS TIENERES OG SANDHEDS ELSKERES, DOG MENNESKENS FANGES FRIMODIGE TALE OG VALET</title></bibl><bibl xml:id="biblid101724"><title xml:id="idm140677736708032">TVENDE ÆCTE PERSONERS BEDRØFVELIGE ATSCHILLELSE VED MANDENS BORTGANG OC LANGVARIGE REYSE,</title></bibl><bibl xml:id="biblid102589"><title xml:id="idm140677736707152">JONÆ PROPHETES BØN</title></bibl><bibl xml:id="biblid102925"><title xml:id="idm140677736706336">TRØST-VALET TILL SIN HOYBEDRØFUED HUSTRU,</title></bibl><bibl xml:id="biblid103772"><title xml:id="idm140677736705488">TIL HANDS KONES MODER</title></bibl><bibl xml:id="biblid104241"><title xml:id="idm140677736704704">TIL HELVIG JUEL</title></bibl><bibl xml:id="biblid54442"><title xml:id="idm140677736703856">DEN FØRSTE GRØDE, DEN FØRSTE FØDE, HØRER HERREN TILL, OG ER HANNEM HELLIG!</title></bibl><bibl xml:id="biblid105152"><title xml:id="idm140677736702864">RIMBØN</title></bibl><bibl xml:id="biblid105293"><title xml:id="idm140677736702016">NAAR DER KASTES JORD PAA LIIG</title></bibl><bibl xml:id="biblid105340"><title xml:id="idm140677736701200">SOMMER-PSALME</title></bibl><bibl xml:id="biblid105560"><title xml:id="idm140677736700416">EEN VIISE</title></bibl><bibl xml:id="biblid105833"><title xml:id="idm140677736699632">DOMINUS DOCTOR JOHANNES SVANINGIUS, per anagrarimata IS OVANS DONUM AC NITIDUS REGNI HONOS, OH! NON MINUS DOCTRINÆ DONIS GAVISUS.</title></bibl><bibl xml:id="biblid105956"><title xml:id="idm140677736698608">Hr. doktor Hans Svane gennem anagrammer,</title></bibl><bibl xml:id="biblid106085"><title xml:id="idm140677736697792">EPIGRAM II</title></bibl><bibl xml:id="biblid106177"><title xml:id="idm140677736696944">PARODI PÅ HORATS I DEN 9. ODE I DEN 1. BOG AF DIGTENE TIL THALIA</title></bibl><bibl xml:id="biblid106293"><title xml:id="idm140677736696048">NATALEM Augustissimi ac Serenissimi REGIS</title></bibl><bibl xml:id="biblid106392"><title xml:id="idm140677736695232">Den ærværdige og høje KONGES FØDSELSDAG</title></bibl><bibl xml:id="biblid106639"><title xml:id="idm140677736694384">AUGUSTISSIMO PRINCIPI REGI AC DOMINO MEO CLEMENTISSIMO</title></bibl><bibl xml:id="biblid106732"><title xml:id="idm140677736693568">TIL DEN HØJÆRVÆRDIGSTE FYRSTE OG KONGE OG MIN MILDESTE HERRE</title></bibl><bibl xml:id="biblid106915"><title xml:id="idm140677736692608">Den fredsstiftende fyrste erobrer freden med sejrrige våben,</title></bibl><bibl xml:id="biblid107793"><title xml:id="idm140677736691712">QVINDE-UKRUDS LIFACTIGE CONTRAFAYT,</title></bibl><bibl xml:id="biblid109432"><title xml:id="idm140677736690960">STUE-FISCHALER, SPIISE-KAMMERFOGEDER STEEGERS-PRÆSIDENTER, GAARD-WISITEURER OG HUUS-KAARS.</title></bibl><bibl xml:id="biblid110695"><title xml:id="idm140677736690016">DELICATE DAMMERS NATURLIGE CONTRAFEI</title></bibl><bibl xml:id="biblid111222"><title xml:id="idm140677736689264">DEN UFORSTANDIGE HARE-FÆNGERS YDMYGSTE SUPPLICATION TIL DE JAGT-MYNDIGE</title></bibl><bibl xml:id="biblid111943"><title xml:id="idm140677736688288">DEND FATTIGES KLAGE OVER GIERRIGHEDS PLAGE</title></bibl><bibl xml:id="biblid112681"><title xml:id="idm140677736687472">RICTIG COPIE AF TESTIFICATIONEN FOR HANEN J KIØBMANDS ANNO</title></bibl><bibl xml:id="biblid112784"><title xml:id="idm140677736686592">ALD HVIS PROTEST MAND HAFVER JMOD OG KRÆMERS HAFN. 1679.</title></bibl><bibl xml:id="biblid112890"><title xml:id="idm140677736685664">VON STÖCKEN I</title></bibl><bibl xml:id="biblid113079"><title xml:id="idm140677736684864">VON STÖCKEN II</title></bibl></listBibl></sourceDesc>
+      <sourceDesc xml:id="idm140677736801040">
+        <bibl xml:id="idm140677736800912">
+          <author n="1" xml:id="idm140677736800224">
+            <name xml:id="idm140677736799968"><surname xml:id="idm140677736799840">Worm</surname>, <forename xml:id="idm140677736799376">Jacob</forename></name>
+          </author>
+          <title xml:id="idm140677736798768">. - [1968]</title>
+          <pubPlace xml:id="idm140677736798512">København</pubPlace>
+          <date xml:id="idm140677736798000">[1968]-1994</date>
+        </bibl>
+        <listBibl xml:id="idm140677736797712">
+          <bibl xml:id="biblid55965">
+            <title xml:id="idm140677736784512">JACOB WORM OG THOMAS KINGO</title>
+          </bibl>
+          <bibl xml:id="biblid56004">
+            <title xml:id="idm140677736783712">SATYRE OVER KINGOS KALOT</title>
+          </bibl>
+          <bibl xml:id="biblid56421">
+            <title xml:id="idm140677736782912">CONTRA-SVAR PAA KINGOS KALOTVISE</title>
+          </bibl>
+          <bibl xml:id="biblid56790">
+            <title xml:id="idm140677736782112">NOGLE CARDINALERS FORSLAG</title>
+          </bibl>
+          <bibl xml:id="biblid56865">
+            <title xml:id="idm140677736781200">Den lille Rubberts Fische-bad,</title>
+          </bibl>
+          <bibl xml:id="biblid58700">
+            <title xml:id="idm140677736780400">Corollaria.</title>
+          </bibl>
+          <bibl xml:id="biblid58958">
+            <title xml:id="idm140677736779616">Horse-Mager,</title>
+          </bibl>
+          <bibl xml:id="biblid59238">
+            <title xml:id="idm140677736778784">DA KINGO BLEF BISCOP</title>
+          </bibl>
+          <bibl xml:id="biblid59343">
+            <title xml:id="idm140677736778000">GUD OG BELIAL</title>
+          </bibl>
+          <bibl xml:id="biblid60882">
+            <title xml:id="idm140677736777168">BAADS-MENDS ÆRE-DIGT OM DEN GYLDENE WIN-TAPPER-SVEND</title>
+          </bibl>
+          <bibl xml:id="biblid61337">
+            <title xml:id="idm140677736776240">STUDIOSUS LAMENTANS DET ER STUDENTERNIS GRAAD</title>
+          </bibl>
+          <bibl xml:id="biblid64083">
+            <title xml:id="idm140677736775376">Tillæg I.</title>
+          </bibl>
+          <bibl xml:id="biblid64221">
+            <title xml:id="idm140677736774544">Tillæg II.</title>
+          </bibl>
+          <bibl xml:id="biblid64318">
+            <title xml:id="idm140677736773760">Tillæg III.</title>
+          </bibl>
+          <bibl xml:id="biblid64369">
+            <title xml:id="idm140677736772960">EN NYE RIIME KUNST</title>
+          </bibl>
+          <bibl xml:id="biblid64681">
+            <title xml:id="idm140677736772112">SIBYLLÆ, SPAADOM [OM] NORDENS ANTICHRIST</title>
+          </bibl>
+          <bibl xml:id="biblid66836">
+            <title xml:id="idm140677736771264">POST SCRIPTUM TRAGICUM ET PROPHETIÆ COMPLEMENTUM</title>
+          </bibl>
+          <bibl xml:id="biblid55514">
+            <title xml:id="idm140677736770352">MAY ER VELKOMMEN</title>
+          </bibl>
+          <bibl xml:id="biblid69859">
+            <title xml:id="idm140677736769520">LYCHENS UBESTANDIGHEDS SPEYL</title>
+          </bibl>
+          <bibl xml:id="biblid72366">
+            <title xml:id="idm140677736768672">STUDIOSUS LAMENTANS REDIVIVUS ET CONTINUATUS</title>
+          </bibl>
+          <bibl xml:id="biblid75244">
+            <title xml:id="idm140677736767808">KONGENS VÆMODIGE KLAGEMAAL</title>
+          </bibl>
+          <bibl xml:id="biblid80515">
+            <title xml:id="idm140677736766992">GEJSTLIGHEDENS HESTE-SUCK OG HOPPE-GISP</title>
+          </bibl>
+          <bibl xml:id="biblid81914">
+            <title xml:id="idm140677736766192">SUPPLICATION TIL KONGEN OM CONSUMPTIONENS OC ANDRE SCHATTERS AFSLAG</title>
+          </bibl>
+          <bibl xml:id="biblid82631">
+            <title xml:id="idm140677736765312">HOROLOGIUM REGIUM</title>
+          </bibl>
+          <bibl xml:id="biblid82636">
+            <title xml:id="idm140677736764480">Dryp [Himmel] Salfve-Flod ned i min Pen og Hierne!</title>
+          </bibl>
+          <bibl xml:id="biblid83056">
+            <title xml:id="idm140677736763552">Hora prima!Deus adsit Regibus sua Gratia.</title>
+          </bibl>
+          <bibl xml:id="biblid83287">
+            <title xml:id="idm140677736762688">Hora Secunda!Deus adsit Regibus sua Gratia.</title>
+          </bibl>
+          <bibl xml:id="biblid83517">
+            <title xml:id="idm140677736761824">Hora Tertia!Deus adsit Regibus sua Gratia.</title>
+          </bibl>
+          <bibl xml:id="biblid83786">
+            <title xml:id="idm140677736761008">Hora Quarta!Deus adsit Regibus sua Gratia.</title>
+          </bibl>
+          <bibl xml:id="biblid84028">
+            <title xml:id="idm140677736760144">Hora Quinta!Deus adsit Regibus sua Gratia.</title>
+          </bibl>
+          <bibl xml:id="biblid84274">
+            <title xml:id="idm140677736759280">Hora Sexta!Deus adsit Regibus sua gratia.</title>
+          </bibl>
+          <bibl xml:id="biblid84547">
+            <title xml:id="idm140677736758416">Hora Septima!Deus adsit Regibus sua Gratia.</title>
+          </bibl>
+          <bibl xml:id="biblid84746">
+            <title xml:id="idm140677736757552">Hora Octava!Deus adsit Regibus sua Gratia.</title>
+          </bibl>
+          <bibl xml:id="biblid84922">
+            <title xml:id="idm140677736756688">Hora Nona! Deus adsit Regibus sua Gratia.</title>
+          </bibl>
+          <bibl xml:id="biblid85154">
+            <title xml:id="idm140677736755824">Hora Decima! Deus adsit Regibus sua Gratia.</title>
+          </bibl>
+          <bibl xml:id="biblid85395">
+            <title xml:id="idm140677736754960">Hora Undecima! Deus adsit Regibus sua Gratia.</title>
+          </bibl>
+          <bibl xml:id="biblid85585">
+            <title xml:id="idm140677736754080">Hora Duodecima! Deus adsit Regibus sua Gratia.</title>
+          </bibl>
+          <bibl xml:id="biblid85831">
+            <title xml:id="idm140677736753216">Conclusio. Seyerverket settes till Huile.</title>
+          </bibl>
+          <bibl xml:id="biblid90904">
+            <title xml:id="idm140677736752352">JESU KLAGEMAA OVER JUDAS OG JØDERNE</title>
+          </bibl>
+          <bibl xml:id="biblid92837">
+            <title xml:id="idm140677736751392">HANS KONGELIG MAJTS VELKOM</title>
+          </bibl>
+          <bibl xml:id="biblid93110">
+            <title xml:id="idm140677736750592">ALLERUNDERDANIGSTE SUPPLICATION</title>
+          </bibl>
+          <bibl xml:id="biblid93230">
+            <title xml:id="idm140677736749728">KONG CHR. 5. NATIVITET OG GLÆDES-FØDSELS DAG</title>
+          </bibl>
+          <bibl xml:id="biblid94367">
+            <title xml:id="idm140677736748816">ALLERUNDERDANIGST SUPPLICATION</title>
+          </bibl>
+          <bibl xml:id="biblid94660">
+            <title xml:id="idm140677736861696">WIBORIGS WELKOM</title>
+          </bibl>
+          <bibl xml:id="biblid94958">
+            <title xml:id="idm140677736860976">TIL GYLDENLØVE I</title>
+          </bibl>
+          <bibl xml:id="biblid95609">
+            <title xml:id="idm140677736860288">ALLERUNDERDANIGST DEPRECATION OG AFFBITT</title>
+          </bibl>
+          <bibl xml:id="biblid96017">
+            <title xml:id="idm140677736859472">TIL PRINTZ FRIDERICH</title>
+          </bibl>
+          <bibl xml:id="biblid96146">
+            <title xml:id="idm140677736858688">TIL GYLDENLØVE II</title>
+          </bibl>
+          <bibl xml:id="biblid96698">
+            <title xml:id="idm140677736857936">GRAAD OG GLÆDE</title>
+          </bibl>
+          <bibl xml:id="biblid97456">
+            <title xml:id="idm140677736722928">DEND DYREBARESTE DIAMANT</title>
+          </bibl>
+          <bibl xml:id="biblid98091">
+            <title xml:id="idm140677736722112">STORMÆCTIGSTE HØYSTBAARNE MONARCH ALLER NAADIGSTEARVE-KONGE!</title>
+          </bibl>
+          <bibl xml:id="biblid98384">
+            <title xml:id="idm140677736721216">TIL DRONNINGEN</title>
+          </bibl>
+          <bibl xml:id="biblid98619">
+            <title xml:id="idm140677736720432">TIL GYLDENLØVE III</title>
+          </bibl>
+          <bibl xml:id="biblid98802">
+            <title xml:id="idm140677736719680">TIL DOCTOR THOMAS KINGO</title>
+          </bibl>
+          <bibl xml:id="biblid99022">
+            <title xml:id="idm140677736718832">TIL FRUE SIDSEL GRUBBE</title>
+          </bibl>
+          <bibl xml:id="biblid99355">
+            <title xml:id="idm140677736718048">MIN ALLERNAADIGSTE ARFVE HERRES OG KONGES EVANGELISKE PAASKE TANCKER</title>
+          </bibl>
+          <bibl xml:id="biblid99755">
+            <title xml:id="idm140677736717216">DEND FROMME KONG DAVIDS FORKLARING</title>
+          </bibl>
+          <bibl xml:id="biblid100018">
+            <title xml:id="idm140677736716464">TIL GYLDENLØVE IV</title>
+          </bibl>
+          <bibl xml:id="biblid100227">
+            <title xml:id="idm140677736711648">KONGELIG MAYTS FØDSELS-DAGS TANKE-RIIM</title>
+          </bibl>
+          <bibl xml:id="biblid100859">
+            <title xml:id="idm140677736710960">TIL GREVINDE SOPHIA AMALIA MOTH</title>
+          </bibl>
+          <bibl xml:id="biblid101002">
+            <title xml:id="idm140677736710272">TIL KONGEN</title>
+          </bibl>
+          <bibl xml:id="biblid101337">
+            <title xml:id="idm140677736709520">EPIGRAM I</title>
+          </bibl>
+          <bibl xml:id="biblid101386">
+            <title xml:id="idm140677736708832">EN RETSINDIG HERRENS TIENERES OG SANDHEDS ELSKERES, DOG MENNESKENS FANGES FRIMODIGE TALE OG VALET</title>
+          </bibl>
+          <bibl xml:id="biblid101724">
+            <title xml:id="idm140677736708032">TVENDE ÆCTE PERSONERS BEDRØFVELIGE ATSCHILLELSE VED MANDENS BORTGANG OC LANGVARIGE REYSE,</title>
+          </bibl>
+          <bibl xml:id="biblid102589">
+            <title xml:id="idm140677736707152">JONÆ PROPHETES BØN</title>
+          </bibl>
+          <bibl xml:id="biblid102925">
+            <title xml:id="idm140677736706336">TRØST-VALET TILL SIN HOYBEDRØFUED HUSTRU,</title>
+          </bibl>
+          <bibl xml:id="biblid103772">
+            <title xml:id="idm140677736705488">TIL HANDS KONES MODER</title>
+          </bibl>
+          <bibl xml:id="biblid104241">
+            <title xml:id="idm140677736704704">TIL HELVIG JUEL</title>
+          </bibl>
+          <bibl xml:id="biblid54442">
+            <title xml:id="idm140677736703856">DEN FØRSTE GRØDE, DEN FØRSTE FØDE, HØRER HERREN TILL, OG ER HANNEM HELLIG!</title>
+          </bibl>
+          <bibl xml:id="biblid105152">
+            <title xml:id="idm140677736702864">RIMBØN</title>
+          </bibl>
+          <bibl xml:id="biblid105293">
+            <title xml:id="idm140677736702016">NAAR DER KASTES JORD PAA LIIG</title>
+          </bibl>
+          <bibl xml:id="biblid105340">
+            <title xml:id="idm140677736701200">SOMMER-PSALME</title>
+          </bibl>
+          <bibl xml:id="biblid105560">
+            <title xml:id="idm140677736700416">EEN VIISE</title>
+          </bibl>
+          <bibl xml:id="biblid105833">
+            <title xml:id="idm140677736699632">DOMINUS DOCTOR JOHANNES SVANINGIUS, per anagrarimata IS OVANS DONUM AC NITIDUS REGNI HONOS, OH! NON MINUS DOCTRINÆ DONIS GAVISUS.</title>
+          </bibl>
+          <bibl xml:id="biblid105956">
+            <title xml:id="idm140677736698608">Hr. doktor Hans Svane gennem anagrammer,</title>
+          </bibl>
+          <bibl xml:id="biblid106085">
+            <title xml:id="idm140677736697792">EPIGRAM II</title>
+          </bibl>
+          <bibl xml:id="biblid106177">
+            <title xml:id="idm140677736696944">PARODI PÅ HORATS I DEN 9. ODE I DEN 1. BOG AF DIGTENE TIL THALIA</title>
+          </bibl>
+          <bibl xml:id="biblid106293">
+            <title xml:id="idm140677736696048">NATALEM Augustissimi ac Serenissimi REGIS</title>
+          </bibl>
+          <bibl xml:id="biblid106392">
+            <title xml:id="idm140677736695232">Den ærværdige og høje KONGES FØDSELSDAG</title>
+          </bibl>
+          <bibl xml:id="biblid106639">
+            <title xml:id="idm140677736694384">AUGUSTISSIMO PRINCIPI REGI AC DOMINO MEO CLEMENTISSIMO</title>
+          </bibl>
+          <bibl xml:id="biblid106732">
+            <title xml:id="idm140677736693568">TIL DEN HØJÆRVÆRDIGSTE FYRSTE OG KONGE OG MIN MILDESTE HERRE</title>
+          </bibl>
+          <bibl xml:id="biblid106915">
+            <title xml:id="idm140677736692608">Den fredsstiftende fyrste erobrer freden med sejrrige våben,</title>
+          </bibl>
+          <bibl xml:id="biblid107793">
+            <title xml:id="idm140677736691712">QVINDE-UKRUDS LIFACTIGE CONTRAFAYT,</title>
+          </bibl>
+          <bibl xml:id="biblid109432">
+            <title xml:id="idm140677736690960">STUE-FISCHALER, SPIISE-KAMMERFOGEDER STEEGERS-PRÆSIDENTER, GAARD-WISITEURER OG HUUS-KAARS.</title>
+          </bibl>
+          <bibl xml:id="biblid110695">
+            <title xml:id="idm140677736690016">DELICATE DAMMERS NATURLIGE CONTRAFEI</title>
+          </bibl>
+          <bibl xml:id="biblid111222">
+            <title xml:id="idm140677736689264">DEN UFORSTANDIGE HARE-FÆNGERS YDMYGSTE SUPPLICATION TIL DE JAGT-MYNDIGE</title>
+          </bibl>
+          <bibl xml:id="biblid111943">
+            <title xml:id="idm140677736688288">DEND FATTIGES KLAGE OVER GIERRIGHEDS PLAGE</title>
+          </bibl>
+          <bibl xml:id="biblid112681">
+            <title xml:id="idm140677736687472">RICTIG COPIE AF TESTIFICATIONEN FOR HANEN J KIØBMANDS ANNO</title>
+          </bibl>
+          <bibl xml:id="biblid112784">
+            <title xml:id="idm140677736686592">ALD HVIS PROTEST MAND HAFVER JMOD OG KRÆMERS HAFN. 1679.</title>
+          </bibl>
+          <bibl xml:id="biblid112890">
+            <title xml:id="idm140677736685664">VON STÖCKEN I</title>
+          </bibl>
+          <bibl xml:id="biblid113079">
+            <title xml:id="idm140677736684864">VON STÖCKEN II</title>
+          </bibl>
+        </listBibl>
+      </sourceDesc>
     </fileDesc>
   </teiHeader>
   <text xml:id="idm140677736684176">

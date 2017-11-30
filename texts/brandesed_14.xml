@@ -1,9 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="idm140221994470368"><!-- 
-       file     ./marc_dir/002143503.xml
-       field     
-       subfield  
-       prefix   -->
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="root">
   <teiHeader xml:id="idm140221994469712">
     <fileDesc xml:id="idm140221994469456">
       <titleStmt xml:id="idm140221994469152">
@@ -18,8 +14,21 @@
         <note xml:id="idm140221994441328">
 	  </note>
       </notesStmt>
-      <sourceDesc xml:id="idm140221994440816"><bibl xml:id="idm140221994440688"><author n="1" xml:id="idm140221994440000"><name xml:id="idm140221994439744"><surname xml:id="idm140221994439616">Brandes</surname>, <forename xml:id="idm140221994439152">Edvard</forename></name></author><title xml:id="idm140221994438864">Under Loven</title><pubPlace xml:id="idm140221994438576">København</pubPlace>
-<date xml:id="idm140221994438096">1891</date></bibl><listBibl xml:id="idm140221994437808"><bibl xml:id="biblid54088"><title xml:id="idm140221994424656">Under Loven</title></bibl></listBibl></sourceDesc>
+      <sourceDesc xml:id="idm140221994440816">
+        <bibl xml:id="idm140221994440688">
+          <author n="1" xml:id="idm140221994440000">
+            <name xml:id="idm140221994439744"><surname xml:id="idm140221994439616">Brandes</surname>, <forename xml:id="idm140221994439152">Edvard</forename></name>
+          </author>
+          <title xml:id="idm140221994438864">Under Loven</title>
+          <pubPlace xml:id="idm140221994438576">København</pubPlace>
+          <date xml:id="idm140221994438096">1891</date>
+        </bibl>
+        <listBibl xml:id="idm140221994437808">
+          <bibl xml:id="biblid54088">
+            <title xml:id="idm140221994424656">Under Loven</title>
+          </bibl>
+        </listBibl>
+      </sourceDesc>
     </fileDesc>
   </teiHeader>
   <text xml:id="workid54088" decls="#biblid54088">

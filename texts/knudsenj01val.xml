@@ -1,10 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!-- 20030521 HHL genindlæst, sidecheck, tabel i indholdsfortegnelse, romertal fjernet -->
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="idm140346607008592"><!-- 
-       file     ./marc_dir/001346230.xml
-       field     
-       subfield  
-       prefix   -->
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="root">
   <teiHeader xml:id="idm140346607007984">
     <fileDesc xml:id="idm140346607007728">
       <titleStmt xml:id="idm140346606982192">
@@ -23,18 +18,24 @@
         <note xml:id="idm140346606977664">
 	  </note>
       </notesStmt>
-      <sourceDesc xml:id="idm140346606977152"><bibl xml:id="idm140346606977024"><author n="1" xml:id="idm140346606976336"><name xml:id="idm140346606976080"><surname xml:id="idm140346606975952">Knudsen</surname>,
-      <forename xml:id="idm140346606975504">Jakob</forename></name></author><title xml:id="idm140346606975216">Gjæring</title><title xml:id="idm140346606974928">Afklaring </title><pubPlace xml:id="idm140346606974640">[København]</pubPlace>; <pubPlace xml:id="idm140346606974176">[Valby]</pubPlace>; <pubPlace xml:id="idm140346606973760">[Ballerup]</pubPlace>
-<publisher xml:id="idm140346606973296">Det Danske Sprog- og Litteraturselskab</publisher><publisher xml:id="idm140346606972992">Borgen</publisher><publisher xml:id="idm140346606972704">i samarbejde med Nyt Dansk Litteraturselskab</publisher><date xml:id="idm140346606972336">cop. 1988</date></bibl><listBibl xml:id="idm140346606972048"><bibl xml:id="biblid54530"><title xml:id="idm140346606958896">Gjæring (Danske Klassikere)</title></bibl><bibl xml:id="biblid69676"><title xml:id="idm140346606958016">Afklaring (Danske Klassikere)</title></bibl></listBibl></sourceDesc>
+      <sourceDesc xml:id="idm140346606977152">
+        <bibl xml:id="idm140346606977024"><author n="1" xml:id="idm140346606976336"><name xml:id="idm140346606976080"><surname xml:id="idm140346606975952">Knudsen</surname>,
+      <forename xml:id="idm140346606975504">Jakob</forename></name></author><title xml:id="idm140346606975216">Gjæring</title><title xml:id="idm140346606974928">Afklaring </title><pubPlace xml:id="idm140346606974640">[København]</pubPlace>; <pubPlace xml:id="idm140346606974176">[Valby]</pubPlace>; <pubPlace xml:id="idm140346606973760">[Ballerup]</pubPlace><publisher xml:id="idm140346606973296">Det Danske Sprog- og Litteraturselskab</publisher><publisher xml:id="idm140346606972992">Borgen</publisher><publisher xml:id="idm140346606972704">i samarbejde med Nyt Dansk Litteraturselskab</publisher><date xml:id="idm140346606972336">cop. 1988</date></bibl>
+        <listBibl xml:id="idm140346606972048">
+          <bibl xml:id="biblid54530">
+            <title xml:id="idm140346606958896">Gjæring (Danske Klassikere)</title>
+          </bibl>
+          <bibl xml:id="biblid69676">
+            <title xml:id="idm140346606958016">Afklaring (Danske Klassikere)</title>
+          </bibl>
+        </listBibl>
+      </sourceDesc>
     </fileDesc>
   </teiHeader>
   <text xml:id="idm140346606957328">
     <front xml:id="idm140346606957072">
       <pb n="1" xml:id="s1" facs="adl/knudsenj/knudsenj1/knud1001"/>
       <gap reason="cancelled" xml:id="idm140346606955600"/>
-<!---->
-<!---->
-<!--Gjæring · Afklaring-->
       <pb n="2" xml:id="s2" facs="adl/knudsenj/knudsenj1/knud1002"/>
       <pb n="3" xml:id="s3" facs="adl/knudsenj/knudsenj1/knud1003"/>
       <titlePage xml:id="idm140346606951856">
@@ -2355,9 +2356,6 @@ Lossen og Laden, svingede ud fra Broen. Karl stod i Agterenden og saae mod Holti
       <pb n="188" xml:id="s188" facs="adl/knudsenj/knudsenj1/knud1188"/>
       <pb n="189" xml:id="s189" facs="adl/knudsenj/knudsenj1/knud1189"/>
       <gap reason="cancelled" xml:id="idm140346605118544"/>
-<!---->
-<!---->
-<!--Afklaring-->
       <pb n="190" xml:id="s190" facs="adl/knudsenj/knudsenj1/knud1190"/>
       <pb n="191" xml:id="s191" facs="adl/knudsenj/knudsenj1/knud1191"/>
       <text xml:id="workid69676" decls="#biblid69676">
@@ -2383,7 +2381,8 @@ Lossen og Laden, svingede ud fra Broen. Karl stod i Agterenden og saae mod Holti
           <div xml:id="idm140346605100832">
             <head xml:id="idm140346605100576">I</head>
             <div xml:id="idm140346605100192">
-		    <p xml:id="idm140346605099936">Karl Wintrup var i saa høj Grad Landbo, saa han havde levet sit første Aar i Kjøbenhavn, uden at det var faldet ham ind at danne sig nogetsomhelst Overblik over denne Murstensverden imellem Valby Bakke og Amagerland, Kalvebodstrand og Øresund. Han havde gaaet, ligesom Sporvognshestene, sine bestemte Ruter ad de Gader, til hvilke hans forskjellige Ærinder førte ham; men naar ikke Ærinderne havde noget med hinanden at gjøre, saa havde han hellerikke tænkt paa at søge Forbindelsen imellem disse forskjellige Ruter, ligesaalidt som han egenlig nogensinde havde forestillet sig Overgangen eller Forbindelsen mellem dette store, kunstige By-Rige og saa det Agerland, de Enge, de Søer og Skove og det Hav, som dog faktisk fandtes derudenfor. Dette sidste havde maaske sin Aarsag i, at han altid var kommen til og fra Kjøbenhavn med Tog eller Dampskib; men for Resten var det selve Byens Storhed, der havde virket til en vis Grad overvældende, saa han havde opgivet Oversigten som noget umuligt.</p><p xml:id="idm140346605096832">Han havde dette første Aar boet i Nørresøgade, og herfra gik for ham fire Veje, der ikke kom hinanden ved: een ad Svineryggen og Gammel Kongevej til Frederiksberg Have og Søndermarken; een til Banegaarden, det vil sige: bort fra det hele, ud i Landet. – De to sidste Veje løb sammen over Teglgaardsbroen og Nørrevold ind til Hjørnet af Teglgaardstræde; herfra gik den ene ind til Universitetet og videre ad Kjøbmager- og Østergade ind til det kongelige Theater; Kjøbmagergade og Østergade var for Karl hele det første Aar Hovedruten igjennem Kjøbenhavn; først senere opdagede han »Strøget«. – Den anden – eller rettere sagt, den fjerde – Vej var ikke som de tre øvrige; thi den var <hi rend="italics" xml:id="idm140346605097760">fortryllet</hi>. Ogsaa af denne Grund maaske havde han aldrig faaet sat nogen Forbindelse mellem den og den foregaaende. Denne fjerde Vej gik ad Nørrevoldgade, forbi Gothersgade og Garderkasernen og derpaa ind ad Porten til Rosenborgs vidunderlige Slot og Have. Naar han kom her, havde Tiden altid staaet stille, thi hvem husker at tælle det bankende Hjertes Slag, – og bag Havens Stammer og Grene, igjennem de høje Porte, som Træernes <pb n="194" xml:id="s194" facs="adl/knudsenj/knudsenj1/knud1194"/> Kroner dannede, saaes Aftensolen glimre i alle Kronprinsessegadens Ruder. Den var saa brat og stejl denne Murklint ned mod Havens Træer, og den var jo levende – Øjne saae ud over Haven fra Klintens Kamre. Hele Aaret havde al Ting spejlet sig her i to mørke, straalende Øjne.</p>
+              <p xml:id="idm140346605099936">Karl Wintrup var i saa høj Grad Landbo, saa han havde levet sit første Aar i Kjøbenhavn, uden at det var faldet ham ind at danne sig nogetsomhelst Overblik over denne Murstensverden imellem Valby Bakke og Amagerland, Kalvebodstrand og Øresund. Han havde gaaet, ligesom Sporvognshestene, sine bestemte Ruter ad de Gader, til hvilke hans forskjellige Ærinder førte ham; men naar ikke Ærinderne havde noget med hinanden at gjøre, saa havde han hellerikke tænkt paa at søge Forbindelsen imellem disse forskjellige Ruter, ligesaalidt som han egenlig nogensinde havde forestillet sig Overgangen eller Forbindelsen mellem dette store, kunstige By-Rige og saa det Agerland, de Enge, de Søer og Skove og det Hav, som dog faktisk fandtes derudenfor. Dette sidste havde maaske sin Aarsag i, at han altid var kommen til og fra Kjøbenhavn med Tog eller Dampskib; men for Resten var det selve Byens Storhed, der havde virket til en vis Grad overvældende, saa han havde opgivet Oversigten som noget umuligt.</p>
+              <p xml:id="idm140346605096832">Han havde dette første Aar boet i Nørresøgade, og herfra gik for ham fire Veje, der ikke kom hinanden ved: een ad Svineryggen og Gammel Kongevej til Frederiksberg Have og Søndermarken; een til Banegaarden, det vil sige: bort fra det hele, ud i Landet. – De to sidste Veje løb sammen over Teglgaardsbroen og Nørrevold ind til Hjørnet af Teglgaardstræde; herfra gik den ene ind til Universitetet og videre ad Kjøbmager- og Østergade ind til det kongelige Theater; Kjøbmagergade og Østergade var for Karl hele det første Aar Hovedruten igjennem Kjøbenhavn; først senere opdagede han »Strøget«. – Den anden – eller rettere sagt, den fjerde – Vej var ikke som de tre øvrige; thi den var <hi rend="italics" xml:id="idm140346605097760">fortryllet</hi>. Ogsaa af denne Grund maaske havde han aldrig faaet sat nogen Forbindelse mellem den og den foregaaende. Denne fjerde Vej gik ad Nørrevoldgade, forbi Gothersgade og Garderkasernen og derpaa ind ad Porten til Rosenborgs vidunderlige Slot og Have. Naar han kom her, havde Tiden altid staaet stille, thi hvem husker at tælle det bankende Hjertes Slag, – og bag Havens Stammer og Grene, igjennem de høje Porte, som Træernes <pb n="194" xml:id="s194" facs="adl/knudsenj/knudsenj1/knud1194"/> Kroner dannede, saaes Aftensolen glimre i alle Kronprinsessegadens Ruder. Den var saa brat og stejl denne Murklint ned mod Havens Træer, og den var jo levende – Øjne saae ud over Haven fra Klintens Kamre. Hele Aaret havde al Ting spejlet sig her i to mørke, straalende Øjne.</p>
               <p xml:id="idm140346605093488">Men hvis nogen havde sagt til Karl, naar han stod paa Kongens Nytorv: Gaa ned ad den Gade histovre, Gothersgade, saa har Du kun to Minuters Gang til Kongens Have, da vilde han sikkert være bleven blussende rød, thi det vilde have kommet ham altfor overraskende, at han befandt sig saa nær ved denne Egn, der for hans Følelse slet intet havde at skaffe med Ruten: Kjøbmagergade – Østergade – Kongens Nytorv.</p>
             </div>
             <div xml:id="idm140346605092128">
@@ -5851,37 +5850,6 @@ Kval.«</p>
           </table>
         </p>
       </div>
-<!-- 			<pb n="446" id="s446"  facs="knud1446"/>
-			<div>
-				<head>Danske Klassikere</head>
-				<p>I hvert bind: kritisk udgivet tekst, efterskrift og noter. Det første sidetal gælder romanen, det andet udgiverens arbejde, der ofte omfatter forskellige
-teksttillæg.</p>
-				<p>B.S.INGEMANN: <hi rend="italics">Valdemar Seier</hi> (1826) ved Marita Akhøj Nielsen &middot; 502 + 56 s.</p>
-				<p>H.C. ANDERSEN: <hi rend="italics">Fodreisefra Holmens Canal til Østpynten af Amager i Aarene 1828 og 1829</hi> (1829) ved Johan de Mylius &middot; 100 + 56 s.</p>
-				<p>H.C ANDERSEN: <hi rend="italics">Skyggebilleder af en Reise til Harzen, det sachsiske Schweitz etc. etc. i Sommeren 1831</hi> (1831) ved Johan de Mylius &middot; 134 + 42 s.</p>
-				<p>THOMASINE GYLLEMBOURG: <hi rend="italics">Drøm og Virkelighed</hi> (1833). <hi rend="italics">To Tidsaldre</hi> (1845) ved Anne Marie Mai og Anni Broue &middot; 230 <hi rend="italics">+</hi> 38 s.</p>
-				<p>H.C. ANDERSEN: <hi rend="italics">Improvisatoren</hi> (1835) ved Mogens Brøndsted &middot; 296 + 34 s.</p>
-				<p>H.C. ANDERSEN: <hi rend="italics">O.T</hi>. (1836) ved Mogens Brøndsted &middot; 260 + 24 s. HANS EGEDE SCHACK: <hi rend="italics">Phantasterne</hi> (1857) ved Jens Kr. Andersen &middot; 280 + 54 s.</p>
-				<p>HOLGER DRACHMANN: <hi rend="italics">En Overkomplet</hi> (1876) ved Aage Schiøttz-Christensen &middot; 228 + 42 s.</p>
-				<p>ERIK SKRAM: <hi rend="italics">Gertrude Coldbjømsen</hi> (1879) ved Pil Dahlerup &middot; 162 + 66 s.</p>
-				<p>J.P. JACOBSEN. <hi rend="italics">Niels Lyhne</hi> (1880) ved Jørn Vosmar &middot; 176 + 48 s.</p>
-				<p>HERMAN BANG: <hi rend="italics">Stuk</hi> (1887) ved Paul Nørreslet &middot; 236 + 68 s. ill.</p>
-				<p>HERMAN BANG: <hi rend="italics">Tine</hi> (1889) ved Villy Sørensen og Marie Hvidt &middot; 154 + 36 s.</p>
-				<p>SOPHUS CLAUSSEN: <hi rend="italics">Unge Bander</hi> (1894) ved Jørgen Hunosøe &middot; 184 + 32 s. HERMAN BANG: <hi rend="italics">Ludvigsbakke</hi> (1896) ved Fl. Conrad og Mette Winge &middot; 256 + 38 s.</p>
-				<p>KARL LARSEN: <hi rend="italics">Københavnerfortællinger: Udenfor Rangklasserne. Kresjan Vesterbro. I det gamle Voldkvartér</hi> (1896-99) ved Anne E. Jensen &middot; 220 + 36 s.</p>
-				<p>JAKOB KNUDSEN: <hi rend="italics">Gjæring &middot; Afklaring</hi> (1902) ved Poul Zerlang &middot; 395 + 50 s.</p>
-				<p>I 1988 udkommer:</p>
-				<p>JOHANNES EWALD: <hi rend="italics">Herr Panthakaks Historie. Levnet og Meeninger</hi> (1770erne) ved</p>
-				<p>Johnny Kondrup</p>
-				<p>H.C. ANDERSEN: <hi rend="italics">Kun en Spillemand</hi> (1837) ved Mogens Brøndsted</p>
-				<p>VILHELM BERGSØE: <hi rend="italics">Fra Piazza del Popolo</hi> (1867/76) ved Flemming Conrad og Lars</p>
-				<p>Rømhild (2 bind)</p>
-				<p>HARALD <hi rend="italics">KIDDE: Jærnet</hi> (1918) ved Knud Bjarne Gjesing</p>
-			</div>
-			<pb n="447" id="s447"  facs="knud1447"/>
-			<pb n="448" id="s448"  facs="knud1448"/>
-         
-         -->
     </back>
   </text>
 </TEI>

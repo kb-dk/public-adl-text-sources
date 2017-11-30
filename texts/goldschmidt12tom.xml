@@ -1,10 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!--Tom opmærkning d.30.4.2002 blo -->
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="idm139899252809008"><!-- 
-       file     ./marc_dir/001823971.xml
-       field     
-       subfield  
-       prefix   -->
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="root">
   <teiHeader xml:id="idm139899252808176">
     <fileDesc xml:id="idm139899252807920">
       <titleStmt xml:id="idm139899252807616">
@@ -23,8 +18,48 @@
         <note xml:id="idm139899252778224">
 	  </note>
       </notesStmt>
-      <sourceDesc xml:id="idm139899252777712"><bibl xml:id="idm139899252777584"><author n="1" xml:id="idm139899252776896"><name xml:id="idm139899252776640"><surname xml:id="idm139899252776512">Goldschmidt</surname>, <forename xml:id="idm139899252776080">M. A.</forename></name></author><title xml:id="idm139899252775792">M. Goldschmidts Poetiske Skrifter</title><pubPlace xml:id="idm139899252775488">København</pubPlace>
-<date xml:id="idm139899252774976">1896-98</date></bibl><listBibl xml:id="idm139899252774688"><bibl xml:id="biblid54263"><title xml:id="idm139899252761536">Smaa Fortællinger</title></bibl><bibl xml:id="biblid54287"><title xml:id="idm139899252760736">Maser</title></bibl><bibl xml:id="biblid54937"><title xml:id="idm139899252759952">Levi og Ibald</title></bibl><bibl xml:id="biblid55498"><title xml:id="idm139899252759168">Den flyvende Post</title></bibl><bibl xml:id="biblid55926"><title xml:id="idm139899252758384">Hævnen</title></bibl><bibl xml:id="biblid56473"><title xml:id="idm139899252757600">Bjergtagen. I.</title></bibl><bibl xml:id="biblid56658"><title xml:id="idm139899252756768">Bjergtagen. II.</title></bibl><bibl xml:id="biblid56823"><title xml:id="idm139899252755984">I en Postvogn</title></bibl><bibl xml:id="biblid57171"><title xml:id="idm139899252755152">Ekko'et</title></bibl><bibl xml:id="biblid58234"><title xml:id="idm139899252754368">Avrohmche Nattergal</title></bibl></listBibl></sourceDesc>
+      <sourceDesc xml:id="idm139899252777712">
+        <bibl xml:id="idm139899252777584">
+          <author n="1" xml:id="idm139899252776896">
+            <name xml:id="idm139899252776640"><surname xml:id="idm139899252776512">Goldschmidt</surname>, <forename xml:id="idm139899252776080">M. A.</forename></name>
+          </author>
+          <title xml:id="idm139899252775792">M. Goldschmidts Poetiske Skrifter</title>
+          <pubPlace xml:id="idm139899252775488">København</pubPlace>
+          <date xml:id="idm139899252774976">1896-98</date>
+        </bibl>
+        <listBibl xml:id="idm139899252774688">
+          <bibl xml:id="biblid54263">
+            <title xml:id="idm139899252761536">Smaa Fortællinger</title>
+          </bibl>
+          <bibl xml:id="biblid54287">
+            <title xml:id="idm139899252760736">Maser</title>
+          </bibl>
+          <bibl xml:id="biblid54937">
+            <title xml:id="idm139899252759952">Levi og Ibald</title>
+          </bibl>
+          <bibl xml:id="biblid55498">
+            <title xml:id="idm139899252759168">Den flyvende Post</title>
+          </bibl>
+          <bibl xml:id="biblid55926">
+            <title xml:id="idm139899252758384">Hævnen</title>
+          </bibl>
+          <bibl xml:id="biblid56473">
+            <title xml:id="idm139899252757600">Bjergtagen. I.</title>
+          </bibl>
+          <bibl xml:id="biblid56658">
+            <title xml:id="idm139899252756768">Bjergtagen. II.</title>
+          </bibl>
+          <bibl xml:id="biblid56823">
+            <title xml:id="idm139899252755984">I en Postvogn</title>
+          </bibl>
+          <bibl xml:id="biblid57171">
+            <title xml:id="idm139899252755152">Ekko'et</title>
+          </bibl>
+          <bibl xml:id="biblid58234">
+            <title xml:id="idm139899252754368">Avrohmche Nattergal</title>
+          </bibl>
+        </listBibl>
+      </sourceDesc>
     </fileDesc>
   </teiHeader>
   <text xml:id="idm139899252753728">

@@ -1,11 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!--  OCR by ATAPY 23.09.2001 (Catherine Bychkova) -->
-<!-- VL: rettet lidt på titlerne; rettet imagefiles: facs="stuck  -->
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="idm140680123960528"><!-- 
-       file     ./marc_dir/001849994.xml
-       field     
-       subfield  
-       prefix   -->
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="root">
   <teiHeader xml:id="idm140680123959632">
     <fileDesc xml:id="idm140680123959376">
       <titleStmt xml:id="idm140680123959072">
@@ -20,19 +14,39 @@
         <note xml:id="idm140680123930912">
 	  </note>
       </notesStmt>
-      <sourceDesc xml:id="idm140680123930400"><bibl xml:id="idm140680123930272"><author n="1" xml:id="idm140680123929584"><name xml:id="idm140680123929328"><surname xml:id="idm140680123929200">Stuckenberg</surname>, <forename xml:id="idm140680123928768">Viggo</forename></name></author><title xml:id="idm140680123928512">Samlede Værker</title><pubPlace xml:id="idm140680123928208">København</pubPlace>
-<date xml:id="idm140680123927696">1910-11</date></bibl><listBibl xml:id="idm140680123927408"><bibl xml:id="biblid54261"><title xml:id="idm140680123914256">I GENNEMBRUD</title></bibl><bibl xml:id="biblid62738"><title xml:id="idm140680123913472">MESSIAS</title></bibl><bibl xml:id="biblid74495"><title xml:id="idm140680123912688">DEN VILDE JÆGER</title></bibl><bibl xml:id="biblid89879"><title xml:id="idm140680123911888">ROMERSKE SCENER</title></bibl><bibl xml:id="biblid100518"><title xml:id="idm140680123911104">FAGRE ORD</title></bibl></listBibl></sourceDesc>
+      <sourceDesc xml:id="idm140680123930400">
+        <bibl xml:id="idm140680123930272">
+          <author n="1" xml:id="idm140680123929584">
+            <name xml:id="idm140680123929328"><surname xml:id="idm140680123929200">Stuckenberg</surname>, <forename xml:id="idm140680123928768">Viggo</forename></name>
+          </author>
+          <title xml:id="idm140680123928512">Samlede Værker</title>
+          <pubPlace xml:id="idm140680123928208">København</pubPlace>
+          <date xml:id="idm140680123927696">1910-11</date>
+        </bibl>
+        <listBibl xml:id="idm140680123927408">
+          <bibl xml:id="biblid54261">
+            <title xml:id="idm140680123914256">I GENNEMBRUD</title>
+          </bibl>
+          <bibl xml:id="biblid62738">
+            <title xml:id="idm140680123913472">MESSIAS</title>
+          </bibl>
+          <bibl xml:id="biblid74495">
+            <title xml:id="idm140680123912688">DEN VILDE JÆGER</title>
+          </bibl>
+          <bibl xml:id="biblid89879">
+            <title xml:id="idm140680123911888">ROMERSKE SCENER</title>
+          </bibl>
+          <bibl xml:id="biblid100518">
+            <title xml:id="idm140680123911104">FAGRE ORD</title>
+          </bibl>
+        </listBibl>
+      </sourceDesc>
     </fileDesc>
   </teiHeader>
   <text xml:id="idm140680123910416">
     <front xml:id="idm140680123910160">
       <pb n="III" facs="adl/stuckenberg/stuckenberg1/stuck1003" xml:id="idm140680123909856"/>
       <gap reason="cancelled" xml:id="idm140680123909040"/>
-<!---->
-<!---->
-<!---->
-<!---->
-<!--VIGGO STUCKENBERG SAMLEDE VÆRKER-->
       <titlePage xml:id="idm140680123906880">
         <titlePart type="main" xml:id="idm140680123906576">
           <figure xml:id="idm140680123906000"/>

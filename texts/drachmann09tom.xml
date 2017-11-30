@@ -1,10 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!--Tom opmærkning blo 02.05.02-->
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="idm140136233442320"><!-- 
-       file     ./marc_dir/001823907.xml
-       field     
-       subfield  
-       prefix   -->
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="root">
   <teiHeader xml:id="idm140136233441488">
     <fileDesc xml:id="idm140136233441232">
       <titleStmt xml:id="idm140136233415728">
@@ -19,8 +14,21 @@
         <note xml:id="idm140136233412864">
 	  </note>
       </notesStmt>
-      <sourceDesc xml:id="idm140136233412352"><bibl xml:id="idm140136233412224"><author n="1" xml:id="idm140136233411536"><name xml:id="idm140136233411280"><surname xml:id="idm140136233411152">Drachmann</surname>, <forename xml:id="idm140136233410720">Holger</forename></name></author><title xml:id="idm140136233410464">Samlede poetiske Skrifter</title><pubPlace xml:id="idm140136233410160">Kbh. &amp; Kristiania</pubPlace>
-<date xml:id="idm140136233409536">1906-1909</date></bibl><listBibl xml:id="idm140136233409280"><bibl xml:id="biblid54134"><title xml:id="idm140136233396128">Forskrevet</title></bibl></listBibl></sourceDesc>
+      <sourceDesc xml:id="idm140136233412352">
+        <bibl xml:id="idm140136233412224">
+          <author n="1" xml:id="idm140136233411536">
+            <name xml:id="idm140136233411280"><surname xml:id="idm140136233411152">Drachmann</surname>, <forename xml:id="idm140136233410720">Holger</forename></name>
+          </author>
+          <title xml:id="idm140136233410464">Samlede poetiske Skrifter</title>
+          <pubPlace xml:id="idm140136233410160">Kbh. &amp; Kristiania</pubPlace>
+          <date xml:id="idm140136233409536">1906-1909</date>
+        </bibl>
+        <listBibl xml:id="idm140136233409280">
+          <bibl xml:id="biblid54134">
+            <title xml:id="idm140136233396128">Forskrevet</title>
+          </bibl>
+        </listBibl>
+      </sourceDesc>
     </fileDesc>
   </teiHeader>
   <text xml:id="idm140136233395488">

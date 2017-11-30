@@ -1,10 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!--Tom opmærkning blo 25.06.02-->
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="idm139935943523472"><!-- 
-       file     ./marc_dir/002729949.xml
-       field     
-       subfield  
-       prefix   -->
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="root">
   <teiHeader xml:id="idm139935943522576">
     <fileDesc xml:id="idm139935943522320">
       <titleStmt xml:id="idm139935943522016">
@@ -19,8 +14,27 @@
         <note xml:id="idm139935943494000">
 	  </note>
       </notesStmt>
-      <sourceDesc xml:id="idm139935943493488"><bibl xml:id="idm139935943493360"><author n="1" xml:id="idm139935943492672"><name xml:id="idm139935943492416"><surname xml:id="idm139935943492288">Gyllembourg-Ehrensvärd</surname>, <forename xml:id="idm139935943491792">T. C.</forename></name></author><title xml:id="idm139935943491536">samlede skrifter af Forf</title><pubPlace xml:id="idm139935943491232">København</pubPlace>
-<date xml:id="idm139935943490752">1866-67</date></bibl><listBibl xml:id="idm139935943490464"><bibl xml:id="biblid54254"><title xml:id="idm139935943477312">Drøm og Virkelighed (1833)</title></bibl><bibl xml:id="biblid55334"><title xml:id="idm139935943476448">Mesalliance (1833)</title></bibl><bibl xml:id="biblid56753"><title xml:id="idm139935943475664">De Forlovede (1834)</title></bibl></listBibl></sourceDesc>
+      <sourceDesc xml:id="idm139935943493488">
+        <bibl xml:id="idm139935943493360">
+          <author n="1" xml:id="idm139935943492672">
+            <name xml:id="idm139935943492416"><surname xml:id="idm139935943492288">Gyllembourg-Ehrensvärd</surname>, <forename xml:id="idm139935943491792">T. C.</forename></name>
+          </author>
+          <title xml:id="idm139935943491536">samlede skrifter af Forf</title>
+          <pubPlace xml:id="idm139935943491232">København</pubPlace>
+          <date xml:id="idm139935943490752">1866-67</date>
+        </bibl>
+        <listBibl xml:id="idm139935943490464">
+          <bibl xml:id="biblid54254">
+            <title xml:id="idm139935943477312">Drøm og Virkelighed (1833)</title>
+          </bibl>
+          <bibl xml:id="biblid55334">
+            <title xml:id="idm139935943476448">Mesalliance (1833)</title>
+          </bibl>
+          <bibl xml:id="biblid56753">
+            <title xml:id="idm139935943475664">De Forlovede (1834)</title>
+          </bibl>
+        </listBibl>
+      </sourceDesc>
     </fileDesc>
   </teiHeader>
   <text xml:id="idm139935943475024">

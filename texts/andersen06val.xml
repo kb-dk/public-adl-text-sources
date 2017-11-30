@@ -1,15 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!-- 20021023 HHL: indsat vaerktitle, tilrette frontmattersidetal
-                             aendret graeske entities til [*]
-
-     20031229 HHL enkelte rettelser - især i noterne. Ptj rettet s. 23-109-
-
--->
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="idm140198238133456"><!-- 
-       file     ./marc_dir/001391913.xml
-       field     
-       subfield  
-       prefix   -->
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="root">
   <teiHeader xml:id="idm140198238132480">
     <fileDesc xml:id="idm140198238132224">
       <titleStmt xml:id="idm140198238131920">
@@ -28,17 +18,20 @@
         <note xml:id="idm140198238102768">
 	  </note>
       </notesStmt>
-      <sourceDesc xml:id="idm140198238102256"><bibl xml:id="idm140198238102128"><author n="1" xml:id="idm140198238101440"><name xml:id="idm140198238101184"><surname xml:id="idm140198238101056">Andersen</surname>, <forename xml:id="idm140198238100592">H. C.</forename></name></author><title xml:id="idm140198238100304">Fodreise fra Holmens Canal til Østpynten af Amager i Aarene 1828 og 1829 </title><pubPlace xml:id="idm140198238099888">[København]</pubPlace>; <pubPlace xml:id="idm140198238099424">[Valby]</pubPlace>; <pubPlace xml:id="idm140198238099008">[Ballerup]</pubPlace>
-<publisher xml:id="idm140198238098544">Det Danske Sprog- og Litteraturselskab</publisher><publisher xml:id="idm140198238098240">Borgen</publisher><publisher xml:id="idm140198238097952">i samarbejde med Nyt Dansk Litteraturselskab</publisher><date xml:id="idm140198238097584">cop. 1986</date></bibl><listBibl xml:id="idm140198238097296"><bibl xml:id="biblid54457"><title xml:id="idm140198238084144">Fodreise</title></bibl></listBibl></sourceDesc>
+      <sourceDesc xml:id="idm140198238102256">
+        <bibl xml:id="idm140198238102128"><author n="1" xml:id="idm140198238101440"><name xml:id="idm140198238101184"><surname xml:id="idm140198238101056">Andersen</surname>, <forename xml:id="idm140198238100592">H. C.</forename></name></author><title xml:id="idm140198238100304">Fodreise fra Holmens Canal til Østpynten af Amager i Aarene 1828 og 1829 </title><pubPlace xml:id="idm140198238099888">[København]</pubPlace>; <pubPlace xml:id="idm140198238099424">[Valby]</pubPlace>; <pubPlace xml:id="idm140198238099008">[Ballerup]</pubPlace><publisher xml:id="idm140198238098544">Det Danske Sprog- og Litteraturselskab</publisher><publisher xml:id="idm140198238098240">Borgen</publisher><publisher xml:id="idm140198238097952">i samarbejde med Nyt Dansk Litteraturselskab</publisher><date xml:id="idm140198238097584">cop. 1986</date></bibl>
+        <listBibl xml:id="idm140198238097296">
+          <bibl xml:id="biblid54457">
+            <title xml:id="idm140198238084144">Fodreise</title>
+          </bibl>
+        </listBibl>
+      </sourceDesc>
     </fileDesc>
   </teiHeader>
   <text xml:id="idm140198238083504">
     <front xml:id="idm140198238083248">
       <pb n="1" facs="adl/andersenhc/andersenhc6/anhc6001" xml:id="idm140198238082944"/>
       <gap reason="cancelled" xml:id="idm140198238082128"/>
-<!---->
-<!---->
-<!--Fodreise-->
       <pb n="2" facs="adl/andersenhc/andersenhc6/anhc6002" xml:id="idm140198238080608"/>
       <pb n="3" facs="adl/andersenhc/andersenhc6/anhc6003" xml:id="idm140198238079824"/>
       <titlePage xml:id="idm140198238079056">
@@ -2611,8 +2604,8 @@
             <p xml:id="idm140198237168144">»Du stirrer paa mig« begyndte det igjen, »begriber ikke dit eget Jeg. Ja
 							det er den ulykkelige Mangel paa et rigtigt Blik ind i de Gamle. Du har
 							ingen Logik; har ikke studeret Philosophernes Værker. Kjender <pb n="80" facs="adl/andersenhc/andersenhc6/anhc6080" xml:id="idm140198237167648"/> ikke <hi rend="italics" xml:id="idm140198237166848">Platos </hi>
-							<!--&tau;-->[*]<!--&omicron;-->[*]
-							<!--&omicron;-->[*]<!--&nu;-->[*], hverken det absolute eller
+							[*][*]
+							[*][*], hverken det absolute eller
 							relative. Lystig flagrer Du Livet igjennem og træder nu paa dit eget
 							Hjerte.«</p>
             <p xml:id="idm140198237164448">Nei det var rigtignok lidt mere end jeg havde drømt om, at et Potte-Skaar
@@ -3222,7 +3215,7 @@
 							hjemme fra 8 til 9, men for Damer er jeg hjemme paa alle Tider. Lev vel!</p>
             <p xml:id="idm140198236902560">(Ulykkeligviis seer jeg først nu at min Bog er bleven 13 Capitler; da det
 							er for seent at gjøre Forandringer, vil jeg, for at ikke et af
-							Capitlerne skal dø <!--*dolgoeO*-->dvs. blive sprungen over, tilføie
+							Capitlerne skal dø dvs. blive sprungen over, tilføie
 							endnu et fjortende Capitel, som rigtignok ikke indeholder noget, men det
 							er Læserne vant til fra mange andre Bøger: - jeg vil heri allene sætte
 							Interpunctions-Tegnene, saa kan enhver efter eget Behag udfylde det saa
@@ -5321,8 +5314,8 @@
 							reformatoriske strømninger i 1500-tallets religiøse liv. - <hi rend="italics" xml:id="idm140198236001408">hos Holberg</hi>: i komedien <hi rend="italics" xml:id="idm140198236000688">Barselstuen</hi>, V akt, 3. scene.</p>
             <eg xml:id="idm140198235999840">80</eg>
             <p xml:id="idm140198235999456"><hi rend="italics" xml:id="idm140198235999328">Platons
-							</hi><!--&tau;-->[*]<!--&omicron;-->[*]
-							<!--&omicron;-->[*]<!--&nu;-->[*]: (græsk, to on) det nuværende.
+							</hi>[*][*]
+							[*][*]: (græsk, to on) det nuværende.
 							- <hi rend="italics" xml:id="idm140198235997376">den sande Væsenhed</hi>: løs henvisning til Hegels
 							filosofi, og dermed også til Hegels elev, J.L. Heibergs tankeverden.</p>
             <eg xml:id="idm140198235996352">83</eg>

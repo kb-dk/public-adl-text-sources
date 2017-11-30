@@ -1,13 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!--- HHL 26.08.2002 skiftet til ISO-8859-1
-andret til laquo og raquo, mdash 
-enkelte tegn udenfor ISO
--->
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="idm139713219722656"><!-- 
-       file     ./marc_dir/001823972.xml
-       field     
-       subfield  
-       prefix   -->
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="root">
   <teiHeader xml:id="idm139713219721744">
     <fileDesc xml:id="idm139713219721488">
       <titleStmt xml:id="idm139713219721184">
@@ -22,8 +14,24 @@ enkelte tegn udenfor ISO
         <note xml:id="idm139713219693008">
 	  </note>
       </notesStmt>
-      <sourceDesc xml:id="idm139713219692448"><bibl xml:id="idm139713219692320"><author n="1" xml:id="idm139713219691632"><name xml:id="idm139713219691376"><surname xml:id="idm139713219691248">Brandes</surname>, <forename xml:id="idm139713219690816">Georg</forename></name></author><title xml:id="idm139713219690560">Samlede Skrifter</title><pubPlace xml:id="idm139713219690272">København</pubPlace>
-<date xml:id="idm139713219689760">1899-1910</date></bibl><listBibl xml:id="idm139713219689472"><bibl xml:id="biblid54333"><title xml:id="idm139713219676320">Hovedstrømninger. Reaktionen i Frankrig (1874)</title></bibl><bibl xml:id="biblid73502"><title xml:id="idm139713219675456">Hovedstrømninger. Naturalismen i England (1875)</title></bibl></listBibl></sourceDesc>
+      <sourceDesc xml:id="idm139713219692448">
+        <bibl xml:id="idm139713219692320">
+          <author n="1" xml:id="idm139713219691632">
+            <name xml:id="idm139713219691376"><surname xml:id="idm139713219691248">Brandes</surname>, <forename xml:id="idm139713219690816">Georg</forename></name>
+          </author>
+          <title xml:id="idm139713219690560">Samlede Skrifter</title>
+          <pubPlace xml:id="idm139713219690272">København</pubPlace>
+          <date xml:id="idm139713219689760">1899-1910</date>
+        </bibl>
+        <listBibl xml:id="idm139713219689472">
+          <bibl xml:id="biblid54333">
+            <title xml:id="idm139713219676320">Hovedstrømninger. Reaktionen i Frankrig (1874)</title>
+          </bibl>
+          <bibl xml:id="biblid73502">
+            <title xml:id="idm139713219675456">Hovedstrømninger. Naturalismen i England (1875)</title>
+          </bibl>
+        </listBibl>
+      </sourceDesc>
     </fileDesc>
   </teiHeader>
   <text xml:id="idm139713219674704">

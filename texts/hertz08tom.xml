@@ -1,10 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!--Tom opmærkning d.01.07.2002 blo -->
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="idm140131724332160"><!-- 
-       file     ./marc_dir/002148279.xml
-       field     
-       subfield  
-       prefix   -->
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="root">
   <teiHeader xml:id="idm140131724331264">
     <fileDesc xml:id="idm140131724331008">
       <titleStmt xml:id="idm140131724330704">
@@ -19,8 +14,27 @@
         <note xml:id="idm140131724302768">
 	  </note>
       </notesStmt>
-      <sourceDesc xml:id="idm140131724302256"><bibl xml:id="idm140131724302128"><author n="1" xml:id="idm140131724301488"><name xml:id="idm140131724301232"><surname xml:id="idm140131724301104">Hertz</surname>, <forename xml:id="idm140131724300640">Henrik</forename></name></author><title xml:id="idm140131724300352">Udvalgte dramatiske Værker</title><pubPlace xml:id="idm140131724300032">København</pubPlace>
-<date xml:id="idm140131724299552">1897</date></bibl><listBibl xml:id="idm140131724299264"><bibl xml:id="biblid54241"><title xml:id="idm140131724286112">Besøget i Kjøbenhavn</title></bibl><bibl xml:id="biblid56132"><title xml:id="idm140131724285296">En Cuurmethode</title></bibl><bibl xml:id="biblid54363"><title xml:id="idm140131724284464">Advokaten og hans Myndling</title></bibl></listBibl></sourceDesc>
+      <sourceDesc xml:id="idm140131724302256">
+        <bibl xml:id="idm140131724302128">
+          <author n="1" xml:id="idm140131724301488">
+            <name xml:id="idm140131724301232"><surname xml:id="idm140131724301104">Hertz</surname>, <forename xml:id="idm140131724300640">Henrik</forename></name>
+          </author>
+          <title xml:id="idm140131724300352">Udvalgte dramatiske Værker</title>
+          <pubPlace xml:id="idm140131724300032">København</pubPlace>
+          <date xml:id="idm140131724299552">1897</date>
+        </bibl>
+        <listBibl xml:id="idm140131724299264">
+          <bibl xml:id="biblid54241">
+            <title xml:id="idm140131724286112">Besøget i Kjøbenhavn</title>
+          </bibl>
+          <bibl xml:id="biblid56132">
+            <title xml:id="idm140131724285296">En Cuurmethode</title>
+          </bibl>
+          <bibl xml:id="biblid54363">
+            <title xml:id="idm140131724284464">Advokaten og hans Myndling</title>
+          </bibl>
+        </listBibl>
+      </sourceDesc>
     </fileDesc>
   </teiHeader>
   <text xml:id="idm140131724283776">

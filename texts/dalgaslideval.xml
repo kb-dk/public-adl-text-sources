@@ -1,20 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!-- edited with XML Spy v3.5 NT (http://www.xmlspy.com) by Birgit Henriksen (the royal library denmark) -->
-<!-- edited with XML Spy v3.5 NT (http://www.xmlspy.com) by DWA (Det Kongelige Bibliotek) -->
-<!--gbl 14.08.2001-->
-<!-- skal gennemrettes
-- "t Og " -> "t. Og "  - er sket 13.6.2002
-- "d Og " -> "d. Og "  - er sket 13.6.2002
-- overflødige bindestreger,  passe  "- og"  og "- eller " - ordnet 13.6.2002
-- 200211017 HHL:fjernet bindestreger ved sideslut
--->
-<!--20021017 HHL: fjernet bindestrger ved sideslut-->
-<!-- 20070620 VL: rettelse s. 183 -->
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="idm139862325425872"><!-- 
-       file     ./marc_dir/001568793.xml
-       field     
-       subfield  
-       prefix   -->
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="root">
   <teiHeader xml:id="idm139862325400256">
     <fileDesc xml:id="idm139862325400000">
       <titleStmt xml:id="idm139862325399744">
@@ -33,17 +18,23 @@
         <note xml:id="idm139862325395712">
 	  </note>
       </notesStmt>
-      <sourceDesc xml:id="idm139862325395200"><bibl xml:id="idm139862325395072"><author n="1" xml:id="idm139862325394384"><name xml:id="idm139862325394128"><surname xml:id="idm139862325394000">Dalgas</surname>, <forename xml:id="idm139862325393536">Ernesto</forename></name></author><title xml:id="idm139862325393248">Lidelsens Vej</title><pubPlace xml:id="idm139862325392960">[København]</pubPlace>; <pubPlace xml:id="idm139862325392496">[Valby]</pubPlace>
-<publisher xml:id="idm139862325392032">Det Danske Sprog- og Litteraturselskab</publisher><publisher xml:id="idm139862325391728">Borgen</publisher><date xml:id="idm139862325391392">1993</date></bibl><listBibl xml:id="idm139862325391104"><bibl xml:id="biblid53744"><title xml:id="idm139862325377952">Lidelsens Vej</title></bibl><bibl xml:id="biblid70073"><title xml:id="idm139862325377168">Tillæg til Lidelsens Vej</title></bibl></listBibl></sourceDesc>
+      <sourceDesc xml:id="idm139862325395200">
+        <bibl xml:id="idm139862325395072"><author n="1" xml:id="idm139862325394384"><name xml:id="idm139862325394128"><surname xml:id="idm139862325394000">Dalgas</surname>, <forename xml:id="idm139862325393536">Ernesto</forename></name></author><title xml:id="idm139862325393248">Lidelsens Vej</title><pubPlace xml:id="idm139862325392960">[København]</pubPlace>; <pubPlace xml:id="idm139862325392496">[Valby]</pubPlace><publisher xml:id="idm139862325392032">Det Danske Sprog- og Litteraturselskab</publisher><publisher xml:id="idm139862325391728">Borgen</publisher><date xml:id="idm139862325391392">1993</date></bibl>
+        <listBibl xml:id="idm139862325391104">
+          <bibl xml:id="biblid53744">
+            <title xml:id="idm139862325377952">Lidelsens Vej</title>
+          </bibl>
+          <bibl xml:id="biblid70073">
+            <title xml:id="idm139862325377168">Tillæg til Lidelsens Vej</title>
+          </bibl>
+        </listBibl>
+      </sourceDesc>
     </fileDesc>
   </teiHeader>
   <text xml:id="idm139862325376464">
     <front xml:id="idm139862325376208">
       <pb n="1" facs="adl/dalgas/dalgas2/dalgas2001" xml:id="idm139862325375904"/>
       <gap reason="cancelled" xml:id="idm139862325375120"/>
-<!---->
-<!---->
-<!--Lidelsens Vej-->
       <pb n="2" facs="adl/dalgas/dalgas2/dalgas2002" xml:id="idm139862325373600"/>
       <pb n="3" facs="adl/dalgas/dalgas2/dalgas2003" xml:id="idm139862325372816"/>
       <titlePage xml:id="idm139862325372048">

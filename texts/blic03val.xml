@@ -1,19 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!-- 20030501 HHL hurtigt OCR-check: en del ø -> o, en enkelt "_rn", ostlig, Doren;  ikke helt god
-        20030522 HHL tabel ved indholdsfortegnelse
-                     fjerne bindestreger (mange)
-                     checket igen for ocr-fejl - ike mange tilbage
-                     
-                NB paralleltekst i E Bindstow, afflages når loades, vaerktitle fjernet fra denne titel
-                rettet et par Foulum'er  + mgl. mellemrum mellem bindestreg og efterfølgende ord.
-                Ptj rettet  s. 33-
-                
-                -->
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="idm140515389564880"><!-- 
-       file     ./marc_dir/001518816.xml
-       field     
-       subfield  
-       prefix   -->
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="root">
   <teiHeader xml:id="idm140515389565776">
     <fileDesc xml:id="idm140515389565520">
       <titleStmt xml:id="idm140515389565216">
@@ -34,17 +20,50 @@
         <note xml:id="idm140515389534000">
 	  </note>
       </notesStmt>
-      <sourceDesc xml:id="idm140515389533488"><bibl xml:id="idm140515389533360"><author n="1" xml:id="idm140515389532672"><name xml:id="idm140515389532416"><surname xml:id="idm140515389532288">Blicher</surname>, <forename xml:id="idm140515389531824">Steen Steensen</forename></name></author><title xml:id="idm140515389531536">Noveller</title><pubPlace xml:id="idm140515389531248">[København]</pubPlace>; <pubPlace xml:id="idm140515389530784">[Valby]</pubPlace>
-<publisher xml:id="idm140515389530320">Det Danske Sprog- og Litteraturselskab</publisher><publisher xml:id="idm140515389530016">Borgen</publisher><date xml:id="idm140515389529680">1991</date></bibl><listBibl xml:id="idm140515389529392"><bibl xml:id="biblid54595"><title xml:id="idm140515389516240">Brudstykker af en Landsbydegns Dagbog (DK)</title></bibl><bibl xml:id="biblid56870"><title xml:id="idm140515389515424">Røverstuen (DK)</title></bibl><bibl xml:id="biblid59470"><title xml:id="idm140515389514624">Sildig Opvaagnen (DK)</title></bibl><bibl xml:id="biblid60767"><title xml:id="idm140515389513792">Ak! hvor forandret! (DK)</title></bibl><bibl xml:id="biblid62039"><title xml:id="idm140515389512992">Hosekræmmeren (DK)</title></bibl><bibl xml:id="biblid62889"><title xml:id="idm140515389512192">Præsten i Vejlbye (DK)</title></bibl><bibl xml:id="biblid64554"><title xml:id="idm140515389511376">Juleferierne (DK)</title></bibl><bibl xml:id="biblid67968"><title xml:id="idm140515389510592">Skytten paa Aunsbjerg (DK)</title></bibl><bibl xml:id="biblid68775"><title xml:id="idm140515389509744">De tre Helligaftener (DK)</title></bibl><bibl xml:id="biblid69524"><title xml:id="idm140515389508896">Eneste Barn (DK)</title></bibl><bibl xml:id="biblid70257"><title xml:id="idm140515389508064">E Bindstouw (DK) (paralleltekst med Rigsmålsgengivelse)</title></bibl></listBibl></sourceDesc>
+      <sourceDesc xml:id="idm140515389533488">
+        <bibl xml:id="idm140515389533360"><author n="1" xml:id="idm140515389532672"><name xml:id="idm140515389532416"><surname xml:id="idm140515389532288">Blicher</surname>, <forename xml:id="idm140515389531824">Steen Steensen</forename></name></author><title xml:id="idm140515389531536">Noveller</title><pubPlace xml:id="idm140515389531248">[København]</pubPlace>; <pubPlace xml:id="idm140515389530784">[Valby]</pubPlace><publisher xml:id="idm140515389530320">Det Danske Sprog- og Litteraturselskab</publisher><publisher xml:id="idm140515389530016">Borgen</publisher><date xml:id="idm140515389529680">1991</date></bibl>
+        <listBibl xml:id="idm140515389529392">
+          <bibl xml:id="biblid54595">
+            <title xml:id="idm140515389516240">Brudstykker af en Landsbydegns Dagbog (DK)</title>
+          </bibl>
+          <bibl xml:id="biblid56870">
+            <title xml:id="idm140515389515424">Røverstuen (DK)</title>
+          </bibl>
+          <bibl xml:id="biblid59470">
+            <title xml:id="idm140515389514624">Sildig Opvaagnen (DK)</title>
+          </bibl>
+          <bibl xml:id="biblid60767">
+            <title xml:id="idm140515389513792">Ak! hvor forandret! (DK)</title>
+          </bibl>
+          <bibl xml:id="biblid62039">
+            <title xml:id="idm140515389512992">Hosekræmmeren (DK)</title>
+          </bibl>
+          <bibl xml:id="biblid62889">
+            <title xml:id="idm140515389512192">Præsten i Vejlbye (DK)</title>
+          </bibl>
+          <bibl xml:id="biblid64554">
+            <title xml:id="idm140515389511376">Juleferierne (DK)</title>
+          </bibl>
+          <bibl xml:id="biblid67968">
+            <title xml:id="idm140515389510592">Skytten paa Aunsbjerg (DK)</title>
+          </bibl>
+          <bibl xml:id="biblid68775">
+            <title xml:id="idm140515389509744">De tre Helligaftener (DK)</title>
+          </bibl>
+          <bibl xml:id="biblid69524">
+            <title xml:id="idm140515389508896">Eneste Barn (DK)</title>
+          </bibl>
+          <bibl xml:id="biblid70257">
+            <title xml:id="idm140515389508064">E Bindstouw (DK) (paralleltekst med Rigsmålsgengivelse)</title>
+          </bibl>
+        </listBibl>
+      </sourceDesc>
     </fileDesc>
   </teiHeader>
   <text xml:id="idm140515389507296">
     <front xml:id="idm140515389507040">
       <pb n="1" xml:id="s1" facs="adl/blich/blich3/blic3001"/>
       <gap reason="cancelled" xml:id="idm140515389505568"/>
-<!---->
-<!---->
-<!--Noveller-->
       <pb n="2" xml:id="s2" facs="adl/blich/blich3/blic3002"/>
       <pb n="3" xml:id="s3" facs="adl/blich/blich3/blic3003"/>
       <titlePage xml:id="idm140515389501824">

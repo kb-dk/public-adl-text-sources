@@ -1,9 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="idm140047358238992"><!-- 
-       file     ./marc_dir/007264777.xml
-       field     
-       subfield  
-       prefix   -->
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="root">
   <teiHeader xml:id="idm140047358245376">
     <fileDesc xml:id="idm140047358245120">
       <titleStmt xml:id="idm140047358244816">
@@ -18,8 +14,14 @@
         <note xml:id="idm140047358216768">
 	  </note>
       </notesStmt>
-      <sourceDesc xml:id="idm140047358216256"><bibl xml:id="idm140047358216128"><author n="1" xml:id="idm140047358215440"><name xml:id="idm140047358215184"><surname xml:id="idm140047358215056">Hjortø</surname>, <forename xml:id="idm140047358214592">Knud</forename></name></author><title xml:id="idm140047358214304">To verdener</title><pubPlace xml:id="idm140047358214016">[København]</pubPlace>; <pubPlace xml:id="idm140047358213552">[Valby]</pubPlace>
-<publisher xml:id="idm140047358213088">Det Danske Sprog- og Litteraturselskab</publisher><publisher xml:id="idm140047358212784">Borgen</publisher><date xml:id="idm140047358212448">2008</date></bibl><listBibl xml:id="idm140047358212160"><bibl xml:id="biblid54087"><title xml:id="idm140047358199008">To verdener (Danske Klassikere)</title></bibl></listBibl></sourceDesc>
+      <sourceDesc xml:id="idm140047358216256">
+        <bibl xml:id="idm140047358216128"><author n="1" xml:id="idm140047358215440"><name xml:id="idm140047358215184"><surname xml:id="idm140047358215056">Hjortø</surname>, <forename xml:id="idm140047358214592">Knud</forename></name></author><title xml:id="idm140047358214304">To verdener</title><pubPlace xml:id="idm140047358214016">[København]</pubPlace>; <pubPlace xml:id="idm140047358213552">[Valby]</pubPlace><publisher xml:id="idm140047358213088">Det Danske Sprog- og Litteraturselskab</publisher><publisher xml:id="idm140047358212784">Borgen</publisher><date xml:id="idm140047358212448">2008</date></bibl>
+        <listBibl xml:id="idm140047358212160">
+          <bibl xml:id="biblid54087">
+            <title xml:id="idm140047358199008">To verdener (Danske Klassikere)</title>
+          </bibl>
+        </listBibl>
+      </sourceDesc>
     </fileDesc>
   </teiHeader>
   <text xml:id="workid54087" decls="#biblid54087">

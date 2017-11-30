@@ -1,9 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="idm140053906283568"><!-- 
-       file     ./marc_dir/001521409.xml
-       field     
-       subfield  
-       prefix   -->
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="root">
   <teiHeader xml:id="idm140053906282912">
     <fileDesc xml:id="idm140053906282656">
       <titleStmt xml:id="idm140053906282352">
@@ -18,12 +14,23 @@
         <note xml:id="idm140053906254224">
 	  </note>
       </notesStmt>
-      <sourceDesc xml:id="idm140053906253712"><bibl
-						  xml:id="idm140053906253584"><title xml:id="idm140053906253456">Under
+      <sourceDesc xml:id="idm140053906253712">
+        <bibl xml:id="idm140053906253584">
+          <title xml:id="idm140053906253456">Under
       vor sidste Krig</title>
-<author n="1" xml:id="idm140378516808096"><name xml:id="idm140378516807840"><surname xml:id="idm140378516807712">Larsen</surname>, <forename xml:id="idm140378516807280">Karl</forename></name></author>
-<pubPlace xml:id="idm140053906253200">Kjøbenhavn</pubPlace>
-<publisher xml:id="idm140053906252768">Gyldendal</publisher><date xml:id="idm140053906252432">1897</date></bibl><listBibl xml:id="idm140053906252144"><bibl xml:id="biblid54089"><title xml:id="idm140053906238656">Under vor sidste Krig</title></bibl></listBibl></sourceDesc>
+          <author n="1" xml:id="idm140378516808096">
+            <name xml:id="idm140378516807840"><surname xml:id="idm140378516807712">Larsen</surname>, <forename xml:id="idm140378516807280">Karl</forename></name>
+          </author>
+          <pubPlace xml:id="idm140053906253200">Kjøbenhavn</pubPlace>
+          <publisher xml:id="idm140053906252768">Gyldendal</publisher>
+          <date xml:id="idm140053906252432">1897</date>
+        </bibl>
+        <listBibl xml:id="idm140053906252144">
+          <bibl xml:id="biblid54089">
+            <title xml:id="idm140053906238656">Under vor sidste Krig</title>
+          </bibl>
+        </listBibl>
+      </sourceDesc>
     </fileDesc>
   </teiHeader>
   <text xml:id="workid54089" decls="#biblid54089">

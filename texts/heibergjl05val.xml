@@ -1,12 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!-- 20030522 HHL dolgoe -> dvs.
-                     indsat vaerktitler, tilrettet <pb>
-   -->
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="idm140194652585040"><!-- 
-       file     ./marc_dir/001483128.xml
-       field     
-       subfield  
-       prefix   -->
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="root">
   <teiHeader xml:id="idm140194652584304">
     <fileDesc xml:id="idm140194652584048">
       <titleStmt xml:id="idm140194652583744">
@@ -25,17 +18,32 @@
         <note xml:id="idm140194652553904">
 	  </note>
       </notesStmt>
-      <sourceDesc xml:id="idm140194652553392"><bibl xml:id="idm140194652553264"><author n="1" xml:id="idm140194652552576"><name xml:id="idm140194652552320"><surname xml:id="idm140194652552192">Heiberg</surname>, <forename xml:id="idm140194652551728">Johan Ludvig</forename></name></author><title xml:id="idm140194652551440">Nye digte - 1841</title><pubPlace xml:id="idm140194652551152">[København]</pubPlace>; <pubPlace xml:id="idm140194652550688">[Valby]</pubPlace>
-<publisher xml:id="idm140194652550224">Det Danske Sprog- og Litteraturselskab</publisher><publisher xml:id="idm140194652549920">Borgen</publisher><date xml:id="idm140194652549584">cop. 1990</date></bibl><listBibl xml:id="idm140194652549296"><bibl xml:id="biblid54602"><title xml:id="idm140194652536144">Gudstjeneste</title></bibl><bibl xml:id="biblid56397"><title xml:id="idm140194652535312">En Sjæl efter Døden</title></bibl><bibl xml:id="biblid67324"><title xml:id="idm140194652534496">De Nygifte</title></bibl><bibl xml:id="biblid72405"><title xml:id="idm140194652533712">Protestantismen i Naturen</title></bibl><bibl xml:id="biblid72832"><title xml:id="idm140194652532864">Cantate ved Universitetets Fest ...  1839</title></bibl></listBibl></sourceDesc>
+      <sourceDesc xml:id="idm140194652553392">
+        <bibl xml:id="idm140194652553264"><author n="1" xml:id="idm140194652552576"><name xml:id="idm140194652552320"><surname xml:id="idm140194652552192">Heiberg</surname>, <forename xml:id="idm140194652551728">Johan Ludvig</forename></name></author><title xml:id="idm140194652551440">Nye digte - 1841</title><pubPlace xml:id="idm140194652551152">[København]</pubPlace>; <pubPlace xml:id="idm140194652550688">[Valby]</pubPlace><publisher xml:id="idm140194652550224">Det Danske Sprog- og Litteraturselskab</publisher><publisher xml:id="idm140194652549920">Borgen</publisher><date xml:id="idm140194652549584">cop. 1990</date></bibl>
+        <listBibl xml:id="idm140194652549296">
+          <bibl xml:id="biblid54602">
+            <title xml:id="idm140194652536144">Gudstjeneste</title>
+          </bibl>
+          <bibl xml:id="biblid56397">
+            <title xml:id="idm140194652535312">En Sjæl efter Døden</title>
+          </bibl>
+          <bibl xml:id="biblid67324">
+            <title xml:id="idm140194652534496">De Nygifte</title>
+          </bibl>
+          <bibl xml:id="biblid72405">
+            <title xml:id="idm140194652533712">Protestantismen i Naturen</title>
+          </bibl>
+          <bibl xml:id="biblid72832">
+            <title xml:id="idm140194652532864">Cantate ved Universitetets Fest ...  1839</title>
+          </bibl>
+        </listBibl>
+      </sourceDesc>
     </fileDesc>
   </teiHeader>
   <text xml:id="idm140194652532160">
     <front xml:id="idm140194652531904">
       <pb n="1" xml:id="s1" facs="adl/heibergjl/heibergjl5/heibergjl5001"/>
       <gap reason="cancelled" xml:id="idm140194652530432"/>
-<!---->
-<!---->
-<!--Nye Digte 1841-->
       <pb n="2" xml:id="s2" facs="adl/heibergjl/heibergjl5/heibergjl5002"/>
       <pb n="3" xml:id="s3" facs="adl/heibergjl/heibergjl5/heibergjl5003"/>
       <titlePage xml:id="idm140194652526688">
@@ -6180,7 +6188,7 @@
 								Phantasie, men han bliver aldrig andet end en ziirlig Selskabsdukke,
 								for mig yderst uelskværdig, eftersom han ikke et Øieblik kan kraftig
 								og ærlig nærme sig nogen. Han er stedse høflig, aldrig varm
-								<!--*dolgoeO*:-->dvs. at sige i Livet, en Blanding af en
+								dvs. at sige i Livet, en Blanding af en
 								Kammerjunker og en poetisk Gadedreng«. (Morten Borup: J.L. <hi rend="italics" xml:id="idm140194650193056">Heiberg</hi>, 1947, I s. 223 f.).</p>
               <p xml:id="idm140194650192240">Den 3. juni rundede Hauch generøst portrættet af: »Heiberg maa nu
 								være kommen til Kiøbenhavn. Man siger han skal ansættes i Kiel, det

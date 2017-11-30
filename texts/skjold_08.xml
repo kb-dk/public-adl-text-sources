@@ -1,9 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="idm140074494905056"><!-- 
-       file     ./marc_dir/001923322.xml
-       field     
-       subfield  
-       prefix   -->
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="root">
   <teiHeader xml:id="idm140074494909088">
     <fileDesc xml:id="idm140074494908832">
       <titleStmt xml:id="idm140074494908528">
@@ -18,8 +14,21 @@
         <note xml:id="idm140074494880432">
 	  </note>
       </notesStmt>
-      <sourceDesc xml:id="idm140074494879920"><bibl xml:id="idm140074494879792"><author n="1" xml:id="idm140074494879104"><name xml:id="idm140074494878848"><surname xml:id="idm140074494878720">Skjoldborg</surname>, <forename xml:id="idm140074494878256">Johan</forename></name></author><title xml:id="idm140074494877968">Slægten</title><pubPlace xml:id="idm140074494877680">København</pubPlace>
-<date xml:id="idm140074494877200">1925</date></bibl><listBibl xml:id="idm140074494876912"><bibl xml:id="biblid54088"><title xml:id="idm140074494863760">Slægten</title></bibl></listBibl></sourceDesc>
+      <sourceDesc xml:id="idm140074494879920">
+        <bibl xml:id="idm140074494879792">
+          <author n="1" xml:id="idm140074494879104">
+            <name xml:id="idm140074494878848"><surname xml:id="idm140074494878720">Skjoldborg</surname>, <forename xml:id="idm140074494878256">Johan</forename></name>
+          </author>
+          <title xml:id="idm140074494877968">Slægten</title>
+          <pubPlace xml:id="idm140074494877680">København</pubPlace>
+          <date xml:id="idm140074494877200">1925</date>
+        </bibl>
+        <listBibl xml:id="idm140074494876912">
+          <bibl xml:id="biblid54088">
+            <title xml:id="idm140074494863760">Slægten</title>
+          </bibl>
+        </listBibl>
+      </sourceDesc>
     </fileDesc>
   </teiHeader>
   <text xml:id="workid54088" decls="#biblid54088">

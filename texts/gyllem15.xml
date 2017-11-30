@@ -1,10 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!-- 20.9.02 VL + vaerktitle -->
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="idm140012813667280"><!-- 
-       file     ./marc_dir/001397142.xml
-       field     
-       subfield  
-       prefix   -->
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="root">
   <teiHeader xml:id="idm140012813666672">
     <fileDesc xml:id="idm140012813666416">
       <titleStmt xml:id="idm140012813666112">
@@ -23,23 +18,29 @@
         <note xml:id="idm140012813636848">
 	  </note>
       </notesStmt>
-      <sourceDesc xml:id="idm140012813636336"><bibl
-						  xml:id="idm140012813636208"><author
-										  n="1"
-										  xml:id="idm140012813635520"><name
-														  xml:id="idm140012813635264"><surname
-																		  xml:id="idm140012813635136">Gyllembourg-Ehrensvärd</surname>,
-      <forename xml:id="idm140012813634672">T. C.</forename></name></author><title xml:id="idm140012813634384">Ægtestand</title><pubPlace xml:id="idm140012813634096">[Varde]</pubPlace>
-<publisher xml:id="idm140012813633632">Dansklærerforeningen/Skov</publisher><date xml:id="idm140012813633264">cop. 1982</date></bibl><listBibl xml:id="idm140012813632976"><bibl xml:id="biblid54099"><title xml:id="idm140012813619824">Ægtestand</title></bibl></listBibl></sourceDesc>
+      <sourceDesc xml:id="idm140012813636336">
+        <bibl xml:id="idm140012813636208">
+          <author n="1" xml:id="idm140012813635520">
+            <name xml:id="idm140012813635264"><surname xml:id="idm140012813635136">Gyllembourg-Ehrensvärd</surname>,
+      <forename xml:id="idm140012813634672">T. C.</forename></name>
+          </author>
+          <title xml:id="idm140012813634384">Ægtestand</title>
+          <pubPlace xml:id="idm140012813634096">[Varde]</pubPlace>
+          <publisher xml:id="idm140012813633632">Dansklærerforeningen/Skov</publisher>
+          <date xml:id="idm140012813633264">cop. 1982</date>
+        </bibl>
+        <listBibl xml:id="idm140012813632976">
+          <bibl xml:id="biblid54099">
+            <title xml:id="idm140012813619824">Ægtestand</title>
+          </bibl>
+        </listBibl>
+      </sourceDesc>
     </fileDesc>
   </teiHeader>
   <text xml:id="workid54099" decls="#biblid54099">
     <front xml:id="idm140012813618192">
       <pb n="I" facs="adl/gyllem/gyllem15/gyllem15001" xml:id="idm140012813617888"/>
       <gap reason="cancelled" xml:id="idm140012813617024"/>
-<!---->
-<!---->
-<!--Ægtestand-->
       <pb n="II" facs="adl/gyllem/gyllem15/gyllem15002" xml:id="idm140012813615424"/>
       <pb n="III" facs="adl/gyllem/gyllem15/gyllem15003" xml:id="idm140012813614768"/>
       <titlePage xml:id="idm140012813614000">

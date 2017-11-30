@@ -1,13 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!-- 
-20021023 HHL: indsat vaerktitler (ikke i Tillaegget)
-aendret en del div'er
--->
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="idm139871601060608"><!-- 
-       file     ./marc_dir/001670222.xml
-       field     
-       subfield  
-       prefix   -->
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="root">
   <teiHeader xml:id="idm139871601059952">
     <fileDesc xml:id="idm139871601059696">
       <titleStmt xml:id="idm139871601094144">
@@ -22,17 +14,172 @@ aendret en del div'er
         <note xml:id="idm139871601031536">
 	  </note>
       </notesStmt>
-      <sourceDesc xml:id="idm139871601031024"><bibl xml:id="idm139871601030896"><author n="1" xml:id="idm139871601030256"><name xml:id="idm139871601030000"><surname xml:id="idm139871601029872">Stub</surname>, <forename xml:id="idm139871601029408">Ambrosius</forename></name></author><title xml:id="idm139871601029120">Digte</title><pubPlace xml:id="idm139871601028832">[København]</pubPlace>
-<publisher xml:id="idm139871601028368">Rosenkilde og Bagger</publisher><date xml:id="idm139871601028032">1972</date></bibl><listBibl xml:id="idm139871601027744"><bibl xml:id="biblid55040"><title xml:id="idm139871601014592">Vor stoere Falsters Liv</title></bibl><bibl xml:id="biblid55907"><title xml:id="idm139871601013808">Toe Rigers Velfærds Fødsels Dag</title></bibl><bibl xml:id="biblid56324"><title xml:id="idm139871601012976">Stubs Vers over Jens Mahler</title></bibl><bibl xml:id="biblid56415"><title xml:id="idm139871601012128">En Drikke-Skaal i et muntert Selskab hos en Præst</title></bibl><bibl xml:id="biblid56512"><title xml:id="idm139871601011264">Chanson à boire</title></bibl><bibl xml:id="biblid56610"><title xml:id="idm139871601010464">Paaskrift paa en Slet Daase, hvori var got Tobak</title></bibl><bibl xml:id="biblid56684"><title xml:id="idm139871601009648">Jeg er et Hoved uden Krop</title></bibl><bibl xml:id="biblid56791"><title xml:id="idm139871601008848">Mand, Mand, Mand</title></bibl><bibl xml:id="biblid56878"><title xml:id="idm139871601008016">Impromtu (Vel født er vel en Trøst)</title></bibl><bibl xml:id="biblid57135"><title xml:id="idm139871601007120">Jeg staar paa mine Fødder</title></bibl><bibl xml:id="biblid57192"><title xml:id="idm139871601006304">Indskrift paa Stentavle i Verninge Kirke over Ambrosius Stubs Svoger Pastor Schyth</title></bibl><bibl xml:id="biblid57371"><title xml:id="idm139871601005456">Ansøgning til Stiftamtmand G. F. Holstein 5. Juni 1756</title></bibl><bibl xml:id="biblid57651"><title xml:id="idm139871601004528">Kantate til Festen paa Odense Gymnasium i Anledning af Frederik d. Femtes Fødselsdag 31. Marts 1757</title></bibl><bibl xml:id="biblid58460"><title xml:id="idm139871601003504">Kongen opnaae Snee-hviid Alder</title></bibl><bibl xml:id="biblid58642"><title xml:id="idm139871601002704">Da mangel har forvoldt</title></bibl><bibl xml:id="biblid58807"><title xml:id="idm139871601001872">Livet som en Seylads</title></bibl><bibl xml:id="biblid59328"><title xml:id="idm139871601001088">Saa sortnes vort Levnets den bliideste Dag</title></bibl><bibl xml:id="biblid59467"><title xml:id="idm139871601000208">Uforsagt hvordan min Lykke</title></bibl><bibl xml:id="biblid59810"><title xml:id="idm139871600999360">Vaare Dage løbe fage</title></bibl><bibl xml:id="biblid60206"><title xml:id="idm139871600998496">Jeg seer dit Konstverk store Gud</title></bibl><bibl xml:id="biblid60461"><title xml:id="idm139871600997696">O! min Siæl du gaaer og vanker</title></bibl><bibl xml:id="biblid61187"><title xml:id="idm139871600996816">Hvi render I Verdens Olympiske Gecke</title></bibl><bibl xml:id="biblid61367"><title xml:id="idm139871600995968">Tanker for an i en Psalme-Bog</title></bibl><bibl xml:id="biblid61456"><title xml:id="idm139871600995168">Tanker over 1 Cor: 2 v. 2: Jeg agter mig ikke at viide noget etc.</title></bibl><bibl xml:id="biblid61659"><title xml:id="idm139871600994288">Før din hellig Lyst blev syndig</title></bibl><bibl xml:id="biblid61927"><title xml:id="idm139871600993408">Høye Gud! Vort Fald, des verre</title></bibl><bibl xml:id="biblid62175"><title xml:id="idm139871600992528">O du dybe Fald og Vaade</title></bibl><bibl xml:id="biblid62474"><title xml:id="idm139871601090496">Bedrøvet Verdens Glæde</title></bibl><bibl xml:id="biblid62825"><title xml:id="idm139871601089744">I hvad min Talsmand leed</title></bibl><bibl xml:id="biblid63085"><title xml:id="idm139871601088992">Var Jesus end paa Korset bragt</title></bibl><bibl xml:id="biblid63236"><title xml:id="idm139871601088240">Een Røver og til Paradis?</title></bibl><bibl xml:id="biblid63473"><title xml:id="idm139871601087424">O! høye Raab, hvis lige aldrig hørtes</title></bibl><bibl xml:id="biblid63738"><title xml:id="idm139871601086576">Kan Tørstens Brand fortørre den</title></bibl><bibl xml:id="biblid63938"><title xml:id="idm139871600966320">De Prophetiers lange Regning</title></bibl><bibl xml:id="biblid64048"><title xml:id="idm139871600965568">Lyksalig endte Da! min Frelser sine Dage</title></bibl><bibl xml:id="biblid64252"><title xml:id="idm139871600964752">Ach! hvi har jeg dog saa længe</title></bibl><bibl xml:id="biblid64552"><title xml:id="idm139871600963920">Vel an, endskiønt jeg skal</title></bibl><bibl xml:id="biblid64751"><title xml:id="idm139871600963104">Op af Synden</title></bibl><bibl xml:id="biblid64971"><title xml:id="idm139871600962320">Jesu Kors lad eene blive</title></bibl><bibl xml:id="biblid65136"><title xml:id="idm139871600961568">Ach hører Himlens Ord</title></bibl><bibl xml:id="biblid65398"><title xml:id="idm139871600960752">Eya! hvor Synden trykker</title></bibl><bibl xml:id="biblid65769"><title xml:id="idm139871600960000">Et varigt Vel er dog engang at finde</title></bibl><bibl xml:id="biblid65996"><title xml:id="idm139871600959248">Giv Sag og Søgsmaal, naar du vil</title></bibl><bibl xml:id="biblid66404"><title xml:id="idm139871600958416">Jesu Samtale med Siælen</title></bibl><bibl xml:id="biblid66872"><title xml:id="idm139871600957536">Seer jeg Naadens Frelser Mand</title></bibl><bibl xml:id="biblid67003"><title xml:id="idm139871600956784">Jeg er fornøyet med min Gud</title></bibl><bibl xml:id="biblid67105"><title xml:id="idm139871600955952">Seer det end for dig dunkelt ud</title></bibl><bibl xml:id="biblid67243"><title xml:id="idm139871600955200">Hvad er vor Glæde dog i denne skummelhytte</title></bibl><bibl xml:id="biblid67345"><title xml:id="idm139871600954352">Bort Jordisk Sorg! jeg hører Sion siunge</title></bibl></listBibl></sourceDesc>
+      <sourceDesc xml:id="idm139871601031024">
+        <bibl xml:id="idm139871601030896">
+          <author n="1" xml:id="idm139871601030256">
+            <name xml:id="idm139871601030000"><surname xml:id="idm139871601029872">Stub</surname>, <forename xml:id="idm139871601029408">Ambrosius</forename></name>
+          </author>
+          <title xml:id="idm139871601029120">Digte</title>
+          <pubPlace xml:id="idm139871601028832">[København]</pubPlace>
+          <publisher xml:id="idm139871601028368">Rosenkilde og Bagger</publisher>
+          <date xml:id="idm139871601028032">1972</date>
+        </bibl>
+        <listBibl xml:id="idm139871601027744">
+          <bibl xml:id="biblid55040">
+            <title xml:id="idm139871601014592">Vor stoere Falsters Liv</title>
+          </bibl>
+          <bibl xml:id="biblid55907">
+            <title xml:id="idm139871601013808">Toe Rigers Velfærds Fødsels Dag</title>
+          </bibl>
+          <bibl xml:id="biblid56324">
+            <title xml:id="idm139871601012976">Stubs Vers over Jens Mahler</title>
+          </bibl>
+          <bibl xml:id="biblid56415">
+            <title xml:id="idm139871601012128">En Drikke-Skaal i et muntert Selskab hos en Præst</title>
+          </bibl>
+          <bibl xml:id="biblid56512">
+            <title xml:id="idm139871601011264">Chanson à boire</title>
+          </bibl>
+          <bibl xml:id="biblid56610">
+            <title xml:id="idm139871601010464">Paaskrift paa en Slet Daase, hvori var got Tobak</title>
+          </bibl>
+          <bibl xml:id="biblid56684">
+            <title xml:id="idm139871601009648">Jeg er et Hoved uden Krop</title>
+          </bibl>
+          <bibl xml:id="biblid56791">
+            <title xml:id="idm139871601008848">Mand, Mand, Mand</title>
+          </bibl>
+          <bibl xml:id="biblid56878">
+            <title xml:id="idm139871601008016">Impromtu (Vel født er vel en Trøst)</title>
+          </bibl>
+          <bibl xml:id="biblid57135">
+            <title xml:id="idm139871601007120">Jeg staar paa mine Fødder</title>
+          </bibl>
+          <bibl xml:id="biblid57192">
+            <title xml:id="idm139871601006304">Indskrift paa Stentavle i Verninge Kirke over Ambrosius Stubs Svoger Pastor Schyth</title>
+          </bibl>
+          <bibl xml:id="biblid57371">
+            <title xml:id="idm139871601005456">Ansøgning til Stiftamtmand G. F. Holstein 5. Juni 1756</title>
+          </bibl>
+          <bibl xml:id="biblid57651">
+            <title xml:id="idm139871601004528">Kantate til Festen paa Odense Gymnasium i Anledning af Frederik d. Femtes Fødselsdag 31. Marts 1757</title>
+          </bibl>
+          <bibl xml:id="biblid58460">
+            <title xml:id="idm139871601003504">Kongen opnaae Snee-hviid Alder</title>
+          </bibl>
+          <bibl xml:id="biblid58642">
+            <title xml:id="idm139871601002704">Da mangel har forvoldt</title>
+          </bibl>
+          <bibl xml:id="biblid58807">
+            <title xml:id="idm139871601001872">Livet som en Seylads</title>
+          </bibl>
+          <bibl xml:id="biblid59328">
+            <title xml:id="idm139871601001088">Saa sortnes vort Levnets den bliideste Dag</title>
+          </bibl>
+          <bibl xml:id="biblid59467">
+            <title xml:id="idm139871601000208">Uforsagt hvordan min Lykke</title>
+          </bibl>
+          <bibl xml:id="biblid59810">
+            <title xml:id="idm139871600999360">Vaare Dage løbe fage</title>
+          </bibl>
+          <bibl xml:id="biblid60206">
+            <title xml:id="idm139871600998496">Jeg seer dit Konstverk store Gud</title>
+          </bibl>
+          <bibl xml:id="biblid60461">
+            <title xml:id="idm139871600997696">O! min Siæl du gaaer og vanker</title>
+          </bibl>
+          <bibl xml:id="biblid61187">
+            <title xml:id="idm139871600996816">Hvi render I Verdens Olympiske Gecke</title>
+          </bibl>
+          <bibl xml:id="biblid61367">
+            <title xml:id="idm139871600995968">Tanker for an i en Psalme-Bog</title>
+          </bibl>
+          <bibl xml:id="biblid61456">
+            <title xml:id="idm139871600995168">Tanker over 1 Cor: 2 v. 2: Jeg agter mig ikke at viide noget etc.</title>
+          </bibl>
+          <bibl xml:id="biblid61659">
+            <title xml:id="idm139871600994288">Før din hellig Lyst blev syndig</title>
+          </bibl>
+          <bibl xml:id="biblid61927">
+            <title xml:id="idm139871600993408">Høye Gud! Vort Fald, des verre</title>
+          </bibl>
+          <bibl xml:id="biblid62175">
+            <title xml:id="idm139871600992528">O du dybe Fald og Vaade</title>
+          </bibl>
+          <bibl xml:id="biblid62474">
+            <title xml:id="idm139871601090496">Bedrøvet Verdens Glæde</title>
+          </bibl>
+          <bibl xml:id="biblid62825">
+            <title xml:id="idm139871601089744">I hvad min Talsmand leed</title>
+          </bibl>
+          <bibl xml:id="biblid63085">
+            <title xml:id="idm139871601088992">Var Jesus end paa Korset bragt</title>
+          </bibl>
+          <bibl xml:id="biblid63236">
+            <title xml:id="idm139871601088240">Een Røver og til Paradis?</title>
+          </bibl>
+          <bibl xml:id="biblid63473">
+            <title xml:id="idm139871601087424">O! høye Raab, hvis lige aldrig hørtes</title>
+          </bibl>
+          <bibl xml:id="biblid63738">
+            <title xml:id="idm139871601086576">Kan Tørstens Brand fortørre den</title>
+          </bibl>
+          <bibl xml:id="biblid63938">
+            <title xml:id="idm139871600966320">De Prophetiers lange Regning</title>
+          </bibl>
+          <bibl xml:id="biblid64048">
+            <title xml:id="idm139871600965568">Lyksalig endte Da! min Frelser sine Dage</title>
+          </bibl>
+          <bibl xml:id="biblid64252">
+            <title xml:id="idm139871600964752">Ach! hvi har jeg dog saa længe</title>
+          </bibl>
+          <bibl xml:id="biblid64552">
+            <title xml:id="idm139871600963920">Vel an, endskiønt jeg skal</title>
+          </bibl>
+          <bibl xml:id="biblid64751">
+            <title xml:id="idm139871600963104">Op af Synden</title>
+          </bibl>
+          <bibl xml:id="biblid64971">
+            <title xml:id="idm139871600962320">Jesu Kors lad eene blive</title>
+          </bibl>
+          <bibl xml:id="biblid65136">
+            <title xml:id="idm139871600961568">Ach hører Himlens Ord</title>
+          </bibl>
+          <bibl xml:id="biblid65398">
+            <title xml:id="idm139871600960752">Eya! hvor Synden trykker</title>
+          </bibl>
+          <bibl xml:id="biblid65769">
+            <title xml:id="idm139871600960000">Et varigt Vel er dog engang at finde</title>
+          </bibl>
+          <bibl xml:id="biblid65996">
+            <title xml:id="idm139871600959248">Giv Sag og Søgsmaal, naar du vil</title>
+          </bibl>
+          <bibl xml:id="biblid66404">
+            <title xml:id="idm139871600958416">Jesu Samtale med Siælen</title>
+          </bibl>
+          <bibl xml:id="biblid66872">
+            <title xml:id="idm139871600957536">Seer jeg Naadens Frelser Mand</title>
+          </bibl>
+          <bibl xml:id="biblid67003">
+            <title xml:id="idm139871600956784">Jeg er fornøyet med min Gud</title>
+          </bibl>
+          <bibl xml:id="biblid67105">
+            <title xml:id="idm139871600955952">Seer det end for dig dunkelt ud</title>
+          </bibl>
+          <bibl xml:id="biblid67243">
+            <title xml:id="idm139871600955200">Hvad er vor Glæde dog i denne skummelhytte</title>
+          </bibl>
+          <bibl xml:id="biblid67345">
+            <title xml:id="idm139871600954352">Bort Jordisk Sorg! jeg hører Sion siunge</title>
+          </bibl>
+        </listBibl>
+      </sourceDesc>
     </fileDesc>
   </teiHeader>
   <text xml:id="idm139871600953616">
     <front xml:id="idm139871600953360">
       <pb n="1" xml:id="s1" facs="adl/stub/stub2/stub2001"/>
       <gap reason="cancelled" xml:id="idm139871600952032"/>
-<!---->
-<!---->
-<!--AMBROSIUS STUBS, DIGTE-->
       <pb n="2" xml:id="s2" facs="adl/stub/stub2/stub2002"/>
       <pb n="3" xml:id="s3" facs="adl/stub/stub2/stub2003"/>
       <titlePage xml:id="idm139871600948336">

@@ -1,14 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!--HHL 2003.03.03 Checket iflg. checkliste
-    Hvad gør vi ved identiske titler i forskellige udgaver?
-    p.t. tilføjer (DK) ved Danske Klassikere
-    Ptj rettet s. 33-58-275-455-
-    -->
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="idm139796484185168"><!-- 
-       file     ./marc_dir/001706412.xml
-       field     
-       subfield  
-       prefix   -->
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="root">
   <teiHeader xml:id="idm139796484184272">
     <fileDesc xml:id="idm139796484184016">
       <titleStmt xml:id="idm139796484183712">
@@ -28,17 +19,35 @@
         <note xml:id="idm139796484153904">
 	  </note>
       </notesStmt>
-      <sourceDesc xml:id="idm139796484153392"><bibl xml:id="idm139796484153264"><author n="1" xml:id="idm139796484152576"><name xml:id="idm139796484152320"><surname xml:id="idm139796484152192">Holberg</surname>, <forename xml:id="idm139796484151728">Ludvig</forename></name></author><title xml:id="idm139796484151440">Seks komedier</title><pubPlace xml:id="idm139796484151152">[København]</pubPlace>; <pubPlace xml:id="idm139796484150688">[Valby]</pubPlace>
-<publisher xml:id="idm139796484150224">Det Danske Sprog- og Litteraturselskab</publisher><publisher xml:id="idm139796484149920">Borgen</publisher><date xml:id="idm139796484149584">1994</date></bibl><listBibl xml:id="idm139796484149296"><bibl xml:id="biblid54555"><title xml:id="idm139796484136144">Jean de France (DK)</title></bibl><bibl xml:id="biblid64787"><title xml:id="idm139796484135360">Jeppe paa Bierget (DK)</title></bibl><bibl xml:id="biblid71363"><title xml:id="idm139796484134576">Ulysses Von Ithacia (DK)</title></bibl><bibl xml:id="biblid80786"><title xml:id="idm139796484133776">Erasmus Montanus (DK)</title></bibl><bibl xml:id="biblid90815"><title xml:id="idm139796484132992">Don Ranudo (DK)</title></bibl><bibl xml:id="biblid104431"><title xml:id="idm139796484132208">Den Stundesløse (DK)</title></bibl></listBibl></sourceDesc>
+      <sourceDesc xml:id="idm139796484153392">
+        <bibl xml:id="idm139796484153264"><author n="1" xml:id="idm139796484152576"><name xml:id="idm139796484152320"><surname xml:id="idm139796484152192">Holberg</surname>, <forename xml:id="idm139796484151728">Ludvig</forename></name></author><title xml:id="idm139796484151440">Seks komedier</title><pubPlace xml:id="idm139796484151152">[København]</pubPlace>; <pubPlace xml:id="idm139796484150688">[Valby]</pubPlace><publisher xml:id="idm139796484150224">Det Danske Sprog- og Litteraturselskab</publisher><publisher xml:id="idm139796484149920">Borgen</publisher><date xml:id="idm139796484149584">1994</date></bibl>
+        <listBibl xml:id="idm139796484149296">
+          <bibl xml:id="biblid54555">
+            <title xml:id="idm139796484136144">Jean de France (DK)</title>
+          </bibl>
+          <bibl xml:id="biblid64787">
+            <title xml:id="idm139796484135360">Jeppe paa Bierget (DK)</title>
+          </bibl>
+          <bibl xml:id="biblid71363">
+            <title xml:id="idm139796484134576">Ulysses Von Ithacia (DK)</title>
+          </bibl>
+          <bibl xml:id="biblid80786">
+            <title xml:id="idm139796484133776">Erasmus Montanus (DK)</title>
+          </bibl>
+          <bibl xml:id="biblid90815">
+            <title xml:id="idm139796484132992">Don Ranudo (DK)</title>
+          </bibl>
+          <bibl xml:id="biblid104431">
+            <title xml:id="idm139796484132208">Den Stundesløse (DK)</title>
+          </bibl>
+        </listBibl>
+      </sourceDesc>
     </fileDesc>
   </teiHeader>
   <text xml:id="idm139796484131456">
     <front xml:id="idm139796484131200">
       <pb n="1" xml:id="s1" facs="adl/holberg/holberg14/holb14001"/>
       <gap reason="cancelled" xml:id="idm139796484129728"/>
-<!---->
-<!---->
-<!--Seks komedier-->
       <pb n="2" xml:id="s2" facs="adl/holberg/holberg14/holb14002"/>
       <pb n="3" xml:id="s3" facs="adl/holberg/holberg14/holb14003"/>
       <titlePage xml:id="idm139796484125984">

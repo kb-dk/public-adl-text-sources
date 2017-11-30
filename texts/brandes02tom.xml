@@ -1,10 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!--Tom opmærkning jbh 26.09.01-->
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="idm140648092712048"><!-- 
-       file     ./marc_dir/001823972.xml
-       field     
-       subfield  
-       prefix   -->
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="root">
   <teiHeader xml:id="idm140648092711120">
     <fileDesc xml:id="idm140648092710864">
       <titleStmt xml:id="idm140648092710560">
@@ -19,8 +14,75 @@
         <note xml:id="idm140648092682608">
 	  </note>
       </notesStmt>
-      <sourceDesc xml:id="idm140648092682096"><bibl xml:id="idm140648092681968"><author n="1" xml:id="idm140648092681328"><name xml:id="idm140648092681072"><surname xml:id="idm140648092680944">Brandes</surname>, <forename xml:id="idm140648092680512">Georg</forename></name></author><title xml:id="idm140648092680256">Samlede Skrifter</title><pubPlace xml:id="idm140648092679968">København</pubPlace>
-<date xml:id="idm140648092679456">1899-1910</date></bibl><listBibl xml:id="idm140648092679168"><bibl xml:id="biblid54149"><title xml:id="idm140648092666016">Christian Winther (1796-1876)</title></bibl><bibl xml:id="biblid54702"><title xml:id="idm140648092665216">Emil Aarestrup (1800-1856)</title></bibl><bibl xml:id="biblid54902"><title xml:id="idm140648092664416">H.C. Andersen (1805-1875)</title></bibl><bibl xml:id="biblid55181"><title xml:id="idm140648092663568">Carl Bagger (1807-1846)</title></bibl><bibl xml:id="biblid55287"><title xml:id="idm140648092662784">A.L. Arnesen (1808-1860)</title></bibl><bibl xml:id="biblid55315"><title xml:id="idm140648092661984">Fr. Paludan-Müller (1809-1876)</title></bibl><bibl xml:id="biblid55740"><title xml:id="idm140648092661104">Rinna Hauch (1811-1896)</title></bibl><bibl xml:id="biblid55781"><title xml:id="idm140648092660320">F.L. Liebenberg (1810-1894)</title></bibl><bibl xml:id="biblid55854"><title xml:id="idm140648092659472">C. Hostrup (1818-1892)</title></bibl><bibl xml:id="biblid56020"><title xml:id="idm140648092658688">Søren Kierkegaard (1813-1855)</title></bibl><bibl xml:id="biblid57141"><title xml:id="idm140648092657808">Rasmus Nielsen (1809-1884)</title></bibl><bibl xml:id="biblid57195"><title xml:id="idm140648092656960">Hans Brøchner (1820-1875)</title></bibl><bibl xml:id="biblid57296"><title xml:id="idm140648092656144">H.V. Kaalund (1818-1885)</title></bibl><bibl xml:id="biblid57351"><title xml:id="idm140648092655296">M. Goldschmidt (1819-1887)</title></bibl><bibl xml:id="biblid57505"><title xml:id="idm140648092654496">Chr. Richardt (1831-1892)</title></bibl><bibl xml:id="biblid57659"><title xml:id="idm140648092653696">Fr. Nutzhorn (1834-1866)</title></bibl><bibl xml:id="biblid57720"><title xml:id="idm140648092652848">Jens Paludan-Müller (1838-1864)</title></bibl><bibl xml:id="biblid57828"><title xml:id="idm140648092651968">Julius Lange (1838-1896)</title></bibl><bibl xml:id="biblid57863"><title xml:id="idm140648092651120">Vilhelm Thomsen (f.1842)</title></bibl></listBibl></sourceDesc>
+      <sourceDesc xml:id="idm140648092682096">
+        <bibl xml:id="idm140648092681968">
+          <author n="1" xml:id="idm140648092681328">
+            <name xml:id="idm140648092681072"><surname xml:id="idm140648092680944">Brandes</surname>, <forename xml:id="idm140648092680512">Georg</forename></name>
+          </author>
+          <title xml:id="idm140648092680256">Samlede Skrifter</title>
+          <pubPlace xml:id="idm140648092679968">København</pubPlace>
+          <date xml:id="idm140648092679456">1899-1910</date>
+        </bibl>
+        <listBibl xml:id="idm140648092679168">
+          <bibl xml:id="biblid54149">
+            <title xml:id="idm140648092666016">Christian Winther (1796-1876)</title>
+          </bibl>
+          <bibl xml:id="biblid54702">
+            <title xml:id="idm140648092665216">Emil Aarestrup (1800-1856)</title>
+          </bibl>
+          <bibl xml:id="biblid54902">
+            <title xml:id="idm140648092664416">H.C. Andersen (1805-1875)</title>
+          </bibl>
+          <bibl xml:id="biblid55181">
+            <title xml:id="idm140648092663568">Carl Bagger (1807-1846)</title>
+          </bibl>
+          <bibl xml:id="biblid55287">
+            <title xml:id="idm140648092662784">A.L. Arnesen (1808-1860)</title>
+          </bibl>
+          <bibl xml:id="biblid55315">
+            <title xml:id="idm140648092661984">Fr. Paludan-Müller (1809-1876)</title>
+          </bibl>
+          <bibl xml:id="biblid55740">
+            <title xml:id="idm140648092661104">Rinna Hauch (1811-1896)</title>
+          </bibl>
+          <bibl xml:id="biblid55781">
+            <title xml:id="idm140648092660320">F.L. Liebenberg (1810-1894)</title>
+          </bibl>
+          <bibl xml:id="biblid55854">
+            <title xml:id="idm140648092659472">C. Hostrup (1818-1892)</title>
+          </bibl>
+          <bibl xml:id="biblid56020">
+            <title xml:id="idm140648092658688">Søren Kierkegaard (1813-1855)</title>
+          </bibl>
+          <bibl xml:id="biblid57141">
+            <title xml:id="idm140648092657808">Rasmus Nielsen (1809-1884)</title>
+          </bibl>
+          <bibl xml:id="biblid57195">
+            <title xml:id="idm140648092656960">Hans Brøchner (1820-1875)</title>
+          </bibl>
+          <bibl xml:id="biblid57296">
+            <title xml:id="idm140648092656144">H.V. Kaalund (1818-1885)</title>
+          </bibl>
+          <bibl xml:id="biblid57351">
+            <title xml:id="idm140648092655296">M. Goldschmidt (1819-1887)</title>
+          </bibl>
+          <bibl xml:id="biblid57505">
+            <title xml:id="idm140648092654496">Chr. Richardt (1831-1892)</title>
+          </bibl>
+          <bibl xml:id="biblid57659">
+            <title xml:id="idm140648092653696">Fr. Nutzhorn (1834-1866)</title>
+          </bibl>
+          <bibl xml:id="biblid57720">
+            <title xml:id="idm140648092652848">Jens Paludan-Müller (1838-1864)</title>
+          </bibl>
+          <bibl xml:id="biblid57828">
+            <title xml:id="idm140648092651968">Julius Lange (1838-1896)</title>
+          </bibl>
+          <bibl xml:id="biblid57863">
+            <title xml:id="idm140648092651120">Vilhelm Thomsen (f.1842)</title>
+          </bibl>
+        </listBibl>
+      </sourceDesc>
     </fileDesc>
   </teiHeader>
   <text xml:id="idm140648092650384">

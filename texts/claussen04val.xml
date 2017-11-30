@@ -1,15 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!--  OCR by ATAPY 28.10.02 (Catherine Bychkova) -->
-<!-- HHL 20030313 checket sidetal
-        Pagebreaks rettet i  forhold til vaerktitler
-        visse vaerktitler udkommenteret
-        Ptj rettet s. 112 
-        -->
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="idm140208214477840"><!-- 
-       file     ./marc_dir/001383642.xml
-       field    248 
-       subfield g 
-       prefix   Bd. 2 | a-->
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="root">
   <teiHeader xml:id="idm140208214476976">
     <fileDesc xml:id="idm140208214476720">
       <titleStmt xml:id="idm140208214476464">
@@ -25,17 +15,307 @@
         <note xml:id="idm140208214447008">
 	  </note>
       </notesStmt>
-      <sourceDesc xml:id="idm140208214446496"><bibl xml:id="idm140208214446368"><author n="1" xml:id="idm140208214446192"><name xml:id="idm140208214445936"><surname xml:id="idm140208214445808">Claussen</surname>, <forename xml:id="idm140208214445344">Sophus</forename></name></author><title xml:id="idm140208214445056">Sophus Claussens lyrik</title><pubPlace xml:id="idm140208214444768">[København]</pubPlace>
-<publisher xml:id="idm140208214444304">Det Danske Sprog- og Litteraturselskab ; Gyldendal</publisher><date xml:id="idm140208214443936">1982-</date></bibl><listBibl xml:id="idm140208214443648"><bibl xml:id="biblid55510"><title xml:id="idm140208214430496">PILEFLØJTER</title></bibl><bibl xml:id="biblid55620"><title xml:id="idm140208214429696">Pilefløjter [undertitel]</title></bibl><bibl xml:id="biblid55748"><title xml:id="idm140208214428880">UDENLANDS</title></bibl><bibl xml:id="biblid55881"><title xml:id="idm140208214428096">EN LÆSERINDE</title></bibl><bibl xml:id="biblid55921"><title xml:id="idm140208214427296">MOS</title></bibl><bibl xml:id="biblid56015"><title xml:id="idm140208214426432">HVORFOR?</title></bibl><bibl xml:id="biblid56076"><title xml:id="idm140208214425648">VILLAVEJE</title></bibl><bibl xml:id="biblid56208"><title xml:id="idm140208214424816">ROMANCE</title></bibl><bibl xml:id="biblid56284"><title xml:id="idm140208214424032">BORTE</title></bibl><bibl xml:id="biblid56362"><title xml:id="idm140208214423200">KØBENHAVNSK</title></bibl><bibl xml:id="biblid56447"><title xml:id="idm140208214422400">TIL ALBERT GOTTSCHALK</title></bibl><bibl xml:id="biblid56696"><title xml:id="idm140208214421616">HVIDTJØRN</title></bibl><bibl xml:id="biblid56941"><title xml:id="idm140208214420784">FATTIGE KVINDER</title></bibl><bibl xml:id="biblid57072"><title xml:id="idm140208214419952">TAGDRYP</title></bibl><bibl xml:id="biblid57212"><title xml:id="idm140208214419120">RINGENS MAGI</title></bibl><bibl xml:id="biblid57392"><title xml:id="idm140208214418288">I EN PARK</title></bibl><bibl xml:id="biblid57682"><title xml:id="idm140208214417504">SOLSKINSVISE</title></bibl><bibl xml:id="biblid57762"><title xml:id="idm140208214416672">TONEARKITEKTUR</title></bibl><bibl xml:id="biblid57890"><title xml:id="idm140208214415840">STORSTAD</title></bibl><bibl xml:id="biblid58058"><title xml:id="idm140208214415008">FORAARSPLØJN1NG</title></bibl><bibl xml:id="biblid58216"><title xml:id="idm140208214414160">I FORSTADEN</title></bibl><bibl xml:id="biblid58330"><title xml:id="idm140208214413376">I EN FRUGTHAVE</title></bibl><bibl xml:id="biblid58515"><title xml:id="idm140208214412544">NOVELLE</title></bibl><bibl xml:id="biblid58675"><title xml:id="idm140208214411696">PAA KYSTEN VED HELSINGØR</title></bibl><bibl xml:id="biblid58803"><title xml:id="idm140208214410832">LANGS HAVET</title></bibl><bibl xml:id="biblid58879"><title xml:id="idm140208214410000">LÆBEBLOMSTERNE</title></bibl><bibl xml:id="biblid58956"><title xml:id="idm140208214409200">MARINE</title></bibl><bibl xml:id="biblid59034"><title xml:id="idm140208214408368">HØSTSOL</title></bibl><bibl xml:id="biblid59118"><title xml:id="idm140208214407536">ÆRTEBÆLGE</title></bibl><bibl xml:id="biblid59247"><title xml:id="idm140208214406704">FLAMMELILLE</title></bibl><bibl xml:id="biblid59428"><title xml:id="idm140208214405872">I MISMOD</title></bibl><bibl xml:id="biblid59514"><title xml:id="idm140208214405040">EFTERAARET</title></bibl><bibl xml:id="biblid59616"><title xml:id="idm140208214404208">LANDSBY-VEJE</title></bibl><bibl xml:id="biblid59775"><title xml:id="idm140208214403376">VED EN MØLLE</title></bibl><bibl xml:id="biblid59938"><title xml:id="idm140208214402528">BALAFTEN</title></bibl><bibl xml:id="biblid60264"><title xml:id="idm140208214401632">REJSEMINDER</title></bibl><bibl xml:id="biblid60598"><title xml:id="idm140208214400736">BUDDHA</title></bibl><bibl xml:id="biblid60786"><title xml:id="idm140208214399904">Rejsebilleder </title></bibl><bibl xml:id="biblid60838"><title xml:id="idm140208214399072">Storm- og Trængselsaar</title></bibl><bibl xml:id="biblid60921"><title xml:id="idm140208214398208">Afskedsharmoni</title></bibl><bibl xml:id="biblid61006"><title xml:id="idm140208214397424">Til en Søster [1]</title></bibl><bibl xml:id="biblid61099"><title xml:id="idm140208214396576">Til I. og V.</title></bibl><bibl xml:id="biblid61188"><title xml:id="idm140208214507456">Tysk Kystby</title></bibl><bibl xml:id="biblid61267"><title xml:id="idm140208214506736">Køln</title></bibl><bibl xml:id="biblid61362"><title xml:id="idm140208214505952">Damen fra Køln</title></bibl><bibl xml:id="biblid61441"><title xml:id="idm140208214505136">Til en Søster [2]</title></bibl><bibl xml:id="biblid61541"><title xml:id="idm140208214504384">Til Hende</title></bibl><bibl xml:id="biblid61634"><title xml:id="idm140208214503600">Hassan og Digteren. Persisk Fabel</title></bibl><bibl xml:id="biblid61714"><title xml:id="idm140208214370608">Digteren og Hassan. Persisk Fabel</title></bibl><bibl xml:id="biblid61812"><title xml:id="idm140208214369856">Før Stævnemødet</title></bibl><bibl xml:id="biblid61896"><title xml:id="idm140208214369040">Gensynet</title></bibl><bibl xml:id="biblid61984"><title xml:id="idm140208214368256">Gargantua eller 'sikket-Gab-du-har'. Frit efter Rabelais</title></bibl><bibl xml:id="biblid62077"><title xml:id="idm140208214367424">Kunstner-Existens (Ved et Hus, jeg en Aften gik forbi i Paris)</title></bibl><bibl xml:id="biblid62160"><title xml:id="idm140208214366592">Paa ny ved Østersøen</title></bibl><bibl xml:id="biblid62249"><title xml:id="idm140208214365776">Træerne</title></bibl><bibl xml:id="biblid62338"><title xml:id="idm140208214364992">Sommer</title></bibl><bibl xml:id="biblid62397"><title xml:id="idm140208214364208">Den første Vandringsmand</title></bibl><bibl xml:id="biblid62529"><title xml:id="idm140208214363392">Den anden Vandringsmand</title></bibl><bibl xml:id="biblid62646"><title xml:id="idm140208214362608">Den Første taler</title></bibl><bibl xml:id="biblid62853"><title xml:id="idm140208214357792">Den Anden svarer</title></bibl><bibl xml:id="biblid63001"><title xml:id="idm140208214357104">Den Første</title></bibl><bibl xml:id="biblid63054"><title xml:id="idm140208214356352">Sol og Bjærge</title></bibl><bibl xml:id="biblid63089"><title xml:id="idm140208214355600">NYT FORAAR /PILEFLØJTER</title></bibl><bibl xml:id="biblid63262"><title xml:id="idm140208214354848">PASTORALE</title></bibl><bibl xml:id="biblid63627"><title xml:id="idm140208214354160">VALFART</title></bibl><bibl xml:id="biblid63738"><title xml:id="idm140208214353472">VED ET VANDFALD</title></bibl><bibl xml:id="biblid63773"><title xml:id="idm140208214352784">HVAD JEG DRØMTE OM NATTEN PAA BJÆRGET</title></bibl><bibl xml:id="biblid63956"><title xml:id="idm140208214351968">DE VALFARTENDE SMAAPIGERS LEG MENS MØDRENE VAR TIL MESSE</title></bibl><bibl xml:id="biblid64138"><title xml:id="idm140208214351056">I DEN HELLIGE KILDES KIRKE</title></bibl><bibl xml:id="biblid64209"><title xml:id="idm140208214350304">AFTENSLOTTE</title></bibl><bibl xml:id="biblid64327"><title xml:id="idm140208214349520">POETENS BØN PAA BJÆRGET</title></bibl><bibl xml:id="biblid64490"><title xml:id="idm140208214348640">LOVSPROG OM UNYTTIG KIV</title></bibl><bibl xml:id="biblid64633"><title xml:id="idm140208214347856">PAA NEDFART</title></bibl><bibl xml:id="biblid64691"><title xml:id="idm140208214347072">SILHUET AF EN MULÆSELDRIVER</title></bibl><bibl xml:id="biblid64805"><title xml:id="idm140208214346240">RUNER</title></bibl><bibl xml:id="biblid64859"><title xml:id="idm140208214345456">SE, EN GUD ...</title></bibl><bibl xml:id="biblid64982"><title xml:id="idm140208214344608">MENS JEG REJSER MOD NORD</title></bibl><bibl xml:id="biblid65075"><title xml:id="idm140208214343856">KVINDERNE NORDFRA</title></bibl><bibl xml:id="biblid65367"><title xml:id="idm140208214343072">TIL EN BLOND KVINDE</title></bibl><bibl xml:id="biblid65544"><title xml:id="idm140208214342288">AFTEN PAA KULLEN</title></bibl><bibl xml:id="biblid65694"><title xml:id="idm140208214341504">FYLGIE</title></bibl><bibl xml:id="biblid65822"><title xml:id="idm140208214340656">EVANGELIUM</title></bibl><bibl xml:id="biblid65964"><title xml:id="idm140208214339872">I Arkadien</title></bibl><bibl xml:id="biblid66085"><title xml:id="idm140208214339088">FORAARSRIM</title></bibl><bibl xml:id="biblid66778"><title xml:id="idm140208214338240">Røg</title></bibl><bibl xml:id="biblid66814"><title xml:id="idm140208214337456">KULRØG</title></bibl><bibl xml:id="biblid67251"><title xml:id="idm140208214336672">FESTRØG</title></bibl><bibl xml:id="biblid84358"><title xml:id="idm140208214335888">TREFODEN</title></bibl><bibl xml:id="biblid88644"><title xml:id="idm140208214335104">Ballade (eller hvorledes man sætter Problemer til Debat)</title></bibl><bibl xml:id="biblid94136"><title xml:id="idm140208214334224">I SKOVENE</title></bibl><bibl xml:id="biblid94147"><title xml:id="idm140208214333440">Bedeklokker</title></bibl><bibl xml:id="biblid94282"><title xml:id="idm140208214332592">De unge Mænd ved Skovhytten</title></bibl><bibl xml:id="biblid94471"><title xml:id="idm140208214331760">Sangmøens Bryllup (I en Lystakt under Skovene)</title></bibl><bibl xml:id="biblid94870"><title xml:id="idm140208214330832">EPILOG /Trefoden</title></bibl></listBibl></sourceDesc>
+      <sourceDesc xml:id="idm140208214446496">
+        <bibl xml:id="idm140208214446368">
+          <author n="1" xml:id="idm140208214446192">
+            <name xml:id="idm140208214445936"><surname xml:id="idm140208214445808">Claussen</surname>, <forename xml:id="idm140208214445344">Sophus</forename></name>
+          </author>
+          <title xml:id="idm140208214445056">Sophus Claussens lyrik</title>
+          <pubPlace xml:id="idm140208214444768">[København]</pubPlace>
+          <publisher xml:id="idm140208214444304">Det Danske Sprog- og Litteraturselskab ; Gyldendal</publisher>
+          <date xml:id="idm140208214443936">1982-</date>
+        </bibl>
+        <listBibl xml:id="idm140208214443648">
+          <bibl xml:id="biblid55510">
+            <title xml:id="idm140208214430496">PILEFLØJTER</title>
+          </bibl>
+          <bibl xml:id="biblid55620">
+            <title xml:id="idm140208214429696">Pilefløjter [undertitel]</title>
+          </bibl>
+          <bibl xml:id="biblid55748">
+            <title xml:id="idm140208214428880">UDENLANDS</title>
+          </bibl>
+          <bibl xml:id="biblid55881">
+            <title xml:id="idm140208214428096">EN LÆSERINDE</title>
+          </bibl>
+          <bibl xml:id="biblid55921">
+            <title xml:id="idm140208214427296">MOS</title>
+          </bibl>
+          <bibl xml:id="biblid56015">
+            <title xml:id="idm140208214426432">HVORFOR?</title>
+          </bibl>
+          <bibl xml:id="biblid56076">
+            <title xml:id="idm140208214425648">VILLAVEJE</title>
+          </bibl>
+          <bibl xml:id="biblid56208">
+            <title xml:id="idm140208214424816">ROMANCE</title>
+          </bibl>
+          <bibl xml:id="biblid56284">
+            <title xml:id="idm140208214424032">BORTE</title>
+          </bibl>
+          <bibl xml:id="biblid56362">
+            <title xml:id="idm140208214423200">KØBENHAVNSK</title>
+          </bibl>
+          <bibl xml:id="biblid56447">
+            <title xml:id="idm140208214422400">TIL ALBERT GOTTSCHALK</title>
+          </bibl>
+          <bibl xml:id="biblid56696">
+            <title xml:id="idm140208214421616">HVIDTJØRN</title>
+          </bibl>
+          <bibl xml:id="biblid56941">
+            <title xml:id="idm140208214420784">FATTIGE KVINDER</title>
+          </bibl>
+          <bibl xml:id="biblid57072">
+            <title xml:id="idm140208214419952">TAGDRYP</title>
+          </bibl>
+          <bibl xml:id="biblid57212">
+            <title xml:id="idm140208214419120">RINGENS MAGI</title>
+          </bibl>
+          <bibl xml:id="biblid57392">
+            <title xml:id="idm140208214418288">I EN PARK</title>
+          </bibl>
+          <bibl xml:id="biblid57682">
+            <title xml:id="idm140208214417504">SOLSKINSVISE</title>
+          </bibl>
+          <bibl xml:id="biblid57762">
+            <title xml:id="idm140208214416672">TONEARKITEKTUR</title>
+          </bibl>
+          <bibl xml:id="biblid57890">
+            <title xml:id="idm140208214415840">STORSTAD</title>
+          </bibl>
+          <bibl xml:id="biblid58058">
+            <title xml:id="idm140208214415008">FORAARSPLØJN1NG</title>
+          </bibl>
+          <bibl xml:id="biblid58216">
+            <title xml:id="idm140208214414160">I FORSTADEN</title>
+          </bibl>
+          <bibl xml:id="biblid58330">
+            <title xml:id="idm140208214413376">I EN FRUGTHAVE</title>
+          </bibl>
+          <bibl xml:id="biblid58515">
+            <title xml:id="idm140208214412544">NOVELLE</title>
+          </bibl>
+          <bibl xml:id="biblid58675">
+            <title xml:id="idm140208214411696">PAA KYSTEN VED HELSINGØR</title>
+          </bibl>
+          <bibl xml:id="biblid58803">
+            <title xml:id="idm140208214410832">LANGS HAVET</title>
+          </bibl>
+          <bibl xml:id="biblid58879">
+            <title xml:id="idm140208214410000">LÆBEBLOMSTERNE</title>
+          </bibl>
+          <bibl xml:id="biblid58956">
+            <title xml:id="idm140208214409200">MARINE</title>
+          </bibl>
+          <bibl xml:id="biblid59034">
+            <title xml:id="idm140208214408368">HØSTSOL</title>
+          </bibl>
+          <bibl xml:id="biblid59118">
+            <title xml:id="idm140208214407536">ÆRTEBÆLGE</title>
+          </bibl>
+          <bibl xml:id="biblid59247">
+            <title xml:id="idm140208214406704">FLAMMELILLE</title>
+          </bibl>
+          <bibl xml:id="biblid59428">
+            <title xml:id="idm140208214405872">I MISMOD</title>
+          </bibl>
+          <bibl xml:id="biblid59514">
+            <title xml:id="idm140208214405040">EFTERAARET</title>
+          </bibl>
+          <bibl xml:id="biblid59616">
+            <title xml:id="idm140208214404208">LANDSBY-VEJE</title>
+          </bibl>
+          <bibl xml:id="biblid59775">
+            <title xml:id="idm140208214403376">VED EN MØLLE</title>
+          </bibl>
+          <bibl xml:id="biblid59938">
+            <title xml:id="idm140208214402528">BALAFTEN</title>
+          </bibl>
+          <bibl xml:id="biblid60264">
+            <title xml:id="idm140208214401632">REJSEMINDER</title>
+          </bibl>
+          <bibl xml:id="biblid60598">
+            <title xml:id="idm140208214400736">BUDDHA</title>
+          </bibl>
+          <bibl xml:id="biblid60786">
+            <title xml:id="idm140208214399904">Rejsebilleder </title>
+          </bibl>
+          <bibl xml:id="biblid60838">
+            <title xml:id="idm140208214399072">Storm- og Trængselsaar</title>
+          </bibl>
+          <bibl xml:id="biblid60921">
+            <title xml:id="idm140208214398208">Afskedsharmoni</title>
+          </bibl>
+          <bibl xml:id="biblid61006">
+            <title xml:id="idm140208214397424">Til en Søster [1]</title>
+          </bibl>
+          <bibl xml:id="biblid61099">
+            <title xml:id="idm140208214396576">Til I. og V.</title>
+          </bibl>
+          <bibl xml:id="biblid61188">
+            <title xml:id="idm140208214507456">Tysk Kystby</title>
+          </bibl>
+          <bibl xml:id="biblid61267">
+            <title xml:id="idm140208214506736">Køln</title>
+          </bibl>
+          <bibl xml:id="biblid61362">
+            <title xml:id="idm140208214505952">Damen fra Køln</title>
+          </bibl>
+          <bibl xml:id="biblid61441">
+            <title xml:id="idm140208214505136">Til en Søster [2]</title>
+          </bibl>
+          <bibl xml:id="biblid61541">
+            <title xml:id="idm140208214504384">Til Hende</title>
+          </bibl>
+          <bibl xml:id="biblid61634">
+            <title xml:id="idm140208214503600">Hassan og Digteren. Persisk Fabel</title>
+          </bibl>
+          <bibl xml:id="biblid61714">
+            <title xml:id="idm140208214370608">Digteren og Hassan. Persisk Fabel</title>
+          </bibl>
+          <bibl xml:id="biblid61812">
+            <title xml:id="idm140208214369856">Før Stævnemødet</title>
+          </bibl>
+          <bibl xml:id="biblid61896">
+            <title xml:id="idm140208214369040">Gensynet</title>
+          </bibl>
+          <bibl xml:id="biblid61984">
+            <title xml:id="idm140208214368256">Gargantua eller 'sikket-Gab-du-har'. Frit efter Rabelais</title>
+          </bibl>
+          <bibl xml:id="biblid62077">
+            <title xml:id="idm140208214367424">Kunstner-Existens (Ved et Hus, jeg en Aften gik forbi i Paris)</title>
+          </bibl>
+          <bibl xml:id="biblid62160">
+            <title xml:id="idm140208214366592">Paa ny ved Østersøen</title>
+          </bibl>
+          <bibl xml:id="biblid62249">
+            <title xml:id="idm140208214365776">Træerne</title>
+          </bibl>
+          <bibl xml:id="biblid62338">
+            <title xml:id="idm140208214364992">Sommer</title>
+          </bibl>
+          <bibl xml:id="biblid62397">
+            <title xml:id="idm140208214364208">Den første Vandringsmand</title>
+          </bibl>
+          <bibl xml:id="biblid62529">
+            <title xml:id="idm140208214363392">Den anden Vandringsmand</title>
+          </bibl>
+          <bibl xml:id="biblid62646">
+            <title xml:id="idm140208214362608">Den Første taler</title>
+          </bibl>
+          <bibl xml:id="biblid62853">
+            <title xml:id="idm140208214357792">Den Anden svarer</title>
+          </bibl>
+          <bibl xml:id="biblid63001">
+            <title xml:id="idm140208214357104">Den Første</title>
+          </bibl>
+          <bibl xml:id="biblid63054">
+            <title xml:id="idm140208214356352">Sol og Bjærge</title>
+          </bibl>
+          <bibl xml:id="biblid63089">
+            <title xml:id="idm140208214355600">NYT FORAAR /PILEFLØJTER</title>
+          </bibl>
+          <bibl xml:id="biblid63262">
+            <title xml:id="idm140208214354848">PASTORALE</title>
+          </bibl>
+          <bibl xml:id="biblid63627">
+            <title xml:id="idm140208214354160">VALFART</title>
+          </bibl>
+          <bibl xml:id="biblid63738">
+            <title xml:id="idm140208214353472">VED ET VANDFALD</title>
+          </bibl>
+          <bibl xml:id="biblid63773">
+            <title xml:id="idm140208214352784">HVAD JEG DRØMTE OM NATTEN PAA BJÆRGET</title>
+          </bibl>
+          <bibl xml:id="biblid63956">
+            <title xml:id="idm140208214351968">DE VALFARTENDE SMAAPIGERS LEG MENS MØDRENE VAR TIL MESSE</title>
+          </bibl>
+          <bibl xml:id="biblid64138">
+            <title xml:id="idm140208214351056">I DEN HELLIGE KILDES KIRKE</title>
+          </bibl>
+          <bibl xml:id="biblid64209">
+            <title xml:id="idm140208214350304">AFTENSLOTTE</title>
+          </bibl>
+          <bibl xml:id="biblid64327">
+            <title xml:id="idm140208214349520">POETENS BØN PAA BJÆRGET</title>
+          </bibl>
+          <bibl xml:id="biblid64490">
+            <title xml:id="idm140208214348640">LOVSPROG OM UNYTTIG KIV</title>
+          </bibl>
+          <bibl xml:id="biblid64633">
+            <title xml:id="idm140208214347856">PAA NEDFART</title>
+          </bibl>
+          <bibl xml:id="biblid64691">
+            <title xml:id="idm140208214347072">SILHUET AF EN MULÆSELDRIVER</title>
+          </bibl>
+          <bibl xml:id="biblid64805">
+            <title xml:id="idm140208214346240">RUNER</title>
+          </bibl>
+          <bibl xml:id="biblid64859">
+            <title xml:id="idm140208214345456">SE, EN GUD ...</title>
+          </bibl>
+          <bibl xml:id="biblid64982">
+            <title xml:id="idm140208214344608">MENS JEG REJSER MOD NORD</title>
+          </bibl>
+          <bibl xml:id="biblid65075">
+            <title xml:id="idm140208214343856">KVINDERNE NORDFRA</title>
+          </bibl>
+          <bibl xml:id="biblid65367">
+            <title xml:id="idm140208214343072">TIL EN BLOND KVINDE</title>
+          </bibl>
+          <bibl xml:id="biblid65544">
+            <title xml:id="idm140208214342288">AFTEN PAA KULLEN</title>
+          </bibl>
+          <bibl xml:id="biblid65694">
+            <title xml:id="idm140208214341504">FYLGIE</title>
+          </bibl>
+          <bibl xml:id="biblid65822">
+            <title xml:id="idm140208214340656">EVANGELIUM</title>
+          </bibl>
+          <bibl xml:id="biblid65964">
+            <title xml:id="idm140208214339872">I Arkadien</title>
+          </bibl>
+          <bibl xml:id="biblid66085">
+            <title xml:id="idm140208214339088">FORAARSRIM</title>
+          </bibl>
+          <bibl xml:id="biblid66778">
+            <title xml:id="idm140208214338240">Røg</title>
+          </bibl>
+          <bibl xml:id="biblid66814">
+            <title xml:id="idm140208214337456">KULRØG</title>
+          </bibl>
+          <bibl xml:id="biblid67251">
+            <title xml:id="idm140208214336672">FESTRØG</title>
+          </bibl>
+          <bibl xml:id="biblid84358">
+            <title xml:id="idm140208214335888">TREFODEN</title>
+          </bibl>
+          <bibl xml:id="biblid88644">
+            <title xml:id="idm140208214335104">Ballade (eller hvorledes man sætter Problemer til Debat)</title>
+          </bibl>
+          <bibl xml:id="biblid94136">
+            <title xml:id="idm140208214334224">I SKOVENE</title>
+          </bibl>
+          <bibl xml:id="biblid94147">
+            <title xml:id="idm140208214333440">Bedeklokker</title>
+          </bibl>
+          <bibl xml:id="biblid94282">
+            <title xml:id="idm140208214332592">De unge Mænd ved Skovhytten</title>
+          </bibl>
+          <bibl xml:id="biblid94471">
+            <title xml:id="idm140208214331760">Sangmøens Bryllup (I en Lystakt under Skovene)</title>
+          </bibl>
+          <bibl xml:id="biblid94870">
+            <title xml:id="idm140208214330832">EPILOG /Trefoden</title>
+          </bibl>
+        </listBibl>
+      </sourceDesc>
     </fileDesc>
   </teiHeader>
   <text xml:id="idm140208214330192">
     <front xml:id="idm140208214329936">
       <pb n="1" xml:id="s1" facs="adl/claussen/claussen04/claussen4001"/>
       <gap reason="cancelled" xml:id="idm140208214328464"/>
-<!---->
-<!---->
-<!--Sophus Claussens Lyrik II-->
       <pb n="2" xml:id="s2" facs="adl/claussen/claussen04/claussen4002"/>
       <titlePage xml:id="idm140208214325808">
         <docAuthor xml:id="idm140208214325552">
@@ -7489,7 +7769,6 @@
         <body xml:id="idm140208210642304">
           <pb n="195" xml:id="s195" facs="adl/claussen/claussen04/claussen4195"/>
           <div xml:id="idm140208210640752">
-<!-- -->
             <head xml:id="idm140208210640144">
               <hi rend="italics" xml:id="idm140208210639888">I</hi>
             </head>
@@ -7594,7 +7873,6 @@
           </div>
           <pb n="198" xml:id="s198" facs="adl/claussen/claussen04/claussen4198"/>
           <div xml:id="idm140208210601952">
-<!-- -->
             <head xml:id="idm140208210601344">
               <hi rend="italics" xml:id="idm140208210601088">II</hi>
             </head>
@@ -7657,7 +7935,6 @@
           </div>
           <pb n="200" xml:id="s200" facs="adl/claussen/claussen04/claussen4200"/>
           <div xml:id="idm140208210578656">
-<!-- -->
             <head xml:id="idm140208210578048">
               <hi rend="italics" xml:id="idm140208210577792">III</hi>
             </head>
@@ -7745,7 +8022,6 @@
           </div>
           <pb n="202" xml:id="s202" facs="adl/claussen/claussen04/claussen4202"/>
           <div xml:id="idm140208210545568">
-<!-- -->
             <head xml:id="idm140208210544960">
               <hi rend="italics" xml:id="idm140208210544704">IV</hi>
             </head>
@@ -7829,7 +8105,6 @@
           </div>
           <pb n="204" xml:id="s204" facs="adl/claussen/claussen04/claussen4204"/>
           <div xml:id="idm140208210512000">
-<!-- -->
             <head xml:id="idm140208210511392">
               <hi rend="italics" xml:id="idm140208210511136">V</hi>
             </head>
@@ -7912,7 +8187,6 @@
           </div>
           <pb n="206" xml:id="s206" facs="adl/claussen/claussen04/claussen4206"/>
           <div xml:id="idm140208210481632">
-<!-- -->
             <head xml:id="idm140208210481024">
               <hi rend="italics" xml:id="idm140208210480768">VI</hi>
             </head>
@@ -8006,7 +8280,6 @@
           </div>
           <pb n="209" xml:id="s209" facs="adl/claussen/claussen04/claussen4209"/>
           <div xml:id="idm140208210447232">
-<!-- -->
             <head xml:id="idm140208210446624">
               <hi rend="italics" xml:id="idm140208210446368">VII</hi>
             </head>
@@ -8135,7 +8408,6 @@
           </div>
           <pb n="212" xml:id="s212" facs="adl/claussen/claussen04/claussen4212"/>
           <div xml:id="idm140208210399840">
-<!-- -->
             <head xml:id="idm140208210399232">
               <hi rend="italics" xml:id="idm140208210398976">VIII</hi>
             </head>
@@ -8198,7 +8470,6 @@
           </div>
           <pb n="214" xml:id="s214" facs="adl/claussen/claussen04/claussen4214"/>
           <div xml:id="idm140208210376640">
-<!-- -->
             <head xml:id="idm140208210376032">
               <hi rend="italics" xml:id="idm140208210375776">IX</hi>
             </head>
@@ -8312,7 +8583,6 @@
           </div>
           <pb n="217" xml:id="s217" facs="adl/claussen/claussen04/claussen4217"/>
           <div xml:id="idm140208210360912">
-<!-- -->
             <head xml:id="idm140208210360304">
               <hi rend="italics" xml:id="idm140208210360048">X</hi>
             </head>
@@ -8370,7 +8640,6 @@
           </div>
           <pb n="219" xml:id="s219" facs="adl/claussen/claussen04/claussen4219"/>
           <div xml:id="idm140208210340352">
-<!-- -->
             <head xml:id="idm140208210339840">
               <hi rend="italics" xml:id="idm140208210339584">XI</hi>
             </head>
@@ -8391,7 +8660,6 @@
           </div>
           <pb n="220" xml:id="s220" facs="adl/claussen/claussen04/claussen4220"/>
           <div xml:id="idm140208210331712">
-<!-- -->
             <head xml:id="idm140208210331200">
               <hi rend="italics" xml:id="idm140208210330944">XII</hi>
             </head>
@@ -8515,7 +8783,6 @@
           </div>
           <pb n="223" xml:id="s223" facs="adl/claussen/claussen04/claussen4223"/>
           <div xml:id="idm140208210289008">
-<!-- -->
             <head xml:id="idm140208210288496">
               <hi rend="italics" xml:id="idm140208210288240">XIII</hi>
             </head>
@@ -8573,7 +8840,6 @@
           </div>
           <pb n="225" xml:id="s225" facs="adl/claussen/claussen04/claussen4225"/>
           <div xml:id="idm140208210269008">
-<!-- -->
             <head xml:id="idm140208210268496">
               <hi rend="italics" xml:id="idm140208210268240">XIV</hi>
             </head>
@@ -8631,7 +8897,6 @@
           </div>
           <pb n="227" xml:id="s227" facs="adl/claussen/claussen04/claussen4227"/>
           <div xml:id="idm140208210247984">
-<!-- -->
             <head xml:id="idm140208210247472">
               <hi rend="italics" xml:id="idm140208210247216">XV</hi>
             </head>
@@ -8657,7 +8922,6 @@
           </div>
           <pb n="228" xml:id="s228" facs="adl/claussen/claussen04/claussen4228"/>
           <div xml:id="idm140208210239488">
-<!-- -->
             <head xml:id="idm140208210238976">
               <hi rend="italics" xml:id="idm140208210238720">XVI</hi>
             </head>
@@ -8766,7 +9030,6 @@
           </div>
           <pb n="231" xml:id="s231" facs="adl/claussen/claussen04/claussen4231"/>
           <div xml:id="idm140208210200544">
-<!-- -->
             <head xml:id="idm140208210200032">
               <hi rend="italics" xml:id="idm140208210199776">XVII</hi>
             </head>
@@ -8981,7 +9244,6 @@
           </div>
           <pb n="237" xml:id="s237" facs="adl/claussen/claussen04/claussen4237"/>
           <div xml:id="idm140208210116544">
-<!-- -->
             <head xml:id="idm140208210115936">
               <hi rend="italics" xml:id="idm140208210115680">XIX</hi>
             </head>
@@ -9090,7 +9352,6 @@
           </div>
           <pb n="240" xml:id="s240" facs="adl/claussen/claussen04/claussen4240"/>
           <div xml:id="idm140208210076656">
-<!-- -->
             <head xml:id="idm140208210076048">
               <hi rend="italics" xml:id="idm140208210075792">XX</hi>
             </head>
@@ -9148,7 +9409,6 @@
           </div>
           <pb n="242" xml:id="s242" facs="adl/claussen/claussen04/claussen4242"/>
           <div xml:id="idm140208210055408">
-<!-- -->
             <head xml:id="idm140208210054800">
               <hi rend="italics" xml:id="idm140208210054544">XXI</hi>
             </head>
@@ -9206,7 +9466,6 @@
           </div>
           <pb n="244" xml:id="s244" facs="adl/claussen/claussen04/claussen4244"/>
           <div xml:id="idm140208210034192">
-<!-- -->
             <head xml:id="idm140208210033584">
               <hi rend="italics" xml:id="idm140208210033328">XXII</hi>
             </head>
@@ -9279,7 +9538,6 @@
           </div>
           <pb n="246" xml:id="s246" facs="adl/claussen/claussen04/claussen4246"/>
           <div xml:id="idm140208210007760">
-<!-- -->
             <head xml:id="idm140208210007152">
               <hi rend="italics" xml:id="idm140208210006896">XXIII</hi>
             </head>
@@ -9352,7 +9610,6 @@
           </div>
           <pb n="248" xml:id="s248" facs="adl/claussen/claussen04/claussen4248"/>
           <div xml:id="idm140208209979872">
-<!-- -->
             <head xml:id="idm140208209979264">
               <hi rend="italics" xml:id="idm140208209979008">XXIV</hi>
             </head>
@@ -9484,7 +9741,6 @@
           </div>
           <pb n="251" xml:id="s251" facs="adl/claussen/claussen04/claussen4251"/>
           <div xml:id="idm140208209932080">
-<!-- -->
             <head xml:id="idm140208209931472">
               <hi rend="italics" xml:id="idm140208209931216">XXV</hi>
             </head>
@@ -9506,7 +9762,6 @@
           </div>
           <pb n="252" xml:id="s252" facs="adl/claussen/claussen04/claussen4252"/>
           <div xml:id="idm140208209923808">
-<!-- -->
             <head xml:id="idm140208209923200">
               <hi rend="italics" xml:id="idm140208209922944">XXVI</hi>
             </head>
@@ -9635,7 +9890,6 @@
           </div>
           <pb n="255" xml:id="s255" facs="adl/claussen/claussen04/claussen4255"/>
           <div xml:id="idm140208209876736">
-<!-- -->
             <head xml:id="idm140208209876128">
               <hi rend="italics" xml:id="idm140208209875872">XXVII</hi>
             </head>
@@ -9749,7 +10003,6 @@
           </div>
           <pb n="258" xml:id="s258" facs="adl/claussen/claussen04/claussen4258"/>
           <div xml:id="idm140208209834000">
-<!-- -->
             <head xml:id="idm140208209833392">
               <hi rend="italics" xml:id="idm140208209833136">XXVIII</hi>
             </head>
@@ -9822,7 +10075,6 @@
           </div>
           <pb n="260" xml:id="s260" facs="adl/claussen/claussen04/claussen4260"/>
           <div xml:id="idm140208209807376">
-<!-- -->
             <head xml:id="idm140208209806768">
               <hi rend="italics" xml:id="idm140208209806512">XXIX</hi>
             </head>
@@ -9905,7 +10157,6 @@
           </div>
           <pb n="262" xml:id="s262" facs="adl/claussen/claussen04/claussen4262"/>
           <div xml:id="idm140208209776864">
-<!-- -->
             <head xml:id="idm140208209776256">
               <hi rend="italics" xml:id="idm140208209776000">XXX</hi>
               <lb xml:id="idm140208209775376"/>
@@ -9936,7 +10187,6 @@
           </div>
           <pb n="263" xml:id="s263" facs="adl/claussen/claussen04/claussen4263"/>
           <div xml:id="idm140208209765040">
-<!-- -->
             <head xml:id="idm140208209764432">
               <hi rend="italics" xml:id="idm140208209764176">XXXI</hi>
             </head>
@@ -10129,7 +10379,6 @@
           </div>
           <pb n="268" xml:id="s268" facs="adl/claussen/claussen04/claussen4268"/>
           <div xml:id="idm140208209693696">
-<!-- -->
             <head xml:id="idm140208209693088">
               <hi rend="italics" xml:id="idm140208209692832">XXXII</hi>
             </head>
@@ -10353,7 +10602,6 @@
           </div>
           <pb n="274" xml:id="s274" facs="adl/claussen/claussen04/claussen4274"/>
           <div xml:id="idm140208209607360">
-<!-- -->
             <head xml:id="idm140208209606752">
               <hi rend="italics" xml:id="idm140208209606496">XXXIII</hi>
             </head>
@@ -10527,7 +10775,6 @@
           </div>
           <pb n="278" xml:id="s278" facs="adl/claussen/claussen04/claussen4278"/>
           <div xml:id="idm140208209543696">
-<!-- -->
             <head xml:id="idm140208209543088">
               <hi rend="italics" xml:id="idm140208209542832">XXXIV</hi>
             </head>

@@ -1,9 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="idm140632371145792"><!-- 
-       file     ./marc_dir/002015958.xml
-       field     
-       subfield  
-       prefix   -->
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="root">
   <teiHeader xml:id="idm140632371145136">
     <fileDesc xml:id="idm140632371144880">
       <titleStmt xml:id="idm140632371144576">
@@ -18,8 +14,22 @@
         <note xml:id="idm140632371116528">
 	  </note>
       </notesStmt>
-      <sourceDesc xml:id="idm140632371116016"><bibl xml:id="idm140632371115888"><author n="1" xml:id="idm140632371115248"><name xml:id="idm140632371114992"><surname xml:id="idm140632371114864">Brandes</surname>, <forename xml:id="idm140632371114400">Edvard</forename></name></author><title xml:id="idm140632371114112">En Politiker</title><pubPlace xml:id="idm140632371113792">Kjøbenhavn</pubPlace>
-<publisher xml:id="idm140632371113328">P. G. Philipsen</publisher><date xml:id="idm140632371112992">1889</date></bibl><listBibl xml:id="idm140632371112704"><bibl xml:id="biblid54088"><title xml:id="idm140632371099552">En Politiker</title></bibl></listBibl></sourceDesc>
+      <sourceDesc xml:id="idm140632371116016">
+        <bibl xml:id="idm140632371115888">
+          <author n="1" xml:id="idm140632371115248">
+            <name xml:id="idm140632371114992"><surname xml:id="idm140632371114864">Brandes</surname>, <forename xml:id="idm140632371114400">Edvard</forename></name>
+          </author>
+          <title xml:id="idm140632371114112">En Politiker</title>
+          <pubPlace xml:id="idm140632371113792">Kjøbenhavn</pubPlace>
+          <publisher xml:id="idm140632371113328">P. G. Philipsen</publisher>
+          <date xml:id="idm140632371112992">1889</date>
+        </bibl>
+        <listBibl xml:id="idm140632371112704">
+          <bibl xml:id="biblid54088">
+            <title xml:id="idm140632371099552">En Politiker</title>
+          </bibl>
+        </listBibl>
+      </sourceDesc>
     </fileDesc>
   </teiHeader>
   <text xml:id="workid54088" decls="#biblid54088">

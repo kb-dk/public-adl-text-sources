@@ -1,10 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!-- 22.10.2002 VL: + vaerktitle -->
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="idm140403940469584"><!-- 
-       file     ./marc_dir/001666659.xml
-       field     
-       subfield  
-       prefix   -->
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="root">
   <teiHeader xml:id="idm140403940468976">
     <fileDesc xml:id="idm140403940468720">
       <titleStmt xml:id="idm140403940468416">
@@ -25,17 +20,23 @@ Det Danske Sprog- og Litteraturselska</publisher>
         <note xml:id="idm140403940438608">
 	  </note>
       </notesStmt>
-      <sourceDesc xml:id="idm140403940438096"><bibl xml:id="idm140403940437968"><author n="1" xml:id="idm140403940437280"><name xml:id="idm140403940437024"><surname xml:id="idm140403940436896">Fibiger</surname>, <forename xml:id="idm140403940436432">Mathilde</forename></name></author><title xml:id="idm140403940436144">Clara Raphael</title><pubPlace xml:id="idm140403940435856">[København]</pubPlace>; <pubPlace xml:id="idm140403940435392">[Valby]</pubPlace>
-<publisher xml:id="idm140403940434928">Det Danske Sprog- og Litteraturselskab</publisher><publisher xml:id="idm140403940434624">Borgen</publisher><date xml:id="idm140403940434288">1994</date></bibl><listBibl xml:id="idm140403940434000"><bibl xml:id="biblid54229"><title xml:id="idm140403940420848">Clara Raphael</title></bibl><bibl xml:id="biblid58488"><title xml:id="idm140403940420064">Minona</title></bibl></listBibl></sourceDesc>
+      <sourceDesc xml:id="idm140403940438096">
+        <bibl xml:id="idm140403940437968"><author n="1" xml:id="idm140403940437280"><name xml:id="idm140403940437024"><surname xml:id="idm140403940436896">Fibiger</surname>, <forename xml:id="idm140403940436432">Mathilde</forename></name></author><title xml:id="idm140403940436144">Clara Raphael</title><pubPlace xml:id="idm140403940435856">[København]</pubPlace>; <pubPlace xml:id="idm140403940435392">[Valby]</pubPlace><publisher xml:id="idm140403940434928">Det Danske Sprog- og Litteraturselskab</publisher><publisher xml:id="idm140403940434624">Borgen</publisher><date xml:id="idm140403940434288">1994</date></bibl>
+        <listBibl xml:id="idm140403940434000">
+          <bibl xml:id="biblid54229">
+            <title xml:id="idm140403940420848">Clara Raphael</title>
+          </bibl>
+          <bibl xml:id="biblid58488">
+            <title xml:id="idm140403940420064">Minona</title>
+          </bibl>
+        </listBibl>
+      </sourceDesc>
     </fileDesc>
   </teiHeader>
   <text xml:id="idm140403940419424">
     <front xml:id="idm140403940419168">
       <pb n="I" facs="adl/fibiger/fibiger1/fibi1001" xml:id="idm140403940418816"/>
       <gap reason="cancelled" xml:id="idm140403940417952"/>
-<!---->
-<!---->
-<!--Clara Raphael Minona-->
       <pb n="II" facs="adl/fibiger/fibiger1/fibi1002" xml:id="idm140403940416432"/>
       <pb n="III" facs="adl/fibiger/fibiger1/fibi1003" xml:id="idm140403940415696"/>
       <titlePage xml:id="idm140403940414928">

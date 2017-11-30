@@ -1,14 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!--  20021023 HHL: indsat vaerktitle, tilrettet frontmattersidetal
-      20031222 HHL: en del rettelser i noterne vedr. kursivering.  Ptj rettet s. 108-116-117-122-186-247-251-
-
-
--->
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="idm140563626187408"><!-- 
-       file     ./marc_dir/001780363.xml
-       field     
-       subfield  
-       prefix   -->
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="root">
   <teiHeader xml:id="idm140563626186464">
     <fileDesc xml:id="idm140563626161072">
       <titleStmt xml:id="idm140563626160816">
@@ -27,17 +18,20 @@
         <note xml:id="idm140563626156928">
 	  </note>
       </notesStmt>
-      <sourceDesc xml:id="idm140563626156416"><bibl xml:id="idm140563626156288"><author n="1" xml:id="idm140563626155600"><name xml:id="idm140563626155344"><surname xml:id="idm140563626155216">Andersen</surname>, <forename xml:id="idm140563626154784">H. C.</forename></name></author><title xml:id="idm140563626154528">De to Baronesser</title><pubPlace xml:id="idm140563626154240">[København]</pubPlace>; <pubPlace xml:id="idm140563626153776">[Valby]</pubPlace>
-<publisher xml:id="idm140563626153312">Det Danske Sprog- og Litteraturselskab</publisher><publisher xml:id="idm140563626153008">Borgen</publisher><date xml:id="idm140563626152672">1997</date></bibl><listBibl xml:id="idm140563626152384"><bibl xml:id="biblid54459"><title xml:id="idm140563626139232">De to Baronesser</title></bibl></listBibl></sourceDesc>
+      <sourceDesc xml:id="idm140563626156416">
+        <bibl xml:id="idm140563626156288"><author n="1" xml:id="idm140563626155600"><name xml:id="idm140563626155344"><surname xml:id="idm140563626155216">Andersen</surname>, <forename xml:id="idm140563626154784">H. C.</forename></name></author><title xml:id="idm140563626154528">De to Baronesser</title><pubPlace xml:id="idm140563626154240">[København]</pubPlace>; <pubPlace xml:id="idm140563626153776">[Valby]</pubPlace><publisher xml:id="idm140563626153312">Det Danske Sprog- og Litteraturselskab</publisher><publisher xml:id="idm140563626153008">Borgen</publisher><date xml:id="idm140563626152672">1997</date></bibl>
+        <listBibl xml:id="idm140563626152384">
+          <bibl xml:id="biblid54459">
+            <title xml:id="idm140563626139232">De to Baronesser</title>
+          </bibl>
+        </listBibl>
+      </sourceDesc>
     </fileDesc>
   </teiHeader>
   <text xml:id="idm140563626138592">
     <front xml:id="idm140563626138336">
       <pb n="1" facs="adl/andersenhc/andersenhc2/anhc2001" xml:id="idm140563626138032"/>
       <gap reason="cancelled" xml:id="idm140563626137216"/>
-<!---->
-<!---->
-<!--De to Baronesser-->
       <pb n="2" facs="adl/andersenhc/andersenhc2/anhc2002" xml:id="idm140563626135696"/>
       <pb n="3" facs="adl/andersenhc/andersenhc2/anhc2003" xml:id="idm140563626134912"/>
       <titlePage xml:id="idm140563626134144">

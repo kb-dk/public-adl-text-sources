@@ -1,11 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!-- OCR by ATAPY 10.09.03 (Catherine Bychkova) -->
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="idm139817919449968">
-  <!-- 
-       file     ./marc_dir/002256026.xml
-       field     
-       subfield  
-       prefix   -->
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="root">
   <teiHeader xml:id="idm139817919449184">
     <fileDesc xml:id="idm139817919448928">
       <titleStmt xml:id="idm139817919423408">
@@ -740,9 +734,6 @@
     <front xml:id="idm139817919095072">
       <pb n="1" xml:id="s1" facs="adl/staf/staf1/staf1001"/>
       <gap reason="cancelled" xml:id="idm139817919093616"/>
-      <!---->
-      <!---->
-      <!--Schack Staffeldt Samlede digte-->
       <pb n="2" xml:id="s2" facs="adl/staf/staf1/staf1002"/>
       <pb n="3" xml:id="s3" facs="adl/staf/staf1/staf1003"/>
       <titlePage xml:id="idm139817919089792">
@@ -801,8 +792,6 @@ Henrik Blicher</trailer>
       <pb n="7" xml:id="s7" facs="adl/staf/staf1/staf1007"/>
       <div type="toc" xml:id="idm139817919056688">
         <head xml:id="idm139817919056192">Indhold</head>
-        <!--<p><table>
-					<row><cell>Hexaëmeron</cell><cell>1</cell></row>				-->
         <p xml:id="idm139817919055392">
           <table xml:id="idm139817919055136">
             <row role="data" xml:id="idm139817919054880">
