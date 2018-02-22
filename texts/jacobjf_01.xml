@@ -1,9 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="idm140365628626832"><!-- 
-       file     ./marc_dir/007995423.xml
-       field     
-       subfield  
-       prefix   -->
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="root">
   <teiHeader xml:id="idm140365628631536">
     <fileDesc xml:id="idm140365628631280">
       <titleStmt xml:id="idm140365628630976">
@@ -21,8 +17,22 @@
         <note xml:id="idm140365628602160">
 	  </note>
       </notesStmt>
-      <sourceDesc xml:id="idm140365628601648"><bibl xml:id="idm140365628601520"><author n="1" xml:id="idm140365628600832"><name xml:id="idm140365628600576"><surname xml:id="idm140365628600448">Jacobsen</surname>, <forename xml:id="idm140365628600016">Jørgen-Frantz</forename></name></author><title xml:id="idm140365628599712">Barbara</title><pubPlace xml:id="idm140365628599424">Kbh.</pubPlace>
-<publisher xml:id="idm140365628598960">Gyldendal</publisher><date xml:id="idm140365628598624">1939</date></bibl><listBibl xml:id="idm140365628598336"><bibl xml:id="biblid54096"><title xml:id="idm140365628585184">Barbara</title></bibl></listBibl></sourceDesc>
+      <sourceDesc xml:id="idm140365628601648">
+        <bibl xml:id="idm140365628601520">
+          <author n="1" xml:id="idm140365628600832">
+            <name xml:id="idm140365628600576"><surname xml:id="idm140365628600448">Jacobsen</surname>, <forename xml:id="idm140365628600016">Jørgen-Frantz</forename></name>
+          </author>
+          <title xml:id="idm140365628599712">Barbara</title>
+          <pubPlace xml:id="idm140365628599424">København</pubPlace>
+          <publisher xml:id="idm140365628598960">Gyldendal</publisher>
+          <date xml:id="idm140365628598624">1939</date>
+        </bibl>
+        <listBibl xml:id="idm140365628598336">
+          <bibl xml:id="biblid54096">
+            <title xml:id="idm140365628585184">Barbara</title>
+          </bibl>
+        </listBibl>
+      </sourceDesc>
     </fileDesc>
   </teiHeader>
   <text xml:id="workid54096" decls="#biblid54096">

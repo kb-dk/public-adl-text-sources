@@ -1,10 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!--   20021019 HHL indsat  vaerktitle-->
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="idm140573403372448"><!-- 
-       file     ./marc_dir/001848831.xml
-       field     
-       subfield  
-       prefix   -->
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="root">
   <teiHeader xml:id="idm140573403371840">
     <fileDesc xml:id="idm140573403371584">
       <titleStmt xml:id="idm140573403371280">
@@ -31,17 +26,87 @@
         <note xml:id="idm140573403339152">
 	  </note>
       </notesStmt>
-      <sourceDesc xml:id="idm140573403338640"><bibl xml:id="idm140573403338512"><author n="1" xml:id="idm140573403337824"><name xml:id="idm140573403337520"><surname xml:id="idm140573403337392">Møller</surname>, <forename xml:id="idm140573403336928">Poul Martin</forename></name></author><title xml:id="idm140573403336640">Skrifter i Udvalg</title><pubPlace xml:id="idm140573403336352">Kbh.</pubPlace>
-<date xml:id="idm140573403335888">1930</date></bibl><listBibl xml:id="idm140573403335600"><bibl xml:id="biblid54339"><title xml:id="idm140573403322448">STATISTISKSKILDRING AF LÆGDSGAARDEN I ØLSEBY-MAGLE</title></bibl><bibl xml:id="biblid55595"><title xml:id="idm140573403321568">OPTEGNELSER PAA KINAREJSEN</title></bibl><bibl xml:id="biblid56636"><title xml:id="idm140573403320768">FORSØG TIL HIMMELBREV</title></bibl><bibl xml:id="biblid56929"><title xml:id="idm140573403319952">TRØSTEGRUNDE OVER POETERNES MANGFOLDIGHED</title></bibl><bibl xml:id="biblid57271"><title xml:id="idm140573403319104">KVINDELIGHED I-III</title></bibl><bibl xml:id="biblid57704"><title xml:id="idm140573403318320">SUBSKRIPTIONSINDBYDELSE TIL ET MØNSTERARBEJDE I LATINSK STIL</title></bibl><bibl xml:id="biblid57772"><title xml:id="idm140573403317424">CENTRALSOLEN</title></bibl><bibl xml:id="biblid57838"><title xml:id="idm140573403316592">PLAN TIL EN ANTOLOGI, BETITLET: DEN FILOSOFISKE SMINKEDAASE</title></bibl><bibl xml:id="biblid57893"><title xml:id="idm140573403315760">OM AT FORTÆLLE BØRN EVENTYR</title></bibl><bibl xml:id="biblid58052"><title xml:id="idm140573403314928">OM FORÆRINGER</title></bibl><bibl xml:id="biblid58120"><title xml:id="idm140573403314128">TO FIGURER</title></bibl><bibl xml:id="biblid58205"><title xml:id="idm140573403313296">AHASVERUS</title></bibl><bibl xml:id="biblid58396"><title xml:id="idm140573403312464">NOGLE BETRAGTNINGER OVER POPULÆRE IDEERS  UDVIKLING</title></bibl><bibl xml:id="biblid58989"><title xml:id="idm140573403311584">LITTERÆR ANMELDELSE FRA 1824</title></bibl><bibl xml:id="biblid59254"><title xml:id="idm140573403310752">RECENSION AF 'EKSTREMERNE'</title></bibl><bibl xml:id="biblid60354"><title xml:id="idm140573403309952">TANKER OVER MULIGHEDEN AF BEVISER FOR MENNESKETS  UDØDELIGHED</title></bibl><bibl xml:id="biblid63266"><title xml:id="idm140573403309008">STRØTANKER FRA KINAREJSEN</title></bibl><bibl xml:id="biblid64362"><title xml:id="idm140573403308144">STRØTANKER  FRA   1822-26</title></bibl><bibl xml:id="biblid65384"><title xml:id="idm140573403307280">STRØTANKER  FRA   1826-31</title></bibl><bibl xml:id="biblid66842"><title xml:id="idm140573403306352">STRØTANKER  FRA  1831-36</title></bibl><bibl xml:id="biblid69296"><title xml:id="idm140573403305488">INDLEDNING  TIL  EN AFHANDLING OM AFFEKTATION</title></bibl></listBibl></sourceDesc>
+      <sourceDesc xml:id="idm140573403338640">
+        <bibl xml:id="idm140573403338512">
+          <author n="1" xml:id="idm140573403337824">
+            <name xml:id="idm140573403337520"><surname xml:id="idm140573403337392">Møller</surname>, <forename xml:id="idm140573403336928">Poul Martin</forename></name>
+          </author>
+          <title xml:id="idm140573403336640">Skrifter i Udvalg</title>
+          <pubPlace xml:id="idm140573403336352">København</pubPlace>
+          <date xml:id="idm140573403335888">1930</date>
+        </bibl>
+        <listBibl xml:id="idm140573403335600">
+          <bibl xml:id="biblid54339">
+            <title xml:id="idm140573403322448">STATISTISKSKILDRING AF LÆGDSGAARDEN I ØLSEBY-MAGLE</title>
+          </bibl>
+          <bibl xml:id="biblid55595">
+            <title xml:id="idm140573403321568">OPTEGNELSER PAA KINAREJSEN</title>
+          </bibl>
+          <bibl xml:id="biblid56636">
+            <title xml:id="idm140573403320768">FORSØG TIL HIMMELBREV</title>
+          </bibl>
+          <bibl xml:id="biblid56929">
+            <title xml:id="idm140573403319952">TRØSTEGRUNDE OVER POETERNES MANGFOLDIGHED</title>
+          </bibl>
+          <bibl xml:id="biblid57271">
+            <title xml:id="idm140573403319104">KVINDELIGHED I-III</title>
+          </bibl>
+          <bibl xml:id="biblid57704">
+            <title xml:id="idm140573403318320">SUBSKRIPTIONSINDBYDELSE TIL ET MØNSTERARBEJDE I LATINSK STIL</title>
+          </bibl>
+          <bibl xml:id="biblid57772">
+            <title xml:id="idm140573403317424">CENTRALSOLEN</title>
+          </bibl>
+          <bibl xml:id="biblid57838">
+            <title xml:id="idm140573403316592">PLAN TIL EN ANTOLOGI, BETITLET: DEN FILOSOFISKE SMINKEDAASE</title>
+          </bibl>
+          <bibl xml:id="biblid57893">
+            <title xml:id="idm140573403315760">OM AT FORTÆLLE BØRN EVENTYR</title>
+          </bibl>
+          <bibl xml:id="biblid58052">
+            <title xml:id="idm140573403314928">OM FORÆRINGER</title>
+          </bibl>
+          <bibl xml:id="biblid58120">
+            <title xml:id="idm140573403314128">TO FIGURER</title>
+          </bibl>
+          <bibl xml:id="biblid58205">
+            <title xml:id="idm140573403313296">AHASVERUS</title>
+          </bibl>
+          <bibl xml:id="biblid58396">
+            <title xml:id="idm140573403312464">NOGLE BETRAGTNINGER OVER POPULÆRE IDEERS  UDVIKLING</title>
+          </bibl>
+          <bibl xml:id="biblid58989">
+            <title xml:id="idm140573403311584">LITTERÆR ANMELDELSE FRA 1824</title>
+          </bibl>
+          <bibl xml:id="biblid59254">
+            <title xml:id="idm140573403310752">RECENSION AF 'EKSTREMERNE'</title>
+          </bibl>
+          <bibl xml:id="biblid60354">
+            <title xml:id="idm140573403309952">TANKER OVER MULIGHEDEN AF BEVISER FOR MENNESKETS  UDØDELIGHED</title>
+          </bibl>
+          <bibl xml:id="biblid63266">
+            <title xml:id="idm140573403309008">STRØTANKER FRA KINAREJSEN</title>
+          </bibl>
+          <bibl xml:id="biblid64362">
+            <title xml:id="idm140573403308144">STRØTANKER  FRA   1822-26</title>
+          </bibl>
+          <bibl xml:id="biblid65384">
+            <title xml:id="idm140573403307280">STRØTANKER  FRA   1826-31</title>
+          </bibl>
+          <bibl xml:id="biblid66842">
+            <title xml:id="idm140573403306352">STRØTANKER  FRA  1831-36</title>
+          </bibl>
+          <bibl xml:id="biblid69296">
+            <title xml:id="idm140573403305488">INDLEDNING  TIL  EN AFHANDLING OM AFFEKTATION</title>
+          </bibl>
+        </listBibl>
+      </sourceDesc>
     </fileDesc>
   </teiHeader>
   <text xml:id="idm140573403304736">
     <front xml:id="idm140573403304480">
       <pb n="I" facs="adl/moellerpm/moellerpm2/moel2fm001" xml:id="idm140573403304176"/>
       <gap reason="cancelled" xml:id="idm140573403303344"/>
-<!---->
-<!---->
-<!--DANMARKS NATIONALLITTERATUR POUL MØLLER SKRIFTER I UDVALG-->
       <pb n="II" facs="adl/moellerpm/moellerpm2/moel2fm002" xml:id="idm140573403301792"/>
       <pb n="III" facs="adl/moellerpm/moellerpm2/moel2fm003" xml:id="idm140573403301024"/>
       <titlePage xml:id="idm140573403300256">
@@ -162,7 +227,7 @@ ej med Færdighed fra Bladet. - Instrumental-Musik hørte jeg blot af Familiens 
 	<pb n="12" facs="adl/moellerpm/moellerpm2/moel2012" xml:id="idm140573403195488"/>
 til at omtale dem, da de findes næsten i ethvert Hus. Jeg iler forbi Gertruds Kistelaag, oven paa hvilket læses i en Girlande af Roser og Lilier G. P. D., og paa hvis indre, konkave Side er klinet Admiral Nelson og Slaget af 2den April. - Jeg iler over Malerierne paa Sengeskuddene. Disses Forfatter har ladet sig henrive af en vild Fantasis regelløse Spil. Jeg finder det en alt for bisar Ide, at Adam og Eva æde af et Træ, der bærer baade Æbler, Pærer og Blommer paa een Gang. - Jeg haster til det mest geniale Kunstprodukt, jeg har kunnet antræffe inden Lægdsgaardens Grænser. Det ville vi i Særdeleshed gøre til Genstand for vore æstetiske Refleksioner. Den større Omhu, hvormed dette Værk konserveres, tilkendegiver allerede, at Forfatteren føler dets sjældne Værd. Stykkets fire Hjørner ere naglede med Neglikesøm. til Væggen, og, for at ej Metallet i oksyderet Tilstand skal angribe Papiret, er der mellem Sømhovederne og dette anbragt smaa Lapper rødt uldent Tøi. Nedenunder angives Stykkets historiske Tendens med de Ord: »Gertrud rider til Marked.« Af den skalkagtige Aand, som gaar igennem det hele, sluttede jeg straks, at Rasmus var Kunstneren. Det satte mig i ikke liden Forundring, at Lægdsmanden, med det ham egne satte Væsen, vilde laane Plads i sin Stue til et Værk, som saa øjensynlig gik ud paa personlig Satire. Hovedfiguren er Gertrud, som forestilles ridende paa Udgangsøget, med en Pilekvist i Haanden. I Baggrunden præsenteres Porten, halv aaben. Man ser her Kunstneren selv hidse Gaardhunden, Griban, mod Hesten, som slaar Bagenden højt i Vejret. Herved kommer den arme Pige i en højst beklagelig Forfatning og kan 
 	<pb n="13" facs="adl/moellerpm/moellerpm2/moel2013" xml:id="idm140573403192768"/>
-med Nød og næppe, ved at gribe fat i begge Hestens Øren, undgaa at glide udover dens Hals og Hoved. Forfatteren har beklaget sig meget, at Kunstens Skranker ej tillod ham at tilkendegive det sukcessive; ellers vilde han have fremstillet, hvorledes først hele Gertruds Underdeludgjordeen Kugleform,idet baadeBenogFødder,ligesomLemmernepaaet sammenrullet Pindsvin, skjultesunderdetstore Hvergarnsskørts luftfyldte Ballon; men hvorledes siden,dervedatHellemissetuafladeligslogbagop, først de sorte, messingskrampede Træsko, siden de lange blaa Uldhoser krøb som et Par Følehorn mer og mer frem af det store Sneglehus, saa at hendes Legeme syntes at kunne udstrækkes og forlænges i det uendelige.Jeg er overbevist om, at det vil gaa de fleste Kunstdommere ligesom mig.De ville finde, at Gertruds Bagdel har for megen Masse og en altfor enorm Bredde. Men efter at have set Originalen tager jeg min overilede Dom tilbage. Jeg forsikrer, der er aldeles intetoverdrevent idet hele Udtryk.Dette <hi rend="italics" xml:id="idm140573403190160">monstrum</hi> er paa sin Vis et lige saa mærkværdigtFænomensomsammeLegemsdelaf den berømte Afrodite <hi rend="italics" xml:id="idm140573403189280">callipyge</hi>.Hvad det savner i Yndighed, erstattes igenved denmeregrandiøse Stil. At Forfatteren har ladet Hestens Ryg synke dybt under den svære Ballast, det røber den tænkende Kunster.En Fejl mod korrekt Tegning, i den bag Porten lurende Figur, har han til fælles med alle Kunstnere i Ølseby-Magle; det er, at den nedre Del er i Sammenligning med Overkroppen uforholdsmæssigspidsogliden.Drapperieteruovertræffeligt. I Koloriten af Gertruds rødstribede Bul hersker en lysTone. DenklingeromtrentligesomRødsten.
+med Nød og næppe, ved at gribe fat i begge Hestens Øren, undgaa at glide udover dens Hals og Hoved. Forfatteren har beklaget sig meget, at Kunstens Skranker ej tillod ham at tilkendegive det sukcessive; ellers vilde han have fremstillet, hvorledes først hele Gertruds Underdeludgjordeen Kugleform ,idet baade Ben og Fødder, ligesom Lemmerne paa et sammenrullet Pindsvin, skjultes under det store Hvergarnsskørts luftfyldte Ballon; men hvorledes siden, derved at Hellemisset uafladelig slogbagop, først de sorte, messingskrampede Træsko, siden de lange blaa Uldhoser krøb som et Par Følehorn mer og mer frem af det store Sneglehus, saa at hendes Legeme syntes at kunne udstrækkes og forlænges i det uendelige.Jeg er overbevist om, at det vil gaa de fleste Kunstdommere ligesom mig.De ville finde, at Gertruds Bagdel har for megen Masse og en altfor enorm Bredde. Men efter at have set Originalen tager jeg min overilede Dom tilbage. Jeg forsikrer, der er aldeles intetoverdrevent idet hele Udtryk.Dette <hi rend="italics" xml:id="idm140573403190160">monstrum</hi> er paa sin Vis et lige saa mærkværdigtFænomensomsammeLegemsdelaf den berømte Afrodite <hi rend="italics" xml:id="idm140573403189280">callipyge</hi>.Hvad det savner i Yndighed, erstattes igenved denmeregrandiøse Stil. At Forfatteren har ladet Hestens Ryg synke dybt under den svære Ballast, det røber den tænkende Kunster.En Fejl mod korrekt Tegning, i den bag Porten lurende Figur, har han til fælles med alle Kunstnere i Ølseby-Magle; det er, at den nedre Del er i Sammenligning med Overkroppen uforholdsmæssigspidsogliden.Drapperieteruovertræffeligt. I Koloriten af Gertruds rødstribede Bul hersker en lysTone. DenklingeromtrentligesomRødsten.
 	<pb n="14" facs="adl/moellerpm/moellerpm2/moel2014" xml:id="idm140573403187856"/>
 Men at Forfatteren har stillet sig selv til Skue paa sin Tavle, anser jeg for en utilgivelig Subjektivitet. - Et Fresko-Maleri, som træffes paa Køkkenvæggen, ridset med Kul, 5 Kvarter fra Gulvet, er ikke noksom individualiseret. Dog er det af filosofisk Interesse, da det hjælper Fantasien utroligt til at fatte den abstrakte Forestilling om et firføddet Dyr. Maleriet kan umulig forstyrre det rene Begreb ved at vække Tanken om Hund, Hest eller Ko. At Kunstneren selv paastaar, hans Hensigt var at skildre den graa Kat, omstyrter ej vor Synsmaade. Geniet har henrevet ham uden hans Bevidsthed og bragt ham til at fremstille en hel Dyreklasse.</p>
           </div>
@@ -427,7 +492,7 @@ MIN KUSINE.</head>
             <pb n="78" facs="adl/moellerpm/moellerpm2/moel2078" xml:id="idm140573402916880"/>
             <p xml:id="idm140573402916112">Min salig Kusine var et mærkeligt Eksempel herpaa. Hendes gamle Moster, som tilbragte sine sidste Levedage hos hende, havde faaet det Husraad mod sin Gigt, at hun hver Aften skulde gnides paa Ryggen med en Flonels Klud. Hun havde den Særhed, at ingen uden min Kusine kunde forrette denne Tjeneste ret efter hendes Hoved. Men uheldigvis plejede denne just til samme Tid at være fordybet i Fortællinger om Ridderfruer og Ædlinge, der opofrede deres jordiske Lykke for Guds Riges Skyld. Denne henrivende Læsning kunde hun sjælden overtale sig til at ombytte med saa plump en Haandgærning, og Moster blev derfor almindeligvis forsømt. En Gang sagde jeg til hende: Gode Kusine! Du skulde dog forbarme dig lidt mer over det gamle Skrog. I Følge hendes Alder vil hun ikke længe kunne falde dig til Besvær, og naar du har mistet hende, vil du sikkert fortryde din Mangel paa Opmærksomhed for hende. - Min Ven! svarede hun, du begriber ikke, hvor slige smaalige Sysler ere mig modbydelige. Den Slags Selvovervindelse, som saa liden en Kærlighedsgærning forudsætter, falder det mig svært at nedlade mig til. Jeg kan trods nogen fornægte mig selv for min lidende Søster og Broder, men kun i det store; hvad enhver kan gøre, det krymper jeg mig ved at give mig i Færd med. Mit Hjærte vil altid blive miskendt, fordi jeg er født i en ussel Tid, hvor jeg ikke har hjemme, i en Tid, da Kvinden blot skal beskæftige sig mad Smaating. Dø for den gode Moster kan jeg med Glæde, ja udgyde mit Blod for hende paa Retterbænken. Det haaber jeg du tror om mig; men at spilde min Tid for at føje hendes Egensindighed, det holder jeg mig for god til.</p>
             <pb n="79" facs="adl/moellerpm/moellerpm2/moel2079" xml:id="idm140573402913808"/>
-            <p xml:id="idm140573402912992">Min Kusine følte sig virkelig i Stand til at dø for sin Moster, ja næsten for enhver. Men dermed vil jeg slet ikke have sagt, at denne høje Fantasi virkelig ved given Lejlighed her i denne Verden var bleven iværksat. Naar virkelig en skiden Rakkerknægt, hvis Støvler lugtede af Tran, med uvadsket Haand og uklippede Negle havde grebet hende ved det blonde Hovedhaar, da havde hun sikkert i Tide fattet en bedre Beslutning. Det var egentlig den rene Forestilling: at dø for sin Næste, det fine Begreb, blottet for alle raa Tilsætninger, der begejstrede hendes Sind. Hun var ej bleven sit Forsæt tro, hvis hun havde se,t Dødsscenen forestillet efter Naturen i sort Kobberstik, langt mindre, hvis Billedet havde været illumineret.</p>
+            <p xml:id="idm140573402912992">Min Kusine følte sig virkelig i Stand til at dø for sin Moster, ja næsten for enhver. Men dermed vil jeg slet ikke have sagt, at denne høje Fantasi virkelig ved given Lejlighed her i denne Verden var bleven iværksat. Naar virkelig en skiden Rakkerknægt, hvis Støvler lugtede af Tran, med uvadsket Haand og uklippede Negle havde grebet hende ved det blonde Hovedhaar, da havde hun sikkert i Tide fattet en bedre Beslutning. Det var egentlig den rene Forestilling: at dø for sin Næste, det fine Begreb, blottet for alle raa Tilsætninger, der begejstrede hendes Sind. Hun var ej bleven sit Forsæt tro, hvis hun havde set Dødsscenen forestillet efter Naturen i sort Kobberstik, langt mindre, hvis Billedet havde været illumineret.</p>
             <p xml:id="idm140573402911088">Hun skyede saa meget som muligt al Berøring med den prosaiske Virkelighed; thi Erfaringen gjorde daglig en ny Erobring fra det Tankerige, hvori hun udførte sine ideelle Heltegærninger. I en enlig Stue paa sin bløde Sofa, naar hun ret uforstyrret overlod sig til Drømmen om, hvad hun under andre Omstændigheder vilde have gjort, da drev hun sine Fordringer til Mennesket saa højt, at hun med Grund foragtede Leonidas, Winkelried og Jeanne d'Arc, thi hun vidste, at hun i deres Sted vilde have gjort mer, end de gjorde. Blot Mucius Scævola havde hun en hemmelig Respekt for; hun følte, han var hendes Overmand. Grunden dertil var, at hun en Gang havde brændt sig paa et Krusejærn, og havde derfor helligen lovet sig selv, aldrig frivilligen at komme Flammen for nær. Derved var hendes Fantasiverden bleven indskrænket til tre Elementer. Men var hun mindre stormodig, fordi hendes Helbred ikke tillod, at 
 	<pb n="80" facs="adl/moellerpm/moellerpm2/moel2080" xml:id="idm140573402908896"/>
 hun stod i Vekselvirkning med det synlige? Dersom sædeligt Værd skulde bedømmes efter den Dygtighed, hvormed man forstaar at udsætte sig for Ulejlighed af ydre Ting, da maatte jo Fiskerkonen, som sidder fra Morgen til Aften i Regn og Slud ved sin Kurv, uden at faa Tandpine, faa særdeles høj Plads paa Moralitetens Rangliste. Naar enhver virker i den Sfære, hvori han føler sig hjemme, da kan man ikke forlange mer af ham. En føler sig i Stand til at tumle med vaade Torsk og Hvillinger, en anden med Tanker og Forestillinger, eftersom enhvers Konstitution tillader det. Men fristes man ikke ved slige Betragtninger til at ønske, Skaberen havde for finere Væsener beredt en finere Skueplads af destillerede Elementer; at han havde besørget en bekvemmere Lommeudgave af Verden til Brug for nervesvage Per-9 soner?</p>

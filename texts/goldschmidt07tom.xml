@@ -1,10 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!--Tom opmærkning d.30.4.2002 blo -->
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="idm140645424909248"><!-- 
-       file     ./marc_dir/001823971.xml
-       field     
-       subfield  
-       prefix   -->
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="root">
   <teiHeader xml:id="idm140645424908416">
     <fileDesc xml:id="idm140645424908160">
       <titleStmt xml:id="idm140645424882736">
@@ -23,8 +18,27 @@
         <note xml:id="idm140645424878688">
 	  </note>
       </notesStmt>
-      <sourceDesc xml:id="idm140645424878176"><bibl xml:id="idm140645424878048"><author n="1" xml:id="idm140645424877360"><name xml:id="idm140645424877104"><surname xml:id="idm140645424876976">Goldschmidt</surname>, <forename xml:id="idm140645424876544">M. A.</forename></name></author><title xml:id="idm140645424876288">M. Goldschmidts Poetiske Skrifter</title><pubPlace xml:id="idm140645424875984">Kbh.</pubPlace>
-<date xml:id="idm140645424875504">1896-98</date></bibl><listBibl xml:id="idm140645424875216"><bibl xml:id="biblid54145"><title xml:id="idm140645424862064">Hjemløs, En Fortælling (1)</title></bibl><bibl xml:id="biblid54163"><title xml:id="idm140645424861184">Hjemmme</title></bibl><bibl xml:id="biblid55304"><title xml:id="idm140645424860400">Hjemløs (Første Bog)</title></bibl></listBibl></sourceDesc>
+      <sourceDesc xml:id="idm140645424878176">
+        <bibl xml:id="idm140645424878048">
+          <author n="1" xml:id="idm140645424877360">
+            <name xml:id="idm140645424877104"><surname xml:id="idm140645424876976">Goldschmidt</surname>, <forename xml:id="idm140645424876544">M. A.</forename></name>
+          </author>
+          <title xml:id="idm140645424876288">M. Goldschmidts Poetiske Skrifter</title>
+          <pubPlace xml:id="idm140645424875984">København</pubPlace>
+          <date xml:id="idm140645424875504">1896-98</date>
+        </bibl>
+        <listBibl xml:id="idm140645424875216">
+          <bibl xml:id="biblid54145">
+            <title xml:id="idm140645424862064">Hjemløs, En Fortælling (1)</title>
+          </bibl>
+          <bibl xml:id="biblid54163">
+            <title xml:id="idm140645424861184">Hjemmme</title>
+          </bibl>
+          <bibl xml:id="biblid55304">
+            <title xml:id="idm140645424860400">Hjemløs (Første Bog)</title>
+          </bibl>
+        </listBibl>
+      </sourceDesc>
     </fileDesc>
   </teiHeader>
   <text xml:id="idm140645424859696">

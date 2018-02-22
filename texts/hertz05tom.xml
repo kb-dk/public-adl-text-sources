@@ -1,10 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!--Tom opmærkning d.01.07.2002 blo -->
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="idm140654114789568"><!-- 
-       file     ./marc_dir/002148279.xml
-       field     
-       subfield  
-       prefix   -->
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="root">
   <teiHeader xml:id="idm140654114793808">
     <fileDesc xml:id="idm140654114793552">
       <titleStmt xml:id="idm140654114793248">
@@ -19,8 +14,27 @@
         <note xml:id="idm140654114765232">
 	  </note>
       </notesStmt>
-      <sourceDesc xml:id="idm140654114764720"><bibl xml:id="idm140654114764592"><author n="1" xml:id="idm140654114763904"><name xml:id="idm140654114763648"><surname xml:id="idm140654114763520">Hertz</surname>, <forename xml:id="idm140654114763056">Henrik</forename></name></author><title xml:id="idm140654114762768">Udvalgte dramatiske Værker</title><pubPlace xml:id="idm140654114762448">Kbh</pubPlace>
-<date xml:id="idm140654114761968">1897</date></bibl><listBibl xml:id="idm140654114761680"><bibl xml:id="biblid54241"><title xml:id="idm140654114748528">Kong Renès Datter</title></bibl><bibl xml:id="biblid55282"><title xml:id="idm140654114747728">De Fattiges Dyrehave</title></bibl><bibl xml:id="biblid56521"><title xml:id="idm140654114746944">Ninon</title></bibl></listBibl></sourceDesc>
+      <sourceDesc xml:id="idm140654114764720">
+        <bibl xml:id="idm140654114764592">
+          <author n="1" xml:id="idm140654114763904">
+            <name xml:id="idm140654114763648"><surname xml:id="idm140654114763520">Hertz</surname>, <forename xml:id="idm140654114763056">Henrik</forename></name>
+          </author>
+          <title xml:id="idm140654114762768">Udvalgte dramatiske Værker</title>
+          <pubPlace xml:id="idm140654114762448">København</pubPlace>
+          <date xml:id="idm140654114761968">1897</date>
+        </bibl>
+        <listBibl xml:id="idm140654114761680">
+          <bibl xml:id="biblid54241">
+            <title xml:id="idm140654114748528">Kong Renès Datter</title>
+          </bibl>
+          <bibl xml:id="biblid55282">
+            <title xml:id="idm140654114747728">De Fattiges Dyrehave</title>
+          </bibl>
+          <bibl xml:id="biblid56521">
+            <title xml:id="idm140654114746944">Ninon</title>
+          </bibl>
+        </listBibl>
+      </sourceDesc>
     </fileDesc>
   </teiHeader>
   <text xml:id="idm140654114746304">

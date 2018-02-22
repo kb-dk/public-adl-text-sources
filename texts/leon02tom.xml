@@ -1,10 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!--Tom opmærkning d. 11.10.2002 blo -->
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="idm140460280712240"><!-- 
-       file     ./marc_dir/001803446.xml
-       field     
-       subfield  
-       prefix   -->
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="root">
   <teiHeader xml:id="idm140460280711312">
     <fileDesc xml:id="idm140460280711056">
       <titleStmt xml:id="idm140460280756720">
@@ -23,8 +18,23 @@
         <note xml:id="idm140460280681552">
 	  </note>
       </notesStmt>
-      <sourceDesc xml:id="idm140460280681040"><bibl xml:id="idm140460280680912"><author n="1" xml:id="idm140460280680224"><name xml:id="idm140460280679968"><surname xml:id="idm140460280679840">Ulfeldt</surname>, <forename xml:id="idm140460280679376">Leonora Christina</forename></name></author><title xml:id="idm140460280679088">Leonora Christinas Jammers Minde</title><pubPlace xml:id="idm140460280678784">Kbh.</pubPlace>
-<publisher xml:id="idm140460280678320">Det Danske Sprog- og Litteraturselskab</publisher><publisher xml:id="idm140460280678016">C.A. Reitzel</publisher><date xml:id="idm140460280677680">1998</date></bibl><listBibl xml:id="idm140460280677392"><bibl xml:id="biblid54636"><title xml:id="idm140460280664240">Jammers Minde</title></bibl></listBibl></sourceDesc>
+      <sourceDesc xml:id="idm140460280681040">
+        <bibl xml:id="idm140460280680912">
+          <author n="1" xml:id="idm140460280680224">
+            <name xml:id="idm140460280679968"><surname xml:id="idm140460280679840">Ulfeldt</surname>, <forename xml:id="idm140460280679376">Leonora Christina</forename></name>
+          </author>
+          <title xml:id="idm140460280679088">Leonora Christinas Jammers Minde</title>
+          <pubPlace xml:id="idm140460280678784">København</pubPlace>
+          <publisher xml:id="idm140460280678320">Det Danske Sprog- og Litteraturselskab</publisher>
+          <publisher xml:id="idm140460280678016">C.A. Reitzel</publisher>
+          <date xml:id="idm140460280677680">1998</date>
+        </bibl>
+        <listBibl xml:id="idm140460280677392">
+          <bibl xml:id="biblid54636">
+            <title xml:id="idm140460280664240">Jammers Minde</title>
+          </bibl>
+        </listBibl>
+      </sourceDesc>
     </fileDesc>
   </teiHeader>
   <text xml:id="idm140460280663600">
@@ -109,11 +119,6 @@
       <pb n="lxxviii" facs="adl/leonora/leonora2/leon2fm078" xml:id="idm140460280601536"/>
     </front>
     <group xml:id="idm140460280600608">
- 
-     <!--
-	 The schema does not allow asterisk in the value of the n
-	 attribute. Right now I just don't care. It is well formed.
-     -->
       <pb n="1*" facs="adl/leonora/leonora2/leon2fm079" xml:id="idm140460280599904"/>
       <text xml:id="workid54636" decls="#biblid54636">
         <body xml:id="idm140460280598192">

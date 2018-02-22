@@ -1,10 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!-- 20030521 HHL genindlæst, sidecheck, tabel i indholdsfortegnelse, romertal fjernet -->
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="idm140237362503168"><!-- 
-       file     ./marc_dir/001764959.xml
-       field     
-       subfield  
-       prefix   -->
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="root">
   <teiHeader xml:id="idm140237362469200">
     <fileDesc xml:id="idm140237362468944">
       <titleStmt xml:id="idm140237362468688">
@@ -24,17 +19,20 @@
         <note xml:id="idm140237362438400">
 	  </note>
       </notesStmt>
-      <sourceDesc xml:id="idm140237362437888"><bibl xml:id="idm140237362437760"><author n="1" xml:id="idm140237362437072"><name xml:id="idm140237362436816"><surname xml:id="idm140237362436688">Knudsen</surname>, <forename xml:id="idm140237362436224">Jakob</forename></name></author><title xml:id="idm140237362435936">Sind</title><pubPlace xml:id="idm140237362435648">[Kbh.]</pubPlace>; <pubPlace xml:id="idm140237362435184">[Valby]</pubPlace>
-<publisher xml:id="idm140237362434720">Det Danske Sprog- og Litteraturselskab</publisher><publisher xml:id="idm140237362434416">Borgen</publisher><date xml:id="idm140237362434080">1996</date></bibl><listBibl xml:id="idm140237362433792"><bibl xml:id="biblid54106"><title xml:id="idm140237362420640">Sind (Danske Klassikere)</title></bibl></listBibl></sourceDesc>
+      <sourceDesc xml:id="idm140237362437888">
+        <bibl xml:id="idm140237362437760"><author n="1" xml:id="idm140237362437072"><name xml:id="idm140237362436816"><surname xml:id="idm140237362436688">Knudsen</surname>, <forename xml:id="idm140237362436224">Jakob</forename></name></author><title xml:id="idm140237362435936">Sind</title><pubPlace xml:id="idm140237362435648">[København]</pubPlace>; <pubPlace xml:id="idm140237362435184">[Valby]</pubPlace><publisher xml:id="idm140237362434720">Det Danske Sprog- og Litteraturselskab</publisher><publisher xml:id="idm140237362434416">Borgen</publisher><date xml:id="idm140237362434080">1996</date></bibl>
+        <listBibl xml:id="idm140237362433792">
+          <bibl xml:id="biblid54106">
+            <title xml:id="idm140237362420640">Sind (Danske Klassikere)</title>
+          </bibl>
+        </listBibl>
+      </sourceDesc>
     </fileDesc>
   </teiHeader>
   <text xml:id="workid54106" decls="#biblid54106">
     <front xml:id="idm140237362418992">
       <pb n="1" xml:id="s1" facs="adl/knudsenj/knudsenj2/knud2001"/>
       <gap reason="cancelled" xml:id="idm140237362417488"/>
-<!---->
-<!---->
-<!--Sind-->
       <pb n="2" xml:id="s2" facs="adl/knudsenj/knudsenj2/knud2002"/>
       <pb n="3" xml:id="s3" facs="adl/knudsenj/knudsenj2/knud2003"/>
       <titlePage xml:id="idm140237362413744">
@@ -79,7 +77,7 @@ Omslag: Stig Brøgger · Tryk: Rounborgs grafiske Hus, Holstebro</p>
           <p xml:id="idm140237362371600">Han saae Glasskabet for sig, inde i Kjøbmandens Kontor, med alle disse pæne Porcellænssager i, som han i saa mange Aar havde ønsket at beskue, og som det netop skulde falde Kjøbmanden ind at vise ham i Aften, da han havde saa bestemt Ordre til at være hjemme Kl. 10.</p>
           <p xml:id="idm140237362370656">Han følte Trang til atter at see paa sit Uhr. Men der var ikke Tid. Han havde jo ogsaa seet, da han løb ud af Butiken, at det <hi rend="italics" xml:id="idm140237362370128">var</hi> 10. Det var første Gang, at et Klokkeslæt paa hans nye Konfirmations-Uhr havde haft et rigtig sørgeligt Udseende. Hidtil havde det været saa glædeligt hver Gang at see, hvor det kunde gaa.</p>
           <p xml:id="idm140237362368944">Han vilde springe over Grøften, ind paa Grønningen langs Vejen, hvor der var blødere for hans bare Fødder. I Springet brast hans Læber fra hinanden, og han begyndte at puste, at stønne med vidt aaben Mund og af sine Lungers fulde Kraft – stadig løbende alt hvad han kunde.</p>
-	  <p xml:id="idm140237362367984">Samtidig var det, som en hed Luft af glødende Tanker slog ham imøde, og hans Ansigt blev badet i Sved. Det var som en Ovn, en Verden af rødglødende Muligheder: <hi rend="italics" xml:id="idm140237362367376">sin Faders Vrede</hi>, han saae ind i. Det var just det frygtelige ved hans Faders Vrede, at han sletikke kunde overskue dens Muligheder. Han havde jo nok været der før, men han havde været saa overvældet hver Gang, saa han egenlig ikke kunde huske, hvad der var skeet. Det var ikke Pryglene, – det var denne Ildregn af Vrede, – og denne Følelse af at være fordømt. – – Og atter saae han Glasskabet hos Kjøbmanden, især denne 
+          <p xml:id="idm140237362367984">Samtidig var det, som en hed Luft af glødende Tanker slog ham imøde, og hans Ansigt blev badet i Sved. Det var som en Ovn, en Verden af rødglødende Muligheder: <hi rend="italics" xml:id="idm140237362367376">sin Faders Vrede</hi>, han saae ind i. Det var just det frygtelige ved hans Faders Vrede, at han sletikke kunde overskue dens Muligheder. Han havde jo nok været der før, men han havde været saa overvældet hver Gang, saa han egenlig ikke kunde huske, hvad der var skeet. Det var ikke Pryglene, – det var denne Ildregn af Vrede, – og denne Følelse af at være fordømt. – – Og atter saae han Glasskabet hos Kjøbmanden, især denne 
 	<pb n="8" xml:id="s8" facs="adl/knudsenj/knudsenj2/knud2008"/>
 Porcellænsnisse til Svovlstikker – – – at han virkelig havde kunnet være saa optaget af den Figur, skjønt han vidste, hvad det gjaldt.</p>
           <p xml:id="idm140237362364320">Han standsede pludselig ved en Ledstolpe, satte Hænderne imod den, gispende og pustende, idet han skjød Ryg som en Kat. – Tænk, hvis han gjorde Oprør mod sin Fader! – Men Tanken var saa fjærn, saa uvirkelig, – og dog mærkede han, hvordan hele hans Verden vilde gaa under med det samme, – han kom til at tænke paa Billedet af Samson deroppe i Skolen, der trykker de to Støttepiller om og faar hele den uhyre Bygning ned over sig. – Saa vilde der da ikke være andet tilbage end Gud i Himlen, – for han blev dog vel tilbage?</p>
@@ -467,8 +465,11 @@ Selvretfærdighed, som I snakker om: Æ kan da æt gjøre for, te Æ har erfaret
           <p xml:id="idm140237362089136">»Det veed Æ æt, hvad det gjorde. Men vi er da helleræt fuldkommen, fordi vi lever i Ordet. Og saa havde vi en ydmyg Præst i ham. Æ troer, det er mere værd, om en Præst han er ydmyg, end om han kan lade være at drikke en femme-seks Drammer til hans Mellemmad.«</p>
           <p xml:id="idm140237362088464">»Det er sandt, Per!«</p>
           <p xml:id="idm140237362088048">»Og troer Du nu, han havde drukket mindre Brændevin, fordet om han havde læst noget mer i Bibelen heller i Luthers Skrifter?«</p>
-          <p xml:id="idm140237362087520">Nu begyndte den Mand, som i Vognen havde siddet ved Siden ad Fynboen, at istemme Salmen:</p><!--<lb xml:id="idm140237362087152"/>-->
-	  <lg><l>Herren han har besøgt sit Folk -</l></lg><!--<lb xml:id="idm140237362086816"/>--><p>
+          <p xml:id="idm140237362087520">Nu begyndte den Mand, som i Vognen havde siddet ved Siden ad Fynboen, at istemme Salmen:</p>
+          <lg xml:id="idadba1aaf-e440-45e6-bd92-c57dfa7738c1">
+            <l xml:id="id54c5fa03-94ca-49f1-96c4-e2d3992c59b0">Herren han har besøgt sit Folk -</l>
+          </lg>
+          <p xml:id="id06faf8d4-7f73-4f52-a988-d155aa543893">
 og straks efter sang alle med.
 </p>
           <note anchored="true" xml:id="idm140237362086384">* enhver sin Natur = enhvers Natur.</note>
@@ -600,7 +601,7 @@ tillidsfuldt i hans Blik, som tydelig sagde, at Sorgen ikke vilde gjøre ham rin
           <p xml:id="idm140237361977760">»»Goddag, Madam Balling!«« – – gjentog det henne fra Døren. »Har De rent glæmt, at De saae mig ved Thebordet i Morges?«</p>
           <p xml:id="idm140237361977232">»Det er ogsaa sandt, ja – hæ, hæ, hæ,« sagde han uden at vende sig.</p>
           <p xml:id="idm140237361976752">»Hør, lad De nu bare mig tælle de Penge og lægge dem i Skuffen, det plejer jeg jo altid. De maa vist skynde Dem, hvis De skal komme tidsnok til Middagen.«</p>
-          <p xml:id="idm140237361976192">Hun gik hen til Vinduet og saae ham ind i Ansigtet: »Naa, er det saadan fat! – Ja,ja, – seer vi det. – Nej, det er det, jeg altid har sagt: De skulde aldrig have taget mig og mine to Børn i Huset. Saa havde det seet anderledes ud nu.« Hun gav sig ivrig til at tælle Pengene, eller i hvert Fald rasle med dem.</p>
+          <p xml:id="idm140237361976192">Hun gik hen til Vinduet og saae ham ind i Ansigtet: »Naa, er det saadan fat! – Ja, ja, – seer vi det. – Nej, det er det, jeg altid har sagt: De skulde aldrig have taget mig og mine to Børn i Huset. Saa havde det seet anderledes ud nu.« Hun gav sig ivrig til at tælle Pengene, eller i hvert Fald rasle med dem.</p>
           <p xml:id="idm140237361975168">Han havde faaet travlt med at tage en anden Flip paa. »Aa, Madam Balling, -jeg veed sletikke noget at svare Dem. Men hvis De kunde have talt de Penge siden – -«</p>
           <p xml:id="idm140237361974448">»Naa, det skal virkelig kunne siges, uden at De benægter det: at det er min Skyld, at De ikke har faaet Cecilie Faurholt!« – -</p>
           <p xml:id="idm140237361973920">»Nej, men Madam Balling, det var jo Dem selv, der sagde det – -«</p>
@@ -1617,7 +1618,7 @@ var det, som han ikke længer gik paa Jorden, det blev blot en Slags Trøst i Fa
           <p xml:id="idm140237361200464">»Nej, saa skal A nok vinde, – saa skal A gi'e dem! – – For nu gaar A og tænker for meget paa Dig, ved det Du er dérovre – -«</p>
           <p xml:id="idm140237361199936">»Aa, men kan Du da it lade det fare, – Fa'er han er jo nu vant til at raade -«</p>
           <p xml:id="idm140237361199456">»Ja, vant til at stjæle og plyndre og bedrage – – Nej, saa var Du da den værste, A kunde blive gift med, Gjatrid! – Men Du vil da have mig alligevel, vil Du int?«</p>
-          <p xml:id="idm140237361198896">»Jo,jo, -jeg vil have Dig, hvad der saa sker!« -</p>
+          <p xml:id="idm140237361198896">»Jo, jo, -jeg vil have Dig, hvad der saa sker!« -</p>
           <p xml:id="idm140237361198448">Døren gik op, et Øjeblik før de hørte det, og de saae Madam Balling inden for den. Hun satte en ilsom Forretningsmarsch op over mod Skatollet, med Øjnene fæstede paa en Kop, hun syntes at ville hente der.</p>
           <p xml:id="idm140237361197632">Anders var i et Spring henne hos hende, greb hende fast i Skuldren, drejede hende og førte hende henimod Døren: »Kan De gaa Djer Vej,« hvæsede han i Øret paa hende, »for helles skal A vise Dem den!«
 	<pb n="142" xml:id="s142" facs="adl/knudsenj/knudsenj2/knud2142"/>
@@ -1667,7 +1668,7 @@ de, te Du vilde aldrig appellere en Sag eller gaa til Overøvrigheden med den, f
           <p xml:id="idm140237361166832">»Troer Du int. – A troer nu hellere, A vil selv til at være baade Overret og Højesteret for dem.«</p>
           <p xml:id="idm140237361166336">»Det forstaar jeg ikke noget af, hæ, hæ, hæ,« sagde Præsten. Hans Ansigt havde et forpint Udtryk. Han gav sig til at gaa frem og tilbage paa Gulvet.</p>
           <p xml:id="idm140237361165776">»Ja, A kan nu hellerint forstaa,« sagde Anders, »te De int tager Dem af den Sag med Kirketaget, Pastor Steffensen. De er da nærmere til det. Saa kunde De jo gaa til Biskoppen, hvis De tykkes, det var det bedste.«</p>
-          <p xml:id="idm140237361165152">»Aa,jeg vil saa nødig ind paa saaen noget – – det er – æh -jeg troer ikke rigtig, det er noget godt. – Ja, ja, andre kan jo gjøre det, og de bør vel ogsaa gjøre det, – men vi Kristne vi skulde jo helst komme frem med det gode – – Men – ja,jeg troede for Resten ogsaa, De var et troende Menneske, Anders, – Deres Fader var jo da – -«</p>
+          <p xml:id="idm140237361165152">»Aa, jeg vil saa nødig ind paa saaen noget – – det er – æh -jeg troer ikke rigtig, det er noget godt. – Ja, ja, andre kan jo gjøre det, og de bør vel ogsaa gjøre det, – men vi Kristne vi skulde jo helst komme frem med det gode – – Men – ja, jeg troede for Resten ogsaa, De var et troende Menneske, Anders, – Deres Fader var jo da – -«</p>
           <p xml:id="idm140237361164080">»Ja, Fa'er og mig – det kan vist blive Hip som Hap i det Stykke. Men saaen noget Snak er han da aldrig kommen med.«</p>
           <p xml:id="idm140237361163568">»De maa jo ikke kalde det Snak. Det staar jo da i Biblen.«</p>
           <p xml:id="idm140237361163104">»Ja, det veed A int – – det kjender A int noget til.«</p>

@@ -1,9 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="idm140236447869984"><!-- 
-       file     ./marc_dir/002220396.xml
-       field     
-       subfield  
-       prefix   -->
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="root">
   <teiHeader xml:id="idm140236447869328">
     <fileDesc xml:id="idm140236447869072">
       <titleStmt xml:id="idm140236447868768">
@@ -18,8 +14,21 @@
         <note xml:id="idm140236447840848">
 	  </note>
       </notesStmt>
-      <sourceDesc xml:id="idm140236447840336"><bibl xml:id="idm140236447840208"><author n="1" xml:id="idm140236447839520"><name xml:id="idm140236447839264"><surname xml:id="idm140236447839136">Larsen</surname>, <forename xml:id="idm140236447838704">Karl</forename></name></author><title xml:id="idm140236447838416">Aksel Halcks Optegnelser</title><pubPlace xml:id="idm140236447838112">Kbh</pubPlace>
-<date xml:id="idm140236447837632">1902</date></bibl><listBibl xml:id="idm140236447837344"><bibl xml:id="biblid54088"><title xml:id="idm140236447824192">Aksel Halcks Optegnelser</title></bibl></listBibl></sourceDesc>
+      <sourceDesc xml:id="idm140236447840336">
+        <bibl xml:id="idm140236447840208">
+          <author n="1" xml:id="idm140236447839520">
+            <name xml:id="idm140236447839264"><surname xml:id="idm140236447839136">Larsen</surname>, <forename xml:id="idm140236447838704">Karl</forename></name>
+          </author>
+          <title xml:id="idm140236447838416">Aksel Halcks Optegnelser</title>
+          <pubPlace xml:id="idm140236447838112">København</pubPlace>
+          <date xml:id="idm140236447837632">1902</date>
+        </bibl>
+        <listBibl xml:id="idm140236447837344">
+          <bibl xml:id="biblid54088">
+            <title xml:id="idm140236447824192">Aksel Halcks Optegnelser</title>
+          </bibl>
+        </listBibl>
+      </sourceDesc>
     </fileDesc>
   </teiHeader>
   <text xml:id="workid54088" decls="#biblid54088">

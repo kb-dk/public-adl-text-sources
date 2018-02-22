@@ -1,10 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!--Tom opmærkning blo 01.10.02-->
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="idm139640087493600"><!-- 
-       file     ./marc_dir/001823825.xml
-       field    530 
-       subfield a 
-       prefix   6:-->
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="root">
   <teiHeader xml:id="idm139640087492768">
     <fileDesc xml:id="idm139640087492512">
       <titleStmt xml:id="idm139640087466992">
@@ -19,8 +14,16 @@
         <note xml:id="idm139640087464176">
 	  </note>
       </notesStmt>
-      <sourceDesc xml:id="idm139640087463664"><bibl xml:id="idm139640087463536"><author n="1" xml:id="idm139640087462848"><name xml:id="idm139640087462592"><surname xml:id="idm139640087462464">Grundtvig</surname>, <forename xml:id="idm139640087462032">N. F. S.</forename></name></author><title xml:id="idm139640087461776"> Varianter, noter og registre. - 1956-64</title><pubPlace xml:id="idm139640087461456">Kbh.</pubPlace>
-<date xml:id="idm139640087460976">1944-1964</date></bibl></sourceDesc>
+      <sourceDesc xml:id="idm139640087463664">
+        <bibl xml:id="idm139640087463536">
+          <author n="1" xml:id="idm139640087462848">
+            <name xml:id="idm139640087462592"><surname xml:id="idm139640087462464">Grundtvig</surname>, <forename xml:id="idm139640087462032">N. F. S.</forename></name>
+          </author>
+          <title xml:id="idm139640087461776"> Varianter, noter og registre. - 1956-64</title>
+          <pubPlace xml:id="idm139640087461456">København</pubPlace>
+          <date xml:id="idm139640087460976">1944-1964</date>
+        </bibl>
+      </sourceDesc>
     </fileDesc>
   </teiHeader>
   <text xml:id="idm139640087460304">

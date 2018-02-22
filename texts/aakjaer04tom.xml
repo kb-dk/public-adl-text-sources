@@ -1,10 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!--Tom opmærkning d.13.08.2002 blo -->
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="idm140709995027600"><!-- 
-       file     ./marc_dir/002251515.xml
-       field    530 
-       subfield a 
-       prefix   Bd. 4 :-->
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="root">
   <teiHeader xml:id="idm140709995026768">
     <fileDesc xml:id="idm140709995026512">
       <titleStmt xml:id="idm140709995026208">
@@ -19,8 +14,353 @@
         <note xml:id="idm140709994998048">
 	  </note>
       </notesStmt>
-      <sourceDesc xml:id="idm140709994997536"><bibl xml:id="idm140709994997408"><author n="1" xml:id="idm140709994996720"><name xml:id="idm140709994996464"><surname xml:id="idm140709994996336">Aakjær</surname>, <forename xml:id="idm140709994995904">Jeppe</forename></name></author><title xml:id="idm140709994995616"> Artikler og Taler. - 1919</title><pubPlace xml:id="idm140709994995312">Kbh.</pubPlace>; <pubPlace xml:id="idm140709994994848">Kristiania</pubPlace>
-<publisher xml:id="idm140709994994384">Gyldendal</publisher><date xml:id="idm140709994994048">1918-19</date></bibl><listBibl xml:id="idm140709994993760"><bibl xml:id="biblid53736"><title xml:id="idm140709994980608">Rapport fra Revolutionen i Fly</title></bibl><bibl xml:id="biblid54533"><title xml:id="idm140709994979808">Fra de Uænsedes Lejr</title></bibl><bibl xml:id="biblid54577"><title xml:id="idm140709994978992">Julestemning</title></bibl><bibl xml:id="biblid54608"><title xml:id="idm140709994978208">Djævelens  Historie</title></bibl><bibl xml:id="biblid54688"><title xml:id="idm140709994977392">Missionen og dens Høvding</title></bibl><bibl xml:id="biblid55021"><title xml:id="idm140709994976576">En  Kejser-Filosof</title></bibl><bibl xml:id="biblid55046"><title xml:id="idm140709994975744">Fordømmelseslæren</title></bibl><bibl xml:id="biblid55079"><title xml:id="idm140709994974944">To danske Præster</title></bibl><bibl xml:id="biblid55113"><title xml:id="idm140709994974144">Først Guds Rige</title></bibl><bibl xml:id="biblid55128"><title xml:id="idm140709994973296">En Høstprædiken</title></bibl><bibl xml:id="biblid55152"><title xml:id="idm140709994972496">Begyndelsen til Enden</title></bibl><bibl xml:id="biblid55186"><title xml:id="idm140709994971712">Naadens Tid   og Seminaristerne</title></bibl><bibl xml:id="biblid55209"><title xml:id="idm140709994970864">Helligforsamling</title></bibl><bibl xml:id="biblid55251"><title xml:id="idm140709994970032">Paulus</title></bibl><bibl xml:id="biblid55321"><title xml:id="idm140709994969184">Gammel</title></bibl><bibl xml:id="biblid55336"><title xml:id="idm140709994968400">Stakkels Barn!</title></bibl><bibl xml:id="biblid55361"><title xml:id="idm140709994967568">Blandt Sultne</title></bibl><bibl xml:id="biblid55375"><title xml:id="idm140709994966736">Nytaar</title></bibl><bibl xml:id="biblid55400"><title xml:id="idm140709994965952">Kjøbenhavnsk Jul</title></bibl><bibl xml:id="biblid55424"><title xml:id="idm140709994965104">Bisp Absalon</title></bibl><bibl xml:id="biblid55449"><title xml:id="idm140709994964320">Det ny Raadhus</title></bibl><bibl xml:id="biblid55473"><title xml:id="idm140709994963424">En Politiker (d. e. Harald Holm)</title></bibl><bibl xml:id="biblid55497"><title xml:id="idm140709994962576">Kejseren</title></bibl><bibl xml:id="biblid55521"><title xml:id="idm140709994961680">1. Maj i Kjøbenhavn</title></bibl><bibl xml:id="biblid55537"><title xml:id="idm140709994960816">Sommer</title></bibl><bibl xml:id="biblid55595"><title xml:id="idm140709994960032">Nyttige  Mennesker</title></bibl><bibl xml:id="biblid55621"><title xml:id="idm140709994959248">Vor oplyste  Bondestand</title></bibl><bibl xml:id="biblid55647"><title xml:id="idm140709994958416">Mejerister</title></bibl><bibl xml:id="biblid55673"><title xml:id="idm140709994957520">Endnu en Mejerist (Esp. Andersen, Jebjærg)</title></bibl><bibl xml:id="biblid55704"><title xml:id="idm140709994956624">Ungdom og Politik</title></bibl><bibl xml:id="biblid55800"><title xml:id="idm140709994955728">Jens ved Moselandingen</title></bibl><bibl xml:id="biblid55824"><title xml:id="idm140709994954896">H.  N. Rosenkjær</title></bibl><bibl xml:id="biblid55870"><title xml:id="idm140709994954048">Med eller ikke med</title></bibl><bibl xml:id="biblid55906"><title xml:id="idm140709994953216">Lidt Selvbiografi</title></bibl><bibl xml:id="biblid55937"><title xml:id="idm140709994952384">Anton Nielsen</title></bibl><bibl xml:id="biblid55952"><title xml:id="idm140709994951552">Thor  Lange</title></bibl><bibl xml:id="biblid55978"><title xml:id="idm140709994950720">Andreas  Haukland</title></bibl><bibl xml:id="biblid56003"><title xml:id="idm140709994949888">Gallaklædte Islands-Sympatier</title></bibl><bibl xml:id="biblid56018"><title xml:id="idm140709994949008">Erindringer om Mylius-Erichsen</title></bibl><bibl xml:id="biblid56052"><title xml:id="idm140709994948096">Bjørnstjerne Bjørnson paa Askov</title></bibl><bibl xml:id="biblid56109"><title xml:id="idm140709994947216">Holger  Drachmann</title></bibl><bibl xml:id="biblid56154"><title xml:id="idm140709995057088">Johs.  V.  Jensen</title></bibl><bibl xml:id="biblid56189"><title xml:id="idm140709995056368">Joh. Skjoldborg I</title></bibl><bibl xml:id="biblid56205"><title xml:id="idm140709995055648">Joh. Skjoldborg II</title></bibl><bibl xml:id="biblid56240"><title xml:id="idm140709995054864">A.  C. Andersen</title></bibl><bibl xml:id="biblid56287"><title xml:id="idm140709995054080">Karl Larsen I</title></bibl><bibl xml:id="biblid56322"><title xml:id="idm140709995053296">Karl Larsen II</title></bibl><bibl xml:id="biblid56356"><title xml:id="idm140709994921280">Karl Larsen III</title></bibl><bibl xml:id="biblid56400"><title xml:id="idm140709994920496">Agnes Henningsen</title></bibl><bibl xml:id="biblid56416"><title xml:id="idm140709994919712">Hans Agersnap</title></bibl><bibl xml:id="biblid56458"><title xml:id="idm140709994918928">Blicherfund I</title></bibl><bibl xml:id="biblid56502"><title xml:id="idm140709994918144">Blicherfund II</title></bibl><bibl xml:id="biblid56538"><title xml:id="idm140709994917360">Blicherfund III</title></bibl><bibl xml:id="biblid56642"><title xml:id="idm140709994916576">Blicher og E Bindstouw</title></bibl><bibl xml:id="biblid56728"><title xml:id="idm140709994915792">St. St. Blicher og Aarhus Stiftstidende</title></bibl><bibl xml:id="biblid56803"><title xml:id="idm140709994915040">Mer  Blicheriana</title></bibl><bibl xml:id="biblid56861"><title xml:id="idm140709994914256">Blicher og Himmelbjærgmøderne</title></bibl><bibl xml:id="biblid57026"><title xml:id="idm140709994913360">Vor jydske Nationalsang</title></bibl><bibl xml:id="biblid57071"><title xml:id="idm140709994912576">Mindetale over St St. Blicher</title></bibl><bibl xml:id="biblid57096"><title xml:id="idm140709994911824">Fortale til Blichers Livstragedie</title></bibl><bibl xml:id="biblid57101"><title xml:id="idm140709994907008">Fortale til Jydsk Stævne</title></bibl><bibl xml:id="biblid57126"><title xml:id="idm140709994906192">Fortale til Fræ wor Hjemmen</title></bibl><bibl xml:id="biblid57151"><title xml:id="idm140709994905424">Jydsken og Højdansken</title></bibl><bibl xml:id="biblid57226"><title xml:id="idm140709994904672">Lidt Sprogkjævl med Vald. Rørdam I-II</title></bibl><bibl xml:id="biblid57252"><title xml:id="idm140709994903888">Gammel Jehannes hans Bivelskistaarri,   I-II</title></bibl><bibl xml:id="biblid57277"><title xml:id="idm140709994903072">Brev til H. F. Feilberg</title></bibl><bibl xml:id="biblid57292"><title xml:id="idm140709994902384">Det jydske Bondesprog</title></bibl><bibl xml:id="biblid57396"><title xml:id="idm140709994901600">Kong  Wolle</title></bibl><bibl xml:id="biblid57449"><title xml:id="idm140709994900784">Robert Burns</title></bibl><bibl xml:id="biblid54226"><title xml:id="idm140709994899936">Sækkepiben</title></bibl><bibl xml:id="biblid54262"><title xml:id="idm140709994899152">Livet og Poesien</title></bibl><bibl xml:id="biblid57586"><title xml:id="idm140709994898368">Et  Karlekammer</title></bibl><bibl xml:id="biblid57612"><title xml:id="idm140709994897584">Bondens Tyende</title></bibl><bibl xml:id="biblid57696"><title xml:id="idm140709994896800">Et Opgjør</title></bibl><bibl xml:id="biblid57761"><title xml:id="idm140709994896016">De Renlivede i Vendsyssel</title></bibl><bibl xml:id="biblid57794"><title xml:id="idm140709994895264">Et Gjensvar</title></bibl><bibl xml:id="biblid57820"><title xml:id="idm140709994894416">Endnu en Bemærkning</title></bibl><bibl xml:id="biblid57845"><title xml:id="idm140709994893600">Hjorddrengen</title></bibl><bibl xml:id="biblid57889"><title xml:id="idm140709994892816">Byd Karlen med!  I-III</title></bibl><bibl xml:id="biblid57979"><title xml:id="idm140709994891968">Hytter i alle Lande</title></bibl><bibl xml:id="biblid58104"><title xml:id="idm140709994891184">Et gammelt Sallingbo-Par.  I-II</title></bibl><bibl xml:id="biblid58140"><title xml:id="idm140709994890432">Aftægtsfolk.  I-II</title></bibl><bibl xml:id="biblid58173"><title xml:id="idm140709994889680">Talende  Stiller</title></bibl><bibl xml:id="biblid58208"><title xml:id="idm140709994888896">En Tale, der ikke blev holdt</title></bibl><bibl xml:id="biblid58233"><title xml:id="idm140709994888144">Kjære  Ungdom</title></bibl><bibl xml:id="biblid58259"><title xml:id="idm140709994887392">Menneskespild - Evnespild</title></bibl><bibl xml:id="biblid58380"><title xml:id="idm140709994886640">Industri og Bonde</title></bibl><bibl xml:id="biblid58492"><title xml:id="idm140709994885856">Kvinden og Grundloven</title></bibl><bibl xml:id="biblid58571"><title xml:id="idm140709994885072">Grundlovstale 1915</title></bibl><bibl xml:id="biblid58649"><title xml:id="idm140709994884224">Historiske Spøgelser, Tale 1909</title></bibl><bibl xml:id="biblid58773"><title xml:id="idm140709994883328">Herremænd, Tale 1911</title></bibl><bibl xml:id="biblid58897"><title xml:id="idm140709994882512">En historisk Anmærkning</title></bibl><bibl xml:id="biblid58913"><title xml:id="idm140709994881696">Husmandsforedrag, Paa Lundgaard,  1916</title></bibl><bibl xml:id="biblid58988"><title xml:id="idm140709994880896">Husmænd nu og Husmænd efter</title></bibl><bibl xml:id="biblid59122"><title xml:id="idm140709994880064">Bonden og Danmark</title></bibl><bibl xml:id="biblid59257"><title xml:id="idm140709994879216">Fremtidens Bondehjem, Tale  1916</title></bibl><bibl xml:id="biblid59364"><title xml:id="idm140709994878416">Hjemmet og Krigen</title></bibl><bibl xml:id="biblid59429"><title xml:id="idm140709994877568">Freden, Tale 1916</title></bibl><bibl xml:id="biblid59491"><title xml:id="idm140709994876784">Naturfredning</title></bibl><bibl xml:id="biblid59547"><title xml:id="idm140709994875952">Hedens Fredning, Foredrag l Nyborg 1916</title></bibl><bibl xml:id="biblid59664"><title xml:id="idm140709994875152">En Tallerken Jord</title></bibl><bibl xml:id="biblid59697"><title xml:id="idm140709994874368">Fra Heden</title></bibl><bibl xml:id="biblid59724"><title xml:id="idm140709994873520">Jens Fløj</title></bibl><bibl xml:id="biblid59760"><title xml:id="idm140709994872736">Grev Geert.  En Drøm</title></bibl><bibl xml:id="biblid59816"><title xml:id="idm140709994871920">Før Hedevandringer. 1915</title></bibl><bibl xml:id="biblid59831"><title xml:id="idm140709994871040">Hedevandringer</title></bibl><bibl xml:id="biblid60422"><title xml:id="idm140709994870192">Byen  Aakjær</title></bibl><bibl xml:id="biblid60457"><title xml:id="idm140709994869392">Markfest i Aakjær</title></bibl><bibl xml:id="biblid60513"><title xml:id="idm140709994868544">En  Vejrhane</title></bibl><bibl xml:id="biblid60528"><title xml:id="idm140709994867760">Fra en bortgjemt Kreds</title></bibl><bibl xml:id="biblid60564"><title xml:id="idm140709994866912">En god gammel Fjandbo</title></bibl><bibl xml:id="biblid60580"><title xml:id="idm140709994866064">Kjærgaard i Fly</title></bibl><bibl xml:id="biblid60606"><title xml:id="idm140709994865216">Niels Pejsen I Trøwed</title></bibl><bibl xml:id="biblid60631"><title xml:id="idm140709994864336">Mors Have.   Digt 1918</title></bibl></listBibl></sourceDesc>
+      <sourceDesc xml:id="idm140709994997536">
+        <bibl xml:id="idm140709994997408"><author n="1" xml:id="idm140709994996720"><name xml:id="idm140709994996464"><surname xml:id="idm140709994996336">Aakjær</surname>, <forename xml:id="idm140709994995904">Jeppe</forename></name></author><title xml:id="idm140709994995616"> Artikler og Taler. - 1919</title><pubPlace xml:id="idm140709994995312">København</pubPlace>; <pubPlace xml:id="idm140709994994848">Kristiania</pubPlace><publisher xml:id="idm140709994994384">Gyldendal</publisher><date xml:id="idm140709994994048">1918-19</date></bibl>
+        <listBibl xml:id="idm140709994993760">
+          <bibl xml:id="biblid53736">
+            <title xml:id="idm140709994980608">Rapport fra Revolutionen i Fly</title>
+          </bibl>
+          <bibl xml:id="biblid54533">
+            <title xml:id="idm140709994979808">Fra de Uænsedes Lejr</title>
+          </bibl>
+          <bibl xml:id="biblid54577">
+            <title xml:id="idm140709994978992">Julestemning</title>
+          </bibl>
+          <bibl xml:id="biblid54608">
+            <title xml:id="idm140709994978208">Djævelens  Historie</title>
+          </bibl>
+          <bibl xml:id="biblid54688">
+            <title xml:id="idm140709994977392">Missionen og dens Høvding</title>
+          </bibl>
+          <bibl xml:id="biblid55021">
+            <title xml:id="idm140709994976576">En  Kejser-Filosof</title>
+          </bibl>
+          <bibl xml:id="biblid55046">
+            <title xml:id="idm140709994975744">Fordømmelseslæren</title>
+          </bibl>
+          <bibl xml:id="biblid55079">
+            <title xml:id="idm140709994974944">To danske Præster</title>
+          </bibl>
+          <bibl xml:id="biblid55113">
+            <title xml:id="idm140709994974144">Først Guds Rige</title>
+          </bibl>
+          <bibl xml:id="biblid55128">
+            <title xml:id="idm140709994973296">En Høstprædiken</title>
+          </bibl>
+          <bibl xml:id="biblid55152">
+            <title xml:id="idm140709994972496">Begyndelsen til Enden</title>
+          </bibl>
+          <bibl xml:id="biblid55186">
+            <title xml:id="idm140709994971712">Naadens Tid   og Seminaristerne</title>
+          </bibl>
+          <bibl xml:id="biblid55209">
+            <title xml:id="idm140709994970864">Helligforsamling</title>
+          </bibl>
+          <bibl xml:id="biblid55251">
+            <title xml:id="idm140709994970032">Paulus</title>
+          </bibl>
+          <bibl xml:id="biblid55321">
+            <title xml:id="idm140709994969184">Gammel</title>
+          </bibl>
+          <bibl xml:id="biblid55336">
+            <title xml:id="idm140709994968400">Stakkels Barn!</title>
+          </bibl>
+          <bibl xml:id="biblid55361">
+            <title xml:id="idm140709994967568">Blandt Sultne</title>
+          </bibl>
+          <bibl xml:id="biblid55375">
+            <title xml:id="idm140709994966736">Nytaar</title>
+          </bibl>
+          <bibl xml:id="biblid55400">
+            <title xml:id="idm140709994965952">Kjøbenhavnsk Jul</title>
+          </bibl>
+          <bibl xml:id="biblid55424">
+            <title xml:id="idm140709994965104">Bisp Absalon</title>
+          </bibl>
+          <bibl xml:id="biblid55449">
+            <title xml:id="idm140709994964320">Det ny Raadhus</title>
+          </bibl>
+          <bibl xml:id="biblid55473">
+            <title xml:id="idm140709994963424">En Politiker (d. e. Harald Holm)</title>
+          </bibl>
+          <bibl xml:id="biblid55497">
+            <title xml:id="idm140709994962576">Kejseren</title>
+          </bibl>
+          <bibl xml:id="biblid55521">
+            <title xml:id="idm140709994961680">1. Maj i Kjøbenhavn</title>
+          </bibl>
+          <bibl xml:id="biblid55537">
+            <title xml:id="idm140709994960816">Sommer</title>
+          </bibl>
+          <bibl xml:id="biblid55595">
+            <title xml:id="idm140709994960032">Nyttige  Mennesker</title>
+          </bibl>
+          <bibl xml:id="biblid55621">
+            <title xml:id="idm140709994959248">Vor oplyste  Bondestand</title>
+          </bibl>
+          <bibl xml:id="biblid55647">
+            <title xml:id="idm140709994958416">Mejerister</title>
+          </bibl>
+          <bibl xml:id="biblid55673">
+            <title xml:id="idm140709994957520">Endnu en Mejerist (Esp. Andersen, Jebjærg)</title>
+          </bibl>
+          <bibl xml:id="biblid55704">
+            <title xml:id="idm140709994956624">Ungdom og Politik</title>
+          </bibl>
+          <bibl xml:id="biblid55800">
+            <title xml:id="idm140709994955728">Jens ved Moselandingen</title>
+          </bibl>
+          <bibl xml:id="biblid55824">
+            <title xml:id="idm140709994954896">H.  N. Rosenkjær</title>
+          </bibl>
+          <bibl xml:id="biblid55870">
+            <title xml:id="idm140709994954048">Med eller ikke med</title>
+          </bibl>
+          <bibl xml:id="biblid55906">
+            <title xml:id="idm140709994953216">Lidt Selvbiografi</title>
+          </bibl>
+          <bibl xml:id="biblid55937">
+            <title xml:id="idm140709994952384">Anton Nielsen</title>
+          </bibl>
+          <bibl xml:id="biblid55952">
+            <title xml:id="idm140709994951552">Thor  Lange</title>
+          </bibl>
+          <bibl xml:id="biblid55978">
+            <title xml:id="idm140709994950720">Andreas  Haukland</title>
+          </bibl>
+          <bibl xml:id="biblid56003">
+            <title xml:id="idm140709994949888">Gallaklædte Islands-Sympatier</title>
+          </bibl>
+          <bibl xml:id="biblid56018">
+            <title xml:id="idm140709994949008">Erindringer om Mylius-Erichsen</title>
+          </bibl>
+          <bibl xml:id="biblid56052">
+            <title xml:id="idm140709994948096">Bjørnstjerne Bjørnson paa Askov</title>
+          </bibl>
+          <bibl xml:id="biblid56109">
+            <title xml:id="idm140709994947216">Holger  Drachmann</title>
+          </bibl>
+          <bibl xml:id="biblid56154">
+            <title xml:id="idm140709995057088">Johs.  V.  Jensen</title>
+          </bibl>
+          <bibl xml:id="biblid56189">
+            <title xml:id="idm140709995056368">Joh. Skjoldborg I</title>
+          </bibl>
+          <bibl xml:id="biblid56205">
+            <title xml:id="idm140709995055648">Joh. Skjoldborg II</title>
+          </bibl>
+          <bibl xml:id="biblid56240">
+            <title xml:id="idm140709995054864">A.  C. Andersen</title>
+          </bibl>
+          <bibl xml:id="biblid56287">
+            <title xml:id="idm140709995054080">Karl Larsen I</title>
+          </bibl>
+          <bibl xml:id="biblid56322">
+            <title xml:id="idm140709995053296">Karl Larsen II</title>
+          </bibl>
+          <bibl xml:id="biblid56356">
+            <title xml:id="idm140709994921280">Karl Larsen III</title>
+          </bibl>
+          <bibl xml:id="biblid56400">
+            <title xml:id="idm140709994920496">Agnes Henningsen</title>
+          </bibl>
+          <bibl xml:id="biblid56416">
+            <title xml:id="idm140709994919712">Hans Agersnap</title>
+          </bibl>
+          <bibl xml:id="biblid56458">
+            <title xml:id="idm140709994918928">Blicherfund I</title>
+          </bibl>
+          <bibl xml:id="biblid56502">
+            <title xml:id="idm140709994918144">Blicherfund II</title>
+          </bibl>
+          <bibl xml:id="biblid56538">
+            <title xml:id="idm140709994917360">Blicherfund III</title>
+          </bibl>
+          <bibl xml:id="biblid56642">
+            <title xml:id="idm140709994916576">Blicher og E Bindstouw</title>
+          </bibl>
+          <bibl xml:id="biblid56728">
+            <title xml:id="idm140709994915792">St. St. Blicher og Aarhus Stiftstidende</title>
+          </bibl>
+          <bibl xml:id="biblid56803">
+            <title xml:id="idm140709994915040">Mer  Blicheriana</title>
+          </bibl>
+          <bibl xml:id="biblid56861">
+            <title xml:id="idm140709994914256">Blicher og Himmelbjærgmøderne</title>
+          </bibl>
+          <bibl xml:id="biblid57026">
+            <title xml:id="idm140709994913360">Vor jydske Nationalsang</title>
+          </bibl>
+          <bibl xml:id="biblid57071">
+            <title xml:id="idm140709994912576">Mindetale over St St. Blicher</title>
+          </bibl>
+          <bibl xml:id="biblid57096">
+            <title xml:id="idm140709994911824">Fortale til Blichers Livstragedie</title>
+          </bibl>
+          <bibl xml:id="biblid57101">
+            <title xml:id="idm140709994907008">Fortale til Jydsk Stævne</title>
+          </bibl>
+          <bibl xml:id="biblid57126">
+            <title xml:id="idm140709994906192">Fortale til Fræ wor Hjemmen</title>
+          </bibl>
+          <bibl xml:id="biblid57151">
+            <title xml:id="idm140709994905424">Jydsken og Højdansken</title>
+          </bibl>
+          <bibl xml:id="biblid57226">
+            <title xml:id="idm140709994904672">Lidt Sprogkjævl med Vald. Rørdam I-II</title>
+          </bibl>
+          <bibl xml:id="biblid57252">
+            <title xml:id="idm140709994903888">Gammel Jehannes hans Bivelskistaarri,   I-II</title>
+          </bibl>
+          <bibl xml:id="biblid57277">
+            <title xml:id="idm140709994903072">Brev til H. F. Feilberg</title>
+          </bibl>
+          <bibl xml:id="biblid57292">
+            <title xml:id="idm140709994902384">Det jydske Bondesprog</title>
+          </bibl>
+          <bibl xml:id="biblid57396">
+            <title xml:id="idm140709994901600">Kong  Wolle</title>
+          </bibl>
+          <bibl xml:id="biblid57449">
+            <title xml:id="idm140709994900784">Robert Burns</title>
+          </bibl>
+          <bibl xml:id="biblid54226">
+            <title xml:id="idm140709994899936">Sækkepiben</title>
+          </bibl>
+          <bibl xml:id="biblid54262">
+            <title xml:id="idm140709994899152">Livet og Poesien</title>
+          </bibl>
+          <bibl xml:id="biblid57586">
+            <title xml:id="idm140709994898368">Et  Karlekammer</title>
+          </bibl>
+          <bibl xml:id="biblid57612">
+            <title xml:id="idm140709994897584">Bondens Tyende</title>
+          </bibl>
+          <bibl xml:id="biblid57696">
+            <title xml:id="idm140709994896800">Et Opgjør</title>
+          </bibl>
+          <bibl xml:id="biblid57761">
+            <title xml:id="idm140709994896016">De Renlivede i Vendsyssel</title>
+          </bibl>
+          <bibl xml:id="biblid57794">
+            <title xml:id="idm140709994895264">Et Gjensvar</title>
+          </bibl>
+          <bibl xml:id="biblid57820">
+            <title xml:id="idm140709994894416">Endnu en Bemærkning</title>
+          </bibl>
+          <bibl xml:id="biblid57845">
+            <title xml:id="idm140709994893600">Hjorddrengen</title>
+          </bibl>
+          <bibl xml:id="biblid57889">
+            <title xml:id="idm140709994892816">Byd Karlen med!  I-III</title>
+          </bibl>
+          <bibl xml:id="biblid57979">
+            <title xml:id="idm140709994891968">Hytter i alle Lande</title>
+          </bibl>
+          <bibl xml:id="biblid58104">
+            <title xml:id="idm140709994891184">Et gammelt Sallingbo-Par.  I-II</title>
+          </bibl>
+          <bibl xml:id="biblid58140">
+            <title xml:id="idm140709994890432">Aftægtsfolk.  I-II</title>
+          </bibl>
+          <bibl xml:id="biblid58173">
+            <title xml:id="idm140709994889680">Talende  Stiller</title>
+          </bibl>
+          <bibl xml:id="biblid58208">
+            <title xml:id="idm140709994888896">En Tale, der ikke blev holdt</title>
+          </bibl>
+          <bibl xml:id="biblid58233">
+            <title xml:id="idm140709994888144">Kjære  Ungdom</title>
+          </bibl>
+          <bibl xml:id="biblid58259">
+            <title xml:id="idm140709994887392">Menneskespild - Evnespild</title>
+          </bibl>
+          <bibl xml:id="biblid58380">
+            <title xml:id="idm140709994886640">Industri og Bonde</title>
+          </bibl>
+          <bibl xml:id="biblid58492">
+            <title xml:id="idm140709994885856">Kvinden og Grundloven</title>
+          </bibl>
+          <bibl xml:id="biblid58571">
+            <title xml:id="idm140709994885072">Grundlovstale 1915</title>
+          </bibl>
+          <bibl xml:id="biblid58649">
+            <title xml:id="idm140709994884224">Historiske Spøgelser, Tale 1909</title>
+          </bibl>
+          <bibl xml:id="biblid58773">
+            <title xml:id="idm140709994883328">Herremænd, Tale 1911</title>
+          </bibl>
+          <bibl xml:id="biblid58897">
+            <title xml:id="idm140709994882512">En historisk Anmærkning</title>
+          </bibl>
+          <bibl xml:id="biblid58913">
+            <title xml:id="idm140709994881696">Husmandsforedrag, Paa Lundgaard,  1916</title>
+          </bibl>
+          <bibl xml:id="biblid58988">
+            <title xml:id="idm140709994880896">Husmænd nu og Husmænd efter</title>
+          </bibl>
+          <bibl xml:id="biblid59122">
+            <title xml:id="idm140709994880064">Bonden og Danmark</title>
+          </bibl>
+          <bibl xml:id="biblid59257">
+            <title xml:id="idm140709994879216">Fremtidens Bondehjem, Tale  1916</title>
+          </bibl>
+          <bibl xml:id="biblid59364">
+            <title xml:id="idm140709994878416">Hjemmet og Krigen</title>
+          </bibl>
+          <bibl xml:id="biblid59429">
+            <title xml:id="idm140709994877568">Freden, Tale 1916</title>
+          </bibl>
+          <bibl xml:id="biblid59491">
+            <title xml:id="idm140709994876784">Naturfredning</title>
+          </bibl>
+          <bibl xml:id="biblid59547">
+            <title xml:id="idm140709994875952">Hedens Fredning, Foredrag l Nyborg 1916</title>
+          </bibl>
+          <bibl xml:id="biblid59664">
+            <title xml:id="idm140709994875152">En Tallerken Jord</title>
+          </bibl>
+          <bibl xml:id="biblid59697">
+            <title xml:id="idm140709994874368">Fra Heden</title>
+          </bibl>
+          <bibl xml:id="biblid59724">
+            <title xml:id="idm140709994873520">Jens Fløj</title>
+          </bibl>
+          <bibl xml:id="biblid59760">
+            <title xml:id="idm140709994872736">Grev Geert.  En Drøm</title>
+          </bibl>
+          <bibl xml:id="biblid59816">
+            <title xml:id="idm140709994871920">Før Hedevandringer. 1915</title>
+          </bibl>
+          <bibl xml:id="biblid59831">
+            <title xml:id="idm140709994871040">Hedevandringer</title>
+          </bibl>
+          <bibl xml:id="biblid60422">
+            <title xml:id="idm140709994870192">Byen  Aakjær</title>
+          </bibl>
+          <bibl xml:id="biblid60457">
+            <title xml:id="idm140709994869392">Markfest i Aakjær</title>
+          </bibl>
+          <bibl xml:id="biblid60513">
+            <title xml:id="idm140709994868544">En  Vejrhane</title>
+          </bibl>
+          <bibl xml:id="biblid60528">
+            <title xml:id="idm140709994867760">Fra en bortgjemt Kreds</title>
+          </bibl>
+          <bibl xml:id="biblid60564">
+            <title xml:id="idm140709994866912">En god gammel Fjandbo</title>
+          </bibl>
+          <bibl xml:id="biblid60580">
+            <title xml:id="idm140709994866064">Kjærgaard i Fly</title>
+          </bibl>
+          <bibl xml:id="biblid60606">
+            <title xml:id="idm140709994865216">Niels Pejsen I Trøwed</title>
+          </bibl>
+          <bibl xml:id="biblid60631">
+            <title xml:id="idm140709994864336">Mors Have.   Digt 1918</title>
+          </bibl>
+        </listBibl>
+      </sourceDesc>
     </fileDesc>
   </teiHeader>
   <text xml:id="idm140709994863696">

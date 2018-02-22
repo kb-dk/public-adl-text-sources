@@ -1,13 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!--  OCR by ATAPY 04.10.2001 (Catherine Bychkova) -->
-<!-- VL: load 18.10.02 ; pagination at beg. wrong. Put comments around extra title. 
-     Ptj rettet s. 203-204-213-214-215-216-229-230-234-236-239-244-246-248-249-253-260-262-263-264-268-269-273-277-284-293-296-300-303-306-319-330-331-334-338-343-348-351-355-356-371-377-380-381-383-385-392-393-396-402-406-
--->
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="idm140498676357184"><!-- 
-       file     ./marc_dir/005372453.xml
-       field    NO 
-       subfield  
-       prefix   TITLE-->
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="root">
   <teiHeader xml:id="idm140498676358032">
     <fileDesc xml:id="idm140498676357776">
       <titleStmt xml:id="idm140498676331392">
@@ -15,15 +7,31 @@
         <author xml:id="idm140498676330832">VILHELM TOPSØE</author>
       </titleStmt>
       <publicationStmt xml:id="idm140498676330272">
-	<publisher/>
+        <publisher xml:id="id1dd0713e-0be9-4fc8-9d98-e6c60ee9ed7c"/>
         <idno xml:id="idm140498676330016" xml:base="texts/topsoe02.xml">005372453:02</idno>
       </publicationStmt>
       <notesStmt xml:id="idm140498676329200">
         <note xml:id="idm140498676328944">
 	  </note>
       </notesStmt>
-      <sourceDesc xml:id="idm140498676328432"><bibl xml:id="idm140498676328304"><author n="1" xml:id="idm140498676327616"><name xml:id="idm140498676327360"><surname xml:id="idm140498676327232">Topsøe</surname>, <forename xml:id="idm140498676326800">Vilhelm</forename></name></author><title xml:id="idm140498676326544">Udvalgte Skrifter</title><pubPlace xml:id="idm140498676326256">Kbh.</pubPlace>
-<date xml:id="idm140498676325744">1923</date></bibl><listBibl xml:id="idm140498676325456"><bibl xml:id="biblid54104"><title xml:id="idm140498676312304">JASON MED DET GYLDNE SKIND (1875)</title></bibl><bibl xml:id="biblid66874"><title xml:id="idm140498676311504">NUTIDSBILLEDER (1878)</title></bibl></listBibl></sourceDesc>
+      <sourceDesc xml:id="idm140498676328432">
+        <bibl xml:id="idm140498676328304">
+          <author n="1" xml:id="idm140498676327616">
+            <name xml:id="idm140498676327360"><surname xml:id="idm140498676327232">Topsøe</surname>, <forename xml:id="idm140498676326800">Vilhelm</forename></name>
+          </author>
+          <title xml:id="idm140498676326544">Udvalgte Skrifter</title>
+          <pubPlace xml:id="idm140498676326256">København</pubPlace>
+          <date xml:id="idm140498676325744">1923</date>
+        </bibl>
+        <listBibl xml:id="idm140498676325456">
+          <bibl xml:id="biblid54104">
+            <title xml:id="idm140498676312304">JASON MED DET GYLDNE SKIND (1875)</title>
+          </bibl>
+          <bibl xml:id="biblid66874">
+            <title xml:id="idm140498676311504">NUTIDSBILLEDER (1878)</title>
+          </bibl>
+        </listBibl>
+      </sourceDesc>
     </fileDesc>
   </teiHeader>
   <text xml:id="idm140498676310864">
@@ -36,9 +44,6 @@
           <pb n="2" facs="adl/topsoe/topsoe2/tops2002" xml:id="idm140498676306912"/>
         </front>
         <body xml:id="idm140498676305968">
-<!-- <head>JASON MED DET GYLDNE SKIND<lb/>
-EN FORTÆLLING<lb/>
-(1875)</head>  -->
           <pb n="3" facs="adl/topsoe/topsoe2/tops2003" xml:id="idm140498676305296"/>
           <div xml:id="idm140498676304560">
             <head xml:id="idm140498676304256">FØRSTE KAPITEL</head>
@@ -812,7 +817,7 @@ EN FORTÆLLING<lb/>
 							Forventning, han nærede om Kjærlighedslykke.</p>
             <p xml:id="idm140498676101360">Saaledes tiltraadte han Rejsen. Men paa denne traf han saa Mademoiselle
 							Caillou og dette Møde havde gjort sin egen Virkning. Han var egentlig
-							slet ikke forelsket i hende,men det var paa en Maade gaaet med Erotiken
+							slet ikke forelsket i hende, men det var paa en Maade gaaet med Erotiken
 							i ham, som det skal kunne gaa visse Infusorier, de kunne tages ud af
 							Vandet, tørres og lægges hen i en Aarrække og naar der saa gydes en
 							Draabe Vand paa dem, begynder deres Liv atter; de røre sig og færdes,
@@ -1498,7 +1503,7 @@ EN FORTÆLLING<lb/>
 							kan udføres. - Men,« fortsatte han halvt i Tanker, »Gud ved,
 							hvor meget af det gamle Fantasteri, jeg har beholdt tilbage. Jeg gaaer
 							jo aabenbart nu og lægger bagfra mere ind i mine oprindelige
-							Rejseplaner,end der laa i dem fra Begyndelsen. Men Resultatet er dog
+							Rejseplaner, end der laa i dem fra Begyndelsen. Men Resultatet er dog
 							bleven som jeg sagde.«</p>
             <p xml:id="idm140498675946688">»Hvor De er filosofisk,« sagde Ida.</p>
             <p xml:id="idm140498675946256">Man hørte en fjern Kalden.</p>
@@ -2203,7 +2208,7 @@ EN FORTÆLLING<lb/>
 							Blade, nej ikke visne, kølige, friske Blade, men en Glød, som falder hen
 							i Aske, de Eventyr indeholde hele Sandheden.«</p>
             <p xml:id="idm140498675785872">Solen var gaaet ned, medens de spadserede i Skoven. De Skymasser bag
-							hvilke den havde skjult sig, havde lydløst og graat s,kudt sig op over
+							hvilke den havde skjult sig, havde lydløst og graat skudt sig op over
 							hele Himmelen, der nu laa farveløs og tung over Træerne.</p>
             <p xml:id="idm140498675785040">»Jeg troer, vi faa Regn,« sagde Hasting, »det trækker stærkt op.«
 							Samtalen havde faaet en Karakter af en Monolog, hvis Tone stadig var ham
@@ -3549,7 +3554,7 @@ EN FORTÆLLING<lb/>
             <p xml:id="idm140498675476800">Han søgte efter Politi og Vægter og fandt endelig denne Sidste. Han blev
 							lukket ind, fik Opvartningskonen hos Felix ringet op og fik hende, der
 							var mere død end levende af Skræk, til at lukke sig ind i Lejligheden,
-							hvo,r Alt var forfærdelig stille.</p>
+							hvor Alt var forfærdelig stille.</p>
             <p xml:id="idm140498675475856">Da de traadte ind i Felix's Arbeidsværelse, syntes det først tomt. Det
 							var det forsaavidt ogsaa; thi da det flakkende Lys faldt hen paa den
 							Skikkelse, der sad tilbagelænet i Stolen ved Skrivebordet med Haanden
@@ -5415,7 +5420,7 @@ EN FORTÆLLING<lb/>
             <p xml:id="idm140498675030992">»De nøjes da ogsaa selv, Hr. Greve, med at være Undtagelse, forsaavidt De
 							selv hverken er gift eller forlovet,« sagde Hasting, men han fortrød
 							strax Ordene, thi denne Yttring var altfor familiær efter det
-							Forhold,hvori han stod til Greven.</p>
+							Forhold, hvori han stod til Greven.</p>
             <p xml:id="idm140498675030320">Denne tog det imidlertid tilsyneladende ikke ilde op, men svarede med et
 							Smil, sopa man kunde fristes til at kalde gyldent: »Ja, en Undtagelse.«</p>
             <p xml:id="idm140498675029616">I en let spøgende Tone gik Frøken Rønnov over til at sige: »Ja, Greven

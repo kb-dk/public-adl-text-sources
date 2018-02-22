@@ -1,10 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!--Tom opmærkning d.15.10.2002 blo -->
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="idm140285983780080"><!-- 
-       file     ./marc_dir/001853806.xml
-       field     
-       subfield  
-       prefix   -->
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="root">
   <teiHeader xml:id="idm140285983779152">
     <fileDesc xml:id="idm140285983778896">
       <titleStmt xml:id="idm140285983778592">
@@ -19,8 +14,21 @@
         <note xml:id="idm140285983750576">
 	  </note>
       </notesStmt>
-      <sourceDesc xml:id="idm140285983750064"><bibl xml:id="idm140285983749936"><author n="1" xml:id="idm140285983749248"><name xml:id="idm140285983748992"><surname xml:id="idm140285983748864">Fibiger</surname>, <forename xml:id="idm140285983748432">Mathilde</forename></name></author><title xml:id="idm140285983748176">Tolv Breve</title><pubPlace xml:id="idm140285983747888">Kbh.</pubPlace>
-<date xml:id="idm140285983747376">1851</date></bibl><listBibl xml:id="idm140285983747088"><bibl xml:id="biblid54232"><title xml:id="idm140285983733936">Hvad er Emancipation?</title></bibl></listBibl></sourceDesc>
+      <sourceDesc xml:id="idm140285983750064">
+        <bibl xml:id="idm140285983749936">
+          <author n="1" xml:id="idm140285983749248">
+            <name xml:id="idm140285983748992"><surname xml:id="idm140285983748864">Fibiger</surname>, <forename xml:id="idm140285983748432">Mathilde</forename></name>
+          </author>
+          <title xml:id="idm140285983748176">Tolv Breve</title>
+          <pubPlace xml:id="idm140285983747888">København</pubPlace>
+          <date xml:id="idm140285983747376">1851</date>
+        </bibl>
+        <listBibl xml:id="idm140285983747088">
+          <bibl xml:id="biblid54232">
+            <title xml:id="idm140285983733936">Hvad er Emancipation?</title>
+          </bibl>
+        </listBibl>
+      </sourceDesc>
     </fileDesc>
   </teiHeader>
   <text xml:id="idm140285983733296">

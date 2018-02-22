@@ -1,10 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!--Tom opmærkning d.20.3.2002 blo -->
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="idm140290353892400"><!-- 
-       file     ./marc_dir/001433218.xml
-       field    530 
-       subfield a 
-       prefix   <2>-->
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="root">
   <teiHeader xml:id="idm140290353891472">
     <fileDesc xml:id="idm140290353891216">
       <titleStmt xml:id="idm140290353936880">
@@ -23,8 +18,14 @@
         <note xml:id="idm140290353861744">
 	  </note>
       </notesStmt>
-      <sourceDesc xml:id="idm140290353861232"><bibl xml:id="idm140290353861104"><title xml:id="idm140290353860976">Digte : kommentar / af Erik Sønderholm ; [oversættelse af latinske tekster: Erik Petersen]. - 1986</title><pubPlace xml:id="idm140290353860496">Kbh.</pubPlace>
-<publisher xml:id="idm140290353860032">Det Danske Sprog- og Litteraturselskab</publisher><date xml:id="idm140290353859680">1984-86</date></bibl></sourceDesc>
+      <sourceDesc xml:id="idm140290353861232">
+        <bibl xml:id="idm140290353861104">
+          <title xml:id="idm140290353860976">Digte : kommentar / af Erik Sønderholm ; [oversættelse af latinske tekster: Erik Petersen]. - 1986</title>
+          <pubPlace xml:id="idm140290353860496">København</pubPlace>
+          <publisher xml:id="idm140290353860032">Det Danske Sprog- og Litteraturselskab</publisher>
+          <date xml:id="idm140290353859680">1984-86</date>
+        </bibl>
+      </sourceDesc>
     </fileDesc>
   </teiHeader>
   <text xml:id="idm140290353859008">

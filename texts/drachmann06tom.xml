@@ -1,10 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!--Tom opmærkning blo 09.05.02-->
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="idm140199753693312"><!-- 
-       file     ./marc_dir/001823907.xml
-       field     
-       subfield  
-       prefix   -->
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="root">
   <teiHeader xml:id="idm140199753697648">
     <fileDesc xml:id="idm140199753697392">
       <titleStmt xml:id="idm140199753697088">
@@ -19,8 +14,126 @@
         <note xml:id="idm140199753669008">
 	  </note>
       </notesStmt>
-      <sourceDesc xml:id="idm140199753668496"><bibl xml:id="idm140199753668368"><author n="1" xml:id="idm140199753667680"><name xml:id="idm140199753667424"><surname xml:id="idm140199753667296">Drachmann</surname>, <forename xml:id="idm140199753666832">Holger</forename></name></author><title xml:id="idm140199753666544">Samlede poetiske Skrifter</title><pubPlace xml:id="idm140199753666240">Kbh. &amp; Kristiania</pubPlace>
-<date xml:id="idm140199753665616">1906-1909</date></bibl><listBibl xml:id="idm140199753665360"><bibl xml:id="biblid54134"><title xml:id="idm140199753652208">Rejsebilleder</title></bibl><bibl xml:id="biblid54153"><title xml:id="idm140199753651424">En By, som drømmer</title></bibl><bibl xml:id="biblid54401"><title xml:id="idm140199753650624">September-Strejftog ved den danske Grænse</title></bibl><bibl xml:id="biblid54496"><title xml:id="idm140199753649776">Paris i Initialer og Randtegninger</title></bibl><bibl xml:id="biblid54648"><title xml:id="idm140199753648976">Dage i Holland</title></bibl><bibl xml:id="biblid54717"><title xml:id="idm140199753648192">Waterloo</title></bibl><bibl xml:id="biblid54748"><title xml:id="idm140199753647360">Antwerpen</title></bibl><bibl xml:id="biblid54786"><title xml:id="idm140199753646528">Brevet om Reubens</title></bibl><bibl xml:id="biblid54829"><title xml:id="idm140199753645696">Brevet om Jan Steen</title></bibl><bibl xml:id="biblid54944"><title xml:id="idm140199753644912">En Dag i Byen Lier</title></bibl><bibl xml:id="biblid55014"><title xml:id="idm140199753644128">Strandby Folk</title></bibl><bibl xml:id="biblid55528"><title xml:id="idm140199753643280">Skyggebilleder. Fra Rejser i Ind- og Udland</title></bibl><bibl xml:id="biblid55546"><title xml:id="idm140199753642416">Maaneskin</title></bibl><bibl xml:id="biblid55929"><title xml:id="idm140199753641584">Ostende-Brügge</title></bibl><bibl xml:id="biblid56414"><title xml:id="idm140199753640784">Dybe Strenge. Digte og Sange</title></bibl><bibl xml:id="biblid56444"><title xml:id="idm140199753639984">Store Mænd</title></bibl><bibl xml:id="biblid56673"><title xml:id="idm140199753639152">Dansk Bevægelse</title></bibl><bibl xml:id="biblid56711"><title xml:id="idm140199753638304">Landskaber</title></bibl><bibl xml:id="biblid56736"><title xml:id="idm140199753637472">Ved Arnen</title></bibl><bibl xml:id="biblid56861"><title xml:id="idm140199753636640">Smaa Fortællinger. Ældre og Nye</title></bibl><bibl xml:id="biblid56878"><title xml:id="idm140199753635760">En stum Beretning om et Forlis</title></bibl><bibl xml:id="biblid56897"><title xml:id="idm140199753634960">Toldassistentesa Fortællinger</title></bibl><bibl xml:id="biblid56900"><title xml:id="idm140199753634080">Beskøjterne</title></bibl><bibl xml:id="biblid56925"><title xml:id="idm140199753633232">Om Kærester, Koner osv.</title></bibl><bibl xml:id="biblid56982"><title xml:id="idm140199753632368">Det vestindiske Shal</title></bibl><bibl xml:id="biblid57008"><title xml:id="idm140199753631536">Hvorledes og hvorfor Lodsoldermanden fik en Spilledaase</title></bibl><bibl xml:id="biblid57098"><title xml:id="idm140199753630720">Han døde og blev begravet</title></bibl><bibl xml:id="biblid57176"><title xml:id="idm140199753629856">Da Isen skruede</title></bibl><bibl xml:id="biblid57233"><title xml:id="idm140199753629024">En Krudtmølles Endeligt</title></bibl><bibl xml:id="biblid57272"><title xml:id="idm140199753628160">Hun døde og blev begravet</title></bibl><bibl xml:id="biblid57323"><title xml:id="idm140199753727936">En Roman i Klitten</title></bibl><bibl xml:id="biblid57395"><title xml:id="idm140199753727216">Omkring Kap Horn</title></bibl><bibl xml:id="biblid57446"><title xml:id="idm140199753726432">Julefortællinger</title></bibl><bibl xml:id="biblid57448"><title xml:id="idm140199753725680">En hyggelig Krog</title></bibl><bibl xml:id="biblid57534"><title xml:id="idm140199753724896">Skib i Kirke</title></bibl><bibl xml:id="biblid57591"><title xml:id="idm140199753724112">En Juleaften</title></bibl></listBibl></sourceDesc>
+      <sourceDesc xml:id="idm140199753668496">
+        <bibl xml:id="idm140199753668368">
+          <author n="1" xml:id="idm140199753667680">
+            <name xml:id="idm140199753667424"><surname xml:id="idm140199753667296">Drachmann</surname>, <forename xml:id="idm140199753666832">Holger</forename></name>
+          </author>
+          <title xml:id="idm140199753666544">Samlede poetiske Skrifter</title>
+          <pubPlace xml:id="idm140199753666240">Kbh. &amp; Kristiania</pubPlace>
+          <date xml:id="idm140199753665616">1906-1909</date>
+        </bibl>
+        <listBibl xml:id="idm140199753665360">
+          <bibl xml:id="biblid54134">
+            <title xml:id="idm140199753652208">Rejsebilleder</title>
+          </bibl>
+          <bibl xml:id="biblid54153">
+            <title xml:id="idm140199753651424">En By, som drømmer</title>
+          </bibl>
+          <bibl xml:id="biblid54401">
+            <title xml:id="idm140199753650624">September-Strejftog ved den danske Grænse</title>
+          </bibl>
+          <bibl xml:id="biblid54496">
+            <title xml:id="idm140199753649776">Paris i Initialer og Randtegninger</title>
+          </bibl>
+          <bibl xml:id="biblid54648">
+            <title xml:id="idm140199753648976">Dage i Holland</title>
+          </bibl>
+          <bibl xml:id="biblid54717">
+            <title xml:id="idm140199753648192">Waterloo</title>
+          </bibl>
+          <bibl xml:id="biblid54748">
+            <title xml:id="idm140199753647360">Antwerpen</title>
+          </bibl>
+          <bibl xml:id="biblid54786">
+            <title xml:id="idm140199753646528">Brevet om Reubens</title>
+          </bibl>
+          <bibl xml:id="biblid54829">
+            <title xml:id="idm140199753645696">Brevet om Jan Steen</title>
+          </bibl>
+          <bibl xml:id="biblid54944">
+            <title xml:id="idm140199753644912">En Dag i Byen Lier</title>
+          </bibl>
+          <bibl xml:id="biblid55014">
+            <title xml:id="idm140199753644128">Strandby Folk</title>
+          </bibl>
+          <bibl xml:id="biblid55528">
+            <title xml:id="idm140199753643280">Skyggebilleder. Fra Rejser i Ind- og Udland</title>
+          </bibl>
+          <bibl xml:id="biblid55546">
+            <title xml:id="idm140199753642416">Maaneskin</title>
+          </bibl>
+          <bibl xml:id="biblid55929">
+            <title xml:id="idm140199753641584">Ostende-Brügge</title>
+          </bibl>
+          <bibl xml:id="biblid56414">
+            <title xml:id="idm140199753640784">Dybe Strenge. Digte og Sange</title>
+          </bibl>
+          <bibl xml:id="biblid56444">
+            <title xml:id="idm140199753639984">Store Mænd</title>
+          </bibl>
+          <bibl xml:id="biblid56673">
+            <title xml:id="idm140199753639152">Dansk Bevægelse</title>
+          </bibl>
+          <bibl xml:id="biblid56711">
+            <title xml:id="idm140199753638304">Landskaber</title>
+          </bibl>
+          <bibl xml:id="biblid56736">
+            <title xml:id="idm140199753637472">Ved Arnen</title>
+          </bibl>
+          <bibl xml:id="biblid56861">
+            <title xml:id="idm140199753636640">Smaa Fortællinger. Ældre og Nye</title>
+          </bibl>
+          <bibl xml:id="biblid56878">
+            <title xml:id="idm140199753635760">En stum Beretning om et Forlis</title>
+          </bibl>
+          <bibl xml:id="biblid56897">
+            <title xml:id="idm140199753634960">Toldassistentesa Fortællinger</title>
+          </bibl>
+          <bibl xml:id="biblid56900">
+            <title xml:id="idm140199753634080">Beskøjterne</title>
+          </bibl>
+          <bibl xml:id="biblid56925">
+            <title xml:id="idm140199753633232">Om Kærester, Koner osv.</title>
+          </bibl>
+          <bibl xml:id="biblid56982">
+            <title xml:id="idm140199753632368">Det vestindiske Shal</title>
+          </bibl>
+          <bibl xml:id="biblid57008">
+            <title xml:id="idm140199753631536">Hvorledes og hvorfor Lodsoldermanden fik en Spilledaase</title>
+          </bibl>
+          <bibl xml:id="biblid57098">
+            <title xml:id="idm140199753630720">Han døde og blev begravet</title>
+          </bibl>
+          <bibl xml:id="biblid57176">
+            <title xml:id="idm140199753629856">Da Isen skruede</title>
+          </bibl>
+          <bibl xml:id="biblid57233">
+            <title xml:id="idm140199753629024">En Krudtmølles Endeligt</title>
+          </bibl>
+          <bibl xml:id="biblid57272">
+            <title xml:id="idm140199753628160">Hun døde og blev begravet</title>
+          </bibl>
+          <bibl xml:id="biblid57323">
+            <title xml:id="idm140199753727936">En Roman i Klitten</title>
+          </bibl>
+          <bibl xml:id="biblid57395">
+            <title xml:id="idm140199753727216">Omkring Kap Horn</title>
+          </bibl>
+          <bibl xml:id="biblid57446">
+            <title xml:id="idm140199753726432">Julefortællinger</title>
+          </bibl>
+          <bibl xml:id="biblid57448">
+            <title xml:id="idm140199753725680">En hyggelig Krog</title>
+          </bibl>
+          <bibl xml:id="biblid57534">
+            <title xml:id="idm140199753724896">Skib i Kirke</title>
+          </bibl>
+          <bibl xml:id="biblid57591">
+            <title xml:id="idm140199753724112">En Juleaften</title>
+          </bibl>
+        </listBibl>
+      </sourceDesc>
     </fileDesc>
   </teiHeader>
   <text xml:id="idm140199753602320">

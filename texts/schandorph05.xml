@@ -1,10 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!-- OCR by ATAPY 29.10.02 (Catherine Bychkova) -->
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="idm140255172320224"><!-- 
-       file     ./marc_dir/001832663.xml
-       field    530 
-       subfield a 
-       prefix   Bd 3 :-->
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="root">
   <teiHeader xml:id="idm140255172319664">
     <fileDesc xml:id="idm140255172319408">
       <titleStmt xml:id="idm140255172319104">
@@ -19,17 +14,30 @@
         <note xml:id="idm140255172290992">
 	  </note>
       </notesStmt>
-      <sourceDesc xml:id="idm140255172290480"><bibl xml:id="idm140255172290352"><author n="1" xml:id="idm140255172289664"><name xml:id="idm140255172289408"><surname xml:id="idm140255172289280">Schandorph</surname>, <forename xml:id="idm140255172288816">Sophus</forename></name></author><title xml:id="idm140255172288512"> Et Aar i Embede - Skovfogedbørnene. - 1904</title><pubPlace xml:id="idm140255172288144">Kbh.</pubPlace>
-<date xml:id="idm140255172287632">1904-05</date></bibl><listBibl xml:id="idm140255172287344"><bibl xml:id="biblid54191"><title xml:id="idm140255172274192">ET AAR I EMBEDE (1883)</title></bibl><bibl xml:id="biblid68556"><title xml:id="idm140255172273360">SKOVFOGEDBØRNENE (1884)</title></bibl></listBibl></sourceDesc>
+      <sourceDesc xml:id="idm140255172290480">
+        <bibl xml:id="idm140255172290352">
+          <author n="1" xml:id="idm140255172289664">
+            <name xml:id="idm140255172289408"><surname xml:id="idm140255172289280">Schandorph</surname>, <forename xml:id="idm140255172288816">Sophus</forename></name>
+          </author>
+          <title xml:id="idm140255172288512"> Et Aar i Embede - Skovfogedbørnene. - 1904</title>
+          <pubPlace xml:id="idm140255172288144">København</pubPlace>
+          <date xml:id="idm140255172287632">1904-05</date>
+        </bibl>
+        <listBibl xml:id="idm140255172287344">
+          <bibl xml:id="biblid54191">
+            <title xml:id="idm140255172274192">ET AAR I EMBEDE (1883)</title>
+          </bibl>
+          <bibl xml:id="biblid68556">
+            <title xml:id="idm140255172273360">SKOVFOGEDBØRNENE (1884)</title>
+          </bibl>
+        </listBibl>
+      </sourceDesc>
     </fileDesc>
   </teiHeader>
   <text xml:id="idm140255172272656">
     <front xml:id="idm140255172272400">
       <pb n="I" facs="adl/schandorph/schandorph5/scha5fm001" xml:id="idm140255172272096"/>
       <gap reason="cancelled" xml:id="idm140255172271264"/>
-<!---->
-<!---->
-<!--S. SCHANDORPH ROMANER TREDJE BIND-->
       <pb n="II" facs="adl/schandorph/schandorph5/scha5fm002" xml:id="idm140255172269712"/>
       <pb n="III" facs="adl/schandorph/schandorph5/scha5fm003" xml:id="idm140255172268944"/>
       <titlePage xml:id="idm140255172268176">

@@ -1,9 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="idm140615732734992"><!-- 
-       file     ./marc_dir/001967748.xml
-       field     
-       subfield  
-       prefix   -->
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="root">
   <teiHeader xml:id="idm140615732734336">
     <fileDesc xml:id="idm140615732734080">
       <titleStmt xml:id="idm140615732733776">
@@ -18,8 +14,14 @@
         <note xml:id="idm140615732705776">
 	  </note>
       </notesStmt>
-      <sourceDesc xml:id="idm140615732705264"><bibl xml:id="idm140615732705136"><author n="1" xml:id="idm140615732704560"><name xml:id="idm140615732704304"><surname xml:id="idm140615732704176">Larsen</surname>, <forename xml:id="idm140615732703712">Karl</forename></name></author><title xml:id="idm140615732703424">Krig, Kultur og Danmark</title><pubPlace xml:id="idm140615732703136">Kjøbenhavn</pubPlace>; <pubPlace xml:id="idm140615732702672">Kristiania</pubPlace>
-<publisher xml:id="idm140615732702208">Gyldendalske Boghandel, Nordisk Forlag</publisher><date xml:id="idm140615732701856">1916</date></bibl><listBibl xml:id="idm140615732701568"><bibl xml:id="biblid54087"><title xml:id="idm140615732688416">Krig Kultur og Danmarks</title></bibl></listBibl></sourceDesc>
+      <sourceDesc xml:id="idm140615732705264">
+        <bibl xml:id="idm140615732705136"><author n="1" xml:id="idm140615732704560"><name xml:id="idm140615732704304"><surname xml:id="idm140615732704176">Larsen</surname>, <forename xml:id="idm140615732703712">Karl</forename></name></author><title xml:id="idm140615732703424">Krig, Kultur og Danmark</title><pubPlace xml:id="idm140615732703136">Kjøbenhavn</pubPlace>; <pubPlace xml:id="idm140615732702672">Kristiania</pubPlace><publisher xml:id="idm140615732702208">Gyldendalske Boghandel, Nordisk Forlag</publisher><date xml:id="idm140615732701856">1916</date></bibl>
+        <listBibl xml:id="idm140615732701568">
+          <bibl xml:id="biblid54087">
+            <title xml:id="idm140615732688416">Krig Kultur og Danmarks</title>
+          </bibl>
+        </listBibl>
+      </sourceDesc>
     </fileDesc>
   </teiHeader>
   <text xml:id="workid54087" decls="#biblid54087">

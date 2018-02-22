@@ -1,11 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!-- HHL 20021009 fjernet bindestreger ved sideslut-->
-<!-- HHL 20031219 rettet enkelte fejl ved </hi>-->
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="idm140398131030768"><!-- 
-       file     ./marc_dir/001680948.xml
-       field    530 
-       subfield a 
-       prefix   11. -->
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="root">
   <teiHeader xml:id="idm140398131030112">
     <fileDesc xml:id="idm140398131029856">
       <titleStmt xml:id="idm140398131064256">
@@ -25,8 +19,22 @@
         <note xml:id="idm140398131000032">
 	  </note>
       </notesStmt>
-      <sourceDesc xml:id="idm140398130999520"><bibl xml:id="idm140398130999392"><author n="1" xml:id="idm140398130998704"><name xml:id="idm140398130998448"><surname xml:id="idm140398130998320">Wied</surname>, <forename xml:id="idm140398130997856">Gustav</forename></name></author><title xml:id="idm140398130997568">Fædrene æde Druer. 1968</title><pubPlace xml:id="idm140398130997248">Kbh</pubPlace>
-<publisher xml:id="idm140398130996816">Rosenkilde og Bagger</publisher><date xml:id="idm140398130996480">1966-</date></bibl><listBibl xml:id="idm140398130996192"><bibl xml:id="biblid54298"><title xml:id="idm140398130983040">FÆDRENE ÆDE DRUER</title></bibl></listBibl></sourceDesc>
+      <sourceDesc xml:id="idm140398130999520">
+        <bibl xml:id="idm140398130999392">
+          <author n="1" xml:id="idm140398130998704">
+            <name xml:id="idm140398130998448"><surname xml:id="idm140398130998320">Wied</surname>, <forename xml:id="idm140398130997856">Gustav</forename></name>
+          </author>
+          <title xml:id="idm140398130997568">Fædrene æde Druer. 1968</title>
+          <pubPlace xml:id="idm140398130997248">København</pubPlace>
+          <publisher xml:id="idm140398130996816">Rosenkilde og Bagger</publisher>
+          <date xml:id="idm140398130996480">1966-</date>
+        </bibl>
+        <listBibl xml:id="idm140398130996192">
+          <bibl xml:id="biblid54298">
+            <title xml:id="idm140398130983040">FÆDRENE ÆDE DRUER</title>
+          </bibl>
+        </listBibl>
+      </sourceDesc>
     </fileDesc>
   </teiHeader>
   <text xml:id="idm140398130982352">
@@ -35,9 +43,6 @@
       <pb n="2" facs="adl/wied/wied11/wied11002" xml:id="idm140398130981056"/>
       <pb n="3" facs="adl/wied/wied11/wied11003" xml:id="idm140398130980240"/>
       <gap reason="cancelled" xml:id="idm140398130979424"/>
-<!---->
-<!---->
-<!--ROMANER NOVELLER SKUESPIL-->
       <titlePage xml:id="idm140398130977872">
         <docAuthor xml:id="idm140398130977616">GUSTAV WIED</docAuthor>
         <docTitle xml:id="idm140398130977200">

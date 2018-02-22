@@ -1,19 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!-- 20030501 HHL hurtigt OCR-check: en del ø -> o, en enkelt "_rn", ostlig, Doren;  ikke helt god
-        20030522 HHL tabel ved indholdsfortegnelse
-                     fjerne bindestreger (mange)
-                     checket igen for ocr-fejl - ike mange tilbage
-                     
-                NB paralleltekst i E Bindstow, afflages når loades, vaerktitle fjernet fra denne titel
-                rettet et par Foulum'er  + mgl. mellemrum mellem bindestreg og efterfølgende ord.
-                Ptj rettet  s. 33-
-                
-                -->
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="idm140515389564880"><!-- 
-       file     ./marc_dir/001518816.xml
-       field     
-       subfield  
-       prefix   -->
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="root">
   <teiHeader xml:id="idm140515389565776">
     <fileDesc xml:id="idm140515389565520">
       <titleStmt xml:id="idm140515389565216">
@@ -26,7 +12,7 @@
         <author xml:id="idm140515389536816">ST. ST. BLICHER</author>
       </titleStmt>
       <publicationStmt xml:id="idm140515389536304">
-        <publisher xml:id="idm140515389536048">Danske Klassikere<lb xml:id="idm140515389535792"/> Det danske Sprog- og
+        <publisher xml:id="idm140515389536048">Danske Klassikere<lb xml:id="idm140515389535792"/> Det Danske Sprog- og
 				Litteraturselskab<lb xml:id="idm140515389535536"/>Borgen</publisher>
         <idno xml:id="idm140515389535152" xml:base="texts/blic03val.xml">001518816:03</idno>
       </publicationStmt>
@@ -34,17 +20,50 @@
         <note xml:id="idm140515389534000">
 	  </note>
       </notesStmt>
-      <sourceDesc xml:id="idm140515389533488"><bibl xml:id="idm140515389533360"><author n="1" xml:id="idm140515389532672"><name xml:id="idm140515389532416"><surname xml:id="idm140515389532288">Blicher</surname>, <forename xml:id="idm140515389531824">Steen Steensen</forename></name></author><title xml:id="idm140515389531536">Noveller</title><pubPlace xml:id="idm140515389531248">[Kbh.]</pubPlace>; <pubPlace xml:id="idm140515389530784">[Valby]</pubPlace>
-<publisher xml:id="idm140515389530320">Det danske Sprog- og Litteraturselskab</publisher><publisher xml:id="idm140515389530016">Borgen</publisher><date xml:id="idm140515389529680">1991</date></bibl><listBibl xml:id="idm140515389529392"><bibl xml:id="biblid54595"><title xml:id="idm140515389516240">Brudstykker af en Landsbydegns Dagbog (DK)</title></bibl><bibl xml:id="biblid56870"><title xml:id="idm140515389515424">Røverstuen (DK)</title></bibl><bibl xml:id="biblid59470"><title xml:id="idm140515389514624">Sildig Opvaagnen (DK)</title></bibl><bibl xml:id="biblid60767"><title xml:id="idm140515389513792">Ak! hvor forandret! (DK)</title></bibl><bibl xml:id="biblid62039"><title xml:id="idm140515389512992">Hosekræmmeren (DK)</title></bibl><bibl xml:id="biblid62889"><title xml:id="idm140515389512192">Præsten i Vejlbye (DK)</title></bibl><bibl xml:id="biblid64554"><title xml:id="idm140515389511376">Juleferierne (DK)</title></bibl><bibl xml:id="biblid67968"><title xml:id="idm140515389510592">Skytten paa Aunsbjerg (DK)</title></bibl><bibl xml:id="biblid68775"><title xml:id="idm140515389509744">De tre Helligaftener (DK)</title></bibl><bibl xml:id="biblid69524"><title xml:id="idm140515389508896">Eneste Barn (DK)</title></bibl><bibl xml:id="biblid70257"><title xml:id="idm140515389508064">E Bindstouw (DK) (paralleltekst med Rigsmålsgengivelse)</title></bibl></listBibl></sourceDesc>
+      <sourceDesc xml:id="idm140515389533488">
+        <bibl xml:id="idm140515389533360"><author n="1" xml:id="idm140515389532672"><name xml:id="idm140515389532416"><surname xml:id="idm140515389532288">Blicher</surname>, <forename xml:id="idm140515389531824">Steen Steensen</forename></name></author><title xml:id="idm140515389531536">Noveller</title><pubPlace xml:id="idm140515389531248">[København]</pubPlace>; <pubPlace xml:id="idm140515389530784">[Valby]</pubPlace><publisher xml:id="idm140515389530320">Det Danske Sprog- og Litteraturselskab</publisher><publisher xml:id="idm140515389530016">Borgen</publisher><date xml:id="idm140515389529680">1991</date></bibl>
+        <listBibl xml:id="idm140515389529392">
+          <bibl xml:id="biblid54595">
+            <title xml:id="idm140515389516240">Brudstykker af en Landsbydegns Dagbog (DK)</title>
+          </bibl>
+          <bibl xml:id="biblid56870">
+            <title xml:id="idm140515389515424">Røverstuen (DK)</title>
+          </bibl>
+          <bibl xml:id="biblid59470">
+            <title xml:id="idm140515389514624">Sildig Opvaagnen (DK)</title>
+          </bibl>
+          <bibl xml:id="biblid60767">
+            <title xml:id="idm140515389513792">Ak! hvor forandret! (DK)</title>
+          </bibl>
+          <bibl xml:id="biblid62039">
+            <title xml:id="idm140515389512992">Hosekræmmeren (DK)</title>
+          </bibl>
+          <bibl xml:id="biblid62889">
+            <title xml:id="idm140515389512192">Præsten i Vejlbye (DK)</title>
+          </bibl>
+          <bibl xml:id="biblid64554">
+            <title xml:id="idm140515389511376">Juleferierne (DK)</title>
+          </bibl>
+          <bibl xml:id="biblid67968">
+            <title xml:id="idm140515389510592">Skytten paa Aunsbjerg (DK)</title>
+          </bibl>
+          <bibl xml:id="biblid68775">
+            <title xml:id="idm140515389509744">De tre Helligaftener (DK)</title>
+          </bibl>
+          <bibl xml:id="biblid69524">
+            <title xml:id="idm140515389508896">Eneste Barn (DK)</title>
+          </bibl>
+          <bibl xml:id="biblid70257">
+            <title xml:id="idm140515389508064">E Bindstouw (DK) (paralleltekst med Rigsmålsgengivelse)</title>
+          </bibl>
+        </listBibl>
+      </sourceDesc>
     </fileDesc>
   </teiHeader>
   <text xml:id="idm140515389507296">
     <front xml:id="idm140515389507040">
       <pb n="1" xml:id="s1" facs="adl/blich/blich3/blic3001"/>
       <gap reason="cancelled" xml:id="idm140515389505568"/>
-<!---->
-<!---->
-<!--Noveller-->
       <pb n="2" xml:id="s2" facs="adl/blich/blich3/blic3002"/>
       <pb n="3" xml:id="s3" facs="adl/blich/blich3/blic3003"/>
       <titlePage xml:id="idm140515389501824">
@@ -61,7 +80,7 @@
 					</bibl>
         </docEdition>
         <docImprint xml:id="idm140515389496816">
-          <publisher xml:id="idm140515389496560">Danske Klassikere<lb xml:id="idm140515389496272"/> Det danske Sprog- og Litteraturselskab
+          <publisher xml:id="idm140515389496560">Danske Klassikere<lb xml:id="idm140515389496272"/> Det Danske Sprog- og Litteraturselskab
 						<lb xml:id="idm140515389495952"/>Borgen</publisher>
         </docImprint>
       </titlePage>
@@ -2243,7 +2262,7 @@
 								Karl hytter sig selv - see saa: nu <note anchored="true" xml:id="idm140515388957312">* Hvorhen.</note>
 								<note anchored="true" xml:id="idm140515388956624">**Tid.</note>
 								<pb n="62" xml:id="s62" facs="adl/blich/blich3/blic3062"/> lumrer hun!« Derpaa rejste
-								han sig op, og sagde til Cornetten: »gjør nu som I seer,jeg gjør!
+								han sig op, og sagde til Cornetten: »gjør nu som I seer, jeg gjør!
 								riv en Lyngtop op, tænd den, løb saa ti Trin hist hen imod Nord, og
 								stik an! riv saa atter op, løb og stik an, alt Nord paa, indtil I
 								naaer hin Lyngknold, I seer hist et Par Bøsseskud borte! Jeg bærer
@@ -9439,7 +9458,7 @@
 								mit lange Piberør. »Hvis du ikke holder Flab,« sagde jeg, »saa skal
 								jeg kyle dig ned af Hesten.« Men saa bad han om en mild Pardon, og
 								siden blev han rolig.</p>
-              <p xml:id="idm140515387296640">Det var det sidste Slag,jeg var i; og dengang jeg skulde til at sidde
+              <p xml:id="idm140515387296640">Det var det sidste Slag, jeg var i; og dengang jeg skulde til at sidde
 								af Hesten, havde jeg mistet mit Mundbid til min Pibe, og jeg har
 								aldrig set det siden.« </p>
             </div>
@@ -12191,7 +12210,7 @@
                 <p xml:id="idm140515386531984">Følgende forkortelser, der vedrører litteraturhenvisninger, er
 									brugt:</p>
                 <p xml:id="idm140515386531424"><hi rend="italics" xml:id="idm140515386531296">Udgivelser af Blichers værker</hi>: </p>
-                <p xml:id="idm140515386530432"><hi rend="italics" xml:id="idm140515386530304">DN</hi>St. St Blicher: <hi rend="italics" xml:id="idm140515386529616">Digte og Noveller. </hi>Udg. af Det danske Sprog- og
+                <p xml:id="idm140515386530432"><hi rend="italics" xml:id="idm140515386530304">DN</hi>St. St Blicher: <hi rend="italics" xml:id="idm140515386529616">Digte og Noveller. </hi>Udg. af Det Danske Sprog- og
 									Litteraturselskab ved Johs. Nørvig under medvirken af Carl S.
 									Petersen (1946). I-II.</p>
                 <p xml:id="idm140515386528512"><hi rend="italics" xml:id="idm140515386528384">GnN</hi>St St. Blicher: <hi rend="italics" xml:id="idm140515386527696">Gamle og nye Noveller</hi> (1846-1847). I-VII.</p>
@@ -12202,7 +12221,7 @@
 									Skautrup (1942).</p>
                 <p xml:id="idm140515386522368"><hi rend="italics" xml:id="idm140515386522240">SD</hi>St. St. Blicher: <hi rend="italics" xml:id="idm140515386521504">Samlede Digte </hi>(1835-1836). I-II.</p>
                 <p xml:id="idm140515386520656"><hi rend="italics" xml:id="idm140515386520528">SN</hi>St. St. Blicher: <hi rend="italics" xml:id="idm140515386519840">Samlede Noveller </hi>(1833-1836). I-V.</p>
-                <p xml:id="idm140515386518992"><hi rend="italics" xml:id="idm140515386518864">SSk</hi>St St Blicher: <hi rend="italics" xml:id="idm140515386518176">Samlede Skrifter</hi>. Udg. af Det danske Sprog- og
+                <p xml:id="idm140515386518992"><hi rend="italics" xml:id="idm140515386518864">SSk</hi>St St Blicher: <hi rend="italics" xml:id="idm140515386518176">Samlede Skrifter</hi>. Udg. af Det Danske Sprog- og
 									Litteraturselskab ved Jeppe Aakjær, Henrik Ussing og Georg
 									Christensen (1920-1934). I-XXXIII.</p>
                 <p xml:id="idm140515386517056"><hi rend="italics" xml:id="idm140515386516928">Uv</hi>St St Blicher: <hi rend="italics" xml:id="idm140515386516192">Udvalgte værker</hi>. Udg. af Blicher-Selskabet (med

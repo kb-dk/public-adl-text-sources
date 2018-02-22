@@ -1,16 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!-- valideret HHL 31.10.2001
-     flyttet til server 9.nov 2001
-     
-20021017 HHL fjernet bindestreger ved sideslut  
- Ptj rettet s.231-238-225-243-244-247-252-253-255-269-277-279-
- 20090420  VL: rettet s. 158
--->
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="idm140583367158768"><!-- 
-       file     ./marc_dir/001629300.xml
-       field    248 
-       subfield g 
-       prefix   3-7-->
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="root">
   <teiHeader xml:id="idm140583367157712">
     <fileDesc xml:id="idm140583367157456">
       <titleStmt xml:id="idm140583367132080">
@@ -29,8 +18,38 @@
         <note xml:id="idm140583367127872">
 	  </note>
       </notesStmt>
-      <sourceDesc xml:id="idm140583367127360"><bibl xml:id="idm140583367127232"><author n="1" xml:id="idm140583367126544"><name xml:id="idm140583367126288"><surname xml:id="idm140583367126160">Holberg</surname>, <forename xml:id="idm140583367125728">Ludvig</forename></name></author><title xml:id="idm140583367125440">Værker i tolv bind</title><title xml:id="idm140583367125136">3-7: Komedier</title><pubPlace xml:id="idm140583367124848">[Kbh.]</pubPlace>
-<publisher xml:id="idm140583367124384">Rosenkilde og Bagger</publisher><date xml:id="idm140583367124048">1969-1971</date></bibl><listBibl xml:id="idm140583367123760"><bibl xml:id="biblid54980"><title xml:id="idm140583367110608">DEN POLITISKE KANDSTØBER</title></bibl><bibl xml:id="biblid65368"><title xml:id="idm140583367109792">DEN VÆGELSINDEDE</title></bibl><bibl xml:id="biblid75417"><title xml:id="idm140583367108992">JEAN DE FRANCE</title></bibl><bibl xml:id="biblid87503"><title xml:id="idm140583367108208">JEPPE PAA BIERGET</title></bibl><bibl xml:id="biblid94643"><title xml:id="idm140583367107376">MESTER GERT WESTPHALER</title></bibl><bibl xml:id="biblid100883"><title xml:id="idm140583367106480">DEN ELLEFTE JUNII</title></bibl></listBibl></sourceDesc>
+      <sourceDesc xml:id="idm140583367127360">
+        <bibl xml:id="idm140583367127232">
+          <author n="1" xml:id="idm140583367126544">
+            <name xml:id="idm140583367126288"><surname xml:id="idm140583367126160">Holberg</surname>, <forename xml:id="idm140583367125728">Ludvig</forename></name>
+          </author>
+          <title xml:id="idm140583367125440">Værker i tolv bind</title>
+          <title xml:id="idm140583367125136">3-7: Komedier</title>
+          <pubPlace xml:id="idm140583367124848">[København]</pubPlace>
+          <publisher xml:id="idm140583367124384">Rosenkilde og Bagger</publisher>
+          <date xml:id="idm140583367124048">1969-1971</date>
+        </bibl>
+        <listBibl xml:id="idm140583367123760">
+          <bibl xml:id="biblid54980">
+            <title xml:id="idm140583367110608">DEN POLITISKE KANDSTØBER</title>
+          </bibl>
+          <bibl xml:id="biblid65368">
+            <title xml:id="idm140583367109792">DEN VÆGELSINDEDE</title>
+          </bibl>
+          <bibl xml:id="biblid75417">
+            <title xml:id="idm140583367108992">JEAN DE FRANCE</title>
+          </bibl>
+          <bibl xml:id="biblid87503">
+            <title xml:id="idm140583367108208">JEPPE PAA BIERGET</title>
+          </bibl>
+          <bibl xml:id="biblid94643">
+            <title xml:id="idm140583367107376">MESTER GERT WESTPHALER</title>
+          </bibl>
+          <bibl xml:id="biblid100883">
+            <title xml:id="idm140583367106480">DEN ELLEFTE JUNII</title>
+          </bibl>
+        </listBibl>
+      </sourceDesc>
     </fileDesc>
   </teiHeader>
   <text xml:id="idm140583367105840">
@@ -239,7 +258,6 @@
           <head xml:id="idm140583367012464">DEN POLITISKE KANDSTØBER<lb xml:id="idm140583367012144"/>
 						<hi rend="italics" xml:id="idm140583367011888">Comoedie udi fem Acter</hi>
 					</head>
-<!-- Bd. 3, 13 - 87  -->
           <pb n="14" facs="adl/holberg/holberg3/maniptif1bit/tifudenill/holb3014" xml:id="s14"/>
           <div type="castList" xml:id="idm140583367009616">
             <head xml:id="idm140583367009120">
@@ -265,10 +283,6 @@
             </list>
           </div>
           <pb n="15" facs="adl/holberg/holberg3/maniptif1bit/tifudenill/holb3015" xml:id="s15"/>
-<!--
-<p>
-Den politiske Kandstøber </p>
--->
           <div type="indledning" xml:id="idm140583366998528">
             <head xml:id="idm140583366998000">
               <hi rend="italics" xml:id="idm140583366997744">Den politiske Kandstøber<lb xml:id="idm140583366997152"/> Indledning</hi>
@@ -433,9 +447,7 @@ Den politiske Kandstøber </p>
 									eller Eftersom. I skal agte, Mester Antoni, at I har med en
 									studeret Mand at bestille, der læser Dag og Nat politiske Bøger,
 									saa han <pb n="19" facs="adl/holberg/holberg3/orgtif8bit/holb3019" xml:id="s19"/>
-									<!-- <figure>
-<figDesc><hi rend="italics">ANTONIUS. ... Ej, corasi, Antonius! jeg veed, du har jo intet ondt giort. Jeg kand jo ikke faae meer end ney.</hi></figDesc>
-</figure> -->
+									
 									maa blive gall. Det meste, han paa nogen Tid har haft at dadle
 									paa Folkene her i Huuset, er, at der er saadant gemeent Væsen
 									hos os alle, besynderlig hos mig, hvilken han aldrig nævner,
@@ -931,9 +943,7 @@ Den politiske Kandstøber </p>
                 <speaker xml:id="idm140583366812432">RICHART BØRSTENBINDER</speaker>
                 <p xml:id="idm140583366811984"> Tal ikke om Bormester og Raad, skal vi bie, til de tænker
 									derpaa, kommer
-									<!-- <figure>
-<figDesc><hi rend="italics">HERMAN.... Seer I nu, Sivert! her ligger Tydskland.  SIVERT. Det er ret nok; jeg kand see det paa Donaustrømmen som ligger her.</hi></figDesc>
-</figure> -->
+									
 									vi til at bie længe. Her udi Hamburg berømmes en Bormester
 									alleene deraf, at han kand holde det lovlige Borgerskab i Tvang.
 								</p>
@@ -1108,9 +1118,6 @@ Den politiske Kandstøber </p>
                 <stage type="mix" xml:id="idm140583366763024">Geske skielder udenfor.</stage>
               </sp>
               <pb n="33" facs="adl/holberg/holberg3/orgtif8bit/holb3033" xml:id="s33"/>
-<!-- <figure>
-<figDesc><hi rend="italics">GESKE. ... Saa tør jeg giøre det selv.</hi></figDesc>
-</figure> -->
             </div>
             <pb n="34" facs="adl/holberg/holberg3/maniptif1bit/tifudenill/holb3034" xml:id="s34"/>
             <div type="scene" n="3" xml:id="idm140583366759408">
@@ -1496,9 +1503,7 @@ Den politiske Kandstøber </p>
                 <p xml:id="idm140583366656224"> Underdanigste Tiener, Velbaarne Hr. Bormester! vi ere hid
 									skikkede af Raadet for at gratulere ham med et Bormesterskab her
 									i Staden; thi Raadet har <pb n="41" facs="adl/holberg/holberg3/orgtif8bit/holb3041" xml:id="s41"/>
-									<!-- <figure>
-<figDesc><hi rend="italics">HERMAN. ... Hillement, hvad er det? Jeg seer skiden ud, som et Svin.</hi></figDesc>
-</figure> -->
+									
 									anseet meer hans Meriter end hans Stand og Vilkor, og udvalt ham
 									til Bormester. </p>
               </sp>
@@ -2010,9 +2015,7 @@ Den politiske Kandstøber </p>
                 <speaker xml:id="idm140583366511664">HENRICH</speaker>
                 <p xml:id="idm140583366511248"> See ikkun, hvor gode Miner hun kand holde! Jo, min Troe, har du
 									hørt det, og derfor har du og got <pb n="51" facs="adl/holberg/holberg3/orgtif8bit/holb3051" xml:id="s51"/>
-									<!-- <figure>
-<figDesc><hi rend="italics">HENRICH. ... Den eeneste Nytte ved dette Vall er, at jeg blir Reutendiener derved ..</hi></figDesc>
-</figure> -->
+									
 									ved at spaae. Nej Henrich har gammel Been i Panden, han er ikke
 									saa let at tage ved Næsen. </p>
               </sp>
@@ -2637,9 +2640,6 @@ Den politiske Kandstøber </p>
 									og taler? </p>
                 <stage type="mix" xml:id="idm140583366322384">Tar hende ved Haanden, og leeder hende ud.</stage>
               </sp>
-<!-- <figure>
-<figDesc><hi rend="italics">HENRICH. ... Her ud din Smeede-Kielling! meener du, at du staaer i en Smeede, og taler?</hi></figDesc>
-</figure> -->
               <sp xml:id="idm140583366321072">
                 <speaker xml:id="idm140583366320816">GESKE</speaker>
                 <p xml:id="idm140583366320432"> Ach, Madam! det er en Piine, at omgaaes med disse gemeene Folk.
@@ -3498,9 +3498,7 @@ Den politiske Kandstøber </p>
               <sp xml:id="idm140583366069440">
                 <speaker xml:id="idm140583366069184">BREMENFELD</speaker>
                 <p xml:id="idm140583366068768"> Gak ud og hent mig den politiske <pb n="75" facs="adl/holberg/holberg3/orgtif8bit/holb3075" xml:id="s75"/>
-									<!-- <figure>
-<figDesc><hi rend="italics">BORMESTEREN. ... Henrich, hvem var det?</hi></figDesc>
-</figure> -->
+									
 									Stock-Fisk, som ligger paa daglig Stue-Bordet, det er en Tydsk
 									Bog i hvidt Bind; maa skee jeg kand finde derudi, hvorledes jeg
 									skal tage imod fremmede Præsidenter. </p>
@@ -4201,14 +4199,12 @@ Den politiske Kandstøber </p>
           </div>
         </body>
       </text>
-<!--slut Kandstøber-->
       <pb n="89" facs="adl/holberg/holberg3/maniptif1bit/tifudenill/holb3089" xml:id="s89"/>
       <text xml:id="workid65368" decls="#biblid65368">
         <body xml:id="idm140583365764864">
           <head xml:id="idm140583365764608">DEN VÆGELSINDEDE<lb xml:id="idm140583365764304"/>
 						<hi rend="italics" xml:id="idm140583365764048">Comoedie udi tre Acter</hi>
 					</head>
-<!-- Bd. 3, 89-154-->
           <pb n="90" facs="adl/holberg/holberg3/maniptif1bit/tifudenill/holb3090" xml:id="s90"/>
           <div type="castList" xml:id="idm140583365761728">
             <head xml:id="idm140583365761232">
@@ -4381,9 +4377,6 @@ Den politiske Kandstøber </p>
 									Jomfrue endnu. </p>
               </sp>
               <pb n="95" facs="adl/holberg/holberg3/orgtif8bit/holb3095" xml:id="s95"/>
-<!-- <figure>
-<figDesc><hi rend="italics">LEONORE. ... Det er den Galanterie-Kræmmerske, som her boer.</hi></figDesc>
-</figure> -->
               <sp xml:id="idm140583365711232">
                 <speaker xml:id="idm140583365710976">LEONORE</speaker>
                 <p xml:id="idm140583365710592"> Det er ligemeget; men boer hun i dette Naboelav? </p>
@@ -4958,7 +4951,7 @@ Den politiske Kandstøber </p>
 									om jeg sagde, at min Herre kunde hverken skrive eller læse i
 									Bog, det kunde strax alle Folk høre, var Giækkerie. Ligesaa er
 									det med min Madame; thi saasom hun er <pb n="105" facs="adl/holberg/holberg3/maniptif1bit/tifudenill/holb3105" xml:id="s105"/>
-									<!-- mangler side 105-->
+									
 									<pb n="106" facs="adl/holberg/holberg3/maniptif1bit/tifudenill/holb3106" xml:id="s106"/> alting her i Huuset
 									indtil Hunde og Katte, saa jeg troer, at han kiender dig ogsaa.
 								</p>
@@ -5049,9 +5042,7 @@ Den politiske Kandstøber </p>
               <sp xml:id="idm140583365523952">
                 <speaker xml:id="idm140583365523696">PERNILLE.</speaker>
                 <p xml:id="idm140583365523280"> Jeg beder om Forladelse. Jeg skal ikke tale <pb n="107" facs="adl/holberg/holberg3/orgtif8bit/holb3107" xml:id="s107"/>
-									<!-- <figure>
-<figDesc><hi rend="italics">HENRICH. ... Ach Himmel! er det mueligt? Er det Madamen? Nu seer hun jo ud, som en gammel Huus-Postill.</hi></figDesc>
-</figure> -->
+									
 									<pb n="108" facs="adl/holberg/holberg3/maniptif1bit/tifudenill/holb3108" xml:id="s108"/> meer derom.
 									Undertiden bær Madamen stor Fortroelighed til mig, undertiden
 									igien har hun mig mistænkt. Har jeg vel nogen Tid røbet hende?
@@ -5591,9 +5582,6 @@ Den politiske Kandstøber </p>
               <sp xml:id="idm140583365374400">
                 <speaker xml:id="idm140583365374144">PERNILLE</speaker>
                 <p xml:id="idm140583365373728"> Det er mig kiært. </p>
-<!-- <figure>
-<figDesc><hi rend="italics">PERNILLE. ... See der er hun. Hun gik ud til Fods, og kommer tilbage udi en Portechaise.</hi></figDesc>
-</figure> -->
                 <pb n="118" facs="adl/holberg/holberg3/maniptif1bit/tifudenill/holb3118" xml:id="s118"/>
               </sp>
               <sp xml:id="idm140583365371472">
@@ -5827,9 +5815,7 @@ Den politiske Kandstøber </p>
                 <speaker xml:id="idm140583365305392">LUCRETIA</speaker>
                 <p xml:id="idm140583365304976"> Det giør ey heller nødigt, Monsieur! thi den samme Lucretia var
 									en taabelig Gaas. Det er nu omstunder <pb n="121" facs="adl/holberg/holberg3/orgtif8bit/holb3121" xml:id="s121"/>
-									<!-- <figure>
-<figDesc><hi rend="italics">LUCRETIA. ... Ach, ja! jeg er ikke uden for lystige Skrifter. Jeg har selv giort nogle Satyriske Vers, som jeg skal vise Monsieur, om jeg kunde finde dem.</hi></figDesc>
-</figure> -->
+									
 									stunder ikke meer Moden at myrde sig selv, for at forsvare sin
 									Kydskhed. </p>
               </sp>
@@ -6875,9 +6861,6 @@ Den politiske Kandstøber </p>
 									fordøyer ikke saadan Haanhed. </p>
               </sp>
               <pb n="137" facs="adl/holberg/holberg3/orgtif8bit/holb3137" xml:id="s137"/>
-<!-- <figure>
-<figDesc><hi rend="italics">PETRONIUS. ... I kiender ikke denne Dame; hun er genereuse. Rhins-Viin vil flyde som Vand for jer.</hi></figDesc>
-</figure> -->
               <pb n="138" facs="adl/holberg/holberg3/maniptif1bit/tifudenill/holb3138" xml:id="s138"/>
               <sp xml:id="idm140583364991456">
                 <speaker xml:id="idm140583364991200">LUCRETIA</speaker>
@@ -7216,9 +7199,6 @@ Den politiske Kandstøber </p>
               <sp xml:id="idm140583364894544">
                 <speaker xml:id="idm140583364894288">ERASTE</speaker>
                 <p xml:id="idm140583364893872"> Synes dig ey, at jeg har Aarsag? først kommer </p>
-<!-- <figure>
-<figDesc><hi rend="italics">ERASTE. ... Hvis I ikke gaaer til Side, skal jeg -</hi></figDesc>
-</figure> -->
                 <pb n="144" facs="adl/holberg/holberg3/maniptif1bit/tifudenill/holb3144" xml:id="s144"/>
                 <p xml:id="idm140583364891696"> hans Søster mig til at løbe April; siden prygler han min Tiener.
 								</p>
@@ -8086,14 +8066,12 @@ Den politiske Kandstøber </p>
           <pb n="156" facs="adl/holberg/holberg3/maniptif1bit/tifudenill/holb3156" xml:id="s156"/>
         </body>
       </text>
-<!-- slut Vaegel-->
       <pb n="157" facs="adl/holberg/holberg3/maniptif1bit/tifudenill/holb3157" xml:id="s157"/>
       <text xml:id="workid75417" decls="#biblid75417">
         <body xml:id="idm140583364556480">
           <head xml:id="idm140583364556224">JEAN DE FRANCE<lb xml:id="idm140583364555936"/> Eller Hans Frandsen<lb xml:id="idm140583364555648"/>
 						<hi rend="italics" xml:id="idm140583364555392">Comoedie udi fem Acter</hi>
 					</head>
-<!-- Bd. 3, 157-222-->
           <pb n="158" facs="adl/holberg/holberg3/maniptif1bit/tifudenill/holb3158" xml:id="s158"/>
           <div type="castList" xml:id="idm140583364552992">
             <head xml:id="idm140583364552496">
@@ -8320,9 +8298,7 @@ Den politiske Kandstøber </p>
 									udi vor Frue og Runde Kirke, hvor de lærde Meenigheder ere. De
 									samme ere siden efter Moden reist Udenlands, og der efter Moden
 									have glemt
-									<!-- <figure>
-<figDesc><hi rend="italics">FRANDS. ... Nu, nu, Naboe, det tør gaae  bedre,  end I tænker. Er det ellers længe siden, at I fik Brev fra min Søn?</hi></figDesc>
-</figure> -->
+									
 									bort deres Christendom indtil Catechismum, tilsat deres Midler,
 									ført en Hob Politiske Griller med sig tilbage, og siden gaaet
 									med deres <hi rend="italics" xml:id="idm140583364474704">Bonjour </hi>og <hi rend="italics" xml:id="idm140583364473360">
@@ -9070,9 +9046,6 @@ Den politiske Kandstøber </p>
 									Fornøyelse? <hi rend="italics" xml:id="idm140583364243328"> La tour seulement.</hi></p>
               </sp>
               <pb n="174" facs="adl/holberg/holberg3/orgtif8bit/holb3174" xml:id="s174"/>
-<!-- <figure>
-<figDesc><hi rend="italics">JEAN... La cadance mon père! la cadance!</hi></figDesc>
-</figure> -->
               <sp xml:id="idm140583364240800">
                 <speaker xml:id="idm140583364240544">MAGDELONE</speaker>
                 <p xml:id="idm140583364240160"> Førend min Søn skal blive vred, saa vil jeg gierne giøre det,
@@ -10557,9 +10530,6 @@ Den politiske Kandstøber </p>
                 </p>
               </sp>
               <pb n="196" facs="adl/holberg/holberg3/orgtif8bit/holb3196" xml:id="s196"/>
-<!-- <figure>
-<figDesc><hi rend="italics">JEAN. ... Ach! charmante Madame! souffrez que fadore vous! souffrez que je baisse votres beaux mains!</hi></figDesc>
-</figure> -->
               <pb n="197" facs="adl/holberg/holberg3/maniptif1bit/tifudenill/holb3197" xml:id="s197"/>
               <sp xml:id="idm140583363775408">
                 <speaker xml:id="idm140583363775152">JEAN</speaker>
@@ -11000,9 +10970,7 @@ Den politiske Kandstøber </p>
                 <speaker xml:id="idm140583363635440">JEAN</speaker>
                 <p xml:id="idm140583363635024"><hi rend="italics" xml:id="idm140583363634896">Attendez, mon cher </hi>Sviger <hi rend="italics" xml:id="idm140583363634176">Père! </hi>I slipper, <hi rend="italics" xml:id="idm140583363633456">ma
 										foi, </hi>ikke, førend I vender jer Kiole om, som min. Det
-									er, <pb n="203" facs="adl/holberg/holberg3/orgtif8bit/holb3203" xml:id="s203"/><!-- <figure>
-<figDesc><hi rend="italics">JEAN. ... Pierre ici! tenez! holdt den gamle halstarrige Knark. Jeg vil, ma foi, ingen Pedanter have til Forældre; træk ud!</hi></figDesc>
-</figure> --><hi rend="italics" xml:id="idm140583363631520">pardi, </hi>den høyeste Mode i Paris; Madame
+									er, <pb n="203" facs="adl/holberg/holberg3/orgtif8bit/holb3203" xml:id="s203"/><hi rend="italics" xml:id="idm140583363631520">pardi, </hi>den høyeste Mode i Paris; Madame
 									la Fleche, som nyelig er kommen derfra, beretter - - - </p>
               </sp>
               <sp xml:id="idm140583363630048">
@@ -11680,9 +11648,6 @@ Den politiske Kandstøber </p>
 									Hatten og Peruqven.</stage>
               </sp>
               <pb n="213" facs="adl/holberg/holberg3/orgtif8bit/holb3213" xml:id="s213"/>
-<!-- <figure>
-<figDesc><hi rend="italics">JEAN. ... Allans, retirons-nous à la Madame la Fleche: hun tar os nok i Protection.</hi></figDesc>
-</figure> -->
               <pb n="214" facs="adl/holberg/holberg3/maniptif1bit/tifudenill/holb3214" xml:id="s214"/>
               <sp xml:id="idm140583363412688">
                 <speaker xml:id="idm140583363412432">SPILLEREN</speaker>
@@ -12237,7 +12202,6 @@ Den politiske Kandstøber </p>
           </div>
         </body>
       </text>
-<!-- slut Jean-->
       <pb n="223" facs="adl/holberg/holberg3/maniptif1bit/tifudenill/holb3223" xml:id="s223"/>
       <text xml:id="workid87503" decls="#biblid87503">
         <body xml:id="idm140583363104816">
@@ -12308,8 +12272,6 @@ Den politiske Kandstøber </p>
 							en Dag, Oslo 1946. </p>
           </div>
           <pb n="227" facs="adl/holberg/holberg3/orgtif8bit/holb3227" xml:id="s227"/>
-<!-- <figure>
-</figure> -->
           <div type="akt" xml:id="idm140583363081584">
             <head xml:id="idm140583363081088">ACTUS I</head>
             <div type="scene" n="1" xml:id="idm140583363080704">
@@ -12896,9 +12858,6 @@ Den politiske Kandstøber </p>
                 <p xml:id="idm140583362911424"> Ja det er sandt, Eders Naade! men det betyder, at en Tønde Bygg
 									vil ikke komme høyere i Aar end til 5 Mark. </p>
               </sp>
-<!-- <figure>
-<figDesc><hi rend="italics">BARONEN. ... Det lader sig ansee i Aar til et frugtbar Aar; see engang hvor tyk Byggen staaer.</hi></figDesc>
-</figure> -->
               <pb n="238" facs="adl/holberg/holberg3/maniptif1bit/tifudenill/holb3238" xml:id="s238"/>
               <sp xml:id="idm140583362908864">
                 <speaker xml:id="idm140583362908608">BARONEN</speaker>
@@ -12957,9 +12916,7 @@ Den politiske Kandstøber </p>
 									alle an mod ham, ligesom han var Herren paa Gaarden, saa at han
 									ikke skulde vide, hvorledes han var snoet eller vendt. Og, naar
 									vi saaledes havde faaet ham i de Tanker, at han <pb n="239" facs="adl/holberg/holberg3/orgtif8bit/holb3239" xml:id="s239"/>
-									<!-- <figure>
-<figDesc><hi rend="italics">ERICH. ... thi denne samme Jeppe paa Bierget er en af de stærkeste Sovere i det heele Herret.</hi></figDesc>
-</figure> -->
+									
 									var Baronen, skulde vi drikke ham ligesaa drukken igien, som han
 									nu er, og legge ham i sine gamle Klæder paa denne samme Møding.
 									Hvis saadant med Forstand blev exeqveret, vilde det have en
@@ -13157,9 +13114,6 @@ Den politiske Kandstøber </p>
 									slaaer saadane Tanker af Eders Hovet. Eders Naade jager derved
 									Forskrekkelse i det heele Huus. Kiender Eders Naade ikke mig? </p>
                 <pb n="245" facs="adl/holberg/holberg3/orgtif8bit/holb3245" xml:id="s245"/>
-<!-- <figure>
-<figDesc><hi rend="italics">Jeppe i Baronens Seng. Tjenerne har bragt Vandbækken og Haandklæde til hans Morgentoilette.</hi></figDesc>
-</figure> -->
               </sp>
               <sp xml:id="idm140583362844688">
                 <speaker xml:id="idm140583362844432">JEPPE</speaker>
@@ -13783,9 +13737,6 @@ Den politiske Kandstøber </p>
 									jaloux paa Secreteren og siger:</stage>
                 <p xml:id="idm140583362667968"> Du skal faae en Ulykke, dersom du seer paa hende. </p>
                 <pb n="257" facs="adl/holberg/holberg3/orgtif8bit/holb3257" xml:id="s257"/>
-<!-- <figure>
-<figDesc><hi rend="italics">JEPPE.... Du skal faae en Ulykke, dersom du seer paa hende.</hi></figDesc>
-</figure> -->
                 <pb n="258" facs="adl/holberg/holberg3/maniptif1bit/tifudenill/holb3258" xml:id="s258"/>
                 <stage type="mix" xml:id="idm140583362664496">Saa tit han kaster Øye til Secreteren, strax slaaer han Øyene
 									af hende og seer paa Jorden. Han synger en forliebt gammeldags
@@ -13938,9 +13889,6 @@ Den politiske Kandstøber </p>
                 <speaker xml:id="idm140583362620720">JEPPE.</speaker>
                 <p xml:id="idm140583362620304"> Ach min hierte Nille! slaae mig ikke meer. </p>
               </sp>
-<!-- <figure>
-<figDesc><hi rend="italics">JEPPE. ... Hej Sekketeer, Cammer-Tienner, Lakeier! nok et Glas Carnali Sæk!</hi></figDesc>
-</figure> -->
               <pb n="262" facs="adl/holberg/holberg3/maniptif1bit/tifudenill/holb3262" xml:id="s262"/>
               <sp xml:id="idm140583362618000">
                 <speaker xml:id="idm140583362617744">NILLE</speaker>
@@ -14076,9 +14024,7 @@ Den politiske Kandstøber </p>
 									drukken, blir hans Sag derfor ikke bedre; thi det heeder: hvad
 									een bedriver i Drukkenskab, skal han bøde for, naar han blir
 									ædrue. Det er jo bekiendt, hvorledes saadan Misgierning nyelig
-									<!-- <figure>
-<figDesc><hi rend="italics">JEPPE. ... Ach jeg arme Menneske! hvad skal jeg sige?</hi></figDesc>
-</figure> -->
+									
 									blev straffet, omendskiønt Misdæderen lod sig af Eenfoldighed
 									forføre at give sig ud for en stor Herre; men hans Eenfoldighed
 									og U-videnhed kunde ikke redde ham fra Døden. Thi Straf er
@@ -14424,9 +14370,6 @@ Den politiske Kandstøber </p>
                 <p xml:id="idm140583362477328"> Ney! jeg kand mari ikke begribe det, men jeg troer, at jeg gaaer
 									igien og spøger. </p>
                 <pb n="271" facs="adl/holberg/holberg3/orgtif8bit/holb3271" xml:id="s271"/>
-<!-- <figure>
-<figDesc><hi rend="italics">NILLE. ... Ach Ach! er det mueligt, at jeg skal see min fromme Mand henge saa skammelig udi en Galgel</hi></figDesc>
-</figure> -->
               </sp>
               <sp xml:id="idm140583362474848">
                 <speaker xml:id="idm140583362474592">DOMMEREN</speaker>
@@ -14942,14 +14885,12 @@ Den politiske Kandstøber </p>
         </body>
       </text>
       <pb n="280" facs="adl/holberg/holberg3/maniptif1bit/tifudenill/holb3280" xml:id="s280"/>
-<!-- slut Jeppe-->
       <pb n="281" facs="adl/holberg/holberg3/maniptif1bit/tifudenill/holb3281" xml:id="s281"/>
       <text xml:id="workid94643" decls="#biblid94643">
         <body xml:id="idm140583362247952">
           <head xml:id="idm140583362247696">MESTER GERT WESTPHALER<lb xml:id="idm140583362247408"/> Eller<lb xml:id="idm140583362247120"/> DEN MEGET TALENDE BARBEER<lb xml:id="idm140583362246816"/>
 						<hi rend="italics" xml:id="idm140583362246560">Comoedie i een Act</hi>
 					</head>
-<!--bd 3, side 281-323 -->
           <pb n="282" facs="adl/holberg/holberg3/maniptif1bit/tifudenill/holb3282" xml:id="s282"/>
           <div type="castList" xml:id="idm140583362244096">
             <head xml:id="idm140583362243600">
@@ -15622,9 +15563,6 @@ Den politiske Kandstøber </p>
 								nogen ærlig Mand vilde komme i sine Erter, ikke meer end en Lybsk
 								Skilling. </p>
               <pb n="295" facs="adl/holberg/holberg3/orgtif8bit/holb3295" xml:id="s295"/>
-<!-- <figure>
-<figDesc><hi rend="italics">SVENDEN. ... Ach Monsieur! det blir for vitløftig at fortælle.</hi></figDesc>
-</figure> -->
             </sp>
             <sp xml:id="idm140583362046528">
               <speaker xml:id="idm140583362046272">SVENDEN</speaker>
@@ -16521,10 +16459,6 @@ Den politiske Kandstøber </p>
 								begrædende sine Synder, og just treffer jeg ham udi Klammerie. </p>
             </sp>
             <pb n="311" facs="adl/holberg/holberg3/orgtif8bit/holb3311" xml:id="s311"/>
-<!-- <figure>
-<figDesc><hi rend="italic s">... de komme i Haar sammen, og Mester Gert driver Tobias ud.</hi>
-</figDesc>
-</figure> -->
             <sp xml:id="idm140583361784960">
               <speaker xml:id="idm140583361784704">GERT</speaker>
               <p xml:id="idm140583361784288"> I skulde beklage mig Mutter, dersom I vidste min slette Skiæbne.
@@ -17092,10 +17026,7 @@ Den politiske Kandstøber </p>
 								Veiret igien, hvilke besluttede gandske at udrødde de Wighs og deres
 								Tilhengere, de Anabaptister og Mannister. Men som deres Antall var
 								alt for stor, forandrede man det Forsæt, og lod alleene forbyde dem
-								under Livs-Straf <pb n="320" facs="adl/holberg/holberg3/orgtif8bit/holb3320" xml:id="s320"/><!-- <figure><figDesc>
-<hi rend="italics">GERT... Men ach Himmel! jeg staaer her og snakker saa meget; hvor er Jomfruen?</hi>
-</figDesc>
-</figure> -->
+								under Livs-Straf <pb n="320" facs="adl/holberg/holberg3/orgtif8bit/holb3320" xml:id="s320"/>
 								at have Gevær i deres Huus. Dette er Aarsag til den Had, som er
 								mellem de Torys og Wighs, og at de første altid maa holde de sidste
 								Tommelfingeren paa Øyet - - Men ach Himmel! jeg staaer her og
@@ -17283,14 +17214,12 @@ Den politiske Kandstøber </p>
         </body>
       </text>
       <pb n="324" facs="adl/holberg/holberg3/maniptif1bit/tifudenill/holb3324" xml:id="s324"/>
-<!--slut Gert Westphaler-->
       <pb n="325" facs="adl/holberg/holberg3/maniptif1bit/tifudenill/holb3325" xml:id="s325"/>
       <text xml:id="workid100883" decls="#biblid100883">
         <body xml:id="idm140583361499360">
           <head xml:id="idm140583361499104">DEN ELLEFTE JUNII<lb xml:id="idm140583361498816"/>
 						<hi rend="italics" xml:id="idm140583361498560">Comoedie udi fem Acter</hi>
 					</head>
-<!-- Bd. 3, 325-400-->
           <pb n="326" facs="adl/holberg/holberg3/maniptif1bit/tifudenill/holb3326" xml:id="s326"/>
           <div type="castList" xml:id="idm140583361496160">
             <head xml:id="idm140583361495664">
@@ -17435,7 +17364,7 @@ Den politiske Kandstøber </p>
                 <speaker xml:id="idm140583361457536">ANDEN PROPRIETARIUS</speaker>
                 <p xml:id="idm140583361457120"> Gud bedre os for Market vi giør, bitte Far! Fanden er i
 									Hollænderen nu til at <pb n="331" facs="adl/holberg/holberg3/orgtif8bit/holb3331" xml:id="s331"/>
-									<!-- <figure></figure> --> vrage Stude, han bliver alt klogere
+									 vrage Stude, han bliver alt klogere
 									og klogere. Jeg troer virkelig den Adrian van Enckhuysen er een
 									af de lærdeste Studhentere i Holland, thi ingen Ambassadeur kan
 									bruge større Intriguer ved en Freds-Tractat, end han bruger ved
@@ -18236,8 +18165,6 @@ Den politiske Kandstøber </p>
 									Studengaarden! </p>
               </sp>
               <pb n="345" facs="adl/holberg/holberg3/orgtif8bit/holb3345" xml:id="s345"/>
-<!-- <figure><figDesc><hi rend="italics">STUDENSTRUP. ...Ej raab I Carnalier, til I blir gall.</hi>
-</figDesc></figure> -->
               <sp xml:id="idm140583361228400">
                 <speaker xml:id="idm140583361228144">INDEN FOR</speaker>
                 <p xml:id="idm140583361227728"> Rus - - - R - - - s. </p>
@@ -18985,7 +18912,6 @@ Den politiske Kandstøber </p>
                 <p xml:id="idm140583361029808"> Ney, Monsieur, jeg maa tage mine Ord tilbage, nu erindrer jeg,
 									at jeg ingen Penge har. </p>
                 <pb n="357" facs="adl/holberg/holberg3/orgtif8bit/holb3357" xml:id="s357"/>
-<!-- <figure><figDesc><hi rend="italics">KIØBMANDEN. Servüeur Monsieur, har han ingen Kroner at vexle?</hi></figDesc></figure> -->
               </sp>
               <sp xml:id="idm140583361027520">
                 <speaker xml:id="idm140583361027264">SKYLDENBORG</speaker>
@@ -19216,9 +19142,7 @@ Den politiske Kandstøber </p>
               </sp>
               <sp xml:id="idm140583360960640">
                 <speaker xml:id="idm140583360960384">STUDENSTRUP.</speaker>
-                <p xml:id="idm140583360960000"> Ja Monfrere maa giøre deri, som han <!-- <figure><figDesc>
-<hi rend="italics">EN DRENG .  . Kiøber I smukke Bøger, Mussiø: Altid være vel tilfreds, aldrig være vel tilfreds.</hi>
-</figDesc></figure> -->
+                <p xml:id="idm140583360960000"> Ja Monfrere maa giøre deri, som han 
 									<pb n="362" facs="adl/holberg/holberg3/maniptif1bit/tifudenill/holb3362" xml:id="s362"/> lyster. Men jeg
 									staaer og tænker paa en Ting, hvorfore vi, som ere Fettere, skal
 									sige I til hinanden. </p>
@@ -19903,9 +19827,6 @@ Den politiske Kandstøber </p>
                 <speaker xml:id="idm140583360766208">JACOB.</speaker>
                 <p xml:id="idm140583360765792"> Han har villet besmitte min Ægteseng. Slip mig, hej, hu! </p>
                 <pb n="374" facs="adl/holberg/holberg3/orgtif8bit/holb3374" xml:id="s374"/>
-<!-- <figure><figDesc>
-<hi rend="italics">JACOB. ...Hør I vel I gode Mænd! naar jeg giver et Vink, saa bryder ind tillige med mig.</hi>
-</figDesc></figure> -->
                 <stage type="mix" xml:id="idm140583360763920">Henrich brydes saalænge med ham, til han faaer Kaarden af
 									hans Hændet.</stage>
               </sp>
@@ -20062,9 +19983,6 @@ Den politiske Kandstøber </p>
 								</p>
               </sp>
               <pb n="377" facs="adl/holberg/holberg3/orgtif8bit/holb3377" xml:id="s377"/>
-<!-- <figure><figDesc>
-<hi rend="italics">LUCRETIA. .  . Ej, lad mig dog faae Hevn paa ham</hi>
-</figDesc></figure> -->
               <sp xml:id="idm140583360712448">
                 <speaker xml:id="idm140583360712192">HENRICH</speaker>
                 <p xml:id="idm140583360711776"> Jo, jo! det første Svoger Jacob giorde, det var at slaae
@@ -20812,9 +20730,7 @@ Den politiske Kandstøber </p>
                 <p xml:id="idm140583360485216"> Ach! jeg takker dig, min allerkiæreste Fetter, for din Godhed.
 									Nu maa jeg da tage Afskeed og repetere hvad, som jeg tilforn har
 									sagt, at intet udi Verden <pb n="389" facs="adl/holberg/holberg3/orgtif8bit/holb3389" xml:id="s389"/>
-									<!-- <figure><figDesc>
-<hi rend="italics">VÆGTER. ... Kommer Karle, trækker det Beest paa RaadhuseV han er fuld og har kastet bort sm Morgenstjerne.</hi>
-</figDesc></figure> -->
+									
 									skal være mig fornøyligere, end at kunde tiene Monfrere igien;
 									jeg vil kuns bede Monfrere vil sætte Prøve paa mig, mit Liv og
 									Blod skal ikke spares, naar jeg kuns der ved kand vise min
@@ -21507,7 +21423,6 @@ Den politiske Kandstøber </p>
           </div>
         </body>
       </text>
-<!-- slut Ellefte -->
     </group>
   </text>
 </TEI>

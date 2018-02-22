@@ -1,14 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!-- OCR by ATAPY 11.10.02 (Catherine Bychkova) -->
-<!-- HHL 2003.03.06 emph udkommenteret og erstattet af kursiv
-     HHL 2003.03.06 checkliste gennemgået
-     Ptj rettet s. 5-42-
-     -->
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="idm140704556149760"><!-- 
-       file     ./marc_dir/001916301.xml
-       field     
-       subfield  
-       prefix   -->
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="root">
   <teiHeader xml:id="idm140704556148800">
     <fileDesc xml:id="idm140704556148544">
       <titleStmt xml:id="idm140704556123056">
@@ -27,17 +18,45 @@
         <note xml:id="idm140704556117728">
 	  </note>
       </notesStmt>
-      <sourceDesc xml:id="idm140704556117168"><bibl xml:id="idm140704556116992"><author n="1" xml:id="idm140704556116816"><name xml:id="idm140704556116560"><surname xml:id="idm140704556116432">Juel-Hansen</surname>, <forename xml:id="idm140704556115968">Erna</forename></name></author><title xml:id="idm140704556115680">Sex Noveller</title><pubPlace xml:id="idm140704556115392">Kbh</pubPlace>
-<date xml:id="idm140704556114912">1885</date></bibl><listBibl xml:id="idm140704556114624"><bibl xml:id="biblid54119"><title xml:id="idm140704556101472">Sex Noveller</title></bibl><bibl xml:id="biblid53723"><title xml:id="idm140704556100640">ENLIG</title></bibl><bibl xml:id="biblid56408"><title xml:id="idm140704556099856">EN KONFIRMAND</title></bibl><bibl xml:id="biblid57648"><title xml:id="idm140704556099024">LILLE KARL</title></bibl><bibl xml:id="biblid58948"><title xml:id="idm140704556098192">MEËRAH</title></bibl><bibl xml:id="biblid60329"><title xml:id="idm140704556097360">TØBRUD</title></bibl><bibl xml:id="biblid61171"><title xml:id="idm140704556096576">DE TOLV SMAA -?</title></bibl></listBibl></sourceDesc>
+      <sourceDesc xml:id="idm140704556117168">
+        <bibl xml:id="idm140704556116992">
+          <author n="1" xml:id="idm140704556116816">
+            <name xml:id="idm140704556116560"><surname xml:id="idm140704556116432">Juel-Hansen</surname>, <forename xml:id="idm140704556115968">Erna</forename></name>
+          </author>
+          <title xml:id="idm140704556115680">Sex Noveller</title>
+          <pubPlace xml:id="idm140704556115392">København</pubPlace>
+          <date xml:id="idm140704556114912">1885</date>
+        </bibl>
+        <listBibl xml:id="idm140704556114624">
+          <bibl xml:id="biblid54119">
+            <title xml:id="idm140704556101472">Sex Noveller</title>
+          </bibl>
+          <bibl xml:id="biblid53723">
+            <title xml:id="idm140704556100640">ENLIG</title>
+          </bibl>
+          <bibl xml:id="biblid56408">
+            <title xml:id="idm140704556099856">EN KONFIRMAND</title>
+          </bibl>
+          <bibl xml:id="biblid57648">
+            <title xml:id="idm140704556099024">LILLE KARL</title>
+          </bibl>
+          <bibl xml:id="biblid58948">
+            <title xml:id="idm140704556098192">MEËRAH</title>
+          </bibl>
+          <bibl xml:id="biblid60329">
+            <title xml:id="idm140704556097360">TØBRUD</title>
+          </bibl>
+          <bibl xml:id="biblid61171">
+            <title xml:id="idm140704556096576">DE TOLV SMAA -?</title>
+          </bibl>
+        </listBibl>
+      </sourceDesc>
     </fileDesc>
   </teiHeader>
   <text xml:id="workid54119" decls="#biblid54119">
     <front xml:id="idm140704556094944">
       <pb n="a" facs="adl/juelh/juelh02/juelh2fm001" xml:id="idm140704556094640"/>
       <gap reason="cancelled" xml:id="idm140704556093776"/>
-<!---->
-<!---->
-<!--SEX NOVELLER.-->
       <pb n="b" facs="adl/juelh/juelh02/juelh2fm002" xml:id="idm140704556092256"/>
       <pb n="c" facs="adl/juelh/juelh02/juelh2fm003" xml:id="idm140704556091472"/>
       <titlePage xml:id="idm140704556090704">
@@ -108,7 +127,7 @@
 							Blikket, en kraftig, firskaaren Skikkelse.</p>
             <p xml:id="idm140704556043568">Han sad i Gyngestolen, vuggede frem og tilbage, blev længe ved.</p>
             <p xml:id="idm140704556043040">Én Gang famlede hans Haand efter Pakken paa Bordet, han mumlede halvhøjt,
-							fortrædeligt: "<!--<emph>--><hi rend="italics" xml:id="idm140704556042480">kan</hi><!--</emph>--> ikke gjøres paa anden Maade"
+							fortrædeligt: "<hi rend="italics" xml:id="idm140704556042480">kan</hi> ikke gjøres paa anden Maade"
 							- skød den atter fra sig, vuggede igjen, rejste sig saa med et
 							Sæt.</p>
             <p xml:id="idm140704556041296">Der blev ham for varmt. Han gik ind i Sovekamret, forbi Sengen, der lyste
@@ -188,7 +207,7 @@
 							Kandelaber.</p>
             <p xml:id="idm140704556020576">Theatret? hvorfor ikke? Det dér foregik inde, var i alt Fald tamt nok.
 							Hun søgte den Vej og saa paa Theaterplakaten: Abekatten, Livjægerne paa
-							Amager - <!--<emph>--><hi rend="italics" xml:id="idm140704556019776">for</hi><!--</emph>--> tamt endog for et enligt Fruentimmer !</p>
+							Amager - <hi rend="italics" xml:id="idm140704556019776">for</hi> tamt endog for et enligt Fruentimmer !</p>
             <p xml:id="idm140704556018832">Men saa fik hun et Indfald: á Porta - ja vist, det var Tid at
 							spise til Aften, saa gik i alt Fald den Tid -</p>
             <p xml:id="idm140704556018208">Hun gik rask over Torvet og ind i Konditoriet.</p>
@@ -421,7 +440,7 @@
 							Menneskes Eet at faa tilfredsstillet i Elskov !</p>
             <p xml:id="idm140704556167008">Hun rejste sig, støttede Hovedet mod Vinduesposten, og saa langt ud i den
 							fugtige Foraarsnats lune Mørke - ja - sige, hvad de
-							andre sige vilde, - <!--<emph>--><hi rend="italics" xml:id="idm140704555956080">deres</hi><!--</emph>--> var Retten - trods alt, hvad der bar
+							andre sige vilde, - <hi rend="italics" xml:id="idm140704555956080">deres</hi> var Retten - trods alt, hvad der bar
 							Navn af Moral og Sædelighed, trods al menneskelig Lov og borgerlig Orden
 							var de Ægtefæller - rette Ægtefæller - og dette var
 							det jo, hun vilde, de skulde blive ved at være.</p>
@@ -713,7 +732,7 @@
 							Mand - -. Ét Øjeblik syntes det hende umuligt. Hun
 							vilde sno sig fra det ved at angive Træthed, Trang til Rekreation
 							- - men saa fik hun atter Tag i det sanddru,
-							uforfærdede i sin Natur - - det <!--<emph>--><hi rend="italics" xml:id="idm140704555883616">skulde</hi><!--</emph>--> siges, saa fik han siden
+							uforfærdede i sin Natur - - det <hi rend="italics" xml:id="idm140704555883616">skulde</hi> siges, saa fik han siden
 							handle mod hende, som han vilde.</p>
             <p xml:id="idm140704555882560">Blodet skød hende op i Kinderne, uvilkaarlig rettede hun sin Skikkelse i
 							Vejret som til Forsvar og sagde med dirrende Læber, sagte, men dog
@@ -777,7 +796,7 @@
 							Hoved - -" han glattede paa det tynde
 							Issehaar og strøg sine Bakkenbarter - "men Pokker
 							staa i det, om han ikke troede, hun var honnet alligevel - dèr
-							var nu igjen <!--<emph>--><hi rend="italics" xml:id="idm140704555867024">det</hi><!--</emph>--> , at
+							var nu igjen <hi rend="italics" xml:id="idm140704555867024">det</hi> , at
 							Reglen ikke holdt stik, naar man kom det enkelte Tilfælde nær paa Livet
 							- - hm - saadant et Udtryk, hun havde
 							havt, af Renhed - af - madonnaagtig, Gu' hjælpe mig
@@ -1046,7 +1065,7 @@
 							tog næsten Vejret fra hende.</p>
             <p xml:id="idm140704555797344">Hun begyndte at ryste: Turde hun sige, at hun troede? nej, hun troede
 							ikke; og forsage? uh nej, saa skulde man vist lade være at være glad, og
-								<!--<emph>--><hi rend="italics" xml:id="idm140704555796560">det</hi><!--</emph>--> kunde hun
+								<hi rend="italics" xml:id="idm140704555796560">det</hi> kunde hun
 							ikke, nej, nej - aa, bare han vilde springe hende over! Hendes
 							Tænder klaprede. Nu var han ved hendes Sidemand. Hun vred sig som i
 							Vaande. Taarer, der ikke vilde flyde, kvalte hende næsten. Saa!</p>
@@ -1261,7 +1280,7 @@
 							allesammen meget røde og rneget varme. En halv Snes Arme raktes ud imod
 							hende, men to af Veninderne trak hende ned mellem sig og hviskede hende
 							fra hver sin Side i Øret: "Du skaffer os vel Lov at danse
-							- vi vil danse - vi <!--<emph>--><hi rend="italics" xml:id="idm140704555738752">maa</hi><!--</emph>--> danse, sødeste Margrethe - vi
+							- vi vil danse - vi <hi rend="italics" xml:id="idm140704555738752">maa</hi> danse, sødeste Margrethe - vi
 							maa,"- og fra den anden Side af Bordet straktes
 							Hovederne frem og nikkede og raabte: "Vi vil! vi
 							vil!" En smeltende ung Rus lagde Haanden paa Hjærtet og
@@ -1368,7 +1387,7 @@
 							modstræbende Gulvet rundt et Par Gange. Svimmel, forpustet, vred og dog
 							halvt overvunden skyndte hun sig ud af Larmen med høje Beklagelser over
 							"det gale Menneske" og med hemmelig Ængstelse for,
-							hvad Pastor Skou vilde sige, hvis han fik <!--<emph>--><hi rend="italics" xml:id="idm140704555712496">det</hi><!--</emph>--> at vide.</p>
+							hvad Pastor Skou vilde sige, hvis han fik <hi rend="italics" xml:id="idm140704555712496">det</hi> at vide.</p>
             <p xml:id="idm140704555711552">Parrene snoede sig mellem hverandre i en susende Svingen om og Stormen
 							løs. Gulvet rystede under det "russiske
 							Kavalleris" Trampen. Damernes Smaahvin, naar de i Mølleturene
@@ -1412,7 +1431,7 @@
 							Stemme atter at lyde i hendes Øre: "Forsager du Djævelen og
 							alt hans Væsen -"</p>
             <p xml:id="idm140704555702032">Hun foer op over Ende i Sengen - aa, hun havde jo løjet, da hun
-							sagde ja til <!--<emph>--><hi rend="italics" xml:id="idm140704555701392">det</hi><!--</emph>--> ;
+							sagde ja til <hi rend="italics" xml:id="idm140704555701392">det</hi> ;
 							hvor det var frygteligt! Hun holdt Hænderne for Ørene, rokkede frem og
 							tilbage og stønnede.</p>
             <p xml:id="idm140704555700208">Halvt i Angst, halvt i Andagt trængte det <pb n="65" xml:id="s65" facs="adl/juelh/juelh02/juelh2065"/> sig saa ud over hendes Læber: "Vor
@@ -1427,9 +1446,7 @@
       <text xml:id="workid57648" decls="#biblid57648">
         <front xml:id="idm140704555694560">
           <head xml:id="idm140704555694304">
-<!--<emph>-->
             <hi rend="italics" xml:id="idm140704555693696">LILLE KARL.</hi>
-<!--</emph>-->
           </head>
           <pb n="68" xml:id="s68" facs="adl/juelh/juelh02/juelh2068"/>
           <pb n="69" xml:id="s69" facs="adl/juelh/juelh02/juelh2069"/>
@@ -1733,7 +1750,7 @@
 							ham, og drak det helt ud. Det var Champagne. Hu! det var som Is paa
 							Tungen og Ild i Kroppen - men det gjorde ham dristig, han
 							følte sig en Pokkers Karl, turde binde an med dem alle sammen
-							- endda med Borgmesteren - for <!--<emph>--><hi rend="italics" xml:id="idm140704555614304">hun</hi><!--</emph>--> havde jo nikket til ham og til
+							- endda med Borgmesteren - for <hi rend="italics" xml:id="idm140704555614304">hun</hi> havde jo nikket til ham og til
 							ingen anden.</p>
             <p xml:id="idm140704555613296">Han kom først til Besindelse, da de alle rejste sig for at drikke hendes
 							Skaal - han drak. mere Champagne - og da
@@ -1820,11 +1837,11 @@
 							han forstod vel kun lidt deraf, men han følte en ustyrlig, magtesløs
 							Lyst til at klø dem alle sammen.</p>
             <p xml:id="idm140704555593120">Da Kaffen var drukket, steg Selskabet til Vogns. Karl vidste, i hvilken
-							Vogn <!--<emph>--><hi rend="italics" xml:id="idm140704555592576">hun</hi><!--</emph>--> skulde
+							Vogn <hi rend="italics" xml:id="idm140704555592576">hun</hi> skulde
 							kjøre, og længe inden nogen anden kunde gjøre ham Rangen stridig,
 							tronede han ved Siden af Peter, Agentens Kusk, paa Bukken af Stadsvognen
 							med de blankbrune for, og havde faaet Lov at kjøre Hestene, naar de kom
-							ud paa den gode Vej. Kjøre for <!--<emph>--><hi rend="italics" xml:id="idm140704555591024">hende!</hi><!--</emph>--> det hoppede i ham af Fornøjelse.</p>
+							ud paa den gode Vej. Kjøre for <hi rend="italics" xml:id="idm140704555591024">hende!</hi> det hoppede i ham af Fornøjelse.</p>
             <p xml:id="idm140704555589968">Han fik da ogsaa Tøjlerne. Men der var "Blod" i de
 							brune, og de gik paa, da de mærkede Tømmerne i svagere Hænder end Peters
 							solide Karlenæver.</p>
@@ -2000,7 +2017,7 @@
       <pb n="97" xml:id="s97" facs="adl/juelh/juelh02/juelh2097"/>
       <text xml:id="workid58948" decls="#biblid58948">
         <front xml:id="idm140704555541184">
-          <head xml:id="idm140704555540928"><!--<emph>--><hi rend="italics" xml:id="idm140704555540608">MEËRAH</hi><!--</emph>--> *).</head>
+          <head xml:id="idm140704555540928"><hi rend="italics" xml:id="idm140704555540608">MEËRAH</hi> *).</head>
           <titlePart type="main" xml:id="idm140704555539632">
             <note anchored="true" xml:id="idm140704555539104">*) Forbandelse.</note>
           </titlePart>
@@ -2214,7 +2231,7 @@
 							- der var en Tid, da han selv var ung og smækker, før end hun
 							blev gift - aa, franske Kyllinger med friske Champignons! og
 							det var midt Vinter, nej, hvad for gode Idéer den Samuel havde.
-								<!--<emph>--><hi rend="italics" xml:id="idm140704555475120">Det</hi><!--</emph>--> var godt for
+								<hi rend="italics" xml:id="idm140704555475120">Det</hi> var godt for
 							en svækket Mave! Hans Tænder løb i Vand. Han sendte Hindel over Bordet
 							et henrykt Blik, det gjaldt Kyllingerne. De forsonede ham med
 							Tilværelsen. Han knasede og gnaskede de fine Ben, svøbte Tungen kjælent
@@ -2369,7 +2386,7 @@
 							Arbejde, og lidt nok har hun faaet for det. Dette er værre end med den
 							første, Drengen, husker De nok. Men," føjede han til haardt
 							og med et harmfuldt Glimt i Øjnene, "det er deres egen Skyld,
-							to saa forbandede Ædere som de Forældre her, <!--<emph>--><hi rend="italics" xml:id="idm140704555428160">maa</hi><!--</emph>--> jo sætte Idioter i Verden
+							to saa forbandede Ædere som de Forældre her, <hi rend="italics" xml:id="idm140704555428160">maa</hi> jo sætte Idioter i Verden
 							- - -".</p>
             <p xml:id="idm140704555427120">En jamrende Stønnen henne fra Sengen afbrød ham. Han kastede hurtig
 							Klædet over Barnet, men det var for silde. Hindel var vaagnet af
@@ -2533,9 +2550,7 @@
       <text xml:id="workid60329" decls="#biblid60329">
         <front xml:id="idm140704555374352">
           <head xml:id="idm140704555374096">
-<!--<emph>-->
             <hi rend="italics" xml:id="idm140704555373488">TØBRUD.</hi>
-<!--</emph>-->
           </head>
           <pb n="126" xml:id="s126" facs="adl/juelh/juelh02/juelh2126"/>
           <pb n="127" xml:id="s127" facs="adl/juelh/juelh02/juelh2127"/>
@@ -2651,8 +2666,8 @@
 							Hyazinther dèr i Vinduet, hvor de dufter stærkt - aa, saa
 							stærkt - hvorfor er ikke ogsaa alt anderledes -
 							hvorfor tog de hendes Lykke, rev hende fra den, hun elskede, og tvang
-							hende ind i al denne Styghed og Ulykke? Var hun dog <!--<emph>--><hi rend="italics" xml:id="idm140704555338432">hans</hi><!--</emph>--> - hun har aldrig
-							glemt ham, intet Øjeblik - var hun dog <!--<emph>--><hi rend="italics" xml:id="idm140704555337280">hans!</hi><!--</emph>--> Hvad Liv vilde da ikke
+							hende ind i al denne Styghed og Ulykke? Var hun dog <hi rend="italics" xml:id="idm140704555338432">hans</hi> - hun har aldrig
+							glemt ham, intet Øjeblik - var hun dog <hi rend="italics" xml:id="idm140704555337280">hans!</hi> Hvad Liv vilde da ikke
 							leves, hvad Lykke ikke blomstre!</p>
             <p xml:id="idm140704555336224">Og hendes Tanker drager ham nær, ikke bly og bange, som da den første
 							Kjærligheds Frygt og Bæven lukkede deres Læber og stængede for deres
@@ -2889,9 +2904,7 @@
         <front xml:id="idm140704555272176">
           <pb n="145" xml:id="s145" facs="adl/juelh/juelh02/juelh2145"/>
           <head xml:id="idm140704555270736">
-<!--<emph>-->
             <hi rend="italics" xml:id="idm140704555270128">DE TOLV SMAA -?</hi>
-<!--</emph>-->
           </head>
           <pb n="146" xml:id="s146" facs="adl/juelh/juelh02/juelh2146"/>
           <pb n="147" xml:id="s147" facs="adl/juelh/juelh02/juelh2147"/>
@@ -3075,7 +3088,7 @@
             <p xml:id="idm140704555221088">"Rigtig, Madsen, blind Høne kan ogsaa finde et Korn. Det er
 							nok ellers smaat bevendt med Børnelærdommen her inde, kan jeg mærke.
 							Hvad mener I om den Tidsfordriv at repetere Divisionstabellen eller de
-							tolv Apostle, næste Gang I - hm! - <!--<emph>--><hi rend="italics" xml:id="idm140704555220096">venter</hi><!--</emph>--> paa Pastor
+							tolv Apostle, næste Gang I - hm! - <hi rend="italics" xml:id="idm140704555220096">venter</hi> paa Pastor
 							Skou?"</p>
             <p xml:id="idm140704555219072">I det samme ringede Skoleklokken. Hr. Petersen bukkede dybt og gik. Røde
 							i Hovederne saa de paa hverandre. Han vidste bestemt det hele!</p>

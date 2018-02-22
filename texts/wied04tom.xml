@@ -1,10 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!--Tom opmærkning jbh 19.09.2001-->
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="idm140599231822912"><!-- 
-       file     ./marc_dir/001680948.xml
-       field    530 
-       subfield a 
-       prefix   4. -->
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="root">
   <teiHeader xml:id="idm140599231822080">
     <fileDesc xml:id="idm140599231821824">
       <titleStmt xml:id="idm140599231821520">
@@ -23,8 +18,25 @@
         <note xml:id="idm140599231792320">
 	  </note>
       </notesStmt>
-      <sourceDesc xml:id="idm140599231791808"><bibl xml:id="idm140599231791680"><author n="1" xml:id="idm140599231790992"><name xml:id="idm140599231790736"><surname xml:id="idm140599231790608">Wied</surname>, <forename xml:id="idm140599231790144">Gustav</forename></name></author><title xml:id="idm140599231789856">Ungdomshistorier. Den gamle Pavillon. 1967</title><pubPlace xml:id="idm140599231789536">Kbh</pubPlace>
-<publisher xml:id="idm140599231789104">Rosenkilde og Bagger</publisher><date xml:id="idm140599231788768">1966-</date></bibl><listBibl xml:id="idm140599231788480"><bibl xml:id="biblid54144"><title xml:id="idm140599231775328">Ungdomshistorier</title></bibl><bibl xml:id="biblid56007"><title xml:id="idm140599231774496">Den gamle Pavillon</title></bibl></listBibl></sourceDesc>
+      <sourceDesc xml:id="idm140599231791808">
+        <bibl xml:id="idm140599231791680">
+          <author n="1" xml:id="idm140599231790992">
+            <name xml:id="idm140599231790736"><surname xml:id="idm140599231790608">Wied</surname>, <forename xml:id="idm140599231790144">Gustav</forename></name>
+          </author>
+          <title xml:id="idm140599231789856">Ungdomshistorier. Den gamle Pavillon. 1967</title>
+          <pubPlace xml:id="idm140599231789536">København</pubPlace>
+          <publisher xml:id="idm140599231789104">Rosenkilde og Bagger</publisher>
+          <date xml:id="idm140599231788768">1966-</date>
+        </bibl>
+        <listBibl xml:id="idm140599231788480">
+          <bibl xml:id="biblid54144">
+            <title xml:id="idm140599231775328">Ungdomshistorier</title>
+          </bibl>
+          <bibl xml:id="biblid56007">
+            <title xml:id="idm140599231774496">Den gamle Pavillon</title>
+          </bibl>
+        </listBibl>
+      </sourceDesc>
     </fileDesc>
   </teiHeader>
   <text xml:id="idm140599231773856">

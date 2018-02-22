@@ -1,10 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!-- HHL 08.08.2002 tilføjet vaerktitler-->
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="idm140064563758992"><!-- 
-       file     ./marc_dir/001823114.xml
-       field    530 
-       subfield a 
-       prefix   2. Bind-->
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="root">
   <teiHeader xml:id="idm140064563763616">
     <fileDesc xml:id="idm140064563763360">
       <titleStmt xml:id="idm140064563763056">
@@ -25,28 +20,31 @@
 	  </note>
       </notesStmt>
       <sourceDesc xml:id="idm140064563732992">
-	<bibl xml:id="idm140064563732736">
-	  <author n="1" xml:id="idm140064563731920">
-	    <name xml:id="idm140064563731488">
-	      <surname xml:id="idm140064563731184">Helgesen</surname>, <forename xml:id="idm140064563730720">Poul</forename>
-	    </name>
-	  </author>
-	  <title xml:id="idm140064563730048">Skrifter af Paulus Helie 2. Bind  / ved Marius
+        <bibl xml:id="idm140064563732736">
+          <author n="1" xml:id="idm140064563731920">
+            <name xml:id="idm140064563731488"><surname xml:id="idm140064563731184">Helgesen</surname>, <forename xml:id="idm140064563730720">Poul</forename></name>
+          </author>
+          <title xml:id="idm140064563730048">Skrifter af Paulus Helie 2. Bind  / ved Marius
 	  Kristensen. - 1932</title>
-	  <title xml:id="idm140064563729584">Udgivet af Det danske Sprog- og Litteraturselskab</title>
-	  <pubPlace xml:id="idm140064563729136">Kbh.</pubPlace>
-	  <date xml:id="idm140064563728672">1932-1948</date>
-	</bibl>
-      <listBibl xml:id="idm140064563728080"><bibl xml:id="biblid54374"><title xml:id="idm140064563714928">Svar til Hans Mickelsen. (1527)</title></bibl><bibl xml:id="biblid58341"><title xml:id="idm140064563714080">Svar til Kong Gøstaff (1528)</title></bibl></listBibl></sourceDesc>
+          <title xml:id="idm140064563729584">Udgivet af Det Danske Sprog- og Litteraturselskab</title>
+          <pubPlace xml:id="idm140064563729136">København</pubPlace>
+          <date xml:id="idm140064563728672">1932-1948</date>
+        </bibl>
+        <listBibl xml:id="idm140064563728080">
+          <bibl xml:id="biblid54374">
+            <title xml:id="idm140064563714928">Svar til Hans Mickelsen. (1527)</title>
+          </bibl>
+          <bibl xml:id="biblid58341">
+            <title xml:id="idm140064563714080">Svar til Kong Gøstaff (1528)</title>
+          </bibl>
+        </listBibl>
+      </sourceDesc>
     </fileDesc>
   </teiHeader>
   <text xml:id="idm140064563713360">
     <front xml:id="idm140064563713104">
       <pb n="I" xml:id="sI" facs="adl/helgesen/helgesen2/helg2fm001"/>
       <gap reason="cancelled" xml:id="idm140064563711632"/>
-<!---->
-<!---->
-<!--SKRIFTER AF PAULUS HELIE BIND II-->
       <pb n="II" xml:id="sII" facs="adl/helgesen/helgesen2/helg2fm002"/>
       <pb n="III" xml:id="sIII" facs="adl/helgesen/helgesen2/helg2fm003"/>
       <titlePage xml:id="idm140064563707840">

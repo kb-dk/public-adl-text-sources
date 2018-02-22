@@ -1,10 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!--Tom opmærkning blo 28.05.02-->
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="idm140575910632576"><!-- 
-       file     ./marc_dir/002314460.xml
-       field     
-       subfield  
-       prefix   -->
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="root">
   <teiHeader xml:id="idm140575910631648">
     <fileDesc xml:id="idm140575910631392">
       <titleStmt xml:id="idm140575910665728">
@@ -19,8 +14,22 @@
         <note xml:id="idm140575910603184">
 	  </note>
       </notesStmt>
-      <sourceDesc xml:id="idm140575910602672"><bibl xml:id="idm140575910602544"><author><name><surname>Bergsøe</surname>,
-	<forename>Vilhelm</forename></name></author><title xml:id="idm140575910600752">Poetiske Skrifter, 1-7 - bind I</title><pubPlace xml:id="idm140575910600464">Kbh.</pubPlace><date xml:id="idm140575910599952">1905-</date></bibl><listBibl xml:id="idm140575910599664"><bibl xml:id="biblid54252"><title xml:id="idm140575910586512">Fra Piazza Del Popolo</title></bibl></listBibl></sourceDesc>
+      <sourceDesc xml:id="idm140575910602672">
+        <bibl xml:id="idm140575910602544">
+          <author xml:id="ida4b4e808-e2b0-482e-bd79-060fc259cfe4">
+            <name xml:id="id5c40efc4-3680-4089-b18a-f1fa95a60ad4"><surname xml:id="id4a2a3ccc-0c87-4fda-965a-6d46bf5294a5">Bergsøe</surname>,
+	<forename xml:id="id24a7c65a-3222-4310-affa-bdaac44b82d2">Vilhelm</forename></name>
+          </author>
+          <title xml:id="idm140575910600752">Poetiske Skrifter, 1-7 - bind I</title>
+          <pubPlace xml:id="idm140575910600464">København</pubPlace>
+          <date xml:id="idm140575910599952">1905-</date>
+        </bibl>
+        <listBibl xml:id="idm140575910599664">
+          <bibl xml:id="biblid54252">
+            <title xml:id="idm140575910586512">Fra Piazza Del Popolo</title>
+          </bibl>
+        </listBibl>
+      </sourceDesc>
     </fileDesc>
   </teiHeader>
   <text xml:id="idm140575910585872">

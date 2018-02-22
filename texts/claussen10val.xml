@@ -1,14 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!-- OCR by ATAPY 06.12.02 (Catherine Bychkova) -->
-<!-- HHL 20030317 checket sidetal mv
-        Pagebreaks rettet i  forhold til vaerktitler
-        visse vaerktitler udkommenteret
-        -->
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="idm139718459667696"><!-- 
-       file     ./marc_dir/001383642.xml
-       field    248 
-       subfield g 
-       prefix   Bd. 8 | a-->
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="root">
   <teiHeader xml:id="idm139718459636000">
     <fileDesc xml:id="idm139718459635744">
       <titleStmt xml:id="idm139718459635488">
@@ -18,24 +9,57 @@
         <editor role="editor" xml:id="idm139718459608032">Knud Bjarne Gjesing</editor>
       </titleStmt>
       <publicationStmt xml:id="idm139718459607248">
-        <publisher xml:id="idm139718459606992">Det danske Sprog- og Litteraturselskab</publisher>
+        <publisher xml:id="idm139718459606992">Det Danske Sprog- og Litteraturselskab</publisher>
         <idno xml:id="idm139718459606560" xml:base="texts/claussen10val.xml">001383642:10</idno>
       </publicationStmt>
       <notesStmt xml:id="idm139718459605600">
         <note xml:id="idm139718459605344">
 	  </note>
       </notesStmt>
-      <sourceDesc xml:id="idm139718459604832"><bibl xml:id="idm139718459604704"><author n="1" xml:id="idm139718459604528"><name xml:id="idm139718459604272"><surname xml:id="idm139718459604144">Claussen</surname>, <forename xml:id="idm139718459603680">Sophus</forename></name></author><title xml:id="idm139718459603392">Sophus Claussens lyrik</title><title xml:id="idm139718459603104">Bd. 8: Lyrikoversættelser</title><pubPlace xml:id="idm139718459602784">[Kbh.]</pubPlace>
-<publisher xml:id="idm139718459602320">Det Danske Sprog- og Litteraturselskab ; Gyldendal</publisher><date xml:id="idm139718459601952">1982-</date></bibl><listBibl xml:id="idm139718459601664"><bibl xml:id="biblid54844"><title xml:id="idm139718459588512">HEINRICH HEINE: ATTA TROLL. EN SOMMERNATSDRØM</title></bibl><bibl xml:id="biblid69735"><title xml:id="idm139718459587600">PERCY BYSSHE SHELLEY THE SENSITIVE PLANT DEN FØLENDE BLOMST</title></bibl><bibl xml:id="biblid76690"><title xml:id="idm139718459586704">LORD BYRON: ITALIEN. Af Beppo</title></bibl><bibl xml:id="biblid76955"><title xml:id="idm139718459585904">CHARLES BAUDELAIRE: BLODFONTÆNEN</title></bibl><bibl xml:id="biblid77047"><title xml:id="idm139718459585024">CHARLES BAUDELAIRE: ALTANEN</title></bibl><bibl xml:id="biblid77220"><title xml:id="idm139718459584224">CHARLES BAUDELAIRE: BØN</title></bibl><bibl xml:id="biblid77270"><title xml:id="idm139718459583408">GIOSUÉ CARDUCCI: ITALIENS SEJRE</title></bibl><bibl xml:id="biblid77339"><title xml:id="idm139718459582576">SEKS DIGTE AF ALFRED DE MUSSET TIL GEORGE SAND</title></bibl></listBibl></sourceDesc>
+      <sourceDesc xml:id="idm139718459604832">
+        <bibl xml:id="idm139718459604704">
+          <author n="1" xml:id="idm139718459604528">
+            <name xml:id="idm139718459604272"><surname xml:id="idm139718459604144">Claussen</surname>, <forename xml:id="idm139718459603680">Sophus</forename></name>
+          </author>
+          <title xml:id="idm139718459603392">Sophus Claussens lyrik</title>
+          <title xml:id="idm139718459603104">Bd. 8: Lyrikoversættelser</title>
+          <pubPlace xml:id="idm139718459602784">[København]</pubPlace>
+          <publisher xml:id="idm139718459602320">Det Danske Sprog- og Litteraturselskab ; Gyldendal</publisher>
+          <date xml:id="idm139718459601952">1982-</date>
+        </bibl>
+        <listBibl xml:id="idm139718459601664">
+          <bibl xml:id="biblid54844">
+            <title xml:id="idm139718459588512">HEINRICH HEINE: ATTA TROLL. EN SOMMERNATSDRØM</title>
+          </bibl>
+          <bibl xml:id="biblid69735">
+            <title xml:id="idm139718459587600">PERCY BYSSHE SHELLEY THE SENSITIVE PLANT DEN FØLENDE BLOMST</title>
+          </bibl>
+          <bibl xml:id="biblid76690">
+            <title xml:id="idm139718459586704">LORD BYRON: ITALIEN. Af Beppo</title>
+          </bibl>
+          <bibl xml:id="biblid76955">
+            <title xml:id="idm139718459585904">CHARLES BAUDELAIRE: BLODFONTÆNEN</title>
+          </bibl>
+          <bibl xml:id="biblid77047">
+            <title xml:id="idm139718459585024">CHARLES BAUDELAIRE: ALTANEN</title>
+          </bibl>
+          <bibl xml:id="biblid77220">
+            <title xml:id="idm139718459584224">CHARLES BAUDELAIRE: BØN</title>
+          </bibl>
+          <bibl xml:id="biblid77270">
+            <title xml:id="idm139718459583408">GIOSUÉ CARDUCCI: ITALIENS SEJRE</title>
+          </bibl>
+          <bibl xml:id="biblid77339">
+            <title xml:id="idm139718459582576">SEKS DIGTE AF ALFRED DE MUSSET TIL GEORGE SAND</title>
+          </bibl>
+        </listBibl>
+      </sourceDesc>
     </fileDesc>
   </teiHeader>
   <text xml:id="idm139718459581824">
     <front xml:id="idm139718459581568">
       <pb n="1" xml:id="s1" facs="adl/claussen/claussen10/claussen10001"/>
       <gap reason="cancelled" xml:id="idm139718459580144"/>
-<!---->
-<!---->
-<!--Sophus Claussens Lyrik VIII-->
       <pb n="2" xml:id="s2" facs="adl/claussen/claussen10/claussen10002"/>
       <titlePage xml:id="idm139718459577488">
         <docAuthor xml:id="idm139718459577232">
@@ -75,7 +99,7 @@
         </docEdition>
         <docImprint xml:id="idm139718459543744">
           <publisher xml:id="idm139718459543488">
-            <hi rend="italics" xml:id="idm139718459543232">Det danske Sprog- og Litteraturselskab</hi>
+            <hi rend="italics" xml:id="idm139718459543232">Det Danske Sprog- og Litteraturselskab</hi>
           </publisher>
         </docImprint>
       </titlePage>
@@ -6384,7 +6408,7 @@ Indholdet optaget i bind IX.<lb xml:id="idm139718456457248"/><hi rend="italics" 
           <head xml:id="idm139718456453808">
             <hi rend="italics" xml:id="idm139718456453552">II: Bøger om Sophus Claussen</hi>
           </head>
-          <p xml:id="idm139718456452688"><hi rend="italics" xml:id="idm139718456452560">SC-Ms Sophus Claussen-Manuskripter</hi>. Udgivet for Det danske Sprog- og Litteraturselskab af Ernst Frandsen (1941).<lb xml:id="idm139718456451760"/><hi rend="italics" xml:id="idm139718456451632">EF</hi> Ernst Frandsen: <hi rend="italics" xml:id="idm139718456450896">Sophus Claussen</hi> I-II (1950).<lb xml:id="idm139718456450176"/><hi rend="italics" xml:id="idm139718456450048">HA</hi> Harry Andersen: <hi rend="italics" xml:id="idm139718456449312">Studier i Sophus Claussens lyrik</hi>, i
+          <p xml:id="idm139718456452688"><hi rend="italics" xml:id="idm139718456452560">SC-Ms Sophus Claussen-Manuskripter</hi>. Udgivet for Det Danske Sprog- og Litteraturselskab af Ernst Frandsen (1941).<lb xml:id="idm139718456451760"/><hi rend="italics" xml:id="idm139718456451632">EF</hi> Ernst Frandsen: <hi rend="italics" xml:id="idm139718456450896">Sophus Claussen</hi> I-II (1950).<lb xml:id="idm139718456450176"/><hi rend="italics" xml:id="idm139718456450048">HA</hi> Harry Andersen: <hi rend="italics" xml:id="idm139718456449312">Studier i Sophus Claussens lyrik</hi>, i
 	<pb n="193" xml:id="s193" facs="adl/claussen/claussen10/claussen10193"/>
 Københavns Universitets Festskrift November 1967 (1967).<lb xml:id="idm139718456447312"/><hi rend="italics" xml:id="idm139718456447184">GM</hi> Gunnar Modvig: <hi rend="italics" xml:id="idm139718456446448">Eros, kunst og socialitet. En analyse af de erotiske hovedmotivers udvikling i Sophus Claussens forfatterskab</hi> (1974).<lb xml:id="idm139718456445632"/><hi rend="italics" xml:id="idm139718456445504">EAN</hi> Erik A. Nielsen: <hi rend="italics" xml:id="idm139718456444768">Ideologihistorie III. Modernismen i dansk lyrik 1870-1970</hi> (1976).<lb xml:id="idm139718456444000"/><hi rend="italics" xml:id="idm139718456443872">BHJ</hi> Bo Hakon Jørgensen: <hi rend="italics" xml:id="idm139718456443104">Maskinen, det heroiske og det gotiske</hi> - <hi rend="italics" xml:id="idm139718456442400">om Johs. V. Jensen, Sophus Claussen og århundredskiftet</hi> (1977).<lb xml:id="idm139718456441584"/><hi rend="italics" xml:id="idm139718456441456">FL</hi> Frans Lasson: <hi rend="italics" xml:id="idm139718456440720">Fra Ekbátana til Klareboderne. En brev bog om Sophus Claussen og hans forlæggere</hi>. Gylden dals Julebog 1981 (1981).<lb xml:id="idm139718456439840"/><hi rend="italics" xml:id="idm139718456439712">E &amp; H</hi> Tom Engelbrecht og René Herring: <hi rend="italics" xml:id="idm139718456438944">Sophus Claussen. En bibliografi 1882</hi>-<hi rend="italics" xml:id="idm139718456438240">1981</hi> (1982). Et efterfølgende tal henviser til indførselsnr. Værket medtager anmeldelser af selvstændige værker af SC.</p>
         </div>

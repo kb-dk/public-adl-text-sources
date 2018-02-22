@@ -1,13 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!--  OCR by ATAPY 4.10.2001 (Catherine Bychkova) -->
-<!-- 22.10.02 VL: corrected all imgfile numbers ; moved pb to above vaerktitle ; 
-VL: 20090420 rettelse på s. 223, 224 
--->
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="idm139703124323440"><!-- 
-       file     ./marc_dir/001823907.xml
-       field     
-       subfield  
-       prefix   -->
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="root">
   <teiHeader xml:id="idm139703124322512">
     <fileDesc xml:id="idm139703124322256">
       <titleStmt xml:id="idm139703124321952">
@@ -22,17 +14,237 @@ VL: 20090420 rettelse på s. 223, 224
         <note xml:id="idm139703124293616">
 	  </note>
       </notesStmt>
-      <sourceDesc xml:id="idm139703124293104"><bibl xml:id="idm139703124292976"><author n="1" xml:id="idm139703124292288"><name xml:id="idm139703124292032"><surname xml:id="idm139703124291904">Drachmann</surname>, <forename xml:id="idm139703124291472">Holger</forename></name></author><title xml:id="idm139703124291184">Samlede poetiske Skrifter</title><pubPlace xml:id="idm139703124290880">Kbh. &amp; Kristiania</pubPlace>
-<date xml:id="idm139703124290256">1906-1909</date></bibl><listBibl xml:id="idm139703124290000"><bibl xml:id="biblid54203"><title xml:id="idm139703124276848">MED KUL OG KRIDT SKITSER (FORAAR 1872)</title></bibl><bibl xml:id="biblid59904"><title xml:id="idm139703124276048">DIGTE</title></bibl><bibl xml:id="biblid59955"><title xml:id="idm139703124275264">NYT LIV</title></bibl><bibl xml:id="biblid60210"><title xml:id="idm139703124274480">EN FORPOST</title></bibl><bibl xml:id="biblid60581"><title xml:id="idm139703124273696">PAA FJELDET</title></bibl><bibl xml:id="biblid60643"><title xml:id="idm139703124272912">HAMMERSHUS</title></bibl><bibl xml:id="biblid60846"><title xml:id="idm139703124272128">POULS VISE (Af en utrykt Fortælling)</title></bibl><bibl xml:id="biblid60985"><title xml:id="idm139703124271280">FORAARSSTEMNING</title></bibl><bibl xml:id="biblid61378"><title xml:id="idm139703124270496">I DE LYSE NÆTTER</title></bibl><bibl xml:id="biblid61502"><title xml:id="idm139703124269648">HAVET</title></bibl><bibl xml:id="biblid61962"><title xml:id="idm139703124268752">DU KLANG, SOM EN GANG VAKT</title></bibl><bibl xml:id="biblid62041"><title xml:id="idm139703124267952">MENUETTO</title></bibl><bibl xml:id="biblid62179"><title xml:id="idm139703124267120">ENGELSKE SOCIALISTER</title></bibl><bibl xml:id="biblid62574"><title xml:id="idm139703124266288">ØSTERLANDSK (Kysten ved Tanger)</title></bibl><bibl xml:id="biblid62674"><title xml:id="idm139703124265440">MUNKE</title></bibl><bibl xml:id="biblid62836"><title xml:id="idm139703124264608">NATTEN PAA DÆKKET (Af en utrykt Fortælling)</title></bibl><bibl xml:id="biblid62953"><title xml:id="idm139703124263696">DRIKKEVISE</title></bibl><bibl xml:id="biblid63098"><title xml:id="idm139703124262912">DEN 28DE NOVEMBER 1871</title></bibl><bibl xml:id="biblid63364"><title xml:id="idm139703124262128">NOVEMBERSTEMNING (1870)</title></bibl><bibl xml:id="biblid63484"><title xml:id="idm139703124352960">UDE OG HJEMME</title></bibl><bibl xml:id="biblid63736"><title xml:id="idm139703124352240">KOM MUNTRE GUTTER</title></bibl><bibl xml:id="biblid63911"><title xml:id="idm139703124351456">JAGET</title></bibl><bibl xml:id="biblid64363"><title xml:id="idm139703124350672">KING MOB</title></bibl><bibl xml:id="biblid64575"><title xml:id="idm139703124349888">SKIPPEREN SYNGER</title></bibl><bibl xml:id="biblid64780"><title xml:id="idm139703124349104">EFTERAAR</title></bibl><bibl xml:id="biblid65055"><title xml:id="idm139703124236112">DET SICILIANSKE ÆSEL</title></bibl><bibl xml:id="biblid65257"><title xml:id="idm139703124235296">SANG</title></bibl><bibl xml:id="biblid65364"><title xml:id="idm139703124234448">LANDSKNÆGTENS VISE</title></bibl><bibl xml:id="biblid65625"><title xml:id="idm139703124233696">ITALIENSK (Catania)</title></bibl><bibl xml:id="biblid65712"><title xml:id="idm139703124232912">HØJT VIOLINENS STEMME KLANG</title></bibl><bibl xml:id="biblid65878"><title xml:id="idm139703124232080">PYRAMIDEN</title></bibl><bibl xml:id="biblid66052"><title xml:id="idm139703124231296">ET STJERNESKUD</title></bibl><bibl xml:id="biblid66197"><title xml:id="idm139703124230512">EN NUTIDSVISION</title></bibl><bibl xml:id="biblid67354"><title xml:id="idm139703124229728">PARKET OG GALLERI</title></bibl><bibl xml:id="biblid67976"><title xml:id="idm139703124228944">KÆLDERMANDEN SYNGER</title></bibl><bibl xml:id="biblid68160"><title xml:id="idm139703124228128">DA BYGEN KOM OP</title></bibl><bibl xml:id="biblid68291"><title xml:id="idm139703124227344">UNDER GRANSKOVEN (Til min Hustru)</title></bibl><bibl xml:id="biblid68469"><title xml:id="idm139703124226592">NAVNLØS</title></bibl><bibl xml:id="biblid68545"><title xml:id="idm139703124225808">JEG SYNGER MINE SANGE</title></bibl><bibl xml:id="biblid68663"><title xml:id="idm139703124225024">I STORM OG STILLE EFTER AAR 1874</title></bibl><bibl xml:id="biblid79481"><title xml:id="idm139703124224272">DÆMPEDE MELODIER (EFTERAAR 1875)</title></bibl><bibl xml:id="biblid79513"><title xml:id="idm139703124223376">TIL MESTEREN</title></bibl><bibl xml:id="biblid79805"><title xml:id="idm139703124222592">I MELLEMAKTEN</title></bibl><bibl xml:id="biblid79995"><title xml:id="idm139703124221744">HVAD DER HÆNDTES PAA STRØMMEN</title></bibl><bibl xml:id="biblid80324"><title xml:id="idm139703124220912">VAARSANG</title></bibl><bibl xml:id="biblid80521"><title xml:id="idm139703124220128">I BRESCHEN</title></bibl><bibl xml:id="biblid80766"><title xml:id="idm139703124219280">SNEDKERSVENDENS VISER</title></bibl><bibl xml:id="biblid81442"><title xml:id="idm139703124218496">FRA VERDENS-KUNSTUDSTILLINGEN</title></bibl><bibl xml:id="biblid82362"><title xml:id="idm139703124217744">IMPROVISATION OM BORD</title></bibl><bibl xml:id="biblid82469"><title xml:id="idm139703124216896">WILHELM MARSTRAND Død den 30te Marts 1873</title></bibl><bibl xml:id="biblid82830"><title xml:id="idm139703124215984">AD LIBITUM</title></bibl><bibl xml:id="biblid83016"><title xml:id="idm139703124215136">SKIBSROTTER</title></bibl><bibl xml:id="biblid83255"><title xml:id="idm139703124214352">SONET</title></bibl><bibl xml:id="biblid83338"><title xml:id="idm139703124213568">FRA KLITTEN En Hverdagshistorie</title></bibl><bibl xml:id="biblid85540"><title xml:id="idm139703124212752">FISKEREN SYNGER</title></bibl><bibl xml:id="biblid85850"><title xml:id="idm139703124211968">EN STRANDVASKER</title></bibl><bibl xml:id="biblid86066"><title xml:id="idm139703124211184">I KJØGEBUGT</title></bibl><bibl xml:id="biblid86880"><title xml:id="idm139703124210432">FREGATTEN FREJA</title></bibl><bibl xml:id="biblid87108"><title xml:id="idm139703124209648">LANDNAMSFART</title></bibl><bibl xml:id="biblid87494"><title xml:id="idm139703124208864">LUTHER I WITTENBERG</title></bibl><bibl xml:id="biblid87772"><title xml:id="idm139703124204016">HJEMKOMSTEN</title></bibl><bibl xml:id="biblid88106"><title xml:id="idm139703124203264">VAABENSMEDEN</title></bibl><bibl xml:id="biblid88326"><title xml:id="idm139703124202480">OKTOBERDRØMME</title></bibl><bibl xml:id="biblid88549"><title xml:id="idm139703124201680">ET AFTENBILLEDE</title></bibl><bibl xml:id="biblid90088"><title xml:id="idm139703124200896">MISERICORDIA</title></bibl><bibl xml:id="biblid90272"><title xml:id="idm139703124200048">DEN SIDSTE SORTE-FODS KLAGESANG</title></bibl><bibl xml:id="biblid91699"><title xml:id="idm139703124199248">FORBI! Efter Gieyres Maleri i Luxembourg Les illusions perdues</title></bibl><bibl xml:id="biblid91948"><title xml:id="idm139703124198416">KRIGSBILLEDER</title></bibl><bibl xml:id="biblid94151"><title xml:id="idm139703124197632">LÆGEN PAA VALPLADSEN</title></bibl><bibl xml:id="biblid94959"><title xml:id="idm139703124196816">DA TAAGEN SÆNKED SIG</title></bibl><bibl xml:id="biblid95040"><title xml:id="idm139703124195936">MED HØJ HORISONT</title></bibl></listBibl></sourceDesc>
+      <sourceDesc xml:id="idm139703124293104">
+        <bibl xml:id="idm139703124292976">
+          <author n="1" xml:id="idm139703124292288">
+            <name xml:id="idm139703124292032"><surname xml:id="idm139703124291904">Drachmann</surname>, <forename xml:id="idm139703124291472">Holger</forename></name>
+          </author>
+          <title xml:id="idm139703124291184">Samlede poetiske Skrifter</title>
+          <pubPlace xml:id="idm139703124290880">Kbh. &amp; Kristiania</pubPlace>
+          <date xml:id="idm139703124290256">1906-1909</date>
+        </bibl>
+        <listBibl xml:id="idm139703124290000">
+          <bibl xml:id="biblid54203">
+            <title xml:id="idm139703124276848">MED KUL OG KRIDT SKITSER (FORAAR 1872)</title>
+          </bibl>
+          <bibl xml:id="biblid59904">
+            <title xml:id="idm139703124276048">DIGTE</title>
+          </bibl>
+          <bibl xml:id="biblid59955">
+            <title xml:id="idm139703124275264">NYT LIV</title>
+          </bibl>
+          <bibl xml:id="biblid60210">
+            <title xml:id="idm139703124274480">EN FORPOST</title>
+          </bibl>
+          <bibl xml:id="biblid60581">
+            <title xml:id="idm139703124273696">PAA FJELDET</title>
+          </bibl>
+          <bibl xml:id="biblid60643">
+            <title xml:id="idm139703124272912">HAMMERSHUS</title>
+          </bibl>
+          <bibl xml:id="biblid60846">
+            <title xml:id="idm139703124272128">POULS VISE (Af en utrykt Fortælling)</title>
+          </bibl>
+          <bibl xml:id="biblid60985">
+            <title xml:id="idm139703124271280">FORAARSSTEMNING</title>
+          </bibl>
+          <bibl xml:id="biblid61378">
+            <title xml:id="idm139703124270496">I DE LYSE NÆTTER</title>
+          </bibl>
+          <bibl xml:id="biblid61502">
+            <title xml:id="idm139703124269648">HAVET</title>
+          </bibl>
+          <bibl xml:id="biblid61962">
+            <title xml:id="idm139703124268752">DU KLANG, SOM EN GANG VAKT</title>
+          </bibl>
+          <bibl xml:id="biblid62041">
+            <title xml:id="idm139703124267952">MENUETTO</title>
+          </bibl>
+          <bibl xml:id="biblid62179">
+            <title xml:id="idm139703124267120">ENGELSKE SOCIALISTER</title>
+          </bibl>
+          <bibl xml:id="biblid62574">
+            <title xml:id="idm139703124266288">ØSTERLANDSK (Kysten ved Tanger)</title>
+          </bibl>
+          <bibl xml:id="biblid62674">
+            <title xml:id="idm139703124265440">MUNKE</title>
+          </bibl>
+          <bibl xml:id="biblid62836">
+            <title xml:id="idm139703124264608">NATTEN PAA DÆKKET (Af en utrykt Fortælling)</title>
+          </bibl>
+          <bibl xml:id="biblid62953">
+            <title xml:id="idm139703124263696">DRIKKEVISE</title>
+          </bibl>
+          <bibl xml:id="biblid63098">
+            <title xml:id="idm139703124262912">DEN 28DE NOVEMBER 1871</title>
+          </bibl>
+          <bibl xml:id="biblid63364">
+            <title xml:id="idm139703124262128">NOVEMBERSTEMNING (1870)</title>
+          </bibl>
+          <bibl xml:id="biblid63484">
+            <title xml:id="idm139703124352960">UDE OG HJEMME</title>
+          </bibl>
+          <bibl xml:id="biblid63736">
+            <title xml:id="idm139703124352240">KOM MUNTRE GUTTER</title>
+          </bibl>
+          <bibl xml:id="biblid63911">
+            <title xml:id="idm139703124351456">JAGET</title>
+          </bibl>
+          <bibl xml:id="biblid64363">
+            <title xml:id="idm139703124350672">KING MOB</title>
+          </bibl>
+          <bibl xml:id="biblid64575">
+            <title xml:id="idm139703124349888">SKIPPEREN SYNGER</title>
+          </bibl>
+          <bibl xml:id="biblid64780">
+            <title xml:id="idm139703124349104">EFTERAAR</title>
+          </bibl>
+          <bibl xml:id="biblid65055">
+            <title xml:id="idm139703124236112">DET SICILIANSKE ÆSEL</title>
+          </bibl>
+          <bibl xml:id="biblid65257">
+            <title xml:id="idm139703124235296">SANG</title>
+          </bibl>
+          <bibl xml:id="biblid65364">
+            <title xml:id="idm139703124234448">LANDSKNÆGTENS VISE</title>
+          </bibl>
+          <bibl xml:id="biblid65625">
+            <title xml:id="idm139703124233696">ITALIENSK (Catania)</title>
+          </bibl>
+          <bibl xml:id="biblid65712">
+            <title xml:id="idm139703124232912">HØJT VIOLINENS STEMME KLANG</title>
+          </bibl>
+          <bibl xml:id="biblid65878">
+            <title xml:id="idm139703124232080">PYRAMIDEN</title>
+          </bibl>
+          <bibl xml:id="biblid66052">
+            <title xml:id="idm139703124231296">ET STJERNESKUD</title>
+          </bibl>
+          <bibl xml:id="biblid66197">
+            <title xml:id="idm139703124230512">EN NUTIDSVISION</title>
+          </bibl>
+          <bibl xml:id="biblid67354">
+            <title xml:id="idm139703124229728">PARKET OG GALLERI</title>
+          </bibl>
+          <bibl xml:id="biblid67976">
+            <title xml:id="idm139703124228944">KÆLDERMANDEN SYNGER</title>
+          </bibl>
+          <bibl xml:id="biblid68160">
+            <title xml:id="idm139703124228128">DA BYGEN KOM OP</title>
+          </bibl>
+          <bibl xml:id="biblid68291">
+            <title xml:id="idm139703124227344">UNDER GRANSKOVEN (Til min Hustru)</title>
+          </bibl>
+          <bibl xml:id="biblid68469">
+            <title xml:id="idm139703124226592">NAVNLØS</title>
+          </bibl>
+          <bibl xml:id="biblid68545">
+            <title xml:id="idm139703124225808">JEG SYNGER MINE SANGE</title>
+          </bibl>
+          <bibl xml:id="biblid68663">
+            <title xml:id="idm139703124225024">I STORM OG STILLE EFTER AAR 1874</title>
+          </bibl>
+          <bibl xml:id="biblid79481">
+            <title xml:id="idm139703124224272">DÆMPEDE MELODIER (EFTERAAR 1875)</title>
+          </bibl>
+          <bibl xml:id="biblid79513">
+            <title xml:id="idm139703124223376">TIL MESTEREN</title>
+          </bibl>
+          <bibl xml:id="biblid79805">
+            <title xml:id="idm139703124222592">I MELLEMAKTEN</title>
+          </bibl>
+          <bibl xml:id="biblid79995">
+            <title xml:id="idm139703124221744">HVAD DER HÆNDTES PAA STRØMMEN</title>
+          </bibl>
+          <bibl xml:id="biblid80324">
+            <title xml:id="idm139703124220912">VAARSANG</title>
+          </bibl>
+          <bibl xml:id="biblid80521">
+            <title xml:id="idm139703124220128">I BRESCHEN</title>
+          </bibl>
+          <bibl xml:id="biblid80766">
+            <title xml:id="idm139703124219280">SNEDKERSVENDENS VISER</title>
+          </bibl>
+          <bibl xml:id="biblid81442">
+            <title xml:id="idm139703124218496">FRA VERDENS-KUNSTUDSTILLINGEN</title>
+          </bibl>
+          <bibl xml:id="biblid82362">
+            <title xml:id="idm139703124217744">IMPROVISATION OM BORD</title>
+          </bibl>
+          <bibl xml:id="biblid82469">
+            <title xml:id="idm139703124216896">WILHELM MARSTRAND Død den 30te Marts 1873</title>
+          </bibl>
+          <bibl xml:id="biblid82830">
+            <title xml:id="idm139703124215984">AD LIBITUM</title>
+          </bibl>
+          <bibl xml:id="biblid83016">
+            <title xml:id="idm139703124215136">SKIBSROTTER</title>
+          </bibl>
+          <bibl xml:id="biblid83255">
+            <title xml:id="idm139703124214352">SONET</title>
+          </bibl>
+          <bibl xml:id="biblid83338">
+            <title xml:id="idm139703124213568">FRA KLITTEN En Hverdagshistorie</title>
+          </bibl>
+          <bibl xml:id="biblid85540">
+            <title xml:id="idm139703124212752">FISKEREN SYNGER</title>
+          </bibl>
+          <bibl xml:id="biblid85850">
+            <title xml:id="idm139703124211968">EN STRANDVASKER</title>
+          </bibl>
+          <bibl xml:id="biblid86066">
+            <title xml:id="idm139703124211184">I KJØGEBUGT</title>
+          </bibl>
+          <bibl xml:id="biblid86880">
+            <title xml:id="idm139703124210432">FREGATTEN FREJA</title>
+          </bibl>
+          <bibl xml:id="biblid87108">
+            <title xml:id="idm139703124209648">LANDNAMSFART</title>
+          </bibl>
+          <bibl xml:id="biblid87494">
+            <title xml:id="idm139703124208864">LUTHER I WITTENBERG</title>
+          </bibl>
+          <bibl xml:id="biblid87772">
+            <title xml:id="idm139703124204016">HJEMKOMSTEN</title>
+          </bibl>
+          <bibl xml:id="biblid88106">
+            <title xml:id="idm139703124203264">VAABENSMEDEN</title>
+          </bibl>
+          <bibl xml:id="biblid88326">
+            <title xml:id="idm139703124202480">OKTOBERDRØMME</title>
+          </bibl>
+          <bibl xml:id="biblid88549">
+            <title xml:id="idm139703124201680">ET AFTENBILLEDE</title>
+          </bibl>
+          <bibl xml:id="biblid90088">
+            <title xml:id="idm139703124200896">MISERICORDIA</title>
+          </bibl>
+          <bibl xml:id="biblid90272">
+            <title xml:id="idm139703124200048">DEN SIDSTE SORTE-FODS KLAGESANG</title>
+          </bibl>
+          <bibl xml:id="biblid91699">
+            <title xml:id="idm139703124199248">FORBI! Efter Gieyres Maleri i Luxembourg Les illusions perdues</title>
+          </bibl>
+          <bibl xml:id="biblid91948">
+            <title xml:id="idm139703124198416">KRIGSBILLEDER</title>
+          </bibl>
+          <bibl xml:id="biblid94151">
+            <title xml:id="idm139703124197632">LÆGEN PAA VALPLADSEN</title>
+          </bibl>
+          <bibl xml:id="biblid94959">
+            <title xml:id="idm139703124196816">DA TAAGEN SÆNKED SIG</title>
+          </bibl>
+          <bibl xml:id="biblid95040">
+            <title xml:id="idm139703124195936">MED HØJ HORISONT</title>
+          </bibl>
+        </listBibl>
+      </sourceDesc>
     </fileDesc>
   </teiHeader>
   <text xml:id="idm139703124195248">
     <front xml:id="idm139703124194992">
       <pb n="I" facs="adl/drachmann/drachmann01/drac01fm001" xml:id="idm139703124194736"/>
       <gap reason="cancelled" xml:id="idm139703124194000"/>
-<!---->
-<!---->
-<!--HOLGER DRACHMANN SAMLEDE POETISKE SKRIFTER FØRSTE BIND-->
       <pb n="II" facs="adl/drachmann/drachmann01/drac01fm002" xml:id="idm139703124192448"/>
       <pb n="III" facs="adl/drachmann/drachmann01/drac01fm003" xml:id="idm139703124191712"/>
       <titlePage xml:id="idm139703124190944">
@@ -3845,7 +4057,7 @@ Nelson ind. "Men her kan man da sparke et halvt Dusin ned, inden de faar Fodfæs
               <p xml:id="idm139703121965984">Vore Støvler turde vi ikke trække af, da vi med Rette var bange for, at vi ikke saa nemt vilde kunne faa dem paa igen. Benklæderne derimod hjalp vi hinanden broderligt med at hale af, og snart stod hele det forhenværende Baadsmandskab i et let og flagrende Kostume og mindede ved dens vridende Beskæftigelse i Aftenens sildige Time og tilmed udenfor en Kirkegaard, paa en vis Maade om det gamle franske Spøgelsesagn, der lader afdøde Kvinder staa op af Graven og vride og vadske det Linned, de i levende Live maaske har forsømt.</p>
               <p xml:id="idm139703121964976">Det var som sagt lysnet lidt i Vejret, og vi kunde skimte en nogenlunde bred Vej, der løb forbi neden under det Sted, hvor vi stod.</p>
               <p xml:id="idm139703121964304">"Det var dog egentlig rædsomt dumt af os, at vi ikke sørgede for at bjærge Sejl og Aarer fra Baaden, saa kunde vi nu have lavet os et Telt," sagde Niels Juul, idet han efter endt Vridning rystede sine Permissioner i Luften.</p>
-              <p xml:id="idm139703121963456">"Ja, Aarerne, dem burde vi have ta,get med os, men Sejlene duede ikke til noget," svarede Villemoes stadig vridende.</p>
+              <p xml:id="idm139703121963456">"Ja, Aarerne, dem burde vi have taget med os, men Sejlene duede ikke til noget," svarede Villemoes stadig vridende.</p>
               <p xml:id="idm139703121962944">"Gud véd, naar vi faar Baad igen!" udbrød Lord Nelson med et
 	<pb n="206" facs="adl/drachmann/drachmann01/drac01206" xml:id="idm139703121962544"/>
 højt Suk, der maaske var ligeligt delt mellem den tabte Baad og de klamme Beklædningsgenstande, som jeg netop i dette Øjeblik havde vristet ham af Benene.</p>
@@ -4345,7 +4557,7 @@ Intelligens, de stod, naturligvis i Bevidstheden om deres vigtige Kald, støt op
                 <p xml:id="idm139703121518416">Vi satte os ned og forlangte noget varmt til os selv og til Kusken. For saa vidt som der iøvrigt kunde være Tale om at se noget for Tobaksrøg, kunde jeg gerne sige, at vi saa' os omkring. Et lille, oprindelig vistnok hvidkalket Rum med Træbænke paa begge Sider af et rødmalet Bord. En Slags Hule, en dyb Alkove i den ene Side af Stuen, foran hvilken en Skænk med Blikmaal i Rad og store Stykker hvidgult Flæsk. Inde i Hulen en søvnig Lampe, hvis dorske Skær faldt hen over Rum med forskellige ubegribelige, men for de indfødte vistnok højst nødvendige Genstande, at dømme efter de hyppige Udvekslinger af Skillemønt imod Udlevering af "Genstandene", der fandt Sted henne ved Skænken. Ud af Røgen, og specielt henne fra Bænken, traadte store, skæggede, furede, vejrslagne Ansigter os i Møde. En Fortælling om Torsk eller om Vrag var enten lige til Ende eller afbrudt ved vor Indtrædelse. En Mængde Rømninger, Hm-Ja'er og Skotninger til hverandre udfyldte Pavsen, indtil endelig den dristigste tog Ordet og henvendte sig til min Ven Snedkeren som den øjensynlig medgørligste med det staaende Spørgsmaal paa denne Egn: Huorfræ og huorhen? Snedkeren saa' et Øjeblik paa den spørgende, og det gør mig ondt at maatte sige til min Rejsefælles Forklejnelse, at han aabenbart her følte sie hævet over Selskabet.</p>
                 <pb n="261" facs="adl/drachmann/drachmann01/drac01261" xml:id="idm139703121515856"/>
                 <p xml:id="idm139703121515088">"Vi kommer fra Grønland," sagde han, idet han blinkede til mig med en utrolig komisk Blanding af overlegen Selvfølelse og Skalkagtighed. "Denne Mand her er sendt af Kongen for at købe alle Skagboernes Fisk; og saa skal Fisken om Bord i en Damper op til Grønlænderne, der ikke har andet at æde end Sneboldte."</p>
-                <p xml:id="idm139703121514064">Denne Forklaring gjorde et mægtigt Indtryk paa Forsamlingen, og navnlig syntes den nære Udsigt til Fortjeneste for Skagboerne at virke foruroligende paa Aalebæksboernes Gemytter. En Stemme hævede sig straks for at tilbyde mig al den Fisk, baade Torsk og Flyndere, frisk og tørret, der fandtes paa Stedet, men da fik Forhandlingerne pludselig en brat Ende, idet en kæmpestor Fisker, der havde staaet lænet over Skænken i Færd med at underkaste Blikmaalene en nøjere Undersøgelse nu vendte sig med et blussende Ansigt og et usikkert, men ingenlunde venligt Blik mod Snedkeren o,g langede ud efter ham med et tordnende:</p>
+                <p xml:id="idm139703121514064">Denne Forklaring gjorde et mægtigt Indtryk paa Forsamlingen, og navnlig syntes den nære Udsigt til Fortjeneste for Skagboerne at virke foruroligende paa Aalebæksboernes Gemytter. En Stemme hævede sig straks for at tilbyde mig al den Fisk, baade Torsk og Flyndere, frisk og tørret, der fandtes paa Stedet, men da fik Forhandlingerne pludselig en brat Ende, idet en kæmpestor Fisker, der havde staaet lænet over Skænken i Færd med at underkaste Blikmaalene en nøjere Undersøgelse nu vendte sig med et blussende Ansigt og et usikkert, men ingenlunde venligt Blik mod Snedkeren og langede ud efter ham med et tordnende:</p>
                 <p xml:id="idm139703121513008">"De æ Løvn, ka' a sei ham, go' Kaa'l. For a ha' siel væt i æ Hvalfanger, aa a vee te de di ha' Fisk nok derop'."</p>
                 <p xml:id="idm139703121512368">Du véd, kære Ven, hvor sjældent og nødigt jeg bruger de Kræfter, som Moder Naturen har begavet mig med; men her forekom det mig nødvendigt at skride ind, førend denne lille Kaadhed fra min Kammerats Side udviklede sig til noget ubehageligt. Jeg rejste mig derfor ganske rolig op mod den berusede Fyr, lod min Haand falde ned paa Nakken af ham og tvang ham i Knæ. Og her holdt jeg ham, medens jeg hurtig forklarede Forsamlingen, at det jo kunde være ligegyldigt, hvor vi købte vor Fisk, og om vi kom fra Grønland eller ej. Jeg vilde bare bede dem, om de vilde drikke et Glas rundt med mig. Det vilde de naturligvis grumme gerne. Den forbløffede Fyr syntes at være kommen nogenlunde til sig selv igen under mit Tag. Da jeg atter slap ham, mumlede han kun nogle uforstaaelige Ord om sin "Hualfanger", og derpaa lod han sig godvillig føre udenfor af et Par velvillige Arme. Værten, der havde holdt sig fuldstændig udenfor det hele som en Mand, der er sig sin Stillings Værdighed bevidst, kom nu med en mægtig Geneverdunk, skænkede op og bød rundt. Snedkeren tog først et Glas, takkede mig med et lille Nik (jeg maa for Resten sige, at Snedkerens Haand var løftet, og at han var klar til at springe løs paa den store Fisker, da jeg forekom ham med mit Tag), og derpaa gik han rundt og klinkede med Forsamlingen. En af disse skæggede Fyre gjorde mig nogle højst naive Komplimenter for min Styrke og tilføjede derpaa om den lange Fisker, at man ikke maatte tage det saa nøje med ham, han var nu "saadden og saadden" siden i Sommers. Og da jeg vilde have at vide, hvad der da var hændt ham i Sommers, saa kom under mange Omstændigheder og Vendinger 
 	<pb n="262" facs="adl/drachmann/drachmann01/drac01262" xml:id="idm139703121510272"/>

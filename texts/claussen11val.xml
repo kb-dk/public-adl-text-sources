@@ -1,14 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!-- OCR by ATAPY 10.12.02 (Catherine Bychkova) -->
-<!-- HHL 20030313        checket iflg liste
-             vaerktitler skrevet ud for at checke dubletter   
-             i samme hug fjernet initierende romertal fra titler og visse undervaerktitler
-            Tilegnelse side 145 sammenfald med Tilegnelse i bd. 4 side 13, omdøbt til Tilegnelse [2]-->
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="idm140264665713648"><!-- 
-       file     ./marc_dir/001383642.xml
-       field    248 
-       subfield g 
-       prefix   Bd. 9 | a-->
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="root">
   <teiHeader xml:id="idm140264665712608">
     <fileDesc xml:id="idm140264665712352">
       <titleStmt xml:id="idm140264665686896">
@@ -18,24 +9,522 @@
         <editor role="editor" xml:id="idm140264665684688">Knud Bjarne Gjesing</editor>
       </titleStmt>
       <publicationStmt xml:id="idm140264665683872">
-        <publisher xml:id="idm140264665683616">Det danske Sprog- og Litteraturselskab</publisher>
+        <publisher xml:id="idm140264665683616">Det Danske Sprog- og Litteraturselskab</publisher>
         <idno xml:id="idm140264665683184" xml:base="texts/claussen11val.xml">001383642:11</idno>
       </publicationStmt>
       <notesStmt xml:id="idm140264665682224">
         <note xml:id="idm140264665681968">
 	  </note>
       </notesStmt>
-      <sourceDesc xml:id="idm140264665681456"><bibl xml:id="idm140264665681328"><author n="1" xml:id="idm140264665681152"><name xml:id="idm140264665680896"><surname xml:id="idm140264665680768">Claussen</surname>, <forename xml:id="idm140264665680304">Sophus</forename></name></author><title xml:id="idm140264665680016">Sophus Claussens lyrik</title><title xml:id="idm140264665679728">: </title><pubPlace xml:id="idm140264665679472">[Kbh.]</pubPlace>
-<publisher xml:id="idm140264665679008">Det Danske Sprog- og Litteraturselskab ; Gyldendal</publisher><date xml:id="idm140264665678640">1982-</date></bibl><listBibl xml:id="idm140264665678352"><bibl xml:id="biblid56422"><title xml:id="idm140264665665200">DET GAMLE SYSTEM</title></bibl><bibl xml:id="biblid56534"><title xml:id="idm140264665664416">DET UNGE DANMARK</title></bibl><bibl xml:id="biblid56718"><title xml:id="idm140264665663632">VED LØVFALD</title></bibl><bibl xml:id="biblid56863"><title xml:id="idm140264665662832">TIL INGEBORG OG VIGGO STUCKENBERG</title></bibl><bibl xml:id="biblid57091"><title xml:id="idm140264665662032">ET HERREGAARDSLIV</title></bibl><bibl xml:id="biblid57179"><title xml:id="idm140264665661248">JEG HAVDE DRØMT . . .</title></bibl><bibl xml:id="biblid57285"><title xml:id="idm140264665660384">EN LILLE VISE</title></bibl><bibl xml:id="biblid57361"><title xml:id="idm140264665659552">HØSTMORGNENS KLAMME TAAGESLØR . . .</title></bibl><bibl xml:id="biblid57550"><title xml:id="idm140264665658656">DEN TAVSE CÆSAR</title></bibl><bibl xml:id="biblid57883"><title xml:id="idm140264665657856">I MORGEN . . .</title></bibl><bibl xml:id="biblid57958"><title xml:id="idm140264665657024">TRÆT AF UGERS SYGELEJE . . .</title></bibl><bibl xml:id="biblid58115"><title xml:id="idm140264665656192">FINIS FINALIS</title></bibl><bibl xml:id="biblid58194"><title xml:id="idm140264665655360">VIDUNDERLIGE HAV . . .</title></bibl><bibl xml:id="biblid58282"><title xml:id="idm140264665654576">JEG ER OMBØLGET AF DIG ...</title></bibl><bibl xml:id="biblid58373"><title xml:id="idm140264665653696">RAAD TIL EN KVINDE FRA DET SYTTENDE AARHUNDREDE</title></bibl><bibl xml:id="biblid58475"><title xml:id="idm140264665652832">CLARAS DRØMME</title></bibl><bibl xml:id="biblid58580"><title xml:id="idm140264665651984">HUN GAAR I SNE ...</title></bibl><bibl xml:id="biblid58655"><title xml:id="idm140264665651152">HIMMELRUMMET ER SAA DYBT . . .</title></bibl><bibl xml:id="biblid58766"><title xml:id="idm140264665650352">AK EN SØD UTUGTIG LÆNGSEL . . .</title></bibl><bibl xml:id="biblid58879"><title xml:id="idm140264665649472">PARODIEN</title></bibl><bibl xml:id="biblid59023"><title xml:id="idm140264665648640">TIL DEN LÆRDE V. V.</title></bibl><bibl xml:id="biblid59199"><title xml:id="idm140264665647824">BØRNERIM</title></bibl><bibl xml:id="biblid59262"><title xml:id="idm140264665647040">FORDREVEN</title></bibl><bibl xml:id="biblid59382"><title xml:id="idm140264665646208">MANKE - - -</title></bibl><bibl xml:id="biblid59432"><title xml:id="idm140264665645376">DEN HVIDE HURI</title></bibl><bibl xml:id="biblid59520"><title xml:id="idm140264665644544">PEGEPIND</title></bibl><bibl xml:id="biblid59668"><title xml:id="idm140264665643712">DEN GAMLE MORSKAB - - -</title></bibl><bibl xml:id="biblid59744"><title xml:id="idm140264665642880">ER JEG BLEVEN ENSOM . . .</title></bibl><bibl xml:id="biblid59837"><title xml:id="idm140264665642032">KINESISK NOVELLE</title></bibl><bibl xml:id="biblid59929"><title xml:id="idm140264665641200">DIGTEREN SOVER . . .</title></bibl><bibl xml:id="biblid60008"><title xml:id="idm140264665640368">MONOLOG (i Tiden mellem 1910 og 1920)</title></bibl><bibl xml:id="biblid60133"><title xml:id="idm140264665639568">TIL HOLBERG-SAMFUNDET</title></bibl><bibl xml:id="biblid60183"><title xml:id="idm140264665638784">RHYTME</title></bibl><bibl xml:id="biblid60241"><title xml:id="idm140264665637952">AT TRO SIG AF FALSKE PROFETER. . .</title></bibl><bibl xml:id="biblid60401"><title xml:id="idm140264665637152">HENRIK PONTOPPIDAN. SILHOUET</title></bibl><bibl xml:id="biblid60449"><title xml:id="idm140264665636304">DEN KUNSTIGE MIKKEL</title></bibl><bibl xml:id="biblid60501"><title xml:id="idm140264665635472">LYS OVER LANDET</title></bibl><bibl xml:id="biblid60536"><title xml:id="idm140264665634640">HENDES BUGSKIND . . .</title></bibl><bibl xml:id="biblid60575"><title xml:id="idm140264665633808">I ET ATELIER</title></bibl><bibl xml:id="biblid60642"><title xml:id="idm140264665632912">TUSMØRKET . . .</title></bibl><bibl xml:id="biblid60653"><title xml:id="idm140264665632064">Tusmørket sniger sig ind i mit Rige</title></bibl><bibl xml:id="biblid60674"><title xml:id="idm140264665631104">Det er smukt, en rødgylden Alle</title></bibl><bibl xml:id="biblid60721"><title xml:id="idm140264665630208">I EN KLIT ...</title></bibl><bibl xml:id="biblid60853"><title xml:id="idm140264665629312">GEORG BRANDES</title></bibl><bibl xml:id="biblid61114"><title xml:id="idm140264665628480">KANTATE VED INDUSTRI-OG LANDBRUGS-UDSTILLINGEN I NAKSKOV I SEPTEMBER 1898</title></bibl><bibl xml:id="biblid61580"><title xml:id="idm140264665627584">TIL BJØRNSTJERNE BJØRNSON</title></bibl><bibl xml:id="biblid62016"><title xml:id="idm140264665626768">OG VEJE BLEV GRØNNE . . .</title></bibl><bibl xml:id="biblid62056"><title xml:id="idm140264665625904">DIGTERVISE</title></bibl><bibl xml:id="biblid62330"><title xml:id="idm140264665625072">FOLKETIDENDE</title></bibl><bibl xml:id="biblid62567"><title xml:id="idm140264665624240">NYTAAR</title></bibl><bibl xml:id="biblid62679"><title xml:id="idm140264665623408">GRUNDLOVSFEST</title></bibl><bibl xml:id="biblid62690"><title xml:id="idm140264665743296">For Danmarks Grundlov at fejre som bedst</title></bibl><bibl xml:id="biblid62791"><title xml:id="idm140264665742480">Saa samler man sammen sit Tøj og sig selv</title></bibl><bibl xml:id="biblid62816"><title xml:id="idm140264665741568">NOGLE NYTAARSRIM TIL HORSENS DEMOKRATI</title></bibl><bibl xml:id="biblid62828"><title xml:id="idm140264665740816">Fremad, fremad - hør Trommen gaar.</title></bibl><bibl xml:id="biblid62875"><title xml:id="idm140264665739920">Af dumme Spørgsmaal vi ej vil generes</title></bibl><bibl xml:id="biblid63014"><title xml:id="idm140264665597616">KUNST - POLITIK</title></bibl><bibl xml:id="biblid63542"><title xml:id="idm140264665596832">LITERÆR GENESIS</title></bibl><bibl xml:id="biblid63615"><title xml:id="idm140264665596080">NON IMPRIMATUR</title></bibl><bibl xml:id="biblid63738"><title xml:id="idm140264665591232">BERED DIG!</title></bibl><bibl xml:id="biblid63832"><title xml:id="idm140264665590608">MIN LILLE GUDS ENGEL</title></bibl><bibl xml:id="biblid63941"><title xml:id="idm140264665589920">DEN NY POESI (EN PROLOG)</title></bibl><bibl xml:id="biblid64076"><title xml:id="idm140264665589232">MELLEM ANEMONER</title></bibl><bibl xml:id="biblid64155"><title xml:id="idm140264665588480">DYVEKE</title></bibl><bibl xml:id="biblid64424"><title xml:id="idm140264665587792">KONG HERODES' RIGE</title></bibl><bibl xml:id="biblid64656"><title xml:id="idm140264665587104">HAN VANDRED I ØSTER OG VESTER . . .</title></bibl><bibl xml:id="biblid64730"><title xml:id="idm140264665586320">UDVIKLING</title></bibl><bibl xml:id="biblid64817"><title xml:id="idm140264665585632">DANSK OG TYSK</title></bibl><bibl xml:id="biblid65098"><title xml:id="idm140264665584880">GUSTAV WIED VED HANS DØD. 1914</title></bibl><bibl xml:id="biblid65140"><title xml:id="idm140264665584048">DET DANSKE LUNE TIL OLAF POULSEN</title></bibl><bibl xml:id="biblid65249"><title xml:id="idm140264665583296">PAAFUND!</title></bibl><bibl xml:id="biblid65381"><title xml:id="idm140264665582512">EN HILSEN TIL HELGE RODE</title></bibl><bibl xml:id="biblid65421"><title xml:id="idm140264665581760">DET LEVENDE LAND. TIL NILS COLLETT VOGT MED HILSEN TIL NORGE OG DE NORSKE DIGTERE</title></bibl><bibl xml:id="biblid65576"><title xml:id="idm140264665580848">FORAAR IGEN</title></bibl><bibl xml:id="biblid65679"><title xml:id="idm140264665580000">ALBERT GOTTSCHALK</title></bibl><bibl xml:id="biblid65802"><title xml:id="idm140264665579216">LOLLAND OG FALSTER</title></bibl><bibl xml:id="biblid66035"><title xml:id="idm140264665578368">KOM, MIN BLODVARME PIGELIL, . . .</title></bibl><bibl xml:id="biblid66114"><title xml:id="idm140264665577552">AANDSBRØDRE</title></bibl><bibl xml:id="biblid66125"><title xml:id="idm140264665576800">Der sad tre Digtere og en halv:</title></bibl><bibl xml:id="biblid66404"><title xml:id="idm140264665575984">Men ogsaa var der en Maler til Stede</title></bibl><bibl xml:id="biblid66695"><title xml:id="idm140264665575168">ENVOI DE PRINCE TIL CHR. X</title></bibl><bibl xml:id="biblid66784"><title xml:id="idm140264665574416">KONCERTEN/BRYLLUPPER OG FESTER</title></bibl><bibl xml:id="biblid66874"><title xml:id="idm140264665573616">PARISERINDE</title></bibl><bibl xml:id="biblid66963"><title xml:id="idm140264665572832">DIN UNGDOM VAR SOM NATTEN . . ./TIL JOHANNES JØRGENSEN</title></bibl><bibl xml:id="biblid67058"><title xml:id="idm140264665571888">NU KOMMER NATTEN . . ./NATTEN TIL HERMAN BANG</title></bibl><bibl xml:id="biblid67147"><title xml:id="idm140264665571072">TRONPRÆTENDENT/SONET TIL FABIUS!</title></bibl><bibl xml:id="biblid67249"><title xml:id="idm140264665570240">DEN UNGE PIGE I SOMMERREGNEN</title></bibl><bibl xml:id="biblid67413"><title xml:id="idm140264665569376">TOSCANAS ELEVER</title></bibl><bibl xml:id="biblid67707"><title xml:id="idm140264665568592">HR. SOL OG JOMFRU JORD</title></bibl><bibl xml:id="biblid67905"><title xml:id="idm140264665567808">SNE</title></bibl><bibl xml:id="biblid68117"><title xml:id="idm140264665566992">BARBARER</title></bibl><bibl xml:id="biblid68234"><title xml:id="idm140264665566160">VINTERGÆK</title></bibl><bibl xml:id="biblid68337"><title xml:id="idm140264665565312">JEG SAD MED DEN VILDE LILIAN</title></bibl><bibl xml:id="biblid68496"><title xml:id="idm140264665564400">SFINX</title></bibl><bibl xml:id="biblid68654"><title xml:id="idm140264665563616">FOR HANS KRAFT I OVERFLOD .../ TIL GEORG BRANDES</title></bibl><bibl xml:id="biblid68718"><title xml:id="idm140264665562736">DIGTE TRYKT I PROSAVÆRKERNE FORTEGNELSE OVER DIGTENES PROVENIENS</title></bibl><bibl xml:id="biblid69044"><title xml:id="idm140264665561840">TILEGNELSE [2]</title></bibl><bibl xml:id="biblid69236"><title xml:id="idm140264665561056">FORFARS-REGNTIDEN</title></bibl><bibl xml:id="biblid69358"><title xml:id="idm140264665560272">TIL ERIK KØLBY</title></bibl><bibl xml:id="biblid69445"><title xml:id="idm140264665559408">TIL KITTY</title></bibl><bibl xml:id="biblid69538"><title xml:id="idm140264665558624">INDBYDELSE TIL REJSE</title></bibl><bibl xml:id="biblid69768"><title xml:id="idm140264665557792">ROMANSK VERDEN</title></bibl><bibl xml:id="biblid69857"><title xml:id="idm140264665557008">RIMERIER UNDER VEJS</title></bibl><bibl xml:id="biblid70147"><title xml:id="idm140264665556224">BRYLLUPPER OG FESTER (NOPCES &amp; FESTINS)</title></bibl><bibl xml:id="biblid70236"><title xml:id="idm140264665555328">SIMPLICITAS TILEGNET EN NAIV OG NYSGÆRRIG VENINDE</title></bibl><bibl xml:id="biblid70335"><title xml:id="idm140264665554464">DEN SKØNNE PROPAGANDA TILEGNET DR. GEORG BRANDES</title></bibl><bibl xml:id="biblid70434"><title xml:id="idm140264665553600">PORTRÆT AF FORAARET</title></bibl><bibl xml:id="biblid70536"><title xml:id="idm140264665552784">HVIDE LØGNE</title></bibl><bibl xml:id="biblid70623"><title xml:id="idm140264665551936">ITALIEN</title></bibl><bibl xml:id="biblid70718"><title xml:id="idm140264665551152">SAA VANDRER VI OVER AARETS BRO . . .</title></bibl><bibl xml:id="biblid70776"><title xml:id="idm140264665550352">EKBÁTANA</title></bibl><bibl xml:id="biblid70977"><title xml:id="idm140264665549568">GUDINDEN KOM EN FORMIDDAG . . .</title></bibl><bibl xml:id="biblid71136"><title xml:id="idm140264665548768">JEG SKREV EN DAG EN PETITION . . .</title></bibl><bibl xml:id="biblid71243"><title xml:id="idm140264665547920">ANKOMST TIL SIENA</title></bibl><bibl xml:id="biblid71445"><title xml:id="idm140264665547072">MAALTIDER I SIENA</title></bibl><bibl xml:id="biblid71797"><title xml:id="idm140264665546288">PALMESØNDAG</title></bibl><bibl xml:id="biblid72055"><title xml:id="idm140264665545440">CENTO CERINI</title></bibl><bibl xml:id="biblid72260"><title xml:id="idm140264665544592">PROTESTANTISK VAAR</title></bibl><bibl xml:id="biblid72357"><title xml:id="idm140264665543744">UNGE UDØDELIGE</title></bibl><bibl xml:id="biblid72634"><title xml:id="idm140264665542944">EVANGELIUM</title></bibl><bibl xml:id="biblid72949"><title xml:id="idm140264665542160">UDFLUGT I DET SENESISKE LANDSKAB</title></bibl><bibl xml:id="biblid73552"><title xml:id="idm140264665541296">ET LØST UDKAST</title></bibl><bibl xml:id="biblid73905"><title xml:id="idm140264665540448">ENDNU SIENA</title></bibl><bibl xml:id="biblid74224"><title xml:id="idm140264665539600">TIZIANS ROSER</title></bibl><bibl xml:id="biblid74283"><title xml:id="idm140264665538816">ROM</title></bibl><bibl xml:id="biblid74999"><title xml:id="idm140264665538000">POMPEJI</title></bibl><bibl xml:id="biblid75258"><title xml:id="idm140264665537216">VALFARTEN TIL MONT'ALLEGRO</title></bibl><bibl xml:id="biblid75841"><title xml:id="idm140264665536352">DET TABTE PARADIS</title></bibl><bibl xml:id="biblid76044"><title xml:id="idm140264665535456">HJEMFART</title></bibl><bibl xml:id="biblid76155"><title xml:id="idm140264665534608">PROLOG</title></bibl><bibl xml:id="biblid76506"><title xml:id="idm140264665533760">DER VANDRER EN PIGE . . .</title></bibl><bibl xml:id="biblid76709"><title xml:id="idm140264665532896">BAUTA</title></bibl><bibl xml:id="biblid76874"><title xml:id="idm140264665532112">EFTERSPIL</title></bibl><bibl xml:id="biblid77043"><title xml:id="idm140264665531216">HØFFDINGS ELEVER</title></bibl><bibl xml:id="biblid77266"><title xml:id="idm140264665530416">TIL VIOLA</title></bibl><bibl xml:id="biblid77397"><title xml:id="idm140264665529568">Koral, Koral</title></bibl><bibl xml:id="biblid77461"><title xml:id="idm140264665528784">I min Ungdom Landets Frihed blev forvandlet til Ruin.</title></bibl><bibl xml:id="biblid77480"><title xml:id="idm140264665527968">Kæreste Ingeborg S., en Kvinde, som trænger til Ømhed</title></bibl><bibl xml:id="biblid77563"><title xml:id="idm140264665527024">Det huskes, naar Asken er kold og Lyset slukt</title></bibl><bibl xml:id="biblid77593"><title xml:id="idm140264665526144">Med Bram drog Troens Riddere til Fest.</title></bibl><bibl xml:id="biblid77614"><title xml:id="idm140264665525344">Al Hedenskab er død, hvem nægter det vel mer.</title></bibl><bibl xml:id="biblid77629"><title xml:id="idm140264665524480">Men jeg har levet, og jeg har troet</title></bibl><bibl xml:id="biblid77678"><title xml:id="idm140264665523680">Se, en Aftendæmrings Taage</title></bibl><bibl xml:id="biblid77752"><title xml:id="idm140264665522752">Jeg tror paa den Vilje, som rækker os Traaden</title></bibl><bibl xml:id="biblid77782"><title xml:id="idm140264665521824">Det hændte ved Aarhundredets Slutning ...... Brydning</title></bibl><bibl xml:id="biblid77838"><title xml:id="idm140264665520880">Jeg er træt af disse himmelvendte Øjne</title></bibl><bibl xml:id="biblid77940"><title xml:id="idm140264665520032">Nydelig den unge Pige</title></bibl><bibl xml:id="biblid77984"><title xml:id="idm140264665519248">For sidste Gang min Søsters Gæst</title></bibl><bibl xml:id="biblid78088"><title xml:id="idm140264665518416">Kom med Fryd og slaa dig ned</title></bibl><bibl xml:id="biblid78248"><title xml:id="idm140264665517504">I tror, at jeg lever som Ormen i Mørke og Muld</title></bibl><bibl xml:id="biblid78263"><title xml:id="idm140264665516528">Hvide Sne - Lys over Landet</title></bibl><bibl xml:id="biblid78296"><title xml:id="idm140264665515664">Naadegave, mer end anden Lykke</title></bibl><bibl xml:id="biblid78362"><title xml:id="idm140264665514752">Det hele, jeg har gjort</title></bibl><bibl xml:id="biblid78390"><title xml:id="idm140264665513968">Tag Billederne bort</title></bibl><bibl xml:id="biblid78411"><title xml:id="idm140264665513184">Jeg ønsked at optø bundfrosne Sø'r</title></bibl><bibl xml:id="biblid78452"><title xml:id="idm140264665512336">Jeg kan ikke male, Taabe er jeg</title></bibl><bibl xml:id="biblid78499"><title xml:id="idm140264665511472">Hvor drypper, siver, nynner Stadsgravens Strøm, og se:</title></bibl><bibl xml:id="biblid78530"><title xml:id="idm140264665510592">Nu løses Frosten af den milde Regn</title></bibl><bibl xml:id="biblid78553"><title xml:id="idm140264665509696">Jeg søger gærne Visdom</title></bibl><bibl xml:id="biblid78619"><title xml:id="idm140264665508816">En Drøm om Skønhed var alt mit Liv .. .</title></bibl><bibl xml:id="biblid78669"><title xml:id="idm140264665507904">Et Billed paa min Væg, en Engel i min Stue</title></bibl><bibl xml:id="biblid78711"><title xml:id="idm140264665506992">De stredes paa Skrænten og i Mosen</title></bibl><bibl xml:id="biblid78736"><title xml:id="idm140264665506096">Ane Kirstine af Aafjord</title></bibl></listBibl></sourceDesc>
+      <sourceDesc xml:id="idm140264665681456">
+        <bibl xml:id="idm140264665681328">
+          <author n="1" xml:id="idm140264665681152">
+            <name xml:id="idm140264665680896"><surname xml:id="idm140264665680768">Claussen</surname>, <forename xml:id="idm140264665680304">Sophus</forename></name>
+          </author>
+          <title xml:id="idm140264665680016">Sophus Claussens lyrik</title>
+          <title xml:id="idm140264665679728">: </title>
+          <pubPlace xml:id="idm140264665679472">[København]</pubPlace>
+          <publisher xml:id="idm140264665679008">Det Danske Sprog- og Litteraturselskab ; Gyldendal</publisher>
+          <date xml:id="idm140264665678640">1982-</date>
+        </bibl>
+        <listBibl xml:id="idm140264665678352">
+          <bibl xml:id="biblid56422">
+            <title xml:id="idm140264665665200">DET GAMLE SYSTEM</title>
+          </bibl>
+          <bibl xml:id="biblid56534">
+            <title xml:id="idm140264665664416">DET UNGE DANMARK</title>
+          </bibl>
+          <bibl xml:id="biblid56718">
+            <title xml:id="idm140264665663632">VED LØVFALD</title>
+          </bibl>
+          <bibl xml:id="biblid56863">
+            <title xml:id="idm140264665662832">TIL INGEBORG OG VIGGO STUCKENBERG</title>
+          </bibl>
+          <bibl xml:id="biblid57091">
+            <title xml:id="idm140264665662032">ET HERREGAARDSLIV</title>
+          </bibl>
+          <bibl xml:id="biblid57179">
+            <title xml:id="idm140264665661248">JEG HAVDE DRØMT . . .</title>
+          </bibl>
+          <bibl xml:id="biblid57285">
+            <title xml:id="idm140264665660384">EN LILLE VISE</title>
+          </bibl>
+          <bibl xml:id="biblid57361">
+            <title xml:id="idm140264665659552">HØSTMORGNENS KLAMME TAAGESLØR . . .</title>
+          </bibl>
+          <bibl xml:id="biblid57550">
+            <title xml:id="idm140264665658656">DEN TAVSE CÆSAR</title>
+          </bibl>
+          <bibl xml:id="biblid57883">
+            <title xml:id="idm140264665657856">I MORGEN . . .</title>
+          </bibl>
+          <bibl xml:id="biblid57958">
+            <title xml:id="idm140264665657024">TRÆT AF UGERS SYGELEJE . . .</title>
+          </bibl>
+          <bibl xml:id="biblid58115">
+            <title xml:id="idm140264665656192">FINIS FINALIS</title>
+          </bibl>
+          <bibl xml:id="biblid58194">
+            <title xml:id="idm140264665655360">VIDUNDERLIGE HAV . . .</title>
+          </bibl>
+          <bibl xml:id="biblid58282">
+            <title xml:id="idm140264665654576">JEG ER OMBØLGET AF DIG ...</title>
+          </bibl>
+          <bibl xml:id="biblid58373">
+            <title xml:id="idm140264665653696">RAAD TIL EN KVINDE FRA DET SYTTENDE AARHUNDREDE</title>
+          </bibl>
+          <bibl xml:id="biblid58475">
+            <title xml:id="idm140264665652832">CLARAS DRØMME</title>
+          </bibl>
+          <bibl xml:id="biblid58580">
+            <title xml:id="idm140264665651984">HUN GAAR I SNE ...</title>
+          </bibl>
+          <bibl xml:id="biblid58655">
+            <title xml:id="idm140264665651152">HIMMELRUMMET ER SAA DYBT . . .</title>
+          </bibl>
+          <bibl xml:id="biblid58766">
+            <title xml:id="idm140264665650352">AK EN SØD UTUGTIG LÆNGSEL . . .</title>
+          </bibl>
+          <bibl xml:id="biblid58879">
+            <title xml:id="idm140264665649472">PARODIEN</title>
+          </bibl>
+          <bibl xml:id="biblid59023">
+            <title xml:id="idm140264665648640">TIL DEN LÆRDE V. V.</title>
+          </bibl>
+          <bibl xml:id="biblid59199">
+            <title xml:id="idm140264665647824">BØRNERIM</title>
+          </bibl>
+          <bibl xml:id="biblid59262">
+            <title xml:id="idm140264665647040">FORDREVEN</title>
+          </bibl>
+          <bibl xml:id="biblid59382">
+            <title xml:id="idm140264665646208">MANKE - - -</title>
+          </bibl>
+          <bibl xml:id="biblid59432">
+            <title xml:id="idm140264665645376">DEN HVIDE HURI</title>
+          </bibl>
+          <bibl xml:id="biblid59520">
+            <title xml:id="idm140264665644544">PEGEPIND</title>
+          </bibl>
+          <bibl xml:id="biblid59668">
+            <title xml:id="idm140264665643712">DEN GAMLE MORSKAB - - -</title>
+          </bibl>
+          <bibl xml:id="biblid59744">
+            <title xml:id="idm140264665642880">ER JEG BLEVEN ENSOM . . .</title>
+          </bibl>
+          <bibl xml:id="biblid59837">
+            <title xml:id="idm140264665642032">KINESISK NOVELLE</title>
+          </bibl>
+          <bibl xml:id="biblid59929">
+            <title xml:id="idm140264665641200">DIGTEREN SOVER . . .</title>
+          </bibl>
+          <bibl xml:id="biblid60008">
+            <title xml:id="idm140264665640368">MONOLOG (i Tiden mellem 1910 og 1920)</title>
+          </bibl>
+          <bibl xml:id="biblid60133">
+            <title xml:id="idm140264665639568">TIL HOLBERG-SAMFUNDET</title>
+          </bibl>
+          <bibl xml:id="biblid60183">
+            <title xml:id="idm140264665638784">RHYTME</title>
+          </bibl>
+          <bibl xml:id="biblid60241">
+            <title xml:id="idm140264665637952">AT TRO SIG AF FALSKE PROFETER. . .</title>
+          </bibl>
+          <bibl xml:id="biblid60401">
+            <title xml:id="idm140264665637152">HENRIK PONTOPPIDAN. SILHOUET</title>
+          </bibl>
+          <bibl xml:id="biblid60449">
+            <title xml:id="idm140264665636304">DEN KUNSTIGE MIKKEL</title>
+          </bibl>
+          <bibl xml:id="biblid60501">
+            <title xml:id="idm140264665635472">LYS OVER LANDET</title>
+          </bibl>
+          <bibl xml:id="biblid60536">
+            <title xml:id="idm140264665634640">HENDES BUGSKIND . . .</title>
+          </bibl>
+          <bibl xml:id="biblid60575">
+            <title xml:id="idm140264665633808">I ET ATELIER</title>
+          </bibl>
+          <bibl xml:id="biblid60642">
+            <title xml:id="idm140264665632912">TUSMØRKET . . .</title>
+          </bibl>
+          <bibl xml:id="biblid60653">
+            <title xml:id="idm140264665632064">Tusmørket sniger sig ind i mit Rige</title>
+          </bibl>
+          <bibl xml:id="biblid60674">
+            <title xml:id="idm140264665631104">Det er smukt, en rødgylden Alle</title>
+          </bibl>
+          <bibl xml:id="biblid60721">
+            <title xml:id="idm140264665630208">I EN KLIT ...</title>
+          </bibl>
+          <bibl xml:id="biblid60853">
+            <title xml:id="idm140264665629312">GEORG BRANDES</title>
+          </bibl>
+          <bibl xml:id="biblid61114">
+            <title xml:id="idm140264665628480">KANTATE VED INDUSTRI-OG LANDBRUGS-UDSTILLINGEN I NAKSKOV I SEPTEMBER 1898</title>
+          </bibl>
+          <bibl xml:id="biblid61580">
+            <title xml:id="idm140264665627584">TIL BJØRNSTJERNE BJØRNSON</title>
+          </bibl>
+          <bibl xml:id="biblid62016">
+            <title xml:id="idm140264665626768">OG VEJE BLEV GRØNNE . . .</title>
+          </bibl>
+          <bibl xml:id="biblid62056">
+            <title xml:id="idm140264665625904">DIGTERVISE</title>
+          </bibl>
+          <bibl xml:id="biblid62330">
+            <title xml:id="idm140264665625072">FOLKETIDENDE</title>
+          </bibl>
+          <bibl xml:id="biblid62567">
+            <title xml:id="idm140264665624240">NYTAAR</title>
+          </bibl>
+          <bibl xml:id="biblid62679">
+            <title xml:id="idm140264665623408">GRUNDLOVSFEST</title>
+          </bibl>
+          <bibl xml:id="biblid62690">
+            <title xml:id="idm140264665743296">For Danmarks Grundlov at fejre som bedst</title>
+          </bibl>
+          <bibl xml:id="biblid62791">
+            <title xml:id="idm140264665742480">Saa samler man sammen sit Tøj og sig selv</title>
+          </bibl>
+          <bibl xml:id="biblid62816">
+            <title xml:id="idm140264665741568">NOGLE NYTAARSRIM TIL HORSENS DEMOKRATI</title>
+          </bibl>
+          <bibl xml:id="biblid62828">
+            <title xml:id="idm140264665740816">Fremad, fremad - hør Trommen gaar.</title>
+          </bibl>
+          <bibl xml:id="biblid62875">
+            <title xml:id="idm140264665739920">Af dumme Spørgsmaal vi ej vil generes</title>
+          </bibl>
+          <bibl xml:id="biblid63014">
+            <title xml:id="idm140264665597616">KUNST - POLITIK</title>
+          </bibl>
+          <bibl xml:id="biblid63542">
+            <title xml:id="idm140264665596832">LITERÆR GENESIS</title>
+          </bibl>
+          <bibl xml:id="biblid63615">
+            <title xml:id="idm140264665596080">NON IMPRIMATUR</title>
+          </bibl>
+          <bibl xml:id="biblid63738">
+            <title xml:id="idm140264665591232">BERED DIG!</title>
+          </bibl>
+          <bibl xml:id="biblid63832">
+            <title xml:id="idm140264665590608">MIN LILLE GUDS ENGEL</title>
+          </bibl>
+          <bibl xml:id="biblid63941">
+            <title xml:id="idm140264665589920">DEN NY POESI (EN PROLOG)</title>
+          </bibl>
+          <bibl xml:id="biblid64076">
+            <title xml:id="idm140264665589232">MELLEM ANEMONER</title>
+          </bibl>
+          <bibl xml:id="biblid64155">
+            <title xml:id="idm140264665588480">DYVEKE</title>
+          </bibl>
+          <bibl xml:id="biblid64424">
+            <title xml:id="idm140264665587792">KONG HERODES' RIGE</title>
+          </bibl>
+          <bibl xml:id="biblid64656">
+            <title xml:id="idm140264665587104">HAN VANDRED I ØSTER OG VESTER . . .</title>
+          </bibl>
+          <bibl xml:id="biblid64730">
+            <title xml:id="idm140264665586320">UDVIKLING</title>
+          </bibl>
+          <bibl xml:id="biblid64817">
+            <title xml:id="idm140264665585632">DANSK OG TYSK</title>
+          </bibl>
+          <bibl xml:id="biblid65098">
+            <title xml:id="idm140264665584880">GUSTAV WIED VED HANS DØD. 1914</title>
+          </bibl>
+          <bibl xml:id="biblid65140">
+            <title xml:id="idm140264665584048">DET DANSKE LUNE TIL OLAF POULSEN</title>
+          </bibl>
+          <bibl xml:id="biblid65249">
+            <title xml:id="idm140264665583296">PAAFUND!</title>
+          </bibl>
+          <bibl xml:id="biblid65381">
+            <title xml:id="idm140264665582512">EN HILSEN TIL HELGE RODE</title>
+          </bibl>
+          <bibl xml:id="biblid65421">
+            <title xml:id="idm140264665581760">DET LEVENDE LAND. TIL NILS COLLETT VOGT MED HILSEN TIL NORGE OG DE NORSKE DIGTERE</title>
+          </bibl>
+          <bibl xml:id="biblid65576">
+            <title xml:id="idm140264665580848">FORAAR IGEN</title>
+          </bibl>
+          <bibl xml:id="biblid65679">
+            <title xml:id="idm140264665580000">ALBERT GOTTSCHALK</title>
+          </bibl>
+          <bibl xml:id="biblid65802">
+            <title xml:id="idm140264665579216">LOLLAND OG FALSTER</title>
+          </bibl>
+          <bibl xml:id="biblid66035">
+            <title xml:id="idm140264665578368">KOM, MIN BLODVARME PIGELIL, . . .</title>
+          </bibl>
+          <bibl xml:id="biblid66114">
+            <title xml:id="idm140264665577552">AANDSBRØDRE</title>
+          </bibl>
+          <bibl xml:id="biblid66125">
+            <title xml:id="idm140264665576800">Der sad tre Digtere og en halv:</title>
+          </bibl>
+          <bibl xml:id="biblid66404">
+            <title xml:id="idm140264665575984">Men ogsaa var der en Maler til Stede</title>
+          </bibl>
+          <bibl xml:id="biblid66695">
+            <title xml:id="idm140264665575168">ENVOI DE PRINCE TIL CHR. X</title>
+          </bibl>
+          <bibl xml:id="biblid66784">
+            <title xml:id="idm140264665574416">KONCERTEN/BRYLLUPPER OG FESTER</title>
+          </bibl>
+          <bibl xml:id="biblid66874">
+            <title xml:id="idm140264665573616">PARISERINDE</title>
+          </bibl>
+          <bibl xml:id="biblid66963">
+            <title xml:id="idm140264665572832">DIN UNGDOM VAR SOM NATTEN . . ./TIL JOHANNES JØRGENSEN</title>
+          </bibl>
+          <bibl xml:id="biblid67058">
+            <title xml:id="idm140264665571888">NU KOMMER NATTEN . . ./NATTEN TIL HERMAN BANG</title>
+          </bibl>
+          <bibl xml:id="biblid67147">
+            <title xml:id="idm140264665571072">TRONPRÆTENDENT/SONET TIL FABIUS!</title>
+          </bibl>
+          <bibl xml:id="biblid67249">
+            <title xml:id="idm140264665570240">DEN UNGE PIGE I SOMMERREGNEN</title>
+          </bibl>
+          <bibl xml:id="biblid67413">
+            <title xml:id="idm140264665569376">TOSCANAS ELEVER</title>
+          </bibl>
+          <bibl xml:id="biblid67707">
+            <title xml:id="idm140264665568592">HR. SOL OG JOMFRU JORD</title>
+          </bibl>
+          <bibl xml:id="biblid67905">
+            <title xml:id="idm140264665567808">SNE</title>
+          </bibl>
+          <bibl xml:id="biblid68117">
+            <title xml:id="idm140264665566992">BARBARER</title>
+          </bibl>
+          <bibl xml:id="biblid68234">
+            <title xml:id="idm140264665566160">VINTERGÆK</title>
+          </bibl>
+          <bibl xml:id="biblid68337">
+            <title xml:id="idm140264665565312">JEG SAD MED DEN VILDE LILIAN</title>
+          </bibl>
+          <bibl xml:id="biblid68496">
+            <title xml:id="idm140264665564400">SFINX</title>
+          </bibl>
+          <bibl xml:id="biblid68654">
+            <title xml:id="idm140264665563616">FOR HANS KRAFT I OVERFLOD .../ TIL GEORG BRANDES</title>
+          </bibl>
+          <bibl xml:id="biblid68718">
+            <title xml:id="idm140264665562736">DIGTE TRYKT I PROSAVÆRKERNE FORTEGNELSE OVER DIGTENES PROVENIENS</title>
+          </bibl>
+          <bibl xml:id="biblid69044">
+            <title xml:id="idm140264665561840">TILEGNELSE [2]</title>
+          </bibl>
+          <bibl xml:id="biblid69236">
+            <title xml:id="idm140264665561056">FORFARS-REGNTIDEN</title>
+          </bibl>
+          <bibl xml:id="biblid69358">
+            <title xml:id="idm140264665560272">TIL ERIK KØLBY</title>
+          </bibl>
+          <bibl xml:id="biblid69445">
+            <title xml:id="idm140264665559408">TIL KITTY</title>
+          </bibl>
+          <bibl xml:id="biblid69538">
+            <title xml:id="idm140264665558624">INDBYDELSE TIL REJSE</title>
+          </bibl>
+          <bibl xml:id="biblid69768">
+            <title xml:id="idm140264665557792">ROMANSK VERDEN</title>
+          </bibl>
+          <bibl xml:id="biblid69857">
+            <title xml:id="idm140264665557008">RIMERIER UNDER VEJS</title>
+          </bibl>
+          <bibl xml:id="biblid70147">
+            <title xml:id="idm140264665556224">BRYLLUPPER OG FESTER (NOPCES &amp; FESTINS)</title>
+          </bibl>
+          <bibl xml:id="biblid70236">
+            <title xml:id="idm140264665555328">SIMPLICITAS TILEGNET EN NAIV OG NYSGÆRRIG VENINDE</title>
+          </bibl>
+          <bibl xml:id="biblid70335">
+            <title xml:id="idm140264665554464">DEN SKØNNE PROPAGANDA TILEGNET DR. GEORG BRANDES</title>
+          </bibl>
+          <bibl xml:id="biblid70434">
+            <title xml:id="idm140264665553600">PORTRÆT AF FORAARET</title>
+          </bibl>
+          <bibl xml:id="biblid70536">
+            <title xml:id="idm140264665552784">HVIDE LØGNE</title>
+          </bibl>
+          <bibl xml:id="biblid70623">
+            <title xml:id="idm140264665551936">ITALIEN</title>
+          </bibl>
+          <bibl xml:id="biblid70718">
+            <title xml:id="idm140264665551152">SAA VANDRER VI OVER AARETS BRO . . .</title>
+          </bibl>
+          <bibl xml:id="biblid70776">
+            <title xml:id="idm140264665550352">EKBÁTANA</title>
+          </bibl>
+          <bibl xml:id="biblid70977">
+            <title xml:id="idm140264665549568">GUDINDEN KOM EN FORMIDDAG . . .</title>
+          </bibl>
+          <bibl xml:id="biblid71136">
+            <title xml:id="idm140264665548768">JEG SKREV EN DAG EN PETITION . . .</title>
+          </bibl>
+          <bibl xml:id="biblid71243">
+            <title xml:id="idm140264665547920">ANKOMST TIL SIENA</title>
+          </bibl>
+          <bibl xml:id="biblid71445">
+            <title xml:id="idm140264665547072">MAALTIDER I SIENA</title>
+          </bibl>
+          <bibl xml:id="biblid71797">
+            <title xml:id="idm140264665546288">PALMESØNDAG</title>
+          </bibl>
+          <bibl xml:id="biblid72055">
+            <title xml:id="idm140264665545440">CENTO CERINI</title>
+          </bibl>
+          <bibl xml:id="biblid72260">
+            <title xml:id="idm140264665544592">PROTESTANTISK VAAR</title>
+          </bibl>
+          <bibl xml:id="biblid72357">
+            <title xml:id="idm140264665543744">UNGE UDØDELIGE</title>
+          </bibl>
+          <bibl xml:id="biblid72634">
+            <title xml:id="idm140264665542944">EVANGELIUM</title>
+          </bibl>
+          <bibl xml:id="biblid72949">
+            <title xml:id="idm140264665542160">UDFLUGT I DET SENESISKE LANDSKAB</title>
+          </bibl>
+          <bibl xml:id="biblid73552">
+            <title xml:id="idm140264665541296">ET LØST UDKAST</title>
+          </bibl>
+          <bibl xml:id="biblid73905">
+            <title xml:id="idm140264665540448">ENDNU SIENA</title>
+          </bibl>
+          <bibl xml:id="biblid74224">
+            <title xml:id="idm140264665539600">TIZIANS ROSER</title>
+          </bibl>
+          <bibl xml:id="biblid74283">
+            <title xml:id="idm140264665538816">ROM</title>
+          </bibl>
+          <bibl xml:id="biblid74999">
+            <title xml:id="idm140264665538000">POMPEJI</title>
+          </bibl>
+          <bibl xml:id="biblid75258">
+            <title xml:id="idm140264665537216">VALFARTEN TIL MONT'ALLEGRO</title>
+          </bibl>
+          <bibl xml:id="biblid75841">
+            <title xml:id="idm140264665536352">DET TABTE PARADIS</title>
+          </bibl>
+          <bibl xml:id="biblid76044">
+            <title xml:id="idm140264665535456">HJEMFART</title>
+          </bibl>
+          <bibl xml:id="biblid76155">
+            <title xml:id="idm140264665534608">PROLOG</title>
+          </bibl>
+          <bibl xml:id="biblid76506">
+            <title xml:id="idm140264665533760">DER VANDRER EN PIGE . . .</title>
+          </bibl>
+          <bibl xml:id="biblid76709">
+            <title xml:id="idm140264665532896">BAUTA</title>
+          </bibl>
+          <bibl xml:id="biblid76874">
+            <title xml:id="idm140264665532112">EFTERSPIL</title>
+          </bibl>
+          <bibl xml:id="biblid77043">
+            <title xml:id="idm140264665531216">HØFFDINGS ELEVER</title>
+          </bibl>
+          <bibl xml:id="biblid77266">
+            <title xml:id="idm140264665530416">TIL VIOLA</title>
+          </bibl>
+          <bibl xml:id="biblid77397">
+            <title xml:id="idm140264665529568">Koral, Koral</title>
+          </bibl>
+          <bibl xml:id="biblid77461">
+            <title xml:id="idm140264665528784">I min Ungdom Landets Frihed blev forvandlet til Ruin.</title>
+          </bibl>
+          <bibl xml:id="biblid77480">
+            <title xml:id="idm140264665527968">Kæreste Ingeborg S., en Kvinde, som trænger til Ømhed</title>
+          </bibl>
+          <bibl xml:id="biblid77563">
+            <title xml:id="idm140264665527024">Det huskes, naar Asken er kold og Lyset slukt</title>
+          </bibl>
+          <bibl xml:id="biblid77593">
+            <title xml:id="idm140264665526144">Med Bram drog Troens Riddere til Fest.</title>
+          </bibl>
+          <bibl xml:id="biblid77614">
+            <title xml:id="idm140264665525344">Al Hedenskab er død, hvem nægter det vel mer.</title>
+          </bibl>
+          <bibl xml:id="biblid77629">
+            <title xml:id="idm140264665524480">Men jeg har levet, og jeg har troet</title>
+          </bibl>
+          <bibl xml:id="biblid77678">
+            <title xml:id="idm140264665523680">Se, en Aftendæmrings Taage</title>
+          </bibl>
+          <bibl xml:id="biblid77752">
+            <title xml:id="idm140264665522752">Jeg tror paa den Vilje, som rækker os Traaden</title>
+          </bibl>
+          <bibl xml:id="biblid77782">
+            <title xml:id="idm140264665521824">Det hændte ved Aarhundredets Slutning ...... Brydning</title>
+          </bibl>
+          <bibl xml:id="biblid77838">
+            <title xml:id="idm140264665520880">Jeg er træt af disse himmelvendte Øjne</title>
+          </bibl>
+          <bibl xml:id="biblid77940">
+            <title xml:id="idm140264665520032">Nydelig den unge Pige</title>
+          </bibl>
+          <bibl xml:id="biblid77984">
+            <title xml:id="idm140264665519248">For sidste Gang min Søsters Gæst</title>
+          </bibl>
+          <bibl xml:id="biblid78088">
+            <title xml:id="idm140264665518416">Kom med Fryd og slaa dig ned</title>
+          </bibl>
+          <bibl xml:id="biblid78248">
+            <title xml:id="idm140264665517504">I tror, at jeg lever som Ormen i Mørke og Muld</title>
+          </bibl>
+          <bibl xml:id="biblid78263">
+            <title xml:id="idm140264665516528">Hvide Sne - Lys over Landet</title>
+          </bibl>
+          <bibl xml:id="biblid78296">
+            <title xml:id="idm140264665515664">Naadegave, mer end anden Lykke</title>
+          </bibl>
+          <bibl xml:id="biblid78362">
+            <title xml:id="idm140264665514752">Det hele, jeg har gjort</title>
+          </bibl>
+          <bibl xml:id="biblid78390">
+            <title xml:id="idm140264665513968">Tag Billederne bort</title>
+          </bibl>
+          <bibl xml:id="biblid78411">
+            <title xml:id="idm140264665513184">Jeg ønsked at optø bundfrosne Sø'r</title>
+          </bibl>
+          <bibl xml:id="biblid78452">
+            <title xml:id="idm140264665512336">Jeg kan ikke male, Taabe er jeg</title>
+          </bibl>
+          <bibl xml:id="biblid78499">
+            <title xml:id="idm140264665511472">Hvor drypper, siver, nynner Stadsgravens Strøm, og se:</title>
+          </bibl>
+          <bibl xml:id="biblid78530">
+            <title xml:id="idm140264665510592">Nu løses Frosten af den milde Regn</title>
+          </bibl>
+          <bibl xml:id="biblid78553">
+            <title xml:id="idm140264665509696">Jeg søger gærne Visdom</title>
+          </bibl>
+          <bibl xml:id="biblid78619">
+            <title xml:id="idm140264665508816">En Drøm om Skønhed var alt mit Liv .. .</title>
+          </bibl>
+          <bibl xml:id="biblid78669">
+            <title xml:id="idm140264665507904">Et Billed paa min Væg, en Engel i min Stue</title>
+          </bibl>
+          <bibl xml:id="biblid78711">
+            <title xml:id="idm140264665506992">De stredes paa Skrænten og i Mosen</title>
+          </bibl>
+          <bibl xml:id="biblid78736">
+            <title xml:id="idm140264665506096">Ane Kirstine af Aafjord</title>
+          </bibl>
+        </listBibl>
+      </sourceDesc>
     </fileDesc>
   </teiHeader>
   <text xml:id="idm140264665505456">
     <front xml:id="idm140264665505200">
       <pb n="1" xml:id="s1" facs="adl/claussen/claussen11/claussen11001"/>
       <gap reason="cancelled" xml:id="idm140264665503792"/>
-<!---->
-<!---->
-<!--Sophus Claussens Lyrik IX:1-->
       <pb n="2" xml:id="s2" facs="adl/claussen/claussen11/claussen11002"/>
       <titlePage xml:id="idm140264665501136">
         <docAuthor xml:id="idm140264665500880">
@@ -75,7 +564,7 @@
         </docEdition>
         <docImprint xml:id="idm140264665488064">
           <publisher xml:id="idm140264665487808">
-            <hi rend="italics" xml:id="idm140264665487552">Det danske Sprog- og Litteraturselskab</hi>
+            <hi rend="italics" xml:id="idm140264665487552">Det Danske Sprog- og Litteraturselskab</hi>
           </publisher>
         </docImprint>
       </titlePage>

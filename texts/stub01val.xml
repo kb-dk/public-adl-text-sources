@@ -1,14 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!-- 
-20021023 HHL aendret <hi rend="CharEx"> til italics
-- indsat vaerktitler
-- aendret div-opdeling
--->
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="idm140613725931536"><!-- 
-       file     ./marc_dir/001670222.xml
-       field     
-       subfield  
-       prefix   -->
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="root">
   <teiHeader xml:id="idm140613725940272">
     <fileDesc xml:id="idm140613725940016">
       <titleStmt xml:id="idm140613725939712">
@@ -23,17 +14,235 @@
         <note xml:id="idm140613725911568">
 	  </note>
       </notesStmt>
-      <sourceDesc xml:id="idm140613725911056"><bibl xml:id="idm140613725910928"><author n="1" xml:id="idm140613725910240"><name xml:id="idm140613725909984"><surname xml:id="idm140613725909856">Stub</surname>, <forename xml:id="idm140613725909392">Ambrosius</forename></name></author><title xml:id="idm140613725909104">Digte</title><pubPlace xml:id="idm140613725908816">[Kbh.]</pubPlace>
-<publisher xml:id="idm140613725908352">Rosenkilde og Bagger</publisher><date xml:id="idm140613725908016">1972</date></bibl><listBibl xml:id="idm140613725907728"><bibl xml:id="biblid58534"><title xml:id="idm140613725894576">Latinsk Vers til Borchs Collegium efter Branden 1728</title></bibl><bibl xml:id="biblid58617"><title xml:id="idm140613725893760">Gid den faae Skam</title></bibl><bibl xml:id="biblid58962"><title xml:id="idm140613725892928">Indskrift paa en Tavle i Køng Kirke</title></bibl><bibl xml:id="biblid59099"><title xml:id="idm140613725892080">Brude-Vers til Msr. Johan Klugh, og Jfr. Johanne Ehrenreich, den 1 ste Maj 1733</title></bibl><bibl xml:id="biblid59476"><title xml:id="idm140613725891232">Kiærligheds Alphabet</title></bibl><bibl xml:id="biblid59603"><title xml:id="idm140613725890416">Oprigtighed, min Fryd</title></bibl><bibl xml:id="biblid59827"><title xml:id="idm140613725889584">Eet Roeligt Sinds fornøyelige Tilstand</title></bibl><bibl xml:id="biblid60176"><title xml:id="idm140613725888736">Bestandighed er rar</title></bibl><bibl xml:id="biblid60392"><title xml:id="idm140613725887904">Trofasthed er den Dyd, jeg søger</title></bibl><bibl xml:id="biblid60652"><title xml:id="idm140613725887072">Spring, Hierte! spring forbi de Døre</title></bibl><bibl xml:id="biblid60920"><title xml:id="idm140613725886224">Det rette Venskabs Kiendetegn</title></bibl><bibl xml:id="biblid61230"><title xml:id="idm140613725885376">Uskyldig Tidsfordriv jeg har</title></bibl><bibl xml:id="biblid61663"><title xml:id="idm140613725884576">Jeg har kun Dyden kiær</title></bibl><bibl xml:id="biblid62049"><title xml:id="idm140613725883712">Du deylig Rosen-Knop</title></bibl><bibl xml:id="biblid62394"><title xml:id="idm140613725882928">See, Skiønhed er en Skat</title></bibl><bibl xml:id="biblid62722"><title xml:id="idm140613725882064">Skal Dahlens Lillie af Foragt</title></bibl><bibl xml:id="biblid62911"><title xml:id="idm140613725881216">Medgangs Ven har lært at smiile</title></bibl><bibl xml:id="biblid63166"><title xml:id="idm140613725880336">Som en nøysom jeg foragter</title></bibl><bibl xml:id="biblid63381"><title xml:id="idm140613725879472">Er mit Hiem end ey saa nær</title></bibl><bibl xml:id="biblid63557"><title xml:id="idm140613725878656">Haab ikkuns! Haab kuns! bekymrede Hierte</title></bibl><bibl xml:id="biblid63834"><title xml:id="idm140613725877792">Ægteskabs Seddel for Anton Ulrich Hansen og hans Kiæreste Anna Jens-Datter</title></bibl><bibl xml:id="biblid64078"><title xml:id="idm140613725876896">Overskrivt over P. Clausens Kramboe i Ærøeskiøbing</title></bibl><bibl xml:id="biblid64174"><title xml:id="idm140613725875968">Den kiedsom Vinter gik sin gang</title></bibl><bibl xml:id="biblid64908"><title xml:id="idm140613725875120">Man har for nylig hørt Kanoners hule Torden</title></bibl><bibl xml:id="biblid66276"><title xml:id="idm140613725874144">Sørgedigt i Anledning af Christian Stockfleths Hustru Adolphine Christine Rostgaards Død</title></bibl><bibl xml:id="biblid67880"><title xml:id="idm140613725873200">Oversættelse af Rostgaards latinske Digt i Anledning af den kgl. Families Indtog paa Christiansborg</title></bibl><bibl xml:id="biblid68014"><title xml:id="idm140613725872176">Jeg lever vel tilfreds</title></bibl><bibl xml:id="biblid68280"><title xml:id="idm140613725871344">Indskrift paa Tavle i Vedtofte Kirke over Hans Giislef, d. 22. Febr. 1741</title></bibl><bibl xml:id="biblid68428"><title xml:id="idm140613725870496">Indskrift paa Tavle i Køng Kirke over Morten Stub og hans Hustru Karen Møller</title></bibl><bibl xml:id="biblid68628"><title xml:id="idm140613725869520">Over et Dødinghovet</title></bibl><bibl xml:id="biblid68697"><title xml:id="idm140613725868704">Een Drikke-Skaal</title></bibl><bibl xml:id="biblid68933"><title xml:id="idm140613725867872">Drikke-Skaal</title></bibl><bibl xml:id="biblid69045"><title xml:id="idm140613725867040">Til Obr: Leut: Leth</title></bibl><bibl xml:id="biblid69136"><title xml:id="idm140613725866208">Til Stiftamtmand Stochfledt</title></bibl><bibl xml:id="biblid69236"><title xml:id="idm140613725865360">Til Major Cremon,</title></bibl><bibl xml:id="biblid69550"><title xml:id="idm140613725864528">Stadfæst dit Forsyns Verk</title></bibl><bibl xml:id="biblid69615"><title xml:id="idm140613725863664">Adam var min første Fader</title></bibl><bibl xml:id="biblid69696"><title xml:id="idm140613725862800">Hver tiime er forgyldt</title></bibl><bibl xml:id="biblid69867"><title xml:id="idm140613725861968">Ordsprog</title></bibl><bibl xml:id="biblid70106"><title xml:id="idm140613725861184">Af tre blev dend ene</title></bibl><bibl xml:id="biblid70394"><title xml:id="idm140613725860352">Tiden løber som en Floed</title></bibl><bibl xml:id="biblid70459"><title xml:id="idm140613725859488">Da vor naadige Kron-Printz 1745 den 7. Julii kom til Verden</title></bibl><bibl xml:id="biblid70689"><title xml:id="idm140613725858544">Paa een Flaske, hvori laa en liden Elling i Spiritus med 2 Hoveder</title></bibl><bibl xml:id="biblid70921"><title xml:id="idm140613725857600">Jeg laver tynd Caffe</title></bibl><bibl xml:id="biblid71216"><title xml:id="idm140613725856768">Græm Dig aldrig</title></bibl><bibl xml:id="biblid71337"><title xml:id="idm140613725855920">Een regel for Elskere af den moralske Qvadrille</title></bibl><bibl xml:id="biblid71523"><title xml:id="idm140613725855104">Verden er et Flyve-Sand</title></bibl><bibl xml:id="biblid71589"><title xml:id="idm140613725854272">En Doktorindes Critik over disse Ord:</title></bibl><bibl xml:id="biblid71755"><title xml:id="idm140613725970432">Grav-Skrivt over en Møe, som døde i sit 50 Aar</title></bibl><bibl xml:id="biblid71886"><title xml:id="idm140613725969632">Recept for den dievelske Løgnagtighed</title></bibl><bibl xml:id="biblid72151"><title xml:id="idm140613725968784">Diogenes og Alexander paa en Tobaks-Daase, gav Anledning til følgende Betænkning</title></bibl><bibl xml:id="biblid72227"><title xml:id="idm140613725967856">Gravskrift af samme Stub i Odense over Democritus, som kiger ud af en Ræve-Huule</title></bibl><bibl xml:id="biblid72348"><title xml:id="idm140613725966864">Paa Bagstavnen af et Skib ved navn Samson</title></bibl><bibl xml:id="biblid72438"><title xml:id="idm140613725828448">Impromtu (Efter Ærter)</title></bibl><bibl xml:id="biblid72585"><title xml:id="idm140613725827632">Impromtu (Gak bort, Nord-Vest!)</title></bibl><bibl xml:id="biblid72689"><title xml:id="idm140613725826880">Impromtu til en Kræmmersvend</title></bibl><bibl xml:id="biblid72741"><title xml:id="idm140613725826048">Menneskets Levnets Lob</title></bibl><bibl xml:id="biblid73016"><title xml:id="idm140613725825200">Grav-Skrivt over Socrates</title></bibl><bibl xml:id="biblid73133"><title xml:id="idm140613725824448">Nu er jeg befriet fra Kierligheds Pagt</title></bibl><bibl xml:id="biblid73301"><title xml:id="idm140613725823696">En Drikke-Skaal</title></bibl><bibl xml:id="biblid73504"><title xml:id="idm140613725818784">En Drikke-Skaal i et muntert Selskab paa Søeholm</title></bibl><bibl xml:id="biblid73578"><title xml:id="idm140613725817984">Til vores nu værende Konge da han var Kronprintz</title></bibl><bibl xml:id="biblid73857"><title xml:id="idm140613725817184">Lykønskning paa en Vens Fødselseag</title></bibl><bibl xml:id="biblid73927"><title xml:id="idm140613725816336">Æreminde og Grav-Skrift: over Grevinde Leonora Christina</title></bibl><bibl xml:id="biblid74033"><title xml:id="idm140613725815504">En giftefærdig Piges Klage over sin Moders Urimelighed i at nægte hende et anstændigt Ægteskab</title></bibl><bibl xml:id="biblid74189"><title xml:id="idm140613725814608">Forhadte Navn af Toldforpagter</title></bibl><bibl xml:id="biblid75029"><title xml:id="idm140613725813920">Da vor allernaadigste Konge Kong Friderick den Femte 1750 den 27. Junii var i Faaborg</title></bibl><bibl xml:id="biblid75139"><title xml:id="idm140613725813136">Lad Krig fornøye Potentater</title></bibl><bibl xml:id="biblid75497"><title xml:id="idm140613725812304">Er nogen, jeg er glæde riig</title></bibl><bibl xml:id="biblid76374"><title xml:id="idm140613725811536">Ey saa hvi tripper du saa fast</title></bibl></listBibl></sourceDesc>
+      <sourceDesc xml:id="idm140613725911056">
+        <bibl xml:id="idm140613725910928">
+          <author n="1" xml:id="idm140613725910240">
+            <name xml:id="idm140613725909984"><surname xml:id="idm140613725909856">Stub</surname>, <forename xml:id="idm140613725909392">Ambrosius</forename></name>
+          </author>
+          <title xml:id="idm140613725909104">Digte</title>
+          <pubPlace xml:id="idm140613725908816">[København]</pubPlace>
+          <publisher xml:id="idm140613725908352">Rosenkilde og Bagger</publisher>
+          <date xml:id="idm140613725908016">1972</date>
+        </bibl>
+        <listBibl xml:id="idm140613725907728">
+          <bibl xml:id="biblid58534">
+            <title xml:id="idm140613725894576">Latinsk Vers til Borchs Collegium efter Branden 1728</title>
+          </bibl>
+          <bibl xml:id="biblid58617">
+            <title xml:id="idm140613725893760">Gid den faae Skam</title>
+          </bibl>
+          <bibl xml:id="biblid58962">
+            <title xml:id="idm140613725892928">Indskrift paa en Tavle i Køng Kirke</title>
+          </bibl>
+          <bibl xml:id="biblid59099">
+            <title xml:id="idm140613725892080">Brude-Vers til Msr. Johan Klugh, og Jfr. Johanne Ehrenreich, den 1 ste Maj 1733</title>
+          </bibl>
+          <bibl xml:id="biblid59476">
+            <title xml:id="idm140613725891232">Kiærligheds Alphabet</title>
+          </bibl>
+          <bibl xml:id="biblid59603">
+            <title xml:id="idm140613725890416">Oprigtighed, min Fryd</title>
+          </bibl>
+          <bibl xml:id="biblid59827">
+            <title xml:id="idm140613725889584">Eet Roeligt Sinds fornøyelige Tilstand</title>
+          </bibl>
+          <bibl xml:id="biblid60176">
+            <title xml:id="idm140613725888736">Bestandighed er rar</title>
+          </bibl>
+          <bibl xml:id="biblid60392">
+            <title xml:id="idm140613725887904">Trofasthed er den Dyd, jeg søger</title>
+          </bibl>
+          <bibl xml:id="biblid60652">
+            <title xml:id="idm140613725887072">Spring, Hierte! spring forbi de Døre</title>
+          </bibl>
+          <bibl xml:id="biblid60920">
+            <title xml:id="idm140613725886224">Det rette Venskabs Kiendetegn</title>
+          </bibl>
+          <bibl xml:id="biblid61230">
+            <title xml:id="idm140613725885376">Uskyldig Tidsfordriv jeg har</title>
+          </bibl>
+          <bibl xml:id="biblid61663">
+            <title xml:id="idm140613725884576">Jeg har kun Dyden kiær</title>
+          </bibl>
+          <bibl xml:id="biblid62049">
+            <title xml:id="idm140613725883712">Du deylig Rosen-Knop</title>
+          </bibl>
+          <bibl xml:id="biblid62394">
+            <title xml:id="idm140613725882928">See, Skiønhed er en Skat</title>
+          </bibl>
+          <bibl xml:id="biblid62722">
+            <title xml:id="idm140613725882064">Skal Dahlens Lillie af Foragt</title>
+          </bibl>
+          <bibl xml:id="biblid62911">
+            <title xml:id="idm140613725881216">Medgangs Ven har lært at smiile</title>
+          </bibl>
+          <bibl xml:id="biblid63166">
+            <title xml:id="idm140613725880336">Som en nøysom jeg foragter</title>
+          </bibl>
+          <bibl xml:id="biblid63381">
+            <title xml:id="idm140613725879472">Er mit Hiem end ey saa nær</title>
+          </bibl>
+          <bibl xml:id="biblid63557">
+            <title xml:id="idm140613725878656">Haab ikkuns! Haab kuns! bekymrede Hierte</title>
+          </bibl>
+          <bibl xml:id="biblid63834">
+            <title xml:id="idm140613725877792">Ægteskabs Seddel for Anton Ulrich Hansen og hans Kiæreste Anna Jens-Datter</title>
+          </bibl>
+          <bibl xml:id="biblid64078">
+            <title xml:id="idm140613725876896">Overskrivt over P. Clausens Kramboe i Ærøeskiøbing</title>
+          </bibl>
+          <bibl xml:id="biblid64174">
+            <title xml:id="idm140613725875968">Den kiedsom Vinter gik sin gang</title>
+          </bibl>
+          <bibl xml:id="biblid64908">
+            <title xml:id="idm140613725875120">Man har for nylig hørt Kanoners hule Torden</title>
+          </bibl>
+          <bibl xml:id="biblid66276">
+            <title xml:id="idm140613725874144">Sørgedigt i Anledning af Christian Stockfleths Hustru Adolphine Christine Rostgaards Død</title>
+          </bibl>
+          <bibl xml:id="biblid67880">
+            <title xml:id="idm140613725873200">Oversættelse af Rostgaards latinske Digt i Anledning af den kgl. Families Indtog paa Christiansborg</title>
+          </bibl>
+          <bibl xml:id="biblid68014">
+            <title xml:id="idm140613725872176">Jeg lever vel tilfreds</title>
+          </bibl>
+          <bibl xml:id="biblid68280">
+            <title xml:id="idm140613725871344">Indskrift paa Tavle i Vedtofte Kirke over Hans Giislef, d. 22. Febr. 1741</title>
+          </bibl>
+          <bibl xml:id="biblid68428">
+            <title xml:id="idm140613725870496">Indskrift paa Tavle i Køng Kirke over Morten Stub og hans Hustru Karen Møller</title>
+          </bibl>
+          <bibl xml:id="biblid68628">
+            <title xml:id="idm140613725869520">Over et Dødinghovet</title>
+          </bibl>
+          <bibl xml:id="biblid68697">
+            <title xml:id="idm140613725868704">Een Drikke-Skaal</title>
+          </bibl>
+          <bibl xml:id="biblid68933">
+            <title xml:id="idm140613725867872">Drikke-Skaal</title>
+          </bibl>
+          <bibl xml:id="biblid69045">
+            <title xml:id="idm140613725867040">Til Obr: Leut: Leth</title>
+          </bibl>
+          <bibl xml:id="biblid69136">
+            <title xml:id="idm140613725866208">Til Stiftamtmand Stochfledt</title>
+          </bibl>
+          <bibl xml:id="biblid69236">
+            <title xml:id="idm140613725865360">Til Major Cremon,</title>
+          </bibl>
+          <bibl xml:id="biblid69550">
+            <title xml:id="idm140613725864528">Stadfæst dit Forsyns Verk</title>
+          </bibl>
+          <bibl xml:id="biblid69615">
+            <title xml:id="idm140613725863664">Adam var min første Fader</title>
+          </bibl>
+          <bibl xml:id="biblid69696">
+            <title xml:id="idm140613725862800">Hver tiime er forgyldt</title>
+          </bibl>
+          <bibl xml:id="biblid69867">
+            <title xml:id="idm140613725861968">Ordsprog</title>
+          </bibl>
+          <bibl xml:id="biblid70106">
+            <title xml:id="idm140613725861184">Af tre blev dend ene</title>
+          </bibl>
+          <bibl xml:id="biblid70394">
+            <title xml:id="idm140613725860352">Tiden løber som en Floed</title>
+          </bibl>
+          <bibl xml:id="biblid70459">
+            <title xml:id="idm140613725859488">Da vor naadige Kron-Printz 1745 den 7. Julii kom til Verden</title>
+          </bibl>
+          <bibl xml:id="biblid70689">
+            <title xml:id="idm140613725858544">Paa een Flaske, hvori laa en liden Elling i Spiritus med 2 Hoveder</title>
+          </bibl>
+          <bibl xml:id="biblid70921">
+            <title xml:id="idm140613725857600">Jeg laver tynd Caffe</title>
+          </bibl>
+          <bibl xml:id="biblid71216">
+            <title xml:id="idm140613725856768">Græm Dig aldrig</title>
+          </bibl>
+          <bibl xml:id="biblid71337">
+            <title xml:id="idm140613725855920">Een regel for Elskere af den moralske Qvadrille</title>
+          </bibl>
+          <bibl xml:id="biblid71523">
+            <title xml:id="idm140613725855104">Verden er et Flyve-Sand</title>
+          </bibl>
+          <bibl xml:id="biblid71589">
+            <title xml:id="idm140613725854272">En Doktorindes Critik over disse Ord:</title>
+          </bibl>
+          <bibl xml:id="biblid71755">
+            <title xml:id="idm140613725970432">Grav-Skrivt over en Møe, som døde i sit 50 Aar</title>
+          </bibl>
+          <bibl xml:id="biblid71886">
+            <title xml:id="idm140613725969632">Recept for den dievelske Løgnagtighed</title>
+          </bibl>
+          <bibl xml:id="biblid72151">
+            <title xml:id="idm140613725968784">Diogenes og Alexander paa en Tobaks-Daase, gav Anledning til følgende Betænkning</title>
+          </bibl>
+          <bibl xml:id="biblid72227">
+            <title xml:id="idm140613725967856">Gravskrift af samme Stub i Odense over Democritus, som kiger ud af en Ræve-Huule</title>
+          </bibl>
+          <bibl xml:id="biblid72348">
+            <title xml:id="idm140613725966864">Paa Bagstavnen af et Skib ved navn Samson</title>
+          </bibl>
+          <bibl xml:id="biblid72438">
+            <title xml:id="idm140613725828448">Impromtu (Efter Ærter)</title>
+          </bibl>
+          <bibl xml:id="biblid72585">
+            <title xml:id="idm140613725827632">Impromtu (Gak bort, Nord-Vest!)</title>
+          </bibl>
+          <bibl xml:id="biblid72689">
+            <title xml:id="idm140613725826880">Impromtu til en Kræmmersvend</title>
+          </bibl>
+          <bibl xml:id="biblid72741">
+            <title xml:id="idm140613725826048">Menneskets Levnets Lob</title>
+          </bibl>
+          <bibl xml:id="biblid73016">
+            <title xml:id="idm140613725825200">Grav-Skrivt over Socrates</title>
+          </bibl>
+          <bibl xml:id="biblid73133">
+            <title xml:id="idm140613725824448">Nu er jeg befriet fra Kierligheds Pagt</title>
+          </bibl>
+          <bibl xml:id="biblid73301">
+            <title xml:id="idm140613725823696">En Drikke-Skaal</title>
+          </bibl>
+          <bibl xml:id="biblid73504">
+            <title xml:id="idm140613725818784">En Drikke-Skaal i et muntert Selskab paa Søeholm</title>
+          </bibl>
+          <bibl xml:id="biblid73578">
+            <title xml:id="idm140613725817984">Til vores nu værende Konge da han var Kronprintz</title>
+          </bibl>
+          <bibl xml:id="biblid73857">
+            <title xml:id="idm140613725817184">Lykønskning paa en Vens Fødselseag</title>
+          </bibl>
+          <bibl xml:id="biblid73927">
+            <title xml:id="idm140613725816336">Æreminde og Grav-Skrift: over Grevinde Leonora Christina</title>
+          </bibl>
+          <bibl xml:id="biblid74033">
+            <title xml:id="idm140613725815504">En giftefærdig Piges Klage over sin Moders Urimelighed i at nægte hende et anstændigt Ægteskab</title>
+          </bibl>
+          <bibl xml:id="biblid74189">
+            <title xml:id="idm140613725814608">Forhadte Navn af Toldforpagter</title>
+          </bibl>
+          <bibl xml:id="biblid75029">
+            <title xml:id="idm140613725813920">Da vor allernaadigste Konge Kong Friderick den Femte 1750 den 27. Junii var i Faaborg</title>
+          </bibl>
+          <bibl xml:id="biblid75139">
+            <title xml:id="idm140613725813136">Lad Krig fornøye Potentater</title>
+          </bibl>
+          <bibl xml:id="biblid75497">
+            <title xml:id="idm140613725812304">Er nogen, jeg er glæde riig</title>
+          </bibl>
+          <bibl xml:id="biblid76374">
+            <title xml:id="idm140613725811536">Ey saa hvi tripper du saa fast</title>
+          </bibl>
+        </listBibl>
+      </sourceDesc>
     </fileDesc>
   </teiHeader>
   <text xml:id="idm140613725810896">
     <front xml:id="idm140613725810640">
       <pb n="1" xml:id="s1" facs="adl/stub/stub1/stub1001"/>
       <gap reason="cancelled" xml:id="idm140613725809216"/>
-<!---->
-<!---->
-<!--AMBROSIUS STUBS, DIGTE-->
       <pb n="2" xml:id="s2" facs="adl/stub/stub1/stub1002"/>
       <pb n="3" xml:id="s3" facs="adl/stub/stub1/stub1003"/>
       <titlePage xml:id="idm140613725805520">
@@ -64,7 +273,7 @@
         <bibl xml:id="idm140613725795152">© ROSENKILDE OG BAGGER 1972</bibl>
         <bibl xml:id="idm140613725794768">Printed in Denmark</bibl>
         <bibl xml:id="idm140613725794352">Ambrosius Stubs Digte I - II udgives<lb xml:id="idm140613725794048"/>med Støtte fra Statens humanistiske Forskningsraad</bibl>
-        <bibl xml:id="idm140613725793552">Under Tilsyn af Det danske Sprog- og Litteraturselskab<lb xml:id="idm140613725793232"/>ved Johs. Brøndum-Nielsen og Kåre Olsen</bibl>
+        <bibl xml:id="idm140613725793552">Under Tilsyn af Det Danske Sprog- og Litteraturselskab<lb xml:id="idm140613725793232"/>ved Johs. Brøndum-Nielsen og Kåre Olsen</bibl>
         <pb n="5" xml:id="s5" facs="adl/stub/stub1/stub1005"/>
       </div>
       <div type="toc" xml:id="idm140613725791520">
@@ -99,9 +308,9 @@
 
 <pb n="8" xml:id="s8" facs="adl/stub/stub1/stub1008"/>
  kronologisk Ordning af Digtene, hvad der utvivlsomt vil bidrage til en bedre Forstaaelse af de mange personligt farvede Digte.</p>
-            <p xml:id="idm140613725771360">For den økonomiske Støtte til Arbejdet, som jeg har modtaget fra Carlsbergfondet og gennem Det danske Sprog- og Litteraturselskab fra Forskningsraadet, bringer jeg hermed min bedste Tak.</p>
+            <p xml:id="idm140613725771360">For den økonomiske Støtte til Arbejdet, som jeg har modtaget fra Carlsbergfondet og gennem Det Danske Sprog- og Litteraturselskab fra Forskningsraadet, bringer jeg hermed min bedste Tak.</p>
             <p xml:id="idm140613725770576">Lensbaron C. Iuel-Brockdorff og Lensbaronens Moder Fru Ada Kiær bringer jeg en varm Tak for den beredvillige Hjælp, de har ydet ved Eftersøgning af Arkivalier paa Valdemarsslot vedrørende Ambrosius Stub.</p>
-            <p xml:id="idm140613725769760">En Tak skylder jeg endelig de af Det danske Sprog- og Litteraturselskab udpegede Tilsynsførende, Professor Johs. Brøndum-Nielsen og Førstebibliotekar Kåre Olsen, for den værdifulde Hjælp, de har ydet mig ved Udarbejdelsen af Manuskriptet og ved Korrekturlæsningen.</p>
+            <p xml:id="idm140613725769760">En Tak skylder jeg endelig de af Det Danske Sprog- og Litteraturselskab udpegede Tilsynsførende, Professor Johs. Brøndum-Nielsen og Førstebibliotekar Kåre Olsen, for den værdifulde Hjælp, de har ydet mig ved Udarbejdelsen af Manuskriptet og ved Korrekturlæsningen.</p>
             <p xml:id="idm140613725768816">
               <hi rend="italics" xml:id="idm140613725768560">E. Kroman.</hi>
             </p>
@@ -458,7 +667,7 @@
             <note anchored="true" xml:id="idm140613725351584"><hi rend="sup" xml:id="idm140613725351184">1</hi> A. D. Jørgensen: Hist. Afhandlinger III S. 496 ff. nævner bl. a. I Nr. 82 »Jævnt at leve, ærlig tænke« paa Melodien til Stubs »Kongen opnaa snehvid Alder« og I Nr. 93 »Jeg er og blir mig lig« paa den af Stub yndede Melodi »En trofast Ven er rar«. Den er en Oversættelse af Stubs Forbillede i Sperontes (Scholze), Ode Nr. 33 »Ich bin nun wie ich bin«.</note>
             <pb n="67" xml:id="s67" facs="adl/stub/stub1/stub1067"/>
             <p xml:id="idm140613725348528">Resultater med Hensyn til Indsamling af Digte. Faa Aar senere kunde Kinch imidlertid give et væsentligt Bidrag ved Offentliggørelse af en Række hidtil ukendte Digte, hvortil Materialet fandtes i Ribe Katedralskoles Bibliotek. Disse blev som nævnt optaget i Barfods to sidste Udgaver 1878 og 1879.</p>
-            <p xml:id="idm140613725347520">Man maatte imidlertid gaa ud fra, at der eksisterede et væsentlig større Kildemateriale. I sit korte Forord i Udgaven 1771 siger Heiberg: »Man har længe seet disse Stykker hos adskillige i slette Afskrifter«, hvad der gentages af Christian Stub i hans Indledning til Udgaven 1780, og i Dedikationen til Frederik Ahlefeldt dateret 16. Aug. 1779 taler han om »disse faderløse Vers, som min sal. Fader efterlod, i det mindste for en Deel, adspredte iblandt sine Venner«. Man har derfor længe næret Ønske om at faa foranstaltet en ny Udgave af Stubs Digte, som byggede paa en systematisk Gennemgang af Verssamlingerne, navnlig i Det kgl. Bibliotek, som i øvrigt er blevet væsentlig forøget siden Barfods Tid. Det syntes ikke urimeligt at antage, at en saadan Gennemgang kunde bringe hidtil ukendte Digte af Stub for Dagen. 1965 vedtog Det danske Sprog- og Litteraturselskab, som længe havde haft Planer om en ny Udgave af Ambrosius Stubs Digte, at overdrage Arbejdet med en saadan Udgave til Udgiveren af nærværende Udgave.</p>
+            <p xml:id="idm140613725347520">Man maatte imidlertid gaa ud fra, at der eksisterede et væsentlig større Kildemateriale. I sit korte Forord i Udgaven 1771 siger Heiberg: »Man har længe seet disse Stykker hos adskillige i slette Afskrifter«, hvad der gentages af Christian Stub i hans Indledning til Udgaven 1780, og i Dedikationen til Frederik Ahlefeldt dateret 16. Aug. 1779 taler han om »disse faderløse Vers, som min sal. Fader efterlod, i det mindste for en Deel, adspredte iblandt sine Venner«. Man har derfor længe næret Ønske om at faa foranstaltet en ny Udgave af Stubs Digte, som byggede paa en systematisk Gennemgang af Verssamlingerne, navnlig i Det kgl. Bibliotek, som i øvrigt er blevet væsentlig forøget siden Barfods Tid. Det syntes ikke urimeligt at antage, at en saadan Gennemgang kunde bringe hidtil ukendte Digte af Stub for Dagen. 1965 vedtog Det Danske Sprog- og Litteraturselskab, som længe havde haft Planer om en ny Udgave af Ambrosius Stubs Digte, at overdrage Arbejdet med en saadan Udgave til Udgiveren af nærværende Udgave.</p>
             <p xml:id="idm140613725345088">Ved Gennemgangen af Det kgl. Biblioteks Haandskrifter har C. Behrends Register over Førstelinier af Digte været en betydelig Støtte, men udover dette er alle Haandskrifter og Samlingspakker, hvor man med nogen Rimelighed kunde antage, at der var Muligheder for at finde Stubdigte, blevet gennemgaaet. Desuden er Folkemindesamlingens Haandskrifter blevet gennemgaaet, og Katedralskolen i Ribes Bibliotek har venligst stillet Samlingen af Stubiana til Raadighed. Et vigtigt Resultat af Eftersøgningen er det, at der som ovenfor nævnt er blevet fremdraget en mindre Række af egenhændigt skrevne Digte, mellem 
 
 <pb n="68" xml:id="s68" facs="adl/stub/stub1/stub1068"/>

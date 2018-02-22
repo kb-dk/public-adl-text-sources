@@ -1,10 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!--Tom opmærkning blo 25.06.02-->
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="idm139803981409408"><!-- 
-       file     ./marc_dir/002729949.xml
-       field     
-       subfield  
-       prefix   -->
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="root">
   <teiHeader xml:id="idm139803981408512">
     <fileDesc xml:id="idm139803981408256">
       <titleStmt xml:id="idm139803981407952">
@@ -19,8 +14,33 @@
         <note xml:id="idm139803981380016">
 	  </note>
       </notesStmt>
-      <sourceDesc xml:id="idm139803981379504"><bibl xml:id="idm139803981379376"><author n="1" xml:id="idm139803981378736"><name xml:id="idm139803981378480"><surname xml:id="idm139803981378352">Gyllembourg-Ehrensvärd</surname>, <forename xml:id="idm139803981377856">T. C.</forename></name></author><title xml:id="idm139803981377600">samlede skrifter af Forf</title><pubPlace xml:id="idm139803981377296">Kbh.</pubPlace>
-<date xml:id="idm139803981376816">1866-67</date></bibl><listBibl xml:id="idm139803981376528"><bibl xml:id="biblid54254"><title xml:id="idm139803981363376">Fru Gyllembourgs litterære Testamente</title></bibl><bibl xml:id="biblid54843"><title xml:id="idm139803981362528">Familien Polonius (1827)</title></bibl><bibl xml:id="biblid56016"><title xml:id="idm139803981361728">En Hverdags-Historie (1828)</title></bibl><bibl xml:id="biblid56603"><title xml:id="idm139803981360880">Den magiske Nøgle (1830)</title></bibl><bibl xml:id="biblid54318"><title xml:id="idm139803981360016">Kong Hjort (1830)</title></bibl></listBibl></sourceDesc>
+      <sourceDesc xml:id="idm139803981379504">
+        <bibl xml:id="idm139803981379376">
+          <author n="1" xml:id="idm139803981378736">
+            <name xml:id="idm139803981378480"><surname xml:id="idm139803981378352">Gyllembourg-Ehrensvärd</surname>, <forename xml:id="idm139803981377856">T. C.</forename></name>
+          </author>
+          <title xml:id="idm139803981377600">samlede skrifter af Forf</title>
+          <pubPlace xml:id="idm139803981377296">København</pubPlace>
+          <date xml:id="idm139803981376816">1866-67</date>
+        </bibl>
+        <listBibl xml:id="idm139803981376528">
+          <bibl xml:id="biblid54254">
+            <title xml:id="idm139803981363376">Fru Gyllembourgs litterære Testamente</title>
+          </bibl>
+          <bibl xml:id="biblid54843">
+            <title xml:id="idm139803981362528">Familien Polonius (1827)</title>
+          </bibl>
+          <bibl xml:id="biblid56016">
+            <title xml:id="idm139803981361728">En Hverdags-Historie (1828)</title>
+          </bibl>
+          <bibl xml:id="biblid56603">
+            <title xml:id="idm139803981360880">Den magiske Nøgle (1830)</title>
+          </bibl>
+          <bibl xml:id="biblid54318">
+            <title xml:id="idm139803981360016">Kong Hjort (1830)</title>
+          </bibl>
+        </listBibl>
+      </sourceDesc>
     </fileDesc>
   </teiHeader>
   <text xml:id="idm139803981359376">

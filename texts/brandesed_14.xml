@@ -1,9 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="idm140221994470368"><!-- 
-       file     ./marc_dir/002143503.xml
-       field     
-       subfield  
-       prefix   -->
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="root">
   <teiHeader xml:id="idm140221994469712">
     <fileDesc xml:id="idm140221994469456">
       <titleStmt xml:id="idm140221994469152">
@@ -18,8 +14,21 @@
         <note xml:id="idm140221994441328">
 	  </note>
       </notesStmt>
-      <sourceDesc xml:id="idm140221994440816"><bibl xml:id="idm140221994440688"><author n="1" xml:id="idm140221994440000"><name xml:id="idm140221994439744"><surname xml:id="idm140221994439616">Brandes</surname>, <forename xml:id="idm140221994439152">Edvard</forename></name></author><title xml:id="idm140221994438864">Under Loven</title><pubPlace xml:id="idm140221994438576">Kbh</pubPlace>
-<date xml:id="idm140221994438096">1891</date></bibl><listBibl xml:id="idm140221994437808"><bibl xml:id="biblid54088"><title xml:id="idm140221994424656">Under Loven</title></bibl></listBibl></sourceDesc>
+      <sourceDesc xml:id="idm140221994440816">
+        <bibl xml:id="idm140221994440688">
+          <author n="1" xml:id="idm140221994440000">
+            <name xml:id="idm140221994439744"><surname xml:id="idm140221994439616">Brandes</surname>, <forename xml:id="idm140221994439152">Edvard</forename></name>
+          </author>
+          <title xml:id="idm140221994438864">Under Loven</title>
+          <pubPlace xml:id="idm140221994438576">København</pubPlace>
+          <date xml:id="idm140221994438096">1891</date>
+        </bibl>
+        <listBibl xml:id="idm140221994437808">
+          <bibl xml:id="biblid54088">
+            <title xml:id="idm140221994424656">Under Loven</title>
+          </bibl>
+        </listBibl>
+      </sourceDesc>
     </fileDesc>
   </teiHeader>
   <text xml:id="workid54088" decls="#biblid54088">
@@ -2064,7 +2073,7 @@ snarligt Ophør og gylden Fremtid — og jeg lod mig overtale. Hvor skulde jeg d
           <sp xml:id="idm140221993579088">
             <speaker xml:id="idm140221993578832">HELENE.</speaker>
             <stage type="mix" xml:id="idm140221993578416">afbryder.</stage>
-            <p xml:id="idm140221993577760">Nej, vent lidt, du! Jeg vil først hore min Svigermoders og min Svogers Mening. Gaar den ud paa, at jeg skal tage Frederik bort derudefra.</p>
+            <p xml:id="idm140221993577760">Nej, vent lidt, du! Jeg vil først høre min Svigermoders og min Svogers Mening. Gaar den ud paa, at jeg skal tage Frederik bort derudefra.</p>
           </sp>
           <sp xml:id="idm140221993576960">
             <speaker xml:id="idm140221993576704">FRU BORDING.</speaker>
@@ -3645,7 +3654,7 @@ snarligt Ophør og gylden Fremtid — og jeg lod mig overtale. Hvor skulde jeg d
           </sp>
           <sp xml:id="idm140221992938224">
             <speaker xml:id="idm140221992937968">MARIE.</speaker>
-            <p xml:id="idm140221992937552">Aa, det kan vi godt! Du skal ingen Bebrejdelse hore af min Mund; du skal slet ikke føle min Nærværelse, jeg skal gøre mig saa lille og saa ubemærkelig — blot du ikke rejser nu!</p>
+            <p xml:id="idm140221992937552">Aa, det kan vi godt! Du skal ingen Bebrejdelse høre af min Mund; du skal slet ikke føle min Nærværelse, jeg skal gøre mig saa lille og saa ubemærkelig — blot du ikke rejser nu!</p>
           </sp>
           <sp xml:id="idm140221992936656">
             <speaker xml:id="idm140221992936400">GERHARD.</speaker>

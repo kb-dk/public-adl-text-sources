@@ -1,9 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="idm140494197599376"><!-- 
-       file     ./marc_dir/001823910.xml
-       field     
-       subfield  
-       prefix   -->
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="root">
   <teiHeader xml:id="idm140494197598720">
     <fileDesc xml:id="idm140494197598464">
       <titleStmt xml:id="idm140494197598160">
@@ -18,8 +14,17 @@
         <note xml:id="idm140494197570112">
 	  </note>
       </notesStmt>
-      <sourceDesc xml:id="idm140494197569600"><bibl xml:id="idm140494197569472"><author n="1" xml:id="idm140494197568784"><name xml:id="idm140494197568528"><surname xml:id="idm140494197568400">Bang</surname>, <forename xml:id="idm140494197567936">Herman</forename></name></author><title xml:id="idm140494197567648">Værker i Mindeudgave</title><pubPlace xml:id="idm140494197567328">Kbh.</pubPlace>; <pubPlace xml:id="idm140494197566864">Kristiania</pubPlace>
-<publisher xml:id="idm140494197566400">Gyldendal</publisher><date xml:id="idm140494197566064">1920-1921</date></bibl><listBibl xml:id="idm140494197565776"><bibl xml:id="biblid54189"><title xml:id="idm140494197552624">MIKAËL</title></bibl><bibl xml:id="biblid73435"><title xml:id="idm140494197551840">DE UDEN FÆDRELAND -</title></bibl></listBibl></sourceDesc>
+      <sourceDesc xml:id="idm140494197569600">
+        <bibl xml:id="idm140494197569472"><author n="1" xml:id="idm140494197568784"><name xml:id="idm140494197568528"><surname xml:id="idm140494197568400">Bang</surname>, <forename xml:id="idm140494197567936">Herman</forename></name></author><title xml:id="idm140494197567648">Værker i Mindeudgave</title><pubPlace xml:id="idm140494197567328">København</pubPlace>; <pubPlace xml:id="idm140494197566864">Kristiania</pubPlace><publisher xml:id="idm140494197566400">Gyldendal</publisher><date xml:id="idm140494197566064">1920-1921</date></bibl>
+        <listBibl xml:id="idm140494197565776">
+          <bibl xml:id="biblid54189">
+            <title xml:id="idm140494197552624">MIKAËL</title>
+          </bibl>
+          <bibl xml:id="biblid73435">
+            <title xml:id="idm140494197551840">DE UDEN FÆDRELAND -</title>
+          </bibl>
+        </listBibl>
+      </sourceDesc>
     </fileDesc>
   </teiHeader>
   <text xml:id="idm140494197551136">
@@ -1447,7 +1452,7 @@ Hr. de Monthieu smilede:
 - Men vi s e r vel alle kun én Ting - -
 </p>
             <p xml:id="idm140494197236256">
-Mikaël havde vist slet ikke hørt det. Han sagde,mens han stadig sad og dinglede paa Gelænderet som en stor og lang Dreng:
+Mikaël havde vist slet ikke hørt det. Han sagde, mens han stadig sad og dinglede paa Gelænderet som en stor og lang Dreng:
 </p>
             <p xml:id="idm140494197235600">
 - Hvor Fru Adelsskjold er smuk.

@@ -1,9 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="idm140292668528528"><!-- 
-       file     ./marc_dir/007739074.xml
-       field     
-       subfield  
-       prefix   -->
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="root">
   <teiHeader xml:id="idm140292668533280">
     <fileDesc xml:id="idm140292668533024">
       <titleStmt xml:id="idm140292668532720">
@@ -21,8 +17,22 @@
         <note xml:id="idm140292668503680">
 	  </note>
       </notesStmt>
-      <sourceDesc xml:id="idm140292668503168"><bibl xml:id="idm140292668503040"><author n="1" xml:id="idm140292668502352"><name xml:id="idm140292668502096"><surname xml:id="idm140292668501968">Rode</surname>, <forename xml:id="idm140292668501536">Helge</forename></name></author><title xml:id="idm140292668501248">Pladsen med de grønne Trær</title><pubPlace xml:id="idm140292668500912">Kbh.</pubPlace>
-<publisher xml:id="idm140292668500448">Gyldendalske Boghandel. Nordisk Forlag</publisher><date xml:id="idm140292668500096">1924</date></bibl><listBibl xml:id="idm140292668499808"><bibl xml:id="biblid54096"><title xml:id="idm140292668486656">Pladsen med de grønne Trær</title></bibl></listBibl></sourceDesc>
+      <sourceDesc xml:id="idm140292668503168">
+        <bibl xml:id="idm140292668503040">
+          <author n="1" xml:id="idm140292668502352">
+            <name xml:id="idm140292668502096"><surname xml:id="idm140292668501968">Rode</surname>, <forename xml:id="idm140292668501536">Helge</forename></name>
+          </author>
+          <title xml:id="idm140292668501248">Pladsen med de grønne Trær</title>
+          <pubPlace xml:id="idm140292668500912">København</pubPlace>
+          <publisher xml:id="idm140292668500448">Gyldendalske Boghandel. Nordisk Forlag</publisher>
+          <date xml:id="idm140292668500096">1924</date>
+        </bibl>
+        <listBibl xml:id="idm140292668499808">
+          <bibl xml:id="biblid54096">
+            <title xml:id="idm140292668486656">Pladsen med de grønne Trær</title>
+          </bibl>
+        </listBibl>
+      </sourceDesc>
     </fileDesc>
   </teiHeader>
   <text xml:id="workid54096" decls="#biblid54096">

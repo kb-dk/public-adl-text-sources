@@ -1,10 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!--Tom opmærkning jbh 27.09.01-->
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="idm140687029705936"><!-- 
-       file     ./marc_dir/001823972.xml
-       field     
-       subfield  
-       prefix   -->
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="root">
   <teiHeader xml:id="idm140687029705104">
     <fileDesc xml:id="idm140687029704848">
       <titleStmt xml:id="idm140687029704544">
@@ -19,8 +14,63 @@
         <note xml:id="idm140687029676544">
 	  </note>
       </notesStmt>
-      <sourceDesc xml:id="idm140687029676032"><bibl xml:id="idm140687029675904"><author n="1" xml:id="idm140687029675216"><name xml:id="idm140687029674960"><surname xml:id="idm140687029674832">Brandes</surname>, <forename xml:id="idm140687029674400">Georg</forename></name></author><title xml:id="idm140687029674112">Samlede Skrifter</title><pubPlace xml:id="idm140687029673824">Kbh.</pubPlace>
-<date xml:id="idm140687029673312">1899-1910</date></bibl><listBibl xml:id="idm140687029673024"><bibl xml:id="biblid54136"><title xml:id="idm140687029659872">Italien</title></bibl><bibl xml:id="biblid55242"><title xml:id="idm140687029659088">Frankrig</title></bibl><bibl xml:id="biblid55419"><title xml:id="idm140687029658304">Schweiz</title></bibl><bibl xml:id="biblid55461"><title xml:id="idm140687029657472">Tyskland</title></bibl><bibl xml:id="biblid55604"><title xml:id="idm140687029656688">Belgien</title></bibl><bibl xml:id="biblid55927"><title xml:id="idm140687029655904">Holland</title></bibl><bibl xml:id="biblid56059"><title xml:id="idm140687029655056">Danmarkr</title></bibl><bibl xml:id="biblid56100"><title xml:id="idm140687029654224">Sverig</title></bibl><bibl xml:id="biblid56142"><title xml:id="idm140687029653392">Bøhmen</title></bibl><bibl xml:id="biblid56269"><title xml:id="idm140687029652560">Østerrig</title></bibl><bibl xml:id="biblid56349"><title xml:id="idm140687029651776">Finland</title></bibl><bibl xml:id="biblid56390"><title xml:id="idm140687029650992">England</title></bibl><bibl xml:id="biblid56614"><title xml:id="idm140687029650208">Palæstina</title></bibl><bibl xml:id="biblid57404"><title xml:id="idm140687029649376">Rumænien</title></bibl><bibl xml:id="biblid57618"><title xml:id="idm140687029648544">Japan</title></bibl></listBibl></sourceDesc>
+      <sourceDesc xml:id="idm140687029676032">
+        <bibl xml:id="idm140687029675904">
+          <author n="1" xml:id="idm140687029675216">
+            <name xml:id="idm140687029674960"><surname xml:id="idm140687029674832">Brandes</surname>, <forename xml:id="idm140687029674400">Georg</forename></name>
+          </author>
+          <title xml:id="idm140687029674112">Samlede Skrifter</title>
+          <pubPlace xml:id="idm140687029673824">København</pubPlace>
+          <date xml:id="idm140687029673312">1899-1910</date>
+        </bibl>
+        <listBibl xml:id="idm140687029673024">
+          <bibl xml:id="biblid54136">
+            <title xml:id="idm140687029659872">Italien</title>
+          </bibl>
+          <bibl xml:id="biblid55242">
+            <title xml:id="idm140687029659088">Frankrig</title>
+          </bibl>
+          <bibl xml:id="biblid55419">
+            <title xml:id="idm140687029658304">Schweiz</title>
+          </bibl>
+          <bibl xml:id="biblid55461">
+            <title xml:id="idm140687029657472">Tyskland</title>
+          </bibl>
+          <bibl xml:id="biblid55604">
+            <title xml:id="idm140687029656688">Belgien</title>
+          </bibl>
+          <bibl xml:id="biblid55927">
+            <title xml:id="idm140687029655904">Holland</title>
+          </bibl>
+          <bibl xml:id="biblid56059">
+            <title xml:id="idm140687029655056">Danmarkr</title>
+          </bibl>
+          <bibl xml:id="biblid56100">
+            <title xml:id="idm140687029654224">Sverig</title>
+          </bibl>
+          <bibl xml:id="biblid56142">
+            <title xml:id="idm140687029653392">Bøhmen</title>
+          </bibl>
+          <bibl xml:id="biblid56269">
+            <title xml:id="idm140687029652560">Østerrig</title>
+          </bibl>
+          <bibl xml:id="biblid56349">
+            <title xml:id="idm140687029651776">Finland</title>
+          </bibl>
+          <bibl xml:id="biblid56390">
+            <title xml:id="idm140687029650992">England</title>
+          </bibl>
+          <bibl xml:id="biblid56614">
+            <title xml:id="idm140687029650208">Palæstina</title>
+          </bibl>
+          <bibl xml:id="biblid57404">
+            <title xml:id="idm140687029649376">Rumænien</title>
+          </bibl>
+          <bibl xml:id="biblid57618">
+            <title xml:id="idm140687029648544">Japan</title>
+          </bibl>
+        </listBibl>
+      </sourceDesc>
     </fileDesc>
   </teiHeader>
   <text xml:id="idm140687029647904">

@@ -1,11 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!-- OCR by ATAPY 08.10.02 Catherine Bychkova-->
-<!-- HHL 20031222 eneklte rettelser.  Ptj rettet s. 229-  -->
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="idm139850611505888"><!-- 
-       file     ./marc_dir/002233943.xml
-       field     
-       subfield  
-       prefix   -->
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="root">
   <teiHeader xml:id="idm139850611505232">
     <fileDesc xml:id="idm139850611504976">
       <titleStmt xml:id="idm139850611479552">
@@ -26,17 +20,20 @@
         <note xml:id="idm139850611474912">
 	  </note>
       </notesStmt>
-      <sourceDesc xml:id="idm139850611474400"><bibl xml:id="idm139850611474272"><author n="1" xml:id="idm139850611473584"><name xml:id="idm139850611473328"><surname xml:id="idm139850611473200">Andersen</surname>, <forename xml:id="idm139850611472768">H. C.</forename></name></author><title xml:id="idm139850611472512">At være eller ikke være</title><pubPlace xml:id="idm139850611472192">[Kbh.]</pubPlace>; <pubPlace xml:id="idm139850611471728">[Valby]</pubPlace>
-<publisher xml:id="idm139850611471264">Det Danske Sprog- og Litteraturselskab</publisher><publisher xml:id="idm139850611470960">Borgen</publisher><date xml:id="idm139850611470624">2001</date></bibl><listBibl xml:id="idm139850611470336"><bibl xml:id="biblid54108"><title xml:id="idm139850611457184">'At være eller ikke være.'</title></bibl></listBibl></sourceDesc>
+      <sourceDesc xml:id="idm139850611474400">
+        <bibl xml:id="idm139850611474272"><author n="1" xml:id="idm139850611473584"><name xml:id="idm139850611473328"><surname xml:id="idm139850611473200">Andersen</surname>, <forename xml:id="idm139850611472768">H. C.</forename></name></author><title xml:id="idm139850611472512">At være eller ikke være</title><pubPlace xml:id="idm139850611472192">[København]</pubPlace>; <pubPlace xml:id="idm139850611471728">[Valby]</pubPlace><publisher xml:id="idm139850611471264">Det Danske Sprog- og Litteraturselskab</publisher><publisher xml:id="idm139850611470960">Borgen</publisher><date xml:id="idm139850611470624">2001</date></bibl>
+        <listBibl xml:id="idm139850611470336">
+          <bibl xml:id="biblid54108">
+            <title xml:id="idm139850611457184">'At være eller ikke være.'</title>
+          </bibl>
+        </listBibl>
+      </sourceDesc>
     </fileDesc>
   </teiHeader>
   <text xml:id="workid54108" decls="#biblid54108">
     <front xml:id="idm139850611455552">
       <pb n="1" xml:id="s1" facs="adl/andersenhc/andersenhc7/anhc7001"/>
       <gap reason="cancelled" xml:id="idm139850611454096"/>
-<!---->
-<!---->
-<!--»At være eller ikke være.«-->
       <pb n="2" xml:id="s2" facs="adl/andersenhc/andersenhc7/anhc7002"/>
       <pb n="3" xml:id="s3" facs="adl/andersenhc/andersenhc7/anhc7003"/>
       <titlePage xml:id="idm139850611450336">
@@ -73,7 +70,7 @@
 					omtalte manuskript (forstadium til s. 102-03) og foto fra 1860 af Franz
 					Hanfstaengl i München · Tryk: Rounborgs grafiske Hus, Holstebro
 					· Papir: Book Design - 1,3 - l00g, Svanemærket,
-					klorog syrefrit · ISO 9706 <!--*infinity*.-->[x]</bibl>
+					klorog syrefrit · ISO 9706 [x]</bibl>
         <bibl xml:id="idm139850611417536">Tak for økonomisk støtte fra<lb xml:id="idm139850611417280"/> Ingeniør N.M. Knudsens Fond</bibl>
       </div>
       <pb n="5" xml:id="s5" facs="adl/andersenhc/andersenhc7/anhc7005"/>

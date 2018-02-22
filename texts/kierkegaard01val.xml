@@ -1,13 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!--  OCR by ATAPY 20.09.2001 (Catherine Bychkova) -->
-<!-- VL 10.10.02 dolgoeO changed to d.v.s. ; greek letters to [x] ; <emph> to spat 
-    Ptj rettet s.13-14-111-202- plus x antal "o" til "ø"
--->
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="idm140698093018000"><!-- 
-       file     ./marc_dir/001497565.xml
-       field     
-       subfield  
-       prefix   -->
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="root">
   <teiHeader xml:id="idm140698093017024">
     <fileDesc xml:id="idm140698093016768">
       <titleStmt xml:id="idm140698092991344">
@@ -20,7 +12,7 @@
         <author xml:id="idm140698092989152">SØREN KIERKEGAARD</author>
       </titleStmt>
       <publicationStmt xml:id="idm140698092988544">
-        <publisher xml:id="idm140698092988288">Danske Klassikere Det danske Sprog- og Litteraturselskab
+        <publisher xml:id="idm140698092988288">Danske Klassikere Det Danske Sprog- og Litteraturselskab
 	Borgen</publisher>
         <idno xml:id="idm140698092987824" xml:base="texts/kierkegaard01val.xml">001497565:01</idno>
       </publicationStmt>
@@ -28,17 +20,20 @@
         <note xml:id="idm140698092986704">
 	  </note>
       </notesStmt>
-      <sourceDesc xml:id="idm140698092986192"><bibl xml:id="idm140698092986064"><author n="1" xml:id="idm140698092985376"><name xml:id="idm140698092985120"><surname xml:id="idm140698092984992">Kierkegaard</surname>, <forename xml:id="idm140698092984560">Søren</forename></name></author><title xml:id="idm140698092984304">Begrebet Angest</title><pubPlace xml:id="idm140698092984016">[Kbh.]</pubPlace>; <pubPlace xml:id="idm140698092983552">Valby</pubPlace>
-<publisher xml:id="idm140698092983088">Det danske Sprog- og Litteraturselskab</publisher><publisher xml:id="idm140698092982784">Borgen</publisher><date xml:id="idm140698092982448">1991</date></bibl><listBibl xml:id="idm140698092982160"><bibl xml:id="biblid54239"><title xml:id="idm140698092969008">Begrebet Angest</title></bibl></listBibl></sourceDesc>
+      <sourceDesc xml:id="idm140698092986192">
+        <bibl xml:id="idm140698092986064"><author n="1" xml:id="idm140698092985376"><name xml:id="idm140698092985120"><surname xml:id="idm140698092984992">Kierkegaard</surname>, <forename xml:id="idm140698092984560">Søren</forename></name></author><title xml:id="idm140698092984304">Begrebet Angest</title><pubPlace xml:id="idm140698092984016">[København]</pubPlace>; <pubPlace xml:id="idm140698092983552">Valby</pubPlace><publisher xml:id="idm140698092983088">Det Danske Sprog- og Litteraturselskab</publisher><publisher xml:id="idm140698092982784">Borgen</publisher><date xml:id="idm140698092982448">1991</date></bibl>
+        <listBibl xml:id="idm140698092982160">
+          <bibl xml:id="biblid54239">
+            <title xml:id="idm140698092969008">Begrebet Angest</title>
+          </bibl>
+        </listBibl>
+      </sourceDesc>
     </fileDesc>
   </teiHeader>
   <text xml:id="idm140698092968368">
     <front xml:id="idm140698092968112">
       <pb n="1" facs="adl/kierkegaard/kierkegaard1/kierkeg1001" xml:id="idm140698092967808"/>
       <gap reason="cancelled" xml:id="idm140698092966992"/>
-<!---->
-<!---->
-<!--Begrebet Angest-->
       <pb n="2" facs="adl/kierkegaard/kierkegaard1/kierkeg1002" xml:id="idm140698092965472"/>
       <pb n="3" facs="adl/kierkegaard/kierkegaard1/kierkeg1003" xml:id="idm140698092964688"/>
       <titlePage xml:id="idm140698092963920">
@@ -53,7 +48,7 @@
 	  </bibl>
         </docEdition>
         <docImprint xml:id="idm140698092959264">
-          <publisher xml:id="idm140698092959008">Danske Klassikere<lb xml:id="idm140698092958720"/>Det danske Sprog- og Litteraturselskab
+          <publisher xml:id="idm140698092959008">Danske Klassikere<lb xml:id="idm140698092958720"/>Det Danske Sprog- og Litteraturselskab
 						<lb xml:id="idm140698092958400"/>Borgen</publisher>
         </docImprint>
       </titlePage>
@@ -94,11 +89,11 @@
           <div xml:id="idm140698092921120">
             <p xml:id="idm140698092920864">Distinctionens Tid er forbi, Systemet haver overvundet den. Hvo der i
 							vore Dage elsker den, er en Særling, hvis Sjel hænger ved noget længst
-							forsvundet Det maa saa være, dog bliver <hi rend="spat" xml:id="idm140698092920192">Socrates</hi>
+							forsvundet. Det maa saa være, dog bliver <hi rend="spat" xml:id="idm140698092920192">Socrates</hi>
 							hvad han var, den eenfoldige Vise, ved sin besynderlige Distinction,
 							hvilken han selv udtalte og fuldkommede, hvilken først den sære <hi rend="spat" xml:id="idm140698092919184">Hamann</hi> to Aartusinder senere beundrende gjentog:
 							»thi Socrates var stor derved, »»at han distinguerede mellem hvad han
-							forstod og hvad han ikke forstod««</p>
+							forstod og hvad han ikke forstod.««</p>
           </div>
           <pb n="9" facs="adl/kierkegaard/kierkegaard1/kierkeg1009" xml:id="idm140698092917888"/>
           <div xml:id="idm140698092917120">
@@ -204,7 +199,7 @@
 							afvinder vel endogsaa den Rettroende denne Concession, fordi han maaskee
 							ikke strax gjennemskuer Misforstaaelsen, at den ikke har sin Grund i det
 							Senere, men i hiin [x][x][x][x][x][x]
-							[x][x][x][x][x][x]<!-- <hi rend="italics">&#960;&#961;&#969;&#964;&#959;&#957; &#968;&#949;&#965;&#948;&#959;&#962;</hi> -->
+							[x][x][x][x][x][x]
 							.Tabet er umiskjendeligt; thi Troen taber derved, at den berøves, hvad
 							den lovligt tilhører, sin historiske Forudsætning; Dogmatiken taber
 							derved, at den kommer til at begynde, ikke hvor den har sin Begynden,
@@ -257,10 +252,10 @@
 							tvende Videnskaber: Ethiken og Dogmatiken, især da man efter at have
 							faaet Ordet Forsoning bragt ind, nu ogsaa hentyder paa, at Logik og
 							[x][x][x][x][x]
-							<!-- <hi rend="italics">&#955;&#959;&#947;&#959;&#962;</hi> -->
+							
 							(det dogmatiske) svare til hinanden, og at Logiken er den egentlige Lære
 							om
-							[x][x][x][x][x]<!-- <hi rend="italics">&#955;&#959;&#947;&#959;&#962;</hi> -->.
+							[x][x][x][x][x].
 							Ethiken og Dogmatiken stride i et skjebnesvangert <hi rend="italics" xml:id="idm140698093042112">confinium</hi> om Forsoningen. Angeren og Skylden frempiner ethisk
 							Forsoningen, medens Dogmatiken i Receptiviteten for den tilbudne
 							Forsoning har den historisk concrete Umiddelbarhed, med hvilken den
@@ -442,7 +437,7 @@
 							corresponderer med denne ved at ville henstille sig som Opgave for
 							ethvert Menneske saaledes, at den vil gjøre ham til det sande, til det
 							hele Menneske, Mennesket [x][x][x]'
-							[x][x][x][x][x][x]<!-- <hi rend="italics">&#954;&#945;&#964;' &#949;&#958;&#959;&#967;&#951;&#957;</hi> -->,
+							[x][x][x][x][x][x],
 							desto mere spænder den Vanskeligheden. I Kampen for at realisere
 							Ethikens Opgave viser Synden sig ikke som Noget, der kun tilfældigt
 							tilhører et tilfældigt <note anchored="true" xml:id="idm140698092812992"><p xml:id="idm140698092812592">* Dette Punkt betræffende vil man finde adskillige Bemærkninger i
@@ -583,7 +578,7 @@
 							som Opgave, dog ikke i Bevægelsen fra oven ned efter, men fra neden op
 							efter.</p>
             <p xml:id="idm140698092788224">Aristoteles har som bekjendt brugt Benævnelsen [x][x][x][x][x]
-							[x][x][x][x][x][x][x][x][x]<!-- <hi rend="italics">&#960;&#961;&#969;&#964;&#951; &#966;&#953;&#955;&#959;&#963;&#959;&#966;&#953;&#945;</hi> -->
+							[x][x][x][x][x][x][x][x][x]
 							og derved betegnet nærmest det Metaphysiske, skjøndt han tillige optog
 							en Deel af hvad der efter vore Begreber hørte ind under Theologien.
 							Dette er aldeles i sin Orden, at i Hedenskabet Theologien maatte
@@ -591,7 +586,7 @@
 							Gjennemreflekterethed, som gjorde, at Theatret i Hedenskabet havde
 							Realitet som en Art Gudstjeneste. Vil man nu abstrahere fra denne
 							Tvetydighed, saa kunde man beholde Benævnelsen ogved [x][x][x][x][x]
-							[x][x][x][x][x][x][x][x][x]<!-- <hi rend="italics">&#960;&#961;&#969;&#964;&#951; &#966;&#953;&#955;&#959;&#963;&#959;&#966;&#953;&#945;</hi> -->*
+							[x][x][x][x][x][x][x][x][x]*
 							forstaae den videnskabelige Totalitet, man kunde kalde den ethniske,
 							hvis Væsen er Immanentsen, eller græsk talt, Erindringen, og ved <hi rend="italics" xml:id="idm140698092786000">secunda philosophia</hi> forstaae den, hvis Væsen er
 							Transcendentsen eller Gjentagelsen**.</p>
@@ -740,7 +735,7 @@
 								forskjellige Consessioner, da frembyder der sig en Gradation, i
 								hvilken den dybe protestantiske Fromhed gaaer af med Seiren. Den
 								græske Kirke kalder Arvesynden: [x][x][x][x][x][x][x][x]
-								[x][x][x][x][x][x][x][x][x][x][x][x][x][x]<!-- <hi rend="italics">&#7937;&#956;&#8049;&#961;&#964;&#951;&#956;&#945; &#960;&#961;&#959;&#964;&#959;&#960;&#945;&#964;&#959;&#961;&#953;&#954;&#959;&#957;</hi> -->.
+								[x][x][x][x][x][x][x][x][x][x][x][x][x][x].
 								Den har ikke engang et Begreb; thi dette Ord er kun en historisk
 								Angivelse, der ikke som Begrebet angiver det Nærværende, men kun det
 								historisk Afsluttede. <hi rend="italics" xml:id="idm140698092754816">Vitium originis</hi>
@@ -1405,7 +1400,7 @@
 								med Hensyn til Slægtens Nedstammen fra eet Par. Naturen ynder ikke
 								en betydningsløs Overflødighed Antager man derfor, at Slægten
 								nedstammer fra flere Par, saa har der været et Øieblik, da Naturen
-								havde en intetsigende Overflødighed Saasnart GenerationsForholdet er
+								havde en intetsigende Overflødighed. Saasnart Generations-Forholdet er
 								sat, er intet Menneske en Overflødighed; thi hvert Individ er sig
 								selv og Slægten.</p>
               <pb n="45" facs="adl/kierkegaard/kierkegaard1/kierkeg1045" xml:id="idm140698092615472"/>
@@ -1472,7 +1467,7 @@
 								mod Gud ved at blande sig ind i Forholdet mellem Gud og Mennesket;
 								og man støder an mod det Tredie, at ethvert Menneske fristes af sig
 								selv.</p>
-              <p xml:id="idm140698092600816">Nu følger Syndefaldet Dette kan Psychologien ikke forklare; thi det
+              <p xml:id="idm140698092600816">Nu følger Syndefaldet. Dette kan Psychologien ikke forklare; thi det
 								er det qualitative Spring. Men lad os et Øieblik betragte Følgen,
 								som den angives i hiin Fortælling, for endnu engang at fæste Blikket
 								paa Angesten som Arvesyndens Forudsætning.</p>
@@ -1596,7 +1591,7 @@
           <div xml:id="idm140698092580336">
             <head xml:id="idm140698092580080">Caput II. Angest som Arvesynden progressivt.</head>
             <div xml:id="idm140698092579632">
-              <p xml:id="idm140698092579376">Med Syndigheden blev Sexualiteten sat I samme Øieblik begynder
+              <p xml:id="idm140698092579376">Med Syndigheden blev Sexualiteten sat. I samme Øieblik begynder
 								Slægtens Historie. Som da Syndigheden i Slægten bevæger sig i
 								quantitative Bestemmelser, saa gjør Angesten det ogsaa. Arvesyndens
 								Følge eller Arvesyndens Tilstedeværen i den Enkelte er Angest, der
@@ -1788,7 +1783,7 @@
 								Tilværelse har jeg betegnet som objektiv Angest.</p>
               <p xml:id="idm140698092546864">Hvad her menes kan jeg antyde ved at minde om Skriftordet
 								[x][x][x][x][x][x][x][x][x][x][x][x] [x][x][x]
-								[x][x][x][x][x][x][x]<!-- <hi rend="italics">&#7936;&#960;&#959;&#954;&#945;&#961;&#945;&#948;&#959;&#954;&#953;&#945; &#964;&#8134;&#962; &#954;&#964;&#8055;&#963;&#949;&#969;&#962;</hi> -->
+								[x][x][x][x][x][x][x]
 								(Rom. 8, 19.) Forsaavidt der nemlig skal være Tale om en Forlængsel,
 								følger det af sig selv, at Skabningen befinder sig i en
 								Ufuldkommenhedens Tilstand Man overseer ofte ved saadanne Udtryk og
@@ -1848,7 +1843,7 @@
 										tildeels ogsaa selv har kaldt det Negative, og hvad der hos
 										Hegel blev i Ordet det Negative nærmere bestemmet som det
 										Dialektiske. ([x][x]
-										[x][x][x][x][x][x]<!-- <hi rend="italics">&#964;&#959; &#7953;&#964;&#949;&#961;&#959;&#957;</hi> -->.)
+										[x][x][x][x][x][x].)
 										Tvetydigheden viser sig ogsaa hos Schellmg, thi han taler om
 										en Melancholie, der er udbredt over Naturen, og tillige om
 										et Tungsind i Guddommen Dog er det fornemhg Hovedtanken i
@@ -2718,7 +2713,7 @@
 										afhandlet det i »Sophisten«, der som alle Platos Dialoger
 										paa eengang kunstnensk anskueliggjør, hvad den selv docerer;
 										thi Sophisten, hvis Definition og Begreb Dialogen søger,
-										medens den hovedsagelig handler om det IkkeVærende, han er
+										medens den hovedsagelig handler om det Ikke-Værende, han er
 										selv et Ikke-Værende, og saaledes bliver Begrebet og
 										Exemplet til paa eengang i den Krig, i hvilken Sophisten
 										bekriges, og som ender med, ikke at han tilin-tetgjøres, men
@@ -2729,7 +2724,7 @@
 										i Opfattelsen af det Ikke-Værende, og det uagtet man mener
 										sig at være christelig. Den græske Philosophie og den
 										moderne er stillet saaledes Alt dreier sig om, at faae det
-										IkkeVærende til at være til; thi at faae det bort og til at
+										Ikke-Værende til at være til; thi at faae det bort og til at
 										forsvinde synes saa saare let Den christelige Betragtning er
 										stillet saaledes: det Ikke-Værende er til overalt som Intet,
 										hvoraf der skabtes, som Skin og Forfængelighed, som Synd,
@@ -4316,7 +4311,7 @@
 									afstedkomme som man troer. Det Eneste, der kan tvinge
 									Indesluttetheden til at tale, er enten en høiere Dæmon (thi hver
 									Djævel regjerer i sin Tid) eller det Gode, der absolut kan tie,
-									og hvis nogen Snildhed her ved TaushedsExaminationen vil bringe
+									og hvis nogen Snildhed her ved Tausheds-Examinationen vil bringe
 									den i Forlegenhed, da skal Inqvisitor selv blive beskæmmet, og
 									det skal vise sig, at han tilsidst bliver bange for sig selv og
 									maa bryde Tausheden. Ligeoverfor den underordnede Dæmon og de
@@ -4964,7 +4959,7 @@
 									Umiddelbarhed Inderlighedens Udebliven ligger derfor først i
 									Reflexionen.</p>
                 <p xml:id="idm140698092838736"><hi rend="spat" xml:id="idm140698092838608">Enhver Form af Inderlighedens Udebliven er da
-										enten Activitet-Passivitet, eller PassivitetActivitet, og
+										enten Activitet-Passivitet, eller Passivitet-Activitet, og
 										hvad enten den er det ene eller det andet den ligger i
 										Selvreflexionen</hi>. Formen selv gjennemløber en betydelig
 									Suite af Nuancer, alt eftersom Inderlighedens Bestemmelse bliver
@@ -5650,7 +5645,7 @@
 							kjende ved Analogier til Politie- og Høiesteretsdomme, han fatter
 							egentlig aldrig, at han er skyldig; thi er et Menneske skyldigt, da er
 							han uendelig skyldig. Faaer da en saadan Individualitet, der kun dannes
-							ved Endeligheden, ikke en Politie-Dom eller en OpinionsDom for at han er
+							ved Endeligheden, ikke en Politie-Dom eller en Opinions-Dom for at han er
 							skyldig, da bliver han noget af det Latterligste og Erbarmeligste af
 							Alt, et Dyds-Mønster, der er lidt bedre end Folk er flest, men ikke slet
 							saa god som Præsten. Hvad Hjælp skulde et saadant <pb n="147" facs="adl/kierkegaard/kierkegaard1/kierkeg1147" xml:id="idm140698091779728"/> Menneske behøve i Livet, han kan jo næsten
@@ -7218,7 +7213,7 @@
               <eg xml:id="idm140698091326448">22 </eg>
               <p xml:id="idm140698091326064"><hi rend="italics" xml:id="idm140698091325936">stricte</hi>: i streng forstand. - <hi rend="italics" xml:id="idm140698091325216">Dogme om Engle</hi> .,.: jf Karl Hase, <hi rend="italics" xml:id="idm140698091324496">Hutterus redi-vivus oder Dogmatik der
 									evangelisch-lutherischen Kirche</hi> (1828) § 73 ff og
-								§ 38 fE - <hi rend="italics" xml:id="idm140698091323648">hiin
+								§ 38 ff - <hi rend="italics" xml:id="idm140698091323648">hiin
 								Hvirvel</hi>...: hos de græske naturfilosoffer Anaximander og
 								Demokrit (6. og 5. årh. QCr.) forbindes verdens opståen med
 								forestillinger om en oprindelig hvirveltilstand. - <hi rend="italics" xml:id="idm140698091322576">Schleiermachers</hi>: Den tyske teolog og filosof
@@ -7252,9 +7247,9 @@
 								blot antages at være mulig«.</p>
               <eg xml:id="idm140698091306096">25 </eg>
               <p xml:id="idm140698091305712"><hi rend="italics" xml:id="idm140698091305584">Archimedes</hi>: Under Syrakus' erobring, 212
-								fKr., fortsatte matematikeren A. uanfægtet med at tegne geometriske
+								f.Kr., fortsatte matematikeren A. uanfægtet med at tegne geometriske
 								figurer i sandet og mistede derfor livet. - <hi rend="italics" xml:id="idm140698091304560">Man har kaldet Psychohgien</hi> . : I sin <hi rend="italics" xml:id="idm140698091303824">Enzyklopadie der philosophischen
-								Wissenschaft</hi> § 387 fE skelner Hegel mellem videnskaber
+								Wissenschaft</hi> § 387 ff skelner Hegel mellem videnskaber
 								om den subjektive ånd (antropologi, fænomenologi, psykologi), om den
 								objektive ånd (retslære, morallære, sædelighedslære) og om den
 								absolutte ånd (kunst, religion, filosofi). Hans elev Karl Rosenkranz
@@ -7571,7 +7566,7 @@
 									Offenbarungsphilosophie</hi>, Berlin 1843, s. 47. -
 									<hi rend="italics" xml:id="idm140698091162992">uudblivelige</hi>: uundgåelige. -
 									<hi rend="italics" xml:id="idm140698091162240">mærkeligt</hi>: bemærkelsesværdigt.
-								- <hi rend="italics" xml:id="idm140698091161472">adulterare</hi>: egL: begå hor;
+								- <hi rend="italics" xml:id="idm140698091161472">adulterare</hi>: egl: begå hor;
 								forfalske, forvanske. - <hi rend="italics" xml:id="idm140698091160672">altérer</hi>...: 1. forfalske penge; 2. blive forskrækket.</p>
               <eg xml:id="idm140698091159744">57 </eg>
               <p xml:id="idm140698091159360"><hi rend="italics" xml:id="idm140698091159232">Tilregnelighed</hi>: dvs. at man kan tilregne ham
@@ -7666,7 +7661,7 @@
               <eg xml:id="idm140698091108336">73 </eg>
               <p xml:id="idm140698091107952"><hi rend="italics" xml:id="idm140698091107824">en eller anden aandrig Mystagog</hi>.. Her sigtes
 								til Grundtvig, der i <hi rend="italics" xml:id="idm140698091107056">Nordens Mythologie, 2</hi>,
-								udg, Kbh. 1832, s 413, taler om mytesmedenes »FalkeSyn« for den
+								udg, Kbh. 1832, s 413, taler om mytesmedenes »Falke-Syn« for den
 								historiske gang i menneskelivet. Også »Mundharpe« er et grundtvigsk
 								udtryk. - <hi rend="italics" xml:id="idm140698091106000">Tanken og Væren er eet.
 								S</hi> K. bruger dette udtryk til at karakterisere tendensen til
@@ -7868,7 +7863,7 @@
 								at springet forudsætter den, således gælder det for friheden, at
 								dens virkelighed først sættes ved springet, samtidig med at den
 								allerede er forudsat, da mennesket ellers ikke kunne blive skyldigt
-								ved springet,jf 103. »Synden forudsætter sig selv ligesom Friheden«.</p>
+								ved springet, jf 103. »Synden forudsætter sig selv ligesom Friheden«.</p>
               <eg xml:id="idm140698091011008">91 </eg>
               <p xml:id="idm140698091010624"><hi rend="italics" xml:id="idm140698091010496">sensu eminentiori</hi>. i mere udmærket forstand
 								- <hi rend="italics" xml:id="idm140698091009712">Ansich</hi>: udtryk fra Hegels
@@ -7905,7 +7900,7 @@
               <p xml:id="idm140698090997616"><hi rend="italics" xml:id="idm140698090997488">Offeret tvetydigt... Gjentagelse</hi> ...: Den
 								tanke, at gentagelsen af det jødiske offer viser dets manglende evne
 								til at rense samvittigheden for synd og skyld, udtrykkes i Hebr.
-								9,12 fE og 25. Dette synspunkt i Hebræerbrevet blev af Reformationen
+								9,12 ff og 25. Dette synspunkt i Hebræerbrevet blev af Reformationen
 								vendt mod det katolske messeoffer, som S.K. refererer til nedenfor.</p>
               <eg xml:id="idm140698090996016">97 </eg>
               <p xml:id="idm140698090995584"><hi rend="italics" xml:id="idm140698090995456">Plato</hi>: i <hi rend="italics" xml:id="idm140698090994736">Protagoras</hi>,
@@ -8130,7 +8125,7 @@
 								virkelighed udenfor jeg'et, og betonede jeg'ets vished som kriterium
 								for sandhed, men hans synspunkter blev fremfort i form af en
 								abstrakt og spekulativ filosofi Det enkelte jeg ses som en art
-								filial af det absolutte jeg, også kaldet jeg-jeg'et,jf s. 138</p>
+								filial af det absolutte jeg, også kaldet jeg-jeg'et, jf s. 138</p>
               <eg xml:id="idm140698090888176">127 </eg>
               <p xml:id="idm140698090887760"><hi rend="italics" xml:id="idm140698090887632">Devotisme</hi> hykleri, skinhellighed -
 									<hi rend="italics" xml:id="idm140698090886896">Beviis for Sjeletts Udødelighed. I Gedanken
@@ -8374,7 +8369,7 @@
 								ynkeligste. 147 <hi rend="italics" xml:id="idm140698090774624">Hamann</hi>: se note til mottoet.
 								Denne angst i verden er imidlertid det ene ste bevis på vores
 								uensartethed [at vi på én gang er dyr og engle, jordi ske og
-								evige,jf 141]. Thi om vi intet savnede, så ville vi ikke være bedre
+								evige, jf 141]. Thi om vi intet savnede, så ville vi ikke være bedre
 								stillet end hedningene og transcendental-filosofferne, som intet véd
 								om Gud, og som forgaber sig som narre i den kære natur; ingen hjemve
 								vil le gribe os. Denne impertinente uro, denne hellige hypokondri er

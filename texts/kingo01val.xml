@@ -1,16 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!--gbl 3.10.2001
-- 200211017 HHL:fjernet bindestreger ved sideslut
-- den udstrakte brug af <lb/> er indskraenket noget i indledningen. Boer ogsaa fjernes i noterne og i versoverskrifterne
-- 20030610 vaerktitleændringer aht. fælles titler med DK-udgaven
-           en del ocr-fejl fh -> fn, fx Nafn - men kan ikke rettes universelt
-           Ptj rettet s.69-87-95
--->
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="idm140721243438208"><!-- 
-       file     ./marc_dir/001614819.xml
-       field     
-       subfield  
-       prefix   -->
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="root">
   <teiHeader xml:id="idm140721243437168">
     <fileDesc xml:id="idm140721243436912">
       <titleStmt xml:id="idm140721243411456">
@@ -31,22 +20,372 @@
         <note xml:id="idm140721243406496">
 	  </note>
       </notesStmt>
-      <sourceDesc xml:id="idm140721243405984"><bibl xml:id="idm140721243405856"><author n="1" xml:id="idm140721243405168"><name xml:id="idm140721243404912"><surname xml:id="idm140721243404784">Kingo</surname>,
-      <forename xml:id="idm140721243404336">Thomas</forename></name></author><title xml:id="idm140721243404048">Samlede skrifter 1</title><pubPlace xml:id="idm140721243403760">Kbh</pubPlace>
-<publisher xml:id="idm140721243403328">Munksgaard</publisher><date xml:id="idm140721243402992">1939-74.</date></bibl><listBibl xml:id="idm140721243402704"><bibl xml:id="biblid56395"><title xml:id="idm140721243389552">Sæbye-gaards KoeKlage 1665</title></bibl><bibl xml:id="biblid63192"><title xml:id="idm140721243388688">Binde-brev om Morten-Gaas</title></bibl><bibl xml:id="biblid64416"><title xml:id="idm140721243387840">Gravskrift over dend plukkede Mortens Gaas</title></bibl><bibl xml:id="biblid65483"><title xml:id="idm140721243387024">Om 2 Kaponer,skikkede til en barsel-kvinde</title></bibl><bibl xml:id="biblid66004"><title xml:id="idm140721243386208">Hr Karsten Hansens Atkes Afskeed fra Løve=Herridt 1669</title></bibl><bibl xml:id="biblid68165"><title xml:id="idm140721243385280">Næfve-tuud og Knud her-ud</title></bibl><bibl xml:id="biblid70259"><title xml:id="idm140721243384464">Giet hvis ønske</title></bibl><bibl xml:id="biblid70457"><title xml:id="idm140721243383616">Chrysillis</title></bibl><bibl xml:id="biblid74984"><title xml:id="idm140721243382832">Candida</title></bibl><bibl xml:id="biblid75679"><title xml:id="idm140721243382000">Kingos Svar paa Jacob Worms Kalotvise</title></bibl><bibl xml:id="biblid76589"><title xml:id="idm140721243381200">Mindedigt over Kong Davids naadige tanker og dom over Simei</title></bibl><bibl xml:id="biblid77786"><title xml:id="idm140721243380320">Mindedigt over Caspar Christopher-Søn Schøller 1661</title></bibl><bibl xml:id="biblid78102"><title xml:id="idm140721243379440">Mindedigt over Anna Rasmusdatter Schøllers 1669</title></bibl><bibl xml:id="biblid78489"><title xml:id="idm140721243378576">Mindedigt over Caspar Bartholin 1670</title></bibl><bibl xml:id="biblid78891"><title xml:id="idm140721243377776">Mindedigt over Sophia Sehested g.m. Peter Reezt 1670</title></bibl><bibl xml:id="biblid79329"><title xml:id="idm140721243376912">Mindedigt over Elisabeth Høeg 1672</title></bibl><bibl xml:id="biblid79754"><title xml:id="idm140721243376032">Mindedigt over Peter Reezt 1674</title></bibl><bibl xml:id="biblid80050"><title xml:id="idm140721243375232">Mindedigt over Susanna Worm, g. m. Henrich Borneman 1674</title></bibl><bibl xml:id="biblid80304"><title xml:id="idm140721243374400">Mindedigt over Helvig Didrichs Daatter Draguns, g. m. Karsten Atke</title></bibl><bibl xml:id="biblid80628"><title xml:id="idm140721243373568">Gravskrift over Helvig Didrichs Daatter Draguns, g. m. Karsten Atke 1674</title></bibl><bibl xml:id="biblid80682"><title xml:id="idm140721243372672">Mindedigt over Maren Bering 1675</title></bibl><bibl xml:id="biblid80922"><title xml:id="idm140721243371824">Mindedigt over Frederich Thuressøn 1675</title></bibl><bibl xml:id="biblid81342"><title xml:id="idm140721243370928">Mindedigt over Johan Wandall 1675</title></bibl><bibl xml:id="biblid81831"><title xml:id="idm140721243370016">Mindedigt over Susanna Christophers-Daatter Tønder  g. m. Eiler Schøller 1675</title></bibl><bibl xml:id="biblid82339"><title xml:id="idm140721243369088">Mindedigt over Vitus Bering 1675</title></bibl><bibl xml:id="biblid82924"><title xml:id="idm140721243368176">Mindedigt over Christen Caspersøn Schøller 1677</title></bibl><bibl xml:id="biblid83350"><title xml:id="idm140721243367312">Mindedigt over Kirsten Lindenov, g. m. Erich Banner 1678</title></bibl><bibl xml:id="biblid83971"><title xml:id="idm140721243366432">Mindedigt over Magdalena Hussman, g.m. Andreas Gunther 1683</title></bibl><bibl xml:id="biblid84551"><title xml:id="idm140721243365552">Mindedigt over Lauridtz Lindenow m.fl. 1690</title></bibl><bibl xml:id="biblid86969"><title xml:id="idm140721243364736">Mindedigt over Oluf Borck (i Susanne Worms Navn) 1690</title></bibl><bibl xml:id="biblid87133"><title xml:id="idm140721243363856">Gravskrift over Oluf Borck (i Susanne Worms Navn) 1690</title></bibl><bibl xml:id="biblid87226"><title xml:id="idm140721243362992">Mindedigt over Sophia Amalia Levenhielm, g.m. Friderich Gedde</title></bibl><bibl xml:id="biblid87663"><title xml:id="idm140721243362112">Gravskrift over Hans Kingo 1671</title></bibl><bibl xml:id="biblid87818"><title xml:id="idm140721243361264">Gravskrift over Coort Adelaer 1675</title></bibl><bibl xml:id="biblid88050"><title xml:id="idm140721243467776">Gravskrift over Hans Atke 1675</title></bibl><bibl xml:id="biblid88172"><title xml:id="idm140721243467088">Gravskrift over Thomas Bartholin og Rasmus Winding</title></bibl><bibl xml:id="biblid88284"><title xml:id="idm140721243466272">Gravskrift over Henrik Bielcke 1683</title></bibl><bibl xml:id="biblid89036"><title xml:id="idm140721243465520">Gravskrift over Drude Worm 1685</title></bibl><bibl xml:id="biblid89109"><title xml:id="idm140721243464768">Gravskrift over Anna Staphrophschy Enke efter Christen Lyxdorf 1689</title></bibl><bibl xml:id="biblid89209"><title xml:id="idm140721243463872">Gravskrift over Rasmus Schiøller 1690</title></bibl><bibl xml:id="biblid89344"><title xml:id="idm140721243335168">Gravskrift over Christian Schøller 1693</title></bibl><bibl xml:id="biblid89449"><title xml:id="idm140721243334256">Gravskrift over Biskop Bagger 1693</title></bibl><bibl xml:id="biblid89570"><title xml:id="idm140721243333504">Gravskrift over Christopher Balsløv 1693</title></bibl><bibl xml:id="biblid89618"><title xml:id="idm140721243332656">Gravskrift over Johanne Lavridsdaatter, g. m. Thomas Kingo 1694</title></bibl><bibl xml:id="biblid89702"><title xml:id="idm140721243331824">Gravskrift over Ellen Testrup 1694</title></bibl><bibl xml:id="biblid89830"><title xml:id="idm140721243331072">Gravskrift over Caspar Henrich Eggers 1696</title></bibl><bibl xml:id="biblid89930"><title xml:id="idm140721243330256">Gravskrift over Anna Schøller g. m. Povel Eggers 1698</title></bibl><bibl xml:id="biblid90109"><title xml:id="idm140721243329376">Gravskrift over Christen Schøller 1698</title></bibl><bibl xml:id="biblid90211"><title xml:id="idm140721243328528">Gravskrift over Marcus Giøe 1698</title></bibl><bibl xml:id="biblid90593"><title xml:id="idm140721243327632">Gravskrift over Hans Løwenhielm 1699</title></bibl><bibl xml:id="biblid90688"><title xml:id="idm140721243326784">Gravskrift over Christian Gyldenløve 1703</title></bibl><bibl xml:id="biblid90916"><title xml:id="idm140721243325936">Æresvers under Anna Rasmusdatter Schøllers portræt 1669</title></bibl><bibl xml:id="biblid90990"><title xml:id="idm140721243325104">Æresvers under Elisabeth Høgs portræt 1672</title></bibl><bibl xml:id="biblid91191"><title xml:id="idm140721243324288">Æresvers under Christen Schøllers portræt 1677</title></bibl><bibl xml:id="biblid91267"><title xml:id="idm140721243323408">Æresvers under Chr. V's portræt i Danske Lov 1683</title></bibl><bibl xml:id="biblid91294"><title xml:id="idm140721243322528">Æresvers under Ambrosius Hardenbechs portræt 1685</title></bibl><bibl xml:id="biblid91368"><title xml:id="idm140721243321712">Æresvers under Dorthe Engelbretsdatters portræt 1685</title></bibl><bibl xml:id="biblid91440"><title xml:id="idm140721243320896">Æresvers under Søster Worm, Enke efter Erik Torms portræt 1685</title></bibl><bibl xml:id="biblid91519"><title xml:id="idm140721243316000">Æresvers under Gertrud Iserbergs portræt 1687</title></bibl><bibl xml:id="biblid91594"><title xml:id="idm140721243315248">Æresvers under Chr. V's portræt i Norske Lov 1687</title></bibl><bibl xml:id="biblid91622"><title xml:id="idm140721243314432">Æresvers under Jens Eriksen Westengaards portræt 1689</title></bibl><bibl xml:id="biblid91687"><title xml:id="idm140721243313680">Æresvers under Jacob Bircherods portræt 1688</title></bibl><bibl xml:id="biblid91754"><title xml:id="idm140721243312928">Æresvers under Elsebeth Scheffers portræt 1690</title></bibl><bibl xml:id="biblid91835"><title xml:id="idm140721243312176">Æresvers under Christen Lodbergs portræt 1693</title></bibl><bibl xml:id="biblid91907"><title xml:id="idm140721243311424">Æresvers under Catharina Hemmers portræt 1694</title></bibl><bibl xml:id="biblid91997"><title xml:id="idm140721243310672">Æresvers under Edward Kruses portræt 1695</title></bibl><bibl xml:id="biblid92072"><title xml:id="idm140721243309760">Æresvers under Niels Juels portræt (1696-97?)</title></bibl><bibl xml:id="biblid92100"><title xml:id="idm140721243308944">Æresvers under Hans Løwenhielms portræt 1699</title></bibl><bibl xml:id="biblid92179"><title xml:id="idm140721243308128">Æresvers under Henrik Gerners portræt 1700</title></bibl><bibl xml:id="biblid92270"><title xml:id="idm140721243307312">Under Anders Sørensen Vedels portræt</title></bibl><bibl xml:id="biblid92357"><title xml:id="idm140721243306464">Æresvers til J. S. Sehestedt, Dydernis Prøvesteen 1671</title></bibl><bibl xml:id="biblid92638"><title xml:id="idm140721243305568">Æresvers til Willads Nielsøn, Himmeriges Barnemoder 1671</title></bibl><bibl xml:id="biblid92839"><title xml:id="idm140721243304736">Æresvers til J. Brunsmand, Aandelig Siunge-Lyst 1676</title></bibl><bibl xml:id="biblid93090"><title xml:id="idm140721243303856">Klinge-Digt til J. Brunsmand, Aandelig Siunge-Lyst 1676</title></bibl><bibl xml:id="biblid93207"><title xml:id="idm140721243303040">Æresvers til Jens Pedersøn, Nye Sange 1684</title></bibl><bibl xml:id="biblid93416"><title xml:id="idm140721243302224">Æresvers til Dorthe Engelbretsdatters Siælens Taare-Offer 1685</title></bibl><bibl xml:id="biblid93693"><title xml:id="idm140721243301328">Æresvers til Friederich Brandts tyske Overs. af Sjungekoret 1685</title></bibl><bibl xml:id="biblid93972"><title xml:id="idm140721243300496">Indskrift paa Kalk og Disk i Slangerup Kirke 1672</title></bibl><bibl xml:id="biblid94046"><title xml:id="idm140721243299616">Indskrift paa Lysekrone i Slangerup Kirke</title></bibl><bibl xml:id="biblid94121"><title xml:id="idm140721243298800">Indskrift paa Lysekrone i Lellinge Kirke</title></bibl><bibl xml:id="biblid94167"><title xml:id="idm140721243297984">Indskrift paa Altertavle i Lellinge Kirke</title></bibl><bibl xml:id="biblid94236"><title xml:id="idm140721243297168">Indskrift paa Altertavle i Lidemark Kirke</title></bibl><bibl xml:id="biblid94297"><title xml:id="idm140721243296288">Indskrift paa Tavle med Daabsrelief i Lyngby Kirke</title></bibl><bibl xml:id="biblid94378"><title xml:id="idm140721243295472">Indskrift paa Klokke i Snoldelev Kirke 1687</title></bibl><bibl xml:id="biblid94416"><title xml:id="idm140721243294656">Indskrift paa Klokke i Lellinge Kirke 1690</title></bibl><bibl xml:id="biblid94445"><title xml:id="idm140721243293840">Indskrift paa Klokke i Stenlille Kirke 1690</title></bibl><bibl xml:id="biblid94563"><title xml:id="idm140721243293024">Indskrift paa Klokke i Rudkøbing Kirke 1693</title></bibl><bibl xml:id="biblid94592"><title xml:id="idm140721243292160">Indskrift paa Klokke i Marslev Kirke</title></bibl><bibl xml:id="biblid94685"><title xml:id="idm140721243291408">Indskrift pa Blokken ved Christianhavns Kirke</title></bibl><bibl xml:id="biblid94900"><title xml:id="idm140721243290592">Paa en Fattigblok ved Skibsbroen i Faaborg</title></bibl><bibl xml:id="biblid95082"><title xml:id="idm140721243289712">Indskrift paa dend store Knap paa St. Knuds Spir 1694</title></bibl><bibl xml:id="biblid95382"><title xml:id="idm140721243288896">Overskrift til Kiøbenhafns Byting 1688</title></bibl><bibl xml:id="biblid96464"><title xml:id="idm140721243288048">Bryllupsdigt til Bolle Lyxdorff og Jytta Bering 1671</title></bibl><bibl xml:id="biblid96826"><title xml:id="idm140721243287168">Bryllupsdigt til Henrich Bomeman og Anna Worm 1672</title></bibl><bibl xml:id="biblid97036"><title xml:id="idm140721243286352">Mølle Borups Velkom til N. P. Brinck og Maren Christensdatter 1675</title></bibl><bibl xml:id="biblid97432"><title xml:id="idm140721243285456">Bryllupsdigt til Bolle Lyxdorff og Frederike Amalie Adeler 1685</title></bibl><bibl xml:id="biblid97754"><title xml:id="idm140721243284560">Bryllupsdigt til Sophia Amalia Moth og Powel Eggertz 1699</title></bibl><bibl xml:id="biblid98028"><title xml:id="idm140721243283664">Bryllupsdigt til Fr. Rostgaard og Conradina Rewenfeld 1703</title></bibl><bibl xml:id="biblid98506"><title xml:id="idm140721243282832">Til et Gudbarn 1681</title></bibl><bibl xml:id="biblid98599"><title xml:id="idm140721243282048">Til dend nyekomne Jfr. Barbara Helena Schøller 1686</title></bibl><bibl xml:id="biblid98727"><title xml:id="idm140721243281168">Fynske Mercurius (til Lyxdorff) 1684</title></bibl><bibl xml:id="biblid99016"><title xml:id="idm140721243280416">Bindebrev til Birgitte Baltzlov 1689</title></bibl><bibl xml:id="biblid99282"><title xml:id="idm140721243279664">Fødselsdagsønske til Ole Borch (i Susanne Worms Navn) 1689</title></bibl><bibl xml:id="biblid99481"><title xml:id="idm140721243278704">Nytaarsønske til Grev Reventlou 1699</title></bibl><bibl xml:id="biblid99637"><title xml:id="idm140721243277792">Nytaarsønske til Grev Reventlou 1703</title></bibl><bibl xml:id="biblid99808"><title xml:id="idm140721243276944">Anna Fynboes (Eller gemeenlig kaldet Titus Bulches) hendes schutzmaal</title></bibl><bibl xml:id="biblid100021"><title xml:id="idm140721243276064">Paa Uldrich Frderich Gyldenlews Sundhed 1686</title></bibl><bibl xml:id="biblid100228"><title xml:id="idm140721243275184">Paa Æsken med Ole Borchs Sten 1690</title></bibl><bibl xml:id="biblid100465"><title xml:id="idm140721243274352">I Eksemplarer af Vinterparten 1692</title></bibl><bibl xml:id="biblid100608"><title xml:id="idm140721243273440">Med en Ligprædiken til Mette Sophie Krabbe 1694</title></bibl><bibl xml:id="biblid100722"><title xml:id="idm140721243272512">Lever-Riim over Borde til Schøllerts</title></bibl><bibl xml:id="biblid100960"><title xml:id="idm140721243271664">Fastelavnsvers til Magister Stoud</title></bibl><bibl xml:id="biblid101042"><title xml:id="idm140721243270800">Om Dværgen, Grev Hans</title></bibl><bibl xml:id="biblid101315"><title xml:id="idm140721243269920">Om Snustobak</title></bibl></listBibl></sourceDesc>
+      <sourceDesc xml:id="idm140721243405984">
+        <bibl xml:id="idm140721243405856">
+          <author n="1" xml:id="idm140721243405168">
+            <name xml:id="idm140721243404912"><surname xml:id="idm140721243404784">Kingo</surname>,
+      <forename xml:id="idm140721243404336">Thomas</forename></name>
+          </author>
+          <title xml:id="idm140721243404048">Samlede skrifter 1</title>
+          <pubPlace xml:id="idm140721243403760">København</pubPlace>
+          <publisher xml:id="idm140721243403328">Munksgaard</publisher>
+          <date xml:id="idm140721243402992">1939-74.</date>
+        </bibl>
+        <listBibl xml:id="idm140721243402704">
+          <bibl xml:id="biblid56395">
+            <title xml:id="idm140721243389552">Sæbye-gaards KoeKlage 1665</title>
+          </bibl>
+          <bibl xml:id="biblid63192">
+            <title xml:id="idm140721243388688">Binde-brev om Morten-Gaas</title>
+          </bibl>
+          <bibl xml:id="biblid64416">
+            <title xml:id="idm140721243387840">Gravskrift over dend plukkede Mortens Gaas</title>
+          </bibl>
+          <bibl xml:id="biblid65483">
+            <title xml:id="idm140721243387024">Om 2 Kaponer, skikkede til en barsel-kvinde</title>
+          </bibl>
+          <bibl xml:id="biblid66004">
+            <title xml:id="idm140721243386208">Hr Karsten Hansens Atkes Afskeed fra Løve=Herridt 1669</title>
+          </bibl>
+          <bibl xml:id="biblid68165">
+            <title xml:id="idm140721243385280">Næfve-tuud og Knud her-ud</title>
+          </bibl>
+          <bibl xml:id="biblid70259">
+            <title xml:id="idm140721243384464">Giet hvis ønske</title>
+          </bibl>
+          <bibl xml:id="biblid70457">
+            <title xml:id="idm140721243383616">Chrysillis</title>
+          </bibl>
+          <bibl xml:id="biblid74984">
+            <title xml:id="idm140721243382832">Candida</title>
+          </bibl>
+          <bibl xml:id="biblid75679">
+            <title xml:id="idm140721243382000">Kingos Svar paa Jacob Worms Kalotvise</title>
+          </bibl>
+          <bibl xml:id="biblid76589">
+            <title xml:id="idm140721243381200">Mindedigt over Kong Davids naadige tanker og dom over Simei</title>
+          </bibl>
+          <bibl xml:id="biblid77786">
+            <title xml:id="idm140721243380320">Mindedigt over Caspar Christopher-Søn Schøller 1661</title>
+          </bibl>
+          <bibl xml:id="biblid78102">
+            <title xml:id="idm140721243379440">Mindedigt over Anna Rasmusdatter Schøllers 1669</title>
+          </bibl>
+          <bibl xml:id="biblid78489">
+            <title xml:id="idm140721243378576">Mindedigt over Caspar Bartholin 1670</title>
+          </bibl>
+          <bibl xml:id="biblid78891">
+            <title xml:id="idm140721243377776">Mindedigt over Sophia Sehested g.m. Peter Reezt 1670</title>
+          </bibl>
+          <bibl xml:id="biblid79329">
+            <title xml:id="idm140721243376912">Mindedigt over Elisabeth Høeg 1672</title>
+          </bibl>
+          <bibl xml:id="biblid79754">
+            <title xml:id="idm140721243376032">Mindedigt over Peter Reezt 1674</title>
+          </bibl>
+          <bibl xml:id="biblid80050">
+            <title xml:id="idm140721243375232">Mindedigt over Susanna Worm, g. m. Henrich Borneman 1674</title>
+          </bibl>
+          <bibl xml:id="biblid80304">
+            <title xml:id="idm140721243374400">Mindedigt over Helvig Didrichs Daatter Draguns, g. m. Karsten Atke</title>
+          </bibl>
+          <bibl xml:id="biblid80628">
+            <title xml:id="idm140721243373568">Gravskrift over Helvig Didrichs Daatter Draguns, g. m. Karsten Atke 1674</title>
+          </bibl>
+          <bibl xml:id="biblid80682">
+            <title xml:id="idm140721243372672">Mindedigt over Maren Bering 1675</title>
+          </bibl>
+          <bibl xml:id="biblid80922">
+            <title xml:id="idm140721243371824">Mindedigt over Frederich Thuressøn 1675</title>
+          </bibl>
+          <bibl xml:id="biblid81342">
+            <title xml:id="idm140721243370928">Mindedigt over Johan Wandall 1675</title>
+          </bibl>
+          <bibl xml:id="biblid81831">
+            <title xml:id="idm140721243370016">Mindedigt over Susanna Christophers-Daatter Tønder  g. m. Eiler Schøller 1675</title>
+          </bibl>
+          <bibl xml:id="biblid82339">
+            <title xml:id="idm140721243369088">Mindedigt over Vitus Bering 1675</title>
+          </bibl>
+          <bibl xml:id="biblid82924">
+            <title xml:id="idm140721243368176">Mindedigt over Christen Caspersøn Schøller 1677</title>
+          </bibl>
+          <bibl xml:id="biblid83350">
+            <title xml:id="idm140721243367312">Mindedigt over Kirsten Lindenov, g. m. Erich Banner 1678</title>
+          </bibl>
+          <bibl xml:id="biblid83971">
+            <title xml:id="idm140721243366432">Mindedigt over Magdalena Hussman, g.m. Andreas Gunther 1683</title>
+          </bibl>
+          <bibl xml:id="biblid84551">
+            <title xml:id="idm140721243365552">Mindedigt over Lauridtz Lindenow m.fl. 1690</title>
+          </bibl>
+          <bibl xml:id="biblid86969">
+            <title xml:id="idm140721243364736">Mindedigt over Oluf Borck (i Susanne Worms Navn) 1690</title>
+          </bibl>
+          <bibl xml:id="biblid87133">
+            <title xml:id="idm140721243363856">Gravskrift over Oluf Borck (i Susanne Worms Navn) 1690</title>
+          </bibl>
+          <bibl xml:id="biblid87226">
+            <title xml:id="idm140721243362992">Mindedigt over Sophia Amalia Levenhielm, g.m. Friderich Gedde</title>
+          </bibl>
+          <bibl xml:id="biblid87663">
+            <title xml:id="idm140721243362112">Gravskrift over Hans Kingo 1671</title>
+          </bibl>
+          <bibl xml:id="biblid87818">
+            <title xml:id="idm140721243361264">Gravskrift over Coort Adelaer 1675</title>
+          </bibl>
+          <bibl xml:id="biblid88050">
+            <title xml:id="idm140721243467776">Gravskrift over Hans Atke 1675</title>
+          </bibl>
+          <bibl xml:id="biblid88172">
+            <title xml:id="idm140721243467088">Gravskrift over Thomas Bartholin og Rasmus Winding</title>
+          </bibl>
+          <bibl xml:id="biblid88284">
+            <title xml:id="idm140721243466272">Gravskrift over Henrik Bielcke 1683</title>
+          </bibl>
+          <bibl xml:id="biblid89036">
+            <title xml:id="idm140721243465520">Gravskrift over Drude Worm 1685</title>
+          </bibl>
+          <bibl xml:id="biblid89109">
+            <title xml:id="idm140721243464768">Gravskrift over Anna Staphrophschy Enke efter Christen Lyxdorf 1689</title>
+          </bibl>
+          <bibl xml:id="biblid89209">
+            <title xml:id="idm140721243463872">Gravskrift over Rasmus Schiøller 1690</title>
+          </bibl>
+          <bibl xml:id="biblid89344">
+            <title xml:id="idm140721243335168">Gravskrift over Christian Schøller 1693</title>
+          </bibl>
+          <bibl xml:id="biblid89449">
+            <title xml:id="idm140721243334256">Gravskrift over Biskop Bagger 1693</title>
+          </bibl>
+          <bibl xml:id="biblid89570">
+            <title xml:id="idm140721243333504">Gravskrift over Christopher Balsløv 1693</title>
+          </bibl>
+          <bibl xml:id="biblid89618">
+            <title xml:id="idm140721243332656">Gravskrift over Johanne Lavridsdaatter, g. m. Thomas Kingo 1694</title>
+          </bibl>
+          <bibl xml:id="biblid89702">
+            <title xml:id="idm140721243331824">Gravskrift over Ellen Testrup 1694</title>
+          </bibl>
+          <bibl xml:id="biblid89830">
+            <title xml:id="idm140721243331072">Gravskrift over Caspar Henrich Eggers 1696</title>
+          </bibl>
+          <bibl xml:id="biblid89930">
+            <title xml:id="idm140721243330256">Gravskrift over Anna Schøller g. m. Povel Eggers 1698</title>
+          </bibl>
+          <bibl xml:id="biblid90109">
+            <title xml:id="idm140721243329376">Gravskrift over Christen Schøller 1698</title>
+          </bibl>
+          <bibl xml:id="biblid90211">
+            <title xml:id="idm140721243328528">Gravskrift over Marcus Giøe 1698</title>
+          </bibl>
+          <bibl xml:id="biblid90593">
+            <title xml:id="idm140721243327632">Gravskrift over Hans Løwenhielm 1699</title>
+          </bibl>
+          <bibl xml:id="biblid90688">
+            <title xml:id="idm140721243326784">Gravskrift over Christian Gyldenløve 1703</title>
+          </bibl>
+          <bibl xml:id="biblid90916">
+            <title xml:id="idm140721243325936">Æresvers under Anna Rasmusdatter Schøllers portræt 1669</title>
+          </bibl>
+          <bibl xml:id="biblid90990">
+            <title xml:id="idm140721243325104">Æresvers under Elisabeth Høgs portræt 1672</title>
+          </bibl>
+          <bibl xml:id="biblid91191">
+            <title xml:id="idm140721243324288">Æresvers under Christen Schøllers portræt 1677</title>
+          </bibl>
+          <bibl xml:id="biblid91267">
+            <title xml:id="idm140721243323408">Æresvers under Chr. V's portræt i Danske Lov 1683</title>
+          </bibl>
+          <bibl xml:id="biblid91294">
+            <title xml:id="idm140721243322528">Æresvers under Ambrosius Hardenbechs portræt 1685</title>
+          </bibl>
+          <bibl xml:id="biblid91368">
+            <title xml:id="idm140721243321712">Æresvers under Dorthe Engelbretsdatters portræt 1685</title>
+          </bibl>
+          <bibl xml:id="biblid91440">
+            <title xml:id="idm140721243320896">Æresvers under Søster Worm, Enke efter Erik Torms portræt 1685</title>
+          </bibl>
+          <bibl xml:id="biblid91519">
+            <title xml:id="idm140721243316000">Æresvers under Gertrud Iserbergs portræt 1687</title>
+          </bibl>
+          <bibl xml:id="biblid91594">
+            <title xml:id="idm140721243315248">Æresvers under Chr. V's portræt i Norske Lov 1687</title>
+          </bibl>
+          <bibl xml:id="biblid91622">
+            <title xml:id="idm140721243314432">Æresvers under Jens Eriksen Westengaards portræt 1689</title>
+          </bibl>
+          <bibl xml:id="biblid91687">
+            <title xml:id="idm140721243313680">Æresvers under Jacob Bircherods portræt 1688</title>
+          </bibl>
+          <bibl xml:id="biblid91754">
+            <title xml:id="idm140721243312928">Æresvers under Elsebeth Scheffers portræt 1690</title>
+          </bibl>
+          <bibl xml:id="biblid91835">
+            <title xml:id="idm140721243312176">Æresvers under Christen Lodbergs portræt 1693</title>
+          </bibl>
+          <bibl xml:id="biblid91907">
+            <title xml:id="idm140721243311424">Æresvers under Catharina Hemmers portræt 1694</title>
+          </bibl>
+          <bibl xml:id="biblid91997">
+            <title xml:id="idm140721243310672">Æresvers under Edward Kruses portræt 1695</title>
+          </bibl>
+          <bibl xml:id="biblid92072">
+            <title xml:id="idm140721243309760">Æresvers under Niels Juels portræt (1696-97?)</title>
+          </bibl>
+          <bibl xml:id="biblid92100">
+            <title xml:id="idm140721243308944">Æresvers under Hans Løwenhielms portræt 1699</title>
+          </bibl>
+          <bibl xml:id="biblid92179">
+            <title xml:id="idm140721243308128">Æresvers under Henrik Gerners portræt 1700</title>
+          </bibl>
+          <bibl xml:id="biblid92270">
+            <title xml:id="idm140721243307312">Under Anders Sørensen Vedels portræt</title>
+          </bibl>
+          <bibl xml:id="biblid92357">
+            <title xml:id="idm140721243306464">Æresvers til J. S. Sehestedt, Dydernis Prøvesteen 1671</title>
+          </bibl>
+          <bibl xml:id="biblid92638">
+            <title xml:id="idm140721243305568">Æresvers til Willads Nielsøn, Himmeriges Barnemoder 1671</title>
+          </bibl>
+          <bibl xml:id="biblid92839">
+            <title xml:id="idm140721243304736">Æresvers til J. Brunsmand, Aandelig Siunge-Lyst 1676</title>
+          </bibl>
+          <bibl xml:id="biblid93090">
+            <title xml:id="idm140721243303856">Klinge-Digt til J. Brunsmand, Aandelig Siunge-Lyst 1676</title>
+          </bibl>
+          <bibl xml:id="biblid93207">
+            <title xml:id="idm140721243303040">Æresvers til Jens Pedersøn, Nye Sange 1684</title>
+          </bibl>
+          <bibl xml:id="biblid93416">
+            <title xml:id="idm140721243302224">Æresvers til Dorthe Engelbretsdatters Siælens Taare-Offer 1685</title>
+          </bibl>
+          <bibl xml:id="biblid93693">
+            <title xml:id="idm140721243301328">Æresvers til Friederich Brandts tyske Overs. af Sjungekoret 1685</title>
+          </bibl>
+          <bibl xml:id="biblid93972">
+            <title xml:id="idm140721243300496">Indskrift paa Kalk og Disk i Slangerup Kirke 1672</title>
+          </bibl>
+          <bibl xml:id="biblid94046">
+            <title xml:id="idm140721243299616">Indskrift paa Lysekrone i Slangerup Kirke</title>
+          </bibl>
+          <bibl xml:id="biblid94121">
+            <title xml:id="idm140721243298800">Indskrift paa Lysekrone i Lellinge Kirke</title>
+          </bibl>
+          <bibl xml:id="biblid94167">
+            <title xml:id="idm140721243297984">Indskrift paa Altertavle i Lellinge Kirke</title>
+          </bibl>
+          <bibl xml:id="biblid94236">
+            <title xml:id="idm140721243297168">Indskrift paa Altertavle i Lidemark Kirke</title>
+          </bibl>
+          <bibl xml:id="biblid94297">
+            <title xml:id="idm140721243296288">Indskrift paa Tavle med Daabsrelief i Lyngby Kirke</title>
+          </bibl>
+          <bibl xml:id="biblid94378">
+            <title xml:id="idm140721243295472">Indskrift paa Klokke i Snoldelev Kirke 1687</title>
+          </bibl>
+          <bibl xml:id="biblid94416">
+            <title xml:id="idm140721243294656">Indskrift paa Klokke i Lellinge Kirke 1690</title>
+          </bibl>
+          <bibl xml:id="biblid94445">
+            <title xml:id="idm140721243293840">Indskrift paa Klokke i Stenlille Kirke 1690</title>
+          </bibl>
+          <bibl xml:id="biblid94563">
+            <title xml:id="idm140721243293024">Indskrift paa Klokke i Rudkøbing Kirke 1693</title>
+          </bibl>
+          <bibl xml:id="biblid94592">
+            <title xml:id="idm140721243292160">Indskrift paa Klokke i Marslev Kirke</title>
+          </bibl>
+          <bibl xml:id="biblid94685">
+            <title xml:id="idm140721243291408">Indskrift pa Blokken ved Christianhavns Kirke</title>
+          </bibl>
+          <bibl xml:id="biblid94900">
+            <title xml:id="idm140721243290592">Paa en Fattigblok ved Skibsbroen i Faaborg</title>
+          </bibl>
+          <bibl xml:id="biblid95082">
+            <title xml:id="idm140721243289712">Indskrift paa dend store Knap paa St. Knuds Spir 1694</title>
+          </bibl>
+          <bibl xml:id="biblid95382">
+            <title xml:id="idm140721243288896">Overskrift til Kiøbenhafns Byting 1688</title>
+          </bibl>
+          <bibl xml:id="biblid96464">
+            <title xml:id="idm140721243288048">Bryllupsdigt til Bolle Lyxdorff og Jytta Bering 1671</title>
+          </bibl>
+          <bibl xml:id="biblid96826">
+            <title xml:id="idm140721243287168">Bryllupsdigt til Henrich Bomeman og Anna Worm 1672</title>
+          </bibl>
+          <bibl xml:id="biblid97036">
+            <title xml:id="idm140721243286352">Mølle Borups Velkom til N. P. Brinck og Maren Christensdatter 1675</title>
+          </bibl>
+          <bibl xml:id="biblid97432">
+            <title xml:id="idm140721243285456">Bryllupsdigt til Bolle Lyxdorff og Frederike Amalie Adeler 1685</title>
+          </bibl>
+          <bibl xml:id="biblid97754">
+            <title xml:id="idm140721243284560">Bryllupsdigt til Sophia Amalia Moth og Powel Eggertz 1699</title>
+          </bibl>
+          <bibl xml:id="biblid98028">
+            <title xml:id="idm140721243283664">Bryllupsdigt til Fr. Rostgaard og Conradina Rewenfeld 1703</title>
+          </bibl>
+          <bibl xml:id="biblid98506">
+            <title xml:id="idm140721243282832">Til et Gudbarn 1681</title>
+          </bibl>
+          <bibl xml:id="biblid98599">
+            <title xml:id="idm140721243282048">Til dend nyekomne Jfr. Barbara Helena Schøller 1686</title>
+          </bibl>
+          <bibl xml:id="biblid98727">
+            <title xml:id="idm140721243281168">Fynske Mercurius (til Lyxdorff) 1684</title>
+          </bibl>
+          <bibl xml:id="biblid99016">
+            <title xml:id="idm140721243280416">Bindebrev til Birgitte Baltzlov 1689</title>
+          </bibl>
+          <bibl xml:id="biblid99282">
+            <title xml:id="idm140721243279664">Fødselsdagsønske til Ole Borch (i Susanne Worms Navn) 1689</title>
+          </bibl>
+          <bibl xml:id="biblid99481">
+            <title xml:id="idm140721243278704">Nytaarsønske til Grev Reventlou 1699</title>
+          </bibl>
+          <bibl xml:id="biblid99637">
+            <title xml:id="idm140721243277792">Nytaarsønske til Grev Reventlou 1703</title>
+          </bibl>
+          <bibl xml:id="biblid99808">
+            <title xml:id="idm140721243276944">Anna Fynboes (Eller gemeenlig kaldet Titus Bulches) hendes schutzmaal</title>
+          </bibl>
+          <bibl xml:id="biblid100021">
+            <title xml:id="idm140721243276064">Paa Uldrich Frderich Gyldenlews Sundhed 1686</title>
+          </bibl>
+          <bibl xml:id="biblid100228">
+            <title xml:id="idm140721243275184">Paa Æsken med Ole Borchs Sten 1690</title>
+          </bibl>
+          <bibl xml:id="biblid100465">
+            <title xml:id="idm140721243274352">I Eksemplarer af Vinterparten 1692</title>
+          </bibl>
+          <bibl xml:id="biblid100608">
+            <title xml:id="idm140721243273440">Med en Ligprædiken til Mette Sophie Krabbe 1694</title>
+          </bibl>
+          <bibl xml:id="biblid100722">
+            <title xml:id="idm140721243272512">Lever-Riim over Borde til Schøllerts</title>
+          </bibl>
+          <bibl xml:id="biblid100960">
+            <title xml:id="idm140721243271664">Fastelavnsvers til Magister Stoud</title>
+          </bibl>
+          <bibl xml:id="biblid101042">
+            <title xml:id="idm140721243270800">Om Dværgen, Grev Hans</title>
+          </bibl>
+          <bibl xml:id="biblid101315">
+            <title xml:id="idm140721243269920">Om Snustobak</title>
+          </bibl>
+        </listBibl>
+      </sourceDesc>
     </fileDesc>
   </teiHeader>
   <text xml:id="idm140721243269280">
     <front xml:id="idm140721243269024">
       <pb n="I" facs="adl/kingo/kingo1/kingo1fm001" xml:id="idm140721243268768"/>
       <gap reason="cancelled" xml:id="idm140721243268000"/>
-<!---->
-<!---->
-<!--THOMAS KINGO SAMLEDE SKRIFTER I-->
       <pb n="II" facs="adl/kingo/kingo1/kingo1fm002" xml:id="idm140721243266448"/>
       <div type="ack" xml:id="idm140721243265680">
         <p xml:id="idm140721243265184">
-          <hi rend="italics" xml:id="idm140721243264928"> Udgivet af<lb xml:id="idm140721243264368"/> Det danske Sprog- og Litteraturselskab<lb xml:id="idm140721243264064"/>
+          <hi rend="italics" xml:id="idm140721243264928"> Udgivet af<lb xml:id="idm140721243264368"/> Det Danske Sprog- og Litteraturselskab<lb xml:id="idm140721243264064"/>
 						med Støtte af<lb xml:id="idm140721243263744"/> Alfr. Goods Personalhistoriske Fond og<lb xml:id="idm140721243263440"/>
 						Carlsbergfondet </hi>
         </p>
@@ -71,7 +410,7 @@
       </titlePage>
       <pb n="IV" facs="adl/kingo/kingo1/kingo1fm004" xml:id="idm140721243254832"/>
       <div xml:id="idm140721243254064">
-        <bibl xml:id="idm140721243253808"> © <hi rend="italics" xml:id="idm140721243253520">Det danske Sprog- og Litteraturselskab 1975.</hi>
+        <bibl xml:id="idm140721243253808"> © <hi rend="italics" xml:id="idm140721243253520">Det Danske Sprog- og Litteraturselskab 1975.</hi>
 					<hi rend="italics" xml:id="idm140721243252800">ISBN 87 87504 15 4</hi>
 					<hi rend="italics" xml:id="idm140721243252112">Sats: Bianco Lunos Bogtrykkeri A-S 1945.<lb xml:id="idm140721243251520"/>Offset-reprint:
 						Krohns Bogtrykkeri A-S 1975.</hi>
@@ -80,7 +419,7 @@
       <pb n="V" facs="adl/kingo/kingo1/kingo1fm005" xml:id="idm140721243250816"/>
       <div type="foreword" xml:id="idm140721243250000">
         <p xml:id="idm140721243249472"> Tekstbindene til Thomas Kingos Samlede Skrifter - en udgivelse, som
-					Det danske Sprog- og Litteraturselskab fra første færd har anset som en af sine
+					Det Danske Sprog- og Litteraturselskab fra første færd har anset som en af sine
 					hovedopgaver - udkom i kommission hos Ejnar Munksgaard i 1945, 1939,
 					1939, 1941, 1943, hvortil føjede sig bind VII, 1945. De var fremstillet hos
 					Bianco Luno med klicheer fra F. Hendriksens Reproduktionsatelier. Forordet til

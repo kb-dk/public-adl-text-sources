@@ -1,10 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!-- VL: + vaerktitle. [x] for &#664; , omvendt c : -> d.v.s. -->
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="idm140124514409184"><!-- 
-       file     ./marc_dir/002222571.xml
-       field     
-       subfield  
-       prefix   -->
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="root">
   <teiHeader xml:id="idm140124514412944">
     <fileDesc xml:id="idm140124514412688">
       <titleStmt xml:id="idm140124514412432">
@@ -24,17 +19,40 @@
         <note xml:id="idm140124514382608">
 	  </note>
       </notesStmt>
-      <sourceDesc xml:id="idm140124514382096"><bibl xml:id="idm140124514381968"><author n="1" xml:id="idm140124514381280"><name xml:id="idm140124514381024"><surname xml:id="idm140124514380896">Ulfeldt</surname>, <forename xml:id="idm140124514380432">Leonora Christina</forename></name></author><title xml:id="idm140124514380144">Jammers Minde og andre selvbiografiske Skildringer</title><pubPlace xml:id="idm140124514379824">Kbh.</pubPlace>
-<publisher xml:id="idm140124514379360">Rosenkilde og Bagger</publisher><date xml:id="idm140124514379024">1949</date></bibl><listBibl xml:id="idm140124514378736"><bibl xml:id="biblid55833"><title xml:id="idm140124514365584">Leonora Christinas franske Selvbiografi oversat til dansk</title></bibl><bibl xml:id="biblid58897"><title xml:id="idm140124514364704">Kong Karl X. Gustavs Bryllup 1654</title></bibl><bibl xml:id="biblid59352"><title xml:id="idm140124514363856">Rejsen til Korsør 1656</title></bibl><bibl xml:id="biblid62047"><title xml:id="idm140124514363040">Confrontationen i Malmø 1659</title></bibl><bibl xml:id="biblid66408"><title xml:id="idm140124514362160">Jammers Minde</title></bibl></listBibl></sourceDesc>
+      <sourceDesc xml:id="idm140124514382096">
+        <bibl xml:id="idm140124514381968">
+          <author n="1" xml:id="idm140124514381280">
+            <name xml:id="idm140124514381024"><surname xml:id="idm140124514380896">Ulfeldt</surname>, <forename xml:id="idm140124514380432">Leonora Christina</forename></name>
+          </author>
+          <title xml:id="idm140124514380144">Jammers Minde og andre selvbiografiske Skildringer</title>
+          <pubPlace xml:id="idm140124514379824">København</pubPlace>
+          <publisher xml:id="idm140124514379360">Rosenkilde og Bagger</publisher>
+          <date xml:id="idm140124514379024">1949</date>
+        </bibl>
+        <listBibl xml:id="idm140124514378736">
+          <bibl xml:id="biblid55833">
+            <title xml:id="idm140124514365584">Leonora Christinas franske Selvbiografi oversat til dansk</title>
+          </bibl>
+          <bibl xml:id="biblid58897">
+            <title xml:id="idm140124514364704">Kong Karl X. Gustavs Bryllup 1654</title>
+          </bibl>
+          <bibl xml:id="biblid59352">
+            <title xml:id="idm140124514363856">Rejsen til Korsør 1656</title>
+          </bibl>
+          <bibl xml:id="biblid62047">
+            <title xml:id="idm140124514363040">Confrontationen i Malmø 1659</title>
+          </bibl>
+          <bibl xml:id="biblid66408">
+            <title xml:id="idm140124514362160">Jammers Minde</title>
+          </bibl>
+        </listBibl>
+      </sourceDesc>
     </fileDesc>
   </teiHeader>
   <text xml:id="idm140124514361520">
     <front xml:id="idm140124514361264">
       <pb n="I" facs="adl/leonora/leon1fm001" xml:id="idm140124514360960"/>
       <gap reason="cancelled" xml:id="idm140124514360096"/>
-<!---->
-<!---->
-<!--JAMMERS MINDE OG ANDRE SELVBIOGRAFISKE SKILDRINGER-->
       <pb n="II" facs="adl/leonora/leon1fm002" xml:id="idm140124514358512"/>
       <pb n="III" facs="adl/leonora/leon1fm003" xml:id="idm140124514357744"/>
       <titlePage xml:id="idm140124514356976">
@@ -2327,7 +2345,7 @@
 							den forløbe, os paa begge Sider at blive gamle, og ded, som mere er,
 							vorres Børn at tilvoxe, for hvis Skyld vi ikke saa længre kunde hen
 							sidde; derfor haver han vilt søge ded yderste, om mugligt Hans K. <hi rend="italics" xml:id="idm140124513613984">M</hi>. hans underdanig Erklæring ved mig vilde
-							antage; thi eftersom hannem nu paa adskillige Steder gode <hi rend="italics" xml:id="idm140124513613088">Condictioner</hi> tilbydes,haver han sig til intet
+							antage; thi eftersom hannem nu paa adskillige Steder gode <hi rend="italics" xml:id="idm140124513613088">Condictioner</hi> tilbydes, haver han sig til intet
 							vilt <hi rend="italics" xml:id="idm140124513612336">resolvere</hi>, førend han sin egen Landes-Herre <note anchored="true" xml:id="idm140124513611552"><hi rend="sup" xml:id="idm140124513611152">1</hi> d.v.s. da kunde H. M. osv. </note>
 							<note anchored="true" xml:id="idm140124513610352"><hi rend="sup" xml:id="idm140124513609952">2</hi> Fjender. </note>
 							<note anchored="true" xml:id="idm140124513609168"><hi rend="sup" xml:id="idm140124513608768">3</hi> Træskhed, Ondskab. </note>
@@ -4171,7 +4189,7 @@
 							ej derfor vogte. Hun sagde ydermere, at Dronningen selver med hender
 							talt havde og saaledes sagt: "Du sollst diese Nacht bei <hi rend="italics" xml:id="idm140124512423504">Leonora</hi> sein, du solist dich nicht fürchten, sie
 							kann nu nichts böses thun. All kann sie hechsen, so ist sie nu
-							gefangenund hat nichtes bei sich,und wosie dich schlägt,so gebe ich dir
+							gefangen und hat nichtes bei sich, und wo sie dich schlägt, so gebe ich dir
 							Urlaub ihr dicht wieder zu schlagen *dass sie bluten
 								kann*"<hi rend="sup" xml:id="idm140124512422256">2</hi>. <note anchored="true" xml:id="idm140124512421632"><hi rend="sup" xml:id="idm140124512421232">1</hi> at jeg intet ondt havde gjort. </note>
 							<note anchored="true" xml:id="idm140124512420432"><hi rend="sup" xml:id="idm140124512420032">2</hi> Du skal i Nat være hos Leonora, du skal ikke
@@ -5876,7 +5894,7 @@
 							(sagde jeg), "saa skaffer Eder nogle Nødder, saa vil vi lege
 							med dem". Det gjorde hun, og vi legte med dem som smaa Børn.
 							Jeg tog og tre af Nødderne og gjorde Terninger af dem, satte paa hver to
-							Slags Tal, og legte vi og med dem. Og paa det den [x]<!-- &#664;-->
+							Slags Tal, og legte vi og med dem. Og paa det den [x]
 							kunde kendes, som jeg gjorde med den store Knappenaal, bad jeg hender
 							fly mig et Stykke Kride, som hun og gjorde, og jeg gne Kride deri.
 							Bemeldte Terninger kom bort, jeg ved ikke hvordant; jeg er i Mening, at

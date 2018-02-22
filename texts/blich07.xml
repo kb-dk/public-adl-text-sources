@@ -1,9 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="idm139805841913200"><!-- 
-       file     ./marc_dir/001383696.xml
-       field     
-       subfield  
-       prefix   -->
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="root">
   <teiHeader xml:id="idm139805841918512">
     <fileDesc xml:id="idm139805841918256">
       <titleStmt xml:id="idm139805841917952">
@@ -27,9 +23,142 @@
         <note xml:id="idm139805841885408">
 	  </note>
       </notesStmt>
-      <sourceDesc xml:id="idm139805841884896"><bibl xml:id="idm139805841884768"><author n="1" xml:id="idm139805841884592"><name xml:id="idm139805841884224"><surname xml:id="idm139805841884096">Blicher</surname>, <forename xml:id="idm139805841883632">Steen Steensen</forename></name></author><title xml:id="idm139805841883344">Udvalgte værker</title><pubPlace xml:id="idm139805841883040">Kbh</pubPlace>
-<publisher xml:id="idm139805841882576">Gyldendal</publisher><date xml:id="idm139805841882240">1982-83</date></bibl>
-<listBibl xml:id="idm139805841879328"><bibl xml:id="biblid55684"><title xml:id="idm139805841866176">Jyllandsbeskrivelse</title></bibl><bibl xml:id="biblid55700"><title xml:id="idm139805841865392">Vestlig Profil af den Cimbriske Halvøe</title></bibl><bibl xml:id="biblid61247"><title xml:id="idm139805841864544">Viborg Amt og andre Skrifter [uddrag]</title></bibl><bibl xml:id="biblid72744"><title xml:id="idm139805841863680">E Bindstouw (paralleltekst med Rigsmålsgengivelse)</title></bibl><bibl xml:id="biblid79938"><title xml:id="idm139805841862816">Bør Jøderne taales i Staten?</title></bibl><bibl xml:id="biblid80326"><title xml:id="idm139805841861984">Bedømmelse over Skrivtet Moses og Jesus [uddrag]</title></bibl><bibl xml:id="biblid81272"><title xml:id="idm139805841861072">Mosaiterne, som Stænder-Deputerede</title></bibl><bibl xml:id="biblid81515"><title xml:id="idm139805841860192">Ikke saameget til B. R. og Sy skind, som om dem til Publicum</title></bibl><bibl xml:id="biblid81856"><title xml:id="idm139805841859312">Om Natmændsfolkene</title></bibl><bibl xml:id="biblid82504"><title xml:id="idm139805841858464">Forslag til Redningshuse for faldne Piger</title></bibl><bibl xml:id="biblid82953"><title xml:id="idm139805841857648">Endnu en Mindelse om Redningsanstalter for faldne Piger</title></bibl><bibl xml:id="biblid83294"><title xml:id="idm139805841856784">Om Herredsfogdernes Bopæle</title></bibl><bibl xml:id="biblid83510"><title xml:id="idm139805841855920">Om Legestuer</title></bibl><bibl xml:id="biblid83697"><title xml:id="idm139805841855136">Om Dødsstraffe</title></bibl><bibl xml:id="biblid84325"><title xml:id="idm139805841854336">Sommerreise i Sverrig Aar 1836 [uddrag]</title></bibl><bibl xml:id="biblid84501"><title xml:id="idm139805841853488">Liigprædlken</title></bibl><bibl xml:id="biblid84635"><title xml:id="idm139805841852640">Danmarks nærværende Tilstand</title></bibl><bibl xml:id="biblid85691"><title xml:id="idm139805841851808">Medens vi endnu have - -</title></bibl><bibl xml:id="biblid85960"><title xml:id="idm139805841850960">En Røst, men ikke i Ørken</title></bibl><bibl xml:id="biblid86121"><title xml:id="idm139805841850096">Om Publiciteten, med Hensyn til Embedsvilkaarlighed</title></bibl><bibl xml:id="biblid87235"><title xml:id="idm139805841849216">Betænkninger</title></bibl><bibl xml:id="biblid88125"><title xml:id="idm139805841848368">Sammenligning mellem Collegial- og Ministerial-Bestyrelse</title></bibl><bibl xml:id="biblid88342"><title xml:id="idm139805841847488">Politik</title></bibl><bibl xml:id="biblid88754"><title xml:id="idm139805841846704">Privilegier og Liigtorne</title></bibl><bibl xml:id="biblid88965"><title xml:id="idm139805841845856">Conservativ</title></bibl><bibl xml:id="biblid89122"><title xml:id="idm139805841845024">Min Tidsalder [Skandinavien]</title></bibl><bibl xml:id="biblid89893"><title xml:id="idm139805841844176">Rundskrivelse til gode danske Mænd</title></bibl><bibl xml:id="biblid90213"><title xml:id="idm139805841843344">Nationalfordom</title></bibl><bibl xml:id="biblid90412"><title xml:id="idm139805841842560">Danskhed</title></bibl><bibl xml:id="biblid90547"><title xml:id="idm139805841841728">Nationaldragt</title></bibl><bibl xml:id="biblid91043"><title xml:id="idm139805841840896">Almindelig Værnepligt</title></bibl><bibl xml:id="biblid91517"><title xml:id="idm139805841840080">Tale paa Himmelbjerget den 1ste i Høstmaaneden Aar 1839</title></bibl><bibl xml:id="biblid91790"><title xml:id="idm139805841839152">Den første Folkefest paa Himmelbjerget</title></bibl><bibl xml:id="biblid91908"><title xml:id="idm139805841838256">Blik mod Syden</title></bibl><bibl xml:id="biblid91980"><title xml:id="idm139805841837424">Himmelbjergtaler 1841 [uddrag]</title></bibl><bibl xml:id="biblid92110"><title xml:id="idm139805841836560">Himmelbjerg-Taler for 1844 [uddrag]</title></bibl><bibl xml:id="biblid92383"><title xml:id="idm139805841835712">Til de unge Skandinaver</title></bibl><bibl xml:id="biblid92497"><title xml:id="idm139805841834928">Min Tidsalder [Theologie med Religion]</title></bibl><bibl xml:id="biblid92763"><title xml:id="idm139805841834080">Prædiken, holdt i Randlev og Bjerager Kirker</title></bibl><bibl xml:id="biblid93045"><title xml:id="idm139805841833168">En Vielsestale</title></bibl><bibl xml:id="biblid93273"><title xml:id="idm139805841832272">Afskeeds-Prædiken (Thorning 1825)</title></bibl></listBibl></sourceDesc>
+      <sourceDesc xml:id="idm139805841884896">
+        <bibl xml:id="idm139805841884768">
+          <author n="1" xml:id="idm139805841884592">
+            <name xml:id="idm139805841884224"><surname xml:id="idm139805841884096">Blicher</surname>, <forename xml:id="idm139805841883632">Steen Steensen</forename></name>
+          </author>
+          <title xml:id="idm139805841883344">Udvalgte værker</title>
+          <pubPlace xml:id="idm139805841883040">København</pubPlace>
+          <publisher xml:id="idm139805841882576">Gyldendal</publisher>
+          <date xml:id="idm139805841882240">1982-83</date>
+        </bibl>
+        <listBibl xml:id="idm139805841879328">
+          <bibl xml:id="biblid55684">
+            <title xml:id="idm139805841866176">Jyllandsbeskrivelse</title>
+          </bibl>
+          <bibl xml:id="biblid55700">
+            <title xml:id="idm139805841865392">Vestlig Profil af den Cimbriske Halvøe</title>
+          </bibl>
+          <bibl xml:id="biblid61247">
+            <title xml:id="idm139805841864544">Viborg Amt og andre Skrifter [uddrag]</title>
+          </bibl>
+          <bibl xml:id="biblid72744">
+            <title xml:id="idm139805841863680">E Bindstouw (paralleltekst med Rigsmålsgengivelse)</title>
+          </bibl>
+          <bibl xml:id="biblid79938">
+            <title xml:id="idm139805841862816">Bør Jøderne taales i Staten?</title>
+          </bibl>
+          <bibl xml:id="biblid80326">
+            <title xml:id="idm139805841861984">Bedømmelse over Skrivtet Moses og Jesus [uddrag]</title>
+          </bibl>
+          <bibl xml:id="biblid81272">
+            <title xml:id="idm139805841861072">Mosaiterne, som Stænder-Deputerede</title>
+          </bibl>
+          <bibl xml:id="biblid81515">
+            <title xml:id="idm139805841860192">Ikke saameget til B. R. og Sy skind, som om dem til Publicum</title>
+          </bibl>
+          <bibl xml:id="biblid81856">
+            <title xml:id="idm139805841859312">Om Natmændsfolkene</title>
+          </bibl>
+          <bibl xml:id="biblid82504">
+            <title xml:id="idm139805841858464">Forslag til Redningshuse for faldne Piger</title>
+          </bibl>
+          <bibl xml:id="biblid82953">
+            <title xml:id="idm139805841857648">Endnu en Mindelse om Redningsanstalter for faldne Piger</title>
+          </bibl>
+          <bibl xml:id="biblid83294">
+            <title xml:id="idm139805841856784">Om Herredsfogdernes Bopæle</title>
+          </bibl>
+          <bibl xml:id="biblid83510">
+            <title xml:id="idm139805841855920">Om Legestuer</title>
+          </bibl>
+          <bibl xml:id="biblid83697">
+            <title xml:id="idm139805841855136">Om Dødsstraffe</title>
+          </bibl>
+          <bibl xml:id="biblid84325">
+            <title xml:id="idm139805841854336">Sommerreise i Sverrig Aar 1836 [uddrag]</title>
+          </bibl>
+          <bibl xml:id="biblid84501">
+            <title xml:id="idm139805841853488">Liigprædlken</title>
+          </bibl>
+          <bibl xml:id="biblid84635">
+            <title xml:id="idm139805841852640">Danmarks nærværende Tilstand</title>
+          </bibl>
+          <bibl xml:id="biblid85691">
+            <title xml:id="idm139805841851808">Medens vi endnu have - -</title>
+          </bibl>
+          <bibl xml:id="biblid85960">
+            <title xml:id="idm139805841850960">En Røst, men ikke i Ørken</title>
+          </bibl>
+          <bibl xml:id="biblid86121">
+            <title xml:id="idm139805841850096">Om Publiciteten, med Hensyn til Embedsvilkaarlighed</title>
+          </bibl>
+          <bibl xml:id="biblid87235">
+            <title xml:id="idm139805841849216">Betænkninger</title>
+          </bibl>
+          <bibl xml:id="biblid88125">
+            <title xml:id="idm139805841848368">Sammenligning mellem Collegial- og Ministerial-Bestyrelse</title>
+          </bibl>
+          <bibl xml:id="biblid88342">
+            <title xml:id="idm139805841847488">Politik</title>
+          </bibl>
+          <bibl xml:id="biblid88754">
+            <title xml:id="idm139805841846704">Privilegier og Liigtorne</title>
+          </bibl>
+          <bibl xml:id="biblid88965">
+            <title xml:id="idm139805841845856">Conservativ</title>
+          </bibl>
+          <bibl xml:id="biblid89122">
+            <title xml:id="idm139805841845024">Min Tidsalder [Skandinavien]</title>
+          </bibl>
+          <bibl xml:id="biblid89893">
+            <title xml:id="idm139805841844176">Rundskrivelse til gode danske Mænd</title>
+          </bibl>
+          <bibl xml:id="biblid90213">
+            <title xml:id="idm139805841843344">Nationalfordom</title>
+          </bibl>
+          <bibl xml:id="biblid90412">
+            <title xml:id="idm139805841842560">Danskhed</title>
+          </bibl>
+          <bibl xml:id="biblid90547">
+            <title xml:id="idm139805841841728">Nationaldragt</title>
+          </bibl>
+          <bibl xml:id="biblid91043">
+            <title xml:id="idm139805841840896">Almindelig Værnepligt</title>
+          </bibl>
+          <bibl xml:id="biblid91517">
+            <title xml:id="idm139805841840080">Tale paa Himmelbjerget den 1ste i Høstmaaneden Aar 1839</title>
+          </bibl>
+          <bibl xml:id="biblid91790">
+            <title xml:id="idm139805841839152">Den første Folkefest paa Himmelbjerget</title>
+          </bibl>
+          <bibl xml:id="biblid91908">
+            <title xml:id="idm139805841838256">Blik mod Syden</title>
+          </bibl>
+          <bibl xml:id="biblid91980">
+            <title xml:id="idm139805841837424">Himmelbjergtaler 1841 [uddrag]</title>
+          </bibl>
+          <bibl xml:id="biblid92110">
+            <title xml:id="idm139805841836560">Himmelbjerg-Taler for 1844 [uddrag]</title>
+          </bibl>
+          <bibl xml:id="biblid92383">
+            <title xml:id="idm139805841835712">Til de unge Skandinaver</title>
+          </bibl>
+          <bibl xml:id="biblid92497">
+            <title xml:id="idm139805841834928">Min Tidsalder [Theologie med Religion]</title>
+          </bibl>
+          <bibl xml:id="biblid92763">
+            <title xml:id="idm139805841834080">Prædiken, holdt i Randlev og Bjerager Kirker</title>
+          </bibl>
+          <bibl xml:id="biblid93045">
+            <title xml:id="idm139805841833168">En Vielsestale</title>
+          </bibl>
+          <bibl xml:id="biblid93273">
+            <title xml:id="idm139805841832272">Afskeeds-Prædiken (Thorning 1825)</title>
+          </bibl>
+        </listBibl>
+      </sourceDesc>
     </fileDesc>
   </teiHeader>
   <text xml:id="idm139805841831504">
@@ -5989,7 +6118,7 @@
        "A trower missin Do sidder oweno di Madpues."
        "Dowre!" sø han. "Ve Do ha Dowr?"
        sø A, "ja dessom Løgtnanten soe, hudden Do sedder
-       mæ din Knæer, saa vil han nok gi Dæ Dowr; ka,hænse Do
+       mæ din Knæer, saa vil han nok gi Dæ Dowr; ka hænse Do
        fik Tewand aasse." Men saa stak han mæ i mi høwer Laar.
        "Do æ sue nære! "sø A, aa saa hog A hans
        Kjep mit øwer, aa ham sjæl bag etter. "Do ku ha woer
@@ -11223,7 +11352,7 @@
       ind til Toldboden, for at vinde Tid til at frelse sine egne Skibe, og bemægtige sig
       vores. Kronprinsen lod sig besnakke, og Sejeren, vi havde ihænde, greb Horace med
       sin ene Haand. - "Ak! vi slaaes godt; men Krig forstaae vi os ikke paa."</p>
-          <p xml:id="idm139805837596080">Det føltes ret for Alvor i Attenhundrede og Syv. Vi vare lydeligt og tydeligt,nok
+          <p xml:id="idm139805837596080">Det føltes ret for Alvor i Attenhundrede og Syv. Vi vare lydeligt og tydeligt nok
       varskuede i selve de engelske Blade; men vore Ører vare tilstoppede og vore
       Øjne forblindede - hvo veed: om det ikke var en politisk Blindebuk, vi
       legede? Da Fienderne gjorde Landgang ved Vedbek, blev al Modværge forbuden. Og den
@@ -15170,7 +15299,7 @@
             <p xml:id="idm139805836060976">
               <hi rend="italic" xml:id="idm139805836060720">Samlede værker:</hi>
             </p>
-            <p xml:id="idm139805836059888">1920-34: Steen Steensen Blichers Samlede Skrifter I-XXXIII, udgivet af Det danske Sprog- og
+            <p xml:id="idm139805836059888">1920-34: Steen Steensen Blichers Samlede Skrifter I-XXXIII, udgivet af Det Danske Sprog- og
        Litteraturselskab</p>
             <p xml:id="idm139805836059376">
               <hi rend="italic" xml:id="idm139805836059120">Samlede noveller:</hi>

@@ -1,10 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!--Tom opmærkning d.18.07.2002 blo -->
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="idm139728466827152"><!-- 
-       file     ./marc_dir/002220626.xml
-       field    Wrong 
-       subfield  
-       prefix   record with link. Should be Kbh. 1917. Header says Gyldendal 1942-->
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="root">
   <teiHeader xml:id="idm139728466831888">
     <fileDesc xml:id="idm139728466831632">
       <titleStmt xml:id="idm139728466831376">
@@ -19,11 +14,18 @@
         <note xml:id="idm139728466803136">
 	  </note>
       </notesStmt>
-      <sourceDesc xml:id="idm139728466802624"><bibl xml:id="idm139728466802496"><author n="1" xml:id="idm139728466801808"><name xml:id="idm139728466801552"><surname xml:id="idm139728466801424">Knudsen</surname>,
+      <sourceDesc xml:id="idm139728466802624">
+        <bibl xml:id="idm139728466802496"><author n="1" xml:id="idm139728466801808"><name xml:id="idm139728466801552"><surname xml:id="idm139728466801424">Knudsen</surname>,
       <forename xml:id="idm139728466800976">Jakob</forename></name></author><title xml:id="idm139728466800688">Romaner og
-      Fortællinger, bind 1A </title><pubPlace xml:id="idm139728466800336">Kbh.</pubPlace>;
-      <pubPlace xml:id="idm139728466799888">Kristiania</pubPlace> <date xml:id="idm139728466799376">1917</date></bibl><listBibl xml:id="idm139728466799088"><bibl xml:id="biblid54241"><title xml:id="idm139728466785936">Den Gamle
-      Præst</title></bibl></listBibl></sourceDesc>
+      Fortællinger, bind 1A </title><pubPlace xml:id="idm139728466800336">København</pubPlace>;
+      <pubPlace xml:id="idm139728466799888">Kristiania</pubPlace><date xml:id="idm139728466799376">1917</date></bibl>
+        <listBibl xml:id="idm139728466799088">
+          <bibl xml:id="biblid54241">
+            <title xml:id="idm139728466785936">Den Gamle
+      Præst</title>
+          </bibl>
+        </listBibl>
+      </sourceDesc>
     </fileDesc>
   </teiHeader>
   <text xml:id="idm139728466785232">

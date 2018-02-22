@@ -1,10 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!--Tom opmærkning blo 25.07.02-->
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="idm139905270152112"><!-- 
-       file     ./marc_dir/001823352.xml
-       field    530 
-       subfield a 
-       prefix   Bd. 4 :-->
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="root">
   <teiHeader xml:id="idm139905270151312">
     <fileDesc xml:id="idm139905270151056">
       <titleStmt xml:id="idm139905270125616">
@@ -23,8 +18,492 @@
         <note xml:id="idm139905270121616">
 	  </note>
       </notesStmt>
-      <sourceDesc xml:id="idm139905270121104"><bibl xml:id="idm139905270120976"><author n="1" xml:id="idm139905270120288"><name xml:id="idm139905270120032"><surname xml:id="idm139905270119904">Baggesen</surname>, <forename xml:id="idm139905270119472">Jens</forename></name></author><title xml:id="idm139905270119216"> Blandede Digte. 1. Samling. - 1899</title><pubPlace xml:id="idm139905270118912">Kbh.</pubPlace>
-<date xml:id="idm139905270118400">1889-1903</date></bibl><listBibl xml:id="idm139905270118112"><bibl xml:id="biblid54505"><title xml:id="idm139905270104960">Primula, 1780</title></bibl><bibl xml:id="biblid54522"><title xml:id="idm139905270104176">Til Menander, 1782</title></bibl><bibl xml:id="biblid54557"><title xml:id="idm139905270103392">Erato</title></bibl><bibl xml:id="biblid54575"><title xml:id="idm139905270102560">Til Pram</title></bibl><bibl xml:id="biblid54602"><title xml:id="idm139905270101776">Hymenæe</title></bibl><bibl xml:id="biblid54619"><title xml:id="idm139905270100992">Idealia, 1783</title></bibl><bibl xml:id="biblid54647"><title xml:id="idm139905270100160">Selskabs-Sang paa kongens Fødselsdag, d. 29. Jan. 1784</title></bibl><bibl xml:id="biblid54695"><title xml:id="idm139905270099280">Hvad jeg synger og ikke synger</title></bibl><bibl xml:id="biblid54722"><title xml:id="idm139905270098480">Til Musen</title></bibl><bibl xml:id="biblid54750"><title xml:id="idm139905270097584">Til Helgesen</title></bibl><bibl xml:id="biblid54776"><title xml:id="idm139905270096752">Selvindbydelse</title></bibl><bibl xml:id="biblid54794"><title xml:id="idm139905270095920">Digterdrømmen</title></bibl><bibl xml:id="biblid54830"><title xml:id="idm139905270095072">Ved H. H. Kønnemans Død</title></bibl><bibl xml:id="biblid54858"><title xml:id="idm139905270094208">Da jeg var lille</title></bibl><bibl xml:id="biblid54885"><title xml:id="idm139905270093312">Til Bredsdorf</title></bibl><bibl xml:id="biblid54903"><title xml:id="idm139905270092480">Sandferne</title></bibl><bibl xml:id="biblid54921"><title xml:id="idm139905270091648">Til Selinde</title></bibl><bibl xml:id="biblid54929"><title xml:id="idm139905270090816">Den bedste Verden</title></bibl><bibl xml:id="biblid54957"><title xml:id="idm139905270089984">Leievendene</title></bibl><bibl xml:id="biblid55012"><title xml:id="idm139905270089200">Digtertryghed</title></bibl><bibl xml:id="biblid55039"><title xml:id="idm139905270088416">Skaal for den Elskede</title></bibl><bibl xml:id="biblid55057"><title xml:id="idm139905270087584">Erklæringen</title></bibl><bibl xml:id="biblid55084"><title xml:id="idm139905270086736">Till Zeline, som raadede mig til at skrive Satirer</title></bibl><bibl xml:id="biblid55093"><title xml:id="idm139905270085808">Jordens Lethe</title></bibl><bibl xml:id="biblid55120"><title xml:id="idm139905270084976">Min anden Skabelse</title></bibl><bibl xml:id="biblid55148"><title xml:id="idm139905270084192">Til Balladebarden</title></bibl><bibl xml:id="biblid55193"><title xml:id="idm139905270083360">Til Venus</title></bibl><bibl xml:id="biblid55220"><title xml:id="idm139905270082576">Horaz og Lydia</title></bibl><bibl xml:id="biblid55238"><title xml:id="idm139905270081744">Det første Haandtryk</title></bibl><bibl xml:id="biblid55275"><title xml:id="idm139905270080928">Aarstiderne</title></bibl><bibl xml:id="biblid55293"><title xml:id="idm139905270080096">De Skiønnes Skaal, d 26. Novbr. 1786</title></bibl><bibl xml:id="biblid55312"><title xml:id="idm139905270079248">Elskovsjubel</title></bibl><bibl xml:id="biblid55339"><title xml:id="idm139905270078416">Tidsfordriv</title></bibl><bibl xml:id="biblid55357"><title xml:id="idm139905270077584">Cantate paa Kongens Fødsels-Dag, d. 29. Jan 1786</title></bibl><bibl xml:id="biblid55404"><title xml:id="idm139905270076672">Til Hanna Braem</title></bibl><bibl xml:id="biblid55431"><title xml:id="idm139905270075840">Sværmerie</title></bibl><bibl xml:id="biblid55449"><title xml:id="idm139905270075056">Trøsten</title></bibl><bibl xml:id="biblid55495"><title xml:id="idm139905270074272">Aabenbarelse, Mai 1786</title></bibl><bibl xml:id="biblid55540"><title xml:id="idm139905270073376">I Ellen Cathrine Hornemanns Stambog, Juni 1786</title></bibl><bibl xml:id="biblid55549"><title xml:id="idm139905270072512">Til Madame **** i en Bog af Wieland</title></bibl><bibl xml:id="biblid55566"><title xml:id="idm139905270071664">Elskerens Ønske</title></bibl><bibl xml:id="biblid55585"><title xml:id="idm139905270070816">Bønhørelsen</title></bibl><bibl xml:id="biblid55603"><title xml:id="idm139905270069968">Til Amor</title></bibl><bibl xml:id="biblid55621"><title xml:id="idm139905270069072">Til Faye</title></bibl><bibl xml:id="biblid55639"><title xml:id="idm139905270068176">Kyssene</title></bibl><bibl xml:id="biblid55657"><title xml:id="idm139905270067344">Helbredelsen</title></bibl><bibl xml:id="biblid55686"><title xml:id="idm139905270066512">Afslaget, 1787</title></bibl><bibl xml:id="biblid55714"><title xml:id="idm139905270065680">Harpeklang, 1787</title></bibl><bibl xml:id="biblid55731"><title xml:id="idm139905270064848">Landforvandlingen, Juli 1787</title></bibl><bibl xml:id="biblid55768"><title xml:id="idm139905270064048">Roserne, 1787</title></bibl><bibl xml:id="biblid55786"><title xml:id="idm139905270063152">Trolleborg, 1787</title></bibl><bibl xml:id="biblid55814"><title xml:id="idm139905270062320">Vers paa opivne Enderiim</title></bibl><bibl xml:id="biblid55823"><title xml:id="idm139905270061472">Formastelsen, 1787</title></bibl><bibl xml:id="biblid55850"><title xml:id="idm139905270181792">Til Urania</title></bibl><bibl xml:id="biblid55878"><title xml:id="idm139905270181072">Under Wessels Portrait</title></bibl><bibl xml:id="biblid55886"><title xml:id="idm139905270180352">Til Sangen</title></bibl><bibl xml:id="biblid55904"><title xml:id="idm139905270179632">Savnet</title></bibl><bibl xml:id="biblid55922"><title xml:id="idm139905270178912">Urion</title></bibl><bibl xml:id="biblid55974"><title xml:id="idm139905270178128">Til Danmark ved Gerners Liig, Jan. 1788</title></bibl><bibl xml:id="biblid55992"><title xml:id="idm139905270031696">Til Richardsons Clarissa</title></bibl><bibl xml:id="biblid56021"><title xml:id="idm139905270030944">Til Apollo</title></bibl><bibl xml:id="biblid56040"><title xml:id="idm139905270030256">Ved Wessels Død</title></bibl><bibl xml:id="biblid56059"><title xml:id="idm139905270029568">Bønnerne</title></bibl><bibl xml:id="biblid56078"><title xml:id="idm139905270028880">Kærlighedseden</title></bibl><bibl xml:id="biblid56106"><title xml:id="idm139905270028192">Udelukkende Hyldest</title></bibl><bibl xml:id="biblid56135"><title xml:id="idm139905270027504">Overalt den Elskede</title></bibl><bibl xml:id="biblid56153"><title xml:id="idm139905270026816">Da hun skulde reise</title></bibl><bibl xml:id="biblid56172"><title xml:id="idm139905270026128">Da hun var bortreist</title></bibl><bibl xml:id="biblid56191"><title xml:id="idm139905270025440">Skilsmissen</title></bibl><bibl xml:id="biblid56209"><title xml:id="idm139905270024656">Selines Tab</title></bibl><bibl xml:id="biblid56237"><title xml:id="idm139905270023872">Til Seline, 1788</title></bibl><bibl xml:id="biblid56266"><title xml:id="idm139905270023088">Til Skibet, som førte Kronprindsen over Havet</title></bibl><bibl xml:id="biblid56285"><title xml:id="idm139905270022224">Til Kronprindsen, d. 7. Decbr. 1788</title></bibl><bibl xml:id="biblid56312"><title xml:id="idm139905270021472">Det korte Solbesøg. Til Herr **** 1788</title></bibl><bibl xml:id="biblid56331"><title xml:id="idm139905270020560">Tilegnelse, 1789</title></bibl><bibl xml:id="biblid56350"><title xml:id="idm139905270019776">Sang for Muserne, d. 13 April 1789</title></bibl><bibl xml:id="biblid56378"><title xml:id="idm139905270019024">Til Fru Bindesbøll</title></bibl><bibl xml:id="biblid56397"><title xml:id="idm139905270018272">Paa Spidsen af St. Gottard</title></bibl><bibl xml:id="biblid56416"><title xml:id="idm139905270017520">Tordenen paa Toppen af Grimsel</title></bibl><bibl xml:id="biblid56435"><title xml:id="idm139905270016768">Den visnede Maiblomst, Novbr. 1789</title></bibl><bibl xml:id="biblid56463"><title xml:id="idm139905270016016">Den lille Landsbypigem 1790</title></bibl><bibl xml:id="biblid56481"><title xml:id="idm139905270015168">Himlen i Draaben</title></bibl><bibl xml:id="biblid56510"><title xml:id="idm139905270014384">Vivli</title></bibl><bibl xml:id="biblid56528"><title xml:id="idm139905270013600">Gratierne, 1790</title></bibl><bibl xml:id="biblid56547"><title xml:id="idm139905270012816">Palmines Smiil</title></bibl><bibl xml:id="biblid56575"><title xml:id="idm139905270011968">Mirabeaus Død, 1791</title></bibl><bibl xml:id="biblid56593"><title xml:id="idm139905270011152">Krandsen, 1791</title></bibl><bibl xml:id="biblid56611"><title xml:id="idm139905270010304">Morgenlovsang</title></bibl><bibl xml:id="biblid56650"><title xml:id="idm139905270009456">Maadens Skaal</title></bibl><bibl xml:id="biblid56669"><title xml:id="idm139905270008624">Dansk Tranquebar-Viise</title></bibl><bibl xml:id="biblid56708"><title xml:id="idm139905270007840">Til Psycharion</title></bibl><bibl xml:id="biblid56717"><title xml:id="idm139905270006992">Hymne til Smør</title></bibl><bibl xml:id="biblid56765"><title xml:id="idm139905270006192">Ved Bergers Død, 1791</title></bibl><bibl xml:id="biblid56783"><title xml:id="idm139905270005312">Til Bogen, 1791</title></bibl><bibl xml:id="biblid56802"><title xml:id="idm139905270004528">Den Eneste Gud</title></bibl><bibl xml:id="biblid56872"><title xml:id="idm139905270003680">J. G. Beckers Stambog, Juli 1791</title></bibl><bibl xml:id="biblid56891"><title xml:id="idm139905270002880">Velkomst-Sang il Kronprindsesse Louisa Augusta, 1791</title></bibl><bibl xml:id="biblid56929"><title xml:id="idm139905270002064">Melonen, 1791</title></bibl><bibl xml:id="biblid57005"><title xml:id="idm139905270001280">Begeistringen</title></bibl><bibl xml:id="biblid57024"><title xml:id="idm139905270000384">Morgenhilsen, d. 15. Jan. 1792</title></bibl><bibl xml:id="biblid57043"><title xml:id="idm139905269999472">Christi Død, 1792</title></bibl><bibl xml:id="biblid57091"><title xml:id="idm139905269998608">Den rette Biskop, 1792</title></bibl><bibl xml:id="biblid57129"><title xml:id="idm139905269997824">Episcopal Kredsfang, d. 13 Mai 1792</title></bibl><bibl xml:id="biblid57167"><title xml:id="idm139905269996960">Til Laville, 1792</title></bibl><bibl xml:id="biblid57186"><title xml:id="idm139905269996128">Nyd Minutet -</title></bibl><bibl xml:id="biblid57194"><title xml:id="idm139905269995296">Visse pa Hr. Schultz's og Mad. Hostrups Bryllupsdag d. 30. Novbr. 1792</title></bibl><bibl xml:id="biblid57213"><title xml:id="idm139905269994464">Til Fanny</title></bibl><bibl xml:id="biblid57242"><title xml:id="idm139905269993616">Til Min Søster</title></bibl><bibl xml:id="biblid57260"><title xml:id="idm139905269992816">Den brave Digter, Decbr, 1792</title></bibl><bibl xml:id="biblid57288"><title xml:id="idm139905269992016">Frihedens Kamp-Sang</title></bibl><bibl xml:id="biblid57327"><title xml:id="idm139905269991168">Friheds-Solens Opgang</title></bibl><bibl xml:id="biblid57345"><title xml:id="idm139905269990320">Sang i Anledningen af Kronprindsesse Marias Lykkelige Nedkomst</title></bibl><bibl xml:id="biblid57374"><title xml:id="idm139905269989424">Dannemarks Lovsang, Febr. 1793</title></bibl><bibl xml:id="biblid57413"><title xml:id="idm139905269988576">Af Anthologien</title></bibl><bibl xml:id="biblid57421"><title xml:id="idm139905269987728">Serenade</title></bibl><bibl xml:id="biblid57450"><title xml:id="idm139905269986880">Slutnings-Sang</title></bibl><bibl xml:id="biblid57469"><title xml:id="idm139905269986096">Revolutionen, d. 15. Febr. 1793</title></bibl><bibl xml:id="biblid57497"><title xml:id="idm139905269985232">Fragment af Labyrinten i Vers, 1794</title></bibl><bibl xml:id="biblid57525"><title xml:id="idm139905269984320">Offeret</title></bibl><bibl xml:id="biblid57533"><title xml:id="idm139905269983472">Skabningens Halleluja</title></bibl><bibl xml:id="biblid57605"><title xml:id="idm139905269982688">Palmines Bortgang</title></bibl><bibl xml:id="biblid57633"><title xml:id="idm139905269981840">Minonas Fraværelse</title></bibl><bibl xml:id="biblid57641"><title xml:id="idm139905269981040">Taus Tilbedelse</title></bibl><bibl xml:id="biblid57679"><title xml:id="idm139905269980144">Til Seline</title></bibl><bibl xml:id="biblid57708"><title xml:id="idm139905269979312">Fandens Abestreger</title></bibl><bibl xml:id="biblid57746"><title xml:id="idm139905269978480">Skærslipper-Viise</title></bibl><bibl xml:id="biblid57774"><title xml:id="idm139905269977632">Til Mit Fædreneland</title></bibl><bibl xml:id="biblid57802"><title xml:id="idm139905269976768">Til Palmine [Skaberens  blindende Glands ...]</title></bibl><bibl xml:id="biblid57821"><title xml:id="idm139905269975952">Digtekunstens Undfangelse</title></bibl><bibl xml:id="biblid57840"><title xml:id="idm139905269975104">Til Palmine [Palmine! vi vil elske, være glade]</title></bibl><bibl xml:id="biblid57859"><title xml:id="idm139905269974240">Til Schleppegrell</title></bibl><bibl xml:id="biblid57878"><title xml:id="idm139905269973456">Nyt Krigsforslag</title></bibl><bibl xml:id="biblid57896"><title xml:id="idm139905269972608">Affskeeds-Sang</title></bibl><bibl xml:id="biblid57914"><title xml:id="idm139905269971760">Digterfortvivlelse</title></bibl><bibl xml:id="biblid57943"><title xml:id="idm139905269970976">Til Frue Frederikke Brun</title></bibl><bibl xml:id="biblid57951"><title xml:id="idm139905269970064">Til Bonaparte, 1798</title></bibl><bibl xml:id="biblid57988"><title xml:id="idm139905269969280">Frøken Lunas Indfald, 1798</title></bibl><bibl xml:id="biblid58007"><title xml:id="idm139905269968464">Citheresand, 1798</title></bibl><bibl xml:id="biblid58037"><title xml:id="idm139905269967680">Min Sang om min Veninde</title></bibl><bibl xml:id="biblid58065"><title xml:id="idm139905269966896">Til Døden, En Tanke af Seneca</title></bibl><bibl xml:id="biblid58073"><title xml:id="idm139905269965952">Oltids og Nutids Skikke, 1799</title></bibl><bibl xml:id="biblid58082"><title xml:id="idm139905269965040">Venskab og Kiærlighed</title></bibl><bibl xml:id="biblid58100"><title xml:id="idm139905269964112">Nytaarlønske til Qverulus</title></bibl><bibl xml:id="biblid58108"><title xml:id="idm139905269963296">Til Kronprindsen, d. 28. Jan. 1800</title></bibl><bibl xml:id="biblid58137"><title xml:id="idm139905269962432">Til Freden, d. 29. Jan. 1800</title></bibl><bibl xml:id="biblid58156"><title xml:id="idm139905269961584">Hymne til Fornuften</title></bibl><bibl xml:id="biblid58194"><title xml:id="idm139905269960800">Citherspilleren</title></bibl><bibl xml:id="biblid58222"><title xml:id="idm139905269960016">Erindring</title></bibl><bibl xml:id="biblid58240"><title xml:id="idm139905269959184">Siælens Høisang</title></bibl><bibl xml:id="biblid58268"><title xml:id="idm139905269958384">Andgatshymne</title></bibl><bibl xml:id="biblid58286"><title xml:id="idm139905269957536">Hellebeks Harpe</title></bibl><bibl xml:id="biblid58314"><title xml:id="idm139905269956752">Til Døden</title></bibl><bibl xml:id="biblid58342"><title xml:id="idm139905269955904">Til Søvnen</title></bibl><bibl xml:id="biblid58351"><title xml:id="idm139905269955056">Da hun var syg</title></bibl><bibl xml:id="biblid58370"><title xml:id="idm139905269954272">Krigs-Sang, 1801</title></bibl><bibl xml:id="biblid58400"><title xml:id="idm139905269953488">Orlogs Sang for Danmarks Søekrigere, 1801</title></bibl><bibl xml:id="biblid58429"><title xml:id="idm139905269952576">Søkrigsvise, 1801</title></bibl><bibl xml:id="biblid58448"><title xml:id="idm139905269951712">Særsynet, 1802</title></bibl></listBibl></sourceDesc>
+      <sourceDesc xml:id="idm139905270121104">
+        <bibl xml:id="idm139905270120976">
+          <author n="1" xml:id="idm139905270120288">
+            <name xml:id="idm139905270120032"><surname xml:id="idm139905270119904">Baggesen</surname>, <forename xml:id="idm139905270119472">Jens</forename></name>
+          </author>
+          <title xml:id="idm139905270119216"> Blandede Digte. 1. Samling. - 1899</title>
+          <pubPlace xml:id="idm139905270118912">København</pubPlace>
+          <date xml:id="idm139905270118400">1889-1903</date>
+        </bibl>
+        <listBibl xml:id="idm139905270118112">
+          <bibl xml:id="biblid54505">
+            <title xml:id="idm139905270104960">Primula, 1780</title>
+          </bibl>
+          <bibl xml:id="biblid54522">
+            <title xml:id="idm139905270104176">Til Menander, 1782</title>
+          </bibl>
+          <bibl xml:id="biblid54557">
+            <title xml:id="idm139905270103392">Erato</title>
+          </bibl>
+          <bibl xml:id="biblid54575">
+            <title xml:id="idm139905270102560">Til Pram</title>
+          </bibl>
+          <bibl xml:id="biblid54602">
+            <title xml:id="idm139905270101776">Hymenæe</title>
+          </bibl>
+          <bibl xml:id="biblid54619">
+            <title xml:id="idm139905270100992">Idealia, 1783</title>
+          </bibl>
+          <bibl xml:id="biblid54647">
+            <title xml:id="idm139905270100160">Selskabs-Sang paa kongens Fødselsdag, d. 29. Jan. 1784</title>
+          </bibl>
+          <bibl xml:id="biblid54695">
+            <title xml:id="idm139905270099280">Hvad jeg synger og ikke synger</title>
+          </bibl>
+          <bibl xml:id="biblid54722">
+            <title xml:id="idm139905270098480">Til Musen</title>
+          </bibl>
+          <bibl xml:id="biblid54750">
+            <title xml:id="idm139905270097584">Til Helgesen</title>
+          </bibl>
+          <bibl xml:id="biblid54776">
+            <title xml:id="idm139905270096752">Selvindbydelse</title>
+          </bibl>
+          <bibl xml:id="biblid54794">
+            <title xml:id="idm139905270095920">Digterdrømmen</title>
+          </bibl>
+          <bibl xml:id="biblid54830">
+            <title xml:id="idm139905270095072">Ved H. H. Kønnemans Død</title>
+          </bibl>
+          <bibl xml:id="biblid54858">
+            <title xml:id="idm139905270094208">Da jeg var lille</title>
+          </bibl>
+          <bibl xml:id="biblid54885">
+            <title xml:id="idm139905270093312">Til Bredsdorf</title>
+          </bibl>
+          <bibl xml:id="biblid54903">
+            <title xml:id="idm139905270092480">Sandferne</title>
+          </bibl>
+          <bibl xml:id="biblid54921">
+            <title xml:id="idm139905270091648">Til Selinde</title>
+          </bibl>
+          <bibl xml:id="biblid54929">
+            <title xml:id="idm139905270090816">Den bedste Verden</title>
+          </bibl>
+          <bibl xml:id="biblid54957">
+            <title xml:id="idm139905270089984">Leievendene</title>
+          </bibl>
+          <bibl xml:id="biblid55012">
+            <title xml:id="idm139905270089200">Digtertryghed</title>
+          </bibl>
+          <bibl xml:id="biblid55039">
+            <title xml:id="idm139905270088416">Skaal for den Elskede</title>
+          </bibl>
+          <bibl xml:id="biblid55057">
+            <title xml:id="idm139905270087584">Erklæringen</title>
+          </bibl>
+          <bibl xml:id="biblid55084">
+            <title xml:id="idm139905270086736">Till Zeline, som raadede mig til at skrive Satirer</title>
+          </bibl>
+          <bibl xml:id="biblid55093">
+            <title xml:id="idm139905270085808">Jordens Lethe</title>
+          </bibl>
+          <bibl xml:id="biblid55120">
+            <title xml:id="idm139905270084976">Min anden Skabelse</title>
+          </bibl>
+          <bibl xml:id="biblid55148">
+            <title xml:id="idm139905270084192">Til Balladebarden</title>
+          </bibl>
+          <bibl xml:id="biblid55193">
+            <title xml:id="idm139905270083360">Til Venus</title>
+          </bibl>
+          <bibl xml:id="biblid55220">
+            <title xml:id="idm139905270082576">Horaz og Lydia</title>
+          </bibl>
+          <bibl xml:id="biblid55238">
+            <title xml:id="idm139905270081744">Det første Haandtryk</title>
+          </bibl>
+          <bibl xml:id="biblid55275">
+            <title xml:id="idm139905270080928">Aarstiderne</title>
+          </bibl>
+          <bibl xml:id="biblid55293">
+            <title xml:id="idm139905270080096">De Skiønnes Skaal, d 26. Novbr. 1786</title>
+          </bibl>
+          <bibl xml:id="biblid55312">
+            <title xml:id="idm139905270079248">Elskovsjubel</title>
+          </bibl>
+          <bibl xml:id="biblid55339">
+            <title xml:id="idm139905270078416">Tidsfordriv</title>
+          </bibl>
+          <bibl xml:id="biblid55357">
+            <title xml:id="idm139905270077584">Cantate paa Kongens Fødsels-Dag, d. 29. Jan 1786</title>
+          </bibl>
+          <bibl xml:id="biblid55404">
+            <title xml:id="idm139905270076672">Til Hanna Braem</title>
+          </bibl>
+          <bibl xml:id="biblid55431">
+            <title xml:id="idm139905270075840">Sværmerie</title>
+          </bibl>
+          <bibl xml:id="biblid55449">
+            <title xml:id="idm139905270075056">Trøsten</title>
+          </bibl>
+          <bibl xml:id="biblid55495">
+            <title xml:id="idm139905270074272">Aabenbarelse, Mai 1786</title>
+          </bibl>
+          <bibl xml:id="biblid55540">
+            <title xml:id="idm139905270073376">I Ellen Cathrine Hornemanns Stambog, Juni 1786</title>
+          </bibl>
+          <bibl xml:id="biblid55549">
+            <title xml:id="idm139905270072512">Til Madame **** i en Bog af Wieland</title>
+          </bibl>
+          <bibl xml:id="biblid55566">
+            <title xml:id="idm139905270071664">Elskerens Ønske</title>
+          </bibl>
+          <bibl xml:id="biblid55585">
+            <title xml:id="idm139905270070816">Bønhørelsen</title>
+          </bibl>
+          <bibl xml:id="biblid55603">
+            <title xml:id="idm139905270069968">Til Amor</title>
+          </bibl>
+          <bibl xml:id="biblid55621">
+            <title xml:id="idm139905270069072">Til Faye</title>
+          </bibl>
+          <bibl xml:id="biblid55639">
+            <title xml:id="idm139905270068176">Kyssene</title>
+          </bibl>
+          <bibl xml:id="biblid55657">
+            <title xml:id="idm139905270067344">Helbredelsen</title>
+          </bibl>
+          <bibl xml:id="biblid55686">
+            <title xml:id="idm139905270066512">Afslaget, 1787</title>
+          </bibl>
+          <bibl xml:id="biblid55714">
+            <title xml:id="idm139905270065680">Harpeklang, 1787</title>
+          </bibl>
+          <bibl xml:id="biblid55731">
+            <title xml:id="idm139905270064848">Landforvandlingen, Juli 1787</title>
+          </bibl>
+          <bibl xml:id="biblid55768">
+            <title xml:id="idm139905270064048">Roserne, 1787</title>
+          </bibl>
+          <bibl xml:id="biblid55786">
+            <title xml:id="idm139905270063152">Trolleborg, 1787</title>
+          </bibl>
+          <bibl xml:id="biblid55814">
+            <title xml:id="idm139905270062320">Vers paa opivne Enderiim</title>
+          </bibl>
+          <bibl xml:id="biblid55823">
+            <title xml:id="idm139905270061472">Formastelsen, 1787</title>
+          </bibl>
+          <bibl xml:id="biblid55850">
+            <title xml:id="idm139905270181792">Til Urania</title>
+          </bibl>
+          <bibl xml:id="biblid55878">
+            <title xml:id="idm139905270181072">Under Wessels Portrait</title>
+          </bibl>
+          <bibl xml:id="biblid55886">
+            <title xml:id="idm139905270180352">Til Sangen</title>
+          </bibl>
+          <bibl xml:id="biblid55904">
+            <title xml:id="idm139905270179632">Savnet</title>
+          </bibl>
+          <bibl xml:id="biblid55922">
+            <title xml:id="idm139905270178912">Urion</title>
+          </bibl>
+          <bibl xml:id="biblid55974">
+            <title xml:id="idm139905270178128">Til Danmark ved Gerners Liig, Jan. 1788</title>
+          </bibl>
+          <bibl xml:id="biblid55992">
+            <title xml:id="idm139905270031696">Til Richardsons Clarissa</title>
+          </bibl>
+          <bibl xml:id="biblid56021">
+            <title xml:id="idm139905270030944">Til Apollo</title>
+          </bibl>
+          <bibl xml:id="biblid56040">
+            <title xml:id="idm139905270030256">Ved Wessels Død</title>
+          </bibl>
+          <bibl xml:id="biblid56059">
+            <title xml:id="idm139905270029568">Bønnerne</title>
+          </bibl>
+          <bibl xml:id="biblid56078">
+            <title xml:id="idm139905270028880">Kærlighedseden</title>
+          </bibl>
+          <bibl xml:id="biblid56106">
+            <title xml:id="idm139905270028192">Udelukkende Hyldest</title>
+          </bibl>
+          <bibl xml:id="biblid56135">
+            <title xml:id="idm139905270027504">Overalt den Elskede</title>
+          </bibl>
+          <bibl xml:id="biblid56153">
+            <title xml:id="idm139905270026816">Da hun skulde reise</title>
+          </bibl>
+          <bibl xml:id="biblid56172">
+            <title xml:id="idm139905270026128">Da hun var bortreist</title>
+          </bibl>
+          <bibl xml:id="biblid56191">
+            <title xml:id="idm139905270025440">Skilsmissen</title>
+          </bibl>
+          <bibl xml:id="biblid56209">
+            <title xml:id="idm139905270024656">Selines Tab</title>
+          </bibl>
+          <bibl xml:id="biblid56237">
+            <title xml:id="idm139905270023872">Til Seline, 1788</title>
+          </bibl>
+          <bibl xml:id="biblid56266">
+            <title xml:id="idm139905270023088">Til Skibet, som førte Kronprindsen over Havet</title>
+          </bibl>
+          <bibl xml:id="biblid56285">
+            <title xml:id="idm139905270022224">Til Kronprindsen, d. 7. Decbr. 1788</title>
+          </bibl>
+          <bibl xml:id="biblid56312">
+            <title xml:id="idm139905270021472">Det korte Solbesøg. Til Herr **** 1788</title>
+          </bibl>
+          <bibl xml:id="biblid56331">
+            <title xml:id="idm139905270020560">Tilegnelse, 1789</title>
+          </bibl>
+          <bibl xml:id="biblid56350">
+            <title xml:id="idm139905270019776">Sang for Muserne, d. 13 April 1789</title>
+          </bibl>
+          <bibl xml:id="biblid56378">
+            <title xml:id="idm139905270019024">Til Fru Bindesbøll</title>
+          </bibl>
+          <bibl xml:id="biblid56397">
+            <title xml:id="idm139905270018272">Paa Spidsen af St. Gottard</title>
+          </bibl>
+          <bibl xml:id="biblid56416">
+            <title xml:id="idm139905270017520">Tordenen paa Toppen af Grimsel</title>
+          </bibl>
+          <bibl xml:id="biblid56435">
+            <title xml:id="idm139905270016768">Den visnede Maiblomst, Novbr. 1789</title>
+          </bibl>
+          <bibl xml:id="biblid56463">
+            <title xml:id="idm139905270016016">Den lille Landsbypigem 1790</title>
+          </bibl>
+          <bibl xml:id="biblid56481">
+            <title xml:id="idm139905270015168">Himlen i Draaben</title>
+          </bibl>
+          <bibl xml:id="biblid56510">
+            <title xml:id="idm139905270014384">Vivli</title>
+          </bibl>
+          <bibl xml:id="biblid56528">
+            <title xml:id="idm139905270013600">Gratierne, 1790</title>
+          </bibl>
+          <bibl xml:id="biblid56547">
+            <title xml:id="idm139905270012816">Palmines Smiil</title>
+          </bibl>
+          <bibl xml:id="biblid56575">
+            <title xml:id="idm139905270011968">Mirabeaus Død, 1791</title>
+          </bibl>
+          <bibl xml:id="biblid56593">
+            <title xml:id="idm139905270011152">Krandsen, 1791</title>
+          </bibl>
+          <bibl xml:id="biblid56611">
+            <title xml:id="idm139905270010304">Morgenlovsang</title>
+          </bibl>
+          <bibl xml:id="biblid56650">
+            <title xml:id="idm139905270009456">Maadens Skaal</title>
+          </bibl>
+          <bibl xml:id="biblid56669">
+            <title xml:id="idm139905270008624">Dansk Tranquebar-Viise</title>
+          </bibl>
+          <bibl xml:id="biblid56708">
+            <title xml:id="idm139905270007840">Til Psycharion</title>
+          </bibl>
+          <bibl xml:id="biblid56717">
+            <title xml:id="idm139905270006992">Hymne til Smør</title>
+          </bibl>
+          <bibl xml:id="biblid56765">
+            <title xml:id="idm139905270006192">Ved Bergers Død, 1791</title>
+          </bibl>
+          <bibl xml:id="biblid56783">
+            <title xml:id="idm139905270005312">Til Bogen, 1791</title>
+          </bibl>
+          <bibl xml:id="biblid56802">
+            <title xml:id="idm139905270004528">Den Eneste Gud</title>
+          </bibl>
+          <bibl xml:id="biblid56872">
+            <title xml:id="idm139905270003680">J. G. Beckers Stambog, Juli 1791</title>
+          </bibl>
+          <bibl xml:id="biblid56891">
+            <title xml:id="idm139905270002880">Velkomst-Sang il Kronprindsesse Louisa Augusta, 1791</title>
+          </bibl>
+          <bibl xml:id="biblid56929">
+            <title xml:id="idm139905270002064">Melonen, 1791</title>
+          </bibl>
+          <bibl xml:id="biblid57005">
+            <title xml:id="idm139905270001280">Begeistringen</title>
+          </bibl>
+          <bibl xml:id="biblid57024">
+            <title xml:id="idm139905270000384">Morgenhilsen, d. 15. Jan. 1792</title>
+          </bibl>
+          <bibl xml:id="biblid57043">
+            <title xml:id="idm139905269999472">Christi Død, 1792</title>
+          </bibl>
+          <bibl xml:id="biblid57091">
+            <title xml:id="idm139905269998608">Den rette Biskop, 1792</title>
+          </bibl>
+          <bibl xml:id="biblid57129">
+            <title xml:id="idm139905269997824">Episcopal Kredsfang, d. 13 Mai 1792</title>
+          </bibl>
+          <bibl xml:id="biblid57167">
+            <title xml:id="idm139905269996960">Til Laville, 1792</title>
+          </bibl>
+          <bibl xml:id="biblid57186">
+            <title xml:id="idm139905269996128">Nyd Minutet -</title>
+          </bibl>
+          <bibl xml:id="biblid57194">
+            <title xml:id="idm139905269995296">Visse pa Hr. Schultz's og Mad. Hostrups Bryllupsdag d. 30. Novbr. 1792</title>
+          </bibl>
+          <bibl xml:id="biblid57213">
+            <title xml:id="idm139905269994464">Til Fanny</title>
+          </bibl>
+          <bibl xml:id="biblid57242">
+            <title xml:id="idm139905269993616">Til Min Søster</title>
+          </bibl>
+          <bibl xml:id="biblid57260">
+            <title xml:id="idm139905269992816">Den brave Digter, Decbr, 1792</title>
+          </bibl>
+          <bibl xml:id="biblid57288">
+            <title xml:id="idm139905269992016">Frihedens Kamp-Sang</title>
+          </bibl>
+          <bibl xml:id="biblid57327">
+            <title xml:id="idm139905269991168">Friheds-Solens Opgang</title>
+          </bibl>
+          <bibl xml:id="biblid57345">
+            <title xml:id="idm139905269990320">Sang i Anledningen af Kronprindsesse Marias Lykkelige Nedkomst</title>
+          </bibl>
+          <bibl xml:id="biblid57374">
+            <title xml:id="idm139905269989424">Dannemarks Lovsang, Febr. 1793</title>
+          </bibl>
+          <bibl xml:id="biblid57413">
+            <title xml:id="idm139905269988576">Af Anthologien</title>
+          </bibl>
+          <bibl xml:id="biblid57421">
+            <title xml:id="idm139905269987728">Serenade</title>
+          </bibl>
+          <bibl xml:id="biblid57450">
+            <title xml:id="idm139905269986880">Slutnings-Sang</title>
+          </bibl>
+          <bibl xml:id="biblid57469">
+            <title xml:id="idm139905269986096">Revolutionen, d. 15. Febr. 1793</title>
+          </bibl>
+          <bibl xml:id="biblid57497">
+            <title xml:id="idm139905269985232">Fragment af Labyrinten i Vers, 1794</title>
+          </bibl>
+          <bibl xml:id="biblid57525">
+            <title xml:id="idm139905269984320">Offeret</title>
+          </bibl>
+          <bibl xml:id="biblid57533">
+            <title xml:id="idm139905269983472">Skabningens Halleluja</title>
+          </bibl>
+          <bibl xml:id="biblid57605">
+            <title xml:id="idm139905269982688">Palmines Bortgang</title>
+          </bibl>
+          <bibl xml:id="biblid57633">
+            <title xml:id="idm139905269981840">Minonas Fraværelse</title>
+          </bibl>
+          <bibl xml:id="biblid57641">
+            <title xml:id="idm139905269981040">Taus Tilbedelse</title>
+          </bibl>
+          <bibl xml:id="biblid57679">
+            <title xml:id="idm139905269980144">Til Seline</title>
+          </bibl>
+          <bibl xml:id="biblid57708">
+            <title xml:id="idm139905269979312">Fandens Abestreger</title>
+          </bibl>
+          <bibl xml:id="biblid57746">
+            <title xml:id="idm139905269978480">Skærslipper-Viise</title>
+          </bibl>
+          <bibl xml:id="biblid57774">
+            <title xml:id="idm139905269977632">Til Mit Fædreneland</title>
+          </bibl>
+          <bibl xml:id="biblid57802">
+            <title xml:id="idm139905269976768">Til Palmine [Skaberens  blindende Glands ...]</title>
+          </bibl>
+          <bibl xml:id="biblid57821">
+            <title xml:id="idm139905269975952">Digtekunstens Undfangelse</title>
+          </bibl>
+          <bibl xml:id="biblid57840">
+            <title xml:id="idm139905269975104">Til Palmine [Palmine! vi vil elske, være glade]</title>
+          </bibl>
+          <bibl xml:id="biblid57859">
+            <title xml:id="idm139905269974240">Til Schleppegrell</title>
+          </bibl>
+          <bibl xml:id="biblid57878">
+            <title xml:id="idm139905269973456">Nyt Krigsforslag</title>
+          </bibl>
+          <bibl xml:id="biblid57896">
+            <title xml:id="idm139905269972608">Affskeeds-Sang</title>
+          </bibl>
+          <bibl xml:id="biblid57914">
+            <title xml:id="idm139905269971760">Digterfortvivlelse</title>
+          </bibl>
+          <bibl xml:id="biblid57943">
+            <title xml:id="idm139905269970976">Til Frue Frederikke Brun</title>
+          </bibl>
+          <bibl xml:id="biblid57951">
+            <title xml:id="idm139905269970064">Til Bonaparte, 1798</title>
+          </bibl>
+          <bibl xml:id="biblid57988">
+            <title xml:id="idm139905269969280">Frøken Lunas Indfald, 1798</title>
+          </bibl>
+          <bibl xml:id="biblid58007">
+            <title xml:id="idm139905269968464">Citheresand, 1798</title>
+          </bibl>
+          <bibl xml:id="biblid58037">
+            <title xml:id="idm139905269967680">Min Sang om min Veninde</title>
+          </bibl>
+          <bibl xml:id="biblid58065">
+            <title xml:id="idm139905269966896">Til Døden, En Tanke af Seneca</title>
+          </bibl>
+          <bibl xml:id="biblid58073">
+            <title xml:id="idm139905269965952">Oltids og Nutids Skikke, 1799</title>
+          </bibl>
+          <bibl xml:id="biblid58082">
+            <title xml:id="idm139905269965040">Venskab og Kiærlighed</title>
+          </bibl>
+          <bibl xml:id="biblid58100">
+            <title xml:id="idm139905269964112">Nytaarlønske til Qverulus</title>
+          </bibl>
+          <bibl xml:id="biblid58108">
+            <title xml:id="idm139905269963296">Til Kronprindsen, d. 28. Jan. 1800</title>
+          </bibl>
+          <bibl xml:id="biblid58137">
+            <title xml:id="idm139905269962432">Til Freden, d. 29. Jan. 1800</title>
+          </bibl>
+          <bibl xml:id="biblid58156">
+            <title xml:id="idm139905269961584">Hymne til Fornuften</title>
+          </bibl>
+          <bibl xml:id="biblid58194">
+            <title xml:id="idm139905269960800">Citherspilleren</title>
+          </bibl>
+          <bibl xml:id="biblid58222">
+            <title xml:id="idm139905269960016">Erindring</title>
+          </bibl>
+          <bibl xml:id="biblid58240">
+            <title xml:id="idm139905269959184">Siælens Høisang</title>
+          </bibl>
+          <bibl xml:id="biblid58268">
+            <title xml:id="idm139905269958384">Andgatshymne</title>
+          </bibl>
+          <bibl xml:id="biblid58286">
+            <title xml:id="idm139905269957536">Hellebeks Harpe</title>
+          </bibl>
+          <bibl xml:id="biblid58314">
+            <title xml:id="idm139905269956752">Til Døden</title>
+          </bibl>
+          <bibl xml:id="biblid58342">
+            <title xml:id="idm139905269955904">Til Søvnen</title>
+          </bibl>
+          <bibl xml:id="biblid58351">
+            <title xml:id="idm139905269955056">Da hun var syg</title>
+          </bibl>
+          <bibl xml:id="biblid58370">
+            <title xml:id="idm139905269954272">Krigs-Sang, 1801</title>
+          </bibl>
+          <bibl xml:id="biblid58400">
+            <title xml:id="idm139905269953488">Orlogs Sang for Danmarks Søekrigere, 1801</title>
+          </bibl>
+          <bibl xml:id="biblid58429">
+            <title xml:id="idm139905269952576">Søkrigsvise, 1801</title>
+          </bibl>
+          <bibl xml:id="biblid58448">
+            <title xml:id="idm139905269951712">Særsynet, 1802</title>
+          </bibl>
+        </listBibl>
+      </sourceDesc>
     </fileDesc>
   </teiHeader>
   <text xml:id="idm139905269950976">

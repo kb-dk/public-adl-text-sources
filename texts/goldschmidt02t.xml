@@ -1,10 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!-- 20070620 VL rettelser på titelblad -->
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="idm140068786904096"><!-- 
-       file     ./marc_dir/001707603.xml
-       field     
-       subfield  
-       prefix   -->
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="root">
   <teiHeader xml:id="idm140068786903424">
     <fileDesc xml:id="idm140068786903168">
       <titleStmt xml:id="idm140068786902864">
@@ -17,7 +12,7 @@
       </titleStmt>
       <publicationStmt xml:id="idm140068786875344">
         <publisher xml:id="idm140068786875088">Danske Klassikere
-Det danske Sprog- og Litteraturselska</publisher>
+Det Danske Sprog- og Litteraturselska</publisher>
         <pubPlace xml:id="idm140068786874640">Borgen</pubPlace>
         <idno xml:id="idm140068786874256" xml:base="texts/goldschmidt02t.xml">001707603:02</idno>
       </publicationStmt>
@@ -25,23 +20,55 @@ Det danske Sprog- og Litteraturselska</publisher>
         <note xml:id="idm140068786873104">
 	  </note>
       </notesStmt>
-      <sourceDesc xml:id="idm140068786872592"><bibl
-						  xml:id="idm140068786872464"><author
-										  n="1"
-										  xml:id="idm140068786871776"><name
-														  xml:id="idm140068786871520"><surname
-																		  xml:id="idm140068786871392">Goldschmidt</surname>,
-      <forename xml:id="idm140068786870928">M. A.</forename></name></author><title xml:id="idm140068786870672">Noveller og andre fortællinger</title><pubPlace xml:id="idm140068786870336">[Kbh.]</pubPlace>; <pubPlace xml:id="idm140068786869872">[Valby]</pubPlace>
-<publisher xml:id="idm140068786869408">Det danske Sprog- og Litteraturselskab</publisher><publisher xml:id="idm140068786869104">Borgen</publisher><date xml:id="idm140068786868768">1994</date></bibl><listBibl xml:id="idm140068786868480"><bibl xml:id="biblid54268"><title xml:id="idm140068786855328">Mendel Hertz</title></bibl><bibl xml:id="biblid54998"><title xml:id="idm140068786854544">Breve fra Choleratiden</title></bibl><bibl xml:id="biblid59259"><title xml:id="idm140068786853712">Den Vægelsindede paa Graahede</title></bibl><bibl xml:id="biblid62363"><title xml:id="idm140068786852880">Avrohmche Nattergal</title></bibl><bibl xml:id="biblid64288"><title xml:id="idm140068786852096">Tømmerpladsen</title></bibl><bibl xml:id="biblid65250"><title xml:id="idm140068786851296">Bjergtagen I</title></bibl><bibl xml:id="biblid65873"><title xml:id="idm140068786850512">Bjergtagen II</title></bibl><bibl xml:id="biblid66262"><title xml:id="idm140068786849728">En coopersk Roman</title></bibl><bibl xml:id="biblid66520"><title xml:id="idm140068786848944">Vandcommissionen</title></bibl><bibl xml:id="biblid66679"><title xml:id="idm140068786848112">Fortælling om en Flue</title></bibl><bibl xml:id="biblid66936"><title xml:id="idm140068786847248">En Dampskibstur</title></bibl><bibl xml:id="biblid67065"><title xml:id="idm140068786846464">Kjærlighedshistorier fra mange Lande</title></bibl></listBibl></sourceDesc>
+      <sourceDesc xml:id="idm140068786872592">
+        <bibl xml:id="idm140068786872464"><author n="1" xml:id="idm140068786871776"><name xml:id="idm140068786871520"><surname xml:id="idm140068786871392">Goldschmidt</surname>,
+	      <forename xml:id="idm140068786870928">M. A.</forename></name></author><title xml:id="idm140068786870672">Noveller og andre fortællinger</title><pubPlace xml:id="idm140068786870336">[København]</pubPlace>;
+	  <pubPlace xml:id="idm140068786869872">[Valby]</pubPlace><publisher xml:id="idm140068786869408">Det Danske Sprog- og Litteraturselskab</publisher><publisher xml:id="idm140068786869104">Borgen</publisher><date xml:id="idm140068786868768">1994</date></bibl>
+        <listBibl xml:id="idm140068786868480">
+          <bibl xml:id="biblid54268">
+            <title xml:id="idm140068786855328">Mendel Hertz</title>
+          </bibl>
+          <bibl xml:id="biblid54998">
+            <title xml:id="idm140068786854544">Breve fra Choleratiden</title>
+          </bibl>
+          <bibl xml:id="biblid59259">
+            <title xml:id="idm140068786853712">Den Vægelsindede paa Graahede</title>
+          </bibl>
+          <bibl xml:id="biblid62363">
+            <title xml:id="idm140068786852880">Avrohmche Nattergal</title>
+          </bibl>
+          <bibl xml:id="biblid64288">
+            <title xml:id="idm140068786852096">Tømmerpladsen</title>
+          </bibl>
+          <bibl xml:id="biblid65250">
+            <title xml:id="idm140068786851296">Bjergtagen I</title>
+          </bibl>
+          <bibl xml:id="biblid65873">
+            <title xml:id="idm140068786850512">Bjergtagen II</title>
+          </bibl>
+          <bibl xml:id="biblid66262">
+            <title xml:id="idm140068786849728">En coopersk Roman</title>
+          </bibl>
+          <bibl xml:id="biblid66520">
+            <title xml:id="idm140068786848944">Vandcommissionen</title>
+          </bibl>
+          <bibl xml:id="biblid66679">
+            <title xml:id="idm140068786848112">Fortælling om en Flue</title>
+          </bibl>
+          <bibl xml:id="biblid66936">
+            <title xml:id="idm140068786847248">En Dampskibstur</title>
+          </bibl>
+          <bibl xml:id="biblid67065">
+            <title xml:id="idm140068786846464">Kjærlighedshistorier fra mange Lande</title>
+          </bibl>
+        </listBibl>
+      </sourceDesc>
     </fileDesc>
   </teiHeader>
   <text xml:id="idm140068786845680">
     <front xml:id="idm140068786845424">
       <pb n="I" facs="adl/goldschmidt/goldschmidt02/gold2001" xml:id="idm140068786845120"/>
       <gap reason="cancelled" xml:id="idm140068786844288"/>
-<!---->
-<!---->
-<!--Noveller og andre fortællinger-->
       <pb n="II" facs="adl/goldschmidt/goldschmidt02/gold2002" xml:id="idm140068786842768"/>
       <pb n="III" facs="adl/goldschmidt/goldschmidt02/gold2003" xml:id="idm140068786842000"/>
       <titlePage xml:id="idm140068786841232">
@@ -56,7 +83,7 @@ Det danske Sprog- og Litteraturselska</publisher>
         </docEdition>
         <docImprint xml:id="idm140068786837472">
           <publisher xml:id="idm140068786837216">Danske Klassikere
-Det danske Sprog- og Litteraturselskab Borgen</publisher>
+Det Danske Sprog- og Litteraturselskab Borgen</publisher>
         </docImprint>
       </titlePage>
       <pb n="IV" facs="adl/goldschmidt/goldschmidt02/gold2004" xml:id="idm140068786836496"/>
@@ -481,7 +508,7 @@ paa en Stol lige indenfor Døren? Mine sorte Münchener Benklæder omhyggelig sa
 								<hi rend="italics" xml:id="idm140068786512880">Fra Ernst Rosen til Overlærer Sommer</hi>
 							</head>
               <p xml:id="idm140068786512000">Jeg kan ikke huske Ord for Ord, hvad jeg skrev i Fredags; men jeg veed, at det var min oprigtige Mening, og jeg veed ogsaa, at jeg ikke kan have givet Dig alvorlig Grund til den Tro, at jeg, hvis jeg ikke finder Ingeborg-Skikkelsen, vil tage Livet af mig selv. Det siger Du vel ogsaa blot, fordi Du ønsker at bestige et Punkt, hvorfra Du ganske og aldeles behersker mig eller »for mit eget Vels Skyld« kan gjøre mig lidt komisk. Jeg har ikke gjort Andet end givet Dig en løselig Forestilling om, hvorledes jeg med hele mit Sinds og min Sjæls Magt kalder paa de to store Magter: Liv og Død, som i denne Tid gaae igjennem Samfundet med Herreskridt, og siger til begge: Her er jeg, handler med mig, som I ville, kun for Alvor; sørger blot for, at jeg ikke bliver levende begravet.</p>
-              <p xml:id="idm140068786510400">Men medens vi discutere Ord, handler Skjæbnen. Du husker vistnok, at jeg har fortalt Dig om en Svane,jeg engang mødte her paa Egnen. Det forekommer mig, som om Du engang skal afgive Vidnesbyrd om mig hernede, og derfor skal Du ogsaa have Sagens Acter. Læs de to hoslagte Breve fra hende; men læg vel Mærke til Datoerne. Det ene fik jeg i October forrige Aar.</p>
+              <p xml:id="idm140068786510400">Men medens vi discutere Ord, handler Skjæbnen. Du husker vistnok, at jeg har fortalt Dig om en Svane, jeg engang mødte her paa Egnen. Det forekommer mig, som om Du engang skal afgive Vidnesbyrd om mig hernede, og derfor skal Du ogsaa have Sagens Acter. Læs de to hoslagte Breve fra hende; men læg vel Mærke til Datoerne. Det ene fik jeg i October forrige Aar.</p>
               <p xml:id="idm140068786509312">Hvor jeg dog nu er lykkelig! Hvor min Sjæl jubler i sin Tilværelse, sammensat af Kjærlighed og Længsel! Ja; thi det at længes, og efter Dig, med sikkert Haab om Gjensyn, er en Lykke. Jeg er udfriet af den tunge Død, der i saa lang Tid har trykket mit Sind og suget mit Livs bedste Kræfter. Jeg har i Sandhed tilbragt en sørgelig Tid, siden jeg mistede min Moder, hvem jeg elskede saa inderlig, som et Barn vel kan elske sine Forældre. Dog, hvorfor vil jeg nu dvæle ved sørgelige Ting! Du har tilbagegivet mig Fred og Haab. Du veed jo for vist, at Du er det straalende Lys, som min Sjæl bevæger sig om, og hvis Du ikke veed det, skal Du vide det. Jeg var som et Instrument, man længe har ladet staae forglemt etsteds, og som er kommet ud af Stemning, fordi Ingen kjendte dets Bygning. Da kom Du og forstod, hvad for Toner der vare i mig, og lokkede dem ud. Det gjorde mig saa usigelig lykkelig, at jeg atter klang, for mig selv og for Dig.</p>
               <pb n="43" facs="adl/goldschmidt/goldschmidt02/gold2043" xml:id="idm140068786506944"/>
               <p xml:id="idm140068786506176">Erindrer Du den Aften, da Du viste og forklarede mig Stjernekortet og vi senere saae paa Himlen efter de samme Stjerner? Det var et af de lykkeligste, maaskee det lykkeligste Øieblik, i mit Liv. Det syntes mig, at Himlen var til alene for os To. Og endnu, medens jeg er fjernet fra Dig, er Du den, der bærer min Himmel. Tager jeg feil heri, eller burde jeg være mindre aabenhjertig og sige mindre? Gid jeg kunde see Dit Ansigt, medens Du svarer. Gid jeg ret kunde see ind i Dig og ganske forstaae Dig og begribe, hvorfor og hvordan Du elsker mig. Skriv snart, lad mig idetmindste have Dine skrevne Ord.</p>
@@ -3446,7 +3473,7 @@ kulminationen af operaens mikstur af kærlighed og politik, begyndelsen af 4. ak
           <div xml:id="idm140068783931424">
             <head xml:id="idm140068783931168">Tømmerpladsen</head>
             <p xml:id="idm140068783930736">Efter Goldschmidts debutbog <hi rend="italics" xml:id="idm140068783930432">Fortællinger</hi> 1846, s. 26-55.
-Først trykt som <hi rend="italics" xml:id="idm140068783929648">Min Onkels Tømmerplads</hi> i P. L. Møllers årbog <hi rend="italics" xml:id="idm140068783928864">Gæa</hi> 1845, siden i <hi rend="italics" xml:id="idm140068783928144">Flensborg Avis'</hi> søndagstillæg (se efterskriften foran,afsnit 4), dernæst som selvstændig bog, <hi rend="italics" xml:id="idm140068783927280">Spøgeriet paa Tømmerpladsen eller det uventede Bryllup</hi> 1849, og endelig i <hi rend="italics" xml:id="idm140068783926464">Fortællinger og Virkelighedsbilleder, ældre og nye</hi> I, 1877. - Ændringerne undervejs er ubetydelige og tydeligt brugsorienterede. I avisudgaven, der er trykt i et meget lille format, 8x12 cm, brydes
+Først trykt som <hi rend="italics" xml:id="idm140068783929648">Min Onkels Tømmerplads</hi> i P. L. Møllers årbog <hi rend="italics" xml:id="idm140068783928864">Gæa</hi> 1845, siden i <hi rend="italics" xml:id="idm140068783928144">Flensborg Avis'</hi> søndagstillæg (se efterskriften foran, afsnit 4), dernæst som selvstændig bog, <hi rend="italics" xml:id="idm140068783927280">Spøgeriet paa Tømmerpladsen eller det uventede Bryllup</hi> 1849, og endelig i <hi rend="italics" xml:id="idm140068783926464">Fortællinger og Virkelighedsbilleder, ældre og nye</hi> I, 1877. - Ændringerne undervejs er ubetydelige og tydeligt brugsorienterede. I avisudgaven, der er trykt i et meget lille format, 8x12 cm, brydes
 	<pb n="326" facs="adl/goldschmidt/goldschmidt02/gold2326" xml:id="idm140068783925360"/>
 historien op i flere mindre typografiske afsnit. I bogudgaven fra 1849, med en titel der henvender sig til et bredt publikum, bliver de tyske replikker i slutoptrinnet oversat til dansk.</p>
             <eg xml:id="idm140068783924256">151</eg>

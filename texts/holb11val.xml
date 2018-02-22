@@ -1,14 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!-- sideskift minus 1 mangler-->
-<!-- comodi
-Ptj  rettet s. 93-
-20090420 VL: rettet s. 48
--->
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="idm140209967184784"><!-- 
-       file     ./marc_dir/001629300.xml
-       field    248 
-       subfield g 
-       prefix   11-->
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="root">
   <teiHeader xml:id="idm140209967184032">
     <fileDesc xml:id="idm140209967183776">
       <titleStmt xml:id="idm140209967158320">
@@ -28,20 +19,278 @@ Ptj  rettet s. 93-
 	  </note>
       </notesStmt>
       <sourceDesc xml:id="idm140209967153424">
-	<bibl xml:id="idm140209967153296">
-	  <author n="1" xml:id="idm140209967152608">
-	    <name xml:id="idm140209967152352">
-	      <surname xml:id="idm140209967152224">Holberg</surname>,
-	      <forename xml:id="idm140209967151760">Ludvig</forename>
-	    </name>
-	    </author>
-	    <title xml:id="idm140209967151472">Værker i tolv bind</title>
-	    <title xml:id="idm140209967151168">1: Natur- og folkeret</title>
-	    <pubPlace xml:id="idm140209967150880">[Kbh.]</pubPlace>
-	    <publisher xml:id="idm140209967150416">Rosenkilde og Bagger</publisher>
-	    <date xml:id="idm140209967150080">1969-1971</date>
-	    </bibl>
-	    <listBibl xml:id="idm140209967149792"><bibl xml:id="biblid55645"><title xml:id="idm140209967136640">Epistola 12</title></bibl><bibl xml:id="biblid56010"><title xml:id="idm140209967135808">Epistola 13</title></bibl><bibl xml:id="biblid56224"><title xml:id="idm140209967135024">Epistola 17</title></bibl><bibl xml:id="biblid56543"><title xml:id="idm140209967134240">Epistola 21</title></bibl><bibl xml:id="biblid55267"><title xml:id="idm140209967133408">Epistola 25</title></bibl><bibl xml:id="biblid55311"><title xml:id="idm140209967132624">Epistola 29</title></bibl><bibl xml:id="biblid57201"><title xml:id="idm140209967131792">Epistola 31</title></bibl><bibl xml:id="biblid57522"><title xml:id="idm140209967130960">Epistola 44</title></bibl><bibl xml:id="biblid57610"><title xml:id="idm140209967130128">Epistola 46</title></bibl><bibl xml:id="biblid58155"><title xml:id="idm140209967129280">Epistola 49</title></bibl><bibl xml:id="biblid58433"><title xml:id="idm140209967128448">Epistola 55</title></bibl><bibl xml:id="biblid58637"><title xml:id="idm140209967127664">Epistola 60</title></bibl><bibl xml:id="biblid58904"><title xml:id="idm140209967126880">Epistola 72</title></bibl><bibl xml:id="biblid59008"><title xml:id="idm140209967126096">Epistola 76</title></bibl><bibl xml:id="biblid59115"><title xml:id="idm140209967125264">Epistola 78</title></bibl><bibl xml:id="biblid59286"><title xml:id="idm140209967124432">Epistola 79</title></bibl><bibl xml:id="biblid59446"><title xml:id="idm140209967123584">Epistola 85</title></bibl><bibl xml:id="biblid59569"><title xml:id="idm140209967122752">Epistola 89</title></bibl><bibl xml:id="biblid59642"><title xml:id="idm140209967121920">Epistola 91</title></bibl><bibl xml:id="biblid59783"><title xml:id="idm140209967121136">Epistola 93</title></bibl><bibl xml:id="biblid59902"><title xml:id="idm140209967120304">Epistola 99</title></bibl><bibl xml:id="biblid56945"><title xml:id="idm140209967119472">Epistola 102</title></bibl><bibl xml:id="biblid57000"><title xml:id="idm140209967214592">Epistola 107</title></bibl><bibl xml:id="biblid60549"><title xml:id="idm140209967213872">Epistola 119</title></bibl><bibl xml:id="biblid60772"><title xml:id="idm140209967213152">Epistola 120</title></bibl><bibl xml:id="biblid60946"><title xml:id="idm140209967212304">Epistola 122</title></bibl><bibl xml:id="biblid61204"><title xml:id="idm140209967211520">Epistola 126</title></bibl><bibl xml:id="biblid61450"><title xml:id="idm140209967210736">Epistola 127</title></bibl><bibl xml:id="biblid61597"><title xml:id="idm140209967093520">Epistola 128</title></bibl><bibl xml:id="biblid61778"><title xml:id="idm140209967092736">Epistola 130</title></bibl><bibl xml:id="biblid61970"><title xml:id="idm140209967091952">Epistola 135</title></bibl><bibl xml:id="biblid62124"><title xml:id="idm140209967091104">Epistola 137</title></bibl><bibl xml:id="biblid62211"><title xml:id="idm140209967090320">Epistola 141</title></bibl><bibl xml:id="biblid62329"><title xml:id="idm140209967089536">Epistola 144</title></bibl><bibl xml:id="biblid62565"><title xml:id="idm140209967088752">Epistola 150</title></bibl><bibl xml:id="biblid62792"><title xml:id="idm140209967087968">Epistola 156</title></bibl><bibl xml:id="biblid62873"><title xml:id="idm140209967087184">Epistola 158</title></bibl><bibl xml:id="biblid62991"><title xml:id="idm140209967086400">Epistola 176</title></bibl><bibl xml:id="biblid63195"><title xml:id="idm140209967085552">Epistola 177</title></bibl><bibl xml:id="biblid63408"><title xml:id="idm140209967084704">Epistola 188</title></bibl><bibl xml:id="biblid63643"><title xml:id="idm140209967083920">Epistola 190</title></bibl><bibl xml:id="biblid63815"><title xml:id="idm140209967083136">Epistola 192</title></bibl><bibl xml:id="biblid63903"><title xml:id="idm140209967082352">Epistola 193</title></bibl><bibl xml:id="biblid64153"><title xml:id="idm140209967081568">Epistola 195</title></bibl><bibl xml:id="biblid64496"><title xml:id="idm140209967080784">Epistola 196</title></bibl><bibl xml:id="biblid64643"><title xml:id="idm140209967079936">Epistola 210</title></bibl><bibl xml:id="biblid64735"><title xml:id="idm140209967079088">Epistola 229</title></bibl><bibl xml:id="biblid64827"><title xml:id="idm140209967078304">Epistola 232</title></bibl><bibl xml:id="biblid64976"><title xml:id="idm140209967077456">Epistola 240</title></bibl><bibl xml:id="biblid65156"><title xml:id="idm140209967076672">Epistola 241</title></bibl><bibl xml:id="biblid65230"><title xml:id="idm140209967075824">Epistola 247</title></bibl><bibl xml:id="biblid65445"><title xml:id="idm140209967075040">Epistola 257</title></bibl><bibl xml:id="biblid65682"><title xml:id="idm140209967074256">Epistola 261</title></bibl><bibl xml:id="biblid65743"><title xml:id="idm140209967073472">Epistola 276</title></bibl><bibl xml:id="biblid65789"><title xml:id="idm140209967072688">Epistola 277</title></bibl><bibl xml:id="biblid65854"><title xml:id="idm140209967071904">Epistola 300</title></bibl><bibl xml:id="biblid65943"><title xml:id="idm140209967071056">Epistola 302</title></bibl><bibl xml:id="biblid66337"><title xml:id="idm140209967070272">Epistola 319</title></bibl><bibl xml:id="biblid66429"><title xml:id="idm140209967065424">Epistola 335</title></bibl><bibl xml:id="biblid66537"><title xml:id="idm140209967064736">Epistola 341</title></bibl><bibl xml:id="biblid66641"><title xml:id="idm140209967064048">Epistola 350</title></bibl><bibl xml:id="biblid66869"><title xml:id="idm140209967063360">Epistola 354</title></bibl><bibl xml:id="biblid66947"><title xml:id="idm140209967062672">Epistola 356</title></bibl><bibl xml:id="biblid67022"><title xml:id="idm140209967061888">Epistola 358</title></bibl><bibl xml:id="biblid67208"><title xml:id="idm140209967061072">Epistola 385</title></bibl><bibl xml:id="biblid67287"><title xml:id="idm140209967060224">Epistola 388</title></bibl><bibl xml:id="biblid67421"><title xml:id="idm140209967059440">Epistola 393</title></bibl><bibl xml:id="biblid67515"><title xml:id="idm140209967058592">Epistola 395</title></bibl><bibl xml:id="biblid67585"><title xml:id="idm140209967057808">Epistola 434</title></bibl><bibl xml:id="biblid67730"><title xml:id="idm140209967057024">Epistola 439</title></bibl><bibl xml:id="biblid67841"><title xml:id="idm140209967056240">Epistola 446</title></bibl><bibl xml:id="biblid67994"><title xml:id="idm140209967055392">Epistola 448</title></bibl><bibl xml:id="biblid68143"><title xml:id="idm140209967054608">Epistola 449</title></bibl><bibl xml:id="biblid68225"><title xml:id="idm140209967053824">Epistola 452</title></bibl><bibl xml:id="biblid68267"><title xml:id="idm140209967052976">Epistola 453</title></bibl><bibl xml:id="biblid68362"><title xml:id="idm140209967052192">Epistola 458</title></bibl><bibl xml:id="biblid68429"><title xml:id="idm140209967051344">Epistola 467</title></bibl><bibl xml:id="biblid68525"><title xml:id="idm140209967050560">Epistola 469</title></bibl><bibl xml:id="biblid68576"><title xml:id="idm140209967049776">Epistola 474</title></bibl><bibl xml:id="biblid68638"><title xml:id="idm140209967048992">Epistola 494</title></bibl><bibl xml:id="biblid68743"><title xml:id="idm140209967048208">Epistola 495</title></bibl><bibl xml:id="biblid68892"><title xml:id="idm140209967047424">Epistola 502</title></bibl><bibl xml:id="biblid69019"><title xml:id="idm140209967046576">Epistola 505</title></bibl><bibl xml:id="biblid69314"><title xml:id="idm140209967045792">Epistola 512</title></bibl><bibl xml:id="biblid69651"><title xml:id="idm140209967044944">Epistola 520</title></bibl><bibl xml:id="biblid69811"><title xml:id="idm140209967044160">Epistola 538</title></bibl></listBibl></sourceDesc>
+        <bibl xml:id="idm140209967153296">
+          <author n="1" xml:id="idm140209967152608">
+            <name xml:id="idm140209967152352"><surname xml:id="idm140209967152224">Holberg</surname>,
+	      <forename xml:id="idm140209967151760">Ludvig</forename></name>
+          </author>
+          <title xml:id="idm140209967151472">Værker i tolv bind</title>
+          <title xml:id="idm140209967151168">1: Natur- og folkeret</title>
+          <pubPlace xml:id="idm140209967150880">[København]</pubPlace>
+          <publisher xml:id="idm140209967150416">Rosenkilde og Bagger</publisher>
+          <date xml:id="idm140209967150080">1969-1971</date>
+        </bibl>
+        <listBibl xml:id="idm140209967149792">
+          <bibl xml:id="biblid55645">
+            <title xml:id="idm140209967136640">Epistola 12</title>
+          </bibl>
+          <bibl xml:id="biblid56010">
+            <title xml:id="idm140209967135808">Epistola 13</title>
+          </bibl>
+          <bibl xml:id="biblid56224">
+            <title xml:id="idm140209967135024">Epistola 17</title>
+          </bibl>
+          <bibl xml:id="biblid56543">
+            <title xml:id="idm140209967134240">Epistola 21</title>
+          </bibl>
+          <bibl xml:id="biblid55267">
+            <title xml:id="idm140209967133408">Epistola 25</title>
+          </bibl>
+          <bibl xml:id="biblid55311">
+            <title xml:id="idm140209967132624">Epistola 29</title>
+          </bibl>
+          <bibl xml:id="biblid57201">
+            <title xml:id="idm140209967131792">Epistola 31</title>
+          </bibl>
+          <bibl xml:id="biblid57522">
+            <title xml:id="idm140209967130960">Epistola 44</title>
+          </bibl>
+          <bibl xml:id="biblid57610">
+            <title xml:id="idm140209967130128">Epistola 46</title>
+          </bibl>
+          <bibl xml:id="biblid58155">
+            <title xml:id="idm140209967129280">Epistola 49</title>
+          </bibl>
+          <bibl xml:id="biblid58433">
+            <title xml:id="idm140209967128448">Epistola 55</title>
+          </bibl>
+          <bibl xml:id="biblid58637">
+            <title xml:id="idm140209967127664">Epistola 60</title>
+          </bibl>
+          <bibl xml:id="biblid58904">
+            <title xml:id="idm140209967126880">Epistola 72</title>
+          </bibl>
+          <bibl xml:id="biblid59008">
+            <title xml:id="idm140209967126096">Epistola 76</title>
+          </bibl>
+          <bibl xml:id="biblid59115">
+            <title xml:id="idm140209967125264">Epistola 78</title>
+          </bibl>
+          <bibl xml:id="biblid59286">
+            <title xml:id="idm140209967124432">Epistola 79</title>
+          </bibl>
+          <bibl xml:id="biblid59446">
+            <title xml:id="idm140209967123584">Epistola 85</title>
+          </bibl>
+          <bibl xml:id="biblid59569">
+            <title xml:id="idm140209967122752">Epistola 89</title>
+          </bibl>
+          <bibl xml:id="biblid59642">
+            <title xml:id="idm140209967121920">Epistola 91</title>
+          </bibl>
+          <bibl xml:id="biblid59783">
+            <title xml:id="idm140209967121136">Epistola 93</title>
+          </bibl>
+          <bibl xml:id="biblid59902">
+            <title xml:id="idm140209967120304">Epistola 99</title>
+          </bibl>
+          <bibl xml:id="biblid56945">
+            <title xml:id="idm140209967119472">Epistola 102</title>
+          </bibl>
+          <bibl xml:id="biblid57000">
+            <title xml:id="idm140209967214592">Epistola 107</title>
+          </bibl>
+          <bibl xml:id="biblid60549">
+            <title xml:id="idm140209967213872">Epistola 119</title>
+          </bibl>
+          <bibl xml:id="biblid60772">
+            <title xml:id="idm140209967213152">Epistola 120</title>
+          </bibl>
+          <bibl xml:id="biblid60946">
+            <title xml:id="idm140209967212304">Epistola 122</title>
+          </bibl>
+          <bibl xml:id="biblid61204">
+            <title xml:id="idm140209967211520">Epistola 126</title>
+          </bibl>
+          <bibl xml:id="biblid61450">
+            <title xml:id="idm140209967210736">Epistola 127</title>
+          </bibl>
+          <bibl xml:id="biblid61597">
+            <title xml:id="idm140209967093520">Epistola 128</title>
+          </bibl>
+          <bibl xml:id="biblid61778">
+            <title xml:id="idm140209967092736">Epistola 130</title>
+          </bibl>
+          <bibl xml:id="biblid61970">
+            <title xml:id="idm140209967091952">Epistola 135</title>
+          </bibl>
+          <bibl xml:id="biblid62124">
+            <title xml:id="idm140209967091104">Epistola 137</title>
+          </bibl>
+          <bibl xml:id="biblid62211">
+            <title xml:id="idm140209967090320">Epistola 141</title>
+          </bibl>
+          <bibl xml:id="biblid62329">
+            <title xml:id="idm140209967089536">Epistola 144</title>
+          </bibl>
+          <bibl xml:id="biblid62565">
+            <title xml:id="idm140209967088752">Epistola 150</title>
+          </bibl>
+          <bibl xml:id="biblid62792">
+            <title xml:id="idm140209967087968">Epistola 156</title>
+          </bibl>
+          <bibl xml:id="biblid62873">
+            <title xml:id="idm140209967087184">Epistola 158</title>
+          </bibl>
+          <bibl xml:id="biblid62991">
+            <title xml:id="idm140209967086400">Epistola 176</title>
+          </bibl>
+          <bibl xml:id="biblid63195">
+            <title xml:id="idm140209967085552">Epistola 177</title>
+          </bibl>
+          <bibl xml:id="biblid63408">
+            <title xml:id="idm140209967084704">Epistola 188</title>
+          </bibl>
+          <bibl xml:id="biblid63643">
+            <title xml:id="idm140209967083920">Epistola 190</title>
+          </bibl>
+          <bibl xml:id="biblid63815">
+            <title xml:id="idm140209967083136">Epistola 192</title>
+          </bibl>
+          <bibl xml:id="biblid63903">
+            <title xml:id="idm140209967082352">Epistola 193</title>
+          </bibl>
+          <bibl xml:id="biblid64153">
+            <title xml:id="idm140209967081568">Epistola 195</title>
+          </bibl>
+          <bibl xml:id="biblid64496">
+            <title xml:id="idm140209967080784">Epistola 196</title>
+          </bibl>
+          <bibl xml:id="biblid64643">
+            <title xml:id="idm140209967079936">Epistola 210</title>
+          </bibl>
+          <bibl xml:id="biblid64735">
+            <title xml:id="idm140209967079088">Epistola 229</title>
+          </bibl>
+          <bibl xml:id="biblid64827">
+            <title xml:id="idm140209967078304">Epistola 232</title>
+          </bibl>
+          <bibl xml:id="biblid64976">
+            <title xml:id="idm140209967077456">Epistola 240</title>
+          </bibl>
+          <bibl xml:id="biblid65156">
+            <title xml:id="idm140209967076672">Epistola 241</title>
+          </bibl>
+          <bibl xml:id="biblid65230">
+            <title xml:id="idm140209967075824">Epistola 247</title>
+          </bibl>
+          <bibl xml:id="biblid65445">
+            <title xml:id="idm140209967075040">Epistola 257</title>
+          </bibl>
+          <bibl xml:id="biblid65682">
+            <title xml:id="idm140209967074256">Epistola 261</title>
+          </bibl>
+          <bibl xml:id="biblid65743">
+            <title xml:id="idm140209967073472">Epistola 276</title>
+          </bibl>
+          <bibl xml:id="biblid65789">
+            <title xml:id="idm140209967072688">Epistola 277</title>
+          </bibl>
+          <bibl xml:id="biblid65854">
+            <title xml:id="idm140209967071904">Epistola 300</title>
+          </bibl>
+          <bibl xml:id="biblid65943">
+            <title xml:id="idm140209967071056">Epistola 302</title>
+          </bibl>
+          <bibl xml:id="biblid66337">
+            <title xml:id="idm140209967070272">Epistola 319</title>
+          </bibl>
+          <bibl xml:id="biblid66429">
+            <title xml:id="idm140209967065424">Epistola 335</title>
+          </bibl>
+          <bibl xml:id="biblid66537">
+            <title xml:id="idm140209967064736">Epistola 341</title>
+          </bibl>
+          <bibl xml:id="biblid66641">
+            <title xml:id="idm140209967064048">Epistola 350</title>
+          </bibl>
+          <bibl xml:id="biblid66869">
+            <title xml:id="idm140209967063360">Epistola 354</title>
+          </bibl>
+          <bibl xml:id="biblid66947">
+            <title xml:id="idm140209967062672">Epistola 356</title>
+          </bibl>
+          <bibl xml:id="biblid67022">
+            <title xml:id="idm140209967061888">Epistola 358</title>
+          </bibl>
+          <bibl xml:id="biblid67208">
+            <title xml:id="idm140209967061072">Epistola 385</title>
+          </bibl>
+          <bibl xml:id="biblid67287">
+            <title xml:id="idm140209967060224">Epistola 388</title>
+          </bibl>
+          <bibl xml:id="biblid67421">
+            <title xml:id="idm140209967059440">Epistola 393</title>
+          </bibl>
+          <bibl xml:id="biblid67515">
+            <title xml:id="idm140209967058592">Epistola 395</title>
+          </bibl>
+          <bibl xml:id="biblid67585">
+            <title xml:id="idm140209967057808">Epistola 434</title>
+          </bibl>
+          <bibl xml:id="biblid67730">
+            <title xml:id="idm140209967057024">Epistola 439</title>
+          </bibl>
+          <bibl xml:id="biblid67841">
+            <title xml:id="idm140209967056240">Epistola 446</title>
+          </bibl>
+          <bibl xml:id="biblid67994">
+            <title xml:id="idm140209967055392">Epistola 448</title>
+          </bibl>
+          <bibl xml:id="biblid68143">
+            <title xml:id="idm140209967054608">Epistola 449</title>
+          </bibl>
+          <bibl xml:id="biblid68225">
+            <title xml:id="idm140209967053824">Epistola 452</title>
+          </bibl>
+          <bibl xml:id="biblid68267">
+            <title xml:id="idm140209967052976">Epistola 453</title>
+          </bibl>
+          <bibl xml:id="biblid68362">
+            <title xml:id="idm140209967052192">Epistola 458</title>
+          </bibl>
+          <bibl xml:id="biblid68429">
+            <title xml:id="idm140209967051344">Epistola 467</title>
+          </bibl>
+          <bibl xml:id="biblid68525">
+            <title xml:id="idm140209967050560">Epistola 469</title>
+          </bibl>
+          <bibl xml:id="biblid68576">
+            <title xml:id="idm140209967049776">Epistola 474</title>
+          </bibl>
+          <bibl xml:id="biblid68638">
+            <title xml:id="idm140209967048992">Epistola 494</title>
+          </bibl>
+          <bibl xml:id="biblid68743">
+            <title xml:id="idm140209967048208">Epistola 495</title>
+          </bibl>
+          <bibl xml:id="biblid68892">
+            <title xml:id="idm140209967047424">Epistola 502</title>
+          </bibl>
+          <bibl xml:id="biblid69019">
+            <title xml:id="idm140209967046576">Epistola 505</title>
+          </bibl>
+          <bibl xml:id="biblid69314">
+            <title xml:id="idm140209967045792">Epistola 512</title>
+          </bibl>
+          <bibl xml:id="biblid69651">
+            <title xml:id="idm140209967044944">Epistola 520</title>
+          </bibl>
+          <bibl xml:id="biblid69811">
+            <title xml:id="idm140209967044160">Epistola 538</title>
+          </bibl>
+        </listBibl>
+      </sourceDesc>
     </fileDesc>
   </teiHeader>
   <text xml:id="idm140209967043520">
@@ -189,7 +438,6 @@ Ptj  rettet s. 93-
       </div>
       <pb n="8" facs="adl/holberg/holberg11/holb11008" xml:id="s008"/>
       <pb n="9" facs="adl/holberg/holberg11/holb11009" xml:id="s009"/>
-<!--EPISTLER-->
       <pb n="10" facs="adl/holberg/holberg11/holb11010" xml:id="s010"/>
       <div type="indledning" xml:id="idm140209966969568">
         <head xml:id="idm140209966969072">Epistler<lb xml:id="idm140209966968784"/>Indledning</head>
@@ -477,7 +725,6 @@ Ptj  rettet s. 93-
                     ved Grovhed kand underkastes Critiqve. </p>
       </div>
       <pb n="22" facs="adl/holberg/holberg11/holb11022" xml:id="s022"/>
-<!--<p>Epistler</p>-->
       <div xml:id="workid55645" decls="#biblid55645">
         <head xml:id="idm140209966873696">EPISTOLA XII.</head>
         <salute xml:id="idm140209966873280">Til **</salute>
@@ -4362,7 +4609,7 @@ Ptj  rettet s. 93-
                     som skiønsomme Mænds Domme herudi. Men rnon lærde og skiønsomme Mænd just ere
                     Kiendere af Skuespill? Ingen bør eller kand fortænke mig, om jeg herudi
                     præfererer Molieres Kiendelse for det heele Parisiske Universitets Betænkning.
-                    Man seer, at denne store Com<!--&oelig;-->die-Skriver fornemmeligen haver
+                    Man seer, at denne store Comdie-Skriver fornemmeligen haver
                     søgt at imitere Plautum, uden at rette sig efter de Critiqver, som derover af
                     lærde Mænd ere faldne. Man seer, at af alle de gamle Stykker, som han haver
                     foretaget sig at oversætte og pynte paa, han ingen haver taget af Terentio, men
@@ -6926,7 +7173,7 @@ Ptj  rettet s. 93-
                     i-agttages Reglerne udi dette berømte Skue-Spil, hvilket jeg dog ikke forkaster,
                     efterdi det befatter en sammenhængende Historie og nogle artige Scenes, men
                     sætter meer Priis derpaa end paa de Touches og andre nye
-                    Com<!--&oelig;-->die-Skriveres Mester-Stykker, som bestaae alleene udi nogle
+                    Comdie-Skriveres Mester-Stykker, som bestaae alleene udi nogle
                     tørre Samtaler, og som af intet kand recommenderes uden af Stiilen og Poesien.
                     Det er i den Henseende, at man ogsaa seer igiennem Fingre med det gamle
                     Italienske Theaters Uordentligheder, efterdi man derudi finder Scener fulde af
@@ -7481,8 +7728,6 @@ Ptj  rettet s. 93-
     <back xml:id="idm140209965096448">
       <div xml:id="idm140209965096192">
         <head xml:id="idm140209965095936">Noter</head>
-<!--
-<p>Epistler</p>-->
         <p xml:id="idm140209965095200"> S. 19. <hi rend="italics" xml:id="idm140209965094944">Materien, </hi>Emnet, Indholdet. - <hi rend="italics" xml:id="idm140209965094224">Complimenter, </hi>Talemaader, Høflighedsudtryk. - <hi rend="italics" xml:id="idm140209965093456">deciderer, </hi>træffer Afgørelse, dømmer. - <hi rend="italics" xml:id="idm140209965092688">de futuris
                         contingentibus, </hi>lat. om fremtidige Hændelser. - <hi rend="italics" xml:id="idm140209965091888">historice, </hi>lat. historisk. - <hi rend="italics" xml:id="idm140209965091168">fast udi 40 Aar.
                     </hi>Holbergs tidligste Skrift, Introduction til de europæiske Rigers Historier,
@@ -8033,7 +8278,7 @@ Ptj  rettet s. 93-
                     Kr.-18 e. Kr.) i hans Metamorphoses (7, 21). - <hi rend="italics" xml:id="idm140209964585040">Video meliora
                         etc., </hi>lat. Jeg ser og bifalder det, som er bedre (gavnligt), men følger
                     det, som er værre (skadeligt). - <hi rend="italics" xml:id="idm140209964584064">Vitium, </hi>lat. Fejl,
-                    Mangel. - <hi rend="italics" xml:id="idm140209964583312">udi Com<!--&oelig;-->dien, </hi>Den
+                    Mangel. - <hi rend="italics" xml:id="idm140209964583312">udi Comdien, </hi>Den
                     Vægelsindede; se Bind III, S. 100-101. - <hi rend="italics" xml:id="idm140209964582160">deriverede,
                     </hi>udledte. - <hi rend="italics" xml:id="idm140209964581424">Vitium Animi, </hi>lat. Sjælens Fejl,
                     Sindslidelse. - <hi rend="italics" xml:id="idm140209964580608">laborere, </hi>er angrebet, lider. - <hi rend="italics" xml:id="idm140209964579888">vitium Corporis, </hi>lat. Legemsfejl. - <hi rend="italics" xml:id="idm140209964579168">Tincture, </hi>Draaber. - <hi rend="italics" xml:id="idm140209964578448">Senes </hi>eller Sennes,
@@ -8078,7 +8323,7 @@ Ptj  rettet s. 93-
                     Pan, gav han Pan Prisen, hvorfor Apollon udstyrede ham med Æseløren. - <hi rend="italics" xml:id="idm140209964532816">Alzirer, </hi>dvs. Algiers Beboere, hvoraf mange drev
                     Sørøveri i Middelhavet. ~ <hi rend="italics" xml:id="idm140209964531936">Vitalianer, </hi>Fetaljebrødrene,
                     der drev Sørøveri i Østersøen o. 1400. - <hi rend="italics" xml:id="idm140209964531072">Flibustiers, </hi>f
-                    r. vestindiske Sorøvere (i 17. og IS. Aarh.). - <hi rend="italics" xml:id="idm140209964530224">Com<!--&oelig;-->dien, </hi>Den Stundeslose; se Bind VI. - <hi rend="italics" xml:id="idm140209964529168">præstanda, </hi>lat. det, der skal ydes. - <hi rend="italics" xml:id="idm140209964528416">Land-Gilde, </hi>Fæsteafgift til Herremanden. </p>
+                    r. vestindiske Sorøvere (i 17. og IS. Aarh.). - <hi rend="italics" xml:id="idm140209964530224">Comdien, </hi>Den Stundeslose; se Bind VI. - <hi rend="italics" xml:id="idm140209964529168">præstanda, </hi>lat. det, der skal ydes. - <hi rend="italics" xml:id="idm140209964528416">Land-Gilde, </hi>Fæsteafgift til Herremanden. </p>
         <p xml:id="idm140209964527520"> S. 113. <hi rend="italics" xml:id="idm140209964527232">tracteres, </hi>behandles. - <hi rend="italics" xml:id="idm140209964526512">Affektion, </hi>Hengivenhed. - <hi rend="italics" xml:id="idm140209964525792">Plutarchus, </hi>Plutark,
                     græsk Forfatter og Filosof (ca. 46-120). - <hi rend="italics" xml:id="idm140209964524944">fortæller </hi>i
                     Perikles' Liv, Kap. 1,1. Foran det græske Citats første Ord har Holberg glemt
@@ -8323,7 +8568,7 @@ Ptj  rettet s. 93-
                         Prætensioner, </hi>holde fast ved Fordringer. - <hi rend="italics" xml:id="idm140209964364432">Skin,
                     </hi>Rimelighed. </p>
         <p xml:id="idm140209964363680"> S. 142. <hi rend="italics" xml:id="idm140209964363424">Acqvisition, </hi>Erhvervelse. - <hi rend="italics" xml:id="idm140209964362800">suffragia etc., </hi>lat. Stemmerne vejes ikke, men tælles. </p>
-        <p xml:id="idm140209964361952"> S. 143.<hi rend="italics" xml:id="idm140209964361696"> i Com<!--&oelig;-->dien, </hi>en lidt unøjagtig
+        <p xml:id="idm140209964361952"> S. 143.<hi rend="italics" xml:id="idm140209964361696"> i Comdien, </hi>en lidt unøjagtig
                     Erindring fra Den politiske Kandestøber II, 1. - <hi rend="italics" xml:id="idm140209964360624">Sværdfeigere, </hi>Sværdfegere, Haandværkere som samler og polerer
                     Sidevaaben. - <hi rend="italics" xml:id="idm140209964359808">en skreven Avis. </hi>Efter at trykte Aviser
                     var kommet i Brug rundsendtes endnu skrevne Aviser, især Oplysninger som ikke

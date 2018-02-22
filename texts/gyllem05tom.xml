@@ -1,10 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!--Tom opmærkning blo 25.06.02-->
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="idm139813005769936"><!-- 
-       file     ./marc_dir/002729949.xml
-       field     
-       subfield  
-       prefix   -->
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="root">
   <teiHeader xml:id="idm139813005769104">
     <fileDesc xml:id="idm139813005768848">
       <titleStmt xml:id="idm139813005768544">
@@ -19,8 +14,24 @@
         <note xml:id="idm139813005740544">
 	  </note>
       </notesStmt>
-      <sourceDesc xml:id="idm139813005740032"><bibl xml:id="idm139813005739904"><author n="1" xml:id="idm139813005739216"><name xml:id="idm139813005738960"><surname xml:id="idm139813005738832">Gyllembourg-Ehrensvärd</surname>, <forename xml:id="idm139813005738336">T. C.</forename></name></author><title xml:id="idm139813005738080">samlede skrifter af Forf</title><pubPlace xml:id="idm139813005737776">Kbh.</pubPlace>
-<date xml:id="idm139813005737264">1866-67</date></bibl><listBibl xml:id="idm139813005736976"><bibl xml:id="biblid54254"><title xml:id="idm139813005723824">En Episode (1835)</title></bibl><bibl xml:id="biblid55258"><title xml:id="idm139813005723040">Extremerne (1835)</title></bibl></listBibl></sourceDesc>
+      <sourceDesc xml:id="idm139813005740032">
+        <bibl xml:id="idm139813005739904">
+          <author n="1" xml:id="idm139813005739216">
+            <name xml:id="idm139813005738960"><surname xml:id="idm139813005738832">Gyllembourg-Ehrensvärd</surname>, <forename xml:id="idm139813005738336">T. C.</forename></name>
+          </author>
+          <title xml:id="idm139813005738080">samlede skrifter af Forf</title>
+          <pubPlace xml:id="idm139813005737776">København</pubPlace>
+          <date xml:id="idm139813005737264">1866-67</date>
+        </bibl>
+        <listBibl xml:id="idm139813005736976">
+          <bibl xml:id="biblid54254">
+            <title xml:id="idm139813005723824">En Episode (1835)</title>
+          </bibl>
+          <bibl xml:id="biblid55258">
+            <title xml:id="idm139813005723040">Extremerne (1835)</title>
+          </bibl>
+        </listBibl>
+      </sourceDesc>
     </fileDesc>
   </teiHeader>
   <text xml:id="idm139813005722400">

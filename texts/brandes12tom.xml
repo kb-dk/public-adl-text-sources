@@ -1,10 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!--Tom opmærkning jbh 27.09.01-->
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="idm140283872312416"><!-- 
-       file     ./marc_dir/001823972.xml
-       field     
-       subfield  
-       prefix   -->
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="root">
   <teiHeader xml:id="idm140283872311488">
     <fileDesc xml:id="idm140283872311232">
       <titleStmt xml:id="idm140283872285744">
@@ -19,8 +14,45 @@
         <note xml:id="idm140283872282928">
 	  </note>
       </notesStmt>
-      <sourceDesc xml:id="idm140283872282416"><bibl xml:id="idm140283872282288"><author n="1" xml:id="idm140283872281712"><name xml:id="idm140283872281456"><surname xml:id="idm140283872281328">Brandes</surname>, <forename xml:id="idm140283872280864">Georg</forename></name></author><title xml:id="idm140283872280576">Samlede Skrifter</title><pubPlace xml:id="idm140283872280288">Kbh.</pubPlace>
-<date xml:id="idm140283872279776">1899-1910</date></bibl><listBibl xml:id="idm140283872279488"><bibl xml:id="biblid54149"><title xml:id="idm140283872266336">Tanker om Liv og Kunst</title></bibl><bibl xml:id="biblid55450"><title xml:id="idm140283872265552">Politik og Nationalitet</title></bibl><bibl xml:id="biblid56065"><title xml:id="idm140283872264768">Nogle Taler</title></bibl><bibl xml:id="biblid56322"><title xml:id="idm140283872263984">Ungdomsvers, Første afdeling (1858-1860</title></bibl><bibl xml:id="biblid56454"><title xml:id="idm140283872263136">Ungdomsvers, Anden afdeling (1861-1865</title></bibl><bibl xml:id="biblid56627"><title xml:id="idm140283872262336">Ungdomsvers, Tredie afdeling (1866-1869</title></bibl><bibl xml:id="biblid56761"><title xml:id="idm140283872261536">Ungdomsvers, Fjerde afdeling (1871-1872</title></bibl><bibl xml:id="biblid56881"><title xml:id="idm140283872260736">Ungdomsvers, Femte afdeling (1873-1875</title></bibl><bibl xml:id="biblid57125"><title xml:id="idm140283872259936">Register bind 1-12</title></bibl></listBibl></sourceDesc>
+      <sourceDesc xml:id="idm140283872282416">
+        <bibl xml:id="idm140283872282288">
+          <author n="1" xml:id="idm140283872281712">
+            <name xml:id="idm140283872281456"><surname xml:id="idm140283872281328">Brandes</surname>, <forename xml:id="idm140283872280864">Georg</forename></name>
+          </author>
+          <title xml:id="idm140283872280576">Samlede Skrifter</title>
+          <pubPlace xml:id="idm140283872280288">København</pubPlace>
+          <date xml:id="idm140283872279776">1899-1910</date>
+        </bibl>
+        <listBibl xml:id="idm140283872279488">
+          <bibl xml:id="biblid54149">
+            <title xml:id="idm140283872266336">Tanker om Liv og Kunst</title>
+          </bibl>
+          <bibl xml:id="biblid55450">
+            <title xml:id="idm140283872265552">Politik og Nationalitet</title>
+          </bibl>
+          <bibl xml:id="biblid56065">
+            <title xml:id="idm140283872264768">Nogle Taler</title>
+          </bibl>
+          <bibl xml:id="biblid56322">
+            <title xml:id="idm140283872263984">Ungdomsvers, Første afdeling (1858-1860</title>
+          </bibl>
+          <bibl xml:id="biblid56454">
+            <title xml:id="idm140283872263136">Ungdomsvers, Anden afdeling (1861-1865</title>
+          </bibl>
+          <bibl xml:id="biblid56627">
+            <title xml:id="idm140283872262336">Ungdomsvers, Tredie afdeling (1866-1869</title>
+          </bibl>
+          <bibl xml:id="biblid56761">
+            <title xml:id="idm140283872261536">Ungdomsvers, Fjerde afdeling (1871-1872</title>
+          </bibl>
+          <bibl xml:id="biblid56881">
+            <title xml:id="idm140283872260736">Ungdomsvers, Femte afdeling (1873-1875</title>
+          </bibl>
+          <bibl xml:id="biblid57125">
+            <title xml:id="idm140283872259936">Register bind 1-12</title>
+          </bibl>
+        </listBibl>
+      </sourceDesc>
     </fileDesc>
   </teiHeader>
   <text xml:id="idm140283872259296">

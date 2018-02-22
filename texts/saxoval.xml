@@ -1,48 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!-- edited with XML Spy v3.5 NT (http://www.xmlspy.com) by Birgit Henriksen (Det Kongelige Bibliotek) -->
-<!-- 
-****************************************************************************
-rettet i forhold til Hans Høgs version af 09.01.2002:
-
-- indlæst med liniebrud hvor Hans's var en lang streng på 1 linie
-
-ændringer hhl 17.01.2002:
-
- - ændret tal som overskrifter fra <p> til <head>
- 
-ændringer hhl 17.01.2002: 
- 
- - flyttet <pb> fra midt i linie til mellem to linieskift    
-
-ændringer hhl 14.02.2002:  
-  
-- fjernet <lb/> ved Niende <lb/> Bog mfl, indsat i teksten som header
-
-ændringer hhl 11.03.2002:  
-- opd aget at to forklarende liner til NAVNEREGISTRET mangler i elektronisk text, findes i bogen side 889
-
-ændringer 11.marts 2002 ff
-- registret lavet til list/item med milestones for hvert nyt bogstav
-- indholdsfortegnelsen lave til list m. tables - lad os se om vi kan lave pæne tabeller til tallene til højre.
-
--HHL 20021009 fjernet bindestreger ved sideslut
--HHL 20021009 samlet Danmarks historie
-
-*********
-påtænkte rettelser:
-
-
-- indsætte <figure> og info om blanke sider <gap?>
-
-************
-
-Ptj rettet s. 21-828-
--->
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="idm140622285747984"><!-- 
-       file     ./marc_dir/002020364.xml
-       field     
-       subfield  
-       prefix   -->
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="root">
   <teiHeader xml:id="idm140622285722128">
     <fileDesc xml:id="idm140622285721872">
       <titleStmt xml:id="idm140622285721616">
@@ -63,23 +20,23 @@ Ptj rettet s. 21-828-
 	  </note>
       </notesStmt>
       <sourceDesc xml:id="idm140622285716560">
-	<bibl xml:id="idm140622285716304">
-	  <author n="1" xml:id="idm140622285715488">
-	    <name xml:id="idm140622285715056">
-	      <forename xml:id="idm140622285714752">Saxo</forename>
-	    </name>
-	  </author>
-	  <title xml:id="idm140622285714112">Saxos Danmarks historie</title>
-	  <pubPlace xml:id="idm140622285713728">Kbh.</pubPlace>
-      <publisher xml:id="idm140622285713312">Det Danske Sprog- og Litteraturselskab</publisher>
-      <publisher xml:id="idm140622285712880">Gad</publisher>
-      <date xml:id="idm140622285712448">2000</date>
-      </bibl>
-      <listBibl xml:id="idm140622285711856">
-	<bibl xml:id="biblid54112">
-	<title xml:id="idm140622285698448">Saxos Danmarkshistorie</title>
-	</bibl>
-      </listBibl>
+        <bibl xml:id="idm140622285716304">
+          <author n="1" xml:id="idm140622285715488">
+            <name xml:id="idm140622285715056">
+              <forename xml:id="idm140622285714752">Saxo</forename>
+            </name>
+          </author>
+          <title xml:id="idm140622285714112">Saxos Danmarks historie</title>
+          <pubPlace xml:id="idm140622285713728">København</pubPlace>
+          <publisher xml:id="idm140622285713312">Det Danske Sprog- og Litteraturselskab</publisher>
+          <publisher xml:id="idm140622285712880">Gad</publisher>
+          <date xml:id="idm140622285712448">2000</date>
+        </bibl>
+        <listBibl xml:id="idm140622285711856">
+          <bibl xml:id="biblid54112">
+            <title xml:id="idm140622285698448">Saxos Danmarkshistorie</title>
+          </bibl>
+        </listBibl>
       </sourceDesc>
     </fileDesc>
   </teiHeader>

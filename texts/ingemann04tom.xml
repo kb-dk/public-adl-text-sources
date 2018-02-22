@@ -1,10 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!--Tom opmærkning d. 31.07.2002 blo -->
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="idm140462731197584"><!-- 
-       file     ./marc_dir/001940530.xml
-       field     
-       subfield  
-       prefix   -->
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="root">
   <teiHeader xml:id="idm140462731196656">
     <fileDesc xml:id="idm140462731196400">
       <titleStmt xml:id="idm140462731196096">
@@ -23,8 +18,36 @@
         <note xml:id="idm140462731166992">
 	  </note>
       </notesStmt>
-      <sourceDesc xml:id="idm140462731166480"><bibl xml:id="idm140462731166352"><author n="1" xml:id="idm140462731165664"><name xml:id="idm140462731165408"><surname xml:id="idm140462731165280">Ingemann</surname>, <forename xml:id="idm140462731164816">B. S.</forename></name></author><title xml:id="idm140462731164528">Holger Danske</title><pubPlace xml:id="idm140462731164240">Kbh.</pubPlace>
-<date xml:id="idm140462731163728">1893</date></bibl><listBibl xml:id="idm140462731163440"><bibl xml:id="biblid54321"><title xml:id="idm140462731150288">Holger Danske. Et Digt i fem Sangkredse</title></bibl><bibl xml:id="biblid54325"><title xml:id="idm140462731149488">Hjemmet. Udgang i Verden [Holger Danske 1. Sangkreds]</title></bibl><bibl xml:id="biblid54632"><title xml:id="idm140462731148672">Holgers Ungdom [Holger Danske 2. Sangkreds]</title></bibl><bibl xml:id="biblid54794"><title xml:id="idm140462731147856">Heltelivet [Holger Danske 3. Sangkreds]</title></bibl><bibl xml:id="biblid55021"><title xml:id="idm140462731147056">Holger i Norden og Østen [Holger Danske 4. Sangkreds]</title></bibl><bibl xml:id="biblid55186"><title xml:id="idm140462731146176">Genoplivelsen [Holger Danske 5. Sangkreds]</title></bibl></listBibl></sourceDesc>
+      <sourceDesc xml:id="idm140462731166480">
+        <bibl xml:id="idm140462731166352">
+          <author n="1" xml:id="idm140462731165664">
+            <name xml:id="idm140462731165408"><surname xml:id="idm140462731165280">Ingemann</surname>, <forename xml:id="idm140462731164816">B. S.</forename></name>
+          </author>
+          <title xml:id="idm140462731164528">Holger Danske</title>
+          <pubPlace xml:id="idm140462731164240">København</pubPlace>
+          <date xml:id="idm140462731163728">1893</date>
+        </bibl>
+        <listBibl xml:id="idm140462731163440">
+          <bibl xml:id="biblid54321">
+            <title xml:id="idm140462731150288">Holger Danske. Et Digt i fem Sangkredse</title>
+          </bibl>
+          <bibl xml:id="biblid54325">
+            <title xml:id="idm140462731149488">Hjemmet. Udgang i Verden [Holger Danske 1. Sangkreds]</title>
+          </bibl>
+          <bibl xml:id="biblid54632">
+            <title xml:id="idm140462731148672">Holgers Ungdom [Holger Danske 2. Sangkreds]</title>
+          </bibl>
+          <bibl xml:id="biblid54794">
+            <title xml:id="idm140462731147856">Heltelivet [Holger Danske 3. Sangkreds]</title>
+          </bibl>
+          <bibl xml:id="biblid55021">
+            <title xml:id="idm140462731147056">Holger i Norden og Østen [Holger Danske 4. Sangkreds]</title>
+          </bibl>
+          <bibl xml:id="biblid55186">
+            <title xml:id="idm140462731146176">Genoplivelsen [Holger Danske 5. Sangkreds]</title>
+          </bibl>
+        </listBibl>
+      </sourceDesc>
     </fileDesc>
   </teiHeader>
   <text xml:id="idm140462731145424">

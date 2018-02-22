@@ -1,10 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!-- HHL 08.08.2002 tilføjet vaerktitler -->
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="idm140085696797936"><!-- 
-       file     ./marc_dir/001823114.xml
-       field    530 
-       subfield a 
-       prefix   1. Bind -->
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="root">
   <teiHeader xml:id="idm140085696797104">
     <fileDesc xml:id="idm140085696796848">
       <titleStmt xml:id="idm140085696796544">
@@ -25,28 +20,43 @@
 	  </note>
       </notesStmt>
       <sourceDesc xml:id="idm140085696766304">
-	<bibl xml:id="idm140085696766048">
-	  <author n="1" xml:id="idm140085696765232">
-	    <name xml:id="idm140085696764800">
-	      <surname xml:id="idm140085696764496">Helgesen</surname>, <forename xml:id="idm140085696764032">Poul</forename>
-	    </name>
-	  </author>
-	  <title xml:id="idm140085696763360">Skrifter af Paulus Helie 1. Bind  / ved Marius
+        <bibl xml:id="idm140085696766048">
+          <author n="1" xml:id="idm140085696765232">
+            <name xml:id="idm140085696764800"><surname xml:id="idm140085696764496">Helgesen</surname>, <forename xml:id="idm140085696764032">Poul</forename></name>
+          </author>
+          <title xml:id="idm140085696763360">Skrifter af Paulus Helie 1. Bind  / ved Marius
 	  Kristensen. - 1932</title>
-	  <title xml:id="idm140085696762896">Udgivet af Det danske Sprog- og Litteraturselskab</title>
-	  <pubPlace xml:id="idm140085696762448">Kbh.</pubPlace>
-	  <date xml:id="idm140085696761984">1932-1948</date>
-	</bibl>
-	<listBibl xml:id="idm140085696761392">
-	  <bibl xml:id="biblid54553"><title xml:id="idm140085696748112">En christhen førstis lære
-      (1520)</title></bibl><bibl xml:id="biblid60723"><title xml:id="idm140085696747264">Epistola ad
-      Johannem Laurentii (1523)</title></bibl><bibl xml:id="biblid60819"><title xml:id="idm140085696746448">Christiern den Andens Rimkrønike
-      (1523)</title></bibl><bibl xml:id="biblid61832"><title xml:id="idm140085696745584">Epistola ad
-      Petrum Iuari (1524)</title></bibl><bibl xml:id="biblid62094"><title xml:id="idm140085696744736">Een
+          <title xml:id="idm140085696762896">Udgivet af Det Danske Sprog- og Litteraturselskab</title>
+          <pubPlace xml:id="idm140085696762448">København</pubPlace>
+          <date xml:id="idm140085696761984">1932-1948</date>
+        </bibl>
+        <listBibl xml:id="idm140085696761392">
+          <bibl xml:id="biblid54553">
+            <title xml:id="idm140085696748112">En christhen førstis lære
+      (1520)</title>
+          </bibl>
+          <bibl xml:id="biblid60723">
+            <title xml:id="idm140085696747264">Epistola ad
+      Johannem Laurentii (1523)</title>
+          </bibl>
+          <bibl xml:id="biblid60819">
+            <title xml:id="idm140085696746448">Christiern den Andens Rimkrønike
+      (1523)</title>
+          </bibl>
+          <bibl xml:id="biblid61832">
+            <title xml:id="idm140085696745584">Epistola ad
+      Petrum Iuari (1524)</title>
+          </bibl>
+          <bibl xml:id="biblid62094">
+            <title xml:id="idm140085696744736">Een
       cristelig vnderwyszning (Martin Luthers Bedebog)
-      (1526)</title></bibl><bibl xml:id="biblid65702"><title xml:id="idm140085696743856">Undervisning om
-      Luthers Handel (1526)</title></bibl>
-	</listBibl>
+      (1526)</title>
+          </bibl>
+          <bibl xml:id="biblid65702">
+            <title xml:id="idm140085696743856">Undervisning om
+      Luthers Handel (1526)</title>
+          </bibl>
+        </listBibl>
       </sourceDesc>
     </fileDesc>
   </teiHeader>
@@ -54,9 +64,6 @@
     <front xml:id="idm140085696742640">
       <pb n="I" facs="adl/helgesen/helgesen1/helg1fm001" xml:id="idm140085696742336"/>
       <gap reason="cancelled" xml:id="idm140085696741504"/>
-<!---->
-<!---->
-<!--SKRIFTER AF PAULUS HELIE BIND 1-->
       <pb n="II" facs="adl/helgesen/helgesen1/helg1fm002" xml:id="idm140085696739952"/>
       <pb n="III" facs="adl/helgesen/helgesen1/helg1fm003" xml:id="idm140085696739184"/>
       <titlePage xml:id="idm140085696738416">
@@ -205,7 +212,7 @@ barnet, dog han ffornymmer det ær beqwemt oc twktikt, ffor di dess bædre jordh
             <p xml:id="idm140085696622832">Dhe stranbrædde pleijer man altiid best beware oc beskerme som mæst flood oc storm faller paa Dher ære wtalige tingest til [10a] som konge sind kwnne drage fraa dhet som ræt ær, som er staar lycke, møghen riigdom, offwerflodigheed oc kræseligt leffnid, ffriiheed aff hwilken de meene, at alt thet er sømmeligt som dhem ær lysteligt, Dher nest stoore herris onde oc daarlige exempill, oc offwer alt smigher, som er een forkled fastelaghens troo, Ffor dhen sag schal han mod desse tingest beskermis, met gode oc christne konghers bwd oc exempell,</p>
             <p xml:id="idm140085696621808">Ligerwiss som den mand ær icke een pijnæ wærd men mange, som forgiffwer den kælle met eedher, som hwer mand schal drycke aff, saa ær oc saa den alsom skadeligst, der for giffwer eth kongelikt bryst, met onde meningher, thi at the komme icke een, mæn saa mange till skaade oc forderffwe,</p>
             <p xml:id="idm140085696620816">Ær dhet saa at dhen pijnes till døde som konghens mijnth forfalsker. møghet meer, dha er dhen pijne wærd. som konghens sijnd oc natwr ffordærffwer,</p>
-            <p xml:id="idm140085696620256">Ffordi dha schal mestherin met staar mandom oc allwar, oplære met thet førsthe konge børen dhen stwnd de ære wbesmittede aff onth, oc beqwemme til at gøre dhet som dhem sies, oc peegis faare,wiisheed haffwer oc sijn barndom met seg. oc wngdom.</p>
+            <p xml:id="idm140085696620256">Ffordi dha schal mestherin met staar mandom oc allwar, oplære met thet førsthe konge børen dhen stwnd de ære wbesmittede aff onth, oc beqwemme til at gøre dhet som dhem sies, oc peegis faare, wiisheed haffwer oc sijn barndom met seg. oc wngdom.</p>
             <pb n="19" facs="adl/helgesen/helgesen1/helg1019" xml:id="idm140085696619360"/>
             <p xml:id="idm140085696618592">lligerwiiss som andree tingest [1ob] oc altiid schal han lære dhem dhet samme, dog met askillige fwnd oc tidher, oc dhet begynne met løst oc lempe, som sien schal met stoor alffware tractheris oc læris,</p>
             <p xml:id="idm140085696617776">Oc nar han for nymmer at barnet haffwer lyst til dhet fabel. oc æwinthyr som Esopus scriffwer om den mws som frelste een løije aff siith fengsill, oc nar barnet der leer at, dha skal mesterin sie, at thet æwinthyr hørir en herre oc en konghe til, oc mærker at han schal plat inghen forsmaa, mæn forskylle seg met welgerninger alle folkis ynnisthe baade smaa oc stooris, ffordi at met lyckins løb da er inghen saa wanmegtig, at han ey met tidhen bode gangne oc skade, som tith haffwer dhem hænt dher waare mægtige nock</p>
@@ -542,7 +549,7 @@ mærkelige scriffwer at blant dhem dher haffwer konge naffen, fijnnes somme at w
 	<pb n="80" facs="adl/helgesen/helgesen1/helg1080" xml:id="idm140085696326272"/>
 wil, dhet at wære een herre sømmeligt, som ær mod natwrhin. oc got rædeligt skell, hwad gør han andhet æn tagher hanwm kongelig ære fraa, oc gør hanwm een af dhe slemmisthe som finnes i noghen meenighed</p>
             <p xml:id="idm140085696324944">Een første schal icke blwes wed at lyde høwiskhed, effther dhi at gwd thet gør, Jcke schal han hæller troo, at han ær dess myndre konge, om han aff sijn makt effther føyll himmerigis kongis beelede,</p>
-            <p xml:id="idm140085696324128">Dhenne oc andhen god sed. skal strax soes i dhet wnghe bryst. wd aff forældre. aff fosthermoder. oc læremæsthere, Dhette skall han lære met god willie, oc icke nød heller trængd, Dhet ær beqwemt at een herre schall saa læris, som schall i framtidhen regere offwer frij oc willighe folk, han skall lære at ælske dijgd [55a] oc haffwe wederstijggilse till fwlhed, oc han schal holles fraa vnth met blygsell, oc icke rædsle. Oc æn dog at een god førstis hob ær dher wdi, at hans seedher ære forbædrede, oc løse begæringh ære stilledhe, dha ær dhet ypperste oc bæsthe, wdi rætte meeningher. fordi blwgsill forbædir offthe onde seedher, løse begæring fortagis, oc met alderin. oc god lærdom, Mæn hwor som wdygd ær lærd. oc indrwckin. oc meenis ath wære dygdher, oc dhet holles faare at wære een konge, som ær wærre en at wære een tijran, dhet ær at nar som dhe kæller ær forgiffne, aff hwilke liffagtigheed skwlle komme, dha ær dhet ont at læge noghen kranckhed, oc fordi schal læremestherin met thet aller første som sagt ær,wdælthe ondhe meeningher, aff een kongis bryst, oc planthe saa gode meeningher i samme stæd,</p>
+            <p xml:id="idm140085696324128">Dhenne oc andhen god sed. skal strax soes i dhet wnghe bryst. wd aff forældre. aff fosthermoder. oc læremæsthere, Dhette skall han lære met god willie, oc icke nød heller trængd, Dhet ær beqwemt at een herre schall saa læris, som schall i framtidhen regere offwer frij oc willighe folk, han skall lære at ælske dijgd [55a] oc haffwe wederstijggilse till fwlhed, oc han schal holles fraa vnth met blygsell, oc icke rædsle. Oc æn dog at een god førstis hob ær dher wdi, at hans seedher ære forbædrede, oc løse begæringh ære stilledhe, dha ær dhet ypperste oc bæsthe, wdi rætte meeningher. fordi blwgsill forbædir offthe onde seedher, løse begæring fortagis, oc met alderin. oc god lærdom, Mæn hwor som wdygd ær lærd. oc indrwckin. oc meenis ath wære dygdher, oc dhet holles faare at wære een konge, som ær wærre en at wære een tijran, dhet ær at nar som dhe kæller ær forgiffne, aff hwilke liffagtigheed skwlle komme, dha ær dhet ont at læge noghen kranckhed, oc fordi schal læremestherin met thet aller første som sagt ær, wdælthe ondhe meeningher, aff een kongis bryst, oc planthe saa gode meeningher i samme stæd,</p>
             <pb n="81" facs="adl/helgesen/helgesen1/helg1081" xml:id="idm140085696321632"/>
           </div>
           <div xml:id="idm140085696320736">
@@ -1375,7 +1382,7 @@ handt eyer oc besyder.</head>
 Saa synde wy modt thet Første budt</head>
             <p xml:id="idm140085695727584">Om wy vdtij wor modtgang bruge synelsse, troldom, eller anden dieffuels konst, eller oc om wy begere help och trøst, aff thennom som medt tro, och
 	<pb n="197" facs="adl/helgesen/helgesen1/helg1197" xml:id="idm140085695727008"/>
-loffwe,haffue sigh forbundet till dieffuelen, som troldkarle, eller troldqwinner haffue giordt.</p>
+loffwe, haffue sigh forbundet till dieffuelen, som troldkarle, eller troldqwinner haffue giordt.</p>
             <p xml:id="idm140085695726000">Om wy bruge swerdtbreff, tegen, yrther, ordt, wyelsse, och andhen saadan tingh, som i then menningh icke andhet ære, endt sandt troldom, forthij ther settis loffwe till thennom, oc missloffue till Gudt.</p>
             <p xml:id="idm140085695725200">Om wy bruge noggen anden swordt kunst, ther oc saa brugis wdtij atskillige mode som ære medt rijs, feykoste [B4a] Cristalniscke speygle besyndherlighe klæder, oc farffue.</p>
             <p xml:id="idm140085695724448">Om wy med lessningh oc formanelße vppgraffue penninge aff iorden. Alle saadane kønster y huadt naffen thennom giffues, tha ære the och brughis modt thette budt</p>

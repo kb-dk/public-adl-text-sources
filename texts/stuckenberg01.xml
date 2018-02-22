@@ -1,11 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!--  OCR by ATAPY 23.09.2001 (Catherine Bychkova) -->
-<!-- VL: rettet lidt på titlerne; rettet imagefiles: facs="stuck  -->
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="idm140680123960528"><!-- 
-       file     ./marc_dir/001849994.xml
-       field     
-       subfield  
-       prefix   -->
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="root">
   <teiHeader xml:id="idm140680123959632">
     <fileDesc xml:id="idm140680123959376">
       <titleStmt xml:id="idm140680123959072">
@@ -20,19 +14,39 @@
         <note xml:id="idm140680123930912">
 	  </note>
       </notesStmt>
-      <sourceDesc xml:id="idm140680123930400"><bibl xml:id="idm140680123930272"><author n="1" xml:id="idm140680123929584"><name xml:id="idm140680123929328"><surname xml:id="idm140680123929200">Stuckenberg</surname>, <forename xml:id="idm140680123928768">Viggo</forename></name></author><title xml:id="idm140680123928512">Samlede Værker</title><pubPlace xml:id="idm140680123928208">Kbh.</pubPlace>
-<date xml:id="idm140680123927696">1910-11</date></bibl><listBibl xml:id="idm140680123927408"><bibl xml:id="biblid54261"><title xml:id="idm140680123914256">I GENNEMBRUD</title></bibl><bibl xml:id="biblid62738"><title xml:id="idm140680123913472">MESSIAS</title></bibl><bibl xml:id="biblid74495"><title xml:id="idm140680123912688">DEN VILDE JÆGER</title></bibl><bibl xml:id="biblid89879"><title xml:id="idm140680123911888">ROMERSKE SCENER</title></bibl><bibl xml:id="biblid100518"><title xml:id="idm140680123911104">FAGRE ORD</title></bibl></listBibl></sourceDesc>
+      <sourceDesc xml:id="idm140680123930400">
+        <bibl xml:id="idm140680123930272">
+          <author n="1" xml:id="idm140680123929584">
+            <name xml:id="idm140680123929328"><surname xml:id="idm140680123929200">Stuckenberg</surname>, <forename xml:id="idm140680123928768">Viggo</forename></name>
+          </author>
+          <title xml:id="idm140680123928512">Samlede Værker</title>
+          <pubPlace xml:id="idm140680123928208">København</pubPlace>
+          <date xml:id="idm140680123927696">1910-11</date>
+        </bibl>
+        <listBibl xml:id="idm140680123927408">
+          <bibl xml:id="biblid54261">
+            <title xml:id="idm140680123914256">I GENNEMBRUD</title>
+          </bibl>
+          <bibl xml:id="biblid62738">
+            <title xml:id="idm140680123913472">MESSIAS</title>
+          </bibl>
+          <bibl xml:id="biblid74495">
+            <title xml:id="idm140680123912688">DEN VILDE JÆGER</title>
+          </bibl>
+          <bibl xml:id="biblid89879">
+            <title xml:id="idm140680123911888">ROMERSKE SCENER</title>
+          </bibl>
+          <bibl xml:id="biblid100518">
+            <title xml:id="idm140680123911104">FAGRE ORD</title>
+          </bibl>
+        </listBibl>
+      </sourceDesc>
     </fileDesc>
   </teiHeader>
   <text xml:id="idm140680123910416">
     <front xml:id="idm140680123910160">
       <pb n="III" facs="adl/stuckenberg/stuckenberg1/stuck1003" xml:id="idm140680123909856"/>
       <gap reason="cancelled" xml:id="idm140680123909040"/>
-<!---->
-<!---->
-<!---->
-<!---->
-<!--VIGGO STUCKENBERG SAMLEDE VÆRKER-->
       <titlePage xml:id="idm140680123906880">
         <titlePart type="main" xml:id="idm140680123906576">
           <figure xml:id="idm140680123906000"/>
@@ -3322,7 +3336,7 @@ har en ung Dame broderet og foræret os. Er den ikke fuldendt nydelig?</p>
             <p xml:id="idm140680121959392">- Det er Winkel! Winkel vil sige noget!</p>
             <p xml:id="idm140680121958960">Winkel stod saa aldeles rolig; det blege Ansigt og den skære Skikkelse var saa urokkelig at se paa og saa omhyggelig glattet af som hans sorte friserede Hovedhaar.</p>
             <p xml:id="idm140680121958224">- Jeg vilde gærne sige et Par Ord paa denne højtidelige Aften! begyndte han; hans Stemme havde Klang af Glas. Jeg bor her lige overfor, og det har jo ikke kunnet undgaa min Opmærksomhed, at Madammen her ovre lavede til Barsel. Og det er gaaet mig som Kællingerne i Smaagaderne; jeg har mindst en Gang hver Dag maattet trisse over Gaden for at komme op og spørge, hvordan det gik med Smerterne, og for at klappe Patienten paa Maven. Jeg synes derfor, jeg har en Smule Pligt til at sige et Par Ord, nu Familien er samlet, og det lille røde Skidt er kommet til Verden. Jeg holder slet ikke af Børn, ved Gud heller ikke af dette her. Jeg har kun det onde Ønske at give det med paa denne dets Fødselsdag: Gid det maa faa ret mange Smæk paa sin Ende, at vi kan faa nogle ordentlige Vræl fra det, saa Folk kan faa at høre, der er kommet en Unge til i Gaden!</p>
-            <p xml:id="idm140680121956064">Winkel tømte sit Glas,og Skaren om Bordet lo, og en Mængde Hænder kom frem og snappede i en Fart de Flasker, der stod. Saa blev der skænket og sølet ned over Rygge og drukket og skænket igen, og saa blev Flaskerne sat tilbage.</p>
+            <p xml:id="idm140680121956064">Winkel tømte sit Glas, og Skaren om Bordet lo, og en Mængde Hænder kom frem og snappede i en Fart de Flasker, der stod. Saa blev der skænket og sølet ned over Rygge og drukket og skænket igen, og saa blev Flaskerne sat tilbage.</p>
             <p xml:id="idm140680121955200">Jansen havde taget et Glas, men fik ingenting i, før der blev
 	<pb n="225" facs="adl/stuckenberg/stuckenberg1/stuck1225" xml:id="idm140680121954800"/>
 nogenlunde Plads om Bordet. Den første Flaske, der blev sat, greb han; men den var tom.</p>

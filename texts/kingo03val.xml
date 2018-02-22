@@ -1,18 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!-- edited with XML Spy v3.5 NT (http://www.xmlspy.com) by Birgit Henriksen (the royal library denmark) -->
-<!-- 
-
-- 10.01.2002/HHL: valideret med XMLSpy og fanger.pl 
-- 14.03.2002/HHL: afkortet vaerktitler til kun at omfatte 1. verslinie
-                     værker der er trykt to gange i bindet får tilføjet [1] henh. [2]
-                     Visse titler medtager forskelligt antal ord for samme digt - det har jeg ladet blive stå.
-Ptj rettet s. 177-214-375  kingo03ret.xml ikke uploaded
--->
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="idm139707830888384"><!-- 
-       file     ./marc_dir/001614819.xml
-       field     
-       subfield  
-       prefix   -->
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="root">
   <teiHeader xml:id="idm139707830888992">
     <fileDesc xml:id="idm139707830888736">
       <titleStmt xml:id="idm139707830862368">
@@ -31,9 +18,314 @@ Ptj rettet s. 177-214-375  kingo03ret.xml ikke uploaded
         <note xml:id="idm139707830858336">
 	  </note>
       </notesStmt>
-      <sourceDesc xml:id="idm139707830857824"><bibl xml:id="idm139707830857696"><author n="1" xml:id="idm139707830857008"><name xml:id="idm139707830856752"><surname xml:id="idm139707830856624">Kingo</surname>,
-      <forename xml:id="idm139707830856208">Thomas</forename></name></author><title xml:id="idm139707830855920">Samlede skrifter 3</title><pubPlace xml:id="idm139707830855632">Kbh</pubPlace>
-<publisher xml:id="idm139707830855200">Munksgaard</publisher><date xml:id="idm139707830854864">1939-74.</date></bibl><listBibl xml:id="idm139707830854576"><bibl xml:id="biblid54803"><title xml:id="idm139707830841424">Aandelig Siunge-koor, Første Part, 1.Udgave 1674</title></bibl><bibl xml:id="biblid56068"><title xml:id="idm139707830840560">Rind nu op i JEsu Navn</title></bibl><bibl xml:id="biblid56691"><title xml:id="idm139707830839776">Dagen er snart runden hen [1]</title></bibl><bibl xml:id="biblid57346"><title xml:id="idm139707830838928">Ach! min HErre, straf mig ey [1]</title></bibl><bibl xml:id="biblid57692"><title xml:id="idm139707830838128">Siæl og Hierte, Sind og Sandser [1]</title></bibl><bibl xml:id="biblid58183"><title xml:id="idm139707830837232">Blusser op og værer glade [1]</title></bibl><bibl xml:id="biblid58772"><title xml:id="idm139707830836352">Salig er en Mand at skatte [1]</title></bibl><bibl xml:id="biblid59265"><title xml:id="idm139707830835504">Lyksalig Dag! som nu saa bliid oprinder</title></bibl><bibl xml:id="biblid59753"><title xml:id="idm139707830834656">Dend prægtig Sool, som hele Verden glæder</title></bibl><bibl xml:id="biblid60163"><title xml:id="idm139707830833808">Ach HErre! lad nu ey din Vred´ opsyde</title></bibl><bibl xml:id="biblid60642"><title xml:id="idm139707830832960">Velkommen Morgenstund, med Guld og gavn i Mund!</title></bibl><bibl xml:id="biblid61084"><title xml:id="idm139707830832144">Dend klare Sool gaar ned, Det qvelder meer og meer</title></bibl><bibl xml:id="biblid61520"><title xml:id="idm139707830831328">GUd vær mig naadig, og tilgiv min Synd saa leed</title></bibl><bibl xml:id="biblid62193"><title xml:id="idm139707830830416">Op, op i søde JEsu Navn [1]</title></bibl><bibl xml:id="biblid62760"><title xml:id="idm139707830829536">Det mulner mod den mørke Nat [1]</title></bibl><bibl xml:id="biblid63346"><title xml:id="idm139707830828704">O HErre hør min Jammers Bøn</title></bibl><bibl xml:id="biblid64020"><title xml:id="idm139707830827760">Nu rinder Solen op</title></bibl><bibl xml:id="biblid64678"><title xml:id="idm139707830826976">Til hvile Soolen gaar</title></bibl><bibl xml:id="biblid65284"><title xml:id="idm139707830826144">Udaf dend dybe Nød</title></bibl><bibl xml:id="biblid65631"><title xml:id="idm139707830825296">Vaag op og slae paa dine Strenge</title></bibl><bibl xml:id="biblid66254"><title xml:id="idm139707830824496">See, hvor sig Dagen atter skynder [1]</title></bibl><bibl xml:id="biblid66884"><title xml:id="idm139707830823632">O HErre, hold din´ Øren aaben</title></bibl><bibl xml:id="biblid67550"><title xml:id="idm139707830822752">Aandelig Siunge-Koor, Første Part, 2. og 3. Udgave 1677 og 1680</title></bibl><bibl xml:id="biblid68436"><title xml:id="idm139707830821808">Aandelig Siunge-Koor, Anden Part, 1.Udgave 1681</title></bibl><bibl xml:id="biblid70979"><title xml:id="idm139707830820944">Op! op med Himmelstemme</title></bibl><bibl xml:id="biblid71674"><title xml:id="idm139707830820112">Steenig Hierte, gid du kunde</title></bibl><bibl xml:id="biblid71807"><title xml:id="idm139707830819264">Kom, Siæl, og lad os græde</title></bibl><bibl xml:id="biblid72724"><title xml:id="idm139707830818384">Ach! min Jesu jeg maa klage</title></bibl><bibl xml:id="biblid72815"><title xml:id="idm139707830817536">Sorrig og Elendighed, Suk og salte</title></bibl><bibl xml:id="biblid74002"><title xml:id="idm139707830816736">Ach! min Jesu! ach! jeg er død</title></bibl><bibl xml:id="biblid74084"><title xml:id="idm139707830815856">Ach! Herre see min Hierte-vee</title></bibl><bibl xml:id="biblid75078"><title xml:id="idm139707830815008">Aldrig er jeg uden Vaade</title></bibl><bibl xml:id="biblid75185"><title xml:id="idm139707830814208">Med Blusel, Graad og Klage</title></bibl><bibl xml:id="biblid75880"><title xml:id="idm139707830813408">Naar jeg, O Gud! mit Synde-dyb</title></bibl><bibl xml:id="biblid75955"><title xml:id="idm139707830812496">Fald ned, fald paa dit Ansigt ned</title></bibl><bibl xml:id="biblid76750"><title xml:id="idm139707830919168">Søde Jesu, Siælens Læge</title></bibl><bibl xml:id="biblid76847"><title xml:id="idm139707830918480">Himmelsøde Gud og Fader</title></bibl><bibl xml:id="biblid77212"><title xml:id="idm139707830917792">Til Herrens Bord, I Jesu Navn</title></bibl><bibl xml:id="biblid77406"><title xml:id="idm139707830917040">Hierte Jesu, hvad for Prøve skal</title></bibl><bibl xml:id="biblid77487"><title xml:id="idm139707830916208">O Jesu! paa din Alter-food</title></bibl><bibl xml:id="biblid77892"><title xml:id="idm139707830915456">Tack, Jesu, Sialens Hyrde good</title></bibl><bibl xml:id="biblid78086"><title xml:id="idm139707830786640">Min Siæl, hvor er dog dend, som dig</title></bibl><bibl xml:id="biblid78308"><title xml:id="idm139707830785792">Far, Verden, far vel, jeg keedis</title></bibl><bibl xml:id="biblid78848"><title xml:id="idm139707830785040">Ach! Jesu mit Hierte har vanked</title></bibl><bibl xml:id="biblid78973"><title xml:id="idm139707830784288">Herre Gud mit Hiertis Glæde</title></bibl><bibl xml:id="biblid79612"><title xml:id="idm139707830783456">Søde Siæl, hvi vilt du komme</title></bibl><bibl xml:id="biblid79857"><title xml:id="idm139707830782624">Hvorfor, mit Hierte, klemmiss du</title></bibl><bibl xml:id="biblid80505"><title xml:id="idm139707830781872">Ach! Hvi kand jeg aldrig lukke</title></bibl><bibl xml:id="biblid80698"><title xml:id="idm139707830781120">Sorrig og Glæde de vandre</title></bibl><bibl xml:id="biblid81021"><title xml:id="idm139707830780304">Hvor ofte sukker jeg, fordi</title></bibl><bibl xml:id="biblid81098"><title xml:id="idm139707830779552">Blant alle Ting i Verden her</title></bibl><bibl xml:id="biblid81699"><title xml:id="idm139707830778800">Saa skal dog alle Ting sig</title></bibl><bibl xml:id="biblid81776"><title xml:id="idm139707830778048">Hierte Fader, Godheds Rood</title></bibl><bibl xml:id="biblid82195"><title xml:id="idm139707830777232">Gud, hvor stor og prjselig</title></bibl><bibl xml:id="biblid82529"><title xml:id="idm139707830776416">Vor Disk og Dug er alt bereed</title></bibl><bibl xml:id="biblid82598"><title xml:id="idm139707830775664">Vort Maaltjd vi beslutter nu</title></bibl><bibl xml:id="biblid82882"><title xml:id="idm139707830774912">Hav Tack, ô Gud, vor Skabermand</title></bibl><bibl xml:id="biblid82955"><title xml:id="idm139707830774080">I Jesu Himmel-søde Navn</title></bibl><bibl xml:id="biblid83749"><title xml:id="idm139707830769200">En fattig Pillegrim jeg er</title></bibl><bibl xml:id="biblid83878"><title xml:id="idm139707830768512">O store Gud og Herre</title></bibl><bibl xml:id="biblid84269"><title xml:id="idm139707830767824">Naar jeg, O Gud! paa Havet er</title></bibl><bibl xml:id="biblid85337"><title xml:id="idm139707830767072">Aandelig Siunge-Kor, Første Part, 4. Udgave 1684</title></bibl><bibl xml:id="biblid86507"><title xml:id="idm139707830766208">Nu staar jeg op i HErrens Navn</title></bibl><bibl xml:id="biblid86616"><title xml:id="idm139707830765344">Rind nu op i JEsu Navn du livsalig</title></bibl><bibl xml:id="biblid87273"><title xml:id="idm139707830764544">Dagen er snart runden hen [2]</title></bibl><bibl xml:id="biblid88038"><title xml:id="idm139707830763744">Dagen nu sin afskeed tager</title></bibl><bibl xml:id="biblid88108"><title xml:id="idm139707830762944">Ach! min HErre, straf mig ey [2]</title></bibl><bibl xml:id="biblid88473"><title xml:id="idm139707830762144">Dagen nu fra Himlen rinder</title></bibl><bibl xml:id="biblid88585"><title xml:id="idm139707830761344">Siæl og Hierte, Sind og Sandser [2]</title></bibl><bibl xml:id="biblid89180"><title xml:id="idm139707830760496">Blusser op og værer glade [2]</title></bibl><bibl xml:id="biblid89796"><title xml:id="idm139707830759600">Haf tak, O GUd! for denne Dag</title></bibl><bibl xml:id="biblid89898"><title xml:id="idm139707830758800">Salig er en Mand at skatte [2]</title></bibl><bibl xml:id="biblid90289"><title xml:id="idm139707830758000">Nat søvn og slum, og seng far vel</title></bibl><bibl xml:id="biblid90431"><title xml:id="idm139707830757168">Lyksalig Dag! som nu saa bliid</title></bibl><bibl xml:id="biblid90939"><title xml:id="idm139707830756368">Dend præg Sool, som heele Verden</title></bibl><bibl xml:id="biblid91366"><title xml:id="idm139707830755536">Gak Siæl og tag dit Regnebræt</title></bibl><bibl xml:id="biblid91494"><title xml:id="idm139707830754704">Ah HErre! lad nu ey din Vred' opsyde</title></bibl><bibl xml:id="biblid91955"><title xml:id="idm139707830753840">Op min Siæl, thi Sool er oppe</title></bibl><bibl xml:id="biblid92056"><title xml:id="idm139707830752944">Velkommen Morgenstund med Guld</title></bibl><bibl xml:id="biblid92473"><title xml:id="idm139707830752080">Dend klare Sool gaar ned, det</title></bibl><bibl xml:id="biblid92938"><title xml:id="idm139707830751216">Hvilestunden er i vente Solen setris</title></bibl><bibl xml:id="biblid93070"><title xml:id="idm139707830750416">GUd vær mig naadig, og tilgiv</title></bibl><bibl xml:id="biblid93860"><title xml:id="idm139707830749584">Far vel du hvile-søde Nat</title></bibl><bibl xml:id="biblid93962"><title xml:id="idm139707830748768">Op, op i søde JEsu Navn [2]</title></bibl><bibl xml:id="biblid94551"><title xml:id="idm139707830747936">Det mulner mod den mørke Nat [2]</title></bibl><bibl xml:id="biblid95120"><title xml:id="idm139707830747040">Paa rendebakken Soolen gaar</title></bibl><bibl xml:id="biblid95222"><title xml:id="idm139707830746176">O HErre! hør min jammers Bøn</title></bibl><bibl xml:id="biblid95988"><title xml:id="idm139707830745344">Frem til GUd med Morgen-gave</title></bibl><bibl xml:id="biblid96110"><title xml:id="idm139707830744544">Nu rinder Solen op af Østerlide</title></bibl><bibl xml:id="biblid96781"><title xml:id="idm139707830743648">Til hvile Soolen gaar, og Dagen</title></bibl><bibl xml:id="biblid97369"><title xml:id="idm139707830742848">Aften-Stiernen hisset tindrer</title></bibl><bibl xml:id="biblid97515"><title xml:id="idm139707830742048">Udaf dend dybe Nød af alskens</title></bibl><bibl xml:id="biblid97832"><title xml:id="idm139707830741152">Morgenrøden sig udstrekker</title></bibl><bibl xml:id="biblid98064"><title xml:id="idm139707830740272">Vaag op og slaa paa dine Strenge</title></bibl><bibl xml:id="biblid98668"><title xml:id="idm139707830739472">See, hvor sig Dagen atter skynder [2]</title></bibl><bibl xml:id="biblid99346"><title xml:id="idm139707830738672">Tiden skrider, Dagen rinder</title></bibl><bibl xml:id="biblid99589"><title xml:id="idm139707830737872">O HErre! holt din Øren aaben</title></bibl><bibl xml:id="biblid100888"><title xml:id="idm139707830737040">Første og Anden part, 5.og 2.Udgave, Odense 1686</title></bibl></listBibl></sourceDesc>
+      <sourceDesc xml:id="idm139707830857824">
+        <bibl xml:id="idm139707830857696">
+          <author n="1" xml:id="idm139707830857008">
+            <name xml:id="idm139707830856752"><surname xml:id="idm139707830856624">Kingo</surname>,
+      <forename xml:id="idm139707830856208">Thomas</forename></name>
+          </author>
+          <title xml:id="idm139707830855920">Samlede skrifter 3</title>
+          <pubPlace xml:id="idm139707830855632">København</pubPlace>
+          <publisher xml:id="idm139707830855200">Munksgaard</publisher>
+          <date xml:id="idm139707830854864">1939-74.</date>
+        </bibl>
+        <listBibl xml:id="idm139707830854576">
+          <bibl xml:id="biblid54803">
+            <title xml:id="idm139707830841424">Aandelig Siunge-koor, Første Part, 1.Udgave 1674</title>
+          </bibl>
+          <bibl xml:id="biblid56068">
+            <title xml:id="idm139707830840560">Rind nu op i JEsu Navn</title>
+          </bibl>
+          <bibl xml:id="biblid56691">
+            <title xml:id="idm139707830839776">Dagen er snart runden hen [1]</title>
+          </bibl>
+          <bibl xml:id="biblid57346">
+            <title xml:id="idm139707830838928">Ach! min HErre, straf mig ey [1]</title>
+          </bibl>
+          <bibl xml:id="biblid57692">
+            <title xml:id="idm139707830838128">Siæl og Hierte, Sind og Sandser [1]</title>
+          </bibl>
+          <bibl xml:id="biblid58183">
+            <title xml:id="idm139707830837232">Blusser op og værer glade [1]</title>
+          </bibl>
+          <bibl xml:id="biblid58772">
+            <title xml:id="idm139707830836352">Salig er en Mand at skatte [1]</title>
+          </bibl>
+          <bibl xml:id="biblid59265">
+            <title xml:id="idm139707830835504">Lyksalig Dag! som nu saa bliid oprinder</title>
+          </bibl>
+          <bibl xml:id="biblid59753">
+            <title xml:id="idm139707830834656">Dend prægtig Sool, som hele Verden glæder</title>
+          </bibl>
+          <bibl xml:id="biblid60163">
+            <title xml:id="idm139707830833808">Ach HErre! lad nu ey din Vred´ opsyde</title>
+          </bibl>
+          <bibl xml:id="biblid60642">
+            <title xml:id="idm139707830832960">Velkommen Morgenstund, med Guld og gavn i Mund!</title>
+          </bibl>
+          <bibl xml:id="biblid61084">
+            <title xml:id="idm139707830832144">Dend klare Sool gaar ned, Det qvelder meer og meer</title>
+          </bibl>
+          <bibl xml:id="biblid61520">
+            <title xml:id="idm139707830831328">GUd vær mig naadig, og tilgiv min Synd saa leed</title>
+          </bibl>
+          <bibl xml:id="biblid62193">
+            <title xml:id="idm139707830830416">Op, op i søde JEsu Navn [1]</title>
+          </bibl>
+          <bibl xml:id="biblid62760">
+            <title xml:id="idm139707830829536">Det mulner mod den mørke Nat [1]</title>
+          </bibl>
+          <bibl xml:id="biblid63346">
+            <title xml:id="idm139707830828704">O HErre hør min Jammers Bøn</title>
+          </bibl>
+          <bibl xml:id="biblid64020">
+            <title xml:id="idm139707830827760">Nu rinder Solen op</title>
+          </bibl>
+          <bibl xml:id="biblid64678">
+            <title xml:id="idm139707830826976">Til hvile Soolen gaar</title>
+          </bibl>
+          <bibl xml:id="biblid65284">
+            <title xml:id="idm139707830826144">Udaf dend dybe Nød</title>
+          </bibl>
+          <bibl xml:id="biblid65631">
+            <title xml:id="idm139707830825296">Vaag op og slae paa dine Strenge</title>
+          </bibl>
+          <bibl xml:id="biblid66254">
+            <title xml:id="idm139707830824496">See, hvor sig Dagen atter skynder [1]</title>
+          </bibl>
+          <bibl xml:id="biblid66884">
+            <title xml:id="idm139707830823632">O HErre, hold din´ Øren aaben</title>
+          </bibl>
+          <bibl xml:id="biblid67550">
+            <title xml:id="idm139707830822752">Aandelig Siunge-Koor, Første Part, 2. og 3. Udgave 1677 og 1680</title>
+          </bibl>
+          <bibl xml:id="biblid68436">
+            <title xml:id="idm139707830821808">Aandelig Siunge-Koor, Anden Part, 1.Udgave 1681</title>
+          </bibl>
+          <bibl xml:id="biblid70979">
+            <title xml:id="idm139707830820944">Op! op med Himmelstemme</title>
+          </bibl>
+          <bibl xml:id="biblid71674">
+            <title xml:id="idm139707830820112">Steenig Hierte, gid du kunde</title>
+          </bibl>
+          <bibl xml:id="biblid71807">
+            <title xml:id="idm139707830819264">Kom, Siæl, og lad os græde</title>
+          </bibl>
+          <bibl xml:id="biblid72724">
+            <title xml:id="idm139707830818384">Ach! min Jesu jeg maa klage</title>
+          </bibl>
+          <bibl xml:id="biblid72815">
+            <title xml:id="idm139707830817536">Sorrig og Elendighed, Suk og salte</title>
+          </bibl>
+          <bibl xml:id="biblid74002">
+            <title xml:id="idm139707830816736">Ach! min Jesu! ach! jeg er død</title>
+          </bibl>
+          <bibl xml:id="biblid74084">
+            <title xml:id="idm139707830815856">Ach! Herre see min Hierte-vee</title>
+          </bibl>
+          <bibl xml:id="biblid75078">
+            <title xml:id="idm139707830815008">Aldrig er jeg uden Vaade</title>
+          </bibl>
+          <bibl xml:id="biblid75185">
+            <title xml:id="idm139707830814208">Med Blusel, Graad og Klage</title>
+          </bibl>
+          <bibl xml:id="biblid75880">
+            <title xml:id="idm139707830813408">Naar jeg, O Gud! mit Synde-dyb</title>
+          </bibl>
+          <bibl xml:id="biblid75955">
+            <title xml:id="idm139707830812496">Fald ned, fald paa dit Ansigt ned</title>
+          </bibl>
+          <bibl xml:id="biblid76750">
+            <title xml:id="idm139707830919168">Søde Jesu, Siælens Læge</title>
+          </bibl>
+          <bibl xml:id="biblid76847">
+            <title xml:id="idm139707830918480">Himmelsøde Gud og Fader</title>
+          </bibl>
+          <bibl xml:id="biblid77212">
+            <title xml:id="idm139707830917792">Til Herrens Bord, I Jesu Navn</title>
+          </bibl>
+          <bibl xml:id="biblid77406">
+            <title xml:id="idm139707830917040">Hierte Jesu, hvad for Prøve skal</title>
+          </bibl>
+          <bibl xml:id="biblid77487">
+            <title xml:id="idm139707830916208">O Jesu! paa din Alter-food</title>
+          </bibl>
+          <bibl xml:id="biblid77892">
+            <title xml:id="idm139707830915456">Tack, Jesu, Sialens Hyrde good</title>
+          </bibl>
+          <bibl xml:id="biblid78086">
+            <title xml:id="idm139707830786640">Min Siæl, hvor er dog dend, som dig</title>
+          </bibl>
+          <bibl xml:id="biblid78308">
+            <title xml:id="idm139707830785792">Far, Verden, far vel, jeg keedis</title>
+          </bibl>
+          <bibl xml:id="biblid78848">
+            <title xml:id="idm139707830785040">Ach! Jesu mit Hierte har vanked</title>
+          </bibl>
+          <bibl xml:id="biblid78973">
+            <title xml:id="idm139707830784288">Herre Gud mit Hiertis Glæde</title>
+          </bibl>
+          <bibl xml:id="biblid79612">
+            <title xml:id="idm139707830783456">Søde Siæl, hvi vilt du komme</title>
+          </bibl>
+          <bibl xml:id="biblid79857">
+            <title xml:id="idm139707830782624">Hvorfor, mit Hierte, klemmiss du</title>
+          </bibl>
+          <bibl xml:id="biblid80505">
+            <title xml:id="idm139707830781872">Ach! Hvi kand jeg aldrig lukke</title>
+          </bibl>
+          <bibl xml:id="biblid80698">
+            <title xml:id="idm139707830781120">Sorrig og Glæde de vandre</title>
+          </bibl>
+          <bibl xml:id="biblid81021">
+            <title xml:id="idm139707830780304">Hvor ofte sukker jeg, fordi</title>
+          </bibl>
+          <bibl xml:id="biblid81098">
+            <title xml:id="idm139707830779552">Blant alle Ting i Verden her</title>
+          </bibl>
+          <bibl xml:id="biblid81699">
+            <title xml:id="idm139707830778800">Saa skal dog alle Ting sig</title>
+          </bibl>
+          <bibl xml:id="biblid81776">
+            <title xml:id="idm139707830778048">Hierte Fader, Godheds Rood</title>
+          </bibl>
+          <bibl xml:id="biblid82195">
+            <title xml:id="idm139707830777232">Gud, hvor stor og prjselig</title>
+          </bibl>
+          <bibl xml:id="biblid82529">
+            <title xml:id="idm139707830776416">Vor Disk og Dug er alt bereed</title>
+          </bibl>
+          <bibl xml:id="biblid82598">
+            <title xml:id="idm139707830775664">Vort Maaltjd vi beslutter nu</title>
+          </bibl>
+          <bibl xml:id="biblid82882">
+            <title xml:id="idm139707830774912">Hav Tack, ô Gud, vor Skabermand</title>
+          </bibl>
+          <bibl xml:id="biblid82955">
+            <title xml:id="idm139707830774080">I Jesu Himmel-søde Navn</title>
+          </bibl>
+          <bibl xml:id="biblid83749">
+            <title xml:id="idm139707830769200">En fattig Pillegrim jeg er</title>
+          </bibl>
+          <bibl xml:id="biblid83878">
+            <title xml:id="idm139707830768512">O store Gud og Herre</title>
+          </bibl>
+          <bibl xml:id="biblid84269">
+            <title xml:id="idm139707830767824">Naar jeg, O Gud! paa Havet er</title>
+          </bibl>
+          <bibl xml:id="biblid85337">
+            <title xml:id="idm139707830767072">Aandelig Siunge-Kor, Første Part, 4. Udgave 1684</title>
+          </bibl>
+          <bibl xml:id="biblid86507">
+            <title xml:id="idm139707830766208">Nu staar jeg op i HErrens Navn</title>
+          </bibl>
+          <bibl xml:id="biblid86616">
+            <title xml:id="idm139707830765344">Rind nu op i JEsu Navn du livsalig</title>
+          </bibl>
+          <bibl xml:id="biblid87273">
+            <title xml:id="idm139707830764544">Dagen er snart runden hen [2]</title>
+          </bibl>
+          <bibl xml:id="biblid88038">
+            <title xml:id="idm139707830763744">Dagen nu sin afskeed tager</title>
+          </bibl>
+          <bibl xml:id="biblid88108">
+            <title xml:id="idm139707830762944">Ach! min HErre, straf mig ey [2]</title>
+          </bibl>
+          <bibl xml:id="biblid88473">
+            <title xml:id="idm139707830762144">Dagen nu fra Himlen rinder</title>
+          </bibl>
+          <bibl xml:id="biblid88585">
+            <title xml:id="idm139707830761344">Siæl og Hierte, Sind og Sandser [2]</title>
+          </bibl>
+          <bibl xml:id="biblid89180">
+            <title xml:id="idm139707830760496">Blusser op og værer glade [2]</title>
+          </bibl>
+          <bibl xml:id="biblid89796">
+            <title xml:id="idm139707830759600">Haf tak, O GUd! for denne Dag</title>
+          </bibl>
+          <bibl xml:id="biblid89898">
+            <title xml:id="idm139707830758800">Salig er en Mand at skatte [2]</title>
+          </bibl>
+          <bibl xml:id="biblid90289">
+            <title xml:id="idm139707830758000">Nat søvn og slum, og seng far vel</title>
+          </bibl>
+          <bibl xml:id="biblid90431">
+            <title xml:id="idm139707830757168">Lyksalig Dag! som nu saa bliid</title>
+          </bibl>
+          <bibl xml:id="biblid90939">
+            <title xml:id="idm139707830756368">Dend præg Sool, som heele Verden</title>
+          </bibl>
+          <bibl xml:id="biblid91366">
+            <title xml:id="idm139707830755536">Gak Siæl og tag dit Regnebræt</title>
+          </bibl>
+          <bibl xml:id="biblid91494">
+            <title xml:id="idm139707830754704">Ah HErre! lad nu ey din Vred' opsyde</title>
+          </bibl>
+          <bibl xml:id="biblid91955">
+            <title xml:id="idm139707830753840">Op min Siæl, thi Sool er oppe</title>
+          </bibl>
+          <bibl xml:id="biblid92056">
+            <title xml:id="idm139707830752944">Velkommen Morgenstund med Guld</title>
+          </bibl>
+          <bibl xml:id="biblid92473">
+            <title xml:id="idm139707830752080">Dend klare Sool gaar ned, det</title>
+          </bibl>
+          <bibl xml:id="biblid92938">
+            <title xml:id="idm139707830751216">Hvilestunden er i vente Solen setris</title>
+          </bibl>
+          <bibl xml:id="biblid93070">
+            <title xml:id="idm139707830750416">GUd vær mig naadig, og tilgiv</title>
+          </bibl>
+          <bibl xml:id="biblid93860">
+            <title xml:id="idm139707830749584">Far vel du hvile-søde Nat</title>
+          </bibl>
+          <bibl xml:id="biblid93962">
+            <title xml:id="idm139707830748768">Op, op i søde JEsu Navn [2]</title>
+          </bibl>
+          <bibl xml:id="biblid94551">
+            <title xml:id="idm139707830747936">Det mulner mod den mørke Nat [2]</title>
+          </bibl>
+          <bibl xml:id="biblid95120">
+            <title xml:id="idm139707830747040">Paa rendebakken Soolen gaar</title>
+          </bibl>
+          <bibl xml:id="biblid95222">
+            <title xml:id="idm139707830746176">O HErre! hør min jammers Bøn</title>
+          </bibl>
+          <bibl xml:id="biblid95988">
+            <title xml:id="idm139707830745344">Frem til GUd med Morgen-gave</title>
+          </bibl>
+          <bibl xml:id="biblid96110">
+            <title xml:id="idm139707830744544">Nu rinder Solen op af Østerlide</title>
+          </bibl>
+          <bibl xml:id="biblid96781">
+            <title xml:id="idm139707830743648">Til hvile Soolen gaar, og Dagen</title>
+          </bibl>
+          <bibl xml:id="biblid97369">
+            <title xml:id="idm139707830742848">Aften-Stiernen hisset tindrer</title>
+          </bibl>
+          <bibl xml:id="biblid97515">
+            <title xml:id="idm139707830742048">Udaf dend dybe Nød af alskens</title>
+          </bibl>
+          <bibl xml:id="biblid97832">
+            <title xml:id="idm139707830741152">Morgenrøden sig udstrekker</title>
+          </bibl>
+          <bibl xml:id="biblid98064">
+            <title xml:id="idm139707830740272">Vaag op og slaa paa dine Strenge</title>
+          </bibl>
+          <bibl xml:id="biblid98668">
+            <title xml:id="idm139707830739472">See, hvor sig Dagen atter skynder [2]</title>
+          </bibl>
+          <bibl xml:id="biblid99346">
+            <title xml:id="idm139707830738672">Tiden skrider, Dagen rinder</title>
+          </bibl>
+          <bibl xml:id="biblid99589">
+            <title xml:id="idm139707830737872">O HErre! holt din Øren aaben</title>
+          </bibl>
+          <bibl xml:id="biblid100888">
+            <title xml:id="idm139707830737040">Første og Anden part, 5.og 2.Udgave, Odense 1686</title>
+          </bibl>
+        </listBibl>
+      </sourceDesc>
     </fileDesc>
   </teiHeader>
   <text xml:id="idm139707830736240">
@@ -72,7 +364,7 @@ KØBENHAVN 1975<lb xml:id="idm139707830724672"/>
 		</p>
         <pb n="IV" facs="adl/kingo/kingo3/kingo3fm004" xml:id="idm139707830724288"/>
         <p xml:id="idm139707830723520">
-© <hi rend="italics" xml:id="idm139707830723232">Det danske Sprog- og Litteraturselskab 1975.</hi>
+© <hi rend="italics" xml:id="idm139707830723232">Det Danske Sprog- og Litteraturselskab 1975.</hi>
 			<lb xml:id="idm139707830722512"/>
 			<hi rend="italics" xml:id="idm139707830722256">ISBN 87 87504 17 0</hi>
 			<lb xml:id="idm139707830721568"/>
@@ -7163,7 +7455,7 @@ Jeg vil din Priis udsiunge.</head>
                 <l xml:id="idm139707827697392">Om sig Alting ikke skikker</l>
                 <l xml:id="idm139707827696960">Efter min Forvidenhed;</l>
                 <l xml:id="idm139707827696544">Om en Sorg i Barmen stikker,</l>
-                <l xml:id="idm139707827696112">Som jeg selv,allene veed;</l>
+                <l xml:id="idm139707827696112">Som jeg selv allene veed;</l>
                 <l xml:id="idm139707827695680">Om ey Solen daglig vil</l>
                 <l xml:id="idm139707827695264">Mig ald Lykke skinne til,</l>
                 <l xml:id="idm139707827694832">Jeg hâr dog ey tabt mit Spill.</l>

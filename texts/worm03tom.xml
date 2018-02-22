@@ -1,10 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!--Tom opmærkning d.18.3.2002 blo -->
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="idm140280118025280"><!-- 
-       file     ./marc_dir/001629316.xml
-       field    530 
-       subfield a 
-       prefix   Bd. 3 : -->
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="root">
   <teiHeader xml:id="idm140280118024544">
     <fileDesc xml:id="idm140280118024288">
       <titleStmt xml:id="idm140280118023984">
@@ -23,8 +18,21 @@
         <note xml:id="idm140280117994720">
 	  </note>
       </notesStmt>
-      <sourceDesc xml:id="idm140280117994208"><bibl xml:id="idm140280117994080"><author n="1" xml:id="idm140280117993392"><name xml:id="idm140280117993136"><surname xml:id="idm140280117993008">Worm</surname>, <forename xml:id="idm140280117992576">Jacob</forename></name></author><title xml:id="idm140280117991968">Indledning. - 1971</title><pubPlace xml:id="idm140280117991712">Kbh.</pubPlace>
-<date xml:id="idm140280117991200">[1968]-1994</date></bibl><listBibl xml:id="idm140280117990912"><bibl xml:id="biblid54178"><title xml:id="idm140280117977760">Jacob Worm. En politisk satiriker i det syttende århundrede</title></bibl></listBibl></sourceDesc>
+      <sourceDesc xml:id="idm140280117994208">
+        <bibl xml:id="idm140280117994080">
+          <author n="1" xml:id="idm140280117993392">
+            <name xml:id="idm140280117993136"><surname xml:id="idm140280117993008">Worm</surname>, <forename xml:id="idm140280117992576">Jacob</forename></name>
+          </author>
+          <title xml:id="idm140280117991968">Indledning. - 1971</title>
+          <pubPlace xml:id="idm140280117991712">København</pubPlace>
+          <date xml:id="idm140280117991200">[1968]-1994</date>
+        </bibl>
+        <listBibl xml:id="idm140280117990912">
+          <bibl xml:id="biblid54178">
+            <title xml:id="idm140280117977760">Jacob Worm. En politisk satiriker i det syttende århundrede</title>
+          </bibl>
+        </listBibl>
+      </sourceDesc>
     </fileDesc>
   </teiHeader>
   <text xml:id="idm140280117976976">

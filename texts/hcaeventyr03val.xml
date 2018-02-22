@@ -1,10 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!-- 20021028 HHL flyttet afslutnings-div'er foran <pb/> Phtj Rettet s. 128-141-143-156-  -->
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="idm140098739514144"><!-- 
-       file     ./marc_dir/001527411.xml
-       field    530 
-       subfield a 
-       prefix   3 :-->
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="root">
   <teiHeader xml:id="idm140098739513536">
     <fileDesc xml:id="idm140098739513280">
       <titleStmt xml:id="idm140098739512976">
@@ -20,29 +15,99 @@
 	  </note>
       </notesStmt>
       <sourceDesc xml:id="idm140098739484336">
-	<bibl xml:id="idm140098739484080">
-	  <author xml:id="idm140098739483824">
-	    <name xml:id="idm140098739483520"><surname xml:id="idm140098739483392">Andersen</surname>,
+        <bibl xml:id="idm140098739484080">
+          <author xml:id="idm140098739483824">
+            <name xml:id="idm140098739483520"><surname xml:id="idm140098739483392">Andersen</surname>,
 	    <forename xml:id="idm140098739483008">H. C.</forename></name>
-	  </author>
-	  <title xml:id="idm140098739482496">H.C. Andersens Eventyr bd. III</title>
-	  <title xml:id="idm140098739482064">kritisk udg. efter de originale eventyrhæfter med varianter
+          </author>
+          <title xml:id="idm140098739482496">H.C. Andersens Eventyr bd. III</title>
+          <title xml:id="idm140098739482064">kritisk udg. efter de originale eventyrhæfter med varianter
 	  ved Erik Dal</title>
-	  <pubPlace xml:id="idm140098739481504">Kbh.</pubPlace>
-	  <publisher xml:id="idm140098739481120">C. A. Reitzel</publisher>
-	  <date xml:id="idm140098739480688">1990</date>
-	</bibl>
-	<listBibl xml:id="idm140098739480096">
-      <bibl xml:id="biblid56575"><title xml:id="idm140098739466416">Nye Eventyr og Historier. Første Række. Første Samling. 1858</title></bibl><bibl xml:id="biblid56808"><title xml:id="idm140098739465520">Suppe paa en Pølsepind</title></bibl><bibl xml:id="biblid58311"><title xml:id="idm140098739464704">Flaskehalsen</title></bibl><bibl xml:id="biblid59684"><title xml:id="idm140098739463920">Pebersvendens Nathue</title></bibl><bibl xml:id="biblid61857"><title xml:id="idm140098739463088">Noget</title></bibl><bibl xml:id="biblid62842"><title xml:id="idm140098739462304">Det gamle Egetræes sidste Drøm. (Et Jule-Eventyr.)</title></bibl><bibl xml:id="biblid63609"><title xml:id="idm140098739461424">ABC-Bogen</title></bibl><bibl xml:id="biblid65155"><title xml:id="idm140098739460592">Nye Eventyr og Historier. Første Række. Anden Samling. 1858</title></bibl><bibl xml:id="biblid65272"><title xml:id="idm140098739459648">Dynd-Kongens Datter</title></bibl><bibl xml:id="biblid70308"><title xml:id="idm140098739458816">Hurtigløberne</title></bibl><bibl xml:id="biblid70950"><title xml:id="idm140098739457968">Klokkedybet</title></bibl><bibl xml:id="biblid71493"><title xml:id="idm140098739457136">Nye Eventyr og Historier. Første Række. Tredie Samling. 1859</title></bibl><bibl xml:id="biblid71602"><title xml:id="idm140098739456240">Vinden fortæller om Valdemar Daae og hans Døttre</title></bibl><bibl xml:id="biblid73287"><title xml:id="idm140098739455328">Pigen, som traadte paa Brødet</title></bibl><bibl xml:id="biblid74323"><title xml:id="idm140098739454496">Taarnvægteren Ole</title></bibl><bibl xml:id="biblid75208"><title xml:id="idm140098739453648">Anne Lisbeth</title></bibl><bibl xml:id="biblid76786"><title xml:id="idm140098739452816">Børnesnak</title></bibl><bibl xml:id="biblid77221"><title xml:id="idm140098739451984">Et Stykke Perlesnor</title></bibl><bibl xml:id="biblid78732"><title xml:id="idm140098739451152">Nye Eventyr og Historier. Første Række. Fjerde Samling. 1860</title></bibl><bibl xml:id="biblid78885"><title xml:id="idm140098739450256">Pen og Blækhuus</title></bibl><bibl xml:id="biblid79369"><title xml:id="idm140098739449344">Barnet i Graven</title></bibl><bibl xml:id="biblid80376"><title xml:id="idm140098739448512">Gaardhanen og Veirhanen</title></bibl><bibl xml:id="biblid80841"><title xml:id="idm140098739447680">Deilig!</title></bibl><bibl xml:id="biblid82063"><title xml:id="idm140098739446848">En Historie fra Klitterne</title></bibl></listBibl></sourceDesc>
+          <pubPlace xml:id="idm140098739481504">København</pubPlace>
+          <publisher xml:id="idm140098739481120">C. A. Reitzel</publisher>
+          <date xml:id="idm140098739480688">1990</date>
+        </bibl>
+        <listBibl xml:id="idm140098739480096">
+          <bibl xml:id="biblid56575">
+            <title xml:id="idm140098739466416">Nye Eventyr og Historier. Første Række. Første Samling. 1858</title>
+          </bibl>
+          <bibl xml:id="biblid56808">
+            <title xml:id="idm140098739465520">Suppe paa en Pølsepind</title>
+          </bibl>
+          <bibl xml:id="biblid58311">
+            <title xml:id="idm140098739464704">Flaskehalsen</title>
+          </bibl>
+          <bibl xml:id="biblid59684">
+            <title xml:id="idm140098739463920">Pebersvendens Nathue</title>
+          </bibl>
+          <bibl xml:id="biblid61857">
+            <title xml:id="idm140098739463088">Noget</title>
+          </bibl>
+          <bibl xml:id="biblid62842">
+            <title xml:id="idm140098739462304">Det gamle Egetræes sidste Drøm. (Et Jule-Eventyr.)</title>
+          </bibl>
+          <bibl xml:id="biblid63609">
+            <title xml:id="idm140098739461424">ABC-Bogen</title>
+          </bibl>
+          <bibl xml:id="biblid65155">
+            <title xml:id="idm140098739460592">Nye Eventyr og Historier. Første Række. Anden Samling. 1858</title>
+          </bibl>
+          <bibl xml:id="biblid65272">
+            <title xml:id="idm140098739459648">Dynd-Kongens Datter</title>
+          </bibl>
+          <bibl xml:id="biblid70308">
+            <title xml:id="idm140098739458816">Hurtigløberne</title>
+          </bibl>
+          <bibl xml:id="biblid70950">
+            <title xml:id="idm140098739457968">Klokkedybet</title>
+          </bibl>
+          <bibl xml:id="biblid71493">
+            <title xml:id="idm140098739457136">Nye Eventyr og Historier. Første Række. Tredie Samling. 1859</title>
+          </bibl>
+          <bibl xml:id="biblid71602">
+            <title xml:id="idm140098739456240">Vinden fortæller om Valdemar Daae og hans Døttre</title>
+          </bibl>
+          <bibl xml:id="biblid73287">
+            <title xml:id="idm140098739455328">Pigen, som traadte paa Brødet</title>
+          </bibl>
+          <bibl xml:id="biblid74323">
+            <title xml:id="idm140098739454496">Taarnvægteren Ole</title>
+          </bibl>
+          <bibl xml:id="biblid75208">
+            <title xml:id="idm140098739453648">Anne Lisbeth</title>
+          </bibl>
+          <bibl xml:id="biblid76786">
+            <title xml:id="idm140098739452816">Børnesnak</title>
+          </bibl>
+          <bibl xml:id="biblid77221">
+            <title xml:id="idm140098739451984">Et Stykke Perlesnor</title>
+          </bibl>
+          <bibl xml:id="biblid78732">
+            <title xml:id="idm140098739451152">Nye Eventyr og Historier. Første Række. Fjerde Samling. 1860</title>
+          </bibl>
+          <bibl xml:id="biblid78885">
+            <title xml:id="idm140098739450256">Pen og Blækhuus</title>
+          </bibl>
+          <bibl xml:id="biblid79369">
+            <title xml:id="idm140098739449344">Barnet i Graven</title>
+          </bibl>
+          <bibl xml:id="biblid80376">
+            <title xml:id="idm140098739448512">Gaardhanen og Veirhanen</title>
+          </bibl>
+          <bibl xml:id="biblid80841">
+            <title xml:id="idm140098739447680">Deilig!</title>
+          </bibl>
+          <bibl xml:id="biblid82063">
+            <title xml:id="idm140098739446848">En Historie fra Klitterne</title>
+          </bibl>
+        </listBibl>
+      </sourceDesc>
     </fileDesc>
   </teiHeader>
   <text xml:id="idm140098739446160">
     <front xml:id="idm140098739445904">
       <pb n="a" xml:id="sa" facs="adl/andersenhc/andersenhcev3/ahce3001"/>
       <gap reason="cancelled" xml:id="idm140098739444432"/>
-<!---->
-<!---->
-<!--H. C. ANDERSENS, EVENTYR III-->
       <pb n="b" xml:id="sb" facs="adl/andersenhc/andersenhcev3/ahce3002"/>
       <titlePage xml:id="idm140098739441776">
         <docAuthor xml:id="idm140098739441520">H. C. ANDERSENS</docAuthor>
@@ -78,7 +143,7 @@
       </titlePage>
       <pb n="d" xml:id="sd" facs="adl/andersenhc/andersenhcev3/ahce3004"/>
       <div xml:id="idm140098739543264">
-        <bibl xml:id="idm140098739543008">Udgivet af<lb xml:id="idm140098739542720"/>Det danske Sprog- og Litteraturselskab<lb xml:id="idm140098739542464"/>med
+        <bibl xml:id="idm140098739543008">Udgivet af<lb xml:id="idm140098739542720"/>Det Danske Sprog- og Litteraturselskab<lb xml:id="idm140098739542464"/>med
 					støtte af<lb xml:id="idm140098739542160"/>Konsul George Jorck og Hustru Emma Jorck's
 					Fond</bibl>
         <bibl xml:id="idm140098739541712">Tilsyn med udgaven:<lb xml:id="idm140098739541424"/>F.J. BILLESKOV JANSEN og H.
@@ -7279,8 +7344,6 @@
               <note anchored="true" xml:id="idm140098736389088"><hi rend="bold" xml:id="idm140098736388688">D</hi> EHF 3-70 <hi rend="italics" xml:id="idm140098736388000">s.
 									239-49 m. 5 ill. (nr. 2-4 nye).</hi></note>
               <note anchored="true" xml:id="idm140098736387280">3 firaars] fire- <hi rend="bold" xml:id="idm140098736386720">mO</hi>, fir- <hi rend="bold" xml:id="idm140098736386032">A</hi>, fire- <hi rend="bold" xml:id="idm140098736385344">B</hi>.</note>
-<!-- Der var Sorg i Huset, der var Sorg i Hjerterne; det yngste Barn, en <hi rend="italics">fireaars </hi>Dreng, den eneste Son, For&aelig;ldrenes Gl&aelig;de og Fremtids Haab, var d&ouml;d; to &aelig;ldre D&ouml;ttre havde de vel, den &aelig;ldste skulde netop i dette Aar confirmeres, <hi rend="italics">velsignet </hi>gode Piger begge to, men det mistede Barn er altid det kj&aelig;reste og dette var det yngste og en Son. Det var en tung Pr&ouml;velse. -->
-<!-- S&ouml;strene s&ouml;rgede, som unge Hjerter s&ouml;rge, grebne is&aelig;r ved For&aelig;ldrenes Smerte; Faderen var <hi rend="italics">dybt</hi> nedb&ouml;iet, men Moderen overv&aelig;ldet af den store Sorg. Nat og Dag havde hun gaaet om det syge Barn, pleiet det, l&ouml;ftet og baaret det; det var en Deel af hende selv, havde hun f&ouml;lt og fornummet; hun kunde ikke t&aelig;nke sig at det var d&ouml;dt, at det skulde l&aelig;gges i Kiste og gjemmes i Graven, Gud kunde ikke tage <hi rend="italics">det</hi> Barn fra hende, meente hun og da det dog skete og <hi rend="italics">var Vished</hi>, -->
               <pb n="153" xml:id="s153" facs="adl/andersenhc/andersenhcev3/ahce3153"/>
               <p xml:id="idm140098736381696">»Gud har ikke vidst det! han har hjerteløse
 								Tjenere her paa Jorden, de handle, som de lyste, de høre
@@ -7311,13 +7374,6 @@
 								Moder sad hos sine unge Døttre, hun saae paa dem, uden at
 								see dem, hendes</p>
               <note anchored="true" xml:id="idm140098736375664">16 imens] imedens <hi rend="bold" xml:id="idm140098736375104">D</hi>.</note>
-<!-- sagde hun i sin syge Smerte: &raquo;Gud har ikke vidst det! Han har hjertel&ouml;se Tjenere her paa Jorden; de handle som de lyste, <hi rend="italics">h&ouml;re</hi> ikke en Moders B&ouml;nner!&laquo; -->
-<!-- Hun slap i sin Smerte Vor Herre og da kom m&ouml;rke Tanker, D&ouml;dens Tanker, den evige D&ouml;d: at Mennesket blev Jord i Jorden, og at <hi rend="italics">Alt da</hi> var forbi. Ved saadan Tanke havde hun Intet at klamre sig til, <hi rend="italics">og</hi> sank i Fortvivlelsens bundl&ouml;se <hi rend="italics">Dyb</hi>, &mdash; <hi rend="italics">der var Intet</hi>, <hi rend="italics">Intet!</hi> -->
-<!-- I de tungeste Timer kunde hun ikke gr&aelig;de meer; hun t&aelig;nkte ikke paa de unge D&ouml;ttre hun havde; Mandens Taarer faldt paa hendes Pande, hun saae ikke op til ham; hendes <hi rend="italics">Tanke var</hi> hos det d&ouml;de Barn, al hendes Liv og Leven aandede i at tilbagekalde sig hvert Minde om Barnet, hvert af dets uskyldige <hi rend="italics">Ord</hi>. -->
-<!-- Begravelsesdagen kom; <hi rend="italics">Natten</hi> forud havde hun ikke sovet, i Morgenstunden overv&aelig;ldedes hun af <hi rend="italics">Tr&aelig;theden</hi> og havde nogen Hvile; imens blev Kisten <hi rend="italics">baaret </hi>hen i en afsides Stue og <hi rend="italics">der Laaget</hi> slaaet til; <hi rend="italics">hun skulde ikke h&ouml;re</hi> Hammerslagene. -->
-<!-- Da hun vaagnede, kom op og vilde see sit Barn, sagde Manden hende i Taarer: &raquo;Vi have lukket Laaget, det maatte skee!&laquo; -->
-<!-- &raquo;Naar Gud er haard mod mig,&laquo; <hi rend="italics">sagde</hi> hun, &raquo;hvorfor skulde saa Menneskene v&aelig;re bedre!&laquo; og hun hulkede i Graad. -->
-<!-- Kisten blev bragt til Graven, den <hi rend="italics">tr&ouml;stel&ouml;se</hi> Moder sad hos sine unge D&ouml;ttre; hun saae paa dem, uden at see dem, hendes Tanker havde ikke mere med -->
               <pb n="154" xml:id="s154" facs="adl/andersenhc/andersenhcev3/ahce3154"/>
               <p xml:id="idm140098736369120">Tanker havde ikke mere med Hjemmet at gjøre, hun overgav
 								sig til Sorgen, og den kastede hende som Søen kaster
@@ -7349,9 +7405,6 @@
 								<hi rend="bold" xml:id="idm140098736363264">A<hi rend="sup" xml:id="idm140098736362736">2</hi>
 								</hi>, bedrøvede <hi rend="bold" xml:id="idm140098736361936">B</hi>. 8 som om] <hi rend="bold" xml:id="idm140098736361248">mOA</hi>, som <hi rend="bold" xml:id="idm140098736360512">A<hi rend="sup" xml:id="idm140098736359984">2</hi>C</hi>, som om <hi rend="bold" xml:id="idm140098736359200">D</hi>. 12 <hi rend="sup" xml:id="idm140098736358512">*</hi>foldede han derfor] han foldede <hi rend="bold" xml:id="idm140098736357840">mO</hi>,
 								han foldede derfor <hi rend="bold" xml:id="idm140098736357136">A</hi>, foldede han derfor <hi rend="bold" xml:id="idm140098736356448">A<hi rend="sup" xml:id="idm140098736355920">2</hi>C</hi>, foldede derfor <hi rend="bold" xml:id="idm140098736355136">D</hi>. 16 Nat og Dag] Dag og Nat <hi rend="bold" xml:id="idm140098736354432">C</hi>.</note>
-<!-- Hjemmet at gj&ouml;re, hun overgav sig til Sorgen og den kastede hende, som S&ouml;en kaster Skibet, der har mistet Roer og Styrer. Saaledes gik Begravelsesdagen og <hi rend="italics">Dage </hi>fulgte med samme eensformige tunge Smerte. Med vaade &Ouml;ine og bedr&ouml;vede Blik saae de S&ouml;rgende hjemme paa hende, hun h&ouml;rte ikke deres Tr&ouml;st, hvad kunde de vel ogsaa sige, de vare for bedr&ouml;vede dertil. -->
-<!-- Det var <hi rend="italics">som om hun ikke meer kjendte til S&ouml;vnen og</hi> alene den vilde v&aelig;re hendes bedste Ven, styrke Legemet <hi rend="italics">og</hi> kalde Ro i Sj&aelig;len; de fik hende til at l&aelig;gge sig i Sengen, hun laae ogsaa stille som en Sovende; een Nat, Manden lyttede efter hendes Aandedrag og troede for vist at hun fandt Hvile og Lettelse, <hi rend="italics">det var ham et Haab, han foldede</hi> sine H&aelig;nder, bad <hi rend="italics">til Gud, laae selv saa stille og da kom S&ouml;vnen til ham, hos hende var den ikke. Snart sov han</hi> sundt og fast, <hi rend="italics">han</hi> m&aelig;rkede ikke at hun reiste sig, kastede sine Kl&aelig;der om sig og <hi rend="italics">gik stille</hi> ud af Huset for at komme derhen hvor hendes <hi rend="italics">Tanke</hi> Nat og Dag s&ouml;gte, <hi rend="italics">Graven</hi>, der gjemte hendes Barn. Hun gik gjennem Husets Have, ud paa Marken, hvor Stien forte udenom Byen hen til Kirkegaarden; Ingen saae hende, hun saae Ingen. -->
-<!-- Det var deiligt stjerneklart, Luften endnu saa mild, det var f&ouml;rst i September. Hun kom ind paa Kirkegaarden, hen til den lille Grav, den var som en eneste stor Bouquet af Blomster; de duftede, hun satte sig ned, b&ouml;iede sit Hoved imod Graven, som skulde hun gjennem det t&aelig;tte Jordlag <hi rend="italics">kunne</hi> see sin lille Dreng, -->
               <pb n="155" xml:id="s155" facs="adl/andersenhc/andersenhcev3/ahce3155"/>
               <p xml:id="idm140098736349600">hvis Smiil hun saa levende huskede; det kjærlige Udtryk i
 								Øinene, selv paa Sygeleiet, var jo aldrig til at glemme,
@@ -7383,12 +7436,6 @@
 								bredte sig stor og venlig; det var Skumring rundt om, men foran</p>
               <note anchored="true" xml:id="idm140098736344672">11 tillidsvækkende] tillid- <hi rend="bold" xml:id="idm140098736344096">B</hi>,
 								tillids- <hi rend="bold" xml:id="idm140098736343408">C</hi>.</note>
-<!-- hvis Smiil hun saa levende huskede; det kj&aelig;rlige Udtryk i &Ouml;inene, selv paa Sygeleiet, var jo aldrig til at glemme! hvor talende havde der hans Blik v&aelig;ret, naar hun b&ouml;iede sig over ham og tog hans fine Haand, den han <hi rend="italics">selv ikke</hi> m&aelig;gtede at l&ouml;fte. Som hun havde siddet ved hans Seng, sad hun nu ved hans Grav, men her havde Taarerne frit Lob, <hi rend="italics">hun gr&aelig;d saa bitterligt, de hede Taarer</hi> faldt paa Graven. -->
-<!-- &raquo;Du vil ned til dit Barn!&laquo; sagde en Stemme t&aelig;t ved; den lod saa klar, saa dyb, den klang ind i hendes Hjerte; hun saae op, og der stod hos hende en Mand hyllet <hi rend="italics">ind i</hi> en stor, <hi rend="italics">siid</hi> Sorgekappe, med H&aelig;tte ned om Hovedet; <hi rend="italics">hun</hi> saae ind under den <hi rend="italics">hans</hi> Ansigt, det var str&aelig;ngt, men dog saa tillidsv&aelig;kkende, hans &Ouml;ine straalede <hi rend="italics">med ungdommelig Glands</hi>, som var han i Ungdoms Aar. -->
-<!-- &raquo;Ned til mit Barn?&laquo; gjentog hun og der laae en Fortvivlelsens B&ouml;n deri. -->
-<!-- &raquo;T&ouml;r Du f&ouml;lge mig?&laquo; spurgte Skikkelsen. &raquo;Jeg er D&ouml;den!&laquo; -->
-<!-- Og hun nikkede bekr&aelig;ftende; da var det med eet, som om alle <hi rend="italics">Stjernerne </hi>ovenover lyste med Fuldmaanens Glands, hun saae den brogede Farvepragt i Blomsterne paa Graven <hi rend="italics">og</hi> Jordd&aelig;kket her gav bl&ouml;dt og sagte efter, som et sv&aelig;vende Kl&aelig;de, hun sank og Skikkelsen bredte sin sorte Kappe om hende, det blev Nat, D&ouml;dens Nat, hun sank dybere end Gravspaden <hi rend="italics">tr&aelig;ngte</hi> ned. Kirkegaarden laae som et Tag over hendes Hoved. -->
-<!-- Kappens Flig gled tilside, hun <hi rend="italics">sad</hi> i en m&aelig;gtig Hal, <hi rend="italics">den</hi> bredte sig stor og venlig; <hi rend="italics">der</hi> var Skumring rundtom, men foran hende, og i samme Nu, t&aelig;t op til sit -->
               <pb n="156" xml:id="s156" facs="adl/andersenhc/andersenhcev3/ahce3156"/>
               <p xml:id="idm140098736337632">hende, og i samme Nu, tæt op til sit Hjerte, holdt hun sit
 								Barn, det tilsmilede hende i en Skjønhed,
@@ -7417,11 +7464,6 @@
 								derind til mig om ganske lidt, søde Moder!«</p>
               <note anchored="true" xml:id="idm140098736333024">6 hin Side] hinsides <hi rend="bold" xml:id="idm140098736332464">D</hi> (jf. <hi rend="bold" xml:id="idm140098736331776">O</hi>). 17 det hun] hun <hi rend="bold" xml:id="idm140098736331088">m</hi>, som hun <hi rend="bold" xml:id="idm140098736330400">O</hi>. 21 jeg <hi rend="sup" xml:id="idm140098736329712">*</hi>ikke] jeg <hi rend="bold" xml:id="idm140098736329056">m</hi>, jeg ikke <hi rend="bold" xml:id="idm140098736328368">O</hi>, jeg <hi rend="bold" xml:id="idm140098736327680">A</hi>, jeg ikke <hi rend="bold" xml:id="idm140098736326992">B</hi>, jeg <hi rend="bold" xml:id="idm140098736326304">C</hi>, jeg ikke <hi rend="bold" xml:id="idm140098736325616">D</hi>. 22 kommer
 								jo] kommer <hi rend="bold" xml:id="idm140098736324912">C</hi>, kommer jo <hi rend="bold" xml:id="idm140098736324224">D</hi>.</note>
-<!-- Hjerte holdt hun sit Barn, det tilsmilede hende i en Skj&ouml;nhed, st&ouml;rre end nogensinde f&ouml;r; hun udst&ouml;dte et <hi rend="italics">Gl&aelig;desskriig, men</hi> h&ouml;rligt blev det ikke, thi t&aelig;t ved og derpaa igjen langtborte og atter n&aelig;r lod en svulmende, deilig Musik, aldrig f&ouml;r havde saa saligstemmende Toner naaet til hendes &Ouml;re, de klang <hi rend="italics">hiinsides </hi>det natsorte, t&aelig;tte Forh&aelig;ng, der skilte Hallen fra det store Evigheds Land. -->
-<!-- &raquo;Min s&ouml;de Moder! min egen Moder!&laquo; h&ouml;rte hun sit Barn sige. Det var den kjendte <hi rend="italics">elskelige</hi> R&ouml;st; &mdash; og Kys fulgte paa Kys i uendelig Lyksalighed. Og Barnet pegede hen paa det m&ouml;rke Forh&aelig;ng: -->
-<!-- &raquo;Saa deiligt er der ikke oppe paa Jorden! seer Du Moder! seer Du dem Allesammen! det er Lyksalighed!&laquo; -->
-<!-- Men Moderen saae Intet, der hvor Barnet pegede, Intet, uden den sorte Nat; hun saae med jordiske &Ouml;ine, saae ikke saaledes som Barnet, det Gud havde kaldt til sig; hun h&ouml;rte Klangen, Tonerne, men hun fornam ikke Ordet, <hi rend="italics">som</hi> hun havde at troe. -->
-<!-- &raquo;Nu kan jeg flyve Moder!&laquo; sagde Barnet, &raquo;flyve med alle de andre glade B&ouml;rn, lige derind til Gud! jeg vil det saa gjerne, men naar Du gr&aelig;der, som Du nu gr&aelig;der, kan jeg <hi rend="italics">ikke</hi> komme fra Dig, og jeg vilde saa gjerne, maae <hi rend="italics">jeg ikke</hi> nok? Du kommer jo derind til mig <hi rend="italics">om lidt</hi>, s&ouml;de Moder!&laquo; -->
               <pb n="157" xml:id="s157" facs="adl/andersenhc/andersenhcev3/ahce3157"/>
               <p xml:id="idm140098736319104">»O bliv, o bliv!« sagde hun, »kun et
 								Øieblik endnu! en eneste Gang endnu maa jeg see paa Dig,
@@ -7451,14 +7493,6 @@
               <note anchored="true" xml:id="idm140098736313744">12 Angst] Angest <hi rend="bold" xml:id="idm140098736313184">mO</hi>, Angst <hi rend="bold" xml:id="idm140098736312496">A</hi>, Angest <hi rend="bold" xml:id="idm140098736311808">B</hi>. 19 Himmeriges] -rigs <hi rend="bold" xml:id="idm140098736311120">A<hi rend="sup" xml:id="idm140098736310592">2</hi>
 								</hi>, -riges <hi rend="bold" xml:id="idm140098736309808">B</hi>, -rigs <hi rend="bold" xml:id="idm140098736309120">C</hi>,
 								-riges <hi rend="bold" xml:id="idm140098736308432">D</hi>.</note>
-<!-- &raquo;O bliv! <hi rend="italics">bliv!</hi>&laquo; sagde hun, &raquo;kun et &Ouml;ieblik endnu! en eneste Gang endnu maa jeg see paa Dig, kysse Dig, holde Dig fast i mine Arme &mdash;!&laquo; -->
-<!-- Og hun kyssede og holdt fast. Da lod hendes Navn derovenfra; saa klagende kom disse Toner; hvad var det dog? -->
-<!-- &raquo;H&ouml;rer Du,&laquo; sagde Barnet, &raquo;det er Fader som kalder paa Dig!&laquo; -->
-<!-- Og atter, efter faae Secunder, l&ouml;de dybe Suk, som fra B&ouml;rn, der gr&aelig;de. -->
-<!-- &raquo;Det er mine S&ouml;stre!&laquo; sagde Barnet. &raquo;Moder Du har jo ikke glemt dem?&laquo; -->
-<!-- Og hun huskede de Tilbageblevne; en <hi rend="italics">Angest</hi> betog hende, hun saae frem for sig og <hi rend="italics">der</hi>, altid, sv&aelig;vede Skikkelser forbi; hun troede at kjende Nogle; de sv&aelig;vede gjennem D&ouml;dens Hal hen mod det m&ouml;rke Forh&aelig;ng og der forsvandt de. Om vel hendes Mand, hendes <hi rend="italics">B&ouml;rn</hi>, kom tilsyne? Nei, deres Raab, deres Suk, <hi rend="italics">l&ouml;de</hi> endnu derovenfra; n&aelig;r havde hun ganske glemt dem for den D&ouml;de. -->
-<!-- &raquo;Moder, nu <hi rend="italics">ringe</hi> Himmeriges Klokker!&laquo; sagde Barnet, &raquo;Moder, nu staaer Solen op!&laquo; -->
-<!-- Og der str&ouml;mmede et overv&aelig;ldende Lys mod hende, &mdash; Barnet var borte, og hun l&ouml;ftedes, &mdash; det blev koldt rundt om hende; hun h&aelig;vede sit Hoved og saae, at hun laae paa Kirkegaarden, paa sit Barns Grav; men Gud var i Dr&ouml;mmen <hi rend="italics">blevet</hi> en St&ouml;tte for hendes Fod, et Lys for hendes Forstand, hun b&ouml;iede sine Kn&aelig; -->
               <pb n="158" xml:id="s158" facs="adl/andersenhc/andersenhcev3/ahce3158"/>
               <p xml:id="idm140098736302352">for hendes Fod, et Lys for hendes Forstand, hun bøiede
 								sine Knæ og bad:</p>
@@ -7485,13 +7519,6 @@
               <p xml:id="idm140098736297920">»Jeg fik det fra Gud, ved Barnet i Graven!«</p>
               <note anchored="true" xml:id="idm140098736297472">3 vilde] vil <hi rend="bold" xml:id="idm140098736296912">A<hi rend="sup" xml:id="idm140098736296384">2</hi>
 								</hi>, vilde <hi rend="bold" xml:id="idm140098736295600">B</hi>. 8 Der] Det <hi rend="bold" xml:id="idm140098736294912">B</hi>, Der <hi rend="bold" xml:id="idm140098736294224">C</hi>. 18 Børn:] <hi rend="italics" xml:id="idm140098736293520">herefter</hi> NB ny Lin <hi rend="bold" xml:id="idm140098736292800">m</hi>.</note>
-<!-- og bad: &raquo;tilgiv mig, Herre min Gud, at jeg vilde holde en evig Sj&aelig;l fra sin Flugt, og at jeg kunde glemme mine Pligter mod de Levende <hi rend="italics">som</hi> Du her gav mig!&laquo; -->
-<!-- Og ved disse Ord var det, som om hendes Hjerte fandt Lettelse. -->
-<!-- Da br&ouml;d Solen frem, en lille Fugl sang over hendes Hoved og Kirkeklokkerne ringede til Morgensang; der <hi rend="italics">blev helligt</hi> rundtom <hi rend="italics">hende</hi>, helligt som i hendes Hjerte; hun kjendte sin Gud, hun kjendte sine Pligter, og i L&aelig;ngsel skyndte hun sig til Hjemmet. Hun b&ouml;iede sig over Manden, hendes varme, inderlige Kys v&aelig;kkede ham, og de talte Hjertets, Inderlighedens Ord, og hun var st&aelig;rk og mild, som Hustruen kan v&aelig;re det; fra hende kom Fortr&ouml;stningens V&aelig;ld: -->
-<!-- &raquo;Guds Villie er altid den bedste!&laquo; -->
-<!-- Og Manden spurgte hende: &raquo;hvorfra fik Du med eet denne Kraft, dette tr&ouml;stende Sind?&laquo; -->
-<!-- Og hun kyssede ham og <hi rend="italics">hun</hi> kyssede sine B&ouml;rn: &raquo;Jeg fik det fra Gud, ved Barnet i Graven!&laquo; -->
-<!-- <hi rend="italics">H. C. Andersen.</hi> -->
             </div>
             <pb n="159" xml:id="s159" facs="adl/andersenhc/andersenhcev3/ahce3159"/>
             <div xml:id="workid80376" decls="#biblid80376">

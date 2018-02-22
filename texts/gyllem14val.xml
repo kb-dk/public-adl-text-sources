@@ -1,15 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!-- OCR by ATAPY 11.11.02/14.11.02 Catherine Bychkova-->
-<!-- HHL 2002.11.14 Checket for oe/o - ikke fundet noget
-     HHL 2003.03.03 checket vaerktitle;    
-     HHL 2003.03.03 ændret/udkommenteret  <emph> -> italics (1x!)
-     Ptj rettet s. 92
--->
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="idm139726069828464"><!-- 
-       file     ./marc_dir/001391914.xml
-       field     
-       subfield  
-       prefix   -->
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="root">
   <teiHeader xml:id="idm139726069827472">
     <fileDesc xml:id="idm139726069827216">
       <titleStmt xml:id="idm139726069801792">
@@ -30,23 +20,24 @@
         <note xml:id="idm139726069797168">
 	  </note>
       </notesStmt>
-      <sourceDesc xml:id="idm139726069796656"><bibl
-						  xml:id="idm139726069796528"><author
-										  n="1"
-										  xml:id="idm139726069795840"><name
-														  xml:id="idm139726069795584"><surname
-																		  xml:id="idm139726069795456">Gyllembourg-Ehrensvärd</surname>,
-      <forename xml:id="idm139726069794992">T. C.</forename></name></author><title xml:id="idm139726069794704">Drøm og Virkelighed</title><pubPlace xml:id="idm139726069794384">[Kbh.]</pubPlace>; <pubPlace xml:id="idm139726069793920">[Valby]</pubPlace>; <pubPlace xml:id="idm139726069793504">[Ballerup]</pubPlace>
-<publisher xml:id="idm139726069793040">Det danske Sprog- og Litteraturselskab</publisher><publisher xml:id="idm139726069792736">Borgen</publisher><publisher xml:id="idm139726069792448">i samarbejde med Nyt Dansk Litteraturselskab</publisher><date xml:id="idm139726069792080">cop. 1986</date></bibl><listBibl xml:id="idm139726069791792"><bibl xml:id="biblid54373"><title xml:id="idm139726069778640">Drøm og Virkelighed</title></bibl><bibl xml:id="biblid58123"><title xml:id="idm139726069777824">To Tidsaldre</title></bibl></listBibl></sourceDesc>
+      <sourceDesc xml:id="idm139726069796656">
+        <bibl xml:id="idm139726069796528"><author n="1" xml:id="idm139726069795840"><name xml:id="idm139726069795584"><surname xml:id="idm139726069795456">Gyllembourg-Ehrensvärd</surname>,
+      <forename xml:id="idm139726069794992">T. C.</forename></name></author><title xml:id="idm139726069794704">Drøm og Virkelighed</title><pubPlace xml:id="idm139726069794384">[København]</pubPlace>; <pubPlace xml:id="idm139726069793920">[Valby]</pubPlace>; <pubPlace xml:id="idm139726069793504">[Ballerup]</pubPlace><publisher xml:id="idm139726069793040">Det Danske Sprog- og Litteraturselskab</publisher><publisher xml:id="idm139726069792736">Borgen</publisher><publisher xml:id="idm139726069792448">i samarbejde med Nyt Dansk Litteraturselskab</publisher><date xml:id="idm139726069792080">cop. 1986</date></bibl>
+        <listBibl xml:id="idm139726069791792">
+          <bibl xml:id="biblid54373">
+            <title xml:id="idm139726069778640">Drøm og Virkelighed</title>
+          </bibl>
+          <bibl xml:id="biblid58123">
+            <title xml:id="idm139726069777824">To Tidsaldre</title>
+          </bibl>
+        </listBibl>
+      </sourceDesc>
     </fileDesc>
   </teiHeader>
   <text xml:id="idm139726069777184">
     <front xml:id="idm139726069776928">
       <pb n="1" xml:id="s1" facs="adl/gyllem/gyllem14/gyllem14001"/>
       <gap reason="cancelled" xml:id="idm139726069775472"/>
-<!---->
-<!---->
-<!--Drøm og Virkelighed To Tidsaldre-->
       <pb n="2" xml:id="s2" facs="adl/gyllem/gyllem14/gyllem14002"/>
       <pb n="3" xml:id="s3" facs="adl/gyllem/gyllem14/gyllem14003"/>
       <titlePage xml:id="idm139726069771712">
@@ -413,7 +404,7 @@
 							disse, uden en tidlig knyttet Forbindelse med et reent og elskværdigt
 							Væsen. Jeg ønsker derfor at sikkre Din og min Datters Ro og Lykke, ved
 							allerede nu at bestemme Eder for hinanden, og beder Dig at ansee hende
-							som Din Forlovede. Det er ingen ringe Gave,jeg vil give Dig i min <hi rend="italics" xml:id="idm139726069661104">Laura</hi>. Hun er endnu kun et Barn, og hendes
+							som Din Forlovede. Det er ingen ringe Gave, jeg vil give Dig i min <hi rend="italics" xml:id="idm139726069661104">Laura</hi>. Hun er endnu kun et Barn, og hendes
 							Skabning og Ansigtstræk ere ikke udviklede, men hun bliver indtagende,
 							thi hun ligner ..... En, der var meget smuk og fortryllende. -
 							Der er intet sparet paa hendes Opdragelse, og hvad som især taler for
@@ -1422,7 +1413,7 @@
 							dette lange Mellemrum har Intet kunnet fortrænge Dit Billede deraf Du
 							har nu gjort hendes Bekjendtskab; hvorledes behager hun« ......Jeg lod
 							ham ikke tale ud, jeg gjorde en Bevægelse, der næsten kastede mig for
-							hans Fødder,jeg trykkede hans Haand til mine Læber, og næsten ude af mig
+							hans Fødder, jeg trykkede hans Haand til mine Læber, og næsten ude af mig
 							selv udbrød jeg i den første begeistrede Tilstaaelse af min Kjærlighed.
 							Min Onkel syntes næsten at dele min Henrykkelse. Han tog mig med begge
 							Hænder om Hovedet, og kyssede mig. Men derpaa saae han mig alvorlig ind
@@ -2627,7 +2618,7 @@
 							blive meget Bedre af end en Lovtrækker, der paa Befaling maa gjøre Hvidt
 							til Sort og Sandhed til Løgn.</p>
             <p xml:id="idm139726069177104">- Ak, kjære Onkel! Gud give, at min Fader tænkte som De! Gud
-							give,jeg turde kaste det syv Gange forbandede juridiske Nonsens paa
+							give, jeg turde kaste det syv Gange forbandede juridiske Nonsens paa
 							Ilden og gribe ind i den levende Verdens raske Begivenheder og sætte
 							Livet paa Spil for at vinde et virkeligt Liv!</p>
             <p xml:id="idm139726069176176">Ja, ja, udbrød Grossereren: Hvem veed hvad der kan skee, ogsaa hos os?
@@ -4351,7 +4342,7 @@
 							leveres ham efter hans Hjemkomst. Man havde med omhyggeligt Overlæg
 							betænkt Alt hvad der kunde tjene til at skjule Claudines Opholdssted.
 							Hun vilde ombytte sin Faders Familienavn med hans Døbenavn, og kalde sig
-							efter dette <hi rend="italics" xml:id="idm139726068776864"><!--<emph>-->Johansen<!--</emph>--></hi>,
+							efter dette <hi rend="italics" xml:id="idm139726068776864">Johansen</hi>,
 							dernæst skulde hun ifølge Christianes Ønske udgives for Enke efter en
 							Sømand, der var bleven borte paa en Søreise.</p>
             <p xml:id="idm139726068775408">Om Aftenen kom Susanne. Man sagde hende, at Claudine Dagen efter vilde
@@ -8545,8 +8536,8 @@
 						Også de to sidstnævnte noveller havde været trykt i »Flyveposten«, der
 						imidlertid ikke udkom 1831-33.</p>
           <p xml:id="idm139726067790704">Novellebindet udkom igen allerede 1835. Teksten er ordret den samme, men der
-						er en del moderniseringer i stavemåder. <hi rend="italics" xml:id="idm139726067790176">Du</hi> og <hi rend="italics" xml:id="idm139726067789488">Eder</hi> (med bøjningsformer) skrives <hi rend="italics" xml:id="idm139726067788720">du</hi> og <hi rend="italics" xml:id="idm139726067787984">eder, -ee</hi>- ændres til -<hi rend="italics" xml:id="idm139726067787248">e- (leed, fleste</hi>), udlyds-e, stryges <hi rend="italics" xml:id="idm139726067786528">(Frue W., Spidse), e&gt;æ (Fortred,forskjertset</hi>), og
-							<hi rend="italics" xml:id="idm139726067785648">Comptoir, Sopha, Kareth, Udgivt,forliebt, tidt</hi>
+						er en del moderniseringer i stavemåder. <hi rend="italics" xml:id="idm139726067790176">Du</hi> og <hi rend="italics" xml:id="idm139726067789488">Eder</hi> (med bøjningsformer) skrives <hi rend="italics" xml:id="idm139726067788720">du</hi> og <hi rend="italics" xml:id="idm139726067787984">eder, -ee</hi>- ændres til -<hi rend="italics" xml:id="idm139726067787248">e- (leed, fleste</hi>), udlyds-e, stryges <hi rend="italics" xml:id="idm139726067786528">(Frue W., Spidse), e&gt;æ (Fortred, forskjertset</hi>), og
+							<hi rend="italics" xml:id="idm139726067785648">Comptoir, Sopha, Kareth, Udgivt, forliebt, tidt</hi>
 						staves <hi rend="italics" xml:id="idm139726067784896">Contor, Sofaen, Karret, Udgift, forlibt, tit</hi>.
 						Til gengæld iagttages en også i andre forfatterskaber noteret ændring fra
 						det nutidige <hi rend="italics" xml:id="idm139726067783952">det, dette, meere, alting, alle</hi> til <hi rend="italics" xml:id="idm139726067783216">Det..., Alle</hi>.</p>

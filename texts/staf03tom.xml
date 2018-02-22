@@ -1,12 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!--Tom opmærkning blo 08.05.02
-HHL 27.5.2002: ekstra "0" i imgfile-navn, af hensyn til uregelmæssige filnavne for gif'erne 
--->
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="idm140100023381136"><!-- 
-       file     ./marc_dir/002256026.xml
-       field     
-       subfield  
-       prefix   -->
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="root">
   <teiHeader xml:id="idm140100023380240">
     <fileDesc xml:id="idm140100023379984">
       <titleStmt xml:id="idm140100023379680">
@@ -25,8 +18,18 @@ HHL 27.5.2002: ekstra "0" i imgfile-navn, af hensyn til uregelmæssige filnavne 
         <note xml:id="idm140100023350400">
 	  </note>
       </notesStmt>
-      <sourceDesc xml:id="idm140100023349888"><bibl xml:id="idm140100023349760"><author n="1" xml:id="idm140100023349072"><name xml:id="idm140100023348816"><surname xml:id="idm140100023348688">Staffeldt</surname>, <forename xml:id="idm140100023348256">A. W. Schack von</forename></name></author><title xml:id="idm140100023348000">Samlede digte</title><pubPlace xml:id="idm140100023347712">Kbh.</pubPlace>
-<publisher xml:id="idm140100023347248">Det danske Sprog- og Litteraturselskab</publisher><publisher xml:id="idm140100023346944">C.A. Reitzel</publisher><date xml:id="idm140100023346608">2001</date></bibl></sourceDesc>
+      <sourceDesc xml:id="idm140100023349888">
+        <bibl xml:id="idm140100023349760">
+          <author n="1" xml:id="idm140100023349072">
+            <name xml:id="idm140100023348816"><surname xml:id="idm140100023348688">Staffeldt</surname>, <forename xml:id="idm140100023348256">A. W. Schack von</forename></name>
+          </author>
+          <title xml:id="idm140100023348000">Samlede digte</title>
+          <pubPlace xml:id="idm140100023347712">København</pubPlace>
+          <publisher xml:id="idm140100023347248">Det Danske Sprog- og Litteraturselskab</publisher>
+          <publisher xml:id="idm140100023346944">C.A. Reitzel</publisher>
+          <date xml:id="idm140100023346608">2001</date>
+        </bibl>
+      </sourceDesc>
     </fileDesc>
   </teiHeader>
   <text xml:id="idm140100023345936">

@@ -1,9 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="idm140475463621344"><!-- 
-       file     ./marc_dir/001915193.xml
-       field     
-       subfield  
-       prefix   -->
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="root">
   <teiHeader xml:id="idm140475463625232">
     <fileDesc xml:id="idm140475463624976">
       <titleStmt xml:id="idm140475463624672">
@@ -18,8 +14,35 @@
         <note xml:id="idm140475463596480">
 	  </note>
       </notesStmt>
-      <sourceDesc xml:id="idm140475463595968"><bibl xml:id="idm140475463595840"><author n="1" xml:id="idm140475463595200"><name xml:id="idm140475463594944"><surname xml:id="idm140475463594816">Hjortø</surname>, <forename xml:id="idm140475463594384">Knud</forename></name></author><title xml:id="idm140475463594128">Indensogns og udensogns</title><pubPlace xml:id="idm140475463593840">Kbh.</pubPlace>; <pubPlace xml:id="idm140475463593376">Kristiania</pubPlace>
-<date xml:id="idm140475463592864">1919</date></bibl><listBibl xml:id="idm140475463592576"><bibl xml:id="biblid54090"><title xml:id="idm140475463579424">Indensogns og udensogns</title></bibl><bibl xml:id="biblid54555"><title xml:id="idm140475463578640">Pe Svenden og hans søn</title></bibl><bibl xml:id="biblid55658"><title xml:id="idm140475463577824">Falstringer</title></bibl><bibl xml:id="biblid56462"><title xml:id="idm140475463577040">De tre ønsker</title></bibl><bibl xml:id="biblid58524"><title xml:id="idm140475463576192">Søren Mathiesens regnebog</title></bibl><bibl xml:id="biblid59403"><title xml:id="idm140475463575328">Gamle Kristian Pesen</title></bibl><bibl xml:id="biblid60026"><title xml:id="idm140475463574544">Ægtestands-Hulda</title></bibl><bibl xml:id="biblid61152"><title xml:id="idm140475463573760">Søren Skrettes handler</title></bibl></listBibl></sourceDesc>
+      <sourceDesc xml:id="idm140475463595968">
+        <bibl xml:id="idm140475463595840"><author n="1" xml:id="idm140475463595200"><name xml:id="idm140475463594944"><surname xml:id="idm140475463594816">Hjortø</surname>, <forename xml:id="idm140475463594384">Knud</forename></name></author><title xml:id="idm140475463594128">Indensogns og udensogns</title><pubPlace xml:id="idm140475463593840">København</pubPlace>; <pubPlace xml:id="idm140475463593376">Kristiania</pubPlace><date xml:id="idm140475463592864">1919</date></bibl>
+        <listBibl xml:id="idm140475463592576">
+          <bibl xml:id="biblid54090">
+            <title xml:id="idm140475463579424">Indensogns og udensogns</title>
+          </bibl>
+          <bibl xml:id="biblid54555">
+            <title xml:id="idm140475463578640">Pe Svenden og hans søn</title>
+          </bibl>
+          <bibl xml:id="biblid55658">
+            <title xml:id="idm140475463577824">Falstringer</title>
+          </bibl>
+          <bibl xml:id="biblid56462">
+            <title xml:id="idm140475463577040">De tre ønsker</title>
+          </bibl>
+          <bibl xml:id="biblid58524">
+            <title xml:id="idm140475463576192">Søren Mathiesens regnebog</title>
+          </bibl>
+          <bibl xml:id="biblid59403">
+            <title xml:id="idm140475463575328">Gamle Kristian Pesen</title>
+          </bibl>
+          <bibl xml:id="biblid60026">
+            <title xml:id="idm140475463574544">Ægtestands-Hulda</title>
+          </bibl>
+          <bibl xml:id="biblid61152">
+            <title xml:id="idm140475463573760">Søren Skrettes handler</title>
+          </bibl>
+        </listBibl>
+      </sourceDesc>
     </fileDesc>
   </teiHeader>
   <text xml:id="workid54090" decls="#biblid54090">

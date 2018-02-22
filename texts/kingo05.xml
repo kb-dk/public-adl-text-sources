@@ -1,9 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="idm139809009279120"><!-- 
-       file     ./marc_dir/001614819.xml
-       field     
-       subfield  
-       prefix   -->
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="root">
   <teiHeader xml:id="idm139809009285504">
     <fileDesc xml:id="idm139809009285248">
       <titleStmt xml:id="idm139809009284944">
@@ -22,9 +18,32 @@
         <note xml:id="idm139809009255728">
 	  </note>
       </notesStmt>
-      <sourceDesc xml:id="idm139809009255216"><bibl xml:id="idm139809009255088"><author n="1" xml:id="idm139809009254400"><name xml:id="idm139809009254144"><surname xml:id="idm139809009254016">Kingo</surname>,
-      <forename xml:id="idm139809009253568">Thomas</forename></name></author><title xml:id="idm139809009253280">Samlede skrifter 5</title><pubPlace xml:id="idm139809009252992">Kbh</pubPlace>
-<publisher xml:id="idm139809009252560">Munksgaard</publisher><date xml:id="idm139809009252224">1939-74.</date></bibl><listBibl xml:id="idm139809009251936"><bibl xml:id="biblid54156"><title xml:id="idm139809009238736">AF: Dend forordnede ny Kirke-Psalmebog</title></bibl><bibl xml:id="biblid54936"><title xml:id="idm139809009237936">Fortale til Samuel Jensøn Ilds oversættelse af Johan Arndt: Den sande Christendom (trykt 1690)</title></bibl><bibl xml:id="biblid54964"><title xml:id="idm139809009236976">Liig-Prædiken over Sal. D. Jacob Birkerod (1688, trykt 1691)</title></bibl><bibl xml:id="biblid55756"><title xml:id="idm139809009236032">Bøn om Fredens Befording (1700)</title></bibl></listBibl></sourceDesc>
+      <sourceDesc xml:id="idm139809009255216">
+        <bibl xml:id="idm139809009255088">
+          <author n="1" xml:id="idm139809009254400">
+            <name xml:id="idm139809009254144"><surname xml:id="idm139809009254016">Kingo</surname>,
+      <forename xml:id="idm139809009253568">Thomas</forename></name>
+          </author>
+          <title xml:id="idm139809009253280">Samlede skrifter 5</title>
+          <pubPlace xml:id="idm139809009252992">København</pubPlace>
+          <publisher xml:id="idm139809009252560">Munksgaard</publisher>
+          <date xml:id="idm139809009252224">1939-74.</date>
+        </bibl>
+        <listBibl xml:id="idm139809009251936">
+          <bibl xml:id="biblid54156">
+            <title xml:id="idm139809009238736">AF: Dend forordnede ny Kirke-Psalmebog</title>
+          </bibl>
+          <bibl xml:id="biblid54936">
+            <title xml:id="idm139809009237936">Fortale til Samuel Jensøn Ilds oversættelse af Johan Arndt: Den sande Christendom (trykt 1690)</title>
+          </bibl>
+          <bibl xml:id="biblid54964">
+            <title xml:id="idm139809009236976">Liig-Prædiken over Sal. D. Jacob Birkerod (1688, trykt 1691)</title>
+          </bibl>
+          <bibl xml:id="biblid55756">
+            <title xml:id="idm139809009236032">Bøn om Fredens Befording (1700)</title>
+          </bibl>
+        </listBibl>
+      </sourceDesc>
     </fileDesc>
   </teiHeader>
   <text xml:id="idm139809009235312">

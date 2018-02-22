@@ -1,11 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!--  OCR by ATAPY 03.12.02 (Catherine Bychkova) -->
-<!-- 20030501 HHL løseligt checket for OCR, fundet 1 "_rn" og 1 med hore/høre OK-->
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="idm140665833282560"><!-- 
-       file     ./marc_dir/002045299.xml
-       field     
-       subfield  
-       prefix   -->
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="root">
   <teiHeader xml:id="idm140665833281680">
     <fileDesc xml:id="idm140665833281424">
       <titleStmt xml:id="idm140665833315920">
@@ -21,22 +15,20 @@
 	  </note>
       </notesStmt>
       <sourceDesc xml:id="idm140665833252560">
-	<bibl xml:id="idm140665833252304">
-	  <author n="1" xml:id="idm140665833251488">
-	    <name xml:id="idm140665833251056">
-	      <surname xml:id="idm140665833250752">Bang</surname>, <forename xml:id="idm140665833250288">Herman</forename>
-	    </name>
-	    </author>
-	    <title xml:id="idm140665833249616">Fædra. Brudstykker af et livs historie.</title>
-	    <pubPlace xml:id="idm140665833249136">Kjøbenhavn</pubPlace>
-	    <publisher xml:id="idm140665833248720">J.H. Schubothes boghandel. Græbes bogtrykkeri</publisher>
-	    <date xml:id="idm140665833248176">1883</date>
-	</bibl>
-	<listBibl xml:id="idm140665833247584">
-	  <bibl xml:id="biblid54092">
-	    <title xml:id="idm140665833234176">Fædra</title>
-	  </bibl>
-	</listBibl>
+        <bibl xml:id="idm140665833252304">
+          <author n="1" xml:id="idm140665833251488">
+            <name xml:id="idm140665833251056"><surname xml:id="idm140665833250752">Bang</surname>, <forename xml:id="idm140665833250288">Herman</forename></name>
+          </author>
+          <title xml:id="idm140665833249616">Fædra. Brudstykker af et livs historie.</title>
+          <pubPlace xml:id="idm140665833249136">Kjøbenhavn</pubPlace>
+          <publisher xml:id="idm140665833248720">J.H. Schubothes boghandel. Græbes bogtrykkeri</publisher>
+          <date xml:id="idm140665833248176">1883</date>
+        </bibl>
+        <listBibl xml:id="idm140665833247584">
+          <bibl xml:id="biblid54092">
+            <title xml:id="idm140665833234176">Fædra</title>
+          </bibl>
+        </listBibl>
       </sourceDesc>
     </fileDesc>
   </teiHeader>
@@ -44,9 +36,6 @@
     <front xml:id="idm140665833232160">
       <pb n="a" xml:id="sa" facs="adl/bang/bang11/bang11fm001"/>
       <gap reason="cancelled" xml:id="idm140665833230656"/>
-<!---->
-<!---->
-<!--FÆDRA.-->
       <pb n="b" xml:id="sb" facs="adl/bang/bang11/bang11fm002"/>
       <pb n="c" xml:id="sc" facs="adl/bang/bang11/bang11fm003"/>
       <titlePage xml:id="idm140665833226912">

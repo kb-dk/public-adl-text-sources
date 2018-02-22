@@ -1,10 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!-- 20021010 HHL indsat bindestreger! ingen fr ATAPY-->
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="idm140553043590096"><!-- 
-       file     ./marc_dir/001391892.xml
-       field     
-       subfield  
-       prefix   -->
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="root">
   <teiHeader xml:id="idm140553043589440">
     <fileDesc xml:id="idm140553043589184">
       <titleStmt xml:id="idm140553043588880">
@@ -17,24 +12,27 @@
         <author xml:id="idm140553043561648">HERMAN BANG</author>
       </titleStmt>
       <publicationStmt xml:id="idm140553043561088">
-        <publisher xml:id="idm140553043560832">Det danske Sprog- og Litteraturselskab</publisher>
+        <publisher xml:id="idm140553043560832">Det Danske Sprog- og Litteraturselskab</publisher>
         <idno xml:id="idm140553043560400" xml:base="texts/bang09val.xml">001391892:09</idno>
       </publicationStmt>
       <notesStmt xml:id="idm140553043559552">
         <note xml:id="idm140553043559248">
 	  </note>
       </notesStmt>
-      <sourceDesc xml:id="idm140553043558736"><bibl xml:id="idm140553043558608"><author n="1" xml:id="idm140553043557920"><name xml:id="idm140553043557664"><surname xml:id="idm140553043557536">Bang</surname>, <forename xml:id="idm140553043557072">Herman</forename></name></author><title xml:id="idm140553043556784">Ludvigsbakke</title><pubPlace xml:id="idm140553043556496">[Kbh.]</pubPlace>; <pubPlace xml:id="idm140553043556032">[Valby]</pubPlace>; <pubPlace xml:id="idm140553043555616">[Ballerup]</pubPlace>
-<publisher xml:id="idm140553043555152">Det danske Sprog- og Litteraturselskab</publisher><publisher xml:id="idm140553043554848">Borgen</publisher><publisher xml:id="idm140553043554560">i samarbejde med Nyt Dansk Litteraturselskab</publisher><date xml:id="idm140553043554192">1986</date></bibl><listBibl xml:id="idm140553043553904"><bibl xml:id="biblid54102"><title xml:id="idm140553043540704">Ludvigsbakke (Danske Klassikere)</title></bibl></listBibl></sourceDesc>
+      <sourceDesc xml:id="idm140553043558736">
+        <bibl xml:id="idm140553043558608"><author n="1" xml:id="idm140553043557920"><name xml:id="idm140553043557664"><surname xml:id="idm140553043557536">Bang</surname>, <forename xml:id="idm140553043557072">Herman</forename></name></author><title xml:id="idm140553043556784">Ludvigsbakke</title><pubPlace xml:id="idm140553043556496">[København]</pubPlace>; <pubPlace xml:id="idm140553043556032">[Valby]</pubPlace>; <pubPlace xml:id="idm140553043555616">[Ballerup]</pubPlace><publisher xml:id="idm140553043555152">Det Danske Sprog- og Litteraturselskab</publisher><publisher xml:id="idm140553043554848">Borgen</publisher><publisher xml:id="idm140553043554560">i samarbejde med Nyt Dansk Litteraturselskab</publisher><date xml:id="idm140553043554192">1986</date></bibl>
+        <listBibl xml:id="idm140553043553904">
+          <bibl xml:id="biblid54102">
+            <title xml:id="idm140553043540704">Ludvigsbakke (Danske Klassikere)</title>
+          </bibl>
+        </listBibl>
+      </sourceDesc>
     </fileDesc>
   </teiHeader>
   <text xml:id="workid54102" decls="#biblid54102">
     <front xml:id="idm140553043539104">
       <pb n="1" facs="adl/bang/bang9/bang9001" xml:id="idm140553043538800"/>
       <gap reason="cancelled" xml:id="idm140553043537984"/>
-<!---->
-<!---->
-<!--HERMAN BANG Ludvigsbakke-->
       <pb n="2" facs="adl/bang/bang9/bang9002" xml:id="idm140553043536432"/>
       <pb n="3" facs="adl/bang/bang9/bang9003" xml:id="idm140553043619440"/>
       <titlePage xml:id="idm140553043618672">
@@ -52,7 +50,7 @@
         </docEdition>
         <docImprint xml:id="idm140553043509328">
           <publisher xml:id="idm140553043509072">Danske Klassikere<lb xml:id="idm140553043508784"/>
-Det danske Sprog- og Litteraturselskab<lb xml:id="idm140553043508528"/>
+Det Danske Sprog- og Litteraturselskab<lb xml:id="idm140553043508528"/>
 Borgen
 </publisher>
         </docImprint>
@@ -769,7 +767,7 @@ Fru Lund kunde saa godt faa, hvad Fru Brandt havde. Men det var jo ikke meget.</
               <p xml:id="idm140553043064528">- Det sér jeg s'gu. Og Deres Kone sagde, det var det sædvanlige. Brandt sad lidt:</p>
               <p xml:id="idm140553043063968">- Nej, sagde han saa, og Hovedet faldt ned paa hans Bryst, jeg kan ikke gaa derover.</p>
               <pb n="46" facs="adl/bang/bang9/bang9046" xml:id="idm140553043063488"/>
-              <p xml:id="idm140553043062672">Skovrideren gik ud og hentede Doktoren, der kom i Kjole og med Dannebrogskorset: Hvad er det, gamle Ven, gaar De i Reden paa Festdagen, sagde han, men blev pludselig alvorlig, da han saá Brandt: Løft ham, sagde han til Skovrideren og begyndte hastigt at hore Brandt paa Bryst og Ryg.</p>
+              <p xml:id="idm140553043062672">Skovrideren gik ud og hentede Doktoren, der kom i Kjole og med Dannebrogskorset: Hvad er det, gamle Ven, gaar De i Reden paa Festdagen, sagde han, men blev pludselig alvorlig, da han saá Brandt: Løft ham, sagde han til Skovrideren og begyndte hastigt at høre Brandt paa Bryst og Ryg.</p>
               <p xml:id="idm140553043061696">Udenfor holdt Musiken op, og man hørte Madsens Stemme gennem Støjen:</p>
               <p xml:id="idm140553043061152">- Nu er Madsen der med Fanen, sagde Brandt og smilte.</p>
               <p xml:id="idm140553043060704">Doktoren blev ved at høre paa Brandts Ryg, mens Skovrideren stod ved Fodenden bøjet frem, som vilde ogsaa han lytte: Der skal Bud til Brædstrup, sagde Doktoren blot og gik ud.</p>
@@ -1391,7 +1389,7 @@ kom tilbage med en Pose med Druer, som hun hældte ud paa Flygelet.</p>
               <p xml:id="idm140553042688784">- Men kan han da heller ingen Plads faa, Sofie? sagde hun. Sofie begyndte at snøfte stærkere, da der blev talt til hende.</p>
               <p xml:id="idm140553042688144">- Aa ja, aa ja, han har jo ingen Rinomé, sagde hun. Sofie blev ved at græde - hun græd som en Karl -:</p>
               <p xml:id="idm140553042687536">- Men jeg vild' saa gern' be' Frøkenen, om jeg ku' faa Lov at gaa til Alters... nu paa Synda'. Hun snøftede højt.</p>
-              <p xml:id="idm140553042686896">-Ja, ja, sagde Ida,ja, ja, Sofie.</p>
+              <p xml:id="idm140553042686896">-Ja, ja, sagde Ida, ja, ja, Sofie.</p>
               <p xml:id="idm140553042686464">Det bad Sofie altid om, naar det var paa det Værste og Christian gik ledig.</p>
               <p xml:id="idm140553042685904">Sofie blev ved at græde, hun tænkte paa sit:</p>
               <p xml:id="idm140553042685408">-Ja, det er 'et, sagde hun, det er 'et; men En har heller ikke saa langt til Sengen som en anden.</p>
@@ -1618,7 +1616,7 @@ han holdt sig færdig, hvis det var; og hun gik ud i Borgestuen, hvor han sad og
               <pb n="87" facs="adl/bang/bang9/bang9087" xml:id="idm140553042554608"/>
               <p xml:id="idm140553042553840">Ida saá intet, hørte ikke. Alt hendes Liv syntes samlet i de sammenknyttede Hænder.</p>
               <p xml:id="idm140553042553264">Kun én Tanke havde hun, der pressedes frem i Ord uden Lyd, som vilde hun bortvælte en Skyld:</p>
-              <p xml:id="idm140553042552672">-Jeg havde sagt,jeg vilde ikke rejse ...</p>
+              <p xml:id="idm140553042552672">-Jeg havde sagt, jeg vilde ikke rejse ...</p>
               <p xml:id="idm140553042552224">Hun førte de sammenfoldede Hænder op og ned:</p>
               <p xml:id="idm140553042551728">- Nu faar jeg hende ikke at se ...</p>
               <p xml:id="idm140553042551296">- Men... Ida ...</p>
@@ -3751,7 +3749,7 @@ Fod: <hi rend="italics" xml:id="idm140553041326032">Det </hi>var Dagligstuen - t
               <p xml:id="idm140553041303536">Ida havde rejst sig og paa en Gang sagde hun - og vidste slet ikke, hvordan det faldt hende ind, for en Minut før havde hun aldrig tænkt derpaa -:</p>
               <p xml:id="idm140553041302832">- Véd du, nu vil jeg leje mig en Lejlighed.</p>
               <p xml:id="idm140553041302336">- Hvad vil du?</p>
-              <p xml:id="idm140553041301920">- Ja,jeg vil leje en Lejlighed - - -</p>
+              <p xml:id="idm140553041301920">- Ja, jeg vil leje en Lejlighed - - -</p>
               <p xml:id="idm140553041301488">Hun havde længe tænkt, hun vilde hellere ha'e en Lejlighed ...</p>
               <p xml:id="idm140553041300960">- Hvor? sagde Karl bare.</p>
               <p xml:id="idm140553041300528">Og paa en Gang vidste Ida, hvor det skulde være, i Ole Suhrsgade, for det var saa nemt; og hun vidste, hvordan hun vilde ha'e det: fire Værelser; hun havde altid tænkt det, saadan en Lejlighed som Kristensens.</p>
@@ -3921,11 +3919,9 @@ Udpakningen. Der var i disse Dage kommen et nyt Alimentationsbidrag for Lyset at
               <p xml:id="idm140553041200048">- Jeg har læst Forretningsbreve, sagde han og steg op i Stigbøjlen. Kate hilste med Pisken op til sin Moder. Fru Mourier kom altid, i Frisérkaabe, hen til Vinduet for at se »de to Unge« ride ud.</p>
             </div>
             <div xml:id="idm140553041199120">
-	      <p xml:id="idm140553041198816">Det var Onsdag efter Frokost og Generalinden skrev til sin Søster, Fru v. Eichbaum:</p>
-
-	      <p xml:id="idm140553041198240">Kære Emilie!</p>
-
-	      <p xml:id="idm140553041197808">Jeg skriver, fordi det er min Dag og det nu en Gang er blevet
+              <p xml:id="idm140553041198816">Det var Onsdag efter Frokost og Generalinden skrev til sin Søster, Fru v. Eichbaum:</p>
+              <p xml:id="idm140553041198240">Kære Emilie!</p>
+              <p xml:id="idm140553041197808">Jeg skriver, fordi det er min Dag og det nu en Gang er blevet
 	      en Aftale at jeg skriver Onsdag. For her i Hjemmet er der ellers
 	      intet hændet med Undtagelse naturligvis af, at vi hjertelig
 	      savner dig, Mille. Dit Hus staar nu som blæst og venter kun paa
@@ -3983,7 +3979,9 @@ Udpakningen. Der var i disse Dage kommen et nyt Alimentationsbidrag for Lyset at
 	      at det maa vel være en Slags Lammelse - og det er da intet
 	      Under. Gud, du, at Folk i den Alder vil udsætte sig for alle de
 	      Sindsbevægelser. Her hilser alle.<lb xml:id="idm140553041190032"/> Din trofaste Søster<lb xml:id="idm140553041189712"/>
-	      Lotte.<lb xml:id="idm140553041189424"/> </p><pb n="204" facs="adl/bang/bang9/bang9204" xml:id="idm140553041189120"/><p xml:id="idm140553041188480">P. s. Vilhelmine
+	      Lotte.<lb xml:id="idm140553041189424"/> </p>
+              <pb n="204" facs="adl/bang/bang9/bang9204" xml:id="idm140553041189120"/>
+              <p xml:id="idm140553041188480">P. s. Vilhelmine
 	      bragte forleden Dag sit og Kates Billede - i Ramme, nydeligt og
 	      med deres Navnetræk. Jeg stillede det foreløbig foran paa den
 	      store Etagére. Kate er nydelig, med den slanke Figur. Det er
@@ -3991,12 +3989,9 @@ Udpakningen. Der var i disse Dage kommen et nyt Alimentationsbidrag for Lyset at
 	      hos en anden i et Vindu og det var afskyeligt. Jeg troer jo nok,
 	      at Anna venter Chokoladen.
 	    </p>
-
-	    <p xml:id="idm140553041187264">Fru von Eichbaum svarede om Lørdagen:</p>
-
-	    <p xml:id="idm140553041186784">Kære Charlotte.</p>
-
-	    <p xml:id="idm140553041186352">Tak for dit Brev og alle de rare Efterretninger. Vi har det
+              <p xml:id="idm140553041187264">Fru von Eichbaum svarede om Lørdagen:</p>
+              <p xml:id="idm140553041186784">Kære Charlotte.</p>
+              <p xml:id="idm140553041186352">Tak for dit Brev og alle de rare Efterretninger. Vi har det
 	    nogenlunde (jeg nægter jo ikke, at jeg længes efter Hjemmet og min
 	    gode Ro) men for Alines Skyld bliver vi endnu sagtens til
 	    Slutningen af Maaneden, for jeg mener som saa, det er bedst, at
@@ -4057,8 +4052,7 @@ Udpakningen. Der var i disse Dage kommen et nyt Alimentationsbidrag for Lyset at
 	    Syd som det er. Tak Vilhelmine for Billedet -ja, Kate har jo
 	    ganske hendes Ungdomsfigur. Aline hilser mange Gange og ligesaa
 	    jeg alle.<lb xml:id="idm140553041178928"/> Din hengivne Søster<lb xml:id="idm140553041178608"/> Mille.</p>
-	      
-	    <p xml:id="idm140553041178192">P.S. Maaske kunde du spørge Bruun, hvis du træffer ham, om der
+              <p xml:id="idm140553041178192">P.S. Maaske kunde du spørge Bruun, hvis du træffer ham, om der
 	    kunde være Tale om Smitte, da der jo dog er oliemalede Vægge. Jeg
 	    har her været i reformert Kirke. Sproget var smukt, men Talen led,
 	    fandt jeg, af Svulst og var uden den faste, religiøse Tankegang og
@@ -4067,9 +4061,8 @@ Udpakningen. Der var i disse Dage kommen et nyt Alimentationsbidrag for Lyset at
 	    Ridtet, hvad der saa let sker. Til Anna bliver der sendt den
 	    Chokolade, vi drikker her om Morgenen. Den er jo drøjere end den
 	    fra Cloetta.</p>
-
-	  </div>
-	  <div xml:id="idm140553041176976">
+            </div>
+            <div xml:id="idm140553041176976">
               <pb n="206" facs="adl/bang/bang9/bang9206" xml:id="idm140553041176720"/>
               <p xml:id="idm140553041175904">Ida gled gennem Rørholms Gang; hastig, saa underlig smalskuldret gled hun ind i Kabinettet.</p>
               <p xml:id="idm140553041175312">- Nej, han var der ikke - ikke endnu.</p>

@@ -1,12 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!-- VL 8.10.02 + vaerktitle in div2 ; removed . in last position of vaerktitle
- Ptj rettet s. 22-65-287-342-
--->
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="idm140187299982544"><!-- 
-       file     ./marc_dir/002057591.xml
-       field     
-       subfield  
-       prefix   -->
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="root">
   <teiHeader xml:id="idm140187299981680">
     <fileDesc xml:id="idm140187299981424">
       <titleStmt xml:id="idm140187299981120">
@@ -23,8 +16,438 @@
         <note xml:id="idm140187299952768">
 	  </note>
       </notesStmt>
-      <sourceDesc xml:id="idm140187299952208"><bibl xml:id="idm140187299952080"><author n="1" xml:id="idm140187299951456"><name xml:id="idm140187299951200"><surname xml:id="idm140187299951072">Ploug</surname>, <forename xml:id="idm140187299950640">Carl</forename></name></author><title xml:id="idm140187299950352">Samlede Digte</title><pubPlace xml:id="idm140187299950064">Kbh</pubPlace>
-<date xml:id="idm140187299949584">1876</date></bibl><listBibl xml:id="idm140187299949296"><bibl xml:id="biblid55408"><title xml:id="idm140187299936144">Norden [1]</title></bibl><bibl xml:id="biblid55799"><title xml:id="idm140187299935360">Fædrenes Minde</title></bibl><bibl xml:id="biblid55937"><title xml:id="idm140187299934560">Til Lundenserne. (1839)</title></bibl><bibl xml:id="biblid56103"><title xml:id="idm140187299933776">Hilsen til Upsala.(1843)</title></bibl><bibl xml:id="biblid56211"><title xml:id="idm140187299932928">Ved Studentermødet i Kjøbenhavn. (1845)</title></bibl><bibl xml:id="biblid56512"><title xml:id="idm140187299932080">Til Nordens Konger</title></bibl><bibl xml:id="biblid56672"><title xml:id="idm140187299931296">Vers paa Bellmanske Melodier</title></bibl><bibl xml:id="biblid56947"><title xml:id="idm140187299930496">I Foraaret</title></bibl><bibl xml:id="biblid57128"><title xml:id="idm140187299929712">Ved Sundet</title></bibl><bibl xml:id="biblid57240"><title xml:id="idm140187299928928">Fædrelandet</title></bibl><bibl xml:id="biblid57447"><title xml:id="idm140187299928128">Jylland</title></bibl><bibl xml:id="biblid57640"><title xml:id="idm140187299927296">Slesvig [1]</title></bibl><bibl xml:id="biblid57822"><title xml:id="idm140187299926512">Modersmaalet</title></bibl><bibl xml:id="biblid57970"><title xml:id="idm140187299925728">Den danske Sang</title></bibl><bibl xml:id="biblid58119"><title xml:id="idm140187299924896">Den politiske Sang</title></bibl><bibl xml:id="biblid58270"><title xml:id="idm140187299924064">Vaarsang</title></bibl><bibl xml:id="biblid58424"><title xml:id="idm140187299923168">Studenterviser [1]</title></bibl><bibl xml:id="biblid58983"><title xml:id="idm140187299922384">Regensviser</title></bibl><bibl xml:id="biblid59820"><title xml:id="idm140187299921552">Nytaarsnat paa Regensen. (1838)</title></bibl><bibl xml:id="biblid60433"><title xml:id="idm140187299920752">Akademisk Læseforening</title></bibl><bibl xml:id="biblid61351"><title xml:id="idm140187299919888">Unionen</title></bibl><bibl xml:id="biblid61533"><title xml:id="idm140187299919056">Soldets Filosofi</title></bibl><bibl xml:id="biblid61801"><title xml:id="idm140187299918224">Til Skoven</title></bibl><bibl xml:id="biblid62076"><title xml:id="idm140187299917392">Kompagniets Skibbrud</title></bibl><bibl xml:id="biblid62325"><title xml:id="idm140187299916560">Afsked med en Grønlandsfarer</title></bibl><bibl xml:id="biblid62574"><title xml:id="idm140187299915680">Ved en Botanikers Bryllup</title></bibl><bibl xml:id="biblid62888"><title xml:id="idm140187299914880">Universitetets Lærere</title></bibl><bibl xml:id="biblid63083"><title xml:id="idm140187299914064">Til Christoffer Ernst Frederik Weyse</title></bibl><bibl xml:id="biblid63201"><title xml:id="idm140187299913216">Til Johanne Louise Heiberg</title></bibl><bibl xml:id="biblid63345"><title xml:id="idm140187299912368">Til Johan Clausen Dahl</title></bibl><bibl xml:id="biblid63444"><title xml:id="idm140187299911536">Til Joachim Frederik Schouw</title></bibl><bibl xml:id="biblid63548"><title xml:id="idm140187299910688">Henrik Nikolai Clausen</title></bibl><bibl xml:id="biblid63825"><title xml:id="idm140187299909856">Til Adam Oehlenschläger</title></bibl><bibl xml:id="biblid63941"><title xml:id="idm140187299908992">Til Gustav Friedrich Hetsch</title></bibl><bibl xml:id="biblid64080"><title xml:id="idm140187299908144">Til Johan Christian Drewsen</title></bibl><bibl xml:id="biblid64245"><title xml:id="idm140187299907296">Til Ditlev Gothardt Monrad</title></bibl><bibl xml:id="biblid64404"><title xml:id="idm140187299906448">Carl Michael Bellman</title></bibl><bibl xml:id="biblid64567"><title xml:id="idm140187299905616">Bertel Thorvaldsen</title></bibl><bibl xml:id="biblid64694"><title xml:id="idm140187299904784">Til de Unge</title></bibl><bibl xml:id="biblid65401"><title xml:id="idm140187299903952">Fostbrødrelaget</title></bibl><bibl xml:id="biblid65862"><title xml:id="idm140187299903104">Opraab</title></bibl><bibl xml:id="biblid66014"><title xml:id="idm140187299902320">Til de Gamle</title></bibl><bibl xml:id="biblid66378"><title xml:id="idm140187299901488">l Sommerferien</title></bibl><bibl xml:id="biblid66736"><title xml:id="idm140187299900656">Indbydelse</title></bibl><bibl xml:id="biblid67227"><title xml:id="idm140187300012032">Ove Christian Drejer</title></bibl><bibl xml:id="biblid67377"><title xml:id="idm140187300011312">Christian Baltasar Krarup Bergenhammer</title></bibl><bibl xml:id="biblid67646"><title xml:id="idm140187300010560">Ove Ovesen Fabricius</title></bibl><bibl xml:id="biblid67787"><title xml:id="idm140187300009776">Salomon Drejer</title></bibl><bibl xml:id="biblid67977"><title xml:id="idm140187300008992">Michael Petronius Bille</title></bibl><bibl xml:id="biblid68128"><title xml:id="idm140187300008208">Peter Nikolai Borgen</title></bibl><bibl xml:id="biblid68503"><title xml:id="idm140187299874640">Jenny Lind</title></bibl><bibl xml:id="biblid68729"><title xml:id="idm140187299873856">Ordets Ridder</title></bibl><bibl xml:id="biblid69157"><title xml:id="idm140187299873008">Dronning Mathilde</title></bibl><bibl xml:id="biblid70261"><title xml:id="idm140187299872224">Norden [2]</title></bibl><bibl xml:id="biblid71058"><title xml:id="idm140187299871440">De nordiske Naturforskere. (1847.)</title></bibl><bibl xml:id="biblid71460"><title xml:id="idm140187299870688">Til Lundenserne. (1850)</title></bibl><bibl xml:id="biblid71611"><title xml:id="idm140187299869904">Christianiatoget. (1851)</title></bibl><bibl xml:id="biblid72214"><title xml:id="idm140187299869152">Danmark [1]</title></bibl><bibl xml:id="biblid72366"><title xml:id="idm140187299868368">Slaget ved Slesvig</title></bibl><bibl xml:id="biblid72515"><title xml:id="idm140187299863520">Til de svenske og norske Frivillige</title></bibl><bibl xml:id="biblid72727"><title xml:id="idm140187299862832">1849</title></bibl><bibl xml:id="biblid72898"><title xml:id="idm140187299862144">Ved Afdækningen af Mindesmærket paa Trinitatis Kirkegaard i Fredericia</title></bibl><bibl xml:id="biblid73246"><title xml:id="idm140187299861232">Den 25. Juli</title></bibl><bibl xml:id="biblid73428"><title xml:id="idm140187299860544">Hr. Helgesens Vise</title></bibl><bibl xml:id="biblid73715"><title xml:id="idm140187299859856">Velkomster</title></bibl><bibl xml:id="biblid74143"><title xml:id="idm140187299859168">Slesvig [2]</title></bibl><bibl xml:id="biblid74303"><title xml:id="idm140187299858416">Grundloven [1]</title></bibl><bibl xml:id="biblid74816"><title xml:id="idm140187299857600">Den danske Bonde</title></bibl><bibl xml:id="biblid74960"><title xml:id="idm140187299856752">Studenterviser [2]</title></bibl><bibl xml:id="biblid75605"><title xml:id="idm140187299855904">Til Kongen. (Ved en Studenterforestilling.)</title></bibl><bibl xml:id="biblid75707"><title xml:id="idm140187299855088">Til H. C. Ørsted. (Fra Studenterne.)</title></bibl><bibl xml:id="biblid75873"><title xml:id="idm140187299854176">Til A. Bryndum,</title></bibl><bibl xml:id="biblid76042"><title xml:id="idm140187299853392">Afskedsviser [1]</title></bibl><bibl xml:id="biblid76661"><title xml:id="idm140187299852608">Balvise</title></bibl><bibl xml:id="biblid76864"><title xml:id="idm140187299851760">Folke-Viser</title></bibl><bibl xml:id="biblid77391"><title xml:id="idm140187299850976">Sonnetter [1]</title></bibl><bibl xml:id="biblid77736"><title xml:id="idm140187299850192">Med en Sølje</title></bibl><bibl xml:id="biblid78473"><title xml:id="idm140187299849440">Lidenskab</title></bibl><bibl xml:id="biblid78588"><title xml:id="idm140187299848656">Jeg tror paa Dig</title></bibl><bibl xml:id="biblid78811"><title xml:id="idm140187299847872">Til Fru -</title></bibl><bibl xml:id="biblid79285"><title xml:id="idm140187299847088">Marie Lehmann</title></bibl><bibl xml:id="biblid79366"><title xml:id="idm140187299846304">Frederikke Mariboe</title></bibl><bibl xml:id="biblid79522"><title xml:id="idm140187299845520">Adam Oehlenschläger</title></bibl><bibl xml:id="biblid79944"><title xml:id="idm140187299844704">Hans Christian Ørsted</title></bibl><bibl xml:id="biblid80144"><title xml:id="idm140187299843888">Johan Christian Drewsen</title></bibl><bibl xml:id="biblid80240"><title xml:id="idm140187299843040">Joachim Frederik Schouw</title></bibl><bibl xml:id="biblid80384"><title xml:id="idm140187299842256">Ved Afdækningen af Tegners Mindestøtte</title></bibl><bibl xml:id="biblid80580"><title xml:id="idm140187299841408">Oscarshal</title></bibl><bibl xml:id="biblid80789"><title xml:id="idm140187299840560">Peder Tordenskjold</title></bibl><bibl xml:id="biblid81242"><title xml:id="idm140187299839712">W. H. F. A. Læssøe</title></bibl><bibl xml:id="biblid81615"><title xml:id="idm140187299838896">Christian den Ottende</title></bibl><bibl xml:id="biblid82393"><title xml:id="idm140187299838112">Slaget ved Fredericia</title></bibl><bibl xml:id="biblid82596"><title xml:id="idm140187299837264">Aften</title></bibl><bibl xml:id="biblid83066"><title xml:id="idm140187299836480">Nat</title></bibl><bibl xml:id="biblid84408"><title xml:id="idm140187299835728">Morgen</title></bibl><bibl xml:id="biblid85290"><title xml:id="idm140187299834944">Norden [3]</title></bibl><bibl xml:id="biblid85857"><title xml:id="idm140187299834160">Nordens Konger. (Paa Kronborg i Juni 1860)</title></bibl><bibl xml:id="biblid85981"><title xml:id="idm140187299833280">Hilsen til Upsala. (Juni 1856)</title></bibl><bibl xml:id="biblid86124"><title xml:id="idm140187299832480">De nordiske Studentersangere. (November 1856)</title></bibl><bibl xml:id="biblid86257"><title xml:id="idm140187299831664">Den hygiejniske Congres. (Juli 1858)</title></bibl><bibl xml:id="biblid86554"><title xml:id="idm140187299830864">De nordiske Naturforskere. (Juli 1860)</title></bibl><bibl xml:id="biblid86709"><title xml:id="idm140187299830000">Danmark [2]</title></bibl><bibl xml:id="biblid87595"><title xml:id="idm140187299829216">Himmel bjerget</title></bibl><bibl xml:id="biblid87754"><title xml:id="idm140187299828432">Jyderne</title></bibl><bibl xml:id="biblid87933"><title xml:id="idm140187299827648">Stormen paa Kjøbenhavn</title></bibl><bibl xml:id="biblid88132"><title xml:id="idm140187299826832">1848</title></bibl><bibl xml:id="biblid88309"><title xml:id="idm140187299826048">Kongen</title></bibl><bibl xml:id="biblid88469"><title xml:id="idm140187299825264">Grundloven [2]</title></bibl><bibl xml:id="biblid88841"><title xml:id="idm140187299824480">Den 17de Maj</title></bibl><bibl xml:id="biblid89026"><title xml:id="idm140187299823632">Bondefriheden</title></bibl><bibl xml:id="biblid89179"><title xml:id="idm140187299822784">Til de danske Soldater</title></bibl><bibl xml:id="biblid89422"><title xml:id="idm140187299821936">Ved Landsoldatens Afdækning</title></bibl><bibl xml:id="biblid89775"><title xml:id="idm140187299821104">Ved Afdækningen af J. F. Schouws Brystbillede</title></bibl><bibl xml:id="biblid89926"><title xml:id="idm140187299820192">Til H. N. Clausen. (Fra Studenterne.)</title></bibl><bibl xml:id="biblid90142"><title xml:id="idm140187299819344">Til J. P. E. Hartmann. (Fra Studentersangforeningen.)</title></bibl><bibl xml:id="biblid90414"><title xml:id="idm140187299818528">Afskedsviser [2]</title></bibl><bibl xml:id="biblid90805"><title xml:id="idm140187299817680">Studentervise</title></bibl><bibl xml:id="biblid90948"><title xml:id="idm140187299816896">Balviser</title></bibl><bibl xml:id="biblid91339"><title xml:id="idm140187299816048">Bryllupssange</title></bibl><bibl xml:id="biblid91787"><title xml:id="idm140187299815264">Sonnetter [2]</title></bibl><bibl xml:id="biblid92743"><title xml:id="idm140187299814480">Du kommer</title></bibl><bibl xml:id="biblid92864"><title xml:id="idm140187299813696">Da hun var tyve Aar</title></bibl><bibl xml:id="biblid93219"><title xml:id="idm140187299812848">Sommerliv</title></bibl><bibl xml:id="biblid93923"><title xml:id="idm140187299811952">Vuggevise</title></bibl><bibl xml:id="biblid94033"><title xml:id="idm140187299811120">Vil Du elske mig?</title></bibl><bibl xml:id="biblid94186"><title xml:id="idm140187299810272">Georg Aagaard</title></bibl><bibl xml:id="biblid94445"><title xml:id="idm140187299809488">Anna Nielsen</title></bibl><bibl xml:id="biblid94690"><title xml:id="idm140187299808640">Nikolai Peter Nielsen</title></bibl><bibl xml:id="biblid94885"><title xml:id="idm140187299807808">Oscar den Første. (8de August 1859.)</title></bibl><bibl xml:id="biblid95705"><title xml:id="idm140187299806960">Til Kongen. (6te Oktober 1861.)</title></bibl><bibl xml:id="biblid96152"><title xml:id="idm140187299806112">Prolog, fremsagt paa det kgl. Theater i Stockholm (1856)</title></bibl><bibl xml:id="biblid96805"><title xml:id="idm140187299805280">Sebastopols Fald</title></bibl><bibl xml:id="biblid97133"><title xml:id="idm140187299804384">Dannevirke</title></bibl><bibl xml:id="biblid97992"><title xml:id="idm140187299803536">Dronning Margrete</title></bibl><bibl xml:id="biblid98767"><title xml:id="idm140187299802752">Peder Griffenfeld</title></bibl><bibl xml:id="biblid99395"><title xml:id="idm140187299801920">Sangerens Hustru</title></bibl><bibl xml:id="biblid101047"><title xml:id="idm140187299801072">Et Kys</title></bibl><bibl xml:id="biblid102343"><title xml:id="idm140187299800288">Fru Kerjean</title></bibl><bibl xml:id="biblid104183"><title xml:id="idm140187299799440">Cordouan</title></bibl><bibl xml:id="biblid105032"><title xml:id="idm140187299798592">Kong Harald og Islændingen</title></bibl></listBibl></sourceDesc>
+      <sourceDesc xml:id="idm140187299952208">
+        <bibl xml:id="idm140187299952080">
+          <author n="1" xml:id="idm140187299951456">
+            <name xml:id="idm140187299951200"><surname xml:id="idm140187299951072">Ploug</surname>, <forename xml:id="idm140187299950640">Carl</forename></name>
+          </author>
+          <title xml:id="idm140187299950352">Samlede Digte</title>
+          <pubPlace xml:id="idm140187299950064">København</pubPlace>
+          <date xml:id="idm140187299949584">1876</date>
+        </bibl>
+        <listBibl xml:id="idm140187299949296">
+          <bibl xml:id="biblid55408">
+            <title xml:id="idm140187299936144">Norden [1]</title>
+          </bibl>
+          <bibl xml:id="biblid55799">
+            <title xml:id="idm140187299935360">Fædrenes Minde</title>
+          </bibl>
+          <bibl xml:id="biblid55937">
+            <title xml:id="idm140187299934560">Til Lundenserne. (1839)</title>
+          </bibl>
+          <bibl xml:id="biblid56103">
+            <title xml:id="idm140187299933776">Hilsen til Upsala.(1843)</title>
+          </bibl>
+          <bibl xml:id="biblid56211">
+            <title xml:id="idm140187299932928">Ved Studentermødet i Kjøbenhavn. (1845)</title>
+          </bibl>
+          <bibl xml:id="biblid56512">
+            <title xml:id="idm140187299932080">Til Nordens Konger</title>
+          </bibl>
+          <bibl xml:id="biblid56672">
+            <title xml:id="idm140187299931296">Vers paa Bellmanske Melodier</title>
+          </bibl>
+          <bibl xml:id="biblid56947">
+            <title xml:id="idm140187299930496">I Foraaret</title>
+          </bibl>
+          <bibl xml:id="biblid57128">
+            <title xml:id="idm140187299929712">Ved Sundet</title>
+          </bibl>
+          <bibl xml:id="biblid57240">
+            <title xml:id="idm140187299928928">Fædrelandet</title>
+          </bibl>
+          <bibl xml:id="biblid57447">
+            <title xml:id="idm140187299928128">Jylland</title>
+          </bibl>
+          <bibl xml:id="biblid57640">
+            <title xml:id="idm140187299927296">Slesvig [1]</title>
+          </bibl>
+          <bibl xml:id="biblid57822">
+            <title xml:id="idm140187299926512">Modersmaalet</title>
+          </bibl>
+          <bibl xml:id="biblid57970">
+            <title xml:id="idm140187299925728">Den danske Sang</title>
+          </bibl>
+          <bibl xml:id="biblid58119">
+            <title xml:id="idm140187299924896">Den politiske Sang</title>
+          </bibl>
+          <bibl xml:id="biblid58270">
+            <title xml:id="idm140187299924064">Vaarsang</title>
+          </bibl>
+          <bibl xml:id="biblid58424">
+            <title xml:id="idm140187299923168">Studenterviser [1]</title>
+          </bibl>
+          <bibl xml:id="biblid58983">
+            <title xml:id="idm140187299922384">Regensviser</title>
+          </bibl>
+          <bibl xml:id="biblid59820">
+            <title xml:id="idm140187299921552">Nytaarsnat paa Regensen. (1838)</title>
+          </bibl>
+          <bibl xml:id="biblid60433">
+            <title xml:id="idm140187299920752">Akademisk Læseforening</title>
+          </bibl>
+          <bibl xml:id="biblid61351">
+            <title xml:id="idm140187299919888">Unionen</title>
+          </bibl>
+          <bibl xml:id="biblid61533">
+            <title xml:id="idm140187299919056">Soldets Filosofi</title>
+          </bibl>
+          <bibl xml:id="biblid61801">
+            <title xml:id="idm140187299918224">Til Skoven</title>
+          </bibl>
+          <bibl xml:id="biblid62076">
+            <title xml:id="idm140187299917392">Kompagniets Skibbrud</title>
+          </bibl>
+          <bibl xml:id="biblid62325">
+            <title xml:id="idm140187299916560">Afsked med en Grønlandsfarer</title>
+          </bibl>
+          <bibl xml:id="biblid62574">
+            <title xml:id="idm140187299915680">Ved en Botanikers Bryllup</title>
+          </bibl>
+          <bibl xml:id="biblid62888">
+            <title xml:id="idm140187299914880">Universitetets Lærere</title>
+          </bibl>
+          <bibl xml:id="biblid63083">
+            <title xml:id="idm140187299914064">Til Christoffer Ernst Frederik Weyse</title>
+          </bibl>
+          <bibl xml:id="biblid63201">
+            <title xml:id="idm140187299913216">Til Johanne Louise Heiberg</title>
+          </bibl>
+          <bibl xml:id="biblid63345">
+            <title xml:id="idm140187299912368">Til Johan Clausen Dahl</title>
+          </bibl>
+          <bibl xml:id="biblid63444">
+            <title xml:id="idm140187299911536">Til Joachim Frederik Schouw</title>
+          </bibl>
+          <bibl xml:id="biblid63548">
+            <title xml:id="idm140187299910688">Henrik Nikolai Clausen</title>
+          </bibl>
+          <bibl xml:id="biblid63825">
+            <title xml:id="idm140187299909856">Til Adam Oehlenschläger</title>
+          </bibl>
+          <bibl xml:id="biblid63941">
+            <title xml:id="idm140187299908992">Til Gustav Friedrich Hetsch</title>
+          </bibl>
+          <bibl xml:id="biblid64080">
+            <title xml:id="idm140187299908144">Til Johan Christian Drewsen</title>
+          </bibl>
+          <bibl xml:id="biblid64245">
+            <title xml:id="idm140187299907296">Til Ditlev Gothardt Monrad</title>
+          </bibl>
+          <bibl xml:id="biblid64404">
+            <title xml:id="idm140187299906448">Carl Michael Bellman</title>
+          </bibl>
+          <bibl xml:id="biblid64567">
+            <title xml:id="idm140187299905616">Bertel Thorvaldsen</title>
+          </bibl>
+          <bibl xml:id="biblid64694">
+            <title xml:id="idm140187299904784">Til de Unge</title>
+          </bibl>
+          <bibl xml:id="biblid65401">
+            <title xml:id="idm140187299903952">Fostbrødrelaget</title>
+          </bibl>
+          <bibl xml:id="biblid65862">
+            <title xml:id="idm140187299903104">Opraab</title>
+          </bibl>
+          <bibl xml:id="biblid66014">
+            <title xml:id="idm140187299902320">Til de Gamle</title>
+          </bibl>
+          <bibl xml:id="biblid66378">
+            <title xml:id="idm140187299901488">l Sommerferien</title>
+          </bibl>
+          <bibl xml:id="biblid66736">
+            <title xml:id="idm140187299900656">Indbydelse</title>
+          </bibl>
+          <bibl xml:id="biblid67227">
+            <title xml:id="idm140187300012032">Ove Christian Drejer</title>
+          </bibl>
+          <bibl xml:id="biblid67377">
+            <title xml:id="idm140187300011312">Christian Baltasar Krarup Bergenhammer</title>
+          </bibl>
+          <bibl xml:id="biblid67646">
+            <title xml:id="idm140187300010560">Ove Ovesen Fabricius</title>
+          </bibl>
+          <bibl xml:id="biblid67787">
+            <title xml:id="idm140187300009776">Salomon Drejer</title>
+          </bibl>
+          <bibl xml:id="biblid67977">
+            <title xml:id="idm140187300008992">Michael Petronius Bille</title>
+          </bibl>
+          <bibl xml:id="biblid68128">
+            <title xml:id="idm140187300008208">Peter Nikolai Borgen</title>
+          </bibl>
+          <bibl xml:id="biblid68503">
+            <title xml:id="idm140187299874640">Jenny Lind</title>
+          </bibl>
+          <bibl xml:id="biblid68729">
+            <title xml:id="idm140187299873856">Ordets Ridder</title>
+          </bibl>
+          <bibl xml:id="biblid69157">
+            <title xml:id="idm140187299873008">Dronning Mathilde</title>
+          </bibl>
+          <bibl xml:id="biblid70261">
+            <title xml:id="idm140187299872224">Norden [2]</title>
+          </bibl>
+          <bibl xml:id="biblid71058">
+            <title xml:id="idm140187299871440">De nordiske Naturforskere. (1847.)</title>
+          </bibl>
+          <bibl xml:id="biblid71460">
+            <title xml:id="idm140187299870688">Til Lundenserne. (1850)</title>
+          </bibl>
+          <bibl xml:id="biblid71611">
+            <title xml:id="idm140187299869904">Christianiatoget. (1851)</title>
+          </bibl>
+          <bibl xml:id="biblid72214">
+            <title xml:id="idm140187299869152">Danmark [1]</title>
+          </bibl>
+          <bibl xml:id="biblid72366">
+            <title xml:id="idm140187299868368">Slaget ved Slesvig</title>
+          </bibl>
+          <bibl xml:id="biblid72515">
+            <title xml:id="idm140187299863520">Til de svenske og norske Frivillige</title>
+          </bibl>
+          <bibl xml:id="biblid72727">
+            <title xml:id="idm140187299862832">1849</title>
+          </bibl>
+          <bibl xml:id="biblid72898">
+            <title xml:id="idm140187299862144">Ved Afdækningen af Mindesmærket paa Trinitatis Kirkegaard i Fredericia</title>
+          </bibl>
+          <bibl xml:id="biblid73246">
+            <title xml:id="idm140187299861232">Den 25. Juli</title>
+          </bibl>
+          <bibl xml:id="biblid73428">
+            <title xml:id="idm140187299860544">Hr. Helgesens Vise</title>
+          </bibl>
+          <bibl xml:id="biblid73715">
+            <title xml:id="idm140187299859856">Velkomster</title>
+          </bibl>
+          <bibl xml:id="biblid74143">
+            <title xml:id="idm140187299859168">Slesvig [2]</title>
+          </bibl>
+          <bibl xml:id="biblid74303">
+            <title xml:id="idm140187299858416">Grundloven [1]</title>
+          </bibl>
+          <bibl xml:id="biblid74816">
+            <title xml:id="idm140187299857600">Den danske Bonde</title>
+          </bibl>
+          <bibl xml:id="biblid74960">
+            <title xml:id="idm140187299856752">Studenterviser [2]</title>
+          </bibl>
+          <bibl xml:id="biblid75605">
+            <title xml:id="idm140187299855904">Til Kongen. (Ved en Studenterforestilling.)</title>
+          </bibl>
+          <bibl xml:id="biblid75707">
+            <title xml:id="idm140187299855088">Til H. C. Ørsted. (Fra Studenterne.)</title>
+          </bibl>
+          <bibl xml:id="biblid75873">
+            <title xml:id="idm140187299854176">Til A. Bryndum,</title>
+          </bibl>
+          <bibl xml:id="biblid76042">
+            <title xml:id="idm140187299853392">Afskedsviser [1]</title>
+          </bibl>
+          <bibl xml:id="biblid76661">
+            <title xml:id="idm140187299852608">Balvise</title>
+          </bibl>
+          <bibl xml:id="biblid76864">
+            <title xml:id="idm140187299851760">Folke-Viser</title>
+          </bibl>
+          <bibl xml:id="biblid77391">
+            <title xml:id="idm140187299850976">Sonnetter [1]</title>
+          </bibl>
+          <bibl xml:id="biblid77736">
+            <title xml:id="idm140187299850192">Med en Sølje</title>
+          </bibl>
+          <bibl xml:id="biblid78473">
+            <title xml:id="idm140187299849440">Lidenskab</title>
+          </bibl>
+          <bibl xml:id="biblid78588">
+            <title xml:id="idm140187299848656">Jeg tror paa Dig</title>
+          </bibl>
+          <bibl xml:id="biblid78811">
+            <title xml:id="idm140187299847872">Til Fru -</title>
+          </bibl>
+          <bibl xml:id="biblid79285">
+            <title xml:id="idm140187299847088">Marie Lehmann</title>
+          </bibl>
+          <bibl xml:id="biblid79366">
+            <title xml:id="idm140187299846304">Frederikke Mariboe</title>
+          </bibl>
+          <bibl xml:id="biblid79522">
+            <title xml:id="idm140187299845520">Adam Oehlenschläger</title>
+          </bibl>
+          <bibl xml:id="biblid79944">
+            <title xml:id="idm140187299844704">Hans Christian Ørsted</title>
+          </bibl>
+          <bibl xml:id="biblid80144">
+            <title xml:id="idm140187299843888">Johan Christian Drewsen</title>
+          </bibl>
+          <bibl xml:id="biblid80240">
+            <title xml:id="idm140187299843040">Joachim Frederik Schouw</title>
+          </bibl>
+          <bibl xml:id="biblid80384">
+            <title xml:id="idm140187299842256">Ved Afdækningen af Tegners Mindestøtte</title>
+          </bibl>
+          <bibl xml:id="biblid80580">
+            <title xml:id="idm140187299841408">Oscarshal</title>
+          </bibl>
+          <bibl xml:id="biblid80789">
+            <title xml:id="idm140187299840560">Peder Tordenskjold</title>
+          </bibl>
+          <bibl xml:id="biblid81242">
+            <title xml:id="idm140187299839712">W. H. F. A. Læssøe</title>
+          </bibl>
+          <bibl xml:id="biblid81615">
+            <title xml:id="idm140187299838896">Christian den Ottende</title>
+          </bibl>
+          <bibl xml:id="biblid82393">
+            <title xml:id="idm140187299838112">Slaget ved Fredericia</title>
+          </bibl>
+          <bibl xml:id="biblid82596">
+            <title xml:id="idm140187299837264">Aften</title>
+          </bibl>
+          <bibl xml:id="biblid83066">
+            <title xml:id="idm140187299836480">Nat</title>
+          </bibl>
+          <bibl xml:id="biblid84408">
+            <title xml:id="idm140187299835728">Morgen</title>
+          </bibl>
+          <bibl xml:id="biblid85290">
+            <title xml:id="idm140187299834944">Norden [3]</title>
+          </bibl>
+          <bibl xml:id="biblid85857">
+            <title xml:id="idm140187299834160">Nordens Konger. (Paa Kronborg i Juni 1860)</title>
+          </bibl>
+          <bibl xml:id="biblid85981">
+            <title xml:id="idm140187299833280">Hilsen til Upsala. (Juni 1856)</title>
+          </bibl>
+          <bibl xml:id="biblid86124">
+            <title xml:id="idm140187299832480">De nordiske Studentersangere. (November 1856)</title>
+          </bibl>
+          <bibl xml:id="biblid86257">
+            <title xml:id="idm140187299831664">Den hygiejniske Congres. (Juli 1858)</title>
+          </bibl>
+          <bibl xml:id="biblid86554">
+            <title xml:id="idm140187299830864">De nordiske Naturforskere. (Juli 1860)</title>
+          </bibl>
+          <bibl xml:id="biblid86709">
+            <title xml:id="idm140187299830000">Danmark [2]</title>
+          </bibl>
+          <bibl xml:id="biblid87595">
+            <title xml:id="idm140187299829216">Himmel bjerget</title>
+          </bibl>
+          <bibl xml:id="biblid87754">
+            <title xml:id="idm140187299828432">Jyderne</title>
+          </bibl>
+          <bibl xml:id="biblid87933">
+            <title xml:id="idm140187299827648">Stormen paa Kjøbenhavn</title>
+          </bibl>
+          <bibl xml:id="biblid88132">
+            <title xml:id="idm140187299826832">1848</title>
+          </bibl>
+          <bibl xml:id="biblid88309">
+            <title xml:id="idm140187299826048">Kongen</title>
+          </bibl>
+          <bibl xml:id="biblid88469">
+            <title xml:id="idm140187299825264">Grundloven [2]</title>
+          </bibl>
+          <bibl xml:id="biblid88841">
+            <title xml:id="idm140187299824480">Den 17de Maj</title>
+          </bibl>
+          <bibl xml:id="biblid89026">
+            <title xml:id="idm140187299823632">Bondefriheden</title>
+          </bibl>
+          <bibl xml:id="biblid89179">
+            <title xml:id="idm140187299822784">Til de danske Soldater</title>
+          </bibl>
+          <bibl xml:id="biblid89422">
+            <title xml:id="idm140187299821936">Ved Landsoldatens Afdækning</title>
+          </bibl>
+          <bibl xml:id="biblid89775">
+            <title xml:id="idm140187299821104">Ved Afdækningen af J. F. Schouws Brystbillede</title>
+          </bibl>
+          <bibl xml:id="biblid89926">
+            <title xml:id="idm140187299820192">Til H. N. Clausen. (Fra Studenterne.)</title>
+          </bibl>
+          <bibl xml:id="biblid90142">
+            <title xml:id="idm140187299819344">Til J. P. E. Hartmann. (Fra Studentersangforeningen.)</title>
+          </bibl>
+          <bibl xml:id="biblid90414">
+            <title xml:id="idm140187299818528">Afskedsviser [2]</title>
+          </bibl>
+          <bibl xml:id="biblid90805">
+            <title xml:id="idm140187299817680">Studentervise</title>
+          </bibl>
+          <bibl xml:id="biblid90948">
+            <title xml:id="idm140187299816896">Balviser</title>
+          </bibl>
+          <bibl xml:id="biblid91339">
+            <title xml:id="idm140187299816048">Bryllupssange</title>
+          </bibl>
+          <bibl xml:id="biblid91787">
+            <title xml:id="idm140187299815264">Sonnetter [2]</title>
+          </bibl>
+          <bibl xml:id="biblid92743">
+            <title xml:id="idm140187299814480">Du kommer</title>
+          </bibl>
+          <bibl xml:id="biblid92864">
+            <title xml:id="idm140187299813696">Da hun var tyve Aar</title>
+          </bibl>
+          <bibl xml:id="biblid93219">
+            <title xml:id="idm140187299812848">Sommerliv</title>
+          </bibl>
+          <bibl xml:id="biblid93923">
+            <title xml:id="idm140187299811952">Vuggevise</title>
+          </bibl>
+          <bibl xml:id="biblid94033">
+            <title xml:id="idm140187299811120">Vil Du elske mig?</title>
+          </bibl>
+          <bibl xml:id="biblid94186">
+            <title xml:id="idm140187299810272">Georg Aagaard</title>
+          </bibl>
+          <bibl xml:id="biblid94445">
+            <title xml:id="idm140187299809488">Anna Nielsen</title>
+          </bibl>
+          <bibl xml:id="biblid94690">
+            <title xml:id="idm140187299808640">Nikolai Peter Nielsen</title>
+          </bibl>
+          <bibl xml:id="biblid94885">
+            <title xml:id="idm140187299807808">Oscar den Første. (8de August 1859.)</title>
+          </bibl>
+          <bibl xml:id="biblid95705">
+            <title xml:id="idm140187299806960">Til Kongen. (6te Oktober 1861.)</title>
+          </bibl>
+          <bibl xml:id="biblid96152">
+            <title xml:id="idm140187299806112">Prolog, fremsagt paa det kgl. Theater i Stockholm (1856)</title>
+          </bibl>
+          <bibl xml:id="biblid96805">
+            <title xml:id="idm140187299805280">Sebastopols Fald</title>
+          </bibl>
+          <bibl xml:id="biblid97133">
+            <title xml:id="idm140187299804384">Dannevirke</title>
+          </bibl>
+          <bibl xml:id="biblid97992">
+            <title xml:id="idm140187299803536">Dronning Margrete</title>
+          </bibl>
+          <bibl xml:id="biblid98767">
+            <title xml:id="idm140187299802752">Peder Griffenfeld</title>
+          </bibl>
+          <bibl xml:id="biblid99395">
+            <title xml:id="idm140187299801920">Sangerens Hustru</title>
+          </bibl>
+          <bibl xml:id="biblid101047">
+            <title xml:id="idm140187299801072">Et Kys</title>
+          </bibl>
+          <bibl xml:id="biblid102343">
+            <title xml:id="idm140187299800288">Fru Kerjean</title>
+          </bibl>
+          <bibl xml:id="biblid104183">
+            <title xml:id="idm140187299799440">Cordouan</title>
+          </bibl>
+          <bibl xml:id="biblid105032">
+            <title xml:id="idm140187299798592">Kong Harald og Islændingen</title>
+          </bibl>
+        </listBibl>
+      </sourceDesc>
     </fileDesc>
   </teiHeader>
   <text xml:id="idm140187299797888">

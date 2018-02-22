@@ -1,10 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!--   20021019 HHL indsat <lg>'er og vaerktitle-->
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="idm140426999880576"><!-- 
-       file     ./marc_dir/001848831.xml
-       field     
-       subfield  
-       prefix   -->
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="root">
   <teiHeader xml:id="idm140426999879920">
     <fileDesc xml:id="idm140426999879664">
       <titleStmt xml:id="idm140426999879360">
@@ -31,18 +26,141 @@
         <note xml:id="idm140426999847296">
 	  </note>
       </notesStmt>
-      <sourceDesc xml:id="idm140426999846784"><bibl xml:id="idm140426999846656"><author n="1" xml:id="idm140426999845968"><name xml:id="idm140426999845664"><surname xml:id="idm140426999845536">Møller</surname>, <forename xml:id="idm140426999845072">Poul Martin</forename></name></author><title xml:id="idm140426999844784">Skrifter i Udvalg</title><pubPlace xml:id="idm140426999844496">Kbh.</pubPlace>
-<date xml:id="idm140426999844032">1930</date></bibl><listBibl xml:id="idm140426999843744"><bibl xml:id="biblid55003"><title xml:id="idm140426999830592">FØR OG NU</title></bibl><bibl xml:id="biblid55205"><title xml:id="idm140426999829808">HOLGER DANSKE OG SKRÆDDERNE</title></bibl><bibl xml:id="biblid55868"><title xml:id="idm140426999828976">TORBISTEN OG FLUEN</title></bibl><bibl xml:id="biblid56239"><title xml:id="idm140426999828192">ST. LAURENTIUS</title></bibl><bibl xml:id="biblid56902"><title xml:id="idm140426999827408">GERTRUD</title></bibl><bibl xml:id="biblid57250"><title xml:id="idm140426999826624">LAUS TABACI*)</title></bibl><bibl xml:id="biblid57897"><title xml:id="idm140426999825840">JÆGERVISE</title></bibl><bibl xml:id="biblid58102"><title xml:id="idm140426999825056">APRILSVISE</title></bibl><bibl xml:id="biblid58290"><title xml:id="idm140426999824272">STUDENTERSANG I</title></bibl><bibl xml:id="biblid58507"><title xml:id="idm140426999823440">STUDENTERSANG II</title></bibl><bibl xml:id="biblid58706"><title xml:id="idm140426999822656">SANGE TIL RAHBEK</title></bibl><bibl xml:id="biblid59044"><title xml:id="idm140426999821824">SANG TIL STEFFENS</title></bibl><bibl xml:id="biblid59227"><title xml:id="idm140426999820992">TO  STUDENTERDIGTE</title></bibl><bibl xml:id="biblid59727"><title xml:id="idm140426999820160">SANG TIL HANSTEEN</title></bibl><bibl xml:id="biblid59968"><title xml:id="idm140426999819328">SANG TIL G. H. WAAGE</title></bibl><bibl xml:id="biblid60161"><title xml:id="idm140426999818544">TIL LAURA</title></bibl><bibl xml:id="biblid60443"><title xml:id="idm140426999817712">DEN ENBENEDE</title></bibl><bibl xml:id="biblid60666"><title xml:id="idm140426999816880">DEN GAMLE ELSKER</title></bibl><bibl xml:id="biblid61006"><title xml:id="idm140426999816048">ROMANCE</title></bibl><bibl xml:id="biblid61364"><title xml:id="idm140426999815264">BRUDSTYKKE AF ET DRAMATISK DIGT</title></bibl><bibl xml:id="biblid62307"><title xml:id="idm140426999814464">SONET [1]</title></bibl><bibl xml:id="biblid62380"><title xml:id="idm140426999813632">TIL KAMP!</title></bibl><bibl xml:id="biblid62474"><title xml:id="idm140426999812848">DRØMMEN. Efter Byron.</title></bibl><bibl xml:id="biblid63392"><title xml:id="idm140426999811984">ET  BLAD  AF  DØDENS  DAGBOG.</title></bibl><bibl xml:id="biblid63968"><title xml:id="idm140426999811040">LÆNGSEL</title></bibl><bibl xml:id="biblid64045"><title xml:id="idm140426999810208">TIL MIN BETTY</title></bibl><bibl xml:id="biblid64140"><title xml:id="idm140426999809424">AF STED!</title></bibl><bibl xml:id="biblid64327"><title xml:id="idm140426999808592">SONET [2]</title></bibl><bibl xml:id="biblid64405"><title xml:id="idm140426999807760">HJEMVE</title></bibl><bibl xml:id="biblid64712"><title xml:id="idm140426999806928">UNDERVEJS</title></bibl><bibl xml:id="biblid64888"><title xml:id="idm140426999806096">SCENER I ROSENBORG HAVE</title></bibl><bibl xml:id="biblid66499"><title xml:id="idm140426999805264">HJEMAD</title></bibl><bibl xml:id="biblid66560"><title xml:id="idm140426999804432">TIL SELSKABET FOR DE SKØNNE VIDENSKABER</title></bibl><bibl xml:id="biblid66847"><title xml:id="idm140426999803584">TO  FRAGMENTER</title></bibl><bibl xml:id="biblid67162"><title xml:id="idm140426999802752">KUNSTNEREN MELLEM OPRØRERNE</title></bibl><bibl xml:id="biblid68442"><title xml:id="idm140426999801872">REVUEN</title></bibl><bibl xml:id="biblid68978"><title xml:id="idm140426999801088">Sandfærdig Krønike om Eyvind Skaldaspiller</title></bibl><bibl xml:id="biblid73701"><title xml:id="idm140426999800176">En DANSK STUDENTS EVENTYR</title></bibl><bibl xml:id="biblid76960"><title xml:id="idm140426999799376">EN UFULDENDT NOVELLE</title></bibl></listBibl></sourceDesc>
-
+      <sourceDesc xml:id="idm140426999846784">
+        <bibl xml:id="idm140426999846656">
+          <author n="1" xml:id="idm140426999845968">
+            <name xml:id="idm140426999845664"><surname xml:id="idm140426999845536">Møller</surname>, <forename xml:id="idm140426999845072">Poul Martin</forename></name>
+          </author>
+          <title xml:id="idm140426999844784">Skrifter i Udvalg</title>
+          <pubPlace xml:id="idm140426999844496">København</pubPlace>
+          <date xml:id="idm140426999844032">1930</date>
+        </bibl>
+        <listBibl xml:id="idm140426999843744">
+          <bibl xml:id="biblid55003">
+            <title xml:id="idm140426999830592">FØR OG NU</title>
+          </bibl>
+          <bibl xml:id="biblid55205">
+            <title xml:id="idm140426999829808">HOLGER DANSKE OG SKRÆDDERNE</title>
+          </bibl>
+          <bibl xml:id="biblid55868">
+            <title xml:id="idm140426999828976">TORBISTEN OG FLUEN</title>
+          </bibl>
+          <bibl xml:id="biblid56239">
+            <title xml:id="idm140426999828192">ST. LAURENTIUS</title>
+          </bibl>
+          <bibl xml:id="biblid56902">
+            <title xml:id="idm140426999827408">GERTRUD</title>
+          </bibl>
+          <bibl xml:id="biblid57250">
+            <title xml:id="idm140426999826624">LAUS TABACI*)</title>
+          </bibl>
+          <bibl xml:id="biblid57897">
+            <title xml:id="idm140426999825840">JÆGERVISE</title>
+          </bibl>
+          <bibl xml:id="biblid58102">
+            <title xml:id="idm140426999825056">APRILSVISE</title>
+          </bibl>
+          <bibl xml:id="biblid58290">
+            <title xml:id="idm140426999824272">STUDENTERSANG I</title>
+          </bibl>
+          <bibl xml:id="biblid58507">
+            <title xml:id="idm140426999823440">STUDENTERSANG II</title>
+          </bibl>
+          <bibl xml:id="biblid58706">
+            <title xml:id="idm140426999822656">SANGE TIL RAHBEK</title>
+          </bibl>
+          <bibl xml:id="biblid59044">
+            <title xml:id="idm140426999821824">SANG TIL STEFFENS</title>
+          </bibl>
+          <bibl xml:id="biblid59227">
+            <title xml:id="idm140426999820992">TO  STUDENTERDIGTE</title>
+          </bibl>
+          <bibl xml:id="biblid59727">
+            <title xml:id="idm140426999820160">SANG TIL HANSTEEN</title>
+          </bibl>
+          <bibl xml:id="biblid59968">
+            <title xml:id="idm140426999819328">SANG TIL G. H. WAAGE</title>
+          </bibl>
+          <bibl xml:id="biblid60161">
+            <title xml:id="idm140426999818544">TIL LAURA</title>
+          </bibl>
+          <bibl xml:id="biblid60443">
+            <title xml:id="idm140426999817712">DEN ENBENEDE</title>
+          </bibl>
+          <bibl xml:id="biblid60666">
+            <title xml:id="idm140426999816880">DEN GAMLE ELSKER</title>
+          </bibl>
+          <bibl xml:id="biblid61006">
+            <title xml:id="idm140426999816048">ROMANCE</title>
+          </bibl>
+          <bibl xml:id="biblid61364">
+            <title xml:id="idm140426999815264">BRUDSTYKKE AF ET DRAMATISK DIGT</title>
+          </bibl>
+          <bibl xml:id="biblid62307">
+            <title xml:id="idm140426999814464">SONET [1]</title>
+          </bibl>
+          <bibl xml:id="biblid62380">
+            <title xml:id="idm140426999813632">TIL KAMP!</title>
+          </bibl>
+          <bibl xml:id="biblid62474">
+            <title xml:id="idm140426999812848">DRØMMEN. Efter Byron.</title>
+          </bibl>
+          <bibl xml:id="biblid63392">
+            <title xml:id="idm140426999811984">ET  BLAD  AF  DØDENS  DAGBOG.</title>
+          </bibl>
+          <bibl xml:id="biblid63968">
+            <title xml:id="idm140426999811040">LÆNGSEL</title>
+          </bibl>
+          <bibl xml:id="biblid64045">
+            <title xml:id="idm140426999810208">TIL MIN BETTY</title>
+          </bibl>
+          <bibl xml:id="biblid64140">
+            <title xml:id="idm140426999809424">AF STED!</title>
+          </bibl>
+          <bibl xml:id="biblid64327">
+            <title xml:id="idm140426999808592">SONET [2]</title>
+          </bibl>
+          <bibl xml:id="biblid64405">
+            <title xml:id="idm140426999807760">HJEMVE</title>
+          </bibl>
+          <bibl xml:id="biblid64712">
+            <title xml:id="idm140426999806928">UNDERVEJS</title>
+          </bibl>
+          <bibl xml:id="biblid64888">
+            <title xml:id="idm140426999806096">SCENER I ROSENBORG HAVE</title>
+          </bibl>
+          <bibl xml:id="biblid66499">
+            <title xml:id="idm140426999805264">HJEMAD</title>
+          </bibl>
+          <bibl xml:id="biblid66560">
+            <title xml:id="idm140426999804432">TIL SELSKABET FOR DE SKØNNE VIDENSKABER</title>
+          </bibl>
+          <bibl xml:id="biblid66847">
+            <title xml:id="idm140426999803584">TO  FRAGMENTER</title>
+          </bibl>
+          <bibl xml:id="biblid67162">
+            <title xml:id="idm140426999802752">KUNSTNEREN MELLEM OPRØRERNE</title>
+          </bibl>
+          <bibl xml:id="biblid68442">
+            <title xml:id="idm140426999801872">REVUEN</title>
+          </bibl>
+          <bibl xml:id="biblid68978">
+            <title xml:id="idm140426999801088">Sandfærdig Krønike om Eyvind Skaldaspiller</title>
+          </bibl>
+          <bibl xml:id="biblid73701">
+            <title xml:id="idm140426999800176">En DANSK STUDENTS EVENTYR</title>
+          </bibl>
+          <bibl xml:id="biblid76960">
+            <title xml:id="idm140426999799376">EN UFULDENDT NOVELLE</title>
+          </bibl>
+        </listBibl>
+      </sourceDesc>
     </fileDesc>
   </teiHeader>
   <text xml:id="idm140426999798688">
     <front xml:id="idm140426999798432">
       <pb n="a" facs="adl/moellerpm/moellerpm1/moel1fm001" xml:id="idm140426999798128"/>
       <gap reason="cancelled" xml:id="idm140426999797264"/>
-<!---->
-<!---->
-<!--DANMARKS NATIONALLITTERATUR POUL MØLLER SKRIFTER I UDVALG-->
       <pb n="b" facs="adl/moellerpm/moellerpm1/moel1fm002" xml:id="idm140426999795712"/>
       <pb n="c" facs="adl/moellerpm/moellerpm1/moel1fm003" xml:id="idm140426999794896"/>
       <titlePage xml:id="idm140426999794128">
@@ -3889,7 +4007,7 @@
               <head xml:id="idm140426998285360">SIDSTE DIGTE</head>
               <epigraph xml:id="idm140426998284896">
                 <cit xml:id="idm140426998284640">
-                  <q xml:id="idm140426998284384">- - - [*][*][*][*][*][*][*][*][*][*][*][*]<!--&#964;&#945;&#8059;&#964;&#951;&#962;&#948; &#8127; &#7936;&#960;&#959;&#960;&#945;&#8059;&#949; &#7936;&#959;&#953;&#948;&#8134;&#962; &#955;&#965;&#947;&#961;&#8134;&#962; &#7973;&#964;&#949; &#956;&#959;&#953; &#945;&#7984;&#949;&#8054; &#7952;&#957;&#8054; &#963;&#964;&#8053;&#977;&#949;&#963;&#963;&#953; &#981;&#8055;&#955;&#959;&#957; &#1008;&#8134;&#961; &#964;&#949;&#8055;&#961;&#949;&#953;<lb/>-->
+                  <q xml:id="idm140426998284384">- - - [*][*][*][*][*][*][*][*][*][*][*][*]
 										<bibl xml:id="idm140426998283936"><hi rend="italics" xml:id="idm140426998283808">Homer.</hi></bibl>
 									</q>
                 </cit>

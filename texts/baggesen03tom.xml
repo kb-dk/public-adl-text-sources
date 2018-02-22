@@ -1,10 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!--Tom opmærkning blo 26.07.02-->
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="idm139898996252944"><!-- 
-       file     ./marc_dir/001823352.xml
-       field    530 
-       subfield a 
-       prefix   Bd. 3 :-->
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="root">
   <teiHeader xml:id="idm139898996259248">
     <fileDesc xml:id="idm139898996258992">
       <titleStmt xml:id="idm139898996258688">
@@ -23,8 +18,147 @@
         <note xml:id="idm139898996229312">
 	  </note>
       </notesStmt>
-      <sourceDesc xml:id="idm139898996228800"><bibl xml:id="idm139898996228672"><author n="1" xml:id="idm139898996227984"><name xml:id="idm139898996227728"><surname xml:id="idm139898996227600">Baggesen</surname>, <forename xml:id="idm139898996227136">Jens</forename></name></author><title xml:id="idm139898996226848"> Riimbreve og poetiske Epistler. 2. Samling, 1809-1823. - 1894</title><pubPlace xml:id="idm139898996226512">Kbh.</pubPlace>
-<date xml:id="idm139898996226000">1889-1903</date></bibl><listBibl xml:id="idm139898996225712"><bibl xml:id="biblid54480"><title xml:id="idm139898996212512">Den portative Himmel, 1809</title></bibl><bibl xml:id="biblid54599"><title xml:id="idm139898996211712">Nu ligger han da død, begravet [Mag. Anders Paases Sørgetanker ...]</title></bibl><bibl xml:id="biblid54682"><title xml:id="idm139898996210800">Den danske Nafo i det tydske Tomi</title></bibl><bibl xml:id="biblid54803"><title xml:id="idm139898996210000">Nytaarsmødet</title></bibl><bibl xml:id="biblid54849"><title xml:id="idm139898996209152">Tilegnelse. Fortsættelsen ad Da jeg var lille</title></bibl><bibl xml:id="biblid54904"><title xml:id="idm139898996208288">Elskovs Mysterier, 1813</title></bibl><bibl xml:id="biblid54969"><title xml:id="idm139898996207504">Brudevielsen i Fjor, 1813</title></bibl><bibl xml:id="biblid55014"><title xml:id="idm139898996206704">Den forgiæves Anraabelse, 1813</title></bibl><bibl xml:id="biblid55042"><title xml:id="idm139898996205872">Den mistænkelige Tandpine, 1813</title></bibl><bibl xml:id="biblid55108"><title xml:id="idm139898996205040">Sextendedeelen, 1813</title></bibl><bibl xml:id="biblid55125"><title xml:id="idm139898996204192">Hierte-Parcellerne</title></bibl><bibl xml:id="biblid55182"><title xml:id="idm139898996203360">De atten Eller, 1813</title></bibl><bibl xml:id="biblid55228"><title xml:id="idm139898996202528">Ugler i Ellemosen, 1813</title></bibl><bibl xml:id="biblid55273"><title xml:id="idm139898996201696">Min egentlige Genialitet, 1813</title></bibl><bibl xml:id="biblid55366"><title xml:id="idm139898996200848">Det slette Skrivertøi, 1813</title></bibl><bibl xml:id="biblid55405"><title xml:id="idm139898996199968">Den betydningsfuld Taushed, 1813</title></bibl><bibl xml:id="biblid55442"><title xml:id="idm139898996199120">Hilsenen fra Hovedstaden, 1813</title></bibl><bibl xml:id="biblid55488"><title xml:id="idm139898996198208">Min Gienganger-Spøg</title></bibl><bibl xml:id="biblid55647"><title xml:id="idm139898996197392">Remmen af Huden</title></bibl><bibl xml:id="biblid55706"><title xml:id="idm139898996196608">Hesten Abildgraa</title></bibl><bibl xml:id="biblid55735"><title xml:id="idm139898996195776">Til Grosserer Nathanson, d. 4. Jan. 1814</title></bibl><bibl xml:id="biblid55814"><title xml:id="idm139898996194912">Sendebrev fra de tre Gratier til Udgiveren af Bladet Søndagen, 1814</title></bibl><bibl xml:id="biblid55923"><title xml:id="idm139898996194000">Til de tre Gratier. Svar paa Sendebrevet, 1814</title></bibl><bibl xml:id="biblid56000"><title xml:id="idm139898996193184">De Himmelskes Afskedsbred, 1814</title></bibl><bibl xml:id="biblid56038"><title xml:id="idm139898996192336">Parnasdommen, 1814</title></bibl><bibl xml:id="biblid56076"><title xml:id="idm139898996191504">Alleenekampen, 1814</title></bibl><bibl xml:id="biblid56176"><title xml:id="idm139898996190672">Udvarselen, 1814</title></bibl><bibl xml:id="biblid56225"><title xml:id="idm139898996189840">Til Svoger Pan, 1814</title></bibl><bibl xml:id="biblid56264"><title xml:id="idm139898996189008">Horn-Concerten, 1814</title></bibl><bibl xml:id="biblid56361"><title xml:id="idm139898996188176">Til Generalkrigscommissair Ustrup, Decbr. 1814</title></bibl><bibl xml:id="biblid56439"><title xml:id="idm139898996187248">Hand mod Hand, 1816</title></bibl><bibl xml:id="biblid56487"><title xml:id="idm139898996186352">Til min Ven, paa hans Fødselsdag</title></bibl><bibl xml:id="biblid56526"><title xml:id="idm139898996185472">Til Fru Hecksher</title></bibl><bibl xml:id="biblid56554"><title xml:id="idm139898996184576">Riim-Trøstebrev, 1816</title></bibl><bibl xml:id="biblid56632"><title xml:id="idm139898996183712">Til Broder Dannemand i London</title></bibl><bibl xml:id="biblid56731"><title xml:id="idm139898996289472">Til Antigone</title></bibl><bibl xml:id="biblid56820"><title xml:id="idm139898996288752">Ode til Kæmmereer V. Harbon, 1817</title></bibl><bibl xml:id="biblid56880"><title xml:id="idm139898996287984">Ode til Etatsraad v. Holten</title></bibl><bibl xml:id="biblid56918"><title xml:id="idm139898996287232">Til Generallieutnant Walterstorff, d. 11. Aug. 1818</title></bibl><bibl xml:id="biblid57046"><title xml:id="idm139898996286352">Afskedsbrev. Til Kammerherre Kaas, d. 14-15. decbr. 1821</title></bibl><bibl xml:id="biblid57164"><title xml:id="idm139898996285520">Til Hs. Kongl. Høihed Prinds Christian Frederik Af Danmark, Nytaarsdag 1822</title></bibl><bibl xml:id="biblid57222"><title xml:id="idm139898996157504">Til Hs. Kongl. Høihed Prinds Christian Frederik Af Danmark, d. 15 Oct. 1823</title></bibl><bibl xml:id="biblid57290"><title xml:id="idm139898996156576">Til Cabinets-Secretair Adler, decbr. 1823</title></bibl></listBibl></sourceDesc>
+      <sourceDesc xml:id="idm139898996228800">
+        <bibl xml:id="idm139898996228672">
+          <author n="1" xml:id="idm139898996227984">
+            <name xml:id="idm139898996227728"><surname xml:id="idm139898996227600">Baggesen</surname>, <forename xml:id="idm139898996227136">Jens</forename></name>
+          </author>
+          <title xml:id="idm139898996226848"> Riimbreve og poetiske Epistler. 2. Samling, 1809-1823. - 1894</title>
+          <pubPlace xml:id="idm139898996226512">København</pubPlace>
+          <date xml:id="idm139898996226000">1889-1903</date>
+        </bibl>
+        <listBibl xml:id="idm139898996225712">
+          <bibl xml:id="biblid54480">
+            <title xml:id="idm139898996212512">Den portative Himmel, 1809</title>
+          </bibl>
+          <bibl xml:id="biblid54599">
+            <title xml:id="idm139898996211712">Nu ligger han da død, begravet [Mag. Anders Paases Sørgetanker ...]</title>
+          </bibl>
+          <bibl xml:id="biblid54682">
+            <title xml:id="idm139898996210800">Den danske Nafo i det tydske Tomi</title>
+          </bibl>
+          <bibl xml:id="biblid54803">
+            <title xml:id="idm139898996210000">Nytaarsmødet</title>
+          </bibl>
+          <bibl xml:id="biblid54849">
+            <title xml:id="idm139898996209152">Tilegnelse. Fortsættelsen ad Da jeg var lille</title>
+          </bibl>
+          <bibl xml:id="biblid54904">
+            <title xml:id="idm139898996208288">Elskovs Mysterier, 1813</title>
+          </bibl>
+          <bibl xml:id="biblid54969">
+            <title xml:id="idm139898996207504">Brudevielsen i Fjor, 1813</title>
+          </bibl>
+          <bibl xml:id="biblid55014">
+            <title xml:id="idm139898996206704">Den forgiæves Anraabelse, 1813</title>
+          </bibl>
+          <bibl xml:id="biblid55042">
+            <title xml:id="idm139898996205872">Den mistænkelige Tandpine, 1813</title>
+          </bibl>
+          <bibl xml:id="biblid55108">
+            <title xml:id="idm139898996205040">Sextendedeelen, 1813</title>
+          </bibl>
+          <bibl xml:id="biblid55125">
+            <title xml:id="idm139898996204192">Hierte-Parcellerne</title>
+          </bibl>
+          <bibl xml:id="biblid55182">
+            <title xml:id="idm139898996203360">De atten Eller, 1813</title>
+          </bibl>
+          <bibl xml:id="biblid55228">
+            <title xml:id="idm139898996202528">Ugler i Ellemosen, 1813</title>
+          </bibl>
+          <bibl xml:id="biblid55273">
+            <title xml:id="idm139898996201696">Min egentlige Genialitet, 1813</title>
+          </bibl>
+          <bibl xml:id="biblid55366">
+            <title xml:id="idm139898996200848">Det slette Skrivertøi, 1813</title>
+          </bibl>
+          <bibl xml:id="biblid55405">
+            <title xml:id="idm139898996199968">Den betydningsfuld Taushed, 1813</title>
+          </bibl>
+          <bibl xml:id="biblid55442">
+            <title xml:id="idm139898996199120">Hilsenen fra Hovedstaden, 1813</title>
+          </bibl>
+          <bibl xml:id="biblid55488">
+            <title xml:id="idm139898996198208">Min Gienganger-Spøg</title>
+          </bibl>
+          <bibl xml:id="biblid55647">
+            <title xml:id="idm139898996197392">Remmen af Huden</title>
+          </bibl>
+          <bibl xml:id="biblid55706">
+            <title xml:id="idm139898996196608">Hesten Abildgraa</title>
+          </bibl>
+          <bibl xml:id="biblid55735">
+            <title xml:id="idm139898996195776">Til Grosserer Nathanson, d. 4. Jan. 1814</title>
+          </bibl>
+          <bibl xml:id="biblid55814">
+            <title xml:id="idm139898996194912">Sendebrev fra de tre Gratier til Udgiveren af Bladet Søndagen, 1814</title>
+          </bibl>
+          <bibl xml:id="biblid55923">
+            <title xml:id="idm139898996194000">Til de tre Gratier. Svar paa Sendebrevet, 1814</title>
+          </bibl>
+          <bibl xml:id="biblid56000">
+            <title xml:id="idm139898996193184">De Himmelskes Afskedsbred, 1814</title>
+          </bibl>
+          <bibl xml:id="biblid56038">
+            <title xml:id="idm139898996192336">Parnasdommen, 1814</title>
+          </bibl>
+          <bibl xml:id="biblid56076">
+            <title xml:id="idm139898996191504">Alleenekampen, 1814</title>
+          </bibl>
+          <bibl xml:id="biblid56176">
+            <title xml:id="idm139898996190672">Udvarselen, 1814</title>
+          </bibl>
+          <bibl xml:id="biblid56225">
+            <title xml:id="idm139898996189840">Til Svoger Pan, 1814</title>
+          </bibl>
+          <bibl xml:id="biblid56264">
+            <title xml:id="idm139898996189008">Horn-Concerten, 1814</title>
+          </bibl>
+          <bibl xml:id="biblid56361">
+            <title xml:id="idm139898996188176">Til Generalkrigscommissair Ustrup, Decbr. 1814</title>
+          </bibl>
+          <bibl xml:id="biblid56439">
+            <title xml:id="idm139898996187248">Hand mod Hand, 1816</title>
+          </bibl>
+          <bibl xml:id="biblid56487">
+            <title xml:id="idm139898996186352">Til min Ven, paa hans Fødselsdag</title>
+          </bibl>
+          <bibl xml:id="biblid56526">
+            <title xml:id="idm139898996185472">Til Fru Hecksher</title>
+          </bibl>
+          <bibl xml:id="biblid56554">
+            <title xml:id="idm139898996184576">Riim-Trøstebrev, 1816</title>
+          </bibl>
+          <bibl xml:id="biblid56632">
+            <title xml:id="idm139898996183712">Til Broder Dannemand i London</title>
+          </bibl>
+          <bibl xml:id="biblid56731">
+            <title xml:id="idm139898996289472">Til Antigone</title>
+          </bibl>
+          <bibl xml:id="biblid56820">
+            <title xml:id="idm139898996288752">Ode til Kæmmereer V. Harbon, 1817</title>
+          </bibl>
+          <bibl xml:id="biblid56880">
+            <title xml:id="idm139898996287984">Ode til Etatsraad v. Holten</title>
+          </bibl>
+          <bibl xml:id="biblid56918">
+            <title xml:id="idm139898996287232">Til Generallieutnant Walterstorff, d. 11. Aug. 1818</title>
+          </bibl>
+          <bibl xml:id="biblid57046">
+            <title xml:id="idm139898996286352">Afskedsbrev. Til Kammerherre Kaas, d. 14-15. decbr. 1821</title>
+          </bibl>
+          <bibl xml:id="biblid57164">
+            <title xml:id="idm139898996285520">Til Hs. Kongl. Høihed Prinds Christian Frederik Af Danmark, Nytaarsdag 1822</title>
+          </bibl>
+          <bibl xml:id="biblid57222">
+            <title xml:id="idm139898996157504">Til Hs. Kongl. Høihed Prinds Christian Frederik Af Danmark, d. 15 Oct. 1823</title>
+          </bibl>
+          <bibl xml:id="biblid57290">
+            <title xml:id="idm139898996156576">Til Cabinets-Secretair Adler, decbr. 1823</title>
+          </bibl>
+        </listBibl>
+      </sourceDesc>
     </fileDesc>
   </teiHeader>
   <text xml:id="idm139898996155872">

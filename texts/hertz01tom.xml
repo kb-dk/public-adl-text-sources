@@ -1,10 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!--Tom opmærkning d.28.06.2002 blo -->
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="idm139674564548736"><!-- 
-       file     ./marc_dir/002148279.xml
-       field     
-       subfield  
-       prefix   -->
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="root">
   <teiHeader xml:id="idm139674564553072">
     <fileDesc xml:id="idm139674564552816">
       <titleStmt xml:id="idm139674564552512">
@@ -19,8 +14,24 @@
         <note xml:id="idm139674564524448">
 	  </note>
       </notesStmt>
-      <sourceDesc xml:id="idm139674564523936"><bibl xml:id="idm139674564523808"><author n="1" xml:id="idm139674564523120"><name xml:id="idm139674564522864"><surname xml:id="idm139674564522736">Hertz</surname>, <forename xml:id="idm139674564522272">Henrik</forename></name></author><title xml:id="idm139674564521984">Udvalgte dramatiske Værker</title><pubPlace xml:id="idm139674564521664">Kbh</pubPlace>
-<date xml:id="idm139674564521184">1897</date></bibl><listBibl xml:id="idm139674564520896"><bibl xml:id="biblid53734"><title xml:id="idm139674564507744">Flyttedagen</title></bibl><bibl xml:id="biblid56350"><title xml:id="idm139674564506960">Amors Geniestreger</title></bibl></listBibl></sourceDesc>
+      <sourceDesc xml:id="idm139674564523936">
+        <bibl xml:id="idm139674564523808">
+          <author n="1" xml:id="idm139674564523120">
+            <name xml:id="idm139674564522864"><surname xml:id="idm139674564522736">Hertz</surname>, <forename xml:id="idm139674564522272">Henrik</forename></name>
+          </author>
+          <title xml:id="idm139674564521984">Udvalgte dramatiske Værker</title>
+          <pubPlace xml:id="idm139674564521664">København</pubPlace>
+          <date xml:id="idm139674564521184">1897</date>
+        </bibl>
+        <listBibl xml:id="idm139674564520896">
+          <bibl xml:id="biblid53734">
+            <title xml:id="idm139674564507744">Flyttedagen</title>
+          </bibl>
+          <bibl xml:id="biblid56350">
+            <title xml:id="idm139674564506960">Amors Geniestreger</title>
+          </bibl>
+        </listBibl>
+      </sourceDesc>
     </fileDesc>
   </teiHeader>
   <text xml:id="idm139674564506320">

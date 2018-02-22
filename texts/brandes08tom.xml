@@ -1,10 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!--Tom opmærkning jbh 27.09.01-->
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="idm140380209514624"><!-- 
-       file     ./marc_dir/001823972.xml
-       field     
-       subfield  
-       prefix   -->
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="root">
   <teiHeader xml:id="idm140380209518960">
     <fileDesc xml:id="idm140380209518704">
       <titleStmt xml:id="idm140380209518400">
@@ -19,8 +14,24 @@
         <note xml:id="idm140380209490368">
 	  </note>
       </notesStmt>
-      <sourceDesc xml:id="idm140380209489856"><bibl xml:id="idm140380209489728"><author n="1" xml:id="idm140380209489040"><name xml:id="idm140380209488784"><surname xml:id="idm140380209488656">Brandes</surname>, <forename xml:id="idm140380209488224">Georg</forename></name></author><title xml:id="idm140380209487936">Samlede Skrifter</title><pubPlace xml:id="idm140380209487648">Kbh.</pubPlace>
-<date xml:id="idm140380209487136">1899-1910</date></bibl><listBibl xml:id="idm140380209486848"><bibl xml:id="biblid54149"><title xml:id="idm140380209473696">William Shakespeare: Første del</title></bibl><bibl xml:id="biblid56174"><title xml:id="idm140380209472816">William Shakespeare: Anden del</title></bibl></listBibl></sourceDesc>
+      <sourceDesc xml:id="idm140380209489856">
+        <bibl xml:id="idm140380209489728">
+          <author n="1" xml:id="idm140380209489040">
+            <name xml:id="idm140380209488784"><surname xml:id="idm140380209488656">Brandes</surname>, <forename xml:id="idm140380209488224">Georg</forename></name>
+          </author>
+          <title xml:id="idm140380209487936">Samlede Skrifter</title>
+          <pubPlace xml:id="idm140380209487648">København</pubPlace>
+          <date xml:id="idm140380209487136">1899-1910</date>
+        </bibl>
+        <listBibl xml:id="idm140380209486848">
+          <bibl xml:id="biblid54149">
+            <title xml:id="idm140380209473696">William Shakespeare: Første del</title>
+          </bibl>
+          <bibl xml:id="biblid56174">
+            <title xml:id="idm140380209472816">William Shakespeare: Anden del</title>
+          </bibl>
+        </listBibl>
+      </sourceDesc>
     </fileDesc>
   </teiHeader>
   <text xml:id="idm140380209472128">

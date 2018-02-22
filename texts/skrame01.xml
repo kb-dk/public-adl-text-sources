@@ -1,9 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="idm140171027548048"><!-- 
-       file     ./marc_dir/001391922.xml
-       field     
-       subfield  
-       prefix   -->
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="root">
   <teiHeader xml:id="idm140171027552752">
     <fileDesc xml:id="idm140171027552496">
       <titleStmt xml:id="idm140171027552192">
@@ -16,7 +12,7 @@
       </titleStmt>
       <publicationStmt xml:id="idm140171027524912">
         <publisher xml:id="idm140171027524656">Danske Klassikere
-Det danske Sprog- og Litteraturselska</publisher>
+Det Danske Sprog- og Litteraturselska</publisher>
         <pubPlace xml:id="idm140171027524272">Borgen</pubPlace>
         <idno xml:id="idm140171027523888" xml:base="texts/skrame01.xml">001391922:01</idno>
       </publicationStmt>
@@ -24,21 +20,20 @@ Det danske Sprog- og Litteraturselska</publisher>
         <note xml:id="idm140171027522736">
 	  </note>
       </notesStmt>
-      <sourceDesc xml:id="idm140171027522224"><bibl xml:id="idm140171027522096"><author n="1" xml:id="idm140171027521408"><name xml:id="idm140171027521152"><surname xml:id="idm140171027521024">Skram</surname>, <forename xml:id="idm140171027520560">Erik</forename></name></author><!-- ordinary shit --><title xml:id="idm140171027520080">Gertrude Coldbjørnsen</title><pubPlace xml:id="idm140171027519760">[Kbh.]</pubPlace>; <pubPlace xml:id="idm140171027519328">[Valby]</pubPlace>; <pubPlace xml:id="idm140171027518912">[Ballerup]</pubPlace>
-<publisher xml:id="idm140171027518448">Det danske Sprog- og Litteraturselskab</publisher><publisher xml:id="idm140171027518144">Borgen</publisher><publisher xml:id="idm140171027517856">i samarbejde med Nyt Dansk Litteraturselskab</publisher><date xml:id="idm140171027517488">cop. 1987</date></bibl><listBibl xml:id="idm140171027517200"><bibl xml:id="biblid54102"><title xml:id="idm140171027504000">Gertrude Coldbjørnsen (Danske Klassikere)</title></bibl></listBibl></sourceDesc>
+      <sourceDesc xml:id="idm140171027522224">
+        <bibl xml:id="idm140171027522096"><author n="1" xml:id="idm140171027521408"><name xml:id="idm140171027521152"><surname xml:id="idm140171027521024">Skram</surname>, <forename xml:id="idm140171027520560">Erik</forename></name></author><title xml:id="idm140171027520080">Gertrude Coldbjørnsen</title><pubPlace xml:id="idm140171027519760">[København]</pubPlace>; <pubPlace xml:id="idm140171027519328">[Valby]</pubPlace>; <pubPlace xml:id="idm140171027518912">[Ballerup]</pubPlace><publisher xml:id="idm140171027518448">Det Danske Sprog- og Litteraturselskab</publisher><publisher xml:id="idm140171027518144">Borgen</publisher><publisher xml:id="idm140171027517856">i samarbejde med Nyt Dansk Litteraturselskab</publisher><date xml:id="idm140171027517488">cop. 1987</date></bibl>
+        <listBibl xml:id="idm140171027517200">
+          <bibl xml:id="biblid54102">
+            <title xml:id="idm140171027504000">Gertrude Coldbjørnsen (Danske Klassikere)</title>
+          </bibl>
+        </listBibl>
+      </sourceDesc>
     </fileDesc>
   </teiHeader>
   <text xml:id="workid54102" decls="#biblid54102">
     <front xml:id="idm140171027502352">
       <pb n="I" facs="adl/skrame/skrame1/skrame1001" xml:id="idm140171027502048"/>
       <gap reason="cancelled" xml:id="idm140171027501184"/>
-<!---->
-<!---->
-<!---->
-<!---->
-<!---->
-<!---->
-<!--Gertrude Coldbjørnsen-->
       <pb n="II" facs="adl/skrame/skrame1/skrame1002" xml:id="idm140171027498416"/>
       <pb n="III" facs="adl/skrame/skrame1/skrame1003" xml:id="idm140171027497648"/>
       <titlePage xml:id="idm140171027496880">
@@ -53,7 +48,7 @@ Det danske Sprog- og Litteraturselska</publisher>
         </docEdition>
         <docImprint xml:id="idm140171027493200">
           <publisher xml:id="idm140171027492944">Danske Klassikere
-Det danske Sprog- og Litteraturselskab
+Det Danske Sprog- og Litteraturselskab
 Borgens Forlag
 </publisher>
         </docImprint>
@@ -569,7 +564,7 @@ havde skilt sig fra det øvrige Selskab og pludselig paa bare Ben pjasket omkrin
         <p xml:id="idm140171027068288">Nogle Dage efter denne Udflugt sad Fabricius som sædvanlig om Morgenen ved sit Arbejde i det Fri, denne Gang i selve Haven ved en Bænk, som han delvis beslaglagde med sine Sager. Han tog Studier efter et gammelt Egetræ, som fredet og omgivet af Smaaplanter, der trivedes i Skygge, havde sine gode Dage indenfor Havens Gærde. Frøken Thora og Gertrude gjorde ham Visit paa deres Morgenvandring Arm i Arm, saa lidt paa hans Skitse og satte sig for at passiare paa Bænken, hvor denne var fri.</p>
         <p xml:id="idm140171027067184">»Noget Nyt fra Huset?« spurgte Fabricius malende.</p>
         <p xml:id="idm140171027066736">»To Knapper sprang af min Støvle imorges, da jeg tog den paa«, svarede Gertrude, som sjælden manglede Svar.</p>
-        <p xml:id="idm140171027066224">»Jeg vilde ønske,jeg var Skomager«, sagde Fabricius, idet han lænede sig tilbage og tog sit Arbejde prøvende i Øjesyn. Gertrude troede, at der laa et Galanteri i Ordene, og var straks villig til at fortsætte i den anslaaede Tone.</p>
+        <p xml:id="idm140171027066224">»Jeg vilde ønske, jeg var Skomager«, sagde Fabricius, idet han lænede sig tilbage og tog sit Arbejde prøvende i Øjesyn. Gertrude troede, at der laa et Galanteri i Ordene, og var straks villig til at fortsætte i den anslaaede Tone.</p>
         <p xml:id="idm140171027065584">»Saa skulde De faa min Støvle at reparere«, sagde hun.</p>
         <p xml:id="idm140171027065120">»Hvilket allenfals var bedre end det, jeg her foretager mig«, var 
 	<pb n="55" facs="adl/skrame/skrame1/skrame1055" xml:id="idm140171027064784"/>
@@ -1616,7 +1611,7 @@ bøjede sig samtidig med lidt udbredte Arme hen imod Fabricius; i hendes Øjne t
 	<pb n="153" facs="adl/skrame/skrame1/skrame1153" xml:id="idm140171026270208"/>
 han drog i et langt Haandtag Dyveke med sig ind i Dagligstuen. »Jeg kunde jo nok begribe, at Du var her. Jeg skal hilse Dig fra dine Forældre, de har været hos din Onkel for at spørge efter Dig. Hele Ordrup er brændt og jeres Hus med«.</p>
           <p xml:id="idm140171026268816">»Pyt«, svarede Dyveke, »det var ikke saa vel. Det beder Fader og Moder om hver Aften i deres Aftenbøn, for de er fromme Folk -Men hvordan gaar det Dig? Du bliver med hver Dag, der gaar, tykkere, synes jeg«.</p>
-          <p xml:id="idm140171026268208">»Det er ikke sandt!« svarede Vilhjelm hurtig og saa sig forskrækket i Spejlet, »jeg bliver tværtimod mager,jeg <hi rend="italics" xml:id="idm140171026267824">har</hi> været tyk«.</p>
+          <p xml:id="idm140171026268208">»Det er ikke sandt!« svarede Vilhjelm hurtig og saa sig forskrækket i Spejlet, »jeg bliver tværtimod mager, jeg <hi rend="italics" xml:id="idm140171026267824">har</hi> været tyk«.</p>
           <p xml:id="idm140171026266992">Der blev talt om forskellige Ting. Vilhjelm kom for at melde et Besøg af Damer og Herrer hos Fabricius, Dyveke maatte gaa. Men forinden skulde Vilhjelm beundre hendes nye Hat.</p>
           <p xml:id="idm140171026266240">»Du ender med at blive alt for smuk, Dyveke«, sagde han.</p>
           <p xml:id="idm140171026265776">»Finder Du«, sagde hun vel tilfreds, medens hun trak sine Handsker paa. »-Du kunde for Resten«, føjede hun til, idet hun strakte den endnu blottede højre Haand hen imod Vilhjelm, »en Gang kysse den Haand, Højstærede«.</p>

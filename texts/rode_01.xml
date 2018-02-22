@@ -1,9 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="idm140217235761920"><!-- 
-       file     ./marc_dir/002064369.xml
-       field     
-       subfield  
-       prefix   -->
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="root">
   <teiHeader xml:id="idm140217235769824">
     <fileDesc xml:id="idm140217235769568">
       <titleStmt xml:id="idm140217235769264">
@@ -18,8 +14,135 @@
         <note xml:id="idm140217235741232">
 	  </note>
       </notesStmt>
-      <sourceDesc xml:id="idm140217235740720"><bibl xml:id="idm140217235740592"><author n="1" xml:id="idm140217235740016"><name xml:id="idm140217235739760"><surname xml:id="idm140217235739632">Rode</surname>, <forename xml:id="idm140217235739168">Helge</forename></name></author><title xml:id="idm140217235738880">Hvide Blomster. Digte</title><pubPlace xml:id="idm140217235738592">Kbh</pubPlace>
-<date xml:id="idm140217235738112">1892</date></bibl><listBibl xml:id="idm140217235737824"><bibl xml:id="biblid54087"><title xml:id="idm140217235724672">Hvide Blomster</title></bibl><bibl xml:id="biblid54546"><title xml:id="idm140217235723840">Jeg stirrer ud</title></bibl><bibl xml:id="biblid54807"><title xml:id="idm140217235723008">Bøjet er dit Hoved</title></bibl><bibl xml:id="biblid54913"><title xml:id="idm140217235722208">Liljekonval</title></bibl><bibl xml:id="biblid55015"><title xml:id="idm140217235721424">Skyggekunstnerens Melodi</title></bibl><bibl xml:id="biblid56059"><title xml:id="idm140217235720624">Stjerne og Morild</title></bibl><bibl xml:id="biblid56252"><title xml:id="idm140217235719840">Paa Klippeøen</title></bibl><bibl xml:id="biblid56519"><title xml:id="idm140217235719040">Tro ikke, jeg hører til dem</title></bibl><bibl xml:id="biblid56583"><title xml:id="idm140217235718208">Ja, var jeg Maler</title></bibl><bibl xml:id="biblid56653"><title xml:id="idm140217235717376">Dagen spandt ud —</title></bibl><bibl xml:id="biblid56698"><title xml:id="idm140217235716528">Dialog</title></bibl><bibl xml:id="biblid56871"><title xml:id="idm140217235715696">Der er noget smukt —</title></bibl><bibl xml:id="biblid57021"><title xml:id="idm140217235714880">Forundrede Øjne</title></bibl><bibl xml:id="biblid57111"><title xml:id="idm140217235714032">I Ensomheden</title></bibl><bibl xml:id="biblid57388"><title xml:id="idm140217235713248">Stambogsvers</title></bibl><bibl xml:id="biblid57431"><title xml:id="idm140217235712416">Vinden</title></bibl><bibl xml:id="biblid57530"><title xml:id="idm140217235711584">Drøm</title></bibl><bibl xml:id="biblid57711"><title xml:id="idm140217235710752">Leden</title></bibl><bibl xml:id="biblid57791"><title xml:id="idm140217235709904">En Fabel</title></bibl><bibl xml:id="biblid57911"><title xml:id="idm140217235709120">En Ramme</title></bibl><bibl xml:id="biblid58157"><title xml:id="idm140217235708288">Til dem af Eder —</title></bibl><bibl xml:id="biblid58244"><title xml:id="idm140217235707440">Jeg fryser</title></bibl><bibl xml:id="biblid58360"><title xml:id="idm140217235706608">Elskov</title></bibl><bibl xml:id="biblid58476"><title xml:id="idm140217235705712">Paa Havet ved Nat</title></bibl><bibl xml:id="biblid58592"><title xml:id="idm140217235704880">Jeg bygger et Alter</title></bibl><bibl xml:id="biblid58688"><title xml:id="idm140217235704096">Den fremmede</title></bibl><bibl xml:id="biblid59121"><title xml:id="idm140217235703248">Morgen</title></bibl><bibl xml:id="biblid59286"><title xml:id="idm140217235702416">Drøm (2)</title></bibl><bibl xml:id="biblid59711"><title xml:id="idm140217235701584">Ved Vuggen</title></bibl><bibl xml:id="biblid60361"><title xml:id="idm140217235700688">Morgen (2)</title></bibl><bibl xml:id="biblid60541"><title xml:id="idm140217235699856">Sang</title></bibl><bibl xml:id="biblid60622"><title xml:id="idm140217235699024">Højtid</title></bibl><bibl xml:id="biblid60820"><title xml:id="idm140217235698192">Hvem er jeg?</title></bibl><bibl xml:id="biblid60976"><title xml:id="idm140217235697408">Middelalder</title></bibl><bibl xml:id="biblid61864"><title xml:id="idm140217235696576">Slangetæmmeren</title></bibl><bibl xml:id="biblid62075"><title xml:id="idm140217235695728">Den hvide Streg</title></bibl><bibl xml:id="biblid62239"><title xml:id="idm140217235694896">Jeg vandrer omkring</title></bibl><bibl xml:id="biblid62395"><title xml:id="idm140217235694064">Jeg</title></bibl><bibl xml:id="biblid62699"><title xml:id="idm140217235693312">De blege Blomster</title></bibl></listBibl></sourceDesc>
+      <sourceDesc xml:id="idm140217235740720">
+        <bibl xml:id="idm140217235740592">
+          <author n="1" xml:id="idm140217235740016">
+            <name xml:id="idm140217235739760"><surname xml:id="idm140217235739632">Rode</surname>, <forename xml:id="idm140217235739168">Helge</forename></name>
+          </author>
+          <title xml:id="idm140217235738880">Hvide Blomster. Digte</title>
+          <pubPlace xml:id="idm140217235738592">København</pubPlace>
+          <date xml:id="idm140217235738112">1892</date>
+        </bibl>
+        <listBibl xml:id="idm140217235737824">
+          <bibl xml:id="biblid54087">
+            <title xml:id="idm140217235724672">Hvide Blomster</title>
+          </bibl>
+          <bibl xml:id="biblid54546">
+            <title xml:id="idm140217235723840">Jeg stirrer ud</title>
+          </bibl>
+          <bibl xml:id="biblid54807">
+            <title xml:id="idm140217235723008">Bøjet er dit Hoved</title>
+          </bibl>
+          <bibl xml:id="biblid54913">
+            <title xml:id="idm140217235722208">Liljekonval</title>
+          </bibl>
+          <bibl xml:id="biblid55015">
+            <title xml:id="idm140217235721424">Skyggekunstnerens Melodi</title>
+          </bibl>
+          <bibl xml:id="biblid56059">
+            <title xml:id="idm140217235720624">Stjerne og Morild</title>
+          </bibl>
+          <bibl xml:id="biblid56252">
+            <title xml:id="idm140217235719840">Paa Klippeøen</title>
+          </bibl>
+          <bibl xml:id="biblid56519">
+            <title xml:id="idm140217235719040">Tro ikke, jeg hører til dem</title>
+          </bibl>
+          <bibl xml:id="biblid56583">
+            <title xml:id="idm140217235718208">Ja, var jeg Maler</title>
+          </bibl>
+          <bibl xml:id="biblid56653">
+            <title xml:id="idm140217235717376">Dagen spandt ud —</title>
+          </bibl>
+          <bibl xml:id="biblid56698">
+            <title xml:id="idm140217235716528">Dialog</title>
+          </bibl>
+          <bibl xml:id="biblid56871">
+            <title xml:id="idm140217235715696">Der er noget smukt —</title>
+          </bibl>
+          <bibl xml:id="biblid57021">
+            <title xml:id="idm140217235714880">Forundrede Øjne</title>
+          </bibl>
+          <bibl xml:id="biblid57111">
+            <title xml:id="idm140217235714032">I Ensomheden</title>
+          </bibl>
+          <bibl xml:id="biblid57388">
+            <title xml:id="idm140217235713248">Stambogsvers</title>
+          </bibl>
+          <bibl xml:id="biblid57431">
+            <title xml:id="idm140217235712416">Vinden</title>
+          </bibl>
+          <bibl xml:id="biblid57530">
+            <title xml:id="idm140217235711584">Drøm</title>
+          </bibl>
+          <bibl xml:id="biblid57711">
+            <title xml:id="idm140217235710752">Leden</title>
+          </bibl>
+          <bibl xml:id="biblid57791">
+            <title xml:id="idm140217235709904">En Fabel</title>
+          </bibl>
+          <bibl xml:id="biblid57911">
+            <title xml:id="idm140217235709120">En Ramme</title>
+          </bibl>
+          <bibl xml:id="biblid58157">
+            <title xml:id="idm140217235708288">Til dem af Eder —</title>
+          </bibl>
+          <bibl xml:id="biblid58244">
+            <title xml:id="idm140217235707440">Jeg fryser</title>
+          </bibl>
+          <bibl xml:id="biblid58360">
+            <title xml:id="idm140217235706608">Elskov</title>
+          </bibl>
+          <bibl xml:id="biblid58476">
+            <title xml:id="idm140217235705712">Paa Havet ved Nat</title>
+          </bibl>
+          <bibl xml:id="biblid58592">
+            <title xml:id="idm140217235704880">Jeg bygger et Alter</title>
+          </bibl>
+          <bibl xml:id="biblid58688">
+            <title xml:id="idm140217235704096">Den fremmede</title>
+          </bibl>
+          <bibl xml:id="biblid59121">
+            <title xml:id="idm140217235703248">Morgen</title>
+          </bibl>
+          <bibl xml:id="biblid59286">
+            <title xml:id="idm140217235702416">Drøm (2)</title>
+          </bibl>
+          <bibl xml:id="biblid59711">
+            <title xml:id="idm140217235701584">Ved Vuggen</title>
+          </bibl>
+          <bibl xml:id="biblid60361">
+            <title xml:id="idm140217235700688">Morgen (2)</title>
+          </bibl>
+          <bibl xml:id="biblid60541">
+            <title xml:id="idm140217235699856">Sang</title>
+          </bibl>
+          <bibl xml:id="biblid60622">
+            <title xml:id="idm140217235699024">Højtid</title>
+          </bibl>
+          <bibl xml:id="biblid60820">
+            <title xml:id="idm140217235698192">Hvem er jeg?</title>
+          </bibl>
+          <bibl xml:id="biblid60976">
+            <title xml:id="idm140217235697408">Middelalder</title>
+          </bibl>
+          <bibl xml:id="biblid61864">
+            <title xml:id="idm140217235696576">Slangetæmmeren</title>
+          </bibl>
+          <bibl xml:id="biblid62075">
+            <title xml:id="idm140217235695728">Den hvide Streg</title>
+          </bibl>
+          <bibl xml:id="biblid62239">
+            <title xml:id="idm140217235694896">Jeg vandrer omkring</title>
+          </bibl>
+          <bibl xml:id="biblid62395">
+            <title xml:id="idm140217235694064">Jeg</title>
+          </bibl>
+          <bibl xml:id="biblid62699">
+            <title xml:id="idm140217235693312">De blege Blomster</title>
+          </bibl>
+        </listBibl>
+      </sourceDesc>
     </fileDesc>
   </teiHeader>
   <text xml:id="workid54087" decls="#biblid54087">

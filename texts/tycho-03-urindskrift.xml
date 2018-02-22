@@ -1,10 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!-- 
-
-Tycho Brahe-oversættelser fra Peter Zeeberg - konverteret fra Wordfil
-
--->
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="idm139795043380272">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="root">
   <teiHeader xml:id="idm139795043379744">
     <fileDesc xml:id="idm139795043379488">
       <titleStmt xml:id="idm139795043379184">
@@ -16,7 +11,7 @@ Tycho Brahe-oversættelser fra Peter Zeeberg - konverteret fra Wordfil
         <author xml:id="idm139795043352128">Tycho Brahe</author>
       </titleStmt>
       <publicationStmt xml:id="idm139795043351568">
-	<publisher/>
+        <publisher xml:id="id929d0555-1d05-49de-a9f8-1cf2d0651bd4"/>
         <idno xml:id="idm139795043351312" xml:base="texts/tycho-03-urindskrift.xml">000000000:03</idno>
       </publicationStmt>
       <notesStmt xml:id="idm139795043350384">

@@ -1,9 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="idm140635357727808"><!-- 
-       file     ./marc_dir/003455687.xml
-       field     
-       subfield  
-       prefix   -->
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="root">
   <teiHeader xml:id="idm140635357727152">
     <fileDesc xml:id="idm140635357726896">
       <titleStmt xml:id="idm140635357726592">
@@ -18,8 +14,22 @@
         <note xml:id="idm140635357698512">
 	  </note>
       </notesStmt>
-      <sourceDesc xml:id="idm140635357698000"><bibl xml:id="idm140635357697872"><author n="1" xml:id="idm140635357697296"><name xml:id="idm140635357697040"><surname xml:id="idm140635357696912">Larsen</surname>, <forename xml:id="idm140635357696480">Karl</forename></name></author><title xml:id="idm140635357696192">Doktor Ix</title><pubPlace xml:id="idm140635357695904">Kbh.</pubPlace>
-<publisher xml:id="idm140635357695440">Gyldendalske Boghandels Forlag</publisher><date xml:id="idm140635357695088">1896</date></bibl><listBibl xml:id="idm140635357694800"><bibl xml:id="biblid54089"><title xml:id="idm140635357681648">Doktor Ix</title></bibl></listBibl></sourceDesc>
+      <sourceDesc xml:id="idm140635357698000">
+        <bibl xml:id="idm140635357697872">
+          <author n="1" xml:id="idm140635357697296">
+            <name xml:id="idm140635357697040"><surname xml:id="idm140635357696912">Larsen</surname>, <forename xml:id="idm140635357696480">Karl</forename></name>
+          </author>
+          <title xml:id="idm140635357696192">Doktor Ix</title>
+          <pubPlace xml:id="idm140635357695904">København</pubPlace>
+          <publisher xml:id="idm140635357695440">Gyldendalske Boghandels Forlag</publisher>
+          <date xml:id="idm140635357695088">1896</date>
+        </bibl>
+        <listBibl xml:id="idm140635357694800">
+          <bibl xml:id="biblid54089">
+            <title xml:id="idm140635357681648">Doktor Ix</title>
+          </bibl>
+        </listBibl>
+      </sourceDesc>
     </fileDesc>
   </teiHeader>
   <text xml:id="workid54089" decls="#biblid54089">
@@ -1260,7 +1270,7 @@ til at tage til Bayreuth og allerede vilde følges med Fru Helsing, som hun rejs
           <p xml:id="idm140635356717472">Medens hun endnu stod og viftede med Papiret for at faa de ilsomt henkastede Skrifttræk til at tørre, paakom der hende en brændende Lyst til at slaa Vinduet op og vinke triumferende med Brevet ud efter Falk; men hun havde endnu ikke gjort et Skridt, før hun bittert tog sig i det: Der var nok Grund for hende til at triumfere! Hun, som i Virkeligheden var vanæret, forsmaaet, saa godt som nogen forladt Gretchen, om end ikke Verden, ja ikke engang han anede det ... Dér havde hun hele sit Liv igennem ikke givet en virkelig Følelse bort til nogen Mand, vogtet paa sig selv, naar Sværmerierne havde begyndt at tage Flugt, og hun saà Veninde efter Veninde blive hængende og blive fanget af en Mand, som fik Magten over dem for saa lidt ... Hun havde passet paa og kæmpet imod til Tider for at bevare sig selv hel og uberørt, indtil den store Følelse kom ... og saa havde hun nu følt den, givet sig hen i den med den ungdommeligste Skælven og Jubel og Angst og Sværmen — for at han skulde staa der foran hende med disse 
 <pb n="202" xml:id="s202" facs="adl/larsenk/larsenk_04/larsenk_04_202"/>
 Papirer i Haanden, smilende og med et forskende Blik. Ikke saa meget som en Blomst havde han haft med til hende! —</p>
-          <p xml:id="idm140635356713536">Margrete lagde Brevet i Konvolut og skrev udenpaa. Rigtigt var det at handle med det samme. Ingen Betænkning! Ingen Forklaringer bagefter eller maaske Overtalelser, Besnakken, saadan som Pigerne blev besnakket af deres Kærester ... det manglede blot! Hun havde dog vel Instinkt, et ubønhørligt, sikkert Instinkt! Og Stolthed! — Hun, som Mænd havde tryglet og tigget og grædt for ... nu skulde hun vel give sig til at græde for dem igen! Nej, hun var den, hun var, og vilde blive indtil sine Dages Ende, Margrete Holk, som de aldrig havde kunnet slaa sammen med nogen anden ... Nu rejste hun med Bendtsen ... og skulde hore Rosa Haley igen, Kammeraten fra de unge Dage, som hun havde set ned paa dengang ...</p>
+          <p xml:id="idm140635356713536">Margrete lagde Brevet i Konvolut og skrev udenpaa. Rigtigt var det at handle med det samme. Ingen Betænkning! Ingen Forklaringer bagefter eller maaske Overtalelser, Besnakken, saadan som Pigerne blev besnakket af deres Kærester ... det manglede blot! Hun havde dog vel Instinkt, et ubønhørligt, sikkert Instinkt! Og Stolthed! — Hun, som Mænd havde tryglet og tigget og grædt for ... nu skulde hun vel give sig til at græde for dem igen! Nej, hun var den, hun var, og vilde blive indtil sine Dages Ende, Margrete Holk, som de aldrig havde kunnet slaa sammen med nogen anden ... Nu rejste hun med Bendtsen ... og skulde høre Rosa Haley igen, Kammeraten fra de unge Dage, som hun havde set ned paa dengang ...</p>
           <p xml:id="idm140635356712336">Mindet om Bendtsen og Ix den Dag, hun havde sunget for dem, skød lyslevende igennem Margrete, saa tydeligt, at det var hende, som om hun hørte Stemmerne i sit Øre og saà Ix's triumferende, varme Blik.</p>
           <p xml:id="idm140635356711520">Margrete blev et Øjeblik ganske svimmel,
 <pb n="203" xml:id="s203" facs="adl/larsenk/larsenk_04/larsenk_04_203"/>

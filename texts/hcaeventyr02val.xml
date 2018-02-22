@@ -1,11 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!-- 20021028 HHL flyttet afslutnings-div'er foran <pb/> rettet  s 18-26-27-29-83-90-93-98-99-100-130-153-160-165-172-204-208-209-238-258-264-265-267-278-284-285-296-  ptj -->
-<!-- 25.5.09 Workaround nederst på side 95: sidste paragraf vil ikke vise sig; er gentaget for at vises -->
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="idm140429417901072"><!-- 
-       file     ./marc_dir/001527411.xml
-       field    530 
-       subfield a 
-       prefix   2 :-->
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="root">
   <teiHeader xml:id="idm140429417899888">
     <fileDesc xml:id="idm140429417874416">
       <titleStmt xml:id="idm140429417874160">
@@ -21,28 +15,204 @@
 	  </note>
       </notesStmt>
       <sourceDesc xml:id="idm140429417870688">
-	<bibl xml:id="idm140429417870432">
-	  <author xml:id="idm140429417870176">
-	    <name xml:id="idm140429417869872"><surname xml:id="idm140429417869744">Andersen</surname>,
+        <bibl xml:id="idm140429417870432">
+          <author xml:id="idm140429417870176">
+            <name xml:id="idm140429417869872"><surname xml:id="idm140429417869744">Andersen</surname>,
 	    <forename xml:id="idm140429417869360">H. C.</forename></name>
-	  </author>
-	  <title xml:id="idm140429417868816">H.C. Andersens Eventyr bd. II</title>
-	  <title xml:id="idm140429417868384">kritisk udg. efter de originale eventyrhæfter med varianter
+          </author>
+          <title xml:id="idm140429417868816">H.C. Andersens Eventyr bd. II</title>
+          <title xml:id="idm140429417868384">kritisk udg. efter de originale eventyrhæfter med varianter
 	  ved Erik Dal</title>
-	  <pubPlace xml:id="idm140429417867824">Kbh.</pubPlace>
-	  <publisher xml:id="idm140429417867408">C. A. Reitzel</publisher>
-	  <date xml:id="idm140429417866944">1990</date>
-	</bibl>
-	<listBibl xml:id="idm140429417866352"><bibl xml:id="biblid58349"><title xml:id="idm140429417852800">Nye Eventyr. Første Bind. Første Samling. 1844.</title></bibl><bibl xml:id="biblid58565"><title xml:id="idm140429417851888">Engelen.</title></bibl><bibl xml:id="biblid59026"><title xml:id="idm140429417851104">Nattergalen.</title></bibl><bibl xml:id="biblid60351"><title xml:id="idm140429417850320">Kjærestefolkene.</title></bibl><bibl xml:id="biblid60936"><title xml:id="idm140429417849520">Den grimme Ælling.</title></bibl><bibl xml:id="biblid62191"><title xml:id="idm140429417848720">Nye Eventyr. Første Bind. Anden Samling. 1845.</title></bibl><bibl xml:id="biblid62298"><title xml:id="idm140429417847856">Grantræet.</title></bibl><bibl xml:id="biblid63421"><title xml:id="idm140429417847072">Sneedronningen. Et Eventyr i syv Historier.</title></bibl><bibl xml:id="biblid68507"><title xml:id="idm140429417846256">Nye Eventyr. Første Bind. Tredie Samling. 1845.</title></bibl><bibl xml:id="biblid68601"><title xml:id="idm140429417845344">Elverhøi.</title></bibl><bibl xml:id="biblid69455"><title xml:id="idm140429417844512">De røde Skoe.</title></bibl><bibl xml:id="biblid70375"><title xml:id="idm140429417843664">Springfyrene.</title></bibl><bibl xml:id="biblid70769"><title xml:id="idm140429417842832">Hyrdinden og Skorsteensfeieren.</title></bibl><bibl xml:id="biblid71526"><title xml:id="idm140429417841984">Holger Danske.</title></bibl><bibl xml:id="biblid72272"><title xml:id="idm140429417841200">Nye Eventyr. Andet Bind. Første Samling. 1847.</title></bibl><bibl xml:id="biblid72412"><title xml:id="idm140429417840288">Den gamle Gadeløgte.</title></bibl><bibl xml:id="biblid73242"><title xml:id="idm140429417839472">Nabofamilierne.</title></bibl><bibl xml:id="biblid74625"><title xml:id="idm140429417838640">Stoppenaalen.</title></bibl><bibl xml:id="biblid75136"><title xml:id="idm140429417837808">Lille Tuk.</title></bibl><bibl xml:id="biblid75888"><title xml:id="idm140429417837024">Skyggen.</title></bibl><bibl xml:id="biblid78014"><title xml:id="idm140429417836192">Nye Eventyr. Andet Bind. Anden Samling. 1848.</title></bibl><bibl xml:id="biblid78103"><title xml:id="idm140429417835328">Det gamle Huus.</title></bibl><bibl xml:id="biblid79206"><title xml:id="idm140429417834496">Vanddraaben.</title></bibl><bibl xml:id="biblid79632"><title xml:id="idm140429417833664">Den lille Pige med Svovlstikkerne.</title></bibl><bibl xml:id="biblid80092"><title xml:id="idm140429417832816">Den lykkelige Familie.</title></bibl><bibl xml:id="biblid80639"><title xml:id="idm140429417831984">Historien om en Moder</title></bibl><bibl xml:id="biblid81336"><title xml:id="idm140429417930688">Flipperne.</title></bibl><bibl xml:id="biblid81738"><title xml:id="idm140429417929968">Fra Eventyr med Illustrationer af Vilh. Pedersen. 1850.</title></bibl><bibl xml:id="biblid82056"><title xml:id="idm140429417929152">Hyldemoer.</title></bibl><bibl xml:id="biblid83040"><title xml:id="idm140429417928368">Lykkens Kalosker.</title></bibl><bibl xml:id="biblid86500"><title xml:id="idm140429417927584">Klokken.</title></bibl><bibl xml:id="biblid87580"><title xml:id="idm140429417926800">Hørren.</title></bibl><bibl xml:id="biblid88371"><title xml:id="idm140429417805952">Historier. Første Samling. 1852.</title></bibl><bibl xml:id="biblid88467"><title xml:id="idm140429417805120">Aarets Historie.</title></bibl><bibl xml:id="biblid89462"><title xml:id="idm140429417804336">Verdens deiligste Rose.</title></bibl><bibl xml:id="biblid89838"><title xml:id="idm140429417803552">Et Billede fra Castelsvolden.</title></bibl><bibl xml:id="biblid90067"><title xml:id="idm140429417802800">Paa den yderste Dag.</title></bibl><bibl xml:id="biblid90502"><title xml:id="idm140429417802016">Det er ganske vist!</title></bibl><bibl xml:id="biblid90936"><title xml:id="idm140429417801232">Svanereden.</title></bibl><bibl xml:id="biblid91461"><title xml:id="idm140429417800384">Et godt Humeur.</title></bibl><bibl xml:id="biblid92043"><title xml:id="idm140429417799536">Historier. Anden Samling. 1853.</title></bibl><bibl xml:id="biblid92132"><title xml:id="idm140429417798784">Hjertesorg.</title></bibl><bibl xml:id="biblid92473"><title xml:id="idm140429417797936">Alt paa sin rette Plads!</title></bibl><bibl xml:id="biblid93439"><title xml:id="idm140429417797184">Nissen hos Spekhøkeren.</title></bibl><bibl xml:id="biblid94021"><title xml:id="idm140429417796368">Om Aartusinder.</title></bibl><bibl xml:id="biblid94551"><title xml:id="idm140429417795520">Under Piletræet.</title></bibl><bibl xml:id="biblid96815"><title xml:id="idm140429417794768">Fra Historier med Illustrationer af Vilh,. Pedersen. 1855.</title></bibl><bibl xml:id="biblid96988"><title xml:id="idm140429417793936">Der er Forskjel.</title></bibl><bibl xml:id="biblid97591"><title xml:id="idm140429417793088">Fem fra en Ærtebælg.</title></bibl><bibl xml:id="biblid98346"><title xml:id="idm140429417792272">Et Blad fra Himlen.</title></bibl><bibl xml:id="biblid98786"><title xml:id="idm140429417791488">Den gamle Gravsteen.</title></bibl><bibl xml:id="biblid99657"><title xml:id="idm140429417790704">Klods-Hans. En gammel Historie fortalt igjen.</title></bibl><bibl xml:id="biblid100276"><title xml:id="idm140429417789888">Fra et Vindue i Vartou.</title></bibl><bibl xml:id="biblid100604"><title xml:id="idm140429417789104">Ib og lille Christine.</title></bibl><bibl xml:id="biblid102765"><title xml:id="idm140429417788320">Den sidste Perle.</title></bibl><bibl xml:id="biblid103311"><title xml:id="idm140429417787472">Hun duede ikke.</title></bibl><bibl xml:id="biblid104506"><title xml:id="idm140429417786624">To Jomfruer.</title></bibl><bibl xml:id="biblid104984"><title xml:id="idm140429417785840">Ved det yderste Hav.</title></bibl><bibl xml:id="biblid105654"><title xml:id="idm140429417784992">Pengegrisen.</title></bibl></listBibl></sourceDesc>
+          <pubPlace xml:id="idm140429417867824">København</pubPlace>
+          <publisher xml:id="idm140429417867408">C. A. Reitzel</publisher>
+          <date xml:id="idm140429417866944">1990</date>
+        </bibl>
+        <listBibl xml:id="idm140429417866352">
+          <bibl xml:id="biblid58349">
+            <title xml:id="idm140429417852800">Nye Eventyr. Første Bind. Første Samling. 1844.</title>
+          </bibl>
+          <bibl xml:id="biblid58565">
+            <title xml:id="idm140429417851888">Engelen.</title>
+          </bibl>
+          <bibl xml:id="biblid59026">
+            <title xml:id="idm140429417851104">Nattergalen.</title>
+          </bibl>
+          <bibl xml:id="biblid60351">
+            <title xml:id="idm140429417850320">Kjærestefolkene.</title>
+          </bibl>
+          <bibl xml:id="biblid60936">
+            <title xml:id="idm140429417849520">Den grimme Ælling.</title>
+          </bibl>
+          <bibl xml:id="biblid62191">
+            <title xml:id="idm140429417848720">Nye Eventyr. Første Bind. Anden Samling. 1845.</title>
+          </bibl>
+          <bibl xml:id="biblid62298">
+            <title xml:id="idm140429417847856">Grantræet.</title>
+          </bibl>
+          <bibl xml:id="biblid63421">
+            <title xml:id="idm140429417847072">Sneedronningen. Et Eventyr i syv Historier.</title>
+          </bibl>
+          <bibl xml:id="biblid68507">
+            <title xml:id="idm140429417846256">Nye Eventyr. Første Bind. Tredie Samling. 1845.</title>
+          </bibl>
+          <bibl xml:id="biblid68601">
+            <title xml:id="idm140429417845344">Elverhøi.</title>
+          </bibl>
+          <bibl xml:id="biblid69455">
+            <title xml:id="idm140429417844512">De røde Skoe.</title>
+          </bibl>
+          <bibl xml:id="biblid70375">
+            <title xml:id="idm140429417843664">Springfyrene.</title>
+          </bibl>
+          <bibl xml:id="biblid70769">
+            <title xml:id="idm140429417842832">Hyrdinden og Skorsteensfeieren.</title>
+          </bibl>
+          <bibl xml:id="biblid71526">
+            <title xml:id="idm140429417841984">Holger Danske.</title>
+          </bibl>
+          <bibl xml:id="biblid72272">
+            <title xml:id="idm140429417841200">Nye Eventyr. Andet Bind. Første Samling. 1847.</title>
+          </bibl>
+          <bibl xml:id="biblid72412">
+            <title xml:id="idm140429417840288">Den gamle Gadeløgte.</title>
+          </bibl>
+          <bibl xml:id="biblid73242">
+            <title xml:id="idm140429417839472">Nabofamilierne.</title>
+          </bibl>
+          <bibl xml:id="biblid74625">
+            <title xml:id="idm140429417838640">Stoppenaalen.</title>
+          </bibl>
+          <bibl xml:id="biblid75136">
+            <title xml:id="idm140429417837808">Lille Tuk.</title>
+          </bibl>
+          <bibl xml:id="biblid75888">
+            <title xml:id="idm140429417837024">Skyggen.</title>
+          </bibl>
+          <bibl xml:id="biblid78014">
+            <title xml:id="idm140429417836192">Nye Eventyr. Andet Bind. Anden Samling. 1848.</title>
+          </bibl>
+          <bibl xml:id="biblid78103">
+            <title xml:id="idm140429417835328">Det gamle Huus.</title>
+          </bibl>
+          <bibl xml:id="biblid79206">
+            <title xml:id="idm140429417834496">Vanddraaben.</title>
+          </bibl>
+          <bibl xml:id="biblid79632">
+            <title xml:id="idm140429417833664">Den lille Pige med Svovlstikkerne.</title>
+          </bibl>
+          <bibl xml:id="biblid80092">
+            <title xml:id="idm140429417832816">Den lykkelige Familie.</title>
+          </bibl>
+          <bibl xml:id="biblid80639">
+            <title xml:id="idm140429417831984">Historien om en Moder</title>
+          </bibl>
+          <bibl xml:id="biblid81336">
+            <title xml:id="idm140429417930688">Flipperne.</title>
+          </bibl>
+          <bibl xml:id="biblid81738">
+            <title xml:id="idm140429417929968">Fra Eventyr med Illustrationer af Vilh. Pedersen. 1850.</title>
+          </bibl>
+          <bibl xml:id="biblid82056">
+            <title xml:id="idm140429417929152">Hyldemoer.</title>
+          </bibl>
+          <bibl xml:id="biblid83040">
+            <title xml:id="idm140429417928368">Lykkens Kalosker.</title>
+          </bibl>
+          <bibl xml:id="biblid86500">
+            <title xml:id="idm140429417927584">Klokken.</title>
+          </bibl>
+          <bibl xml:id="biblid87580">
+            <title xml:id="idm140429417926800">Hørren.</title>
+          </bibl>
+          <bibl xml:id="biblid88371">
+            <title xml:id="idm140429417805952">Historier. Første Samling. 1852.</title>
+          </bibl>
+          <bibl xml:id="biblid88467">
+            <title xml:id="idm140429417805120">Aarets Historie.</title>
+          </bibl>
+          <bibl xml:id="biblid89462">
+            <title xml:id="idm140429417804336">Verdens deiligste Rose.</title>
+          </bibl>
+          <bibl xml:id="biblid89838">
+            <title xml:id="idm140429417803552">Et Billede fra Castelsvolden.</title>
+          </bibl>
+          <bibl xml:id="biblid90067">
+            <title xml:id="idm140429417802800">Paa den yderste Dag.</title>
+          </bibl>
+          <bibl xml:id="biblid90502">
+            <title xml:id="idm140429417802016">Det er ganske vist!</title>
+          </bibl>
+          <bibl xml:id="biblid90936">
+            <title xml:id="idm140429417801232">Svanereden.</title>
+          </bibl>
+          <bibl xml:id="biblid91461">
+            <title xml:id="idm140429417800384">Et godt Humeur.</title>
+          </bibl>
+          <bibl xml:id="biblid92043">
+            <title xml:id="idm140429417799536">Historier. Anden Samling. 1853.</title>
+          </bibl>
+          <bibl xml:id="biblid92132">
+            <title xml:id="idm140429417798784">Hjertesorg.</title>
+          </bibl>
+          <bibl xml:id="biblid92473">
+            <title xml:id="idm140429417797936">Alt paa sin rette Plads!</title>
+          </bibl>
+          <bibl xml:id="biblid93439">
+            <title xml:id="idm140429417797184">Nissen hos Spekhøkeren.</title>
+          </bibl>
+          <bibl xml:id="biblid94021">
+            <title xml:id="idm140429417796368">Om Aartusinder.</title>
+          </bibl>
+          <bibl xml:id="biblid94551">
+            <title xml:id="idm140429417795520">Under Piletræet.</title>
+          </bibl>
+          <bibl xml:id="biblid96815">
+            <title xml:id="idm140429417794768">Fra Historier med Illustrationer af Vilh,. Pedersen. 1855.</title>
+          </bibl>
+          <bibl xml:id="biblid96988">
+            <title xml:id="idm140429417793936">Der er Forskjel.</title>
+          </bibl>
+          <bibl xml:id="biblid97591">
+            <title xml:id="idm140429417793088">Fem fra en Ærtebælg.</title>
+          </bibl>
+          <bibl xml:id="biblid98346">
+            <title xml:id="idm140429417792272">Et Blad fra Himlen.</title>
+          </bibl>
+          <bibl xml:id="biblid98786">
+            <title xml:id="idm140429417791488">Den gamle Gravsteen.</title>
+          </bibl>
+          <bibl xml:id="biblid99657">
+            <title xml:id="idm140429417790704">Klods-Hans. En gammel Historie fortalt igjen.</title>
+          </bibl>
+          <bibl xml:id="biblid100276">
+            <title xml:id="idm140429417789888">Fra et Vindue i Vartou.</title>
+          </bibl>
+          <bibl xml:id="biblid100604">
+            <title xml:id="idm140429417789104">Ib og lille Christine.</title>
+          </bibl>
+          <bibl xml:id="biblid102765">
+            <title xml:id="idm140429417788320">Den sidste Perle.</title>
+          </bibl>
+          <bibl xml:id="biblid103311">
+            <title xml:id="idm140429417787472">Hun duede ikke.</title>
+          </bibl>
+          <bibl xml:id="biblid104506">
+            <title xml:id="idm140429417786624">To Jomfruer.</title>
+          </bibl>
+          <bibl xml:id="biblid104984">
+            <title xml:id="idm140429417785840">Ved det yderste Hav.</title>
+          </bibl>
+          <bibl xml:id="biblid105654">
+            <title xml:id="idm140429417784992">Pengegrisen.</title>
+          </bibl>
+        </listBibl>
+      </sourceDesc>
     </fileDesc>
   </teiHeader>
   <text xml:id="idm140429417784352">
     <front xml:id="idm140429417784096">
       <pb n="a" xml:id="sa" facs="adl/andersenhc/andersenhcev2/ahce2001"/>
       <gap reason="cancelled" xml:id="idm140429417778800"/>
-<!---->
-<!---->
-<!--H. C. ANDERSENS, EVENTYR II-->
       <pb n="b" xml:id="sb" facs="adl/andersenhc/andersenhcev2/ahce2002"/>
       <titlePage xml:id="idm140429417776496">
         <docAuthor xml:id="idm140429417776240">H. C. ANDERSENS</docAuthor>
@@ -79,7 +249,7 @@
       </titlePage>
       <pb n="d" xml:id="sd" facs="adl/andersenhc/andersenhcev2/ahce2004"/>
       <div xml:id="idm140429417761776">
-        <bibl xml:id="idm140429417761520">Udgivet af<lb xml:id="idm140429417761232"/>Det danske Sprog- og Litteraturselskab<lb xml:id="idm140429417760928"/>med
+        <bibl xml:id="idm140429417761520">Udgivet af<lb xml:id="idm140429417761232"/>Det Danske Sprog- og Litteraturselskab<lb xml:id="idm140429417760928"/>med
 					støtte af<lb xml:id="idm140429417760624"/>Konsul George Jorck og Hustru Emma Jorck's
 					Fond</bibl>
         <bibl xml:id="idm140429417760176">Tilsyn med udgaven:<lb xml:id="idm140429417759888"/>F. J. BILLESKOV JANSEN og H.
@@ -4612,10 +4782,6 @@
 								»Min Vei gaaer gjennem Skorstenen! har Du virkelig Mod til
 								at krybe med mig gjennem Kakkelovnen baade gjennem Tromlen og
 								Røret? saa komme vi ud i Skorstenen og </p>
-<!-- teksten vil ikke vise sig! <p>Og Skorsteensfeieren saae ganske stivt paa hende og saa sagde han:
-								&raquo;Min Vei gaaer gjennem Skorstenen! har Du virkelig Mod til
-								at krybe med mig gjennem Kakkelovnen baade gjennem Tromlen og
-								R&oslash;ret? saa komme vi ud i Skorstenen og </p> -->
               <note anchored="true" xml:id="idm140429415767648">6 gesvindt] hurtigt <hi rend="bold" xml:id="idm140429415766640">D</hi>. 11 sade] sad <hi rend="bold" xml:id="idm140429415765952">B</hi>. 12 Tulipan] Tulipaner <hi rend="bold" xml:id="idm140429415765248">B<hi rend="sup" xml:id="idm140429415764720">2</hi>
 								</hi>. - stode] stod <hi rend="bold" xml:id="idm140429415763936">B-C</hi>,
 								stode <hi rend="bold" xml:id="idm140429415763248">D</hi>. 29 gamle] den gamle <hi rend="bold" xml:id="idm140429415762560">B</hi>.</note>
@@ -14586,7 +14752,6 @@
 								Ærtebælg, <hi rend="italics" xml:id="idm140429411664160">if.</hi>
 								Svanereden; <hi rend="italics" xml:id="idm140429411663472">se s. 281 og 236.</hi></note>
               <note anchored="true" xml:id="idm140429411662784">11 Mænd] Mand <hi rend="bold" xml:id="idm140429411662208">n</hi>.</note>
-<!-- Et Par store Fart&oslash;ier vare sendte h&oslash;it op mod Nordpolen for der at finde Landenes Gr&aelig;ndser mod Havet og pr&oslash;ve, hvorvidt Menneskene kunde der tr&aelig;nge igjennem. Allerede <hi rend="italics">i</hi> Aar og <hi rend="italics">Dag</hi> havde de, mellem Taage og Iis, styret heroppe og pr&oslash;vet stort [stor c] Besv&aelig;r. Nu var Vinteren begyndt, Solen nede; mange mange Uger vilde blive her een [<hi rend="italics">rettet fra</hi> en c] lang Nat. Alt rundt om var <hi rend="italics">et</hi> eneste Stykke Iis, fast til det var hvert Skib fort&oslash;iet; Sneen laae h&oslash;it, og af Sneen selv vare [var <hi rend="bold">c</hi>] bikubeformede Huse reiste, nogle store som vore Kj&aelig;mpeh&oslash;ie, andre ikke st&oslash;rre, end at de kunde rumme to eller fire <hi rend="italics">Mand</hi>. <hi rend="italics">M&oslash;rkt</hi> [<hi rend="italics">rettet fra</hi> men m&oslash;rkt <hi rend="bold">c</hi>] var her [<hi rend="italics">rettet fra</hi> det <hi rend="bold">c</hi>] ikke. Nordlysene skinnede r&oslash;de -->
               <pb n="320" xml:id="s320" facs="adl/andersenhc/andersenhcev2/ahce2320"/>
               <p xml:id="idm140429411658864">skinnede røde og blaa, det var et evigt, storartet
 								Fyrværkeri og Sneen lyste, Natten her var een lang
@@ -14619,8 +14784,6 @@
 								mens] medens <hi rend="bold" xml:id="idm140429411653872">D</hi>. 12 et] eet n. 18 Tanker] Tanke
 									<hi rend="bold" xml:id="idm140429411653152">n</hi>, Tanker <hi rend="bold" xml:id="idm140429411652464">A</hi>, Tanke <hi rend="bold" xml:id="idm140429411651776">C</hi>, Tanker <hi rend="bold" xml:id="idm140429411651088">D</hi>. 19 ved hos]
 								n. 20 høire] høiere <hi rend="bold" xml:id="idm140429411650320">n</hi>.</note>
-<!-- og blaa; det var et evigt storartet Fyrv&aelig;rkeri! og Sneen lyste, <hi rend="italics">Natten</hi> [<hi rend="italics">herefter</hi> her <hi rend="italics">overstreget</hi> <hi rend="bold">c</hi>] var een lang blussende D&aelig;mring. Paa den klareste Tid kom Skarer af de Indf&oslash;dte, underlige at see i deres haarede Skindkl&aelig;der og paa deres Sl&aelig;der, <hi rend="italics">der</hi> vare t&oslash;mrede af Iisstykker. De bragte Skind i store Bunker og Sneehusene fik derfra varme Gulvt&aelig;pper; Skind blev T&aelig;ppe og Dyne, som <hi rend="italics">Matrosen</hi> redte sig til Seng under <hi rend="italics">Sneekuppelen</hi>, mens det udenfor gnistrende fr&oslash;s, som vi ikke kjende det <hi rend="italics">i</hi> [<hi rend="italics">rettet fra</hi> ved <hi rend="bold">c</hi>] vor str&aelig;ngeste Vintertid. Hos os <hi rend="italics">hernede</hi> [<hi rend="italics">tilf&oslash;jet</hi> <hi rend="bold">c</hi>] var det endnu <hi rend="italics">Efteraarets</hi> Dage, det t&aelig;nkte de paa deroppe, de huskede paa Solstraalerne i Hjemmet og paa det r&oslash;dgule L&oslash;v, som hang paa Tr&aelig;erne. Uhret viiste, at det var Aften og Sovetid, og i et af Sneehusene strakte sig allerede to <hi rend="italics">M&aelig;nd</hi> [<hi rend="italics">tilf&oslash;jet</hi> <hi rend="bold">c</hi>] for at hvile; den yngste havde med sin bedste <hi rend="italics">og</hi> rigeste Skat hjemme fra, den Bedstemod&apos;er f&oslash;r Afreisen gav <hi rend="italics">ham</hi> [<hi rend="italics">her</hi> med <hi rend="italics">overstreget</hi> <hi rend="bold">c</hi>], det var Bibelen; hver Nat laae den <hi rend="italics">her</hi> under hans Hovedgjerde; han vidste fra Barndomsaarene af, hvad der stod i den, hver Dag l&aelig;ste han et Stykke, og paa <hi rend="italics">sit</hi> Leie kom ham <hi rend="italics">tidt</hi> tr&oslash;stende i <hi rend="italics">Tanken</hi> [Tanke <hi rend="bold">c</hi>] de hellige Ord: &raquo;<hi rend="CharEx">vilde jeg tage Morgenr&oslash;dens Vinger, vilde jeg boe ved</hi> [<hi rend="italics">rettet fra</hi> hos <hi rend="bold">c</hi>] <hi rend="CharEx">det yderste Hav</hi>: <hi rend="italics">saa skulde ogsaa der din Haand f&oslash;re mig</hi>, og din h&oslash;ire [h&oslash;iere <hi rend="bold">c</hi>] Haand holde mig fast!&laquo; -->
-<!-- Og under Sandhedens Ord og Tro lukkede han &Oslash;inene, S&oslash;vnen kom og Dr&oslash;mmen kom, Aandens Aabenbarelse i Gud; Sj&aelig;len var den levende under Legemets Hvile; han fornam det, det var som Melodier af gamle, kj&aelig;re, kjendte Sange. -->
               <pb n="321" xml:id="s321" facs="adl/andersenhc/andersenhcev2/ahce2321"/>
               <p xml:id="idm140429411647552">af gamle kjære, kjendte Sange; det aandede saa mildt, saa
 								sommervarmt, og fra sit Leie saae han det skinne over sig, som om
@@ -14659,7 +14822,6 @@
 								<hi rend="italics" xml:id="idm140429411633968">samt</hi>
 								<hi rend="bold" xml:id="idm140429411633280">c</hi>
 								<hi rend="italics" xml:id="idm140429411632624">modsat</hi> Hele <hi rend="bold" xml:id="idm140429411631904">O</hi>.</note>
-<!-- Det aandede saa mildt, saa sommer varmt, &mdash; og fra sit Leie saae han det skinne over sig, som om Snee<hi rend="italics">kuppelen</hi> blev gjennemstraalet udefra; han l&oslash;ftede sit Hoved, det straalende Hvide var ikke V&aelig;gge <hi rend="italics">og</hi> Loft, det var de store Vinger fra en Engels Skuldre [Skulder <hi rend="bold">c</hi>], og han saae op i <hi rend="italics">dennes</hi> [<hi rend="italics">rettet fra</hi> hans <hi rend="bold">c</hi>] milde, lysende Ansigt. Ud fra Bibelens Blade, som fra en Lilies B&aelig;ger, l&oslash;ftede [<hi rend="italics">her udstreget</hi> sig <hi rend="bold">c</hi>] Engelen sig, bredte sine Arme vidt ud og Sneehyttens V&aelig;gge sank rundt om, som et luftigt let Taagesl&oslash;r: &mdash; &mdash; Hjemmets gr&oslash;nne Marker og H&oslash;ie <hi rend="italics">med</hi> r&oslash;dbrune Skove laae rundt om i stille Solskin, en deilig Efteraarsdag; Storkens Rede stod tom, men endnu hang &AElig;blerne paa det vilde &AElig;bletr&aelig;, skj&oslash;ndt Bladene vare faldne; de r&oslash;de Hyben skinnede og St&aelig;ren fl&oslash;itede i det lille gr&oslash;nne Buur over Bondehusets Vindue, hvor Hjemmets Hjem var; St&aelig;ren fl&oslash;itede, som det var l&aelig;rt den og Bedstemod&apos;er hang Fuglegr&aelig;s om Buret, som S&oslash;nnes&oslash;nnen altid havde gjort; &mdash; og Smedens Datter, saa ung og saa smuk, stod ved Br&oslash;nden og drog Vand op <hi rend="italics">og</hi> nikkede til Bedstemod&apos;er, og Bedstemo&apos;er vinkede, viiste et Brev, langveis fra, denne Morgen var det kommet fra de kolde Lande, h&oslash;it oppe fra Nordpolen selv, hvor S&oslash;nnen var &mdash; &raquo;i Guds Haand&laquo;. &mdash; Og de loe og de gr&aelig;d; og han, under Iis og Snee, der i Aandens Verden, under Engelens Vinger, saae og h&oslash;rte det <hi rend="italics">Hele</hi> [Alt <hi rend="bold">c</hi>], loe med dem og gr&aelig;d med dem, og der blev l&aelig;st h&oslash;it -->
               <pb n="322" xml:id="s322" facs="adl/andersenhc/andersenhcev2/ahce2322"/>
               <p xml:id="idm140429411629760">- »<hi rend="italics" xml:id="idm140429411629472">Ved det yderste Hav, hans
 									høire Haand vil holde mig fast</hi>!«
@@ -14671,9 +14833,6 @@
 								- »<hi rend="italics" xml:id="idm140429411628048">ved det yderste
 								Hav</hi>!«</p>
               <note anchored="true" xml:id="idm140429411625040">1 høire] høiere <hi rend="bold" xml:id="idm140429411624496">n</hi>. <hi rend="italics" xml:id="idm140429411623840">6 Under texten</hi> H. C. Andersen <hi rend="bold" xml:id="idm140429411623120">n</hi>.</note>
-<!-- af Brevet selv de Bibelens Ord: &mdash; &raquo;ved det yderste Hav, <hi rend="italics">saa skulde ogsaa der din Haand f&oslash;re mig, og din h&oslash;ire</hi> [h&oslash;iere <hi rend="bold">c</hi>] <hi rend="italics">Haand holde mig fast</hi>!&laquo; -->
-<!-- Som deilig Psalmesang klang det rundt om, og Engelen lod sine Vinger som et Sl&oslash;r l&aelig;gge sig om den Sovende, &mdash; &mdash; Dr&oslash;mmen var endt; det var m&oslash;rkt i Sneehuset, men Bibelen laae under hans Hoved, Troen og Haabet laae i hans Hjerte, Gud var med, og Hjemmet var med &mdash; &raquo;<hi rend="CharEx">ved det yderste Hav</hi>.&laquo; -->
-<!-- <hi rend="italics">H. C. Andersen.</hi> -->
             </div>
             <pb n="323" xml:id="s323" facs="adl/andersenhc/andersenhcev2/ahce2323"/>
             <div xml:id="workid105654" decls="#biblid105654">
@@ -14713,8 +14872,6 @@
 									forlæg for</hi><hi rend="bold" xml:id="idm140429411600016">O</hi>. <hi rend="italics" xml:id="idm140429411599360">På grund af
 									afvigelsernes tal og</hi><hi rend="bold" xml:id="idm140429411598736">O</hi>'s <hi rend="italics" xml:id="idm140429411598080">formentlig
 									autoritative form meddeles dog også her</hi><hi rend="bold" xml:id="idm140429411597408">O</hi><hi rend="italics" xml:id="idm140429411596880">in extenso, mens varianter fra</hi><hi rend="bold" xml:id="idm140429411596304">mCD</hi><hi rend="italics" xml:id="idm140429411595776">er knyttet til hovedteksten.</hi></note>
-<!-- Der var saa meget Leget&oslash;j i B&oslash;rnenes Stue, <hi rend="italics">og</hi> &oslash;verst paa Skabet stod Spareb&oslash;ssen; den var af Leert&oslash;i i Skikkelse af en Griis; den havde naturlig Spr&aelig;kke i Ryggen, og Spr&aelig;kken var med en Kniv gjort st&oslash;rre, at der ogsaa kunde gaae S&oslash;lvdalere ind, og der var gaaet to foruden mange andre Skillinger. Pengegrisen var saa proppet, at han ikke l&aelig;nger kunde rasle, og det er det H&oslash;ieste, en Pengegriis kan bringe det til. Der stod han nu &oslash;verst paa Hylden og saae ned paa Alt i Stuen, han vidste nok, at med hvad han havde i Maven, kunde han kj&oslash;be det Hele, og det er at have en god Bevidsthed! -->
-<!-- Det t&aelig;nkte de Andre ogsaa paa, om de ikke sagde det; der <hi rend="italics">var</hi> Andet at tale om. Commodeskuffen stod paa <hi rend="italics">klem</hi>; der <hi rend="italics">reiste</hi> sig en stor Dukke, noget -->
               <pb n="324" xml:id="s324" facs="adl/andersenhc/andersenhcev2/ahce2324"/>
               <p xml:id="idm140429411592336">viste sig en stor Dukke, noget gammel var hun og klinket i Halsen;
 								hun saae ud, og sagde: »Skal vi nu lege Mennesker, det er
@@ -14749,10 +14906,6 @@
 								<hi rend="bold" xml:id="idm140429411579696">A</hi>. - Spanskrørs-]
 								Spanskrør- <hi rend="bold" xml:id="idm140429411578944">C</hi>
 								<hi rend="italics" xml:id="idm140429411578288">ved linieskifte.</hi> Spanskrørs- <hi rend="bold" xml:id="idm140429411577552">D</hi>.</note>
-<!-- gammel var hun, og klinket i Halsen, hun saae ud og sagde: &raquo;Skal <hi rend="italics">vi</hi> lege Mennesker? Det er jo altid Noget!&laquo; Og saa blev der et R&oslash;re! Selv Skilderierne vendte sig paa V&aelig;ggen; de viiste, <hi rend="italics">at</hi> de ogsaa havde Bagside, men det var ikke for at sige imod. -->
-<!-- Det var midt om Natten; Maanen skinnede ind <hi rend="italics">af</hi> Vinduet og gav fri Belysning. Nu skulde Legen begynde, og <hi rend="italics">Alle vare indbudne</hi>, selv Barnevognen, der dog h&oslash;rte til det grovere Leget&oslash;i. &raquo;Enhver er god for sig!&laquo; sagde den; &raquo;man kan ikke Alle v&aelig;re af <hi rend="italics">Adel</hi>!&laquo; -->
-<!-- Pengegrisen var den Eneste, som fik Indbydelsen skriftligt; han stod for h&oslash;it, til at <hi rend="italics">han, troede de</hi>, kunde h&oslash;re den <hi rend="italics">mundtligt</hi>, og <hi rend="italics">han</hi> gav heller ikke Svar, om han kom, for han kom ikke! Skulde han med, maatte han nyde det hjemme fra; det kunde de rette sig efter, og det gjorde de. -->
-<!-- Det lille Dukketheater blev strax <hi rend="italics">stillet</hi> saaledes, at han kunde see lige ind i det. De vilde begynde med Comedie, og saa skulde der v&aelig;re Thee og Forstands&oslash;velse, og med den begyndte de strax. Gyngehesten talte om Training og Fuldblod, Barnevognen om Jernbaner og Dampkraft; det var <hi rend="italics">jo Noget, de forstode sig paa, og de kunde</hi> tale om. Stueuhret <hi rend="italics">talte</hi> Politik &mdash; tik &mdash; tik! det vidste, hvad Klokken var slaaet, men man sagde, at det gik ikke rigtigt. &mdash; <hi rend="italics">Spanskr&oslash;ret</hi> stod -->
               <pb n="325" xml:id="s325" facs="adl/andersenhc/andersenhcev2/ahce2325"/>
               <p xml:id="idm140429411572640">Spanskrørsstokken stod og var stolt af sin Dubsko og
 								Sølvknap, han var jo beslaaet for oven og for neden; i
@@ -14783,10 +14936,6 @@
 								kom det istand - altid før man venter det.
 								- Knak!</p>
               <note anchored="true" xml:id="idm140429411568000">15, 16 betaget] betagen <hi rend="bold" xml:id="idm140429411567472">D</hi>.</note>
-<!-- og var stolt af sin Dupskoe og <hi rend="italics">sin</hi> S&oslash;lvknap; han var jo beslaaet foroven og forneden; i Sophaen laae to broderede Puder; de vare nydelige og dumme &mdash; - og saa kunde Comedien begynde. -->
-<!-- Alle sad de og saae til, og <hi rend="italics">man havde</hi> bedet om, at man vilde sm&aelig;lde, knalde og rumle, ligesom man var forn&oslash;iet til. Men Ridepidsken sagde, at han aldrig sm&aelig;ldede for de Gamle, men kun for de Uforlovede. &raquo;Jeg knalder for Alt!&laquo; sagde Knaldperlen. &raquo;Et Sted skal man jo v&aelig;re!&laquo; meente Spyttebakken; det var nu saadan Enhvers Tanke ved at v&aelig;re paa Comedie <hi rend="italics">der</hi>. -->
-<!-- Stykket duede ikke, men det blev godt <hi rend="italics">spillet, og</hi> alle de Spillende vendte <hi rend="italics">naturligviis</hi> den malede Side udad; de vare kun til at see paa een Led, ikke paa Vrangen. <hi rend="italics">Alle spillede</hi> udm&aelig;rket, heelt forud af Theatret; Traaden var for lang i dem, men saa bleve de mere m&aelig;rkbare! den klinkede Dukke <hi rend="italics">blev</hi> l&oslash;s i Klinken <hi rend="italics">ved det</hi> og Pengegrisen <hi rend="italics">blev</hi> saa betaget, at han besluttede at gj&oslash;re Noget for Een af dem, s&aelig;tte ham i sit Testament, som den, der skulde ligge i aaben Begravelse med ham, naar den Tid kom. -->
-<!-- Det var en sand Nydelse, saa at man opgav Theevandet og blev ved Forstands&oslash;velsen. Det kaldte <hi rend="italics">de</hi> at lege Mennesker, og der var ingen Ondskab deri, for de legede kun; og hver t&aelig;nkte paa sig og paa hvad Pengegrisen t&aelig;nkte, og Pengegrisen t&aelig;nkte l&aelig;ngst, han t&aelig;nkte jo paa Testament og Begravelse &mdash; &mdash; og -->
               <pb n="326" xml:id="s326" facs="adl/andersenhc/andersenhcev2/ahce2326"/>
               <p xml:id="idm140429411562464">der laae han fra Skabet - laae paa Gulvet i Stumper og
 								Stykker, mens Skillingerne dandsede og sprang; de mindste snurrede,
@@ -14802,9 +14951,6 @@
 									foregående linie</hi>
 								<hi rend="bold" xml:id="idm140429411557744">mACD</hi>. 9 <hi rend="italics" xml:id="idm140429411557024">Under texten</hi> H.
 								C. Andersen <hi rend="bold" xml:id="idm140429411556288">m</hi>.</note>
-<!-- naar kom det istand &mdash;! Altid f&oslash;r man venter det. &mdash; Knak! der laae han fra Skabet, laae paa Gulvet, i Stumper og Stykker; <hi rend="italics">men</hi> Skillingerne dandsede og sprang, de mindste snurrede, de store <hi rend="italics">rullede</hi>, is&aelig;r den ene S&oslash;lvdaler; han vilde <hi rend="italics">ordentlig</hi> ud i Verden, og det kom han og det kom de Allesammen; og Skaarene af Pengegrisen kom i B&oslash;tten. &mdash; &mdash; -->
-<!-- Men paa Skabet selv stod igjen n&aelig;ste Dag en ny Pengegriis af Leert&oslash;i; der var endnu ikke en Skilling i <hi rend="italics">ham</hi>, derfor kunde <hi rend="italics">han</hi> heller ikke rasle, <hi rend="italics">og</hi> deri lignede han den anden; det var altid en Begyndelse, &mdash; og med den vil vi ende! -->
-<!-- <hi rend="italics">H. C. Andersen.</hi> -->
               <pb n="327" xml:id="s327" facs="adl/andersenhc/andersenhcev2/ahce2327"/>
               <p xml:id="idm140429411552512">Denne udgave trykkes af Bianco Lunos Bogtrykkeri A/S med DeVinne
 								Antikva. Papiret er matglittet, fuldlimet træfrit

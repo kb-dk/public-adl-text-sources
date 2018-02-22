@@ -1,9 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="idm139711988964768"><!-- 
-       file     ./marc_dir/002150321.xml
-       field     
-       subfield  
-       prefix   -->
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="root">
   <teiHeader xml:id="idm139711988964112">
     <fileDesc xml:id="idm139711988963856">
       <titleStmt xml:id="idm139711988963552">
@@ -18,8 +14,21 @@
         <note xml:id="idm139711988935424">
 	  </note>
       </notesStmt>
-      <sourceDesc xml:id="idm139711988934912"><bibl xml:id="idm139711988934784"><author n="1" xml:id="idm139711988934096"><name xml:id="idm139711988933840"><surname xml:id="idm139711988933712">Michaëlis</surname>, <forename xml:id="idm139711988933280">Sophus</forename></name></author><title xml:id="idm139711988932992">Den evige Søvn</title><pubPlace xml:id="idm139711988932688">Kbh</pubPlace>
-<date xml:id="idm139711988932208">1912</date></bibl><listBibl xml:id="idm139711988931920"><bibl xml:id="biblid54089"><title xml:id="idm139711988918768">Den evige Søvn</title></bibl></listBibl></sourceDesc>
+      <sourceDesc xml:id="idm139711988934912">
+        <bibl xml:id="idm139711988934784">
+          <author n="1" xml:id="idm139711988934096">
+            <name xml:id="idm139711988933840"><surname xml:id="idm139711988933712">Michaëlis</surname>, <forename xml:id="idm139711988933280">Sophus</forename></name>
+          </author>
+          <title xml:id="idm139711988932992">Den evige Søvn</title>
+          <pubPlace xml:id="idm139711988932688">København</pubPlace>
+          <date xml:id="idm139711988932208">1912</date>
+        </bibl>
+        <listBibl xml:id="idm139711988931920">
+          <bibl xml:id="biblid54089">
+            <title xml:id="idm139711988918768">Den evige Søvn</title>
+          </bibl>
+        </listBibl>
+      </sourceDesc>
     </fileDesc>
   </teiHeader>
   <text xml:id="workid54089" decls="#biblid54089">

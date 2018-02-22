@@ -1,10 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!--Tom opmærkning blo 16.10.02-->
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="idm139809222372496"><!-- 
-       file     ./marc_dir/001823825.xml
-       field    530 
-       subfield a 
-       prefix   4:-->
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="root">
   <teiHeader xml:id="idm139809222371600">
     <fileDesc xml:id="idm139809222371344">
       <titleStmt xml:id="idm139809222371040">
@@ -19,8 +14,16 @@
         <note xml:id="idm139809222343040">
 	  </note>
       </notesStmt>
-      <sourceDesc xml:id="idm139809222342528"><bibl xml:id="idm139809222342400"><author n="1" xml:id="idm139809222341712"><name xml:id="idm139809222341456"><surname xml:id="idm139809222341328">Grundtvig</surname>, <forename xml:id="idm139809222340864">N. F. S.</forename></name></author><title xml:id="idm139809222340576"> Salmer og Kristelige Digte : 1844-55 med efterslæt fra 1836-43. - 1949</title><pubPlace xml:id="idm139809222340160">Kbh.</pubPlace>
-<date xml:id="idm139809222339648">1944-1964</date></bibl></sourceDesc>
+      <sourceDesc xml:id="idm139809222342528">
+        <bibl xml:id="idm139809222342400">
+          <author n="1" xml:id="idm139809222341712">
+            <name xml:id="idm139809222341456"><surname xml:id="idm139809222341328">Grundtvig</surname>, <forename xml:id="idm139809222340864">N. F. S.</forename></name>
+          </author>
+          <title xml:id="idm139809222340576"> Salmer og Kristelige Digte : 1844-55 med efterslæt fra 1836-43. - 1949</title>
+          <pubPlace xml:id="idm139809222340160">København</pubPlace>
+          <date xml:id="idm139809222339648">1944-1964</date>
+        </bibl>
+      </sourceDesc>
     </fileDesc>
   </teiHeader>
   <text xml:id="idm139809222338976">

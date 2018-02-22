@@ -1,17 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!--  pdf modtaget fra Borgens Forlag/Anne Lise Nielsen
-      bearbejdet 20031217 af HHL 
-      20040117: lagt i ADL uden images
-      VL: 
-      bearbejdet 20080911 af VL 
-      20080911: lmages tilføjet
-   
--->
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="idm139769574054896"><!-- 
-       file     ./marc_dir/003210052.xml
-       field     
-       subfield  
-       prefix   -->
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="root">
   <teiHeader xml:id="idm139769574054000">
     <fileDesc xml:id="idm139769574053744">
       <titleStmt xml:id="idm139769574053440">
@@ -23,7 +11,7 @@
         <author xml:id="idm139769574026560">H.C. ANDERSEN</author>
       </titleStmt>
       <publicationStmt xml:id="idm139769574026000">
-        <publisher xml:id="idm139769574025744">Danske Klassikere<lb xml:id="idm139769574025488"/>Det danske Sprog- og Litteraturselskab</publisher>
+        <publisher xml:id="idm139769574025744">Danske Klassikere<lb xml:id="idm139769574025488"/>Det Danske Sprog- og Litteraturselskab</publisher>
         <pubPlace xml:id="idm139769574025056">Borgen</pubPlace>
         <idno xml:id="idm139769574024672" xml:base="texts/andersenhc_10.xml">003210052:10</idno>
       </publicationStmt>
@@ -31,17 +19,20 @@
         <note xml:id="idm139769574023408">
 	  </note>
       </notesStmt>
-      <sourceDesc xml:id="idm139769574022896"><bibl xml:id="idm139769574022768"><author n="1" xml:id="idm139769574022080"><name xml:id="idm139769574021824"><surname xml:id="idm139769574021696">Andersen</surname>, <forename xml:id="idm139769574021232">H. C.</forename></name></author><title xml:id="idm139769574020944">I Sverrig</title><pubPlace xml:id="idm139769574020656">[Kbh.]</pubPlace>; <pubPlace xml:id="idm139769574020192">[Valby]</pubPlace>
-<publisher xml:id="idm139769574019728">Det danske Sprog- og Litteraturselskab</publisher><publisher xml:id="idm139769574019424">Borgen</publisher><date xml:id="idm139769574019088">2003</date></bibl><listBibl xml:id="idm139769574018800"><bibl xml:id="biblid54107"><title xml:id="idm139769574005648">I Sverrig</title></bibl></listBibl></sourceDesc>
+      <sourceDesc xml:id="idm139769574022896">
+        <bibl xml:id="idm139769574022768"><author n="1" xml:id="idm139769574022080"><name xml:id="idm139769574021824"><surname xml:id="idm139769574021696">Andersen</surname>, <forename xml:id="idm139769574021232">H. C.</forename></name></author><title xml:id="idm139769574020944">I Sverrig</title><pubPlace xml:id="idm139769574020656">[København]</pubPlace>; <pubPlace xml:id="idm139769574020192">[Valby]</pubPlace><publisher xml:id="idm139769574019728">Det Danske Sprog- og Litteraturselskab</publisher><publisher xml:id="idm139769574019424">Borgen</publisher><date xml:id="idm139769574019088">2003</date></bibl>
+        <listBibl xml:id="idm139769574018800">
+          <bibl xml:id="biblid54107">
+            <title xml:id="idm139769574005648">I Sverrig</title>
+          </bibl>
+        </listBibl>
+      </sourceDesc>
     </fileDesc>
   </teiHeader>
   <text xml:id="workid54107" decls="#biblid54107">
     <pb n="1" xml:id="s1" facs="adl/andersenhc/andersenhc_10/andersenhc_10_001"/>
     <front xml:id="idm139769574002864">
       <gap reason="cancelled" xml:id="idm139769574002560"/>
-<!---->
-<!---->
-<!--I Sverrig-->
       <pb n="2" xml:id="s2" facs="adl/andersenhc/andersenhc_10/andersenhc_10_002"/>
       <pb n="3" xml:id="s3" facs="adl/andersenhc/andersenhc_10/andersenhc_10_003"/>
       <titlePage xml:id="idm139769573998816">
@@ -56,7 +47,7 @@
         </docEdition>
         <docImprint xml:id="idm139769574084160">
           <publisher xml:id="idm139769574083904">Danske Klassikere<lb xml:id="idm139769574083616"/>
-Det danske Sprog- og Litteraturselskab <lb xml:id="idm139769574083360"/>Borgen</publisher>
+Det Danske Sprog- og Litteraturselskab <lb xml:id="idm139769574083360"/>Borgen</publisher>
         </docImprint>
       </titlePage>
       <pb n="4" xml:id="s4" facs="adl/andersenhc/andersenhc_10/andersenhc_10_004"/>
@@ -75,7 +66,7 @@ Omslag: Lars Rosenquist Bech-Jessen . Omslag: Frederik Ludvig
 Storchs maleri af H.C. Andersen, 1852. Manuskriptgengivelsen: se
 s. 161. Bagsiden: karikaturtegning af Friz von Dardel, 1849 .
 Tryk: Rounborgs grafiske Hus, Holstebro . Papir: Book Design -
-1,3 - 100g, Svanemærket, klor- og syrefrit . ISO 9706 <!-- uendelighedstegn i cirkel mangler her, ukendt unicode -->
+1,3 - 100g, Svanemærket, klor- og syrefrit . ISO 9706 
 </p>
         <p xml:id="idm139769573968864">Tak for økonomisk støtte fra Moth-Lunds Fond
 </p>

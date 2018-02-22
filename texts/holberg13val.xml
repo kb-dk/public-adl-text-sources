@@ -1,12 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!-- HHL 2003.03.03 checket iflg. checkliste; indsat vaerktitle
-Ptj rettet s. 396-
--->
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="idm139659566275648"><!-- 
-       file     ./marc_dir/001535831.xml
-       field     
-       subfield  
-       prefix   -->
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="root">
   <teiHeader xml:id="idm139659566274848">
     <fileDesc xml:id="idm139659566274592">
       <titleStmt xml:id="idm139659566274288">
@@ -19,7 +12,7 @@ Ptj rettet s. 396-
         <author xml:id="idm139659566247024">LUDVIG HOLBERG</author>
       </titleStmt>
       <publicationStmt xml:id="idm139659566246464">
-        <publisher xml:id="idm139659566246208">Danske Klassikere<lb xml:id="idm139659566245952"/>Det danske Sprog- og
+        <publisher xml:id="idm139659566246208">Danske Klassikere<lb xml:id="idm139659566245952"/>Det Danske Sprog- og
 				Litteraturselskab<lb xml:id="idm139659566245632"/>Borgen</publisher>
         <idno xml:id="idm139659566245216" xml:base="texts/holberg13val.xml">001535831:13</idno>
       </publicationStmt>
@@ -28,31 +21,22 @@ Ptj rettet s. 396-
 	  </note>
       </notesStmt>
       <sourceDesc xml:id="idm139659566243552">
-	<bibl xml:id="idm139659566243424">
-	  <author n="1" xml:id="idm139659566242736">
-	    <name xml:id="idm139659566242480">
-	      <surname xml:id="idm139659566242352">Holberg</surname>, 
-	      <forename xml:id="idm139659566241888">Ludvig</forename>
-	    </name>
-	  </author>
-	  <title xml:id="idm139659566241600">Moralske Tanker</title>
-	  <pubPlace xml:id="idm139659566241312">[Kbh.]</pubPlace>; 
-	  <pubPlace xml:id="idm139659566240848">[Valby]</pubPlace>
-	  <publisher xml:id="idm139659566240384">Det danske Sprog- og
-	  Litteraturselskab</publisher>
-	  <publisher xml:id="idm139659566240080">Borgen</publisher>
-	  <date xml:id="idm139659566239744">1992</date>
-	</bibl>
-      <listBibl xml:id="idm139659566239456"><bibl xml:id="biblid54110"><title xml:id="idm139659566226304">Moralske Tanker (DK)</title></bibl></listBibl></sourceDesc>
+        <bibl xml:id="idm139659566243424"><author n="1" xml:id="idm139659566242736"><name xml:id="idm139659566242480"><surname xml:id="idm139659566242352">Holberg</surname>, 
+	      <forename xml:id="idm139659566241888">Ludvig</forename></name></author><title xml:id="idm139659566241600">Moralske Tanker</title><pubPlace xml:id="idm139659566241312">[København]</pubPlace>; 
+	  <pubPlace xml:id="idm139659566240848">[Valby]</pubPlace><publisher xml:id="idm139659566240384">Det Danske Sprog- og
+	  Litteraturselskab</publisher><publisher xml:id="idm139659566240080">Borgen</publisher><date xml:id="idm139659566239744">1992</date></bibl>
+        <listBibl xml:id="idm139659566239456">
+          <bibl xml:id="biblid54110">
+            <title xml:id="idm139659566226304">Moralske Tanker (DK)</title>
+          </bibl>
+        </listBibl>
+      </sourceDesc>
     </fileDesc>
   </teiHeader>
   <text xml:id="workid54110" decls="#biblid54110">
     <front xml:id="idm139659566224720">
       <pb n="1" xml:id="s1" facs="adl/holberg/holberg13/holb13001"/>
       <gap reason="cancelled" xml:id="idm139659566223216"/>
-<!---->
-<!---->
-<!--Moralske Tanker-->
       <pb n="2" xml:id="s2" facs="adl/holberg/holberg13/holb13002"/>
       <pb n="3" xml:id="s3" facs="adl/holberg/holberg13/holb13003"/>
       <titlePage xml:id="idm139659566219472">
@@ -69,7 +53,7 @@ Ptj rettet s. 396-
 					</bibl>
         </docEdition>
         <docImprint xml:id="idm139659566214480">
-          <publisher xml:id="idm139659566214224">Danske Klassikere<lb xml:id="idm139659566213936"/> Det danske Sprog- og Litteraturselskab<lb xml:id="idm139659566213632"/>
+          <publisher xml:id="idm139659566214224">Danske Klassikere<lb xml:id="idm139659566213936"/> Det Danske Sprog- og Litteraturselskab<lb xml:id="idm139659566213632"/>
 						Borgen</publisher>
         </docImprint>
       </titlePage>
@@ -4880,7 +4864,7 @@ Ptj rettet s. 396-
 									forsyned med Borgere, saa seer man ogsaa til, at den forsynes
 									med zirlige Bygninger, med reene Gader, behagelige
 									Spadseergange, Skilderier, konstige Vandspring, Mobilier og
-									andet, som kand lokke Fremmede til at reise didhen,for at
+									andet, som kand lokke Fremmede til at reise didhen, for at
 									fornøje deres Øjen; hvilket og nu omstunder er Hovedsigtet af
 									Ungdommens Udenlandsreiser. Nu er det alle bekiendt, at intet
 									pryder en Stad meere end smukke Fruentimmer, og at Døttrene udi
@@ -10135,7 +10119,7 @@ Ptj rettet s. 396-
             <epigraph xml:id="idm139659562712736">
               <lg xml:id="idm139659562712480">
                 <l xml:id="idm139659562712224"><hi rend="italics" xml:id="idm139659562712096">Pharmaca qvod vires habeant,
-									Martine,fatemur</hi>;</l>
+									Martine, fatemur</hi>;</l>
                 <l xml:id="idm139659562711248"><hi rend="italics" xml:id="idm139659562711120">Auxilium multis succus &amp; herba
 									fuit</hi>.</l>
                 <l xml:id="idm139659562710272">

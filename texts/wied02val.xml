@@ -1,11 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!--HHL 20021009 fjernet bindestreger ved sideslut-->
-<!-- HHL 20031219 rettet enkelte fejl ved </hi>-->
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="idm139908715084864"><!-- 
-       file     ./marc_dir/001680948.xml
-       field    530 
-       subfield a 
-       prefix   2. -->
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="root">
   <teiHeader xml:id="idm139908715084208">
     <fileDesc xml:id="idm139908715083952">
       <titleStmt xml:id="idm139908715083648">
@@ -25,17 +19,130 @@
         <note xml:id="idm139908715053952">
 	  </note>
       </notesStmt>
-      <sourceDesc xml:id="idm139908715053440"><bibl xml:id="idm139908715053312"><author n="1" xml:id="idm139908715052624"><name xml:id="idm139908715052368"><surname xml:id="idm139908715052240">Wied</surname>, <forename xml:id="idm139908715051776">Gustav</forename></name></author><title xml:id="idm139908715051488">Menneskenes Børn. Silhuetter. 1966</title><pubPlace xml:id="idm139908715051152">Kbh</pubPlace>
-<publisher xml:id="idm139908715050720">Rosenkilde og Bagger</publisher><date xml:id="idm139908715050384">1966-</date></bibl><listBibl xml:id="idm139908715050096"><bibl xml:id="biblid54291"><title xml:id="idm139908715036896">SILHUETTER</title></bibl><bibl xml:id="biblid54540"><title xml:id="idm139908715036112">PRINSESSEN AF FRØRUP</title></bibl><bibl xml:id="biblid55138"><title xml:id="idm139908715035296">DEN GAMLE KAMMERHERRE</title></bibl><bibl xml:id="biblid56611"><title xml:id="idm139908715034512">OLE STØD</title></bibl><bibl xml:id="biblid57305"><title xml:id="idm139908715033728">I FAMILIEHUSET</title></bibl><bibl xml:id="biblid58291"><title xml:id="idm139908715032944">JENSEN</title></bibl><bibl xml:id="biblid59227"><title xml:id="idm139908715032112">FUGLESKYDNING</title></bibl><bibl xml:id="biblid59839"><title xml:id="idm139908715031280">HANS OLSEN</title></bibl><bibl xml:id="biblid61153"><title xml:id="idm139908715030496">ENDETØNDEN</title></bibl><bibl xml:id="biblid61764"><title xml:id="idm139908715029712">EN MIDDAG</title></bibl><bibl xml:id="biblid63716"><title xml:id="idm139908715028928">FAAREPER</title></bibl><bibl xml:id="biblid66726"><title xml:id="idm139908715028144">NU GAAR HUN GODT IGEN</title></bibl><bibl xml:id="biblid67917"><title xml:id="idm139908715027312">MENNESKENES BØRN</title></bibl><bibl xml:id="biblid67954"><title xml:id="idm139908715026512">MENNESKENES BØRN I</title></bibl><bibl xml:id="biblid68259"><title xml:id="idm139908715025664">FAMILIELIV</title></bibl><bibl xml:id="biblid68902"><title xml:id="idm139908715024832">I HULVEJEN</title></bibl><bibl xml:id="biblid69198"><title xml:id="idm139908715024048">ET BESØG</title></bibl><bibl xml:id="biblid69749"><title xml:id="idm139908715023264">EN BOHEME</title></bibl><bibl xml:id="biblid70516"><title xml:id="idm139908715022432">DIGTEREN</title></bibl><bibl xml:id="biblid71550"><title xml:id="idm139908715021600">CHRISTIANE</title></bibl><bibl xml:id="biblid71784"><title xml:id="idm139908715020768">EN KANETUR</title></bibl><bibl xml:id="biblid74265"><title xml:id="idm139908715019936">AVISKONEN</title></bibl><bibl xml:id="biblid74370"><title xml:id="idm139908715019104">I KUPÉEN</title></bibl><bibl xml:id="biblid74661"><title xml:id="idm139908715018272">EN DITLEVSEN</title></bibl><bibl xml:id="biblid75123"><title xml:id="idm139908715017440">OMVENDELSE</title></bibl><bibl xml:id="biblid75454"><title xml:id="idm139908715016608">AF ET BREV</title></bibl><bibl xml:id="biblid75780"><title xml:id="idm139908715015712">SÆLHUNDEN</title></bibl><bibl xml:id="biblid76428"><title xml:id="idm139908715014880">BØRN</title></bibl><bibl xml:id="biblid76530"><title xml:id="idm139908715014048">I DRIFT</title></bibl><bibl xml:id="biblid76853"><title xml:id="idm139908715013264">EN SITUATION</title></bibl><bibl xml:id="biblid77234"><title xml:id="idm139908715012432">RUSKVEJR</title></bibl><bibl xml:id="biblid77610"><title xml:id="idm139908715011600">ET EKSPERIMENT</title></bibl><bibl xml:id="biblid78256"><title xml:id="idm139908715010816">HELLIGAFTEN</title></bibl><bibl xml:id="biblid78712"><title xml:id="idm139908715009984">DET SVAGE KØN</title></bibl><bibl xml:id="biblid79164"><title xml:id="idm139908715009136">MENNESKENES BØRN II</title></bibl></listBibl></sourceDesc>
+      <sourceDesc xml:id="idm139908715053440">
+        <bibl xml:id="idm139908715053312">
+          <author n="1" xml:id="idm139908715052624">
+            <name xml:id="idm139908715052368"><surname xml:id="idm139908715052240">Wied</surname>, <forename xml:id="idm139908715051776">Gustav</forename></name>
+          </author>
+          <title xml:id="idm139908715051488">Menneskenes Børn. Silhuetter. 1966</title>
+          <pubPlace xml:id="idm139908715051152">København</pubPlace>
+          <publisher xml:id="idm139908715050720">Rosenkilde og Bagger</publisher>
+          <date xml:id="idm139908715050384">1966-</date>
+        </bibl>
+        <listBibl xml:id="idm139908715050096">
+          <bibl xml:id="biblid54291">
+            <title xml:id="idm139908715036896">SILHUETTER</title>
+          </bibl>
+          <bibl xml:id="biblid54540">
+            <title xml:id="idm139908715036112">PRINSESSEN AF FRØRUP</title>
+          </bibl>
+          <bibl xml:id="biblid55138">
+            <title xml:id="idm139908715035296">DEN GAMLE KAMMERHERRE</title>
+          </bibl>
+          <bibl xml:id="biblid56611">
+            <title xml:id="idm139908715034512">OLE STØD</title>
+          </bibl>
+          <bibl xml:id="biblid57305">
+            <title xml:id="idm139908715033728">I FAMILIEHUSET</title>
+          </bibl>
+          <bibl xml:id="biblid58291">
+            <title xml:id="idm139908715032944">JENSEN</title>
+          </bibl>
+          <bibl xml:id="biblid59227">
+            <title xml:id="idm139908715032112">FUGLESKYDNING</title>
+          </bibl>
+          <bibl xml:id="biblid59839">
+            <title xml:id="idm139908715031280">HANS OLSEN</title>
+          </bibl>
+          <bibl xml:id="biblid61153">
+            <title xml:id="idm139908715030496">ENDETØNDEN</title>
+          </bibl>
+          <bibl xml:id="biblid61764">
+            <title xml:id="idm139908715029712">EN MIDDAG</title>
+          </bibl>
+          <bibl xml:id="biblid63716">
+            <title xml:id="idm139908715028928">FAAREPER</title>
+          </bibl>
+          <bibl xml:id="biblid66726">
+            <title xml:id="idm139908715028144">NU GAAR HUN GODT IGEN</title>
+          </bibl>
+          <bibl xml:id="biblid67917">
+            <title xml:id="idm139908715027312">MENNESKENES BØRN</title>
+          </bibl>
+          <bibl xml:id="biblid67954">
+            <title xml:id="idm139908715026512">MENNESKENES BØRN I</title>
+          </bibl>
+          <bibl xml:id="biblid68259">
+            <title xml:id="idm139908715025664">FAMILIELIV</title>
+          </bibl>
+          <bibl xml:id="biblid68902">
+            <title xml:id="idm139908715024832">I HULVEJEN</title>
+          </bibl>
+          <bibl xml:id="biblid69198">
+            <title xml:id="idm139908715024048">ET BESØG</title>
+          </bibl>
+          <bibl xml:id="biblid69749">
+            <title xml:id="idm139908715023264">EN BOHEME</title>
+          </bibl>
+          <bibl xml:id="biblid70516">
+            <title xml:id="idm139908715022432">DIGTEREN</title>
+          </bibl>
+          <bibl xml:id="biblid71550">
+            <title xml:id="idm139908715021600">CHRISTIANE</title>
+          </bibl>
+          <bibl xml:id="biblid71784">
+            <title xml:id="idm139908715020768">EN KANETUR</title>
+          </bibl>
+          <bibl xml:id="biblid74265">
+            <title xml:id="idm139908715019936">AVISKONEN</title>
+          </bibl>
+          <bibl xml:id="biblid74370">
+            <title xml:id="idm139908715019104">I KUPÉEN</title>
+          </bibl>
+          <bibl xml:id="biblid74661">
+            <title xml:id="idm139908715018272">EN DITLEVSEN</title>
+          </bibl>
+          <bibl xml:id="biblid75123">
+            <title xml:id="idm139908715017440">OMVENDELSE</title>
+          </bibl>
+          <bibl xml:id="biblid75454">
+            <title xml:id="idm139908715016608">AF ET BREV</title>
+          </bibl>
+          <bibl xml:id="biblid75780">
+            <title xml:id="idm139908715015712">SÆLHUNDEN</title>
+          </bibl>
+          <bibl xml:id="biblid76428">
+            <title xml:id="idm139908715014880">BØRN</title>
+          </bibl>
+          <bibl xml:id="biblid76530">
+            <title xml:id="idm139908715014048">I DRIFT</title>
+          </bibl>
+          <bibl xml:id="biblid76853">
+            <title xml:id="idm139908715013264">EN SITUATION</title>
+          </bibl>
+          <bibl xml:id="biblid77234">
+            <title xml:id="idm139908715012432">RUSKVEJR</title>
+          </bibl>
+          <bibl xml:id="biblid77610">
+            <title xml:id="idm139908715011600">ET EKSPERIMENT</title>
+          </bibl>
+          <bibl xml:id="biblid78256">
+            <title xml:id="idm139908715010816">HELLIGAFTEN</title>
+          </bibl>
+          <bibl xml:id="biblid78712">
+            <title xml:id="idm139908715009984">DET SVAGE KØN</title>
+          </bibl>
+          <bibl xml:id="biblid79164">
+            <title xml:id="idm139908715009136">MENNESKENES BØRN II</title>
+          </bibl>
+        </listBibl>
+      </sourceDesc>
     </fileDesc>
   </teiHeader>
   <text xml:id="idm139908715008384">
     <front xml:id="idm139908715008128">
       <pb n="1" facs="adl/wied/wied2/wied2001" xml:id="idm139908715007824"/>
       <gap reason="cancelled" xml:id="idm139908715007040"/>
-<!---->
-<!---->
-<!--ROMANER NOVELLER SKUESPIL-->
       <pb n="2" facs="adl/wied/wied2/wied2002" xml:id="idm139908715005488"/>
       <pb n="3" facs="adl/wied/wied2/wied2003" xml:id="idm139908715004720"/>
       <titlePage xml:id="idm139908715003952">
@@ -3108,7 +3215,7 @@ Særlig naar han sad ned, var hans Mave ham vistnok til Besvær. Han saa' idetmi
 - Det var Satans - - 
 </p>
             <p xml:id="idm139908714049584">
-- Ja. - - <hi rend="italics" xml:id="idm139908714049296">Jeg</hi> doublerer ti Høns! - - Den treogtyvende Februar kommer jeg ned i min Mose - - med <hi rend="italics" xml:id="idm139908714048448">Bøsse</hi> men uden Hund. - - Dér ligger mig to Ænder i Rørene. - - Jeg <hi rend="italics" xml:id="idm139908714047616">skyder</hi> dem. - - Gaar hjem,og henter Diana, og <hi rend="italics" xml:id="idm139908714046864">hun</hi> finder dem. 
+- Ja. - - <hi rend="italics" xml:id="idm139908714049296">Jeg</hi> doublerer ti Høns! - - Den treogtyvende Februar kommer jeg ned i min Mose - - med <hi rend="italics" xml:id="idm139908714048448">Bøsse</hi> men uden Hund. - - Dér ligger mig to Ænder i Rørene. - - Jeg <hi rend="italics" xml:id="idm139908714047616">skyder</hi> dem. - - Gaar hjem, og henter Diana, og <hi rend="italics" xml:id="idm139908714046864">hun</hi> finder dem. 
 </p>
             <p xml:id="idm139908714046048">
 - Næ! 
@@ -7931,7 +8038,7 @@ Og nu kørte vi af Sted, saa Sneklumperne fra Hestens Hove fløj op mod Kanetæp
 </p>
             <pb n="199" facs="adl/wied/wied2/wied2199" xml:id="idm139908712779520"/>
             <p xml:id="idm139908712778752">
-- Med Sorgen og Glæde hold Maade! brummede han og børstede Sneen af sig. - Kun,de man ikke i en snæver Vending kalde det et <hi rend="italics" xml:id="idm139908712778224">Isskab</hi> P spurgte han lidt efter og slog ud med Haanden i Retning af det tillagte Kattegat. 
+- Med Sorgen og Glæde hold Maade! brummede han og børstede Sneen af sig. - Kunde man ikke i en snæver Vending kalde det et <hi rend="italics" xml:id="idm139908712778224">Isskab</hi> P spurgte han lidt efter og slog ud med Haanden i Retning af det tillagte Kattegat. 
 </p>
             <p xml:id="idm139908712777312">
 - Jo-o, sagde jeg - men det skulde da ogsaa være i en <hi rend="italics" xml:id="idm139908712776928">mejet</hi> snæver! 
@@ -9932,7 +10039,7 @@ Og saa vinkede han med Hovedet af Kammeraterne. Og
 de fulgte ham alle hen ad Kalkbakken til, langsomt, tavse og med bøjede Hoveder. 
 </p>
             <p xml:id="idm139908712314496">
-Mandskabet fra Skovgaardene stod et Øjeblik tvivlraadige og saa' efter dem. Men saa lagde de ganske,stille Skyderne over Skuldrene og listede af Sted den modsatte Vej. 
+Mandskabet fra Skovgaardene stod et Øjeblik tvivlraadige og saa' efter dem. Men saa lagde de ganske, stille Skyderne over Skuldrene og listede af Sted den modsatte Vej. 
 </p>
             <p xml:id="idm139908712313760">
 Og nu var kun Kresten og jeg alene tilbage paa Valpladsen. Han stod med sit Ur i Haanden og jeg med min Revolver og min Solskærm. 

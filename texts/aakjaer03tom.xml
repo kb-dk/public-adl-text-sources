@@ -1,10 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!--Tom opmærkning d.13.08.2002 blo -->
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="idm140159138749568"><!-- 
-       file     ./marc_dir/002251515.xml
-       field    530 
-       subfield a 
-       prefix   Bd. 3 :-->
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="root">
   <teiHeader xml:id="idm140159138748768">
     <fileDesc xml:id="idm140159138748512">
       <titleStmt xml:id="idm140159138748208">
@@ -19,10 +14,25 @@
         <note xml:id="idm140159138720064">
 	  </note>
       </notesStmt>
-      <sourceDesc xml:id="idm140159138719552"><bibl xml:id="idm140159138719424"><author n="1" xml:id="idm140159138718784"><name xml:id="idm140159138718528"><surname xml:id="idm140159138718400">Aakjær</surname>,
+      <sourceDesc xml:id="idm140159138719552">
+        <bibl xml:id="idm140159138719424"><author n="1" xml:id="idm140159138718784"><name xml:id="idm140159138718528"><surname xml:id="idm140159138718400">Aakjær</surname>,
       <forename xml:id="idm140159138718016">Jeppe</forename></name></author><title xml:id="idm140159138717728"> Skuespil : Livet paa
-      Hegnsgaard; Ulvens Søn, Naar Bønder elsker ; Himmelbjærgpræsten. - 1918</title><pubPlace xml:id="idm140159138717248">Kbh.</pubPlace>; <pubPlace xml:id="idm140159138716784">Kristiania</pubPlace>
-<publisher xml:id="idm140159138716320">Gyldendal</publisher><date xml:id="idm140159138715984">1918-19</date></bibl><listBibl xml:id="idm140159138715696"><bibl xml:id="biblid54268"><title xml:id="idm140159138702544">Livet paa Hegnsgaard</title></bibl><bibl xml:id="biblid55272"><title xml:id="idm140159138701712">Ulvens Søn</title></bibl><bibl xml:id="biblid56306"><title xml:id="idm140159138700928">Naar Bønder elsker</title></bibl><bibl xml:id="biblid54294"><title xml:id="idm140159138700128">Himmelbjærgpræsten</title></bibl></listBibl></sourceDesc>
+      Hegnsgaard; Ulvens Søn, Naar Bønder elsker ; Himmelbjærgpræsten. - 1918</title><pubPlace xml:id="idm140159138717248">København</pubPlace>; <pubPlace xml:id="idm140159138716784">Kristiania</pubPlace><publisher xml:id="idm140159138716320">Gyldendal</publisher><date xml:id="idm140159138715984">1918-19</date></bibl>
+        <listBibl xml:id="idm140159138715696">
+          <bibl xml:id="biblid54268">
+            <title xml:id="idm140159138702544">Livet paa Hegnsgaard</title>
+          </bibl>
+          <bibl xml:id="biblid55272">
+            <title xml:id="idm140159138701712">Ulvens Søn</title>
+          </bibl>
+          <bibl xml:id="biblid56306">
+            <title xml:id="idm140159138700928">Naar Bønder elsker</title>
+          </bibl>
+          <bibl xml:id="biblid54294">
+            <title xml:id="idm140159138700128">Himmelbjærgpræsten</title>
+          </bibl>
+        </listBibl>
+      </sourceDesc>
     </fileDesc>
   </teiHeader>
   <text xml:id="idm140159138699424">

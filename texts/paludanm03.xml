@@ -1,11 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!-- 19.10.2002 VL: + vaerktitle ;  moved correct pb to above vaerktitles ; dolgoeO changed to d.v.s ; 
-emph changed to spat -->
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="idm140319432850416"><!-- 
-       file     ./marc_dir/001848840.xml
-       field     
-       subfield  
-       prefix   -->
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="root">
   <teiHeader xml:id="idm140319432849520">
     <fileDesc xml:id="idm140319432849264">
       <titleStmt xml:id="idm140319432848960">
@@ -24,18 +18,49 @@ emph changed to spat -->
         <note xml:id="idm140319432819456">
 	  </note>
       </notesStmt>
-      <sourceDesc xml:id="idm140319432818944"><bibl xml:id="idm140319432818816"><author n="1" xml:id="idm140319432818128"><name xml:id="idm140319432817872"><surname xml:id="idm140319432817744">Paludan-Müller</surname>,
-      <forename xml:id="idm140319432817312">Fr.</forename></name></author><title xml:id="idm140319432817056">Paludan-Müllers poetiske Skrifter i Udvalg, III. Bind</title><pubPlace xml:id="idm140319432816672">Kbh.</pubPlace>
-<date xml:id="idm140319432816192">1909</date></bibl><listBibl xml:id="idm140319432815904"><bibl xml:id="biblid54226"><title xml:id="idm140319432802752">LUFTSKIPPEREN OG ATHEISTEN ET DIGT (1852)</title></bibl><bibl xml:id="biblid61791"><title xml:id="idm140319432801936">KALANUS (1853?)</title></bibl><bibl xml:id="biblid86925"><title xml:id="idm140319432801104">AHASVERUS, DEN EVIGE JØDE (1853)</title></bibl><bibl xml:id="biblid98846"><title xml:id="idm140319432800272">KAIN ELLER VREDENS BARN (1861)</title></bibl><bibl xml:id="biblid100794"><title xml:id="idm140319432799424">BENEDICT FRA NURSIA OG HANS AMME (1861)</title></bibl><bibl xml:id="biblid108722"><title xml:id="idm140319432798624">FREMTIDSMAALET (1864)</title></bibl><bibl xml:id="biblid108956"><title xml:id="idm140319432797792">UNGDOMSKILDEN EN FORTÆLLING (1865)</title></bibl><bibl xml:id="biblid109672"><title xml:id="idm140319432796912">ADONIS ET MYTHISK DIGT (1874)</title></bibl></listBibl></sourceDesc>
+      <sourceDesc xml:id="idm140319432818944">
+        <bibl xml:id="idm140319432818816">
+          <author n="1" xml:id="idm140319432818128">
+            <name xml:id="idm140319432817872"><surname xml:id="idm140319432817744">Paludan-Müller</surname>,
+      <forename xml:id="idm140319432817312">Fr.</forename></name>
+          </author>
+          <title xml:id="idm140319432817056">Paludan-Müllers poetiske Skrifter i Udvalg, III. Bind</title>
+          <pubPlace xml:id="idm140319432816672">København</pubPlace>
+          <date xml:id="idm140319432816192">1909</date>
+        </bibl>
+        <listBibl xml:id="idm140319432815904">
+          <bibl xml:id="biblid54226">
+            <title xml:id="idm140319432802752">LUFTSKIPPEREN OG ATHEISTEN ET DIGT (1852)</title>
+          </bibl>
+          <bibl xml:id="biblid61791">
+            <title xml:id="idm140319432801936">KALANUS (1853?)</title>
+          </bibl>
+          <bibl xml:id="biblid86925">
+            <title xml:id="idm140319432801104">AHASVERUS, DEN EVIGE JØDE (1853)</title>
+          </bibl>
+          <bibl xml:id="biblid98846">
+            <title xml:id="idm140319432800272">KAIN ELLER VREDENS BARN (1861)</title>
+          </bibl>
+          <bibl xml:id="biblid100794">
+            <title xml:id="idm140319432799424">BENEDICT FRA NURSIA OG HANS AMME (1861)</title>
+          </bibl>
+          <bibl xml:id="biblid108722">
+            <title xml:id="idm140319432798624">FREMTIDSMAALET (1864)</title>
+          </bibl>
+          <bibl xml:id="biblid108956">
+            <title xml:id="idm140319432797792">UNGDOMSKILDEN EN FORTÆLLING (1865)</title>
+          </bibl>
+          <bibl xml:id="biblid109672">
+            <title xml:id="idm140319432796912">ADONIS ET MYTHISK DIGT (1874)</title>
+          </bibl>
+        </listBibl>
+      </sourceDesc>
     </fileDesc>
   </teiHeader>
   <text xml:id="idm140319432796224">
     <front xml:id="idm140319432795968">
       <pb n="I" facs="adl/paludanm/paludanm3/palu3001" xml:id="idm140319432795664"/>
       <gap reason="cancelled" xml:id="idm140319432794832"/>
-<!---->
-<!---->
-<!--PALUDAN=MÜLLERS POETISKE SKRIFTER I UDVALG III. BIND-->
       <pb n="II" facs="adl/paludanm/paludanm3/palu3002" xml:id="idm140319432793312"/>
       <pb n="III" facs="adl/paludanm/paludanm3/palu3003" xml:id="idm140319432792544"/>
       <titlePage xml:id="idm140319432791776">

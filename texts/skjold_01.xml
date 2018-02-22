@@ -1,9 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="idm140513902278848"><!-- 
-       file     ./marc_dir/001874833.xml
-       field     
-       subfield  
-       prefix   -->
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="root">
   <teiHeader xml:id="idm140513902283408">
     <fileDesc xml:id="idm140513902283152">
       <titleStmt xml:id="idm140513902282848">
@@ -18,8 +14,14 @@
         <note xml:id="idm140513902254768">
 	  </note>
       </notesStmt>
-      <sourceDesc xml:id="idm140513902254256"><bibl xml:id="idm140513902254128"><author n="1" xml:id="idm140513902253488"><name xml:id="idm140513902253232"><surname xml:id="idm140513902253104">Skjoldborg</surname>, <forename xml:id="idm140513902252640">Johan</forename></name></author><title xml:id="idm140513902252352">En Stridsmand</title><pubPlace xml:id="idm140513902252064">Kbh.</pubPlace>; <pubPlace xml:id="idm140513902251600">Kristiania</pubPlace>
-<date xml:id="idm140513902251088">1896</date></bibl><listBibl xml:id="idm140513902250800"><bibl xml:id="biblid54088"><title xml:id="idm140513902237648">En Stridsmand</title></bibl></listBibl></sourceDesc>
+      <sourceDesc xml:id="idm140513902254256">
+        <bibl xml:id="idm140513902254128"><author n="1" xml:id="idm140513902253488"><name xml:id="idm140513902253232"><surname xml:id="idm140513902253104">Skjoldborg</surname>, <forename xml:id="idm140513902252640">Johan</forename></name></author><title xml:id="idm140513902252352">En Stridsmand</title><pubPlace xml:id="idm140513902252064">København</pubPlace>; <pubPlace xml:id="idm140513902251600">Kristiania</pubPlace><date xml:id="idm140513902251088">1896</date></bibl>
+        <listBibl xml:id="idm140513902250800">
+          <bibl xml:id="biblid54088">
+            <title xml:id="idm140513902237648">En Stridsmand</title>
+          </bibl>
+        </listBibl>
+      </sourceDesc>
     </fileDesc>
   </teiHeader>
   <text xml:id="workid54088" decls="#biblid54088">

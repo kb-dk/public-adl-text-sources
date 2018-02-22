@@ -1,11 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!-- 20090420 VL rettelse på s. 35, 151  
--->
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="idm139649432271648"><!-- 
-       file     ./marc_dir/001848837.xml
-       field     
-       subfield  
-       prefix   -->
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="root">
   <teiHeader xml:id="idm139649432270848">
     <fileDesc xml:id="idm139649432270592">
       <titleStmt xml:id="idm139649432245168">
@@ -24,8 +18,27 @@
         <note xml:id="idm139649432241280">
 	  </note>
       </notesStmt>
-      <sourceDesc xml:id="idm139649432240768"><bibl xml:id="idm139649432240640"><author n="1" xml:id="idm139649432239952"><name xml:id="idm139649432239696"><surname xml:id="idm139649432239568">Heiberg</surname>, <forename xml:id="idm139649432239136">Johan Ludvig</forename></name></author><title xml:id="idm139649432238880">Poetiske Skrifter</title><pubPlace xml:id="idm139649432238592">Kbh.</pubPlace>
-<date xml:id="idm139649432238080">1931-32</date></bibl><listBibl xml:id="idm139649432237792"><bibl xml:id="biblid55394"><title xml:id="idm139649432224640">Elverhøi. Skuespil i 5 acter</title></bibl><bibl xml:id="biblid70801"><title xml:id="idm139649432223808">Nei. Vaudeville i een act</title></bibl><bibl xml:id="biblid78887"><title xml:id="idm139649432223008">Syvsoverdag. Romantisk comedie i tre acter</title></bibl></listBibl></sourceDesc>
+      <sourceDesc xml:id="idm139649432240768">
+        <bibl xml:id="idm139649432240640">
+          <author n="1" xml:id="idm139649432239952">
+            <name xml:id="idm139649432239696"><surname xml:id="idm139649432239568">Heiberg</surname>, <forename xml:id="idm139649432239136">Johan Ludvig</forename></name>
+          </author>
+          <title xml:id="idm139649432238880">Poetiske Skrifter</title>
+          <pubPlace xml:id="idm139649432238592">København</pubPlace>
+          <date xml:id="idm139649432238080">1931-32</date>
+        </bibl>
+        <listBibl xml:id="idm139649432237792">
+          <bibl xml:id="biblid55394">
+            <title xml:id="idm139649432224640">Elverhøi. Skuespil i 5 acter</title>
+          </bibl>
+          <bibl xml:id="biblid70801">
+            <title xml:id="idm139649432223808">Nei. Vaudeville i een act</title>
+          </bibl>
+          <bibl xml:id="biblid78887">
+            <title xml:id="idm139649432223008">Syvsoverdag. Romantisk comedie i tre acter</title>
+          </bibl>
+        </listBibl>
+      </sourceDesc>
     </fileDesc>
   </teiHeader>
   <text xml:id="idm139649432222304">
@@ -36,9 +49,6 @@
       <pb n="d" xml:id="sd" facs="adl/heibergjl/heibergjl2/hejl2fm004"/>
       <pb n="e" xml:id="se" facs="adl/heibergjl/heibergjl2/hejl2fm005"/>
       <gap reason="cancelled" xml:id="idm139649432215968"/>
-<!---->
-<!---->
-<!--J. L. HEIBERG, POETISKE SKRIFTER II-->
       <titlePage xml:id="idm139649432214416">
         <docAuthor xml:id="idm139649432214160">JOHAN LUDVIG HEIBERG</docAuthor>
         <docTitle xml:id="idm139649432213744">

@@ -1,14 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!--HHL 2003.03.03 Checket iflg. checkliste
-    Hvad gør vi ved identiske titler i forskellige udgaver?
-    p.t. tilføjer (DK) ved Danske Klassikere
-    Ptj rettet s. 33-58-275-455-
-    -->
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="idm139796484185168"><!-- 
-       file     ./marc_dir/001706412.xml
-       field     
-       subfield  
-       prefix   -->
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="root">
   <teiHeader xml:id="idm139796484184272">
     <fileDesc xml:id="idm139796484184016">
       <titleStmt xml:id="idm139796484183712">
@@ -20,7 +11,7 @@
         <author xml:id="idm139796484156864">LUDVIG HOLBERG</author>
       </titleStmt>
       <publicationStmt xml:id="idm139796484156304">
-        <publisher xml:id="idm139796484156048">Danske Klassikere<lb xml:id="idm139796484155792"/>Det danske Sprog- og
+        <publisher xml:id="idm139796484156048">Danske Klassikere<lb xml:id="idm139796484155792"/>Det Danske Sprog- og
 				Litteraturselskab<lb xml:id="idm139796484155472"/>Borgen</publisher>
         <idno xml:id="idm139796484155056" xml:base="texts/holberg14val.xml">001706412:14</idno>
       </publicationStmt>
@@ -28,17 +19,35 @@
         <note xml:id="idm139796484153904">
 	  </note>
       </notesStmt>
-      <sourceDesc xml:id="idm139796484153392"><bibl xml:id="idm139796484153264"><author n="1" xml:id="idm139796484152576"><name xml:id="idm139796484152320"><surname xml:id="idm139796484152192">Holberg</surname>, <forename xml:id="idm139796484151728">Ludvig</forename></name></author><title xml:id="idm139796484151440">Seks komedier</title><pubPlace xml:id="idm139796484151152">[Kbh.]</pubPlace>; <pubPlace xml:id="idm139796484150688">[Valby]</pubPlace>
-<publisher xml:id="idm139796484150224">Det danske Sprog- og Litteraturselskab</publisher><publisher xml:id="idm139796484149920">Borgen</publisher><date xml:id="idm139796484149584">1994</date></bibl><listBibl xml:id="idm139796484149296"><bibl xml:id="biblid54555"><title xml:id="idm139796484136144">Jean de France (DK)</title></bibl><bibl xml:id="biblid64787"><title xml:id="idm139796484135360">Jeppe paa Bierget (DK)</title></bibl><bibl xml:id="biblid71363"><title xml:id="idm139796484134576">Ulysses Von Ithacia (DK)</title></bibl><bibl xml:id="biblid80786"><title xml:id="idm139796484133776">Erasmus Montanus (DK)</title></bibl><bibl xml:id="biblid90815"><title xml:id="idm139796484132992">Don Ranudo (DK)</title></bibl><bibl xml:id="biblid104431"><title xml:id="idm139796484132208">Den Stundesløse (DK)</title></bibl></listBibl></sourceDesc>
+      <sourceDesc xml:id="idm139796484153392">
+        <bibl xml:id="idm139796484153264"><author n="1" xml:id="idm139796484152576"><name xml:id="idm139796484152320"><surname xml:id="idm139796484152192">Holberg</surname>, <forename xml:id="idm139796484151728">Ludvig</forename></name></author><title xml:id="idm139796484151440">Seks komedier</title><pubPlace xml:id="idm139796484151152">[København]</pubPlace>; <pubPlace xml:id="idm139796484150688">[Valby]</pubPlace><publisher xml:id="idm139796484150224">Det Danske Sprog- og Litteraturselskab</publisher><publisher xml:id="idm139796484149920">Borgen</publisher><date xml:id="idm139796484149584">1994</date></bibl>
+        <listBibl xml:id="idm139796484149296">
+          <bibl xml:id="biblid54555">
+            <title xml:id="idm139796484136144">Jean de France (DK)</title>
+          </bibl>
+          <bibl xml:id="biblid64787">
+            <title xml:id="idm139796484135360">Jeppe paa Bierget (DK)</title>
+          </bibl>
+          <bibl xml:id="biblid71363">
+            <title xml:id="idm139796484134576">Ulysses Von Ithacia (DK)</title>
+          </bibl>
+          <bibl xml:id="biblid80786">
+            <title xml:id="idm139796484133776">Erasmus Montanus (DK)</title>
+          </bibl>
+          <bibl xml:id="biblid90815">
+            <title xml:id="idm139796484132992">Don Ranudo (DK)</title>
+          </bibl>
+          <bibl xml:id="biblid104431">
+            <title xml:id="idm139796484132208">Den Stundesløse (DK)</title>
+          </bibl>
+        </listBibl>
+      </sourceDesc>
     </fileDesc>
   </teiHeader>
   <text xml:id="idm139796484131456">
     <front xml:id="idm139796484131200">
       <pb n="1" xml:id="s1" facs="adl/holberg/holberg14/holb14001"/>
       <gap reason="cancelled" xml:id="idm139796484129728"/>
-<!---->
-<!---->
-<!--Seks komedier-->
       <pb n="2" xml:id="s2" facs="adl/holberg/holberg14/holb14002"/>
       <pb n="3" xml:id="s3" facs="adl/holberg/holberg14/holb14003"/>
       <titlePage xml:id="idm139796484125984">
@@ -52,7 +61,7 @@
 					</bibl>
         </docEdition>
         <docImprint xml:id="idm139796484122320">
-          <publisher xml:id="idm139796484122064">Danske Klassikere<lb xml:id="idm139796484121776"/> Det danske Sprog- og Litteraturselskab<lb xml:id="idm139796484121472"/>
+          <publisher xml:id="idm139796484122064">Danske Klassikere<lb xml:id="idm139796484121776"/> Det Danske Sprog- og Litteraturselskab<lb xml:id="idm139796484121472"/>
 						Borgen</publisher>
         </docImprint>
       </titlePage>
@@ -1048,7 +1057,7 @@
 											<stage type="mix" xml:id="idm139796483772928">(<hi rend="italics" xml:id="idm139796483772432">Hand synger og truer, naar de
 											vender sig fra ham. De dantzer begge meget absurd. Jean
 											raaber imellemstunder la cadance mon pere! la cadance!
-											naar Dantzen er ude,gaar de ind</hi>.)</stage>
+											naar Dantzen er ude, gaar de ind</hi>.)</stage>
 								</p>
               </sp>
               <pb n="27" xml:id="s27" facs="adl/holberg/holberg14/holb14027"/>
@@ -2506,7 +2515,7 @@
               </sp>
               <sp xml:id="idm139796483291424">
                 <speaker xml:id="idm139796483291168">MAD: LA FLECHE.</speaker>
-                <p xml:id="idm139796483290752"><hi rend="italics" xml:id="idm139796483290624">Ah Monsieur faites le sortir,jaj peur pour
+                <p xml:id="idm139796483290752"><hi rend="italics" xml:id="idm139796483290624">Ah Monsieur faites le sortir, jaj peur pour
 										les gens qui sont fous</hi>.</p>
               </sp>
               <sp xml:id="idm139796483289616">
@@ -15045,7 +15054,7 @@
               <sp xml:id="idm139796479064752">
                 <speaker xml:id="idm139796479064496">LEONORA.</speaker>
                 <p xml:id="idm139796479064080">Græd ikke Jomfru! Vi skall nok hitte paa Raad. Ingen mure ere saa
-									stærke,jeg jo kand rive dem ned. Intet laas saa fast, jeg jo har
+									stærke, jeg jo kand rive dem ned. Intet laas saa fast, jeg jo har
 									nøgle dertill, følg ikkon blindt mine raad, saa skall allting
 									have gode veie, jeg har overlagt en ting med <hi rend="italics" xml:id="idm139796479063264">Gonzaloes</hi> Søster <hi rend="italics" xml:id="idm139796479062544">Isabella</hi>, som
 									jeg troer nok, skall lykkes, og hvis det ikke lykkes, saa maa vi
@@ -18240,7 +18249,7 @@
               </sp>
               <sp xml:id="idm139796477846816">
                 <speaker xml:id="idm139796477846560">LEONORA.</speaker>
-                <p xml:id="idm139796477846144">Ach! min hierte Far,jeg faaer just den Person, som jeg mest
+                <p xml:id="idm139796477846144">Ach! min hierte Far, jeg faaer just den Person, som jeg mest
 									elsker.</p>
               </sp>
               <sp xml:id="idm139796477845536">
@@ -19157,7 +19166,7 @@
               </sp>
               <sp xml:id="idm139796477559376">
                 <speaker xml:id="idm139796477559120">VIELG.</speaker>
-                <p xml:id="idm139796477558704">Det er min troe den beste Høne,jeg har. Derfor maae du have
+                <p xml:id="idm139796477558704">Det er min troe den beste Høne, jeg har. Derfor maae du have
 									synderlig Øye med hende, Anne.</p>
               </sp>
               <pb n="397" xml:id="s397" facs="adl/holberg/holberg14/holb14397"/>
@@ -20983,8 +20992,8 @@
             </div>
             <div type="scene" n="3" xml:id="idm139796476960656">
               <head xml:id="idm139796476959888">Scen. 3.</head>
-              <stage type="mix" xml:id="idm139796476959472">Leander. Oldfux,klædde som Pedanter. Leanders Far-Broer
-								Corfitz,som en gammel Mand. Personerne af forrige Scene.</stage>
+              <stage type="mix" xml:id="idm139796476959472">Leander. Oldfux, klædde som Pedanter. Leanders Far-Broer
+								Corfitz, som en gammel Mand. Personerne af forrige Scene.</stage>
               <sp xml:id="idm139796476958592">
                 <speaker xml:id="idm139796476958336">VIELGESCHREY.</speaker>
                 <p xml:id="idm139796476957920">Velkommen min kiære Svigersøn.</p>
@@ -25189,7 +25198,7 @@
 							jøde«, se n.t.s. 134. - <hi rend="italics" xml:id="idm139796474875008">All zu viel (...)
 								Kinder</hi>: alt for meget vandrende, desværre! både jeg og andre
 							Israels børn (dvs. jøder). - <hi rend="italics" xml:id="idm139796474874096">Møssier ich
-								heb (...) von Abend</hi>: min herre,jeg har ikke tid, jeg må udlåne
+								heb (...) von Abend</hi>: min herre, jeg har ikke tid, jeg må udlåne
 							dragten til en maskerade i aften. - <hi rend="italics" xml:id="idm139796474873152">Masqverade</hi>:
 							på det tidspunkt, hvor komedien første gang opførtes (juni 1724), havde
 							teatrets ejer og skuespillerne tilladelse til at bruge salen til

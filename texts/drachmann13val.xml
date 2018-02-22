@@ -1,13 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!-- VL 4.10.2002 + vaerktitle -->
-<!-- 20030523 HHL rettet fejlene ved Litteraturselskab
-                     tabel ved indh.fort.
-                     -->
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="idm140427080190784"><!-- 
-       file     ./marc_dir/001391916.xml
-       field     
-       subfield  
-       prefix   -->
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="root">
   <teiHeader xml:id="idm140427080189920">
     <fileDesc xml:id="idm140427080189664">
       <titleStmt xml:id="idm140427080164272">
@@ -20,7 +12,7 @@
       </titleStmt>
       <publicationStmt xml:id="idm140427080161888">
         <publisher xml:id="idm140427080161632">Danske Klassikere<lb xml:id="idm140427080161376"/>
-Det danske Sprog- og Litteraturselskab</publisher>
+Det Danske Sprog- og Litteraturselskab</publisher>
         <pubPlace xml:id="idm140427080160944">Borgen</pubPlace>
         <idno xml:id="idm140427080160560" xml:base="texts/drachmann13val.xml">001391916:13</idno>
       </publicationStmt>
@@ -28,17 +20,20 @@ Det danske Sprog- og Litteraturselskab</publisher>
         <note xml:id="idm140427080159440">
 	  </note>
       </notesStmt>
-      <sourceDesc xml:id="idm140427080158928"><bibl xml:id="idm140427080158800"><author n="1" xml:id="idm140427080158112"><name xml:id="idm140427080157856"><surname xml:id="idm140427080157728">Drachmann</surname>, <forename xml:id="idm140427080157296">Holger</forename></name></author><title xml:id="idm140427080157040">En Overkomplet</title><pubPlace xml:id="idm140427080156752">[Kbh.]</pubPlace>; <pubPlace xml:id="idm140427080156288">[Valby]</pubPlace>; <pubPlace xml:id="idm140427080155872">[Ballerup]</pubPlace>
-<publisher xml:id="idm140427080155408">Det danske Sprog- og Litteraturselskab</publisher><publisher xml:id="idm140427080155104">Borgen</publisher><publisher xml:id="idm140427080154816">i samarbejde med Nyt Dansk Litteraturselskab</publisher><date xml:id="idm140427080154448">cop. 1987</date></bibl><listBibl xml:id="idm140427080154160"><bibl xml:id="biblid54108"><title xml:id="idm140427080141008">En Overkomplet</title></bibl></listBibl></sourceDesc>
+      <sourceDesc xml:id="idm140427080158928">
+        <bibl xml:id="idm140427080158800"><author n="1" xml:id="idm140427080158112"><name xml:id="idm140427080157856"><surname xml:id="idm140427080157728">Drachmann</surname>, <forename xml:id="idm140427080157296">Holger</forename></name></author><title xml:id="idm140427080157040">En Overkomplet</title><pubPlace xml:id="idm140427080156752">[København]</pubPlace>; <pubPlace xml:id="idm140427080156288">[Valby]</pubPlace>; <pubPlace xml:id="idm140427080155872">[Ballerup]</pubPlace><publisher xml:id="idm140427080155408">Det Danske Sprog- og Litteraturselskab</publisher><publisher xml:id="idm140427080155104">Borgen</publisher><publisher xml:id="idm140427080154816">i samarbejde med Nyt Dansk Litteraturselskab</publisher><date xml:id="idm140427080154448">cop. 1987</date></bibl>
+        <listBibl xml:id="idm140427080154160">
+          <bibl xml:id="biblid54108">
+            <title xml:id="idm140427080141008">En Overkomplet</title>
+          </bibl>
+        </listBibl>
+      </sourceDesc>
     </fileDesc>
   </teiHeader>
   <text xml:id="workid54108" decls="#biblid54108">
     <pb n="1" xml:id="s1" facs="adl/drachmann/drachmann13/drac13001"/>
     <front xml:id="idm140427080138224">
       <gap reason="cancelled" xml:id="idm140427080137920"/>
-<!---->
-<!---->
-<!--En Overkomplet-->
       <pb n="2" xml:id="s2" facs="adl/drachmann/drachmann13/drac13002"/>
       <pb n="3" xml:id="s3" facs="adl/drachmann/drachmann13/drac13003"/>
       <titlePage xml:id="idm140427080134176">
@@ -53,7 +48,7 @@ Det danske Sprog- og Litteraturselskab</publisher>
         </docEdition>
         <docImprint xml:id="idm140427080130544">
           <publisher xml:id="idm140427080130288">Danske Klassikere<lb xml:id="idm140427080130000"/>
-Det danske Sprog- og Litteraturselskab<lb xml:id="idm140427080129696"/> Borgen</publisher>
+Det Danske Sprog- og Litteraturselskab<lb xml:id="idm140427080129696"/> Borgen</publisher>
         </docImprint>
       </titlePage>
       <pb n="4" xml:id="s4" facs="adl/drachmann/drachmann13/drac13004"/>
@@ -95,7 +90,7 @@ Nei!<lb xml:id="idm140427080087344"/>
 Saa maa Du laane en af os; vi skal slaas.<lb xml:id="idm140427080087024"/>
 Jeg forstaar ikke at slaas med Huggert!</p>
             <p xml:id="idm140427080086576">Saa maa Du lære det; kom her. Seer Du, det Hug hedder en Prim; men det bruger vi ikke, undtagen naar vi har Maske paa. Dette er en dyb Terts, som altid maa svippes ind med blødt Haandled. Kan Du mærke?</p>
-            <p xml:id="idm140427080085760">Av,ja!</p>
+            <p xml:id="idm140427080085760">Av, ja!</p>
             <p xml:id="idm140427080085344">Godt. Og dette er en Kvart, som egenlig skal træffe over det venstre Øre, men den bruger vi ogsaa kun, naar vi har Maske. Dette er en dyb Kvart, men det er kun et Mavehug, som vi ikke bruger. Alle Hug, som gaar under det, hedder Skrædderhug og gælder ikke. Kom nu altsaa!</p>
             <p xml:id="idm140427080084400">Han hugger øieblikkeligt ud og i en Prim jeg faldt baglængs om i Græsset Det svære Silketørklæde under min Kasket eller maaske Tørklædet og Kasketskyggen i Forening frelste mit Hoved fra at blive flakt Jeg havde imidlertid faaet nok for en Timestid. Da jeg atter kom til mig selv, laa jeg nede ved Kilden, hvor mine Kammerater havde baaret mig ned, og hvor de havde hældt mit Hoved saa eftertrykkeligt over med Vand, at jeg var vaad gennem den stumpede Frakke og Skjorte helt ned ad Ryggen og det ene Laar.</p>
             <pb n="9" xml:id="s9" facs="adl/drachmann/drachmann13/drac13009"/>
@@ -2424,7 +2419,7 @@ skrøbelige Edderkoppeben ude i det smaaplaskende, smaamumlende, jamrende Vand. 
             <p xml:id="idm140427078290160">Om salig Heiberg nogensinde havde været der, førend han skrev sin Kong Salomon? - Det forekom mig, medens jeg slentrede omkring, at der ikke er nogen egenlig Lokalfarve over den lille Farce, hvis Posthorn blæste Vaudevillerne ind paa den danske Scene. Men maaske Korsør - og dog, hvilken fantastisk Tanke! - havde forandret sig fra hin Tid, hvor »Smakken« gik over Beltet, og hvor Goldkalb mistede sin Silkehat?</p>
             <p xml:id="idm140427078289088">
 Jeg havde tændt min Cigar og gik langs med Jernbaneskurenes Stakitværk, hvor hist og her en søvnig Lampe brændte, langs med Kaiens Bolværk, hvor Dampskibene, Beltkvaserne og nogle Kulskibe, efter Urenligheden at dømme engelske, laa og hivede og knagede i Fortøiningerne. Inde paa Dækket af et Skib stod en Lygte og kastede sit Skær over en ung Knøs, som med opsmøgede Skjorteærmer og Benklæder sad paa Ruffet og aflokkede en Harmonika nogle klagende Toner. Han sang ogsaa dertil; jeg standsede og opfangede Omkvædet:<lb xml:id="idm140427078288192"/>
-							<hi rend="italics" xml:id="idm140427078287936">Fa... rewell,fa</hi>... <hi rend="italics" xml:id="idm140427078287216">a</hi> ... <hi rend="italics" xml:id="idm140427078286528">rewell! my heart is on my lips</hi>.</p>
+							<hi rend="italics" xml:id="idm140427078287936">Fa... rewell, fa</hi>... <hi rend="italics" xml:id="idm140427078287216">a</hi> ... <hi rend="italics" xml:id="idm140427078286528">rewell! my heart is on my lips</hi>.</p>
             <p xml:id="idm140427078285696">
 En stor, sort Hund med klippede Ørelapper sprang med Forpoterne op imod Rælingen og gøede ad mig. Da jeg vendte mig, hørte jeg de To i Duet:<lb xml:id="idm140427078285136"/>
 							<hi rend="italics" xml:id="idm140427078284880">Fa</hi> ... Vov vov,... <hi rend="italics" xml:id="idm140427078284192">rewell! my heart</hi>... Vov vov <hi rend="italics" xml:id="idm140427078283472">.... is on my lips</hi>.<lb xml:id="idm140427078282784"/>

@@ -1,10 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!-- 19.19.2002 VL: + vaerktitle -->
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="idm140467283364928"><!-- 
-       file     ./marc_dir/001893453.xml
-       field     
-       subfield  
-       prefix   -->
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="root">
   <teiHeader xml:id="idm140467283364320">
     <fileDesc xml:id="idm140467283364064">
       <titleStmt xml:id="idm140467283363760">
@@ -18,7 +13,7 @@
       </titleStmt>
       <publicationStmt xml:id="idm140467283335840">
         <publisher xml:id="idm140467283335584">Danske Klassikere
-Det danske Sprog- og Litteraturselska</publisher>
+Det Danske Sprog- og Litteraturselska</publisher>
         <pubPlace xml:id="idm140467283335136">Borgen</pubPlace>
         <idno xml:id="idm140467283334752" xml:base="texts/goldschmidt04.xml">001893453:04</idno>
       </publicationStmt>
@@ -26,23 +21,22 @@ Det danske Sprog- og Litteraturselska</publisher>
         <note xml:id="idm140467283333632">
 	  </note>
       </notesStmt>
-      <sourceDesc xml:id="idm140467283333120"><bibl
-						  xml:id="idm140467283332992"><author
-										  n="1"
-										  xml:id="idm140467283332304"><name
-														  xml:id="idm140467283332048"><surname
-																		  xml:id="idm140467283331920">Goldschmidt</surname>,
-      <forename xml:id="idm140467283331456">M. A.</forename></name></author><title xml:id="idm140467283331200">Hjemløs</title><pubPlace xml:id="idm140467283330912">[Kbh.]</pubPlace>; <pubPlace xml:id="idm140467283330448">[Valby]</pubPlace>
-<publisher xml:id="idm140467283329984">Det Danske Sprog- og Litteraturselskab</publisher><publisher xml:id="idm140467283329680">Borgen</publisher><date xml:id="idm140467283329344">1999</date></bibl><listBibl xml:id="idm140467283329056"><bibl xml:id="biblid54420"><title xml:id="idm140467283315904">Hjemløs. En Fortælling II</title></bibl></listBibl></sourceDesc>
+      <sourceDesc xml:id="idm140467283333120">
+        <bibl xml:id="idm140467283332992"><author n="1" xml:id="idm140467283332304"><name xml:id="idm140467283332048"><surname xml:id="idm140467283331920">Goldschmidt</surname>,
+	      <forename xml:id="idm140467283331456">M. A.</forename></name></author><title xml:id="idm140467283331200">Hjemløs</title><pubPlace xml:id="idm140467283330912">[København]</pubPlace>;
+	  <pubPlace xml:id="idm140467283330448">[Valby]</pubPlace><publisher xml:id="idm140467283329984">Det Danske Sprog- og Litteraturselskab</publisher><publisher xml:id="idm140467283329680">Borgen</publisher><date xml:id="idm140467283329344">1999</date></bibl>
+        <listBibl xml:id="idm140467283329056">
+          <bibl xml:id="biblid54420">
+            <title xml:id="idm140467283315904">Hjemløs. En Fortælling II</title>
+          </bibl>
+        </listBibl>
+      </sourceDesc>
     </fileDesc>
   </teiHeader>
   <text xml:id="idm140467283315200">
     <front xml:id="idm140467283314944">
       <pb n="I" facs="adl/goldschmidt/goldschmidt04/gold4001" xml:id="idm140467283314640"/>
       <gap reason="cancelled" xml:id="idm140467283313808"/>
-<!---->
-<!---->
-<!--Hjemløs II-->
       <pb n="II" facs="adl/goldschmidt/goldschmidt04/gold4002" xml:id="idm140467283312320"/>
       <pb n="III" facs="adl/goldschmidt/goldschmidt04/gold4003" xml:id="idm140467283311552"/>
       <titlePage xml:id="idm140467283310784">
@@ -60,7 +54,7 @@ Det danske Sprog- og Litteraturselska</publisher>
         </docEdition>
         <docImprint xml:id="idm140467283305664">
           <publisher xml:id="idm140467283305408">Danske Klassikere
-Det danske Sprog- og Litteraturselska Borgen</publisher>
+Det Danske Sprog- og Litteraturselska Borgen</publisher>
         </docImprint>
       </titlePage>
       <pb n="4" facs="adl/goldschmidt/goldschmidt04/gold4004" xml:id="idm140467283304688"/>

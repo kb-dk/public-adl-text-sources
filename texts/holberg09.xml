@@ -1,10 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!-- edited with XML Spy v4.3 U (http://www.xmlspy.com) by Catherine (ATAPY) -->
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="idm139856963582608"><!-- 
-       file     ./marc_dir/001629300.xml
-       field    248 
-       subfield g 
-       prefix   9-->
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="root">
   <teiHeader xml:id="idm139856963581952">
     <fileDesc xml:id="idm139856963581696">
       <titleStmt xml:id="idm139856963556272">
@@ -24,16 +19,27 @@
         <note xml:id="idm139856963552000">
 	  </note>
       </notesStmt>
-      <sourceDesc xml:id="idm139856963551488"><bibl xml:id="idm139856963551360"><author n="1" xml:id="idm139856963550672"><name xml:id="idm139856963550416"><surname xml:id="idm139856963550288">Holberg</surname>, <forename xml:id="idm139856963549856">Ludvig</forename></name></author><title xml:id="idm139856963549568">Værker i tolv bind</title><title xml:id="idm139856963549264">9: Niels Klim</title><pubPlace xml:id="idm139856963548976">[Kbh.]</pubPlace>
-<publisher xml:id="idm139856963548512">Rosenkilde og Bagger</publisher><date xml:id="idm139856963548176">1969-1971</date></bibl><listBibl xml:id="idm139856963547888"><bibl/></listBibl></sourceDesc>
+      <sourceDesc xml:id="idm139856963551488">
+        <bibl xml:id="idm139856963551360">
+          <author n="1" xml:id="idm139856963550672">
+            <name xml:id="idm139856963550416"><surname xml:id="idm139856963550288">Holberg</surname>, <forename xml:id="idm139856963549856">Ludvig</forename></name>
+          </author>
+          <title xml:id="idm139856963549568">Værker i tolv bind</title>
+          <title xml:id="idm139856963549264">9: Niels Klim</title>
+          <pubPlace xml:id="idm139856963548976">[København]</pubPlace>
+          <publisher xml:id="idm139856963548512">Rosenkilde og Bagger</publisher>
+          <date xml:id="idm139856963548176">1969-1971</date>
+        </bibl>
+        <listBibl xml:id="idm139856963547888">
+          <bibl xml:id="ida14bbd5d-4dcc-45f7-8da7-4d9505f144e7"/>
+        </listBibl>
+      </sourceDesc>
     </fileDesc>
   </teiHeader>
   <text xml:id="idm139856963547376">
     <front xml:id="idm139856963547120">
       <pb n="I" facs="adl/holberg/holberg9/holb9001" xml:id="idm139856963546816"/>
       <gap reason="cancelled" xml:id="idm139856963545952"/>
-
-<!--LUDVIG HOLBERG VÆRKER i tolv Bind -->
       <pb n="II" facs="adl/holberg/holberg9/holb9002" xml:id="idm139856963543168"/>
       <pb n="III" facs="adl/holberg/holberg9/holb9003" xml:id="idm139856963542400"/>
       <titlePage xml:id="idm139856963541632">
@@ -994,7 +1000,7 @@ femte eftersaae hans Fødder, og skar meget net hans Ligtorne. Den slette bragte
               </lg>
               <p xml:id="idm139856962481792">Jeg formodede, at Galskab her maatte holdes for en Fortieneste, siden Staten havde valgt slig en Nar til Præsident, eller næst øverste Raadsherre i det store Raad, og 
 	<pb n="161" facs="adl/holberg/holberg9/holb9161" xml:id="idm139856962481168"/>
-yttrede denne Tanke for min Vert. Men han forsikrede mig, at det var en Mand, som var almindelig bekiendt for at besidde meget udmærkede Naturens Gaver, og hvis ypperlige Genie lagdes tydelig nok for Dagen ved de utallige Forretninger af ganske forskiellig Natur, han bestred i saa ung en Alder. Hans Fattekraft var saa flyvende hurtig, at han ikke allene over Borde, med et Glas i Haan-den,afgiorde de vigtigste Sager, men endog ved Middags-og Aftensmaaltider pleiede imellem hver Ret at skrive en nye Forordning. Jeg tog mig den Frihed at spørge, hvor længe vel saadan en Forordning pleiede at gieide? »I Almindelighed,« svarte min Vert, »saa længe til Raadet finder for got at ophæve den igien.«</p>
+yttrede denne Tanke for min Vert. Men han forsikrede mig, at det var en Mand, som var almindelig bekiendt for at besidde meget udmærkede Naturens Gaver, og hvis ypperlige Genie lagdes tydelig nok for Dagen ved de utallige Forretninger af ganske forskiellig Natur, han bestred i saa ung en Alder. Hans Fattekraft var saa flyvende hurtig, at han ikke allene over Borde, med et Glas i Haanden, afgiorde de vigtigste Sager, men endog ved Middags-og Aftensmaaltider pleiede imellem hver Ret at skrive en nye Forordning. Jeg tog mig den Frihed at spørge, hvor længe vel saadan en Forordning pleiede at gieide? »I Almindelighed,« svarte min Vert, »saa længe til Raadet finder for got at ophæve den igien.«</p>
               <p xml:id="idm139856962479392">Da Hans Excellence omtrent i en halv Time havde sladdret med mig, og ladet Munden løbe med samme Færdighed, som vore Europæiske Barberere, vendte han sig til min Vert, og sagde, han vilde antage mig blandt sine Betientere, eftersom han mærkede af mit langsomme Begreb, at jeg maatte være fød </p>
               <lg xml:id="idm139856962478400">
                 <l xml:id="idm139856962478144">I Dumheds Land, hvor en langøret Vrimmel</l>

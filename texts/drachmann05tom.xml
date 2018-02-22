@@ -1,10 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!--Tom opmærkning blo 09.05.02-->
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="idm140169754033120"><!-- 
-       file     ./marc_dir/001823907.xml
-       field     
-       subfield  
-       prefix   -->
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="root">
   <teiHeader xml:id="idm140169754032288">
     <fileDesc xml:id="idm140169754032032">
       <titleStmt xml:id="idm140169754064032">
@@ -19,8 +14,159 @@
         <note xml:id="idm140169754003824">
 	  </note>
       </notesStmt>
-      <sourceDesc xml:id="idm140169754003312"><bibl xml:id="idm140169754003184"><author n="1" xml:id="idm140169754002496"><name xml:id="idm140169754002240"><surname xml:id="idm140169754002112">Drachmann</surname>, <forename xml:id="idm140169754001680">Holger</forename></name></author><title xml:id="idm140169754001424">Samlede poetiske Skrifter</title><pubPlace xml:id="idm140169754001120">Kbh. &amp; Kristiania</pubPlace>
-<date xml:id="idm140169754000496">1906-1909</date></bibl><listBibl xml:id="idm140169754000240"><bibl xml:id="biblid54134"><title xml:id="idm140169753987088">Vildt og Tæmmet. Fortællinger og Naturstudier</title></bibl><bibl xml:id="biblid54153"><title xml:id="idm140169753986224">Skraaplaner</title></bibl><bibl xml:id="biblid54586"><title xml:id="idm140169753985440">Kærlighed og Depeche</title></bibl><bibl xml:id="biblid54739"><title xml:id="idm140169753984576">Kutteren Vildanden</title></bibl><bibl xml:id="biblid54923"><title xml:id="idm140169753983792">De 85 Snese Torsk og den store Kirkeklokke</title></bibl><bibl xml:id="biblid54993"><title xml:id="idm140169753982928">Et Brev</title></bibl><bibl xml:id="biblid55062"><title xml:id="idm140169753982096">Naar Mørket falder paa</title></bibl><bibl xml:id="biblid55165"><title xml:id="idm140169753981280">Byron i Vadmel</title></bibl><bibl xml:id="biblid55333"><title xml:id="idm140169753980496">Syndflodssagn</title></bibl><bibl xml:id="biblid55409"><title xml:id="idm140169753979664">Efter Orkanen</title></bibl><bibl xml:id="biblid55498"><title xml:id="idm140169753978880">Dreven af!</title></bibl><bibl xml:id="biblid55740"><title xml:id="idm140169753978048">VandenesDatter. Et Sagn</title></bibl><bibl xml:id="biblid56782"><title xml:id="idm140169753977216">Gamle Guder og Nye</title></bibl><bibl xml:id="biblid56802"><title xml:id="idm140169753976384">Guld</title></bibl><bibl xml:id="biblid56808"><title xml:id="idm140169753975600">Perler</title></bibl><bibl xml:id="biblid56813"><title xml:id="idm140169753974768">Morgen-Psalmer I-VI</title></bibl><bibl xml:id="biblid56851"><title xml:id="idm140169753973984">Ret saa!</title></bibl><bibl xml:id="biblid56856"><title xml:id="idm140169753973152">Hævd dig!</title></bibl><bibl xml:id="biblid56871"><title xml:id="idm140169753972320">Afguder I-II</title></bibl><bibl xml:id="biblid56897"><title xml:id="idm140169753971536">Det tabte Paradis</title></bibl><bibl xml:id="biblid56915"><title xml:id="idm140169753970752">Høstblomster</title></bibl><bibl xml:id="biblid56953"><title xml:id="idm140169753969904">De kom og bød mig</title></bibl><bibl xml:id="biblid56958"><title xml:id="idm140169753969104">Den døde Klode</title></bibl><bibl xml:id="biblid56996"><title xml:id="idm140169753968256">Hvem kalder paa mig</title></bibl><bibl xml:id="biblid57014"><title xml:id="idm140169753967424">Illusioner 1-10</title></bibl><bibl xml:id="biblid57045"><title xml:id="idm140169753966592">Natten (En Radering)</title></bibl><bibl xml:id="biblid57072"><title xml:id="idm140169753965760">Vor Moders Saga</title></bibl><bibl xml:id="biblid57074"><title xml:id="idm140169753964928">Junker Vaar</title></bibl><bibl xml:id="biblid57085"><title xml:id="idm140169753964096">Hun kommer</title></bibl><bibl xml:id="biblid57091"><title xml:id="idm140169753963264">Han synger</title></bibl><bibl xml:id="biblid57103"><title xml:id="idm140169753962416">Fuglekvidder</title></bibl><bibl xml:id="biblid57115"><title xml:id="idm140169753961584">Han er borte</title></bibl><bibl xml:id="biblid57127"><title xml:id="idm140169753960752">Marked</title></bibl><bibl xml:id="biblid57132"><title xml:id="idm140169753959920">Ridder Sommer</title></bibl><bibl xml:id="biblid57144"><title xml:id="idm140169754062784">Paa Borgen</title></bibl><bibl xml:id="biblid57156"><title xml:id="idm140169754062000">Drost Høst</title></bibl><bibl xml:id="biblid57168"><title xml:id="idm140169754061152">Belejring</title></bibl><bibl xml:id="biblid57173"><title xml:id="idm140169754060304">Opgørelse</title></bibl><bibl xml:id="biblid57185"><title xml:id="idm140169754059520">Ved Arnen</title></bibl><bibl xml:id="biblid57198"><title xml:id="idm140169753934496">Folkets Sange</title></bibl><bibl xml:id="biblid57207"><title xml:id="idm140169753933712">Historielæsning</title></bibl><bibl xml:id="biblid57219"><title xml:id="idm140169753932960">Bordbøn</title></bibl><bibl xml:id="biblid57224"><title xml:id="idm140169753932176">Folkehøjskole-Sang</title></bibl><bibl xml:id="biblid57242"><title xml:id="idm140169753931424">I Værkstedet</title></bibl><bibl xml:id="biblid57255"><title xml:id="idm140169753930672">Vi har for meget læst</title></bibl><bibl xml:id="biblid57266"><title xml:id="idm140169753929856">Kildespring</title></bibl><bibl xml:id="biblid57281"><title xml:id="idm140169753929072">Puppe og Sommerfugl</title></bibl></listBibl></sourceDesc>
+      <sourceDesc xml:id="idm140169754003312">
+        <bibl xml:id="idm140169754003184">
+          <author n="1" xml:id="idm140169754002496">
+            <name xml:id="idm140169754002240"><surname xml:id="idm140169754002112">Drachmann</surname>, <forename xml:id="idm140169754001680">Holger</forename></name>
+          </author>
+          <title xml:id="idm140169754001424">Samlede poetiske Skrifter</title>
+          <pubPlace xml:id="idm140169754001120">Kbh. &amp; Kristiania</pubPlace>
+          <date xml:id="idm140169754000496">1906-1909</date>
+        </bibl>
+        <listBibl xml:id="idm140169754000240">
+          <bibl xml:id="biblid54134">
+            <title xml:id="idm140169753987088">Vildt og Tæmmet. Fortællinger og Naturstudier</title>
+          </bibl>
+          <bibl xml:id="biblid54153">
+            <title xml:id="idm140169753986224">Skraaplaner</title>
+          </bibl>
+          <bibl xml:id="biblid54586">
+            <title xml:id="idm140169753985440">Kærlighed og Depeche</title>
+          </bibl>
+          <bibl xml:id="biblid54739">
+            <title xml:id="idm140169753984576">Kutteren Vildanden</title>
+          </bibl>
+          <bibl xml:id="biblid54923">
+            <title xml:id="idm140169753983792">De 85 Snese Torsk og den store Kirkeklokke</title>
+          </bibl>
+          <bibl xml:id="biblid54993">
+            <title xml:id="idm140169753982928">Et Brev</title>
+          </bibl>
+          <bibl xml:id="biblid55062">
+            <title xml:id="idm140169753982096">Naar Mørket falder paa</title>
+          </bibl>
+          <bibl xml:id="biblid55165">
+            <title xml:id="idm140169753981280">Byron i Vadmel</title>
+          </bibl>
+          <bibl xml:id="biblid55333">
+            <title xml:id="idm140169753980496">Syndflodssagn</title>
+          </bibl>
+          <bibl xml:id="biblid55409">
+            <title xml:id="idm140169753979664">Efter Orkanen</title>
+          </bibl>
+          <bibl xml:id="biblid55498">
+            <title xml:id="idm140169753978880">Dreven af!</title>
+          </bibl>
+          <bibl xml:id="biblid55740">
+            <title xml:id="idm140169753978048">VandenesDatter. Et Sagn</title>
+          </bibl>
+          <bibl xml:id="biblid56782">
+            <title xml:id="idm140169753977216">Gamle Guder og Nye</title>
+          </bibl>
+          <bibl xml:id="biblid56802">
+            <title xml:id="idm140169753976384">Guld</title>
+          </bibl>
+          <bibl xml:id="biblid56808">
+            <title xml:id="idm140169753975600">Perler</title>
+          </bibl>
+          <bibl xml:id="biblid56813">
+            <title xml:id="idm140169753974768">Morgen-Psalmer I-VI</title>
+          </bibl>
+          <bibl xml:id="biblid56851">
+            <title xml:id="idm140169753973984">Ret saa!</title>
+          </bibl>
+          <bibl xml:id="biblid56856">
+            <title xml:id="idm140169753973152">Hævd dig!</title>
+          </bibl>
+          <bibl xml:id="biblid56871">
+            <title xml:id="idm140169753972320">Afguder I-II</title>
+          </bibl>
+          <bibl xml:id="biblid56897">
+            <title xml:id="idm140169753971536">Det tabte Paradis</title>
+          </bibl>
+          <bibl xml:id="biblid56915">
+            <title xml:id="idm140169753970752">Høstblomster</title>
+          </bibl>
+          <bibl xml:id="biblid56953">
+            <title xml:id="idm140169753969904">De kom og bød mig</title>
+          </bibl>
+          <bibl xml:id="biblid56958">
+            <title xml:id="idm140169753969104">Den døde Klode</title>
+          </bibl>
+          <bibl xml:id="biblid56996">
+            <title xml:id="idm140169753968256">Hvem kalder paa mig</title>
+          </bibl>
+          <bibl xml:id="biblid57014">
+            <title xml:id="idm140169753967424">Illusioner 1-10</title>
+          </bibl>
+          <bibl xml:id="biblid57045">
+            <title xml:id="idm140169753966592">Natten (En Radering)</title>
+          </bibl>
+          <bibl xml:id="biblid57072">
+            <title xml:id="idm140169753965760">Vor Moders Saga</title>
+          </bibl>
+          <bibl xml:id="biblid57074">
+            <title xml:id="idm140169753964928">Junker Vaar</title>
+          </bibl>
+          <bibl xml:id="biblid57085">
+            <title xml:id="idm140169753964096">Hun kommer</title>
+          </bibl>
+          <bibl xml:id="biblid57091">
+            <title xml:id="idm140169753963264">Han synger</title>
+          </bibl>
+          <bibl xml:id="biblid57103">
+            <title xml:id="idm140169753962416">Fuglekvidder</title>
+          </bibl>
+          <bibl xml:id="biblid57115">
+            <title xml:id="idm140169753961584">Han er borte</title>
+          </bibl>
+          <bibl xml:id="biblid57127">
+            <title xml:id="idm140169753960752">Marked</title>
+          </bibl>
+          <bibl xml:id="biblid57132">
+            <title xml:id="idm140169753959920">Ridder Sommer</title>
+          </bibl>
+          <bibl xml:id="biblid57144">
+            <title xml:id="idm140169754062784">Paa Borgen</title>
+          </bibl>
+          <bibl xml:id="biblid57156">
+            <title xml:id="idm140169754062000">Drost Høst</title>
+          </bibl>
+          <bibl xml:id="biblid57168">
+            <title xml:id="idm140169754061152">Belejring</title>
+          </bibl>
+          <bibl xml:id="biblid57173">
+            <title xml:id="idm140169754060304">Opgørelse</title>
+          </bibl>
+          <bibl xml:id="biblid57185">
+            <title xml:id="idm140169754059520">Ved Arnen</title>
+          </bibl>
+          <bibl xml:id="biblid57198">
+            <title xml:id="idm140169753934496">Folkets Sange</title>
+          </bibl>
+          <bibl xml:id="biblid57207">
+            <title xml:id="idm140169753933712">Historielæsning</title>
+          </bibl>
+          <bibl xml:id="biblid57219">
+            <title xml:id="idm140169753932960">Bordbøn</title>
+          </bibl>
+          <bibl xml:id="biblid57224">
+            <title xml:id="idm140169753932176">Folkehøjskole-Sang</title>
+          </bibl>
+          <bibl xml:id="biblid57242">
+            <title xml:id="idm140169753931424">I Værkstedet</title>
+          </bibl>
+          <bibl xml:id="biblid57255">
+            <title xml:id="idm140169753930672">Vi har for meget læst</title>
+          </bibl>
+          <bibl xml:id="biblid57266">
+            <title xml:id="idm140169753929856">Kildespring</title>
+          </bibl>
+          <bibl xml:id="biblid57281">
+            <title xml:id="idm140169753929072">Puppe og Sommerfugl</title>
+          </bibl>
+        </listBibl>
+      </sourceDesc>
     </fileDesc>
   </teiHeader>
   <text xml:id="idm140169753928432">

@@ -1,10 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!--Tom opmærkning d.22.3.2002 blo -->
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="idm140054877604848"><!-- 
-       file     ./marc_dir/001601376.xml
-       field     
-       subfield  
-       prefix   -->
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="root">
   <teiHeader xml:id="idm140054877603920">
     <fileDesc xml:id="idm140054877603664">
       <titleStmt xml:id="idm140054877603360">
@@ -23,8 +18,17 @@
         <note xml:id="idm140054877574096">
 	  </note>
       </notesStmt>
-      <sourceDesc xml:id="idm140054877573584"><bibl xml:id="idm140054877573456"><author n="1" xml:id="idm140054877572768"><name xml:id="idm140054877572512"><surname xml:id="idm140054877572384">Ewald</surname>, <forename xml:id="idm140054877571920">Johannes</forename></name></author><title xml:id="idm140054877571632">Johannes Ewalds samlede skrifter</title><pubPlace xml:id="idm140054877571328">(Kbh.)</pubPlace>
-<publisher xml:id="idm140054877570864">Gyldendal</publisher><date xml:id="idm140054877570528">(1969)</date></bibl></sourceDesc>
+      <sourceDesc xml:id="idm140054877573584">
+        <bibl xml:id="idm140054877573456">
+          <author n="1" xml:id="idm140054877572768">
+            <name xml:id="idm140054877572512"><surname xml:id="idm140054877572384">Ewald</surname>, <forename xml:id="idm140054877571920">Johannes</forename></name>
+          </author>
+          <title xml:id="idm140054877571632">Johannes Ewalds samlede skrifter</title>
+          <pubPlace xml:id="idm140054877571328">(Kbh.)</pubPlace>
+          <publisher xml:id="idm140054877570864">Gyldendal</publisher>
+          <date xml:id="idm140054877570528">(1969)</date>
+        </bibl>
+      </sourceDesc>
     </fileDesc>
   </teiHeader>
   <text xml:id="idm140054877569856">

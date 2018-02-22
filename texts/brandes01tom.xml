@@ -1,10 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!-- Tom opmærkning jbh 26.09.01 ; VL rettet sidetal i fm -->
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="idm139666715204592"><!-- 
-       file     ./marc_dir/001823972.xml
-       field     
-       subfield  
-       prefix   -->
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="root">
   <teiHeader xml:id="idm139666715203712">
     <fileDesc xml:id="idm139666715203456">
       <titleStmt xml:id="idm139666715178032">
@@ -19,8 +14,54 @@
         <note xml:id="idm139666715175216">
 	  </note>
       </notesStmt>
-      <sourceDesc xml:id="idm139666715174704"><bibl xml:id="idm139666715174576"><author n="1" xml:id="idm139666715174000"><name xml:id="idm139666715173744"><surname xml:id="idm139666715173616">Brandes</surname>, <forename xml:id="idm139666715173184">Georg</forename></name></author><title xml:id="idm139666715172928">Samlede Skrifter</title><pubPlace xml:id="idm139666715172640">Kbh.</pubPlace>
-<date xml:id="idm139666715172128">1899-1910</date></bibl><listBibl xml:id="idm139666715171840"><bibl xml:id="biblid54182"><title xml:id="idm139666715158688">Ludvig Holberg, et festskrift</title></bibl><bibl xml:id="biblid55404"><title xml:id="idm139666715157888">Ludvig Holberg (1684-1754)</title></bibl><bibl xml:id="biblid55547"><title xml:id="idm139666715157088">Kamma Rahbek (1775-1829</title></bibl><bibl xml:id="biblid55773"><title xml:id="idm139666715156304">Adam Oehlenschläger (1779-1850)</title></bibl><bibl xml:id="biblid56096"><title xml:id="idm139666715155424">Goethe og Danmark</title></bibl><bibl xml:id="biblid56379"><title xml:id="idm139666715154592">Schack Staffeldt (1769-1826)</title></bibl><bibl xml:id="biblid56781"><title xml:id="idm139666715153744">Carsten Hauch (1790-1872)</title></bibl><bibl xml:id="biblid57189"><title xml:id="idm139666715152896">Christian Bredahl (1784-1860)</title></bibl><bibl xml:id="biblid57283"><title xml:id="idm139666715152096">B.S. Ingemann (1789-1862)</title></bibl><bibl xml:id="biblid57425"><title xml:id="idm139666715151296">J.L. Heiberg (1791-1860)</title></bibl><bibl xml:id="biblid57770"><title xml:id="idm139666715150448">Henrik Hertz (1798-1870)</title></bibl><bibl xml:id="biblid57925"><title xml:id="idm139666715149648">Ludvig Bødtcher (1793-1873)</title></bibl></listBibl></sourceDesc>
+      <sourceDesc xml:id="idm139666715174704">
+        <bibl xml:id="idm139666715174576">
+          <author n="1" xml:id="idm139666715174000">
+            <name xml:id="idm139666715173744"><surname xml:id="idm139666715173616">Brandes</surname>, <forename xml:id="idm139666715173184">Georg</forename></name>
+          </author>
+          <title xml:id="idm139666715172928">Samlede Skrifter</title>
+          <pubPlace xml:id="idm139666715172640">København</pubPlace>
+          <date xml:id="idm139666715172128">1899-1910</date>
+        </bibl>
+        <listBibl xml:id="idm139666715171840">
+          <bibl xml:id="biblid54182">
+            <title xml:id="idm139666715158688">Ludvig Holberg, et festskrift</title>
+          </bibl>
+          <bibl xml:id="biblid55404">
+            <title xml:id="idm139666715157888">Ludvig Holberg (1684-1754)</title>
+          </bibl>
+          <bibl xml:id="biblid55547">
+            <title xml:id="idm139666715157088">Kamma Rahbek (1775-1829</title>
+          </bibl>
+          <bibl xml:id="biblid55773">
+            <title xml:id="idm139666715156304">Adam Oehlenschläger (1779-1850)</title>
+          </bibl>
+          <bibl xml:id="biblid56096">
+            <title xml:id="idm139666715155424">Goethe og Danmark</title>
+          </bibl>
+          <bibl xml:id="biblid56379">
+            <title xml:id="idm139666715154592">Schack Staffeldt (1769-1826)</title>
+          </bibl>
+          <bibl xml:id="biblid56781">
+            <title xml:id="idm139666715153744">Carsten Hauch (1790-1872)</title>
+          </bibl>
+          <bibl xml:id="biblid57189">
+            <title xml:id="idm139666715152896">Christian Bredahl (1784-1860)</title>
+          </bibl>
+          <bibl xml:id="biblid57283">
+            <title xml:id="idm139666715152096">B.S. Ingemann (1789-1862)</title>
+          </bibl>
+          <bibl xml:id="biblid57425">
+            <title xml:id="idm139666715151296">J.L. Heiberg (1791-1860)</title>
+          </bibl>
+          <bibl xml:id="biblid57770">
+            <title xml:id="idm139666715150448">Henrik Hertz (1798-1870)</title>
+          </bibl>
+          <bibl xml:id="biblid57925">
+            <title xml:id="idm139666715149648">Ludvig Bødtcher (1793-1873)</title>
+          </bibl>
+        </listBibl>
+      </sourceDesc>
     </fileDesc>
   </teiHeader>
   <text xml:id="idm139666715148928">

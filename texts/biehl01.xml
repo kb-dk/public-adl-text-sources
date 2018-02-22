@@ -1,15 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!--    16.09.2002 VL indsat vaerktitel
-        18.09.2020 HHL koert fanger.pl -> indsat side 116
-                   HHL aendret romer-fm til araber-fm
-                   HHL indsat id-numre
-ny fil fra ATAPY hvor <->-bindestrger er behandlet som alm. bindestreger.
--->
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="idm139639967886480"><!-- 
-       file     ./marc_dir/001398317.xml
-       field     
-       subfield  
-       prefix   -->
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="root">
   <teiHeader xml:id="idm139639967885504">
     <fileDesc xml:id="idm139639967885248">
       <titleStmt xml:id="idm139639967884992">
@@ -29,17 +19,28 @@ ny fil fra ATAPY hvor <->-bindestrger er behandlet som alm. bindestreger.
         <note xml:id="idm139639967855520">
 	  </note>
       </notesStmt>
-      <sourceDesc xml:id="idm139639967855008"><bibl xml:id="idm139639967854880"><author n="1" xml:id="idm139639967854256"><name xml:id="idm139639967854000"><surname xml:id="idm139639967853872">Biehl</surname>, <forename xml:id="idm139639967853440">Charlotta Dorothea</forename></name></author><title xml:id="idm139639967853152">Mit ubetydelige Levnets Løb</title><pubPlace xml:id="idm139639967852816">Kbh.</pubPlace>
-<publisher xml:id="idm139639967852352">Museum Tusculanum</publisher><date xml:id="idm139639967852016">1986</date></bibl><listBibl xml:id="idm139639967851728"><bibl xml:id="biblid58476"><title xml:id="idm139639967838528">Mit ubetydelige Levnets Løb</title></bibl></listBibl></sourceDesc>
+      <sourceDesc xml:id="idm139639967855008">
+        <bibl xml:id="idm139639967854880">
+          <author n="1" xml:id="idm139639967854256">
+            <name xml:id="idm139639967854000"><surname xml:id="idm139639967853872">Biehl</surname>, <forename xml:id="idm139639967853440">Charlotta Dorothea</forename></name>
+          </author>
+          <title xml:id="idm139639967853152">Mit ubetydelige Levnets Løb</title>
+          <pubPlace xml:id="idm139639967852816">København</pubPlace>
+          <publisher xml:id="idm139639967852352">Museum Tusculanum</publisher>
+          <date xml:id="idm139639967852016">1986</date>
+        </bibl>
+        <listBibl xml:id="idm139639967851728">
+          <bibl xml:id="biblid58476">
+            <title xml:id="idm139639967838528">Mit ubetydelige Levnets Løb</title>
+          </bibl>
+        </listBibl>
+      </sourceDesc>
     </fileDesc>
   </teiHeader>
   <text xml:id="idm139639967837808">
     <front xml:id="idm139639967837552">
       <pb n="1" xml:id="s1" facs="adl/biehl/biehl1/biehl1001"/>
       <gap reason="cancelled" xml:id="idm139639967836128"/>
-<!---->
-<!---->
-<!--Mit ubetydelige Levnets Løb-->
       <pb n="2" xml:id="s2" facs="adl/biehl/biehl1/biehl1002"/>
       <titlePage xml:id="idm139639967833456">
         <titlePart type="main" xml:id="idm139639967833200">
@@ -661,7 +662,7 @@ Lomme Penge, deels for at vi tillig skulde lære at omgaaes med Penge og deels f
 som den jeg udøste mine Lønligste Tanker for. Det grædske og Latinske, som der er i Holbergs Skrifter skulde han ogsaa forklare mig, men han svarede mig, at det var Grædsk og <hi rend="italics" xml:id="idm139639967253888">Latin</hi>, som han ikke forstod. Forstod <hi rend="italics" xml:id="idm139639967253152">Holberg</hi> det [det] da, spurgte Jeg. Og da &lt;han&gt; svarede mig <hi rend="italics" xml:id="idm139639967252384">ja</hi>; sagde jeg, saa kunde du nok ogsaa lade mig Lære at forstaae det. Hvad kunde det gavne dig, sagde han, du har io ingen Buxer paa og kan ikke Blive Professor. Ja, men det er dog hæsligt, sagde jeg, at man ikke forstaae&lt;r&gt; en Bog heel, og derfor maae du endelig lade mig Lære det til Sommer. Saa har jeg io lovet dig, at Lade dig Lære at spille paa din <hi rend="italics" xml:id="idm139639967251216">Tantes Claveer</hi>, og at skrive, hvor meget vil du vel Lære Tøs? Alleting, svarede jeg og klavrede op paa hans Skiød og slog mine Arme om hans Hals, jeg skal være saa flittig, at Du skal holde endnu meere af mig, og dersom Du ikke vil sørge for mig, saa lærer din Pige slet jntet. Der har Du min Haand paa, sagde han, at saa Længe Gud Lader mig Leve med dig, skal jeg lade dig Lære alt hvad du faaer Lyst til. Hvem var nu gladere end jeg, hvor inderlig Længtes jeg efter at Dagene skulde Blive Lange for at faae alle disse <hi rend="italics" xml:id="idm139639967249840">Informatorer</hi>, men da de kom Bleve de til Bragte med Taare og ikke med Underviisning. Straks efter at jeg havde fuldendt mit Syvende Aar, fik jeg Skarlagens Feberen og var uden Haab, min Beste Fader, som frygtede for, at jeg maatte blive forsømt, Betalte to Koner, den eene til at være Bestandig hos mig om Dagen og den Anden om Natten, og den gamle Mand gik selv to Gange om Dagen fra <hi rend="italics" xml:id="idm139639967248384">Holmens</hi> Kirke til Storm Gaden og op i tredie Etage for at see til mig, og hver Gang han kom, maatte han love mig, at dersom jeg døde, saa skulde jeg komme i hans Begravelse, og &lt;han&gt; give min gamle Mand sin Mark om Ugen. De har Føye til at troe, min Ven, at jeg sladdrer alt for
 	<pb n="67" xml:id="s67" facs="adl/biehl/biehl1/biehl1067"/>
 Længe om mine Børne Aar, men De maae undskylde og tilgive mig, da det er den eneste Tiid af mit Liv, som jeg erindrer mig med Fornøyelse. Den øvrige har skienket mig megen Bitterhed.</p>
-        <p xml:id="idm139639967245728">Den 18 <hi rend="italics" xml:id="idm139639967245440">Februarij 1</hi>739 kom min Beste Fader en Onsdag Formiddag frisk og vel af Faste Prædikenen, og noget efter Elleve rørte Slaget ham, hvorved hans Mæle til min store Fortræd Blev ham Betaget; thi ellers havde han vist giort en eller anden Anordning til min Fordeel og den 19de om Eftermiddagen døde han. Min Bittre Sorg kan jeg ikke Beskrive Dem, det er utroeligt, at man paa den Alder skulde føle sin Forliis saa heftig som jeg følede min, jeg saae forud hvad Fremtiiden truede mig med, og hvor ubodeligt mit Tab var. Jeg Bad,jeg skreg, jeg raabte, at jeg dog Bare maatte see ham engang endnu, men altsammen forgieves; thi da han var en meget feed Mand, saa havde han strax efter sin Død forandret sig saaledes, at man frygtede for Virkningen af min Forskrækkelse over dette Syn. Da han altsaa skulde Bæres Aftenen for hans Begravelse i den sort Beklædte Stue, skiulede jeg mig Bag ved de Lange sorte Gardiner, og da de andre var gaaet ud og slaaet Døren i Laas kom jeg frem, krøb, gud veed hvordan, op paa Kisten og Lagde mig Langs paa Laaget. Jeg havde seet Pladen, da man Bragte den, og omtrent paa det Stæd hvor jeg troede, at hans Navn stod, kyssede jeg uafladeligen med vældende Taare, og har jeg nogensende Bedet ivrig til Gud, saa var det den Gang, om at Døe paa hans Kiste. Det var en kli&lt;n&gt;grende Frost, klokken var noget over tree da jeg sneg mig i Stuen og Laae paa Kisten indtil Vi skulde spiise, men jeg fornam ikke det mindste til Kulden. Da alle vare Blevne
+        <p xml:id="idm139639967245728">Den 18 <hi rend="italics" xml:id="idm139639967245440">Februarij 1</hi>739 kom min Beste Fader en Onsdag Formiddag frisk og vel af Faste Prædikenen, og noget efter Elleve rørte Slaget ham, hvorved hans Mæle til min store Fortræd Blev ham Betaget; thi ellers havde han vist giort en eller anden Anordning til min Fordeel og den 19de om Eftermiddagen døde han. Min Bittre Sorg kan jeg ikke Beskrive Dem, det er utroeligt, at man paa den Alder skulde føle sin Forliis saa heftig som jeg følede min, jeg saae forud hvad Fremtiiden truede mig med, og hvor ubodeligt mit Tab var. Jeg Bad, jeg skreg, jeg raabte, at jeg dog Bare maatte see ham engang endnu, men altsammen forgieves; thi da han var en meget feed Mand, saa havde han strax efter sin Død forandret sig saaledes, at man frygtede for Virkningen af min Forskrækkelse over dette Syn. Da han altsaa skulde Bæres Aftenen for hans Begravelse i den sort Beklædte Stue, skiulede jeg mig Bag ved de Lange sorte Gardiner, og da de andre var gaaet ud og slaaet Døren i Laas kom jeg frem, krøb, gud veed hvordan, op paa Kisten og Lagde mig Langs paa Laaget. Jeg havde seet Pladen, da man Bragte den, og omtrent paa det Stæd hvor jeg troede, at hans Navn stod, kyssede jeg uafladeligen med vældende Taare, og har jeg nogensende Bedet ivrig til Gud, saa var det den Gang, om at Døe paa hans Kiste. Det var en kli&lt;n&gt;grende Frost, klokken var noget over tree da jeg sneg mig i Stuen og Laae paa Kisten indtil Vi skulde spiise, men jeg fornam ikke det mindste til Kulden. Da alle vare Blevne
 	<pb n="68" xml:id="s68" facs="adl/biehl/biehl1/biehl1068"/>
 kaldede til Bords, savnede man mig først, den eene havde troet at jeg var hos den Anden, men da ingen havde seet mig Begyndte man at søge mig i heele Huuset og da der ingen Krog var meere tilovers kom de omsider ind til Liiget hvor de fandt mig halv Død af Graad og Kulde; Og hvorledes jeg havde grædt, kan De forestille Dem der af, at der var en tynd Jis Hinde paa Pladen af mine Taare. Det var paa den Tiid Brug, at en Enke maatte holde Sørge Stue i 6 Uger, det vil sige at sidde i et sort Beklædt Værelse med sine nærmeste Paarørende om sig for at tage imod <hi rend="italics" xml:id="idm139639967240816">Condolationer</hi>. Min Beste Fader havde været almindelig elsket, hvorfor der kom en stor deel Mennesker, men mit Syn rørte alle; Man var næsten eenig om, at en Kunstner aldrig kunde faae et hærlige&lt;re&gt; <hi rend="italics" xml:id="idm139639967239744">Model</hi> til en sørgende <hi rend="italics" xml:id="idm139639967239008">Genie</hi> ved en Grav. J sær blev Staldmester <hi rend="italics" xml:id="idm139639967238224">Bulous</hi> Fader inderlig rørt over at see paa mig. Han satte mig paa sit Skiød, kyssede mig, og sagde: Jeg <hi rend="italics" xml:id="idm139639967237312">condolerer</hi> hende min Lille Engel, at hun har mistet sin Beste Fader! Jdet han sagde det, Løftede jeg mine Hænder i den hæftigste Graad op mod Himmelen, og raabte: Jo Gud hielpe mig saa sandt, som jeg har mistet den Bedste! Hvad enten Vendningen af det Ord <emph xml:id="idm139639967236112">Bedste</emph> frapperede ham hos et Barn af den Alder, eller om al min Siels Væmodighed viiste sig i mine Lader, men han stak i at græde med mig, og da han ventelig skammede sig der ved, holdt han Tørklædet for Øynene og gik Bort uden at sige Farvel.</p>
         <p xml:id="idm139639967235072">Det varede ogsaa kun ganske kort førend jeg følede alt det græsselige i min Forfatning; Jeg havde mistet min Tilflugt og Forsvar; Vel holdt min Beste Moder meget af mig men min ældste <hi rend="italics" xml:id="idm139639967234416">Oncle</hi>, der var jaloux over hendes Kierlighed til mig, Behærskede hende ganske. Min Fader havde derimod aldrig kunde Lidt mig; Jeg var idelig Maalet for hans
@@ -1021,7 +1022,7 @@ Dorothea Biehl</hi>.</head>
         </head>
         <div xml:id="idm139639966419232">
           <p xml:id="idm139639966418976">Hvor intet andet er anført, henviser side- og linietællingen til originalmanuskriptet, som er fulgt linie for linie i udgaven. Kommentaren omfatter tre typer noter: sproglige ordforklaringer, personalhistoriske opklarende noter og alment kulturhistoriske realkommentarer.</p>
-          <p xml:id="idm139639966418032">De sproglige ordforklaringer bygger i det væsentlige på Ordbog over det danske Sprog, udgivet af Det danske Sprog- og Litteraturselskab, Kbh. 1919-1956 (forkortet til: ODS).</p>
+          <p xml:id="idm139639966418032">De sproglige ordforklaringer bygger i det væsentlige på Ordbog over det danske Sprog, udgivet af Det Danske Sprog- og Litteraturselskab, Kbh. 1919-1956 (forkortet til: ODS).</p>
           <p xml:id="idm139639966417280">Udgangspunktet for de personalhistoriske noter er: a) Louis Bobés 1. udgave af »Mit ubetydelige Levnets Løb«, Kbh. 1909. Denne var forsynet med en kommentar, som var særdeles veldokumenteret, når det gjaldt personalhistoriske spørgsmål. Bobé's arbejde på dette område har jeg ikke set nogen grund til at gøre om (dog må hans personlige vurderinger stå for hans egen regning, som f.eks. når han finder, at Ch. D. Biehl ligner sin fader i frastødende udseende, noten til s. 1,21). Nedenfor citeres uddrag af disse noter ordret i anførselstegn med et vedføjet »(Bobé)«. b) Dansk Biografisk Leksikon (3. udgave). Hvis en person er optaget heri, er dette anført i noten under forkortelsen: DBL. c) Sv. Cedergreen Bechs bog »Brev fra Dorothea«, Kbh. 1975, som fortrinsvis indeholder et udvalg af Biehls historiske breve. Heri er mange af de samme personer, som er omtalt i selvbiografien, nævnt. Der henvises generelt til denne bog og dens navneregister. Konkrete henvisninger til dette værk angives ved forkortelsen: Sv.C.B. samt sidetal.</p>
           <p xml:id="idm139639966414832">De almene realkommentarer er udarbejdet udfra såvel alment håndbogsstof som nyfremdraget kildemateriale. En del henvisninger til artikler og monografier dels til videre læsning, dels til dokumentation er anført.</p>
           <pb n="140" xml:id="s140" facs="adl/biehl/biehl1/biehl1140"/>

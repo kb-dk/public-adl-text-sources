@@ -1,9 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="idm140375016332224"><!-- 
-       file     ./marc_dir/002150314.xml
-       field     
-       subfield  
-       prefix   -->
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="root">
   <teiHeader xml:id="idm140375016331568">
     <fileDesc xml:id="idm140375016331312">
       <titleStmt xml:id="idm140375016331008">
@@ -18,8 +14,21 @@
         <note xml:id="idm140375016302960">
 	  </note>
       </notesStmt>
-      <sourceDesc xml:id="idm140375016302448"><bibl xml:id="idm140375016302320"><author n="1" xml:id="idm140375016301744"><name xml:id="idm140375016301488"><surname xml:id="idm140375016301360">Michaëlis</surname>, <forename xml:id="idm140375016300928">Sophus</forename></name></author><title xml:id="idm140375016300640">Giovanna. En Historie fra Staden med de skønne Taarne</title><pubPlace xml:id="idm140375016300256">Kbh</pubPlace>
-<date xml:id="idm140375016299776">1901</date></bibl><listBibl xml:id="idm140375016299488"><bibl xml:id="biblid54087"><title xml:id="idm140375016286336">Giovanna</title></bibl></listBibl></sourceDesc>
+      <sourceDesc xml:id="idm140375016302448">
+        <bibl xml:id="idm140375016302320">
+          <author n="1" xml:id="idm140375016301744">
+            <name xml:id="idm140375016301488"><surname xml:id="idm140375016301360">Michaëlis</surname>, <forename xml:id="idm140375016300928">Sophus</forename></name>
+          </author>
+          <title xml:id="idm140375016300640">Giovanna. En Historie fra Staden med de skønne Taarne</title>
+          <pubPlace xml:id="idm140375016300256">København</pubPlace>
+          <date xml:id="idm140375016299776">1901</date>
+        </bibl>
+        <listBibl xml:id="idm140375016299488">
+          <bibl xml:id="biblid54087">
+            <title xml:id="idm140375016286336">Giovanna</title>
+          </bibl>
+        </listBibl>
+      </sourceDesc>
     </fileDesc>
   </teiHeader>
   <text xml:id="workid54087" decls="#biblid54087">

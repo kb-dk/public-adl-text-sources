@@ -1,9 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="idm139820486884320"><!-- 
-       file     ./marc_dir/005047271.xml
-       field     
-       subfield  
-       prefix   -->
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="root">
   <teiHeader xml:id="idm139820486883712">
     <fileDesc xml:id="idm139820486883456">
       <titleStmt xml:id="idm139820486883152">
@@ -23,15 +19,20 @@
         <note xml:id="idm139820486853568">
 	  </note>
       </notesStmt>
-      <sourceDesc xml:id="idm139820486853056"><bibl xml:id="idm139820486852928"><author n="1" xml:id="idm139820486852240"><name xml:id="idm139820486851984"><surname xml:id="idm139820486851856">Andersen</surname>, <forename xml:id="idm139820486851392">H. C.</forename></name></author><title xml:id="idm139820486851104">I Spanien</title><pubPlace xml:id="idm139820486850816">[Kbh.]</pubPlace>; <pubPlace xml:id="idm139820486850352">[Valby]</pubPlace>
-<publisher xml:id="idm139820486849888">Det Danske Sprog- og Litteraturselskab</publisher><publisher xml:id="idm139820486849584">Borgen</publisher><date xml:id="idm139820486849248">[2005]</date></bibl><listBibl xml:id="idm139820486848960"><bibl xml:id="biblid54101"><title xml:id="idm139820486835808">I Spanien</title></bibl></listBibl></sourceDesc>
+      <sourceDesc xml:id="idm139820486853056">
+        <bibl xml:id="idm139820486852928"><author n="1" xml:id="idm139820486852240"><name xml:id="idm139820486851984"><surname xml:id="idm139820486851856">Andersen</surname>, <forename xml:id="idm139820486851392">H. C.</forename></name></author><title xml:id="idm139820486851104">I Spanien</title><pubPlace xml:id="idm139820486850816">[København]</pubPlace>; <pubPlace xml:id="idm139820486850352">[Valby]</pubPlace><publisher xml:id="idm139820486849888">Det Danske Sprog- og Litteraturselskab</publisher><publisher xml:id="idm139820486849584">Borgen</publisher><date xml:id="idm139820486849248">[2005]</date></bibl>
+        <listBibl xml:id="idm139820486848960">
+          <bibl xml:id="biblid54101">
+            <title xml:id="idm139820486835808">I Spanien</title>
+          </bibl>
+        </listBibl>
+      </sourceDesc>
     </fileDesc>
   </teiHeader>
   <text xml:id="workid54101" decls="#biblid54101">
     <front xml:id="idm139820486834224">
       <pb n="1" xml:id="ss1" facs="adl/andersenhc/andersenhc_09/andersenhc_09_001"/>
       <gap reason="cancelled" xml:id="idm139820486832720"/>
-<!--I Spanien-->
       <pb n="2" xml:id="ss2" facs="adl/andersenhc/andersenhc_09/andersenhc_09_002"/>
       <pb n="3" xml:id="ss3" facs="adl/andersenhc/andersenhc_09/andersenhc_09_003"/>
       <titlePage xml:id="idm139820486829568">

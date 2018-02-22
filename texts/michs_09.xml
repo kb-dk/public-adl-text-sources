@@ -1,9 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="idm140456635738240"><!-- 
-       file     ./marc_dir/002150328.xml
-       field     
-       subfield  
-       prefix   -->
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="root">
   <teiHeader xml:id="idm140456635742752">
     <fileDesc xml:id="idm140456635742496">
       <titleStmt xml:id="idm140456635742192">
@@ -21,8 +17,21 @@
         <note xml:id="idm140456635712896">
 	  </note>
       </notesStmt>
-      <sourceDesc xml:id="idm140456635712384"><bibl xml:id="idm140456635712256"><author n="1" xml:id="idm140456635711568"><name xml:id="idm140456635711312"><surname xml:id="idm140456635711184">Michaëlis</surname>, <forename xml:id="idm140456635710720">Sophus</forename></name></author><title xml:id="idm140456635710432">Hellener og Barbar. Roman fra Perserkrigenes Tid</title><pubPlace xml:id="idm140456635710112">Kbh</pubPlace>
-<date xml:id="idm140456635709632">1914</date></bibl><listBibl xml:id="idm140456635709344"><bibl xml:id="biblid54098"><title xml:id="idm140456635696192">Hellener og Barbar</title></bibl></listBibl></sourceDesc>
+      <sourceDesc xml:id="idm140456635712384">
+        <bibl xml:id="idm140456635712256">
+          <author n="1" xml:id="idm140456635711568">
+            <name xml:id="idm140456635711312"><surname xml:id="idm140456635711184">Michaëlis</surname>, <forename xml:id="idm140456635710720">Sophus</forename></name>
+          </author>
+          <title xml:id="idm140456635710432">Hellener og Barbar. Roman fra Perserkrigenes Tid</title>
+          <pubPlace xml:id="idm140456635710112">København</pubPlace>
+          <date xml:id="idm140456635709632">1914</date>
+        </bibl>
+        <listBibl xml:id="idm140456635709344">
+          <bibl xml:id="biblid54098">
+            <title xml:id="idm140456635696192">Hellener og Barbar</title>
+          </bibl>
+        </listBibl>
+      </sourceDesc>
     </fileDesc>
   </teiHeader>
   <text xml:id="workid54098" decls="#biblid54098">

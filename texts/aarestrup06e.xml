@@ -1,10 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!-- Tom opmærkning blo 29.10.2002-->
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="idm140538179013712"><!-- 
-       file     ./marc_dir/001582980.xml
-       field    559 
-       subfield a 
-       prefix   -->
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="root">
   <teiHeader xml:id="idm140538179012816">
     <fileDesc xml:id="idm140538179012560">
       <titleStmt xml:id="idm140538179012256">
@@ -17,15 +12,24 @@
         <author xml:id="idm140538178984992">Emil Aarestrup</author>
       </titleStmt>
       <publicationStmt xml:id="idm140538178984432">
-        <publisher xml:id="idm140538178984176">Det danske Sprog- og Litteraturselskab</publisher>
+        <publisher xml:id="idm140538178984176">Det Danske Sprog- og Litteraturselskab</publisher>
         <idno xml:id="idm140538178983744" xml:base="texts/aarestrup06e.xml">001582980:06</idno>
       </publicationStmt>
       <notesStmt xml:id="idm140538178982928">
         <note xml:id="idm140538178982624">
 	  </note>
       </notesStmt>
-      <sourceDesc xml:id="idm140538178982112"><bibl xml:id="idm140538178981984"><author n="1" xml:id="idm140538178981296"><name xml:id="idm140538178981040"><surname xml:id="idm140538178980912">Aarestrup</surname>, <forename xml:id="idm140538178980480">Emil</forename></name></author><title xml:id="idm140538178980192">Emil Aarestrups samlede skrifter</title><pubPlace xml:id="idm140538178979888">Kbh</pubPlace>
-<publisher xml:id="idm140538178979456">C. A. Reitzel</publisher><date xml:id="idm140538178979120">1976</date></bibl></sourceDesc>
+      <sourceDesc xml:id="idm140538178982112">
+        <bibl xml:id="idm140538178981984">
+          <author n="1" xml:id="idm140538178981296">
+            <name xml:id="idm140538178981040"><surname xml:id="idm140538178980912">Aarestrup</surname>, <forename xml:id="idm140538178980480">Emil</forename></name>
+          </author>
+          <title xml:id="idm140538178980192">Emil Aarestrups samlede skrifter</title>
+          <pubPlace xml:id="idm140538178979888">København</pubPlace>
+          <publisher xml:id="idm140538178979456">C. A. Reitzel</publisher>
+          <date xml:id="idm140538178979120">1976</date>
+        </bibl>
+      </sourceDesc>
     </fileDesc>
   </teiHeader>
   <text xml:id="idm140538178978448">

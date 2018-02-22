@@ -1,16 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!--siderne 333 til 392 skal afflages-->
-<!--hhl 27.9.2001-->
-<!-- rettelser: rd/ldquot, ndash,(unicoode 97) og 95 er fjernet (pletter)-->
-<!--HHL 08012002: ordnet bindestreger ved sideskift aht til soggning
-     Ptj rettet s. XIII  til  XXXVII - 4-5
-     20090420 VL: rettet s. 74, 79
--->
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="idm139811113720352"><!-- 
-       file     ./marc_dir/001823911.xml
-       field     
-       subfield  
-       prefix   -->
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="root">
   <teiHeader xml:id="idm139811113694192">
     <fileDesc xml:id="idm139811113693936">
       <titleStmt xml:id="idm139811113693680">
@@ -30,11 +19,19 @@
         <note xml:id="idm139811113689232">
 	  </note>
       </notesStmt>
-      <sourceDesc xml:id="idm139811113688720"><bibl xml:id="idm139811113688592"><author n="1" xml:id="idm139811113687904"><name xml:id="idm139811113687648"><surname xml:id="idm139811113687520">Jacobsen</surname>,
-      <forename xml:id="idm139811113687072">J. P.</forename></name></author><title xml:id="idm139811113686784">Samlede Værker
+      <sourceDesc xml:id="idm139811113688720">
+        <bibl xml:id="idm139811113688592">
+          <author n="1" xml:id="idm139811113687904">
+            <name xml:id="idm139811113687648"><surname xml:id="idm139811113687520">Jacobsen</surname>,
+      <forename xml:id="idm139811113687072">J. P.</forename></name>
+          </author>
+          <title xml:id="idm139811113686784">Samlede Værker
       I</title>
-      <title xml:id="idm139811113686336">Udg. paa Grundlag af Digterens efterladte Papirer af Morten Borup</title><pubPlace xml:id="idm139811113686080">Kbh</pubPlace>
-<date xml:id="idm139811113685600">1924-29</date></bibl></sourceDesc>
+          <title xml:id="idm139811113686336">Udg. paa Grundlag af Digterens efterladte Papirer af Morten Borup</title>
+          <pubPlace xml:id="idm139811113686080">København</pubPlace>
+          <date xml:id="idm139811113685600">1924-29</date>
+        </bibl>
+      </sourceDesc>
     </fileDesc>
   </teiHeader>
   <text xml:id="idm139811113684928">
@@ -129,7 +126,7 @@
           <hi rend="italics" xml:id="idm139811113648192">København, den 1. Maj 1924.</hi>
         </p>
         <p xml:id="idm139811113647328">
-          <hi rend="italics" xml:id="idm139811113647072">Det danske Sprog- og Litteraturselskab.</hi>
+          <hi rend="italics" xml:id="idm139811113647072">Det Danske Sprog- og Litteraturselskab.</hi>
         </p>
       </div>
       <pb n="X" facs="adl/jacobsenjp/jacobjp1/jajp1fm010" xml:id="idm139811113646112"/>
@@ -1426,7 +1423,7 @@
      men', at Jesus ikke kunde bede sin Fader at han tilskikkede hannem mere end tolv Skok Engle. O!
      falder ikke udi Mishaab, knurrer ikke i Eders Hjærter mod Herrens Raadslagning og <pb n="50" facs="adl/jacobsenjp/jacobjp1/jajp1050" xml:id="idm139811113250192"/> gjører ikke Eders Lever sort imod hans Vilje! Thi den, Herren vil
      nedslaa, den knuses, den Herren vil oprejse, lever i Tryghed. Og han er den, som haver mange
-     Veje at føre os ud af Farlighedens Ørker og Vildnisse; eller,kan han ikke vende Fjendens
+     Veje at føre os ud af Farlighedens Ørker og Vildnisse; eller, kan han ikke vende Fjendens
      Hjærte, eller lod han ikke den Dødsengle gaa. gjennem Sancheribs Lejr, eller have I forgjæt'
      det røde Havs svælgende Vande eller Kong Pharaos hastige Undergang? .. ." </p>
         <p xml:id="idm139811113248672"> Her blev Jesper Kiim afbrudt. </p>
@@ -5136,7 +5133,7 @@
      det var den skjønneste Drøm, hun kjendte. </p>
         <p xml:id="idm139811112165760"> Det var den første Tid; men Fantasien trættedes af evigt frugtesløst at flyve mod det samme
      Maal, som en indelukket Bi, der summer imod Ruden, og alle Evner trættedes med den. </p>
-        <p xml:id="idm139811112164992"> Som en skjøn og ædel Bygning i Barbarers Hænder forsømmes og fordærves, idet d,e dristige
+        <p xml:id="idm139811112164992"> Som en skjøn og ædel Bygning i Barbarers Hænder forsømmes og fordærves, idet de dristige
      Spir trykkes ned til plumpe Kuppelhatte, de kniplingsfine Ornamenter brydes Led efter Led, og
      den rige Billedpragt dækkes Lag paa Lag med dødende Kalk, saaledes forsømtes og fordærvedes
      Marie Grubbe i disse seksten Aar. </p>
@@ -5208,7 +5205,7 @@
      stigende Angst Ildens Fremskridt fra Spænde til Spænde og vaandede sig lydeligt hver Gang en
      Flamme fik Luft og triumferende svinged sin gnistomflagrede Hvirvel højt over Huset. </p>
         <p xml:id="idm139811112145424"> Marie var ogsaa dernede, men hendes Blik havde andet Maal end Branden. </p>
-        <p xml:id="idm139811112144944"> Hun saae paa den nye Kud,sk, som ledte de forskrækkede, ildsky Heste ud af den røgopfyldte
+        <p xml:id="idm139811112144944"> Hun saae paa den nye Kudsk, som ledte de forskrækkede, ildsky Heste ud af den røgopfyldte
      Stald. Dørkarmen var stødt ud og Dørgabet udvidet over sin dobbelte Bredde, idet den svage
      Raastensmur var reven ned til begge Sider, og ud ad denne Aabning førte han Hestene, en ved
      hver Haand. De kraftige Dyr, som var helt forstyrrede af Røgen, stejlede og kastede sig

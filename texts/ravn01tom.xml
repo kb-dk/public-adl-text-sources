@@ -1,10 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!--Tom opmærkning blo 24.09.02-->
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="idm140229286934416"><!-- 
-       file     ./marc_dir/002045299.xml
-       field     
-       subfield  
-       prefix   -->
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="root">
   <teiHeader xml:id="idm140229286939072">
     <fileDesc xml:id="idm140229286938816">
       <titleStmt xml:id="idm140229286938512">
@@ -19,8 +14,25 @@
         <note xml:id="idm140229286910416">
 	  </note>
       </notesStmt>
-      <sourceDesc xml:id="idm140229286909904"><bibl xml:id="idm140229286909776"><author n="1" xml:id="idm140229286909088"><name xml:id="idm140229286908832"><surname xml:id="idm140229286908704">Ravnkilde</surname>, <forename xml:id="idm140229286908272">Adda</forename></name></author><title xml:id="idm140229286907984">To Fortællinger</title><pubPlace xml:id="idm140229286907680">Kjøbenhavn</pubPlace>
-<publisher xml:id="idm140229286907216">Gyldendal</publisher><date xml:id="idm140229286906880">1884</date></bibl><listBibl xml:id="idm140229286906592"><bibl xml:id="biblid54147"><title xml:id="idm140229286893392">En Pyrrhussejr</title></bibl><bibl xml:id="biblid55233"><title xml:id="idm140229286892608">Tantaluskvaler</title></bibl></listBibl></sourceDesc>
+      <sourceDesc xml:id="idm140229286909904">
+        <bibl xml:id="idm140229286909776">
+          <author n="1" xml:id="idm140229286909088">
+            <name xml:id="idm140229286908832"><surname xml:id="idm140229286908704">Ravnkilde</surname>, <forename xml:id="idm140229286908272">Adda</forename></name>
+          </author>
+          <title xml:id="idm140229286907984">To Fortællinger</title>
+          <pubPlace xml:id="idm140229286907680">Kjøbenhavn</pubPlace>
+          <publisher xml:id="idm140229286907216">Gyldendal</publisher>
+          <date xml:id="idm140229286906880">1884</date>
+        </bibl>
+        <listBibl xml:id="idm140229286906592">
+          <bibl xml:id="biblid54147">
+            <title xml:id="idm140229286893392">En Pyrrhussejr</title>
+          </bibl>
+          <bibl xml:id="biblid55233">
+            <title xml:id="idm140229286892608">Tantaluskvaler</title>
+          </bibl>
+        </listBibl>
+      </sourceDesc>
     </fileDesc>
   </teiHeader>
   <text xml:id="idm140229286891968">

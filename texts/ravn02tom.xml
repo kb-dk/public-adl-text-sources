@@ -1,10 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!--Tom opmærkning blo 24.09.02-->
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="idm140505560948080"><!-- 
-       file     ./marc_dir/002045300.xml
-       field     
-       subfield  
-       prefix   -->
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="root">
   <teiHeader xml:id="idm140505560947152">
     <fileDesc xml:id="idm140505560946896">
       <titleStmt xml:id="idm140505560946592">
@@ -19,8 +14,21 @@
         <note xml:id="idm140505560918480">
 	  </note>
       </notesStmt>
-      <sourceDesc xml:id="idm140505560917968"><bibl xml:id="idm140505560917840"><author n="1" xml:id="idm140505560917152"><name xml:id="idm140505560916896"><surname xml:id="idm140505560916768">Ravnkilde</surname>, <forename xml:id="idm140505560916336">Adda</forename></name></author><title xml:id="idm140505560916080">Judith Fürste. En Fortælling</title><pubPlace xml:id="idm140505560915744">Kbh</pubPlace>
-<date xml:id="idm140505560915264">1884</date></bibl><listBibl xml:id="idm140505560914976"><bibl xml:id="biblid54268"><title xml:id="idm140505560901824">Judith Fürste</title></bibl></listBibl></sourceDesc>
+      <sourceDesc xml:id="idm140505560917968">
+        <bibl xml:id="idm140505560917840">
+          <author n="1" xml:id="idm140505560917152">
+            <name xml:id="idm140505560916896"><surname xml:id="idm140505560916768">Ravnkilde</surname>, <forename xml:id="idm140505560916336">Adda</forename></name>
+          </author>
+          <title xml:id="idm140505560916080">Judith Fürste. En Fortælling</title>
+          <pubPlace xml:id="idm140505560915744">København</pubPlace>
+          <date xml:id="idm140505560915264">1884</date>
+        </bibl>
+        <listBibl xml:id="idm140505560914976">
+          <bibl xml:id="biblid54268">
+            <title xml:id="idm140505560901824">Judith Fürste</title>
+          </bibl>
+        </listBibl>
+      </sourceDesc>
     </fileDesc>
   </teiHeader>
   <text xml:id="idm140505560901136">

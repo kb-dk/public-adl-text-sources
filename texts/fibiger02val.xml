@@ -1,9 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="idm139950814132112"><!-- 
-       file     ./marc_dir/001913359.xml
-       field     
-       subfield  
-       prefix   -->
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="root">
   <teiHeader xml:id="idm139950814136816">
     <fileDesc xml:id="idm139950814136560">
       <titleStmt xml:id="idm139950814136256">
@@ -23,17 +19,27 @@
         <note xml:id="idm139950814106960">
 	  </note>
       </notesStmt>
-      <sourceDesc xml:id="idm139950814106448"><bibl xml:id="idm139950814106320"><author n="1" xml:id="idm139950814105632"><name xml:id="idm139950814105376"><surname xml:id="idm139950814105248">Fibiger</surname>, <forename xml:id="idm139950814104784">Mathilde</forename></name></author><title xml:id="idm139950814104496">"Et Besøg"</title><pubPlace xml:id="idm139950814104208">Kbh.</pubPlace>
-<date xml:id="idm139950814103696">1851</date></bibl><listBibl xml:id="idm139950814103408"><bibl xml:id="biblid54099"><title xml:id="idm139950814090256">Et Besøg</title></bibl></listBibl></sourceDesc>
+      <sourceDesc xml:id="idm139950814106448">
+        <bibl xml:id="idm139950814106320">
+          <author n="1" xml:id="idm139950814105632">
+            <name xml:id="idm139950814105376"><surname xml:id="idm139950814105248">Fibiger</surname>, <forename xml:id="idm139950814104784">Mathilde</forename></name>
+          </author>
+          <title xml:id="idm139950814104496">"Et Besøg"</title>
+          <pubPlace xml:id="idm139950814104208">København</pubPlace>
+          <date xml:id="idm139950814103696">1851</date>
+        </bibl>
+        <listBibl xml:id="idm139950814103408">
+          <bibl xml:id="biblid54099">
+            <title xml:id="idm139950814090256">Et Besøg</title>
+          </bibl>
+        </listBibl>
+      </sourceDesc>
     </fileDesc>
   </teiHeader>
   <text xml:id="workid54099" decls="#biblid54099">
     <front xml:id="idm139950814088624">
       <pb n="1" xml:id="s1" facs="adl/fibiger/fibiger2/fibi2001"/>
       <gap reason="cancelled" xml:id="idm139950814087168"/>
-<!---->
-<!---->
-<!--Clara Raphael, »Et Besøg.« Nye Breve-->
       <titlePage xml:id="idm139950814085664">
         <docAuthor xml:id="idm139950814085408">Forfatterinden til Clara Raphael.</docAuthor>
         <docTitle xml:id="idm139950814084976">

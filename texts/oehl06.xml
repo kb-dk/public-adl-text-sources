@@ -1,9 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="idm140072290927984"><!-- 
-       file     ./marc_dir/001764961.xml
-       field     
-       subfield  
-       prefix   -->
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="root">
   <teiHeader xml:id="idm140072290933344">
     <fileDesc xml:id="idm140072290933088">
       <titleStmt xml:id="idm140072290932784">
@@ -16,7 +12,7 @@
       </titleStmt>
       <publicationStmt xml:id="idm140072290905232">
         <publisher xml:id="idm140072290904976">Danske Klassikere
-Det danske Sprog- og Litteraturselska</publisher>
+Det Danske Sprog- og Litteraturselska</publisher>
         <pubPlace xml:id="idm140072290904528">Borgen</pubPlace>
         <idno xml:id="idm140072290904144" xml:base="texts/oehl06.xml">001764961:06</idno>
       </publicationStmt>
@@ -24,17 +20,29 @@ Det danske Sprog- og Litteraturselska</publisher>
         <note xml:id="idm140072290903024">
 	  </note>
       </notesStmt>
-      <sourceDesc xml:id="idm140072290902512"><bibl xml:id="idm140072290902384"><author n="1" xml:id="idm140072290901696"><name xml:id="idm140072290901440"><surname xml:id="idm140072290901312">Oehlenschläger</surname>, <forename xml:id="idm140072290900832">Adam</forename></name></author><title xml:id="idm140072290900544">Helge</title><pubPlace xml:id="idm140072290900256">[Kbh.]</pubPlace>; <pubPlace xml:id="idm140072290899792">[Valby]</pubPlace>
-<publisher xml:id="idm140072290899328">Det Danske Sprog- og Litteraturselskab</publisher><publisher xml:id="idm140072290899024">Borgen</publisher><date xml:id="idm140072290898688">1996</date></bibl><listBibl xml:id="idm140072290898400"><bibl xml:id="biblid54102"><title xml:id="idm140072290885200">Helge. Et Digt (Danske Klassikere)</title></bibl><bibl xml:id="biblid54294"><title xml:id="idm140072290884400">Frodes Drapa</title></bibl><bibl xml:id="biblid57296"><title xml:id="idm140072290883616">Helges Eventyr</title></bibl><bibl xml:id="biblid63560"><title xml:id="idm140072290882832">Yrsa</title></bibl></listBibl></sourceDesc>
+      <sourceDesc xml:id="idm140072290902512">
+        <bibl xml:id="idm140072290902384"><author n="1" xml:id="idm140072290901696"><name xml:id="idm140072290901440"><surname xml:id="idm140072290901312">Oehlenschläger</surname>, <forename xml:id="idm140072290900832">Adam</forename></name></author><title xml:id="idm140072290900544">Helge</title><pubPlace xml:id="idm140072290900256">[København]</pubPlace>; <pubPlace xml:id="idm140072290899792">[Valby]</pubPlace><publisher xml:id="idm140072290899328">Det Danske Sprog- og Litteraturselskab</publisher><publisher xml:id="idm140072290899024">Borgen</publisher><date xml:id="idm140072290898688">1996</date></bibl>
+        <listBibl xml:id="idm140072290898400">
+          <bibl xml:id="biblid54102">
+            <title xml:id="idm140072290885200">Helge. Et Digt (Danske Klassikere)</title>
+          </bibl>
+          <bibl xml:id="biblid54294">
+            <title xml:id="idm140072290884400">Frodes Drapa</title>
+          </bibl>
+          <bibl xml:id="biblid57296">
+            <title xml:id="idm140072290883616">Helges Eventyr</title>
+          </bibl>
+          <bibl xml:id="biblid63560">
+            <title xml:id="idm140072290882832">Yrsa</title>
+          </bibl>
+        </listBibl>
+      </sourceDesc>
     </fileDesc>
   </teiHeader>
   <text xml:id="workid54102" decls="#biblid54102">
     <front xml:id="idm140072290881200">
       <pb n="I" facs="adl/oehl/oehl6/oehl6001" xml:id="idm140072290880896"/>
       <gap reason="cancelled" xml:id="idm140072290880032"/>
-<!---->
-<!---->
-<!--Helge Et Digt-->
       <pb n="II" facs="adl/oehl/oehl6/oehl6002" xml:id="idm140072290878512"/>
       <pb n="III" facs="adl/oehl/oehl6/oehl6003" xml:id="idm140072290877776"/>
       <titlePage xml:id="idm140072290877008">
@@ -49,7 +57,7 @@ Det danske Sprog- og Litteraturselska</publisher>
         </docEdition>
         <docImprint xml:id="idm140072290873008">
           <publisher xml:id="idm140072290872752">Danske Klassikere
-Det danske Sprog- og Litteraturselskab
+Det Danske Sprog- og Litteraturselskab
 Borgens Forlag
 </publisher>
         </docImprint>

@@ -1,10 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!--Tom opmærkning d. 19.06.2002 blo -->
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="idm140407108020112"><!-- 
-       file     ./marc_dir/001823114.xml
-       field    530 
-       subfield a 
-       prefix   7. Bind-->
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="root">
   <teiHeader xml:id="idm140407108024768">
     <fileDesc xml:id="idm140407108024512">
       <titleStmt xml:id="idm140407108024208">
@@ -24,19 +19,20 @@
 	  </note>
       </notesStmt>
       <sourceDesc xml:id="idm140407107994384">
-	<bibl xml:id="idm140407107994128">
-	  <author n="1" xml:id="idm140407107993312">
-	    <name xml:id="idm140407107992880">
-	      <surname xml:id="idm140407107992576">Helgesen</surname>, <forename xml:id="idm140407107992144">Poul</forename>
-	    </name>
-	  </author>
-	  <title xml:id="idm140407107991472">Skrifter af Paulus Helie 7. Bind  / ved Marius
+        <bibl xml:id="idm140407107994128">
+          <author n="1" xml:id="idm140407107993312">
+            <name xml:id="idm140407107992880"><surname xml:id="idm140407107992576">Helgesen</surname>, <forename xml:id="idm140407107992144">Poul</forename></name>
+          </author>
+          <title xml:id="idm140407107991472">Skrifter af Paulus Helie 7. Bind  / ved Marius
 	  Kristensen og Niels-Knud Andersen. - 1948</title>
-	  <title xml:id="idm140407107990976">Udgivet af Det danske Sprog- og Litteraturselskab</title>
-	  <pubPlace xml:id="idm140407107990528">Kbh.</pubPlace>
-	  <date xml:id="idm140407107990064">1932-1948</date>
-	</bibl>
-	<listBibl xml:id="idm140407107989472"><bibl xml:id="idm140407107989344"/></listBibl></sourceDesc>
+          <title xml:id="idm140407107990976">Udgivet af Det Danske Sprog- og Litteraturselskab</title>
+          <pubPlace xml:id="idm140407107990528">København</pubPlace>
+          <date xml:id="idm140407107990064">1932-1948</date>
+        </bibl>
+        <listBibl xml:id="idm140407107989472">
+          <bibl xml:id="idm140407107989344"/>
+        </listBibl>
+      </sourceDesc>
     </fileDesc>
   </teiHeader>
   <text xml:id="idm140407107988832">

@@ -1,10 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!-- 20070620 VL rettelse s. v  -->
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="idm140131089304400"><!-- 
-       file     ./marc_dir/001913811.xml
-       field     
-       subfield  
-       prefix   -->
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="root">
   <teiHeader xml:id="idm140131089303792">
     <fileDesc xml:id="idm140131089303536">
       <titleStmt xml:id="idm140131089303232">
@@ -19,8 +14,21 @@
         <note xml:id="idm140131089275280">
 	  </note>
       </notesStmt>
-      <sourceDesc xml:id="idm140131089274768"><bibl xml:id="idm140131089274640"><author n="1" xml:id="idm140131089274000"><name xml:id="idm140131089273744"><surname xml:id="idm140131089273616">Gjellerup</surname>, <forename xml:id="idm140131089273152">Karl</forename></name></author><title xml:id="idm140131089272864">Romulus. En Novelle</title><pubPlace xml:id="idm140131089272576">Kbh</pubPlace>
-<date xml:id="idm140131089272096">1883</date></bibl><listBibl xml:id="idm140131089271808"><bibl xml:id="biblid54090"><title xml:id="idm140131089258656">Romulus. En Novelle</title></bibl></listBibl></sourceDesc>
+      <sourceDesc xml:id="idm140131089274768">
+        <bibl xml:id="idm140131089274640">
+          <author n="1" xml:id="idm140131089274000">
+            <name xml:id="idm140131089273744"><surname xml:id="idm140131089273616">Gjellerup</surname>, <forename xml:id="idm140131089273152">Karl</forename></name>
+          </author>
+          <title xml:id="idm140131089272864">Romulus. En Novelle</title>
+          <pubPlace xml:id="idm140131089272576">København</pubPlace>
+          <date xml:id="idm140131089272096">1883</date>
+        </bibl>
+        <listBibl xml:id="idm140131089271808">
+          <bibl xml:id="biblid54090">
+            <title xml:id="idm140131089258656">Romulus. En Novelle</title>
+          </bibl>
+        </listBibl>
+      </sourceDesc>
     </fileDesc>
   </teiHeader>
   <text xml:id="workid54090" decls="#biblid54090">
@@ -228,7 +236,7 @@ med en Lyd af rask Trav. Men et Øjeblik efter hørte Zeuthen hende le. Han vids
         <p xml:id="idm140131089124112">Han havde faaet Lyst til at sidde og snakke lidt med Faderen, der var hans eneste Fortrolige, og han følte sig adspredt, uden Arbejdskraft, raadvild overfor en ensom Aften, da han lukkede sig ind i sin Ungkarlelejlighed
 	<pb n="16" facs="adl/gjellerup/gjellerup2/gjel2016" xml:id="idm140131089123392"/>
 paa anden Sal. Da han tændte Lampen paa sit store Egetræsskrivebord, faldt Lyset ned paa et Par Korsbaandsforsendelser med udenlandske Frimærker. Det var Særtryk af et tysk og engelsk Lægetidsskrift, tilsendt ham af Forfatteren. Glad ved at finde noget, der havde Nyhedens pirrende Interesse, skruede han Lampen op og satte sig til at læse.</p>
-        <p xml:id="idm140131089121824">Midt i det store kvadratiske Værelse stod en Chaiselong skødesløst paa skraa med et Stykke Voxdug over Fodenden, og ovenover den hang en Hængelampe. Det lange Arbejdsbord tilvenstre foran Sofaen var fuldt af Bøger, der dækkede største Delen af det brune Klæde og skubbede sig helt ud paa Egetræsrammen. Et Par store Reoler byggede paa begge Sider af Sofaen deres mørke Bog-Stokværk op mod Loftet, medens midt paa den bageste Væg de mere moderne Bind straalede bagved et lille Bogskabs Glasdør. Mod den dunkle Baggrund af et grønt Gardin, der var trukket for Vinduet, var der bagved Hjørnet af Arbejdsbordet en forvirret, mat Blinken af Mikroskopets Glaskuppel , Glasstænger, Reagensglas, Uhrglas, Flasker og Lamper, der stod imellem hinanden paa Pladen af et svært Egetræsbord med tykke Kugleben. I det mørke Hjørne
+        <p xml:id="idm140131089121824">Midt i det store kvadratiske Værelse stod en Chaiselong skødesløst paa skraa med et Stykke Voxdug over Fodenden, og ovenover den hang en Hængelampe. Det lange Arbejdsbord tilvenstre foran Sofaen var fuldt af Bøger, der dækkede største Delen af det brune Klæde og skubbede sig helt ud paa Egetræsrammen. Et Par store Reoler byggede paa begge Sider af Sofaen deres mørke Bog-Stokværk op mod Loftet, medens midt paa den bageste Væg de mere moderne Bind straalede bagved et lille Bogskabs Glasdør. Mod den dunkle Baggrund af et grønt Gardin, der var trukket for Vinduet, var der bagved Hjørnet af Arbejdsbordet en forvirret, mat Blinken af Mikroskopets Glaskuppel, Glasstænger, Reagensglas, Uhrglas, Flasker og Lamper, der stod imellem hinanden paa Pladen af et svært Egetræsbord med tykke Kugleben. I det mørke Hjørne
 	<pb n="17" facs="adl/gjellerup/gjellerup2/gjel2017" xml:id="idm140131089119808"/>
 tilvenstre for Gardinet skimtedes et Porselæns <hi rend="italics" xml:id="idm140131089118928">Lavoir</hi> med japanesisk Maleri og en dragehovedet Tintud, der bøjede sig ud over en muslingformet Skaal; - af og til, regelmæssig, omtrent en Gang i hvert Minut, faldt der en Draabe fra Tuden ned i Skaalen. Men det andet Vindueshjørne ved Skrivebordet var fuldt af et stærkt Lampelys, der glimrede paa Broncefolderne af det store Skrivetøjs Voltaire-Statue og ovenover med sin Lysrand naade lige over Kadaveret paa "La leçon d'anatomie". Foruden dette Fotografi og nogle mindre Portraiter var der kun to Billeder paa Væggene: over Sofaen, imellem de to Reoler, lyste Darwins Nestor-Pande og Urmenneske-Skæg paa et stort Fotografi, hvis mørkere Partier trak sig tilbage, medens en fin Radering ved Siden af med den karakteristiske Profil af en flad middelalderlig Hue over et skarpt langhaget Ansigt lod En kende Mestersangeren fra Bayreuth.</p>
         <p xml:id="idm140131089116304">Der var ingen Tobakslugt i Værelset, men en fin gaadefuld Aroma, noget ligesom Udaanding af exotiske Blomster og Træsorter, sart og næsten usanselig, som en Erindring af Duft. De stilfulde moderne Møbler, den skødesløse, bekvemme Orden overalt, 
@@ -1769,7 +1777,7 @@ ikke i saa Fald havde handlet ondt med sit eget Legeme. - Det var heller ingen s
         <p xml:id="idm140131088006640">Han løftede Pisken op over Hovedet, saa Spidsen stødte mod Væggen.</p>
         <p xml:id="idm140131088006096">Og efter hvert af disse Flanketræk, der knaldede med en Haardhed, saa man skulde tro, de ramte Læder og ikke nervebesjælede Muskler, var det ensformige, klodsede Drøn af Jærnskoene paa Barrieretræet det eneste Svar af en stum Smerte, der sprællede sig mat. Kun naar der var usædvanlig længe mellem Slagene, hørtes en fortvivlet hivende Stønnen, medens hvide Aandestøtter joges ud
 	<pb n="275" facs="adl/gjellerup/gjellerup2/gjel2275" xml:id="idm140131088005152"/>
-i den kolde Luft af de opspilede, blodrøde Næsebor . . . Fra Mundvigen, der krængedes af Stangbidslet, føg store Fraadeflager over den tilbagekrummede Hals, som skummede oppe langs Tøjlen, ned ad Bringe og Bov og hen paa den foldeblanke Ridestøvle, hvis Spor,e bed sig fast bag Gjorden som en Igle. - Der stod Taage rundt om den. Sveden, der begyndte at sive ud og drive ned over det dirrende Skind, genstraalede Gaslyset i krumme Reflexer med en Glans af anløbet Kulblænde. Saaledes, pint frem og tvunget tilbage, nærmede den sig sætvis, langs Væggen.</p>
+i den kolde Luft af de opspilede, blodrøde Næsebor . . . Fra Mundvigen, der krængedes af Stangbidslet, føg store Fraadeflager over den tilbagekrummede Hals, som skummede oppe langs Tøjlen, ned ad Bringe og Bov og hen paa den foldeblanke Ridestøvle, hvis Spore bed sig fast bag Gjorden som en Igle. - Der stod Taage rundt om den. Sveden, der begyndte at sive ud og drive ned over det dirrende Skind, genstraalede Gaslyset i krumme Reflexer med en Glans af anløbet Kulblænde. Saaledes, pint frem og tvunget tilbage, nærmede den sig sætvis, langs Væggen.</p>
         <p xml:id="idm140131088003504">- Lad os ride ud ... Her kan De ikke blive, sagde Gustav.</p>
         <p xml:id="idm140131088003040">- Ja, ja - ud ... Lad Døren lukke op, Hr. Henriksen.</p>
         <p xml:id="idm140131088002528">- Men i det Vejr, Frøken - -.</p>

@@ -1,11 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!-- 20031114 HHL ændret tegn side 198 linie 3 + div. rettelser
-                     teksten lå på serveren som Unicode? - ændret til iso-8859. Ptj rettet s. 9-10-91  -->
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="idm139867562314864"><!-- 
-       file     ./marc_dir/001442770.xml
-       field     
-       subfield  
-       prefix   -->
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="root">
   <teiHeader xml:id="idm139867562313840">
     <fileDesc xml:id="idm139867562313584">
       <titleStmt xml:id="idm139867562288112">
@@ -17,24 +11,27 @@
         <author xml:id="idm139867562286448">H.C. ANDERSEN</author>
       </titleStmt>
       <publicationStmt xml:id="idm139867562285936">
-        <publisher xml:id="idm139867562285680">Det danske Sprog- og Litteraturselskab</publisher>
+        <publisher xml:id="idm139867562285680">Det Danske Sprog- og Litteraturselskab</publisher>
         <idno xml:id="idm139867562285248" xml:base="texts/andersen05val.xml">001442770:05</idno>
       </publicationStmt>
       <notesStmt xml:id="idm139867562284432">
         <note xml:id="idm139867562284128">
 	  </note>
       </notesStmt>
-      <sourceDesc xml:id="idm139867562283616"><bibl xml:id="idm139867562283488"><author n="1" xml:id="idm139867562282800"><name xml:id="idm139867562282544"><surname xml:id="idm139867562282416">Andersen</surname>, <forename xml:id="idm139867562281984">H. C.</forename></name></author><title xml:id="idm139867562281728">Kun en Spillemand</title><pubPlace xml:id="idm139867562281440">[Kbh.]</pubPlace>; <pubPlace xml:id="idm139867562280976">[Valby]</pubPlace>; <pubPlace xml:id="idm139867562280560">[Ballerup]</pubPlace>
-<publisher xml:id="idm139867562280096">Det danske Sprog- og Litteraturselskab</publisher><publisher xml:id="idm139867562279792">Borgen</publisher><publisher xml:id="idm139867562279504">i samarbejde med Nyt Dansk Litteraturselskab</publisher><date xml:id="idm139867562279136">cop. 1988</date></bibl><listBibl xml:id="idm139867562278848"><bibl xml:id="biblid54101"><title xml:id="idm139867562265696">Kun en Spillemand</title></bibl></listBibl></sourceDesc>
+      <sourceDesc xml:id="idm139867562283616">
+        <bibl xml:id="idm139867562283488"><author n="1" xml:id="idm139867562282800"><name xml:id="idm139867562282544"><surname xml:id="idm139867562282416">Andersen</surname>, <forename xml:id="idm139867562281984">H. C.</forename></name></author><title xml:id="idm139867562281728">Kun en Spillemand</title><pubPlace xml:id="idm139867562281440">[København]</pubPlace>; <pubPlace xml:id="idm139867562280976">[Valby]</pubPlace>; <pubPlace xml:id="idm139867562280560">[Ballerup]</pubPlace><publisher xml:id="idm139867562280096">Det Danske Sprog- og Litteraturselskab</publisher><publisher xml:id="idm139867562279792">Borgen</publisher><publisher xml:id="idm139867562279504">i samarbejde med Nyt Dansk Litteraturselskab</publisher><date xml:id="idm139867562279136">cop. 1988</date></bibl>
+        <listBibl xml:id="idm139867562278848">
+          <bibl xml:id="biblid54101">
+            <title xml:id="idm139867562265696">Kun en Spillemand</title>
+          </bibl>
+        </listBibl>
+      </sourceDesc>
     </fileDesc>
   </teiHeader>
   <text xml:id="workid54101" decls="#biblid54101">
     <front xml:id="idm139867562264112">
       <pb n="1" facs="adl/andersenhc/andersenhc5/anhc5001" xml:id="idm139867562263808"/>
       <gap reason="cancelled" xml:id="idm139867562262992"/>
-<!---->
-<!---->
-<!--Kun en Spillemand-->
       <pb n="2" facs="adl/andersenhc/andersenhc5/anhc5002" xml:id="idm139867562261472"/>
       <pb n="3" facs="adl/andersenhc/andersenhc5/anhc5003" xml:id="idm139867562260688"/>
       <titlePage xml:id="idm139867562259920">
@@ -52,7 +49,7 @@
 					</bibl>
         </docEdition>
         <docImprint xml:id="idm139867562343424">
-          <publisher xml:id="idm139867562343168">Danske Klassikere<lb xml:id="idm139867562342880"/> Det danske Sprog- og Litteraturselskab<lb xml:id="idm139867562342624"/>
+          <publisher xml:id="idm139867562343168">Danske Klassikere<lb xml:id="idm139867562342880"/> Det Danske Sprog- og Litteraturselskab<lb xml:id="idm139867562342624"/>
 						Borgen </publisher>
         </docImprint>
       </titlePage>
@@ -2328,7 +2325,7 @@
 								bliver ældre! Ungdommens Synd faaer Menneskenes Tilgivelse, Manden
 								derimod dømme de stræneere. Tag for Dig af Glæden, medens Du kan, at
 								Du ikke som <pb n="70" facs="adl/andersenhc/andersenhc5/anhc5070" xml:id="idm139867561552000"/> Gammel skal græde over,
-								at Du ingen Synder har; de hore med, som Salt i Maden. Bedre er det
+								at Du ingen Synder har; de høre med, som Salt i Maden. Bedre er det
 								at have nydt Livet for meget, end siden i Eensomhed at maatte sukke
 								over, at man ikke nød det, medens man kunde. Det skriver jeg i Din
 								Vandrebog! Gud eller Djævelen, i hvilket Regiment Du saa er sat,

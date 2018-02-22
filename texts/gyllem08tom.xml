@@ -1,10 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!--Tom opmærkning blo 25.06.02-->
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="idm139962644880448"><!-- 
-       file     ./marc_dir/002729949.xml
-       field     
-       subfield  
-       prefix   -->
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="root">
   <teiHeader xml:id="idm139962644879616">
     <fileDesc xml:id="idm139962644879360">
       <titleStmt xml:id="idm139962644879056">
@@ -19,8 +14,21 @@
         <note xml:id="idm139962644851136">
 	  </note>
       </notesStmt>
-      <sourceDesc xml:id="idm139962644850624"><bibl xml:id="idm139962644850496"><author n="1" xml:id="idm139962644849808"><name xml:id="idm139962644849552"><surname xml:id="idm139962644849424">Gyllembourg-Ehrensvärd</surname>, <forename xml:id="idm139962644848928">T. C.</forename></name></author><title xml:id="idm139962644848672">samlede skrifter af Forf</title><pubPlace xml:id="idm139962644848368">Kbh.</pubPlace>
-<date xml:id="idm139962644847856">1866-67</date></bibl><listBibl xml:id="idm139962644847568"><bibl xml:id="biblid54254"><title xml:id="idm139962644834416">Maria (1839)</title></bibl></listBibl></sourceDesc>
+      <sourceDesc xml:id="idm139962644850624">
+        <bibl xml:id="idm139962644850496">
+          <author n="1" xml:id="idm139962644849808">
+            <name xml:id="idm139962644849552"><surname xml:id="idm139962644849424">Gyllembourg-Ehrensvärd</surname>, <forename xml:id="idm139962644848928">T. C.</forename></name>
+          </author>
+          <title xml:id="idm139962644848672">samlede skrifter af Forf</title>
+          <pubPlace xml:id="idm139962644848368">København</pubPlace>
+          <date xml:id="idm139962644847856">1866-67</date>
+        </bibl>
+        <listBibl xml:id="idm139962644847568">
+          <bibl xml:id="biblid54254">
+            <title xml:id="idm139962644834416">Maria (1839)</title>
+          </bibl>
+        </listBibl>
+      </sourceDesc>
     </fileDesc>
   </teiHeader>
   <text xml:id="idm139962644833776">

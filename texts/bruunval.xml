@@ -1,15 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!-- OCR by ATAPY 24.12.02 (Catherine Bychkova); remake 03.02.03 (Catherine Makarenko)-->
-<!-- HHL 04.02.2003: ny version fra ATAPY med forbedret læsning af s og f
-     HHL 04.02.2003: rettet enkelte - meget faa - læsefejl                
-     HHL 04.02.2003: en anden gang skal vi have opmærket ikke-frakturskrift. Der er også fed fraktur, men den er vist umulig at fange
-     Ptj rettet s.16
- -->
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="idm140245615728720"><!-- 
-       file     ./marc_dir/001938730.xml
-       field     
-       subfield  
-       prefix   -->
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="root">
   <teiHeader xml:id="idm140245615729536">
     <fileDesc xml:id="idm140245615729280">
       <titleStmt xml:id="idm140245615702960">
@@ -28,17 +18,27 @@
         <note xml:id="idm140245615698832">
 	  </note>
       </notesStmt>
-      <sourceDesc xml:id="idm140245615698320"><bibl xml:id="idm140245615698192"><author n="1" xml:id="idm140245615697504"><name xml:id="idm140245615697248"><surname xml:id="idm140245615697120">Bruun</surname>, <forename xml:id="idm140245615696656">Malthe Conrad</forename></name></author><title xml:id="idm140245615696368">Aristokraternes Catechismus</title><pubPlace xml:id="idm140245615696064">Kbh</pubPlace>
-<date xml:id="idm140245615695584">1945</date></bibl><listBibl xml:id="idm140245615695296"><bibl xml:id="biblid54665"><title xml:id="idm140245615682144">Aristokraternes Catechismus</title></bibl></listBibl></sourceDesc>
+      <sourceDesc xml:id="idm140245615698320">
+        <bibl xml:id="idm140245615698192">
+          <author n="1" xml:id="idm140245615697504">
+            <name xml:id="idm140245615697248"><surname xml:id="idm140245615697120">Bruun</surname>, <forename xml:id="idm140245615696656">Malthe Conrad</forename></name>
+          </author>
+          <title xml:id="idm140245615696368">Aristokraternes Catechismus</title>
+          <pubPlace xml:id="idm140245615696064">København</pubPlace>
+          <date xml:id="idm140245615695584">1945</date>
+        </bibl>
+        <listBibl xml:id="idm140245615695296">
+          <bibl xml:id="biblid54665">
+            <title xml:id="idm140245615682144">Aristokraternes Catechismus</title>
+          </bibl>
+        </listBibl>
+      </sourceDesc>
     </fileDesc>
   </teiHeader>
   <text xml:id="idm140245615681456">
     <front xml:id="idm140245615681200">
       <pb n="I" facs="adl/bruun/bruun1fm001" xml:id="idm140245615680896"/>
       <gap reason="cancelled" xml:id="idm140245615680064"/>
-<!---->
-<!---->
-<!--Aristokraternes Catechismus-->
       <pb n="II" facs="adl/bruun/bruun1fm002" xml:id="idm140245615678512"/>
       <pb n="III" facs="adl/bruun/bruun1fm003" xml:id="idm140245615677744"/>
       <titlePage xml:id="idm140245615676976">
@@ -435,7 +435,7 @@
 									Herre og hans Familie over alle Ting.</hi>
 							</p>
               <p xml:id="idm140245615498544">Det er: Naar din Arveherre og Konge, eller hans Familie befaler dig
-								at dræbe din Ven eller dine Forældre,naar han byder dig at bekjende
+								at dræbe din Ven eller dine Forældre, naar han byder dig at bekjende
 								en Lærdom, hvilken du afskyer, naar han fordrer en Meeneed eller et
 								Forræderie af dig, naar han forbyder dig at udøve en hellig Pligt,
 								saa skal du med Ærbødighed anhøre, med Fornøjelse modtage, og med
@@ -444,7 +444,7 @@
               <p xml:id="idm140245615497376">2. <hi rend="bold" xml:id="idm140245615497120">Du skal give din Herre Skat og Laan og alt hvad
 									han ønsker og befaler.</hi>
 							</p>
-              <p xml:id="idm140245615496160">Det er: du har ingen Ejendom, som jo din Herre kan tage fra dig,deels
+              <p xml:id="idm140245615496160">Det er: du har ingen Ejendom, som jo din Herre kan tage fra dig, deels
 								paa eengang, om han saa <pb n="16" facs="adl/bruun/bruun1016" xml:id="idm140245615495792"/> maatte
 								behage, deels lidt efter lidt ved Paalæg, som han ikke behøver at
 								gjøre dig eller nogen anden, end Gud og sin Samvittighed Regnskab

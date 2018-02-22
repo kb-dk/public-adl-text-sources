@@ -1,9 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="idm140402243513472"><!-- 
-       file     ./marc_dir/001915200.xml
-       field     
-       subfield  
-       prefix   -->
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="root">
   <teiHeader xml:id="idm140402243512816">
     <fileDesc xml:id="idm140402243512560">
       <titleStmt xml:id="idm140402243512256">
@@ -21,8 +17,21 @@
         <note xml:id="idm140402243483248">
 	  </note>
       </notesStmt>
-      <sourceDesc xml:id="idm140402243482736"><bibl xml:id="idm140402243482608"><author n="1" xml:id="idm140402243481920"><name xml:id="idm140402243481664"><surname xml:id="idm140402243481536">Hjortø</surname>, <forename xml:id="idm140402243481104">Knud</forename></name></author><title xml:id="idm140402243480848">Kærligheds Spind</title><pubPlace xml:id="idm140402243480544">Kbh</pubPlace>
-<date xml:id="idm140402243480064">1928</date></bibl><listBibl xml:id="idm140402243479776"><bibl xml:id="biblid54096"><title xml:id="idm140402243466624">Kærligheds spind</title></bibl></listBibl></sourceDesc>
+      <sourceDesc xml:id="idm140402243482736">
+        <bibl xml:id="idm140402243482608">
+          <author n="1" xml:id="idm140402243481920">
+            <name xml:id="idm140402243481664"><surname xml:id="idm140402243481536">Hjortø</surname>, <forename xml:id="idm140402243481104">Knud</forename></name>
+          </author>
+          <title xml:id="idm140402243480848">Kærligheds Spind</title>
+          <pubPlace xml:id="idm140402243480544">København</pubPlace>
+          <date xml:id="idm140402243480064">1928</date>
+        </bibl>
+        <listBibl xml:id="idm140402243479776">
+          <bibl xml:id="biblid54096">
+            <title xml:id="idm140402243466624">Kærligheds spind</title>
+          </bibl>
+        </listBibl>
+      </sourceDesc>
     </fileDesc>
   </teiHeader>
   <text xml:id="workid54096" decls="#biblid54096">

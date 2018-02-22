@@ -1,10 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!-- 
-
-Tycho Brahe-oversættelser fra Peter Zeeberg - konverteret fra Wordfil
-
--->
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="idm140049346808864">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="root">
   <teiHeader xml:id="idm140049346808336">
     <fileDesc xml:id="idm140049346808080">
       <titleStmt xml:id="idm140049346807776">
@@ -16,7 +11,7 @@ Tycho Brahe-oversættelser fra Peter Zeeberg - konverteret fra Wordfil
         <author xml:id="idm140049346780848">Tycho Brahe</author>
       </titleStmt>
       <publicationStmt xml:id="idm140049346780336">
-	<publisher>Renæssancestudier</publisher>
+        <publisher xml:id="id608c00d4-9620-4252-905a-8428777a29aa">Renæssancestudier</publisher>
         <pubPlace xml:id="idm140049346780080">oversat af Peter Zeeberg i: Tycho Brahes Urania Titani - et digt om Sophie Brahe. (Renæssancestudier 7) Kbh. 1992.</pubPlace>
         <idno xml:id="idm140049346779456" xml:base="texts/tycho-04-uraniatitani.xml">000000000:04</idno>
       </publicationStmt>
@@ -26,7 +21,7 @@ Tycho Brahe-oversættelser fra Peter Zeeberg - konverteret fra Wordfil
       </notesStmt>
       <sourceDesc xml:id="idm140049346777712">
         <bibl xml:id="idm140049346777456">MSWord-fil fra Peter Zeeberg</bibl>
-     </sourceDesc>
+      </sourceDesc>
     </fileDesc>
   </teiHeader>
   <text xml:id="idm140049346776640">
@@ -53,745 +48,625 @@ Tycho Brahe-oversættelser fra Peter Zeeberg - konverteret fra Wordfil
           <l xml:id="idm140049346755248">men ønske selv at overbringe svaret mundtligt.</l>
         </lg>
         <lg xml:id="idm140049346754624">
-<!--5	-->
           <l xml:id="idm140049346754016">Det brev du har i hånden nu, min Titan, kommer fra Urania.</l>
           <l xml:id="idm140049346753504">Hun ønsker ikke at få skriftligt svar - men dig tilbage!</l>
           <l xml:id="idm140049346752992">Du har sendt mange breve - og det håber jeg blir ved -</l>
           <l xml:id="idm140049346752480">men når jeg savner dig, hvad nytter så papir?</l>
           <l xml:id="idm140049346751984">Du holdes borte af din videnskab, der er misundelig på mine ønsker.</l>
-<!--10	-->
           <l xml:id="idm140049346751120">Gid Hermes, ja gid hele din kemi dog havde mindre magt!</l>
           <l xml:id="idm140049346750672">Din videnskab er tom, og efterlader pungen tom for penge</l>
           <l xml:id="idm140049346750208">- og også jeg er efterladt, min ægteseng er tom på grund af den!</l>
           <l xml:id="idm140049346749680">På grund af den henlever jeg i ensomhed solløse dage, stjerneløse nætter,</l>
           <l xml:id="idm140049346749120">mens du er væk, min sol, mit eget lys.</l>
-<!--15	-->
           <l xml:id="idm140049346748320">Gid dog den videnskab var blevet slugt af mørket i den underverden den er kommet fra,</l>
           <l xml:id="idm140049346747744">for denne sorte kunst frastjæler mig så mange lyse dage.</l>
           <l xml:id="idm140049346747232">Den kan med rette kaldes sort, for den forbruger sorte kul.</l>
           <l xml:id="idm140049346746768">En ting så sort er ikke dine hvide hænder værdig.</l>
           <l xml:id="idm140049346746256">Men at jeg lades ene er en småting: du tager skade af det.</l>
-<!--20	-->
           <l xml:id="idm140049346745424">Dit sind blir træt, din krop blir syg af det.</l>
           <l xml:id="idm140049346744928">For når du slider i det nat og dag,</l>
           <l xml:id="idm140049346744448">for at din videnskab skal vise venlighed mod dine ønsker,</l>
           <l xml:id="idm140049346743936">og du alligevel - hvor meget du end søger - INTET finder,</l>
           <l xml:id="idm140049346743424">får du så ikke sår i sjælen af at skuffes i så stort et håb?</l>
-<!--25	-->
           <pb n="3" xml:id="s3" facs="side3" rend="missing"/>
           <l xml:id="idm140049346741456">Når du med møje ånder i den ækle røg</l>
           <l xml:id="idm140049346740976">fra både kullet og det stof du gør forsøg med,</l>
           <l xml:id="idm140049346740480">føles det så ikke som om dit stakkels sarte bryst udpines?</l>
           <l xml:id="idm140049346739952">- det bryst der egner sig langt bedre til at hvile imod mit.</l>
           <l xml:id="idm140049346739488">Jeg taler af erfaring nu. Jeg kender selv til alt det ubehagelige</l>
-<!--30	-->
           <l xml:id="idm140049346738672">som dine kul og dine mange stoffer kan forvolde.</l>
           <l xml:id="idm140049346738224">Hvor ofte blir dit ansigt ikke svinet til - og dine læber,</l>
           <l xml:id="idm140049346737712">de søde læber som jo burde være mine helt alene.</l>
           <l xml:id="idm140049346737216">Og ofte får du blå og gule mærker over hele kroppen,</l>
           <l xml:id="idm140049346736704">hvor huden før var blød og hvid som urørt sne.</l>
-<!--35	-->
           <l xml:id="idm140049346735888">En gang for ikke længe siden da du stod og rørte rundt i stygisk vand,</l>
           <l xml:id="idm140049346735344">sprængte den grusomme salpeter sine lænker med et brag</l>
           <l xml:id="idm140049346734832">og forgiftede luften med ækle dunster,</l>
           <l xml:id="idm140049346734352">så dine kammerater sank livløse om.</l>
           <l xml:id="idm140049346733872">Nu slap du selv med livet (og det kan du takke mine bønner for),</l>
-<!--40	-->
           <l xml:id="idm140049346733024">men du blev mærket af det overalt på kroppen.</l>
           <l xml:id="idm140049346732528">Historien har min søn (som jeg har bedt opspore nyt om dig)</l>
           <l xml:id="idm140049346732000">fået fra Bang - og nu fortalt til mig.</l>
           <l xml:id="idm140049346731520">Den vakte for mit indre blik langt større farer end der er.</l>
           <l xml:id="idm140049346730992">Ak, kærligheden er en stadig kilde til bekymring.</l>
-<!--45	-->
           <l xml:id="idm140049346730176">Snart var det svovl, snart arsenik, den Satan, jeg var bekymret for,</l>
           <l xml:id="idm140049346729712">og salte, antimon og det lumske kviksølv.</l>
           <l xml:id="idm140049346729232">Ja, kort sagt alt hvad den bedrageriske kulovn kræver</l>
           <l xml:id="idm140049346728720">gav anledning til frygt.</l>
           <l xml:id="idm140049346728288">Dog, Venus lyste venligt på min kærlighed:</l>
           <pb n="4" xml:id="s4" facs="side4" rend="missing"/>
-<!--50	-->
           <l xml:id="idm140049346726320">kullet forvandledes til aske, men min mand forblev i live.</l>
           <l xml:id="idm140049346725856">En anden ting fortalte han: at dine heste var løbet løbsk nær Schönburg,</l>
           <l xml:id="idm140049346725296">så du var væltet med din vogn.</l>
           <l xml:id="idm140049346724832">I faldet kom du frygteligt til skade med dit knæ,</l>
           <l xml:id="idm140049346724336">og du var tvunget til lang tids sygeleje.</l>
-<!--55	-->
           <l xml:id="idm140049346723568">Og skønt du ikke ganske holdt det skjult, da du sendte din tjener hertil</l>
           <l xml:id="idm140049346723024">- det kunne i sig selv have øget mine sorger -</l>
           <l xml:id="idm140049346722528">tilslørede du snedigt farens omfang,</l>
           <l xml:id="idm140049346722048">skarpsindig som du er, selv i den største knibe.</l>
           <l xml:id="idm140049346721552">Men en drøm (og mine drømme tager kun ganske sjældent fejl)</l>
-<!--60	-->
           <l xml:id="idm140049346720704">gav mig et varsel om at det var sket:</l>
           <l xml:id="idm140049346720272">Jeg drømte at mit hjerte sprang som om jeg løb, men ud af kroppen,</l>
           <l xml:id="idm140049346719728">mens noget klemte allerdybest inde i det.</l>
           <l xml:id="idm140049346719280">Ved dette varsel fra min Genius (mens jeg endnu sov)</l>
           <l xml:id="idm140049346718832">råbte jeg straks: "Titan, mit hjerte, er det dig der falder sådan"?</l>
-<!--65	-->
           <l xml:id="idm140049346717968">Men denne gang kom Phoebus, der bestyrer lægekunsten,</l>
           <l xml:id="idm140049346717456">til undsætning og gav vor kærlighed sin støtte.</l>
           <l xml:id="idm140049346716960">Han bragte lindring til dit knæ, så du kunne komme hurtigt hjem</l>
           <l xml:id="idm140049346716432">og ikke også lade et dårligt ben forsinke dig.</l>
           <l xml:id="idm140049346715936">Men næppe var min uro over dette uheld svundet bort,</l>
-<!--70	-->
           <l xml:id="idm140049346715104">før jeg blev grebet af en endnu større smerte:</l>
           <l xml:id="idm140049346714608">De siger at du nu, fulgt af en enkelt tjener,</l>
           <l xml:id="idm140049346714160">er rejst ned over Alperne, tværs over alt for høje bjerge,</l>
           <l xml:id="idm140049346713632">i grådig jagt på guld-forslugne klumper fra Venedig,</l>
           <l xml:id="idm140049346713120">som den forræderiske kunst fremstiller dér - og alle vegne.</l>
           <pb n="5" xml:id="s5" facs="side5" rend="missing"/>
-<!--75	-->
           <l xml:id="idm140049346711120">Kunne du virkelig finde på, uden betænkning, at rejse så langt væk?</l>
           <l xml:id="idm140049346710576">Er det forsigtighed? Er det at vise mig opmærksomhed?</l>
           <l xml:id="idm140049346710064">Havde det ikke været passende at informere mig på forhånd i et lille brev?</l>
           <l xml:id="idm140049346709504">Om ikke andet for at jeg, med mine tårer, kunne give dig gode ønsker med på vejen.</l>
           <l xml:id="idm140049346708928">Gid jeg tager fejl! Gid dette rygte vejres bort i vinden!</l>
-<!--80	-->
           <l xml:id="idm140049346708144">- ja, jeg vil være lykkelig hvis blot du er i Tyskland,</l>
           <l xml:id="idm140049346707632">for derfra har jeg dog et vist håb om at høre noget til dig,</l>
           <l xml:id="idm140049346707104">at modtage et par ord fra dig, og selv at sende mine inderligste følelser.</l>
           <l xml:id="idm140049346706560">Og dog, hvorfor skulle jeg dog ønske at du var i Tyskland?</l>
           <l xml:id="idm140049346706048">Det land har også alt for vide grænser.</l>
-<!--85	-->
           <l xml:id="idm140049346705248">Jeg ved jo ikke hvilken del af Tyskland,</l>
           <l xml:id="idm140049346704800">endsige hvilken by du holder dig i skjul i.</l>
           <l xml:id="idm140049346704352">Du er så længe borte, og jeg kender ikke grunden til din tøven,</l>
           <l xml:id="idm140049346703824">ved ikke hvilke bølger eller hvilket land der holder på dig.</l>
           <l xml:id="idm140049346703296">Ingen rejsende der kommer sydfra over Ãstersøen</l>
-<!--90	-->
           <l xml:id="idm140049346702480">slipper herfra før jeg har spurgt ham grundigt ud om dig.</l>
           <l xml:id="idm140049346701968">Og han får breve med, beseglede af mine læber,</l>
           <l xml:id="idm140049346701472">for hvis han skulle høre om et sted hvor du kan få dem.</l>
           <l xml:id="idm140049346700960">Ak, himlens Titan ser man overalt,</l>
           <l xml:id="idm140049346700528">den jordiske, min egen, kan man ikke finde.</l>
-<!--95	-->
           <l xml:id="idm140049346699760">Ofte har jeg tænkt at det var Hertug Ulrich der holdt dig tilbage,</l>
           <l xml:id="idm140049346699232">(og dog var han nok ikke årsag til din tøven).</l>
           <l xml:id="idm140049346698736">Og ofte har jeg frygtet for at du på vejen over Ãstersøen</l>
           <l xml:id="idm140049346698208">har ladet sætte sejl mens havet var i oprør - det kunne ligne dig -</l>
           <l xml:id="idm140049346697664">og at dit skib er blevet kastet ind imod de skær der rejser sig på Møn,</l>
-<!--100	-->
           <pb n="6" xml:id="s6" facs="side6" rend="missing"/>
           <l xml:id="idm140049346695680">og du nu ligger dér et sted og plejer dine kvæstelser.</l>
           <l xml:id="idm140049346695168">Kort sagt: fordi jeg ikke ved hvorfor du er så længe borte,</l>
           <l xml:id="idm140049346694640">flakker mit sind nu hvileløst fra grund til grund.</l>
           <l xml:id="idm140049346694144">Hvis du nu ser tilbage - og det er vi der elsker gode til -</l>
           <l xml:id="idm140049346693680">så ser du at jeg ikke klager mig for tidligt.</l>
-<!--105	-->
           <l xml:id="idm140049346692832">For husk på hvad du, bævende om læben, sagde ved vor afsked,</l>
           <l xml:id="idm140049346692304">mens dine blege kinder vædedes af tårer:</l>
           <l xml:id="idm140049346691824">"Solen vil ikke nå guldskindets stjernetegn</l>
           <l xml:id="idm140049346691328">før du har mig tilbage i dit Skåne."</l>
           <l xml:id="idm140049346690848">Men nu har himlens Titan været været 2, 3 gange</l>
-<!--110	-->
           <l xml:id="idm140049346690032">ved Phrixos' skind - og du, den jordiske, er stadig borte.</l>
           <l xml:id="idm140049346689568">Vel tror jeg ikke at du jagter Jasons skind henover havene,</l>
           <l xml:id="idm140049346689104">og ynder tyveri af farveprægtig uld.</l>
           <l xml:id="idm140049346688624">Og jeg har heller aldrig været, og vil ikke blive, en Medea - jeg bruger ikke svig -</l>
           <l xml:id="idm140049346688048">men hvis du søger Colchis, er Colchis også her:</l>
-<!--115	-->
           <l xml:id="idm140049346687232">Jeg har et dejligt lysthus, omgivet af en herlig have,</l>
           <l xml:id="idm140049346686784">som du næppe finder mage til: Dem vil jeg, begge, kalde Colchis.</l>
           <l xml:id="idm140049346686256">Et lysthus, ja - men endnu har det aldrig set mig lystig,</l>
           <l xml:id="idm140049346685792">til trods for at jeg der har dit portræt.</l>
           <l xml:id="idm140049346685312">Selv det bedrøver mig: hver gang jeg ser det må jeg sukke dybt fra sjælen</l>
-<!--120	-->
           <l xml:id="idm140049346684432">og væde kind og mund med mine tårer.</l>
           <l xml:id="idm140049346683952">Jeg synker sammen, og med hovedet på den ene arm</l>
           <l xml:id="idm140049346683456">mumler jeg stille for mig selv:</l>
           <l xml:id="idm140049346683024">"Gid den hvis skønne ansigt du så smukt gengiver</l>
           <l xml:id="idm140049346682528">var her! Gid jeg får lov engang at se ham selv!"</l>
           <pb n="7" xml:id="s7" facs="side7" rend="missing"/>
-<!--125	-->
           <l xml:id="idm140049346680512">Jeg ser så længe på det at mit syn og mine sanser svigter</l>
           <l xml:id="idm140049346679984">og mine piger griber mig idet jeg falder.</l>
           <l xml:id="idm140049346679536">Og næppe er jeg kommet til mig selv før jeg igen vil se det</l>
           <l xml:id="idm140049346679008">- atter og atter higer jeg imod det i bestandig kredsen om min egen ulykke.</l>
           <l xml:id="idm140049346678528">Selv nu, mens jeg fortæller dette, banker blodet i mit bryst,</l>
-<!--130	-->
           <l xml:id="idm140049346677680">og jeg kan dårligt holde mig på benene.</l>
           <l xml:id="idm140049346677200">Bort mørke blod! Mit bryst, mit sind hav styrke!</l>
           <l xml:id="idm140049346676704">og lad mig føje bare et par linjer til.</l>
           <l xml:id="idm140049346676224">Hvis jeg så heller ikke da bør skånes - efter det par linjer -</l>
           <l xml:id="idm140049346675696">Så tag blot hørelsen og synet fra mig. Så holder jeg det ud</l>
-<!--135	-->
           <l xml:id="idm140049346674848">- det er jeg vant til! (hvor er det dog en grusom trøst</l>
           <l xml:id="idm140049346674336">at plagerne har været her for ofte til helt at slå mig ud!)</l>
           <l xml:id="idm140049346673808">Nej, mine bønner hjælper intet: sorgen har fat, </l>
           <l xml:id="idm140049346673312">nu bider den sig mere fast jo mer jeg holder den tilbage,  nu tvinger den mig til at standse.</l>
           <l xml:id="idm140049346672816">Kom hurtigt, bring mig vand, bring salt, vin, krydderier, eddike!</l>
-<!--140	-->
           <l xml:id="idm140049346672032">Kom, skynd Jer piger! skynd dig jomfru!</l>
           <l xml:id="idm140049346671600">Åh ja, det hjalp - så lad mig komme videre og atter gribe pennen.</l>
           <l xml:id="idm140049346671136">Hvor det dog føles sært når alle sanser svigter!</l>
           <l xml:id="idm140049346670640">Men lad nu alt det fare. Titan, du må komme her tilbage hurtigt.</l>
           <l xml:id="idm140049346670112">Hvis det er Colchis-kunsten du vil have, har jeg den her.</l>
-<!--145	-->
           <l xml:id="idm140049346669328">Det kræves ikke at du, ligesom Jason</l>
           <l xml:id="idm140049346668848">på skibet Argo sejler op ad Phasis bølger,</l>
           <l xml:id="idm140049346668352">og overvinder uhyrer med dine heksedrikke</l>
           <l xml:id="idm140049346667904">- tyre med ånde af ild, mænd der gror lige op af jorden,</l>
           <l xml:id="idm140049346667392">en vagtsom slange der må dysses ned med stærke urter -</l>
           <pb n="8" xml:id="s8" facs="side8" rend="missing"/>
-<!--150	-->
           <l xml:id="idm140049346837536">for så til sidst at kunne hjemføre det dyrebare gyldne skind.</l>
           <l xml:id="idm140049346837008">Måske (hvis sagnet taler sandt) er det en kode,</l>
           <l xml:id="idm140049346836512">et dække over kunsten der kan gøre guld.</l>
           <l xml:id="idm140049346836032">Vi siger det er sandt! Hvorfor skulle vi to ikke tro det samme,</l>
           <l xml:id="idm140049346835568">Når Amor nu har knyttet vores sjæle sammen i én krop?</l>
-<!--155	-->
           <l xml:id="idm140049346834736">Som sagt: Jeg har et lysthus og dér findes alt hvad du skal bruge</l>
           <l xml:id="idm140049346641504">til guldfremstillings-kunsten (hvis den findes):</l>
           <l xml:id="idm140049346641120">Ovne af alle slags, kul, lamper, flammer</l>
           <l xml:id="idm140049346640672">(måske kan mine flammer overdøve dem!)</l>
           <l xml:id="idm140049346640192">Materialet mangler heller ikke, hvorfor skulle det? Det findes overalt.</l>
-<!--160	-->
           <l xml:id="idm140049346639408">Og det er billigt, ikke særligt kostbart.</l>
           <l xml:id="idm140049346638928">Den hemmelige ild der nærer stenen kan vi sammen skabe her,</l>
           <l xml:id="idm140049346638400">præcis som både han og hun hos duerne udruger ægget.</l>
           <l xml:id="idm140049346637888">Hvis man skal tro at vise mænd før os har haft den</l>
           <l xml:id="idm140049346637376">- afdækket lag på lag og fundet den - </l>
-<!--165	-->
           <l xml:id="idm140049346636576">så kan jeg ikke tvivle på at også vi kan gøre det.</l>
           <l xml:id="idm140049346636064">Solen skal være dens far (som de siger) og månen dens mor.</l>
           <l xml:id="idm140049346635536">Derfor kan du - du er jo Titan - være far, mens jeg (en kvinde, der ganske ligner månen)</l>
           <l xml:id="idm140049346634960">er dens mor - klasse og køn hjælper til.</l>
           <l xml:id="idm140049346634480">Den stiger til himmels og vender tilbage til jorden på ny</l>
-<!--170	-->
           <l xml:id="idm140049346633648">- på samme måde kaldes jeg "den jordiske Urania".</l>
           <l xml:id="idm140049346633152">Jeg hedder også helt oprindeligt Sophie, og dette er filosofiens sten</l>
           <l xml:id="idm140049346632608">- det kunne have en dybere betydning.</l>
           <l xml:id="idm140049346632224">De siger også vinden bar den i sin bug</l>
           <l xml:id="idm140049346631744">- måske kan min bug bære noget bedre!</l>
           <pb n="9" xml:id="s9" facs="side9" rend="missing"/>
-<!--175	-->
           <l xml:id="idm140049346629840">Den kræver (siger de) en skarp og fin begavelse</l>
           <l xml:id="idm140049346629344">- og min begavelse kan næppe kaldes tungnem.</l>
           <l xml:id="idm140049346628848">På samme måde mener de den er en egen verden: Vi to er hver en verden,</l>
           <l xml:id="idm140049346628304">og gennem mig kan endnu én, en ganske lille verden blive til.</l>
           <l xml:id="idm140049346627776">Men hvorfor søge nye mønstre i det gamle Colchis?</l>
-<!--180	-->
           <l xml:id="idm140049346626960">Hvorfor tiltaler Hermes' ældgamle ord os sådan?</l>
           <l xml:id="idm140049346626464">Vi søger svaret alle vegne, råber i alle retninger, forgæves,</l>
           <l xml:id="idm140049346625936">efter det værk der faktisk ligger skjult i vores eget indre.</l>
           <l xml:id="idm140049346625408">De siger at det svarer til et ægteskab, til når en kvinde og en mand</l>
           <l xml:id="idm140049346624864">forener deres bløde kroppe i en frugtbar seng,</l>
-<!--185	-->
           <l xml:id="idm140049346624048">og hvis det skulle lykkes dem at frembringe et afkom</l>
           <l xml:id="idm140049346623600">må følgelig det afkom svare til den hemmelige sten.</l>
           <l xml:id="idm140049346623088">Og ligesom det er blod der nærer fostret i en livmoder,</l>
           <l xml:id="idm140049346622576">er det dens egen væske stenen fostres op på.</l>
           <l xml:id="idm140049346622080">Ganske som fostret modnes i sin egen jævne, våde varme</l>
-<!--190	-->
           <l xml:id="idm140049346621248">- en sagte ild der holder barnet lunt -</l>
           <l xml:id="idm140049346620864">således giver de også stenen en let og fugtig varme</l>
           <l xml:id="idm140049346620352">efter naturens forskrift, så præcist som muligt.</l>
           <l xml:id="idm140049346619856">Som barnet skifter form og farve, mens det </l>
           <l xml:id="idm140049346619408">som ganske lille vokser til i indelukket hos sin mor,</l>
-<!--195	-->
           <l xml:id="idm140049346618640">præcis sådan skal stenen vokse til og skifte farve,</l>
           <l xml:id="idm140049346618128">når blot den får den rette varme i en athanor.</l>
           <l xml:id="idm140049346617632">Ligesom Lucina bringer sine børn til verden ganske røde</l>
           <l xml:id="idm140049346617120">for så med mælk at lade det spæde afkom vokse til,</l>
           <l xml:id="idm140049346616608">således gløder det nyfødte kemiske barn helt rødt,</l>
           <pb n="10" xml:id="s10" facs="side10" rend="missing"/>
-<!--200	-->
           <l xml:id="idm140049346614672">for derpå med ferment at blive øget og forstørret.</l>
           <l xml:id="idm140049346614160">Og som et barn, når det blir voksent, selv kan avle nye,</l>
           <l xml:id="idm140049346613648">sådan kan også denne sten formere sig.</l>
           <l xml:id="idm140049346613168">Alt dette stemmer jo nøjagtig overens med mine ønsker!</l>
           <l xml:id="idm140049346612656">Og dertil kommer haven, der er velegnet til dette hemmelige værk</l>
-<!--205	-->
           <l xml:id="idm140049346611808">- selvom den ikke huser dødsensfarlige, årvågne drager</l>
           <l xml:id="idm140049346611296">og jorduhyrer, rede til at udslette hinanden,</l>
           <l xml:id="idm140049346610848">tyre hvis næsebor spyr ild til alle sider</l>
           <l xml:id="idm140049346610368">eller de gifte du, Medea, egenhændigt blander.</l>
           <l xml:id="idm140049346609872">Slangerne kan være vores arme når vi slynger dem om halsen på hinanden,</l>
-<!--210	-->
           <l xml:id="idm140049346609008">hærskarerne der fødes op af jorden, det kan være urtepotter</l>
           <l xml:id="idm140049346608480">(hvis de skulle gå i stykker er der ingen skade sket),</l>
           <l xml:id="idm140049346607968">og okserne det er os selv, når vi er knyttet sammen af et fælles åg.</l>
           <l xml:id="idm140049346607424">Bort med al had og ondskab, bort fordærvelige urter,</l>
           <l xml:id="idm140049346606912">i stedet kan min have producere lægeurter.</l>
-<!--215	-->
           <l xml:id="idm140049346606112">Og hvis der, som de siger, er en mystisk mening bag alt dette,</l>
           <l xml:id="idm140049346605648">vil det vel heller ikke være svært for os at finde den.</l>
           <l xml:id="idm140049346605136">Min Titan, du skal blot begive dig hjem til fædrelandet,</l>
           <l xml:id="idm140049346604624">(gid blæst og vind vil støtte mig i mine ønsker!)</l>
           <l xml:id="idm140049346604112">og når du kommer hjem og træder ind i den velkendte æblehave,</l>
-<!--220	-->
           <l xml:id="idm140049346603264">da vil du se hvor velegnet et sted det er for netop dig og mig.</l>
           <l xml:id="idm140049346602800">Hér kan du håbe på - men kun hvis vi forener vores kræfter -</l>
           <l xml:id="idm140049346602272">at guldfremstillings-kunstens hemmelige værk kan gennemføres.</l>
           <l xml:id="idm140049346601744">Men indtil da er bønner alt jeg har tilbage:</l>
           <l xml:id="idm140049346601248">jeg beder til guderne at de vil stå dig bi,</l>
           <pb n="11" xml:id="s11" facs="side11" rend="missing"/>
-<!--225	-->
           <l xml:id="idm140049346599328">jeg beder til at jeg snart får dig tilbage, uskadt,</l>
           <l xml:id="idm140049346598816">(- men kun hvis det er muligt for de mange sager du har mellem hænderne).</l>
           <l xml:id="idm140049346598272">Jeg ønsker ikke en forhastet hjemkomst, der gir dig problemer:</l>
           <l xml:id="idm140049346597744">Dine problemer trøster ikke mig.</l>
           <l xml:id="idm140049346597280">Selv stoler jeg jo på dig, hvor i verden du end er,</l>
-<!--230	-->
           <l xml:id="idm140049346596512">men denne tillid er der andre der betvivler.</l>
           <l xml:id="idm140049346596064">De mener jeg har været for naiv, at mine hede følelser er tåbelige,</l>
           <l xml:id="idm140049346595520">og at du uden skrupler har forladt mig.</l>
           <l xml:id="idm140049346595136">Det kan jeg bære, hvis du blot er sund og rask,</l>
           <l xml:id="idm140049346594640">- hvis guderne vil noget andet, hvis jeg ikke har dig mere, kan jeg intet bære.</l>
-<!--235	-->
           <l xml:id="idm140049346593824">De påstår at din indsmigrende tale har bedraget mig</l>
           <l xml:id="idm140049346593312">(og sådan kunne mange kvinder ønske sig at blive snydt af dig!)</l>
           <l xml:id="idm140049346592784">men jeg kan ikke klage, jeg har ikke ladet mig bedrage af de honningsøde ord du har så let til -</l>
           <l xml:id="idm140049346592192">hvis nogen kan bebrejdes er det mig.</l>
           <l xml:id="idm140049346591808">Utvunget har jeg underlagt mig dine ønsker, utvunget har jeg godkendt dig,</l>
-<!--240	-->
           <l xml:id="idm140049346591008">du drager mig som en magnet tiltrækker stål.</l>
           <l xml:id="idm140049346590512">Blandt alle de velbårne mænd der er i Danmark</l>
           <l xml:id="idm140049346590016">er du den eneste jeg af mit fulde hjerte holder af.</l>
           <l xml:id="idm140049346589568">Det er dig selv og ikke dine ord der fængsler mig: Din skønhed gør al tale overflødig,</l>
           <l xml:id="idm140049346588992">din faste karakter og din anstændighed betager mig.</l>
-<!--245	-->
           <l xml:id="idm140049346588192">Hos andre kan veltalenheden bære frugt, vi ved at den kan blomstre,</l>
           <l xml:id="idm140049346587648">men mig kan den nu ikke overtale.</l>
           <l xml:id="idm140049346587264">Honning er dejlig, men den søde skal kan dække over galde,</l>
           <l xml:id="idm140049346586736">det er noget ved jeg alt om.</l>
           <l xml:id="idm140049346586352">I øvrigt er din skønne tale, der fordunkler alle andres, ikke kunstig:</l>
           <pb n="12" xml:id="s12" facs="side12" rend="missing"/>
-<!--250	-->
           <l xml:id="idm140049346584352">Den har naturen skænket dig.</l>
           <l xml:id="idm140049346583888">Den har Merkur, der stod ved ascendanten, tæt ved Venus,</l>
           <l xml:id="idm140049346583376">gavmildt forlenet dig med fra sin egen bolig.</l>
           <l xml:id="idm140049346582928">Når Venus står så nær ved gudernes herold kan det vel ikke undre</l>
           <l xml:id="idm140049346582384">at dine ord blir både søde og veltalende.</l>
-<!--255	-->
           <l xml:id="idm140049346581584">Samtidig slutter Phoebus sig til disse to, i Tvillingernes tegn</l>
           <l xml:id="idm140049346581120">- det kan måske forene os, som tvillinger, i kærlighed.</l>
           <l xml:id="idm140049346580608">Men Stilbon er jo ustabil, og Cytherea ligeledes,</l>
           <l xml:id="idm140049346580160">tvetydighed er Tvillingernes særtræk - hvordan skal dette skænke dig stabilitet?</l>
           <l xml:id="idm140049346579600">Selv Solen, der med sine stråler åbenbarer og fordølger alt,</l>
-<!--260	-->
           <l xml:id="idm140049346578752">har før afsløret Mars og Venus i en list.</l>
           <l xml:id="idm140049346578272">- Men hvorfor nævner jeg det her? Nej, smudsig kærlighed har intet her at gøre:</l>
           <l xml:id="idm140049346577712">Her taler jeg om lovligt ægteskab, om respektable bånd.</l>
           <l xml:id="idm140049346577200">Og skulle der alligevel et sted indsnige sig letfærdighed,</l>
           <l xml:id="idm140049346576688">så gid den varer kort, og holder sig langt væk fra vores kærlighed.</l>
-<!--265	-->
           <l xml:id="idm140049346575824">Nej, den skal ramme alle dem du før min tid har kastet din lidenskab på,</l>
           <l xml:id="idm140049346575280">eller hende du har en tilfældig affære med for tiden, hvis der er sådan en.</l>
           <l xml:id="idm140049346574720">- Ja, jeg kunne aldrig selv mistænke dig for den slags,</l>
           <l xml:id="idm140049346574208">men dine drifter vækker skepsis hos de andre:</l>
           <l xml:id="idm140049346573712">"Mener du virkelig han efter al den tid, så langt langt borte,</l>
-<!--270	-->
           <l xml:id="idm140049346572864">stadig kun elsker dig, som han aldrig ser?</l>
           <l xml:id="idm140049346572416">Hvad tror du egentlig man laver når man går og keder sig i fjerne lande</l>
           <l xml:id="idm140049346571872">- og som en anden Paris intet andet har forstand på end at elske?</l>
           <l xml:id="idm140049346571344">Tro mig, en anden har fanget ham ind i sin kærligheds net</l>
           <l xml:id="idm140049346570832">- han spørger måske sig selv hvem den Urania er, og hvor hun kommer fra!"</l>
-<!--275	-->
           <pb n="13" xml:id="s13" facs="side13" rend="missing"/>
           <l xml:id="idm140049346568896">Ja, sådan siger de, men nej, de taler kun for døve ører:</l>
           <l xml:id="idm140049346568384">Min kærlighed står fast og gør mig både blind og døv.</l>
           <l xml:id="idm140049346567872">Men skulle der (selvom jeg ikke tror det) være noget om det,</l>
           <l xml:id="idm140049346567344">så beder jeg til at det er noget ganske ubetydeligt.</l>
           <l xml:id="idm140049346566832">Gid Stilbon så med sine fjer vifter det væk i vinden,</l>
-<!--280	-->
           <l xml:id="idm140049346565968">gid Venus lader det blæse bort blandt havets bobler.</l>
           <l xml:id="idm140049346565456">I, Tvillinger, gør denne kærlighed forloren og forstilt:</l>
           <l xml:id="idm140049346564944">Jeg håber Jeres dobbelttydighed gør den halvhjertet.</l>
           <l xml:id="idm140049346564432">Og gid Apollon med det skarpe blik, der straks ser alt,</l>
           <l xml:id="idm140049346563984">afslører dig, hvis du på nogen måde øver vold mod kærlighed og troskab.</l>
-<!--285	-->
           <l xml:id="idm140049346563104">Hvis overhovedet stjernerne har nogen fasthed og bestandighed at give dig,</l>
           <l xml:id="idm140049346562624">så lad mig nyde en bestandig kærlighed.</l>
           <l xml:id="idm140049346562144">Jupiters blik fra spidsen af det femte hus må give den styrke.</l>
           <l xml:id="idm140049346561616">Jupiter, du er stabil - det femte er et venligt hus.</l>
           <l xml:id="idm140049346561168">Desværre blir den holdt i lænker af den forhadte Jomfru,</l>
-<!--290	-->
           <l xml:id="idm140049346560336">og sammen bliver I truet af den gamle med den træge gang, han står Jer midt imod.</l>
           <l xml:id="idm140049346559776">Og dog: mod mig er samme Jomfru venligt stemt, hun var i ascendanten ved min fødsel ...</l>
           <l xml:id="idm140049346559200">- åh, bare hun nu ikke er mig alt for venlig:</l>
           <l xml:id="idm140049346558704">Hun er for evigt gold, det samme er det liv jeg fører,</l>
           <l xml:id="idm140049346558192">en jomfru føder ingen børn, en enke heller ikke.</l>
-<!--295	-->
           <l xml:id="idm140049346557376">Til gengæld giver hun, som en anden Pallas, lyst til kunst og videnskab,</l>
           <l xml:id="idm140049346556832">og evnen til at dyrke helligdommen for Merkur.	</l>
           <l xml:id="idm140049346556384">Han selv er lykkeligt placeret i sit eget tegn,</l>
           <l xml:id="idm140049346555936">hvor han, med sit aspekt til Månen, gavner videnskaben.</l>
           <l xml:id="idm140049346555424">- Og videnskaben er det eneste min kærlighed i al den tid har kunnet finde trøst i,</l>
           <pb n="14" xml:id="s14" facs="side14" rend="missing"/>
-<!--300	-->
           <l xml:id="idm140049346553424">ligesom den væv hvor du, Penelope, så tit begyndte forfra.</l>
           <l xml:id="idm140049346552896">En anden ting jeg ikke holder af er at kun én planet</l>
           <l xml:id="idm140049346552384">- og det den onde Mars - hos dig har taget ophold i et fast tegn.</l>
           <l xml:id="idm140049346551920">Han er i fald fra toppen, netop inde i en fjendtlig bygning.</l>
           <l xml:id="idm140049346551456">Mars, er det også mig du falder så uvenligt for?</l>
-<!--305	-->
           <l xml:id="idm140049346550640">Den slags bør hænde alle fjender af den sande kærlighed. </l>
           <l xml:id="idm140049346550112">Jeg håber det er vores fjender varslet gælder.</l>
           <l xml:id="idm140049346549616">Og skønt det tegn Mars står i hos den hornede er fast,</l>
           <l xml:id="idm140049346549104">kan det alligevel næppe glæde nogen.</l>
           <l xml:id="idm140049346548624">Ikke blot vender det sig væk fra Mars' eget tegn, det lader ham også skade ægteskabets gud Diana,</l>
-<!--310	-->
           <l xml:id="idm140049346547696">der netop higer mod på at stige op på Tyrens ryg.</l>
           <l xml:id="idm140049346547200">Og skønt det gavner hende at de sidder i hinandens tegn,</l>
           <l xml:id="idm140049346546688">gør dog det tolvte hus dem begge større skade.</l>
           <l xml:id="idm140049346546192">Så derfor, Mars, forsvind! Gør dine ulykker stabile andetsteds!</l>
           <l xml:id="idm140049346545664">De horn du truer med vil vores kærlighed slet ikke vide af.</l>
-<!--315	-->
           <l xml:id="idm140049346544816">Nej, seglbæreren, snarere, skal styrke vores sunde kærlighed.</l>
           <l xml:id="idm140049346544288">Ganske vist regnes også han for ond,</l>
           <l xml:id="idm140049346543808">men en ægyptisk myste har for længe siden ment han ikke var det,</l>
           <l xml:id="idm140049346543280">og burde holdes højere i ære.</l>
           <l xml:id="idm140049346542816">Han kan godt være god mod os: han står ret højt på himlen</l>
-<!--320	-->
           <l xml:id="idm140049346541968">og i Jupiters højsæde - dér er han mild, dér gør han næppe skade.</l>
           <l xml:id="idm140049346541424">Den milde Venus lægger sig i et aspekt dertil</l>
           <l xml:id="idm140049346540928">- og nok er kvadraturen ikke venlig, men den er også nærmere sextil.</l>
           <l xml:id="idm140049346540384">Mod mig er han god - han skal være god, og skænke dig den fasthed</l>
           <l xml:id="idm140049346539856">der gør din kærlighed til mig bestandig.</l>
           <pb n="15" xml:id="s15" facs="side15" rend="missing"/>
-<!--325	-->
           <l xml:id="idm140049346537952">- Dog ikke sådan at du sidder fast hvor du end er,</l>
           <l xml:id="idm140049346537456">nej, snarere skal Månen, der er rask til bens, få dig tilbage.</l>
           <l xml:id="idm140049346536928">Den milde Venus skynder sig mod Månens stråler,</l>
           <l xml:id="idm140049346536432">i kvadratur godt nok, men varigheden er så kort at det vil ende godt.</l>
           <l xml:id="idm140049346535888">Samtidig møder hun et blik fra Jupiter (som styrer ægteskabet) </l>
-<!--330	-->
           <l xml:id="idm140049346535040">i en sekstil - et lys der bringer lykke.</l>
           <l xml:id="idm140049346534592">Det giver mig sikkert håb om at den nat vil komme som vi længes efter,</l>
           <l xml:id="idm140049346534048">hvor bryllupsfakler viser vejen til vort brudekammer.</l>
           <l xml:id="idm140049346533600">For mænd kaldes Cypria nemlig for ægteskabsstifter, og Juno det samme,</l>
           <l xml:id="idm140049346533056">med disse to anviser kærligheden derfor vores bryllup.</l>
-<!--335	-->
           <l xml:id="idm140049346532224">- Og sidst men ikke mindst: fra samme sted indfanger Jupiter med sine stråler også Phoebus:</l>
           <l xml:id="idm140049346531632">Et venligt blik, der lover at velsigne os med afkom.</l>
           <l xml:id="idm140049346531184">Hvad er nu det? Mit eget horoskop lader også, på den samme tid,</l>
           <l xml:id="idm140049346530656">Månen bevæge sig mod Venus stråler.</l>
           <l xml:id="idm140049346530176">Og snart vil også Venus selv bevæge sig imod sin fars, Jupiters, tegn,</l>
-<!--340	-->
           <l xml:id="idm140049346529312">som her står for det milde ægteskab.</l>
           <l xml:id="idm140049346528832">Tænk at en direktion på samme tidspunkt falder så belejligt hos os begge!</l>
           <l xml:id="idm140049346528272">Ja, alle vegne peger stjernerne på helligt ægteskab!</l>
           <l xml:id="idm140049346527760">Ovenikøbet har Saturn hos mig befæstet Venus på det sted</l>
           <l xml:id="idm140049346527248">hvor begge ivrigt ønsker herredømmet.</l>
-<!--345	-->
           <l xml:id="idm140049346526448">- Til gengæld er jeg bange for at han i faldet fra sit sæde (omend til Solens tegn)</l>
           <l xml:id="idm140049346525872">skal holde hende alt for fast med sin opposition.</l>
           <l xml:id="idm140049346525424">Heraf udspringer sikkert al den tomhed og bedrøvelse</l>
           <l xml:id="idm140049346524912">jeg tåler for min trofaste kærligheds skyld.</l>
           <l xml:id="idm140049346524416">Men Jupiter er herre over stedet som de lærde knytter ægteskabet til,</l>
           <pb n="16" xml:id="s16" facs="side16" rend="missing"/>
-<!--350	-->
           <l xml:id="idm140049346522448">han står så mild og venlig i sin egen bolig.</l>
           <l xml:id="idm140049346521952">Og Solen, der hos kvinder siges at markere ægtemanden,</l>
           <l xml:id="idm140049346521440">den støtter ham, den sender gode flammer mod ham.</l>
           <l xml:id="idm140049346520944">Samtidig glæder den sig over tegnet der hos dig står i syvende hus</l>
           <l xml:id="idm140049346520400">- det hus der er helliget ægteskabet.</l>
-<!--355	-->
           <l xml:id="idm140049346519600">Jeg spår heraf et både lykkeligt og fredfyldt bryllup.</l>
           <l xml:id="idm140049346519088">Åh, Hymenæus, lad snart dine hellige fakler lyse.</l>
           <l xml:id="idm140049346518640">Og Venus, læg misundelsen til side, skænk mig din lykke:</l>
           <l xml:id="idm140049346518128">Venus fra Eryx, lad mig blive Eriks!</l>
           <l xml:id="idm140049346517744">Ud over dette har mit horoskop to gange to planeter</l>
-<!--360	-->
           <l xml:id="idm140049346516976">der enten står ophøjet, højt på himlen, eller i eget tegn.</l>
           <l xml:id="idm140049346516448">Det uvejr der har grebet mig vil ikke vare evigt</l>
           <l xml:id="idm140049346516000">- også for os blir det engang omsider vår.</l>
           <l xml:id="idm140049346515504">Nu må det ikke undre dig at jeg fortolker stjernerne og himlen</l>
           <l xml:id="idm140049346514976">- som om jeg havde mindre evner ved en væv end andre kvinder.</l>
-<!--365	-->
           <l xml:id="idm140049346514128">Skulle du ikke vide det, er jeg - ud over mine kvindelige gaver -</l>
           <l xml:id="idm140049346513664">tillige astrolog, og derfor kaldes jeg Urania.</l>
           <l xml:id="idm140049346513216">Jeg gransker stjernerne og tolker horoskoper,</l>
           <l xml:id="idm140049346512768">så det var ikke uden grund Apollo gav mig dette navn.</l>
           <l xml:id="idm140049346512256">Du ser kun det der ligger for din fod, din kunst er den</l>
-<!--370	-->
           <l xml:id="idm140049346511488">der halser efter skatte ved at grave ned i jorden.</l>
           <l xml:id="idm140049346511040">Jeg derimod ser op, op mod det himmelske,</l>
           <l xml:id="idm140049346510592">min kunst - tilgiv jeg siger det - er højere end din.</l>
           <l xml:id="idm140049346510080">Min kunst står over alkymien, ligesom himmelen står højere end jorden,</l>
           <l xml:id="idm140049346509536">og dertil kommer at min kunst er sand, kemien yderst falsk.</l>
           <pb n="17" xml:id="s17" facs="side17" rend="missing"/>
-<!--375	-->
           <l xml:id="idm140049346507648">Men noget du synes om - hvad det end er, hvor du end får det fra -</l>
           <l xml:id="idm140049346507120">kan aldrig nogensinde være mig imod.</l>
           <l xml:id="idm140049346506640">Så sørg nu bare for at komme hjem, følg stjernerne som kalder dig tilbage</l>
           <l xml:id="idm140049346506080">med tegn på at den glade tid for ægteskab snart kommer.</l>
           <l xml:id="idm140049346505568">Hvad du end morer dig med, vil jeg også more mig over,</l>
-<!--380	-->
           <l xml:id="idm140049346504736">kemi hvis det er det du vil, og poesi hvis det er det.</l>
           <l xml:id="idm140049346504288">For eftersom den skønne poesi fornøjer dig så meget,</l>
           <l xml:id="idm140049346503776">vil jeg synge klangfulde vers, som en anden Sappho.</l>
           <l xml:id="idm140049346503328">Men det er ikke kun for min skyld du skal komme hurtigt hjem,</l>
           <l xml:id="idm140049346502864">nej, du må også tænke på min lille søn.</l>
-<!--385	-->
           <l xml:id="idm140049346502048">Om Gud vil når min Tage en mere kraftfuld alder,</l>
           <l xml:id="idm140049346501552">han trænger derfor nu til råd og vejledning fra dig,</l>
           <l xml:id="idm140049346501040">Så han med viljestyrke ligesom vores</l>
           <l xml:id="idm140049346500560">til stadighed ønsker at følge både mig og dig på studiernes vej.</l>
           <l xml:id="idm140049346500016">Hvor megen sygdom og hvor mange frygtelige farer har han ikke måttet udstå</l>
-<!--390	-->
           <l xml:id="idm140049346499136">i den tid du har ladet vente på dig.</l>
           <l xml:id="idm140049346498656">Jeg kan dog håbe at den høje gud der skænkede ham til mig</l>
           <l xml:id="idm140049346498128">bevarer ham, og ikke river ham herfra før sent i livet,</l>
           <l xml:id="idm140049346497616">så han kan blive os til glæde og til ære når han vokser til,</l>
           <l xml:id="idm140049346497088">og sidde som herre på vores besiddelser indtil sin høje alderdom.</l>
-<!--395	-->
           <l xml:id="idm140049346496240">Hvis der er sandhed i hvad himmellegemerne siger - og det er der -</l>
           <l xml:id="idm140049346495776">så har de givet denne dreng en heldig skæbne ved hans fødsel.</l>
           <l xml:id="idm140049346495248">Den milde Venus stod bag ascendanten, under krebsens tegn,</l>
           <l xml:id="idm140049346494784">derfor giver du ham held i kærlighed, Cupido.</l>
           <l xml:id="idm140049346494288">Solen residerede i Tvillingernes tegn, hvor dens vanlige fælle Merkur</l>
           <pb n="18" xml:id="s18" facs="side18" rend="missing"/>
-<!--400	-->
           <l xml:id="idm140049346492320">modtog den i sin bolig, i det ellevte hus.</l>
           <l xml:id="idm140049346491872">Det gør ham anset, og samtidig intelligent,</l>
           <l xml:id="idm140049346491376">så han kan fatte lærde videnskaber. Det gir ham også mange venner.</l>
           <l xml:id="idm140049346490832">Mars når snart aller højest op på himlens tinde,</l>
           <l xml:id="idm140049346490336">hvor han har taget ophold i sit eget tegn, i Vædderen.</l>
-<!--405	-->
           <l xml:id="idm140049346489504">Han ser mod ascendanten i trigon (det kan dog også være kvadratur)</l>
           <l xml:id="idm140049346488960">og ligeledes skuer han mod Phoebus.</l>
           <l xml:id="idm140049346488576">Også fra Jupiter og Månen kan han nyde velvillige blikke</l>
           <l xml:id="idm140049346488064">og heller ikke seglbærerens lys er ham til skade.</l>
           <l xml:id="idm140049346487568">Af dette kan jeg forudse at han får både held og dygtighed</l>
-<!--410	-->
           <l xml:id="idm140049346486720">til det som den grumme Mars udretter alt for meget af i hele verden.</l>
           <l xml:id="idm140049346486256">Alt dette gir ham evner for den lærde videnskab (hvis man kunne tale om en sådan)</l>
           <l xml:id="idm140049346485696">at mestre hunde, heste, pile, våben, ja kanoner.</l>
           <l xml:id="idm140049346485200">Men Mars, du krigens far (eller rettere stedfar), jeg håber</l>
           <l xml:id="idm140049346484672">du ikke giver den form for gaver til min lille søn, giv dem til andre.</l>
-<!--415	-->
           <l xml:id="idm140049346483808">For krigens gerning bringer ingen frelse, den gyldne fred står højere end alt.</l>
           <l xml:id="idm140049346483248">Så ond en ting kan ikke indeholde godt.</l>
           <l xml:id="idm140049346482768">Men endnu mere frygter jeg for Saturn, der står i det syvende hus,</l>
           <l xml:id="idm140049346482240">dér gør han skade med sin strenghed og sendrægtighed.</l>
           <l xml:id="idm140049346481728">- Og dog: han hviler sejrssikkert i sit eget sæde,</l>
-<!--420	-->
           <l xml:id="idm140049346480912">hvor Ganymedes rækker ham hans bægre:</l>
           <l xml:id="idm140049346480432">Han hindrer næppe ægteskab, han styrker det, gør det behageligt,</l>
           <l xml:id="idm140049346479904">Dog kan han nok forhale det, for han er standset op og vandrer baglæns.</l>
           <l xml:id="idm140049346479360">Kun én ting er jeg bange for: at han skal volde hensynsløs fortræd,</l>
           <l xml:id="idm140049346478816">når han engang står Venus midt imod med sine stråler ned under ascendanten,</l>
           <pb n="19" xml:id="s19" facs="side19" rend="missing"/>
-<!--425	-->
           <l xml:id="idm140049346476832">for han behersker det ottende hus, der er en grufuld bolig.</l>
           <l xml:id="idm140049346476368">Alt dette vil ske i det attende år.</l>
           <l xml:id="idm140049346475888">Det væmmelige blik forhekses samtidig af dragens hale,</l>
           <l xml:id="idm140049346475376">der tager imod det og fordobler den ulykkelige virkning.</l>
           <l xml:id="idm140049346474912">Men da nu Jupiter, i tæt forening med Diana,</l>
-<!--430	-->
           <l xml:id="idm140049346474096">er blevet indlogeret så belejligt i det femte hus,</l>
           <l xml:id="idm140049346473600">og dér - mens hendes lys tager til -  kan modtage hende hjemme hos sig selv,</l>
           <l xml:id="idm140049346473040">forpurrer han enhver ulykke.</l>
           <l xml:id="idm140049346472608">Han bringer glæde og gør livet langt, </l>
           <l xml:id="idm140049346472128">han skænker værdighed og velstand og befordrer ægteskab og afkom.</l>
-<!--435	-->
           <l xml:id="idm140049346471264">Desuden ses et sjældent fænomen: at af planeterne står fire</l>
           <l xml:id="idm140049346470736">i deres egen bolig og på fremtrædende steder.</l>
           <l xml:id="idm140049346470240">I alle gerninger, igennem hele livet,</l>
           <l xml:id="idm140049346469808">vil dette berige min søn med umådelig medgang.</l>
           <l xml:id="idm140049346469312">Detaljer er vel overflødige: et mere gunstigt horoskop kan ikke tænkes.</l>
-<!--440	-->
           <l xml:id="idm140049346468448">Hvis jeg igen skal føde håber jeg det ofte falder ud som her.</l>
           <l xml:id="idm140049346467920">Men selvom himlens stjerner er så gunstige som jeg har turdet håbe,</l>
           <l xml:id="idm140049346467376">ønsker jeg inderligt at også alt på jorden hjælper ham</l>
           <l xml:id="idm140049346466912">- at menneskene, mænd som kvinder, ja at alt</l>
           <l xml:id="idm140049346466416">på jordens kreds skal elske ham.</l>
-<!--445	-->
           <l xml:id="idm140049346465632">Men stjernerne kan ingen frelse bringe, og jorden ikke heller.</l>
           <l xml:id="idm140049346465168">Jeg beder til at Vorherre for bestandig ser i nåde til dig, Tage.</l>
           <l xml:id="idm140049346464640">- Men mens jeg taler modtager jeg et alt for tragisk rygte:</l>
           <l xml:id="idm140049346464176">at vores allerbedste ven er død.</l>
           <l xml:id="idm140049346463712">En mere elsket, mere trofast ven har jeg nok ikke,</l>
           <pb n="20" xml:id="s20" facs="side20" rend="missing"/>
-<!--450	-->
           <l xml:id="idm140049346461840">åh død, hvor er du hård imod de gode.</l>
           <l xml:id="idm140049346461392">Jeg kan dog håbe på at rygtet - så voldsomt som det er -  blir gjort til skamme:</l>
           <l xml:id="idm140049346460832">min genius har ingen drømme sendt mig der gav varsel om det.</l>
           <l xml:id="idm140049346460304">Hvor ville det dog være frygteligt at miste så dyrebar en stjerne</l>
           <l xml:id="idm140049346459776">- sådanne stjerner er der få af på vor himmel.</l>
-<!--455	-->
           <l xml:id="idm140049346458960">I gamle dage havde både du og jeg talrige venner</l>
           <l xml:id="idm140049346458464">så trofaste som Nisus og Eurialus.</l>
           <l xml:id="idm140049346458000">Nu kan de få vi har tilbage tælles på én hånd,</l>
           <l xml:id="idm140049346457504">- en enkelt eller to, fler er der ikke.</l>
           <l xml:id="idm140049346457072">I gode tider er de talrige, i dystre få,</l>
-<!--460	-->
           <l xml:id="idm140049346456272">de kommer og forsvinder ligesom skæbnen veksler.</l>
           <l xml:id="idm140049346455776">Den eneste jeg har, stort set, der stadig er mig trofast</l>
           <l xml:id="idm140049346455312">- og uden onde bagtanker - det er min bror Apollo.</l>
           <l xml:id="idm140049346454864">Det mærkes at den milde Vandmand vædede hans ascendant,</l>
           <l xml:id="idm140049346454352">menneskelig og fast, den langsomt skridendes bopæl.</l>
-<!--465	-->
           <l xml:id="idm140049346453520">I denne venligt lysende konstellation, dér blinker også Jupiter</l>
           <l xml:id="idm140049346452992">og han og Venus omgiver østens port fra begge sider.</l>
           <l xml:id="idm140049346452480">Desuden styrker Jupiter besindigheden</l>
           <l xml:id="idm140049346452048">ved gensidigt at bytte domicil med guden med den store segl.</l>
           <l xml:id="idm140049346451584">Ja, også Mars står i sit eget tegn, det gyldne skind,</l>
-<!--470	-->
           <l xml:id="idm140049346450752">og den og Solen modtager gensidigt hinanden i deres højsæder.</l>
           <l xml:id="idm140049346450224">Det gør ham vågen, hurtig, handlekraftig,</l>
           <l xml:id="idm140049346449744">det gir ham styrke til at udføre et Herkules-arbejde.</l>
           <l xml:id="idm140049346449232">Men også Stilbon træder ind i Saturns tiltalende hjem,</l>
           <l xml:id="idm140049346448720">hvor han (omgivet af Saturn og Solen)</l>
           <pb n="21" xml:id="s21" facs="side21" rend="missing"/>
-<!--475	-->
           <l xml:id="idm140049346446864">betragter Månen i trigon - mens hun, der indvirker på sindet,</l>
           <l xml:id="idm140049346446336">vandrer i selskab med hans Jomfru.</l>
           <l xml:id="idm140049346445904">Det gir hans ånd såvel dybsindighed som konsekvens,</l>
           <l xml:id="idm140049346445392">så intet har værdi for ham, hvis ikke det er stort.</l>
           <l xml:id="idm140049346444880">Og det gir ham en overlegen dømmekraft,</l>
-<!--480	-->
           <l xml:id="idm140049346444080">så den passive pøbels trivialiteter ingen vægt har for ham.</l>
           <l xml:id="idm140049346443552">Derfor er det mindre sært at han bifalder vores kærlighed,</l>
           <l xml:id="idm140049346443024">og ikke regner den for et tilfældigt sammenfald af små atomer.</l>
           <l xml:id="idm140049346442496">Ja, åbenbart er han den eneste af mine mange brødre</l>
           <l xml:id="idm140049346441984">der har forstået at min kærlighed til dig er mer end en beruselse.</l>
-<!--485	-->
           <l xml:id="idm140049346441120">Det skyldes hans begavelse, besindighed, fornuft, moral,</l>
           <l xml:id="idm140049346440656">det skyldes hans retsindighed og dømmekraft.</l>
           <l xml:id="idm140049346440160">Det må vel være nok for mig at min ældste bror</l>
           <l xml:id="idm140049346439664">ser fordomsfrit og venligt på vor kærlighed.</l>
           <l xml:id="idm140049346439168">... Tænk hvis han også, når han gransker fremtiden i stjernerne, </l>
-<!--490	-->
           <l xml:id="idm140049346438304">uden at sige det kan forudse vort bryllup,</l>
           <l xml:id="idm140049346437856">og derfor ser at det vil være nytteløst at trodse skæbnen.</l>
           <l xml:id="idm140049346437328">- Hvor skæbnen dog har vældig vægt i kærlighed!</l>
           <l xml:id="idm140049346436832">Skæbnen forener os i kærlighed, og skæbnen skiller os igen,</l>
           <l xml:id="idm140049346436304">hér er det ikke altid slægt og rigdom der betyder noget.</l>
-<!--495	-->
           <l xml:id="idm140049346435472">Hvor smukt det er at mennesket kan forudsige fremtiden,</l>
           <l xml:id="idm140049346435024">og samtidig, hvis skæbnen bringer noget godt, opsøge det.</l>
           <l xml:id="idm140049346434512">Hér er det at de uforsigtige, der ikke véd tilstrækkeligt om sagen, ofte snubler.</l>
           <l xml:id="idm140049346433936">Min bror, til gengæld, har forstand på begge dele.</l>
           <l xml:id="idm140049346433424">Ham vil jeg altid kunne stole på - den bror der elskes af Apollon,</l>
           <pb n="22" xml:id="s22" facs="side22" rend="missing"/>
-<!--500	-->
           <l xml:id="idm140049346431472">sin skytsgud, som han derfor også helt fortjent er opkaldt efter.</l>
           <l xml:id="idm140049346430944">Hvadenten nu de andre holder med mig, eller som sædvanlig</l>
           <l xml:id="idm140049346430432">rynker brynene og sender bistre blikke efter mig,</l>
           <l xml:id="idm140049346429984">kan de dog aldrig hindre os to i bestandig at elske hinanden</l>
           <l xml:id="idm140049346429520">- og denne ene bror, Apollo, gør det ud for tusind andre.</l>
-<!--505	-->
           <l xml:id="idm140049346428688">Nej, jeg kan dårligt tage mig af at de der burde give mig trøst og lindring</l>
           <l xml:id="idm140049346428128">i stedet gør mig ondt og skælder ud.</l>
           <l xml:id="idm140049346427648">"Hvis du nu ikke," siger de, "så håbløst var forelsket i den Titan,</l>
           <l xml:id="idm140049346427104">så kunne du bestemt have haft en rigere og mere magtfuld mand."</l>
           <l xml:id="idm140049346426576">Men hvis der overhovedet er fornuft i kærligheden,</l>
-<!--510	-->
           <l xml:id="idm140049346425760">så kan jeg ikke tro at det er ufornuftigt af mig at jeg elsker dig.</l>
           <l xml:id="idm140049346425216">Jeg stræber ikke efter rigdomme og verdslig hæder,</l>
           <l xml:id="idm140049346424704">jeg stiler ikke mod at falde i en højt placeret herres smag,</l>
           <l xml:id="idm140049346424176">for din person alene er mig kærere </l>
           <l xml:id="idm140049346423696">end alle verdens herregårde, embeder og formuer tilsammen.</l>
-<!--515	-->
           <l xml:id="idm140049346422864">De dynger meget andet over mig, som jeg ikke har lyst til at gengive,</l>
           <l xml:id="idm140049346422400">eller så meget som huske - jeg stoler på mig selv.</l>
           <l xml:id="idm140049346421888">De kan sige præcis hvad de vil, jeg vil kun kaldes din!</l>
           <l xml:id="idm140049346421376">For evigt vil jeg være din Urania, min Titan!</l>
           <l xml:id="idm140049346420880">Hvadenten du bliver længe borte eller hurtigt vender hjem,</l>
-<!--520	-->
           <l xml:id="idm140049346420048">har du til stadighed din plads hér i mit hjerte.</l>
           <l xml:id="idm140049346419552">Det er jo heller ikke med, men meget mod din vilje du er borte,</l>
           <l xml:id="idm140049346419088">du ville foretrække altid at forblive her hos mig.</l>
           <l xml:id="idm140049346418592">Du ville også gerne komme hjem fra tid til anden,</l>
           <l xml:id="idm140049346418096">men du er bange for at det skulle øge smerten for os begge</l>
           <pb n="23" xml:id="s23" facs="side23" rend="missing"/>
-<!--525	-->
           <l xml:id="idm140049346416160">- for at du, når det blev nødvendigt for dig atter at forlade mig,</l>
           <l xml:id="idm140049346415616">ville fordoble sorgens byrde mange gange.</l>
           <l xml:id="idm140049346415168">Af den grund foretrækker du at blive i de fjerne lande</l>
           <l xml:id="idm140049346414656">til skæbnen lader dig finde varigt ophold her.</l>
           <l xml:id="idm140049346414160">Og når du, her i ventetiden, ikke skriver til mig er det ufrivilligt,</l>
-<!--530	-->
           <l xml:id="idm140049346413296">(selvom det er en ting der ofte har forsinket dig)</l>
           <l xml:id="idm140049346412848">enten fordi du ingen sendebude har når du har brug for et,</l>
           <l xml:id="idm140049346412336">eller fordi dine breve så ofte forsvinder på vejen.</l>
           <l xml:id="idm140049346411824">Hvad det end skyldes, skyldes det på ingen måde uvilje:</l>
           <l xml:id="idm140049346411312">lyst til at skrive, og at komme hjem, det har du.</l>
-<!--535	-->
           <l xml:id="idm140049346410544">Hver gang din tjener bringer mig et brev,</l>
           <l xml:id="idm140049346410096">fortæller han at du har sendt ham ud med disse ord:</l>
           <l xml:id="idm140049346409584">"Ak, tjener, tænk at du skal rejse! Hvor jeg misunder dig den skæbne!</l>
           <l xml:id="idm140049346409040">Gid jeg var tjener selv!"</l>
           <l xml:id="idm140049346408608">Du taler også vredt til brevet, og kunne finde at rive det i stykker,</l>
-<!--540	-->
           <l xml:id="idm140049346407744">- hvis ikke du så måtte skrive et nyt med det samme:</l>
           <l xml:id="idm140049346407232">"Hvorfor skal du, et ark papir, dog finde større lykke end de fingre der har skrevet dig?</l>
           <l xml:id="idm140049346406656">Om kort tid skal min piges fingre røre ved dig,</l>
           <l xml:id="idm140049346406160">du skal betragtes af de øjne jeg hellere selv ville se,</l>
           <l xml:id="idm140049346405648">du får måske de kys der burde være mine helt alene.</l>
-<!--545	-->
           <l xml:id="idm140049346404816">Det bør jeg også gøre: jeg fæster først et kys</l>
           <l xml:id="idm140049346404320">dér hvor Uranias hellige navn står skrevet.</l>
           <l xml:id="idm140049346403824">Så håber jeg at også hun snart trykker sine kys</l>
           <l xml:id="idm140049346403328">hvor hendes Titan har sit navnetræk.</l>
           <l xml:id="idm140049346402848">Rejs derfor ud og opsøg hende der i mine øjne</l>
           <pb n="24" xml:id="s24" facs="side24" rend="missing"/>
-<!--550	-->
           <l xml:id="idm140049346400928">er skønnere end nogen anden kvinde på vor jord. Skynd dig afsted!</l>
           <l xml:id="idm140049346400400">Tænk at du, uden mig, skal besøge det elskede slot</l>
           <l xml:id="idm140049346399888">- tænk at din egen ophavsmand må blive borte!"</l>
           <l xml:id="idm140049346399392">Ja, sådan taler du (det siger de), og sådan råber du så tit</l>
           <l xml:id="idm140049346398864">efter de tjenere der rejser op til mig - hvor er det rart at høre!</l>
-<!--555	-->
           <l xml:id="idm140049346398016">Jeg vil vide alt: jeg sætter dine sendebude til </l>
           <l xml:id="idm140049346397520">at gengive hvert et nik og hvert et ord.</l>
           <l xml:id="idm140049346397072">Jeg elsker dig hvad enten du er hjemme eller ej,</l>
           <l xml:id="idm140049346396624">hvad enten du vil skrive til mig ofte eller ej - når blot du elsker mig.</l>
           <l xml:id="idm140049346396080">Og jeg kan ikke tvivle på at du, min kære Titan,</l>
-<!--560	-->
           <l xml:id="idm140049346395264">for evigt elsker mig, Urania, som er for evigt din.</l>
           <l xml:id="idm140049346394816">Selv hvis jeg aldrig skulle se dig mere (hvilket guderne forbyde)</l>
           <l xml:id="idm140049346394352">kan du på ingen måde slettes fra mit blik:</l>
           <l xml:id="idm140049346393856">Min Titan, du er for bestandig prentet i mit sind,</l>
           <l xml:id="idm140049346393408">vil i al fremtid være fæstnet i mit hjerte.</l>
-<!--565	-->
           <l xml:id="idm140049346392592">Min kærlighed kan ingen andre vinde,</l>
           <l xml:id="idm140049346392112">om der så kommer tusind bejlere, og alle lover guld og grønne skove.</l>
           <l xml:id="idm140049346391568">Jeg kan dog ikke tro de høje guder er så grusomme</l>
           <l xml:id="idm140049346391072">at de vil fratage mig mit spæde håb.</l>
           <l xml:id="idm140049346390592">Men én ting er jeg bange for: Du er så lang tid borte</l>
-<!--570	-->
           <l xml:id="idm140049346389760">at du måske synes mindre om mit ydre når du kommer.</l>
           <l xml:id="idm140049346389248">For selvom jeg var ganske køn da du drog bort,</l>
           <l xml:id="idm140049346388752">er jeg måske forandret når du vender hjem.</l>
           <l xml:id="idm140049346388256">Ja, årene tynger mig ikke endnu, jeg frygter endnu ikke rynker,</l>
           <l xml:id="idm140049346387728">men ofte blir man ældet af bekymring.</l>
           <pb n="25" xml:id="s25" facs="side25" rend="missing"/>
-<!--575	-->
           <l xml:id="idm140049346385776">Bestandig plages jeg af angst og uro, aldrig får jeg fred</l>
           <l xml:id="idm140049346385264">- og netop mens jeg skriver dette vender det tilbage mere grumt end før:</l>
           <l xml:id="idm140049346384720">For det der før var et usikkert rygte om en god vens død</l>
           <l xml:id="idm140049346384208">blir nu alt-alt for klart bekræftet af et brev.</l>
           <l xml:id="idm140049346383712">De onde rygter får da også altid ret,</l>
-<!--580	-->
           <l xml:id="idm140049346382912">de gode falder aldrig heldigt ud!</l>
           <l xml:id="idm140049346382480">Selvom min genius, så vidt jeg husker, ikke sendte nogen drøm til varsel,</l>
           <l xml:id="idm140049346381936">gav den mig dog et tegn mens jeg var vågen:</l>
           <l xml:id="idm140049346381440">Jeg var så underligt til mode, så bedrøvet,</l>
           <l xml:id="idm140049346380944">den dag da Libitina rev ham bort fra denne jord.</l>
-<!--585	-->
           <l xml:id="idm140049346380176">Det var et varsel (men hvad er vel varsler?) om en sorg som denne,</l>
           <l xml:id="idm140049346379712">og til de andre sagde jeg: "Der er sikkert noget frygteligt på vej".</l>
           <l xml:id="idm140049346379168">Og trods det fattede jeg ikke med det samme</l>
           <l xml:id="idm140049346378720">at dette rygte - åh, hvor grusomt - at det talte alt for sandt.</l>
           <l xml:id="idm140049346378192">Det uvelkomne tror vi nødig på,</l>
-<!--590	-->
           <l xml:id="idm140049346377408">mens det vi helst vil høre hurtigt vinder tiltro.</l>
           <l xml:id="idm140049346376912">Men jeg fortæller ikke hvem det er. Nej, sindet krymper sig ved ordet.</l>
           <l xml:id="idm140049346376368">Min sorg er alt for stor til at jeg kan få navnet over mine læber.</l>
           <l xml:id="idm140049346375824">Jeg nøjes med at sige at han var din bedste ven,</l>
           <l xml:id="idm140049346375328">ligesom han også var min brors og min. Så meget siger jeg,</l>
-<!--595	-->
           <l xml:id="idm140049346374480">men muligvis er også det for meget, du skulle ikke vide det,</l>
           <l xml:id="idm140049346373952">for dårligt nyt når frem helt af sig selv, og alt for hurtigt.</l>
           <l xml:id="idm140049346373424">Nu tvinger sorgen - denne endnu større sorg -  mig til at lægge pennen.</l>
           <l xml:id="idm140049346372880">Hvor gerne jeg end ville kan jeg ikke skrive mere.</l>
           <l xml:id="idm140049346372432">Men når engang du er her selv, når vi forenes - bliver til én -</l>
           <pb n="26" xml:id="s26" facs="side26" rend="missing"/>
-<!--600	-->
           <l xml:id="idm140049346370480">da vil jeg sige meget åbent som jeg nu fortier.</l>
           <l xml:id="idm140049346369984">Da skal du genfortælle alt det onde du har måttet udstå,</l>
           <l xml:id="idm140049346369472">mens jeg fortæller dig om mine pinsler - det kan måske lindre.</l>
@@ -799,7 +674,6 @@ Tycho Brahe-oversættelser fra Peter Zeeberg - konverteret fra Wordfil
           <l xml:id="idm140049346368384">- Min Titan, evigt elskede, farvel!</l>
         </lg>
         <lg xml:id="idm140049346367824">
-<!--605	-->
           <l xml:id="idm140049346367248">Jeg skriver dette brev på Eriksholm,</l>
           <l xml:id="idm140049346366768">Mens Solen på sin vej tilbage fanger de to fisk.</l>
           <l xml:id="idm140049346366272">Gud give snart at også vi to elskende kan fange fisk her sammen,</l>

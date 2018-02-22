@@ -1,11 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!-- OCR by ATAPY 29.10.02 (Catherine Bychkova) -->
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="idm139751832943456"><!-- 
-       file     ./marc_dir/001832663.xml
-       field    530 
-       subfield a 
-       prefix   Bd 4 : -->
-<!-- blo : *dolgoedO" til d.v.s. : emph til spat : græske bogstaver til [x] : &#8531; til 1/3  -->
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="root">
   <teiHeader xml:id="idm139751832976896">
     <fileDesc xml:id="idm139751832942368">
       <titleStmt xml:id="idm139751832916976">
@@ -20,17 +14,30 @@
         <note xml:id="idm139751832913856">
 	  </note>
       </notesStmt>
-      <sourceDesc xml:id="idm139751832913344"><bibl xml:id="idm139751832913216"><author n="1" xml:id="idm139751832912528"><name xml:id="idm139751832912272"><surname xml:id="idm139751832912144">Schandorph</surname>, <forename xml:id="idm139751832911680">Sophus</forename></name></author><title xml:id="idm139751832911376">Det gamle Apotek - Birgittes Skæbne. - 1904</title><pubPlace xml:id="idm139751832911008">Kbh.</pubPlace>
-<date xml:id="idm139751832910496">1904-05</date></bibl><listBibl xml:id="idm139751832910208"><bibl xml:id="biblid54195"><title xml:id="idm139751832897056">DET GAMLE APOTHEK (1885)</title></bibl><bibl xml:id="biblid73597"><title xml:id="idm139751832896256">BIRGITTES SKÆBNE (1888)</title></bibl></listBibl></sourceDesc>
+      <sourceDesc xml:id="idm139751832913344">
+        <bibl xml:id="idm139751832913216">
+          <author n="1" xml:id="idm139751832912528">
+            <name xml:id="idm139751832912272"><surname xml:id="idm139751832912144">Schandorph</surname>, <forename xml:id="idm139751832911680">Sophus</forename></name>
+          </author>
+          <title xml:id="idm139751832911376">Det gamle Apotek - Birgittes Skæbne. - 1904</title>
+          <pubPlace xml:id="idm139751832911008">København</pubPlace>
+          <date xml:id="idm139751832910496">1904-05</date>
+        </bibl>
+        <listBibl xml:id="idm139751832910208">
+          <bibl xml:id="biblid54195">
+            <title xml:id="idm139751832897056">DET GAMLE APOTHEK (1885)</title>
+          </bibl>
+          <bibl xml:id="biblid73597">
+            <title xml:id="idm139751832896256">BIRGITTES SKÆBNE (1888)</title>
+          </bibl>
+        </listBibl>
+      </sourceDesc>
     </fileDesc>
   </teiHeader>
   <text xml:id="idm139751832895552">
     <front xml:id="idm139751832895296">
       <pb n="I" facs="adl/schandorph/schandorph6/scha6fm001" xml:id="idm139751832894992"/>
       <gap reason="cancelled" xml:id="idm139751832894160"/>
-<!---->
-<!---->
-<!--S. SCHANDORPH ROMANER FJERDE BIND-->
       <pb n="III" facs="adl/schandorph/schandorph6/scha6fm003" xml:id="idm139751832892608"/>
       <titlePage xml:id="idm139751832891840">
         <docAuthor xml:id="idm139751832891584">S. SCHANDORPH</docAuthor>
@@ -322,7 +329,7 @@ hun havde faaet fra ham, og det var mange. Men siden han kom med i den afskyelig
             <p xml:id="idm139751832636304">Det var mere end hundrede Gang, hun læste;<lb xml:id="idm139751832635952"/>
 Sorø Akademi, 18. Januar 185..</p>
             <p xml:id="idm139751832635488">Kære, søde Moder!</p>
-            <p xml:id="idm139751832635056">Som en Vandring gennem Ørken uden Spor af Udvej til en Oase med viftende Palmer og kølige Kilder har Tiden været siden de glade Dage i Ferien hos Dig. Ja, Glanspunktet i denne herlige Juletid, hvor jeg blev saa forkælet af min egen Moder, ja vistnok mere forkælet end nogensinde (og Du véd, det vil sige meget), var det nydelige, med min Moders sædvanlige fine æsthetiske Smag arrangerede Bal, som samme min Moders elskelige og utrættelige Taalmodighed afvristede en vis ældre Kancelliraad hans Tilladelse til. Jeg siger <hi rend="spat" xml:id="idm139751832634144">Glanspunktet</hi>, og siger det med en vis Emfasis (gr.: <!-- &#7952;&#956;&#981;&#8049;&#963;&#953;&#962; -->[x][x][x][x][x][x][x] i. e: Eftertryk), thi hele vort Hus straalede i Lysglans og forskønnede de i Forvejen saa skønne unge Damer, der svang sig til Kærternes Glans og Gigernes Klang. Ak kære Moder! Du er den eneste fortrolige, jeg har; her har jeg ingen Ven, thi hele det Hold, der skal dimitteres sammen med mig, ere nogle Ærkeprosaikere, hvis æsthetiske Sans søger Næring i Kasinovaudeviller. Derfor maa jeg gøre Dig mine <hi rend="italics" xml:id="idm139751832632224">"Confessiones"</hi> (i. e: Bekendelser) ligesom Kirkefaderen Augustinus gjorde Gud, og jeg maa gøre det paa et Gebet, som Delikatessen eller Pieteten muligvis ellers vilde forbyde mig at betræde Arm i Arm med min Moder. Jeg er jo nu i den Alder, da kvindelig Skønhed indvirker stærkt paa mig, og den Indflydelse vil sandsynligvis vokse i en arithmetisk Progression i en Aarrække endnu. Ja, paa dette Bal hjemme i Juleferien blev jeg rent tosset, da jeg saa alle disse hvide Halse og de dejlige Arme, skaarne som i Marmor, i Lyset; da jeg saa Blussene tændes i Øjnene og Roserne paa Kinderne, alt mens Dansen gik saa let hen over Tilje. Særlig interesserede E. S. mig. - Du drillede mig selv med hende; Du havde naturligvis dette fine psykologiske Blik, som i Følge Romanliteraturens Resultater synes at være
+            <p xml:id="idm139751832635056">Som en Vandring gennem Ørken uden Spor af Udvej til en Oase med viftende Palmer og kølige Kilder har Tiden været siden de glade Dage i Ferien hos Dig. Ja, Glanspunktet i denne herlige Juletid, hvor jeg blev saa forkælet af min egen Moder, ja vistnok mere forkælet end nogensinde (og Du véd, det vil sige meget), var det nydelige, med min Moders sædvanlige fine æsthetiske Smag arrangerede Bal, som samme min Moders elskelige og utrættelige Taalmodighed afvristede en vis ældre Kancelliraad hans Tilladelse til. Jeg siger <hi rend="spat" xml:id="idm139751832634144">Glanspunktet</hi>, og siger det med en vis Emfasis (gr.: [x][x][x][x][x][x][x] i. e: Eftertryk), thi hele vort Hus straalede i Lysglans og forskønnede de i Forvejen saa skønne unge Damer, der svang sig til Kærternes Glans og Gigernes Klang. Ak kære Moder! Du er den eneste fortrolige, jeg har; her har jeg ingen Ven, thi hele det Hold, der skal dimitteres sammen med mig, ere nogle Ærkeprosaikere, hvis æsthetiske Sans søger Næring i Kasinovaudeviller. Derfor maa jeg gøre Dig mine <hi rend="italics" xml:id="idm139751832632224">"Confessiones"</hi> (i. e: Bekendelser) ligesom Kirkefaderen Augustinus gjorde Gud, og jeg maa gøre det paa et Gebet, som Delikatessen eller Pieteten muligvis ellers vilde forbyde mig at betræde Arm i Arm med min Moder. Jeg er jo nu i den Alder, da kvindelig Skønhed indvirker stærkt paa mig, og den Indflydelse vil sandsynligvis vokse i en arithmetisk Progression i en Aarrække endnu. Ja, paa dette Bal hjemme i Juleferien blev jeg rent tosset, da jeg saa alle disse hvide Halse og de dejlige Arme, skaarne som i Marmor, i Lyset; da jeg saa Blussene tændes i Øjnene og Roserne paa Kinderne, alt mens Dansen gik saa let hen over Tilje. Særlig interesserede E. S. mig. - Du drillede mig selv med hende; Du havde naturligvis dette fine psykologiske Blik, som i Følge Romanliteraturens Resultater synes at være
 	<pb n="30" facs="adl/schandorph/schandorph6/scha6030" xml:id="idm139751832629760"/>
 Mødrene ejendommeligt. Men, kære Moder, nu er det meget værre med mig end den Gang.</p>
             <p xml:id="idm139751832628672">Den 10de dennes lige efter Ferien var her et af de mindre Baller, et Assemblé i Spisesalen her. Jeg havde engageret Frøken C. (Du gætter paa hende fra S-gaarden... <hi rend="italics" xml:id="idm139751832628064">nomina sunt odiosa!</hi>) til første Dans. Jeg vil ikke nægte, Hjærtet dansede med, men endnu kun i Valstakt. Da præsenterede min Kammerat Otto Lange, der som jeg er Gymnasiast, men kun i VIL b., mig for sin Søster fra København, hvor Faderen er Major i Artilleriet. Fuldt udvoksen, med Former, hvis Beskrivelse jeg selvfølgelig finder indecent at foretage for min Moder, med Øjne dybe blaa som Søen en klar Høstdag, med en Hud som Alabast, - o nej, ikke som Alabast, thi Sten kan ikke blive levende, og paa den Hals og de Kinder spillede i lysbestraalet Liv Dun som paa en moden Fersken... dog jeg standser. Jeg bør, jeg vil ikke gaa ind paa <hi rend="italics" xml:id="idm139751832626080">détails</hi>. Snart slog Hjærtet i hurtigere Takt end den vilde Hopsa vi dansede. Hvad vi talte om? Det var, som vore Røster fik en overjordisk Klang, som om de formælede sig med den udmærkede Musik (Regimentsmusik fra Næstved Dragoner)... og hun var en Dame med mange aandelige Interesser, havde abonneret i det kongelige Theater og kendte mange Træk fra de store Kunstneres Fru Heibergs og Nielsens, Michael Wiehes, Phisters og Rosenkildes Privatliv og havde i Selskabslivet talt et Par Gange med Chr. Winther. Jeg drømmer om hende Nat og Dag, men vær nu ikke bange, søde Moder! Jeg véd, at jeg skylder Dig at blive Student med Ære; jeg har lovet det, og jeg skal holde mit Løfte. Paa Giftermaal kan jeg jo ikke tænke i de første 10 Aar, og J. L. Heibergs blodige Satire i "De Uadskillelige" har vist mig Faren ved lang Forlovelse. Jeg er jo desuden ung, og Olga Lange er maaske kun, hvad Rosalinde var for Romeo, Julie dvæler maaske i Fremtidens Dæmring. Kun kan jeg i ængstelige Øjeblikke ræddes ved den Tanke, om der ikke i mig er noget af en Faust, en Don Juan eller en anden dæmonisk Skikkelse, thi de Kvinder! Men saa trøster jeg mig ved en Bøn til Hjærtekenderen. Og Tanken om min kære Moder vil desuden give mig Kraft til at modstaa Fristelsen.</p>
@@ -1533,7 +1540,7 @@ havde spist Kaal, og at hun havde faaet den fra en Husmand... lad mig se... det 
             <p xml:id="idm139751831756784">Tilsidst blev Pastor Sørensens Hoste henne i den mørke Krog aldeles øredøvende. Paa sit Højdepunkt gik den over i en Rømmen. Endelig kom den gamle Præst til Vejret. Sit første rolige Minut benyttede han til at stikke en Fidibus ind i Kakkelovnen for at faa Piben tændt, saa gik han hen til sin Kapellan, stillede sig lige over for ham, lagde sine Hænder paa hans Skuldre og sagde:</p>
             <p xml:id="idm139751831755744">- Unge Ven! Hvis De sendte Jens Knudsen blot en af de Sager, og han smagte paa den, saa vilde han spytte den ud igen, og, sendte De ham hele Opdækningen, saa vilde han, saa snart hans Tunge havde rørt ved hver Ret, forære Husmanden Mads Nielsen det hele til Tak for Søbekaalen, og Mads Nielsen vilde lige øjeblikkelig slaa det hele i sit Svinetrug og delikatere sin Gris med det. Ja, jeg taler Alvor. Kan De huske, hvad Apostelen Paulus siger om Mælk og fast Føde?</p>
             <p xml:id="idm139751831754448">Brinckmann følte sig noget flov og halv overvunden af Sognepræstens praktiske Prosa og citerede saa hurtig, som om Græsk havde været hans Modersmaal:</p>
-            <p xml:id="idm139751831753744"><hi rend="italics" xml:id="idm139751831753616">- <!-- &#915;&#8049;&#955;&#945; &#8017;&#956;&#8118;&#962; &#7952;&#960;&#8057;&#964;&#953;&#963;&#945;, &#8000;&#965; &#946;&#961;&#8182;&#956;&#945; &#959;&#8020;&#960;&#969; &#947;&#8049;&#961; '&#949;&#948;&#8058;&#957;&#945;&#963;&#977;&#949; -->[x][x][x][x] [x][x][x][x] [x][x][x][x][x][x][x], [x][x] [x][x][x][x][x] [x][x][x][x] [x][x][x] '[x][x][x][x][x][x][x][x]</hi>.</p>
+            <p xml:id="idm139751831753744"><hi rend="italics" xml:id="idm139751831753616">- [x][x][x][x] [x][x][x][x] [x][x][x][x][x][x][x], [x][x] [x][x][x][x][x] [x][x][x][x] [x][x][x] '[x][x][x][x][x][x][x][x]</hi>.</p>
             <p xml:id="idm139751831752144">- Ja, ja vel! ja vel. 1ste Korinthier 3, 2, afbrød Pastor Sørensen. Hans Kapitelfasthed, mente han, kunde vel undskylde, at han havde glemt Græsk indtil Bogstaverne. Han vilde dog ikke give sig helt i klassisk Lærdom, lagde sig endnu tungere paa Brinckmanns Skuldre og sagde:
 	<pb n="127" facs="adl/schandorph/schandorph6/scha6127" xml:id="idm139751831751312"/>
 - <hi rend="italics" xml:id="idm139751831750496">Fiat applicatio!</hi> kære Ven. Synes De endnu, jeg skal lægge ud med Heste og Vogn i dette Herrens Vejr?</p>
@@ -1919,7 +1926,7 @@ saa meldte Pligtfølelsen sig, syntes hun. Hun skyldte dog Fanny at holde Kontro
             <p xml:id="idm139751831472416">En køn Kone med et stort Ansigt med lige Profillinjer, bred, næsten firkantet Hage, tyndt og glat lyseblondt Haar, der var redt tæt ned over Tindingerne. En rolig resigneret Sikkerhed, en ærlig Meddelelsestrang lyste ud af de milde, men kølige lyseblaa Øjne.</p>
             <p xml:id="idm139751831471488">Hun nikkede over til Kapellanens Frue. Fanny havde tidt set hende og et Par Gange vekslet Ord med hende, uden at det var kommet til nogen videre Samtale. Hun havde endog engang været en Smule vred paa hende. En af Fru Fannys Piger havde sagt, at Kristen Povlsens Pige havde sagt, at det var bedre, om Kap'lanens havde en Taar Mælk tilovers for fattige Folk, end at Kap'lanen bissede om og prækede uden for Kirketid og paa Søgnedage. Siden havde Fanny virkelig følt det kedsommelige i ikke at have lidt Landvæsen. Det gjorde hendes Hus fremmed for Sognets fattige, som altid søgte til den gamle Præstegaard og fik Mælk der. Hun havde forsøgt at købe større Partier
 	<pb n="159" facs="adl/schandorph/schandorph6/scha6159" xml:id="idm139751831470256"/>
-Mælk i Præstegaarden til Uddeling blandt de fattige, men hun opdagede, at hun maatte betale 1/3<!-- &#8531; --> mere, end andre Folk gav. Saa gav hun Kristen Povlsens sin Mælkehandel, og der blev hun, som hendes Pige erklærede, "regederlig" behandlet.</p>
+Mælk i Præstegaarden til Uddeling blandt de fattige, men hun opdagede, at hun maatte betale 1/3 mere, end andre Folk gav. Saa gav hun Kristen Povlsens sin Mælkehandel, og der blev hun, som hendes Pige erklærede, "regederlig" behandlet.</p>
             <p xml:id="idm139751831468528">Fanny gik lige hen til Havegitret ud mod den smalle Markvej og sagde højt god Dag til Gaardmandskonen. Konen svarede endnu højere: "God Dav, Frue!" og syntes ogsaa nok at have Lyst til at standse, men i det samme gav Barnet sig til at vræle. Moderen overdøvede eller lullede dets Skraal ved at synge :</p>
             <lg xml:id="idm139751831467520">
               <l xml:id="idm139751831467264">Og det var Jørgen Ni'lens Kat,</l>
@@ -4728,7 +4735,7 @@ Embedsmænds: Postmesterens, Toldforvalterens, Amtsforvalterens... Drenge... Lat
               <p xml:id="idm139751829468768">- Begge Dele, Hr. Overlærer, begge Dele!</p>
               <p xml:id="idm139751829468288">- En er nok, min gode Lenoir! Men, hvis vi to havde levet i Athen!</p>
               <p xml:id="idm139751829467824">- <hi rend="italics" xml:id="idm139751829467568">Mon Dieu!</hi> Hvis vi havde det! Der skal have været særdeles kønt - saadan i de fleste Forhold.</p>
-              <p xml:id="idm139751829466560">- Saa var jeg bleven en Sokrates eller en af hans Efterfølgere i <!-- &#963;&#964;&#8057;&#945; &#960;&#959;&#953;&#1008;&#943;&#955;&#951; -->[x][x][x][x] [x][x][x][x][x][x][x].</p>
+              <p xml:id="idm139751829466560">- Saa var jeg bleven en Sokrates eller en af hans Efterfølgere i [x][x][x][x] [x][x][x][x][x][x][x].</p>
               <p xml:id="idm139751829465568"><hi rend="italics" xml:id="idm139751829465440">-</hi> Var der saa kønt i den Poi...?</p>
               <p xml:id="idm139751829464576">- Det var en Buegang, malet med prægtige Farver.</p>
               <p xml:id="idm139751829464080">- Aa, som den blaa Grotte i Bournonvilles herlige "Napoli".</p>
@@ -4738,7 +4745,7 @@ Embedsmænds: Postmesterens, Toldforvalterens, Amtsforvalterens... Drenge... Lat
               <p xml:id="idm139751829461872">Den gamle Pensionist rettede sig, pudsede sine Briller, blandede Rom og Vand og lo sagte:</p>
               <p xml:id="idm139751829461376">- Jeg vilde være bleven Arkont i Athen... Saadant noget som... Borgmester... Overpræsident... eller...</p>
               <p xml:id="idm139751829460768">- <hi rend="italics" xml:id="idm139751829460512">Sapristie!</hi> Vilde De det? Ja... det er kedeligt, at Verden ikke mere skønner paa Videnskab og Kunst.</p>
-              <p xml:id="idm139751829459504">- Og De vilde være bleven <!-- &#967;&#959;&#961;&#8049;&#947;&#959;&#962; -->[x][x][x][x][x][x][x]. Det vil sige... Balletmester.</p>
+              <p xml:id="idm139751829459504">- Og De vilde være bleven [x][x][x][x][x][x][x]. Det vil sige... Balletmester.</p>
               <p xml:id="idm139751829458672">Lenoir tog sig i Haarresterne og spurgte saa naivt som et Barn:</p>
               <p xml:id="idm139751829458208">- Tror De virkelig, Hr. Overlærer, at det vilde være gaaet saaledes til i <hi rend="italics" xml:id="idm139751829457776">Athènes?</hi>
 							</p>
@@ -4757,23 +4764,6 @@ Embedsmænds: Postmesterens, Toldforvalterens, Amtsforvalterens... Drenge... Lat
               <p xml:id="idm139751829449584">- Ja, hvis ellers Bournonville har lært os noget, saa var det <hi rend="spat" xml:id="idm139751829449184">det</hi>.</p>
               <p xml:id="idm139751829448400">- Hør saa:</p>
               <pb n="377" facs="adl/schandorph/schandorph6/scha6377" xml:id="idm139751829447984"/>
-<!-- <lg>
-								<l>
-									<hi rend="italics">&#917;&#7984; &#981;&#8059;&#955;&#955;&#945; &#960;&#8049;&#957;&#964;&#945; &#948;&#8051;&#957;&#948;&#961;&#969;&#957;</hi>
-								</l>
-								<l>
-									<hi rend="italics">'&#917;&#960;&#8055;&#963;&#964;&#945;&#963;&#945;&#953; &#1008;&#945;&#964;&#949;&#953;&#960;&#949;&#8150;&#957;</hi>,</l>
-								<l>
-									<hi rend="italics">&#917;&#7984; &#1008;&#8059;&#956;&#945;&#964;' &#8000;&#953;&#948;&#945;&#962; &#949;&#8017;&#961;&#949;&#8150;&#957;</hi>
-								</l>
-								<l>
-									<hi rend="italics">&#932;&#7936; &#964;&#8134;&#962; &#8005;&#955;&#951;&#962; &#977;&#945;&#955;&#8049;&#963;&#963;&#951;&#962;</hi>,</l>
-								<l>
-									<hi rend="italics">&#931;&#8050; &#964;&#8182;&#957; &#7952;&#956;&#8182;&#957; '&#917;&#961;&#8061;&#964;&#969;&#957;</hi>
-								</l>
-								<l>
-									<hi rend="italics">&#924;&#8057;&#957;&#959;&#957; &#960;&#959;&#953;&#8182; &#955;&#959;&#947;&#953;&#963;&#964;&#8053;&#957;</hi>.</l>
-							</lg> -->
               <lg xml:id="idm139751829447056">
                 <l xml:id="idm139751829446800">
                   <hi rend="italics" xml:id="idm139751829446448">[x][x] [x][x][x][x][x] [x][x][x][x][x] [x][x][x][x][x][x][x]</hi>
@@ -6708,7 +6698,7 @@ uægte fødte Barn vil blive dannet og saaledes tage Hævn over det onde, der er
                 <p xml:id="idm139751828100208">- Ja, men en Vogn koster mange Penge... og...</p>
                 <p xml:id="idm139751828099760">- Snak... Lad os tage paa Landet! Det er over tyve Aar siden, jeg var uden for denne By og nærmeste Omegn.</p>
                 <p xml:id="idm139751828099152">- Ja... ja. Ak ja!... Louis lever nu et Liv, som jeg tænkte mig i mine unge Dage, at jeg vilde leve, naar jeg havde endt min Kunstnerbane... saadan en lille Idylle.</p>
-                <p xml:id="idm139751828098416">- For en Ulykke - det er et græsk Ord... <!-- &#949;&#8055;&#948;&#8059;&#955;&#955;&#953;&#959;&#957; -->[x][x][x][x][x][x][x][x][x]... det hedder ikke <hi rend="spat" xml:id="idm139751828097584">Idil</hi>.</p>
+                <p xml:id="idm139751828098416">- For en Ulykke - det er et græsk Ord... [x][x][x][x][x][x][x][x][x]... det hedder ikke <hi rend="spat" xml:id="idm139751828097584">Idil</hi>.</p>
                 <p xml:id="idm139751828096768">- Jeg kan ikke gaa til Kilderne... længere end til min Smule Fransk, Hr. Overlærer... Men en lille Idyl... med
 	<pb n="514" facs="adl/schandorph/schandorph6/scha6514" xml:id="idm139751828096272"/>
 frisk Hvedebrød og sød Mælk om Morgenen... det er en poetisk... skøn Retraite for en Kunstner.</p>

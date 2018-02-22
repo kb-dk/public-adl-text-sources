@@ -1,11 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!-- OCR by ATAPY 29.10.02 (Catherine Bychkova) -->
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="idm140271718980544"><!-- 
-       file     ./marc_dir/001832663.xml
-       field    530 
-       subfield a 
-       prefix   Bd 6 :-->
-<!-- blo : *dolgoeO* til d.v.s. : emph til spath : græske bogstaver til [x]  -->
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="root">
   <teiHeader xml:id="idm140271718979600">
     <fileDesc xml:id="idm140271718979344">
       <titleStmt xml:id="idm140271718953904">
@@ -20,8 +14,24 @@
         <note xml:id="idm140271718950832">
 	  </note>
       </notesStmt>
-      <sourceDesc xml:id="idm140271718950320"><bibl xml:id="idm140271718950192"><author n="1" xml:id="idm140271718949568"><name xml:id="idm140271718949312"><surname xml:id="idm140271718949184">Schandorph</surname>, <forename xml:id="idm140271718948752">Sophus</forename></name></author><title xml:id="idm140271718948448"> Vilhelm Vangs Studenteraar - Frigjort. - 1905</title><pubPlace xml:id="idm140271718948128">Kbh.</pubPlace>
-<date xml:id="idm140271718947616">1904-05</date></bibl><listBibl xml:id="idm140271718947328"><bibl xml:id="biblid54176"><title xml:id="idm140271718934176">VILHELM VANGS STUDENTERAAR (1894)</title></bibl><bibl xml:id="biblid69135"><title xml:id="idm140271718933376">FRIGJORT (1896)</title></bibl></listBibl></sourceDesc>
+      <sourceDesc xml:id="idm140271718950320">
+        <bibl xml:id="idm140271718950192">
+          <author n="1" xml:id="idm140271718949568">
+            <name xml:id="idm140271718949312"><surname xml:id="idm140271718949184">Schandorph</surname>, <forename xml:id="idm140271718948752">Sophus</forename></name>
+          </author>
+          <title xml:id="idm140271718948448"> Vilhelm Vangs Studenteraar - Frigjort. - 1905</title>
+          <pubPlace xml:id="idm140271718948128">København</pubPlace>
+          <date xml:id="idm140271718947616">1904-05</date>
+        </bibl>
+        <listBibl xml:id="idm140271718947328">
+          <bibl xml:id="biblid54176">
+            <title xml:id="idm140271718934176">VILHELM VANGS STUDENTERAAR (1894)</title>
+          </bibl>
+          <bibl xml:id="biblid69135">
+            <title xml:id="idm140271718933376">FRIGJORT (1896)</title>
+          </bibl>
+        </listBibl>
+      </sourceDesc>
     </fileDesc>
   </teiHeader>
   <text xml:id="idm140271718932736">
@@ -322,7 +332,7 @@ meldte sig samtidig hendes Raad om at søge Livet og gøre Bekendtskaber.</p>
             <p xml:id="idm140271718702224">Dette gik naturligvis hurtigere for sig i Vilhelm Yangs Sind, end det her kan fortælles. Og i en Hast, i Vinterlyset derude paa Frue Plads, stærkt gulskinnende, mens svagtfrossen Sne knasede under hans Fødder, besluttede han at følge Raadet. Hans naturlige Uvilje mod de to "Tyrekalve" slog om i en velvillig Stemning. De to store Tampe saa saa godmodige ud, som om de vilde Alverden og specielt Vilhelm Vang saa inderlig vel. Der stod ingen lumsk Bagtanke i disse skikkelige Øjne, der lyste godtroende over mod Frue Kirkes skidenbrune Mur.</p>
             <p xml:id="idm140271718701056">Uden at han tænkte derover, drev han ned ad Kannikestræde med den føre Povl Tode og den lange, ranglede Julius Dann.</p>
             <p xml:id="idm140271718700416">Povl Tode sagde:</p>
-            <p xml:id="idm140271718700000">- Ja, hør nu ... Et Grin, et andet Alvor! Men tænk, hvor det løfter en i Sædet at høre saadant noget, som vi hørte i Dag af Professoren! Det er s'gu lige fedt, enten man forstaar det eller ikke, men tænk, naar man kommer fra Skolen og er bleven gennempisket i <!-- &#7956;&#961;&#967;&#959;&#956;&#945;&#953;, &#7952;&#955;&#949;&#8059;&#963;&#959;&#956;&#945;&#953;, &#7972;&#955;&#977;&#959;&#957; -->[x][x][x][x][x][x][x], [x][x][x][x][x][x][x][x][x], [x][x][x][x][x] osv. osv. ... og saa synes, at Græsk er det værste Skidt ... og saa har hørt, at Aristoteles var Huslærer hos Alexander den store ... og saa hører, hvilke Tanker der har ligget i den Karl . . . nej, hør, véd I hvad Børn? Professor Halling skal leve! og den gamle Væggesmører, min Fader, skal, Fa'en ta' mig, i Dag give et Glas Portvin af den bedste, han ejer, og det skal vi drikke paa Professor Hallings Sundhed og paa den gamle Idiot Tobisens Undergang, han, som lærte os to Græsk ... Du Julius Dann, som gaar der og dvasker . . . Hvad siger De, Hr. Vang?</p>
+            <p xml:id="idm140271718700000">- Ja, hør nu ... Et Grin, et andet Alvor! Men tænk, hvor det løfter en i Sædet at høre saadant noget, som vi hørte i Dag af Professoren! Det er s'gu lige fedt, enten man forstaar det eller ikke, men tænk, naar man kommer fra Skolen og er bleven gennempisket i [x][x][x][x][x][x][x], [x][x][x][x][x][x][x][x][x], [x][x][x][x][x] osv. osv. ... og saa synes, at Græsk er det værste Skidt ... og saa har hørt, at Aristoteles var Huslærer hos Alexander den store ... og saa hører, hvilke Tanker der har ligget i den Karl . . . nej, hør, véd I hvad Børn? Professor Halling skal leve! og den gamle Væggesmører, min Fader, skal, Fa'en ta' mig, i Dag give et Glas Portvin af den bedste, han ejer, og det skal vi drikke paa Professor Hallings Sundhed og paa den gamle Idiot Tobisens Undergang, han, som lærte os to Græsk ... Du Julius Dann, som gaar der og dvasker . . . Hvad siger De, Hr. Vang?</p>
             <p xml:id="idm140271718697808">Vilhelm Vang svarede ikke, nikkede blot adspredt til de Ord, han kun halvt havde hørt. Han havde ikke nogen ond Tanke mod latinsk eller græsk Grammatik. De var gledne i ham, mens han læste paa dem under sin Moders vogtende Øjne og nikkende skønne Hoved. Var der noget, der kneb for ham, kunde hans Fader jo forklare det med et Par Ord og ægge ham til videre Granskning ved et venligt Dask paa Kinden og et spøgefuldt udtalt Ord som f. Eks.: Vilhelm, Du er jo ikke Idiot, tænk selv min Dreng.</p>
             <p xml:id="idm140271718696640">Under en Samtale, som Vilhelm Vang kun deltog i gennem halvt adspredte, korte Svar, naaede de tre Studenter den ny Frederiksborggade.</p>
             <pb n="24" facs="adl/schandorph/schandorph8/scha8024" xml:id="idm140271718696112"/>
@@ -4147,9 +4157,9 @@ Stamme? Hun, som ikke veg fra Templet, tjenende Gud med Fasten og Bønner Nat og
             <p xml:id="idm140271715941952">- Lig stille!</p>
             <p xml:id="idm140271715941536">- Aa ... Du ... Ludvig Skov ... er det Dig?</p>
             <p xml:id="idm140271715941088">- Ja.</p>
-            <p xml:id="idm140271715940672">Aa . . . vil Du hjælpe mig med den latinske Stil og det græske Stykke hos Herodot? . . . Ellers faar jeg aldrig Artium og bliver aldrig Præst, men maa nøjes med at blive Degn. Hvad hedder nu <hi rend="italics" xml:id="idm140271715940016"><!-- &#981;&#949;&#961;&#969; -->[x][x][x][x] ad verbum?</hi>
+            <p xml:id="idm140271715940672">Aa . . . vil Du hjælpe mig med den latinske Stil og det græske Stykke hos Herodot? . . . Ellers faar jeg aldrig Artium og bliver aldrig Præst, men maa nøjes med at blive Degn. Hvad hedder nu <hi rend="italics" xml:id="idm140271715940016">[x][x][x][x] ad verbum?</hi>
 						</p>
-            <p xml:id="idm140271715938976">- Det skal jeg nok klare, Kristen, sagde Lægen. Jeg skal piske Oversættelsen i Dig, til Du kan den udenad. - <hi rend="italics" xml:id="idm140271715938480"><!-- &#981;&#949;&#961;&#969;, &#959;&#7984;&#963;&#8182;, &#7952;&#957;&#8053;&#957;&#959;&#1008;&#945; -->[x][x][x][x]</hi>, [x][x][x][x], [x][x][x][x][x][x][x]...</p>
+            <p xml:id="idm140271715938976">- Det skal jeg nok klare, Kristen, sagde Lægen. Jeg skal piske Oversættelsen i Dig, til Du kan den udenad. - <hi rend="italics" xml:id="idm140271715938480">[x][x][x][x]</hi>, [x][x][x][x], [x][x][x][x][x][x][x]...</p>
             <p xml:id="idm140271715937248">- Ja rigtig. Men Du maa ikke lede mig i Fristelse og føre mig hen til det Sted, Du véd, hvor de letfærdige Kvinder synger de Viser og ægger Kødets Lyst.</p>
             <p xml:id="idm140271715936528">- Nej. vist ej, nej vist ej!</p>
             <p xml:id="idm140271715936144">- Giv mig Din Haand derpaa.</p>

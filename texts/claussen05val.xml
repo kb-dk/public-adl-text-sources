@@ -1,15 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!--  OCR by ATAPY 01.11.02 (Catherine Bychkova) -->
-<!-- HHL 20030317 checket sidetal mv
-        Pagebreaks rettet i  forhold til vaerktitler
-        visse vaerktitler udkommenteret
-        Ptj rettet s. 132-206-208
-        -->
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="idm139945512291280"><!-- 
-       file     ./marc_dir/001383642.xml
-       field    248 
-       subfield g 
-       prefix   Bd. 3 | a-->
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="root">
   <teiHeader xml:id="idm139945512290304">
     <fileDesc xml:id="idm139945512290048">
       <titleStmt xml:id="idm139945512264560">
@@ -18,24 +8,168 @@
         <editor role="editor" xml:id="idm139945512263088">Jørgen Hunosøe</editor>
       </titleStmt>
       <publicationStmt xml:id="idm139945512262400">
-        <publisher xml:id="idm139945512262144">Det danske Sprog- og Litteraturselskab</publisher>
+        <publisher xml:id="idm139945512262144">Det Danske Sprog- og Litteraturselskab</publisher>
         <idno xml:id="idm139945512261712" xml:base="texts/claussen05val.xml">001383642:05</idno>
       </publicationStmt>
       <notesStmt xml:id="idm139945512260784">
         <note xml:id="idm139945512260528">
 	  </note>
       </notesStmt>
-      <sourceDesc xml:id="idm139945512260016"><bibl xml:id="idm139945512259888"><author n="1" xml:id="idm139945512259712"><name xml:id="idm139945512259456"><surname xml:id="idm139945512259328">Claussen</surname>, <forename xml:id="idm139945512258864">Sophus</forename></name></author><title xml:id="idm139945512258576">Sophus Claussens lyrik</title><title xml:id="idm139945512258288">Bd. 3: Djævlerier</title><pubPlace xml:id="idm139945512257984">[Kbh.]</pubPlace>
-<publisher xml:id="idm139945512257520">Det Danske Sprog- og Litteraturselskab ; Gyldendal</publisher><date xml:id="idm139945512257152">1982-</date></bibl><listBibl xml:id="idm139945512256864"><bibl xml:id="biblid55190"><title xml:id="idm139945512243712">DJÆVLERIER</title></bibl><bibl xml:id="biblid55442"><title xml:id="idm139945512242880">I MIN UNGDOM</title></bibl><bibl xml:id="biblid55648"><title xml:id="idm139945512242096">BREV FRA LANDET</title></bibl><bibl xml:id="biblid55993"><title xml:id="idm139945512241312">AFSKED</title></bibl><bibl xml:id="biblid56087"><title xml:id="idm139945512240528">PAA DE GAMLE STEDER</title></bibl><bibl xml:id="biblid56182"><title xml:id="idm139945512239744">POETEN OG NABOERSKEN</title></bibl><bibl xml:id="biblid56534"><title xml:id="idm139945512238960">PARKEN OG STADEN</title></bibl><bibl xml:id="biblid56691"><title xml:id="idm139945512238176">DJÆVLERIER [undertitel]</title></bibl><bibl xml:id="biblid56889"><title xml:id="idm139945512237360">TRAPPEN TIL HELVEDE</title></bibl><bibl xml:id="biblid58486"><title xml:id="idm139945512236528">FANFARE</title></bibl><bibl xml:id="biblid58596"><title xml:id="idm139945512235744">MØDET</title></bibl><bibl xml:id="biblid58607"><title xml:id="idm139945512234912">Mødet [undertitel]</title></bibl><bibl xml:id="biblid58637"><title xml:id="idm139945512234112">Indsigelse</title></bibl><bibl xml:id="biblid58672"><title xml:id="idm139945512233280">2det Møde</title></bibl><bibl xml:id="biblid58727"><title xml:id="idm139945512232448">3die Møde</title></bibl><bibl xml:id="biblid58812"><title xml:id="idm139945512231664">Intermezzo</title></bibl><bibl xml:id="biblid58883"><title xml:id="idm139945512230880">4de Møde</title></bibl><bibl xml:id="biblid58925"><title xml:id="idm139945512230048">SKOVVISE</title></bibl><bibl xml:id="biblid59046"><title xml:id="idm139945512229216">FLAMMEN OG KULLET</title></bibl><bibl xml:id="biblid59162"><title xml:id="idm139945512228384">MIDT I DEN SOMMERGRØNNE SKOV ...</title></bibl><bibl xml:id="biblid59255"><title xml:id="idm139945512227504">DEMASKERING</title></bibl><bibl xml:id="biblid59343"><title xml:id="idm139945512226672">TRØST</title></bibl><bibl xml:id="biblid59467"><title xml:id="idm139945512225840">FROKOSTHVIL</title></bibl><bibl xml:id="biblid59559"><title xml:id="idm139945512225008">STÆVNEMØDET</title></bibl><bibl xml:id="biblid59763"><title xml:id="idm139945512224160">ET RIMBREV</title></bibl><bibl xml:id="biblid60551"><title xml:id="idm139945512223376">BORGFRØKNEN</title></bibl><bibl xml:id="biblid62674"><title xml:id="idm139945512222576">AFRODITES DAMPE</title></bibl><bibl xml:id="biblid63859"><title xml:id="idm139945512221744">HOS HEXEN I ENDOR</title></bibl><bibl xml:id="biblid64053"><title xml:id="idm139945512220896">VISEN OM HIMPERIGIMPE</title></bibl><bibl xml:id="biblid64661"><title xml:id="idm139945512220064">HAVNESTAD</title></bibl><bibl xml:id="biblid64751"><title xml:id="idm139945512219232">PIGEN FRA CADIX</title></bibl><bibl xml:id="biblid64998"><title xml:id="idm139945512218400">TIL EN</title></bibl><bibl xml:id="biblid65154"><title xml:id="idm139945512217568">SORTE BLOMST</title></bibl><bibl xml:id="biblid65636"><title xml:id="idm139945512216736">LÆNGSEL EFTER NEAPEL</title></bibl><bibl xml:id="biblid66261"><title xml:id="idm139945512215872">I PARIS</title></bibl><bibl xml:id="biblid66439"><title xml:id="idm139945512215040">VENEZIANSKE FANTASIER</title></bibl><bibl xml:id="biblid66791"><title xml:id="idm139945512214208">GIULIETTA I GRAVKAMRET</title></bibl><bibl xml:id="biblid66881"><title xml:id="idm139945512213376">VENEDIG</title></bibl><bibl xml:id="biblid67412"><title xml:id="idm139945512212544">IL LETTO</title></bibl><bibl xml:id="biblid67847"><title xml:id="idm139945512211712">GRAVE</title></bibl><bibl xml:id="biblid68356"><title xml:id="idm139945512210880">JULEBREV</title></bibl><bibl xml:id="biblid68582"><title xml:id="idm139945512320960">DANSK FORAAR</title></bibl><bibl xml:id="biblid68740"><title xml:id="idm139945512320240">AFTENANDAGT</title></bibl><bibl xml:id="biblid68852"><title xml:id="idm139945512319392">BREV FRA LANDET [2]</title></bibl><bibl xml:id="biblid69153"><title xml:id="idm139945512318544">MENNESKET</title></bibl></listBibl></sourceDesc>
+      <sourceDesc xml:id="idm139945512260016">
+        <bibl xml:id="idm139945512259888">
+          <author n="1" xml:id="idm139945512259712">
+            <name xml:id="idm139945512259456"><surname xml:id="idm139945512259328">Claussen</surname>, <forename xml:id="idm139945512258864">Sophus</forename></name>
+          </author>
+          <title xml:id="idm139945512258576">Sophus Claussens lyrik</title>
+          <title xml:id="idm139945512258288">Bd. 3: Djævlerier</title>
+          <pubPlace xml:id="idm139945512257984">[København]</pubPlace>
+          <publisher xml:id="idm139945512257520">Det Danske Sprog- og Litteraturselskab ; Gyldendal</publisher>
+          <date xml:id="idm139945512257152">1982-</date>
+        </bibl>
+        <listBibl xml:id="idm139945512256864">
+          <bibl xml:id="biblid55190">
+            <title xml:id="idm139945512243712">DJÆVLERIER</title>
+          </bibl>
+          <bibl xml:id="biblid55442">
+            <title xml:id="idm139945512242880">I MIN UNGDOM</title>
+          </bibl>
+          <bibl xml:id="biblid55648">
+            <title xml:id="idm139945512242096">BREV FRA LANDET</title>
+          </bibl>
+          <bibl xml:id="biblid55993">
+            <title xml:id="idm139945512241312">AFSKED</title>
+          </bibl>
+          <bibl xml:id="biblid56087">
+            <title xml:id="idm139945512240528">PAA DE GAMLE STEDER</title>
+          </bibl>
+          <bibl xml:id="biblid56182">
+            <title xml:id="idm139945512239744">POETEN OG NABOERSKEN</title>
+          </bibl>
+          <bibl xml:id="biblid56534">
+            <title xml:id="idm139945512238960">PARKEN OG STADEN</title>
+          </bibl>
+          <bibl xml:id="biblid56691">
+            <title xml:id="idm139945512238176">DJÆVLERIER [undertitel]</title>
+          </bibl>
+          <bibl xml:id="biblid56889">
+            <title xml:id="idm139945512237360">TRAPPEN TIL HELVEDE</title>
+          </bibl>
+          <bibl xml:id="biblid58486">
+            <title xml:id="idm139945512236528">FANFARE</title>
+          </bibl>
+          <bibl xml:id="biblid58596">
+            <title xml:id="idm139945512235744">MØDET</title>
+          </bibl>
+          <bibl xml:id="biblid58607">
+            <title xml:id="idm139945512234912">Mødet [undertitel]</title>
+          </bibl>
+          <bibl xml:id="biblid58637">
+            <title xml:id="idm139945512234112">Indsigelse</title>
+          </bibl>
+          <bibl xml:id="biblid58672">
+            <title xml:id="idm139945512233280">2det Møde</title>
+          </bibl>
+          <bibl xml:id="biblid58727">
+            <title xml:id="idm139945512232448">3die Møde</title>
+          </bibl>
+          <bibl xml:id="biblid58812">
+            <title xml:id="idm139945512231664">Intermezzo</title>
+          </bibl>
+          <bibl xml:id="biblid58883">
+            <title xml:id="idm139945512230880">4de Møde</title>
+          </bibl>
+          <bibl xml:id="biblid58925">
+            <title xml:id="idm139945512230048">SKOVVISE</title>
+          </bibl>
+          <bibl xml:id="biblid59046">
+            <title xml:id="idm139945512229216">FLAMMEN OG KULLET</title>
+          </bibl>
+          <bibl xml:id="biblid59162">
+            <title xml:id="idm139945512228384">MIDT I DEN SOMMERGRØNNE SKOV ...</title>
+          </bibl>
+          <bibl xml:id="biblid59255">
+            <title xml:id="idm139945512227504">DEMASKERING</title>
+          </bibl>
+          <bibl xml:id="biblid59343">
+            <title xml:id="idm139945512226672">TRØST</title>
+          </bibl>
+          <bibl xml:id="biblid59467">
+            <title xml:id="idm139945512225840">FROKOSTHVIL</title>
+          </bibl>
+          <bibl xml:id="biblid59559">
+            <title xml:id="idm139945512225008">STÆVNEMØDET</title>
+          </bibl>
+          <bibl xml:id="biblid59763">
+            <title xml:id="idm139945512224160">ET RIMBREV</title>
+          </bibl>
+          <bibl xml:id="biblid60551">
+            <title xml:id="idm139945512223376">BORGFRØKNEN</title>
+          </bibl>
+          <bibl xml:id="biblid62674">
+            <title xml:id="idm139945512222576">AFRODITES DAMPE</title>
+          </bibl>
+          <bibl xml:id="biblid63859">
+            <title xml:id="idm139945512221744">HOS HEXEN I ENDOR</title>
+          </bibl>
+          <bibl xml:id="biblid64053">
+            <title xml:id="idm139945512220896">VISEN OM HIMPERIGIMPE</title>
+          </bibl>
+          <bibl xml:id="biblid64661">
+            <title xml:id="idm139945512220064">HAVNESTAD</title>
+          </bibl>
+          <bibl xml:id="biblid64751">
+            <title xml:id="idm139945512219232">PIGEN FRA CADIX</title>
+          </bibl>
+          <bibl xml:id="biblid64998">
+            <title xml:id="idm139945512218400">TIL EN</title>
+          </bibl>
+          <bibl xml:id="biblid65154">
+            <title xml:id="idm139945512217568">SORTE BLOMST</title>
+          </bibl>
+          <bibl xml:id="biblid65636">
+            <title xml:id="idm139945512216736">LÆNGSEL EFTER NEAPEL</title>
+          </bibl>
+          <bibl xml:id="biblid66261">
+            <title xml:id="idm139945512215872">I PARIS</title>
+          </bibl>
+          <bibl xml:id="biblid66439">
+            <title xml:id="idm139945512215040">VENEZIANSKE FANTASIER</title>
+          </bibl>
+          <bibl xml:id="biblid66791">
+            <title xml:id="idm139945512214208">GIULIETTA I GRAVKAMRET</title>
+          </bibl>
+          <bibl xml:id="biblid66881">
+            <title xml:id="idm139945512213376">VENEDIG</title>
+          </bibl>
+          <bibl xml:id="biblid67412">
+            <title xml:id="idm139945512212544">IL LETTO</title>
+          </bibl>
+          <bibl xml:id="biblid67847">
+            <title xml:id="idm139945512211712">GRAVE</title>
+          </bibl>
+          <bibl xml:id="biblid68356">
+            <title xml:id="idm139945512210880">JULEBREV</title>
+          </bibl>
+          <bibl xml:id="biblid68582">
+            <title xml:id="idm139945512320960">DANSK FORAAR</title>
+          </bibl>
+          <bibl xml:id="biblid68740">
+            <title xml:id="idm139945512320240">AFTENANDAGT</title>
+          </bibl>
+          <bibl xml:id="biblid68852">
+            <title xml:id="idm139945512319392">BREV FRA LANDET [2]</title>
+          </bibl>
+          <bibl xml:id="biblid69153">
+            <title xml:id="idm139945512318544">MENNESKET</title>
+          </bibl>
+        </listBibl>
+      </sourceDesc>
     </fileDesc>
   </teiHeader>
   <text xml:id="idm139945512317904">
     <front xml:id="idm139945512317648">
       <pb n="1" xml:id="s1" facs="adl/claussen/claussen05/claussen5001"/>
       <gap reason="cancelled" xml:id="idm139945512184800"/>
-<!---->
-<!---->
-<!--Sophus Claussens Lyrik III-->
       <pb n="2" xml:id="s2" facs="adl/claussen/claussen05/claussen5002"/>
       <titlePage xml:id="idm139945512182176">
         <docAuthor xml:id="idm139945512181920">
@@ -66,7 +200,7 @@
         </titlePart>
         <docImprint xml:id="idm139945512172304">
           <publisher xml:id="idm139945512172048">
-            <hi rend="italics" xml:id="idm139945512171792">Det danske Sprog- og Litteraturselskab</hi>
+            <hi rend="italics" xml:id="idm139945512171792">Det Danske Sprog- og Litteraturselskab</hi>
           </publisher>
         </docImprint>
       </titlePage>
@@ -7743,7 +7877,7 @@
               <head xml:id="idm139945508622928"><hi rend="italics" xml:id="idm139945508622800">II</hi>: <hi rend="italics" xml:id="idm139945508622144">Bøger af Sophus
 									Claussen</hi></head>
               <p xml:id="idm139945508621408"><hi rend="italics" xml:id="idm139945508621280">SC-Ms Sophus Claussen-Manuskripter</hi>. Udgivet
-								for Det danske Sprog- og Litteraturselskab af Ernst Frandsen (1941).</p>
+								for Det Danske Sprog- og Litteraturselskab af Ernst Frandsen (1941).</p>
               <p xml:id="idm139945508620352">EF Ernst Frandsen: <hi rend="italics" xml:id="idm139945508620064">Sophus Claussen</hi>
 								I-II (1950).</p>
               <p xml:id="idm139945508619216"><hi rend="italics" xml:id="idm139945508619088">HA</hi> Harry Andersen: <hi rend="italics" xml:id="idm139945508618400">Studier i Sophus Claussens lyrik</hi>, i <pb n="221" xml:id="s221" facs="adl/claussen/claussen05/claussen5221"/> Københavns Universitets Festskrift

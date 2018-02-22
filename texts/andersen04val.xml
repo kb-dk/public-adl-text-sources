@@ -1,10 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!--  Ptj rettet  s. 9 -122-129-130-149-245-264-   -->
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="idm140137151732592"><!-- 
-       file     ./marc_dir/001391928.xml
-       field     
-       subfield  
-       prefix   -->
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="root">
   <teiHeader xml:id="idm140137151731824">
     <fileDesc xml:id="idm140137151731568">
       <titleStmt xml:id="idm140137151706160">
@@ -16,24 +11,27 @@
         <author xml:id="idm140137151704400">H.C. ANDERSEN</author>
       </titleStmt>
       <publicationStmt xml:id="idm140137151703840">
-        <publisher xml:id="idm140137151703584">Det danske Sprog- og Litteraturselskab</publisher>
+        <publisher xml:id="idm140137151703584">Det Danske Sprog- og Litteraturselskab</publisher>
         <idno xml:id="idm140137151703152" xml:base="texts/andersen04val.xml">001391928:04</idno>
       </publicationStmt>
       <notesStmt xml:id="idm140137151702336">
         <note xml:id="idm140137151702032">
 	  </note>
       </notesStmt>
-      <sourceDesc xml:id="idm140137151701520"><bibl xml:id="idm140137151701392"><author n="1" xml:id="idm140137151700704"><name xml:id="idm140137151700448"><surname xml:id="idm140137151700320">Andersen</surname>, <forename xml:id="idm140137151699888">H. C.</forename></name></author><title xml:id="idm140137151699600">O.T.</title><pubPlace xml:id="idm140137151699312">[Kbh.]</pubPlace>; <pubPlace xml:id="idm140137151698848">[Valby]</pubPlace>; <pubPlace xml:id="idm140137151698432">[Ballerup]</pubPlace>
-<publisher xml:id="idm140137151697968">Det danske Sprog- og Litteraturselskab</publisher><publisher xml:id="idm140137151697664">Borgen</publisher><publisher xml:id="idm140137151697376">i samarbejde med Nyt Dansk Litteraturselskab</publisher><date xml:id="idm140137151697008">cop. 1987</date></bibl><listBibl xml:id="idm140137151696720"><bibl xml:id="biblid54102"><title xml:id="idm140137151683520">O.T.</title></bibl></listBibl></sourceDesc>
+      <sourceDesc xml:id="idm140137151701520">
+        <bibl xml:id="idm140137151701392"><author n="1" xml:id="idm140137151700704"><name xml:id="idm140137151700448"><surname xml:id="idm140137151700320">Andersen</surname>, <forename xml:id="idm140137151699888">H. C.</forename></name></author><title xml:id="idm140137151699600">O.T.</title><pubPlace xml:id="idm140137151699312">[København]</pubPlace>; <pubPlace xml:id="idm140137151698848">[Valby]</pubPlace>; <pubPlace xml:id="idm140137151698432">[Ballerup]</pubPlace><publisher xml:id="idm140137151697968">Det Danske Sprog- og Litteraturselskab</publisher><publisher xml:id="idm140137151697664">Borgen</publisher><publisher xml:id="idm140137151697376">i samarbejde med Nyt Dansk Litteraturselskab</publisher><date xml:id="idm140137151697008">cop. 1987</date></bibl>
+        <listBibl xml:id="idm140137151696720">
+          <bibl xml:id="biblid54102">
+            <title xml:id="idm140137151683520">O.T.</title>
+          </bibl>
+        </listBibl>
+      </sourceDesc>
     </fileDesc>
   </teiHeader>
   <text xml:id="workid54102" decls="#biblid54102">
     <front xml:id="idm140137151681936">
       <pb n="1" facs="adl/andersenhc/andersenhc4/anhc4001" xml:id="idm140137151681632"/>
       <gap reason="cancelled" xml:id="idm140137151680816"/>
-<!---->
-<!---->
-<!--O.T.-->
       <pb n="2" facs="adl/andersenhc/andersenhc4/anhc4002" xml:id="idm140137151679296"/>
       <pb n="3" facs="adl/andersenhc/andersenhc4/anhc4003" xml:id="idm140137151762064"/>
       <titlePage xml:id="idm140137151761296">
@@ -51,7 +49,7 @@
 					</bibl>
         </docEdition>
         <docImprint xml:id="idm140137151652208">
-          <publisher xml:id="idm140137151651952">Danske Klassikere<lb xml:id="idm140137151651664"/> Det danske Sprog- og Litteraturselskab<lb xml:id="idm140137151651408"/>
+          <publisher xml:id="idm140137151651952">Danske Klassikere<lb xml:id="idm140137151651664"/> Det Danske Sprog- og Litteraturselskab<lb xml:id="idm140137151651408"/>
 						Borgen </publisher>
         </docImprint>
       </titlePage>
@@ -363,7 +361,7 @@
               </epigraph>
               <p xml:id="idm140137151586672">Vi hørte i det Foregaaende nævne en ung Student, <hi rend="italics" xml:id="idm140137151586304">Otto Thostrup</hi>, en flink Fyr med ni <hi rend="italics" xml:id="idm140137151523760">præ
 									cæteris</hi>, som Kammeraterne sagde, men ogsaa med en Stolthed,
-								som han skulde vænnes af med Vi ville ikke gjøre hans Bekjendtskab
+								som han skulde vænnes af med. Vi ville ikke gjøre hans Bekjendtskab
 								ved de omtalte Disputeerøvelser, skjøndt man der maatte faae Agtelse
 								for den gode Latiner; ikke i stort Selskab, hvor hans smukke
 								Udvortes, det talende melancholske Blik, maatte gjøre ham
@@ -387,7 +385,7 @@
 								Hjørring Amt; jeg har reist der, besøgt Familien i Børglum-Kloster
 								og desuden gjort kortere Reiser. Aldrig glemmer jeg en Aften, ja,
 								det var et Uveir! sligt har man ei Begreb om inde i Landet. Jeg reed
-								med en af vore Karlejeg var kun en Dreng, en vild Krabat; vi vare
+								med en af vore Karle, jeg var kun en Dreng, en vild Krabat; vi vare
 								mellem Sandklitterne, da Stormen begyndte. Det skulde De have seet!
 								Sandet gjør langs Stranden høje Banker, som dæmme mod <pb n="17" facs="adl/andersenhc/andersenhc4/anhc4017" xml:id="idm140137151511296"/> Havet; de ere nu beplantede med Klittag og
 								Marehalm, men faaer Stormen Hul, saa gaaer det Hele! Det fik vi at
@@ -2809,7 +2807,7 @@
               </epigraph>
               <p xml:id="idm140137150565728">Ikke blot om <hi rend="italics" xml:id="idm140137150565440">Ottos </hi>Anliggender, men om <hi rend="italics" xml:id="idm140137150564720">Staden </hi>derovre, som Præsten ([x][x][x]
 								[x][x][x][x][x][x]
-								<!-- &kappa;&alfa;&tau; &epsilonpsili;&xi;&omicron;&chi;&eta;&nu;-->
+								
 								) kaldte Kjobenhavn, var det han vilde tale. Kun eengang om Ugen kom
 								»Viborg Samler« til ham og de kjobenhavnske Blade brugte en heel
 								Maaned, til at gaae Omgang. »Man vilde gjerne folge med Tiderne!«
@@ -7162,7 +7160,7 @@
 								sildigt!«</p>
               <p xml:id="idm140137148638960">»Hvad siger han?« spurgte hun, og saae endnu forstyrret paa ham.</p>
               <p xml:id="idm140137148638496"><hi rend="italics" xml:id="idm140137148638368">Otto </hi>gjentog det.</p>
-              <p xml:id="idm140137148637520">»Troer han,jeg kan komme afsted?« spurgte hun, og greb ham om Armen,
+              <p xml:id="idm140137148637520">»Troer han, jeg kan komme afsted?« spurgte hun, og greb ham om Armen,
 								i det hun rask sprang ud paa Gulvet og klædte sig paa.</p>
               <p xml:id="idm140137148636992">»Kun sagte og forsigtig!« sagde <hi rend="italics" xml:id="idm140137148636688">Otto</hi>.</p>
               <p xml:id="idm140137148635872">»Det havde jeg ikke troet om ham!« sagde hun. »Men siig mig, hvorfor
@@ -9367,7 +9365,7 @@
               <head xml:id="idm140137147693104">Litteraturhenvisninger</head>
               <p xml:id="idm140137147692688">H.C. Andersens Brevveksling med Henriette Hanck, udg. af Svend Larsen
 								1941_46 (Anderseniana IX-XIII).</p>
-              <p xml:id="idm140137147692176">Ole Jacobsen: Indledning og fyldige noter til Det danske Sprog- og
+              <p xml:id="idm140137147692176">Ole Jacobsen: Indledning og fyldige noter til Det Danske Sprog- og
 								Litteraturselskabs udgave 1943 (Romaner og Rejseskildringer II).</p>
               <p xml:id="idm140137147691632">Cai M. Woel: H.C. Andersen, II 1950 s. 19-27.</p>
               <p xml:id="idm140137147691184">Villy Sørensen: Hverken-eller, 1961 s. 145-48.</p>

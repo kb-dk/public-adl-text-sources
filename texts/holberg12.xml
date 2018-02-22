@@ -1,12 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!--HHL 27.08.2002 vaerktitler indsat 
-Ptj rettet s. 343-
--->
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="idm140252802702512"><!-- 
-       file     ./marc_dir/001629300.xml
-       field    248 
-       subfield g 
-       prefix   12-->
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="root">
   <teiHeader xml:id="idm140252802701792">
     <fileDesc xml:id="idm140252802701536">
       <titleStmt xml:id="idm140252802701232">
@@ -27,17 +20,62 @@ Ptj rettet s. 343-
         <note xml:id="idm140252802671072">
 	  </note>
       </notesStmt>
-      <sourceDesc xml:id="idm140252802670560"><bibl xml:id="idm140252802670432"><author n="1" xml:id="idm140252802669744"><name xml:id="idm140252802669488"><surname xml:id="idm140252802669360">Holberg</surname>, <forename xml:id="idm140252802668896">Ludvig</forename></name></author><title xml:id="idm140252802668608">Værker i tolv bind</title><title xml:id="idm140252802668304">1: Natur- og folkeret</title><pubPlace xml:id="idm140252802668016">[Kbh.]</pubPlace>
-<publisher xml:id="idm140252802667552">Rosenkilde og Bagger</publisher><date xml:id="idm140252802667264">1969-1971</date></bibl><listBibl xml:id="idm140252802666976"><bibl xml:id="biblid55911"><title xml:id="idm140252802653776">Første Brev til en højvelbaaren Herre. 1728</title></bibl><bibl xml:id="biblid63942"><title xml:id="idm140252802652912">Andet Brev til en højvelbaaren Herre. 1737</title></bibl><bibl xml:id="biblid64504"><title xml:id="idm140252802652064">Tredie Brev til en højvelbaaren Herre. 1743</title></bibl><bibl xml:id="biblid75360"><title xml:id="idm140252802651152">Epistola 447</title></bibl><bibl xml:id="biblid77720"><title xml:id="idm140252802650368">Ansøgning om Professorat</title></bibl><bibl xml:id="biblid78154"><title xml:id="idm140252802649552">Brev til Hans Gram</title></bibl><bibl xml:id="biblid78492"><title xml:id="idm140252802648720">Brev til Paul Botten Hagen</title></bibl><bibl xml:id="biblid78698"><title xml:id="idm140252802647920">Brev til Grev Johan Ludvig Holstein</title></bibl><bibl xml:id="biblid78980"><title xml:id="idm140252802647120">Holbergs sidste Vilje</title></bibl><bibl xml:id="biblid79434"><title xml:id="idm140252802646336">Brev til Grev Reuss</title></bibl><bibl xml:id="biblid80237"><title xml:id="idm140252802645552">Brev til Konsistorium</title></bibl><bibl xml:id="biblid80481"><title xml:id="idm140252802644720">Brev til Skuespillerne</title></bibl></listBibl></sourceDesc>
+      <sourceDesc xml:id="idm140252802670560">
+        <bibl xml:id="idm140252802670432">
+          <author n="1" xml:id="idm140252802669744">
+            <name xml:id="idm140252802669488"><surname xml:id="idm140252802669360">Holberg</surname>, <forename xml:id="idm140252802668896">Ludvig</forename></name>
+          </author>
+          <title xml:id="idm140252802668608">Værker i tolv bind</title>
+          <title xml:id="idm140252802668304">1: Natur- og folkeret</title>
+          <pubPlace xml:id="idm140252802668016">[København]</pubPlace>
+          <publisher xml:id="idm140252802667552">Rosenkilde og Bagger</publisher>
+          <date xml:id="idm140252802667264">1969-1971</date>
+        </bibl>
+        <listBibl xml:id="idm140252802666976">
+          <bibl xml:id="biblid55911">
+            <title xml:id="idm140252802653776">Første Brev til en højvelbaaren Herre. 1728</title>
+          </bibl>
+          <bibl xml:id="biblid63942">
+            <title xml:id="idm140252802652912">Andet Brev til en højvelbaaren Herre. 1737</title>
+          </bibl>
+          <bibl xml:id="biblid64504">
+            <title xml:id="idm140252802652064">Tredie Brev til en højvelbaaren Herre. 1743</title>
+          </bibl>
+          <bibl xml:id="biblid75360">
+            <title xml:id="idm140252802651152">Epistola 447</title>
+          </bibl>
+          <bibl xml:id="biblid77720">
+            <title xml:id="idm140252802650368">Ansøgning om Professorat</title>
+          </bibl>
+          <bibl xml:id="biblid78154">
+            <title xml:id="idm140252802649552">Brev til Hans Gram</title>
+          </bibl>
+          <bibl xml:id="biblid78492">
+            <title xml:id="idm140252802648720">Brev til Paul Botten Hagen</title>
+          </bibl>
+          <bibl xml:id="biblid78698">
+            <title xml:id="idm140252802647920">Brev til Grev Johan Ludvig Holstein</title>
+          </bibl>
+          <bibl xml:id="biblid78980">
+            <title xml:id="idm140252802647120">Holbergs sidste Vilje</title>
+          </bibl>
+          <bibl xml:id="biblid79434">
+            <title xml:id="idm140252802646336">Brev til Grev Reuss</title>
+          </bibl>
+          <bibl xml:id="biblid80237">
+            <title xml:id="idm140252802645552">Brev til Konsistorium</title>
+          </bibl>
+          <bibl xml:id="biblid80481">
+            <title xml:id="idm140252802644720">Brev til Skuespillerne</title>
+          </bibl>
+        </listBibl>
+      </sourceDesc>
     </fileDesc>
   </teiHeader>
   <text xml:id="idm140252802644080">
     <front xml:id="idm140252802643824">
       <pb n="I" xml:id="sI" facs="adl/holberg/holberg12/holb12001"/>
       <gap reason="cancelled" xml:id="idm140252802642320"/>
-<!---->
-<!---->
-<!--LUDVIG HOLBERG VÆRKER i tolv Bind-->
       <pb n="II" xml:id="sII" facs="adl/holberg/holberg12/holb12002"/>
       <pb n="III" xml:id="sIII" facs="adl/holberg/holberg12/holb12003"/>
       <titlePage xml:id="idm140252802638576">

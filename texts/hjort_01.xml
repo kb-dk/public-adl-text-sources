@@ -1,9 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="idm140211095362272"><!-- 
-       file     ./marc_dir/002896283.xml
-       field     
-       subfield  
-       prefix   -->
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="root">
   <teiHeader xml:id="idm140211095366240">
     <fileDesc xml:id="idm140211095365984">
       <titleStmt xml:id="idm140211095365680">
@@ -19,12 +15,14 @@
 	  </note>
       </notesStmt>
       <sourceDesc xml:id="idm140211095337136">
-	<bibl xml:id="idm140211095336880">
-	  <author n="1" xml:id="idm140211095336112"><name xml:id="idm140211095335856"><surname xml:id="idm140211095335728">Hjortø</surname>,
-	  <forename xml:id="idm140211095335280">Knud</forename></name>
-	  </author>
-	  <title xml:id="idm140211095334736">Syner</title><pubPlace xml:id="idm140211095334448">[Kbh.]</pubPlace>; <pubPlace xml:id="idm140211095333984">[Valby]</pubPlace>
-<publisher xml:id="idm140211095333520">Det danske Sprog- og Litteraturselskab</publisher><publisher xml:id="idm140211095333216">Borgen</publisher><date xml:id="idm140211095332880">2003</date></bibl><listBibl xml:id="idm140211095332544"><bibl xml:id="biblid54086"><title xml:id="idm140211095319392">Syner (Danske Klassikere)</title></bibl></listBibl></sourceDesc>
+        <bibl xml:id="idm140211095336880"><author n="1" xml:id="idm140211095336112"><name xml:id="idm140211095335856"><surname xml:id="idm140211095335728">Hjortø</surname>,
+	  <forename xml:id="idm140211095335280">Knud</forename></name></author><title xml:id="idm140211095334736">Syner</title><pubPlace xml:id="idm140211095334448">[København]</pubPlace>; <pubPlace xml:id="idm140211095333984">[Valby]</pubPlace><publisher xml:id="idm140211095333520">Det Danske Sprog- og Litteraturselskab</publisher><publisher xml:id="idm140211095333216">Borgen</publisher><date xml:id="idm140211095332880">2003</date></bibl>
+        <listBibl xml:id="idm140211095332544">
+          <bibl xml:id="biblid54086">
+            <title xml:id="idm140211095319392">Syner (Danske Klassikere)</title>
+          </bibl>
+        </listBibl>
+      </sourceDesc>
     </fileDesc>
   </teiHeader>
   <text xml:id="workid54086" decls="#biblid54086">

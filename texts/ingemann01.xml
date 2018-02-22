@@ -1,10 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!--  Ptj rettet s. 128-203-                         -->
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="idm140296367225568"><!-- 
-       file     ./marc_dir/001458865.xml
-       field     
-       subfield  
-       prefix   -->
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="root">
   <teiHeader xml:id="idm140296367229328">
     <fileDesc xml:id="idm140296367229072">
       <titleStmt xml:id="idm140296367228768">
@@ -16,7 +11,7 @@
         <author xml:id="idm140296367201776">B. S. Ingemann</author>
       </titleStmt>
       <publicationStmt xml:id="idm140296367201216">
-        <publisher xml:id="idm140296367200960">Danske Klassikere Det danske Sprog- og Litteraturselska</publisher>
+        <publisher xml:id="idm140296367200960">Danske Klassikere Det Danske Sprog- og Litteraturselska</publisher>
         <pubPlace xml:id="idm140296367200512">Borgen</pubPlace>
         <idno xml:id="idm140296367200128" xml:base="texts/ingemann01.xml">001458865:01</idno>
       </publicationStmt>
@@ -24,17 +19,65 @@
         <note xml:id="idm140296367199008">
 	  </note>
       </notesStmt>
-      <sourceDesc xml:id="idm140296367198496"><bibl xml:id="idm140296367198368"><title xml:id="idm140296367198240">Fjorten eventyr og fortællinger</title><pubPlace xml:id="idm140296367197904">[Kbh.]</pubPlace>
-<publisher xml:id="idm140296367197440">Det Danske Sprog- og Litteraturselskab</publisher><publisher xml:id="idm140296367197136">Borgen</publisher><date xml:id="idm140296367196800">1989</date></bibl><listBibl xml:id="idm140296367196512"><bibl xml:id="biblid54262"><title xml:id="idm140296367182960">Det høie Spil</title></bibl><bibl xml:id="biblid54564"><title xml:id="idm140296367182160">Sphinxen</title></bibl><bibl xml:id="biblid58868"><title xml:id="idm140296367181376">Moster Maria</title></bibl><bibl xml:id="biblid60391"><title xml:id="idm140296367180544">Det forbandede Huus</title></bibl><bibl xml:id="biblid61382"><title xml:id="idm140296367179760">Varulven</title></bibl><bibl xml:id="biblid62237"><title xml:id="idm140296367178928">Glasskabet</title></bibl><bibl xml:id="biblid62379"><title xml:id="idm140296367178144">Selv-Citationen</title></bibl><bibl xml:id="biblid62627"><title xml:id="idm140296367177360">Niels Dragon</title></bibl><bibl xml:id="biblid62744"><title xml:id="idm140296367176528">De fortryllede Fingre</title></bibl><bibl xml:id="biblid64025"><title xml:id="idm140296367175744">Araberen i Constantinopel</title></bibl><bibl xml:id="biblid64297"><title xml:id="idm140296367174944">Skolekammeraterne</title></bibl><bibl xml:id="biblid66148"><title xml:id="idm140296367174160">Den Fremmede</title></bibl><bibl xml:id="biblid66957"><title xml:id="idm140296367173376">Pulcinellen</title></bibl><bibl xml:id="biblid67711"><title xml:id="idm140296367172592">De tvende Draaber</title></bibl></listBibl></sourceDesc>
+      <sourceDesc xml:id="idm140296367198496">
+        <bibl xml:id="idm140296367198368">
+          <title xml:id="idm140296367198240">Fjorten eventyr og fortællinger</title>
+          <pubPlace xml:id="idm140296367197904">[København]</pubPlace>
+          <publisher xml:id="idm140296367197440">Det Danske Sprog- og Litteraturselskab</publisher>
+          <publisher xml:id="idm140296367197136">Borgen</publisher>
+          <date xml:id="idm140296367196800">1989</date>
+        </bibl>
+        <listBibl xml:id="idm140296367196512">
+          <bibl xml:id="biblid54262">
+            <title xml:id="idm140296367182960">Det høie Spil</title>
+          </bibl>
+          <bibl xml:id="biblid54564">
+            <title xml:id="idm140296367182160">Sphinxen</title>
+          </bibl>
+          <bibl xml:id="biblid58868">
+            <title xml:id="idm140296367181376">Moster Maria</title>
+          </bibl>
+          <bibl xml:id="biblid60391">
+            <title xml:id="idm140296367180544">Det forbandede Huus</title>
+          </bibl>
+          <bibl xml:id="biblid61382">
+            <title xml:id="idm140296367179760">Varulven</title>
+          </bibl>
+          <bibl xml:id="biblid62237">
+            <title xml:id="idm140296367178928">Glasskabet</title>
+          </bibl>
+          <bibl xml:id="biblid62379">
+            <title xml:id="idm140296367178144">Selv-Citationen</title>
+          </bibl>
+          <bibl xml:id="biblid62627">
+            <title xml:id="idm140296367177360">Niels Dragon</title>
+          </bibl>
+          <bibl xml:id="biblid62744">
+            <title xml:id="idm140296367176528">De fortryllede Fingre</title>
+          </bibl>
+          <bibl xml:id="biblid64025">
+            <title xml:id="idm140296367175744">Araberen i Constantinopel</title>
+          </bibl>
+          <bibl xml:id="biblid64297">
+            <title xml:id="idm140296367174944">Skolekammeraterne</title>
+          </bibl>
+          <bibl xml:id="biblid66148">
+            <title xml:id="idm140296367174160">Den Fremmede</title>
+          </bibl>
+          <bibl xml:id="biblid66957">
+            <title xml:id="idm140296367173376">Pulcinellen</title>
+          </bibl>
+          <bibl xml:id="biblid67711">
+            <title xml:id="idm140296367172592">De tvende Draaber</title>
+          </bibl>
+        </listBibl>
+      </sourceDesc>
     </fileDesc>
   </teiHeader>
   <text xml:id="idm140296367171952">
     <front xml:id="idm140296367171696">
       <pb n="I" facs="adl/ingemann/ingemann1/inge1001" xml:id="idm140296367171344"/>
       <gap reason="cancelled" xml:id="idm140296367170528"/>
-<!---->
-<!---->
-<!--Fjorten Eventyr og Fortællinger-->
       <pb n="II" facs="adl/ingemann/ingemann1/inge1002" xml:id="idm140296367169008"/>
       <pb n="III" facs="adl/ingemann/ingemann1/inge1003" xml:id="idm140296367168240"/>
       <titlePage xml:id="idm140296367167472">
@@ -48,7 +91,7 @@
 					</bibl>
         </docEdition>
         <docImprint xml:id="idm140296367163696">
-          <publisher xml:id="idm140296367163440">Danske Klassikere Det danske Sprog- og Litteraturselskab Borgens
+          <publisher xml:id="idm140296367163440">Danske Klassikere Det Danske Sprog- og Litteraturselskab Borgens
 						Forlag </publisher>
         </docImprint>
       </titlePage>
@@ -3991,7 +4034,7 @@
 					deres Stemmers Harmonie smeltede saa deiligt sammen, som to længe adskilte
 					Sjæle, der flyve forenede paa Tonevinger gjennem den salige Himmel. Jeg glædede
 					mig til deres Forening og haabede nu, at hiin forstyrrende Phantasie ikke længer
-					skulde hindre deres Lykke. Dog den næstsidste Sang,jeg har fra Jægerens Haand og
+					skulde hindre deres Lykke. Dog den næstsidste Sang, jeg har fra Jægerens Haand og
 					som synes skrevet Natten før Brullupsdagen, har desværre viist mig, at den dybe
 					Dissonants i hans Sjæl endnu ikke havde fundet sin Opløsning. Han fordømmer selv
 					den Lykke, han dog lidenskabelig higer efter, og han tænker atter paa at flye
@@ -8276,7 +8319,7 @@
             <eg xml:id="idm140296365120832">74</eg>
             <p xml:id="idm140296365120448"><hi rend="italics" xml:id="idm140296365120320">Søster</hi>: Ingemanns mormor, Johanne Marie Harboe,
 							jf. <hi rend="italics" xml:id="idm140296365119568">Levnetsbog</hi> I s. 13 og 21-27. - <hi rend="italics" xml:id="idm140296365118848">Capitainen</hi>: Ingemanns morfar, skibskaptajn Lars
-							Hansen Swane,jf. a.a. s. 13.</p>
+							Hansen Swane, jf. a.a. s. 13.</p>
             <eg xml:id="idm140296365117936">75</eg>
             <p xml:id="idm140296365117552"><hi rend="italics" xml:id="idm140296365117424">temmeligt</hi>: ret stort. - <hi rend="italics" xml:id="idm140296365116704">den
 								store ulykkelige Røver</hi>...: muligvis Rinaldo Rinaldini i C.A.

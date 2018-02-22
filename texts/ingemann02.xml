@@ -1,9 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="idm140036559000944"><!-- 
-       file     ./marc_dir/001391930.xml
-       field     
-       subfield  
-       prefix   -->
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="root">
   <teiHeader xml:id="idm140036559006256">
     <fileDesc xml:id="idm140036559006000">
       <titleStmt xml:id="idm140036559005696">
@@ -16,7 +12,7 @@
       </titleStmt>
       <publicationStmt xml:id="idm140036558978368">
         <publisher xml:id="idm140036558978112">Danske Klassikere
-Det danske Sprog- og Litteraturselska</publisher>
+Det Danske Sprog- og Litteraturselska</publisher>
         <pubPlace xml:id="idm140036558977664">Borgen</pubPlace>
         <idno xml:id="idm140036558977280" xml:base="texts/ingemann02.xml">001391930:02</idno>
       </publicationStmt>
@@ -24,17 +20,20 @@ Det danske Sprog- og Litteraturselska</publisher>
         <note xml:id="idm140036558976128">
 	  </note>
       </notesStmt>
-      <sourceDesc xml:id="idm140036558975616"><bibl xml:id="idm140036558975488"><author n="1" xml:id="idm140036558974800"><name xml:id="idm140036558974544"><surname xml:id="idm140036558974416">Ingemann</surname>, <forename xml:id="idm140036558973952">B. S.</forename></name></author><title xml:id="idm140036558973664">Valdemar Seier</title><pubPlace xml:id="idm140036558973376">Kbh.</pubPlace>; <pubPlace xml:id="idm140036558972912">Valby</pubPlace>; <pubPlace xml:id="idm140036558972496">Ballerup</pubPlace>
-<publisher xml:id="idm140036558972032">Det danske Sprog- og Litteraturselskab</publisher><publisher xml:id="idm140036558971728">Borgen</publisher><publisher xml:id="idm140036558971440">i samarbejde med Nyt Dansk Litteraturselskab</publisher><date xml:id="idm140036558971072">cop. 1987</date></bibl><listBibl xml:id="idm140036558970784"><bibl xml:id="biblid54477"><title xml:id="idm140036558957632">Valdemar Seier</title></bibl></listBibl></sourceDesc>
+      <sourceDesc xml:id="idm140036558975616">
+        <bibl xml:id="idm140036558975488"><author n="1" xml:id="idm140036558974800"><name xml:id="idm140036558974544"><surname xml:id="idm140036558974416">Ingemann</surname>, <forename xml:id="idm140036558973952">B. S.</forename></name></author><title xml:id="idm140036558973664">Valdemar Seier</title><pubPlace xml:id="idm140036558973376">København</pubPlace>; <pubPlace xml:id="idm140036558972912">Valby</pubPlace>; <pubPlace xml:id="idm140036558972496">Ballerup</pubPlace><publisher xml:id="idm140036558972032">Det Danske Sprog- og Litteraturselskab</publisher><publisher xml:id="idm140036558971728">Borgen</publisher><publisher xml:id="idm140036558971440">i samarbejde med Nyt Dansk Litteraturselskab</publisher><date xml:id="idm140036558971072">cop. 1987</date></bibl>
+        <listBibl xml:id="idm140036558970784">
+          <bibl xml:id="biblid54477">
+            <title xml:id="idm140036558957632">Valdemar Seier</title>
+          </bibl>
+        </listBibl>
+      </sourceDesc>
     </fileDesc>
   </teiHeader>
   <text xml:id="idm140036558956992">
     <front xml:id="idm140036558956736">
       <pb n="I" facs="adl/ingemann/ingemann2/inge2001" xml:id="idm140036558956432"/>
       <gap reason="cancelled" xml:id="idm140036558955568"/>
-<!---->
-<!---->
-<!--Valdemar Seier-->
       <pb n="II" facs="adl/ingemann/ingemann2/inge2002" xml:id="idm140036558954048"/>
       <pb n="III" facs="adl/ingemann/ingemann2/inge2003" xml:id="idm140036558953312"/>
       <titlePage xml:id="idm140036558952544">
@@ -49,7 +48,7 @@ Det danske Sprog- og Litteraturselska</publisher>
         </docEdition>
         <docImprint xml:id="idm140036558948864">
           <publisher xml:id="idm140036558948608">Danske Klassikere
-Det danske Sprog- og Litteraturselskab
+Det Danske Sprog- og Litteraturselskab
 Borgens Forlag
 </publisher>
         </docImprint>
@@ -731,7 +730,7 @@ skulde see som sin Brud »Helene er det ikke, - sagde han - men det er vel, her 
             <p xml:id="idm140036558237392">De bejaede det ærbødig, medens en Blanding af Nysgjerrighed og ængstelig Forventning udtrykte sig i deres runde ellers sorgløse Ansigter.</p>
             <p xml:id="idm140036558236704">»Har I nogensinde seet Prindsesse Margaretha af Bøhmen?« spurgte Kongen videre.</p>
             <p xml:id="idm140036558236224">»Til Tjeneste, naadige Herre!« svarede de begge næsten paa eengang, og bukkede sig begge lige dybt, som Træmænd, der bevæges ved en Snor.</p>
-            <p xml:id="idm140036558235680">»Saa beskriver mig hende nøiagtig, - vedblev Valdemar - og siger mig uden Frygt Alt hvad I vide om hende, det være Godt eller Ondt! hvert sandt Ord, I sige, skal jeg betale Eder kongelig; men den første Usandhed,jeg griber Eder i, vil jeg strengelig straffe.«</p>
+            <p xml:id="idm140036558235680">»Saa beskriver mig hende nøiagtig, - vedblev Valdemar - og siger mig uden Frygt Alt hvad I vide om hende, det være Godt eller Ondt! hvert sandt Ord, I sige, skal jeg betale Eder kongelig; men den første Usandhed, jeg griber Eder i, vil jeg strengelig straffe.«</p>
             <p xml:id="idm140036558235008">Over denne Tiltale bleve de forbausede Klerke først ængstelige, og det varede noget, inden de fik Munden paa Gang; men snart strømmede Lovtalerne over den skjønne Prindsesses Mildhed og Fromhed rigelig over deres Læber, og jo længer de talte, jo mindre frygtede de for at fortale sig; de gjennemgik punktlig alle syv moralske og theologiske Cardinal-Dyder, som de forsikkrede hun besad i den allerhøieste Grad, hvorhos de ikke forsømte flittig at anføre den hellige Augustins og Petri Lombardi Sententser og benytte deres skolastiske Lærdom om de 7 Helligaandsgaver og de 8 Saligheder, medens de kappedes om i Munden paa hinanden at sige alle de Sandheder og gyldne Ord, som den gavmilde Konge vilde betalt dem saa rigelig.</p>
             <pb n="102" facs="adl/ingemann/ingemann2/inge2102" xml:id="idm140036558233040"/>
             <p xml:id="idm140036558232224">»Nok, nok om de latinske Dyder! - afbrød Kongen dem endelig -og tal Een ad Gangen, hvis jeg skal forstaae hvad I sige! Har hun kun en Hundrededeel af de Fuldkommenheder, I der har opregnet, maa hun jo være ti Gange bedre, end en Engel i Himlen. Men siig mig nu hvorledes hun seer ud! ikke sandt hun skeler lidt, har en Pukkel eller to paa Ryggen - nu kun herud med det! tal du først, Renert! lyver du, saa veed du, jeg holder Ord.«</p>
@@ -3423,7 +3422,7 @@ for at følge med, og var bleven tilbage paa sit Skib, medens Kongen og hans Sø
 muntre Hr. Strange - Dagens straalende Konge, som Olaf Hvitaskjald kalder den, er jo forlængesiden gaaet skamfuld til Hvile.«</p>
               <p xml:id="idm140036555965840">»Men <hi rend="italics" xml:id="idm140036555965552">den</hi> Konge gik dog lidt længer idag, end om Lyøe - svarede Kongen - hvor mange tusinde Aar troer du ikke han har gaaet Verden rundt i sin rolige Glands og Majestæt, og om tusinde Aar skrider han vel lige rolig og stolt hen over vore Grave. Naar jeg ret betænker det, Strange! - vedblev Kongen alvorlig - saa er det dog ikke stort bevendt med vor Høihed og Storhed, og et Menneskeliv er dog for stakket til at udrette Noget, der er værd at tale om efter hundrede Aar; men man maa blive gammel før man mærker det. Hvad jeg higede efter i min raske Ungdom, see, det har jeg dog nogenlunde naaet og meer dertil. Men hvad er det saa? skulde Valdemars Liv ikke være mere værd? oprigtig talt, Strange! selv en Keisers Høihed og Magt synes mig heelt tarvelig og ringe, siden jeg jog de to Keisere over Elben.«</p>
               <p xml:id="idm140036555963088">»Maaskee I endog tilsidst kunde faae Lyst til Sædet paa St. Pedefs høie Stol - tog Junker Strange atter Ordet i sin sædvanlige skjemten-de Tone - Præstekeiserens Høihed og Magt maa I dog tilstaae betyder Noget i Verden, saalænge Konger og Keisere ikke holde sig for gode til at holde Stigbøilen for ham.«</p>
-              <p xml:id="idm140036555962064">»Mellem os, gamle Strange! den er visselig den største Hersker paa Jorden, som hersker over Sjælene; den Hjerne, der først fødte hiin dristige Tanke, fortjente vel at bære en større Krone, end Kongers og Keiseres. Derfor har jeg ogsaa altid æret hiin mægtige Romerbisp meer, end alle Verdens Beherskere; men jeg takker dog min Gud,jeg ikke er i hans Sted.«</p>
+              <p xml:id="idm140036555962064">»Mellem os, gamle Strange! den er visselig den største Hersker paa Jorden, som hersker over Sjælene; den Hjerne, der først fødte hiin dristige Tanke, fortjente vel at bære en større Krone, end Kongers og Keiseres. Derfor har jeg ogsaa altid æret hiin mægtige Romerbisp meer, end alle Verdens Beherskere; men jeg takker dog min Gud, jeg ikke er i hans Sted.«</p>
               <p xml:id="idm140036555960928">»Hvi saa? Herre Konge! I vilde, saa sandelig! ikke sove paa den hellige Stol.«</p>
               <p xml:id="idm140036555960448">»Rigtig, Strange! det mener jeg just ogsaa: Herrens Statholder burde aldrig sove, og troede han ikke, han var det i Sandhed - da sov han vel mindre.«</p>
               <p xml:id="idm140036555959904">»Jeg veed ikke, om jeg forstaaer Eder ret, Herre Konge!«</p>
@@ -3444,7 +3443,7 @@ Alle saae mod Himlen og betragtede det sjeldne Natursyn.</p>
               <p xml:id="idm140036555949360">»Jeg holder meer af at see Fuglen flyve, end falde ned, Herre Fader! og det gjør I jo selv: da I havde truffet den stolte Ørn i Flugten, ynkede I den dog, der den faldt«</p>
               <p xml:id="idm140036555948784">»Du kan have Ret, min Dagmars Søn! - sagde Kongen alvorlig -det er dog en vild og egennyttig Glæde saaledes at standse Ørnen i dens Flugt og see Kongefuglen falde for en lumsk og ussel Piil. Jeg skyder ingen Ørne mcer. Men hvor bliver vor lystige Greve af? Nu, der har vi ham.«</p>
               <p xml:id="idm140036555948096">I sin grønne Fløiels Jagtkjortel med Paternosterbaandet af Rubiner og Smaragder om Halsen og med sin garderigske Fjærhat i Haanden, traadte Grev Henrik ind i Kongeteltet. Han haltede lidt med den høire Fod; hans mørke Aasyn var uroligt og forvirret og hans Blik uvist og skelende, medens han med Møie syntes at bekæmpe en hemmelig Uro og satte et venligt smilende Ansigt op. »Undskyld mig, min naa-digste Herre og Konge! - sagde han med usikker Stemme, idet han hilsede Kongen med mere Ydmyghed, end sædvanlig - Jeg har hele Dagen maattet ligge med varme Omslag om min Fod og havde nær ikke kunnet have den Ære og Lykke at hilse paa Eder.«</p>
-              <p xml:id="idm140036555946368">»Kom, sæt Eder, Greve! og gjør ingen Omstændigheder! - svarede Kongen - Anstræng ikke Foden med at staae! Naar vi komme til Ribehuus, skal Mester Harpestræng snart bringe Jer til at gaae lige paa Benene. Han læger alle Beenskader hastigt og fortræffeligt; han veed nok,jeg ikke for min Død kan fordrage at see Nogen halte.«</p>
+              <p xml:id="idm140036555946368">»Kom, sæt Eder, Greve! og gjør ingen Omstændigheder! - svarede Kongen - Anstræng ikke Foden med at staae! Naar vi komme til Ribehuus, skal Mester Harpestræng snart bringe Jer til at gaae lige paa Benene. Han læger alle Beenskader hastigt og fortræffeligt; han veed nok, jeg ikke for min Død kan fordrage at see Nogen halte.«</p>
               <p xml:id="idm140036555945296">»Hvad har eders Naade da saameget derimod?« spurgte Grev Henrik, idet han nærmede sig Feltstolen ved Kongens venstre Side og tøvede med at sætte sig, inden den unge Kong Valdemar havde taget Plads ved sin Faders høire Haand.</p>
               <p xml:id="idm140036555944672">»Hvad jeg har mod at halte - gjentog Kongen - nu, det veed jeg ikke ret selv; men alt Vaklende og Uvist, alt Skjævt og Vindt i Lader og Miner kommer af en indvortes Skjævhed, siger Erkebisp Andreas, og hvorvel jeg ikke troer det, falder det mig dog ofte ind«</p>
               <p xml:id="idm140036555944016">Grev Henrik skiftede Farve, og Junker Strange saae forlegen paa Kongen og blinkede; men Valdemar mærkede det ikke og lod ikke til at erindre Grev Henriks Naturfeil med det skjæve Øie.</p>

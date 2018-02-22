@@ -1,12 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!-- VL: Sergey's Greek characters: <!ENTITY % AdditionalCharEnt SYSTEM "AdditionalCharEnt.ent">
-	%AdditionalCharEnt; s. 126 -->
-<!-- HHL 20041015 tilføøjet afsnit side 119 + smårettelser . Ptj rettet s. 28-71-119-120-164-  -->
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="idm139649683233200"><!-- 
-       file     ./marc_dir/001391894.xml
-       field     
-       subfield  
-       prefix   -->
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="root">
   <teiHeader xml:id="idm139649683232592">
     <fileDesc xml:id="idm139649683207216">
       <titleStmt xml:id="idm139649683206912">
@@ -18,24 +11,27 @@
         <author xml:id="idm139649683205152">H.C. ANDERSEN</author>
       </titleStmt>
       <publicationStmt xml:id="idm139649683204592">
-        <publisher xml:id="idm139649683204336">Det danske Sprog- og Litteraturselskab</publisher>
+        <publisher xml:id="idm139649683204336">Det Danske Sprog- og Litteraturselskab</publisher>
         <idno xml:id="idm139649683203904" xml:base="texts/andersen01val.xml">001391894:01</idno>
       </publicationStmt>
       <notesStmt xml:id="idm139649683203056">
         <note xml:id="idm139649683202752">
 	  </note>
       </notesStmt>
-      <sourceDesc xml:id="idm139649683202240"><bibl xml:id="idm139649683202112"><author n="1" xml:id="idm139649683201424"><name xml:id="idm139649683201168"><surname xml:id="idm139649683201040">Andersen</surname>, <forename xml:id="idm139649683200576">H. C.</forename></name></author><title xml:id="idm139649683200288">Skyggebilleder af en Reise til Harzen, det sachsiske Schweitz etc. etc., i Sommeren 1831</title><pubPlace xml:id="idm139649683199920">[Kbh.]</pubPlace>; <pubPlace xml:id="idm139649683199456">[Valby]</pubPlace>; <pubPlace xml:id="idm139649683199040">[Ballerup]</pubPlace>
-<publisher xml:id="idm139649683198576">Det danske Sprog- og Litteraturselskab</publisher><publisher xml:id="idm139649683198272">Borgen</publisher><publisher xml:id="idm139649683197984">i samarbejde med Nyt Dansk Litteraturselskab</publisher><date xml:id="idm139649683197616">1986</date></bibl><listBibl xml:id="idm139649683197328"><bibl xml:id="biblid54103"><title xml:id="idm139649683184176">Skyggebilleder</title></bibl></listBibl></sourceDesc>
+      <sourceDesc xml:id="idm139649683202240">
+        <bibl xml:id="idm139649683202112"><author n="1" xml:id="idm139649683201424"><name xml:id="idm139649683201168"><surname xml:id="idm139649683201040">Andersen</surname>, <forename xml:id="idm139649683200576">H. C.</forename></name></author><title xml:id="idm139649683200288">Skyggebilleder af en Reise til Harzen, det sachsiske Schweitz etc. etc., i Sommeren 1831</title><pubPlace xml:id="idm139649683199920">[København]</pubPlace>; <pubPlace xml:id="idm139649683199456">[Valby]</pubPlace>; <pubPlace xml:id="idm139649683199040">[Ballerup]</pubPlace><publisher xml:id="idm139649683198576">Det Danske Sprog- og Litteraturselskab</publisher><publisher xml:id="idm139649683198272">Borgen</publisher><publisher xml:id="idm139649683197984">i samarbejde med Nyt Dansk Litteraturselskab</publisher><date xml:id="idm139649683197616">1986</date></bibl>
+        <listBibl xml:id="idm139649683197328">
+          <bibl xml:id="biblid54103">
+            <title xml:id="idm139649683184176">Skyggebilleder</title>
+          </bibl>
+        </listBibl>
+      </sourceDesc>
     </fileDesc>
   </teiHeader>
   <text xml:id="workid54103" decls="#biblid54103">
     <front xml:id="idm139649683182592">
       <pb n="1" facs="adl/andersenhc/andersenhc1/anhc1001" xml:id="idm139649683182288"/>
       <gap reason="cancelled" xml:id="idm139649683181472"/>
-<!---->
-<!---->
-<!--Skyggebilleder-->
       <pb n="2" facs="adl/andersenhc/andersenhc1/anhc1002" xml:id="idm139649683179952"/>
       <pb n="3" facs="adl/andersenhc/andersenhc1/anhc1003" xml:id="idm139649683179168"/>
       <titlePage xml:id="idm139649683178400">
@@ -53,7 +49,7 @@
 					</bibl>
         </docEdition>
         <docImprint xml:id="idm139649683262448">
-          <publisher xml:id="idm139649683262192">Danske Klassikere<lb xml:id="idm139649683261904"/> Det danske Sprog- og Litteraturselskab<lb xml:id="idm139649683261648"/>
+          <publisher xml:id="idm139649683262192">Danske Klassikere<lb xml:id="idm139649683261904"/> Det Danske Sprog- og Litteraturselskab<lb xml:id="idm139649683261648"/>
 						Borgen </publisher>
         </docImprint>
       </titlePage>
@@ -976,9 +972,9 @@
 							den store, deilige Himmel og voxe til Engle under Evighedens mægtige
 							Sollys.</p>
             <p xml:id="idm139649682806064">Duggen begyndte at falde, jeg saae de luftig-lette Genier tumle sig paa
-							de store Vanddraaber; mange Digtere fo der dandser paa Tidslens Fnug,
-							uden at bevæge det, trænge igjennrtælle, at Alferne bade sig i Duggen;
-							men hvor kan det lette Væsen,em den haarde Vandmasse; nei, de stode op
+							de store Vanddraaber; mange Digtere fortælle, at Alferne bade sig i Duggen;
+							men hvor kan det lette Væsen, der dandser paa Tidslens Fnug,
+							uden at bevæge det, trænge igjennem den haarde Vandmasse; nei, de stode op
 							paa den runde Draabe, og naar denne saa trillede rundt under deres
 							Fødder og det lette Gevandt flagrede i Luften, saae de ud, som det
 							nydeligste Miniatur-Billede af Fortuna paa sin rullende Kugle.</p>
@@ -1023,7 +1019,7 @@
 							jeg følt noget lignende.</p>
             <p xml:id="idm139649682789104">Jeg gik hjem, men overalt saae jeg Udskud af Menneskeheden, sønderknuste
 							Mødre og fortvivlede Spillere. Jeg fik saadan en Afsky for Kort, at jeg
-							strax brændte et Bundt uskyldige Visitkort,jeg havde kjøbt i <hi rend="italics" xml:id="idm139649682788384">Hamborg</hi>, blot fordi de havde Navnet Kort.</p>
+							strax brændte et Bundt uskyldige Visitkort, jeg havde kjøbt i <hi rend="italics" xml:id="idm139649682788384">Hamborg</hi>, blot fordi de havde Navnet Kort.</p>
             <p xml:id="idm139649682787520">Mit Sind var i Oprør, jeg forsøgte paa at synge Vuggeviser for at dæmpe
 							det; ja, jeg satte mig tilsidst ned og fortalte mig selv et
 							Børne-Eventyr, som Du ogsaa maa høre, min Læser.</p>
@@ -4268,7 +4264,7 @@
 							see ind i Folk, hvad de tænkte, da vilde dette Berliner Capitel blive
 							det interessanteste i Reisen her mellem en Kreds af »[x][x][x][x][x]
 							[x][x][x]
-							[x][x][x][x][x][x]<!-- <hi rend="italics">&Kkappa;&alfa;&lambda;&omicron;&iota; &kappa;&alfa;&iota; &Aalfa;&gamma;&alfa;&tau;&sigma;&iota;</hi> -->«
+							[x][x][x][x][x][x]«
 							da ville vi see hvorledes der i et Hoved spøgede en heel »Liebes Roman«,
 							her et Bind nydelige Smaa-Digte, der Politik, her Polemik, der - - - ja
 							her var vel ogsaa et Hoved, som slet ingen Ting havde.</p>

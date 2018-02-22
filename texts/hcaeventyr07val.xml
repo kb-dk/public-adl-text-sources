@@ -1,13 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!-- &amacr; på side 239 giver anledning til udvidelse af AdlCharEnt
-HHL 13.09.2002. Frettet fm-sider, + ensrettet sider a-d og V-XXn
-HHL 20021028  flyttet afslutnings-div'er foran <pb/> . Ptj rettet. s. 166-238-246
--->
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="idm139890601761840"><!-- 
-       file     ./marc_dir/001527411.xml
-       field     
-       subfield  
-       prefix   -->
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="root">
   <teiHeader xml:id="idm139890601760896">
     <fileDesc xml:id="idm139890601760640">
       <titleStmt xml:id="idm139890601735152">
@@ -23,21 +15,21 @@ HHL 20021028  flyttet afslutnings-div'er foran <pb/> . Ptj rettet. s. 166-238-24
 	  </note>
       </notesStmt>
       <sourceDesc xml:id="idm139890601731728">
-	<bibl xml:id="idm139890601731472">
-	  <author xml:id="idm139890601731216">
-	    <name xml:id="idm139890601730912"><surname xml:id="idm139890601730784">Andersen</surname>,
+        <bibl xml:id="idm139890601731472">
+          <author xml:id="idm139890601731216">
+            <name xml:id="idm139890601730912"><surname xml:id="idm139890601730784">Andersen</surname>,
 	    <forename xml:id="idm139890601730368">H. C.</forename></name>
-	  </author>
-	  <title xml:id="idm139890601729824">H.C. Andersens Eventyr bd. VII</title>
-	  <title xml:id="idm139890601729392">kritisk udg. efter de originale eventyrhæfter med varianter
+          </author>
+          <title xml:id="idm139890601729824">H.C. Andersens Eventyr bd. VII</title>
+          <title xml:id="idm139890601729392">kritisk udg. efter de originale eventyrhæfter med varianter
 	  ved Erik Dal</title>
-	  <pubPlace xml:id="idm139890601728832">Kbh.</pubPlace>
-	  <publisher xml:id="idm139890601728416">C. A. Reitzel</publisher>
-	  <date xml:id="idm139890601727952">1990</date>
-	</bibl>
-	<listBibl xml:id="idm139890601727360">
-	  <bibl xml:id="idm139890601727104"/>
-	</listBibl>
+          <pubPlace xml:id="idm139890601728832">København</pubPlace>
+          <publisher xml:id="idm139890601728416">C. A. Reitzel</publisher>
+          <date xml:id="idm139890601727952">1990</date>
+        </bibl>
+        <listBibl xml:id="idm139890601727360">
+          <bibl xml:id="idm139890601727104"/>
+        </listBibl>
       </sourceDesc>
     </fileDesc>
   </teiHeader>
@@ -45,9 +37,6 @@ HHL 20021028  flyttet afslutnings-div'er foran <pb/> . Ptj rettet. s. 166-238-24
     <front xml:id="idm139890601726080">
       <pb n="I" xml:id="sa" facs="adl/andersenhc/andersenhcev7/ahce7fm001"/>
       <gap reason="cancelled" xml:id="idm139890601711680"/>
-<!---->
-<!---->
-<!--H. C. ANDERSENS, EVENTYR VII-->
       <pb n="II" xml:id="sb" facs="adl/andersenhc/andersenhcev7/ahce7fm002"/>
       <titlePage xml:id="idm139890601709024">
         <docAuthor xml:id="idm139890601708768">H. C. ANDERSENS</docAuthor>
@@ -83,7 +72,7 @@ HHL 20021028  flyttet afslutnings-div'er foran <pb/> . Ptj rettet. s. 166-238-24
       </titlePage>
       <pb n="IV" xml:id="sd" facs="adl/andersenhc/andersenhcev7/ahce7fm004"/>
       <div xml:id="idm139890601693168">
-        <bibl xml:id="idm139890601692912">Udgivet af Det danske Sprog- og Litteraturselskab<lb xml:id="idm139890601692592"/>med støtte
+        <bibl xml:id="idm139890601692912">Udgivet af Det Danske Sprog- og Litteraturselskab<lb xml:id="idm139890601692592"/>med støtte
 					af<lb xml:id="idm139890601692288"/>Carlsbergfondet<lb xml:id="idm139890601692000"/>Statens Humanistiske Forskningsråd</bibl>
         <bibl xml:id="idm139890601691536">Fondet Christine Stampes Billedbog<lb xml:id="idm139890601691232"/>og Konsul George Jorck og Hustru Emma
 					Jorck's Fond</bibl>
@@ -300,7 +289,7 @@ HHL 20021028  flyttet afslutnings-div'er foran <pb/> . Ptj rettet. s. 166-238-24
 							her indledningsvis bemærkes, at egentlige videnskabelige
 							tekstkritiske og kommenterede udgaver af dansk litteratur kun
 							går tilbage til omkring år 1900. Således
-							falder stiftelsen af Det danske Sprog- og Litteraturselskab i 1911
+							falder stiftelsen af Det Danske Sprog- og Litteraturselskab i 1911
 							omtrent sammen med udgivelsen af Vilhelm Andersens lille
 							metodelære Dansk Litteratur. Forskning og Undervisning (1912),
 							der kom til at danne grundlaget for dansklærernes uddannelse
@@ -14855,7 +14844,7 @@ HHL 20021028  flyttet afslutnings-div'er foran <pb/> . Ptj rettet. s. 166-238-24
 									plantefarvestof. -<hi rend="bold" xml:id="idm139890594906064"> 23</hi><hi rend="italics" xml:id="idm139890594905536">Firdusi</hi>] Firdausi
 									(ca.935-1025), persisk digter. Iflg. sagnet havde
 									sultan Mahmud i Ghazna lovet F. 60 000 guldstykker for dennes
-									Scha<!--&amacr-->;hnâme (Kongebogen), men gav ham
+									Scha;hnâme (Kongebogen), men gav ham
 									kun 60 000 sølvstykker. F. delte pengene mellem en
 									badekarl og en mand, der bragte ham et glas øl, og
 									efterretningen herom vakte Mahmuds vrede, så F.

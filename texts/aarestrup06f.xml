@@ -1,10 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!-- Tom opmærkning blo 29.10.2002-->
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="idm140346579539312"><!-- 
-       file     ./marc_dir/001582980.xml
-       field    559 
-       subfield a 
-       prefix   -->
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="root">
   <teiHeader xml:id="idm140346579544448">
     <fileDesc xml:id="idm140346579544192">
       <titleStmt xml:id="idm140346579543888">
@@ -17,15 +12,27 @@
         <author xml:id="idm140346579516704">Emil Aarestrup</author>
       </titleStmt>
       <publicationStmt xml:id="idm140346579516144">
-        <publisher xml:id="idm140346579515888">Det danske Sprog- og Litteraturselskab</publisher>
+        <publisher xml:id="idm140346579515888">Det Danske Sprog- og Litteraturselskab</publisher>
         <idno xml:id="idm140346579515456" xml:base="texts/aarestrup06f.xml">001582980:06</idno>
       </publicationStmt>
       <notesStmt xml:id="idm140346579514640">
         <note xml:id="idm140346579514336">
 	  </note>
       </notesStmt>
-      <sourceDesc xml:id="idm140346579513824"><bibl xml:id="idm140346579513696"><author n="1" xml:id="idm140346579513008"><name xml:id="idm140346579512752"><surname xml:id="idm140346579512624">Aarestrup</surname>, <forename xml:id="idm140346579512160">Emil</forename></name></author><title xml:id="idm140346579511872">Emil Aarestrups samlede skrifter</title><pubPlace xml:id="idm140346579511552">Kbh</pubPlace>
-<publisher xml:id="idm140346579511120">C. A. Reitzel</publisher><date xml:id="idm140346579510784">1976</date></bibl><listBibl xml:id="idm140346579510496"><bibl xml:id="idm140346579510368"/></listBibl></sourceDesc>
+      <sourceDesc xml:id="idm140346579513824">
+        <bibl xml:id="idm140346579513696">
+          <author n="1" xml:id="idm140346579513008">
+            <name xml:id="idm140346579512752"><surname xml:id="idm140346579512624">Aarestrup</surname>, <forename xml:id="idm140346579512160">Emil</forename></name>
+          </author>
+          <title xml:id="idm140346579511872">Emil Aarestrups samlede skrifter</title>
+          <pubPlace xml:id="idm140346579511552">København</pubPlace>
+          <publisher xml:id="idm140346579511120">C. A. Reitzel</publisher>
+          <date xml:id="idm140346579510784">1976</date>
+        </bibl>
+        <listBibl xml:id="idm140346579510496">
+          <bibl xml:id="idm140346579510368"/>
+        </listBibl>
+      </sourceDesc>
     </fileDesc>
   </teiHeader>
   <text xml:id="idm140346579509856">

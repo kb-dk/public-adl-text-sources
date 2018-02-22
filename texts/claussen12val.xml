@@ -1,12 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!-- OCR by ATAPY 10.12.02 (Catherine Bychkova) -->
-<!-- HHL 20030313        checket iflg liste
-              -->
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="idm140570242251648"><!-- 
-       file     ./marc_dir/001383642.xml
-       field    248 
-       subfield g 
-       prefix   Bd. 9 | a-->
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="root">
   <teiHeader xml:id="idm140570242251088">
     <fileDesc xml:id="idm140570242250832">
       <titleStmt xml:id="idm140570242250528">
@@ -16,25 +9,31 @@
         <editor role="editor" xml:id="idm140570242223072">Knud Bjarne Gjesing</editor>
       </titleStmt>
       <publicationStmt xml:id="idm140570242222288">
-        <publisher xml:id="idm140570242222032">Det danske Sprog- og Litteraturselskab</publisher>
+        <publisher xml:id="idm140570242222032">Det Danske Sprog- og Litteraturselskab</publisher>
         <idno xml:id="idm140570242221600" xml:base="texts/claussen12val.xml">001383642:12</idno>
       </publicationStmt>
       <notesStmt xml:id="idm140570242220640">
         <note xml:id="idm140570242220384">
 	  </note>
       </notesStmt>
-      <sourceDesc xml:id="idm140570242219872"><bibl xml:id="idm140570242219744"><author n="1" xml:id="idm140570242219568"><name xml:id="idm140570242219312"><surname xml:id="idm140570242219184">Claussen</surname>, <forename xml:id="idm140570242218720">Sophus</forename></name></author><title xml:id="idm140570242218432">Sophus Claussens lyrik</title><title xml:id="idm140570242218144">: </title><pubPlace xml:id="idm140570242217888">[Kbh.]</pubPlace>
-<publisher xml:id="idm140570242217424">Det Danske Sprog- og Litteraturselskab ; Gyldendal</publisher><date xml:id="idm140570242217056">1982-</date></bibl></sourceDesc>
+      <sourceDesc xml:id="idm140570242219872">
+        <bibl xml:id="idm140570242219744">
+          <author n="1" xml:id="idm140570242219568">
+            <name xml:id="idm140570242219312"><surname xml:id="idm140570242219184">Claussen</surname>, <forename xml:id="idm140570242218720">Sophus</forename></name>
+          </author>
+          <title xml:id="idm140570242218432">Sophus Claussens lyrik</title>
+          <title xml:id="idm140570242218144">: </title>
+          <pubPlace xml:id="idm140570242217888">[København]</pubPlace>
+          <publisher xml:id="idm140570242217424">Det Danske Sprog- og Litteraturselskab ; Gyldendal</publisher>
+          <date xml:id="idm140570242217056">1982-</date>
+        </bibl>
+      </sourceDesc>
     </fileDesc>
   </teiHeader>
   <text xml:id="idm140570242216384">
     <front xml:id="idm140570242216128">
       <pb n="235" xml:id="s235" facs="adl/claussen/claussen12/claussen12235"/>
       <gap reason="cancelled" xml:id="idm140570242202144"/>
-<!---->
-<!---->
-<!---->
-<!--Sophus Claussens Lyrik IX:2-->
       <pb n="236" xml:id="s236" facs="adl/claussen/claussen12/claussen12236"/>
       <pb n="237" xml:id="s237" facs="adl/claussen/claussen12/claussen12237"/>
       <titlePage xml:id="idm140570242198000">
@@ -75,7 +74,7 @@
         </docEdition>
         <docImprint xml:id="idm140570242164256">
           <publisher xml:id="idm140570242164000">
-            <hi rend="italics" xml:id="idm140570242163744">Det danske Sprog- og Litteraturselskab</hi>
+            <hi rend="italics" xml:id="idm140570242163744">Det Danske Sprog- og Litteraturselskab</hi>
           </publisher>
         </docImprint>
       </titlePage>
@@ -6588,7 +6587,7 @@ mangeårige trofaste veninde og medhjælp <hi rend="italics" xml:id="idm14057023
         <p xml:id="idm140570237848256">II, 151: <hi rend="italics" xml:id="idm140570237847968">I en Park.</hi> Tilføjes efter <hi rend="italics" xml:id="idm140570237847232">UB</hi>: jf. kommentaren t. <hi rend="italics" xml:id="idm140570237846544">Kunst - Politik</hi>, bd. IX s. 261</p>
         <p xml:id="idm140570237845696">II, 156: <hi rend="italics" xml:id="idm140570237845408">I Forstaden.</hi> Datering i parentes slettes. Under M før A tilføjes: NkS 4955, 4° (sign. renskr., bl., af str. III-V, dat. 11.7.91. Titel: <hi rend="italics" xml:id="idm140570237844448">Søndag Aften</hi>)</p>
         <p xml:id="idm140570237843616">II, 159: <hi rend="italics" xml:id="idm140570237843328">Høstsol.</hi> Dat. i parentes slettes. Under M tilføjes: NkS 3634, 4°, I, 1 (sign. renskr., bl., dat. <hi rend="italics" xml:id="idm140570237842448">8.10.88</hi> m. titlen <hi rend="italics" xml:id="idm140570237841728">Tilblivelse</hi>)</p>
-        <p xml:id="idm140570237840912">II, 170: efter B <hi rend="italics" xml:id="idm140570237840624">Taarnet</hi>, juni 1894 tilføjes: genudg. m. efterskrift og registre ved F. J. Billeskov Jansen, Det danske Sprog- og Litteraturselskab 1981</p>
+        <p xml:id="idm140570237840912">II, 170: efter B <hi rend="italics" xml:id="idm140570237840624">Taarnet</hi>, juni 1894 tilføjes: genudg. m. efterskrift og registre ved F. J. Billeskov Jansen, Det Danske Sprog- og Litteraturselskab 1981</p>
         <p xml:id="idm140570237839536">II, 298: under M. Efter sidste linie tilføjes: NkS 3633, 4°, III, 2, 24 (1. str. til <hi rend="italics" xml:id="idm140570237839088">Moderne Muse</hi>, betitlet <hi rend="italics" xml:id="idm140570237838368">En Dame, maskeret som Parodien</hi>, jf. bd. IX s. 14) NkS 2172, 2°, II, 2, 7 (udat., usign. renskr., bl., u. t. [= <hi rend="italics" xml:id="idm140570237837488">Moderne Muse</hi>])</p>
         <p xml:id="idm140570237836624">II, 306: efter noten om <hi rend="italics" xml:id="idm140570237836320">Kristian den fjerde.</hi> Ny note: <hi rend="italics" xml:id="idm140570237835600">Sejerværk</hi>, ur</p>
         <p xml:id="idm140570237834752">III, 169: <hi rend="italics" xml:id="idm140570237834464">Poeten og Naboersken</hi>, under M tilføjes: Acc. 1981/143 A (udk.)</p>
@@ -6975,7 +6974,7 @@ den samlede efterskr., s. 344</p>
           <head xml:id="idm140570237559920">
             <hi rend="italics" xml:id="idm140570237559664">II: Bøger om Sophus Claussen</hi>
           </head>
-          <p xml:id="idm140570237558800"><hi rend="italics" xml:id="idm140570237558672">SC-Ms Sophus Claussen-Manuskripter.</hi> Udgivet for Det danske Sprog- og Litteraturselskab af Ernst Frandsen (1941).</p>
+          <p xml:id="idm140570237558800"><hi rend="italics" xml:id="idm140570237558672">SC-Ms Sophus Claussen-Manuskripter.</hi> Udgivet for Det Danske Sprog- og Litteraturselskab af Ernst Frandsen (1941).</p>
           <p xml:id="idm140570237557744"><hi rend="italics" xml:id="idm140570237557616">EF</hi> Ernst Frandsen: <hi rend="italics" xml:id="idm140570237556928">Sophus Claussen</hi> I-II (1950).</p>
           <p xml:id="idm140570237556080"><hi rend="italics" xml:id="idm140570237555952">HA</hi> Harry Andersen: <hi rend="italics" xml:id="idm140570237555264">Studier i Sophus Claussens lyrik</hi>, i
 	<pb n="453" xml:id="s453" facs="adl/claussen/claussen12/claussen12453"/>

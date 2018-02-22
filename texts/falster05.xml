@@ -1,10 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!--  OCR by ATAPY 13.09.2001 (Catherine Bychkova) -->
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="idm140600520772544"><!-- 
-       file     ./marc_dir/001400990.xml
-       field     
-       subfield  
-       prefix   -->
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="root">
   <teiHeader xml:id="idm140600520771888">
     <fileDesc xml:id="idm140600520771632">
       <titleStmt xml:id="idm140600520771328">
@@ -16,24 +11,31 @@
         <author xml:id="idm140600520744496">Christian Falster</author>
       </titleStmt>
       <publicationStmt xml:id="idm140600520743984">
-        <publisher xml:id="idm140600520743728">Det danske Sprog- og Litteraturselskab C. A. Reitzels Forlag København 1982</publisher>
+        <publisher xml:id="idm140600520743728">Det Danske Sprog- og Litteraturselskab C. A. Reitzels Forlag København 1982</publisher>
         <idno xml:id="idm140600520743168" xml:base="texts/falster05.xml">001400990:05</idno>
       </publicationStmt>
       <notesStmt xml:id="idm140600520742352">
         <note xml:id="idm140600520742048">
 	  </note>
       </notesStmt>
-      <sourceDesc xml:id="idm140600520741536"><bibl xml:id="idm140600520741408"><author n="1" xml:id="idm140600520740720"><name xml:id="idm140600520740464"><surname xml:id="idm140600520740336">Falster</surname>, <forename xml:id="idm140600520739872">Christian</forename></name></author><title xml:id="idm140600520739584">Satirer, 1720-42</title><pubPlace xml:id="idm140600520739296">Kbh.</pubPlace>
-<publisher xml:id="idm140600520738832">Det danske Sprog- og Litteraturselskab</publisher><publisher xml:id="idm140600520738528">C.A. Reitzel</publisher><date xml:id="idm140600520738192">1982</date></bibl></sourceDesc>
+      <sourceDesc xml:id="idm140600520741536">
+        <bibl xml:id="idm140600520741408">
+          <author n="1" xml:id="idm140600520740720">
+            <name xml:id="idm140600520740464"><surname xml:id="idm140600520740336">Falster</surname>, <forename xml:id="idm140600520739872">Christian</forename></name>
+          </author>
+          <title xml:id="idm140600520739584">Satirer, 1720-42</title>
+          <pubPlace xml:id="idm140600520739296">København</pubPlace>
+          <publisher xml:id="idm140600520738832">Det Danske Sprog- og Litteraturselskab</publisher>
+          <publisher xml:id="idm140600520738528">C.A. Reitzel</publisher>
+          <date xml:id="idm140600520738192">1982</date>
+        </bibl>
+      </sourceDesc>
     </fileDesc>
   </teiHeader>
   <text xml:id="idm140600520737520">
     <front xml:id="idm140600520737264">
       <pb n="I" facs="adl/falster/falster5/fals5001" xml:id="idm140600520736960"/>
       <gap reason="cancelled" xml:id="idm140600520736096"/>
-<!---->
-<!---->
-<!--Christian Falsters Satirer · II-->
       <titlePage xml:id="idm140600520734576">
         <titlePart type="main" xml:id="idm140600520734320">
           <figure xml:id="idm140600520733792"/>
@@ -51,13 +53,13 @@
 					</bibl>
         </docEdition>
         <docImprint xml:id="idm140600520728032">
-          <publisher xml:id="idm140600520727776">Det danske Sprog- og Litteraturselskab<lb xml:id="idm140600520727472"/>C. A. Reitzels Forlag<lb xml:id="idm140600520727184"/>København 1982</publisher>
+          <publisher xml:id="idm140600520727776">Det Danske Sprog- og Litteraturselskab<lb xml:id="idm140600520727472"/>C. A. Reitzels Forlag<lb xml:id="idm140600520727184"/>København 1982</publisher>
         </docImprint>
       </titlePage>
       <pb n="IV" facs="adl/falster/falster5/fals5004" xml:id="idm140600520726496"/>
       <div xml:id="idm140600520725728">
         <bibl xml:id="idm140600520725472"><hi rend="italics" xml:id="idm140600520725248">Bekostet af Carlsbergfondet</hi><lb xml:id="idm140600520724672"/>
-© Det danske Sprog- og Litteraturselskab 1982.<lb xml:id="idm140600520724304"/>
+© Det Danske Sprog- og Litteraturselskab 1982.<lb xml:id="idm140600520724304"/>
 Sat med Fotosats Janson og offsettrykt hos Poul Kristensen, Herning.<lb xml:id="idm140600520723968"/>
 isbn 87 7421 3229 (bd. i), 87 7421 323 7 (bd. 2), 877421 3245 (kpl.).</bibl>
       </div>
@@ -1254,7 +1256,7 @@ Falster, at paven »i Fald Skribenterne tale sandt, aarlig gør sig en stor Prof
             <p xml:id="idm140600519346640"><hi rend="italics" xml:id="idm140600519346512"> Klakker]</hi> blækklatter.</p>
             <eg xml:id="idm140600519345648">36,1:</eg>
             <p xml:id="idm140600519345232"><hi rend="italics" xml:id="idm140600519345104"> Holland]</hi> i løbet af det 17. årh. var Holland (Nederlandene) blevet et hovedsæde for videnskaben, hvormed fulgte en bemærkelsesværdig høj grad af samvittighedsfrihed. Bøger, som man andetsteds nærede betænkeligheder ved at trykke, kunne udkomme her, og landet blev et fristed for intellektuelle, der havde fundet forholdene i deres hjemland for trykkende.</p>
-            <p xml:id="idm140600519343632">Falsters ironi hindrer, at hans skildring skulle kunne læses som en kritik af den danske enevælde: hvad det unge menneske synes om,er jo <hi rend="italics" xml:id="idm140600519343088">eo ipso</hi> dårligt!</p>
+            <p xml:id="idm140600519343632">Falsters ironi hindrer, at hans skildring skulle kunne læses som en kritik af den danske enevælde: hvad det unge menneske synes om, er jo <hi rend="italics" xml:id="idm140600519343088">eo ipso</hi> dårligt!</p>
             <p xml:id="idm140600519342272">Men det er bemærkelsesværdigt at konstatere, at Falster i sit inderste hjerte - en region, som han kun undtagelsesvis betrådte - kunne huse en længsel efter Holland. I februar 1733- året efter, at sidste bind af hans <hi rend="italics" xml:id="idm140600519341552">Amoenitates</hi> var udkommet i Amsterdam - skriver Peder Fogh til ham: »Men af hvad Aarsag <hi rend="italics" xml:id="idm140600519340688">Vir Clariss</hi>. skriver, at hand fast hafde giort en Pact, intet at vilde udgive af sine Skrifter inden Fæderne Landets Grændser, veed jeg iche, da jeg o.s.v. ...« <hi rend="italics" xml:id="idm140600519339680">(Falsteriana</hi>, 5.43-44). Hvis situationen var mulig i Ribe, ser man ham for sig omtrent som Anatole Frances abbé Coignard i hast, men skjult »feuilleter des livres récemment venus d'Hollande«!</p>
             <eg xml:id="idm140600519338480">37,1: </eg>
             <p xml:id="idm140600519338064"><hi rend="italics" xml:id="idm140600519337936"> den Hag]</hi> hollænderne kalder byen <hi rend="italics" xml:id="idm140600519337184">'s-Gravenhage</hi> (= Grevens indhegning) ell. <hi rend="italics" xml:id="idm140600519336448">den Haag (=</hi> indhegningen, haven).</p>

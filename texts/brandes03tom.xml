@@ -1,13 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!--Tom opmærkning jbh 26.09.01
-fjernet c-d-e, som er forsider til Hovedstroemninger HHL 13.09.2002
-JBH samtidig ordnet billedfilerne
--->
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="idm139805686144144"><!-- 
-       file     ./marc_dir/001823972.xml
-       field     
-       subfield  
-       prefix   -->
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="root">
   <teiHeader xml:id="idm139805686143168">
     <fileDesc xml:id="idm139805686142912">
       <titleStmt xml:id="idm139805686142656">
@@ -22,8 +14,30 @@ JBH samtidig ordnet billedfilerne
         <note xml:id="idm139805686114624">
 	  </note>
       </notesStmt>
-      <sourceDesc xml:id="idm139805686114112"><bibl xml:id="idm139805686113984"><author n="1" xml:id="idm139805686113296"><name xml:id="idm139805686113040"><surname xml:id="idm139805686112912">Brandes</surname>, <forename xml:id="idm139805686112480">Georg</forename></name></author><title xml:id="idm139805686112192">Samlede Skrifter</title><pubPlace xml:id="idm139805686111904">Kbh.</pubPlace>
-<date xml:id="idm139805686111392">1899-1910</date></bibl><listBibl xml:id="idm139805686111104"><bibl xml:id="biblid54154"><title xml:id="idm139805686097952">Danske Personligheder</title></bibl><bibl xml:id="biblid56663"><title xml:id="idm139805686097168">Norske Personligheder</title></bibl><bibl xml:id="biblid58400"><title xml:id="idm139805686096384">Svenske Personligheder</title></bibl><bibl xml:id="biblid59086"><title xml:id="idm139805686095600">Islandske Personligheder</title></bibl></listBibl></sourceDesc>
+      <sourceDesc xml:id="idm139805686114112">
+        <bibl xml:id="idm139805686113984">
+          <author n="1" xml:id="idm139805686113296">
+            <name xml:id="idm139805686113040"><surname xml:id="idm139805686112912">Brandes</surname>, <forename xml:id="idm139805686112480">Georg</forename></name>
+          </author>
+          <title xml:id="idm139805686112192">Samlede Skrifter</title>
+          <pubPlace xml:id="idm139805686111904">København</pubPlace>
+          <date xml:id="idm139805686111392">1899-1910</date>
+        </bibl>
+        <listBibl xml:id="idm139805686111104">
+          <bibl xml:id="biblid54154">
+            <title xml:id="idm139805686097952">Danske Personligheder</title>
+          </bibl>
+          <bibl xml:id="biblid56663">
+            <title xml:id="idm139805686097168">Norske Personligheder</title>
+          </bibl>
+          <bibl xml:id="biblid58400">
+            <title xml:id="idm139805686096384">Svenske Personligheder</title>
+          </bibl>
+          <bibl xml:id="biblid59086">
+            <title xml:id="idm139805686095600">Islandske Personligheder</title>
+          </bibl>
+        </listBibl>
+      </sourceDesc>
     </fileDesc>
   </teiHeader>
   <text xml:id="idm139805686094912">
@@ -32,10 +46,6 @@ JBH samtidig ordnet billedfilerne
       <pb n="b" facs="adl/brandes/brand3/bran3fm002" xml:id="idm139805686093568"/>
       <pb n="c" facs="adl/brandes/brand3/bran3fm003" xml:id="idm139805686092752"/>
       <pb n="d" facs="adl/brandes/brand3/bran3fm004" xml:id="idm139805686091984"/>
-<!--<pb n="e" facs="bran3fm005"/>
-			<pb n="f" facs="bran3fm006"/>
-			<pb n="g" facs="bran3fm007"/>
-			<pb n="h" facs="bran3fm008"/>-->
       <pb n="1" facs="adl/brandes/brand3/bran3001" xml:id="idm139805686090720"/>
       <pb n="2" facs="adl/brandes/brand3/bran3002" xml:id="idm139805686089952"/>
     </front>

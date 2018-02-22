@@ -1,10 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!--Tom opmærkning d.15.10.2002 blo -->
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="idm140534025545072"><!-- 
-       file     ./marc_dir/001630207.xml
-       field     
-       subfield  
-       prefix   -->
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="root">
   <teiHeader xml:id="idm140534025550208">
     <fileDesc xml:id="idm140534025549952">
       <titleStmt xml:id="idm140534025549648">
@@ -19,8 +14,22 @@
         <note xml:id="idm140534025521680">
 	  </note>
       </notesStmt>
-      <sourceDesc xml:id="idm140534025521168"><bibl xml:id="idm140534025521040"><author n="1" xml:id="idm140534025520352"><name xml:id="idm140534025520096"><surname xml:id="idm140534025519968">Thomissøn</surname>, <forename xml:id="idm140534025519536">Hans</forename></name></author><title xml:id="idm140534025519248">Den danske Psalmebog met mange christelige psalmer</title><pubPlace xml:id="idm140534025518928">Kbh</pubPlace>
-<publisher xml:id="idm140534025518496">Laurenz Benedicht</publisher><date xml:id="idm140534025518160">(1969)</date></bibl><listBibl xml:id="idm140534025517872"><bibl xml:id="biblid54640"><title xml:id="idm140534025504720">Den danske Psalmebog met mange Christelige Psalmer</title></bibl></listBibl></sourceDesc>
+      <sourceDesc xml:id="idm140534025521168">
+        <bibl xml:id="idm140534025521040">
+          <author n="1" xml:id="idm140534025520352">
+            <name xml:id="idm140534025520096"><surname xml:id="idm140534025519968">Thomissøn</surname>, <forename xml:id="idm140534025519536">Hans</forename></name>
+          </author>
+          <title xml:id="idm140534025519248">Den danske Psalmebog met mange christelige psalmer</title>
+          <pubPlace xml:id="idm140534025518928">København</pubPlace>
+          <publisher xml:id="idm140534025518496">Laurenz Benedicht</publisher>
+          <date xml:id="idm140534025518160">(1969)</date>
+        </bibl>
+        <listBibl xml:id="idm140534025517872">
+          <bibl xml:id="biblid54640">
+            <title xml:id="idm140534025504720">Den danske Psalmebog met mange Christelige Psalmer</title>
+          </bibl>
+        </listBibl>
+      </sourceDesc>
     </fileDesc>
   </teiHeader>
   <text xml:id="idm140534025504016">

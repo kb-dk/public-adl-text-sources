@@ -1,12 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!-- hhl 28.9.2001-->
-<!-- side 281 til side 336 skal afflages-->
-<!-- HHL 14102020: fjernet bindestreger ved sideslut-->
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="idm140004320360960"><!-- 
-       file     ./marc_dir/001565640.xml
-       field     
-       subfield  
-       prefix   -->
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="root">
   <teiHeader xml:id="idm140004320360352">
     <fileDesc xml:id="idm140004320334896">
       <titleStmt xml:id="idm140004320334640">
@@ -18,24 +11,30 @@
         <author xml:id="idm140004320332976">Hans Egede Schack</author>
       </titleStmt>
       <publicationStmt xml:id="idm140004320332464">
-        <publisher xml:id="idm140004320332208">Det danske Sprog- og Litteraturselskab</publisher>
+        <publisher xml:id="idm140004320332208">Det Danske Sprog- og Litteraturselskab</publisher>
         <idno xml:id="idm140004320331776" xml:base="texts/schackval.xml">001565640:00</idno>
       </publicationStmt>
       <notesStmt xml:id="idm140004320330960">
         <note xml:id="idm140004320330656">
 	  </note>
       </notesStmt>
-      <sourceDesc xml:id="idm140004320330144"><bibl xml:id="idm140004320330016"><author n="1" xml:id="idm140004320329328"><name xml:id="idm140004320329072"><surname xml:id="idm140004320328944">Schack</surname>, <forename xml:id="idm140004320328480">Hans Egede</forename></name></author><title xml:id="idm140004320328192">Phantasterne</title><pubPlace xml:id="idm140004320327904">[Kbh.]</pubPlace>; <pubPlace xml:id="idm140004320327440">[Valby]</pubPlace>; <pubPlace xml:id="idm140004320327024">[Ballerup]</pubPlace>
-<publisher xml:id="idm140004320326560">Det danske Sprog- og Litteraturselskab</publisher><publisher xml:id="idm140004320326256">Borgen</publisher><publisher xml:id="idm140004320325968">i samarbejde med Nyt Dansk Litteraturselskab</publisher><date xml:id="idm140004320325600">1993</date></bibl><listBibl xml:id="idm140004320325312"><bibl xml:id="biblid54353"><title xml:id="idm140004320312160">Phantasterne</title></bibl><bibl xml:id="biblid70889"><title xml:id="idm140004320311376">Privatkomedien</title></bibl></listBibl></sourceDesc>
+      <sourceDesc xml:id="idm140004320330144">
+        <bibl xml:id="idm140004320330016"><author n="1" xml:id="idm140004320329328"><name xml:id="idm140004320329072"><surname xml:id="idm140004320328944">Schack</surname>, <forename xml:id="idm140004320328480">Hans Egede</forename></name></author><title xml:id="idm140004320328192">Phantasterne</title><pubPlace xml:id="idm140004320327904">[København]</pubPlace>; <pubPlace xml:id="idm140004320327440">[Valby]</pubPlace>; <pubPlace xml:id="idm140004320327024">[Ballerup]</pubPlace><publisher xml:id="idm140004320326560">Det Danske Sprog- og Litteraturselskab</publisher><publisher xml:id="idm140004320326256">Borgen</publisher><publisher xml:id="idm140004320325968">i samarbejde med Nyt Dansk Litteraturselskab</publisher><date xml:id="idm140004320325600">1993</date></bibl>
+        <listBibl xml:id="idm140004320325312">
+          <bibl xml:id="biblid54353">
+            <title xml:id="idm140004320312160">Phantasterne</title>
+          </bibl>
+          <bibl xml:id="biblid70889">
+            <title xml:id="idm140004320311376">Privatkomedien</title>
+          </bibl>
+        </listBibl>
+      </sourceDesc>
     </fileDesc>
   </teiHeader>
   <text xml:id="idm140004320310736">
     <front xml:id="idm140004320310480">
       <pb n="1" facs="adl/schack/schack1/scha1001" xml:id="s1"/>
       <gap reason="canceled" xml:id="idm140004320308992"/>
-<!---->
-<!---->
-<!--Phantasterne-->
       <pb n="2" facs="adl/schack/schack1/scha1002" xml:id="s2"/>
       <pb n="3" facs="adl/schack/schack1/scha1003" xml:id="s3"/>
       <titlePage xml:id="idm140004320305248">
@@ -78,7 +77,6 @@ Omslag: Stig Brøgger. Tryk: Rounborgs grafiske hus, Holstebro
     <pb n="5" facs="adl/schack/schack1/scha1005" xml:id="s5"/>
     <group xml:id="idm140004320273472">
       <text xml:id="workid54353" decls="#biblid54353">
-<!-- facs af org. forside-->
         <pb n="6" facs="adl/schack/schack1/scha1006" xml:id="s6"/>
         <front xml:id="idm140004320270960">
           <div type="imprint" xml:id="idm140004320270704">
@@ -4298,7 +4296,6 @@ Til Slutning meddele vi efter Løfte den ved Skaalen for Hr. K. afsjungne Sang:
             </lg>
             <p xml:id="idm140004319483888">Mustapha.""
 </p>
-<!-- her slutter lille div-->
             <pb n="103" facs="adl/schack/schack1/scha1103" xml:id="s103"/>
             <p xml:id="idm140004319481952">
 Her standsede Oplæsningen, og Christian saa sig omkring for at erfare, hvilket Indtryk hans Arbeide havde gjort. Udfaldet syntes fyldestgjørende: jeg udtrykte min Beundring over den Lighed, som fandtes 

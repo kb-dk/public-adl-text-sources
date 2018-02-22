@@ -1,10 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!--Tom opmærkning jbh 27.09.01-->
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="idm140381980437568"><!-- 
-       file     ./marc_dir/001823972.xml
-       field     
-       subfield  
-       prefix   -->
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="root">
   <teiHeader xml:id="idm140381980436672">
     <fileDesc xml:id="idm140381980436416">
       <titleStmt xml:id="idm140381980436112">
@@ -19,8 +14,27 @@
         <note xml:id="idm140381980408256">
 	  </note>
       </notesStmt>
-      <sourceDesc xml:id="idm140381980407744"><bibl xml:id="idm140381980407616"><author n="1" xml:id="idm140381980406928"><name xml:id="idm140381980406672"><surname xml:id="idm140381980406544">Brandes</surname>, <forename xml:id="idm140381980406112">Georg</forename></name></author><title xml:id="idm140381980405824">Samlede Skrifter</title><pubPlace xml:id="idm140381980405536">Kbh.</pubPlace>
-<date xml:id="idm140381980405024">1899-1910</date></bibl><listBibl xml:id="idm140381980404736"><bibl xml:id="biblid54163"><title xml:id="idm140381980391584">Mennesker</title></bibl><bibl xml:id="biblid56620"><title xml:id="idm140381980390752">Politiske Forhold</title></bibl><bibl xml:id="biblid57284"><title xml:id="idm140381980389968">Taler</title></bibl></listBibl></sourceDesc>
+      <sourceDesc xml:id="idm140381980407744">
+        <bibl xml:id="idm140381980407616">
+          <author n="1" xml:id="idm140381980406928">
+            <name xml:id="idm140381980406672"><surname xml:id="idm140381980406544">Brandes</surname>, <forename xml:id="idm140381980406112">Georg</forename></name>
+          </author>
+          <title xml:id="idm140381980405824">Samlede Skrifter</title>
+          <pubPlace xml:id="idm140381980405536">København</pubPlace>
+          <date xml:id="idm140381980405024">1899-1910</date>
+        </bibl>
+        <listBibl xml:id="idm140381980404736">
+          <bibl xml:id="biblid54163">
+            <title xml:id="idm140381980391584">Mennesker</title>
+          </bibl>
+          <bibl xml:id="biblid56620">
+            <title xml:id="idm140381980390752">Politiske Forhold</title>
+          </bibl>
+          <bibl xml:id="biblid57284">
+            <title xml:id="idm140381980389968">Taler</title>
+          </bibl>
+        </listBibl>
+      </sourceDesc>
     </fileDesc>
   </teiHeader>
   <text xml:id="idm140381980389328">

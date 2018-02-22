@@ -1,14 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!--  OCR by ATAPY 26.12.02 (Catherine Bychkova) -->
-<!-- HHL 20030313 en del o->ø retttelser
-       HHL 20030314 lavet indh-lisste om til table, med <cell rend="vbottom"> som skal oversættes  til <td valign="bottom">
-         HHL 20030523 udskiftet forkert side 5 (som var duplikat af side 3)
--->
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="idm140708764851152"><!-- 
-       file     ./marc_dir/002112364.xml
-       field     
-       subfield  
-       prefix   -->
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="root">
   <teiHeader xml:id="idm140708764850032">
     <fileDesc xml:id="idm140708764824624">
       <titleStmt xml:id="idm140708764824368">
@@ -27,8 +18,14 @@
         <note xml:id="idm140708764820192">
 	  </note>
       </notesStmt>
-      <sourceDesc xml:id="idm140708764819680"><bibl xml:id="idm140708764819552"><author n="1" xml:id="idm140708764818864"><name xml:id="idm140708764818608"><surname xml:id="idm140708764818480">Drachmann</surname>, <forename xml:id="idm140708764818048">Holger</forename></name></author><title xml:id="idm140708764817792">Forskrevet</title><pubPlace xml:id="idm140708764817536">[Kbh.]</pubPlace>; <pubPlace xml:id="idm140708764817104">[Valby]</pubPlace>
-<publisher xml:id="idm140708764816672">Det Danske Sprog- og Litteraturselskab</publisher><publisher xml:id="idm140708764816368">Borgen</publisher><date xml:id="idm140708764816032">2000</date></bibl><listBibl xml:id="idm140708764815744"><bibl xml:id="biblid54224"><title xml:id="idm140708764802592">Forskrevet (Danske Klassikere)</title></bibl></listBibl></sourceDesc>
+      <sourceDesc xml:id="idm140708764819680">
+        <bibl xml:id="idm140708764819552"><author n="1" xml:id="idm140708764818864"><name xml:id="idm140708764818608"><surname xml:id="idm140708764818480">Drachmann</surname>, <forename xml:id="idm140708764818048">Holger</forename></name></author><title xml:id="idm140708764817792">Forskrevet</title><pubPlace xml:id="idm140708764817536">[København]</pubPlace>; <pubPlace xml:id="idm140708764817104">[Valby]</pubPlace><publisher xml:id="idm140708764816672">Det Danske Sprog- og Litteraturselskab</publisher><publisher xml:id="idm140708764816368">Borgen</publisher><date xml:id="idm140708764816032">2000</date></bibl>
+        <listBibl xml:id="idm140708764815744">
+          <bibl xml:id="biblid54224">
+            <title xml:id="idm140708764802592">Forskrevet (Danske Klassikere)</title>
+          </bibl>
+        </listBibl>
+      </sourceDesc>
     </fileDesc>
   </teiHeader>
   <text xml:id="idm140708764801904">
@@ -37,11 +34,6 @@
       <text xml:id="workid54224" decls="#biblid54224">
         <front xml:id="idm140708764799328">
           <gap reason="cancelled" xml:id="idm140708764799024"/>
-<!---->
-<!---->
-<!---->
-<!---->
-<!--Forskrevet I-->
           <pb n="2" xml:id="s2" facs="adl/drachmann/drachmann14/drac14002"/>
           <pb n="3" xml:id="s3" facs="adl/drachmann/drachmann14/drac14003"/>
           <titlePage xml:id="idm140708764794640">
@@ -86,14 +78,6 @@ udgives med støtte af Kulturministeriet. Redaktionsudvalg: Charlotte Madsen fra
 ROMAN</titlePart>
             </docTitle>
             <titlePart type="main" xml:id="idm140708764758864">FØRSTE BIND</titlePart>
-<!--                        <docEdition>
-                            <bibl>TEKSTUDGIVELSE, EFTERSKRIFT OG NOTER VED
-                                <lb/>
-                                <editor>Lars Peter Rømhild</editor>
-                                <lb/>
-under medvirken af Merete Jørgensen
-                            </bibl>
-                        </docEdition>-->
             <docImprint xml:id="idm140708764758000">
               <publisher xml:id="idm140708764757744">KJØBENHAVN<lb xml:id="idm140708764756864"/>GYLDENDALSKE BOGHANDELS FORLAG (F. HEGEL OG SØN)<lb xml:id="idm140708764756496"/>
                                        FR. BAGGES BOGTRYKKERI <lb xml:id="idm140708764756240"/>1890 
@@ -5948,11 +5932,6 @@ komme?</p>
         <front xml:id="idm140708764773712">
           <pb n="381" xml:id="s381" facs="adl/drachmann/drachmann14/drac14381"/>
           <gap reason="cancelled" xml:id="idm140708764772320"/>
-<!---->
-<!---->
-<!---->
-<!---->
-<!--Forskrevet II-->
           <pb n="382" xml:id="s382" facs="adl/drachmann/drachmann14/drac14382"/>
           <pb n="383" xml:id="s383" facs="adl/drachmann/drachmann14/drac14383"/>
           <titlePage xml:id="idm140708761067792">
@@ -9435,7 +9414,7 @@ flammede den lyse Nat, al Elskovens tyveaarige Glød;... i en uudsigelig Ekstase
                             <hi rend="italics" xml:id="idm140708758812640">blev</hi>
 gal. Og jeg løftede min Haand, lovede og svor....
                             <hi rend="italics" xml:id="idm140708758811776">hvad</hi>
-jeg svor, véd jeg ikke.... men hvis »hun« i det Øjeblik havde forlangt mit Liv, saa havde jeg trukket den norske Kniv,jeg altid bar, og med et Smil ombragt mig paa den store Offersten for Kærlighedens Alter, der har været rygende af Ungdommens Hjærteblod saa længe Elskovs-Myther og Elskovs-Sagn har regeret Fornuften.</p>
+jeg svor, véd jeg ikke.... men hvis »hun« i det Øjeblik havde forlangt mit Liv, saa havde jeg trukket den norske Kniv, jeg altid bar, og med et Smil ombragt mig paa den store Offersten for Kærlighedens Alter, der har været rygende af Ungdommens Hjærteblod saa længe Elskovs-Myther og Elskovs-Sagn har regeret Fornuften.</p>
             <p xml:id="idm140708758810320">Dér ser De Umuligheden af at
                             <hi rend="italics" xml:id="idm140708758809936">skildre</hi>
 !....</p>

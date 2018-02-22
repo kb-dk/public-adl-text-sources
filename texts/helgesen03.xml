@@ -1,10 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!-- HHL 08.08.2002 tilføjet vaerktitler-->
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="idm139852079851408"><!-- 
-       file     ./marc_dir/001823114.xml
-       field    530 
-       subfield a 
-       prefix   3. Bind-->
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="root">
   <teiHeader xml:id="idm139852079856160">
     <fileDesc xml:id="idm139852079855904">
       <titleStmt xml:id="idm139852079855600">
@@ -25,28 +20,34 @@
 	  </note>
       </notesStmt>
       <sourceDesc xml:id="idm139852079825296">
-	<bibl xml:id="idm139852079825040">
-	  <author n="1" xml:id="idm139852079824224">
-	    <name xml:id="idm139852079823792">
-	      <surname xml:id="idm139852079823488">Helgesen</surname>, <forename xml:id="idm139852079823024">Poul</forename>
-	    </name>
-	  </author>
-	  <title xml:id="idm139852079822352">Skrifter af Paulus Helie 3. Bind  / ved Marius
+        <bibl xml:id="idm139852079825040">
+          <author n="1" xml:id="idm139852079824224">
+            <name xml:id="idm139852079823792"><surname xml:id="idm139852079823488">Helgesen</surname>, <forename xml:id="idm139852079823024">Poul</forename></name>
+          </author>
+          <title xml:id="idm139852079822352">Skrifter af Paulus Helie 3. Bind  / ved Marius
 	  Kristensen. - 1933</title>
-	  <title xml:id="idm139852079821888">Udgivet af Det danske Sprog- og Litteraturselskab</title>
-	  <pubPlace xml:id="idm139852079821440">Kbh.</pubPlace>
-	  <date xml:id="idm139852079820976">1932-1948</date>
-	</bibl>
-      <listBibl xml:id="idm139852079820384"><bibl xml:id="biblid54456"><title xml:id="idm139852079807232">Om kranke og fattige Mennesker (1528)</title></bibl><bibl xml:id="biblid55946"><title xml:id="idm139852079806432">St. Athanasii Bog om Psalterens Kraft (1528)</title></bibl><bibl xml:id="biblid56836"><title xml:id="idm139852079805616">Svar paa Malmøbogen (1530)</title></bibl></listBibl></sourceDesc>
+          <title xml:id="idm139852079821888">Udgivet af Det Danske Sprog- og Litteraturselskab</title>
+          <pubPlace xml:id="idm139852079821440">København</pubPlace>
+          <date xml:id="idm139852079820976">1932-1948</date>
+        </bibl>
+        <listBibl xml:id="idm139852079820384">
+          <bibl xml:id="biblid54456">
+            <title xml:id="idm139852079807232">Om kranke og fattige Mennesker (1528)</title>
+          </bibl>
+          <bibl xml:id="biblid55946">
+            <title xml:id="idm139852079806432">St. Athanasii Bog om Psalterens Kraft (1528)</title>
+          </bibl>
+          <bibl xml:id="biblid56836">
+            <title xml:id="idm139852079805616">Svar paa Malmøbogen (1530)</title>
+          </bibl>
+        </listBibl>
+      </sourceDesc>
     </fileDesc>
   </teiHeader>
   <text xml:id="idm139852079804864">
     <front xml:id="idm139852079804608">
       <pb n="I" xml:id="sI" facs="adl/helgesen/helgesen3/helg3fm001"/>
       <gap reason="cancelled" xml:id="idm139852079803136"/>
-<!---->
-<!---->
-<!--SKRIFTER AF PAULUS HELIE BIND III-->
       <pb n="II" xml:id="sII" facs="adl/helgesen/helgesen3/helg3fm002"/>
       <pb n="III" xml:id="sIII" facs="adl/helgesen/helgesen3/helg3fm003"/>
       <titlePage xml:id="idm139852079799344">
@@ -665,7 +666,7 @@ saa effter samme ære, oc siiden skickede seg wiise statholdere som kwnne oc tor
             <p xml:id="idm139852079127968">Som alle drabelige ting kwnne mijsbrugis aff onde mennischir, saa war aldrig noger ting meer mijsbrugett ij then hellige kircke end scrifften oc Gudtz ord. Wnder theris skijn oc skygge haffue alle kiettere skiwltt oc hemblett theris kietterij oc falsche lærdomme. Till thenom haffue the alle hafftt eett fortacktt oc eett wrangtt skudtzmaall, huar mett the forblømme mange till forblindilse theris falsche lærdomme. Oc fordi haffue gamble doctores oc 
 	<pb n="134" xml:id="s134" facs="adl/helgesen/helgesen3/helg3134"/>
 lærefædre [r3b] merckelige bewiist att thenom bør thet skudtzmaall icke att nyde, nar scrifftens handell hør thenom icke lenger till end the ere retsindige mett christendommen, blantt huilcke Tertullianus som er een saare gammill doctor haffuer mett een heell bog dybelige oc wiislige affwiist alle kiettere fra scrifftens brugilse, oc klarlige bewiist att hwn maa thenom icke wndis eller tilstædis, fordi the wele wdi inghen ting ther the negte affwiisis, wden then blotte oc bare scrifftt, ther huerckin er mwueligtt eller børligtt, oc besynderlige nar the wele trenge scrifften wnder then mening som theris kietterij biistandig er, oc icke lade henne beholde then helliandtz mening, som er samburd oc samtøcktt wdaff then menige christen kirckis bode forstandere oc almwge, oc besterckett mett wnderlige teghen, oc een synderlig guddoms krafftt.</p>
-            <p xml:id="idm139852079123696">Ther till mett er møgett giortt, skickett, budett, samtøcktt, anammett, wedtagett, holdett oc brugett fra begyndilsen, som icke er [r4a] screffuett ij then scrifftt som nw kaldis hellig, ther samme scrifftt tillstaar oc forneffnde Tertullianus merckelige bewiiser, besynderlige wdi een bog som kaldis, De corona militis. Huilckett wij oc saa finde wdi een aff sancti dementis bøger som kaldis De fide et ordine christianorum.</p>
+            <p xml:id="idm139852079123696">Ther till mett er møgett giortt, skickett, budett, samtøcktt, anammett, wedtagett, holdett oc brugett fra begyndilsen, som icke er [r4a] screffuett ij then scrifftt som nw kaldis hellig, ther samme scrifftt tillstaar oc forneffnde Tertullianus merckelige bewiiser, besynderlige wdi een bog som kaldis, De corona militis. Huilckett wij oc saa finde wdi een aff sancti Clementis bøger som kaldis De fide et ordine christianorum.</p>
             <p xml:id="idm139852079122656">Oc huar the end motte bruge scrifften wden all mijstancke, tha anamme the icke alle scriffter, oc een partt aff thenom som the end bekiende, tha bekiende the icke heele scriffter. Huem kand fordi handle mett thet folck ther saa trøcker seg aff stiiffhed oc straghed, fortreed oc hoffmod, haardhed oc
 	<pb n="135" xml:id="s135" facs="adl/helgesen/helgesen3/helg3135"/>
 dwlhed, att thet will altiid høris, oc inghen høre, altiid betroes, oc inghen betro? Oc fordi lade the seg saare bemercke att wære wdaff kietterlige wilkaar (ther er blantt mange synderlige fortreed oc hoffmod) nar the lade seg icke nøije, mett then mening wdi scrifftt oc christelig handell som er dog samtøcktt offuer then gantsche christen[r4b]dom blantt leeg oc lærd, men wele giøre oc diigte seg een ny mening, oc trenge fordi scrifften till att lyde, then hwn icke lyder, oc att meene thet hwn icke meen, aldene rørde oc bedragne aff wilde hoffuett oc forbiistrede sind, ther aff æregijrighed fiige effter ord oc røckte.</p>

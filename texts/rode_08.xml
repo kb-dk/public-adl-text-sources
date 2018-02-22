@@ -1,9 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="idm139893993262224"><!-- 
-       file     ./marc_dir/002064377.xml
-       field     
-       subfield  
-       prefix   -->
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="root">
   <teiHeader xml:id="idm139893993261616">
     <fileDesc xml:id="idm139893993261360">
       <titleStmt xml:id="idm139893993261056">
@@ -21,8 +17,114 @@
         <note xml:id="idm139893993231936">
 	  </note>
       </notesStmt>
-      <sourceDesc xml:id="idm139893993231424"><bibl xml:id="idm139893993231296"><author n="1" xml:id="idm139893993230608"><name xml:id="idm139893993230352"><surname xml:id="idm139893993230224">Rode</surname>, <forename xml:id="idm139893993229792">Helge</forename></name></author><title xml:id="idm139893993229504">Den stille Have</title><pubPlace xml:id="idm139893993229216">Kbh</pubPlace>
-<date xml:id="idm139893993228736">1922</date></bibl><listBibl xml:id="idm139893993228448"><bibl xml:id="biblid54097"><title xml:id="idm139893993215296">Den stille Have</title></bibl><bibl xml:id="biblid55002"><title xml:id="idm139893993214464">Min Moder</title></bibl><bibl xml:id="biblid55464"><title xml:id="idm139893993213680">Den Stille Have (digtet)</title></bibl><bibl xml:id="biblid55910"><title xml:id="idm139893993212880">Vaarens Heliigdom</title></bibl><bibl xml:id="biblid56438"><title xml:id="idm139893993212096">Graven</title></bibl><bibl xml:id="biblid56694"><title xml:id="idm139893993211264">Træet</title></bibl><bibl xml:id="biblid56977"><title xml:id="idm139893993210432">Stjernenatten</title></bibl><bibl xml:id="biblid57155"><title xml:id="idm139893993209648">Sol og Maane</title></bibl><bibl xml:id="biblid57294"><title xml:id="idm139893993208864">Regnen</title></bibl><bibl xml:id="biblid57500"><title xml:id="idm139893993208080">Sommernatsleg</title></bibl><bibl xml:id="biblid57625"><title xml:id="idm139893993207248">Skitse</title></bibl><bibl xml:id="biblid57667"><title xml:id="idm139893993206464">Ved Chr. Zahrtmanns Død</title></bibl><bibl xml:id="biblid57884"><title xml:id="idm139893993205648">Fjorden</title></bibl><bibl xml:id="biblid58101"><title xml:id="idm139893993204864">Ved Erik Vullums Død</title></bibl><bibl xml:id="biblid58172"><title xml:id="idm139893993204000">Ved Mesnafossen</title></bibl><bibl xml:id="biblid58228"><title xml:id="idm139893993203104">Kys mig September</title></bibl><bibl xml:id="biblid58337"><title xml:id="idm139893993202272">Norden</title></bibl><bibl xml:id="biblid58550"><title xml:id="idm139893993201440">Narrens Viser</title></bibl><bibl xml:id="biblid58685"><title xml:id="idm139893993200544">Ørnen</title></bibl><bibl xml:id="biblid58762"><title xml:id="idm139893993199760">Pjerrot</title></bibl><bibl xml:id="biblid58866"><title xml:id="idm139893993198976">Skjaldens Sange</title></bibl><bibl xml:id="biblid58965"><title xml:id="idm139893993198144">Tidselhøsten</title></bibl><bibl xml:id="biblid59059"><title xml:id="idm139893993197296">Klagesang</title></bibl><bibl xml:id="biblid59165"><title xml:id="idm139893993196464">Dybbøl Mølle</title></bibl><bibl xml:id="biblid59247"><title xml:id="idm139893993195616">Sangen om Danmark</title></bibl><bibl xml:id="biblid59482"><title xml:id="idm139893993194784">Aften paa Landet</title></bibl><bibl xml:id="biblid59573"><title xml:id="idm139893993194000">En Gemme</title></bibl><bibl xml:id="biblid59747"><title xml:id="idm139893993193168">Panser</title></bibl><bibl xml:id="biblid59785"><title xml:id="idm139893993192336">Aand</title></bibl><bibl xml:id="biblid59823"><title xml:id="idm139893993191504">Min Fader</title></bibl><bibl xml:id="biblid59988"><title xml:id="idm139893993190720">Ungdomskilder</title></bibl><bibl xml:id="biblid60106"><title xml:id="idm139893993189936">Hokusai</title></bibl></listBibl></sourceDesc>
+      <sourceDesc xml:id="idm139893993231424">
+        <bibl xml:id="idm139893993231296">
+          <author n="1" xml:id="idm139893993230608">
+            <name xml:id="idm139893993230352"><surname xml:id="idm139893993230224">Rode</surname>, <forename xml:id="idm139893993229792">Helge</forename></name>
+          </author>
+          <title xml:id="idm139893993229504">Den stille Have</title>
+          <pubPlace xml:id="idm139893993229216">København</pubPlace>
+          <date xml:id="idm139893993228736">1922</date>
+        </bibl>
+        <listBibl xml:id="idm139893993228448">
+          <bibl xml:id="biblid54097">
+            <title xml:id="idm139893993215296">Den stille Have</title>
+          </bibl>
+          <bibl xml:id="biblid55002">
+            <title xml:id="idm139893993214464">Min Moder</title>
+          </bibl>
+          <bibl xml:id="biblid55464">
+            <title xml:id="idm139893993213680">Den Stille Have (digtet)</title>
+          </bibl>
+          <bibl xml:id="biblid55910">
+            <title xml:id="idm139893993212880">Vaarens Heliigdom</title>
+          </bibl>
+          <bibl xml:id="biblid56438">
+            <title xml:id="idm139893993212096">Graven</title>
+          </bibl>
+          <bibl xml:id="biblid56694">
+            <title xml:id="idm139893993211264">Træet</title>
+          </bibl>
+          <bibl xml:id="biblid56977">
+            <title xml:id="idm139893993210432">Stjernenatten</title>
+          </bibl>
+          <bibl xml:id="biblid57155">
+            <title xml:id="idm139893993209648">Sol og Maane</title>
+          </bibl>
+          <bibl xml:id="biblid57294">
+            <title xml:id="idm139893993208864">Regnen</title>
+          </bibl>
+          <bibl xml:id="biblid57500">
+            <title xml:id="idm139893993208080">Sommernatsleg</title>
+          </bibl>
+          <bibl xml:id="biblid57625">
+            <title xml:id="idm139893993207248">Skitse</title>
+          </bibl>
+          <bibl xml:id="biblid57667">
+            <title xml:id="idm139893993206464">Ved Chr. Zahrtmanns Død</title>
+          </bibl>
+          <bibl xml:id="biblid57884">
+            <title xml:id="idm139893993205648">Fjorden</title>
+          </bibl>
+          <bibl xml:id="biblid58101">
+            <title xml:id="idm139893993204864">Ved Erik Vullums Død</title>
+          </bibl>
+          <bibl xml:id="biblid58172">
+            <title xml:id="idm139893993204000">Ved Mesnafossen</title>
+          </bibl>
+          <bibl xml:id="biblid58228">
+            <title xml:id="idm139893993203104">Kys mig September</title>
+          </bibl>
+          <bibl xml:id="biblid58337">
+            <title xml:id="idm139893993202272">Norden</title>
+          </bibl>
+          <bibl xml:id="biblid58550">
+            <title xml:id="idm139893993201440">Narrens Viser</title>
+          </bibl>
+          <bibl xml:id="biblid58685">
+            <title xml:id="idm139893993200544">Ørnen</title>
+          </bibl>
+          <bibl xml:id="biblid58762">
+            <title xml:id="idm139893993199760">Pjerrot</title>
+          </bibl>
+          <bibl xml:id="biblid58866">
+            <title xml:id="idm139893993198976">Skjaldens Sange</title>
+          </bibl>
+          <bibl xml:id="biblid58965">
+            <title xml:id="idm139893993198144">Tidselhøsten</title>
+          </bibl>
+          <bibl xml:id="biblid59059">
+            <title xml:id="idm139893993197296">Klagesang</title>
+          </bibl>
+          <bibl xml:id="biblid59165">
+            <title xml:id="idm139893993196464">Dybbøl Mølle</title>
+          </bibl>
+          <bibl xml:id="biblid59247">
+            <title xml:id="idm139893993195616">Sangen om Danmark</title>
+          </bibl>
+          <bibl xml:id="biblid59482">
+            <title xml:id="idm139893993194784">Aften paa Landet</title>
+          </bibl>
+          <bibl xml:id="biblid59573">
+            <title xml:id="idm139893993194000">En Gemme</title>
+          </bibl>
+          <bibl xml:id="biblid59747">
+            <title xml:id="idm139893993193168">Panser</title>
+          </bibl>
+          <bibl xml:id="biblid59785">
+            <title xml:id="idm139893993192336">Aand</title>
+          </bibl>
+          <bibl xml:id="biblid59823">
+            <title xml:id="idm139893993191504">Min Fader</title>
+          </bibl>
+          <bibl xml:id="biblid59988">
+            <title xml:id="idm139893993190720">Ungdomskilder</title>
+          </bibl>
+          <bibl xml:id="biblid60106">
+            <title xml:id="idm139893993189936">Hokusai</title>
+          </bibl>
+        </listBibl>
+      </sourceDesc>
     </fileDesc>
   </teiHeader>
   <text xml:id="workid54097" decls="#biblid54097">
@@ -424,7 +526,7 @@ i Hjemmet — hvor ingen har hjemme.</p>
             <p xml:id="idm139893992999392">Jeg stod ved en Sten mellem Stene<lb xml:id="idm139893992999088"/>
 og Blodløbet standsed i Bringen.<lb xml:id="idm139893992998752"/>
 Her udhviler stille og ene —<lb xml:id="idm139893992998416"/>
-Her udhviler — <hi rend="italics" xml:id="idm139893992998112">Intet</hi> og <hi rend="italics">Ingen</hi>!</p>
+Her udhviler — <hi rend="italics" xml:id="idm139893992998112">Intet</hi> og <hi xml:id="id52f598ac-15a1-46ae-a1be-0a786b970460" rend="italics">Ingen</hi>!</p>
             <p xml:id="idm139893992997296">Jeg skimted den Mægtiges Stempel<lb xml:id="idm139893992996960"/>
 men kunde ej udtyde Tegnet.<lb xml:id="idm139893992996656"/>
 Jeg stod i Rædselens Tempel<lb xml:id="idm139893992996320"/>
@@ -440,7 +542,7 @@ sat frem paa Forfærdelsens Alter.</p>
             <p xml:id="idm139893992991840">O Tempel for Gaadernes Gaade,<lb xml:id="idm139893992991536"/>
 som presser os Blodet mod Bringen,<lb xml:id="idm139893992991232"/>
 mens Hjertet maa bede om Naade<lb xml:id="idm139893992990928"/>
-og omfavner <hi rend="italics" xml:id="idm139893992990640">Intet</hi> og <hi rend="italics">Ingen</hi>.</p>
+og omfavner <hi rend="italics" xml:id="idm139893992990640">Intet</hi> og <hi xml:id="ida57b95ea-3b2b-4a4d-93d5-c40ad4fa5738" rend="italics">Ingen</hi>.</p>
             <p xml:id="idm139893992989824">O Dybder i Stilhedens Have,<lb xml:id="idm139893992989520"/>
 hvor Dagenes Stolthed er kuet,<lb xml:id="idm139893992989216"/>
 hvor Tiden er drejet af Lave<lb xml:id="idm139893992988912"/>

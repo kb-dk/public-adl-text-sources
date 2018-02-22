@@ -1,10 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!--  Ptj rettet s.51-55-63-64-90-90-132-174-175-176-179-182-183-187- 189- 206-  -->
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="idm140161406061280"><!-- 
-       file     ./marc_dir/005412565.xml
-       field     
-       subfield  
-       prefix   -->
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="root">
   <teiHeader xml:id="idm140161406065088">
     <fileDesc xml:id="idm140161406064832">
       <titleStmt xml:id="idm140161406064528">
@@ -23,17 +18,330 @@
         <note xml:id="idm140161406035232">
 	  </note>
       </notesStmt>
-      <sourceDesc xml:id="idm140161406034720"><bibl xml:id="idm140161406034592"><author n="1" xml:id="idm140161406033904"><name xml:id="idm140161406033648"><surname xml:id="idm140161406033520">Wessel</surname>, <forename xml:id="idm140161406033056">Johan Herman</forename></name></author><title xml:id="idm140161406032768">J.H. Wessels Samlede Digte</title><pubPlace xml:id="idm140161406032464">Kbh.</pubPlace>
-<date xml:id="idm140161406031952">1901</date></bibl><listBibl xml:id="idm140161406031664"><bibl xml:id="biblid55068"><title xml:id="idm140161406018512">Kierlighed uden Strømper</title></bibl><bibl xml:id="biblid63745"><title xml:id="idm140161406017696">Gaffelen</title></bibl><bibl xml:id="biblid64173"><title xml:id="idm140161406016864">Herremanden</title></bibl><bibl xml:id="biblid64423"><title xml:id="idm140161406016080">Hundemordet</title></bibl><bibl xml:id="biblid64700"><title xml:id="idm140161406015296">Den forvovne Siællands-Faer</title></bibl><bibl xml:id="biblid65010"><title xml:id="idm140161406014416">Det stiaalne Taft</title></bibl><bibl xml:id="biblid65248"><title xml:id="idm140161406013584">Sadelen</title></bibl><bibl xml:id="biblid65638"><title xml:id="idm140161406012800">Den gamle skade</title></bibl><bibl xml:id="biblid66112"><title xml:id="idm140161406012016">Posthuuset</title></bibl><bibl xml:id="biblid66773"><title xml:id="idm140161406011232">Den fri Vognleie</title></bibl><bibl xml:id="biblid67412"><title xml:id="idm140161406010448">Fyrsten og Forbryderen</title></bibl><bibl xml:id="biblid67687"><title xml:id="idm140161406009616">Den Druknede</title></bibl><bibl xml:id="biblid68023"><title xml:id="idm140161406008784">Toujours perdrix</title></bibl><bibl xml:id="biblid68324"><title xml:id="idm140161406008000">Supplicanterne</title></bibl><bibl xml:id="biblid68655"><title xml:id="idm140161406007168">Stella</title></bibl><bibl xml:id="biblid70742"><title xml:id="idm140161406006336">Den fromme Bekiender</title></bibl><bibl xml:id="biblid70975"><title xml:id="idm140161406005504">Smeden og Bageren</title></bibl><bibl xml:id="biblid71280"><title xml:id="idm140161406004720">Den sande Drøm</title></bibl><bibl xml:id="biblid71647"><title xml:id="idm140161406003872">Prutningen</title></bibl><bibl xml:id="biblid71944"><title xml:id="idm140161406003040">Sanct Sebastian</title></bibl><bibl xml:id="biblid72251"><title xml:id="idm140161406002208">Den bekymrede Moder</title></bibl><bibl xml:id="biblid72967"><title xml:id="idm140161406001424">Sødgrød for Vandgrød, og Vandgrød for Sødgrød</title></bibl><bibl xml:id="biblid73295"><title xml:id="idm140161406000560">Tycho Brahes Dag</title></bibl><bibl xml:id="biblid73979"><title xml:id="idm140161405999776">Det ædelmodige Tilbud</title></bibl><bibl xml:id="biblid74369"><title xml:id="idm140161405998912">Observationen</title></bibl><bibl xml:id="biblid74732"><title xml:id="idm140161405998080">Den jydske Kavalleer</title></bibl><bibl xml:id="biblid75102"><title xml:id="idm140161405997296">Felix, quem faciunt aliena pericula cautum!</title></bibl><bibl xml:id="biblid75454"><title xml:id="idm140161405996432">Fader og Søn, een Mand</title></bibl><bibl xml:id="biblid75740"><title xml:id="idm140161405995568">Det kolde Blod</title></bibl><bibl xml:id="biblid76088"><title xml:id="idm140161405994736">De to Agerhøns</title></bibl><bibl xml:id="biblid77208"><title xml:id="idm140161405993888">Gasconaderne</title></bibl><bibl xml:id="biblid77940"><title xml:id="idm140161405993104">Relata refero</title></bibl><bibl xml:id="biblid78372"><title xml:id="idm140161405992272">David og Jonathan</title></bibl><bibl xml:id="biblid78673"><title xml:id="idm140161405991440">Veddemaalet</title></bibl><bibl xml:id="biblid79027"><title xml:id="idm140161406095360">Mosters Pølser</title></bibl><bibl xml:id="biblid79330"><title xml:id="idm140161406094672">Contrasterne</title></bibl><bibl xml:id="biblid79658"><title xml:id="idm140161406093952">Omne tulit punctum, qui miscuit utile dulci</title></bibl><bibl xml:id="biblid79789"><title xml:id="idm140161406093136">Nulla regula sine exceptione</title></bibl><bibl xml:id="biblid80074"><title xml:id="idm140161406092320">Søvnen</title></bibl><bibl xml:id="biblid80677"><title xml:id="idm140161406091536">Nøisomhed</title></bibl><bibl xml:id="biblid81092"><title xml:id="idm140161405965520">Lyksalighed (1)</title></bibl><bibl xml:id="biblid81222"><title xml:id="idm140161405964736">Brodne Potter i alle Lande</title></bibl><bibl xml:id="biblid81681"><title xml:id="idm140161405963984">Prologue (1)</title></bibl><bibl xml:id="biblid82586"><title xml:id="idm140161405963200">Prologue (2)</title></bibl><bibl xml:id="biblid82680"><title xml:id="idm140161405962416">Chor og Prologue</title></bibl><bibl xml:id="biblid82805"><title xml:id="idm140161405961632">Til Hr. Jens Baggesen</title></bibl><bibl xml:id="biblid82974"><title xml:id="idm140161405960848">Tres humble Serviteurs</title></bibl><bibl xml:id="biblid83234"><title xml:id="idm140161405960000">Ringe og velmeent Ønske</title></bibl><bibl xml:id="biblid83344"><title xml:id="idm140161405959184">Lovtale over den ugifte Stand</title></bibl><bibl xml:id="biblid83432"><title xml:id="idm140161405958432">Paa en Skive</title></bibl><bibl xml:id="biblid83487"><title xml:id="idm140161405957648">Alle Tings Cirkelgang</title></bibl><bibl xml:id="biblid83559"><title xml:id="idm140161405956864">Fragmenter</title></bibl><bibl xml:id="biblid83564"><title xml:id="idm140161405956080">Om en Jødepige</title></bibl><bibl xml:id="biblid83709"><title xml:id="idm140161405955264">Vaaren</title></bibl><bibl xml:id="biblid83989"><title xml:id="idm140161405954480">Den, som aldrig turde drikke,</title></bibl><bibl xml:id="biblid84029"><title xml:id="idm140161405953728">For Kiærlighed er Viin</title></bibl><bibl xml:id="biblid84064"><title xml:id="idm140161405952848">Naar jeg formaaer, jeg gierne vil</title></bibl><bibl xml:id="biblid84126"><title xml:id="idm140161405952096">Alt det, som i Ungdommen glæde os kan,</title></bibl><bibl xml:id="biblid84163"><title xml:id="idm140161405947184">Mærk derpaa!</title></bibl><bibl xml:id="biblid84197"><title xml:id="idm140161405946560">Efter mine ringe Evner</title></bibl><bibl xml:id="biblid84236"><title xml:id="idm140161405945872">N. N. er mit Navn,</title></bibl><bibl xml:id="biblid84264"><title xml:id="idm140161405945184">Afholdenhed! du Vises Dyd,</title></bibl><bibl xml:id="biblid84292"><title xml:id="idm140161405944496">Afholdenhed er en deilig Dyd,</title></bibl><bibl xml:id="biblid84313"><title xml:id="idm140161405943808">Kiære Børen, ta'er jer vare,</title></bibl><bibl xml:id="biblid84366"><title xml:id="idm140161405942944">I en Stambog</title></bibl><bibl xml:id="biblid84397"><title xml:id="idm140161405942160">Ligeledes (1)</title></bibl><bibl xml:id="biblid84426"><title xml:id="idm140161405941312">Jeg troer, jeg i en Bog har læst,</title></bibl><bibl xml:id="biblid84462"><title xml:id="idm140161405940480">Til Hr. K. og hans Kone paa deres Ellevte Bryllupsdag</title></bibl><bibl xml:id="biblid84527"><title xml:id="idm140161405939600">Ønsket</title></bibl><bibl xml:id="biblid84581"><title xml:id="idm140161405938816">Impromptu over Tandpine</title></bibl><bibl xml:id="biblid84695"><title xml:id="idm140161405938032">Til Luft-skipperne</title></bibl><bibl xml:id="biblid84762"><title xml:id="idm140161405937184">Anbefaling paa en Ansøgning om Ansættelse ved Veivæsenet</title></bibl><bibl xml:id="biblid84804"><title xml:id="idm140161405936304">Med en Gave til Sygecassen</title></bibl><bibl xml:id="biblid84829"><title xml:id="idm140161405935488">Til Digterens Hustru</title></bibl><bibl xml:id="biblid84909"><title xml:id="idm140161405934640">Paa sammes Fødselsdag</title></bibl><bibl xml:id="biblid84958"><title xml:id="idm140161405933760">Impromptu til Mad. Juel paa hendes Fødselsdag</title></bibl><bibl xml:id="biblid84984"><title xml:id="idm140161405932896">Til Fru Walter</title></bibl><bibl xml:id="biblid85008"><title xml:id="idm140161405932112">Ved en Vens Bortreise til Norge</title></bibl><bibl xml:id="biblid85041"><title xml:id="idm140161405931248">Afskeeds-Sang</title></bibl><bibl xml:id="biblid85092"><title xml:id="idm140161405930416">Vers paa opgivne Riim I. - V.</title></bibl><bibl xml:id="biblid85253"><title xml:id="idm140161405929568">Indrykket i Aftenposten</title></bibl><bibl xml:id="biblid85278"><title xml:id="idm140161405928784">Ligeledes (2)</title></bibl><bibl xml:id="biblid85317"><title xml:id="idm140161405928000">Til Agent Holck</title></bibl><bibl xml:id="biblid85348"><title xml:id="idm140161405927152">Provst Hersom</title></bibl><bibl xml:id="biblid85382"><title xml:id="idm140161405926368">Nytaarsvers I. - XI.</title></bibl><bibl xml:id="biblid85715"><title xml:id="idm140161405925584">Til J. R. Bull</title></bibl><bibl xml:id="biblid85741"><title xml:id="idm140161405924800">I en Hof-Poets Navn</title></bibl><bibl xml:id="biblid85772"><title xml:id="idm140161405923952">Impromptu over en besværlig Hestepranger</title></bibl><bibl xml:id="biblid85796"><title xml:id="idm140161405923104">Kiærlighed og Smørrebrød</title></bibl><bibl xml:id="biblid85831"><title xml:id="idm140161405922288">Over Smagen</title></bibl><bibl xml:id="biblid85867"><title xml:id="idm140161405921504">Da Chloe var i Kirke</title></bibl><bibl xml:id="biblid85892"><title xml:id="idm140161405920720">Lyksalighed (2)</title></bibl><bibl xml:id="biblid85917"><title xml:id="idm140161405919936">Til en Mand, hvis Barn falt ned fra anden Etage uden at tage Skade</title></bibl><bibl xml:id="biblid85942"><title xml:id="idm140161405919104">Impromptu ved en Offring</title></bibl><bibl xml:id="biblid85976"><title xml:id="idm140161405918240">Caspar Wessel</title></bibl><bibl xml:id="biblid85994"><title xml:id="idm140161405917456">Parodi</title></bibl><bibl xml:id="biblid86045"><title xml:id="idm140161405916560">Til Viintapper Lunds Svend</title></bibl><bibl xml:id="biblid86079"><title xml:id="idm140161405915760">Svar i Svendens Navn</title></bibl><bibl xml:id="biblid86122"><title xml:id="idm140161405914864">Kiære Moder huld</title></bibl><bibl xml:id="biblid86147"><title xml:id="idm140161405914064">Gravskrifter I. - V.</title></bibl><bibl xml:id="biblid86313"><title xml:id="idm140161405913216">Under Digterens Portrait</title></bibl><bibl xml:id="biblid86334"><title xml:id="idm140161405912352">Digterens Gravskrift over sig selv</title></bibl></listBibl></sourceDesc>
+      <sourceDesc xml:id="idm140161406034720">
+        <bibl xml:id="idm140161406034592">
+          <author n="1" xml:id="idm140161406033904">
+            <name xml:id="idm140161406033648"><surname xml:id="idm140161406033520">Wessel</surname>, <forename xml:id="idm140161406033056">Johan Herman</forename></name>
+          </author>
+          <title xml:id="idm140161406032768">J.H. Wessels Samlede Digte</title>
+          <pubPlace xml:id="idm140161406032464">København</pubPlace>
+          <date xml:id="idm140161406031952">1901</date>
+        </bibl>
+        <listBibl xml:id="idm140161406031664">
+          <bibl xml:id="biblid55068">
+            <title xml:id="idm140161406018512">Kierlighed uden Strømper</title>
+          </bibl>
+          <bibl xml:id="biblid63745">
+            <title xml:id="idm140161406017696">Gaffelen</title>
+          </bibl>
+          <bibl xml:id="biblid64173">
+            <title xml:id="idm140161406016864">Herremanden</title>
+          </bibl>
+          <bibl xml:id="biblid64423">
+            <title xml:id="idm140161406016080">Hundemordet</title>
+          </bibl>
+          <bibl xml:id="biblid64700">
+            <title xml:id="idm140161406015296">Den forvovne Siællands-Faer</title>
+          </bibl>
+          <bibl xml:id="biblid65010">
+            <title xml:id="idm140161406014416">Det stiaalne Taft</title>
+          </bibl>
+          <bibl xml:id="biblid65248">
+            <title xml:id="idm140161406013584">Sadelen</title>
+          </bibl>
+          <bibl xml:id="biblid65638">
+            <title xml:id="idm140161406012800">Den gamle skade</title>
+          </bibl>
+          <bibl xml:id="biblid66112">
+            <title xml:id="idm140161406012016">Posthuuset</title>
+          </bibl>
+          <bibl xml:id="biblid66773">
+            <title xml:id="idm140161406011232">Den fri Vognleie</title>
+          </bibl>
+          <bibl xml:id="biblid67412">
+            <title xml:id="idm140161406010448">Fyrsten og Forbryderen</title>
+          </bibl>
+          <bibl xml:id="biblid67687">
+            <title xml:id="idm140161406009616">Den Druknede</title>
+          </bibl>
+          <bibl xml:id="biblid68023">
+            <title xml:id="idm140161406008784">Toujours perdrix</title>
+          </bibl>
+          <bibl xml:id="biblid68324">
+            <title xml:id="idm140161406008000">Supplicanterne</title>
+          </bibl>
+          <bibl xml:id="biblid68655">
+            <title xml:id="idm140161406007168">Stella</title>
+          </bibl>
+          <bibl xml:id="biblid70742">
+            <title xml:id="idm140161406006336">Den fromme Bekiender</title>
+          </bibl>
+          <bibl xml:id="biblid70975">
+            <title xml:id="idm140161406005504">Smeden og Bageren</title>
+          </bibl>
+          <bibl xml:id="biblid71280">
+            <title xml:id="idm140161406004720">Den sande Drøm</title>
+          </bibl>
+          <bibl xml:id="biblid71647">
+            <title xml:id="idm140161406003872">Prutningen</title>
+          </bibl>
+          <bibl xml:id="biblid71944">
+            <title xml:id="idm140161406003040">Sanct Sebastian</title>
+          </bibl>
+          <bibl xml:id="biblid72251">
+            <title xml:id="idm140161406002208">Den bekymrede Moder</title>
+          </bibl>
+          <bibl xml:id="biblid72967">
+            <title xml:id="idm140161406001424">Sødgrød for Vandgrød, og Vandgrød for Sødgrød</title>
+          </bibl>
+          <bibl xml:id="biblid73295">
+            <title xml:id="idm140161406000560">Tycho Brahes Dag</title>
+          </bibl>
+          <bibl xml:id="biblid73979">
+            <title xml:id="idm140161405999776">Det ædelmodige Tilbud</title>
+          </bibl>
+          <bibl xml:id="biblid74369">
+            <title xml:id="idm140161405998912">Observationen</title>
+          </bibl>
+          <bibl xml:id="biblid74732">
+            <title xml:id="idm140161405998080">Den jydske Kavalleer</title>
+          </bibl>
+          <bibl xml:id="biblid75102">
+            <title xml:id="idm140161405997296">Felix, quem faciunt aliena pericula cautum!</title>
+          </bibl>
+          <bibl xml:id="biblid75454">
+            <title xml:id="idm140161405996432">Fader og Søn, een Mand</title>
+          </bibl>
+          <bibl xml:id="biblid75740">
+            <title xml:id="idm140161405995568">Det kolde Blod</title>
+          </bibl>
+          <bibl xml:id="biblid76088">
+            <title xml:id="idm140161405994736">De to Agerhøns</title>
+          </bibl>
+          <bibl xml:id="biblid77208">
+            <title xml:id="idm140161405993888">Gasconaderne</title>
+          </bibl>
+          <bibl xml:id="biblid77940">
+            <title xml:id="idm140161405993104">Relata refero</title>
+          </bibl>
+          <bibl xml:id="biblid78372">
+            <title xml:id="idm140161405992272">David og Jonathan</title>
+          </bibl>
+          <bibl xml:id="biblid78673">
+            <title xml:id="idm140161405991440">Veddemaalet</title>
+          </bibl>
+          <bibl xml:id="biblid79027">
+            <title xml:id="idm140161406095360">Mosters Pølser</title>
+          </bibl>
+          <bibl xml:id="biblid79330">
+            <title xml:id="idm140161406094672">Contrasterne</title>
+          </bibl>
+          <bibl xml:id="biblid79658">
+            <title xml:id="idm140161406093952">Omne tulit punctum, qui miscuit utile dulci</title>
+          </bibl>
+          <bibl xml:id="biblid79789">
+            <title xml:id="idm140161406093136">Nulla regula sine exceptione</title>
+          </bibl>
+          <bibl xml:id="biblid80074">
+            <title xml:id="idm140161406092320">Søvnen</title>
+          </bibl>
+          <bibl xml:id="biblid80677">
+            <title xml:id="idm140161406091536">Nøisomhed</title>
+          </bibl>
+          <bibl xml:id="biblid81092">
+            <title xml:id="idm140161405965520">Lyksalighed (1)</title>
+          </bibl>
+          <bibl xml:id="biblid81222">
+            <title xml:id="idm140161405964736">Brodne Potter i alle Lande</title>
+          </bibl>
+          <bibl xml:id="biblid81681">
+            <title xml:id="idm140161405963984">Prologue (1)</title>
+          </bibl>
+          <bibl xml:id="biblid82586">
+            <title xml:id="idm140161405963200">Prologue (2)</title>
+          </bibl>
+          <bibl xml:id="biblid82680">
+            <title xml:id="idm140161405962416">Chor og Prologue</title>
+          </bibl>
+          <bibl xml:id="biblid82805">
+            <title xml:id="idm140161405961632">Til Hr. Jens Baggesen</title>
+          </bibl>
+          <bibl xml:id="biblid82974">
+            <title xml:id="idm140161405960848">Tres humble Serviteurs</title>
+          </bibl>
+          <bibl xml:id="biblid83234">
+            <title xml:id="idm140161405960000">Ringe og velmeent Ønske</title>
+          </bibl>
+          <bibl xml:id="biblid83344">
+            <title xml:id="idm140161405959184">Lovtale over den ugifte Stand</title>
+          </bibl>
+          <bibl xml:id="biblid83432">
+            <title xml:id="idm140161405958432">Paa en Skive</title>
+          </bibl>
+          <bibl xml:id="biblid83487">
+            <title xml:id="idm140161405957648">Alle Tings Cirkelgang</title>
+          </bibl>
+          <bibl xml:id="biblid83559">
+            <title xml:id="idm140161405956864">Fragmenter</title>
+          </bibl>
+          <bibl xml:id="biblid83564">
+            <title xml:id="idm140161405956080">Om en Jødepige</title>
+          </bibl>
+          <bibl xml:id="biblid83709">
+            <title xml:id="idm140161405955264">Vaaren</title>
+          </bibl>
+          <bibl xml:id="biblid83989">
+            <title xml:id="idm140161405954480">Den, som aldrig turde drikke,</title>
+          </bibl>
+          <bibl xml:id="biblid84029">
+            <title xml:id="idm140161405953728">For Kiærlighed er Viin</title>
+          </bibl>
+          <bibl xml:id="biblid84064">
+            <title xml:id="idm140161405952848">Naar jeg formaaer, jeg gierne vil</title>
+          </bibl>
+          <bibl xml:id="biblid84126">
+            <title xml:id="idm140161405952096">Alt det, som i Ungdommen glæde os kan,</title>
+          </bibl>
+          <bibl xml:id="biblid84163">
+            <title xml:id="idm140161405947184">Mærk derpaa!</title>
+          </bibl>
+          <bibl xml:id="biblid84197">
+            <title xml:id="idm140161405946560">Efter mine ringe Evner</title>
+          </bibl>
+          <bibl xml:id="biblid84236">
+            <title xml:id="idm140161405945872">N. N. er mit Navn,</title>
+          </bibl>
+          <bibl xml:id="biblid84264">
+            <title xml:id="idm140161405945184">Afholdenhed! du Vises Dyd,</title>
+          </bibl>
+          <bibl xml:id="biblid84292">
+            <title xml:id="idm140161405944496">Afholdenhed er en deilig Dyd,</title>
+          </bibl>
+          <bibl xml:id="biblid84313">
+            <title xml:id="idm140161405943808">Kiære Børen, ta'er jer vare,</title>
+          </bibl>
+          <bibl xml:id="biblid84366">
+            <title xml:id="idm140161405942944">I en Stambog</title>
+          </bibl>
+          <bibl xml:id="biblid84397">
+            <title xml:id="idm140161405942160">Ligeledes (1)</title>
+          </bibl>
+          <bibl xml:id="biblid84426">
+            <title xml:id="idm140161405941312">Jeg troer, jeg i en Bog har læst,</title>
+          </bibl>
+          <bibl xml:id="biblid84462">
+            <title xml:id="idm140161405940480">Til Hr. K. og hans Kone paa deres Ellevte Bryllupsdag</title>
+          </bibl>
+          <bibl xml:id="biblid84527">
+            <title xml:id="idm140161405939600">Ønsket</title>
+          </bibl>
+          <bibl xml:id="biblid84581">
+            <title xml:id="idm140161405938816">Impromptu over Tandpine</title>
+          </bibl>
+          <bibl xml:id="biblid84695">
+            <title xml:id="idm140161405938032">Til Luft-skipperne</title>
+          </bibl>
+          <bibl xml:id="biblid84762">
+            <title xml:id="idm140161405937184">Anbefaling paa en Ansøgning om Ansættelse ved Veivæsenet</title>
+          </bibl>
+          <bibl xml:id="biblid84804">
+            <title xml:id="idm140161405936304">Med en Gave til Sygecassen</title>
+          </bibl>
+          <bibl xml:id="biblid84829">
+            <title xml:id="idm140161405935488">Til Digterens Hustru</title>
+          </bibl>
+          <bibl xml:id="biblid84909">
+            <title xml:id="idm140161405934640">Paa sammes Fødselsdag</title>
+          </bibl>
+          <bibl xml:id="biblid84958">
+            <title xml:id="idm140161405933760">Impromptu til Mad. Juel paa hendes Fødselsdag</title>
+          </bibl>
+          <bibl xml:id="biblid84984">
+            <title xml:id="idm140161405932896">Til Fru Walter</title>
+          </bibl>
+          <bibl xml:id="biblid85008">
+            <title xml:id="idm140161405932112">Ved en Vens Bortreise til Norge</title>
+          </bibl>
+          <bibl xml:id="biblid85041">
+            <title xml:id="idm140161405931248">Afskeeds-Sang</title>
+          </bibl>
+          <bibl xml:id="biblid85092">
+            <title xml:id="idm140161405930416">Vers paa opgivne Riim I. - V.</title>
+          </bibl>
+          <bibl xml:id="biblid85253">
+            <title xml:id="idm140161405929568">Indrykket i Aftenposten</title>
+          </bibl>
+          <bibl xml:id="biblid85278">
+            <title xml:id="idm140161405928784">Ligeledes (2)</title>
+          </bibl>
+          <bibl xml:id="biblid85317">
+            <title xml:id="idm140161405928000">Til Agent Holck</title>
+          </bibl>
+          <bibl xml:id="biblid85348">
+            <title xml:id="idm140161405927152">Provst Hersom</title>
+          </bibl>
+          <bibl xml:id="biblid85382">
+            <title xml:id="idm140161405926368">Nytaarsvers I. - XI.</title>
+          </bibl>
+          <bibl xml:id="biblid85715">
+            <title xml:id="idm140161405925584">Til J. R. Bull</title>
+          </bibl>
+          <bibl xml:id="biblid85741">
+            <title xml:id="idm140161405924800">I en Hof-Poets Navn</title>
+          </bibl>
+          <bibl xml:id="biblid85772">
+            <title xml:id="idm140161405923952">Impromptu over en besværlig Hestepranger</title>
+          </bibl>
+          <bibl xml:id="biblid85796">
+            <title xml:id="idm140161405923104">Kiærlighed og Smørrebrød</title>
+          </bibl>
+          <bibl xml:id="biblid85831">
+            <title xml:id="idm140161405922288">Over Smagen</title>
+          </bibl>
+          <bibl xml:id="biblid85867">
+            <title xml:id="idm140161405921504">Da Chloe var i Kirke</title>
+          </bibl>
+          <bibl xml:id="biblid85892">
+            <title xml:id="idm140161405920720">Lyksalighed (2)</title>
+          </bibl>
+          <bibl xml:id="biblid85917">
+            <title xml:id="idm140161405919936">Til en Mand, hvis Barn falt ned fra anden Etage uden at tage Skade</title>
+          </bibl>
+          <bibl xml:id="biblid85942">
+            <title xml:id="idm140161405919104">Impromptu ved en Offring</title>
+          </bibl>
+          <bibl xml:id="biblid85976">
+            <title xml:id="idm140161405918240">Caspar Wessel</title>
+          </bibl>
+          <bibl xml:id="biblid85994">
+            <title xml:id="idm140161405917456">Parodi</title>
+          </bibl>
+          <bibl xml:id="biblid86045">
+            <title xml:id="idm140161405916560">Til Viintapper Lunds Svend</title>
+          </bibl>
+          <bibl xml:id="biblid86079">
+            <title xml:id="idm140161405915760">Svar i Svendens Navn</title>
+          </bibl>
+          <bibl xml:id="biblid86122">
+            <title xml:id="idm140161405914864">Kiære Moder huld</title>
+          </bibl>
+          <bibl xml:id="biblid86147">
+            <title xml:id="idm140161405914064">Gravskrifter I. - V.</title>
+          </bibl>
+          <bibl xml:id="biblid86313">
+            <title xml:id="idm140161405913216">Under Digterens Portrait</title>
+          </bibl>
+          <bibl xml:id="biblid86334">
+            <title xml:id="idm140161405912352">Digterens Gravskrift over sig selv</title>
+          </bibl>
+        </listBibl>
+      </sourceDesc>
     </fileDesc>
   </teiHeader>
   <text xml:id="idm140161405911664">
     <front xml:id="idm140161405911408">
       <pb n="a" xml:id="sa" facs="adl/wessel/wessel1/wess1fm01"/>
       <gap reason="cancelled" xml:id="idm140161405910016"/>
-<!---->
-<!---->
-<!--J. H. WESSEL, SAMLEDE DIGTE-->
       <pb n="b" xml:id="sb" facs="adl/wessel/wessel1/wess1fm02"/>
       <pb n="c" xml:id="sc" facs="adl/wessel/wessel1/wess1fm03"/>
       <pb n="d" xml:id="sd" facs="adl/wessel/wessel1/wess1fm04"/>
@@ -64,7 +372,7 @@
       <pb n="g" xml:id="sg" facs="adl/wessel/wessel1/wess1fm07"/>
       <div type="toc" xml:id="idm140161405894080">
         <head xml:id="idm140161405893536">INDHOLD.</head>
-        <p xml:id="idm140161405893120">De indklamrede Titler ere tilsatte i Udgaven af 1787 til de Fortællinger,som
+        <p xml:id="idm140161405893120">De indklamrede Titler ere tilsatte i Udgaven af 1787 til de Fortællinger, som
 					Digteren ikke havde givet Overskrift.</p>
         <list type="simple" xml:id="idm140161405892432">
           <item xml:id="idm140161405891904"><hi rend="italics" xml:id="idm140161405891776">Kierlighed uden Strømper
@@ -2309,9 +2617,6 @@
                 <l xml:id="idm140161404989296"> Igien til dine Emmer!</l>
                 <l xml:id="idm140161404988880">Der var det jo du slap.</l>
               </sp>
-<!-- VL: billed på s. 33 ???
-<pb n="33" id="s33"  facs="wess1033"/>
--->
               <pb n="34" xml:id="s34" facs="adl/wessel/wessel1/wess1034"/>
               <sp xml:id="idm140161404986768">
                 <speaker xml:id="idm140161404986512">Mads:</speaker>
@@ -2778,10 +3083,8 @@
           </div>
         </body>
       </text>
-<!-- end of K uden Str -->
       <pb n="42" xml:id="s42" facs="adl/wessel/wessel1/wess1042"/>
       <pb n="43" xml:id="s43" facs="adl/wessel/wessel1/wess1043"/>
-<!-- her beg. fortællinger -->
       <text xml:id="idm140161404788576">
         <body xml:id="idm140161404788320">
           <head xml:id="idm140161404788064">FORTÆLLINGER</head>
@@ -4189,7 +4492,7 @@
               <l xml:id="idm140161404193392"> Stik slap ret godt; men stoel ei paa,</l>
               <l xml:id="idm140161404192960"> ©et dig gaaer ligesaa.</l>
             </lg>
-            <note resp="#ed" anchored="true" xml:id="idm140161404192384">*) Om,tusind tusindfold igien, og om den himmelske Giengiæld
+            <note resp="#ed" anchored="true" xml:id="idm140161404192384">*) Om tusind tusindfold igien, og om den himmelske Giengiæld
 							i tusindfold.</note>
             <note resp="#ed" anchored="true" xml:id="idm140161404191312">**) Og skaade sig, skaaede, teede sig.</note>
           </div>
@@ -6160,7 +6463,7 @@
               <l xml:id="idm140161403339984">I Deres Skiønhed har giort Skaar,</l>
               <l xml:id="idm140161403339520"> Man letteligen bliver vaer,</l>
               <l xml:id="idm140161403339088"> De yngre været har.</l>
-              <l xml:id="idm140161403338640">Maaskee Dorin,de De omsider vil behage,</l>
+              <l xml:id="idm140161403338640">Maaskee Dorin, de De omsider vil behage,</l>
               <l xml:id="idm140161403338208"> Naar De en smule Kunst til Hielp vil tage.</l>
               <l xml:id="idm140161403337760"> Miss Fox, det sværger vi Dem til,</l>
               <l xml:id="idm140161403337296"> Skal skildre Dem*) saa ung De vil.</l>
@@ -6616,7 +6919,6 @@
             <note resp="#ed" anchored="true" xml:id="idm140161403142480">*) Per plurima (vota), ved de fleste Stemmer, ved Majoritet.</note>
             <note resp="#ed" anchored="true" xml:id="idm140161403141504"> **) Sobriquetter, Spottenavne, øgenavne.</note>
             <pb n="129" xml:id="s129" facs="adl/wessel/wessel1/wess1129"/>
-<!-- VL: hertil 30.8 -->
             <lg xml:id="idm140161403138912">
               <l xml:id="idm140161403138656">Af Jalousie, fordi de selv ei veed</l>
               <l xml:id="idm140161403138224">At vise en saa frie, saa ædel Munterhed.</l>
@@ -7390,7 +7692,6 @@
       <pb n="149" xml:id="s149" facs="adl/wessel/wessel1/wess1149"/>
       <text xml:id="idm140161402800192">
         <body xml:id="idm140161402799936">
-<!-- her beg. Bl. digte -->
           <head xml:id="idm140161402799328">BLANDEDE DIGTE</head>
           <div xml:id="workid80074" decls="#biblid80074">
             <head xml:id="idm140161402797936">SØVNEN.</head>
@@ -8542,7 +8843,6 @@
         <pb n="172" xml:id="s172" facs="adl/wessel/wessel1/wess1172"/>
         <pb n="173" xml:id="s173" facs="adl/wessel/wessel1/wess1173"/>
       </text>
-<!-- VL: her starter smaavers: uden titler, kun 1. linier -->
       <text xml:id="idm140161402317344">
         <body xml:id="idm140161402317088">
           <head xml:id="idm140161402316832">SMAAVERS</head>
@@ -9304,7 +9604,6 @@
     </group>
     <pb n="190" xml:id="s190" facs="adl/wessel/wessel1/wess1190"/>
     <back xml:id="idm140161401993936">
-<!--<head>ANMÆRKNINGER.</head>-->
       <div xml:id="idm140161401993344">
         <head xml:id="idm140161401993088"> Kierlighed uden Strømper. </head>
         <div xml:id="idm140161401992624">

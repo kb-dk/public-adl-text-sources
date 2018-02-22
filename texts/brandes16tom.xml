@@ -1,10 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!--Tom opmærkning jbh 27.09.01-->
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="idm140435852815440"><!-- 
-       file     ./marc_dir/001823972.xml
-       field     
-       subfield  
-       prefix   -->
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="root">
   <teiHeader xml:id="idm140435852814624">
     <fileDesc xml:id="idm140435852814368">
       <titleStmt xml:id="idm140435852814064">
@@ -19,8 +14,24 @@
         <note xml:id="idm140435852786032">
 	  </note>
       </notesStmt>
-      <sourceDesc xml:id="idm140435852785520"><bibl xml:id="idm140435852785392"><author n="1" xml:id="idm140435852784752"><name xml:id="idm140435852784496"><surname xml:id="idm140435852784368">Brandes</surname>, <forename xml:id="idm140435852783936">Georg</forename></name></author><title xml:id="idm140435852783648">Samlede Skrifter</title><pubPlace xml:id="idm140435852783360">Kbh.</pubPlace>
-<date xml:id="idm140435852782848">1899-1910</date></bibl><listBibl xml:id="idm140435852782560"><bibl xml:id="biblid53729"><title xml:id="idm140435852769408">Frankrig</title></bibl><bibl xml:id="biblid56469"><title xml:id="idm140435852768576">Italien</title></bibl></listBibl></sourceDesc>
+      <sourceDesc xml:id="idm140435852785520">
+        <bibl xml:id="idm140435852785392">
+          <author n="1" xml:id="idm140435852784752">
+            <name xml:id="idm140435852784496"><surname xml:id="idm140435852784368">Brandes</surname>, <forename xml:id="idm140435852783936">Georg</forename></name>
+          </author>
+          <title xml:id="idm140435852783648">Samlede Skrifter</title>
+          <pubPlace xml:id="idm140435852783360">København</pubPlace>
+          <date xml:id="idm140435852782848">1899-1910</date>
+        </bibl>
+        <listBibl xml:id="idm140435852782560">
+          <bibl xml:id="biblid53729">
+            <title xml:id="idm140435852769408">Frankrig</title>
+          </bibl>
+          <bibl xml:id="biblid56469">
+            <title xml:id="idm140435852768576">Italien</title>
+          </bibl>
+        </listBibl>
+      </sourceDesc>
     </fileDesc>
   </teiHeader>
   <text xml:id="idm140435852767936">

@@ -1,9 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="idm139900143365536"><!-- 
-       file     ./marc_dir/001940564.xml
-       field     
-       subfield  
-       prefix   -->
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="root">
   <teiHeader xml:id="idm139900143364880">
     <fileDesc xml:id="idm139900143364624">
       <titleStmt xml:id="idm139900143364320">
@@ -21,8 +17,189 @@
         <note xml:id="idm139900143335248">
 	  </note>
       </notesStmt>
-      <sourceDesc xml:id="idm139900143334736"><bibl xml:id="idm139900143334608"><author n="1" xml:id="idm139900143333920"><name xml:id="idm139900143333664"><surname xml:id="idm139900143333536">Michaëlis</surname>, <forename xml:id="idm139900143333104">Sophus</forename></name></author><title xml:id="idm139900143332848">Romersk Foraar og andre Digte</title><pubPlace xml:id="idm139900143332544">Kbh.</pubPlace>
-<date xml:id="idm139900143332032">1921</date></bibl><listBibl xml:id="idm139900143331744"><bibl xml:id="biblid54096"><title xml:id="idm139900143318592">Romersk Foraar</title></bibl><bibl xml:id="biblid54838"><title xml:id="idm139900143317808">Atlantis</title></bibl><bibl xml:id="biblid55471"><title xml:id="idm139900143317024">Muserne</title></bibl><bibl xml:id="biblid55598"><title xml:id="idm139900143316240">Elven</title></bibl><bibl xml:id="biblid55654"><title xml:id="idm139900143315456">Jasminen</title></bibl><bibl xml:id="biblid55761"><title xml:id="idm139900143314624">Den Døde</title></bibl><bibl xml:id="biblid55989"><title xml:id="idm139900143313840">De trofaste Træer</title></bibl><bibl xml:id="biblid56165"><title xml:id="idm139900143313040">Circe</title></bibl><bibl xml:id="biblid56289"><title xml:id="idm139900143312208">O Moder</title></bibl><bibl xml:id="biblid56402"><title xml:id="idm139900143311424">Flugten til Ægypten</title></bibl><bibl xml:id="biblid56519"><title xml:id="idm139900143310608">Fuglen</title></bibl><bibl xml:id="biblid56638"><title xml:id="idm139900143309776">Sommerdag</title></bibl><bibl xml:id="biblid56787"><title xml:id="idm139900143308992">Paa Strømmen</title></bibl><bibl xml:id="biblid56972"><title xml:id="idm139900143308192">Brønden</title></bibl><bibl xml:id="biblid57122"><title xml:id="idm139900143307360">Sommer-Sonate</title></bibl><bibl xml:id="biblid57471"><title xml:id="idm139900143306528">Gulnare</title></bibl><bibl xml:id="biblid57622"><title xml:id="idm139900143305696">Majnat</title></bibl><bibl xml:id="biblid57705"><title xml:id="idm139900143304864">En Bacchantinde</title></bibl><bibl xml:id="biblid57870"><title xml:id="idm139900143304080">Sommernat</title></bibl><bibl xml:id="biblid58039"><title xml:id="idm139900143303248">Barnedans</title></bibl><bibl xml:id="biblid58207"><title xml:id="idm139900143302416">Det spanske Sjal</title></bibl><bibl xml:id="biblid58352"><title xml:id="idm139900143301584">Bajadere</title></bibl><bibl xml:id="biblid58542"><title xml:id="idm139900143300752">Alpeglød</title></bibl><bibl xml:id="biblid58722"><title xml:id="idm139900143394816">I San Paolos Klostergang</title></bibl><bibl xml:id="biblid58959"><title xml:id="idm139900143394128">Det Aldobrandinske Bryllup</title></bibl><bibl xml:id="biblid59155"><title xml:id="idm139900143393376">San Pietro in Montorio</title></bibl><bibl xml:id="biblid59389"><title xml:id="idm139900143392592">Afrodites Fødsel</title></bibl><bibl xml:id="biblid59581"><title xml:id="idm139900143391776">Livets Port</title></bibl><bibl xml:id="biblid59916"><title xml:id="idm139900143390992">O stumme Venner - </title></bibl><bibl xml:id="biblid60096"><title xml:id="idm139900143274688">Credo</title></bibl><bibl xml:id="biblid60247"><title xml:id="idm139900143273840">Tak</title></bibl><bibl xml:id="biblid60398"><title xml:id="idm139900143273088">Ødipus paa Højen</title></bibl><bibl xml:id="biblid60671"><title xml:id="idm139900143272240">Til Naturen</title></bibl><bibl xml:id="biblid60984"><title xml:id="idm139900143271456">Rodin</title></bibl><bibl xml:id="biblid61260"><title xml:id="idm139900143270672">Edvard Rudolf Neovius</title></bibl><bibl xml:id="biblid61478"><title xml:id="idm139900143269888">Jakob Knudsen</title></bibl><bibl xml:id="biblid61600"><title xml:id="idm139900143269040">København</title></bibl><bibl xml:id="biblid61872"><title xml:id="idm139900143268192">Christiansborg</title></bibl><bibl xml:id="biblid62085"><title xml:id="idm139900143267408">Rosenborg</title></bibl><bibl xml:id="biblid62315"><title xml:id="idm139900143266624">Amalienborg</title></bibl><bibl xml:id="biblid62492"><title xml:id="idm139900143265840">Kronborg</title></bibl><bibl xml:id="biblid62625"><title xml:id="idm139900143265056">Odense</title></bibl><bibl xml:id="biblid63513"><title xml:id="idm139900143264272">Gravkapellet</title></bibl><bibl xml:id="biblid63652"><title xml:id="idm139900143263488">Høstmanden mejer</title></bibl><bibl xml:id="biblid63729"><title xml:id="idm139900143262736">Se Skytset</title></bibl><bibl xml:id="biblid63799"><title xml:id="idm139900143261952">Nu messes der i splintret Kor</title></bibl><bibl xml:id="biblid63871"><title xml:id="idm139900143261200">Et Fædreland som Kirkegaard </title></bibl><bibl xml:id="biblid63942"><title xml:id="idm139900143260368">Julenat</title></bibl><bibl xml:id="biblid63990"><title xml:id="idm139900143259584">Midsommer 1915</title></bibl><bibl xml:id="biblid64319"><title xml:id="idm139900143258800">Pax æterna</title></bibl><bibl xml:id="biblid64670"><title xml:id="idm139900143258016">Trøsten</title></bibl><bibl xml:id="biblid64757"><title xml:id="idm139900143257232">Gralen</title></bibl><bibl xml:id="biblid64931"><title xml:id="idm139900143256384">Himmelskibet</title></bibl><bibl xml:id="biblid65274"><title xml:id="idm139900143255600">Ygdrasil</title></bibl><bibl xml:id="biblid65528"><title xml:id="idm139900143254816">Danmarks Hjerte</title></bibl><bibl xml:id="biblid65699"><title xml:id="idm139900143254032">Stævne</title></bibl><bibl xml:id="biblid65819"><title xml:id="idm139900143253248">Romersk Foraar (digtet)</title></bibl></listBibl></sourceDesc>
+      <sourceDesc xml:id="idm139900143334736">
+        <bibl xml:id="idm139900143334608">
+          <author n="1" xml:id="idm139900143333920">
+            <name xml:id="idm139900143333664"><surname xml:id="idm139900143333536">Michaëlis</surname>, <forename xml:id="idm139900143333104">Sophus</forename></name>
+          </author>
+          <title xml:id="idm139900143332848">Romersk Foraar og andre Digte</title>
+          <pubPlace xml:id="idm139900143332544">København</pubPlace>
+          <date xml:id="idm139900143332032">1921</date>
+        </bibl>
+        <listBibl xml:id="idm139900143331744">
+          <bibl xml:id="biblid54096">
+            <title xml:id="idm139900143318592">Romersk Foraar</title>
+          </bibl>
+          <bibl xml:id="biblid54838">
+            <title xml:id="idm139900143317808">Atlantis</title>
+          </bibl>
+          <bibl xml:id="biblid55471">
+            <title xml:id="idm139900143317024">Muserne</title>
+          </bibl>
+          <bibl xml:id="biblid55598">
+            <title xml:id="idm139900143316240">Elven</title>
+          </bibl>
+          <bibl xml:id="biblid55654">
+            <title xml:id="idm139900143315456">Jasminen</title>
+          </bibl>
+          <bibl xml:id="biblid55761">
+            <title xml:id="idm139900143314624">Den Døde</title>
+          </bibl>
+          <bibl xml:id="biblid55989">
+            <title xml:id="idm139900143313840">De trofaste Træer</title>
+          </bibl>
+          <bibl xml:id="biblid56165">
+            <title xml:id="idm139900143313040">Circe</title>
+          </bibl>
+          <bibl xml:id="biblid56289">
+            <title xml:id="idm139900143312208">O Moder</title>
+          </bibl>
+          <bibl xml:id="biblid56402">
+            <title xml:id="idm139900143311424">Flugten til Ægypten</title>
+          </bibl>
+          <bibl xml:id="biblid56519">
+            <title xml:id="idm139900143310608">Fuglen</title>
+          </bibl>
+          <bibl xml:id="biblid56638">
+            <title xml:id="idm139900143309776">Sommerdag</title>
+          </bibl>
+          <bibl xml:id="biblid56787">
+            <title xml:id="idm139900143308992">Paa Strømmen</title>
+          </bibl>
+          <bibl xml:id="biblid56972">
+            <title xml:id="idm139900143308192">Brønden</title>
+          </bibl>
+          <bibl xml:id="biblid57122">
+            <title xml:id="idm139900143307360">Sommer-Sonate</title>
+          </bibl>
+          <bibl xml:id="biblid57471">
+            <title xml:id="idm139900143306528">Gulnare</title>
+          </bibl>
+          <bibl xml:id="biblid57622">
+            <title xml:id="idm139900143305696">Majnat</title>
+          </bibl>
+          <bibl xml:id="biblid57705">
+            <title xml:id="idm139900143304864">En Bacchantinde</title>
+          </bibl>
+          <bibl xml:id="biblid57870">
+            <title xml:id="idm139900143304080">Sommernat</title>
+          </bibl>
+          <bibl xml:id="biblid58039">
+            <title xml:id="idm139900143303248">Barnedans</title>
+          </bibl>
+          <bibl xml:id="biblid58207">
+            <title xml:id="idm139900143302416">Det spanske Sjal</title>
+          </bibl>
+          <bibl xml:id="biblid58352">
+            <title xml:id="idm139900143301584">Bajadere</title>
+          </bibl>
+          <bibl xml:id="biblid58542">
+            <title xml:id="idm139900143300752">Alpeglød</title>
+          </bibl>
+          <bibl xml:id="biblid58722">
+            <title xml:id="idm139900143394816">I San Paolos Klostergang</title>
+          </bibl>
+          <bibl xml:id="biblid58959">
+            <title xml:id="idm139900143394128">Det Aldobrandinske Bryllup</title>
+          </bibl>
+          <bibl xml:id="biblid59155">
+            <title xml:id="idm139900143393376">San Pietro in Montorio</title>
+          </bibl>
+          <bibl xml:id="biblid59389">
+            <title xml:id="idm139900143392592">Afrodites Fødsel</title>
+          </bibl>
+          <bibl xml:id="biblid59581">
+            <title xml:id="idm139900143391776">Livets Port</title>
+          </bibl>
+          <bibl xml:id="biblid59916">
+            <title xml:id="idm139900143390992">O stumme Venner - </title>
+          </bibl>
+          <bibl xml:id="biblid60096">
+            <title xml:id="idm139900143274688">Credo</title>
+          </bibl>
+          <bibl xml:id="biblid60247">
+            <title xml:id="idm139900143273840">Tak</title>
+          </bibl>
+          <bibl xml:id="biblid60398">
+            <title xml:id="idm139900143273088">Ødipus paa Højen</title>
+          </bibl>
+          <bibl xml:id="biblid60671">
+            <title xml:id="idm139900143272240">Til Naturen</title>
+          </bibl>
+          <bibl xml:id="biblid60984">
+            <title xml:id="idm139900143271456">Rodin</title>
+          </bibl>
+          <bibl xml:id="biblid61260">
+            <title xml:id="idm139900143270672">Edvard Rudolf Neovius</title>
+          </bibl>
+          <bibl xml:id="biblid61478">
+            <title xml:id="idm139900143269888">Jakob Knudsen</title>
+          </bibl>
+          <bibl xml:id="biblid61600">
+            <title xml:id="idm139900143269040">København</title>
+          </bibl>
+          <bibl xml:id="biblid61872">
+            <title xml:id="idm139900143268192">Christiansborg</title>
+          </bibl>
+          <bibl xml:id="biblid62085">
+            <title xml:id="idm139900143267408">Rosenborg</title>
+          </bibl>
+          <bibl xml:id="biblid62315">
+            <title xml:id="idm139900143266624">Amalienborg</title>
+          </bibl>
+          <bibl xml:id="biblid62492">
+            <title xml:id="idm139900143265840">Kronborg</title>
+          </bibl>
+          <bibl xml:id="biblid62625">
+            <title xml:id="idm139900143265056">Odense</title>
+          </bibl>
+          <bibl xml:id="biblid63513">
+            <title xml:id="idm139900143264272">Gravkapellet</title>
+          </bibl>
+          <bibl xml:id="biblid63652">
+            <title xml:id="idm139900143263488">Høstmanden mejer</title>
+          </bibl>
+          <bibl xml:id="biblid63729">
+            <title xml:id="idm139900143262736">Se Skytset</title>
+          </bibl>
+          <bibl xml:id="biblid63799">
+            <title xml:id="idm139900143261952">Nu messes der i splintret Kor</title>
+          </bibl>
+          <bibl xml:id="biblid63871">
+            <title xml:id="idm139900143261200">Et Fædreland som Kirkegaard </title>
+          </bibl>
+          <bibl xml:id="biblid63942">
+            <title xml:id="idm139900143260368">Julenat</title>
+          </bibl>
+          <bibl xml:id="biblid63990">
+            <title xml:id="idm139900143259584">Midsommer 1915</title>
+          </bibl>
+          <bibl xml:id="biblid64319">
+            <title xml:id="idm139900143258800">Pax æterna</title>
+          </bibl>
+          <bibl xml:id="biblid64670">
+            <title xml:id="idm139900143258016">Trøsten</title>
+          </bibl>
+          <bibl xml:id="biblid64757">
+            <title xml:id="idm139900143257232">Gralen</title>
+          </bibl>
+          <bibl xml:id="biblid64931">
+            <title xml:id="idm139900143256384">Himmelskibet</title>
+          </bibl>
+          <bibl xml:id="biblid65274">
+            <title xml:id="idm139900143255600">Ygdrasil</title>
+          </bibl>
+          <bibl xml:id="biblid65528">
+            <title xml:id="idm139900143254816">Danmarks Hjerte</title>
+          </bibl>
+          <bibl xml:id="biblid65699">
+            <title xml:id="idm139900143254032">Stævne</title>
+          </bibl>
+          <bibl xml:id="biblid65819">
+            <title xml:id="idm139900143253248">Romersk Foraar (digtet)</title>
+          </bibl>
+        </listBibl>
+      </sourceDesc>
     </fileDesc>
   </teiHeader>
   <text xml:id="workid54096" decls="#biblid54096">
@@ -407,7 +584,7 @@ Værk. Ved Sophus Michaëlis og Alfred Bramsen.
           <l xml:id="idm139900143089152">Se, den kogler frem af Bogens Sider</l>
           <l xml:id="idm139900143088720">Fosforblinket, der imod mig glider.</l>
         </lg>
-        <lg>
+        <lg xml:id="id7de23a98-5a5b-47ad-a790-c4c527cc1582">
           <l xml:id="idm139900143088288">Er da blomstret af de blaa Terziner</l>
           <l xml:id="idm139900143087856">denne Kvist af duftende Jasminer?</l>
         </lg>
@@ -1206,7 +1383,7 @@ Værk. Ved Sophus Michaëlis og Alfred Bramsen.
           <l xml:id="idm139900142772112">i gyldne Sole farvet</l>
           <l xml:id="idm139900142771696">— Vanilleduften arvet</l>
           <l xml:id="idm139900142771280">fra skønne Spanierinder</l>
-          <l>om smalle hvide Skuldre</l>
+          <l xml:id="ide6785c95-89c9-4ac5-9516-b2a920431211">om smalle hvide Skuldre</l>
           <l xml:id="idm139900142770784">i Purpurrytmer rinder.</l>
         </lg>
         <lg xml:id="idm139900142770240">
@@ -1725,7 +1902,7 @@ Værk. Ved Sophus Michaëlis og Alfred Bramsen.
           <l xml:id="idm139900142558880">Du Bøgers Bog, jeg henter ned fra Hylden,</l>
           <l xml:id="idm139900142558400">en Verden aabner — duftende og gylden.</l>
         </lg>
-        <lg>
+        <lg xml:id="id4f44ba0a-ef82-4e3a-86f3-d042c84bd56c">
           <l xml:id="idm139900142557920">Af Pergament et gammelt gulnet Bind</l>
           <l xml:id="idm139900142557488">de hundred Gange læsket har mit Sind.</l>
         </lg>
@@ -1746,7 +1923,7 @@ Værk. Ved Sophus Michaëlis og Alfred Bramsen.
           <l xml:id="idm139900142551488">I Blomster bryder ved den hellige Flod</l>
           <l xml:id="idm139900142551056">Açoka-Træet for en Piges Fod.</l>
         </lg>
-        <lg>
+        <lg xml:id="id9a626039-d3a6-45e2-8f0f-98462716af48">
           <l xml:id="idm139900142550592">Højt skyder af en Dynge hvidt Papir</l>
           <l xml:id="idm139900142550112">en Tryllepalme, vakt af en Fakir.</l>
         </lg>
@@ -1758,7 +1935,7 @@ Værk. Ved Sophus Michaëlis og Alfred Bramsen.
           <l xml:id="idm139900142547984">Et Hjerte skælver genfødt i min Haand,</l>
           <l xml:id="idm139900142547504">og Gnister tændes mellem Aand og Aand.</l>
         </lg>
-        <lg>
+        <lg xml:id="id1fecacda-f376-42cd-865d-d8df876ca344">
           <l xml:id="idm139900142547024">Velsignet, Venner, eders evige Sprog! ...</l>
           <l xml:id="idm139900142546576">Er selv engang jeg kun et Navn, en Bog,</l>
         </lg>
@@ -1770,7 +1947,7 @@ Værk. Ved Sophus Michaëlis og Alfred Bramsen.
           <l xml:id="idm139900142544416">Gid Tonebruset fra mit stille Indre</l>
           <l xml:id="idm139900142543984">maa som et Glimt i hendes Øje tindre,</l>
         </lg>
-        <lg>
+        <lg xml:id="id230b6731-7057-4c8a-b687-c2e88ee81fb7">
           <l xml:id="idm139900142543504">og hendes Haand mit Hjerte — salig Tanke! -</l>
           <l xml:id="idm139900142542480">maa føle mellem sine Fingre banke!</l>
         </lg>
@@ -1862,9 +2039,9 @@ Værk. Ved Sophus Michaëlis og Alfred Bramsen.
           <l xml:id="idm139900142507584">O Venner, som et Festblus for mig tænder,</l>
           <l xml:id="idm139900142507104">o Mester, Tak! Her ved min Glædes Bord</l>
           <l xml:id="idm139900142506624">til hver en Gæst Tak for hvert Blik og Ord —</l>
-          <l>— jeg er det bløde Ler i eders Hænder.</l>
+          <l xml:id="id00f947c0-f9fe-49ae-8762-91d7f3b35c07">— jeg er det bløde Ler i eders Hænder.</l>
         </lg>
-        <lg>
+        <lg xml:id="id7bc6a514-1baf-4e25-8b71-9df1531eb825">
           <l xml:id="idm139900142506064">Blandt Farvespektrets Linjer op I trak</l>
           <l xml:id="idm139900142505632">Livsglædens festligrøde Flammestribe</l>
           <l xml:id="idm139900142505152">— o lad mig alle eders Hænder gribe,</l>
@@ -2855,7 +3032,7 @@ Værk. Ved Sophus Michaëlis og Alfred Bramsen.
           <l xml:id="idm139900142100576">O denne Stank af Krudt og Lig</l>
           <l xml:id="idm139900142100144">fra Jordens skjulte Huler, hvor</l>
           <l xml:id="idm139900142099712">Spidskuglen lurer med sit Mord</l>
-          <l xml:id="idm139900142099280">— ja, <hi rend="italics">Snigmord</hi> blev <hi rend="italics" xml:id="idm139900142098992">den aabne Krig!</hi></l>
+          <l xml:id="idm139900142099280">— ja, <hi xml:id="idd0d59c56-ef50-470f-8200-c786ac911c4a" rend="italics">Snigmord</hi> blev <hi rend="italics" xml:id="idm139900142098992">den aabne Krig!</hi></l>
         </lg>
       </div>
       <pb n="122" xml:id="s122" facs="adl/michs/michs_11/michs_11_122"/>
@@ -3684,7 +3861,7 @@ Værk. Ved Sophus Michaëlis og Alfred Bramsen.
             <l xml:id="idm139900141766144">Her Livias Hus over Jorden staar</l>
             <l xml:id="idm139900141765328">— endnu hendes Ekko paa Fliserne gaar.</l>
           </lg>
-          <lg>
+          <lg xml:id="id2e8f534e-8e58-4f02-a3bf-0e5dc0a87ebf">
             <l xml:id="idm139900141764880">I disse Blyrør blev Varme ledt,</l>
             <l xml:id="idm139900141764416">de Vægmalerier har selv hun set.</l>
           </lg>

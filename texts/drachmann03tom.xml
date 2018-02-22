@@ -1,10 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!--Tom opmærkning blo 09.05.02-->
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="idm140262630292544"><!-- 
-       file     ./marc_dir/001823907.xml
-       field     
-       subfield  
-       prefix   -->
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="root">
   <teiHeader xml:id="idm140262630291712">
     <fileDesc xml:id="idm140262630291456">
       <titleStmt xml:id="idm140262630291152">
@@ -19,8 +14,261 @@
         <note xml:id="idm140262630263168">
 	  </note>
       </notesStmt>
-      <sourceDesc xml:id="idm140262630262656"><bibl xml:id="idm140262630262528"><author n="1" xml:id="idm140262630261840"><name xml:id="idm140262630261584"><surname xml:id="idm140262630261456">Drachmann</surname>, <forename xml:id="idm140262630260992">Holger</forename></name></author><title xml:id="idm140262630260704">Samlede poetiske Skrifter</title><pubPlace xml:id="idm140262630260400">Kbh. &amp; Kristiania</pubPlace>
-<date xml:id="idm140262630259776">1906-1909</date></bibl><listBibl xml:id="idm140262630259520"><bibl xml:id="biblid54134"><title xml:id="idm140262630246368">Derovre fra Grænsen</title></bibl><bibl xml:id="biblid54155"><title xml:id="idm140262630245552">Om Bord paa Herta</title></bibl><bibl xml:id="biblid54390"><title xml:id="idm140262630244720">Efter Solnedgang</title></bibl><bibl xml:id="biblid54478"><title xml:id="idm140262630243936">Min Skorstensfejer</title></bibl><bibl xml:id="biblid54554"><title xml:id="idm140262630243152">I Stilling</title></bibl><bibl xml:id="biblid54604"><title xml:id="idm140262630242368">Gilder og Grave</title></bibl><bibl xml:id="biblid54715"><title xml:id="idm140262630241584">Sange ved Havet</title></bibl><bibl xml:id="biblid54734"><title xml:id="idm140262630240752">Før Solopgang</title></bibl><bibl xml:id="biblid54740"><title xml:id="idm140262630239904">Frisk Morgen</title></bibl><bibl xml:id="biblid54758"><title xml:id="idm140262630239120">I Ro</title></bibl><bibl xml:id="biblid54770"><title xml:id="idm140262630238288">Bølgernes Sang</title></bibl><bibl xml:id="biblid54781"><title xml:id="idm140262630237488">Efterdønning</title></bibl><bibl xml:id="biblid54787"><title xml:id="idm140262630236688">I Havn</title></bibl><bibl xml:id="biblid54798"><title xml:id="idm140262630235904">Rav</title></bibl><bibl xml:id="biblid54810"><title xml:id="idm140262630235104">Forgrunds Studie</title></bibl><bibl xml:id="biblid54816"><title xml:id="idm140262630234320">Makrel</title></bibl><bibl xml:id="biblid54827"><title xml:id="idm140262630233536">Kan du forklarr mig, Hav</title></bibl><bibl xml:id="biblid54839"><title xml:id="idm140262630232688">Bøn</title></bibl><bibl xml:id="biblid54844"><title xml:id="idm140262630231856">Jeg drømte</title></bibl><bibl xml:id="biblid54862"><title xml:id="idm140262630231024">Stormfuld Aften</title></bibl><bibl xml:id="biblid54874"><title xml:id="idm140262630230192">Saa lagde jeg ud</title></bibl><bibl xml:id="biblid54886"><title xml:id="idm140262630229296">Fjerne Toner</title></bibl><bibl xml:id="biblid54891"><title xml:id="idm140262630228512">Spejlinger</title></bibl><bibl xml:id="biblid54903"><title xml:id="idm140262630227680">Sang i Baaden</title></bibl><bibl xml:id="biblid54908"><title xml:id="idm140262630226848">Hvi skal det være saa spejlglat alt?</title></bibl><bibl xml:id="biblid54920"><title xml:id="idm140262630225952">Sildig</title></bibl><bibl xml:id="biblid54932"><title xml:id="idm140262630225120">Solnedgang</title></bibl><bibl xml:id="biblid54944"><title xml:id="idm140262630224224">En Skypumpe</title></bibl><bibl xml:id="biblid54962"><title xml:id="idm140262630223328">Den sidste Parade</title></bibl><bibl xml:id="biblid54980"><title xml:id="idm140262630222496">Alene aa Dækket</title></bibl><bibl xml:id="biblid54998"><title xml:id="idm140262630221696">Ligprædiken</title></bibl><bibl xml:id="biblid55021"><title xml:id="idm140262630220896">Gallion</title></bibl><bibl xml:id="biblid55033"><title xml:id="idm140262630220112">Og da jeg sejled Dit Hus forbi</title></bibl><bibl xml:id="biblid55038"><title xml:id="idm140262630219264">Viking</title></bibl><bibl xml:id="biblid55050"><title xml:id="idm140262630218480">Paa Havstokken</title></bibl><bibl xml:id="biblid55061"><title xml:id="idm140262630217648">Fugleperspektiv</title></bibl><bibl xml:id="biblid55076"><title xml:id="idm140262630216752">Italia</title></bibl><bibl xml:id="biblid55081"><title xml:id="idm140262630215920">Foraar i de euganeiske Bjerge</title></bibl><bibl xml:id="biblid55112"><title xml:id="idm140262630215120">Notturno</title></bibl><bibl xml:id="biblid55124"><title xml:id="idm140262630214288">De grove en Venusstøtte op</title></bibl><bibl xml:id="biblid55130"><title xml:id="idm140262630213424">I Jægerhytten</title></bibl><bibl xml:id="biblid55145"><title xml:id="idm140262630212576">Venezia [Fortællinger]</title></bibl><bibl xml:id="biblid55158"><title xml:id="idm140262630211712">Venezia</title></bibl><bibl xml:id="biblid55170"><title xml:id="idm140262630210880">Jeg hører i ensomme Stunder</title></bibl><bibl xml:id="biblid55181"><title xml:id="idm140262630210000">Laguna morta</title></bibl><bibl xml:id="biblid55187"><title xml:id="idm140262630322176">Karnevalet</title></bibl><bibl xml:id="biblid55198"><title xml:id="idm140262630321456">En Maske</title></bibl><bibl xml:id="biblid55211"><title xml:id="idm140262630320672">Adelina drømmer</title></bibl><bibl xml:id="biblid55216"><title xml:id="idm140262630319920">Maanereflekser</title></bibl><bibl xml:id="biblid55228"><title xml:id="idm140262630319136">St. Élena</title></bibl><bibl xml:id="biblid55239"><title xml:id="idm140262630318352">I Gondolen</title></bibl><bibl xml:id="biblid55251"><title xml:id="idm140262630183984">Lagunedrømme</title></bibl><bibl xml:id="biblid55263"><title xml:id="idm140262630183232">Solnedgang</title></bibl><bibl xml:id="biblid55275"><title xml:id="idm140262630182448">Ved Sukkenes Bro</title></bibl><bibl xml:id="biblid55287"><title xml:id="idm140262630181664">Jeg hører i natten den vuggende</title></bibl><bibl xml:id="biblid55298"><title xml:id="idm140262630180832">Vino Conegliano</title></bibl><bibl xml:id="biblid55310"><title xml:id="idm140262630180048">Adria</title></bibl><bibl xml:id="biblid55325"><title xml:id="idm140262630179264">Broget Løv</title></bibl><bibl xml:id="biblid55337"><title xml:id="idm140262630178480">I Havestuen</title></bibl><bibl xml:id="biblid55349"><title xml:id="idm140262630173632">Afsked i Høst</title></bibl><bibl xml:id="biblid55361"><title xml:id="idm140262630173008">Den sidste Svale</title></bibl><bibl xml:id="biblid55379"><title xml:id="idm140262630172256">Ved Skarritsøen</title></bibl><bibl xml:id="biblid55413"><title xml:id="idm140262630171568">Paa Sømand Tro og Love</title></bibl><bibl xml:id="biblid55444"><title xml:id="idm140262630170816">Af Bjørneslægtens Familiehistorie</title></bibl><bibl xml:id="biblid55446"><title xml:id="idm140262630170048">Det store Pinteslag</title></bibl><bibl xml:id="biblid55601"><title xml:id="idm140262630169360">Bjørn Sivertsens Brudefærd</title></bibl><bibl xml:id="biblid55691"><title xml:id="idm140262630168592">Hvor bliver Jollen af?</title></bibl><bibl xml:id="biblid55728"><title xml:id="idm140262630167808">Cyprianus</title></bibl><bibl xml:id="biblid55792"><title xml:id="idm140262630166960">Skarp Lud</title></bibl><bibl xml:id="biblid55868"><title xml:id="idm140262630166176">Hun kuler op</title></bibl><bibl xml:id="biblid55919"><title xml:id="idm140262630165392">Den store Bjørns Endeligt</title></bibl><bibl xml:id="biblid55953"><title xml:id="idm140262630164512">Sølvskibet</title></bibl><bibl xml:id="biblid56181"><title xml:id="idm140262630163728">En Nutids Saga</title></bibl><bibl xml:id="biblid56258"><title xml:id="idm140262630162944">Simon Sundeveds Englandsrejse</title></bibl><bibl xml:id="biblid56388"><title xml:id="idm140262630162128">Toget mod Anholt</title></bibl><bibl xml:id="biblid56471"><title xml:id="idm140262630161344">En Strandvaskers Historie</title></bibl><bibl xml:id="biblid56538"><title xml:id="idm140262630160592">Kunstnere. Noveller</title></bibl><bibl xml:id="biblid56555"><title xml:id="idm140262630159808">Foraarsgrønt</title></bibl><bibl xml:id="biblid56974"><title xml:id="idm140262630159056">Fjorten Dage</title></bibl><bibl xml:id="biblid57176"><title xml:id="idm140262630158272">En uromantisk Novelle</title></bibl><bibl xml:id="biblid57452"><title xml:id="idm140262630157488">Prinsessen og det halve Kongerige</title></bibl></listBibl></sourceDesc>
+      <sourceDesc xml:id="idm140262630262656">
+        <bibl xml:id="idm140262630262528">
+          <author n="1" xml:id="idm140262630261840">
+            <name xml:id="idm140262630261584"><surname xml:id="idm140262630261456">Drachmann</surname>, <forename xml:id="idm140262630260992">Holger</forename></name>
+          </author>
+          <title xml:id="idm140262630260704">Samlede poetiske Skrifter</title>
+          <pubPlace xml:id="idm140262630260400">Kbh. &amp; Kristiania</pubPlace>
+          <date xml:id="idm140262630259776">1906-1909</date>
+        </bibl>
+        <listBibl xml:id="idm140262630259520">
+          <bibl xml:id="biblid54134">
+            <title xml:id="idm140262630246368">Derovre fra Grænsen</title>
+          </bibl>
+          <bibl xml:id="biblid54155">
+            <title xml:id="idm140262630245552">Om Bord paa Herta</title>
+          </bibl>
+          <bibl xml:id="biblid54390">
+            <title xml:id="idm140262630244720">Efter Solnedgang</title>
+          </bibl>
+          <bibl xml:id="biblid54478">
+            <title xml:id="idm140262630243936">Min Skorstensfejer</title>
+          </bibl>
+          <bibl xml:id="biblid54554">
+            <title xml:id="idm140262630243152">I Stilling</title>
+          </bibl>
+          <bibl xml:id="biblid54604">
+            <title xml:id="idm140262630242368">Gilder og Grave</title>
+          </bibl>
+          <bibl xml:id="biblid54715">
+            <title xml:id="idm140262630241584">Sange ved Havet</title>
+          </bibl>
+          <bibl xml:id="biblid54734">
+            <title xml:id="idm140262630240752">Før Solopgang</title>
+          </bibl>
+          <bibl xml:id="biblid54740">
+            <title xml:id="idm140262630239904">Frisk Morgen</title>
+          </bibl>
+          <bibl xml:id="biblid54758">
+            <title xml:id="idm140262630239120">I Ro</title>
+          </bibl>
+          <bibl xml:id="biblid54770">
+            <title xml:id="idm140262630238288">Bølgernes Sang</title>
+          </bibl>
+          <bibl xml:id="biblid54781">
+            <title xml:id="idm140262630237488">Efterdønning</title>
+          </bibl>
+          <bibl xml:id="biblid54787">
+            <title xml:id="idm140262630236688">I Havn</title>
+          </bibl>
+          <bibl xml:id="biblid54798">
+            <title xml:id="idm140262630235904">Rav</title>
+          </bibl>
+          <bibl xml:id="biblid54810">
+            <title xml:id="idm140262630235104">Forgrunds Studie</title>
+          </bibl>
+          <bibl xml:id="biblid54816">
+            <title xml:id="idm140262630234320">Makrel</title>
+          </bibl>
+          <bibl xml:id="biblid54827">
+            <title xml:id="idm140262630233536">Kan du forklarr mig, Hav</title>
+          </bibl>
+          <bibl xml:id="biblid54839">
+            <title xml:id="idm140262630232688">Bøn</title>
+          </bibl>
+          <bibl xml:id="biblid54844">
+            <title xml:id="idm140262630231856">Jeg drømte</title>
+          </bibl>
+          <bibl xml:id="biblid54862">
+            <title xml:id="idm140262630231024">Stormfuld Aften</title>
+          </bibl>
+          <bibl xml:id="biblid54874">
+            <title xml:id="idm140262630230192">Saa lagde jeg ud</title>
+          </bibl>
+          <bibl xml:id="biblid54886">
+            <title xml:id="idm140262630229296">Fjerne Toner</title>
+          </bibl>
+          <bibl xml:id="biblid54891">
+            <title xml:id="idm140262630228512">Spejlinger</title>
+          </bibl>
+          <bibl xml:id="biblid54903">
+            <title xml:id="idm140262630227680">Sang i Baaden</title>
+          </bibl>
+          <bibl xml:id="biblid54908">
+            <title xml:id="idm140262630226848">Hvi skal det være saa spejlglat alt?</title>
+          </bibl>
+          <bibl xml:id="biblid54920">
+            <title xml:id="idm140262630225952">Sildig</title>
+          </bibl>
+          <bibl xml:id="biblid54932">
+            <title xml:id="idm140262630225120">Solnedgang</title>
+          </bibl>
+          <bibl xml:id="biblid54944">
+            <title xml:id="idm140262630224224">En Skypumpe</title>
+          </bibl>
+          <bibl xml:id="biblid54962">
+            <title xml:id="idm140262630223328">Den sidste Parade</title>
+          </bibl>
+          <bibl xml:id="biblid54980">
+            <title xml:id="idm140262630222496">Alene aa Dækket</title>
+          </bibl>
+          <bibl xml:id="biblid54998">
+            <title xml:id="idm140262630221696">Ligprædiken</title>
+          </bibl>
+          <bibl xml:id="biblid55021">
+            <title xml:id="idm140262630220896">Gallion</title>
+          </bibl>
+          <bibl xml:id="biblid55033">
+            <title xml:id="idm140262630220112">Og da jeg sejled Dit Hus forbi</title>
+          </bibl>
+          <bibl xml:id="biblid55038">
+            <title xml:id="idm140262630219264">Viking</title>
+          </bibl>
+          <bibl xml:id="biblid55050">
+            <title xml:id="idm140262630218480">Paa Havstokken</title>
+          </bibl>
+          <bibl xml:id="biblid55061">
+            <title xml:id="idm140262630217648">Fugleperspektiv</title>
+          </bibl>
+          <bibl xml:id="biblid55076">
+            <title xml:id="idm140262630216752">Italia</title>
+          </bibl>
+          <bibl xml:id="biblid55081">
+            <title xml:id="idm140262630215920">Foraar i de euganeiske Bjerge</title>
+          </bibl>
+          <bibl xml:id="biblid55112">
+            <title xml:id="idm140262630215120">Notturno</title>
+          </bibl>
+          <bibl xml:id="biblid55124">
+            <title xml:id="idm140262630214288">De grove en Venusstøtte op</title>
+          </bibl>
+          <bibl xml:id="biblid55130">
+            <title xml:id="idm140262630213424">I Jægerhytten</title>
+          </bibl>
+          <bibl xml:id="biblid55145">
+            <title xml:id="idm140262630212576">Venezia [Fortællinger]</title>
+          </bibl>
+          <bibl xml:id="biblid55158">
+            <title xml:id="idm140262630211712">Venezia</title>
+          </bibl>
+          <bibl xml:id="biblid55170">
+            <title xml:id="idm140262630210880">Jeg hører i ensomme Stunder</title>
+          </bibl>
+          <bibl xml:id="biblid55181">
+            <title xml:id="idm140262630210000">Laguna morta</title>
+          </bibl>
+          <bibl xml:id="biblid55187">
+            <title xml:id="idm140262630322176">Karnevalet</title>
+          </bibl>
+          <bibl xml:id="biblid55198">
+            <title xml:id="idm140262630321456">En Maske</title>
+          </bibl>
+          <bibl xml:id="biblid55211">
+            <title xml:id="idm140262630320672">Adelina drømmer</title>
+          </bibl>
+          <bibl xml:id="biblid55216">
+            <title xml:id="idm140262630319920">Maanereflekser</title>
+          </bibl>
+          <bibl xml:id="biblid55228">
+            <title xml:id="idm140262630319136">St. Élena</title>
+          </bibl>
+          <bibl xml:id="biblid55239">
+            <title xml:id="idm140262630318352">I Gondolen</title>
+          </bibl>
+          <bibl xml:id="biblid55251">
+            <title xml:id="idm140262630183984">Lagunedrømme</title>
+          </bibl>
+          <bibl xml:id="biblid55263">
+            <title xml:id="idm140262630183232">Solnedgang</title>
+          </bibl>
+          <bibl xml:id="biblid55275">
+            <title xml:id="idm140262630182448">Ved Sukkenes Bro</title>
+          </bibl>
+          <bibl xml:id="biblid55287">
+            <title xml:id="idm140262630181664">Jeg hører i natten den vuggende</title>
+          </bibl>
+          <bibl xml:id="biblid55298">
+            <title xml:id="idm140262630180832">Vino Conegliano</title>
+          </bibl>
+          <bibl xml:id="biblid55310">
+            <title xml:id="idm140262630180048">Adria</title>
+          </bibl>
+          <bibl xml:id="biblid55325">
+            <title xml:id="idm140262630179264">Broget Løv</title>
+          </bibl>
+          <bibl xml:id="biblid55337">
+            <title xml:id="idm140262630178480">I Havestuen</title>
+          </bibl>
+          <bibl xml:id="biblid55349">
+            <title xml:id="idm140262630173632">Afsked i Høst</title>
+          </bibl>
+          <bibl xml:id="biblid55361">
+            <title xml:id="idm140262630173008">Den sidste Svale</title>
+          </bibl>
+          <bibl xml:id="biblid55379">
+            <title xml:id="idm140262630172256">Ved Skarritsøen</title>
+          </bibl>
+          <bibl xml:id="biblid55413">
+            <title xml:id="idm140262630171568">Paa Sømand Tro og Love</title>
+          </bibl>
+          <bibl xml:id="biblid55444">
+            <title xml:id="idm140262630170816">Af Bjørneslægtens Familiehistorie</title>
+          </bibl>
+          <bibl xml:id="biblid55446">
+            <title xml:id="idm140262630170048">Det store Pinteslag</title>
+          </bibl>
+          <bibl xml:id="biblid55601">
+            <title xml:id="idm140262630169360">Bjørn Sivertsens Brudefærd</title>
+          </bibl>
+          <bibl xml:id="biblid55691">
+            <title xml:id="idm140262630168592">Hvor bliver Jollen af?</title>
+          </bibl>
+          <bibl xml:id="biblid55728">
+            <title xml:id="idm140262630167808">Cyprianus</title>
+          </bibl>
+          <bibl xml:id="biblid55792">
+            <title xml:id="idm140262630166960">Skarp Lud</title>
+          </bibl>
+          <bibl xml:id="biblid55868">
+            <title xml:id="idm140262630166176">Hun kuler op</title>
+          </bibl>
+          <bibl xml:id="biblid55919">
+            <title xml:id="idm140262630165392">Den store Bjørns Endeligt</title>
+          </bibl>
+          <bibl xml:id="biblid55953">
+            <title xml:id="idm140262630164512">Sølvskibet</title>
+          </bibl>
+          <bibl xml:id="biblid56181">
+            <title xml:id="idm140262630163728">En Nutids Saga</title>
+          </bibl>
+          <bibl xml:id="biblid56258">
+            <title xml:id="idm140262630162944">Simon Sundeveds Englandsrejse</title>
+          </bibl>
+          <bibl xml:id="biblid56388">
+            <title xml:id="idm140262630162128">Toget mod Anholt</title>
+          </bibl>
+          <bibl xml:id="biblid56471">
+            <title xml:id="idm140262630161344">En Strandvaskers Historie</title>
+          </bibl>
+          <bibl xml:id="biblid56538">
+            <title xml:id="idm140262630160592">Kunstnere. Noveller</title>
+          </bibl>
+          <bibl xml:id="biblid56555">
+            <title xml:id="idm140262630159808">Foraarsgrønt</title>
+          </bibl>
+          <bibl xml:id="biblid56974">
+            <title xml:id="idm140262630159056">Fjorten Dage</title>
+          </bibl>
+          <bibl xml:id="biblid57176">
+            <title xml:id="idm140262630158272">En uromantisk Novelle</title>
+          </bibl>
+          <bibl xml:id="biblid57452">
+            <title xml:id="idm140262630157488">Prinsessen og det halve Kongerige</title>
+          </bibl>
+        </listBibl>
+      </sourceDesc>
     </fileDesc>
   </teiHeader>
   <text xml:id="idm140262630156848">

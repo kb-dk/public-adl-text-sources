@@ -1,10 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!--Tom opmærkning d.05.07.2002 blo -->
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="idm140028657659008"><!-- 
-       file     ./marc_dir/002324650.xml
-       field     
-       subfield  
-       prefix   -->
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="root">
   <teiHeader xml:id="idm140028657658112">
     <fileDesc xml:id="idm140028657657856">
       <titleStmt xml:id="idm140028657657552">
@@ -19,8 +14,21 @@
         <note xml:id="idm140028657629744">
 	  </note>
       </notesStmt>
-      <sourceDesc xml:id="idm140028657629232"><bibl xml:id="idm140028657629104"><author n="1" xml:id="idm140028657628416"><name xml:id="idm140028657628160"><surname xml:id="idm140028657628032">Biehl</surname>, <forename xml:id="idm140028657627600">Charlotta Dorothea</forename></name></author><title xml:id="idm140028657627344">Den listige Optrækkerske</title><pubPlace xml:id="idm140028657627024">Kbh.</pubPlace>
-<date xml:id="idm140028657626544">1765</date></bibl><listBibl xml:id="idm140028657626256"><bibl xml:id="biblid54231"><title xml:id="idm140028657613104">Den listige Optrækkerske</title></bibl></listBibl></sourceDesc>
+      <sourceDesc xml:id="idm140028657629232">
+        <bibl xml:id="idm140028657629104">
+          <author n="1" xml:id="idm140028657628416">
+            <name xml:id="idm140028657628160"><surname xml:id="idm140028657628032">Biehl</surname>, <forename xml:id="idm140028657627600">Charlotta Dorothea</forename></name>
+          </author>
+          <title xml:id="idm140028657627344">Den listige Optrækkerske</title>
+          <pubPlace xml:id="idm140028657627024">København</pubPlace>
+          <date xml:id="idm140028657626544">1765</date>
+        </bibl>
+        <listBibl xml:id="idm140028657626256">
+          <bibl xml:id="biblid54231">
+            <title xml:id="idm140028657613104">Den listige Optrækkerske</title>
+          </bibl>
+        </listBibl>
+      </sourceDesc>
     </fileDesc>
   </teiHeader>
   <text xml:id="idm140028657612400">

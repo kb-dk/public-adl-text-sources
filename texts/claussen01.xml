@@ -1,12 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!-- VL har skiftet 12 græske tegn ud (s. 114) med [x] 
-VL: 20090420 rettelser på s. 118 
--->
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="idm140218345303104"><!-- 
-       file     ./marc_dir/001491114.xml
-       field     
-       subfield  
-       prefix   -->
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="root">
   <teiHeader xml:id="idm140218345302240">
     <fileDesc xml:id="idm140218345301984">
       <titleStmt xml:id="idm140218345301680">
@@ -20,7 +13,7 @@ VL: 20090420 rettelser på s. 118
       </titleStmt>
       <publicationStmt xml:id="idm140218345273872">
         <publisher xml:id="idm140218345273616">Danske Klassikere
-Det danske Sprog- og Litteraturselskab</publisher>
+Det Danske Sprog- og Litteraturselskab</publisher>
         <pubPlace xml:id="idm140218345273152">Borgen</pubPlace>
         <idno xml:id="idm140218345272768" xml:base="texts/claussen01.xml">001491114:01</idno>
       </publicationStmt>
@@ -28,16 +21,23 @@ Det danske Sprog- og Litteraturselskab</publisher>
         <note xml:id="idm140218345271616">
 	  </note>
       </notesStmt>
-      <sourceDesc xml:id="idm140218345271104"><bibl xml:id="idm140218345270976"><author n="1" xml:id="idm140218345270288"><name xml:id="idm140218345270032"><surname xml:id="idm140218345269904">Claussen</surname>, <forename xml:id="idm140218345269440">Sophus</forename></name></author><title xml:id="idm140218345269152">Antonius i Paris</title><pubPlace xml:id="idm140218345268864">[Kbh.]</pubPlace>; <pubPlace xml:id="idm140218345268400">[Valby]</pubPlace>; <pubPlace xml:id="idm140218345267984">[Ballerup]</pubPlace>
-<publisher xml:id="idm140218345267520">Det danske Sprog- og Litteraturselskab</publisher><publisher xml:id="idm140218345267216">Borgen</publisher><publisher xml:id="idm140218345266928">[i samarbejde med Nyt Dansk Litteraturselskab]</publisher><date xml:id="idm140218345266560">cop. 1990</date></bibl><listBibl xml:id="idm140218345266272"><bibl xml:id="biblid53748"><title xml:id="idm140218345253120">Antonius i Paris (Danske Klassikere)</title></bibl><bibl xml:id="biblid65294"><title xml:id="idm140218345252320">Valfart (Danske Klassikere)</title></bibl></listBibl></sourceDesc>
+      <sourceDesc xml:id="idm140218345271104">
+        <bibl xml:id="idm140218345270976"><author n="1" xml:id="idm140218345270288"><name xml:id="idm140218345270032"><surname xml:id="idm140218345269904">Claussen</surname>, <forename xml:id="idm140218345269440">Sophus</forename></name></author><title xml:id="idm140218345269152">Antonius i Paris</title><pubPlace xml:id="idm140218345268864">[København]</pubPlace>; <pubPlace xml:id="idm140218345268400">[Valby]</pubPlace>; <pubPlace xml:id="idm140218345267984">[Ballerup]</pubPlace><publisher xml:id="idm140218345267520">Det Danske Sprog- og Litteraturselskab</publisher><publisher xml:id="idm140218345267216">Borgen</publisher><publisher xml:id="idm140218345266928">[i samarbejde med Nyt Dansk Litteraturselskab]</publisher><date xml:id="idm140218345266560">cop. 1990</date></bibl>
+        <listBibl xml:id="idm140218345266272">
+          <bibl xml:id="biblid53748">
+            <title xml:id="idm140218345253120">Antonius i Paris (Danske Klassikere)</title>
+          </bibl>
+          <bibl xml:id="biblid65294">
+            <title xml:id="idm140218345252320">Valfart (Danske Klassikere)</title>
+          </bibl>
+        </listBibl>
+      </sourceDesc>
     </fileDesc>
   </teiHeader>
   <text xml:id="idm140218345251632">
     <front xml:id="idm140218345251376">
       <pb n="I" facs="adl/claussen/claussen1/claussen1001" xml:id="idm140218345251072"/>
       <gap reason="cancelled" xml:id="idm140218345250240"/>
-
-      <!-- Antonius i Paris Valfart -->
       <pb n="II" facs="adl/claussen/claussen1/claussen1002" xml:id="idm140218345249328"/>
       <pb n="III" facs="adl/claussen/claussen1/claussen1003" xml:id="idm140218345248560"/>
       <titlePage xml:id="idm140218345247792">
@@ -54,7 +54,7 @@ Det danske Sprog- og Litteraturselskab</publisher>
 	  </bibl>
         </docEdition>
         <docImprint xml:id="idm140218345242752">
-          <publisher xml:id="idm140218345242496">Danske Klassikere Det danske Sprog- og Litteraturselskab
+          <publisher xml:id="idm140218345242496">Danske Klassikere Det Danske Sprog- og Litteraturselskab
           Borgens Forlag</publisher>
         </docImprint>
       </titlePage>
@@ -74,8 +74,8 @@ Det danske Sprog- og Litteraturselskab</publisher>
       <pb n="VI" facs="adl/claussen/claussen1/claussen1006" xml:id="idm140218345215920"/>
       <div xml:id="idm140218345215184">
         <p xml:id="idm140218345214928">Antonius i Paris udkom i tidsrummet 31.1.-6.2.1896, kostede 3
-        kroner og omfatter [VIII + 2] + 216 s.</p> 
-	<p xml:id="idm140218345214416">I Antonius i Paris. II
+        kroner og omfatter [VIII + 2] + 216 s.</p>
+        <p xml:id="idm140218345214416">I Antonius i Paris. II
         blank, derefter frontispice-bilag: sa. ill som på det her afbildede
         bogomslag (med rødbrun tekst, ill.s bredde 109 mm). III Antonius i
         Paris. Hans Optegnelser ved Sophus
@@ -470,7 +470,7 @@ Atter det lette Smil, som et pludseligt Væld af Lys fra hendes Øjne og et let 
 »Aa jo vist, jeg forstaar godt.«</p>
               <p xml:id="idm140218344993072">Og hun tilføjer opmuntrende:</p>
               <p xml:id="idm140218344992608">»Men De taler meget godt fransk. De taler grammatikalsk rigtigt. De har kun ikke Sprogets daglige Ord (<hi rend="italics" xml:id="idm140218344992224">let mots d'usage</hi>) paa rede Haand.«</p>
-              <p xml:id="idm140218344991360">Ak nej,jeg har ikke let mots d'usage, de Ord jeg skal bruge.</p>
+              <p xml:id="idm140218344991360">Ak nej, jeg har ikke let mots d'usage, de Ord jeg skal bruge.</p>
               <p xml:id="idm140218344990896">
 For at blive ved Digterne spørger jeg siden som en Examinator:<lb xml:id="idm140218344990496"/>
 »Kender Fruen Heinrich Heine?«</p>
@@ -821,7 +821,7 @@ Og med det samme skifter hun Tone. Hun er nu kun den tjenstvillige, franske Kvin
 »Aa, Herre, giv mig et Par Sous!«</p>
               <p xml:id="idm140218344764720">Hvor skikkelig, ynkværdig tager hun sig ud; det er en Kvinde, som fægter for Livet. Naar alt andet glipper, beder hun i sin Nød om en Almisse ... et Par Skilling! Nej, den velsminkede og parfumerede Last strejfer ikke om i Gaderne paa denne Tid af Natten. Det er kun Fattigdommen i sin ydmyge og hullede Kjole, uden mindste Tilsætning af Moskus. Og her vandrer ingen syngende Ungdom langs disse Bulevarder. Den Ungdom, der tænker og haaber og synger, har gemt sig godt. Maaske har den gemt sig i et af de Huse der, foran hvis Indgang lange, ligesom forlegne Rækker af stille Drosker holder og venter. Livsglæden er ikke mere højrøstet og pralende. Frygter den maaske for at udæske de husvilde Lazzaroner, den sovende Armod der paa Bænkene?</p>
               <p xml:id="idm140218344762784">Et Par hundrede Skridt borte i en Gade nær <hi rend="italics" xml:id="idm140218344762416">Hallerne</hi> finder jeg den anviste Kafé, som er fuld af politiserende Arbejdere; det er Folk af alle Slags, unge Vittigmagere og støtte Familiefædre, der faar én til at tænke paa Coupeau i Zola's <hi rend="italics" xml:id="idm140218344761328">L'assommoir</hi>, et Par Soutenører med deres Fruentimmer, og Arbejdere, der er klædt paa som i et Folkeskuespil, sort Bluse, skinnende hvide Flipper, koket bunden Halssløjfe, og som kommer ind for at faa en varm Morgendrik. Klokken er efterhaanden paa Vej til fire, og Livet begynder at røre sig ved Hallerne.</p>
-              <p xml:id="idm140218344759904">Jeg, som paa alle Punkter har prøvet min fine Hotelværts Uvidenhed, forbavses over den politiske Kundskab, disse Arbejdere lægger for Dagen. Jeg overraskes ved at hore dem bruge Ord, som vore fornemste Parlamentarikere bruger der hjemme, naar de er mest aandrige. Efter at én af dem længe har udviklet sine Idéer, trækker en anden paa Skuldren og siger: »Aa, det er en Utopi?« »Nej, det er ingen Utopi,« siger den anden og begynder for fra paa en ny Maade. Men det er ikke blot Ordvalget og Skælmeriet i deres Vittigheder, som overrasker mig; det er deres Viden om den Forhistorie, som skjuler sig bag ethvert politisk Spørgsmaal, og det er ikke alene Spørgsmaal, som angaar Staden Paris; de véd lige god Besked med fransk Politik i Indlandet, i Udlandet og i Kolonierne.</p>
+              <p xml:id="idm140218344759904">Jeg, som paa alle Punkter har prøvet min fine Hotelværts Uvidenhed, forbavses over den politiske Kundskab, disse Arbejdere lægger for Dagen. Jeg overraskes ved at høre dem bruge Ord, som vore fornemste Parlamentarikere bruger der hjemme, naar de er mest aandrige. Efter at én af dem længe har udviklet sine Idéer, trækker en anden paa Skuldren og siger: »Aa, det er en Utopi?« »Nej, det er ingen Utopi,« siger den anden og begynder for fra paa en ny Maade. Men det er ikke blot Ordvalget og Skælmeriet i deres Vittigheder, som overrasker mig; det er deres Viden om den Forhistorie, som skjuler sig bag ethvert politisk Spørgsmaal, og det er ikke alene Spørgsmaal, som angaar Staden Paris; de véd lige god Besked med fransk Politik i Indlandet, i Udlandet og i Kolonierne.</p>
               <p xml:id="idm140218344757872">Og jeg tænker paa, at det er den parisiske Arbejderbefolkning, som har gjort alle Revolutionerne.</p>
               <pb n="53" facs="adl/claussen/claussen1/claussen1053" xml:id="idm140218344757280"/>
               <p xml:id="idm140218344756512">Mellem arbejdsklædte er jeg den eneste, der bærer høj Hat. Og medens jeg stille lytter til deres Samtale, mærker jeg, at de mer og mer fører Diskussionen for mig og kaster Blikke hen til mig for at se, om jeg giver dem Ret. Hvor god Besked de end véd med deres Sager, føler de dog en vis Lyst til først og fremmest at overtyde et Menneske af et velhavende Udseende, som har slaaet sig ned imellem dem og er deres opmærksomme Tilhører. Og jo mere tavs jeg af naturlige Grunde er, des klogere tror de mig. De véd jo ikke, at jeg er Udlænding. En garnmel, tør Fyr, som forgæves har søgt at overbevise andre, slaar Klo i mig og prædiker længe om sin Politik. Til sidst indbyder han mig til at komme hjem og se til ham en Dag, naar jeg gaar forbi. Han bor i det lille Hus ved Siden af den store Kobbersmed paa et Hjørne af Rue Faubourg St. Denis, han er Skomager og hedder Brébant. Om jeg vil skrive det op: Skomager Brébant!</p>
@@ -1043,7 +1043,7 @@ Modtagelsesdage viser sig for sine Besøgere i et klosteragtigt Rum og ifort en 
                 <p xml:id="idm140218344632288">Fremmede, hvis du ude fra <hi rend="italics" xml:id="idm140218344631984">Ternes</hi> tager med Omnibus til Madeleinekirken og derfra til Fods gennemiler de store Bulevarder, da kommer du i Nærheden af <hi rend="italics" xml:id="idm140218344631040">Carnaval de Venise</hi> forst til en lille Butik paa din venstre Haand. Der ser du, hvis du har bedre Held, end jeg havde den Dag, min elskede  - hendes Hænder er hvide, hendes Fødder er smaa, hendes Øjne er store og mørke, som blide Duer.  - Naar hun spaserer, hyllet i sit sorte, lange Pariserinde-Slør, der naar hende to Gange om Halsen og Hagen og endda flagrer lystigt frem over venstre Skulder, ligner hun i sin dunkle Formummethed en sort Due; men det er dog Sylvia Delaplanche, det samme nittenaarige
 	<pb n="68" facs="adl/claussen/claussen1/claussen1068" xml:id="idm140218344629472"/>
 Barn, den samme friskafskaarne, bleghvide Blomst, som kigger med store Øjne ud fra en lille Butik ... Paa venstre Haand nær Carnaval de Venise. Trappen er lidt høj, Døren lidt smal ... Fremmede, du gaar rolig videre.</p>
-                <p xml:id="idm140218344628112">Du gaar videre, idet du stadig passer godt paa, hvor du har din venstre Haand, og den næste Seværdighed, du da træffer efter at have gennemstrejfet Bulevard des Capucins, er den store Opera:  - Der kan du frit løfte dine Øjne, Statuerne vil ikke rødme eller tilsløre sig for dig, ingen skinsyg Elsker vil disputere med dig om din Ret. Og er du lidt hallucincret, ligesom Ibsens Hilde, vil du midt i Virvaret af tyve Vogne, som krydser hverandre paa den lydløse Asfalt, høre Toner i Luften af Taffanels Orkester, høre Bruset af Wagnerske Lurer eller hore Faust, der synger for Margrete.</p>
+                <p xml:id="idm140218344628112">Du gaar videre, idet du stadig passer godt paa, hvor du har din venstre Haand, og den næste Seværdighed, du da træffer efter at have gennemstrejfet Bulevard des Capucins, er den store Opera:  - Der kan du frit løfte dine Øjne, Statuerne vil ikke rødme eller tilsløre sig for dig, ingen skinsyg Elsker vil disputere med dig om din Ret. Og er du lidt hallucincret, ligesom Ibsens Hilde, vil du midt i Virvaret af tyve Vogne, som krydser hverandre paa den lydløse Asfalt, høre Toner i Luften af Taffanels Orkester, høre Bruset af Wagnerske Lurer eller høre Faust, der synger for Margrete.</p>
                 <p xml:id="idm140218344626944">Du gaar videre, helt hen paa Bulevard Poisonniêre, et Sted paa højre Haand, til Malaquin. Og dér forlanger man af dig, at du, medens du har dine Tanker alle andre Steder, nu ogsaa skal sige et dybt Ord om Henrik Ibsen. (Et dybt Ord om det dybe og vage! og <hi rend="italics" xml:id="idm140218344626160">det</hi>, mens éns Sjæl brænder i jordisk Erindring om en ung Pige af saa og saa mange Centimeter nojagtigt Maal... Ak!)</p>
                 <p xml:id="idm140218344625136">»I unge Franskmænd er allesammen Fumister,« sagde min Landsmand med nordisk Uforbloffethed til Malaquins Venner, da et Glas Absinth havde gjort ham glad. »Alt, hvad I gør, er Fumisteri, og naar I da kommer til at læse noget af Henrik Ibsen, den største Fumist, vi har hjemme i Norden, bliver I ellevilde.«</p>
                 <p xml:id="idm140218344624112">En <hi rend="italics" xml:id="idm140218344623856">Fumist</hi> er jo i det franske Folkesprog simpelthen en Skorstensfejer, men i Kunstnernes Sprog anvendes det om de højrøstede Modegenier, fra hvis Værker der stiger mere Røg og Kvalm end egenlig klar Flamme.</p>
@@ -1699,7 +1699,7 @@ Vil jeg efter Frokost have ham til at spasere lidt med mig, siger han, at han ha
 	<pb n="114" facs="adl/claussen/claussen1/claussen1114" xml:id="idm140218344186336"/>
 var skudt tilbage fra den kække Pande. Det er Mme Eugénies evige Sorg, at Verlaine, hvis øvrige Dragt for Resten passer saa slet dertil, aldrig kan bevare en høj Hat. <hi rend="italics" xml:id="idm140218344185152">Quand il est furieux, il les casse  -</hi> siger hun  -: naar Digteren er i ondt Lune, kan han ikke udholde Synet af denne sorte, silkeglatte Samfundsløgn: han knuser ganske simpelt sine høje Hatte.</p>
             <p xml:id="idm140218344183984">P. gjorde mig et Forslag for at more Digterkongen, der slige Aftener er som et lykkeligt Barn. Vi bad ham i Kraft af sin Majestæt at indstifte en Orden og udnævne os til dens Riddere. P. forlangte Pen, Blæk og Papir og rev af det himmelblaa Hylster, hvori min Tobak var indpakket, sirlige Strimler til at fæste i vore Knaphuller, medens Paul Verlaine med mange store Snirkler begyndte at skrive:<lb xml:id="idm140218344182912"/>
-»Ego, [x][x][x][x][x][x][x][x][x][x][x][x]<!-- &#960;&#959;&#955; &#921;, &#946;&#945;&#963;&#953;&#955;&#949;&#965;&#962;-->, creavi.« Derefter fulgte i en underbar Blanding af Græsk, Latin og Fransk vor Udnævnelse til Riddere af det grønne (Verlaine vaklede en Stund mellem blaat og grønt, men foretrak det grønne, Absinthens Farve). Han fastsatte endvidere, at vor faste Borg skulde være Mullers Kafé, som han paa poetisk Latin kaldte <hi rend="italics" xml:id="idm140218344181456">Taverna mulierum</hi>, eftersom der altid er et broget Flor af Kvinder paa dette Sted.</p>
+»Ego, [x][x][x][x][x][x][x][x][x][x][x][x], creavi.« Derefter fulgte i en underbar Blanding af Græsk, Latin og Fransk vor Udnævnelse til Riddere af det grønne (Verlaine vaklede en Stund mellem blaat og grønt, men foretrak det grønne, Absinthens Farve). Han fastsatte endvidere, at vor faste Borg skulde være Mullers Kafé, som han paa poetisk Latin kaldte <hi rend="italics" xml:id="idm140218344181456">Taverna mulierum</hi>, eftersom der altid er et broget Flor af Kvinder paa dette Sted.</p>
             <p xml:id="idm140218344180560">Endelig rejste han sig med sit tunge Egespir i Haanden, og knælende paa Gulvet modtog først P., saa jeg Ridderslaget. <hi rend="italics" xml:id="idm140218344180048">Trémouillat</hi>, en meget blufærdig og ganske vittig Forfatter af satiriske Viser og for Resten Assistent i et eller andet Ministerium, korn til og maatte ogsaa knæle. Verlaine uddelte Slaget med en Forlegenhed, der viste hans Glæde.</p>
             <p xml:id="idm140218344178752">Og da nu Ridderskabet var dannet, drak vi Riddere af det grønne med hverandre og med Kong Paul den første  - af Glassene med den grønne Drik og de blegrode Rosenblade.</p>
             <pb n="115" facs="adl/claussen/claussen1/claussen1115" xml:id="idm140218344178016"/>
@@ -4147,7 +4147,7 @@ farvel, Roma! Jeg kom til Florens uden Natlinned og Toilettesager og to Dage der
               <p xml:id="idm140218342902576">Fru Clara lo stærkt, kom til at hoste og maatte pludselig holde sig for Hjærtet. Jeg forstod ikke, hvorfor hun vendte Ansigtet bort. »Aa, det er kun min Hjærtebanken,« sagde hun paa vore ængstelige Spørgsmaal.</p>
               <p xml:id="idm140218342901744">Jeg knælede ned med hendes Haand i min, bedrøvet over, at jeg ikke kunde bringe hende Lindring, paatage mig hendes Smærte. Hun trykkede svagt min Haand med et Smil, som vilde hun sige: »Vær ikke bedrøvet. Det Blik, hvormed du ser paa mig, er mig Lægedom nok.« Saa aandede hun atter et Par Gange dybt og langsomt, begyndte at smile og var pludselig helt rask.</p>
               <pb n="260" facs="adl/claussen/claussen1/claussen1260" xml:id="idm140218342900736"/>
-              <p xml:id="idm140218342899968">»Dér ser De, hvad der kommer ud af at slaa sig for Brystet og sige: sono io« - smilte hun. »Min Broder, der forstod at omgaas min Onkel langt snedigere end jeg, har tit sagt: Du er dum, Clara! du er dum, Clara! Min Broder gjorde ogsaa, hvad han selv vilde, men i al Hemmelighed. At hore ham tale Onkel efter Munden: »ja, Onkel! jo, Onkel!«  - »som du vil, kære Onkel«  - kunde faa Haarene til at rejse sig paa et syndigt Hovede og vække de dode op af Gravene« - Fru Clara smilte.</p>
+              <p xml:id="idm140218342899968">»Dér ser De, hvad der kommer ud af at slaa sig for Brystet og sige: sono io« - smilte hun. »Min Broder, der forstod at omgaas min Onkel langt snedigere end jeg, har tit sagt: Du er dum, Clara! du er dum, Clara! Min Broder gjorde ogsaa, hvad han selv vilde, men i al Hemmelighed. At høre ham tale Onkel efter Munden: »ja, Onkel! jo, Onkel!«  - »som du vil, kære Onkel«  - kunde faa Haarene til at rejse sig paa et syndigt Hovede og vække de dode op af Gravene« - Fru Clara smilte.</p>
               <p xml:id="idm140218342898592">»Ma io  - men jeg kunde ikke hykle som den forslagne Knægt. Umuligt, umuligt!« - Fru Clara lo ad sin egen Stridighed.  - »Efter at Carlo og jeg havde boet tre Uger i Svejts, maatte Onkel samtykke i, at vi blev viede i Milano. Da min Onkel dode for to Aar siden, efterlod han hele sin Formue til min Broder. Den kære, gode Broder, den eneste, jeg nu har tilbage. Han gav mig dog altid de bedste Raad: Du er dum, Clara, at du ikke kan forsone dig med Onkel! - Umuligt, umuligt! Det var for at forsone mig med ham, at jeg en Gang, efter at jeg var bleven gift, boede hos ham i Rom et helt Aar, og naar min Mand kom i Besog, maatte vi finde os i at modes paa et Hotel!</p>
               <p xml:id="idm140218342896992">Min Mand! ... Jeg glemmer aldrig vor Bryllupsrejse gennem Italiens Byer. - Carlo var skinsyg som en Sultan. En Gang kom han med en Hammer og sømmede Vinduerne til i vort Hjem i Milano, fordi han mente, at jeg lænede mig for meget ud, og fordi to unge Herrer i Nabolaget interesserede sig for mig. Jeg husker ogsaa en Aften i Milano. Midt i et stort Selskab af de mest dannede Signori med deres dydige Damer fandt en Herre paa at fortælle en skandalos Historie om to Joder, der havde en og samme Elskerinde, som væddede med dem om, at det skulde lykkes hende trods al deres Paapasselighed at modtage en tredje Elsker (hvad hun ogsaa udforte paa den mest uforfærdede Maade, mens Joderne sov). Alle de hojtdannede Damer og Herrer lo. Jeg selv lo med. Og der blev fortalt værre Ting. Det var, som om Milaneserne i Aften var blevne forrykte. Bleg af Forbitrelse kom Carlo og bad mig kore med ham hjem. »Clara, jeg vil ikke taale, at du skal høre paa den skamløse Snak.« Han tog alene hjem i Vrede, og jeg angrede hele Aftenen, at jeg ikke havde føjet ham.</p>
               <p xml:id="idm140218342894224">Stakkels Carlo, som var saa skinsyg, han havde den Fejl, at han ikke kunde modstaa Kvinder. Han var mig utro med alle Slags Skonheder i Torino og Venezia, ja, tilsidst ogsaa i Milano, hvor vi boede. Men hvis <hi rend="italics" xml:id="idm140218342893744">jeg</hi> havde holdt af andre end ham, vilde han have taget sin Dod
@@ -5010,7 +5010,7 @@ nem Ordet, der skaber de <hi rend="italics" xml:id="idm140218341783744">korrespo
             <p xml:id="idm140218341776864">De fr. bog- og tidsskrifttitlers stavemåder er i overensstemmelse med hhv. <hi rend="italics" xml:id="idm140218341776432">Catalogue général des livres imprimés de la Bibliothèque nationale</hi> (1897-1981) og <hi rend="italics" xml:id="idm140218341775584">Catalogue collectif des périodiques du début du XVII'ème siède à 1939</hi>. Udg. af Bibliothèque nationale (1967-1981).</p>
             <p xml:id="idm140218341774528">M.h.t. digtene i <hi rend="italics" xml:id="idm140218341774240">AP</hi> og <hi rend="italics" xml:id="idm140218341773552">Va</hi> henvises til <hi rend="italics" xml:id="idm140218341772864">SC:SL</hi> I-IX, hvor der oplyses nærmere om manuskriptforhold, varianter, litteraturbehandlinger m.m. M.h.t. forkortelser, der vedrører litteraturhenvisninger, se litteraturliste s. 333 ff.</p>
             <p xml:id="idm140218341771664">Der refereres m. nr. til SC's notesbøger, som findes på Det kgl. Bibliotek (NkS 1340,8°, I-XVIII, nr. 1-109).</p>
-            <p xml:id="idm140218341771040"><hi rend="italics" xml:id="idm140218341770912">Taarnet</hi>. Udg. af Johs. Jørgensen 1893-1894, citeres efter Det danske Sprog- og Litteraturselskabs fotografiske optryk med efterskrift og registre ved F.J. Billeskov Jansen og Fl. Hovmann (1982).</p>
+            <p xml:id="idm140218341771040"><hi rend="italics" xml:id="idm140218341770912">Taarnet</hi>. Udg. af Johs. Jørgensen 1893-1894, citeres efter Det Danske Sprog- og Litteraturselskabs fotografiske optryk med efterskrift og registre ved F.J. Billeskov Jansen og Fl. Hovmann (1982).</p>
             <p xml:id="idm140218341769696">I øvrigt er K. Baedeker: <hi rend="italics" xml:id="idm140218341769376">Paris</hi> (1888) <hi rend="italics" xml:id="idm140218341768656">(BaP</hi>) og <hi rend="italics" xml:id="idm140218341767936">Ober-Italien</hi> (1889) <hi rend="italics" xml:id="idm140218341767216">(BaO</hi>) benyttet.</p>
             <p xml:id="idm140218341766368">For også i noterne at undgå uskønsom perfektionisme er en række krydshenvisninger noterne imellem udeladt.</p>
             <p xml:id="idm140218341765744">Tak til Lonni Bolo, Paris, for en række oplysninger vedr. fr. forhold, til dr.phil. Per Aage Brandt, Aarhus Universitet, for oversættelsen af de tre fr. digte, og til dr.phil. Thomas Riis for verifikation af de historiske oplysninger.</p>

@@ -1,9 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="idm140127386397760"><!-- 
-       file     ./marc_dir/001915203.xml
-       field     
-       subfield  
-       prefix   -->
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="root">
   <teiHeader xml:id="idm140127386397104">
     <fileDesc xml:id="idm140127386396848">
       <titleStmt xml:id="idm140127386396544">
@@ -21,8 +17,21 @@
         <note xml:id="idm140127386367584">
 	  </note>
       </notesStmt>
-      <sourceDesc xml:id="idm140127386367072"><bibl xml:id="idm140127386366944"><author n="1" xml:id="idm140127386366256"><name xml:id="idm140127386366000"><surname xml:id="idm140127386365872">Hjortø</surname>, <forename xml:id="idm140127386365440">Knud</forename></name></author><title xml:id="idm140127386365184">Svundne Somre og gamle Vintre</title><pubPlace xml:id="idm140127386364880">Kbh</pubPlace>
-<date xml:id="idm140127386364400">1931</date></bibl><listBibl xml:id="idm140127386364112"><bibl xml:id="biblid54096"><title xml:id="idm140127386350960">Svundne somre og gamle vintre</title></bibl></listBibl></sourceDesc>
+      <sourceDesc xml:id="idm140127386367072">
+        <bibl xml:id="idm140127386366944">
+          <author n="1" xml:id="idm140127386366256">
+            <name xml:id="idm140127386366000"><surname xml:id="idm140127386365872">Hjortø</surname>, <forename xml:id="idm140127386365440">Knud</forename></name>
+          </author>
+          <title xml:id="idm140127386365184">Svundne Somre og gamle Vintre</title>
+          <pubPlace xml:id="idm140127386364880">København</pubPlace>
+          <date xml:id="idm140127386364400">1931</date>
+        </bibl>
+        <listBibl xml:id="idm140127386364112">
+          <bibl xml:id="biblid54096">
+            <title xml:id="idm140127386350960">Svundne somre og gamle vintre</title>
+          </bibl>
+        </listBibl>
+      </sourceDesc>
     </fileDesc>
   </teiHeader>
   <text xml:id="workid54096" decls="#biblid54096">

@@ -1,10 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!--Tom opmærkning blo 03.05.02-->
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="idm140042292169840"><!-- 
-       file     ./marc_dir/004175732.xml
-       field    248 
-       subfield g 
-       prefix   Bd. 2 | a-->
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="root">
   <teiHeader xml:id="idm140042292169040">
     <fileDesc xml:id="idm140042292168784">
       <titleStmt xml:id="idm140042292168480">
@@ -19,8 +14,29 @@
         <note xml:id="idm140042292140352">
 	  </note>
       </notesStmt>
-      <sourceDesc xml:id="idm140042292139840"><bibl xml:id="idm140042292139712"><author n="1" xml:id="idm140042292139072"><name xml:id="idm140042292138816"><surname xml:id="idm140042292138688">Nansen</surname>, <forename xml:id="idm140042292138256">Peter</forename></name></author><title xml:id="idm140042292138000">Samlede Skrifter</title><title xml:id="idm140042292137712">Bd. 2: Et Hjem; Fra Rusaaret Judiths Ægteskab</title><pubPlace xml:id="idm140042292137312">[Kbh.]</pubPlace>
-<publisher xml:id="idm140042292136848">Gyldendal</publisher><date xml:id="idm140042292136512">1908-09</date></bibl><listBibl xml:id="idm140042292136224"><bibl xml:id="biblid54134"><title xml:id="idm140042292123072">Et Hjem</title></bibl><bibl xml:id="biblid53727"><title xml:id="idm140042292122288">Fra Rusaaret</title></bibl><bibl xml:id="biblid55558"><title xml:id="idm140042292121504">Judiths Ægteskab</title></bibl></listBibl></sourceDesc>
+      <sourceDesc xml:id="idm140042292139840">
+        <bibl xml:id="idm140042292139712">
+          <author n="1" xml:id="idm140042292139072">
+            <name xml:id="idm140042292138816"><surname xml:id="idm140042292138688">Nansen</surname>, <forename xml:id="idm140042292138256">Peter</forename></name>
+          </author>
+          <title xml:id="idm140042292138000">Samlede Skrifter</title>
+          <title xml:id="idm140042292137712">Bd. 2: Et Hjem; Fra Rusaaret Judiths Ægteskab</title>
+          <pubPlace xml:id="idm140042292137312">[København]</pubPlace>
+          <publisher xml:id="idm140042292136848">Gyldendal</publisher>
+          <date xml:id="idm140042292136512">1908-09</date>
+        </bibl>
+        <listBibl xml:id="idm140042292136224">
+          <bibl xml:id="biblid54134">
+            <title xml:id="idm140042292123072">Et Hjem</title>
+          </bibl>
+          <bibl xml:id="biblid53727">
+            <title xml:id="idm140042292122288">Fra Rusaaret</title>
+          </bibl>
+          <bibl xml:id="biblid55558">
+            <title xml:id="idm140042292121504">Judiths Ægteskab</title>
+          </bibl>
+        </listBibl>
+      </sourceDesc>
     </fileDesc>
   </teiHeader>
   <text xml:id="idm140042292120816">

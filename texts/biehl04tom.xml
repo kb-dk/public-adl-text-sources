@@ -1,10 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!--Tom opmærkning d.09.10.2002 blo -->
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="idm140688107588976"><!-- 
-       file     ./marc_dir/002161766.xml
-       field     
-       subfield  
-       prefix   -->
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="root">
   <teiHeader xml:id="idm140688107588048">
     <fileDesc xml:id="idm140688107587792">
       <titleStmt xml:id="idm140688107587488">
@@ -19,8 +14,30 @@
         <note xml:id="idm140688107559376">
 	  </note>
       </notesStmt>
-      <sourceDesc xml:id="idm140688107558864"><bibl xml:id="idm140688107558736"><author n="1" xml:id="idm140688107558048"><name xml:id="idm140688107557792"><surname xml:id="idm140688107557664">Biehl</surname>, <forename xml:id="idm140688107557232">Charlotta Dorothea</forename></name></author><title xml:id="idm140688107556944">Moralske Fortællinger</title><pubPlace xml:id="idm140688107556624">Kbh.</pubPlace>
-<date xml:id="idm140688107556112">1781-82</date></bibl><listBibl xml:id="idm140688107555824"><bibl xml:id="biblid54233"><title xml:id="idm140688107542672">Moralske Fortællinger II</title></bibl><bibl xml:id="biblid54257"><title xml:id="idm140688107541856">Den Foranderlige</title></bibl><bibl xml:id="biblid55086"><title xml:id="idm140688107541072">Den falske Ben eller hertil og ikke længere</title></bibl><bibl xml:id="biblid55955"><title xml:id="idm140688107540208">Den forklædte Maler</title></bibl></listBibl></sourceDesc>
+      <sourceDesc xml:id="idm140688107558864">
+        <bibl xml:id="idm140688107558736">
+          <author n="1" xml:id="idm140688107558048">
+            <name xml:id="idm140688107557792"><surname xml:id="idm140688107557664">Biehl</surname>, <forename xml:id="idm140688107557232">Charlotta Dorothea</forename></name>
+          </author>
+          <title xml:id="idm140688107556944">Moralske Fortællinger</title>
+          <pubPlace xml:id="idm140688107556624">København</pubPlace>
+          <date xml:id="idm140688107556112">1781-82</date>
+        </bibl>
+        <listBibl xml:id="idm140688107555824">
+          <bibl xml:id="biblid54233">
+            <title xml:id="idm140688107542672">Moralske Fortællinger II</title>
+          </bibl>
+          <bibl xml:id="biblid54257">
+            <title xml:id="idm140688107541856">Den Foranderlige</title>
+          </bibl>
+          <bibl xml:id="biblid55086">
+            <title xml:id="idm140688107541072">Den falske Ben eller hertil og ikke længere</title>
+          </bibl>
+          <bibl xml:id="biblid55955">
+            <title xml:id="idm140688107540208">Den forklædte Maler</title>
+          </bibl>
+        </listBibl>
+      </sourceDesc>
     </fileDesc>
   </teiHeader>
   <text xml:id="idm140688107539456">

@@ -1,13 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!-- HHL 20021112 rettet o/oe adskillige steder - daarlig tiff
-	HHL 20021111 ordnet bindestreg v. sideskift - bindestreger manglede
-   HHL 20031119 yderligere rettelser, indholdsfort -> tabel. 
--->
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="idm140167599430864"><!-- 
-       file     ./marc_dir/001517385.xml
-       field     
-       subfield  
-       prefix   -->
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="root">
   <teiHeader xml:id="idm140167599429728">
     <fileDesc xml:id="idm140167599429472">
       <titleStmt xml:id="idm140167599404080">
@@ -19,24 +11,27 @@
         <author xml:id="idm140167599402272">H.C. ANDERSEN</author>
       </titleStmt>
       <publicationStmt xml:id="idm140167599401712">
-        <publisher xml:id="idm140167599401456">Det danske Sprog- og Litteraturselskab</publisher>
+        <publisher xml:id="idm140167599401456">Det Danske Sprog- og Litteraturselskab</publisher>
         <idno xml:id="idm140167599401024" xml:base="texts/andersen03val.xml">001517385:03</idno>
       </publicationStmt>
       <notesStmt xml:id="idm140167599400208">
         <note xml:id="idm140167599399904">
 	  </note>
       </notesStmt>
-      <sourceDesc xml:id="idm140167599399392"><bibl xml:id="idm140167599399264"><author n="1" xml:id="idm140167599398576"><name xml:id="idm140167599398320"><surname xml:id="idm140167599398192">Andersen</surname>, <forename xml:id="idm140167599397760">H. C.</forename></name></author><title xml:id="idm140167599397472">Improvisatoren</title><pubPlace xml:id="idm140167599397184">[Kbh.]</pubPlace>; <pubPlace xml:id="idm140167599396720">[Valby]</pubPlace>; <pubPlace xml:id="idm140167599396304">[Ballerup]</pubPlace>
-<publisher xml:id="idm140167599395840">Det danske Sprog- og Litteraturselskab</publisher><publisher xml:id="idm140167599395536">Borgen</publisher><publisher xml:id="idm140167599395248">i samarbejde med Nyt Dansk Litteraturselskab</publisher><date xml:id="idm140167599394880">cop. 1991</date></bibl><listBibl xml:id="idm140167599394592"><bibl xml:id="biblid54101"><title xml:id="idm140167599381440">Improvisatoren</title></bibl></listBibl></sourceDesc>
+      <sourceDesc xml:id="idm140167599399392">
+        <bibl xml:id="idm140167599399264"><author n="1" xml:id="idm140167599398576"><name xml:id="idm140167599398320"><surname xml:id="idm140167599398192">Andersen</surname>, <forename xml:id="idm140167599397760">H. C.</forename></name></author><title xml:id="idm140167599397472">Improvisatoren</title><pubPlace xml:id="idm140167599397184">[København]</pubPlace>; <pubPlace xml:id="idm140167599396720">[Valby]</pubPlace>; <pubPlace xml:id="idm140167599396304">[Ballerup]</pubPlace><publisher xml:id="idm140167599395840">Det Danske Sprog- og Litteraturselskab</publisher><publisher xml:id="idm140167599395536">Borgen</publisher><publisher xml:id="idm140167599395248">i samarbejde med Nyt Dansk Litteraturselskab</publisher><date xml:id="idm140167599394880">cop. 1991</date></bibl>
+        <listBibl xml:id="idm140167599394592">
+          <bibl xml:id="biblid54101">
+            <title xml:id="idm140167599381440">Improvisatoren</title>
+          </bibl>
+        </listBibl>
+      </sourceDesc>
     </fileDesc>
   </teiHeader>
   <text xml:id="workid54101" decls="#biblid54101">
     <front xml:id="idm140167599379856">
       <pb n="1" facs="adl/andersenhc/andersenhc3/anhc3001" xml:id="idm140167599379552"/>
       <gap reason="cancelled" xml:id="idm140167599378736"/>
-<!---->
-<!---->
-<!--Improvisatoren-->
       <pb n="2" facs="adl/andersenhc/andersenhc3/anhc3002" xml:id="idm140167599377216"/>
       <pb n="3" facs="adl/andersenhc/andersenhc3/anhc3003" xml:id="idm140167599376432"/>
       <titlePage xml:id="idm140167599375664">
@@ -54,7 +49,7 @@
 					</bibl>
         </docEdition>
         <docImprint xml:id="idm140167599459392">
-          <publisher xml:id="idm140167599459136">Danske Klassikere<lb xml:id="idm140167599458848"/> Det danske Sprog- og Litteraturselskab<lb xml:id="idm140167599458592"/>
+          <publisher xml:id="idm140167599459136">Danske Klassikere<lb xml:id="idm140167599458848"/> Det Danske Sprog- og Litteraturselskab<lb xml:id="idm140167599458592"/>
 						Borgen </publisher>
         </docImprint>
       </titlePage>
@@ -389,9 +384,9 @@
 								hellige Januarii Katakomber ved Neapel Helgenbilleder og
 								Inscriptioner, men slet gjorte. Paa de Christnes Grave ere afbildede
 								en Fisk, i hvis græske Navn:
-								[x][x][x][x][x]<!-- &iotapsili;&chi;&theta;&upsilonoxia;&sigma; -->
+								[x][x][x][x][x]
 								ligge Begyndelsesbogstaverne til
-								[x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x]<!-- &iotapsili;&eta;&sigma;&omicron;&upsilonperispomeni;&omicron;&chi;&rho;&iota;&sigma;&tau;&omicronoxia;&omicron;&theta;&epsilon;&omicron;&upsilonperispomeni;&upsilon;&iotadasia;&omicronoxia;&sigma;&sigma;&omega;&tau;&etaoxia;&rho; -->:
+								[x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x]:
 								(Jesus Christus, Guds Søn, Frelser).</note>
               <pb n="19" facs="adl/andersenhc/andersenhc3/anhc3019" xml:id="idm140167599260816"/>
               <p xml:id="idm140167599260048">Lyd. Medens jeg saaledes sad i mine egne Tanker, blev jeg pludselig
@@ -2578,7 +2573,7 @@
 								vilde afsted, thi hele Nabolavet tabte sig i Beskuelse af os, men da
 								faldt mine Øine op paa Huset og jeg saae det deiligste Hoved, jeg
 								endnu har seet, en MarmorVenus med varmt Blod i Kinderne og Øine
-								son\ Arabiens Datter, -saa kan Du nok vide,jeg fulgte ind med Jøden,
+								son\ Arabiens Datter, -saa kan Du nok vide, jeg fulgte ind med Jøden,
 								han havde jo indbudt mig. Gangen var rigtignok sort og snever, som
 								gik den ind i <hi rend="italics" xml:id="idm140167598550752">Scipionernes</hi> Grave, og
 								Steentrappen og det deilige Trægallerie, -ja, den var særdeles
@@ -4622,7 +4617,7 @@
 								har slemt traadt paa Slæbet af det høie Senat! Ja det er jo Eder!
 								Alle Omstændigheder træffe sammen. I har jo skudt Senatorens
 								Brodersøn paa Pelsen. Det var et dristigt Skud!«</p>
-              <p xml:id="idm140167597885040">»Han er død?« vare de eneste Ord,jeg kunde fremstamme.</p>
+              <p xml:id="idm140167597885040">»Han er død?« vare de eneste Ord, jeg kunde fremstamme.</p>
               <p xml:id="idm140167597884576">»Nei ikke saa ganske,« svarede den Fremmede, »og døer vel heller ikke
 								denne Gang. I det mindste siger Doctoren det. Den fremmede, smukke
 								Signora, der skal synge som en Nattergal, vaagede hele Natten ved
@@ -5594,7 +5589,7 @@
 								endnu intet hørt om hende eller <hi rend="italics" xml:id="idm140167597554464">Bernardo</hi>; da
 								bragte Posten mig et Brev, med bankende Hjerte greb jeg det, saae
 								paa Segl og Udskrift, hvem det kunde være fra, hvad det vilde
-								bringe,jeg kjendte det borghesiske Vaaben og den gamle Eccellenzas
+								bringe, jeg kjendte det borghesiske Vaaben og den gamle Eccellenzas
 								Skrift! - jeg vovede neppe at aabne det. »Evige Guds Moder,« bad
 								jeg, »vær naadig imod mig! Din Villie skee i Alt til det Bedste!«
 								Jeg aabnede Brevet, og læste:</p>
@@ -7681,7 +7676,7 @@
 								for hans og Signoras Artighed mod mig, bad dem, ikke at glemme mig.
 								Til <hi rend="italics" xml:id="idm140167596767184">Federigo</hi> lagde jeg ogsaa en lille
 								Seddel, lovede ham et ordentlig langt Brev fra <hi rend="italics" xml:id="idm140167596766400">Rom</hi>, thi jeg var ikke nu skikket til at skrive. - Ingen
-								Steder gik jeg hen,jeg vilde ikke møde <hi rend="italics" xml:id="idm140167596765520">Bernardo</hi>, ingen af mine nye Venner see, den eneste jeg
+								Steder gik jeg hen, jeg vilde ikke møde <hi rend="italics" xml:id="idm140167596765520">Bernardo</hi>, ingen af mine nye Venner see, den eneste jeg
 								besøgte, var Lægen; jeg kjørte med <hi rend="italics" xml:id="idm140167596764624">Fabiani</hi>
 								til ham. Det var et hyggeligt, venligt Hjem, hans ældste Søster, en
 								gammel Pige, holdt Huus for ham, der var noget elskeligt, noget

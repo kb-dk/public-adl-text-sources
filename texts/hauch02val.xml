@@ -1,10 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!-- HHL 03.10.2002: indsat vaerktitle, checket sidetal-->
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="idm140500968852544"><!-- 
-       file     ./marc_dir/001848826.xml
-       field    530 
-       subfield a 
-       prefix   2 :-->
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="root">
   <teiHeader xml:id="idm140500968851888">
     <fileDesc xml:id="idm140500968851632">
       <titleStmt xml:id="idm140500968851328">
@@ -23,17 +18,27 @@
         <note xml:id="idm140500968822032">
 	  </note>
       </notesStmt>
-      <sourceDesc xml:id="idm140500968821520"><bibl xml:id="idm140500968821392"><author n="1" xml:id="idm140500968820704"><name xml:id="idm140500968820448"><surname xml:id="idm140500968820320">Hauch</surname>, <forename xml:id="idm140500968819856">Carsten</forename></name></author><title xml:id="idm140500968819568"> Robert Fulton: 1-2. - 1928</title><pubPlace xml:id="idm140500968819264">Kbh.</pubPlace>
-<date xml:id="idm140500968818752">1926-29</date></bibl><listBibl xml:id="idm140500968818464"><bibl xml:id="biblid55884"><title xml:id="idm140500968805264">Robert Fulton</title></bibl></listBibl></sourceDesc>
+      <sourceDesc xml:id="idm140500968821520">
+        <bibl xml:id="idm140500968821392">
+          <author n="1" xml:id="idm140500968820704">
+            <name xml:id="idm140500968820448"><surname xml:id="idm140500968820320">Hauch</surname>, <forename xml:id="idm140500968819856">Carsten</forename></name>
+          </author>
+          <title xml:id="idm140500968819568"> Robert Fulton: 1-2. - 1928</title>
+          <pubPlace xml:id="idm140500968819264">København</pubPlace>
+          <date xml:id="idm140500968818752">1926-29</date>
+        </bibl>
+        <listBibl xml:id="idm140500968818464">
+          <bibl xml:id="biblid55884">
+            <title xml:id="idm140500968805264">Robert Fulton</title>
+          </bibl>
+        </listBibl>
+      </sourceDesc>
     </fileDesc>
   </teiHeader>
   <text xml:id="idm140500968804624">
     <front xml:id="idm140500968804368">
       <pb n="a" xml:id="sa" facs="adl/hauch/hauch2/hauch2fm001"/>
       <gap reason="cancelled" xml:id="idm140500968802864"/>
-<!---->
-<!---->
-<!--DANMARKS NATIONALLITTERATUR C. HAUCH UDVALGTE SKRIFTER-->
       <pb n="b" xml:id="sb" facs="adl/hauch/hauch2/hauch2fm002"/>
       <pb n="c" xml:id="sc" facs="adl/hauch/hauch2/hauch2fm003"/>
       <titlePage xml:id="idm140500968799088">

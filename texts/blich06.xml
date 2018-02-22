@@ -1,11 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!-- HHL 30020219  aendret vaerktitle side 397 Lev &dagger; vel! Kong Frederik d. Sjette, fjernet dagger 
-    Ptj rettet s348-350-398-         -->
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="idm140667859278768"><!-- 
-       file     ./marc_dir/001383696.xml
-       field     
-       subfield  
-       prefix   -->
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="root">
   <teiHeader xml:id="idm140667859277760">
     <fileDesc xml:id="idm140667859252272">
       <titleStmt xml:id="idm140667859252016">
@@ -15,7 +9,7 @@
       <publicationStmt xml:id="idm140667859250864">
         <publisher xml:id="idm140667859250608">Gyldendalske Boghandel, Nordisk Forlag A. S.</publisher>
         <publisher xml:id="idm140667859250224">GYLDENDAL</publisher>
-        <idno  xml:id="idm140667859249392" xml:base="texts/blich06.xml">001383696:06</idno>
+        <idno xml:id="idm140667859249392" xml:base="texts/blich06.xml">001383696:06</idno>
         <idno type="ISBN" xml:id="idm140667859248880">87-00-42182-0</idno>
         <idno type="ISBN" xml:id="idm140667859248336">87-00-43652-6</idno>
         <idno type="ISBN" xml:id="idm140667859247648">87-00-43653-4</idno>
@@ -27,8 +21,295 @@
         <note xml:id="idm140667859245648">
 	  </note>
       </notesStmt>
-      <sourceDesc xml:id="idm140667859245136"><bibl xml:id="idm140667859245008"><author n="1" xml:id="idm140667859244832"><name xml:id="idm140667859244464"><surname xml:id="idm140667859244336">Blicher</surname>, <forename xml:id="idm140667859243872">Steen Steensen</forename></name></author><title xml:id="idm140667859243584">Udvalgte værker</title><pubPlace xml:id="idm140667859243280">[Kbh.]</pubPlace>
-<publisher xml:id="idm140667859242816">Gyldendal</publisher><date xml:id="idm140667859242480">1982-83</date></bibl><listBibl xml:id="idm140667859242192"><bibl xml:id="biblid55512"><title xml:id="idm140667859228992">Fjorten Dage i Jylland</title></bibl><bibl xml:id="biblid62013"><title xml:id="idm140667859228160">Diana [uddrag]</title></bibl><bibl xml:id="biblid62044"><title xml:id="idm140667859227376">Jagtens Forsvar</title></bibl><bibl xml:id="biblid63134"><title xml:id="idm140667859226592">Jagtens Historie, i kort Begreb</title></bibl><bibl xml:id="biblid63874"><title xml:id="idm140667859225792">Vildtets Naturhistorie. Haren</title></bibl><bibl xml:id="biblid67561"><title xml:id="idm140667859224992">Jagthistorier og andre Jagten vedkommende Noticer</title></bibl><bibl xml:id="biblid67567"><title xml:id="idm140667859224176">Vildbassen skyder Jægeren</title></bibl><bibl xml:id="biblid67599"><title xml:id="idm140667859223360">Jagtlyst til det Yderste</title></bibl><bibl xml:id="biblid67690"><title xml:id="idm140667859222512">Forunderlig Frelse</title></bibl><bibl xml:id="biblid67721"><title xml:id="idm140667859221728">Særdeles Jagtiver</title></bibl><bibl xml:id="biblid67768"><title xml:id="idm140667859220880">Baglænds Ridt paa en Hjort</title></bibl><bibl xml:id="biblid67841"><title xml:id="idm140667859220016">Et ulykkeligt Vaadeskud</title></bibl><bibl xml:id="biblid67893"><title xml:id="idm140667859219232">En Bonde og en Raabuk, hverandres Banemand</title></bibl><bibl xml:id="biblid67935"><title xml:id="idm140667859218368">Urfuglen [uddrag]</title></bibl><bibl xml:id="biblid67940"><title xml:id="idm140667859217536">Urhønsjagten</title></bibl><bibl xml:id="biblid68767"><title xml:id="idm140667859216688">Vildandejagten [uddrag]</title></bibl><bibl xml:id="biblid69782"><title xml:id="idm140667859215904">Jagt efter Gjedder</title></bibl><bibl xml:id="biblid70022"><title xml:id="idm140667859215120">Jægerens Paaklædning</title></bibl><bibl xml:id="biblid70769"><title xml:id="idm140667859214304">Jagthunden</title></bibl><bibl xml:id="biblid71806"><title xml:id="idm140667859213520">Johanna Gray [uddrag]</title></bibl><bibl xml:id="biblid72680"><title xml:id="idm140667859212624">Ossians Digte [uddrag]</title></bibl><bibl xml:id="biblid72689"><title xml:id="idm140667859211792">Carthon</title></bibl><bibl xml:id="biblid74218"><title xml:id="idm140667859210960">Mit første Digt</title></bibl><bibl xml:id="biblid74766"><title xml:id="idm140667859210112">Min Yndlingsdal</title></bibl><bibl xml:id="biblid75013"><title xml:id="idm140667859209280">Hiemvee</title></bibl><bibl xml:id="biblid75885"><title xml:id="idm140667859208448">Jyllandsrejse I sex Døgn</title></bibl><bibl xml:id="biblid79535"><title xml:id="idm140667859207584">Til Sorgen</title></bibl><bibl xml:id="biblid79689"><title xml:id="idm140667859206800">Til Glæden</title></bibl><bibl xml:id="biblid79886"><title xml:id="idm140667859206016">Den unge Lærkes Foraarssang</title></bibl><bibl xml:id="biblid80142"><title xml:id="idm140667859205120">Den gamle Lærkes Efteraarssang</title></bibl><bibl xml:id="biblid80416"><title xml:id="idm140667859204288">Kjerlighedsdalen</title></bibl><bibl xml:id="biblid80691"><title xml:id="idm140667859203504">Farvel til min første Kjæreste!</title></bibl><bibl xml:id="biblid81365"><title xml:id="idm140667859202624">Sneklokken</title></bibl><bibl xml:id="biblid81488"><title xml:id="idm140667859201792">Skjaldens Embede</title></bibl><bibl xml:id="biblid81952"><title xml:id="idm140667859200960">Digterens Lyksalighed</title></bibl><bibl xml:id="biblid82225"><title xml:id="idm140667859200128">Over en Lærke, som hungrede tildøde</title></bibl><bibl xml:id="biblid82322"><title xml:id="idm140667859199232">Min Svanesang</title></bibl><bibl xml:id="biblid82806"><title xml:id="idm140667859198400">Trækfuglene</title></bibl><bibl xml:id="biblid82821"><title xml:id="idm140667859197488">Præludium</title></bibl><bibl xml:id="biblid83009"><title xml:id="idm140667859196640">Ouverture</title></bibl><bibl xml:id="biblid83167"><title xml:id="idm140667859195808">Hjejlen</title></bibl><bibl xml:id="biblid83268"><title xml:id="idm140667859195024">Lærken</title></bibl><bibl xml:id="biblid83410"><title xml:id="idm140667859194192">Sisgenen</title></bibl><bibl xml:id="biblid83521"><title xml:id="idm140667859193360">Hornuglen</title></bibl><bibl xml:id="biblid83641"><title xml:id="idm140667859192528">Viben</title></bibl><bibl xml:id="biblid83768"><title xml:id="idm140667859191696">Stæren</title></bibl><bibl xml:id="biblid83878"><title xml:id="idm140667859190864">Storken</title></bibl><bibl xml:id="biblid84178"><title xml:id="idm140667859189968">Glenten</title></bibl><bibl xml:id="biblid84331"><title xml:id="idm140667859189136">Sneppen</title></bibl><bibl xml:id="biblid84486"><title xml:id="idm140667859188304">Silkehalen</title></bibl><bibl xml:id="biblid84607"><title xml:id="idm140667859187472">Solsorten</title></bibl><bibl xml:id="biblid84773"><title xml:id="idm140667859186640">Droslen</title></bibl><bibl xml:id="biblid84994"><title xml:id="idm140667859185808">Skovduen</title></bibl><bibl xml:id="biblid85157"><title xml:id="idm140667859184976">Falken</title></bibl><bibl xml:id="biblid85310"><title xml:id="idm140667859184144">Thomas i Gjærdet</title></bibl><bibl xml:id="biblid85460"><title xml:id="idm140667859183296">Rørdrummen</title></bibl><bibl xml:id="biblid85644"><title xml:id="idm140667859182464">Bruushanen</title></bibl><bibl xml:id="biblid85760"><title xml:id="idm140667859177568">Rylen</title></bibl><bibl xml:id="biblid85901"><title xml:id="idm140667859176672">Horsegommen</title></bibl><bibl xml:id="biblid86039"><title xml:id="idm140667859308448">Muusvaagen</title></bibl><bibl xml:id="biblid86160"><title xml:id="idm140667859307728">Stillitsen</title></bibl><bibl xml:id="biblid86291"><title xml:id="idm140667859307008">Irrisken</title></bibl><bibl xml:id="biblid86452"><title xml:id="idm140667859306224">Svalen</title></bibl><bibl xml:id="biblid86593"><title xml:id="idm140667859305440">Vagtlen</title></bibl><bibl xml:id="biblid86748"><title xml:id="idm140667859304656">Hejren</title></bibl><bibl xml:id="biblid86966"><title xml:id="idm140667859150736">Ternen</title></bibl><bibl xml:id="biblid87224"><title xml:id="idm140667859149952">Gjøgen</title></bibl><bibl xml:id="biblid87513"><title xml:id="idm140667859149104">Lyngspurven</title></bibl><bibl xml:id="biblid87667"><title xml:id="idm140667859148320">Nattergalen</title></bibl><bibl xml:id="biblid87848"><title xml:id="idm140667859147536">Svanen</title></bibl><bibl xml:id="biblid87970"><title xml:id="idm140667859146752">Morten Borup</title></bibl><bibl xml:id="biblid88767"><title xml:id="idm140667859145904">En ganske ny vise om en kroermand og hans søn</title></bibl><bibl xml:id="biblid89322"><title xml:id="idm140667859144976">En anden ny vise om en sømand og en landmand</title></bibl><bibl xml:id="biblid89828"><title xml:id="idm140667859144048">Dronning Gunnild</title></bibl><bibl xml:id="biblid90185"><title xml:id="idm140667859143264">E buen aa e herremand</title></bibl><bibl xml:id="biblid90292"><title xml:id="idm140667859142480">Mads Doss</title></bibl><bibl xml:id="biblid90442"><title xml:id="idm140667859141632">Hedelærkens velkommenhjem til nattergalen</title></bibl><bibl xml:id="biblid90765"><title xml:id="idm140667859140720">Svithiod</title></bibl><bibl xml:id="biblid90965"><title xml:id="idm140667859139872">Rommeliklint</title></bibl><bibl xml:id="biblid91306"><title xml:id="idm140667859139088">Karup</title></bibl><bibl xml:id="biblid91581"><title xml:id="idm140667859138304">Til Danmarks Ungdom</title></bibl><bibl xml:id="biblid91918"><title xml:id="idm140667859137456">Ipsara</title></bibl><bibl xml:id="biblid92292"><title xml:id="idm140667859136672">Krigssange. I. Udmarsch</title></bibl><bibl xml:id="biblid92461"><title xml:id="idm140667859135888">Himmelbjergsang. Danmark! Fostermoder kjære!</title></bibl><bibl xml:id="biblid92615"><title xml:id="idm140667859135024">Soven og drømmen</title></bibl><bibl xml:id="biblid92897"><title xml:id="idm140667859134208">Stambogsstykke, til en ungersvend</title></bibl><bibl xml:id="biblid93116"><title xml:id="idm140667859133456">Farvel Hans Christian!</title></bibl><bibl xml:id="biblid93352"><title xml:id="idm140667859132672">Sophie Amalie </title></bibl><bibl xml:id="biblid93623"><title xml:id="idm140667859131920">Psalmer ved Oldingen Niels Blichers Jordefærd</title></bibl><bibl xml:id="biblid93770"><title xml:id="idm140667859131056">Lev  vel! Kong Frederik d. Sjette</title></bibl><bibl xml:id="biblid93864"><title xml:id="idm140667859130224">Jyden</title></bibl><bibl xml:id="biblid93941"><title xml:id="idm140667859129440">Saa er et aar da atter gjemt</title></bibl></listBibl></sourceDesc>
+      <sourceDesc xml:id="idm140667859245136">
+        <bibl xml:id="idm140667859245008">
+          <author n="1" xml:id="idm140667859244832">
+            <name xml:id="idm140667859244464"><surname xml:id="idm140667859244336">Blicher</surname>, <forename xml:id="idm140667859243872">Steen Steensen</forename></name>
+          </author>
+          <title xml:id="idm140667859243584">Udvalgte værker</title>
+          <pubPlace xml:id="idm140667859243280">[København]</pubPlace>
+          <publisher xml:id="idm140667859242816">Gyldendal</publisher>
+          <date xml:id="idm140667859242480">1982-83</date>
+        </bibl>
+        <listBibl xml:id="idm140667859242192">
+          <bibl xml:id="biblid55512">
+            <title xml:id="idm140667859228992">Fjorten Dage i Jylland</title>
+          </bibl>
+          <bibl xml:id="biblid62013">
+            <title xml:id="idm140667859228160">Diana [uddrag]</title>
+          </bibl>
+          <bibl xml:id="biblid62044">
+            <title xml:id="idm140667859227376">Jagtens Forsvar</title>
+          </bibl>
+          <bibl xml:id="biblid63134">
+            <title xml:id="idm140667859226592">Jagtens Historie, i kort Begreb</title>
+          </bibl>
+          <bibl xml:id="biblid63874">
+            <title xml:id="idm140667859225792">Vildtets Naturhistorie. Haren</title>
+          </bibl>
+          <bibl xml:id="biblid67561">
+            <title xml:id="idm140667859224992">Jagthistorier og andre Jagten vedkommende Noticer</title>
+          </bibl>
+          <bibl xml:id="biblid67567">
+            <title xml:id="idm140667859224176">Vildbassen skyder Jægeren</title>
+          </bibl>
+          <bibl xml:id="biblid67599">
+            <title xml:id="idm140667859223360">Jagtlyst til det Yderste</title>
+          </bibl>
+          <bibl xml:id="biblid67690">
+            <title xml:id="idm140667859222512">Forunderlig Frelse</title>
+          </bibl>
+          <bibl xml:id="biblid67721">
+            <title xml:id="idm140667859221728">Særdeles Jagtiver</title>
+          </bibl>
+          <bibl xml:id="biblid67768">
+            <title xml:id="idm140667859220880">Baglænds Ridt paa en Hjort</title>
+          </bibl>
+          <bibl xml:id="biblid67841">
+            <title xml:id="idm140667859220016">Et ulykkeligt Vaadeskud</title>
+          </bibl>
+          <bibl xml:id="biblid67893">
+            <title xml:id="idm140667859219232">En Bonde og en Raabuk, hverandres Banemand</title>
+          </bibl>
+          <bibl xml:id="biblid67935">
+            <title xml:id="idm140667859218368">Urfuglen [uddrag]</title>
+          </bibl>
+          <bibl xml:id="biblid67940">
+            <title xml:id="idm140667859217536">Urhønsjagten</title>
+          </bibl>
+          <bibl xml:id="biblid68767">
+            <title xml:id="idm140667859216688">Vildandejagten [uddrag]</title>
+          </bibl>
+          <bibl xml:id="biblid69782">
+            <title xml:id="idm140667859215904">Jagt efter Gjedder</title>
+          </bibl>
+          <bibl xml:id="biblid70022">
+            <title xml:id="idm140667859215120">Jægerens Paaklædning</title>
+          </bibl>
+          <bibl xml:id="biblid70769">
+            <title xml:id="idm140667859214304">Jagthunden</title>
+          </bibl>
+          <bibl xml:id="biblid71806">
+            <title xml:id="idm140667859213520">Johanna Gray [uddrag]</title>
+          </bibl>
+          <bibl xml:id="biblid72680">
+            <title xml:id="idm140667859212624">Ossians Digte [uddrag]</title>
+          </bibl>
+          <bibl xml:id="biblid72689">
+            <title xml:id="idm140667859211792">Carthon</title>
+          </bibl>
+          <bibl xml:id="biblid74218">
+            <title xml:id="idm140667859210960">Mit første Digt</title>
+          </bibl>
+          <bibl xml:id="biblid74766">
+            <title xml:id="idm140667859210112">Min Yndlingsdal</title>
+          </bibl>
+          <bibl xml:id="biblid75013">
+            <title xml:id="idm140667859209280">Hiemvee</title>
+          </bibl>
+          <bibl xml:id="biblid75885">
+            <title xml:id="idm140667859208448">Jyllandsrejse I sex Døgn</title>
+          </bibl>
+          <bibl xml:id="biblid79535">
+            <title xml:id="idm140667859207584">Til Sorgen</title>
+          </bibl>
+          <bibl xml:id="biblid79689">
+            <title xml:id="idm140667859206800">Til Glæden</title>
+          </bibl>
+          <bibl xml:id="biblid79886">
+            <title xml:id="idm140667859206016">Den unge Lærkes Foraarssang</title>
+          </bibl>
+          <bibl xml:id="biblid80142">
+            <title xml:id="idm140667859205120">Den gamle Lærkes Efteraarssang</title>
+          </bibl>
+          <bibl xml:id="biblid80416">
+            <title xml:id="idm140667859204288">Kjerlighedsdalen</title>
+          </bibl>
+          <bibl xml:id="biblid80691">
+            <title xml:id="idm140667859203504">Farvel til min første Kjæreste!</title>
+          </bibl>
+          <bibl xml:id="biblid81365">
+            <title xml:id="idm140667859202624">Sneklokken</title>
+          </bibl>
+          <bibl xml:id="biblid81488">
+            <title xml:id="idm140667859201792">Skjaldens Embede</title>
+          </bibl>
+          <bibl xml:id="biblid81952">
+            <title xml:id="idm140667859200960">Digterens Lyksalighed</title>
+          </bibl>
+          <bibl xml:id="biblid82225">
+            <title xml:id="idm140667859200128">Over en Lærke, som hungrede tildøde</title>
+          </bibl>
+          <bibl xml:id="biblid82322">
+            <title xml:id="idm140667859199232">Min Svanesang</title>
+          </bibl>
+          <bibl xml:id="biblid82806">
+            <title xml:id="idm140667859198400">Trækfuglene</title>
+          </bibl>
+          <bibl xml:id="biblid82821">
+            <title xml:id="idm140667859197488">Præludium</title>
+          </bibl>
+          <bibl xml:id="biblid83009">
+            <title xml:id="idm140667859196640">Ouverture</title>
+          </bibl>
+          <bibl xml:id="biblid83167">
+            <title xml:id="idm140667859195808">Hjejlen</title>
+          </bibl>
+          <bibl xml:id="biblid83268">
+            <title xml:id="idm140667859195024">Lærken</title>
+          </bibl>
+          <bibl xml:id="biblid83410">
+            <title xml:id="idm140667859194192">Sisgenen</title>
+          </bibl>
+          <bibl xml:id="biblid83521">
+            <title xml:id="idm140667859193360">Hornuglen</title>
+          </bibl>
+          <bibl xml:id="biblid83641">
+            <title xml:id="idm140667859192528">Viben</title>
+          </bibl>
+          <bibl xml:id="biblid83768">
+            <title xml:id="idm140667859191696">Stæren</title>
+          </bibl>
+          <bibl xml:id="biblid83878">
+            <title xml:id="idm140667859190864">Storken</title>
+          </bibl>
+          <bibl xml:id="biblid84178">
+            <title xml:id="idm140667859189968">Glenten</title>
+          </bibl>
+          <bibl xml:id="biblid84331">
+            <title xml:id="idm140667859189136">Sneppen</title>
+          </bibl>
+          <bibl xml:id="biblid84486">
+            <title xml:id="idm140667859188304">Silkehalen</title>
+          </bibl>
+          <bibl xml:id="biblid84607">
+            <title xml:id="idm140667859187472">Solsorten</title>
+          </bibl>
+          <bibl xml:id="biblid84773">
+            <title xml:id="idm140667859186640">Droslen</title>
+          </bibl>
+          <bibl xml:id="biblid84994">
+            <title xml:id="idm140667859185808">Skovduen</title>
+          </bibl>
+          <bibl xml:id="biblid85157">
+            <title xml:id="idm140667859184976">Falken</title>
+          </bibl>
+          <bibl xml:id="biblid85310">
+            <title xml:id="idm140667859184144">Thomas i Gjærdet</title>
+          </bibl>
+          <bibl xml:id="biblid85460">
+            <title xml:id="idm140667859183296">Rørdrummen</title>
+          </bibl>
+          <bibl xml:id="biblid85644">
+            <title xml:id="idm140667859182464">Bruushanen</title>
+          </bibl>
+          <bibl xml:id="biblid85760">
+            <title xml:id="idm140667859177568">Rylen</title>
+          </bibl>
+          <bibl xml:id="biblid85901">
+            <title xml:id="idm140667859176672">Horsegommen</title>
+          </bibl>
+          <bibl xml:id="biblid86039">
+            <title xml:id="idm140667859308448">Muusvaagen</title>
+          </bibl>
+          <bibl xml:id="biblid86160">
+            <title xml:id="idm140667859307728">Stillitsen</title>
+          </bibl>
+          <bibl xml:id="biblid86291">
+            <title xml:id="idm140667859307008">Irrisken</title>
+          </bibl>
+          <bibl xml:id="biblid86452">
+            <title xml:id="idm140667859306224">Svalen</title>
+          </bibl>
+          <bibl xml:id="biblid86593">
+            <title xml:id="idm140667859305440">Vagtlen</title>
+          </bibl>
+          <bibl xml:id="biblid86748">
+            <title xml:id="idm140667859304656">Hejren</title>
+          </bibl>
+          <bibl xml:id="biblid86966">
+            <title xml:id="idm140667859150736">Ternen</title>
+          </bibl>
+          <bibl xml:id="biblid87224">
+            <title xml:id="idm140667859149952">Gjøgen</title>
+          </bibl>
+          <bibl xml:id="biblid87513">
+            <title xml:id="idm140667859149104">Lyngspurven</title>
+          </bibl>
+          <bibl xml:id="biblid87667">
+            <title xml:id="idm140667859148320">Nattergalen</title>
+          </bibl>
+          <bibl xml:id="biblid87848">
+            <title xml:id="idm140667859147536">Svanen</title>
+          </bibl>
+          <bibl xml:id="biblid87970">
+            <title xml:id="idm140667859146752">Morten Borup</title>
+          </bibl>
+          <bibl xml:id="biblid88767">
+            <title xml:id="idm140667859145904">En ganske ny vise om en kroermand og hans søn</title>
+          </bibl>
+          <bibl xml:id="biblid89322">
+            <title xml:id="idm140667859144976">En anden ny vise om en sømand og en landmand</title>
+          </bibl>
+          <bibl xml:id="biblid89828">
+            <title xml:id="idm140667859144048">Dronning Gunnild</title>
+          </bibl>
+          <bibl xml:id="biblid90185">
+            <title xml:id="idm140667859143264">E buen aa e herremand</title>
+          </bibl>
+          <bibl xml:id="biblid90292">
+            <title xml:id="idm140667859142480">Mads Doss</title>
+          </bibl>
+          <bibl xml:id="biblid90442">
+            <title xml:id="idm140667859141632">Hedelærkens velkommenhjem til nattergalen</title>
+          </bibl>
+          <bibl xml:id="biblid90765">
+            <title xml:id="idm140667859140720">Svithiod</title>
+          </bibl>
+          <bibl xml:id="biblid90965">
+            <title xml:id="idm140667859139872">Rommeliklint</title>
+          </bibl>
+          <bibl xml:id="biblid91306">
+            <title xml:id="idm140667859139088">Karup</title>
+          </bibl>
+          <bibl xml:id="biblid91581">
+            <title xml:id="idm140667859138304">Til Danmarks Ungdom</title>
+          </bibl>
+          <bibl xml:id="biblid91918">
+            <title xml:id="idm140667859137456">Ipsara</title>
+          </bibl>
+          <bibl xml:id="biblid92292">
+            <title xml:id="idm140667859136672">Krigssange. I. Udmarsch</title>
+          </bibl>
+          <bibl xml:id="biblid92461">
+            <title xml:id="idm140667859135888">Himmelbjergsang. Danmark! Fostermoder kjære!</title>
+          </bibl>
+          <bibl xml:id="biblid92615">
+            <title xml:id="idm140667859135024">Soven og drømmen</title>
+          </bibl>
+          <bibl xml:id="biblid92897">
+            <title xml:id="idm140667859134208">Stambogsstykke, til en ungersvend</title>
+          </bibl>
+          <bibl xml:id="biblid93116">
+            <title xml:id="idm140667859133456">Farvel Hans Christian!</title>
+          </bibl>
+          <bibl xml:id="biblid93352">
+            <title xml:id="idm140667859132672">Sophie Amalie </title>
+          </bibl>
+          <bibl xml:id="biblid93623">
+            <title xml:id="idm140667859131920">Psalmer ved Oldingen Niels Blichers Jordefærd</title>
+          </bibl>
+          <bibl xml:id="biblid93770">
+            <title xml:id="idm140667859131056">Lev  vel! Kong Frederik d. Sjette</title>
+          </bibl>
+          <bibl xml:id="biblid93864">
+            <title xml:id="idm140667859130224">Jyden</title>
+          </bibl>
+          <bibl xml:id="biblid93941">
+            <title xml:id="idm140667859129440">Saa er et aar da atter gjemt</title>
+          </bibl>
+        </listBibl>
+      </sourceDesc>
     </fileDesc>
   </teiHeader>
   <text xml:id="idm140667859128800">

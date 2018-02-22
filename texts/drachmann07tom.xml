@@ -1,10 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!--Tom opmærkning blo 09.05.02-->
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="idm140702591040608"><!-- 
-       file     ./marc_dir/001823907.xml
-       field     
-       subfield  
-       prefix   -->
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="root">
   <teiHeader xml:id="idm140702591039776">
     <fileDesc xml:id="idm140702591039520">
       <titleStmt xml:id="idm140702591039216">
@@ -19,8 +14,90 @@
         <note xml:id="idm140702591011136">
 	  </note>
       </notesStmt>
-      <sourceDesc xml:id="idm140702591010624"><bibl xml:id="idm140702591010496"><author n="1" xml:id="idm140702591009808"><name xml:id="idm140702591009552"><surname xml:id="idm140702591009424">Drachmann</surname>, <forename xml:id="idm140702591008992">Holger</forename></name></author><title xml:id="idm140702591008704">Samlede poetiske Skrifter</title><pubPlace xml:id="idm140702591008400">Kbh. &amp; Kristiania</pubPlace>
-<date xml:id="idm140702591007776">1906-1909</date></bibl><listBibl xml:id="idm140702591007520"><bibl xml:id="biblid54134"><title xml:id="idm140702590994368">Lykken i Arenzano</title></bibl><bibl xml:id="biblid53727"><title xml:id="idm140702590993584">Kantate til Holbergfesten 3. december 1884</title></bibl><bibl xml:id="biblid54610"><title xml:id="idm140702590992768">Fjældsange og Æventyr</title></bibl><bibl xml:id="biblid54627"><title xml:id="idm140702590991904">Til Jens</title></bibl><bibl xml:id="biblid54639"><title xml:id="idm140702590991120">Alene</title></bibl><bibl xml:id="biblid54650"><title xml:id="idm140702590990336">Jeg er kommen fra et Underland</title></bibl><bibl xml:id="biblid54662"><title xml:id="idm140702590989536">Ud over Fjældsøen</title></bibl><bibl xml:id="biblid54674"><title xml:id="idm140702590988736">Paa Toppen</title></bibl><bibl xml:id="biblid54679"><title xml:id="idm140702590987952">Morgenhilsen</title></bibl><bibl xml:id="biblid54691"><title xml:id="idm140702590987168">Bjerg-Salme</title></bibl><bibl xml:id="biblid54703"><title xml:id="idm140702590986384">To ærlige Mænd (Heegaard-Schiødte)</title></bibl><bibl xml:id="biblid54721"><title xml:id="idm140702590985424">Morgen-Taage</title></bibl><bibl xml:id="biblid54732"><title xml:id="idm140702590984592">Hoch-Osterwitz</title></bibl><bibl xml:id="biblid54757"><title xml:id="idm140702590983808">Nu slaar Ørnen med Vinge</title></bibl><bibl xml:id="biblid54769"><title xml:id="idm140702590982944">Idyl og Æventyr</title></bibl><bibl xml:id="biblid54787"><title xml:id="idm140702590982096">I Schlitza-Kløften</title></bibl><bibl xml:id="biblid54814"><title xml:id="idm140702590981296">Der var en gang</title></bibl><bibl xml:id="biblid55244"><title xml:id="idm140702590980464">Strenge Herrer</title></bibl><bibl xml:id="biblid55602"><title xml:id="idm140702590979616">Danmark Leve! Blade fra en Rejse paa begge Sider af Grænsen</title></bibl><bibl xml:id="biblid55620"><title xml:id="idm140702590978672">Postillon-Vise</title></bibl><bibl xml:id="biblid55638"><title xml:id="idm140702590977840">Frisk Luft</title></bibl><bibl xml:id="biblid55702"><title xml:id="idm140702590977008">Højskamling</title></bibl><bibl xml:id="biblid55896"><title xml:id="idm140702590976208">Blandt dem, der vente</title></bibl><bibl xml:id="biblid56119"><title xml:id="idm140702590975376">Arkibiades eller Grælere i Forfald</title></bibl></listBibl></sourceDesc>
+      <sourceDesc xml:id="idm140702591010624">
+        <bibl xml:id="idm140702591010496">
+          <author n="1" xml:id="idm140702591009808">
+            <name xml:id="idm140702591009552"><surname xml:id="idm140702591009424">Drachmann</surname>, <forename xml:id="idm140702591008992">Holger</forename></name>
+          </author>
+          <title xml:id="idm140702591008704">Samlede poetiske Skrifter</title>
+          <pubPlace xml:id="idm140702591008400">Kbh. &amp; Kristiania</pubPlace>
+          <date xml:id="idm140702591007776">1906-1909</date>
+        </bibl>
+        <listBibl xml:id="idm140702591007520">
+          <bibl xml:id="biblid54134">
+            <title xml:id="idm140702590994368">Lykken i Arenzano</title>
+          </bibl>
+          <bibl xml:id="biblid53727">
+            <title xml:id="idm140702590993584">Kantate til Holbergfesten 3. december 1884</title>
+          </bibl>
+          <bibl xml:id="biblid54610">
+            <title xml:id="idm140702590992768">Fjældsange og Æventyr</title>
+          </bibl>
+          <bibl xml:id="biblid54627">
+            <title xml:id="idm140702590991904">Til Jens</title>
+          </bibl>
+          <bibl xml:id="biblid54639">
+            <title xml:id="idm140702590991120">Alene</title>
+          </bibl>
+          <bibl xml:id="biblid54650">
+            <title xml:id="idm140702590990336">Jeg er kommen fra et Underland</title>
+          </bibl>
+          <bibl xml:id="biblid54662">
+            <title xml:id="idm140702590989536">Ud over Fjældsøen</title>
+          </bibl>
+          <bibl xml:id="biblid54674">
+            <title xml:id="idm140702590988736">Paa Toppen</title>
+          </bibl>
+          <bibl xml:id="biblid54679">
+            <title xml:id="idm140702590987952">Morgenhilsen</title>
+          </bibl>
+          <bibl xml:id="biblid54691">
+            <title xml:id="idm140702590987168">Bjerg-Salme</title>
+          </bibl>
+          <bibl xml:id="biblid54703">
+            <title xml:id="idm140702590986384">To ærlige Mænd (Heegaard-Schiødte)</title>
+          </bibl>
+          <bibl xml:id="biblid54721">
+            <title xml:id="idm140702590985424">Morgen-Taage</title>
+          </bibl>
+          <bibl xml:id="biblid54732">
+            <title xml:id="idm140702590984592">Hoch-Osterwitz</title>
+          </bibl>
+          <bibl xml:id="biblid54757">
+            <title xml:id="idm140702590983808">Nu slaar Ørnen med Vinge</title>
+          </bibl>
+          <bibl xml:id="biblid54769">
+            <title xml:id="idm140702590982944">Idyl og Æventyr</title>
+          </bibl>
+          <bibl xml:id="biblid54787">
+            <title xml:id="idm140702590982096">I Schlitza-Kløften</title>
+          </bibl>
+          <bibl xml:id="biblid54814">
+            <title xml:id="idm140702590981296">Der var en gang</title>
+          </bibl>
+          <bibl xml:id="biblid55244">
+            <title xml:id="idm140702590980464">Strenge Herrer</title>
+          </bibl>
+          <bibl xml:id="biblid55602">
+            <title xml:id="idm140702590979616">Danmark Leve! Blade fra en Rejse paa begge Sider af Grænsen</title>
+          </bibl>
+          <bibl xml:id="biblid55620">
+            <title xml:id="idm140702590978672">Postillon-Vise</title>
+          </bibl>
+          <bibl xml:id="biblid55638">
+            <title xml:id="idm140702590977840">Frisk Luft</title>
+          </bibl>
+          <bibl xml:id="biblid55702">
+            <title xml:id="idm140702590977008">Højskamling</title>
+          </bibl>
+          <bibl xml:id="biblid55896">
+            <title xml:id="idm140702590976208">Blandt dem, der vente</title>
+          </bibl>
+          <bibl xml:id="biblid56119">
+            <title xml:id="idm140702590975376">Arkibiades eller Grælere i Forfald</title>
+          </bibl>
+        </listBibl>
+      </sourceDesc>
     </fileDesc>
   </teiHeader>
   <text xml:id="idm140702590974656">

@@ -1,13 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!--gbl 14.08.2001
-
-20090825 JAMO rettet ocr-fejl s. 173
--->
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="idm140141268610096"><!-- 
-       file     ./marc_dir/001719744.xml
-       field     
-       subfield  
-       prefix   -->
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="root">
   <teiHeader xml:id="idm140141268609328">
     <fileDesc xml:id="idm140141268609072">
       <titleStmt xml:id="idm140141268608768">
@@ -26,17 +18,272 @@
         <note xml:id="idm140141268579504">
 	  </note>
       </notesStmt>
-      <sourceDesc xml:id="idm140141268578992"><bibl xml:id="idm140141268578864"><author n="1" xml:id="idm140141268578176"><name xml:id="idm140141268577920"><surname xml:id="idm140141268577792">Larsen</surname>, <forename xml:id="idm140141268577360">Thøger</forename></name></author><title xml:id="idm140141268577104">Fire digtsamlinger 1904-1912</title><pubPlace xml:id="idm140141268576800">[Kbh.]</pubPlace>; <pubPlace xml:id="idm140141268576336">[Valby]</pubPlace>
-<publisher xml:id="idm140141268575872">Det Danske Sprog- og Litteraturselskab</publisher><publisher xml:id="idm140141268575568">Borgen</publisher><date xml:id="idm140141268575232">1995</date></bibl><listBibl xml:id="idm140141268574944"><bibl xml:id="biblid53745"><title xml:id="idm140141268561792">Jord</title></bibl><bibl xml:id="biblid54471"><title xml:id="idm140141268560960">Vor Moder Jord</title></bibl><bibl xml:id="biblid54593"><title xml:id="idm140141268560176"> Sommermorgen</title></bibl><bibl xml:id="biblid54706"><title xml:id="idm140141268559392"> Ved Vinduet</title></bibl><bibl xml:id="biblid54943"><title xml:id="idm140141268558608"> Hymne</title></bibl><bibl xml:id="biblid55154"><title xml:id="idm140141268557824"> Solsangen</title></bibl><bibl xml:id="biblid55323"><title xml:id="idm140141268557040"> Sommer</title></bibl><bibl xml:id="biblid55446"><title xml:id="idm140141268556208"> Tilfældighed</title></bibl><bibl xml:id="biblid55593"><title xml:id="idm140141268555408"> Middagshvile</title></bibl><bibl xml:id="biblid55727"><title xml:id="idm140141268554576"> Før Daggry</title></bibl><bibl xml:id="biblid55863"><title xml:id="idm140141268553728"> Torden</title></bibl><bibl xml:id="biblid55976"><title xml:id="idm140141268552944"> Augustnat</title></bibl><bibl xml:id="biblid56125"><title xml:id="idm140141268552160"> Baalet</title></bibl><bibl xml:id="biblid56250"><title xml:id="idm140141268551328"> Sagn</title></bibl><bibl xml:id="biblid56587"><title xml:id="idm140141268550544"> Det grønne Foraar</title></bibl><bibl xml:id="biblid56706"><title xml:id="idm140141268549696"> Jeg drømte</title></bibl><bibl xml:id="biblid56849"><title xml:id="idm140141268548848"> Spillemanden</title></bibl><bibl xml:id="biblid56980"><title xml:id="idm140141268548064"> Nornerne</title></bibl><bibl xml:id="biblid57206"><title xml:id="idm140141268547232"> Aften</title></bibl><bibl xml:id="biblid57279"><title xml:id="idm140141268546400"> Højsang</title></bibl><bibl xml:id="biblid57780"><title xml:id="idm140141268545568"> Vintermorgen</title></bibl><bibl xml:id="biblid57919"><title xml:id="idm140141268544736"> En tungsindig Sommermidnat -</title></bibl><bibl xml:id="biblid58040"><title xml:id="idm140141268543936"> Pan</title></bibl><bibl xml:id="biblid58180"><title xml:id="idm140141268543104"> O Livets Mester!</title></bibl><bibl xml:id="biblid58296"><title xml:id="idm140141268542272"> Foraarsmorgen</title></bibl><bibl xml:id="biblid58422"><title xml:id="idm140141268541440"> Middag</title></bibl><bibl xml:id="biblid58536"><title xml:id="idm140141268540544">Dagene</title></bibl><bibl xml:id="biblid58627"><title xml:id="idm140141268539712">Strandvalmue</title></bibl><bibl xml:id="biblid58826"><title xml:id="idm140141268538928">Vinternat</title></bibl><bibl xml:id="biblid59022"><title xml:id="idm140141268538096">Vesterhavet</title></bibl><bibl xml:id="biblid59166"><title xml:id="idm140141268537264">Maj</title></bibl><bibl xml:id="biblid59375"><title xml:id="idm140141268536464">Stille Midnat</title></bibl><bibl xml:id="biblid59602"><title xml:id="idm140141268535632">Ved Fjorden</title></bibl><bibl xml:id="biblid59904"><title xml:id="idm140141268639680">Eftersommer</title></bibl><bibl xml:id="biblid60003"><title xml:id="idm140141268638960">Staden i Østerled</title></bibl><bibl xml:id="biblid60153"><title xml:id="idm140141268638272">I Cirkus</title></bibl><bibl xml:id="biblid60396"><title xml:id="idm140141268637488">Reformatoren</title></bibl><bibl xml:id="biblid60491"><title xml:id="idm140141268636704">Nabostjerner</title></bibl><bibl xml:id="biblid60564"><title xml:id="idm140141268635920">Jens Højby</title></bibl><bibl xml:id="biblid61691"><title xml:id="idm140141268509728">Jesper Plovmand</title></bibl><bibl xml:id="biblid61901"><title xml:id="idm140141268508944">Vi bygger</title></bibl><bibl xml:id="biblid62049"><title xml:id="idm140141268508160">Bryllupsviser</title></bibl><bibl xml:id="biblid62309"><title xml:id="idm140141268507376">Under Lindene paa Engen</title></bibl><bibl xml:id="biblid62497"><title xml:id="idm140141268506592">Kræ-Tammesen i Morgenstemning</title></bibl><bibl xml:id="biblid62641"><title xml:id="idm140141268505760">Kræ-Tammesen og Bordbønnen</title></bibl><bibl xml:id="biblid62803"><title xml:id="idm140141268504928">Kræ-Tammesen fæster Pige</title></bibl><bibl xml:id="biblid62955"><title xml:id="idm140141268504112">Kræ-Tammesen i Vorherres Haand</title></bibl><bibl xml:id="biblid63349"><title xml:id="idm140141268503216">Det Fjerne</title></bibl><bibl xml:id="biblid63420"><title xml:id="idm140141268502368">Drift</title></bibl><bibl xml:id="biblid63580"><title xml:id="idm140141268501584">Aftensolen</title></bibl><bibl xml:id="biblid63764"><title xml:id="idm140141268500800">Vaardagen</title></bibl><bibl xml:id="biblid63998"><title xml:id="idm140141268500016">Jorden</title></bibl><bibl xml:id="biblid64352"><title xml:id="idm140141268499232">Saa fik vi Sommer i Riget</title></bibl><bibl xml:id="biblid64631"><title xml:id="idm140141268498480">Sommeraften</title></bibl><bibl xml:id="biblid64732"><title xml:id="idm140141268497632">Graavejr</title></bibl><bibl xml:id="biblid64840"><title xml:id="idm140141268496848">En Løvfaldsdag</title></bibl><bibl xml:id="biblid64979"><title xml:id="idm140141268496096">Stormfuld Vinternat</title></bibl><bibl xml:id="biblid65174"><title xml:id="idm140141268491248">Vintermiddag</title></bibl><bibl xml:id="biblid65234"><title xml:id="idm140141268490560">Hvidenæs</title></bibl><bibl xml:id="biblid65478"><title xml:id="idm140141268489872">Danmark</title></bibl><bibl xml:id="biblid65663"><title xml:id="idm140141268489120">Barnet</title></bibl><bibl xml:id="biblid65837"><title xml:id="idm140141268488432">Tyngden og Floden</title></bibl><bibl xml:id="biblid66049"><title xml:id="idm140141268487744">Pigens Morgen</title></bibl><bibl xml:id="biblid66164"><title xml:id="idm140141268487024">Walther von der Vogelweide</title></bibl><bibl xml:id="biblid66377"><title xml:id="idm140141268486240">Tidernes Sang</title></bibl><bibl xml:id="biblid67072"><title xml:id="idm140141268485456">Bakker og Bølger</title></bibl><bibl xml:id="biblid67154"><title xml:id="idm140141268484704">En Dag</title></bibl><bibl xml:id="biblid67325"><title xml:id="idm140141268483920">Maaneskin</title></bibl><bibl xml:id="biblid67463"><title xml:id="idm140141268483136">Tordenbygen</title></bibl><bibl xml:id="biblid67628"><title xml:id="idm140141268482288">Nordenvinden</title></bibl><bibl xml:id="biblid67741"><title xml:id="idm140141268481504">August</title></bibl><bibl xml:id="biblid67935"><title xml:id="idm140141268480720">Morgenbadet</title></bibl><bibl xml:id="biblid68087"><title xml:id="idm140141268479936">Hymne til Skibet</title></bibl><bibl xml:id="biblid68234"><title xml:id="idm140141268479088">Aaret i Danmark</title></bibl><bibl xml:id="biblid68432"><title xml:id="idm140141268478240">Tiden</title></bibl><bibl xml:id="biblid68466"><title xml:id="idm140141268477456">Stjernenatten</title></bibl><bibl xml:id="biblid68640"><title xml:id="idm140141268476672">Jørgen Brønlund</title></bibl><bibl xml:id="biblid68854"><title xml:id="idm140141268475920">Bjørnstjerne Bjørnson</title></bibl><bibl xml:id="biblid68941"><title xml:id="idm140141268475104">Solskin i en Stue</title></bibl><bibl xml:id="biblid69157"><title xml:id="idm140141268474320">De fire Aarstider</title></bibl><bibl xml:id="biblid69287"><title xml:id="idm140141268473536">Virkeligheden</title></bibl><bibl xml:id="biblid69951"><title xml:id="idm140141268472688">Stormnat</title></bibl><bibl xml:id="biblid70092"><title xml:id="idm140141268471904">Jylland</title></bibl><bibl xml:id="biblid70221"><title xml:id="idm140141268471120">En Moder</title></bibl><bibl xml:id="biblid72356"><title xml:id="idm140141268470336">RUBÁIYÁT</title></bibl></listBibl></sourceDesc>
+      <sourceDesc xml:id="idm140141268578992">
+        <bibl xml:id="idm140141268578864"><author n="1" xml:id="idm140141268578176"><name xml:id="idm140141268577920"><surname xml:id="idm140141268577792">Larsen</surname>, <forename xml:id="idm140141268577360">Thøger</forename></name></author><title xml:id="idm140141268577104">Fire digtsamlinger 1904-1912</title><pubPlace xml:id="idm140141268576800">[København]</pubPlace>; <pubPlace xml:id="idm140141268576336">[Valby]</pubPlace><publisher xml:id="idm140141268575872">Det Danske Sprog- og Litteraturselskab</publisher><publisher xml:id="idm140141268575568">Borgen</publisher><date xml:id="idm140141268575232">1995</date></bibl>
+        <listBibl xml:id="idm140141268574944">
+          <bibl xml:id="biblid53745">
+            <title xml:id="idm140141268561792">Jord</title>
+          </bibl>
+          <bibl xml:id="biblid54471">
+            <title xml:id="idm140141268560960">Vor Moder Jord</title>
+          </bibl>
+          <bibl xml:id="biblid54593">
+            <title xml:id="idm140141268560176"> Sommermorgen</title>
+          </bibl>
+          <bibl xml:id="biblid54706">
+            <title xml:id="idm140141268559392"> Ved Vinduet</title>
+          </bibl>
+          <bibl xml:id="biblid54943">
+            <title xml:id="idm140141268558608"> Hymne</title>
+          </bibl>
+          <bibl xml:id="biblid55154">
+            <title xml:id="idm140141268557824"> Solsangen</title>
+          </bibl>
+          <bibl xml:id="biblid55323">
+            <title xml:id="idm140141268557040"> Sommer</title>
+          </bibl>
+          <bibl xml:id="biblid55446">
+            <title xml:id="idm140141268556208"> Tilfældighed</title>
+          </bibl>
+          <bibl xml:id="biblid55593">
+            <title xml:id="idm140141268555408"> Middagshvile</title>
+          </bibl>
+          <bibl xml:id="biblid55727">
+            <title xml:id="idm140141268554576"> Før Daggry</title>
+          </bibl>
+          <bibl xml:id="biblid55863">
+            <title xml:id="idm140141268553728"> Torden</title>
+          </bibl>
+          <bibl xml:id="biblid55976">
+            <title xml:id="idm140141268552944"> Augustnat</title>
+          </bibl>
+          <bibl xml:id="biblid56125">
+            <title xml:id="idm140141268552160"> Baalet</title>
+          </bibl>
+          <bibl xml:id="biblid56250">
+            <title xml:id="idm140141268551328"> Sagn</title>
+          </bibl>
+          <bibl xml:id="biblid56587">
+            <title xml:id="idm140141268550544"> Det grønne Foraar</title>
+          </bibl>
+          <bibl xml:id="biblid56706">
+            <title xml:id="idm140141268549696"> Jeg drømte</title>
+          </bibl>
+          <bibl xml:id="biblid56849">
+            <title xml:id="idm140141268548848"> Spillemanden</title>
+          </bibl>
+          <bibl xml:id="biblid56980">
+            <title xml:id="idm140141268548064"> Nornerne</title>
+          </bibl>
+          <bibl xml:id="biblid57206">
+            <title xml:id="idm140141268547232"> Aften</title>
+          </bibl>
+          <bibl xml:id="biblid57279">
+            <title xml:id="idm140141268546400"> Højsang</title>
+          </bibl>
+          <bibl xml:id="biblid57780">
+            <title xml:id="idm140141268545568"> Vintermorgen</title>
+          </bibl>
+          <bibl xml:id="biblid57919">
+            <title xml:id="idm140141268544736"> En tungsindig Sommermidnat -</title>
+          </bibl>
+          <bibl xml:id="biblid58040">
+            <title xml:id="idm140141268543936"> Pan</title>
+          </bibl>
+          <bibl xml:id="biblid58180">
+            <title xml:id="idm140141268543104"> O Livets Mester!</title>
+          </bibl>
+          <bibl xml:id="biblid58296">
+            <title xml:id="idm140141268542272"> Foraarsmorgen</title>
+          </bibl>
+          <bibl xml:id="biblid58422">
+            <title xml:id="idm140141268541440"> Middag</title>
+          </bibl>
+          <bibl xml:id="biblid58536">
+            <title xml:id="idm140141268540544">Dagene</title>
+          </bibl>
+          <bibl xml:id="biblid58627">
+            <title xml:id="idm140141268539712">Strandvalmue</title>
+          </bibl>
+          <bibl xml:id="biblid58826">
+            <title xml:id="idm140141268538928">Vinternat</title>
+          </bibl>
+          <bibl xml:id="biblid59022">
+            <title xml:id="idm140141268538096">Vesterhavet</title>
+          </bibl>
+          <bibl xml:id="biblid59166">
+            <title xml:id="idm140141268537264">Maj</title>
+          </bibl>
+          <bibl xml:id="biblid59375">
+            <title xml:id="idm140141268536464">Stille Midnat</title>
+          </bibl>
+          <bibl xml:id="biblid59602">
+            <title xml:id="idm140141268535632">Ved Fjorden</title>
+          </bibl>
+          <bibl xml:id="biblid59904">
+            <title xml:id="idm140141268639680">Eftersommer</title>
+          </bibl>
+          <bibl xml:id="biblid60003">
+            <title xml:id="idm140141268638960">Staden i Østerled</title>
+          </bibl>
+          <bibl xml:id="biblid60153">
+            <title xml:id="idm140141268638272">I Cirkus</title>
+          </bibl>
+          <bibl xml:id="biblid60396">
+            <title xml:id="idm140141268637488">Reformatoren</title>
+          </bibl>
+          <bibl xml:id="biblid60491">
+            <title xml:id="idm140141268636704">Nabostjerner</title>
+          </bibl>
+          <bibl xml:id="biblid60564">
+            <title xml:id="idm140141268635920">Jens Højby</title>
+          </bibl>
+          <bibl xml:id="biblid61691">
+            <title xml:id="idm140141268509728">Jesper Plovmand</title>
+          </bibl>
+          <bibl xml:id="biblid61901">
+            <title xml:id="idm140141268508944">Vi bygger</title>
+          </bibl>
+          <bibl xml:id="biblid62049">
+            <title xml:id="idm140141268508160">Bryllupsviser</title>
+          </bibl>
+          <bibl xml:id="biblid62309">
+            <title xml:id="idm140141268507376">Under Lindene paa Engen</title>
+          </bibl>
+          <bibl xml:id="biblid62497">
+            <title xml:id="idm140141268506592">Kræ-Tammesen i Morgenstemning</title>
+          </bibl>
+          <bibl xml:id="biblid62641">
+            <title xml:id="idm140141268505760">Kræ-Tammesen og Bordbønnen</title>
+          </bibl>
+          <bibl xml:id="biblid62803">
+            <title xml:id="idm140141268504928">Kræ-Tammesen fæster Pige</title>
+          </bibl>
+          <bibl xml:id="biblid62955">
+            <title xml:id="idm140141268504112">Kræ-Tammesen i Vorherres Haand</title>
+          </bibl>
+          <bibl xml:id="biblid63349">
+            <title xml:id="idm140141268503216">Det Fjerne</title>
+          </bibl>
+          <bibl xml:id="biblid63420">
+            <title xml:id="idm140141268502368">Drift</title>
+          </bibl>
+          <bibl xml:id="biblid63580">
+            <title xml:id="idm140141268501584">Aftensolen</title>
+          </bibl>
+          <bibl xml:id="biblid63764">
+            <title xml:id="idm140141268500800">Vaardagen</title>
+          </bibl>
+          <bibl xml:id="biblid63998">
+            <title xml:id="idm140141268500016">Jorden</title>
+          </bibl>
+          <bibl xml:id="biblid64352">
+            <title xml:id="idm140141268499232">Saa fik vi Sommer i Riget</title>
+          </bibl>
+          <bibl xml:id="biblid64631">
+            <title xml:id="idm140141268498480">Sommeraften</title>
+          </bibl>
+          <bibl xml:id="biblid64732">
+            <title xml:id="idm140141268497632">Graavejr</title>
+          </bibl>
+          <bibl xml:id="biblid64840">
+            <title xml:id="idm140141268496848">En Løvfaldsdag</title>
+          </bibl>
+          <bibl xml:id="biblid64979">
+            <title xml:id="idm140141268496096">Stormfuld Vinternat</title>
+          </bibl>
+          <bibl xml:id="biblid65174">
+            <title xml:id="idm140141268491248">Vintermiddag</title>
+          </bibl>
+          <bibl xml:id="biblid65234">
+            <title xml:id="idm140141268490560">Hvidenæs</title>
+          </bibl>
+          <bibl xml:id="biblid65478">
+            <title xml:id="idm140141268489872">Danmark</title>
+          </bibl>
+          <bibl xml:id="biblid65663">
+            <title xml:id="idm140141268489120">Barnet</title>
+          </bibl>
+          <bibl xml:id="biblid65837">
+            <title xml:id="idm140141268488432">Tyngden og Floden</title>
+          </bibl>
+          <bibl xml:id="biblid66049">
+            <title xml:id="idm140141268487744">Pigens Morgen</title>
+          </bibl>
+          <bibl xml:id="biblid66164">
+            <title xml:id="idm140141268487024">Walther von der Vogelweide</title>
+          </bibl>
+          <bibl xml:id="biblid66377">
+            <title xml:id="idm140141268486240">Tidernes Sang</title>
+          </bibl>
+          <bibl xml:id="biblid67072">
+            <title xml:id="idm140141268485456">Bakker og Bølger</title>
+          </bibl>
+          <bibl xml:id="biblid67154">
+            <title xml:id="idm140141268484704">En Dag</title>
+          </bibl>
+          <bibl xml:id="biblid67325">
+            <title xml:id="idm140141268483920">Maaneskin</title>
+          </bibl>
+          <bibl xml:id="biblid67463">
+            <title xml:id="idm140141268483136">Tordenbygen</title>
+          </bibl>
+          <bibl xml:id="biblid67628">
+            <title xml:id="idm140141268482288">Nordenvinden</title>
+          </bibl>
+          <bibl xml:id="biblid67741">
+            <title xml:id="idm140141268481504">August</title>
+          </bibl>
+          <bibl xml:id="biblid67935">
+            <title xml:id="idm140141268480720">Morgenbadet</title>
+          </bibl>
+          <bibl xml:id="biblid68087">
+            <title xml:id="idm140141268479936">Hymne til Skibet</title>
+          </bibl>
+          <bibl xml:id="biblid68234">
+            <title xml:id="idm140141268479088">Aaret i Danmark</title>
+          </bibl>
+          <bibl xml:id="biblid68432">
+            <title xml:id="idm140141268478240">Tiden</title>
+          </bibl>
+          <bibl xml:id="biblid68466">
+            <title xml:id="idm140141268477456">Stjernenatten</title>
+          </bibl>
+          <bibl xml:id="biblid68640">
+            <title xml:id="idm140141268476672">Jørgen Brønlund</title>
+          </bibl>
+          <bibl xml:id="biblid68854">
+            <title xml:id="idm140141268475920">Bjørnstjerne Bjørnson</title>
+          </bibl>
+          <bibl xml:id="biblid68941">
+            <title xml:id="idm140141268475104">Solskin i en Stue</title>
+          </bibl>
+          <bibl xml:id="biblid69157">
+            <title xml:id="idm140141268474320">De fire Aarstider</title>
+          </bibl>
+          <bibl xml:id="biblid69287">
+            <title xml:id="idm140141268473536">Virkeligheden</title>
+          </bibl>
+          <bibl xml:id="biblid69951">
+            <title xml:id="idm140141268472688">Stormnat</title>
+          </bibl>
+          <bibl xml:id="biblid70092">
+            <title xml:id="idm140141268471904">Jylland</title>
+          </bibl>
+          <bibl xml:id="biblid70221">
+            <title xml:id="idm140141268471120">En Moder</title>
+          </bibl>
+          <bibl xml:id="biblid72356">
+            <title xml:id="idm140141268470336">RUBÁIYÁT</title>
+          </bibl>
+        </listBibl>
+      </sourceDesc>
     </fileDesc>
   </teiHeader>
   <text xml:id="idm140141268469696">
     <front xml:id="idm140141268469440">
       <pb n="1" facs="adl/larsenth/larsenth1/lath1001" xml:id="idm140141268469184"/>
       <gap reason="cancelled" xml:id="idm140141268468416"/>
-<!---->
-<!---->
-<!--Fire digtsamlinger 1904-1912-->
       <pb n="2" facs="adl/larsenth/larsenth1/lath1002" xml:id="idm140141268466896"/>
       <pb n="3" facs="adl/larsenth/larsenth1/lath1003" xml:id="idm140141268466128"/>
       <titlePage xml:id="idm140141268465360">

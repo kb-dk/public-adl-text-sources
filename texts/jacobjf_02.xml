@@ -1,9 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="idm139956849343504"><!-- 
-       file     ./marc_dir/002991058.xml
-       field     
-       subfield  
-       prefix   -->
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="root">
   <teiHeader xml:id="idm139956849342848">
     <fileDesc xml:id="idm139956849342592">
       <titleStmt xml:id="idm139956849342288">
@@ -21,8 +17,21 @@
         <note xml:id="idm139956849313312">
 	  </note>
       </notesStmt>
-      <sourceDesc xml:id="idm139956849312800"><bibl xml:id="idm139956849312672"><author n="1" xml:id="idm139956849311984"><name xml:id="idm139956849311728"><surname xml:id="idm139956849311600">Jacobsen</surname>, <forename xml:id="idm139956849311168">Jørgen-Frantz</forename></name></author><title xml:id="idm139956849310864">Nordiske Kroniker</title><pubPlace xml:id="idm139956849310576">Kbh.</pubPlace>
-<date xml:id="idm139956849310064">1943</date></bibl><listBibl xml:id="idm139956849309776"><bibl xml:id="biblid54096"><title xml:id="idm139956849296624">Nordiske Kroniker</title></bibl></listBibl></sourceDesc>
+      <sourceDesc xml:id="idm139956849312800">
+        <bibl xml:id="idm139956849312672">
+          <author n="1" xml:id="idm139956849311984">
+            <name xml:id="idm139956849311728"><surname xml:id="idm139956849311600">Jacobsen</surname>, <forename xml:id="idm139956849311168">Jørgen-Frantz</forename></name>
+          </author>
+          <title xml:id="idm139956849310864">Nordiske Kroniker</title>
+          <pubPlace xml:id="idm139956849310576">København</pubPlace>
+          <date xml:id="idm139956849310064">1943</date>
+        </bibl>
+        <listBibl xml:id="idm139956849309776">
+          <bibl xml:id="biblid54096">
+            <title xml:id="idm139956849296624">Nordiske Kroniker</title>
+          </bibl>
+        </listBibl>
+      </sourceDesc>
     </fileDesc>
   </teiHeader>
   <text xml:id="workid54096" decls="#biblid54096">

@@ -1,13 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!-- 20021018 HHL indsaet vaerktitle, loadet paa ny. Ptj rettet  s. 3-5-7-8-9-10-11-24-31-46-50-51-55-56-74-84-97-240-241- .  
-VL rettet s. 55 20090420
--->
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="idm140621539114048">
-  <!-- 
-       file     ./marc_dir/002299465.xml
-       field     
-       subfield  
-       prefix   -->
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="root">
   <teiHeader xml:id="idm140621539112976">
     <fileDesc xml:id="idm140621539112720">
       <titleStmt xml:id="idm140621539087344">
@@ -33,7 +25,7 @@ VL rettet s. 55 20090420
           <author n="1" xml:id="idm140621539081088">
             <name xml:id="idm140621539080656"><surname xml:id="idm140621539080528">Bagger</surname>, <forename xml:id="idm140621539080064">Carl</forename></name>
           </author>
-          <pubPlace xml:id="idm140621539079520">Kbh.</pubPlace>
+          <pubPlace xml:id="idm140621539079520">København</pubPlace>
           <date xml:id="idm140621539079056">1928</date>
         </bibl>
         <listBibl xml:id="idm140621539078512">
@@ -135,9 +127,6 @@ VL rettet s. 55 20090420
     <front xml:id="idm140621539028864">
       <pb n="a" xml:id="sa" facs="adl/bagger/bagger1/bagger1fm001"/>
       <gap reason="cancelled" xml:id="idm140621539027360"/>
-      <!---->
-      <!---->
-      <!--DANMARKS NATIONALLITTERATUR CARL BAGGERS UDVALGTE SKRIFTER-->
       <pb n="b" xml:id="sb" facs="adl/bagger/bagger1/bagger1fm002"/>
       <pb n="c" xml:id="sc" facs="adl/bagger/bagger1/bagger1fm003"/>
       <titlePage xml:id="idm140621539023440">
@@ -2129,7 +2118,7 @@ VL rettet s. 55 20090420
 							- Du kaldte mig, Din Kone, Din egen troe Fanny, mig kaldte Du
 							en - Vanskabning. Du vilde duellere med dem der loe ad Dig og
 							som havde Dig til Bedste. Din Opførsel mod mig i Din vaagne Tilstand har
-							bekræftet, at hine stygge Ord kom fra Dit Hjerte. Hor mig nu, Harring:
+							bekræftet, at hine stygge Ord kom fra Dit Hjerte. Hør mig nu, Harring:
 							Du skal ikke komme til at skamme Dig over Din Kone. Giv mig det Halve af
 							de rede Penge, som Du har, saa reiser jeg tilbage til mit kjære
 							Fødeland, til min Slægt. Jeg har allerede talt med Skibskapitainen her,
@@ -4829,7 +4818,7 @@ VL rettet s. 55 20090420
 							som sædvanligt, men forbyd ikke mig at tage Repressalier. Vil Du gi'e
 							eller skal jeg?« -</p>
             <p xml:id="idm140621537654368">Jeg fik ikke mere at høre af denne Samtale, thi Riegelsen kom i samme
-							Øieblik for at afhente mig til <hi rend="italics" xml:id="idm140621537653872"><!--&#7941;&#948;&#965;&#964;&#959;&#957;-->[x][x][x][x][x][x]</hi>
+							Øieblik for at afhente mig til <hi rend="italics" xml:id="idm140621537653872">[x][x][x][x][x][x]</hi>
 							eller penetralia. »Kom,« sagde han, »der er Intet i Veien. Der skal
 							netop i Aften være et Afskedsgilde i Anledning af en holsteensk Skippers
 							Afreise imorgen. Sæt Dig i Baggrunden, naar vi komme derind, hør og see
@@ -10076,7 +10065,7 @@ VL rettet s. 55 20090420
 					til Christendommens Venner«, som affødte et Svar fra en Lærer og en Del
 					Haandværksfolk.</p>
         <eg xml:id="idm140621535584944">32</eg>
-        <p xml:id="idm140621535584560"><hi rend="italics" xml:id="idm140621535584432">Mutter Vaskerkones</hi> (<!--*dolgoeO*--> d.v.s. den
+        <p xml:id="idm140621535584560"><hi rend="italics" xml:id="idm140621535584432">Mutter Vaskerkones</hi> ( d.v.s. den
 					tilstedeværende Kones. <hi rend="italics" xml:id="idm140621535583296">en Bod = en</hi> Lap (DO).</p>
         <eg xml:id="idm140621535582480">33</eg>
         <p xml:id="idm140621535582096"><hi rend="italics" xml:id="idm140621535581968">Forligelsescommissionen</hi> skulde iflg. Forordn, af 10/7
@@ -10160,7 +10149,7 @@ VL rettet s. 55 20090420
         <eg xml:id="idm140621535542368">56</eg>
         <p xml:id="idm140621535541984"><hi rend="italics" xml:id="idm140621535541856">ligesom Jupiter fordum slængte Træklodsen ned iblandt
 					Frøerne</hi>: Her hentydes sikkert til Homér-Parodien »Batrachomyomachien«
-					(<!--*dolgoeO*--> d.v.s. Kampen mellem Frøerne og Musene) fra c. 5. Aarh. f. Kr.
+					( d.v.s. Kampen mellem Frøerne og Musene) fra c. 5. Aarh. f. Kr.
 					Den er oversat til Tysk af Stolberg: »Gesammelte Schriften der Bruder Chr. F.
 					und L. V. Stolberg« XVI. 1827. 167 f. Kampen bringer Jupiter til Ophør ved at
 					slynge Lynet ned mellem de kæmpende. Hvor »Træklodsen« hos Bagger stammer fra,
@@ -10255,14 +10244,14 @@ VL rettet s. 55 20090420
 					before me.«) og under Omtalen af Byron hedder det, at denne ofte udtaler sig om
 					Lidelsens Værdi.</p>
         <eg xml:id="idm140621535498800">74</eg>
-        <p xml:id="idm140621535498416"><hi rend="italics" xml:id="idm140621535498288">Det maa da indberettes til Amtmanden</hi><!--*dolgoeO*--> d.v.s. fordi Konen var Jordemoder. Iflg. Reglem. af 21. Nov.
+        <p xml:id="idm140621535498416"><hi rend="italics" xml:id="idm140621535498288">Det maa da indberettes til Amtmanden</hi> d.v.s. fordi Konen var Jordemoder. Iflg. Reglem. af 21. Nov.
 					1810 for Gjordemodervæsen paalaa det Overøvrigheden (her Amtmanden) at føre
 					Tilsyn med Jordemødrenes Virksomhed.</p>
         <eg xml:id="idm140621535496864">75</eg>
         <p xml:id="idm140621535496480"><hi rend="italics" xml:id="idm140621535496352">om Tærskerne ogsaa arbeidede</hi>: Forfatteren har aabenbart
 					glemt, at det er Søndag (se S. 64: Det var en klar Søndag Morgen).</p>
         <eg xml:id="idm140621535495296">81</eg>
-        <p xml:id="idm140621535494912"><hi rend="italics" xml:id="idm140621535494784">Her kunde længe jeg famlet / Efter Horatio</hi><!--*dolgoeO*--> d.v.s. Her vilde jeg have haft vanskeligt ved at finde en
+        <p xml:id="idm140621535494912"><hi rend="italics" xml:id="idm140621535494784">Her kunde længe jeg famlet / Efter Horatio</hi> d.v.s. Her vilde jeg have haft vanskeligt ved at finde en
 					virkelig Ven.</p>
         <eg xml:id="idm140621535493616">86</eg>
         <p xml:id="idm140621535493232"><hi rend="italics" xml:id="idm140621535493104">den meer eller mindre bekjendte Maimaanedssang</hi><pb n="278" xml:id="s278" facs="adl/bagger/bagger1/bagger1278"/> osv.: Det her meddelte Brudstykke
@@ -10300,7 +10289,7 @@ VL rettet s. 55 20090420
 					»platonisk Kærlighed«. <hi rend="italics" xml:id="idm140621535476448">Byron siger: »These are the madmen,
 						who have made men mad!«</hi> Et Byron-Citat af denne Form og Betydning
 					kendes ikke; derimod har Childe Harolds Pilgrimage III 43 følgende Ord: »This
-					(<!--*dolgoeO*-->d.v.s. Magtsyge, Ærgærrighed) makes the madmen, who have made
+					(d.v.s. Magtsyge, Ærgærrighed) makes the madmen, who have made
 					men mad / By their contagion«, i Tilknytning til Omtalen af Napoleon.</p>
         <eg xml:id="idm140621535474624">98</eg>
         <p xml:id="idm140621535474240"><hi rend="italics" xml:id="idm140621535474112">en tydsk Professor (Gerlach i Halle) siger, at Logikken er,
@@ -10329,7 +10318,7 @@ VL rettet s. 55 20090420
         <p xml:id="idm140621535465104"><hi rend="italics" xml:id="idm140621535464976">»Kasse«</hi>: Kippe.</p>
         <eg xml:id="idm140621535464128">105</eg>
         <p xml:id="idm140621535463744"><hi rend="italics" xml:id="idm140621535463616">»Apparent</hi> rari <hi rend="italics" xml:id="idm140621535462896">nates in gurgite
-						vasto!«</hi> Vergils Æneide I. 118: <!--*dolgoeO*--> d.v.s. »de kommer til
+						vasto!«</hi> Vergils Æneide I. 118:  d.v.s. »de kommer til
 					Syne spredte, svømmende i det uhyre Havsvælg«.</p>
         <p xml:id="idm140621535461472"><hi rend="italics" xml:id="idm140621535461344">Verten</hi> ... <hi rend="italics" xml:id="idm140621535460656">med Pappegøienæsen</hi>:
 					se Indl. S. XLIV.</p>
@@ -10357,20 +10346,20 @@ VL rettet s. 55 20090420
         <p xml:id="idm140621535451104">Samme Sted anføres en Paralleltekst, hvor der som her i Stedet for »Gluckgluck«
 					staar »Luft Luft«.</p>
         <eg xml:id="idm140621535450480">110</eg>
-        <p xml:id="idm140621535450096"><hi rend="italics" xml:id="idm140621535449968">Piqvet</hi>: Kortspil. <hi rend="italics" xml:id="idm140621535449248">Hr. Svendsen</hi><!--*dolgoeO*--> d.v.s. Svenningsen, se Indledn. S. XXXII. <hi rend="italics" xml:id="idm140621535448304">»Mangen bær' Navnet«</hi> osv.: Epigram af P. A. Heiberg. Udvalgte Skrifter
+        <p xml:id="idm140621535450096"><hi rend="italics" xml:id="idm140621535449968">Piqvet</hi>: Kortspil. <hi rend="italics" xml:id="idm140621535449248">Hr. Svendsen</hi> d.v.s. Svenningsen, se Indledn. S. XXXII. <hi rend="italics" xml:id="idm140621535448304">»Mangen bær' Navnet«</hi> osv.: Epigram af P. A. Heiberg. Udvalgte Skrifter
 					ved Borchsenius og Winkel Horn (1884) S. 626.</p>
         <eg xml:id="idm140621535447408">111</eg>
-        <p xml:id="idm140621535447024"><!--&#7941;&#948;&#965;&#964;&#959;&#957;-->[x][x][x][x][x][x]
+        <p xml:id="idm140621535447024">[x][x][x][x][x][x]
 						<hi rend="italics" xml:id="idm140621535446544">eller penetralia</hi>: det allerhelligste. <hi rend="italics" xml:id="idm140621535445824">Polydor</hi>: et Billardspil.</p>
         <eg xml:id="idm140621535444976">112</eg>
         <p xml:id="idm140621535444592"><hi rend="italics" xml:id="idm140621535444464">hvad Plinius siger: omne animal post coitum triste</hi>:
-					<!--*dolgoeO*--> d.v.s. »ethvert Dyr er trist til Mode efter Coitus«. Et saadant
+					 d.v.s. »ethvert Dyr er trist til Mode efter Coitus«. Et saadant
 					Plinius-Citat kendes ikke. Derimod hedder det i Plinius' Historia naturalis 10de
 					Bog § 171: homini tantum primi coitus poenitentia, augurium scilicet
-					vitæ a poenitenda origine (<!--*dolgoeO*--> d.v.s. Mennesket er det eneste
+					vitæ a poenitenda origine ( d.v.s. Mennesket er det eneste
 					Væsen, der angrer det første Coitus, aabenbart et Varsel om et Liv, hvis
 					Begyndelse man maa angre); endvidere: ceteris animalibus satias in coitu; homini
-					prope nulla (<!--*dolgoeO*--> d.v.s. De andre lader sig tilfredsstille ved
+					prope nulla ( d.v.s. De andre lader sig tilfredsstille ved
 					Coitus, men Mennesket næsten ikke).</p>
         <eg xml:id="idm140621535441504">112</eg>
         <p xml:id="idm140621535441120"><hi rend="italics" xml:id="idm140621535440992">en Ode, som En af mine Skolekammerater skrev til Søvnens
@@ -10386,7 +10375,7 @@ VL rettet s. 55 20090420
 					af en nu næsten forglemt Ordleeg har fundet en Tanke, der lod sig forarbeide
 					eller tilegne.«</p>
         <eg xml:id="idm140621535436720">115</eg>
-        <p xml:id="idm140621535436336"><hi rend="italics" xml:id="idm140621535436208">Brøndstræde</hi><!--*dolgoeO*--> d.v.s. Lille Brøndstræde. »I store Brøndstræde er en
+        <p xml:id="idm140621535436336"><hi rend="italics" xml:id="idm140621535436208">Brøndstræde</hi> d.v.s. Lille Brøndstræde. »I store Brøndstræde er en
 					Gratisskole for honette Folks Børn, lille Brøndstræde er et Asyl for
 					moralskfordærvede Qvinder, hvor der dog ikke arbeides paa deres Siæls
 					Forbedring.« (København. Satirisk komisk Veiviser ved J. Behrend 1839).</p>
@@ -10403,7 +10392,7 @@ VL rettet s. 55 20090420
 					Campagne. Her spilles vel paa Udtrykket »forsumpet«.</p>
         <eg xml:id="idm140621535429152">118</eg>
         <p xml:id="idm140621535428768"><hi rend="italics" xml:id="idm140621535428640">chose de main, chose de vilain</hi>: staar i Stedet for den
-					franske Talemaade: jeux de main, jeux de vilain <!--*dolgoeO*--> d.v.s.
+					franske Talemaade: jeux de main, jeux de vilain  d.v.s.
 					Haandgemæng er et Pøbelforetagende.</p>
         <eg xml:id="idm140621535427280">123</eg>
         <p xml:id="idm140621535426896"><hi rend="italics" xml:id="idm140621535426768">Knapstedsgaard</hi>: Gæstgivergaard paa Halmtorvet 64
@@ -10412,7 +10401,7 @@ VL rettet s. 55 20090420
         <eg xml:id="idm140621535425664">124</eg>
         <p xml:id="idm140621535425280"><hi rend="italics" xml:id="idm140621535425152">Den danske Landsoldat han er</hi> osv.: Madvig synes (S. 449)
 					at mene, at dette Vers er af Bagger selv. <hi rend="italics" xml:id="idm140621535424352">Vi vil en Jernring
-						lægge om vor Fjendes Hals</hi><!--*dolgoeO*--> d.v.s. gøre ham til Fange; jfr. A. Wolff i Historiske
+						lægge om vor Fjendes Hals</hi> d.v.s. gøre ham til Fange; jfr. A. Wolff i Historiske
 					Meddelelser om København I 549: »de [af Tugthusfangerne], som var brudt ud og
 					ansaas for farlige, <hi rend="italics" xml:id="idm140621535423040">havde en Jærnring om Halsene</hi></p>
         <eg xml:id="idm140621535422336">125</eg>
@@ -10422,7 +10411,7 @@ VL rettet s. 55 20090420
         <eg xml:id="idm140621535419344">127</eg>
         <p xml:id="idm140621535418960"><hi rend="italics" xml:id="idm140621535418832">Generalsuperintendenten</hi>: Superintendent indførtes ved
 					Reformationen som Betegnelse for Biskoppen og hører endnu med til en Biskops
-					officielle Titel. Benævnelsen Generalsuperintendent (<!--*dolgoeO*--> d.v.s.
+					officielle Titel. Benævnelsen Generalsuperintendent ( d.v.s.
 					Superintendent, der staar over de andre S.) kendes derimod kun fra Tyskland. <hi rend="italics" xml:id="idm140621535417344">Præsten havde døbt Barnet: Carl Petersen</hi>: Se
 					Indledningen S. XXXIII.</p>
         <eg xml:id="idm140621535416448">128</eg>
@@ -10494,7 +10483,7 @@ VL rettet s. 55 20090420
         <p xml:id="idm140621535390704"><hi rend="italics" xml:id="idm140621535390576">en Ambe</hi>: se Note til Side 28: <hi rend="italics" xml:id="idm140621535389856">en
 						Terne</hi>.</p>
         <eg xml:id="idm140621535389040">151</eg>
-        <p xml:id="idm140621535388656"><hi rend="italics" xml:id="idm140621535388528">more antiquorum</hi>: paa de gamles Vis. <hi rend="italics" xml:id="idm140621535387808">den fidele Hedenfarne</hi>: fidel <!--*dolgoeO*--> d.v.s. gemytlig, munter.</p>
+        <p xml:id="idm140621535388656"><hi rend="italics" xml:id="idm140621535388528">more antiquorum</hi>: paa de gamles Vis. <hi rend="italics" xml:id="idm140621535387808">den fidele Hedenfarne</hi>: fidel  d.v.s. gemytlig, munter.</p>
         <eg xml:id="idm140621535386592">154</eg>
         <p xml:id="idm140621535386208"><hi rend="italics" xml:id="idm140621535386080">not a stone tell where I lie</hi>: I et Digt »<hi rend="italics" xml:id="idm140621535385360">Ode on Solitude</hi>«, som Pope skrev, da han var 12 Aar,
 					hedder det: Thus let me live, unseen, unknown, Thus unlamented let me die, Steal
@@ -10505,12 +10494,12 @@ VL rettet s. 55 20090420
 					Rostgaards 41 udvalgte tyske Psalmer 1742 (Den tyske Original er af Juliane
 					Æmilia, 1637-1706).</p>
         <eg xml:id="idm140621535382736">157</eg>
-        <p xml:id="idm140621535382352"><hi rend="italics" xml:id="idm140621535382224">rue de Saint Antoine</hi><!--*dolgoeO*--> d.v.s. Antoniestræde, »har Navn af Helgenen Antonius og beboes
+        <p xml:id="idm140621535382352"><hi rend="italics" xml:id="idm140621535382224">rue de Saint Antoine</hi> d.v.s. Antoniestræde, »har Navn af Helgenen Antonius og beboes
 					nu af mange Skjøger« [København. Satirisk-komisk Veiviser ved J. Behrend. 1839].</p>
         <eg xml:id="idm140621535380896">165</eg>
         <p xml:id="idm140621535380512"><hi rend="italics" xml:id="idm140621535380384">skjøndt jeg ikke er født paa en Søndag</hi>: Det siges om
-					Søndagsbørn, at de er baade synske (<!--*dolgoeO*--> d.v.s. de kan se, hvad
-					andre ikke kan se) og fremsynede (<!--*dolgoeO*--> d.v.s. de kan se ind i
+					Søndagsbørn, at de er baade synske ( d.v.s. de kan se, hvad
+					andre ikke kan se) og fremsynede ( d.v.s. de kan se ind i
 					Fremtiden, forudsige Dødsfald o. l.) [J. M. Thiele: Danmarks Folkesagn III Nr.
 					638].</p>
         <eg xml:id="idm140621535378464">167</eg>
@@ -10853,7 +10842,7 @@ VL rettet s. 55 20090420
 					Helligdom</hi>: naar det siges, at Byron har »sveget tause Løftet,« betyder det
 					vel, at han har skuffet de Forventninger, man efter hans Fortid [her: Tiden
 					inden han blev Peer] kunde stille til ham; nemlig Forventningerne om, at han
-					ogsaa som Peer vilde værne Folkets Helligdom <!--*dolgoeO*--> d.v.s. deres
+					ogsaa som Peer vilde værne Folkets Helligdom  d.v.s. deres
 					Menneskerettigheder. Bebrejdelsen er næppe begrundet.</p>
         <eg xml:id="idm140621535222256">267</eg>
         <p xml:id="idm140621535221872"><hi rend="italics" xml:id="idm140621535221744">At plante libanonske Ved / Paa en uhjemlig om end vakker

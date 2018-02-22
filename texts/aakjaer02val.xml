@@ -1,13 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!-- OCR by ATAPY 22.10.02 (Catherine Bychkova) -->
-<!-- 20030403 HHL tjekket mod rutiner og assumptions.doc
-<emph> -> italics + udkommentering. Rettet  s51,82,84,92,98,100,101,143, Phtj. 
--->
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="idm139850578459232"><!-- 
-       file     ./marc_dir/002251515.xml
-       field    530 
-       subfield a 
-       prefix   Bd. 2 :-->
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="root">
   <teiHeader xml:id="idm139850578458672">
     <fileDesc xml:id="idm139850578458416">
       <titleStmt xml:id="idm139850578432944">
@@ -22,17 +14,590 @@
         <note xml:id="idm139850578429760">
 	  </note>
       </notesStmt>
-      <sourceDesc xml:id="idm139850578429248"><bibl xml:id="idm139850578429120"><author n="1" xml:id="idm139850578428432"><name xml:id="idm139850578428176"><surname xml:id="idm139850578428048">Aakjær</surname>, <forename xml:id="idm139850578427616">Jeppe</forename></name></author><title xml:id="idm139850578427328"> Digte 1908-1918. - 1918</title><pubPlace xml:id="idm139850578427024">Kbh.</pubPlace>; <pubPlace xml:id="idm139850578426560">Kristiania</pubPlace>
-<publisher xml:id="idm139850578426096">Gyldendal</publisher><date xml:id="idm139850578425760">1918-19</date></bibl><listBibl xml:id="idm139850578425472"><bibl xml:id="biblid56097"><title xml:id="idm139850578412416">JAWN HUMØR.</title></bibl><bibl xml:id="biblid56654"><title xml:id="idm139850578411616">SANG FRA GRUBEN.</title></bibl><bibl xml:id="biblid56824"><title xml:id="idm139850578410832">TIL EN REJSENDE BRUD.</title></bibl><bibl xml:id="biblid56916"><title xml:id="idm139850578410000">TIL PETER NANSEN. FESTTELEGRAM.</title></bibl><bibl xml:id="biblid56983"><title xml:id="idm139850578409200">JENS VED Æ BÆK.</title></bibl><bibl xml:id="biblid57295"><title xml:id="idm139850578408400">TO FORKYNDERE.</title></bibl><bibl xml:id="biblid58029"><title xml:id="idm139850578407616">TIL EN PLOV KAMMERAT.</title></bibl><bibl xml:id="biblid58082"><title xml:id="idm139850578406832">VIGGO HØRUP.</title></bibl><bibl xml:id="biblid58403"><title xml:id="idm139850578405968">DORRES SANG. GAMMELT MOTIV.</title></bibl><bibl xml:id="biblid58532"><title xml:id="idm139850578405120">LIMFJORDEN.</title></bibl><bibl xml:id="biblid58870"><title xml:id="idm139850578404288">SVALEN.</title></bibl><bibl xml:id="biblid59060"><title xml:id="idm139850578403456">DER SO TOW KRAGGER.</title></bibl><bibl xml:id="biblid59295"><title xml:id="idm139850578402624">IMELLEM TO MØRKE HØJE.</title></bibl><bibl xml:id="biblid59635"><title xml:id="idm139850578401760">DEN JYDSKE FORSKNINGS OLDERMAND H. F. FEILBERG.</title></bibl><bibl xml:id="biblid59822"><title xml:id="idm139850578400896">VED ENGSØEN.</title></bibl><bibl xml:id="biblid59918"><title xml:id="idm139850578400096">RINGEN.</title></bibl><bibl xml:id="biblid60021"><title xml:id="idm139850578399312">EN LYSTIG SANG. SKOTSK MOTIV.</title></bibl><bibl xml:id="biblid60169"><title xml:id="idm139850578398512">BONDEN OG SKRÆDDEREN.</title></bibl><bibl xml:id="biblid60425"><title xml:id="idm139850578397696">AUTOGRAFSAMLER.</title></bibl><bibl xml:id="biblid60557"><title xml:id="idm139850578396864">AN' VÆVER.</title></bibl><bibl xml:id="biblid60791"><title xml:id="idm139850578396032">TRINES KO. JULEAFTENSTEMNING.</title></bibl><bibl xml:id="biblid61151"><title xml:id="idm139850578395232">MEJERIST ESPER ANDERSEN, JEBJÆRG.</title></bibl><bibl xml:id="biblid61302"><title xml:id="idm139850578394352">FORAARSTEGN.</title></bibl><bibl xml:id="biblid61420"><title xml:id="idm139850578393568">PAA KJÆRE GRAVE.</title></bibl><bibl xml:id="biblid61492"><title xml:id="idm139850578392720">GAMMEL KA BAKK.</title></bibl><bibl xml:id="biblid61831"><title xml:id="idm139850578391936">MORS ROK.</title></bibl><bibl xml:id="biblid62193"><title xml:id="idm139850578391104">VED BJØRNSONS DØDSLEJE.</title></bibl><bibl xml:id="biblid62234"><title xml:id="idm139850578390176">PJALTE-KREJSTEN.</title></bibl><bibl xml:id="biblid62441"><title xml:id="idm139850578389344">KRITIK.</title></bibl><bibl xml:id="biblid62709"><title xml:id="idm139850578388512">KJESTEN OG KRÆN KRESTEN.</title></bibl><bibl xml:id="biblid62827"><title xml:id="idm139850578387648">HØSLETS-VISER. MORGEN FØR SLAGET.</title></bibl><bibl xml:id="biblid62958"><title xml:id="idm139850578386768">DEN BLANKE A A.</title></bibl><bibl xml:id="biblid63095"><title xml:id="idm139850578385936">SLAAKARLE.</title></bibl><bibl xml:id="biblid63398"><title xml:id="idm139850578385152">JENS KUK.</title></bibl><bibl xml:id="biblid63552"><title xml:id="idm139850578384256">HUMLEBO.</title></bibl><bibl xml:id="biblid63767"><title xml:id="idm139850578383424">SØNDAG I MORGEN.</title></bibl><bibl xml:id="biblid64014"><title xml:id="idm139850578382624">KIRKEN.</title></bibl><bibl xml:id="biblid64114"><title xml:id="idm139850578381840">VOR BARNDOMS BÆK.</title></bibl><bibl xml:id="biblid64733"><title xml:id="idm139850578489216">AAKJÆR.</title></bibl><bibl xml:id="biblid64778"><title xml:id="idm139850578488496">KAPHYW. EN OLDTIDSMIND.</title></bibl><bibl xml:id="biblid65012"><title xml:id="idm139850578487712">DEN DØDE LÆRKE.</title></bibl><bibl xml:id="biblid65311"><title xml:id="idm139850578486960">DR. S. RAMBUSCH. VED HANS FLYTNING FRA SJØRUP TIL AALBORG.</title></bibl><bibl xml:id="biblid65547"><title xml:id="idm139850578486080">MILITARISMEN.</title></bibl><bibl xml:id="biblid65818"><title xml:id="idm139850578485296">DA Æ BJÆRMAND KAM.</title></bibl><bibl xml:id="biblid66645"><title xml:id="idm139850578355776">FORLADT.</title></bibl><bibl xml:id="biblid66827"><title xml:id="idm139850578354992">TIL SALLINGS HUSMAND.</title></bibl><bibl xml:id="biblid67049"><title xml:id="idm139850578354208">PER SMED.</title></bibl><bibl xml:id="biblid67457"><title xml:id="idm139850578353424">HØSTMARCH.</title></bibl><bibl xml:id="biblid67543"><title xml:id="idm139850578352640">EN JULEGJÆST.</title></bibl><bibl xml:id="biblid67820"><title xml:id="idm139850578351888">JULEAFTEN.</title></bibl><bibl xml:id="biblid68000"><title xml:id="idm139850578351040">JULENEG.</title></bibl><bibl xml:id="biblid68334"><title xml:id="idm139850578350192">PIGER PAA ENGEN.</title></bibl><bibl xml:id="biblid68474"><title xml:id="idm139850578349408">NYTAAR.</title></bibl><bibl xml:id="biblid68589"><title xml:id="idm139850578348624">KRÆN DEJLER.</title></bibl><bibl xml:id="biblid68885"><title xml:id="idm139850578347808">H. F. FEILBERG.</title></bibl><bibl xml:id="biblid68952"><title xml:id="idm139850578347024">ENSOM.</title></bibl><bibl xml:id="biblid69033"><title xml:id="idm139850578346240">DE FATTIGES JUL.</title></bibl><bibl xml:id="biblid69128"><title xml:id="idm139850578345456">JULEHILSEN TIL 'NAVERNE' I ZÜRICH</title></bibl><bibl xml:id="biblid69255"><title xml:id="idm139850578344624">PIGEN PAA DIGET. TIL EN GÆLISK MELODI.</title></bibl><bibl xml:id="biblid69428"><title xml:id="idm139850578343776">STORKEN.</title></bibl><bibl xml:id="biblid69613"><title xml:id="idm139850578338928">KAALFOLK.</title></bibl><bibl xml:id="biblid70006"><title xml:id="idm139850578338304">A GLEMMER Æ AALLE I MI DAW -</title></bibl><bibl xml:id="biblid70260"><title xml:id="idm139850578337536">RÆBILD-KANTATE. DEN KJÆRE BRUNE HEDE.</title></bibl><bibl xml:id="biblid70443"><title xml:id="idm139850578336688">MORGEN.</title></bibl><bibl xml:id="biblid70528"><title xml:id="idm139850578336000">AFTEN.</title></bibl><bibl xml:id="biblid70627"><title xml:id="idm139850578335312">FREDLYSNING.</title></bibl><bibl xml:id="biblid70814"><title xml:id="idm139850578334528">EN BETLE HAAR.</title></bibl><bibl xml:id="biblid71216"><title xml:id="idm139850578333712">SANG TIL DEMOKRATIET.</title></bibl><bibl xml:id="biblid71457"><title xml:id="idm139850578332864">SVAMPEJAGT.</title></bibl><bibl xml:id="biblid71677"><title xml:id="idm139850578332016">TIL EN MØLLERDATTER.</title></bibl><bibl xml:id="biblid71740"><title xml:id="idm139850578331136">TIL PETER SABRO.</title></bibl><bibl xml:id="biblid71824"><title xml:id="idm139850578330352">ZACHÆUS.</title></bibl><bibl xml:id="biblid72466"><title xml:id="idm139850578329568">VRØD-I-VRONT OG MARI STONT.</title></bibl><bibl xml:id="biblid72880"><title xml:id="idm139850578328736">BØRN FRA GYDEN.</title></bibl><bibl xml:id="biblid73120"><title xml:id="idm139850578327984">SÆDEMAND.</title></bibl><bibl xml:id="biblid73368"><title xml:id="idm139850578327200">UNG VISE.</title></bibl><bibl xml:id="biblid73526"><title xml:id="idm139850578326352">GAMMEL JEHANNES HANS NØJESVIS.</title></bibl><bibl xml:id="biblid74184"><title xml:id="idm139850578325520">HANS KAARSBERG.</title></bibl><bibl xml:id="biblid74363"><title xml:id="idm139850578324736">LANDARBEJDER-SANG.</title></bibl><bibl xml:id="biblid74597"><title xml:id="idm139850578323952">LILLE EDITH.</title></bibl><bibl xml:id="biblid74793"><title xml:id="idm139850578323104">BRYLLUP.</title></bibl><bibl xml:id="biblid74990"><title xml:id="idm139850578322256">SØLVBRYLLUP.</title></bibl><bibl xml:id="biblid75152"><title xml:id="idm139850578321504">VED SUSAAEN.</title></bibl><bibl xml:id="biblid75234"><title xml:id="idm139850578320720">GODT MOD!</title></bibl><bibl xml:id="biblid75292"><title xml:id="idm139850578319936">TRE KRIGSDIGTE. MILITARISTEN TALER:</title></bibl><bibl xml:id="biblid75370"><title xml:id="idm139850578319184">DIPLOMATER.</title></bibl><bibl xml:id="biblid75431"><title xml:id="idm139850578318400">KEJSERENS GUD.</title></bibl><bibl xml:id="biblid75516"><title xml:id="idm139850578317552">SALME. (AF 'JENS LANGKNIV'.)</title></bibl><bibl xml:id="biblid75642"><title xml:id="idm139850578316800">HILSEN TIL ESBJERG</title></bibl><bibl xml:id="biblid75824"><title xml:id="idm139850578316016">NIELS BRANSAGER.</title></bibl><bibl xml:id="biblid75991"><title xml:id="idm139850578315232">JENS HANS HYWLBOR.</title></bibl><bibl xml:id="biblid76436"><title xml:id="idm139850578314448">SEJ M Æ, SKA VI MEJ I KRI?</title></bibl><bibl xml:id="biblid76662"><title xml:id="idm139850578313632">BARN OG MOR.</title></bibl><bibl xml:id="biblid76846"><title xml:id="idm139850578312848">INVALIDEN OG KRISTUS.</title></bibl><bibl xml:id="biblid77015"><title xml:id="idm139850578312064">BONDEFJOL.</title></bibl><bibl xml:id="biblid77324"><title xml:id="idm139850578311280">KJØRMES KNUD.</title></bibl><bibl xml:id="biblid77645"><title xml:id="idm139850578310528">DE FIRE VINDE.</title></bibl><bibl xml:id="biblid77651"><title xml:id="idm139850578309744">NORDOVST.</title></bibl><bibl xml:id="biblid77768"><title xml:id="idm139850578308896">PAASKEØSTEN.</title></bibl><bibl xml:id="biblid77998"><title xml:id="idm139850578308032">SØNDENVIND.</title></bibl><bibl xml:id="biblid78257"><title xml:id="idm139850578307232">VESTENVINDEN.</title></bibl><bibl xml:id="biblid78727"><title xml:id="idm139850578306448">JENS HVAS. ET BLAD AF SALLINGS RIMKRØNIKE.</title></bibl><bibl xml:id="biblid79256"><title xml:id="idm139850578305600">MOR VED BRØNDEN.</title></bibl><bibl xml:id="biblid80151"><title xml:id="idm139850578304800">MAJNAT.</title></bibl><bibl xml:id="biblid80262"><title xml:id="idm139850578303952">BROEN.</title></bibl><bibl xml:id="biblid80574"><title xml:id="idm139850578303104">HAVREN.</title></bibl><bibl xml:id="biblid80832"><title xml:id="idm139850578302320">PAA SALLINGS JORD.</title></bibl><bibl xml:id="biblid80983"><title xml:id="idm139850578301536">POVL MED DEN TUNGE SKOVL.</title></bibl><bibl xml:id="biblid82066"><title xml:id="idm139850578300736">GYLDEN SOL.</title></bibl><bibl xml:id="biblid82196"><title xml:id="idm139850578299952">HUMLEBIEN.</title></bibl><bibl xml:id="biblid82346"><title xml:id="idm139850578299168">LANDSBYSMEDEN.</title></bibl><bibl xml:id="biblid82574"><title xml:id="idm139850578298384">EFTERAAR.</title></bibl><bibl xml:id="biblid82711"><title xml:id="idm139850578297552">SVIGTENDE SIGNALER.</title></bibl><bibl xml:id="biblid82810"><title xml:id="idm139850578296656">FRED!</title></bibl><bibl xml:id="biblid82983"><title xml:id="idm139850578295808">EVALD TANG KRISTENSEN.</title></bibl><bibl xml:id="biblid83196"><title xml:id="idm139850578295024">SPURVENE VED HELLIGGEJST.</title></bibl><bibl xml:id="biblid83544"><title xml:id="idm139850578294160">EN LANDSBY DØB E S.</title></bibl><bibl xml:id="biblid83734"><title xml:id="idm139850578293344">HISTORIENS SANG.</title></bibl><bibl xml:id="biblid83956"><title xml:id="idm139850578292560">BURNS OM SIG SELV.</title></bibl><bibl xml:id="biblid84132"><title xml:id="idm139850578291776">TRODS ALT DET.</title></bibl><bibl xml:id="biblid84365"><title xml:id="idm139850578290944">FØDT TIL GRAAD.</title></bibl><bibl xml:id="biblid84774"><title xml:id="idm139850578290144">I DET FJÆRNE.</title></bibl><bibl xml:id="biblid84895"><title xml:id="idm139850578289344">HELLIG WOLLES BØN.</title></bibl><bibl xml:id="biblid85419"><title xml:id="idm139850578288544">DER BOED EN BONDE. Frit oversat.</title></bibl><bibl xml:id="biblid85735"><title xml:id="idm139850578287744">FINDLAY.</title></bibl><bibl xml:id="biblid85860"><title xml:id="idm139850578286960">JENNY I RUGEN.</title></bibl><bibl xml:id="biblid85987"><title xml:id="idm139850578286112">SKJØN NELLY.</title></bibl><bibl xml:id="biblid86152"><title xml:id="idm139850578285200">HVAD KAN EN UNG KVINDE.</title></bibl><bibl xml:id="biblid86282"><title xml:id="idm139850578284352">NANCY.</title></bibl><bibl xml:id="biblid86442"><title xml:id="idm139850578283520">DUNCAN GRAY.</title></bibl><bibl xml:id="biblid86632"><title xml:id="idm139850578282672">JOCK RAB.</title></bibl><bibl xml:id="biblid86747"><title xml:id="idm139850578281824">TIBBI DUNBAR.</title></bibl><bibl xml:id="biblid86830"><title xml:id="idm139850578280976">JOHN ANDERSON.</title></bibl><bibl xml:id="biblid87177"><title xml:id="idm139850578280192">VAR SKYLDEN MIN -</title></bibl><bibl xml:id="biblid87326"><title xml:id="idm139850578279408">WOLLES VIV.</title></bibl><bibl xml:id="biblid87485"><title xml:id="idm139850578278512">EN SKRÆDDER I SENGEN.</title></bibl><bibl xml:id="biblid87573"><title xml:id="idm139850578277696">DE LYSTIGE TIGGERE.</title></bibl><bibl xml:id="biblid89359"><title xml:id="idm139850578276848">DEN NEDLAGTE LANDSBY. (Oliver Goldsmith.)</title></bibl><bibl xml:id="biblid89452"><title xml:id="idm139850578275968">TIL ENGLANDS SØNNER. (Percy B. Shelley.)</title></bibl><bibl xml:id="biblid89634"><title xml:id="idm139850578275072">I ER MANGE - DE ER FAA! (Shelley.)</title></bibl><bibl xml:id="biblid89701"><title xml:id="idm139850578274208">SYPIGEN. (Thomas Hood.)</title></bibl><bibl xml:id="biblid90136"><title xml:id="idm139850578273424">L'ANCIEN REGIME ELLER DET GODE GAMLE KONGEDØMME. (James Thomson.)</title></bibl><bibl xml:id="biblid90601"><title xml:id="idm139850578272528">DA GODSEJERNE APPELLEREDE TIL FOLKET. (G. K. Chesterton.)</title></bibl><bibl xml:id="biblid90860"><title xml:id="idm139850578271632">DET SYGE BARN. (R. L. Stevenson.)</title></bibl><bibl xml:id="biblid91007"><title xml:id="idm139850578270832">LILLE MIN MOR. (Rudyard Kipling.)</title></bibl><bibl xml:id="biblid91093"><title xml:id="idm139850578270032">MIT OG DIT. (William Morris.)</title></bibl><bibl xml:id="biblid91221"><title xml:id="idm139850578269232">NYAARS-GRY. (William Morris.)</title></bibl><bibl xml:id="biblid91774"><title xml:id="idm139850578268368">DEN GODE GUD. (Jean Pierre de Beranger.)</title></bibl><bibl xml:id="biblid92107"><title xml:id="idm139850578267504">MODERHJÆRTET. (Jean Richepin.)</title></bibl><bibl xml:id="biblid92211"><title xml:id="idm139850578266624">FOR SKRANKEN. (Goethe.)</title></bibl><bibl xml:id="biblid92331"><title xml:id="idm139850578265840">ZIGEUNERSANG. (Goethe.)</title></bibl><bibl xml:id="biblid92478"><title xml:id="idm139850578264992">JEG FULGTE DYBT I SKOVEN IND. (Goethe.)</title></bibl><bibl xml:id="biblid92545"><title xml:id="idm139850578264128">VÆVERNE. (H. Heine.)</title></bibl><bibl xml:id="biblid92690"><title xml:id="idm139850578263248">HOLD DOG OP! (H. Heine.)</title></bibl><bibl xml:id="biblid92788"><title xml:id="idm139850578262448">JAMMERDAL. (H. Heine.)</title></bibl><bibl xml:id="biblid92952"><title xml:id="idm139850578261600">FILANTROPEN. (H. Heine.)</title></bibl><bibl xml:id="biblid93292"><title xml:id="idm139850578260752">DUELLER. (H. Heine.)</title></bibl><bibl xml:id="biblid93436"><title xml:id="idm139850578259856">BALTHASAR. (H. Heine.)</title></bibl><bibl xml:id="biblid93704"><title xml:id="idm139850578259024">HENSIGTSMÆSSIGHED. (H. Heine.)</title></bibl><bibl xml:id="biblid94076"><title xml:id="idm139850578258128">ROTTERNE. (H. Heine.)</title></bibl><bibl xml:id="biblid94374"><title xml:id="idm139850578257344">MAND OG KVINDE. (Alexander Petøfi.)</title></bibl><bibl xml:id="biblid94441"><title xml:id="idm139850578256496">SVÆRD OG LÆNKE. (Alexander Petøfi.)</title></bibl><bibl xml:id="biblid95013"><title xml:id="idm139850578255584">DEN VANVITTIGE. (Alexander Petøfi.)</title></bibl><bibl xml:id="biblid95447"><title xml:id="idm139850578254624">BJØRNEN I BERN. (Efter Fr. von Sallet.)</title></bibl><bibl xml:id="biblid95724"><title xml:id="idm139850578253712">VED KJEDLEN. (Ferd. Freiligrath.)</title></bibl><bibl xml:id="biblid96094"><title xml:id="idm139850578252848">OMSVÆRM OS KUN, FJENDER. (Arthur Fitzer.)</title></bibl><bibl xml:id="biblid96253"><title xml:id="idm139850578251936">ARBEJDERSANG. (Karl Henckell.)</title></bibl><bibl xml:id="biblid96498"><title xml:id="idm139850578251136">N R. 310. (Ditlev von Liliencron.)</title></bibl><bibl xml:id="biblid96692"><title xml:id="idm139850578250336">TORDENVEJRET. (Ditlev von Liliencron.)</title></bibl><bibl xml:id="biblid97406"><title xml:id="idm139850578249536">HANS SVÆRMER. (Ditlev von Liliencron.)</title></bibl><bibl xml:id="biblid97577"><title xml:id="idm139850578248688">DEN FØRSTE SANG. (Per Sivle.)</title></bibl><bibl xml:id="biblid98303"><title xml:id="idm139850578247856">DET FØRSTE KYS. (Joh. L. Runeberg.)</title></bibl><bibl xml:id="biblid98359"><title xml:id="idm139850578247008">DE FANGNE. (Joh. L. Runeberg.)</title></bibl><bibl xml:id="biblid98516"><title xml:id="idm139850578246144">JEG SER PAA TERNERNES SKARE. (Joh. L. Runeberg.)</title></bibl><bibl xml:id="biblid98596"><title xml:id="idm139850578245328">SMAAVERS. (Joh. L. Runeberg.)</title></bibl><bibl xml:id="biblid98766"><title xml:id="idm139850578244464">OJAN PAVO. (Joh. L. Runeberg.)</title></bibl><bibl xml:id="biblid98991"><title xml:id="idm139850578243600">BREMSENS MØSSE*). (F. A. Dahlgren.)</title></bibl><bibl xml:id="biblid99233"><title xml:id="idm139850578242640">GRISEN. (F. A. Dahlgren.)</title></bibl><bibl xml:id="biblid99407"><title xml:id="idm139850578241840">KJÆRESTE-HANDEL. (F. A. Dahlgren.)</title></bibl><bibl xml:id="biblid99591"><title xml:id="idm139850578240896">STINES PARASOL. (F. A. Dahlgren.)</title></bibl><bibl xml:id="biblid99727"><title xml:id="idm139850578240096">DIN TJENENDE BRODER. (Carl Snoilsky.)</title></bibl><bibl xml:id="biblid100019"><title xml:id="idm139850578239296">AFRODITE OG 'SLIBEREN'</title></bibl><bibl xml:id="biblid100393"><title xml:id="idm139850578238512">AVISDRENGEN. (Carl Snoilsky.)</title></bibl><bibl xml:id="biblid100574"><title xml:id="idm139850578237664">DER LEGES SOLDAT. (Carl Snoilsky.)</title></bibl><bibl xml:id="biblid100962"><title xml:id="idm139850578236800">FATTIG-SVENDS KLAGE. (Per Weiland.)</title></bibl><bibl xml:id="biblid101173"><title xml:id="idm139850578235936">INDSIDDEREN. (Karl-Erik Forsslund.)</title></bibl><bibl xml:id="biblid101377"><title xml:id="idm139850578235024">BILLEDHUGGEREN. (Karl-Erik Forsslund.)</title></bibl><bibl xml:id="biblid101692"><title xml:id="idm139850578234224">JENS JENSEN OG PÆ' KRÆNSEN. (Gustav Frøding.)</title></bibl><bibl xml:id="biblid101960"><title xml:id="idm139850578233360">DAARSKABENS TALE. (Gustav Frøding.)</title></bibl><bibl xml:id="biblid102111"><title xml:id="idm139850578232512">MASKINEN I ULAVE. (Gustav Frøding.)</title></bibl><bibl xml:id="biblid102294"><title xml:id="idm139850578231664">FREDLØS. (Gustav Frøding.)</title></bibl></listBibl></sourceDesc>
+      <sourceDesc xml:id="idm139850578429248">
+        <bibl xml:id="idm139850578429120"><author n="1" xml:id="idm139850578428432"><name xml:id="idm139850578428176"><surname xml:id="idm139850578428048">Aakjær</surname>, <forename xml:id="idm139850578427616">Jeppe</forename></name></author><title xml:id="idm139850578427328"> Digte 1908-1918. - 1918</title><pubPlace xml:id="idm139850578427024">København</pubPlace>; <pubPlace xml:id="idm139850578426560">Kristiania</pubPlace><publisher xml:id="idm139850578426096">Gyldendal</publisher><date xml:id="idm139850578425760">1918-19</date></bibl>
+        <listBibl xml:id="idm139850578425472">
+          <bibl xml:id="biblid56097">
+            <title xml:id="idm139850578412416">JAWN HUMØR.</title>
+          </bibl>
+          <bibl xml:id="biblid56654">
+            <title xml:id="idm139850578411616">SANG FRA GRUBEN.</title>
+          </bibl>
+          <bibl xml:id="biblid56824">
+            <title xml:id="idm139850578410832">TIL EN REJSENDE BRUD.</title>
+          </bibl>
+          <bibl xml:id="biblid56916">
+            <title xml:id="idm139850578410000">TIL PETER NANSEN. FESTTELEGRAM.</title>
+          </bibl>
+          <bibl xml:id="biblid56983">
+            <title xml:id="idm139850578409200">JENS VED Æ BÆK.</title>
+          </bibl>
+          <bibl xml:id="biblid57295">
+            <title xml:id="idm139850578408400">TO FORKYNDERE.</title>
+          </bibl>
+          <bibl xml:id="biblid58029">
+            <title xml:id="idm139850578407616">TIL EN PLOV KAMMERAT.</title>
+          </bibl>
+          <bibl xml:id="biblid58082">
+            <title xml:id="idm139850578406832">VIGGO HØRUP.</title>
+          </bibl>
+          <bibl xml:id="biblid58403">
+            <title xml:id="idm139850578405968">DORRES SANG. GAMMELT MOTIV.</title>
+          </bibl>
+          <bibl xml:id="biblid58532">
+            <title xml:id="idm139850578405120">LIMFJORDEN.</title>
+          </bibl>
+          <bibl xml:id="biblid58870">
+            <title xml:id="idm139850578404288">SVALEN.</title>
+          </bibl>
+          <bibl xml:id="biblid59060">
+            <title xml:id="idm139850578403456">DER SO TOW KRAGGER.</title>
+          </bibl>
+          <bibl xml:id="biblid59295">
+            <title xml:id="idm139850578402624">IMELLEM TO MØRKE HØJE.</title>
+          </bibl>
+          <bibl xml:id="biblid59635">
+            <title xml:id="idm139850578401760">DEN JYDSKE FORSKNINGS OLDERMAND H. F. FEILBERG.</title>
+          </bibl>
+          <bibl xml:id="biblid59822">
+            <title xml:id="idm139850578400896">VED ENGSØEN.</title>
+          </bibl>
+          <bibl xml:id="biblid59918">
+            <title xml:id="idm139850578400096">RINGEN.</title>
+          </bibl>
+          <bibl xml:id="biblid60021">
+            <title xml:id="idm139850578399312">EN LYSTIG SANG. SKOTSK MOTIV.</title>
+          </bibl>
+          <bibl xml:id="biblid60169">
+            <title xml:id="idm139850578398512">BONDEN OG SKRÆDDEREN.</title>
+          </bibl>
+          <bibl xml:id="biblid60425">
+            <title xml:id="idm139850578397696">AUTOGRAFSAMLER.</title>
+          </bibl>
+          <bibl xml:id="biblid60557">
+            <title xml:id="idm139850578396864">AN' VÆVER.</title>
+          </bibl>
+          <bibl xml:id="biblid60791">
+            <title xml:id="idm139850578396032">TRINES KO. JULEAFTENSTEMNING.</title>
+          </bibl>
+          <bibl xml:id="biblid61151">
+            <title xml:id="idm139850578395232">MEJERIST ESPER ANDERSEN, JEBJÆRG.</title>
+          </bibl>
+          <bibl xml:id="biblid61302">
+            <title xml:id="idm139850578394352">FORAARSTEGN.</title>
+          </bibl>
+          <bibl xml:id="biblid61420">
+            <title xml:id="idm139850578393568">PAA KJÆRE GRAVE.</title>
+          </bibl>
+          <bibl xml:id="biblid61492">
+            <title xml:id="idm139850578392720">GAMMEL KA BAKK.</title>
+          </bibl>
+          <bibl xml:id="biblid61831">
+            <title xml:id="idm139850578391936">MORS ROK.</title>
+          </bibl>
+          <bibl xml:id="biblid62193">
+            <title xml:id="idm139850578391104">VED BJØRNSONS DØDSLEJE.</title>
+          </bibl>
+          <bibl xml:id="biblid62234">
+            <title xml:id="idm139850578390176">PJALTE-KREJSTEN.</title>
+          </bibl>
+          <bibl xml:id="biblid62441">
+            <title xml:id="idm139850578389344">KRITIK.</title>
+          </bibl>
+          <bibl xml:id="biblid62709">
+            <title xml:id="idm139850578388512">KJESTEN OG KRÆN KRESTEN.</title>
+          </bibl>
+          <bibl xml:id="biblid62827">
+            <title xml:id="idm139850578387648">HØSLETS-VISER. MORGEN FØR SLAGET.</title>
+          </bibl>
+          <bibl xml:id="biblid62958">
+            <title xml:id="idm139850578386768">DEN BLANKE A A.</title>
+          </bibl>
+          <bibl xml:id="biblid63095">
+            <title xml:id="idm139850578385936">SLAAKARLE.</title>
+          </bibl>
+          <bibl xml:id="biblid63398">
+            <title xml:id="idm139850578385152">JENS KUK.</title>
+          </bibl>
+          <bibl xml:id="biblid63552">
+            <title xml:id="idm139850578384256">HUMLEBO.</title>
+          </bibl>
+          <bibl xml:id="biblid63767">
+            <title xml:id="idm139850578383424">SØNDAG I MORGEN.</title>
+          </bibl>
+          <bibl xml:id="biblid64014">
+            <title xml:id="idm139850578382624">KIRKEN.</title>
+          </bibl>
+          <bibl xml:id="biblid64114">
+            <title xml:id="idm139850578381840">VOR BARNDOMS BÆK.</title>
+          </bibl>
+          <bibl xml:id="biblid64733">
+            <title xml:id="idm139850578489216">AAKJÆR.</title>
+          </bibl>
+          <bibl xml:id="biblid64778">
+            <title xml:id="idm139850578488496">KAPHYW. EN OLDTIDSMIND.</title>
+          </bibl>
+          <bibl xml:id="biblid65012">
+            <title xml:id="idm139850578487712">DEN DØDE LÆRKE.</title>
+          </bibl>
+          <bibl xml:id="biblid65311">
+            <title xml:id="idm139850578486960">DR. S. RAMBUSCH. VED HANS FLYTNING FRA SJØRUP TIL AALBORG.</title>
+          </bibl>
+          <bibl xml:id="biblid65547">
+            <title xml:id="idm139850578486080">MILITARISMEN.</title>
+          </bibl>
+          <bibl xml:id="biblid65818">
+            <title xml:id="idm139850578485296">DA Æ BJÆRMAND KAM.</title>
+          </bibl>
+          <bibl xml:id="biblid66645">
+            <title xml:id="idm139850578355776">FORLADT.</title>
+          </bibl>
+          <bibl xml:id="biblid66827">
+            <title xml:id="idm139850578354992">TIL SALLINGS HUSMAND.</title>
+          </bibl>
+          <bibl xml:id="biblid67049">
+            <title xml:id="idm139850578354208">PER SMED.</title>
+          </bibl>
+          <bibl xml:id="biblid67457">
+            <title xml:id="idm139850578353424">HØSTMARCH.</title>
+          </bibl>
+          <bibl xml:id="biblid67543">
+            <title xml:id="idm139850578352640">EN JULEGJÆST.</title>
+          </bibl>
+          <bibl xml:id="biblid67820">
+            <title xml:id="idm139850578351888">JULEAFTEN.</title>
+          </bibl>
+          <bibl xml:id="biblid68000">
+            <title xml:id="idm139850578351040">JULENEG.</title>
+          </bibl>
+          <bibl xml:id="biblid68334">
+            <title xml:id="idm139850578350192">PIGER PAA ENGEN.</title>
+          </bibl>
+          <bibl xml:id="biblid68474">
+            <title xml:id="idm139850578349408">NYTAAR.</title>
+          </bibl>
+          <bibl xml:id="biblid68589">
+            <title xml:id="idm139850578348624">KRÆN DEJLER.</title>
+          </bibl>
+          <bibl xml:id="biblid68885">
+            <title xml:id="idm139850578347808">H. F. FEILBERG.</title>
+          </bibl>
+          <bibl xml:id="biblid68952">
+            <title xml:id="idm139850578347024">ENSOM.</title>
+          </bibl>
+          <bibl xml:id="biblid69033">
+            <title xml:id="idm139850578346240">DE FATTIGES JUL.</title>
+          </bibl>
+          <bibl xml:id="biblid69128">
+            <title xml:id="idm139850578345456">JULEHILSEN TIL 'NAVERNE' I ZÜRICH</title>
+          </bibl>
+          <bibl xml:id="biblid69255">
+            <title xml:id="idm139850578344624">PIGEN PAA DIGET. TIL EN GÆLISK MELODI.</title>
+          </bibl>
+          <bibl xml:id="biblid69428">
+            <title xml:id="idm139850578343776">STORKEN.</title>
+          </bibl>
+          <bibl xml:id="biblid69613">
+            <title xml:id="idm139850578338928">KAALFOLK.</title>
+          </bibl>
+          <bibl xml:id="biblid70006">
+            <title xml:id="idm139850578338304">A GLEMMER Æ AALLE I MI DAW -</title>
+          </bibl>
+          <bibl xml:id="biblid70260">
+            <title xml:id="idm139850578337536">RÆBILD-KANTATE. DEN KJÆRE BRUNE HEDE.</title>
+          </bibl>
+          <bibl xml:id="biblid70443">
+            <title xml:id="idm139850578336688">MORGEN.</title>
+          </bibl>
+          <bibl xml:id="biblid70528">
+            <title xml:id="idm139850578336000">AFTEN.</title>
+          </bibl>
+          <bibl xml:id="biblid70627">
+            <title xml:id="idm139850578335312">FREDLYSNING.</title>
+          </bibl>
+          <bibl xml:id="biblid70814">
+            <title xml:id="idm139850578334528">EN BETLE HAAR.</title>
+          </bibl>
+          <bibl xml:id="biblid71216">
+            <title xml:id="idm139850578333712">SANG TIL DEMOKRATIET.</title>
+          </bibl>
+          <bibl xml:id="biblid71457">
+            <title xml:id="idm139850578332864">SVAMPEJAGT.</title>
+          </bibl>
+          <bibl xml:id="biblid71677">
+            <title xml:id="idm139850578332016">TIL EN MØLLERDATTER.</title>
+          </bibl>
+          <bibl xml:id="biblid71740">
+            <title xml:id="idm139850578331136">TIL PETER SABRO.</title>
+          </bibl>
+          <bibl xml:id="biblid71824">
+            <title xml:id="idm139850578330352">ZACHÆUS.</title>
+          </bibl>
+          <bibl xml:id="biblid72466">
+            <title xml:id="idm139850578329568">VRØD-I-VRONT OG MARI STONT.</title>
+          </bibl>
+          <bibl xml:id="biblid72880">
+            <title xml:id="idm139850578328736">BØRN FRA GYDEN.</title>
+          </bibl>
+          <bibl xml:id="biblid73120">
+            <title xml:id="idm139850578327984">SÆDEMAND.</title>
+          </bibl>
+          <bibl xml:id="biblid73368">
+            <title xml:id="idm139850578327200">UNG VISE.</title>
+          </bibl>
+          <bibl xml:id="biblid73526">
+            <title xml:id="idm139850578326352">GAMMEL JEHANNES HANS NØJESVIS.</title>
+          </bibl>
+          <bibl xml:id="biblid74184">
+            <title xml:id="idm139850578325520">HANS KAARSBERG.</title>
+          </bibl>
+          <bibl xml:id="biblid74363">
+            <title xml:id="idm139850578324736">LANDARBEJDER-SANG.</title>
+          </bibl>
+          <bibl xml:id="biblid74597">
+            <title xml:id="idm139850578323952">LILLE EDITH.</title>
+          </bibl>
+          <bibl xml:id="biblid74793">
+            <title xml:id="idm139850578323104">BRYLLUP.</title>
+          </bibl>
+          <bibl xml:id="biblid74990">
+            <title xml:id="idm139850578322256">SØLVBRYLLUP.</title>
+          </bibl>
+          <bibl xml:id="biblid75152">
+            <title xml:id="idm139850578321504">VED SUSAAEN.</title>
+          </bibl>
+          <bibl xml:id="biblid75234">
+            <title xml:id="idm139850578320720">GODT MOD!</title>
+          </bibl>
+          <bibl xml:id="biblid75292">
+            <title xml:id="idm139850578319936">TRE KRIGSDIGTE. MILITARISTEN TALER:</title>
+          </bibl>
+          <bibl xml:id="biblid75370">
+            <title xml:id="idm139850578319184">DIPLOMATER.</title>
+          </bibl>
+          <bibl xml:id="biblid75431">
+            <title xml:id="idm139850578318400">KEJSERENS GUD.</title>
+          </bibl>
+          <bibl xml:id="biblid75516">
+            <title xml:id="idm139850578317552">SALME. (AF 'JENS LANGKNIV'.)</title>
+          </bibl>
+          <bibl xml:id="biblid75642">
+            <title xml:id="idm139850578316800">HILSEN TIL ESBJERG</title>
+          </bibl>
+          <bibl xml:id="biblid75824">
+            <title xml:id="idm139850578316016">NIELS BRANSAGER.</title>
+          </bibl>
+          <bibl xml:id="biblid75991">
+            <title xml:id="idm139850578315232">JENS HANS HYWLBOR.</title>
+          </bibl>
+          <bibl xml:id="biblid76436">
+            <title xml:id="idm139850578314448">SEJ M Æ, SKA VI MEJ I KRI?</title>
+          </bibl>
+          <bibl xml:id="biblid76662">
+            <title xml:id="idm139850578313632">BARN OG MOR.</title>
+          </bibl>
+          <bibl xml:id="biblid76846">
+            <title xml:id="idm139850578312848">INVALIDEN OG KRISTUS.</title>
+          </bibl>
+          <bibl xml:id="biblid77015">
+            <title xml:id="idm139850578312064">BONDEFJOL.</title>
+          </bibl>
+          <bibl xml:id="biblid77324">
+            <title xml:id="idm139850578311280">KJØRMES KNUD.</title>
+          </bibl>
+          <bibl xml:id="biblid77645">
+            <title xml:id="idm139850578310528">DE FIRE VINDE.</title>
+          </bibl>
+          <bibl xml:id="biblid77651">
+            <title xml:id="idm139850578309744">NORDOVST.</title>
+          </bibl>
+          <bibl xml:id="biblid77768">
+            <title xml:id="idm139850578308896">PAASKEØSTEN.</title>
+          </bibl>
+          <bibl xml:id="biblid77998">
+            <title xml:id="idm139850578308032">SØNDENVIND.</title>
+          </bibl>
+          <bibl xml:id="biblid78257">
+            <title xml:id="idm139850578307232">VESTENVINDEN.</title>
+          </bibl>
+          <bibl xml:id="biblid78727">
+            <title xml:id="idm139850578306448">JENS HVAS. ET BLAD AF SALLINGS RIMKRØNIKE.</title>
+          </bibl>
+          <bibl xml:id="biblid79256">
+            <title xml:id="idm139850578305600">MOR VED BRØNDEN.</title>
+          </bibl>
+          <bibl xml:id="biblid80151">
+            <title xml:id="idm139850578304800">MAJNAT.</title>
+          </bibl>
+          <bibl xml:id="biblid80262">
+            <title xml:id="idm139850578303952">BROEN.</title>
+          </bibl>
+          <bibl xml:id="biblid80574">
+            <title xml:id="idm139850578303104">HAVREN.</title>
+          </bibl>
+          <bibl xml:id="biblid80832">
+            <title xml:id="idm139850578302320">PAA SALLINGS JORD.</title>
+          </bibl>
+          <bibl xml:id="biblid80983">
+            <title xml:id="idm139850578301536">POVL MED DEN TUNGE SKOVL.</title>
+          </bibl>
+          <bibl xml:id="biblid82066">
+            <title xml:id="idm139850578300736">GYLDEN SOL.</title>
+          </bibl>
+          <bibl xml:id="biblid82196">
+            <title xml:id="idm139850578299952">HUMLEBIEN.</title>
+          </bibl>
+          <bibl xml:id="biblid82346">
+            <title xml:id="idm139850578299168">LANDSBYSMEDEN.</title>
+          </bibl>
+          <bibl xml:id="biblid82574">
+            <title xml:id="idm139850578298384">EFTERAAR.</title>
+          </bibl>
+          <bibl xml:id="biblid82711">
+            <title xml:id="idm139850578297552">SVIGTENDE SIGNALER.</title>
+          </bibl>
+          <bibl xml:id="biblid82810">
+            <title xml:id="idm139850578296656">FRED!</title>
+          </bibl>
+          <bibl xml:id="biblid82983">
+            <title xml:id="idm139850578295808">EVALD TANG KRISTENSEN.</title>
+          </bibl>
+          <bibl xml:id="biblid83196">
+            <title xml:id="idm139850578295024">SPURVENE VED HELLIGGEJST.</title>
+          </bibl>
+          <bibl xml:id="biblid83544">
+            <title xml:id="idm139850578294160">EN LANDSBY DØB E S.</title>
+          </bibl>
+          <bibl xml:id="biblid83734">
+            <title xml:id="idm139850578293344">HISTORIENS SANG.</title>
+          </bibl>
+          <bibl xml:id="biblid83956">
+            <title xml:id="idm139850578292560">BURNS OM SIG SELV.</title>
+          </bibl>
+          <bibl xml:id="biblid84132">
+            <title xml:id="idm139850578291776">TRODS ALT DET.</title>
+          </bibl>
+          <bibl xml:id="biblid84365">
+            <title xml:id="idm139850578290944">FØDT TIL GRAAD.</title>
+          </bibl>
+          <bibl xml:id="biblid84774">
+            <title xml:id="idm139850578290144">I DET FJÆRNE.</title>
+          </bibl>
+          <bibl xml:id="biblid84895">
+            <title xml:id="idm139850578289344">HELLIG WOLLES BØN.</title>
+          </bibl>
+          <bibl xml:id="biblid85419">
+            <title xml:id="idm139850578288544">DER BOED EN BONDE. Frit oversat.</title>
+          </bibl>
+          <bibl xml:id="biblid85735">
+            <title xml:id="idm139850578287744">FINDLAY.</title>
+          </bibl>
+          <bibl xml:id="biblid85860">
+            <title xml:id="idm139850578286960">JENNY I RUGEN.</title>
+          </bibl>
+          <bibl xml:id="biblid85987">
+            <title xml:id="idm139850578286112">SKJØN NELLY.</title>
+          </bibl>
+          <bibl xml:id="biblid86152">
+            <title xml:id="idm139850578285200">HVAD KAN EN UNG KVINDE.</title>
+          </bibl>
+          <bibl xml:id="biblid86282">
+            <title xml:id="idm139850578284352">NANCY.</title>
+          </bibl>
+          <bibl xml:id="biblid86442">
+            <title xml:id="idm139850578283520">DUNCAN GRAY.</title>
+          </bibl>
+          <bibl xml:id="biblid86632">
+            <title xml:id="idm139850578282672">JOCK RAB.</title>
+          </bibl>
+          <bibl xml:id="biblid86747">
+            <title xml:id="idm139850578281824">TIBBI DUNBAR.</title>
+          </bibl>
+          <bibl xml:id="biblid86830">
+            <title xml:id="idm139850578280976">JOHN ANDERSON.</title>
+          </bibl>
+          <bibl xml:id="biblid87177">
+            <title xml:id="idm139850578280192">VAR SKYLDEN MIN -</title>
+          </bibl>
+          <bibl xml:id="biblid87326">
+            <title xml:id="idm139850578279408">WOLLES VIV.</title>
+          </bibl>
+          <bibl xml:id="biblid87485">
+            <title xml:id="idm139850578278512">EN SKRÆDDER I SENGEN.</title>
+          </bibl>
+          <bibl xml:id="biblid87573">
+            <title xml:id="idm139850578277696">DE LYSTIGE TIGGERE.</title>
+          </bibl>
+          <bibl xml:id="biblid89359">
+            <title xml:id="idm139850578276848">DEN NEDLAGTE LANDSBY. (Oliver Goldsmith.)</title>
+          </bibl>
+          <bibl xml:id="biblid89452">
+            <title xml:id="idm139850578275968">TIL ENGLANDS SØNNER. (Percy B. Shelley.)</title>
+          </bibl>
+          <bibl xml:id="biblid89634">
+            <title xml:id="idm139850578275072">I ER MANGE - DE ER FAA! (Shelley.)</title>
+          </bibl>
+          <bibl xml:id="biblid89701">
+            <title xml:id="idm139850578274208">SYPIGEN. (Thomas Hood.)</title>
+          </bibl>
+          <bibl xml:id="biblid90136">
+            <title xml:id="idm139850578273424">L'ANCIEN REGIME ELLER DET GODE GAMLE KONGEDØMME. (James Thomson.)</title>
+          </bibl>
+          <bibl xml:id="biblid90601">
+            <title xml:id="idm139850578272528">DA GODSEJERNE APPELLEREDE TIL FOLKET. (G. K. Chesterton.)</title>
+          </bibl>
+          <bibl xml:id="biblid90860">
+            <title xml:id="idm139850578271632">DET SYGE BARN. (R. L. Stevenson.)</title>
+          </bibl>
+          <bibl xml:id="biblid91007">
+            <title xml:id="idm139850578270832">LILLE MIN MOR. (Rudyard Kipling.)</title>
+          </bibl>
+          <bibl xml:id="biblid91093">
+            <title xml:id="idm139850578270032">MIT OG DIT. (William Morris.)</title>
+          </bibl>
+          <bibl xml:id="biblid91221">
+            <title xml:id="idm139850578269232">NYAARS-GRY. (William Morris.)</title>
+          </bibl>
+          <bibl xml:id="biblid91774">
+            <title xml:id="idm139850578268368">DEN GODE GUD. (Jean Pierre de Beranger.)</title>
+          </bibl>
+          <bibl xml:id="biblid92107">
+            <title xml:id="idm139850578267504">MODERHJÆRTET. (Jean Richepin.)</title>
+          </bibl>
+          <bibl xml:id="biblid92211">
+            <title xml:id="idm139850578266624">FOR SKRANKEN. (Goethe.)</title>
+          </bibl>
+          <bibl xml:id="biblid92331">
+            <title xml:id="idm139850578265840">ZIGEUNERSANG. (Goethe.)</title>
+          </bibl>
+          <bibl xml:id="biblid92478">
+            <title xml:id="idm139850578264992">JEG FULGTE DYBT I SKOVEN IND. (Goethe.)</title>
+          </bibl>
+          <bibl xml:id="biblid92545">
+            <title xml:id="idm139850578264128">VÆVERNE. (H. Heine.)</title>
+          </bibl>
+          <bibl xml:id="biblid92690">
+            <title xml:id="idm139850578263248">HOLD DOG OP! (H. Heine.)</title>
+          </bibl>
+          <bibl xml:id="biblid92788">
+            <title xml:id="idm139850578262448">JAMMERDAL. (H. Heine.)</title>
+          </bibl>
+          <bibl xml:id="biblid92952">
+            <title xml:id="idm139850578261600">FILANTROPEN. (H. Heine.)</title>
+          </bibl>
+          <bibl xml:id="biblid93292">
+            <title xml:id="idm139850578260752">DUELLER. (H. Heine.)</title>
+          </bibl>
+          <bibl xml:id="biblid93436">
+            <title xml:id="idm139850578259856">BALTHASAR. (H. Heine.)</title>
+          </bibl>
+          <bibl xml:id="biblid93704">
+            <title xml:id="idm139850578259024">HENSIGTSMÆSSIGHED. (H. Heine.)</title>
+          </bibl>
+          <bibl xml:id="biblid94076">
+            <title xml:id="idm139850578258128">ROTTERNE. (H. Heine.)</title>
+          </bibl>
+          <bibl xml:id="biblid94374">
+            <title xml:id="idm139850578257344">MAND OG KVINDE. (Alexander Petøfi.)</title>
+          </bibl>
+          <bibl xml:id="biblid94441">
+            <title xml:id="idm139850578256496">SVÆRD OG LÆNKE. (Alexander Petøfi.)</title>
+          </bibl>
+          <bibl xml:id="biblid95013">
+            <title xml:id="idm139850578255584">DEN VANVITTIGE. (Alexander Petøfi.)</title>
+          </bibl>
+          <bibl xml:id="biblid95447">
+            <title xml:id="idm139850578254624">BJØRNEN I BERN. (Efter Fr. von Sallet.)</title>
+          </bibl>
+          <bibl xml:id="biblid95724">
+            <title xml:id="idm139850578253712">VED KJEDLEN. (Ferd. Freiligrath.)</title>
+          </bibl>
+          <bibl xml:id="biblid96094">
+            <title xml:id="idm139850578252848">OMSVÆRM OS KUN, FJENDER. (Arthur Fitzer.)</title>
+          </bibl>
+          <bibl xml:id="biblid96253">
+            <title xml:id="idm139850578251936">ARBEJDERSANG. (Karl Henckell.)</title>
+          </bibl>
+          <bibl xml:id="biblid96498">
+            <title xml:id="idm139850578251136">N R. 310. (Ditlev von Liliencron.)</title>
+          </bibl>
+          <bibl xml:id="biblid96692">
+            <title xml:id="idm139850578250336">TORDENVEJRET. (Ditlev von Liliencron.)</title>
+          </bibl>
+          <bibl xml:id="biblid97406">
+            <title xml:id="idm139850578249536">HANS SVÆRMER. (Ditlev von Liliencron.)</title>
+          </bibl>
+          <bibl xml:id="biblid97577">
+            <title xml:id="idm139850578248688">DEN FØRSTE SANG. (Per Sivle.)</title>
+          </bibl>
+          <bibl xml:id="biblid98303">
+            <title xml:id="idm139850578247856">DET FØRSTE KYS. (Joh. L. Runeberg.)</title>
+          </bibl>
+          <bibl xml:id="biblid98359">
+            <title xml:id="idm139850578247008">DE FANGNE. (Joh. L. Runeberg.)</title>
+          </bibl>
+          <bibl xml:id="biblid98516">
+            <title xml:id="idm139850578246144">JEG SER PAA TERNERNES SKARE. (Joh. L. Runeberg.)</title>
+          </bibl>
+          <bibl xml:id="biblid98596">
+            <title xml:id="idm139850578245328">SMAAVERS. (Joh. L. Runeberg.)</title>
+          </bibl>
+          <bibl xml:id="biblid98766">
+            <title xml:id="idm139850578244464">OJAN PAVO. (Joh. L. Runeberg.)</title>
+          </bibl>
+          <bibl xml:id="biblid98991">
+            <title xml:id="idm139850578243600">BREMSENS MØSSE*). (F. A. Dahlgren.)</title>
+          </bibl>
+          <bibl xml:id="biblid99233">
+            <title xml:id="idm139850578242640">GRISEN. (F. A. Dahlgren.)</title>
+          </bibl>
+          <bibl xml:id="biblid99407">
+            <title xml:id="idm139850578241840">KJÆRESTE-HANDEL. (F. A. Dahlgren.)</title>
+          </bibl>
+          <bibl xml:id="biblid99591">
+            <title xml:id="idm139850578240896">STINES PARASOL. (F. A. Dahlgren.)</title>
+          </bibl>
+          <bibl xml:id="biblid99727">
+            <title xml:id="idm139850578240096">DIN TJENENDE BRODER. (Carl Snoilsky.)</title>
+          </bibl>
+          <bibl xml:id="biblid100019">
+            <title xml:id="idm139850578239296">AFRODITE OG 'SLIBEREN'</title>
+          </bibl>
+          <bibl xml:id="biblid100393">
+            <title xml:id="idm139850578238512">AVISDRENGEN. (Carl Snoilsky.)</title>
+          </bibl>
+          <bibl xml:id="biblid100574">
+            <title xml:id="idm139850578237664">DER LEGES SOLDAT. (Carl Snoilsky.)</title>
+          </bibl>
+          <bibl xml:id="biblid100962">
+            <title xml:id="idm139850578236800">FATTIG-SVENDS KLAGE. (Per Weiland.)</title>
+          </bibl>
+          <bibl xml:id="biblid101173">
+            <title xml:id="idm139850578235936">INDSIDDEREN. (Karl-Erik Forsslund.)</title>
+          </bibl>
+          <bibl xml:id="biblid101377">
+            <title xml:id="idm139850578235024">BILLEDHUGGEREN. (Karl-Erik Forsslund.)</title>
+          </bibl>
+          <bibl xml:id="biblid101692">
+            <title xml:id="idm139850578234224">JENS JENSEN OG PÆ' KRÆNSEN. (Gustav Frøding.)</title>
+          </bibl>
+          <bibl xml:id="biblid101960">
+            <title xml:id="idm139850578233360">DAARSKABENS TALE. (Gustav Frøding.)</title>
+          </bibl>
+          <bibl xml:id="biblid102111">
+            <title xml:id="idm139850578232512">MASKINEN I ULAVE. (Gustav Frøding.)</title>
+          </bibl>
+          <bibl xml:id="biblid102294">
+            <title xml:id="idm139850578231664">FREDLØS. (Gustav Frøding.)</title>
+          </bibl>
+        </listBibl>
+      </sourceDesc>
     </fileDesc>
   </teiHeader>
   <text xml:id="idm139850578230896">
     <front xml:id="idm139850578230640">
       <pb n="a" xml:id="sa" facs="adl/aakjaer/aakjaer2/aakjfm2001"/>
       <gap reason="cancelled" xml:id="idm139850578229312"/>
-<!---->
-<!---->
-<!--JEPPE AAKJÆR SAMLEDE VÆRKER II-->
       <pb n="b" xml:id="sb" facs="adl/aakjaer/aakjaer2/aakjfm2002"/>
       <pb n="c" xml:id="sc" facs="adl/aakjaer/aakjaer2/aakjfm2003"/>
       <titlePage xml:id="idm139850578225472">
@@ -193,7 +758,7 @@
         </list>
       </div>
       <div type="toc" xml:id="idm139850578135008">
-        <head xml:id="idm139850578134512"><hi rend="italics" xml:id="idm139850578134384"><!--<emph>-->OVERSÆTTELSER<!--</emph--></hi>.</head>
+        <head xml:id="idm139850578134512"><hi rend="italics" xml:id="idm139850578134384">OVERSÆTTELSER</hi>.</head>
         <list type="simple" xml:id="idm139850578133200">
           <head xml:id="idm139850578132704"><hi rend="italics" xml:id="idm139850578132576">Fra Skotsk</hi>:</head>
           <item xml:id="idm139850578131760">
@@ -438,7 +1003,7 @@
         <body xml:id="idm139850578024432">
           <pb n="1" xml:id="s1" facs="adl/aakjaer/aakjaer2/aakj2001"/>
           <div xml:id="workid56097" decls="#biblid56097">
-            <head xml:id="idm139850578022112"><hi rend="italics" xml:id="idm139850578021984"><!--<emph>-->JAWN HUMØR<!--</emph--></hi>.</head>
+            <head xml:id="idm139850578022112"><hi rend="italics" xml:id="idm139850578021984">JAWN HUMØR</hi>.</head>
             <lg xml:id="idm139850578020816">
               <l xml:id="idm139850578020560">Abowr herude o æ Hie</l>
               <l xml:id="idm139850578020112">en hal Mils Vej te Øster,</l>
@@ -506,7 +1071,7 @@
           </div>
           <pb n="3" xml:id="s3" facs="adl/aakjaer/aakjaer2/aakj2003"/>
           <div xml:id="workid56654" decls="#biblid56654">
-            <head xml:id="idm139850577953888"><hi rend="italics" xml:id="idm139850577953760"><!--<emph>-->SANG FRA GRUBEN<!--</emph--></hi>.</head>
+            <head xml:id="idm139850577953888"><hi rend="italics" xml:id="idm139850577953760">SANG FRA GRUBEN</hi>.</head>
             <lg xml:id="idm139850577952592">
               <l xml:id="idm139850577952336">Vi er graa, graa Mænd,</l>
               <l xml:id="idm139850577951888">som af ingen Glæde ved;</l>
@@ -555,7 +1120,7 @@
           </div>
           <pb n="4" xml:id="s4" facs="adl/aakjaer/aakjaer2/aakj2004"/>
           <div xml:id="workid56824" decls="#biblid56824">
-            <head xml:id="idm139850577932720"><hi rend="italics" xml:id="idm139850577932592"><!--<emph>-->TIL EN REJSENDE BRUD<!--</emph--></hi>.</head>
+            <head xml:id="idm139850577932720"><hi rend="italics" xml:id="idm139850577932592">TIL EN REJSENDE BRUD</hi>.</head>
             <lg xml:id="idm139850577931424">
               <l xml:id="idm139850577931168">KOLUMBUS drog til Amerika,</l>
               <l xml:id="idm139850577930736">der hildedes han i Rænker;</l>
@@ -583,7 +1148,7 @@
             </lg>
           </div>
           <div xml:id="workid56916" decls="#biblid56916">
-            <head xml:id="idm139850577920928"><hi rend="italics" xml:id="idm139850577920800"><!--<emph>-->TIL PETER NANSEN<!--</emph--></hi>.<lb xml:id="idm139850577919760"/>
+            <head xml:id="idm139850577920928"><hi rend="italics" xml:id="idm139850577920800">TIL PETER NANSEN</hi>.<lb xml:id="idm139850577919760"/>
 FESTTELEGRAM.</head>
             <lg xml:id="idm139850577919376">
               <l xml:id="idm139850577919120">TILLADER de høje Gjæster,</l>
@@ -601,7 +1166,7 @@ FESTTELEGRAM.</head>
           </div>
           <pb n="5" xml:id="s5" facs="adl/aakjaer/aakjaer2/aakj2005"/>
           <div xml:id="workid56983" decls="#biblid56983">
-            <head xml:id="idm139850577912176"><hi rend="italics" xml:id="idm139850577912048"><!--<emph>-->JENS VED Æ BÆK<!--</emph--></hi>.</head>
+            <head xml:id="idm139850577912176"><hi rend="italics" xml:id="idm139850577912048">JENS VED Æ BÆK</hi>.</head>
             <lg xml:id="idm139850577910864">
               <l xml:id="idm139850577910608">JENS ved æ Bæk</l>
               <l xml:id="idm139850577910176">gik te Møll med hans Sæk,</l>
@@ -655,7 +1220,7 @@ FESTTELEGRAM.</head>
             <trailer xml:id="idm139850577875616"><date xml:id="idm139850577875488">27/10 1908</date>.</trailer>
           </div>
           <div xml:id="workid57295" decls="#biblid57295">
-            <head xml:id="idm139850577873920"><hi rend="italics" xml:id="idm139850577873792"><!--<emph>-->TO FORKYNDERE<!--</emph--></hi>.</head>
+            <head xml:id="idm139850577873920"><hi rend="italics" xml:id="idm139850577873792">TO FORKYNDERE</hi>.</head>
             <lg xml:id="idm139850577872624">
               <l xml:id="idm139850577872368">DE beder derinde for aabne Døre,</l>
               <l xml:id="idm139850577871904">mens Lærkerne synger for døveste Øre.</l>
@@ -869,7 +1434,7 @@ FESTTELEGRAM.</head>
           </div>
           <pb n="11" xml:id="s11" facs="adl/aakjaer/aakjaer2/aakj2011"/>
           <div xml:id="workid58029" decls="#biblid58029">
-            <head xml:id="idm139850577784800"><hi rend="italics" xml:id="idm139850577784672"><!--<emph>-->TIL EN PLOV KAMMERAT<!--</emph--></hi>.</head>
+            <head xml:id="idm139850577784800"><hi rend="italics" xml:id="idm139850577784672">TIL EN PLOV KAMMERAT</hi>.</head>
             <lg xml:id="idm139850577783504">
               <l xml:id="idm139850577783248">VI døjed og pløjed paa Fædrenes Grund,</l>
               <l xml:id="idm139850577782768">mens Hjejlerne fløjted fra Lavningens Bund.</l>
@@ -885,7 +1450,7 @@ FESTTELEGRAM.</head>
             <trailer xml:id="idm139850577779568"><date xml:id="idm139850577779440">14/11 1908</date>.</trailer>
           </div>
           <div xml:id="workid58082" decls="#biblid58082">
-            <head xml:id="idm139850577777840"><hi rend="italics" xml:id="idm139850577777712"><!--<emph>-->VIGGO HØRUP<!--</emph--></hi>.</head>
+            <head xml:id="idm139850577777840"><hi rend="italics" xml:id="idm139850577777712">VIGGO HØRUP</hi>.</head>
             <lg xml:id="idm139850577776528">
               <l xml:id="idm139850577776272">SAA rejses Sten for Døgnets bedste Mand,</l>
               <l xml:id="idm139850577775792">som længe dvæled i sin Tystheds Have.</l>
@@ -968,7 +1533,7 @@ FESTTELEGRAM.</head>
             <trailer xml:id="idm139850577740304"><date xml:id="idm139850577740176">22/11 1908</date>.</trailer>
           </div>
           <div xml:id="workid58403" decls="#biblid58403">
-            <head xml:id="idm139850577738608"><hi rend="italics" xml:id="idm139850577738480"><!--<emph>-->DORRES SANG<!--</emph--></hi>.<lb xml:id="idm139850577737440"/>
+            <head xml:id="idm139850577738608"><hi rend="italics" xml:id="idm139850577738480">DORRES SANG</hi>.<lb xml:id="idm139850577737440"/>
 GAMMELT MOTIV.</head>
             <lg xml:id="idm139850577737056">
               <l xml:id="idm139850577736800">JEG gaar i tusind Tanker</l>
@@ -1004,7 +1569,7 @@ GAMMELT MOTIV.</head>
           </div>
           <pb n="14" xml:id="s14" facs="adl/aakjaer/aakjaer2/aakj2014"/>
           <div xml:id="workid58532" decls="#biblid58532">
-            <head xml:id="idm139850577722400"><hi rend="italics" xml:id="idm139850577722272"><!--<emph>-->LIMFJORDEN<!--</emph--></hi>.</head>
+            <head xml:id="idm139850577722400"><hi rend="italics" xml:id="idm139850577722272">LIMFJORDEN</hi>.</head>
             <lg xml:id="idm139850577721104">
               <l xml:id="idm139850577720848">HVOR herligt du lyser, du krummede Fjord,</l>
               <l xml:id="idm139850577720400">der slynger de Sløjfer i Sønder og Nord,</l>
@@ -1106,7 +1671,7 @@ GAMMELT MOTIV.</head>
             <trailer xml:id="idm139850577682768"><date xml:id="idm139850577682640">Decbr. 1908</date>.</trailer>
           </div>
           <div xml:id="workid58870" decls="#biblid58870">
-            <head xml:id="idm139850577680960"><hi rend="italics" xml:id="idm139850577680832"><!--<emph>-->SVALEN<!--</emph--></hi>.</head>
+            <head xml:id="idm139850577680960"><hi rend="italics" xml:id="idm139850577680832">SVALEN</hi>.</head>
             <lg xml:id="idm139850577679664">
               <l xml:id="idm139850577679408">HOR hvor let dens Vinge smækker</l>
               <l xml:id="idm139850577678944">mod den tunge Kløverdusk,</l>
@@ -1165,7 +1730,7 @@ GAMMELT MOTIV.</head>
             <trailer xml:id="idm139850577659232"><date xml:id="idm139850577659104">29/12 1908</date>.</trailer>
           </div>
           <div xml:id="workid59060" decls="#biblid59060">
-            <head xml:id="idm139850577657536"><hi rend="italics" xml:id="idm139850577657408"><!--<emph>-->DER SO TOW KRAGGER<!--</emph--></hi>.</head>
+            <head xml:id="idm139850577657536"><hi rend="italics" xml:id="idm139850577657408">DER SO TOW KRAGGER</hi>.</head>
             <lg xml:id="idm139850577656240">
               <l xml:id="idm139850577655984">DER so tow Kragger po Kistelbakk</l>
               <l xml:id="idm139850577655552">nej, som æ Suel den skjenner! -</l>
@@ -1213,7 +1778,7 @@ GAMMELT MOTIV.</head>
             <trailer xml:id="idm139850577630256"><date xml:id="idm139850577630128">3/1 1909</date>.</trailer>
           </div>
           <div xml:id="workid59295" decls="#biblid59295">
-            <head xml:id="idm139850577628448"><hi rend="italics" xml:id="idm139850577628320"><!--<emph>-->IMELLEM TO MØRKE HØJE<!--</emph--></hi>.</head>
+            <head xml:id="idm139850577628448"><hi rend="italics" xml:id="idm139850577628320">IMELLEM TO MØRKE HØJE</hi>.</head>
             <lg xml:id="idm139850577627120">
               <l xml:id="idm139850577626864">IMELLEM to mørke Høje</l>
               <l xml:id="idm139850577626416">jeg vogted som Barn min Faders Faar,</l>
@@ -1284,7 +1849,7 @@ GAMMELT MOTIV.</head>
           </div>
           <div xml:id="workid59635" decls="#biblid59635">
             <head xml:id="idm139850577587056">DEN JYDSKE FORSKNINGS OLDERMAND<lb xml:id="idm139850577586752"/>
-							<hi rend="italics" xml:id="idm139850577586496"><!--<emph>-->H. F. FEILBERG<!--</emph--></hi>.</head>
+							<hi rend="italics" xml:id="idm139850577586496">H. F. FEILBERG</hi>.</head>
             <lg xml:id="idm139850577585328">
               <l xml:id="idm139850577585072">HWOR er æ skjøn, te <hi rend="italics" xml:id="idm139850577584752">de</hi> er te,</l>
               <l xml:id="idm139850577583968">som vil det gued bewaar,</l>
@@ -1314,7 +1879,7 @@ GAMMELT MOTIV.</head>
           </div>
           <pb n="21" xml:id="s21" facs="adl/aakjaer/aakjaer2/aakj2021"/>
           <div xml:id="workid59822" decls="#biblid59822">
-            <head xml:id="idm139850577563824"><hi rend="italics" xml:id="idm139850577563696"><!--<emph>-->VED ENGSØEN<!--</emph--></hi>.</head>
+            <head xml:id="idm139850577563824"><hi rend="italics" xml:id="idm139850577563696">VED ENGSØEN</hi>.</head>
             <lg xml:id="idm139850577562512">
               <l xml:id="idm139850577562256">MAA jeg tage din Haand, nu det dufter af Hø,</l>
               <l xml:id="idm139850577561760">og den sølvblanke Helt skjærer Strimer i Sø,</l>
@@ -1342,7 +1907,7 @@ GAMMELT MOTIV.</head>
             <trailer xml:id="idm139850577553248"><date xml:id="idm139850577553120">4/5 1909</date>.</trailer>
           </div>
           <div xml:id="workid59918" decls="#biblid59918">
-            <head xml:id="idm139850577551536"><hi rend="italics" xml:id="idm139850577551408"><!--<emph>-->RINGEN<!--</emph--></hi>.</head>
+            <head xml:id="idm139850577551536"><hi rend="italics" xml:id="idm139850577551408">RINGEN</hi>.</head>
             <lg xml:id="idm139850577550240">
               <l xml:id="idm139850577549984">HAN gaar og tænker, hun gaar og traller,</l>
               <l xml:id="idm139850577549504">hun traller snart til Alverdens Ting,</l>
@@ -1371,7 +1936,7 @@ GAMMELT MOTIV.</head>
             <trailer xml:id="idm139850577540208"><date xml:id="idm139850577540080">7/5 1909</date>.</trailer>
           </div>
           <div xml:id="workid60021" decls="#biblid60021">
-            <head xml:id="idm139850577538464"><hi rend="italics" xml:id="idm139850577538336"><!--<emph>-->EN LYSTIG SANG<!--</emph--></hi>.<lb xml:id="idm139850577537296"/>
+            <head xml:id="idm139850577538464"><hi rend="italics" xml:id="idm139850577538336">EN LYSTIG SANG</hi>.<lb xml:id="idm139850577537296"/>
 SKOTSK MOTIV.</head>
             <lg xml:id="idm139850577536912">
               <l xml:id="idm139850577536656">EN lystig Sang, ja en lystig Sang,</l>
@@ -1413,7 +1978,7 @@ SKOTSK MOTIV.</head>
             <trailer xml:id="idm139850577521616"><date xml:id="idm139850577521488">12/5 1909</date>.</trailer>
           </div>
           <div xml:id="workid60169" decls="#biblid60169">
-            <head xml:id="idm139850577519872"><hi rend="italics" xml:id="idm139850577519744"><!--<emph>-->BONDEN OG SKRÆDDEREN<!--</emph--></hi>.</head>
+            <head xml:id="idm139850577519872"><hi rend="italics" xml:id="idm139850577519744">BONDEN OG SKRÆDDEREN</hi>.</head>
             <lg xml:id="idm139850577518544">
               <l xml:id="idm139850577518288">DER kom en Skrædder til vor By:</l>
               <l xml:id="idm139850577517824"><hi rend="italics" xml:id="idm139850577517696">Klip-</hi>Klap og Klip!</l>
@@ -1478,7 +2043,7 @@ SKOTSK MOTIV.</head>
             <trailer xml:id="idm139850577490400">Foraar <date xml:id="idm139850577490112">1909</date>.</trailer>
           </div>
           <div xml:id="workid60425" decls="#biblid60425">
-            <head xml:id="idm139850577488480"><hi rend="italics" xml:id="idm139850577488352"><!--<emph>-->AUTOGRAFSAMLER<!--</emph--></hi>.</head>
+            <head xml:id="idm139850577488480"><hi rend="italics" xml:id="idm139850577488352">AUTOGRAFSAMLER</hi>.</head>
             <lg xml:id="idm139850577487184">
               <l xml:id="idm139850577486928">JA, bejste Hr. Meyer!</l>
               <l xml:id="idm139850577486544"> det <hi rend="italics" xml:id="idm139850577486256">er</hi>, som a sejer:</l>
@@ -1505,7 +2070,7 @@ SKOTSK MOTIV.</head>
             <trailer xml:id="idm139850577473584"><date xml:id="idm139850577473456">12/9 1909</date>.</trailer>
           </div>
           <div xml:id="workid60557" decls="#biblid60557">
-            <head xml:id="idm139850577471888"><hi rend="italics" xml:id="idm139850577471760"><!--<emph>-->AN' VÆVER<!--</emph--></hi>.</head>
+            <head xml:id="idm139850577471888"><hi rend="italics" xml:id="idm139850577471760">AN' VÆVER</hi>.</head>
             <lg xml:id="idm139850577470592">
               <l xml:id="idm139850577470336">GAMLE An' Væver hun færdes saa stille</l>
               <l xml:id="idm139850577469856">som nuslende Mus mellem Siv,</l>
@@ -1565,7 +2130,7 @@ SKOTSK MOTIV.</head>
             <trailer xml:id="idm139850577444832"><date xml:id="idm139850577444704">1909</date>.</trailer>
           </div>
           <div xml:id="workid60791" decls="#biblid60791">
-            <head xml:id="idm139850577443072"><hi rend="italics" xml:id="idm139850577442944"><!--<emph>-->TRINES KO<!--</emph--></hi>.<lb xml:id="idm139850577441904"/>
+            <head xml:id="idm139850577443072"><hi rend="italics" xml:id="idm139850577442944">TRINES KO</hi>.<lb xml:id="idm139850577441904"/>
 JULEAFTENSTEMNING.</head>
             <lg xml:id="idm139850577441520">
               <l xml:id="idm139850577441264">Nu skal <hi rend="italics" xml:id="idm139850577440976">du</hi> ha din Havrekjærv,</l>
@@ -1664,7 +2229,7 @@ JULEAFTENSTEMNING.</head>
           </div>
           <pb n="29" xml:id="s29" facs="adl/aakjaer/aakjaer2/aakj2029"/>
           <div xml:id="workid61151" decls="#biblid61151">
-            <head xml:id="idm139850577399024"><hi rend="italics" xml:id="idm139850577398896"><!--<emph>-->MEJERIST ESPER ANDERSEN<!--</emph--></hi>,<lb xml:id="idm139850577397856"/><hi rend="italics" xml:id="idm139850577397728"><!--<emph>-->JEBJÆRG<!--</emph--></hi>.</head>
+            <head xml:id="idm139850577399024"><hi rend="italics" xml:id="idm139850577398896">MEJERIST ESPER ANDERSEN</hi>,<lb xml:id="idm139850577397856"/><hi rend="italics" xml:id="idm139850577397728">JEBJÆRG</hi>.</head>
             <lg xml:id="idm139850577396592">
               <l xml:id="idm139850577396336">DE gamle Dage er ikke glemt,</l>
               <l xml:id="idm139850577395904">det huskes den Dag i Dag,</l>
@@ -1705,7 +2270,7 @@ JULEAFTENSTEMNING.</head>
           </div>
           <pb n="30" xml:id="s30" facs="adl/aakjaer/aakjaer2/aakj2030"/>
           <div xml:id="workid61302" decls="#biblid61302">
-            <head xml:id="idm139850577380016"><hi rend="italics" xml:id="idm139850577379888"><!--<emph>-->FORAARSTEGN<!--</emph--></hi>.</head>
+            <head xml:id="idm139850577380016"><hi rend="italics" xml:id="idm139850577379888">FORAARSTEGN</hi>.</head>
             <lg xml:id="idm139850577378720">
               <l xml:id="idm139850577378464">MOR, har du set, hvad der staar bag Diget?</l>
               <l xml:id="idm139850577378016">Gjæslingblomster saa bitte smaa!</l>
@@ -1739,7 +2304,7 @@ JULEAFTENSTEMNING.</head>
             <trailer xml:id="idm139850577366896"><date xml:id="idm139850577366768">29/1 1910</date>.</trailer>
           </div>
           <div xml:id="workid61420" decls="#biblid61420">
-            <head xml:id="idm139850577365168"><hi rend="italics" xml:id="idm139850577365040"><!--<emph>-->PAA KJÆRE GRAVE<!--</emph--></hi>.</head>
+            <head xml:id="idm139850577365168"><hi rend="italics" xml:id="idm139850577365040">PAA KJÆRE GRAVE</hi>.</head>
             <lg xml:id="idm139850577363856">
               <head xml:id="idm139850577363600">I.</head>
               <l xml:id="idm139850577363168">SAA mangen Slægt lig knækket Rør</l>
@@ -1758,7 +2323,7 @@ JULEAFTENSTEMNING.</head>
             <trailer xml:id="idm139850577357520"><date xml:id="idm139850577357392">Januar 1910</date>.</trailer>
           </div>
           <div xml:id="workid61492" decls="#biblid61492">
-            <head xml:id="idm139850577355760"><hi rend="italics" xml:id="idm139850577355632"><!--<emph>-->GAMMEL KA BAKK<!--</emph--></hi>.</head>
+            <head xml:id="idm139850577355760"><hi rend="italics" xml:id="idm139850577355632">GAMMEL KA BAKK</hi>.</head>
             <lg xml:id="idm139850577354464">
               <l xml:id="idm139850577354208">ER æ Plads mærked aa, sæt æ Arbed i Gaang,</l>
               <l xml:id="idm139850577353712">fo nø Mergel laa op po æ Brink!</l>
@@ -1814,7 +2379,7 @@ JULEAFTENSTEMNING.</head>
             <trailer xml:id="idm139850577316112"><date xml:id="idm139850577315984">22/1 1910</date>.</trailer>
           </div>
           <div xml:id="workid61831" decls="#biblid61831">
-            <head xml:id="idm139850577314352"><hi rend="italics" xml:id="idm139850577314224"><!--<emph>-->MORS ROK<!--</emph--></hi>.</head>
+            <head xml:id="idm139850577314352"><hi rend="italics" xml:id="idm139850577314224">MORS ROK</hi>.</head>
             <lg xml:id="idm139850577313056">
               <l xml:id="idm139850577312800">SPURVEN sidder stum bag Kvist;</l>
               <l xml:id="idm139850577312368">saamænd, om ej det fyger!</l>
@@ -1901,7 +2466,7 @@ JULEAFTENSTEMNING.</head>
             <trailer xml:id="idm139850577271920"><date xml:id="idm139850577271792">26/1 1910</date>.</trailer>
           </div>
           <div xml:id="workid62193" decls="#biblid62193">
-            <head xml:id="idm139850577270160"><hi rend="italics" xml:id="idm139850577270032"><!--<emph>-->VED BJØRNSONS DØDSLEJE<!--</emph--></hi>.</head>
+            <head xml:id="idm139850577270160"><hi rend="italics" xml:id="idm139850577270032">VED BJØRNSONS DØDSLEJE</hi>.</head>
             <lg xml:id="idm139850577268832">
               <l xml:id="idm139850577268576">SAA vejer vi nu atter i vor bævende Haand</l>
               <l xml:id="idm139850577268096">de Gaver, der kom fra din sangstærke Aand.</l>
@@ -1913,7 +2478,7 @@ JULEAFTENSTEMNING.</head>
             <trailer xml:id="idm139850577266208"><date xml:id="idm139850577266080">4/2 1910</date>.</trailer>
           </div>
           <div xml:id="workid62234" decls="#biblid62234">
-            <head xml:id="idm139850577264544"><hi rend="italics" xml:id="idm139850577264416"><!--<emph>-->PJALTE-KREJSTEN<!--</emph--></hi>.</head>
+            <head xml:id="idm139850577264544"><hi rend="italics" xml:id="idm139850577264416">PJALTE-KREJSTEN</hi>.</head>
             <lg xml:id="idm139850577263248">
               <l xml:id="idm139850577262992">HANS Kjortel er laset i Sømme og Foer,</l>
               <l xml:id="idm139850577262512">hans Hat er ej ganske ny;</l>
@@ -1973,7 +2538,7 @@ JULEAFTENSTEMNING.</head>
           </div>
           <pb n="36" xml:id="s36" facs="adl/aakjaer/aakjaer2/aakj2036"/>
           <div xml:id="workid62441" decls="#biblid62441">
-            <head xml:id="idm139850577238928"><hi rend="italics" xml:id="idm139850577238800"><!--<emph>-->KRITIK<!--</emph--></hi>.</head>
+            <head xml:id="idm139850577238928"><hi rend="italics" xml:id="idm139850577238800">KRITIK</hi>.</head>
             <lg xml:id="idm139850577237632">
               <l xml:id="idm139850577237376">ET Steds i Skoven, hvor Bøgen er Vært</l>
               <l xml:id="idm139850577236896">gav Nattergalen en Aften Koncert.</l>
@@ -2048,7 +2613,7 @@ JULEAFTENSTEMNING.</head>
             <trailer xml:id="idm139850577207744"><date xml:id="idm139850577207616">9/2 1910</date>.</trailer>
           </div>
           <div xml:id="workid62709" decls="#biblid62709">
-            <head xml:id="idm139850577206000"><hi rend="italics" xml:id="idm139850577205872"><!--<emph>-->KJESTEN OG KRÆN KRESTEN<!--</emph--></hi>.</head>
+            <head xml:id="idm139850577206000"><hi rend="italics" xml:id="idm139850577205872">KJESTEN OG KRÆN KRESTEN</hi>.</head>
             <lg xml:id="idm139850577204672">
               <l xml:id="idm139850577204416">KJESTENS Ko</l>
               <l xml:id="idm139850577204032">var saa god som to,</l>
@@ -2080,7 +2645,7 @@ JULEAFTENSTEMNING.</head>
           </div>
           <div xml:id="workid62827" decls="#biblid62827">
             <head xml:id="idm139850577191040">HØSLETS-VISER.<lb xml:id="idm139850577190736"/>
-							<hi rend="italics" xml:id="idm139850577190480"><!--<emph>-->MORGEN FØR SLAGET<!--</emph--></hi>.</head>
+							<hi rend="italics" xml:id="idm139850577190480">MORGEN FØR SLAGET</hi>.</head>
             <lg xml:id="idm139850577189296">
               <l xml:id="idm139850577189040">HAR i nu Tænder i Riven sat?</l>
               <l xml:id="idm139850577188576"> Er I parat, mine Drenge?</l>
@@ -2115,7 +2680,7 @@ JULEAFTENSTEMNING.</head>
             <trailer xml:id="idm139850577176304"><date xml:id="idm139850577176176">7/2 1910</date>.</trailer>
           </div>
           <div xml:id="workid62958" decls="#biblid62958">
-            <head xml:id="idm139850577174560"><hi rend="italics" xml:id="idm139850577174432"><!--<emph>-->DEN BLANKE A A<!--</emph--></hi>.</head>
+            <head xml:id="idm139850577174560"><hi rend="italics" xml:id="idm139850577174432">DEN BLANKE A A</hi>.</head>
             <lg xml:id="idm139850577173264">
               <l xml:id="idm139850577173008">OG Plagene pruster i Morgentrav,</l>
               <l xml:id="idm139850577172576">og Pigerne gynger paa Vognens Skrav.</l>
@@ -2156,7 +2721,7 @@ JULEAFTENSTEMNING.</head>
           </div>
           <pb n="40" xml:id="s40" facs="adl/aakjaer/aakjaer2/aakj2040"/>
           <div xml:id="workid63095" decls="#biblid63095">
-            <head xml:id="idm139850577157296"><hi rend="italics" xml:id="idm139850577157168"><!--<emph>-->SLAAKARLE<!--</emph--></hi>.</head>
+            <head xml:id="idm139850577157296"><hi rend="italics" xml:id="idm139850577157168">SLAAKARLE</hi>.</head>
             <lg xml:id="idm139850577156000">
               <l xml:id="idm139850577155744">VIL I se paa Karle, som kan slaa?</l>
               <l xml:id="idm139850577155312">som kan gaa et Skaar og ta' en Skraa,</l>
@@ -2242,7 +2807,7 @@ JULEAFTENSTEMNING.</head>
           </div>
           <pb n="42" xml:id="s42" facs="adl/aakjaer/aakjaer2/aakj2042"/>
           <div xml:id="workid63398" decls="#biblid63398">
-            <head xml:id="idm139850577120080"><hi rend="italics" xml:id="idm139850577119952"><!--<emph>-->JENS KUK<!--</emph--></hi>.</head>
+            <head xml:id="idm139850577120080"><hi rend="italics" xml:id="idm139850577119952">JENS KUK</hi>.</head>
             <lg xml:id="idm139850577118784">
               <l xml:id="idm139850577118528">HAN kommer over Engen, han skinner som en Sol,</l>
               <l xml:id="idm139850577118080">en Hvirvelvind tog Hatten med, og Pokker tog hans Kjol,</l>
@@ -2283,7 +2848,7 @@ JULEAFTENSTEMNING.</head>
           </div>
           <pb n="43" xml:id="s43" facs="adl/aakjaer/aakjaer2/aakj2043"/>
           <div xml:id="workid63552" decls="#biblid63552">
-            <head xml:id="idm139850577100784"><hi rend="italics" xml:id="idm139850577100656"><!--<emph>-->HUMLEBO<!--</emph--></hi>.</head>
+            <head xml:id="idm139850577100784"><hi rend="italics" xml:id="idm139850577100656">HUMLEBO</hi>.</head>
             <lg xml:id="idm139850577099488">
               <l xml:id="idm139850577099232">HØRTE du noget som summed her?</l>
               <l xml:id="idm139850577098768">Hej, for en Basse der brummed dér!</l>
@@ -2396,7 +2961,7 @@ JULEAFTENSTEMNING.</head>
             <trailer xml:id="idm139850577049632"><date xml:id="idm139850577049504">15/2 1910</date>.</trailer>
           </div>
           <div xml:id="workid64014" decls="#biblid64014">
-            <head xml:id="idm139850577047936"><hi rend="italics" xml:id="idm139850577047808"><!--<emph>-->KIRKEN<!--</emph--></hi>.</head>
+            <head xml:id="idm139850577047936"><hi rend="italics" xml:id="idm139850577047808">KIRKEN</hi>.</head>
             <lg xml:id="idm139850577046640">
               <l xml:id="idm139850577046384">JEG sidder ved Foden af Bakken,</l>
               <l xml:id="idm139850577045952">mens Kirken staar paa dens Top.</l>
@@ -2604,7 +3169,7 @@ JULEAFTENSTEMNING.</head>
             <trailer xml:id="idm139850576961936"><date xml:id="idm139850576961808">25/2 1910</date>.</trailer>
           </div>
           <div xml:id="workid64733" decls="#biblid64733">
-            <head xml:id="idm139850576960240"><hi rend="italics" xml:id="idm139850576960112"><!--<emph>-->AAKJÆR<!--</emph--></hi>.</head>
+            <head xml:id="idm139850576960240"><hi rend="italics" xml:id="idm139850576960112">AAKJÆR</hi>.</head>
             <lg xml:id="idm139850576958944">
               <l xml:id="idm139850576958688">LIDT sønden Fløj</l>
               <l xml:id="idm139850576958256"> der bløw a føj,</l>
@@ -2616,7 +3181,7 @@ JULEAFTENSTEMNING.</head>
             <trailer xml:id="idm139850576955904"><date xml:id="idm139850576955776">1910</date>.</trailer>
           </div>
           <div xml:id="workid64778" decls="#biblid64778">
-            <head xml:id="idm139850576954240"><hi rend="italics" xml:id="idm139850576954112"><!--<emph>-->KAPHYW<!--</emph--></hi>.<lb xml:id="idm139850576953072"/>
+            <head xml:id="idm139850576954240"><hi rend="italics" xml:id="idm139850576954112">KAPHYW</hi>.<lb xml:id="idm139850576953072"/>
 EN OLDTIDSMIND.</head>
             <lg xml:id="idm139850576952688">
               <l xml:id="idm139850576952432">JA, far der war en Stien a' <hi rend="italics" xml:id="idm139850576952128">Skyw</hi>,</l>
@@ -2644,7 +3209,7 @@ EN OLDTIDSMIND.</head>
             <trailer xml:id="idm139850576927088"><date xml:id="idm139850576926960">26/2 1910</date>.</trailer>
           </div>
           <div xml:id="workid65012" decls="#biblid65012">
-            <head xml:id="idm139850576925328"><hi rend="italics" xml:id="idm139850576925200"><!--<emph>-->DEN DØDE LÆRKE<!--</emph--></hi>.</head>
+            <head xml:id="idm139850576925328"><hi rend="italics" xml:id="idm139850576925200">DEN DØDE LÆRKE</hi>.</head>
             <lg xml:id="idm139850576924016">
               <l xml:id="idm139850576923760">NYS jeg gik i den dybe Sne,</l>
               <l xml:id="idm139850576923328">fik et skjærende Syn at se:</l>
@@ -2730,7 +3295,7 @@ EN OLDTIDSMIND.</head>
           </div>
           <pb n="53" xml:id="s53" facs="adl/aakjaer/aakjaer2/aakj2053"/>
           <div xml:id="workid65311" decls="#biblid65311">
-            <head xml:id="idm139850576888608"><hi rend="italics" xml:id="idm139850576888480"><!--<emph>-->DR. S. RAMBUSCH<!--</emph--></hi>.<lb xml:id="idm139850576887440"/>
+            <head xml:id="idm139850576888608"><hi rend="italics" xml:id="idm139850576888480">DR. S. RAMBUSCH</hi>.<lb xml:id="idm139850576887440"/>
 VED HANS FLYTNING FRA SJØRUP TIL AALBORG.</head>
             <lg xml:id="idm139850576886960">
               <l xml:id="idm139850576886704">HVOR Ormen klam sig lang i Sporet strækker,</l>
@@ -2796,7 +3361,7 @@ VED HANS FLYTNING FRA SJØRUP TIL AALBORG.</head>
             <trailer xml:id="idm139850576861392"><date xml:id="idm139850576861264">29/4 1910</date>.</trailer>
           </div>
           <div xml:id="workid65547" decls="#biblid65547">
-            <head xml:id="idm139850576859648"><hi rend="italics" xml:id="idm139850576859520"><!--<emph>-->MILITARISMEN<!--</emph--></hi>.</head>
+            <head xml:id="idm139850576859648"><hi rend="italics" xml:id="idm139850576859520">MILITARISMEN</hi>.</head>
             <lg xml:id="idm139850576858352">
               <l xml:id="idm139850576858096">SAA sidder I gamle Gubber dér</l>
               <l xml:id="idm139850576857632">og mimrer om Landets Værn</l>
@@ -2874,7 +3439,7 @@ VED HANS FLYTNING FRA SJØRUP TIL AALBORG.</head>
             <trailer xml:id="idm139850576827968"><date xml:id="idm139850576827840">25/5 1910</date>.</trailer>
           </div>
           <div xml:id="workid65818" decls="#biblid65818">
-            <head xml:id="idm139850576826160"><hi rend="italics" xml:id="idm139850576826032"><!--<emph>-->DA Æ BJÆRMAND KAM<!--</emph--></hi>.</head>
+            <head xml:id="idm139850576826160"><hi rend="italics" xml:id="idm139850576826032">DA Æ BJÆRMAND KAM</hi>.</head>
             <lg xml:id="idm139850576824848">
               <l xml:id="idm139850576824592">DER <hi rend="italics" xml:id="idm139850576824336">kam</hi> en Trold fræ Daabjærgdojs:</l>
               <l xml:id="idm139850576823424"><hi rend="italics" xml:id="idm139850576823296">Klump-</hi>Dump! <hi rend="italics" xml:id="idm139850576822576">Hump</hi>-i-Skump!</l>
@@ -3014,7 +3579,7 @@ VED HANS FLYTNING FRA SJØRUP TIL AALBORG.</head>
             <trailer xml:id="idm139850576727952"><date xml:id="idm139850576727824">29/5 1910</date>.</trailer>
           </div>
           <div xml:id="workid66645" decls="#biblid66645">
-            <head xml:id="idm139850576726144"><hi rend="italics" xml:id="idm139850576726016"><!--<emph>-->FORLADT<!--</emph--></hi>.</head>
+            <head xml:id="idm139850576726144"><hi rend="italics" xml:id="idm139850576726016">FORLADT</hi>.</head>
             <lg xml:id="idm139850576724848">
               <l xml:id="idm139850576724592">KAREN vandede Kaal i Bed,</l>
               <l xml:id="idm139850576724160">Jørgen stod med et Smil paa Sned,</l>
@@ -3050,7 +3615,7 @@ Togger</hi>, Fiskevaad.</note>
             <trailer xml:id="idm139850576705344"><date xml:id="idm139850576705216">8/6 1910</date>.</trailer>
           </div>
           <div xml:id="workid66827" decls="#biblid66827">
-            <head xml:id="idm139850576703584"><hi rend="italics" xml:id="idm139850576703456"><!--<emph>-->TIL SALLINGS HUSMAND<!--</emph--></hi>.</head>
+            <head xml:id="idm139850576703584"><hi rend="italics" xml:id="idm139850576703456">TIL SALLINGS HUSMAND</hi>.</head>
             <lg xml:id="idm139850576702288">
               <l xml:id="idm139850576702032">FRA Grønningør til Livø-Tap</l>
               <l xml:id="idm139850576701568">du ser saa skjøn en Kyst,</l>
@@ -3115,7 +3680,7 @@ Togger</hi>, Fiskevaad.</note>
             <trailer xml:id="idm139850576677840"><date xml:id="idm139850576677712">Juli 1910</date>.</trailer>
           </div>
           <div xml:id="workid67049" decls="#biblid67049">
-            <head xml:id="idm139850576676032"><hi rend="italics" xml:id="idm139850576675904"><!--<emph>-->PER SMED<!--</emph--></hi>.</head>
+            <head xml:id="idm139850576676032"><hi rend="italics" xml:id="idm139850576675904">PER SMED</hi>.</head>
             <lg xml:id="idm139850576674736">
               <l xml:id="idm139850576674480">NAAR Grisen den skal slagtes,</l>
               <l xml:id="idm139850576674048">saa henter vi Per Smed,</l>
@@ -3232,7 +3797,7 @@ Togger</hi>, Fiskevaad.</note>
             <trailer xml:id="idm139850576628160"><date xml:id="idm139850576628032">25/7 1910</date>.</trailer>
           </div>
           <div xml:id="workid67457" decls="#biblid67457">
-            <head xml:id="idm139850576626352"><hi rend="italics" xml:id="idm139850576626224"><!--<emph>-->HØSTMARCH<!--</emph--></hi>.</head>
+            <head xml:id="idm139850576626352"><hi rend="italics" xml:id="idm139850576626224">HØSTMARCH</hi>.</head>
             <lg xml:id="idm139850576625056">
               <l xml:id="idm139850576624800">VI kommer fra Dalenes Fred,</l>
               <l xml:id="idm139850576624368">og Faner af Havren har vi med;</l>
@@ -3257,7 +3822,7 @@ Togger</hi>, Fiskevaad.</note>
             <trailer xml:id="idm139850576617248">Efteraar <date xml:id="idm139850576616992">1910</date>.</trailer>
           </div>
           <div xml:id="workid67543" decls="#biblid67543">
-            <head xml:id="idm139850576615424"><hi rend="italics" xml:id="idm139850576615296"><!--<emph>-->EN JULEGJÆST<!--</emph--></hi>.</head>
+            <head xml:id="idm139850576615424"><hi rend="italics" xml:id="idm139850576615296">EN JULEGJÆST</hi>.</head>
             <lg xml:id="idm139850576614112">
               <l xml:id="idm139850576613856">HAN kommer over Bakken med Rim i sit Skjæg,</l>
               <l xml:id="idm139850576613360"> hans Øjne spejder langt mod en hvidkalket Væg;</l>
@@ -3329,7 +3894,7 @@ Togger</hi>, Fiskevaad.</note>
             <trailer xml:id="idm139850576583280"><date xml:id="idm139850576583152">Decbr. 1910</date>.</trailer>
           </div>
           <div xml:id="workid67820" decls="#biblid67820">
-            <head xml:id="idm139850576581536"><hi rend="italics" xml:id="idm139850576581408"><!--<emph>-->JULEAFTEN<!--</emph--></hi>.</head>
+            <head xml:id="idm139850576581536"><hi rend="italics" xml:id="idm139850576581408">JULEAFTEN</hi>.</head>
             <lg xml:id="idm139850576580240">
               <l xml:id="idm139850576579984">NAAR sitrer din Sjæl som en tonende Stræng,</l>
               <l xml:id="idm139850576579488">og naar skinner Lysene blidest,</l>
@@ -3379,7 +3944,7 @@ Togger</hi>, Fiskevaad.</note>
             <trailer xml:id="idm139850576560832"><date xml:id="idm139850576560704">Decbr. 1910</date>.</trailer>
           </div>
           <div xml:id="workid68000" decls="#biblid68000">
-            <head xml:id="idm139850576559072"><hi rend="italics" xml:id="idm139850576558944"><!--<emph>-->JULENEG<!--</emph--></hi>.</head>
+            <head xml:id="idm139850576559072"><hi rend="italics" xml:id="idm139850576558944">JULENEG</hi>.</head>
             <lg xml:id="idm139850576557776">
               <l xml:id="idm139850576557520">"KOM nu ud, lille Fa'r og faa alt gjort i Stand,</l>
               <l xml:id="idm139850576557072">faa lagt Halm under Kalven og Hesten til Vand,</l>
@@ -3474,7 +4039,7 @@ Togger</hi>, Fiskevaad.</note>
           </div>
           <pb n="70" xml:id="s70" facs="adl/aakjaer/aakjaer2/aakj2070"/>
           <div xml:id="workid68334" decls="#biblid68334">
-            <head xml:id="idm139850576518096"><hi rend="italics" xml:id="idm139850576517968"><!--<emph>-->PIGER PAA ENGEN<!--</emph--></hi>.</head>
+            <head xml:id="idm139850576518096"><hi rend="italics" xml:id="idm139850576517968">PIGER PAA ENGEN</hi>.</head>
             <lg xml:id="idm139850576516800">
               <l xml:id="idm139850576516544">Nu er Dagen fuld af Sang,</l>
               <l xml:id="idm139850576516112">og nu er Viben kommen,</l>
@@ -3515,7 +4080,7 @@ Togger</hi>, Fiskevaad.</note>
           </div>
           <pb n="71" xml:id="s71" facs="adl/aakjaer/aakjaer2/aakj2071"/>
           <div xml:id="workid68474" decls="#biblid68474">
-            <head xml:id="idm139850576500400"><hi rend="italics" xml:id="idm139850576500272"><!--<emph>-->NYTAAR<!--</emph--></hi>.</head>
+            <head xml:id="idm139850576500400"><hi rend="italics" xml:id="idm139850576500272">NYTAAR</hi>.</head>
             <lg xml:id="idm139850576499104">
               <l xml:id="idm139850576498848">DER brager et Skud for min Forstuedør,</l>
               <l xml:id="idm139850576498368">aketter gaar op imod Maanen;</l>
@@ -3546,7 +4111,7 @@ Togger</hi>, Fiskevaad.</note>
             <trailer xml:id="idm139850576487664"><date xml:id="idm139850576487536">26/6 1911</date>.</trailer>
           </div>
           <div xml:id="workid68589" decls="#biblid68589">
-            <head xml:id="idm139850576485904"><hi rend="italics" xml:id="idm139850576485776"><!--<emph>-->KRÆN DEJLER<!--</emph--></hi>.</head>
+            <head xml:id="idm139850576485904"><hi rend="italics" xml:id="idm139850576485776">KRÆN DEJLER</hi>.</head>
             <lg xml:id="idm139850576484592">
               <l xml:id="idm139850576484336">KRÆN Dejler kjører hans Tørv i Land:</l>
               <l xml:id="idm139850576483856"><hi rend="italics" xml:id="idm139850576483728">hop</hi>, hop, <hi rend="italics" xml:id="idm139850576483072">hop</hi>, for en Hywl i Gras!</l>
@@ -3614,7 +4179,7 @@ Togger</hi>, Fiskevaad.</note>
             <trailer xml:id="idm139850576451408">Sommeren <date xml:id="idm139850576451120">1911</date>.</trailer>
           </div>
           <div xml:id="workid68885" decls="#biblid68885">
-            <head xml:id="idm139850576449552"><hi rend="italics" xml:id="idm139850576449424"><!--<emph>-->H. F. FEILBERG<!--</emph--></hi>.</head>
+            <head xml:id="idm139850576449552"><hi rend="italics" xml:id="idm139850576449424">H. F. FEILBERG</hi>.</head>
             <lg xml:id="idm139850576448256">
               <l xml:id="idm139850576448000">SAA do bløw føj her mødt i Høst</l>
               <l xml:id="idm139850576447536">mell aall Guds gued Gawer,</l>
@@ -3630,7 +4195,7 @@ Togger</hi>, Fiskevaad.</note>
             <trailer xml:id="idm139850576442608"><date xml:id="idm139850576442480">4/8 1911</date>.</trailer>
           </div>
           <div xml:id="workid68952" decls="#biblid68952">
-            <head xml:id="idm139850576440800"><hi rend="italics" xml:id="idm139850576440672"><!--<emph>-->ENSOM<!--</emph--></hi>.</head>
+            <head xml:id="idm139850576440800"><hi rend="italics" xml:id="idm139850576440672">ENSOM</hi>.</head>
             <lg xml:id="idm139850576439504">
               <l xml:id="idm139850576439248">I Landet, hvor Turnipsen bovner</l>
               <l xml:id="idm139850576438816"> med svulmende Rod og Blad,</l>
@@ -3648,7 +4213,7 @@ Togger</hi>, Fiskevaad.</note>
           </div>
           <pb n="74" xml:id="s74" facs="adl/aakjaer/aakjaer2/aakj2074"/>
           <div xml:id="workid69033" decls="#biblid69033">
-            <head xml:id="idm139850576430336"><hi rend="italics" xml:id="idm139850576430208"><!--<emph>-->DE FATTIGES JUL<!--</emph--></hi>.</head>
+            <head xml:id="idm139850576430336"><hi rend="italics" xml:id="idm139850576430208">DE FATTIGES JUL</hi>.</head>
             <lg xml:id="idm139850576429040">
               <l xml:id="idm139850576428784">LYSET tændt,</l>
               <l xml:id="idm139850576428352"> Minderne tændt,</l>
@@ -3676,7 +4241,7 @@ Togger</hi>, Fiskevaad.</note>
             <trailer xml:id="idm139850576420000"><date xml:id="idm139850576419872">18/12 1911</date>.</trailer>
           </div>
           <div xml:id="workid69128" decls="#biblid69128">
-            <head xml:id="idm139850576418192"><hi rend="italics" xml:id="idm139850576418064"><!--<emph>-->JULEHILSEN<!--</emph--></hi><lb xml:id="idm139850576417152"/><hi rend="italics" xml:id="idm139850576417024"><!--<emph>-->TIL "NAVERNE" I ZÜRICH<!--</emph--></hi>.</head>
+            <head xml:id="idm139850576418192"><hi rend="italics" xml:id="idm139850576418064">JULEHILSEN</hi><lb xml:id="idm139850576417152"/><hi rend="italics" xml:id="idm139850576417024">TIL "NAVERNE" I ZÜRICH</hi>.</head>
             <lg xml:id="idm139850576415856">
               <l xml:id="idm139850576415600">VI sidder herhjemme og længes derud</l>
               <l xml:id="idm139850576415120">mod blinkende Tinder og Floder,</l>
@@ -3708,7 +4273,7 @@ Togger</hi>, Fiskevaad.</note>
             <trailer xml:id="idm139850576403744"><date xml:id="idm139850576403616">20/12 1911</date>.</trailer>
           </div>
           <div xml:id="workid69255" decls="#biblid69255">
-            <head xml:id="idm139850576401984"><hi rend="italics" xml:id="idm139850576401856"><!--<emph>-->PIGEN PAA DIGET<!--</emph--></hi>.<lb xml:id="idm139850576400816"/>
+            <head xml:id="idm139850576401984"><hi rend="italics" xml:id="idm139850576401856">PIGEN PAA DIGET</hi>.<lb xml:id="idm139850576400816"/>
 TIL EN GÆLISK MELODI.</head>
             <lg xml:id="idm139850576400368">
               <l xml:id="idm139850576400112">GJØGEN kukker, Solen svinder,</l>
@@ -3754,7 +4319,7 @@ TIL EN GÆLISK MELODI.</head>
             <trailer xml:id="idm139850576382256"><date xml:id="idm139850576382128">9/1 1912</date>.</trailer>
           </div>
           <div xml:id="workid69428" decls="#biblid69428">
-            <head xml:id="idm139850576380496"><hi rend="italics" xml:id="idm139850576380368"><!--<emph>-->STORKEN<!--</emph--></hi>.</head>
+            <head xml:id="idm139850576380496"><hi rend="italics" xml:id="idm139850576380368">STORKEN</hi>.</head>
             <lg xml:id="idm139850576379200">
               <l xml:id="idm139850576378944">HAN kommer med Sommer, han kommer med Sol</l>
               <l xml:id="idm139850576378496">til Kløver og nikkende Hvener.</l>
@@ -3804,7 +4369,7 @@ TIL EN GÆLISK MELODI.</head>
             <trailer xml:id="idm139850576359280"><date xml:id="idm139850576359152">4/3 1912</date>.</trailer>
           </div>
           <div xml:id="workid69613" decls="#biblid69613">
-            <head xml:id="idm139850576357584"><hi rend="italics" xml:id="idm139850576357456"><!--<emph>-->KAALFOLK<!--</emph--></hi>.</head>
+            <head xml:id="idm139850576357584"><hi rend="italics" xml:id="idm139850576357456">KAALFOLK</hi>.</head>
             <lg xml:id="idm139850576356288">
               <l xml:id="idm139850576356032">Awar gan hen te Jepps ijaes,</l>
               <l xml:id="idm139850576355600">og der sô Mowns, og der sô Mâs,</l>
@@ -3875,7 +4440,7 @@ TIL EN GÆLISK MELODI.</head>
           </div>
           <div xml:id="workid70006" decls="#biblid70006">
             <head xml:id="idm139850576309424">
-              <hi rend="italics" xml:id="idm139850576309168"><!--<emph>-->A GLEMMER Æ AALLE I MI DAW -<!--</emph--></hi>
+              <hi rend="italics" xml:id="idm139850576309168">A GLEMMER Æ AALLE I MI DAW -</hi>
             </head>
             <lg xml:id="idm139850576307952">
               <l xml:id="idm139850576307696">OG det war den Tid, da vi aaltid war tow,</l>
@@ -3925,7 +4490,7 @@ TIL EN GÆLISK MELODI.</head>
           </div>
           <div xml:id="workid70260" decls="#biblid70260">
             <head xml:id="idm139850576278144">RÆBILD-KANTATE.<lb xml:id="idm139850576277840"/>
-							<hi rend="italics" xml:id="idm139850576277584"><!--<emph>-->DEN KJÆRE BRUNE HEDE<!--</emph--></hi>.</head>
+							<hi rend="italics" xml:id="idm139850576277584">DEN KJÆRE BRUNE HEDE</hi>.</head>
             <lg xml:id="idm139850576276384">
               <l xml:id="idm139850576276128">Du kjære brune Hede,</l>
               <l xml:id="idm139850576275680">du er mit Barndoms Æventyr,</l>
@@ -3972,7 +4537,7 @@ TIL EN GÆLISK MELODI.</head>
             </lg>
           </div>
           <div xml:id="workid70443" decls="#biblid70443">
-            <head xml:id="idm139850576255312"><hi rend="italics" xml:id="idm139850576255184"><!--<emph>-->MORGEN<!--</emph--></hi>.</head>
+            <head xml:id="idm139850576255312"><hi rend="italics" xml:id="idm139850576255184">MORGEN</hi>.</head>
             <lg xml:id="idm139850576254016">
               <l xml:id="idm139850576253760">MORGENENS vældige Sol,</l>
               <l xml:id="idm139850576253312"> løft kun din Kugle med Funklen blandt Banker i Østen!</l>
@@ -3994,7 +4559,7 @@ TIL EN GÆLISK MELODI.</head>
           </div>
           <pb n="82" xml:id="s82" facs="adl/aakjaer/aakjaer2/aakj2082"/>
           <div xml:id="workid70528" decls="#biblid70528">
-            <head xml:id="idm139850576244448"><hi rend="italics" xml:id="idm139850576244320"><!--<emph>-->AFTEN<!--</emph--></hi>.</head>
+            <head xml:id="idm139850576244448"><hi rend="italics" xml:id="idm139850576244320">AFTEN</hi>.</head>
             <lg xml:id="idm139850576243152">
               <l xml:id="idm139850576242896">STILLE, Hjærte, Sol gaar ned,</l>
               <l xml:id="idm139850576242432">Sol gaar ned paa Heden,</l>
@@ -4025,7 +4590,7 @@ TIL EN GÆLISK MELODI.</head>
             </lg>
           </div>
           <div xml:id="workid70627" decls="#biblid70627">
-            <head xml:id="idm139850576231792"><hi rend="italics" xml:id="idm139850576231664"><!--<emph>-->FREDLYSNING<!--</emph--></hi>.</head>
+            <head xml:id="idm139850576231792"><hi rend="italics" xml:id="idm139850576231664">FREDLYSNING</hi>.</head>
             <lg xml:id="idm139850576230496">
               <l xml:id="idm139850576230240">DEN Muldvarp han graver i Morr og i Muld,</l>
               <l xml:id="idm139850576229792">er nødig sin Roden foruden,</l>
@@ -4076,7 +4641,7 @@ TIL EN GÆLISK MELODI.</head>
           </div>
           <pb n="84" xml:id="s84" facs="adl/aakjaer/aakjaer2/aakj2084"/>
           <div xml:id="workid70814" decls="#biblid70814">
-            <head xml:id="idm139850576208528"><hi rend="italics" xml:id="idm139850576208400"><!--<emph>-->EN BETLE HAAR<!--</emph--></hi>.</head>
+            <head xml:id="idm139850576208528"><hi rend="italics" xml:id="idm139850576208400">EN BETLE HAAR</hi>.</head>
             <lg xml:id="idm139850576207232">
               <l xml:id="idm139850576206976">HER sejjer a, en betle Haar" -</l>
               <l xml:id="idm139850576206544"><hi rend="italics" xml:id="idm139850576206416">haa -</hi> haah!</l>
@@ -4155,7 +4720,7 @@ TIL EN GÆLISK MELODI.</head>
             <trailer xml:id="idm139850576161344"><date xml:id="idm139850576161216">19/4 1912</date>.</trailer>
           </div>
           <div xml:id="workid71216" decls="#biblid71216">
-            <head xml:id="idm139850576159536"><hi rend="italics" xml:id="idm139850576159408"><!--<emph>-->SANG TIL DEMOKRATIET<!--</emph--></hi>.</head>
+            <head xml:id="idm139850576159536"><hi rend="italics" xml:id="idm139850576159408">SANG TIL DEMOKRATIET</hi>.</head>
             <lg xml:id="idm139850576158240">
               <l xml:id="idm139850576157984">Op med nye Kampsignaler!</l>
               <l xml:id="idm139850576157552">Det er Raabet ungt og barsk;</l>
@@ -4218,7 +4783,7 @@ TIL EN GÆLISK MELODI.</head>
             <trailer xml:id="idm139850576131568"><date xml:id="idm139850576131440">5/7 1912</date>.</trailer>
           </div>
           <div xml:id="workid71457" decls="#biblid71457">
-            <head xml:id="idm139850576129808"><hi rend="italics" xml:id="idm139850576129680"><!--<emph>-->SVAMPEJAGT<!--</emph--></hi>.</head>
+            <head xml:id="idm139850576129808"><hi rend="italics" xml:id="idm139850576129680">SVAMPEJAGT</hi>.</head>
             <lg xml:id="idm139850576128512">
               <l xml:id="idm139850576128256">NAAR Skovmosset drikker den høstmilde Regn,</l>
               <l xml:id="idm139850576127760">mens krogrygget Bonden hjemkjører,</l>
@@ -4268,7 +4833,7 @@ TIL EN GÆLISK MELODI.</head>
             <trailer xml:id="idm139850576104368"><date xml:id="idm139850576104240">10/8 1912</date>.</trailer>
           </div>
           <div xml:id="workid71677" decls="#biblid71677">
-            <head xml:id="idm139850576102560"><hi rend="italics" xml:id="idm139850576102432"><!--<emph>-->TIL EN MØLLERDATTER<!--</emph--></hi>.</head>
+            <head xml:id="idm139850576102560"><hi rend="italics" xml:id="idm139850576102432">TIL EN MØLLERDATTER</hi>.</head>
             <lg xml:id="idm139850576101232">
               <l xml:id="idm139850576100976">HVOR Kværnen dunirer i den dybe Dal,</l>
               <l xml:id="idm139850576100496">og Sigtemelet Stænk paa Kinden sætter,</l>
@@ -4284,7 +4849,7 @@ TIL EN GÆLISK MELODI.</head>
             <trailer xml:id="idm139850576096016"><date xml:id="idm139850576095888">17/8 1912</date>.</trailer>
           </div>
           <div xml:id="workid71740" decls="#biblid71740">
-            <head xml:id="idm139850576094272"><hi rend="italics" xml:id="idm139850576094144"><!--<emph>-->TIL PETER SABRO<!--</emph--></hi>.</head>
+            <head xml:id="idm139850576094272"><hi rend="italics" xml:id="idm139850576094144">TIL PETER SABRO</hi>.</head>
             <lg xml:id="idm139850576092976">
               <l xml:id="idm139850576092720">Du valgte den herligste Gjerning,</l>
               <l xml:id="idm139850576092288">som Solen har skinnet paa:</l>
@@ -4307,7 +4872,7 @@ TIL EN GÆLISK MELODI.</head>
             <trailer xml:id="idm139850576085248"><date xml:id="idm139850576085120">11/10 1912</date>.</trailer>
           </div>
           <div xml:id="workid71824" decls="#biblid71824">
-            <head xml:id="idm139850576083440"><hi rend="italics" xml:id="idm139850576083312"><!--<emph>-->ZACHÆUS<!--</emph--></hi>.</head>
+            <head xml:id="idm139850576083440"><hi rend="italics" xml:id="idm139850576083312">ZACHÆUS</hi>.</head>
             <lg xml:id="idm139850576082144">
               <l xml:id="idm139850576081888">DET var sig Zachæus fra Jericho,</l>
               <l xml:id="idm139850576081424">han var en Tolder for Gud,</l>
@@ -4501,7 +5066,7 @@ TIL EN GÆLISK MELODI.</head>
             <trailer xml:id="idm139850576007232">Efteraar <date xml:id="idm139850576006944">1912</date>.</trailer>
           </div>
           <div xml:id="workid72466" decls="#biblid72466">
-            <head xml:id="idm139850576005312"><hi rend="italics" xml:id="idm139850576005184"><!--<emph>-->VRØD-I-VRONT OG MARI STONT<!--</emph--></hi>.</head>
+            <head xml:id="idm139850576005312"><hi rend="italics" xml:id="idm139850576005184">VRØD-I-VRONT OG MARI STONT</hi>.</head>
             <lg xml:id="idm139850576003984">
               <l xml:id="idm139850576003728">DER so en Mand paa Vinkel Vratt,</l>
               <l xml:id="idm139850576003296">de kaldt ham Vrød-i-Vront,</l>
@@ -4579,7 +5144,7 @@ TIL EN GÆLISK MELODI.</head>
             <trailer xml:id="idm139850575956864">Vinteren <date xml:id="idm139850575956576">1913</date>.</trailer>
           </div>
           <div xml:id="workid72880" decls="#biblid72880">
-            <head xml:id="idm139850575954896"><hi rend="italics" xml:id="idm139850575954768"><!--<emph>-->BØRN FRA GYDEN<!--</emph--></hi>.</head>
+            <head xml:id="idm139850575954896"><hi rend="italics" xml:id="idm139850575954768">BØRN FRA GYDEN</hi>.</head>
             <lg xml:id="idm139850575953584">
               <l xml:id="idm139850575953328">JEG er vel kun en lille Pige</l>
               <l xml:id="idm139850575952896">men faar jeg Mad og bliver stor</l>
@@ -4635,7 +5200,7 @@ TIL EN GÆLISK MELODI.</head>
             <trailer xml:id="idm139850575926960"><date xml:id="idm139850575926832">30/3 1913</date>.</trailer>
           </div>
           <div xml:id="workid73120" decls="#biblid73120">
-            <head xml:id="idm139850575925152"><hi rend="italics" xml:id="idm139850575925024"><!--<emph>-->SÆDEMAND<!--</emph--></hi>.</head>
+            <head xml:id="idm139850575925152"><hi rend="italics" xml:id="idm139850575925024">SÆDEMAND</hi>.</head>
             <lg xml:id="idm139850575923856">
               <l xml:id="idm139850575923600">EN Bonde med sin Sædekurv -</l>
               <l xml:id="idm139850575923136">det er for mig et Højtidssyn!</l>
@@ -4701,7 +5266,7 @@ TIL EN GÆLISK MELODI.</head>
           </div>
           <pb n="98" xml:id="s98" facs="adl/aakjaer/aakjaer2/aakj2098"/>
           <div xml:id="workid73368" decls="#biblid73368">
-            <head xml:id="idm139850575894480"><hi rend="italics" xml:id="idm139850575894352"><!--<emph>-->UNG VISE<!--</emph--></hi>.</head>
+            <head xml:id="idm139850575894480"><hi rend="italics" xml:id="idm139850575894352">UNG VISE</hi>.</head>
             <lg xml:id="idm139850575893184">
               <l xml:id="idm139850575892928">ALLE mine Længsler de smyger sig om dig -</l>
               <l xml:id="idm139850575892448"><hi rend="italics" xml:id="idm139850575892320">did</hi>deli, om dig! <hi rend="italics" xml:id="idm139850575891616">dud</hi>deli, om dig!</l>
@@ -4736,7 +5301,7 @@ TIL EN GÆLISK MELODI.</head>
             <trailer xml:id="idm139850575876480"><date xml:id="idm139850575876352">19/8 1913</date>.</trailer>
           </div>
           <div xml:id="workid73526" decls="#biblid73526">
-            <head xml:id="idm139850575874672"><hi rend="italics" xml:id="idm139850575874544"><!--<emph>-->GAMMEL JEHANNES HANS NØJESVIS<!--</emph--></hi>.</head>
+            <head xml:id="idm139850575874672"><hi rend="italics" xml:id="idm139850575874544">GAMMEL JEHANNES HANS NØJESVIS</hi>.</head>
             <lg xml:id="idm139850575873328">
               <l xml:id="idm139850575873072">Æ Klokk haar slan æ Or er gan -</l>
               <l xml:id="idm139850575872640"> en nøj vil rist si Ving,</l>
@@ -4904,7 +5469,7 @@ TIL EN GÆLISK MELODI.</head>
             <trailer xml:id="idm139850575770464"><date xml:id="idm139850575770336">18/1 1914</date>.</trailer>
           </div>
           <div xml:id="workid74184" decls="#biblid74184">
-            <head xml:id="idm139850575768704"><hi rend="italics" xml:id="idm139850575768576"><!--<emph>-->HANS KAARSBERG<!--</emph--></hi>.</head>
+            <head xml:id="idm139850575768704"><hi rend="italics" xml:id="idm139850575768576">HANS KAARSBERG</hi>.</head>
             <lg xml:id="idm139850575767408">
               <l xml:id="idm139850575767152">DER red en Rytter over Steppen hvast;</l>
               <l xml:id="idm139850575766720">saa muntert hoppede hans Huekvast.</l>
@@ -4954,7 +5519,7 @@ TIL EN GÆLISK MELODI.</head>
             <trailer xml:id="idm139850575747040"><date xml:id="idm139850575746912">24/1 1914</date>.</trailer>
           </div>
           <div xml:id="workid74363" decls="#biblid74363">
-            <head xml:id="idm139850575745232"><hi rend="italics" xml:id="idm139850575745104"><!--<emph>-->LANDARBEJDER-SANG<!--</emph--></hi>.</head>
+            <head xml:id="idm139850575745232"><hi rend="italics" xml:id="idm139850575745104">LANDARBEJDER-SANG</hi>.</head>
             <lg xml:id="idm139850575743936">
               <l xml:id="idm139850575743680">SAA langt jeg stirrer i Danmark ud,</l>
               <l xml:id="idm139850575743248">jeg skuer vist tusinde Hytter;</l>
@@ -5020,7 +5585,7 @@ TIL EN GÆLISK MELODI.</head>
             <trailer xml:id="idm139850575717696"><date xml:id="idm139850575717568">14/5 1914</date>.</trailer>
           </div>
           <div xml:id="workid74597" decls="#biblid74597">
-            <head xml:id="idm139850575715936"><hi rend="italics" xml:id="idm139850575715808"><!--<emph>-->LILLE EDITH<!--</emph--></hi>.</head>
+            <head xml:id="idm139850575715936"><hi rend="italics" xml:id="idm139850575715808">LILLE EDITH</hi>.</head>
             <lg xml:id="idm139850575714640">
               <l xml:id="idm139850575714384">DET var i den Time, hvor Ax og Rør</l>
               <l xml:id="idm139850575713920">sig sænker mod Aftenrød:</l>
@@ -5074,7 +5639,7 @@ TIL EN GÆLISK MELODI.</head>
             <trailer xml:id="idm139850575693344"><date xml:id="idm139850575693216">6/8 1914</date>.</trailer>
           </div>
           <div xml:id="workid74793" decls="#biblid74793">
-            <head xml:id="idm139850575691584"><hi rend="italics" xml:id="idm139850575691456"><!--<emph>-->BRYLLUP<!--</emph--></hi>.</head>
+            <head xml:id="idm139850575691584"><hi rend="italics" xml:id="idm139850575691456">BRYLLUP</hi>.</head>
             <lg xml:id="idm139850575690288">
               <l xml:id="idm139850575690032">Du var ung, du var frisk som den vaarfødte Blæst,</l>
               <l xml:id="idm139850575689536">naar den stryger langs pløjede Kjær,</l>
@@ -5133,7 +5698,7 @@ TIL EN GÆLISK MELODI.</head>
             <trailer xml:id="idm139850575668976"><date xml:id="idm139850575668848">23/9 1914</date>.</trailer>
           </div>
           <div xml:id="workid74990" decls="#biblid74990">
-            <head xml:id="idm139850575667168"><hi rend="italics" xml:id="idm139850575667040"><!--<emph>-->SØLVBRYLLUP<!--</emph--></hi>.</head>
+            <head xml:id="idm139850575667168"><hi rend="italics" xml:id="idm139850575667040">SØLVBRYLLUP</hi>.</head>
             <lg xml:id="idm139850575665856">
               <l xml:id="idm139850575665600">FEMOGTYV' Aar</l>
               <l xml:id="idm139850575665216">de gi'r mange Slags Kaar,</l>
@@ -5178,7 +5743,7 @@ TIL EN GÆLISK MELODI.</head>
             <trailer xml:id="idm139850575632656"><date xml:id="idm139850575632528">9/10 1914</date>.</trailer>
           </div>
           <div xml:id="workid75152" decls="#biblid75152">
-            <head xml:id="idm139850575630848"><hi rend="italics" xml:id="idm139850575630720"><!--<emph>-->VED SUSAAEN<!--</emph--></hi>.</head>
+            <head xml:id="idm139850575630848"><hi rend="italics" xml:id="idm139850575630720">VED SUSAAEN</hi>.</head>
             <lg xml:id="idm139850575629552">
               <l xml:id="idm139850575629296">DET var ved Susaaens Vande,</l>
               <l xml:id="idm139850575628864"> du tripped saa ung og sund,</l>
@@ -5202,7 +5767,7 @@ TIL EN GÆLISK MELODI.</head>
           </div>
           <div xml:id="workid75234" decls="#biblid75234">
             <head xml:id="idm139850575620176">
-              <hi rend="italics" xml:id="idm139850575619920"><!--<emph>-->GODT MOD!<!--</emph--></hi>
+              <hi rend="italics" xml:id="idm139850575619920">GODT MOD!</hi>
             </head>
             <lg xml:id="idm139850575618752">
               <l xml:id="idm139850575618496">DEN skjælmske Gjøg, som ler paa Danmarks Vang</l>
@@ -5220,7 +5785,7 @@ TIL EN GÆLISK MELODI.</head>
           </div>
           <div xml:id="workid75292" decls="#biblid75292">
             <head xml:id="idm139850575612432">TRE KRIGSDIGTE.<lb xml:id="idm139850575612144"/>
-							<hi rend="italics" xml:id="idm139850575611888"><!--<emph>-->MILITARISTEN TALER<!--</emph--></hi>:</head>
+							<hi rend="italics" xml:id="idm139850575611888">MILITARISTEN TALER</hi>:</head>
             <lg xml:id="idm139850575610720">
               <l xml:id="idm139850575610464">BRÆNDE skal Verden, brænde skal alt,</l>
               <l xml:id="idm139850575609984"> Slotte, Kaféer, Katedraler,</l>
@@ -5238,7 +5803,7 @@ TIL EN GÆLISK MELODI.</head>
             <trailer xml:id="idm139850575604192"><date xml:id="idm139850575604064">6/12 1914</date>.</trailer>
           </div>
           <div xml:id="workid75370" decls="#biblid75370">
-            <head xml:id="idm139850575602384"><hi rend="italics" xml:id="idm139850575602256"><!--<emph>-->DIPLOMATER<!--</emph--></hi>.</head>
+            <head xml:id="idm139850575602384"><hi rend="italics" xml:id="idm139850575602256">DIPLOMATER</hi>.</head>
             <lg xml:id="idm139850575601088">
               <l xml:id="idm139850575600832">MOSES styrede Israels Stat,</l>
               <l xml:id="idm139850575600400">Aron var øverste Diplomat</l>
@@ -5257,7 +5822,7 @@ TIL EN GÆLISK MELODI.</head>
             <trailer xml:id="idm139850575595984"><date xml:id="idm139850575595856">6/12 1914</date>.</trailer>
           </div>
           <div xml:id="workid75431" decls="#biblid75431">
-            <head xml:id="idm139850575594208"><hi rend="italics" xml:id="idm139850575594080"><!--<emph>-->KEJSERENS GUD<!--</emph--></hi>.</head>
+            <head xml:id="idm139850575594208"><hi rend="italics" xml:id="idm139850575594080">KEJSERENS GUD</hi>.</head>
             <lg xml:id="idm139850575592912">
               <l xml:id="idm139850575592656">HAN talte for Fronten til Folk og Hær;</l>
               <l xml:id="idm139850575592176">med Jernhaand løfted han højt sit Sværd</l>
@@ -5280,7 +5845,7 @@ TIL EN GÆLISK MELODI.</head>
             <trailer xml:id="idm139850575584976"><date xml:id="idm139850575584848">6/12 1914</date>.</trailer>
           </div>
           <div xml:id="workid75516" decls="#biblid75516">
-            <head xml:id="idm139850575583168"><hi rend="italics" xml:id="idm139850575583040"><!--<emph>-->SALME<!--</emph--></hi>.<lb xml:id="idm139850575582000"/>
+            <head xml:id="idm139850575583168"><hi rend="italics" xml:id="idm139850575583040">SALME</hi>.<lb xml:id="idm139850575582000"/>
 (AF "JENS LANGKNIV".)</head>
             <lg xml:id="idm139850575581616">
               <l xml:id="idm139850575581360">TAG min Sjæl</l>
@@ -5317,7 +5882,7 @@ TIL EN GÆLISK MELODI.</head>
           <pb n="112" xml:id="s112" facs="adl/aakjaer/aakjaer2/aakj2112"/>
           <div xml:id="workid75642" decls="#biblid75642">
             <head xml:id="idm139850575567296">
-              <hi rend="italics" xml:id="idm139850575567040"><!--<emph>-->HILSEN TIL ESBJERG<!--</emph--></hi>
+              <hi rend="italics" xml:id="idm139850575567040">HILSEN TIL ESBJERG</hi>
             </head>
             <lg xml:id="idm139850575565872">
               <l xml:id="idm139850575565616">HER gik Træk af vilde Svaner</l>
@@ -5371,7 +5936,7 @@ TIL EN GÆLISK MELODI.</head>
             <trailer xml:id="idm139850575546336"><date xml:id="idm139850575546208">18/3 1915</date>.</trailer>
           </div>
           <div xml:id="workid75824" decls="#biblid75824">
-            <head xml:id="idm139850575544528"><hi rend="italics" xml:id="idm139850575544400"><!--<emph>-->NIELS BRANSAGER<!--</emph--></hi>.</head>
+            <head xml:id="idm139850575544528"><hi rend="italics" xml:id="idm139850575544400">NIELS BRANSAGER</hi>.</head>
             <lg xml:id="idm139850575543232">
               <l xml:id="idm139850575542976">SAA lyst et Sind, som her gled under,</l>
               <l xml:id="idm139850575542544">jeg mødte kun den ene Gang;</l>
@@ -5416,7 +5981,7 @@ TIL EN GÆLISK MELODI.</head>
             <trailer xml:id="idm139850575525488"><date xml:id="idm139850575525360">2/4 1915</date>.</trailer>
           </div>
           <div xml:id="workid75991" decls="#biblid75991">
-            <head xml:id="idm139850575523744"><hi rend="italics" xml:id="idm139850575523616"><!--<emph>-->JENS HANS HYWLBOR<!--</emph--></hi>.</head>
+            <head xml:id="idm139850575523744"><hi rend="italics" xml:id="idm139850575523616">JENS HANS HYWLBOR</hi>.</head>
             <lg xml:id="idm139850575522448">
               <l xml:id="idm139850575522192">JENS Bruus han haaj ingen anne Vogn</l>
               <l xml:id="idm139850575521760">end en Hywlbor,</l>
@@ -5505,7 +6070,7 @@ TIL EN GÆLISK MELODI.</head>
           </div>
           <div xml:id="workid76436" decls="#biblid76436">
             <head xml:id="idm139850575469280">
-              <hi rend="italics" xml:id="idm139850575469024"><!--<emph>-->SEJ M Æ, SKA VI MEJ I KRI?<!--</emph--></hi>
+              <hi rend="italics" xml:id="idm139850575469024">SEJ M Æ, SKA VI MEJ I KRI?</hi>
             </head>
             <lg xml:id="idm139850575467824">
               <l xml:id="idm139850575467568">SEJ mæ, ska vi mej i Kri?</l>
@@ -5560,7 +6125,7 @@ TIL EN GÆLISK MELODI.</head>
             <trailer xml:id="idm139850575443040"><date xml:id="idm139850575442912">24/7 1915</date>.</trailer>
           </div>
           <div xml:id="workid76662" decls="#biblid76662">
-            <head xml:id="idm139850575441280"><hi rend="italics" xml:id="idm139850575441152"><!--<emph>-->BARN OG MOR<!--</emph--></hi>.</head>
+            <head xml:id="idm139850575441280"><hi rend="italics" xml:id="idm139850575441152">BARN OG MOR</hi>.</head>
             <lg xml:id="idm139850575439984">
               <l xml:id="idm139850575439728">VUG mig, Mor,</l>
               <l xml:id="idm139850575439344">mens min spæde Livskim gror;</l>
@@ -5614,7 +6179,7 @@ TIL EN GÆLISK MELODI.</head>
             <trailer xml:id="idm139850575420144"><date xml:id="idm139850575420016">7/8 1915</date>.</trailer>
           </div>
           <div xml:id="workid76846" decls="#biblid76846">
-            <head xml:id="idm139850575418336"><hi rend="italics" xml:id="idm139850575418208"><!--<emph>-->INVALIDEN OG KRISTUS<!--</emph--></hi>.</head>
+            <head xml:id="idm139850575418336"><hi rend="italics" xml:id="idm139850575418208">INVALIDEN OG KRISTUS</hi>.</head>
             <lg xml:id="idm139850575417040">
               <l xml:id="idm139850575416784">JEG pløjede min Ager fra Øst og til Vest,</l>
               <l xml:id="idm139850575416304">at pløje var mig altid som en Fest -</l>
@@ -5661,7 +6226,7 @@ TIL EN GÆLISK MELODI.</head>
             <trailer xml:id="idm139850575399216">Vinter <date xml:id="idm139850575398928">1915</date>.</trailer>
           </div>
           <div xml:id="workid77015" decls="#biblid77015">
-            <head xml:id="idm139850575397312"><hi rend="italics" xml:id="idm139850575397184"><!--<emph>-->BONDEFJOL<!--</emph--></hi>.</head>
+            <head xml:id="idm139850575397312"><hi rend="italics" xml:id="idm139850575397184">BONDEFJOL</hi>.</head>
             <lg xml:id="idm139850575396016">
               <l xml:id="idm139850575395760">DER hænger paa min Nabos Væg</l>
               <l xml:id="idm139850575395296">en gammel Bondefjol;</l>
@@ -5747,7 +6312,7 @@ TIL EN GÆLISK MELODI.</head>
             <trailer xml:id="idm139850575360880"><date xml:id="idm139850575360752">5/4 1916</date>.</trailer>
           </div>
           <div xml:id="workid77324" decls="#biblid77324">
-            <head xml:id="idm139850575359072"><hi rend="italics" xml:id="idm139850575358944"><!--<emph>-->KJØRMES KNUD<!--</emph--></hi>.</head>
+            <head xml:id="idm139850575359072"><hi rend="italics" xml:id="idm139850575358944">KJØRMES KNUD</hi>.</head>
             <epigraph xml:id="idm139850575357760">
               <cit xml:id="idm139850575357456">
                 <q xml:id="idm139850575357152">
@@ -5817,7 +6382,7 @@ TIL EN GÆLISK MELODI.</head>
           <div xml:id="workid77645" decls="#biblid77645">
             <head xml:id="idm139850575319488">DE FIRE VINDE. </head>
             <div xml:id="workid77651" decls="#biblid77651">
-              <head xml:id="idm139850575318064"><hi rend="italics" xml:id="idm139850575317936"><!--<emph>-->NORDOVST<!--</emph--></hi>.</head>
+              <head xml:id="idm139850575318064"><hi rend="italics" xml:id="idm139850575317936">NORDOVST</hi>.</head>
               <lg xml:id="idm139850575316768">
                 <l xml:id="idm139850575316512">SNEFLOKKE kommer vrimlende</l>
                 <l xml:id="idm139850575316080">hen over Diger trimlende,</l>
@@ -5851,7 +6416,7 @@ TIL EN GÆLISK MELODI.</head>
               <trailer xml:id="idm139850575305088"><date xml:id="idm139850575304960">10/3 1916</date>.</trailer>
             </div>
             <div xml:id="workid77768" decls="#biblid77768">
-              <head xml:id="idm139850575303344"><hi rend="italics" xml:id="idm139850575303216"><!--<emph>-->PAASKEØSTEN<!--</emph--></hi>.</head>
+              <head xml:id="idm139850575303344"><hi rend="italics" xml:id="idm139850575303216">PAASKEØSTEN</hi>.</head>
               <lg xml:id="idm139850575302032">
                 <l xml:id="idm139850575301776">HVEM tuder ved min Rude? O, nu jeg kjender Røsten,</l>
                 <l xml:id="idm139850575301280"> thi jeg har hørt den stændig op gjennem trange Aar:</l>
@@ -5911,7 +6476,7 @@ TIL EN GÆLISK MELODI.</head>
               <trailer xml:id="idm139850575276544"><date xml:id="idm139850575276416">7/4 1916</date>.</trailer>
             </div>
             <div xml:id="workid77998" decls="#biblid77998">
-              <head xml:id="idm139850575274784"><hi rend="italics" xml:id="idm139850575274656"><!--<emph>-->SØNDENVIND<!--</emph--></hi>.</head>
+              <head xml:id="idm139850575274784"><hi rend="italics" xml:id="idm139850575274656">SØNDENVIND</hi>.</head>
               <lg xml:id="idm139850575273584">
                 <l xml:id="idm139850575273328">RUGENS Dræ</l>
                 <l xml:id="idm139850575272944">fylder Aftenluften.</l>
@@ -5987,7 +6552,7 @@ TIL EN GÆLISK MELODI.</head>
             </div>
             <pb n="127" xml:id="s127" facs="adl/aakjaer/aakjaer2/aakj2127"/>
             <div xml:id="workid78257" decls="#biblid78257">
-              <head xml:id="idm139850575243088"><hi rend="italics" xml:id="idm139850575242960"><!--<emph>-->VESTENVINDEN<!--</emph--></hi>.</head>
+              <head xml:id="idm139850575243088"><hi rend="italics" xml:id="idm139850575242960">VESTENVINDEN</hi>.</head>
               <lg xml:id="idm139850575241792">
                 <l xml:id="idm139850575241536">O, Vestenvind, min Barndoms Vind,</l>
                 <l xml:id="idm139850575241104">du har endnu det samme Sind</l>
@@ -6111,7 +6676,7 @@ TIL EN GÆLISK MELODI.</head>
             </div>
             <pb n="130" xml:id="s130" facs="adl/aakjaer/aakjaer2/aakj2130"/>
             <div xml:id="workid78727" decls="#biblid78727">
-              <head xml:id="idm139850575185584"><hi rend="italics" xml:id="idm139850575185456"><!--<emph>-->JENS HVAS<!--</emph--></hi>.<lb xml:id="idm139850575184416"/>
+              <head xml:id="idm139850575185584"><hi rend="italics" xml:id="idm139850575185456">JENS HVAS</hi>.<lb xml:id="idm139850575184416"/>
 ET BLAD AF SALLINGS RIMKRØNIKE.</head>
               <lg xml:id="idm139850575183952">
                 <l xml:id="idm139850575183696">DER var engang en Sallingbo,</l>
@@ -6275,7 +6840,7 @@ ET BLAD AF SALLINGS RIMKRØNIKE.</head>
               <trailer xml:id="idm139850575122784"><date xml:id="idm139850575122656">17/3 1916</date>.</trailer>
             </div>
             <div xml:id="workid79256" decls="#biblid79256">
-              <head xml:id="idm139850575121024"><hi rend="italics" xml:id="idm139850575120896"><!--<emph>-->MOR VED BRØNDEN<!--</emph--></hi>.</head>
+              <head xml:id="idm139850575121024"><hi rend="italics" xml:id="idm139850575120896">MOR VED BRØNDEN</hi>.</head>
               <lg xml:id="idm139850575119712">
                 <l xml:id="idm139850575119456">MIN Mor var bleven gammel,</l>
                 <l xml:id="idm139850575119024">dog endnu mere svag;</l>
@@ -6550,7 +7115,7 @@ ET BLAD AF SALLINGS RIMKRØNIKE.</head>
             </div>
             <pb n="139" xml:id="s139" facs="adl/aakjaer/aakjaer2/aakj2139"/>
             <div xml:id="workid80151" decls="#biblid80151">
-              <head xml:id="idm139850575012208"><hi rend="italics" xml:id="idm139850575012080"><!--<emph>-->MAJNAT<!--</emph--></hi>.</head>
+              <head xml:id="idm139850575012208"><hi rend="italics" xml:id="idm139850575012080">MAJNAT</hi>.</head>
               <lg xml:id="idm139850575010912">
                 <l xml:id="idm139850575010656">NAAR Vildgaasen larmer Valborgnat,</l>
                 <l xml:id="idm139850575010224">hvem lægger sig da til at sove?</l>
@@ -6584,7 +7149,7 @@ ET BLAD AF SALLINGS RIMKRØNIKE.</head>
               <trailer xml:id="idm139850574999904"><date xml:id="idm139850574999776">29/4 1916</date>.</trailer>
             </div>
             <div xml:id="workid80262" decls="#biblid80262">
-              <head xml:id="idm139850574998128"><hi rend="italics" xml:id="idm139850574998000"><!--<emph>-->BROEN<!--</emph--></hi>.</head>
+              <head xml:id="idm139850574998128"><hi rend="italics" xml:id="idm139850574998000">BROEN</hi>.</head>
               <lg xml:id="idm139850574996832">
                 <l xml:id="idm139850574996576">TUSIND Aars Skille. Saa slog de Bro.</l>
                 <l xml:id="idm139850574996144">Saa drog de over i Vogne og Sko,</l>
@@ -6748,7 +7313,7 @@ ET BLAD AF SALLINGS RIMKRØNIKE.</head>
               <trailer xml:id="idm139850574930352"><date xml:id="idm139850574930224">8/5 1916</date>.</trailer>
             </div>
             <div xml:id="workid80832" decls="#biblid80832">
-              <head xml:id="idm139850574928592"><hi rend="italics" xml:id="idm139850574928464"><!--<emph>-->PAA SALLINGS JORD<!--</emph--></hi>.</head>
+              <head xml:id="idm139850574928592"><hi rend="italics" xml:id="idm139850574928464">PAA SALLINGS JORD</hi>.</head>
               <lg xml:id="idm139850574927296">
                 <l xml:id="idm139850574927040">PAA Sallings Jord er der godt at bo,</l>
                 <l xml:id="idm139850574926608"> naar Solen varmer paa Tage,</l>
@@ -6786,7 +7351,7 @@ ET BLAD AF SALLINGS RIMKRØNIKE.</head>
               <trailer xml:id="idm139850574911456"><date xml:id="idm139850574911328">15/8 1916</date>.</trailer>
             </div>
             <div xml:id="workid80983" decls="#biblid80983">
-              <head xml:id="idm139850574909648"><hi rend="italics" xml:id="idm139850574909520"><!--<emph>-->POVL MED DEN TUNGE SKOVL<!--</emph--></hi>.</head>
+              <head xml:id="idm139850574909648"><hi rend="italics" xml:id="idm139850574909520">POVL MED DEN TUNGE SKOVL</hi>.</head>
               <lg xml:id="idm139850574908336">
                 <l xml:id="idm139850574908080">DER løber saa mangen en krinklet Sti</l>
                 <l xml:id="idm139850574907600"> hen gjennem det jyske Hedeland,</l>
@@ -7078,7 +7643,7 @@ ET BLAD AF SALLINGS RIMKRØNIKE.</head>
               <trailer xml:id="idm139850574780064"><date xml:id="idm139850574779936">19/10 1916</date>.</trailer>
             </div>
             <div xml:id="workid82066" decls="#biblid82066">
-              <head xml:id="idm139850574778256"><hi rend="italics" xml:id="idm139850574778128"><!--<emph>-->GYLDEN SOL<!--</emph--></hi>.</head>
+              <head xml:id="idm139850574778256"><hi rend="italics" xml:id="idm139850574778128">GYLDEN SOL</hi>.</head>
               <lg xml:id="idm139850574776960">
                 <l xml:id="idm139850574776704">OM jeg tar mig en Livsens Ven,</l>
                 <l xml:id="idm139850574776272">om jeg skjænker mit Hjærte hen,</l>
@@ -7115,7 +7680,7 @@ ET BLAD AF SALLINGS RIMKRØNIKE.</head>
               <trailer xml:id="idm139850574763632"><date xml:id="idm139850574763504">24/10 1916</date>.</trailer>
             </div>
             <div xml:id="workid82196" decls="#biblid82196">
-              <head xml:id="idm139850574761824"><hi rend="italics" xml:id="idm139850574761696"><!--<emph>-->HUMLEBIEN<!--</emph--></hi>.</head>
+              <head xml:id="idm139850574761824"><hi rend="italics" xml:id="idm139850574761696">HUMLEBIEN</hi>.</head>
               <lg xml:id="idm139850574760528">
                 <l xml:id="idm139850574760272">DU lodne Humlebi, dig har jeg kjær,</l>
                 <l xml:id="idm139850574759792"> din Kløverfærden liver op i Vangen;</l>
@@ -7156,7 +7721,7 @@ ET BLAD AF SALLINGS RIMKRØNIKE.</head>
               <trailer xml:id="idm139850574744720"><date xml:id="idm139850574744592">25/10 1916</date>.</trailer>
             </div>
             <div xml:id="workid82346" decls="#biblid82346">
-              <head xml:id="idm139850574742912"><hi rend="italics" xml:id="idm139850574742784"><!--<emph>-->LANDSBYSMEDEN<!--</emph--></hi>.</head>
+              <head xml:id="idm139850574742912"><hi rend="italics" xml:id="idm139850574742784">LANDSBYSMEDEN</hi>.</head>
               <lg xml:id="idm139850574741616">
                 <l xml:id="idm139850574741360">DEN Smed han vaagner med Solen</l>
                 <l xml:id="idm139850574740928">L' alt efter saa gjævt et Blund,</l>
@@ -7227,7 +7792,7 @@ ET BLAD AF SALLINGS RIMKRØNIKE.</head>
               <trailer xml:id="idm139850574716480"><date xml:id="idm139850574716352">26/10 1916</date>.</trailer>
             </div>
             <div xml:id="workid82574" decls="#biblid82574">
-              <head xml:id="idm139850574714672"><hi rend="italics" xml:id="idm139850574714544"><!--<emph>-->EFTERAAR<!--</emph--></hi>.</head>
+              <head xml:id="idm139850574714672"><hi rend="italics" xml:id="idm139850574714544">EFTERAAR</hi>.</head>
               <lg xml:id="idm139850574713376">
                 <l xml:id="idm139850574713120">NU ser du kun Solen i Striber.</l>
                 <l xml:id="idm139850574712688">Markmusen gaar hjem i din Stak.</l>
@@ -7268,7 +7833,7 @@ ET BLAD AF SALLINGS RIMKRØNIKE.</head>
               <trailer xml:id="idm139850574699216"><date xml:id="idm139850574699088">28/10 1916</date>.</trailer>
             </div>
             <div xml:id="workid82711" decls="#biblid82711">
-              <head xml:id="idm139850574697472"><hi rend="italics" xml:id="idm139850574697344"><!--<emph>-->SVIGTENDE SIGNALER<!--</emph--></hi>.</head>
+              <head xml:id="idm139850574697472"><hi rend="italics" xml:id="idm139850574697344">SVIGTENDE SIGNALER</hi>.</head>
               <lg xml:id="idm139850574696176">
                 <l xml:id="idm139850574695920">JEG sejled under Natten</l>
                 <l xml:id="idm139850574695536">i Taagen forbi,</l>
@@ -7298,7 +7863,7 @@ ET BLAD AF SALLINGS RIMKRØNIKE.</head>
             </div>
             <div xml:id="workid82810" decls="#biblid82810">
               <head xml:id="idm139850574684832">
-                <hi rend="italics" xml:id="idm139850574684576"><!--<emph>-->FRED!<!--</emph--></hi>
+                <hi rend="italics" xml:id="idm139850574684576">FRED!</hi>
               </head>
               <lg xml:id="idm139850574683408">
                 <l xml:id="idm139850574683152">JEG vaagned i Natten og spejded ræd derud,</l>
@@ -7341,7 +7906,7 @@ ET BLAD AF SALLINGS RIMKRØNIKE.</head>
             </div>
             <pb n="157" xml:id="s157" facs="adl/aakjaer/aakjaer2/aakj2157"/>
             <div xml:id="workid82983" decls="#biblid82983">
-              <head xml:id="idm139850574663248"><hi rend="italics" xml:id="idm139850574663120"><!--<emph>-->EVALD TANG KRISTENSEN<!--</emph--></hi>.</head>
+              <head xml:id="idm139850574663248"><hi rend="italics" xml:id="idm139850574663120">EVALD TANG KRISTENSEN</hi>.</head>
               <lg xml:id="idm139850574661952">
                 <l xml:id="idm139850574661696">STRID paa Foden skred han frem,</l>
                 <l xml:id="idm139850574661264">kom fra Hav og salte Strømme,</l>
@@ -7406,7 +7971,7 @@ ET BLAD AF SALLINGS RIMKRØNIKE.</head>
               <trailer xml:id="idm139850574638592"><date xml:id="idm139850574638464">Juli 1917</date>.</trailer>
             </div>
             <div xml:id="workid83196" decls="#biblid83196">
-              <head xml:id="idm139850574636832"><hi rend="italics" xml:id="idm139850574636704"><!--<emph>-->SPURVENE VED HELLIGGEJST<!--</emph--></hi>.</head>
+              <head xml:id="idm139850574636832"><hi rend="italics" xml:id="idm139850574636704">SPURVENE VED HELLIGGEJST</hi>.</head>
               <lg xml:id="idm139850574635520">
                 <l xml:id="idm139850574635264">NAAR Sommeren flyr over Sten og Stok,</l>
                 <l xml:id="idm139850574634832">og alle Lærker er rejst,</l>
@@ -7500,7 +8065,7 @@ ET BLAD AF SALLINGS RIMKRØNIKE.</head>
               <trailer xml:id="idm139850574595984"><date xml:id="idm139850574595856">19/11 1917</date>.</trailer>
             </div>
             <div xml:id="workid83544" decls="#biblid83544">
-              <head xml:id="idm139850574594176"><hi rend="italics" xml:id="idm139850574594048"><!--<emph>-->EN LANDSBY DØB E S<!--</emph--></hi>.</head>
+              <head xml:id="idm139850574594176"><hi rend="italics" xml:id="idm139850574594048">EN LANDSBY DØB E S</hi>.</head>
               <lg xml:id="idm139850574592864">
                 <l xml:id="idm139850574592608">HVOR Aalen dybt i Tangen bo'r</l>
                 <l xml:id="idm139850574592176">og hvide Maager sejle,</l>
@@ -7555,7 +8120,7 @@ ET BLAD AF SALLINGS RIMKRØNIKE.</head>
               <trailer xml:id="idm139850574572368"><date xml:id="idm139850574572240">30/5 1918</date>.</trailer>
             </div>
             <div xml:id="workid83734" decls="#biblid83734">
-              <head xml:id="idm139850574570608"><hi rend="italics" xml:id="idm139850574570480"><!--<emph>-->HISTORIENS SANG<!--</emph--></hi>.</head>
+              <head xml:id="idm139850574570608"><hi rend="italics" xml:id="idm139850574570480">HISTORIENS SANG</hi>.</head>
               <lg xml:id="idm139850574569312">
                 <l xml:id="idm139850574569056">SOM dybest Brønd gir altid klarest Vand,</l>
                 <l xml:id="idm139850574568576">og lifligst Drik fra dunkle Væld udrinder,</l>
@@ -7616,7 +8181,7 @@ JEPPE AAKJÆR</head>
             <head xml:id="idm139850574544448">FRA SKOTSK.<lb xml:id="idm139850574544160"/>
 DIGTE AF ROBERT BURNS.</head>
             <div xml:id="workid83956" decls="#biblid83956">
-              <head xml:id="idm139850574542784"><hi rend="italics" xml:id="idm139850574542656"><!--<emph>-->BURNS OM SIG SELV<!--</emph--></hi>.</head>
+              <head xml:id="idm139850574542784"><hi rend="italics" xml:id="idm139850574542656">BURNS OM SIG SELV</hi>.</head>
               <lg xml:id="idm139850574541488">
                 <l xml:id="idm139850574541232">DER var en Knøs, var født i Kejl,</l>
                 <l xml:id="idm139850574540768">om Dag og Datum bryd jer fejl,</l>
@@ -7663,7 +8228,7 @@ DIGTE AF ROBERT BURNS.</head>
               <trailer xml:id="idm139850574522512"><date xml:id="idm139850574522384">27/3 1918</date>.</trailer>
             </div>
             <div xml:id="workid84132" decls="#biblid84132">
-              <head xml:id="idm139850574520768"><hi rend="italics" xml:id="idm139850574520640"><!--<emph>-->TRODS ALT DET<!--</emph--></hi>.</head>
+              <head xml:id="idm139850574520768"><hi rend="italics" xml:id="idm139850574520640">TRODS ALT DET</hi>.</head>
               <lg xml:id="idm139850574519472">
                 <l xml:id="idm139850574519216">OM en af ærlig Fattigdom</l>
                 <l xml:id="idm139850574518768">gav Kampen op, og alt det,</l>
@@ -7718,7 +8283,7 @@ DIGTE AF ROBERT BURNS.</head>
               <trailer xml:id="idm139850574493872"><date xml:id="idm139850574493744">1898</date>.</trailer>
             </div>
             <div xml:id="workid84365" decls="#biblid84365">
-              <head xml:id="idm139850574492128"><hi rend="italics" xml:id="idm139850574492000"><!--<emph>-->FØDT TIL GRAAD<!--</emph--></hi>.</head>
+              <head xml:id="idm139850574492128"><hi rend="italics" xml:id="idm139850574492000">FØDT TIL GRAAD</hi>.</head>
               <lg xml:id="idm139850574490816">
                 <l xml:id="idm139850574490560">EN stormfuld, barsk Novemberkvæld</l>
                 <l xml:id="idm139850574490096"> med Sus i nøgne Træ'r</l>
@@ -7835,7 +8400,7 @@ DIGTE AF ROBERT BURNS.</head>
               <trailer xml:id="idm139850574443904"><date xml:id="idm139850574443776">1898</date>.</trailer>
             </div>
             <div xml:id="workid84774" decls="#biblid84774">
-              <head xml:id="idm139850574442096"><hi rend="italics" xml:id="idm139850574441968"><!--<emph>-->I DET FJÆRNE<!--</emph--></hi>.</head>
+              <head xml:id="idm139850574442096"><hi rend="italics" xml:id="idm139850574441968">I DET FJÆRNE</hi>.</head>
               <lg xml:id="idm139850574440784">
                 <l xml:id="idm139850574440528">HVOR kan jeg være god og glad</l>
                 <l xml:id="idm139850574440064">og synge ved min Kjærne, o,</l>
@@ -7870,7 +8435,7 @@ DIGTE AF ROBERT BURNS.</head>
             </div>
             <pb n="171" xml:id="s171" facs="adl/aakjaer/aakjaer2/aakj2171"/>
             <div xml:id="workid84895" decls="#biblid84895">
-              <head xml:id="idm139850574426656"><hi rend="italics" xml:id="idm139850574426528"><!--<emph>-->HELLIG WOLLES BØN<!--</emph--></hi>.</head>
+              <head xml:id="idm139850574426656"><hi rend="italics" xml:id="idm139850574426528">HELLIG WOLLES BØN</hi>.</head>
               <lg xml:id="idm139850574425344">
                 <l xml:id="idm139850574425088">O du, som i din Himmel bor,</l>
                 <l xml:id="idm139850574424656">som bare ved dit Lunes Ord</l>
@@ -8015,7 +8580,7 @@ DIGTE AF ROBERT BURNS.</head>
               <trailer xml:id="idm139850574364496"><date xml:id="idm139850574364368">1898</date>.</trailer>
             </div>
             <div xml:id="workid85419" decls="#biblid85419">
-              <head xml:id="idm139850574362688"><hi rend="italics" xml:id="idm139850574362560"><!--<emph>-->DER BOED EN BONDE<!--</emph--></hi>.<lb xml:id="idm139850574361520"/>
+              <head xml:id="idm139850574362688"><hi rend="italics" xml:id="idm139850574362560">DER BOED EN BONDE</hi>.<lb xml:id="idm139850574361520"/>
 Frit oversat.</head>
               <lg xml:id="idm139850574361136">
                 <l xml:id="idm139850574360880">DER boed en Bonde paa Kildebæks Bred</l>
@@ -8146,7 +8711,7 @@ Frit oversat.</head>
               <trailer xml:id="idm139850574309968">Sommer <date xml:id="idm139850574309680">1898</date>.</trailer>
             </div>
             <div xml:id="workid85860" decls="#biblid85860">
-              <head xml:id="idm139850574308000"><hi rend="italics" xml:id="idm139850574307872"><!--<emph>-->JENNY I RUGEN<!--</emph--></hi>.</head>
+              <head xml:id="idm139850574308000"><hi rend="italics" xml:id="idm139850574307872">JENNY I RUGEN</hi>.</head>
               <lg xml:id="idm139850574306704">
                 <l xml:id="idm139850574306448">VAAD til Skindet er nu Glutten</l>
                 <l xml:id="idm139850574306016">af at gaa i Rug,</l>
@@ -8182,7 +8747,7 @@ Frit oversat.</head>
             </div>
             <pb n="178" xml:id="s178" facs="adl/aakjaer/aakjaer2/aakj2178"/>
             <div xml:id="workid85987" decls="#biblid85987">
-              <head xml:id="idm139850574291840"><hi rend="italics" xml:id="idm139850574291712"><!--<emph>-->SKJØN NELLY<!--</emph--></hi>.</head>
+              <head xml:id="idm139850574291840"><hi rend="italics" xml:id="idm139850574291712">SKJØN NELLY</hi>.</head>
               <lg xml:id="idm139850574290528">
                 <l xml:id="idm139850574290272">PAA Blomsterlejet ved en Aa</l>
                 <l xml:id="idm139850574289840">i Skyggen af en Skov</l>
@@ -8227,7 +8792,7 @@ Frit oversat.</head>
             </div>
             <pb n="179" xml:id="s179" facs="adl/aakjaer/aakjaer2/aakj2179"/>
             <div xml:id="workid86152" decls="#biblid86152">
-              <head xml:id="idm139850574271280"><hi rend="italics" xml:id="idm139850574271152"><!--<emph>-->HVAD KAN EN UNG KVINDE<!--</emph--></hi>.</head>
+              <head xml:id="idm139850574271280"><hi rend="italics" xml:id="idm139850574271152">HVAD KAN EN UNG KVINDE</hi>.</head>
               <lg xml:id="idm139850574269984">
                 <l xml:id="idm139850574269728">HVAD kan en ung Kvinde,</l>
                 <l xml:id="idm139850574269344">hvad skal en ung Kvinde,</l>
@@ -8264,7 +8829,7 @@ Frit oversat.</head>
             </div>
             <pb n="180" xml:id="s180" facs="adl/aakjaer/aakjaer2/aakj2180"/>
             <div xml:id="workid86282" decls="#biblid86282">
-              <head xml:id="idm139850574255008"><hi rend="italics" xml:id="idm139850574254880"><!--<emph>-->NANCY<!--</emph--></hi>.</head>
+              <head xml:id="idm139850574255008"><hi rend="italics" xml:id="idm139850574254880">NANCY</hi>.</head>
               <lg xml:id="idm139850574253712">
                 <l xml:id="idm139850574253456">HUSBOND , Husbond, stands dit Kiv,</l>
                 <l xml:id="idm139850574253024">er du fra dig selv, Mand!</l>
@@ -8309,7 +8874,7 @@ Frit oversat.</head>
             </div>
             <pb n="181" xml:id="s181" facs="adl/aakjaer/aakjaer2/aakj2181"/>
             <div xml:id="workid86442" decls="#biblid86442">
-              <head xml:id="idm139850574234944"><hi rend="italics" xml:id="idm139850574234816"><!--<emph>-->DUNCAN GRAY<!--</emph--></hi>.</head>
+              <head xml:id="idm139850574234944"><hi rend="italics" xml:id="idm139850574234816">DUNCAN GRAY</hi>.</head>
               <lg xml:id="idm139850574233648">
                 <l xml:id="idm139850574233392">DUNCAN Gray kom her som Fri'r,</l>
                 <l xml:id="idm139850574232960">ha, ha for Bejlen der,</l>
@@ -8364,7 +8929,7 @@ Frit oversat.</head>
               <trailer xml:id="idm139850574213088"><date xml:id="idm139850574212960">1898</date>.</trailer>
             </div>
             <div xml:id="workid86632" decls="#biblid86632">
-              <head xml:id="idm139850574211280"><hi rend="italics" xml:id="idm139850574211152"><!--<emph>-->JOCK RAB<!--</emph--></hi>.</head>
+              <head xml:id="idm139850574211280"><hi rend="italics" xml:id="idm139850574211152">JOCK RAB</hi>.</head>
               <lg xml:id="idm139850574209984">
                 <l xml:id="idm139850574209728">O saa I min Kjærrest min Eppi' Mac Nab,</l>
                 <l xml:id="idm139850574209248">o saa I min Kjærrest, min Eppi' Mac Nab?</l>
@@ -8393,7 +8958,7 @@ Frit oversat.</head>
             </div>
             <pb n="183" xml:id="s183" facs="adl/aakjaer/aakjaer2/aakj2183"/>
             <div xml:id="workid86747" decls="#biblid86747">
-              <head xml:id="idm139850574196656"><hi rend="italics" xml:id="idm139850574196528"><!--<emph>-->TIBBI DUNBAR<!--</emph--></hi>.</head>
+              <head xml:id="idm139850574196656"><hi rend="italics" xml:id="idm139850574196528">TIBBI DUNBAR</hi>.</head>
               <lg xml:id="idm139850574195360">
                 <l xml:id="idm139850574195104">O vil du gaa med mig,</l>
                 <l xml:id="idm139850574194720">skjøn Tibbi Dunbar?</l>
@@ -8417,7 +8982,7 @@ Frit oversat.</head>
               <trailer xml:id="idm139850574187776"><date xml:id="idm139850574187648">1898</date>.</trailer>
             </div>
             <div xml:id="workid86830" decls="#biblid86830">
-              <head xml:id="idm139850574185968"><hi rend="italics" xml:id="idm139850574185840"><!--<emph>-->JOHN ANDERSON<!--</emph--></hi>.</head>
+              <head xml:id="idm139850574185968"><hi rend="italics" xml:id="idm139850574185840">JOHN ANDERSON</hi>.</head>
               <lg xml:id="idm139850574184672">
                 <l xml:id="idm139850574184416">JOHN Anderson, min Fryd, John,</l>
                 <l xml:id="idm139850574183984">J da først vi to blev kjendt,</l>
@@ -8443,7 +9008,7 @@ Frit oversat.</head>
             <pb n="184" xml:id="s184" facs="adl/aakjaer/aakjaer2/aakj2184"/>
             <div xml:id="idm139850574174912">
               <head xml:id="idm139850574174656">
-                <hi rend="italics" xml:id="idm139850574174400"><!--<emph>-->O, LUK MIG IND -<!--</emph--></hi>
+                <hi rend="italics" xml:id="idm139850574174400">O, LUK MIG IND -</hi>
               </head>
               <sp xml:id="idm139850574173184">
                 <speaker xml:id="idm139850574172880"><hi rend="italics" xml:id="idm139850574172752">Han</hi>:</speaker>
@@ -8522,7 +9087,7 @@ Frit oversat.</head>
             </div>
             <div xml:id="workid87177" decls="#biblid87177">
               <head xml:id="idm139850574143360">
-                <hi rend="italics" xml:id="idm139850574143104"><!--<emph>-->VAR SKYLDEN MIN -<!--</emph--></hi>
+                <hi rend="italics" xml:id="idm139850574143104">VAR SKYLDEN MIN -</hi>
               </head>
               <lg xml:id="idm139850574141936">
                 <l xml:id="idm139850574141680">VAR Skylden min, var Skylden min</l>
@@ -8564,7 +9129,7 @@ Frit oversat.</head>
               <trailer xml:id="idm139850574126448"><date xml:id="idm139850574126320">30/7 1898</date>.</trailer>
             </div>
             <div xml:id="workid87326" decls="#biblid87326">
-              <head xml:id="idm139850574124688"><hi rend="italics" xml:id="idm139850574124560"><!--<emph>-->WOLLES VIV<!--</emph--></hi>.</head>
+              <head xml:id="idm139850574124688"><hi rend="italics" xml:id="idm139850574124560">WOLLES VIV</hi>.</head>
               <lg xml:id="idm139850574123392">
                 <l xml:id="idm139850574123136">WOLLE Wattel hed en Mand,</l>
                 <l xml:id="idm139850574122704">der sad tilhuse syd for Junget;</l>
@@ -8609,7 +9174,7 @@ Frit oversat.</head>
               <trailer xml:id="idm139850574106400"><date xml:id="idm139850574106272">1898</date>.</trailer>
             </div>
             <div xml:id="workid87485" decls="#biblid87485">
-              <head xml:id="idm139850574104592"><hi rend="italics" xml:id="idm139850574104464"><!--<emph>-->EN SKRÆDDER I SENGEN<!--</emph--></hi>.</head>
+              <head xml:id="idm139850574104592"><hi rend="italics" xml:id="idm139850574104464">EN SKRÆDDER I SENGEN</hi>.</head>
               <lg xml:id="idm139850574103264">
                 <l xml:id="idm139850574103008">EN Skrædder gjennem Sengen saa ynkeligen faldt,</l>
                 <l xml:id="idm139850574102512">en Skrædder gjennem Sengen, med sit Fingerbøl og alt,</l>
@@ -8632,7 +9197,7 @@ Frit oversat.</head>
             </div>
             <pb n="188" xml:id="s188" facs="adl/aakjaer/aakjaer2/aakj2188"/>
             <div xml:id="workid87573" decls="#biblid87573">
-              <head xml:id="idm139850574093264"><hi rend="italics" xml:id="idm139850574093136"><!--<emph>-->DE LYSTIGE TIGGERE<!--</emph--></hi>.</head>
+              <head xml:id="idm139850574093264"><hi rend="italics" xml:id="idm139850574093136">DE LYSTIGE TIGGERE</hi>.</head>
               <div xml:id="idm139850574091968">
                 <lg xml:id="idm139850574091712">
                   <l xml:id="idm139850574091456">EN Nat da Løv lig Flagermus</l>
@@ -9146,7 +9711,7 @@ Frit oversat.</head>
           <div xml:id="idm139850573878816">
             <head xml:id="idm139850573878560">FRA ENGELSK.</head>
             <div xml:id="workid89359" decls="#biblid89359">
-              <head xml:id="idm139850573877136"><hi rend="italics" xml:id="idm139850573877008"><!--<emph>-->DEN NEDLAGTE LANDSBY<!--</emph--></hi>.<lb xml:id="idm139850573875968"/>
+              <head xml:id="idm139850573877136"><hi rend="italics" xml:id="idm139850573877008">DEN NEDLAGTE LANDSBY</hi>.<lb xml:id="idm139850573875968"/>
 (Oliver Goldsmith.)</head>
               <lg xml:id="idm139850573875584">
                 <l xml:id="idm139850573875328">MIN Landsbydrøm bag Lundes Hybenhæk,</l>
@@ -9173,7 +9738,7 @@ Frit oversat.</head>
               <trailer xml:id="idm139850573867024"><date xml:id="idm139850573866896">1909</date>.</trailer>
             </div>
             <div xml:id="workid89452" decls="#biblid89452">
-              <head xml:id="idm139850573865264"><hi rend="italics" xml:id="idm139850573865136"><!--<emph>-->TIL ENGLANDS SØNNER<!--</emph--></hi>.<lb xml:id="idm139850573864064"/>
+              <head xml:id="idm139850573865264"><hi rend="italics" xml:id="idm139850573865136">TIL ENGLANDS SØNNER</hi>.<lb xml:id="idm139850573864064"/>
 (Percy B. Shelley.)</head>
               <lg xml:id="idm139850573863680">
                 <l xml:id="idm139850573863424">ENGLANDS Sønner, hvorfor sled</l>
@@ -9227,7 +9792,7 @@ Frit oversat.</head>
               <trailer xml:id="idm139850573844496"><date xml:id="idm139850573844368">1902</date>.</trailer>
             </div>
             <div xml:id="workid89634" decls="#biblid89634">
-              <head xml:id="idm139850573842688"><hi rend="italics" xml:id="idm139850573842560"><!--<emph>-->I ER MANGE - DE ER FAA!<!--</emph--></hi><lb xml:id="idm139850573841648"/>
+              <head xml:id="idm139850573842688"><hi rend="italics" xml:id="idm139850573842560">I ER MANGE - DE ER FAA!</hi><lb xml:id="idm139850573841648"/>
 (Shelley.)</head>
               <lg xml:id="idm139850573841264">
                 <l xml:id="idm139850573841008">SOM en Oprørstrommes Klang</l>
@@ -9244,7 +9809,7 @@ Frit oversat.</head>
               <trailer xml:id="idm139850578378304"><date xml:id="idm139850578378176">1902</date>.</trailer>
             </div>
             <div xml:id="workid89701" decls="#biblid89701">
-              <head xml:id="idm139850578376544"><hi rend="italics" xml:id="idm139850578376416"><!--<emph>-->SYPIGEN<!--</emph--></hi>.<lb xml:id="idm139850578375376"/>
+              <head xml:id="idm139850578376544"><hi rend="italics" xml:id="idm139850578376416">SYPIGEN</hi>.<lb xml:id="idm139850578375376"/>
 (Thomas Hood.)</head>
               <lg xml:id="idm139850578374992">
                 <l xml:id="idm139850578374736">MED Fingre stive af Stræb,</l>
@@ -9363,7 +9928,7 @@ Frit oversat.</head>
             </div>
             <pb n="204" xml:id="s204" facs="adl/aakjaer/aakjaer2/aakj2204"/>
             <div xml:id="workid90136" decls="#biblid90136">
-              <head xml:id="idm139850573807200"><hi rend="italics" xml:id="idm139850573807072"><!--<emph>-->L'ANCIEN REGIME ELLER DET<!--</emph--></hi><hi rend="italics" xml:id="idm139850573806192"><!--<emph>-->GODE GAMLE KONGEDØMME<!--</emph--></hi>.<lb xml:id="idm139850573805152"/>
+              <head xml:id="idm139850573807200"><hi rend="italics" xml:id="idm139850573807072">L'ANCIEN REGIME ELLER DET</hi><hi rend="italics" xml:id="idm139850573806192">GODE GAMLE KONGEDØMME</hi>.<lb xml:id="idm139850573805152"/>
 (James Thomson.)</head>
               <lg xml:id="idm139850573804768">
                 <l xml:id="idm139850573804512">HVEM har en Skjænk beredt</l>
@@ -9476,7 +10041,7 @@ Frit oversat.</head>
               <trailer xml:id="idm139850573755040"><date xml:id="idm139850573754912">Juni 1901</date>.</trailer>
             </div>
             <div xml:id="workid90601" decls="#biblid90601">
-              <head xml:id="idm139850573753408"><hi rend="italics" xml:id="idm139850573753280"><!--<emph>-->DA GODSEJERNE APPELLEREDE<!--</emph--></hi><hi rend="italics" xml:id="idm139850573752528"><!--<emph>-->TIL FOLKET<!--</emph--></hi>.<lb xml:id="idm139850573751648"/>
+              <head xml:id="idm139850573753408"><hi rend="italics" xml:id="idm139850573753280">DA GODSEJERNE APPELLEREDE</hi><hi rend="italics" xml:id="idm139850573752528">TIL FOLKET</hi>.<lb xml:id="idm139850573751648"/>
 (G. K. Chesterton.)</head>
               <lg xml:id="idm139850573751264">
                 <l xml:id="idm139850573751008">KALDER <hi rend="italics" xml:id="idm139850573750752">i</hi> paa Folkedommen? Spar jer denne slette Skjæmt.</l>
@@ -9572,7 +10137,7 @@ Frit oversat.</head>
               <trailer xml:id="idm139850573707312"><date xml:id="idm139850573707184">18/8 1907</date>.</trailer>
             </div>
             <div xml:id="workid91007" decls="#biblid91007">
-              <head xml:id="idm139850573705680"><hi rend="italics" xml:id="idm139850573705552"><!--<emph>-->LILLE MIN MOR<!--</emph--></hi>.<lb xml:id="idm139850573704672"/>
+              <head xml:id="idm139850573705680"><hi rend="italics" xml:id="idm139850573705552">LILLE MIN MOR</hi>.<lb xml:id="idm139850573704672"/>
 (Rudyard Kipling.)</head>
               <lg xml:id="idm139850573704288">
                 <l xml:id="idm139850573704032">OM jeg blev hængt paa den vildeste Top,</l>
@@ -9596,7 +10161,7 @@ Frit oversat.</head>
               <trailer xml:id="idm139850573696944"><date xml:id="idm139850573696816">Decbr. 1905</date>.</trailer>
             </div>
             <div xml:id="workid91093" decls="#biblid91093">
-              <head xml:id="idm139850573695312"><hi rend="italics" xml:id="idm139850573695184"><!--<emph>-->MIT OG DIT<!--</emph--></hi>.<lb xml:id="idm139850573694304"/>
+              <head xml:id="idm139850573695312"><hi rend="italics" xml:id="idm139850573695184">MIT OG DIT</hi>.<lb xml:id="idm139850573694304"/>
 (William Morris.)</head>
               <lg xml:id="idm139850573693920">
                 <l xml:id="idm139850573693664">DER er to Ord, vi møder tit,</l>
@@ -9626,7 +10191,7 @@ Frit oversat.</head>
             </div>
             <pb n="210" xml:id="s210" facs="adl/aakjaer/aakjaer2/aakj2210"/>
             <div xml:id="workid91221" decls="#biblid91221">
-              <head xml:id="idm139850573680400"><hi rend="italics" xml:id="idm139850573680272"><!--<emph>-->NYAARS-GRY<!--</emph--></hi>.<lb xml:id="idm139850573679392"/>
+              <head xml:id="idm139850573680400"><hi rend="italics" xml:id="idm139850573680272">NYAARS-GRY</hi>.<lb xml:id="idm139850573679392"/>
 (William Morris.)</head>
               <lg xml:id="idm139850573679008">
                 <l xml:id="idm139850573678752">KOM hid, Kammerater, ryk sammen,</l>
@@ -9799,7 +10364,7 @@ Frit oversat.</head>
           <div xml:id="idm139850573618240">
             <head xml:id="idm139850573617984">FRA FRANSK.</head>
             <div xml:id="workid91774" decls="#biblid91774">
-              <head xml:id="idm139850573616800"><hi rend="italics" xml:id="idm139850573616672"><!--<emph>-->DEN GODE GUD<!--</emph--></hi>.<lb xml:id="idm139850573615792"/>
+              <head xml:id="idm139850573616800"><hi rend="italics" xml:id="idm139850573616672">DEN GODE GUD</hi>.<lb xml:id="idm139850573615792"/>
 (Jean Pierre de Beranger.)</head>
               <lg xml:id="idm139850573615408">
                 <l xml:id="idm139850573615152">GUD vaagned en Morgen saa englegod</l>
@@ -9872,7 +10437,7 @@ Frit oversat.</head>
               <trailer xml:id="idm139850573578640"><date xml:id="idm139850573578512">1902</date>.</trailer>
             </div>
             <div xml:id="workid92107" decls="#biblid92107">
-              <head xml:id="idm139850573576896"><hi rend="italics" xml:id="idm139850573576768"><!--<emph>-->MODERHJÆRTET<!--</emph--></hi>.<lb xml:id="idm139850573575712"/>
+              <head xml:id="idm139850573576896"><hi rend="italics" xml:id="idm139850573576768">MODERHJÆRTET</hi>.<lb xml:id="idm139850573575712"/>
 (Jean Richepin.)</head>
               <lg xml:id="idm139850573575328">
                 <l xml:id="idm139850573575072">DER var engang en fattig Knøs,</l>
@@ -9905,7 +10470,7 @@ Frit oversat.</head>
           <div xml:id="idm139850573565360">
             <head xml:id="idm139850573565104">FRA TYSK.</head>
             <div xml:id="workid92211" decls="#biblid92211">
-              <head xml:id="idm139850573563728"><hi rend="italics" xml:id="idm139850573563600"><!--<emph>-->FOR SKRANKEN<!--</emph--></hi>.<lb xml:id="idm139850573562560"/>
+              <head xml:id="idm139850573563728"><hi rend="italics" xml:id="idm139850573563600">FOR SKRANKEN</hi>.<lb xml:id="idm139850573562560"/>
 (Goethe.)</head>
               <lg xml:id="idm139850573562176">
                 <l xml:id="idm139850573561920">OG hvem der er Far til det Barn jeg bær'</l>
@@ -9934,7 +10499,7 @@ Frit oversat.</head>
               <trailer xml:id="idm139850573550288"><date xml:id="idm139850573550160">1890</date>.</trailer>
             </div>
             <div xml:id="workid92331" decls="#biblid92331">
-              <head xml:id="idm139850573548528"><hi rend="italics" xml:id="idm139850573548400"><!--<emph>-->ZIGEUNERSANG<!--</emph--></hi>.<lb xml:id="idm139850573547360"/>
+              <head xml:id="idm139850573548528"><hi rend="italics" xml:id="idm139850573548400">ZIGEUNERSANG</hi>.<lb xml:id="idm139850573547360"/>
 (Goethe.)</head>
               <lg xml:id="idm139850573546976">
                 <l xml:id="idm139850573546720">I Taagemulmet, i Sneen dyb,</l>
@@ -9976,7 +10541,7 @@ Frit oversat.</head>
               <trailer xml:id="idm139850573532048"><date xml:id="idm139850573531920">1890</date>.</trailer>
             </div>
             <div xml:id="workid92478" decls="#biblid92478">
-              <head xml:id="idm139850573530352"><hi rend="italics" xml:id="idm139850573530224"><!--<emph>-->JEG FULGTE DYBT I SKOVEN IND<!--</emph--></hi>.<lb xml:id="idm139850573529168"/>
+              <head xml:id="idm139850573530352"><hi rend="italics" xml:id="idm139850573530224">JEG FULGTE DYBT I SKOVEN IND</hi>.<lb xml:id="idm139850573529168"/>
 (Goethe.)</head>
               <lg xml:id="idm139850573528784">
                 <l xml:id="idm139850573528528">JEG fulgte dybt i Skoven ind</l>
@@ -9994,7 +10559,7 @@ Frit oversat.</head>
             </div>
             <pb n="218" xml:id="s218" facs="adl/aakjaer/aakjaer2/aakj2218"/>
             <div xml:id="workid92545" decls="#biblid92545">
-              <head xml:id="idm139850573521568"><hi rend="italics" xml:id="idm139850573521440"><!--<emph>-->VÆVERNE<!--</emph--></hi>.<lb xml:id="idm139850573520400"/>
+              <head xml:id="idm139850573521568"><hi rend="italics" xml:id="idm139850573521440">VÆVERNE</hi>.<lb xml:id="idm139850573520400"/>
 (H. Heine.)</head>
               <lg xml:id="idm139850573520016">
                 <l xml:id="idm139850573519760">MED hule Øjne og gnislende Tænder</l>
@@ -10035,7 +10600,7 @@ Frit oversat.</head>
             </div>
             <pb n="219" xml:id="s219" facs="adl/aakjaer/aakjaer2/aakj2219"/>
             <div xml:id="workid92690" decls="#biblid92690">
-              <head xml:id="idm139850573503504"><hi rend="italics" xml:id="idm139850573503376"><!--<emph>-->HOLD DOG OP!<!--</emph--></hi><lb xml:id="idm139850573502464"/>
+              <head xml:id="idm139850573503504"><hi rend="italics" xml:id="idm139850573503376">HOLD DOG OP!</hi><lb xml:id="idm139850573502464"/>
 (H. Heine.)</head>
               <lg xml:id="idm139850573502080">
                 <l xml:id="idm139850573501824">HOLD dog op med de Parabler.</l>
@@ -10064,7 +10629,7 @@ Frit oversat.</head>
               <trailer xml:id="idm139850573492736"><date xml:id="idm139850573492608">1898</date>.</trailer>
             </div>
             <div xml:id="workid92788" decls="#biblid92788">
-              <head xml:id="idm139850573490976"><hi rend="italics" xml:id="idm139850573490848"><!--<emph>-->JAMMERDAL<!--</emph--></hi>.<lb xml:id="idm139850573489808"/>
+              <head xml:id="idm139850573490976"><hi rend="italics" xml:id="idm139850573490848">JAMMERDAL</hi>.<lb xml:id="idm139850573489808"/>
 (H. Heine.)</head>
               <lg xml:id="idm139850573489424">
                 <l xml:id="idm139850573489168">OM Gavlen tuder Nattens Vind,</l>
@@ -10112,7 +10677,7 @@ Frit oversat.</head>
               <trailer xml:id="idm139850573472352"><date xml:id="idm139850573472224">1897</date>.</trailer>
             </div>
             <div xml:id="workid92952" decls="#biblid92952">
-              <head xml:id="idm139850573470592"><hi rend="italics" xml:id="idm139850573470464"><!--<emph>-->FILANTROPEN<!--</emph--></hi>.<lb xml:id="idm139850573469424"/>
+              <head xml:id="idm139850573470592"><hi rend="italics" xml:id="idm139850573470464">FILANTROPEN</hi>.<lb xml:id="idm139850573469424"/>
 (H. Heine.)</head>
               <lg xml:id="idm139850573469040">
                 <l xml:id="idm139850573468784">DER leved to elskede Søskend',</l>
@@ -10216,7 +10781,7 @@ Frit oversat.</head>
             </div>
             <pb n="223" xml:id="s223" facs="adl/aakjaer/aakjaer2/aakj2223"/>
             <div xml:id="workid93292" decls="#biblid93292">
-              <head xml:id="idm139850573428992"><hi rend="italics" xml:id="idm139850573428864"><!--<emph>-->DUELLER<!--</emph--></hi>.<lb xml:id="idm139850573427824"/>
+              <head xml:id="idm139850573428992"><hi rend="italics" xml:id="idm139850573428864">DUELLER</hi>.<lb xml:id="idm139850573427824"/>
 (H. Heine.)</head>
               <lg xml:id="idm139850573427440">
                 <l xml:id="idm139850573427184">TO Oxer paa en Bondegaard</l>
@@ -10251,7 +10816,7 @@ Frit oversat.</head>
               <trailer xml:id="idm139850573412880"><date xml:id="idm139850573412752">1897</date>.</trailer>
             </div>
             <div xml:id="workid93436" decls="#biblid93436">
-              <head xml:id="idm139850573411072"><hi rend="italics" xml:id="idm139850573410944"><!--<emph>-->BALTHASAR<!--</emph--></hi>.<lb xml:id="idm139850573409904"/>
+              <head xml:id="idm139850573411072"><hi rend="italics" xml:id="idm139850573410944">BALTHASAR</hi>.<lb xml:id="idm139850573409904"/>
 (H. Heine.)</head>
               <lg xml:id="idm139850573409520">
                 <l xml:id="idm139850573409264">ALT hylled Nattens Klædebon</l>
@@ -10342,7 +10907,7 @@ Frit oversat.</head>
               <trailer xml:id="idm139850573379968"><date xml:id="idm139850573379840">3/10 1893</date>.</trailer>
             </div>
             <div xml:id="workid93704" decls="#biblid93704">
-              <head xml:id="idm139850573378208"><hi rend="italics" xml:id="idm139850573378080"><!--<emph>-->HENSIGTSMÆSSIGHED<!--</emph--></hi>.<lb xml:id="idm139850573377024"/>
+              <head xml:id="idm139850573378208"><hi rend="italics" xml:id="idm139850573378080">HENSIGTSMÆSSIGHED</hi>.<lb xml:id="idm139850573377024"/>
 (H. Heine.)</head>
               <lg xml:id="idm139850573376640">
                 <l xml:id="idm139850573376384">TVENDE Ben har Gud os givet</l>
@@ -10440,7 +11005,7 @@ Frit oversat.</head>
               <trailer xml:id="idm139850573334576"><date xml:id="idm139850573334448">25/8 1893</date>.</trailer>
             </div>
             <div xml:id="workid94076" decls="#biblid94076">
-              <head xml:id="idm139850573332816"><hi rend="italics" xml:id="idm139850573332688"><!--<emph>-->ROTTERNE<!--</emph--></hi>.<lb xml:id="idm139850573331648"/>
+              <head xml:id="idm139850573332816"><hi rend="italics" xml:id="idm139850573332688">ROTTERNE</hi>.<lb xml:id="idm139850573331648"/>
 (H. Heine.)</head>
               <lg xml:id="idm139850573331264">
                 <l xml:id="idm139850573331008">MAN deler - agt paa dette -</l>
@@ -10531,7 +11096,7 @@ Frit oversat.</head>
               <trailer xml:id="idm139850573298208"><date xml:id="idm139850573298080">Januar 1901</date>.</trailer>
             </div>
             <div xml:id="workid94374" decls="#biblid94374">
-              <head xml:id="idm139850573296448"><hi rend="italics" xml:id="idm139850573296320"><!--<emph>-->MAND OG KVINDE<!--</emph--></hi>.<lb xml:id="idm139850573295280"/>
+              <head xml:id="idm139850573296448"><hi rend="italics" xml:id="idm139850573296320">MAND OG KVINDE</hi>.<lb xml:id="idm139850573295280"/>
 (Alexander Petøfi.)</head>
               <lg xml:id="idm139850573294832">
                 <l xml:id="idm139850573294576">DA Gud Fader havde Manden dannet</l>
@@ -10549,7 +11114,7 @@ Frit oversat.</head>
             </div>
             <pb n="230" xml:id="s230" facs="adl/aakjaer/aakjaer2/aakj2230"/>
             <div xml:id="workid94441" decls="#biblid94441">
-              <head xml:id="idm139850573287536"><hi rend="italics" xml:id="idm139850573287408"><!--<emph>-->SVÆRD OG LÆNKE<!--</emph--></hi>.<lb xml:id="idm139850573286352"/>
+              <head xml:id="idm139850573287536"><hi rend="italics" xml:id="idm139850573287408">SVÆRD OG LÆNKE</hi>.<lb xml:id="idm139850573286352"/>
 (Alexander Petøfi.)</head>
               <lg xml:id="idm139850573285904">
                 <l xml:id="idm139850573285648">ENGLAND med Gud Faders Vilje</l>
@@ -10696,7 +11261,7 @@ Frit oversat.</head>
               <trailer xml:id="idm139850573219696"><date xml:id="idm139850573219568">15/l 1894</date>.</trailer>
             </div>
             <div xml:id="workid95013" decls="#biblid95013">
-              <head xml:id="idm139850573217888"><hi rend="italics" xml:id="idm139850573217760"><!--<emph>-->DEN VANVITTIGE<!--</emph--></hi>.<lb xml:id="idm139850573216720"/>
+              <head xml:id="idm139850573217888"><hi rend="italics" xml:id="idm139850573217760">DEN VANVITTIGE</hi>.<lb xml:id="idm139850573216720"/>
 (Alexander Petøfi.)</head>
               <lg xml:id="idm139850573216272">
                 <l xml:id="idm139850573216016">hvad skal I, Forstyrrere? ,</l>
@@ -10813,7 +11378,7 @@ Frit oversat.</head>
             </div>
             <pb n="236" xml:id="s236" facs="adl/aakjaer/aakjaer2/aakj2236"/>
             <div xml:id="workid95447" decls="#biblid95447">
-              <head xml:id="idm139850573165088"><hi rend="italics" xml:id="idm139850573164960"><!--<emph>-->BJØRNEN I BERN<!--</emph--></hi>.<lb xml:id="idm139850573163904"/>
+              <head xml:id="idm139850573165088"><hi rend="italics" xml:id="idm139850573164960">BJØRNEN I BERN</hi>.<lb xml:id="idm139850573163904"/>
 (Efter Fr. von Sallet.)</head>
               <lg xml:id="idm139850573163472">
                 <l xml:id="idm139850573163216">I fordums Tid - saa har jeg læst -</l>
@@ -10891,7 +11456,7 @@ Frit oversat.</head>
               <trailer xml:id="idm139850573132928"><date xml:id="idm139850573132800">April 1908</date>.</trailer>
             </div>
             <div xml:id="workid95724" decls="#biblid95724">
-              <head xml:id="idm139850573131168"><hi rend="italics" xml:id="idm139850573131040"><!--<emph>-->VED KJEDLEN<!--</emph--></hi>.<lb xml:id="idm139850573130000"/>
+              <head xml:id="idm139850573131168"><hi rend="italics" xml:id="idm139850573131040">VED KJEDLEN</hi>.<lb xml:id="idm139850573130000"/>
 (Ferd. Freiligrath.)</head>
               <lg xml:id="idm139850573129616">
                 <l xml:id="idm139850573129360">EN Damper kom fra Biberieh; stolt var den Fure, som den drog;</l>
@@ -10976,7 +11541,7 @@ Frit oversat.</head>
               <trailer xml:id="idm139850573087744"><date xml:id="idm139850573087616">Juni 1901</date>.</trailer>
             </div>
             <div xml:id="workid96094" decls="#biblid96094">
-              <head xml:id="idm139850573085936"><hi rend="italics" xml:id="idm139850573085808"><!--<emph>-->OMSVÆRM OS KUN, FJENDER<!--</emph--></hi>.<lb xml:id="idm139850573084736"/>
+              <head xml:id="idm139850573085936"><hi rend="italics" xml:id="idm139850573085808">OMSVÆRM OS KUN, FJENDER</hi>.<lb xml:id="idm139850573084736"/>
 (Arthur Fitzer.)</head>
               <opener xml:id="idm139850573084352">Nehemias 4. Kap.</opener>
               <lg xml:id="idm139850573083936">
@@ -11019,7 +11584,7 @@ Frit oversat.</head>
               <trailer xml:id="idm139850573067872"><date xml:id="idm139850573067744">1901</date>.</trailer>
             </div>
             <div xml:id="workid96253" decls="#biblid96253">
-              <head xml:id="idm139850573066112"><hi rend="italics" xml:id="idm139850573065984"><!--<emph>-->ARBEJDERSANG<!--</emph--></hi>.<lb xml:id="idm139850573064944"/>
+              <head xml:id="idm139850573066112"><hi rend="italics" xml:id="idm139850573065984">ARBEJDERSANG</hi>.<lb xml:id="idm139850573064944"/>
 (Karl Henckell.)</head>
               <lg xml:id="idm139850573064560">
                 <l xml:id="idm139850573064304">DET drøner fra det hule Rum</l>
@@ -11089,7 +11654,7 @@ Frit oversat.</head>
               <trailer xml:id="idm139850573037744"><date xml:id="idm139850573037616">April 1901</date>.</trailer>
             </div>
             <div xml:id="workid96498" decls="#biblid96498">
-              <head xml:id="idm139850573035984"><hi rend="italics" xml:id="idm139850573035856"><!--<emph>-->N R. 310<!--</emph--></hi>.<lb xml:id="idm139850573034816"/>
+              <head xml:id="idm139850573035984"><hi rend="italics" xml:id="idm139850573035856">N R. 310</hi>.<lb xml:id="idm139850573034816"/>
 (Ditlev von Liliencron.)</head>
               <lg xml:id="idm139850573034384">
                 <l xml:id="idm139850573034128">PAA femte Døgn uden Middagsmad,</l>
@@ -11144,7 +11709,7 @@ Frit oversat.</head>
             </div>
             <pb n="244" xml:id="s244" facs="adl/aakjaer/aakjaer2/aakj2244"/>
             <div xml:id="workid96692" decls="#biblid96692">
-              <head xml:id="idm139850573012048"><hi rend="italics" xml:id="idm139850573011920"><!--<emph>-->TORDENVEJRET<!--</emph--></hi>.<lb xml:id="idm139850573010880"/>
+              <head xml:id="idm139850573012048"><hi rend="italics" xml:id="idm139850573011920">TORDENVEJRET</hi>.<lb xml:id="idm139850573010880"/>
 (Ditlev von Liliencron.)</head>
               <lg xml:id="idm139850573010448">
                 <l xml:id="idm139850573010192">STÆNDIG efter flittigt Dagværk</l>
@@ -11340,7 +11905,7 @@ Frit oversat.</head>
               <trailer xml:id="idm139850572927456"><date xml:id="idm139850572927328">25/1 1914</date>.</trailer>
             </div>
             <div xml:id="workid97406" decls="#biblid97406">
-              <head xml:id="idm139850572925648"><hi rend="italics" xml:id="idm139850572925520"><!--<emph>-->HANS SVÆRMER<!--</emph--></hi>.<lb xml:id="idm139850572924464"/>
+              <head xml:id="idm139850572925648"><hi rend="italics" xml:id="idm139850572925520">HANS SVÆRMER</hi>.<lb xml:id="idm139850572924464"/>
 (Ditlev von Liliencron.)</head>
               <lg xml:id="idm139850572924032">
                 <l xml:id="idm139850572923776">HANS Tøffel elsked skjøn Doris blidt.</l>
@@ -11382,7 +11947,7 @@ Frit oversat.</head>
           <div xml:id="idm139850572906064">
             <head xml:id="idm139850572905808">FRA NORSK BONDEMAAL.</head>
             <div xml:id="workid97577" decls="#biblid97577">
-              <head xml:id="idm139850572904384"><hi rend="italics" xml:id="idm139850572904256"><!--<emph>-->DEN FØRSTE SANG<!--</emph--></hi>.<lb xml:id="idm139850572903200"/>
+              <head xml:id="idm139850572904384"><hi rend="italics" xml:id="idm139850572904256">DEN FØRSTE SANG</hi>.<lb xml:id="idm139850572903200"/>
 (Per Sivle.)</head>
               <lg xml:id="idm139850572902816">
                 <l xml:id="idm139850572902560">DEN tørste Gang jeg hørte Sang,</l>
@@ -11415,7 +11980,7 @@ Frit oversat.</head>
           <div xml:id="idm139850572892160">
             <head xml:id="idm139850572891904">FRA SVENSK.</head>
             <div xml:id="idm139850572891488">
-              <head xml:id="idm139850572891232"><hi rend="italics" xml:id="idm139850572891104"><!--<emph>-->TRE BIBELSKE VISER<!--</emph--></hi>.<lb xml:id="idm139850572890064"/>
+              <head xml:id="idm139850572891232"><hi rend="italics" xml:id="idm139850572891104">TRE BIBELSKE VISER</hi>.<lb xml:id="idm139850572890064"/>
 (C. M. Bellman.)</head>
               <div xml:id="idm139850572889680">
                 <head xml:id="idm139850572889424">I.</head>
@@ -11599,7 +12164,7 @@ Frit oversat.</head>
             </div>
             <pb n="254" xml:id="s254" facs="adl/aakjaer/aakjaer2/aakj2254"/>
             <div xml:id="workid98303" decls="#biblid98303">
-              <head xml:id="idm139850572816512"><hi rend="italics" xml:id="idm139850572816384"><!--<emph>-->DET FØRSTE KYS<!--</emph--></hi>.<lb xml:id="idm139850572815328"/>
+              <head xml:id="idm139850572816512"><hi rend="italics" xml:id="idm139850572816384">DET FØRSTE KYS</hi>.<lb xml:id="idm139850572815328"/>
 (Joh. L. Runeberg.)</head>
               <lg xml:id="idm139850572814944">
                 <l xml:id="idm139850572814688">I Sølverskyens Kant sad Aftenstjernen,</l>
@@ -11614,7 +12179,7 @@ Frit oversat.</head>
               <trailer xml:id="idm139850572810784"><date xml:id="idm139850572810656">1890</date>.</trailer>
             </div>
             <div xml:id="workid98359" decls="#biblid98359">
-              <head xml:id="idm139850572809024"><hi rend="italics" xml:id="idm139850572808896"><!--<emph>-->DE FANGNE<!--</emph--></hi>.<lb xml:id="idm139850572807856"/>
+              <head xml:id="idm139850572809024"><hi rend="italics" xml:id="idm139850572808896">DE FANGNE</hi>.<lb xml:id="idm139850572807856"/>
 (Joh. L. Runeberg.)</head>
               <lg xml:id="idm139850572807472">
                 <l xml:id="idm139850572807216">PAA den røde Elvebund</l>
@@ -11657,7 +12222,7 @@ Frit oversat.</head>
               <trailer xml:id="idm139850572791104"><date xml:id="idm139850572790976">1890</date>.</trailer>
             </div>
             <div xml:id="workid98516" decls="#biblid98516">
-              <head xml:id="idm139850572789344"><hi rend="italics" xml:id="idm139850572789216"><!--<emph>-->JEG SER PAA TERNERNES SKARE<!--</emph--></hi>.<lb xml:id="idm139850572788160"/>
+              <head xml:id="idm139850572789344"><hi rend="italics" xml:id="idm139850572789216">JEG SER PAA TERNERNES SKARE</hi>.<lb xml:id="idm139850572788160"/>
 (Joh. L. Runeberg.)</head>
               <lg xml:id="idm139850572787776">
                 <l xml:id="idm139850572787520">JEG ser paa Ternernes Skare,</l>
@@ -11677,7 +12242,7 @@ Frit oversat.</head>
             </div>
             <pb n="256" xml:id="s256" facs="adl/aakjaer/aakjaer2/aakj2256"/>
             <div xml:id="workid98596" decls="#biblid98596">
-              <head xml:id="idm139850572779040"><hi rend="italics" xml:id="idm139850572778912"><!--<emph>-->SMAAVERS<!--</emph--></hi>.<lb xml:id="idm139850572777872"/>
+              <head xml:id="idm139850572779040"><hi rend="italics" xml:id="idm139850572778912">SMAAVERS</hi>.<lb xml:id="idm139850572777872"/>
 (Joh. L. Runeberg.)</head>
               <lg xml:id="idm139850572777488">
                 <l xml:id="idm139850572777232">YNGLINGEN blev femten Aar - og tro'de</l>
@@ -11722,7 +12287,7 @@ Frit oversat.</head>
               <trailer xml:id="idm139850572759568"><date xml:id="idm139850572759440">1890</date>.</trailer>
             </div>
             <div xml:id="workid98766" decls="#biblid98766">
-              <head xml:id="idm139850572757760"><hi rend="italics" xml:id="idm139850572757632"><!--<emph>-->OJAN PAVO<!--</emph--></hi>.<lb xml:id="idm139850572756592"/>
+              <head xml:id="idm139850572757760"><hi rend="italics" xml:id="idm139850572757632">OJAN PAVO</hi>.<lb xml:id="idm139850572756592"/>
 (Joh. L. Runeberg.)</head>
               <lg xml:id="idm139850572756208">
                 <l xml:id="idm139850572755952">STOR var Tavastbonden Ojan Pavo,</l>
@@ -11781,7 +12346,7 @@ Frit oversat.</head>
           <div xml:id="idm139850572731680">
             <head xml:id="idm139850572731424">FRA VÆRMLANDSK.</head>
             <div xml:id="workid98991" decls="#biblid98991">
-              <head xml:id="idm139850572730032"><hi rend="italics" xml:id="idm139850572729904"><!--<emph>-->BREMSENS MØSSE*<!--</emph--></hi>).<lb xml:id="idm139850572728800"/>
+              <head xml:id="idm139850572730032"><hi rend="italics" xml:id="idm139850572729904">BREMSENS MØSSE*</hi>).<lb xml:id="idm139850572728800"/>
 (F. A. Dahlgren.)</head>
               <lg xml:id="idm139850572728416">
                 <l xml:id="idm139850572728160">OG Bremsen han fôr til Marked engang,</l>
@@ -11849,7 +12414,7 @@ Frit oversat.</head>
             </div>
             <pb n="260" xml:id="s260" facs="adl/aakjaer/aakjaer2/aakj2260"/>
             <div xml:id="workid99233" decls="#biblid99233">
-              <head xml:id="idm139850572700224"><hi rend="italics" xml:id="idm139850572700096"><!--<emph>-->GRISEN<!--</emph--></hi>.<lb xml:id="idm139850572699056"/>
+              <head xml:id="idm139850572700224"><hi rend="italics" xml:id="idm139850572700096">GRISEN</hi>.<lb xml:id="idm139850572699056"/>
 (F. A. Dahlgren.)</head>
               <lg xml:id="idm139850572698672">
                 <l xml:id="idm139850572698416">OG sen sprang gryntende langs et Stakit,</l>
@@ -11903,7 +12468,7 @@ Frit oversat.</head>
             </div>
             <pb n="261" xml:id="s261" facs="adl/aakjaer/aakjaer2/aakj2261"/>
             <div xml:id="workid99407" decls="#biblid99407">
-              <head xml:id="idm139850572678768"><hi rend="italics" xml:id="idm139850572678640"><!--<emph>-->KJÆRESTE-HANDEL<!--</emph--></hi>.<lb xml:id="idm139850572677584"/>
+              <head xml:id="idm139850572678768"><hi rend="italics" xml:id="idm139850572678640">KJÆRESTE-HANDEL</hi>.<lb xml:id="idm139850572677584"/>
 (F. A. Dahlgren.)</head>
               <lg xml:id="idm139850572677200">
                 <l xml:id="idm139850572676944">OG ne paa Bjærg havde Kjæresten Palle</l>
@@ -11957,7 +12522,7 @@ Frit oversat.</head>
             </div>
             <pb n="262" xml:id="s262" facs="adl/aakjaer/aakjaer2/aakj2262"/>
             <div xml:id="workid99591" decls="#biblid99591">
-              <head xml:id="idm139850572655808"><hi rend="italics" xml:id="idm139850572655680"><!--<emph>-->STINES PARASOL<!--</emph--></hi>.<lb xml:id="idm139850572654640"/>
+              <head xml:id="idm139850572655808"><hi rend="italics" xml:id="idm139850572655680">STINES PARASOL</hi>.<lb xml:id="idm139850572654640"/>
 (F. A. Dahlgren.)</head>
               <lg xml:id="idm139850572654256">
                 <l xml:id="idm139850572654000">OG Stine og Mads drog til Byen paa Stand,</l>
@@ -11996,7 +12561,7 @@ Frit oversat.</head>
           <div xml:id="idm139850572640464">
             <head xml:id="idm139850572640208">FRA SVENSK.</head>
             <div xml:id="workid99727" decls="#biblid99727">
-              <head xml:id="idm139850572638832"><hi rend="italics" xml:id="idm139850572638704"><!--<emph>-->DIN TJENENDE BRODER<!--</emph--></hi>.<lb xml:id="idm139850572637664"/>
+              <head xml:id="idm139850572638832"><hi rend="italics" xml:id="idm139850572638704">DIN TJENENDE BRODER</hi>.<lb xml:id="idm139850572637664"/>
 (Carl Snoilsky.)</head>
               <lg xml:id="idm139850572637280">
                 <l xml:id="idm139850572637024">PAA Farten frem gjennem Livet</l>
@@ -12069,7 +12634,7 @@ Frit oversat.</head>
               <trailer xml:id="idm139850572604800"><date xml:id="idm139850572604672">1901</date>.</trailer>
             </div>
             <div xml:id="workid100019" decls="#biblid100019">
-              <head xml:id="idm139850572603040"><hi rend="italics" xml:id="idm139850572602912"><!--<emph>-->AFRODITE OG "SLIBEREN"<!--</emph--></hi>.<lb xml:id="idm139850572601872"/>
+              <head xml:id="idm139850572603040"><hi rend="italics" xml:id="idm139850572602912">AFRODITE OG "SLIBEREN"</hi>.<lb xml:id="idm139850572601872"/>
 I KUNSTSALEN.<lb xml:id="idm139850572601616"/>
 (Carl Snoilsky.)</head>
               <lg xml:id="idm139850572601200">
@@ -12174,7 +12739,7 @@ I KUNSTSALEN.<lb xml:id="idm139850572601616"/>
               <trailer xml:id="idm139850572559216"><date xml:id="idm139850572559088">Maj 1901</date>.</trailer>
             </div>
             <div xml:id="workid100393" decls="#biblid100393">
-              <head xml:id="idm139850572557456"><hi rend="italics" xml:id="idm139850572557328"><!--<emph>-->AVISDRENGEN<!--</emph--></hi>.<lb xml:id="idm139850572556288"/>
+              <head xml:id="idm139850572557456"><hi rend="italics" xml:id="idm139850572557328">AVISDRENGEN</hi>.<lb xml:id="idm139850572556288"/>
 (Carl Snoilsky.)</head>
               <lg xml:id="idm139850572555904">
                 <l xml:id="idm139850572555648">FØR nogen faar Skoene paa sig,</l>
@@ -12223,7 +12788,7 @@ I KUNSTSALEN.<lb xml:id="idm139850572601616"/>
               <trailer xml:id="idm139850572536720"><date xml:id="idm139850572536592">April 1901</date>.</trailer>
             </div>
             <div xml:id="workid100574" decls="#biblid100574">
-              <head xml:id="idm139850572534960"><hi rend="italics" xml:id="idm139850572534832"><!--<emph>-->DER LEGES SOLDAT<!--</emph--></hi>.<lb xml:id="idm139850572533792"/>
+              <head xml:id="idm139850572534960"><hi rend="italics" xml:id="idm139850572534832">DER LEGES SOLDAT</hi>.<lb xml:id="idm139850572533792"/>
 (Carl Snoilsky.)</head>
               <lg xml:id="idm139850572533408">
                 <l xml:id="idm139850572533152">TROMMEN gaar - Soldaterne marcherer,</l>
@@ -12387,7 +12952,7 @@ I KUNSTSALEN.<lb xml:id="idm139850572601616"/>
               <trailer xml:id="idm139850572463376"><date xml:id="idm139850572463248">Januar 1905</date>.</trailer>
             </div>
             <div xml:id="workid101173" decls="#biblid101173">
-              <head xml:id="idm139850572461616"><hi rend="italics" xml:id="idm139850572461488"><!--<emph>-->INDSIDDEREN<!--</emph--></hi>.<lb xml:id="idm139850572460448"/>
+              <head xml:id="idm139850572461616"><hi rend="italics" xml:id="idm139850572461488">INDSIDDEREN</hi>.<lb xml:id="idm139850572460448"/>
 (Karl-Erik Forsslund.)</head>
               <lg xml:id="idm139850572460064">
                 <l xml:id="idm139850572459808">SAA du siger, jeg skal gaa!</l>
@@ -12447,7 +13012,7 @@ I KUNSTSALEN.<lb xml:id="idm139850572601616"/>
               <trailer xml:id="idm139850572438160"><date xml:id="idm139850572438032">Oktbr. 1908</date>.</trailer>
             </div>
             <div xml:id="workid101377" decls="#biblid101377">
-              <head xml:id="idm139850572436352"><hi rend="italics" xml:id="idm139850572436224"><!--<emph>-->BILLEDHUGGEREN<!--</emph--></hi>.<lb xml:id="idm139850572435184"/>
+              <head xml:id="idm139850572436352"><hi rend="italics" xml:id="idm139850572436224">BILLEDHUGGEREN</hi>.<lb xml:id="idm139850572435184"/>
 (Karl-Erik Forsslund.)</head>
               <lg xml:id="idm139850572434800">
                 <l xml:id="idm139850572434544">TRÆD ud, træd ud, du Stenens Sjæl,</l>
@@ -12544,7 +13109,7 @@ I KUNSTSALEN.<lb xml:id="idm139850572601616"/>
               <trailer xml:id="idm139850572399520"><date xml:id="idm139850572399392">Marts 1908</date>.</trailer>
             </div>
             <div xml:id="workid101692" decls="#biblid101692">
-              <head xml:id="idm139850572397760"><hi rend="italics" xml:id="idm139850572397632"><!--<emph>-->JENS JENSEN OG PÆ' KRÆNSEN<!--</emph--></hi>.<lb xml:id="idm139850572396544"/>
+              <head xml:id="idm139850572397760"><hi rend="italics" xml:id="idm139850572397632">JENS JENSEN OG PÆ' KRÆNSEN</hi>.<lb xml:id="idm139850572396544"/>
 (Gustav Frøding.)</head>
               <lg xml:id="idm139850572396112">
                 <l xml:id="idm139850572395856">JENS Jensen ejer Nakkeby</l>
@@ -12623,7 +13188,7 @@ I KUNSTSALEN.<lb xml:id="idm139850572601616"/>
               <trailer xml:id="idm139850572366592"><date xml:id="idm139850572366464">1908</date>.</trailer>
             </div>
             <div xml:id="workid101960" decls="#biblid101960">
-              <head xml:id="idm139850572364832"><hi rend="italics" xml:id="idm139850572364704"><!--<emph>-->DAARSKABENS TALE<!--</emph--></hi>.<lb xml:id="idm139850572363664"/>
+              <head xml:id="idm139850572364832"><hi rend="italics" xml:id="idm139850572364704">DAARSKABENS TALE</hi>.<lb xml:id="idm139850572363664"/>
 (Gustav Frøding.)</head>
               <lg xml:id="idm139850572363232">
                 <l xml:id="idm139850572362976">I vide det, Brødre og Venner,</l>
@@ -12665,7 +13230,7 @@ I KUNSTSALEN.<lb xml:id="idm139850572601616"/>
               <trailer xml:id="idm139850572347744"><date xml:id="idm139850572347616">1908</date>.</trailer>
             </div>
             <div xml:id="workid102111" decls="#biblid102111">
-              <head xml:id="idm139850572345984"><hi rend="italics" xml:id="idm139850572345856"><!--<emph>-->MASKINEN I ULAVE<!--</emph--></hi>.<lb xml:id="idm139850572344816"/>
+              <head xml:id="idm139850572345984"><hi rend="italics" xml:id="idm139850572345856">MASKINEN I ULAVE</hi>.<lb xml:id="idm139850572344816"/>
 (Gustav Frøding.)</head>
               <lg xml:id="idm139850572344384">
                 <l xml:id="idm139850572344128">VOR Vilje den er Centrum,</l>
@@ -12721,7 +13286,7 @@ I KUNSTSALEN.<lb xml:id="idm139850572601616"/>
               <trailer xml:id="idm139850572325136"><date xml:id="idm139850572325008">April 1908</date>.</trailer>
             </div>
             <div xml:id="workid102294" decls="#biblid102294">
-              <head xml:id="idm139850572323376"><hi rend="italics" xml:id="idm139850572323248"><!--<emph>-->FREDLØS<!--</emph--></hi>.<lb xml:id="idm139850572322208"/>
+              <head xml:id="idm139850572323376"><hi rend="italics" xml:id="idm139850572323248">FREDLØS</hi>.<lb xml:id="idm139850572322208"/>
 (Gustav Frøding.)</head>
               <lg xml:id="idm139850572321776">
                 <l xml:id="idm139850572321520">JEG drømmer, at jeg drager som vandrende Mand</l>
@@ -12964,7 +13529,7 @@ Forbunds 25 Aars Jubilæum. Tr. i <hi rend="italics" xml:id="idm139850572182384"
         <p xml:id="idm139850572150288">"En Landsby døbes". En Snes Ejendomme - deriblandt <hi rend="italics" xml:id="idm139850572149904">Jenle -</hi> udstykkede fra Herregaarden Nørgaard siden 1906, laa sydligst i Grinderslev Sogn uden anden Betegnelse end "dem derude paa Nørgaards Mark". Paa mit Forslag har Beboarne nu godkjendt Navnet <hi rend="italics" xml:id="idm139850572148816">Nørrevejle</hi>, et Navn, hvormed <hi rend="italics" xml:id="idm139850572148096">Astrup Vig</hi> betegnes i et Dokument fra 1546. Ved "revnet Kloster-Klokke" sigtes til Grinderslev Kloster, der ligger en god Fjerdingvej mod Nordvest. Tr. i <hi rend="italics" xml:id="idm139850572147248">"Skive Folkebl."</hi> 31. Maj 1918.</p>
         <eg xml:id="idm139850572146400">S.161. </eg>
         <p xml:id="idm139850572145984">"Historiens Sang". Skrevet til <hi rend="italics" xml:id="idm139850572145680">Historisk Samfunds</hi> Møde i Skive 5. Juni 1917. Tr. i <hi rend="italics" xml:id="idm139850572144912">"Skive Folkebl."</hi> 6. Juni 1917. Se ogsaa Omslaget af <hi rend="italics" xml:id="idm139850572144176">Vejle Amts Aarbøger</hi> 1. Halvbind 1917 og talrige andre Steder.<lb xml:id="idm139850572143392"/>
-					<hi rend="italics" xml:id="idm139850572143136"><!--<emph>-->NOTER TIL OVERSÆTTELSERNE<!--</emph--></hi>.</p>
+					<hi rend="italics" xml:id="idm139850572143136">NOTER TIL OVERSÆTTELSERNE</hi>.</p>
         <eg xml:id="idm139850572141936">S.165. </eg>
         <p xml:id="idm139850572141552">Min første Kundskab om Rob. Burns gaar tilbage til Læsning af Th. Carlyle (1889-90). I Midten af 90'erne lærte jeg mig selv Skotsk; i 1897-98 begyndte jeg at oversætte ham. - "Burns om sig selv". Han fødtes i <hi rend="italics" xml:id="idm139850572140848">Alloway</hi> i Vestskotland (som i gammel Tid hed <hi rend="italics" xml:id="idm139850572140112">Kyle) 25. Januar</hi> 1759 ( 1796). Hans Far <hi rend="italics" xml:id="idm139850572139360">William Burnes</hi> var en fattig Farmer, hvad ogsaa Sønnen blev.</p>
         <eg xml:id="idm139850572138432">S.171. </eg>

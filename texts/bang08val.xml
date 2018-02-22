@@ -1,9 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="idm139973027573904"><!-- 
-       file     ./marc_dir/001391895.xml
-       field     
-       subfield  
-       prefix   -->
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="root">
   <teiHeader xml:id="idm139973027580288">
     <fileDesc xml:id="idm139973027580032">
       <titleStmt xml:id="idm139973027579728">
@@ -16,24 +12,27 @@
         <author xml:id="idm139973027552496">HERMAN BANG</author>
       </titleStmt>
       <publicationStmt xml:id="idm139973027551936">
-        <publisher xml:id="idm139973027551680">Det danske Sprog- og Litteraturselskab</publisher>
+        <publisher xml:id="idm139973027551680">Det Danske Sprog- og Litteraturselskab</publisher>
         <idno xml:id="idm139973027551248" xml:base="texts/bang08val.xml">001391895:08</idno>
       </publicationStmt>
       <notesStmt xml:id="idm139973027550400">
         <note xml:id="idm139973027550096">
 	  </note>
       </notesStmt>
-      <sourceDesc xml:id="idm139973027549584"><bibl xml:id="idm139973027549456"><author n="1" xml:id="idm139973027548768"><name xml:id="idm139973027548512"><surname xml:id="idm139973027548384">Bang</surname>, <forename xml:id="idm139973027547920">Herman</forename></name></author><title xml:id="idm139973027547632">Tine</title><pubPlace xml:id="idm139973027547344">[Kbh.]</pubPlace>; <pubPlace xml:id="idm139973027546880">[Valby]</pubPlace>; <pubPlace xml:id="idm139973027546464">[Ballerup]</pubPlace>
-<publisher xml:id="idm139973027546000">Det danske Sprog- og Litteraturselskab</publisher><publisher xml:id="idm139973027545696">Borgen</publisher><publisher xml:id="idm139973027545408">i samarbejde med Nyt Dansk Litteraturselskab</publisher><date xml:id="idm139973027545040">[1986]</date></bibl><listBibl xml:id="idm139973027544752"><bibl xml:id="biblid54101"><title xml:id="idm139973027531600">Tine (Danske Klassikere)</title></bibl></listBibl></sourceDesc>
+      <sourceDesc xml:id="idm139973027549584">
+        <bibl xml:id="idm139973027549456"><author n="1" xml:id="idm139973027548768"><name xml:id="idm139973027548512"><surname xml:id="idm139973027548384">Bang</surname>, <forename xml:id="idm139973027547920">Herman</forename></name></author><title xml:id="idm139973027547632">Tine</title><pubPlace xml:id="idm139973027547344">[København]</pubPlace>; <pubPlace xml:id="idm139973027546880">[Valby]</pubPlace>; <pubPlace xml:id="idm139973027546464">[Ballerup]</pubPlace><publisher xml:id="idm139973027546000">Det Danske Sprog- og Litteraturselskab</publisher><publisher xml:id="idm139973027545696">Borgen</publisher><publisher xml:id="idm139973027545408">i samarbejde med Nyt Dansk Litteraturselskab</publisher><date xml:id="idm139973027545040">[1986]</date></bibl>
+        <listBibl xml:id="idm139973027544752">
+          <bibl xml:id="biblid54101">
+            <title xml:id="idm139973027531600">Tine (Danske Klassikere)</title>
+          </bibl>
+        </listBibl>
+      </sourceDesc>
     </fileDesc>
   </teiHeader>
   <text xml:id="workid54101" decls="#biblid54101">
     <front xml:id="idm139973027530000">
       <pb n="1" facs="adl/bang/bang8/bang8001" xml:id="idm139973027529696"/>
       <gap reason="cancelled" xml:id="idm139973027528880"/>
-<!---->
-<!---->
-<!--Tine-->
       <pb n="2" facs="adl/bang/bang8/bang8002" xml:id="idm139973027527360"/>
       <pb n="3" facs="adl/bang/bang8/bang8003" xml:id="idm139973027526576"/>
       <titlePage xml:id="idm139973027525808">
@@ -53,7 +52,7 @@
         </docEdition>
         <docImprint xml:id="idm139973027608368">
           <publisher xml:id="idm139973027608112">Danske Klassikere<lb xml:id="idm139973027607824"/>
-Det danske Sprog- og Litteraturselskab<lb xml:id="idm139973027607568"/>
+Det Danske Sprog- og Litteraturselskab<lb xml:id="idm139973027607568"/>
 Borgen
 </publisher>
         </docImprint>
@@ -2985,7 +2984,7 @@ poli tisk anklage. Det var ham magtpåliggende, at dette angreb på Monrad skull
             <eg xml:id="idm139973025432336">15</eg>
             <p xml:id="idm139973025431952"><hi rend="italics" xml:id="idm139973025431824">min gamle Slægt</hi>: Herman Bang tilhørte den adelige slægt Bang, som ifølge en tvivlsom overlevering skulle udgå af Hvideslægten. Med de <hi rend="italics" xml:id="idm139973025430848">Statsmænd, Landet ikke vil glemme</hi> hentydes til storbonden Skjalm Hvide ( ca. 1113) og marsk Stig Andersen Hvide ( 1293). Blandt de <hi rend="italics" xml:id="idm139973025429888">berømte Læger</hi> i familien var oldefaderen F.L. Bang og farfaderen O.L. Bang. Forfatterens far F.L. Bang var præst ligesom adskillige onkler og grandonkler, blandt dem N.F.S. Grundtvig. - <hi rend="italics" xml:id="idm139973025428816">En af dens store Læger efterlod mig Fortællingen</hi>: Farfaderen O.L. Bang udgav Om pathologiske Stamtavler i Bibliothek for Læger, april 1848. Herman Bang boede hos bedstefaderen i dennes sidste år.</p>
             <eg xml:id="idm139973025427600">20</eg>
-            <p xml:id="idm139973025427216">»<hi rend="italics" xml:id="idm139973025426928">Hr. Peder</hi>« (kasted Runer over Spange): Fra H. Hertz' tragedie <hi rend="italics" xml:id="idm139973025426176">Svend Dyrings Huus</hi>, 1837. Mel. H. Rung. - »<hi rend="italics" xml:id="idm139973025425424">Flyv, Fugl,flyv over Furesøens Vande</hi>«: Chr. Winther, 1826. Mel. J.P.E. Hartmann, S. 29 og 30 1. og 3. vers. I 2. udg. er <hi rend="italics" xml:id="idm139973025424576">Vande</hi> rettet til Vover. - »<hi rend="italics" xml:id="idm139973025423824">I Kongelunden</hi>« (skal Brylluppet staa): fra vaudevillen <hi rend="italics" xml:id="idm139973025423072">En Søndag paa Amager</hi>, 1848. Tekst og musik af Johanne Luise Heiberg. Melodien er i 3/4 takt, »valsetakt«.</p>
+            <p xml:id="idm139973025427216">»<hi rend="italics" xml:id="idm139973025426928">Hr. Peder</hi>« (kasted Runer over Spange): Fra H. Hertz' tragedie <hi rend="italics" xml:id="idm139973025426176">Svend Dyrings Huus</hi>, 1837. Mel. H. Rung. - »<hi rend="italics" xml:id="idm139973025425424">Flyv, Fugl, flyv over Furesøens Vande</hi>«: Chr. Winther, 1826. Mel. J.P.E. Hartmann, S. 29 og 30 1. og 3. vers. I 2. udg. er <hi rend="italics" xml:id="idm139973025424576">Vande</hi> rettet til Vover. - »<hi rend="italics" xml:id="idm139973025423824">I Kongelunden</hi>« (skal Brylluppet staa): fra vaudevillen <hi rend="italics" xml:id="idm139973025423072">En Søndag paa Amager</hi>, 1848. Tekst og musik af Johanne Luise Heiberg. Melodien er i 3/4 takt, »valsetakt«.</p>
             <eg xml:id="idm139973025422032">21</eg>
             <p xml:id="idm139973025421648">»<hi rend="italics" xml:id="idm139973025421360">Slaget ved Isted</hi>«: kan være en gengivelse af Jørgen Sonnes maleri, 1851. -<hi rend="italics" xml:id="idm139973025420592">Portræt af Kong Kristian som Tronfølger i Hestgardens Uniform</hi>: Bang har formodentlig haft en træsnit af G. Brock i tankerne, som blev udsendt netop omkring <hi rend="italics" xml:id="idm139973025419584">Tine</hi>s første tilblivelsestid som mindeblad i anledning af kongens 50-års jubilæum som officer 14.5.1885. Hestgardens forhold var en hjertesag for Chr. IX, og det var ham en bitter sorg at skulle medvirke til dens kraftige reduktion ved at underskrive den nye hærlov af 1867. -<hi rend="italics" xml:id="idm139973025418320">Melodien: »Hvo ved, hvor nær mig er min Ende</hi>«: Begravelsessalme (se note til s. 282) med hamburgsk melodi fra 1690. - <hi rend="italics" xml:id="idm139973025417456">Kong Fred'rik hviler nu paa Baare</hi>: I korrektureksemplaret, hvor her var levnet en åben plads, har Bang skrevet: »Her maa Peter [Nansen] i Gadeviserne paa det Kgl. Bibliotek vælge den grueligste om Fr. VIIs Død og indsætte det første Vers.« I 3. vers af visen (s. 22) har Bang ændret sidste linje fra »Velsignet være du hos Gud!«</p>
             <eg xml:id="idm139973025416000">24</eg>

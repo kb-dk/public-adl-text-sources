@@ -1,10 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!-- Tom opmærkning bnh 01.10.2001-->
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="idm139903867527440"><!-- 
-       file     ./marc_dir/001582980.xml
-       field    559 
-       subfield a 
-       prefix   -->
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="root">
   <teiHeader xml:id="idm139903867533648">
     <fileDesc xml:id="idm139903867533392">
       <titleStmt xml:id="idm139903867533088">
@@ -17,16 +12,36 @@
         <author xml:id="idm139903867505808">Emil Aarestrup</author>
       </titleStmt>
       <publicationStmt xml:id="idm139903867505248">
-        <publisher xml:id="idm139903867504992">Det danske Sprog- og Litteaturselskab</publisher>
+        <publisher xml:id="idm139903867504992">Det Danske Sprog- og Litteaturselskab</publisher>
         <idno xml:id="idm139903867504560" xml:base="texts/aarestrup05.xml">001582980:05</idno>
       </publicationStmt>
       <notesStmt xml:id="idm139903867503712">
         <note xml:id="idm139903867503408">
 	  </note>
       </notesStmt>
-      <sourceDesc xml:id="idm139903867502896"><bibl xml:id="idm139903867502768"><author n="1" xml:id="idm139903867502080"><name xml:id="idm139903867501824"><surname xml:id="idm139903867501696">Aarestrup</surname>,
-      <forename xml:id="idm139903867501248">Emil</forename></name></author><title xml:id="idm139903867500960">Emil Aarestrups samlede skrifter</title><pubPlace xml:id="idm139903867500656">Kbh</pubPlace>
-<publisher xml:id="idm139903867500224">C. A. Reitzel</publisher><date xml:id="idm139903867499888">1976</date></bibl><listBibl xml:id="idm139903867499600"><bibl xml:id="biblid56689"><title xml:id="idm139903867486400">Et Riimbrev, Kjære Glut, her førstegang jeg skriver</title></bibl><bibl xml:id="biblid56717"><title xml:id="idm139903867485520">Den 14de December 1838</title></bibl><bibl xml:id="biblid56732"><title xml:id="idm139903867484736">Kjære Christian</title></bibl></listBibl></sourceDesc>
+      <sourceDesc xml:id="idm139903867502896">
+        <bibl xml:id="idm139903867502768">
+          <author n="1" xml:id="idm139903867502080">
+            <name xml:id="idm139903867501824"><surname xml:id="idm139903867501696">Aarestrup</surname>,
+      <forename xml:id="idm139903867501248">Emil</forename></name>
+          </author>
+          <title xml:id="idm139903867500960">Emil Aarestrups samlede skrifter</title>
+          <pubPlace xml:id="idm139903867500656">København</pubPlace>
+          <publisher xml:id="idm139903867500224">C. A. Reitzel</publisher>
+          <date xml:id="idm139903867499888">1976</date>
+        </bibl>
+        <listBibl xml:id="idm139903867499600">
+          <bibl xml:id="biblid56689">
+            <title xml:id="idm139903867486400">Et Riimbrev, Kjære Glut, her førstegang jeg skriver</title>
+          </bibl>
+          <bibl xml:id="biblid56717">
+            <title xml:id="idm139903867485520">Den 14de December 1838</title>
+          </bibl>
+          <bibl xml:id="biblid56732">
+            <title xml:id="idm139903867484736">Kjære Christian</title>
+          </bibl>
+        </listBibl>
+      </sourceDesc>
     </fileDesc>
   </teiHeader>
   <text xml:id="idm139903867484048">

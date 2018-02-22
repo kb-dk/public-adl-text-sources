@@ -1,12 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!-- 16.09.2002 HHL indsat vaerktitler
-ptj rettet s.11- 
--->
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="idm139731450211440"><!-- 
-       file     ./marc_dir/002053814.xml
-       field     
-       subfield  
-       prefix   -->
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="root">
   <teiHeader xml:id="idm139731450210672">
     <fileDesc xml:id="idm139731450210416">
       <titleStmt xml:id="idm139731450210112">
@@ -21,9 +14,529 @@ ptj rettet s.11-
         <note xml:id="idm139731450181680">
 	  </note>
       </notesStmt>
-      <sourceDesc xml:id="idm139731450181120"><bibl xml:id="idm139731450180992"><author n="1" xml:id="idm139731450180304"><name xml:id="idm139731450180048"><surname xml:id="idm139731450179920">Richardt</surname>,
-      <forename xml:id="idm139731450179536">Chr.</forename></name></author><title xml:id="idm139731450179280">Samlede Digte. Første deel</title><pubPlace xml:id="idm139731450178960">Kbh.</pubPlace>
-<date xml:id="idm139731450178480">1895</date></bibl><listBibl xml:id="idm139731450178192"><bibl xml:id="biblid55058"><title xml:id="idm139731450165040">Danmark. (Efter den første slesvigske Krig.)</title></bibl><bibl xml:id="biblid55361"><title xml:id="idm139731450164176">Nordens Eenhed.</title></bibl><bibl xml:id="biblid55481"><title xml:id="idm139731450163344">Studentersang.</title></bibl><bibl xml:id="biblid55636"><title xml:id="idm139731450162560">For Sverrig og Norge.</title></bibl><bibl xml:id="biblid55869"><title xml:id="idm139731450161776">For Kvinden. [Nordens Kvinder]</title></bibl><bibl xml:id="biblid56030"><title xml:id="idm139731450160976">Balvise.</title></bibl><bibl xml:id="biblid56217"><title xml:id="idm139731450160144">Rejsesang.</title></bibl><bibl xml:id="biblid56347"><title xml:id="idm139731450159312">Studentervise.</title></bibl><bibl xml:id="biblid56499"><title xml:id="idm139731450158480">Filistervise.</title></bibl><bibl xml:id="biblid56632"><title xml:id="idm139731450157696">For Danmark.</title></bibl><bibl xml:id="biblid56760"><title xml:id="idm139731450156912">Ved en Skoleskovtur.</title></bibl><bibl xml:id="biblid56874"><title xml:id="idm139731450156080">Fest-Kantate.</title></bibl><bibl xml:id="biblid57343"><title xml:id="idm139731450155184">Danmarks Frihed.</title></bibl><bibl xml:id="biblid57544"><title xml:id="idm139731450154352">C. M. Wengel.</title></bibl><bibl xml:id="biblid57640"><title xml:id="idm139731450153520">Nordens Kirke.</title></bibl><bibl xml:id="biblid57749"><title xml:id="idm139731450152736">Ved Løvspring.</title></bibl><bibl xml:id="biblid57973"><title xml:id="idm139731450151936">Den Lovende.</title></bibl><bibl xml:id="biblid58127"><title xml:id="idm139731450151104">Til Vedbenden</title></bibl><bibl xml:id="biblid58241"><title xml:id="idm139731450150272">Vuggevise.</title></bibl><bibl xml:id="biblid58372"><title xml:id="idm139731450149440">Paa Koncerten.</title></bibl><bibl xml:id="biblid58607"><title xml:id="idm139731450148656">Tulte.</title></bibl><bibl xml:id="biblid59009"><title xml:id="idm139731450147824">Efter Stormen.</title></bibl><bibl xml:id="biblid59128"><title xml:id="idm139731450146992">Tonerne.</title></bibl><bibl xml:id="biblid59242"><title xml:id="idm139731450146160">I Kirken.</title></bibl><bibl xml:id="biblid59468"><title xml:id="idm139731450145328">Fuglekvidder.</title></bibl><bibl xml:id="biblid59600"><title xml:id="idm139731450144496">Paa Kastelsvejen.</title></bibl><bibl xml:id="biblid59844"><title xml:id="idm139731450143664">Paa Badehuset.</title></bibl><bibl xml:id="biblid60069"><title xml:id="idm139731450142832">Paa Kvisten.</title></bibl><bibl xml:id="biblid60165"><title xml:id="idm139731450142048">Stambogsblad.</title></bibl><bibl xml:id="biblid60262"><title xml:id="idm139731450141264">Lær mig Nattens Stjerne.</title></bibl><bibl xml:id="biblid60392"><title xml:id="idm139731450140400">Modersorg.</title></bibl><bibl xml:id="biblid60473"><title xml:id="idm139731450139568">Korsets Vej.</title></bibl><bibl xml:id="biblid60601"><title xml:id="idm139731450138784">Til Solen.</title></bibl><bibl xml:id="biblid60697"><title xml:id="idm139731450138000">Hr. Mikkel.</title></bibl><bibl xml:id="biblid61089"><title xml:id="idm139731450137168">Vuggerne.</title></bibl><bibl xml:id="biblid61197"><title xml:id="idm139731450136336">Mellem Gravene.</title></bibl><bibl xml:id="biblid61322"><title xml:id="idm139731450135504">Ved Juletid. [Sneen ligger tæt og blød]</title></bibl><bibl xml:id="biblid61639"><title xml:id="idm139731450240960">Savoyarddrengens Sang.</title></bibl><bibl xml:id="biblid61714"><title xml:id="idm139731450240240">Efteraarsstormen.</title></bibl><bibl xml:id="biblid61892"><title xml:id="idm139731450239456">Beethovenske Stemninger.</title></bibl><bibl xml:id="biblid62343"><title xml:id="idm139731450238704">Faer skal sove.</title></bibl><bibl xml:id="biblid62482"><title xml:id="idm139731450237920">Frieri.</title></bibl><bibl xml:id="biblid62587"><title xml:id="idm139731450237136">Det er Efteraar</title></bibl><bibl xml:id="biblid62746"><title xml:id="idm139731450109408">Tøvejr</title></bibl><bibl xml:id="biblid62822"><title xml:id="idm139731450108624">I Skoven</title></bibl><bibl xml:id="biblid62938"><title xml:id="idm139731450107840">Æblerne.</title></bibl><bibl xml:id="biblid63519"><title xml:id="idm139731450107056">Sophia-Moskeen.</title></bibl><bibl xml:id="biblid63740"><title xml:id="idm139731450106272">Ved det døde Hav.</title></bibl><bibl xml:id="biblid63964"><title xml:id="idm139731450105520">I Nazareth.</title></bibl><bibl xml:id="biblid64242"><title xml:id="idm139731450104736">Thabor.</title></bibl><bibl xml:id="biblid64454"><title xml:id="idm139731450103952">Hjemvee.</title></bibl><bibl xml:id="biblid64661"><title xml:id="idm139731450103168">Santa Rosalia.</title></bibl><bibl xml:id="biblid65388"><title xml:id="idm139731450102384">Til Madonna.</title></bibl><bibl xml:id="biblid65718"><title xml:id="idm139731450101536">En Munk.</title></bibl><bibl xml:id="biblid65987"><title xml:id="idm139731450100752">Julen i Rom.</title></bibl><bibl xml:id="biblid66160"><title xml:id="idm139731450099968">Et romersk Æsel.</title></bibl><bibl xml:id="biblid66366"><title xml:id="idm139731450099216">Tyrkisk Justits.</title></bibl><bibl xml:id="biblid66781"><title xml:id="idm139731450098432">Telegrafen over St. Gotthard.</title></bibl><bibl xml:id="biblid67246"><title xml:id="idm139731450097680">Studereliv.</title></bibl><bibl xml:id="biblid67403"><title xml:id="idm139731450096896">Ved Indvielsen af Studenterforenings-Bygningen.</title></bibl><bibl xml:id="biblid68180"><title xml:id="idm139731450092016">Studenter-Jubilæum.</title></bibl><bibl xml:id="biblid68332"><title xml:id="idm139731450091328">For Kvinden. (Ved Upsalensernes Besøg 1852.)</title></bibl><bibl xml:id="biblid68491"><title xml:id="idm139731450090528">Efter Upsalatoget.</title></bibl><bibl xml:id="biblid68600"><title xml:id="idm139731450089776">Til J. P. E. Hartmann. (I Studentersangforeningen d. 30 Novbr. 1860.)</title></bibl><bibl xml:id="biblid69112"><title xml:id="idm139731450089008">Til Georg Forchhammer.</title></bibl><bibl xml:id="biblid69270"><title xml:id="idm139731450088256">Natur-Forskningen.</title></bibl><bibl xml:id="biblid69438"><title xml:id="idm139731450087568">Ved en Skolehøjtid.</title></bibl><bibl xml:id="biblid69823"><title xml:id="idm139731450086720">Carl Johannes Nissen.</title></bibl><bibl xml:id="biblid69984"><title xml:id="idm139731450085936">Marie Brøndsted.</title></bibl><bibl xml:id="biblid70136"><title xml:id="idm139731450085184">Ved Skovkapellets Indvielse.</title></bibl><bibl xml:id="biblid70397"><title xml:id="idm139731450084432">Søndagmorgen.</title></bibl><bibl xml:id="biblid70441"><title xml:id="idm139731450083680">Solen og Jorden.</title></bibl><bibl xml:id="biblid70767"><title xml:id="idm139731450082896">Det Onde.</title></bibl><bibl xml:id="biblid70837"><title xml:id="idm139731450082048">Den yderste Dag.</title></bibl><bibl xml:id="biblid71144"><title xml:id="idm139731450081264">Øjeblikket.</title></bibl><bibl xml:id="biblid71232"><title xml:id="idm139731450080416">Til en norsk Gut.</title></bibl><bibl xml:id="biblid71454"><title xml:id="idm139731450079632">Philosophen og hans Søn.</title></bibl><bibl xml:id="biblid71670"><title xml:id="idm139731450078816">To i Baaden.</title></bibl><bibl xml:id="biblid71870"><title xml:id="idm139731450078032">I Maj.</title></bibl><bibl xml:id="biblid71959"><title xml:id="idm139731450077248">Tilfods.</title></bibl><bibl xml:id="biblid72099"><title xml:id="idm139731450076400">Den vilde Rosenbusk.</title></bibl><bibl xml:id="biblid72185"><title xml:id="idm139731450075616">Menuetten.</title></bibl><bibl xml:id="biblid72402"><title xml:id="idm139731450074832">I Gadedøren.</title></bibl><bibl xml:id="biblid72548"><title xml:id="idm139731450074080">Virtuos og Publikum.</title></bibl><bibl xml:id="biblid72675"><title xml:id="idm139731450073296">Ved Havnen.</title></bibl><bibl xml:id="biblid72802"><title xml:id="idm139731450072400">Danmark. (5 Juni 1861.)</title></bibl><bibl xml:id="biblid72878"><title xml:id="idm139731450071616">Kongens Skaal.</title></bibl><bibl xml:id="biblid73020"><title xml:id="idm139731450070784">Ved Kongens Hjemkomst fra sin Sommerrejse.</title></bibl><bibl xml:id="biblid73158"><title xml:id="idm139731450069968">Ved Prinsesse Alexandras Afrejse.</title></bibl><bibl xml:id="biblid73348"><title xml:id="idm139731450069168">Frederiksborg.</title></bibl><bibl xml:id="biblid73431"><title xml:id="idm139731450068384">Et Aar.</title></bibl><bibl xml:id="biblid73437"><title xml:id="idm139731450067488">Til Frederik den Syvendes Minde.</title></bibl><bibl xml:id="biblid73876"><title xml:id="idm139731450066688">Mørke.</title></bibl><bibl xml:id="biblid73947"><title xml:id="idm139731450065904">Godt Mod!</title></bibl><bibl xml:id="biblid74176"><title xml:id="idm139731450065120">Efter Dannevirkes Rømning</title></bibl><bibl xml:id="biblid74342"><title xml:id="idm139731450064192">Til Kamp!</title></bibl><bibl xml:id="biblid74466"><title xml:id="idm139731450063408">Krig og Fred.</title></bibl><bibl xml:id="biblid74625"><title xml:id="idm139731450062560">Slesvigs Besættelse.</title></bibl><bibl xml:id="biblid74812"><title xml:id="idm139731450061744">I Nød og Fare.</title></bibl><bibl xml:id="biblid75193"><title xml:id="idm139731450060880">Ved Foraarets Komme.</title></bibl><bibl xml:id="biblid75286"><title xml:id="idm139731450060032">Kampen ved Helgoland.</title></bibl><bibl xml:id="biblid75399"><title xml:id="idm139731450059200">For Hæren og Flaaden.</title></bibl><bibl xml:id="biblid75593"><title xml:id="idm139731450058384">Efter Tabet af Als.</title></bibl><bibl xml:id="biblid75718"><title xml:id="idm139731450057600">Sørgetoner.</title></bibl><bibl xml:id="biblid75809"><title xml:id="idm139731450056800">De Saarede.</title></bibl><bibl xml:id="biblid75933"><title xml:id="idm139731450056016">Til de Faldnes Efterladte.</title></bibl><bibl xml:id="biblid76269"><title xml:id="idm139731450055216">Ved Løvfald.</title></bibl><bibl xml:id="biblid76568"><title xml:id="idm139731450054352">Ved Lærkens Komme.</title></bibl><bibl xml:id="biblid76711"><title xml:id="idm139731450053552">Foraarsblomster.</title></bibl><bibl xml:id="biblid76887"><title xml:id="idm139731450052768">Plovmandens Sang.</title></bibl><bibl xml:id="biblid77012"><title xml:id="idm139731450051920">Sædemandens Sang.</title></bibl><bibl xml:id="biblid77172"><title xml:id="idm139731450051120">Skjærsommer.</title></bibl><bibl xml:id="biblid77374"><title xml:id="idm139731450050320">Den gamle Skovvej.</title></bibl><bibl xml:id="biblid77572"><title xml:id="idm139731450049472">Naturen og Kunsten.</title></bibl><bibl xml:id="biblid77689"><title xml:id="idm139731450048688">Dragonhesten.</title></bibl><bibl xml:id="biblid78097"><title xml:id="idm139731450047904">En skikkelig Mand.</title></bibl><bibl xml:id="biblid78230"><title xml:id="idm139731450047120">Helene.</title></bibl><bibl xml:id="biblid78494"><title xml:id="idm139731450046336">Nattens Røster.</title></bibl><bibl xml:id="biblid78632"><title xml:id="idm139731450045472">Smålandspigen.</title></bibl><bibl xml:id="biblid78876"><title xml:id="idm139731450044608">Aja Sophia</title></bibl><bibl xml:id="biblid79034"><title xml:id="idm139731450043824">Normannen.</title></bibl><bibl xml:id="biblid80125"><title xml:id="idm139731450043040">Pigen fra Libanon.</title></bibl><bibl xml:id="biblid80760"><title xml:id="idm139731450042192">Tornerose.</title></bibl><bibl xml:id="biblid86337"><title xml:id="idm139731450041360">Til de svenske og norske Frivillige.</title></bibl><bibl xml:id="biblid86482"><title xml:id="idm139731450040560">For Norden.</title></bibl><bibl xml:id="biblid86703"><title xml:id="idm139731450039776">Fra »Nordisk Højtid«.</title></bibl><bibl xml:id="biblid87152"><title xml:id="idm139731450038896">Foraarsvise. [Til Skoven gik der Bud paa Bud]</title></bibl><bibl xml:id="biblid87306"><title xml:id="idm139731450038016">Ældre Studenterviser.</title></bibl><bibl xml:id="biblid87311"><title xml:id="idm139731450037184">Om en Fællesforfatning.</title></bibl><bibl xml:id="biblid87477"><title xml:id="idm139731450036368">De nyere Filosofer.</title></bibl><bibl xml:id="biblid87666"><title xml:id="idm139731450035584">Kirsten Piils</title></bibl><bibl xml:id="biblid88016"><title xml:id="idm139731450034800">Concert-Indledning.</title></bibl><bibl xml:id="biblid88226"><title xml:id="idm139731450033952">Ved Herlufsholms Trehundredaarsfest.</title></bibl><bibl xml:id="biblid88827"><title xml:id="idm139731450033152">Peter Severin Lund.</title></bibl><bibl xml:id="biblid88944"><title xml:id="idm139731450032304">Til Kong Christian den Niende.</title></bibl><bibl xml:id="biblid89107"><title xml:id="idm139731450031456">Til Enkedronning Caroline Amalie.</title></bibl><bibl xml:id="biblid89306"><title xml:id="idm139731450030656">Ved Indvielsen af en Folkehøjskole.</title></bibl><bibl xml:id="biblid89574"><title xml:id="idm139731450029808">Til Slesvigerne.</title></bibl><bibl xml:id="biblid90109"><title xml:id="idm139731450028912">Volmerslaget.</title></bibl><bibl xml:id="biblid90503"><title xml:id="idm139731450028080">Adam Oehlenschlägers Minde.</title></bibl><bibl xml:id="biblid90651"><title xml:id="idm139731450027248">Septembertid.</title></bibl><bibl xml:id="biblid91044"><title xml:id="idm139731450026416">Paa Møens Klint.</title></bibl><bibl xml:id="biblid91202"><title xml:id="idm139731450025568">Danmark. Ved Studenter-Jubilæet 1848-74.</title></bibl><bibl xml:id="biblid91395"><title xml:id="idm139731450024656">Kong Frederik den Syvende.</title></bibl><bibl xml:id="biblid91667"><title xml:id="idm139731450023856">Stormfloden.</title></bibl><bibl xml:id="biblid91871"><title xml:id="idm139731450022960">Grundlovsvise.</title></bibl><bibl xml:id="biblid92035"><title xml:id="idm139731450022112">Gyldendalske Boghandels Hundredaarsfest.</title></bibl><bibl xml:id="biblid92249"><title xml:id="idm139731450021232">En Drikkevise.</title></bibl><bibl xml:id="biblid92498"><title xml:id="idm139731450020448">Til C. Hostrup. Ved »Gjenboernes« Jubilæum 1869.</title></bibl><bibl xml:id="biblid92646"><title xml:id="idm139731450019584">Til H. C. Andersen. Den 6te September 1869.</title></bibl><bibl xml:id="biblid92806"><title xml:id="idm139731450018704">Fra Studentermødet.</title></bibl><bibl xml:id="biblid92815"><title xml:id="idm139731450017888">Til Dansen i Drammen.</title></bibl><bibl xml:id="biblid92969"><title xml:id="idm139731450017056">Nordens Kvinde.</title></bibl><bibl xml:id="biblid93110"><title xml:id="idm139731450016272">Mødet i Norge.</title></bibl><bibl xml:id="biblid93528"><title xml:id="idm139731450015424">Johan Henrik Thomander.</title></bibl><bibl xml:id="biblid93674"><title xml:id="idm139731450014528">Skyttesang. [Med Krumveje ofte man slaar sig tiltaals]</title></bibl><bibl xml:id="biblid93858"><title xml:id="idm139731450013648">Ved et Diamantbryllup.</title></bibl><bibl xml:id="biblid93947"><title xml:id="idm139731450012816">Ved et Jubilæum.</title></bibl><bibl xml:id="biblid94067"><title xml:id="idm139731450011968">Henrik Hertz.</title></bibl><bibl xml:id="biblid94229"><title xml:id="idm139731450011184">Emilie Monrad.</title></bibl><bibl xml:id="biblid94358"><title xml:id="idm139731450010336">Ole Strøm.</title></bibl><bibl xml:id="biblid94445"><title xml:id="idm139731450009504">Adolf Knudsen.</title></bibl><bibl xml:id="biblid94579"><title xml:id="idm139731450008656">Emanuel Richardt.</title></bibl><bibl xml:id="biblid94667"><title xml:id="idm139731450007872">Ved et Lærermøde.</title></bibl><bibl xml:id="biblid94812"><title xml:id="idm139731450007024">Ved Kirkemødet.</title></bibl><bibl xml:id="biblid94962"><title xml:id="idm139731450006160">Fra Aarets Tider. 1 - 4.</title></bibl><bibl xml:id="biblid94967"><title xml:id="idm139731450005296">Foraarsvise. [Hvor det skyder og bryder]</title></bibl><bibl xml:id="biblid95138"><title xml:id="idm139731450004416">Sommervise</title></bibl><bibl xml:id="biblid95325"><title xml:id="idm139731450003568">Mod Efteraar</title></bibl><bibl xml:id="biblid95445"><title xml:id="idm139731450002672">Decemberskov</title></bibl></listBibl></sourceDesc>
+      <sourceDesc xml:id="idm139731450181120">
+        <bibl xml:id="idm139731450180992">
+          <author n="1" xml:id="idm139731450180304">
+            <name xml:id="idm139731450180048"><surname xml:id="idm139731450179920">Richardt</surname>,
+      <forename xml:id="idm139731450179536">Chr.</forename></name>
+          </author>
+          <title xml:id="idm139731450179280">Samlede Digte. Første deel</title>
+          <pubPlace xml:id="idm139731450178960">København</pubPlace>
+          <date xml:id="idm139731450178480">1895</date>
+        </bibl>
+        <listBibl xml:id="idm139731450178192">
+          <bibl xml:id="biblid55058">
+            <title xml:id="idm139731450165040">Danmark. (Efter den første slesvigske Krig.)</title>
+          </bibl>
+          <bibl xml:id="biblid55361">
+            <title xml:id="idm139731450164176">Nordens Eenhed.</title>
+          </bibl>
+          <bibl xml:id="biblid55481">
+            <title xml:id="idm139731450163344">Studentersang.</title>
+          </bibl>
+          <bibl xml:id="biblid55636">
+            <title xml:id="idm139731450162560">For Sverrig og Norge.</title>
+          </bibl>
+          <bibl xml:id="biblid55869">
+            <title xml:id="idm139731450161776">For Kvinden. [Nordens Kvinder]</title>
+          </bibl>
+          <bibl xml:id="biblid56030">
+            <title xml:id="idm139731450160976">Balvise.</title>
+          </bibl>
+          <bibl xml:id="biblid56217">
+            <title xml:id="idm139731450160144">Rejsesang.</title>
+          </bibl>
+          <bibl xml:id="biblid56347">
+            <title xml:id="idm139731450159312">Studentervise.</title>
+          </bibl>
+          <bibl xml:id="biblid56499">
+            <title xml:id="idm139731450158480">Filistervise.</title>
+          </bibl>
+          <bibl xml:id="biblid56632">
+            <title xml:id="idm139731450157696">For Danmark.</title>
+          </bibl>
+          <bibl xml:id="biblid56760">
+            <title xml:id="idm139731450156912">Ved en Skoleskovtur.</title>
+          </bibl>
+          <bibl xml:id="biblid56874">
+            <title xml:id="idm139731450156080">Fest-Kantate.</title>
+          </bibl>
+          <bibl xml:id="biblid57343">
+            <title xml:id="idm139731450155184">Danmarks Frihed.</title>
+          </bibl>
+          <bibl xml:id="biblid57544">
+            <title xml:id="idm139731450154352">C. M. Wengel.</title>
+          </bibl>
+          <bibl xml:id="biblid57640">
+            <title xml:id="idm139731450153520">Nordens Kirke.</title>
+          </bibl>
+          <bibl xml:id="biblid57749">
+            <title xml:id="idm139731450152736">Ved Løvspring.</title>
+          </bibl>
+          <bibl xml:id="biblid57973">
+            <title xml:id="idm139731450151936">Den Lovende.</title>
+          </bibl>
+          <bibl xml:id="biblid58127">
+            <title xml:id="idm139731450151104">Til Vedbenden</title>
+          </bibl>
+          <bibl xml:id="biblid58241">
+            <title xml:id="idm139731450150272">Vuggevise.</title>
+          </bibl>
+          <bibl xml:id="biblid58372">
+            <title xml:id="idm139731450149440">Paa Koncerten.</title>
+          </bibl>
+          <bibl xml:id="biblid58607">
+            <title xml:id="idm139731450148656">Tulte.</title>
+          </bibl>
+          <bibl xml:id="biblid59009">
+            <title xml:id="idm139731450147824">Efter Stormen.</title>
+          </bibl>
+          <bibl xml:id="biblid59128">
+            <title xml:id="idm139731450146992">Tonerne.</title>
+          </bibl>
+          <bibl xml:id="biblid59242">
+            <title xml:id="idm139731450146160">I Kirken.</title>
+          </bibl>
+          <bibl xml:id="biblid59468">
+            <title xml:id="idm139731450145328">Fuglekvidder.</title>
+          </bibl>
+          <bibl xml:id="biblid59600">
+            <title xml:id="idm139731450144496">Paa Kastelsvejen.</title>
+          </bibl>
+          <bibl xml:id="biblid59844">
+            <title xml:id="idm139731450143664">Paa Badehuset.</title>
+          </bibl>
+          <bibl xml:id="biblid60069">
+            <title xml:id="idm139731450142832">Paa Kvisten.</title>
+          </bibl>
+          <bibl xml:id="biblid60165">
+            <title xml:id="idm139731450142048">Stambogsblad.</title>
+          </bibl>
+          <bibl xml:id="biblid60262">
+            <title xml:id="idm139731450141264">Lær mig Nattens Stjerne.</title>
+          </bibl>
+          <bibl xml:id="biblid60392">
+            <title xml:id="idm139731450140400">Modersorg.</title>
+          </bibl>
+          <bibl xml:id="biblid60473">
+            <title xml:id="idm139731450139568">Korsets Vej.</title>
+          </bibl>
+          <bibl xml:id="biblid60601">
+            <title xml:id="idm139731450138784">Til Solen.</title>
+          </bibl>
+          <bibl xml:id="biblid60697">
+            <title xml:id="idm139731450138000">Hr. Mikkel.</title>
+          </bibl>
+          <bibl xml:id="biblid61089">
+            <title xml:id="idm139731450137168">Vuggerne.</title>
+          </bibl>
+          <bibl xml:id="biblid61197">
+            <title xml:id="idm139731450136336">Mellem Gravene.</title>
+          </bibl>
+          <bibl xml:id="biblid61322">
+            <title xml:id="idm139731450135504">Ved Juletid. [Sneen ligger tæt og blød]</title>
+          </bibl>
+          <bibl xml:id="biblid61639">
+            <title xml:id="idm139731450240960">Savoyarddrengens Sang.</title>
+          </bibl>
+          <bibl xml:id="biblid61714">
+            <title xml:id="idm139731450240240">Efteraarsstormen.</title>
+          </bibl>
+          <bibl xml:id="biblid61892">
+            <title xml:id="idm139731450239456">Beethovenske Stemninger.</title>
+          </bibl>
+          <bibl xml:id="biblid62343">
+            <title xml:id="idm139731450238704">Faer skal sove.</title>
+          </bibl>
+          <bibl xml:id="biblid62482">
+            <title xml:id="idm139731450237920">Frieri.</title>
+          </bibl>
+          <bibl xml:id="biblid62587">
+            <title xml:id="idm139731450237136">Det er Efteraar</title>
+          </bibl>
+          <bibl xml:id="biblid62746">
+            <title xml:id="idm139731450109408">Tøvejr</title>
+          </bibl>
+          <bibl xml:id="biblid62822">
+            <title xml:id="idm139731450108624">I Skoven</title>
+          </bibl>
+          <bibl xml:id="biblid62938">
+            <title xml:id="idm139731450107840">Æblerne.</title>
+          </bibl>
+          <bibl xml:id="biblid63519">
+            <title xml:id="idm139731450107056">Sophia-Moskeen.</title>
+          </bibl>
+          <bibl xml:id="biblid63740">
+            <title xml:id="idm139731450106272">Ved det døde Hav.</title>
+          </bibl>
+          <bibl xml:id="biblid63964">
+            <title xml:id="idm139731450105520">I Nazareth.</title>
+          </bibl>
+          <bibl xml:id="biblid64242">
+            <title xml:id="idm139731450104736">Thabor.</title>
+          </bibl>
+          <bibl xml:id="biblid64454">
+            <title xml:id="idm139731450103952">Hjemvee.</title>
+          </bibl>
+          <bibl xml:id="biblid64661">
+            <title xml:id="idm139731450103168">Santa Rosalia.</title>
+          </bibl>
+          <bibl xml:id="biblid65388">
+            <title xml:id="idm139731450102384">Til Madonna.</title>
+          </bibl>
+          <bibl xml:id="biblid65718">
+            <title xml:id="idm139731450101536">En Munk.</title>
+          </bibl>
+          <bibl xml:id="biblid65987">
+            <title xml:id="idm139731450100752">Julen i Rom.</title>
+          </bibl>
+          <bibl xml:id="biblid66160">
+            <title xml:id="idm139731450099968">Et romersk Æsel.</title>
+          </bibl>
+          <bibl xml:id="biblid66366">
+            <title xml:id="idm139731450099216">Tyrkisk Justits.</title>
+          </bibl>
+          <bibl xml:id="biblid66781">
+            <title xml:id="idm139731450098432">Telegrafen over St. Gotthard.</title>
+          </bibl>
+          <bibl xml:id="biblid67246">
+            <title xml:id="idm139731450097680">Studereliv.</title>
+          </bibl>
+          <bibl xml:id="biblid67403">
+            <title xml:id="idm139731450096896">Ved Indvielsen af Studenterforenings-Bygningen.</title>
+          </bibl>
+          <bibl xml:id="biblid68180">
+            <title xml:id="idm139731450092016">Studenter-Jubilæum.</title>
+          </bibl>
+          <bibl xml:id="biblid68332">
+            <title xml:id="idm139731450091328">For Kvinden. (Ved Upsalensernes Besøg 1852.)</title>
+          </bibl>
+          <bibl xml:id="biblid68491">
+            <title xml:id="idm139731450090528">Efter Upsalatoget.</title>
+          </bibl>
+          <bibl xml:id="biblid68600">
+            <title xml:id="idm139731450089776">Til J. P. E. Hartmann. (I Studentersangforeningen d. 30 Novbr. 1860.)</title>
+          </bibl>
+          <bibl xml:id="biblid69112">
+            <title xml:id="idm139731450089008">Til Georg Forchhammer.</title>
+          </bibl>
+          <bibl xml:id="biblid69270">
+            <title xml:id="idm139731450088256">Natur-Forskningen.</title>
+          </bibl>
+          <bibl xml:id="biblid69438">
+            <title xml:id="idm139731450087568">Ved en Skolehøjtid.</title>
+          </bibl>
+          <bibl xml:id="biblid69823">
+            <title xml:id="idm139731450086720">Carl Johannes Nissen.</title>
+          </bibl>
+          <bibl xml:id="biblid69984">
+            <title xml:id="idm139731450085936">Marie Brøndsted.</title>
+          </bibl>
+          <bibl xml:id="biblid70136">
+            <title xml:id="idm139731450085184">Ved Skovkapellets Indvielse.</title>
+          </bibl>
+          <bibl xml:id="biblid70397">
+            <title xml:id="idm139731450084432">Søndagmorgen.</title>
+          </bibl>
+          <bibl xml:id="biblid70441">
+            <title xml:id="idm139731450083680">Solen og Jorden.</title>
+          </bibl>
+          <bibl xml:id="biblid70767">
+            <title xml:id="idm139731450082896">Det Onde.</title>
+          </bibl>
+          <bibl xml:id="biblid70837">
+            <title xml:id="idm139731450082048">Den yderste Dag.</title>
+          </bibl>
+          <bibl xml:id="biblid71144">
+            <title xml:id="idm139731450081264">Øjeblikket.</title>
+          </bibl>
+          <bibl xml:id="biblid71232">
+            <title xml:id="idm139731450080416">Til en norsk Gut.</title>
+          </bibl>
+          <bibl xml:id="biblid71454">
+            <title xml:id="idm139731450079632">Philosophen og hans Søn.</title>
+          </bibl>
+          <bibl xml:id="biblid71670">
+            <title xml:id="idm139731450078816">To i Baaden.</title>
+          </bibl>
+          <bibl xml:id="biblid71870">
+            <title xml:id="idm139731450078032">I Maj.</title>
+          </bibl>
+          <bibl xml:id="biblid71959">
+            <title xml:id="idm139731450077248">Tilfods.</title>
+          </bibl>
+          <bibl xml:id="biblid72099">
+            <title xml:id="idm139731450076400">Den vilde Rosenbusk.</title>
+          </bibl>
+          <bibl xml:id="biblid72185">
+            <title xml:id="idm139731450075616">Menuetten.</title>
+          </bibl>
+          <bibl xml:id="biblid72402">
+            <title xml:id="idm139731450074832">I Gadedøren.</title>
+          </bibl>
+          <bibl xml:id="biblid72548">
+            <title xml:id="idm139731450074080">Virtuos og Publikum.</title>
+          </bibl>
+          <bibl xml:id="biblid72675">
+            <title xml:id="idm139731450073296">Ved Havnen.</title>
+          </bibl>
+          <bibl xml:id="biblid72802">
+            <title xml:id="idm139731450072400">Danmark. (5 Juni 1861.)</title>
+          </bibl>
+          <bibl xml:id="biblid72878">
+            <title xml:id="idm139731450071616">Kongens Skaal.</title>
+          </bibl>
+          <bibl xml:id="biblid73020">
+            <title xml:id="idm139731450070784">Ved Kongens Hjemkomst fra sin Sommerrejse.</title>
+          </bibl>
+          <bibl xml:id="biblid73158">
+            <title xml:id="idm139731450069968">Ved Prinsesse Alexandras Afrejse.</title>
+          </bibl>
+          <bibl xml:id="biblid73348">
+            <title xml:id="idm139731450069168">Frederiksborg.</title>
+          </bibl>
+          <bibl xml:id="biblid73431">
+            <title xml:id="idm139731450068384">Et Aar.</title>
+          </bibl>
+          <bibl xml:id="biblid73437">
+            <title xml:id="idm139731450067488">Til Frederik den Syvendes Minde.</title>
+          </bibl>
+          <bibl xml:id="biblid73876">
+            <title xml:id="idm139731450066688">Mørke.</title>
+          </bibl>
+          <bibl xml:id="biblid73947">
+            <title xml:id="idm139731450065904">Godt Mod!</title>
+          </bibl>
+          <bibl xml:id="biblid74176">
+            <title xml:id="idm139731450065120">Efter Dannevirkes Rømning</title>
+          </bibl>
+          <bibl xml:id="biblid74342">
+            <title xml:id="idm139731450064192">Til Kamp!</title>
+          </bibl>
+          <bibl xml:id="biblid74466">
+            <title xml:id="idm139731450063408">Krig og Fred.</title>
+          </bibl>
+          <bibl xml:id="biblid74625">
+            <title xml:id="idm139731450062560">Slesvigs Besættelse.</title>
+          </bibl>
+          <bibl xml:id="biblid74812">
+            <title xml:id="idm139731450061744">I Nød og Fare.</title>
+          </bibl>
+          <bibl xml:id="biblid75193">
+            <title xml:id="idm139731450060880">Ved Foraarets Komme.</title>
+          </bibl>
+          <bibl xml:id="biblid75286">
+            <title xml:id="idm139731450060032">Kampen ved Helgoland.</title>
+          </bibl>
+          <bibl xml:id="biblid75399">
+            <title xml:id="idm139731450059200">For Hæren og Flaaden.</title>
+          </bibl>
+          <bibl xml:id="biblid75593">
+            <title xml:id="idm139731450058384">Efter Tabet af Als.</title>
+          </bibl>
+          <bibl xml:id="biblid75718">
+            <title xml:id="idm139731450057600">Sørgetoner.</title>
+          </bibl>
+          <bibl xml:id="biblid75809">
+            <title xml:id="idm139731450056800">De Saarede.</title>
+          </bibl>
+          <bibl xml:id="biblid75933">
+            <title xml:id="idm139731450056016">Til de Faldnes Efterladte.</title>
+          </bibl>
+          <bibl xml:id="biblid76269">
+            <title xml:id="idm139731450055216">Ved Løvfald.</title>
+          </bibl>
+          <bibl xml:id="biblid76568">
+            <title xml:id="idm139731450054352">Ved Lærkens Komme.</title>
+          </bibl>
+          <bibl xml:id="biblid76711">
+            <title xml:id="idm139731450053552">Foraarsblomster.</title>
+          </bibl>
+          <bibl xml:id="biblid76887">
+            <title xml:id="idm139731450052768">Plovmandens Sang.</title>
+          </bibl>
+          <bibl xml:id="biblid77012">
+            <title xml:id="idm139731450051920">Sædemandens Sang.</title>
+          </bibl>
+          <bibl xml:id="biblid77172">
+            <title xml:id="idm139731450051120">Skjærsommer.</title>
+          </bibl>
+          <bibl xml:id="biblid77374">
+            <title xml:id="idm139731450050320">Den gamle Skovvej.</title>
+          </bibl>
+          <bibl xml:id="biblid77572">
+            <title xml:id="idm139731450049472">Naturen og Kunsten.</title>
+          </bibl>
+          <bibl xml:id="biblid77689">
+            <title xml:id="idm139731450048688">Dragonhesten.</title>
+          </bibl>
+          <bibl xml:id="biblid78097">
+            <title xml:id="idm139731450047904">En skikkelig Mand.</title>
+          </bibl>
+          <bibl xml:id="biblid78230">
+            <title xml:id="idm139731450047120">Helene.</title>
+          </bibl>
+          <bibl xml:id="biblid78494">
+            <title xml:id="idm139731450046336">Nattens Røster.</title>
+          </bibl>
+          <bibl xml:id="biblid78632">
+            <title xml:id="idm139731450045472">Smålandspigen.</title>
+          </bibl>
+          <bibl xml:id="biblid78876">
+            <title xml:id="idm139731450044608">Aja Sophia</title>
+          </bibl>
+          <bibl xml:id="biblid79034">
+            <title xml:id="idm139731450043824">Normannen.</title>
+          </bibl>
+          <bibl xml:id="biblid80125">
+            <title xml:id="idm139731450043040">Pigen fra Libanon.</title>
+          </bibl>
+          <bibl xml:id="biblid80760">
+            <title xml:id="idm139731450042192">Tornerose.</title>
+          </bibl>
+          <bibl xml:id="biblid86337">
+            <title xml:id="idm139731450041360">Til de svenske og norske Frivillige.</title>
+          </bibl>
+          <bibl xml:id="biblid86482">
+            <title xml:id="idm139731450040560">For Norden.</title>
+          </bibl>
+          <bibl xml:id="biblid86703">
+            <title xml:id="idm139731450039776">Fra »Nordisk Højtid«.</title>
+          </bibl>
+          <bibl xml:id="biblid87152">
+            <title xml:id="idm139731450038896">Foraarsvise. [Til Skoven gik der Bud paa Bud]</title>
+          </bibl>
+          <bibl xml:id="biblid87306">
+            <title xml:id="idm139731450038016">Ældre Studenterviser.</title>
+          </bibl>
+          <bibl xml:id="biblid87311">
+            <title xml:id="idm139731450037184">Om en Fællesforfatning.</title>
+          </bibl>
+          <bibl xml:id="biblid87477">
+            <title xml:id="idm139731450036368">De nyere Filosofer.</title>
+          </bibl>
+          <bibl xml:id="biblid87666">
+            <title xml:id="idm139731450035584">Kirsten Piils</title>
+          </bibl>
+          <bibl xml:id="biblid88016">
+            <title xml:id="idm139731450034800">Concert-Indledning.</title>
+          </bibl>
+          <bibl xml:id="biblid88226">
+            <title xml:id="idm139731450033952">Ved Herlufsholms Trehundredaarsfest.</title>
+          </bibl>
+          <bibl xml:id="biblid88827">
+            <title xml:id="idm139731450033152">Peter Severin Lund.</title>
+          </bibl>
+          <bibl xml:id="biblid88944">
+            <title xml:id="idm139731450032304">Til Kong Christian den Niende.</title>
+          </bibl>
+          <bibl xml:id="biblid89107">
+            <title xml:id="idm139731450031456">Til Enkedronning Caroline Amalie.</title>
+          </bibl>
+          <bibl xml:id="biblid89306">
+            <title xml:id="idm139731450030656">Ved Indvielsen af en Folkehøjskole.</title>
+          </bibl>
+          <bibl xml:id="biblid89574">
+            <title xml:id="idm139731450029808">Til Slesvigerne.</title>
+          </bibl>
+          <bibl xml:id="biblid90109">
+            <title xml:id="idm139731450028912">Volmerslaget.</title>
+          </bibl>
+          <bibl xml:id="biblid90503">
+            <title xml:id="idm139731450028080">Adam Oehlenschlägers Minde.</title>
+          </bibl>
+          <bibl xml:id="biblid90651">
+            <title xml:id="idm139731450027248">Septembertid.</title>
+          </bibl>
+          <bibl xml:id="biblid91044">
+            <title xml:id="idm139731450026416">Paa Møens Klint.</title>
+          </bibl>
+          <bibl xml:id="biblid91202">
+            <title xml:id="idm139731450025568">Danmark. Ved Studenter-Jubilæet 1848-74.</title>
+          </bibl>
+          <bibl xml:id="biblid91395">
+            <title xml:id="idm139731450024656">Kong Frederik den Syvende.</title>
+          </bibl>
+          <bibl xml:id="biblid91667">
+            <title xml:id="idm139731450023856">Stormfloden.</title>
+          </bibl>
+          <bibl xml:id="biblid91871">
+            <title xml:id="idm139731450022960">Grundlovsvise.</title>
+          </bibl>
+          <bibl xml:id="biblid92035">
+            <title xml:id="idm139731450022112">Gyldendalske Boghandels Hundredaarsfest.</title>
+          </bibl>
+          <bibl xml:id="biblid92249">
+            <title xml:id="idm139731450021232">En Drikkevise.</title>
+          </bibl>
+          <bibl xml:id="biblid92498">
+            <title xml:id="idm139731450020448">Til C. Hostrup. Ved »Gjenboernes« Jubilæum 1869.</title>
+          </bibl>
+          <bibl xml:id="biblid92646">
+            <title xml:id="idm139731450019584">Til H. C. Andersen. Den 6te September 1869.</title>
+          </bibl>
+          <bibl xml:id="biblid92806">
+            <title xml:id="idm139731450018704">Fra Studentermødet.</title>
+          </bibl>
+          <bibl xml:id="biblid92815">
+            <title xml:id="idm139731450017888">Til Dansen i Drammen.</title>
+          </bibl>
+          <bibl xml:id="biblid92969">
+            <title xml:id="idm139731450017056">Nordens Kvinde.</title>
+          </bibl>
+          <bibl xml:id="biblid93110">
+            <title xml:id="idm139731450016272">Mødet i Norge.</title>
+          </bibl>
+          <bibl xml:id="biblid93528">
+            <title xml:id="idm139731450015424">Johan Henrik Thomander.</title>
+          </bibl>
+          <bibl xml:id="biblid93674">
+            <title xml:id="idm139731450014528">Skyttesang. [Med Krumveje ofte man slaar sig tiltaals]</title>
+          </bibl>
+          <bibl xml:id="biblid93858">
+            <title xml:id="idm139731450013648">Ved et Diamantbryllup.</title>
+          </bibl>
+          <bibl xml:id="biblid93947">
+            <title xml:id="idm139731450012816">Ved et Jubilæum.</title>
+          </bibl>
+          <bibl xml:id="biblid94067">
+            <title xml:id="idm139731450011968">Henrik Hertz.</title>
+          </bibl>
+          <bibl xml:id="biblid94229">
+            <title xml:id="idm139731450011184">Emilie Monrad.</title>
+          </bibl>
+          <bibl xml:id="biblid94358">
+            <title xml:id="idm139731450010336">Ole Strøm.</title>
+          </bibl>
+          <bibl xml:id="biblid94445">
+            <title xml:id="idm139731450009504">Adolf Knudsen.</title>
+          </bibl>
+          <bibl xml:id="biblid94579">
+            <title xml:id="idm139731450008656">Emanuel Richardt.</title>
+          </bibl>
+          <bibl xml:id="biblid94667">
+            <title xml:id="idm139731450007872">Ved et Lærermøde.</title>
+          </bibl>
+          <bibl xml:id="biblid94812">
+            <title xml:id="idm139731450007024">Ved Kirkemødet.</title>
+          </bibl>
+          <bibl xml:id="biblid94962">
+            <title xml:id="idm139731450006160">Fra Aarets Tider. 1 - 4.</title>
+          </bibl>
+          <bibl xml:id="biblid94967">
+            <title xml:id="idm139731450005296">Foraarsvise. [Hvor det skyder og bryder]</title>
+          </bibl>
+          <bibl xml:id="biblid95138">
+            <title xml:id="idm139731450004416">Sommervise</title>
+          </bibl>
+          <bibl xml:id="biblid95325">
+            <title xml:id="idm139731450003568">Mod Efteraar</title>
+          </bibl>
+          <bibl xml:id="biblid95445">
+            <title xml:id="idm139731450002672">Decemberskov</title>
+          </bibl>
+        </listBibl>
+      </sourceDesc>
     </fileDesc>
   </teiHeader>
   <text xml:id="idm139731450001984">

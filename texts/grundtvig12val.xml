@@ -1,14 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!-- OCR by ATAPY 15.11.02/19.11.02 (Catherine Bychkova) -->
-<!-- HHL 20030410 rettet op på vaerktitler - taget 1. linien
-Phtj rettet  s.15-
-VL 20090420 rettet s. 331
--->
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="idm140571812957232"><!-- 
-       file     ./marc_dir/001823825.xml
-       field    530 
-       subfield a 
-       prefix   2:-->
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="root">
   <teiHeader xml:id="idm140571812956320">
     <fileDesc xml:id="idm140571812956064">
       <titleStmt xml:id="idm140571812930544">
@@ -23,17 +14,450 @@ VL 20090420 rettet s. 331
         <note xml:id="idm140571812927664">
 	  </note>
       </notesStmt>
-      <sourceDesc xml:id="idm140571812927152"><bibl xml:id="idm140571812927024"><author n="1" xml:id="idm140571812926336"><name xml:id="idm140571812926080"><surname xml:id="idm140571812925952">Grundtvig</surname>, <forename xml:id="idm140571812925520">N. F. S.</forename></name></author><title xml:id="idm140571812925232"> Sang-Værk til den danske Kirkeskole. - 1946</title><pubPlace xml:id="idm140571812924864">Kbh.</pubPlace>
-<date xml:id="idm140571812924352">1944-1964</date></bibl><listBibl xml:id="idm140571812924064"><bibl xml:id="biblid54721"><title xml:id="idm140571812910912">Hvad er det, vi skue</title></bibl><bibl xml:id="biblid55795"><title xml:id="idm140571812910128">Ordet sig hviled</title></bibl><bibl xml:id="biblid56704"><title xml:id="idm140571812909344">Gud planted en Have fra Øst til Vest</title></bibl><bibl xml:id="biblid57185"><title xml:id="idm140571812908496">Herren, som raader i Himmerig</title></bibl><bibl xml:id="biblid57842"><title xml:id="idm140571812907648">Den Luft, hvori vi gaae</title></bibl><bibl xml:id="biblid58238"><title xml:id="idm140571812906816">Kain pløied rask i Vaar</title></bibl><bibl xml:id="biblid58595"><title xml:id="idm140571812906000">Ei uddøer den Godes Æt</title></bibl><bibl xml:id="biblid58960"><title xml:id="idm140571812905184">Naar Nat udvælder</title></bibl><bibl xml:id="biblid60682"><title xml:id="idm140571812904336">Paa Sletten ved Euphrat i Asialand</title></bibl><bibl xml:id="biblid60956"><title xml:id="idm140571812903488">Fra Afguders Altre slog Røgen i Sky</title></bibl><bibl xml:id="biblid61160"><title xml:id="idm140571812902640">Abraham sad i Mamre-Lund</title></bibl><bibl xml:id="biblid61444"><title xml:id="idm140571812901728">Der kom et Bud fra Himmerig</title></bibl><bibl xml:id="biblid61860"><title xml:id="idm140571812900880">Sara var død, i sin Eenlighed</title></bibl><bibl xml:id="biblid62654"><title xml:id="idm140571812900048">Esau var en Skytte vild</title></bibl><bibl xml:id="biblid63063"><title xml:id="idm140571812899264">Op ad Bjerg og ned i Dal</title></bibl><bibl xml:id="biblid63629"><title xml:id="idm140571812898416">Solen er heed</title></bibl><bibl xml:id="biblid64278"><title xml:id="idm140571812897632">Som Ørnen sidder paa høien Hald</title></bibl><bibl xml:id="biblid64757"><title xml:id="idm140571812896800">Der sad en Svend i det sorte Hul</title></bibl><bibl xml:id="biblid65301"><title xml:id="idm140571812896000">Kong Pharao vaagned en Morgenstund</title></bibl><bibl xml:id="biblid65827"><title xml:id="idm140571812895152">Gud naade mig stakkels gamle Mand</title></bibl><bibl xml:id="biblid66217"><title xml:id="idm140571812894304">Kong Pharao var en ugudelig Krop</title></bibl><bibl xml:id="biblid66486"><title xml:id="idm140571812893392">Der toner et Kvad over Tidens Hav</title></bibl><bibl xml:id="biblid66712"><title xml:id="idm140571812892544">Der gik en Hyrde og vogted Faar</title></bibl><bibl xml:id="biblid67433"><title xml:id="idm140571812891696">Et Paradis var Gosen</title></bibl><bibl xml:id="biblid67992"><title xml:id="idm140571812890912">Ægypten var plaget saa saare</title></bibl><bibl xml:id="biblid68378"><title xml:id="idm140571812890064">Pharao sidder i Høielofts-Sal</title></bibl><bibl xml:id="biblid68796"><title xml:id="idm140571812889232">Som Solen oprinder morgenrød</title></bibl><bibl xml:id="biblid69041"><title xml:id="idm140571812888336">Kom, lad os synge Vorherre en Sang</title></bibl><bibl xml:id="biblid69338"><title xml:id="idm140571812887488">Jehovah nedfoer fra det Høie</title></bibl><bibl xml:id="biblid69703"><title xml:id="idm140571812886656">Da Soel gik ned i Banke</title></bibl><bibl xml:id="biblid70495"><title xml:id="idm140571812885824">Da Moses ned ad Bjerget steg</title></bibl><bibl xml:id="biblid71156"><title xml:id="idm140571812884976">Thronen under Kerubimer</title></bibl><bibl xml:id="biblid71892"><title xml:id="idm140571812884144">Kong Balak han sendte sine ridende Bud</title></bibl><bibl xml:id="biblid73177"><title xml:id="idm140571812883296">Moses var gammel, af Verdens Uro</title></bibl><bibl xml:id="biblid73485"><title xml:id="idm140571812882448">Hører Seer-Skjaldens Ord</title></bibl><bibl xml:id="biblid74574"><title xml:id="idm140571812881584">Der laa en Stad paa Marken</title></bibl><bibl xml:id="biblid75152"><title xml:id="idm140571812880736">Det var i Hvede-Høstens Tid</title></bibl><bibl xml:id="biblid75563"><title xml:id="idm140571812986816">Josva gik i Palmelunden</title></bibl><bibl xml:id="biblid76078"><title xml:id="idm140571812986096">Jeriko var en Stad saa fast</title></bibl><bibl xml:id="biblid76354"><title xml:id="idm140571812985344">Josva med Arken Guds Folk baned Vei</title></bibl><bibl xml:id="biblid76698"><title xml:id="idm140571812984592">Om Helte mange</title></bibl><bibl xml:id="biblid77231"><title xml:id="idm140571812983744">Midianiten som en Tyrk</title></bibl><bibl xml:id="biblid77780"><title xml:id="idm140571812982960">Der var en Kæmpe over Kæmper alle</title></bibl><bibl xml:id="biblid78395"><title xml:id="idm140571812854688">Samson var Træl i Filisternes Land</title></bibl><bibl xml:id="biblid78761"><title xml:id="idm140571812853792">I Dommertiden i Bethlehem</title></bibl><bibl xml:id="biblid79420"><title xml:id="idm140571812853040">Det var saa stille ved Midjenat</title></bibl><bibl xml:id="biblid79900"><title xml:id="idm140571812852288">Jeg gik i Marken og vogtede Faar</title></bibl><bibl xml:id="biblid80141"><title xml:id="idm140571812851536">Mellem Brødre kaldt den Lille</title></bibl><bibl xml:id="biblid80308"><title xml:id="idm140571812850704">Israels Hæder</title></bibl><bibl xml:id="biblid80551"><title xml:id="idm140571812849952">Af Lyst til Vidskab uden Mage</title></bibl><bibl xml:id="biblid80788"><title xml:id="idm140571812849200">Der kom tre svare Hungers-Aar</title></bibl><bibl xml:id="biblid81092"><title xml:id="idm140571812848448">Naboths Viingaard grændsed tæt</title></bibl><bibl xml:id="biblid81430"><title xml:id="idm140571812847616">Jeg drømte en Drøm, som blev borte igjen</title></bibl><bibl xml:id="biblid81871"><title xml:id="idm140571812846768">Der var en gammel Præste-Søn</title></bibl><bibl xml:id="biblid82587"><title xml:id="idm140571812845872">Herrens Huus var lagt i Støvet</title></bibl><bibl xml:id="biblid82819"><title xml:id="idm140571812844976">Kom, lad os prise de herlige Mænd</title></bibl><bibl xml:id="biblid84754"><title xml:id="idm140571812844144">I det andet Tempels Dage</title></bibl><bibl xml:id="biblid85076"><title xml:id="idm140571812843392">Herren Moder Eva loved</title></bibl><bibl xml:id="biblid85374"><title xml:id="idm140571812842608">Et Barn er født i Bethlehem</title></bibl><bibl xml:id="biblid85529"><title xml:id="idm140571812841712">Marie , hun sad paa Hø og Straa</title></bibl><bibl xml:id="biblid85840"><title xml:id="idm140571812836816">Deilig er den Himmel blaa</title></bibl><bibl xml:id="biblid86332"><title xml:id="idm140571812836192">Simeon tog Guds lille Søn</title></bibl><bibl xml:id="biblid86470"><title xml:id="idm140571812835440">Vorherre, han var et lille Barn</title></bibl><bibl xml:id="biblid86792"><title xml:id="idm140571812834752">I Nasaret der var saa smukt</title></bibl><bibl xml:id="biblid87256"><title xml:id="idm140571812834032">Ungdom og Viisdom, de fulgdes ad</title></bibl><bibl xml:id="biblid87667"><title xml:id="idm140571812833248">Kom, følg i Aanden med</title></bibl><bibl xml:id="biblid87953"><title xml:id="idm140571812832432">Himmerigs Port engang fløi op</title></bibl><bibl xml:id="biblid88074"><title xml:id="idm140571812831600">Der var paa Jord en Guds Engel saa fiin</title></bibl><bibl xml:id="biblid88814"><title xml:id="idm140571812830784">Ved Jordans Færgestæder</title></bibl><bibl xml:id="biblid89447"><title xml:id="idm140571812829904">Alt paa den vilde Hede</title></bibl><bibl xml:id="biblid89927"><title xml:id="idm140571812829120">Frelseren i sin Moders By</title></bibl><bibl xml:id="biblid90177"><title xml:id="idm140571812828368">Der vandred en Yngling saa tankefuld</title></bibl><bibl xml:id="biblid90687"><title xml:id="idm140571812827568">Brudgom taler til Bruden sin</title></bibl><bibl xml:id="biblid91046"><title xml:id="idm140571812826768">Der sad en Fisker saa tankefuld</title></bibl><bibl xml:id="biblid91403"><title xml:id="idm140571812825968">Seer du Ham paa Fiskerbaaden</title></bibl><bibl xml:id="biblid91797"><title xml:id="idm140571812825120">Kvinden paa sin Krykke</title></bibl><bibl xml:id="biblid92234"><title xml:id="idm140571812824336">Blomst kan visne før Sol nedgaaer</title></bibl><bibl xml:id="biblid92521"><title xml:id="idm140571812823440">Om en Hedning vil vi sjunge</title></bibl><bibl xml:id="biblid92819"><title xml:id="idm140571812822592">Aanden opgav Enkesønnen</title></bibl><bibl xml:id="biblid93076"><title xml:id="idm140571812821776">Paa Hedenskabets Grændser</title></bibl><bibl xml:id="biblid93303"><title xml:id="idm140571812820960">Lazarus laae paa Sotteseng</title></bibl><bibl xml:id="biblid93635"><title xml:id="idm140571812820160">See, hvor nu Jesus træder</title></bibl><bibl xml:id="biblid93716"><title xml:id="idm140571812819344">Vor Frelser frit sin Fiende</title></bibl><bibl xml:id="biblid93842"><title xml:id="idm140571812818544">Jesus Christus , Livets Drot</title></bibl><bibl xml:id="biblid93969"><title xml:id="idm140571812817744">Christus, vor Gienløser blid</title></bibl><bibl xml:id="biblid94218"><title xml:id="idm140571812816912">Idag opstod den Herre Christ</title></bibl><bibl xml:id="biblid94378"><title xml:id="idm140571812816048">Som Foraars-Solen morgenrød</title></bibl><bibl xml:id="biblid94494"><title xml:id="idm140571812815216">Paaskemorgen Magdalene </title></bibl><bibl xml:id="biblid94981"><title xml:id="idm140571812814432">Luk Øine op, al Christenhed</title></bibl><bibl xml:id="biblid95868"><title xml:id="idm140571812813600">O hør det Thomas og troe det dog</title></bibl><bibl xml:id="biblid96227"><title xml:id="idm140571812812704">Til Himmels foer den Ærens Drot</title></bibl><bibl xml:id="biblid96446"><title xml:id="idm140571812811824">Apostlerne sad i Jerusalem</title></bibl><bibl xml:id="biblid96703"><title xml:id="idm140571812810960">Var I ikke Galilæer</title></bibl><bibl xml:id="biblid96979"><title xml:id="idm140571812810032">Hvor Abraham i Hyrdehjem</title></bibl><bibl xml:id="biblid97425"><title xml:id="idm140571812809232">Nøgen, under Torne-Krone</title></bibl><bibl xml:id="biblid98081"><title xml:id="idm140571812808416">Søde Jesus , Julens Fyrste</title></bibl><bibl xml:id="biblid98372"><title xml:id="idm140571812807600">Der sad en Svend i Blaamænds Land</title></bibl><bibl xml:id="biblid99216"><title xml:id="idm140571812806768">Du sande Gud! hør Du min Bøn</title></bibl><bibl xml:id="biblid99572"><title xml:id="idm140571812805936">Underveis var til St. Peder                      </title></bibl><bibl xml:id="biblid100038"><title xml:id="idm140571812805056">Der ligger en Stad i det Tyrkiske Land</title></bibl><bibl xml:id="biblid100325"><title xml:id="idm140571812804256">Sankt Peder, han ligger i Bolt og Jern</title></bibl><bibl xml:id="biblid100674"><title xml:id="idm140571812803392">Johannes var Vorherres Ven</title></bibl><bibl xml:id="biblid101436"><title xml:id="idm140571812802528">Der sad en Drot ved Eufrats Rand</title></bibl><bibl xml:id="biblid101937"><title xml:id="idm140571812801680">Der var en gammel Hyrde</title></bibl><bibl xml:id="biblid102193"><title xml:id="idm140571812800848">Purpur-Kaaben, tit opfarvet</title></bibl><bibl xml:id="biblid102556"><title xml:id="idm140571812800000">Der ligger en Ø i Vesterhav</title></bibl><bibl xml:id="biblid102903"><title xml:id="idm140571812799104">Jeg førte ret et Konge-Liv</title></bibl><bibl xml:id="biblid103283"><title xml:id="idm140571812798288">I de dybe Hjerters Tid</title></bibl><bibl xml:id="biblid103929"><title xml:id="idm140571812797504">Der er saa bredt et Land bag Rhin</title></bibl><bibl xml:id="biblid104944"><title xml:id="idm140571812796656">Hos Fyrsterne sad tæt i Ring</title></bibl><bibl xml:id="biblid105709"><title xml:id="idm140571812795824">Ansgar han laae paa Sotteseng</title></bibl><bibl xml:id="biblid105987"><title xml:id="idm140571812795024">Der throned en Keiser i Englehjem</title></bibl><bibl xml:id="biblid106426"><title xml:id="idm140571812794160">Med Korset og Krumstaven</title></bibl><bibl xml:id="biblid107039"><title xml:id="idm140571812793360">Hvem monne det være, der ganger saa hvast</title></bibl><bibl xml:id="biblid107434"><title xml:id="idm140571812792512">Vor Gud er død hinsides Hav</title></bibl><bibl xml:id="biblid108177"><title xml:id="idm140571812791680">Det var i gamle Dage</title></bibl><bibl xml:id="biblid109165"><title xml:id="idm140571812790896">Her er saa stille, her er saa tyst</title></bibl><bibl xml:id="biblid109489"><title xml:id="idm140571812790032">Da mørkest det saae i Verden ud</title></bibl><bibl xml:id="biblid109916"><title xml:id="idm140571812789136">I Vittenberg, i Sachsen-Land</title></bibl><bibl xml:id="biblid110311"><title xml:id="idm140571812788272">Da Huss blev brændt paa Baalet</title></bibl><bibl xml:id="biblid110664"><title xml:id="idm140571812787440">Jeg var en Munk i Sachsenland</title></bibl><bibl xml:id="biblid111188"><title xml:id="idm140571812786576">Guds Kirke er vor Klippe-Borg</title></bibl><bibl xml:id="biblid111424"><title xml:id="idm140571812785776">Thomas Kingo er Psalmisten</title></bibl><bibl xml:id="biblid111640"><title xml:id="idm140571812784864">Der stod en Gran saa rank og skiøn</title></bibl><bibl xml:id="biblid112393"><title xml:id="idm140571812783984">Herren taler: Øer, hører</title></bibl><bibl xml:id="biblid54497"><title xml:id="idm140571812783168">Han var ingen mægtig Aand</title></bibl><bibl xml:id="biblid112827"><title xml:id="idm140571812782352">Opløft din Røst, du gamle Kvinde</title></bibl><bibl xml:id="biblid113212"><title xml:id="idm140571812781456">Der sad en Svend i Munkebur</title></bibl><bibl xml:id="biblid113474"><title xml:id="idm140571812780656">Der ligger et Land vel lavt i Nord</title></bibl><bibl xml:id="biblid113985"><title xml:id="idm140571812779792">Det var i vore Dage</title></bibl><bibl xml:id="biblid115632"><title xml:id="idm140571812779008">Op dog, Sion! seer du ei</title></bibl><bibl xml:id="biblid115792"><title xml:id="idm140571812778208">Herren, han har besøgt sit Folk</title></bibl><bibl xml:id="biblid116006"><title xml:id="idm140571812777376">Hil dig, vor Fane</title></bibl><bibl xml:id="biblid116198"><title xml:id="idm140571812776592">Vidunderligst af Alt paa Jord</title></bibl><bibl xml:id="biblid116640"><title xml:id="idm140571812775792">Tag Bogen af den Engels Haand</title></bibl><bibl xml:id="biblid117273"><title xml:id="idm140571812774928">En Syndflod af Bøger</title></bibl><bibl xml:id="biblid117779"><title xml:id="idm140571812774064">Verden døde</title></bibl><bibl xml:id="biblid119401"><title xml:id="idm140571812773200">Priser Herren, for Han er god</title></bibl><bibl xml:id="biblid119613"><title xml:id="idm140571812772400">Kong Pharao var en ugudelig Krop (vers 6 - 8)</title></bibl><bibl xml:id="biblid119772"><title xml:id="idm140571812771584">Lover Herren! paakalder hans Navn</title></bibl><bibl xml:id="biblid120281"><title xml:id="idm140571812770672">Hører Seer-Skjaldens Ord (vers 55)</title></bibl><bibl xml:id="biblid120332"><title xml:id="idm140571812769776">Der laa en Stad paa Marken (vers 13 og 16-20)</title></bibl></listBibl></sourceDesc>
+      <sourceDesc xml:id="idm140571812927152">
+        <bibl xml:id="idm140571812927024">
+          <author n="1" xml:id="idm140571812926336">
+            <name xml:id="idm140571812926080"><surname xml:id="idm140571812925952">Grundtvig</surname>, <forename xml:id="idm140571812925520">N. F. S.</forename></name>
+          </author>
+          <title xml:id="idm140571812925232"> Sang-Værk til den danske Kirkeskole. - 1946</title>
+          <pubPlace xml:id="idm140571812924864">København</pubPlace>
+          <date xml:id="idm140571812924352">1944-1964</date>
+        </bibl>
+        <listBibl xml:id="idm140571812924064">
+          <bibl xml:id="biblid54721">
+            <title xml:id="idm140571812910912">Hvad er det, vi skue</title>
+          </bibl>
+          <bibl xml:id="biblid55795">
+            <title xml:id="idm140571812910128">Ordet sig hviled</title>
+          </bibl>
+          <bibl xml:id="biblid56704">
+            <title xml:id="idm140571812909344">Gud planted en Have fra Øst til Vest</title>
+          </bibl>
+          <bibl xml:id="biblid57185">
+            <title xml:id="idm140571812908496">Herren, som raader i Himmerig</title>
+          </bibl>
+          <bibl xml:id="biblid57842">
+            <title xml:id="idm140571812907648">Den Luft, hvori vi gaae</title>
+          </bibl>
+          <bibl xml:id="biblid58238">
+            <title xml:id="idm140571812906816">Kain pløied rask i Vaar</title>
+          </bibl>
+          <bibl xml:id="biblid58595">
+            <title xml:id="idm140571812906000">Ei uddøer den Godes Æt</title>
+          </bibl>
+          <bibl xml:id="biblid58960">
+            <title xml:id="idm140571812905184">Naar Nat udvælder</title>
+          </bibl>
+          <bibl xml:id="biblid60682">
+            <title xml:id="idm140571812904336">Paa Sletten ved Euphrat i Asialand</title>
+          </bibl>
+          <bibl xml:id="biblid60956">
+            <title xml:id="idm140571812903488">Fra Afguders Altre slog Røgen i Sky</title>
+          </bibl>
+          <bibl xml:id="biblid61160">
+            <title xml:id="idm140571812902640">Abraham sad i Mamre-Lund</title>
+          </bibl>
+          <bibl xml:id="biblid61444">
+            <title xml:id="idm140571812901728">Der kom et Bud fra Himmerig</title>
+          </bibl>
+          <bibl xml:id="biblid61860">
+            <title xml:id="idm140571812900880">Sara var død, i sin Eenlighed</title>
+          </bibl>
+          <bibl xml:id="biblid62654">
+            <title xml:id="idm140571812900048">Esau var en Skytte vild</title>
+          </bibl>
+          <bibl xml:id="biblid63063">
+            <title xml:id="idm140571812899264">Op ad Bjerg og ned i Dal</title>
+          </bibl>
+          <bibl xml:id="biblid63629">
+            <title xml:id="idm140571812898416">Solen er heed</title>
+          </bibl>
+          <bibl xml:id="biblid64278">
+            <title xml:id="idm140571812897632">Som Ørnen sidder paa høien Hald</title>
+          </bibl>
+          <bibl xml:id="biblid64757">
+            <title xml:id="idm140571812896800">Der sad en Svend i det sorte Hul</title>
+          </bibl>
+          <bibl xml:id="biblid65301">
+            <title xml:id="idm140571812896000">Kong Pharao vaagned en Morgenstund</title>
+          </bibl>
+          <bibl xml:id="biblid65827">
+            <title xml:id="idm140571812895152">Gud naade mig stakkels gamle Mand</title>
+          </bibl>
+          <bibl xml:id="biblid66217">
+            <title xml:id="idm140571812894304">Kong Pharao var en ugudelig Krop</title>
+          </bibl>
+          <bibl xml:id="biblid66486">
+            <title xml:id="idm140571812893392">Der toner et Kvad over Tidens Hav</title>
+          </bibl>
+          <bibl xml:id="biblid66712">
+            <title xml:id="idm140571812892544">Der gik en Hyrde og vogted Faar</title>
+          </bibl>
+          <bibl xml:id="biblid67433">
+            <title xml:id="idm140571812891696">Et Paradis var Gosen</title>
+          </bibl>
+          <bibl xml:id="biblid67992">
+            <title xml:id="idm140571812890912">Ægypten var plaget saa saare</title>
+          </bibl>
+          <bibl xml:id="biblid68378">
+            <title xml:id="idm140571812890064">Pharao sidder i Høielofts-Sal</title>
+          </bibl>
+          <bibl xml:id="biblid68796">
+            <title xml:id="idm140571812889232">Som Solen oprinder morgenrød</title>
+          </bibl>
+          <bibl xml:id="biblid69041">
+            <title xml:id="idm140571812888336">Kom, lad os synge Vorherre en Sang</title>
+          </bibl>
+          <bibl xml:id="biblid69338">
+            <title xml:id="idm140571812887488">Jehovah nedfoer fra det Høie</title>
+          </bibl>
+          <bibl xml:id="biblid69703">
+            <title xml:id="idm140571812886656">Da Soel gik ned i Banke</title>
+          </bibl>
+          <bibl xml:id="biblid70495">
+            <title xml:id="idm140571812885824">Da Moses ned ad Bjerget steg</title>
+          </bibl>
+          <bibl xml:id="biblid71156">
+            <title xml:id="idm140571812884976">Thronen under Kerubimer</title>
+          </bibl>
+          <bibl xml:id="biblid71892">
+            <title xml:id="idm140571812884144">Kong Balak han sendte sine ridende Bud</title>
+          </bibl>
+          <bibl xml:id="biblid73177">
+            <title xml:id="idm140571812883296">Moses var gammel, af Verdens Uro</title>
+          </bibl>
+          <bibl xml:id="biblid73485">
+            <title xml:id="idm140571812882448">Hører Seer-Skjaldens Ord</title>
+          </bibl>
+          <bibl xml:id="biblid74574">
+            <title xml:id="idm140571812881584">Der laa en Stad paa Marken</title>
+          </bibl>
+          <bibl xml:id="biblid75152">
+            <title xml:id="idm140571812880736">Det var i Hvede-Høstens Tid</title>
+          </bibl>
+          <bibl xml:id="biblid75563">
+            <title xml:id="idm140571812986816">Josva gik i Palmelunden</title>
+          </bibl>
+          <bibl xml:id="biblid76078">
+            <title xml:id="idm140571812986096">Jeriko var en Stad saa fast</title>
+          </bibl>
+          <bibl xml:id="biblid76354">
+            <title xml:id="idm140571812985344">Josva med Arken Guds Folk baned Vei</title>
+          </bibl>
+          <bibl xml:id="biblid76698">
+            <title xml:id="idm140571812984592">Om Helte mange</title>
+          </bibl>
+          <bibl xml:id="biblid77231">
+            <title xml:id="idm140571812983744">Midianiten som en Tyrk</title>
+          </bibl>
+          <bibl xml:id="biblid77780">
+            <title xml:id="idm140571812982960">Der var en Kæmpe over Kæmper alle</title>
+          </bibl>
+          <bibl xml:id="biblid78395">
+            <title xml:id="idm140571812854688">Samson var Træl i Filisternes Land</title>
+          </bibl>
+          <bibl xml:id="biblid78761">
+            <title xml:id="idm140571812853792">I Dommertiden i Bethlehem</title>
+          </bibl>
+          <bibl xml:id="biblid79420">
+            <title xml:id="idm140571812853040">Det var saa stille ved Midjenat</title>
+          </bibl>
+          <bibl xml:id="biblid79900">
+            <title xml:id="idm140571812852288">Jeg gik i Marken og vogtede Faar</title>
+          </bibl>
+          <bibl xml:id="biblid80141">
+            <title xml:id="idm140571812851536">Mellem Brødre kaldt den Lille</title>
+          </bibl>
+          <bibl xml:id="biblid80308">
+            <title xml:id="idm140571812850704">Israels Hæder</title>
+          </bibl>
+          <bibl xml:id="biblid80551">
+            <title xml:id="idm140571812849952">Af Lyst til Vidskab uden Mage</title>
+          </bibl>
+          <bibl xml:id="biblid80788">
+            <title xml:id="idm140571812849200">Der kom tre svare Hungers-Aar</title>
+          </bibl>
+          <bibl xml:id="biblid81092">
+            <title xml:id="idm140571812848448">Naboths Viingaard grændsed tæt</title>
+          </bibl>
+          <bibl xml:id="biblid81430">
+            <title xml:id="idm140571812847616">Jeg drømte en Drøm, som blev borte igjen</title>
+          </bibl>
+          <bibl xml:id="biblid81871">
+            <title xml:id="idm140571812846768">Der var en gammel Præste-Søn</title>
+          </bibl>
+          <bibl xml:id="biblid82587">
+            <title xml:id="idm140571812845872">Herrens Huus var lagt i Støvet</title>
+          </bibl>
+          <bibl xml:id="biblid82819">
+            <title xml:id="idm140571812844976">Kom, lad os prise de herlige Mænd</title>
+          </bibl>
+          <bibl xml:id="biblid84754">
+            <title xml:id="idm140571812844144">I det andet Tempels Dage</title>
+          </bibl>
+          <bibl xml:id="biblid85076">
+            <title xml:id="idm140571812843392">Herren Moder Eva loved</title>
+          </bibl>
+          <bibl xml:id="biblid85374">
+            <title xml:id="idm140571812842608">Et Barn er født i Bethlehem</title>
+          </bibl>
+          <bibl xml:id="biblid85529">
+            <title xml:id="idm140571812841712">Marie , hun sad paa Hø og Straa</title>
+          </bibl>
+          <bibl xml:id="biblid85840">
+            <title xml:id="idm140571812836816">Deilig er den Himmel blaa</title>
+          </bibl>
+          <bibl xml:id="biblid86332">
+            <title xml:id="idm140571812836192">Simeon tog Guds lille Søn</title>
+          </bibl>
+          <bibl xml:id="biblid86470">
+            <title xml:id="idm140571812835440">Vorherre, han var et lille Barn</title>
+          </bibl>
+          <bibl xml:id="biblid86792">
+            <title xml:id="idm140571812834752">I Nasaret der var saa smukt</title>
+          </bibl>
+          <bibl xml:id="biblid87256">
+            <title xml:id="idm140571812834032">Ungdom og Viisdom, de fulgdes ad</title>
+          </bibl>
+          <bibl xml:id="biblid87667">
+            <title xml:id="idm140571812833248">Kom, følg i Aanden med</title>
+          </bibl>
+          <bibl xml:id="biblid87953">
+            <title xml:id="idm140571812832432">Himmerigs Port engang fløi op</title>
+          </bibl>
+          <bibl xml:id="biblid88074">
+            <title xml:id="idm140571812831600">Der var paa Jord en Guds Engel saa fiin</title>
+          </bibl>
+          <bibl xml:id="biblid88814">
+            <title xml:id="idm140571812830784">Ved Jordans Færgestæder</title>
+          </bibl>
+          <bibl xml:id="biblid89447">
+            <title xml:id="idm140571812829904">Alt paa den vilde Hede</title>
+          </bibl>
+          <bibl xml:id="biblid89927">
+            <title xml:id="idm140571812829120">Frelseren i sin Moders By</title>
+          </bibl>
+          <bibl xml:id="biblid90177">
+            <title xml:id="idm140571812828368">Der vandred en Yngling saa tankefuld</title>
+          </bibl>
+          <bibl xml:id="biblid90687">
+            <title xml:id="idm140571812827568">Brudgom taler til Bruden sin</title>
+          </bibl>
+          <bibl xml:id="biblid91046">
+            <title xml:id="idm140571812826768">Der sad en Fisker saa tankefuld</title>
+          </bibl>
+          <bibl xml:id="biblid91403">
+            <title xml:id="idm140571812825968">Seer du Ham paa Fiskerbaaden</title>
+          </bibl>
+          <bibl xml:id="biblid91797">
+            <title xml:id="idm140571812825120">Kvinden paa sin Krykke</title>
+          </bibl>
+          <bibl xml:id="biblid92234">
+            <title xml:id="idm140571812824336">Blomst kan visne før Sol nedgaaer</title>
+          </bibl>
+          <bibl xml:id="biblid92521">
+            <title xml:id="idm140571812823440">Om en Hedning vil vi sjunge</title>
+          </bibl>
+          <bibl xml:id="biblid92819">
+            <title xml:id="idm140571812822592">Aanden opgav Enkesønnen</title>
+          </bibl>
+          <bibl xml:id="biblid93076">
+            <title xml:id="idm140571812821776">Paa Hedenskabets Grændser</title>
+          </bibl>
+          <bibl xml:id="biblid93303">
+            <title xml:id="idm140571812820960">Lazarus laae paa Sotteseng</title>
+          </bibl>
+          <bibl xml:id="biblid93635">
+            <title xml:id="idm140571812820160">See, hvor nu Jesus træder</title>
+          </bibl>
+          <bibl xml:id="biblid93716">
+            <title xml:id="idm140571812819344">Vor Frelser frit sin Fiende</title>
+          </bibl>
+          <bibl xml:id="biblid93842">
+            <title xml:id="idm140571812818544">Jesus Christus , Livets Drot</title>
+          </bibl>
+          <bibl xml:id="biblid93969">
+            <title xml:id="idm140571812817744">Christus, vor Gienløser blid</title>
+          </bibl>
+          <bibl xml:id="biblid94218">
+            <title xml:id="idm140571812816912">Idag opstod den Herre Christ</title>
+          </bibl>
+          <bibl xml:id="biblid94378">
+            <title xml:id="idm140571812816048">Som Foraars-Solen morgenrød</title>
+          </bibl>
+          <bibl xml:id="biblid94494">
+            <title xml:id="idm140571812815216">Paaskemorgen Magdalene </title>
+          </bibl>
+          <bibl xml:id="biblid94981">
+            <title xml:id="idm140571812814432">Luk Øine op, al Christenhed</title>
+          </bibl>
+          <bibl xml:id="biblid95868">
+            <title xml:id="idm140571812813600">O hør det Thomas og troe det dog</title>
+          </bibl>
+          <bibl xml:id="biblid96227">
+            <title xml:id="idm140571812812704">Til Himmels foer den Ærens Drot</title>
+          </bibl>
+          <bibl xml:id="biblid96446">
+            <title xml:id="idm140571812811824">Apostlerne sad i Jerusalem</title>
+          </bibl>
+          <bibl xml:id="biblid96703">
+            <title xml:id="idm140571812810960">Var I ikke Galilæer</title>
+          </bibl>
+          <bibl xml:id="biblid96979">
+            <title xml:id="idm140571812810032">Hvor Abraham i Hyrdehjem</title>
+          </bibl>
+          <bibl xml:id="biblid97425">
+            <title xml:id="idm140571812809232">Nøgen, under Torne-Krone</title>
+          </bibl>
+          <bibl xml:id="biblid98081">
+            <title xml:id="idm140571812808416">Søde Jesus , Julens Fyrste</title>
+          </bibl>
+          <bibl xml:id="biblid98372">
+            <title xml:id="idm140571812807600">Der sad en Svend i Blaamænds Land</title>
+          </bibl>
+          <bibl xml:id="biblid99216">
+            <title xml:id="idm140571812806768">Du sande Gud! hør Du min Bøn</title>
+          </bibl>
+          <bibl xml:id="biblid99572">
+            <title xml:id="idm140571812805936">Underveis var til St. Peder                      </title>
+          </bibl>
+          <bibl xml:id="biblid100038">
+            <title xml:id="idm140571812805056">Der ligger en Stad i det Tyrkiske Land</title>
+          </bibl>
+          <bibl xml:id="biblid100325">
+            <title xml:id="idm140571812804256">Sankt Peder, han ligger i Bolt og Jern</title>
+          </bibl>
+          <bibl xml:id="biblid100674">
+            <title xml:id="idm140571812803392">Johannes var Vorherres Ven</title>
+          </bibl>
+          <bibl xml:id="biblid101436">
+            <title xml:id="idm140571812802528">Der sad en Drot ved Eufrats Rand</title>
+          </bibl>
+          <bibl xml:id="biblid101937">
+            <title xml:id="idm140571812801680">Der var en gammel Hyrde</title>
+          </bibl>
+          <bibl xml:id="biblid102193">
+            <title xml:id="idm140571812800848">Purpur-Kaaben, tit opfarvet</title>
+          </bibl>
+          <bibl xml:id="biblid102556">
+            <title xml:id="idm140571812800000">Der ligger en Ø i Vesterhav</title>
+          </bibl>
+          <bibl xml:id="biblid102903">
+            <title xml:id="idm140571812799104">Jeg førte ret et Konge-Liv</title>
+          </bibl>
+          <bibl xml:id="biblid103283">
+            <title xml:id="idm140571812798288">I de dybe Hjerters Tid</title>
+          </bibl>
+          <bibl xml:id="biblid103929">
+            <title xml:id="idm140571812797504">Der er saa bredt et Land bag Rhin</title>
+          </bibl>
+          <bibl xml:id="biblid104944">
+            <title xml:id="idm140571812796656">Hos Fyrsterne sad tæt i Ring</title>
+          </bibl>
+          <bibl xml:id="biblid105709">
+            <title xml:id="idm140571812795824">Ansgar han laae paa Sotteseng</title>
+          </bibl>
+          <bibl xml:id="biblid105987">
+            <title xml:id="idm140571812795024">Der throned en Keiser i Englehjem</title>
+          </bibl>
+          <bibl xml:id="biblid106426">
+            <title xml:id="idm140571812794160">Med Korset og Krumstaven</title>
+          </bibl>
+          <bibl xml:id="biblid107039">
+            <title xml:id="idm140571812793360">Hvem monne det være, der ganger saa hvast</title>
+          </bibl>
+          <bibl xml:id="biblid107434">
+            <title xml:id="idm140571812792512">Vor Gud er død hinsides Hav</title>
+          </bibl>
+          <bibl xml:id="biblid108177">
+            <title xml:id="idm140571812791680">Det var i gamle Dage</title>
+          </bibl>
+          <bibl xml:id="biblid109165">
+            <title xml:id="idm140571812790896">Her er saa stille, her er saa tyst</title>
+          </bibl>
+          <bibl xml:id="biblid109489">
+            <title xml:id="idm140571812790032">Da mørkest det saae i Verden ud</title>
+          </bibl>
+          <bibl xml:id="biblid109916">
+            <title xml:id="idm140571812789136">I Vittenberg, i Sachsen-Land</title>
+          </bibl>
+          <bibl xml:id="biblid110311">
+            <title xml:id="idm140571812788272">Da Huss blev brændt paa Baalet</title>
+          </bibl>
+          <bibl xml:id="biblid110664">
+            <title xml:id="idm140571812787440">Jeg var en Munk i Sachsenland</title>
+          </bibl>
+          <bibl xml:id="biblid111188">
+            <title xml:id="idm140571812786576">Guds Kirke er vor Klippe-Borg</title>
+          </bibl>
+          <bibl xml:id="biblid111424">
+            <title xml:id="idm140571812785776">Thomas Kingo er Psalmisten</title>
+          </bibl>
+          <bibl xml:id="biblid111640">
+            <title xml:id="idm140571812784864">Der stod en Gran saa rank og skiøn</title>
+          </bibl>
+          <bibl xml:id="biblid112393">
+            <title xml:id="idm140571812783984">Herren taler: Øer, hører</title>
+          </bibl>
+          <bibl xml:id="biblid54497">
+            <title xml:id="idm140571812783168">Han var ingen mægtig Aand</title>
+          </bibl>
+          <bibl xml:id="biblid112827">
+            <title xml:id="idm140571812782352">Opløft din Røst, du gamle Kvinde</title>
+          </bibl>
+          <bibl xml:id="biblid113212">
+            <title xml:id="idm140571812781456">Der sad en Svend i Munkebur</title>
+          </bibl>
+          <bibl xml:id="biblid113474">
+            <title xml:id="idm140571812780656">Der ligger et Land vel lavt i Nord</title>
+          </bibl>
+          <bibl xml:id="biblid113985">
+            <title xml:id="idm140571812779792">Det var i vore Dage</title>
+          </bibl>
+          <bibl xml:id="biblid115632">
+            <title xml:id="idm140571812779008">Op dog, Sion! seer du ei</title>
+          </bibl>
+          <bibl xml:id="biblid115792">
+            <title xml:id="idm140571812778208">Herren, han har besøgt sit Folk</title>
+          </bibl>
+          <bibl xml:id="biblid116006">
+            <title xml:id="idm140571812777376">Hil dig, vor Fane</title>
+          </bibl>
+          <bibl xml:id="biblid116198">
+            <title xml:id="idm140571812776592">Vidunderligst af Alt paa Jord</title>
+          </bibl>
+          <bibl xml:id="biblid116640">
+            <title xml:id="idm140571812775792">Tag Bogen af den Engels Haand</title>
+          </bibl>
+          <bibl xml:id="biblid117273">
+            <title xml:id="idm140571812774928">En Syndflod af Bøger</title>
+          </bibl>
+          <bibl xml:id="biblid117779">
+            <title xml:id="idm140571812774064">Verden døde</title>
+          </bibl>
+          <bibl xml:id="biblid119401">
+            <title xml:id="idm140571812773200">Priser Herren, for Han er god</title>
+          </bibl>
+          <bibl xml:id="biblid119613">
+            <title xml:id="idm140571812772400">Kong Pharao var en ugudelig Krop (vers 6 - 8)</title>
+          </bibl>
+          <bibl xml:id="biblid119772">
+            <title xml:id="idm140571812771584">Lover Herren! paakalder hans Navn</title>
+          </bibl>
+          <bibl xml:id="biblid120281">
+            <title xml:id="idm140571812770672">Hører Seer-Skjaldens Ord (vers 55)</title>
+          </bibl>
+          <bibl xml:id="biblid120332">
+            <title xml:id="idm140571812769776">Der laa en Stad paa Marken (vers 13 og 16-20)</title>
+          </bibl>
+        </listBibl>
+      </sourceDesc>
     </fileDesc>
   </teiHeader>
   <text xml:id="idm140571812769072">
     <front xml:id="idm140571812768816">
       <pb n="a" xml:id="sa" facs="adl/grundtvig/grundtvig12/grun12fm001"/>
       <gap reason="cancelled" xml:id="idm140571812767392"/>
-<!---->
-<!---->
-<!--GRUNDTVIGS SANG-VÆRK ANDET BIND DET DANSKE FORLAG-->
       <pb n="b" xml:id="sb" facs="adl/grundtvig/grundtvig12/grun12fm002"/>
       <pb n="c" xml:id="sc" facs="adl/grundtvig/grundtvig12/grun12fm003"/>
       <titlePage xml:id="idm140571812763536">
@@ -50,9 +474,6 @@ SANG-VÆRK</docAuthor>
       <pb n="d" xml:id="sd" facs="adl/grundtvig/grundtvig12/grun12fm004"/>
       <pb n="e" xml:id="se" facs="adl/grundtvig/grundtvig12/grun12fm005"/>
       <gap reason="cancelled" xml:id="idm140571812758176"/>
-<!---->
-<!---->
-<!--GRUNDTVIGS SANG-VÆRK-->
       <pb n="f" xml:id="sf" facs="adl/grundtvig/grundtvig12/grun12fm006"/>
       <div xml:id="idm140571812755536">
         <bibl xml:id="idm140571812755280">Det Hoffensbergske Etablissement, Købeuhavn

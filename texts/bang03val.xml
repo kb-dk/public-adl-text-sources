@@ -1,10 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!--revideret 16.  juli 2001 - HHL.  Ptj rettet s. 534 -->
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="idm140687573863504"><!-- 
-       file     ./marc_dir/001823910.xml
-       field     
-       subfield  
-       prefix   -->
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="root">
   <teiHeader xml:id="idm140687573862784">
     <fileDesc xml:id="idm140687573862528">
       <titleStmt xml:id="idm140687573862224">
@@ -19,8 +14,9 @@
         <note xml:id="idm140687573834112">
 	  </note>
       </notesStmt>
-      <sourceDesc xml:id="idm140687573833600"><bibl xml:id="idm140687573833472"><author n="1" xml:id="idm140687573832784"><name xml:id="idm140687573832528"><surname xml:id="idm140687573832400">Bang</surname>, <forename xml:id="idm140687573831936">Herman</forename></name></author><title xml:id="idm140687573831648">Værker i Mindeudgave</title><pubPlace xml:id="idm140687573831328">Kbh.</pubPlace>; <pubPlace xml:id="idm140687573830864">Kristiania</pubPlace>
-<publisher xml:id="idm140687573830400">Gyldendal</publisher><date xml:id="idm140687573830064">1920-1921</date></bibl></sourceDesc>
+      <sourceDesc xml:id="idm140687573833600">
+        <bibl xml:id="idm140687573833472"><author n="1" xml:id="idm140687573832784"><name xml:id="idm140687573832528"><surname xml:id="idm140687573832400">Bang</surname>, <forename xml:id="idm140687573831936">Herman</forename></name></author><title xml:id="idm140687573831648">Værker i Mindeudgave</title><pubPlace xml:id="idm140687573831328">København</pubPlace>; <pubPlace xml:id="idm140687573830864">Kristiania</pubPlace><publisher xml:id="idm140687573830400">Gyldendal</publisher><date xml:id="idm140687573830064">1920-1921</date></bibl>
+      </sourceDesc>
     </fileDesc>
   </teiHeader>
   <text xml:id="idm140687573829392">
@@ -227,7 +223,6 @@
                 hun var saa ung og frisk. Men hun kom jo ind i en fornem Familie. </p>
               <p xml:id="idm140687573725760"> Den gamle Læge i Skelskør var meget misfornøjet. "Det er en skidt
                 Historie," sagde han ved Præstens </p>
-<!-- ark  -->
               <pb n="12" facs="adl/bang/bang3/bang3012" xml:id="n012"/>
               <p xml:id="idm140687573723664"> L'hombrebord om Tirsdagen. "Skidt Historie ... Folk som Høg burde ikke
                 gifte sig. Linien er færdig, Kraften er opbrugt: denne har Dispositioner til
@@ -677,7 +672,6 @@
                 nikkede blot uden at vende sig eller tale. Nina aabnede Døren og listede ud, William
                 bag efter - men Drengen kunde i sin Befippelse sjælden faa Døren lukket.
                 Saa stod han længe og raslede med Laasen, indtil Fade- </p>
-<!-- ark  -->
               <pb n="28" facs="adl/bang/bang3/bang3028" xml:id="n028"/>
               <p xml:id="idm140687573577456"> ren rejste sig med et utaalmodigt "Naa" og smækkede den haardt
                 i. </p>
@@ -1107,7 +1101,6 @@
                 om Sommeren, havde han aldrig været i Theatret uden én Gang for mange Aar siden, da
                 han var en lille Dreng i Fløjlsbluse. Og hvad han den Gang saá, huskede han ikke
                 noget af uden </p>
-<!-- ark  -->
               <pb n="44" facs="adl/bang/bang3/bang3044" xml:id="n044"/>
               <p xml:id="idm140687573447984"> et Marked og En med en Guitar. Det var "César de Bazan", han
                 havde set. </p>
@@ -1550,7 +1543,6 @@
                 snakkede op om alt muligt. En Galoppade af hæsblæsende Ord, som skulde afskære den
                 fælles Tilstaaelse. Men undertiden, naar de mødtes paa Trappen eller midt i en
                 saadan Samtale </p>
-<!-- ark  -->
               <pb n="60" facs="adl/bang/bang3/bang3060" xml:id="n060"/>
               <p xml:id="idm140687573309440"> om alt eller intet, kunde den ene sige "Hvor er Fa'r?" Eller:
                 "Har Du set Fa'r?" eller: "Véd Du, hvor Fa'r
@@ -2015,7 +2007,6 @@
               <p xml:id="idm140687573155120"> Saa joges de alle op af Champagnens Knalden, Jensen stod forvirret med den
                 guldhalsede Flaske i Haanden, mens Vinen skummende vældede ud paa Tæppet. Berg kom
                 ud. "Godt", sagde han, tog Flasken og gik atter ind. </p>
-<!-- ark  -->
               <pb n="76" facs="adl/bang/bang3/bang3076" xml:id="n076"/>
               <p xml:id="idm140687573152688"> William var til Mode, som skulde han sluge en Klump, der kvælende sad ham fast i
                 Halsen. </p>
@@ -2447,7 +2438,6 @@
                 forresten syntes hun helt at have glemt hans Tilstedeværelse og ikke at ville ane
                 hans Eksistens. </p>
               <p xml:id="idm140687573019136"> Da de var blevet alene i Hotellet, spurgte William, hvem den Dame var. </p>
-<!-- ark  -->
               <pb n="92" facs="adl/bang/bang3/bang3092" xml:id="n092"/>
               <p xml:id="idm140687573017088"> "Jeg var en Ven af hendes Mand," sagde Høg. Videre ikke. </p>
               <p xml:id="idm140687573016576"> Han gjorde omhyggeligt Toilette, tog tre-fire Skjorter af og paa, inden
@@ -2914,7 +2904,6 @@
                 Fingrene, hvor mange Maaneder der var til Sommer. </p>
               <p xml:id="idm140687572868208"> "Næsten syv Maaneder," sagde hun. </p>
               <p xml:id="idm140687572867728"> "De gaar rask/' sagde William, men han syntes selv, </p>
-<!-- ark  -->
               <pb n="108" facs="adl/bang/bang3/bang3108" xml:id="n108"/>
               <p xml:id="idm140687572865792"> det var en lang, lang Tid, hans Tanke slet ikke kunde gennemflyve. "Det
                 er jo ingenting." </p>
@@ -3374,7 +3363,6 @@
                 "Haabet" for at hente hende, undertiden mødtes de først i
                 Kirken. Han bar hendes Noder, hendes Sjal og hendes Pakker, hun havde en egen Evne
                 til </p>
-<!-- ark  -->
               <pb n="124" facs="adl/bang/bang3/bang3124" xml:id="n124"/>
               <p xml:id="idm140687572724976"> at faa ham til at bære for sig og hente hende og blive sat Stævne for at vente paa
                 hende. </p>
@@ -3829,7 +3817,6 @@
               <p xml:id="idm140687572579008"> Og hun rødmede og holdt ham for Munden, mens han hviskede til hende, halvt
                 liggende i hendes Skød. </p>
               <p xml:id="idm140687572578368"> Til andre Tider læste de højt. </p>
-<!-- ark  -->
               <pb n="140" facs="adl/bang/bang3/bang3140" xml:id="n140"/>
               <p xml:id="idm140687572576256"> En Dag havde de faaet fat i "Tartuffe". William og Kamilla
                 havde været oppe at skændes om, hvordan Tartuffe skulde spilles, og nu skulde

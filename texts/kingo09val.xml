@@ -1,16 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!-- Fra ATAPY - fildato 23. august 2002
-         20030530 HHL gået i gang med at se på den
-                   der er ingen vaerktitler!
-                   indsat vaerktitler og ændret her og i Kingo 1-5 så der er overensstemmelse
-                   græske tegn udkommenteret
-  Ptj rettet s. 385-                 
-         -->
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="idm140375711616208"><!-- 
-       file     ./marc_dir/001728064.xml
-       field     
-       subfield  
-       prefix   -->
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="root">
   <teiHeader xml:id="idm140375711615152">
     <fileDesc xml:id="idm140375711614896">
       <titleStmt xml:id="idm140375711589424">
@@ -29,17 +18,302 @@
         <note xml:id="idm140375711585280">
 	  </note>
       </notesStmt>
-      <sourceDesc xml:id="idm140375711584768"><bibl xml:id="idm140375711584640"><author n="1" xml:id="idm140375711583952"><name xml:id="idm140375711583696"><surname xml:id="idm140375711583568">Kingo</surname>, <forename xml:id="idm140375711583136">Thomas</forename></name></author><title xml:id="idm140375711582848">Digtning i udvalg</title><pubPlace xml:id="idm140375711582560">[Kbh.]</pubPlace>; <pubPlace xml:id="idm140375711582096">[Valby]</pubPlace>
-<publisher xml:id="idm140375711581632">Det Danske Sprog- og Litteraturselskab</publisher><publisher xml:id="idm140375711581328">Borgen</publisher><date xml:id="idm140375711580992">1995</date></bibl><listBibl xml:id="idm140375711580704"><bibl xml:id="biblid54568"><title xml:id="idm140375711567552">Chrysillis (DK)</title></bibl><bibl xml:id="biblid56078"><title xml:id="idm140375711566768">Hr Karsten Hansens Atkes Afskeed fra Løve-Herridt (DK)</title></bibl><bibl xml:id="biblid57593"><title xml:id="idm140375711565888">Hosianna (DK)</title></bibl><bibl xml:id="biblid58510"><title xml:id="idm140375711565104">KRONEBORGS Korte Beskrifvelse (DK)</title></bibl><bibl xml:id="biblid60044"><title xml:id="idm140375711564304">Aandelige Siunge-Koors Første Part, 1.Udgave 1674 (DK)</title></bibl><bibl xml:id="biblid60703"><title xml:id="idm140375711563424">Rind nu op i JEsu Naun (DK)</title></bibl><bibl xml:id="biblid61286"><title xml:id="idm140375711562624">DAgen er snart runden hen (DK)</title></bibl><bibl xml:id="biblid61912"><title xml:id="idm140375711561776">Ach! min Herre, straf mig ey [1] (DK)</title></bibl><bibl xml:id="biblid62192"><title xml:id="idm140375711560976">Siæl og Hierte, Sind og Sandser (DK)</title></bibl><bibl xml:id="biblid62701"><title xml:id="idm140375711560080">Blusser op og værer glade (DK)</title></bibl><bibl xml:id="biblid63245"><title xml:id="idm140375711559200">Salig er en Mand at skatte (DK)</title></bibl><bibl xml:id="biblid63601"><title xml:id="idm140375711558352">Lyksalig Dag! som nu saa bliid oprinder (DK)</title></bibl><bibl xml:id="biblid64011"><title xml:id="idm140375711557488">Dend prægtig Sool, som hele Verden glæder (DK)</title></bibl><bibl xml:id="biblid64423"><title xml:id="idm140375711556576">Ach HErre lad dog ey din Vred' opsyde (DK)</title></bibl><bibl xml:id="biblid64839"><title xml:id="idm140375711555648">Velkommen Morgenstund, med Guld og gavn i Mund! (DK)</title></bibl><bibl xml:id="biblid65219"><title xml:id="idm140375711554784">Dend klare Sool gaar ned, Det qvelder meer og meer (DK)</title></bibl><bibl xml:id="biblid65657"><title xml:id="idm140375711553920">Gud vær mig naadig, og tilgiv min Synd saa leed (DK)</title></bibl><bibl xml:id="biblid66261"><title xml:id="idm140375711552992">Op, op i søde JEsu Navn (DK)</title></bibl><bibl xml:id="biblid66731"><title xml:id="idm140375711552112">DEt mulner mod den mørke Nat (DK)</title></bibl><bibl xml:id="biblid67236"><title xml:id="idm140375711551280">O HErre hør min Jammers bøn (DK)</title></bibl><bibl xml:id="biblid67806"><title xml:id="idm140375711550448">Nu rinder Solen op (DK)</title></bibl><bibl xml:id="biblid68422"><title xml:id="idm140375711549664">TIl hvile Solen gaar (DK)</title></bibl><bibl xml:id="biblid68958"><title xml:id="idm140375711548864">VDaf dend dybe Nød (DK)</title></bibl><bibl xml:id="biblid69233"><title xml:id="idm140375711548000">VAag op og slae paa dine Strenge (DK)</title></bibl><bibl xml:id="biblid69743"><title xml:id="idm140375711547152">SEe, hvor sig dagen atter skynder (DK)</title></bibl><bibl xml:id="biblid70329"><title xml:id="idm140375711546304">O HErre, hold din' Øren aaben (DK)</title></bibl><bibl xml:id="biblid71133"><title xml:id="idm140375711545408">Mindedigt over Susanna Worm 1674 (DK)</title></bibl><bibl xml:id="biblid71372"><title xml:id="idm140375711544560">Mindedigt over Maren Bering 1675 (DK)</title></bibl><bibl xml:id="biblid74417"><title xml:id="idm140375711543712">Aandelig Siunge-Koor, Anden Part, 1.Udgave 1681 (DK)</title></bibl><bibl xml:id="biblid76260"><title xml:id="idm140375711542848">Op, op med Himmel-stemme (DK)</title></bibl><bibl xml:id="biblid76889"><title xml:id="idm140375711542048">Steenig Hierte, gid du kunde (DK)</title></bibl><bibl xml:id="biblid77038"><title xml:id="idm140375711541248">Kom, Siæl, og lad os græde (DK)</title></bibl><bibl xml:id="biblid77844"><title xml:id="idm140375711540304">Ach! min JEsu, jeg maa klage (DK)</title></bibl><bibl xml:id="biblid77938"><title xml:id="idm140375711539456">Sorrig og Elendighed (DK)</title></bibl><bibl xml:id="biblid78995"><title xml:id="idm140375711538608">Ach! min JEsu! ach! jeg er (DK)</title></bibl><bibl xml:id="biblid79140"><title xml:id="idm140375711537760">Ach! HErre see (DK)</title></bibl><bibl xml:id="biblid79804"><title xml:id="idm140375711536928">Aldrig er jeg uden Vaade (DK)</title></bibl><bibl xml:id="biblid79896"><title xml:id="idm140375711536128">Med Blusel, Graad og Klage (DK)</title></bibl><bibl xml:id="biblid80535"><title xml:id="idm140375711645696">Naar jeg, O Gud, mit Synde-dyb (DK)</title></bibl><bibl xml:id="biblid80614"><title xml:id="idm140375711645008">Fald ned, fald paa dit Ansigt ned (DK)</title></bibl><bibl xml:id="biblid81337"><title xml:id="idm140375711644256">Søde JEsu, Siælens Læge (DK)</title></bibl><bibl xml:id="biblid81443"><title xml:id="idm140375711643424">Himmel-søde Gud og Fader (DK)</title></bibl><bibl xml:id="biblid81800"><title xml:id="idm140375711642592">Til HErrens Bord, i JEsu Nafn (DK)</title></bibl><bibl xml:id="biblid81969"><title xml:id="idm140375711641840">Hierte JEsu, hvad for Prøve (DK)</title></bibl><bibl xml:id="biblid82081"><title xml:id="idm140375711510112">O JEsu, paa din Alter-food (DK)</title></bibl><bibl xml:id="biblid82431"><title xml:id="idm140375711509296">Tak, JEsu, Siælens Hyrde good (DK)</title></bibl><bibl xml:id="biblid82560"><title xml:id="idm140375711508464">Min Siæl, hvo er dog dend, som dig saa kierlig føder (DK)</title></bibl><bibl xml:id="biblid82769"><title xml:id="idm140375711507584">Far, Verden, far vel (DK)</title></bibl><bibl xml:id="biblid83309"><title xml:id="idm140375711506768">Ach JEsu, mit Hierte hâr vanked omkring (DK)</title></bibl><bibl xml:id="biblid83423"><title xml:id="idm140375711505904">HErre GUD mit Hiertis Glæde (DK)</title></bibl><bibl xml:id="biblid83991"><title xml:id="idm140375711505008">Søde Siæl, hvi vilt du komme (DK)</title></bibl><bibl xml:id="biblid84246"><title xml:id="idm140375711504176">Hvorfor, mit Hierte, klemmis du (DK)</title></bibl><bibl xml:id="biblid84888"><title xml:id="idm140375711503424">Ach! hvi kand jeg aldrig lukke (DK)</title></bibl><bibl xml:id="biblid85096"><title xml:id="idm140375711502672">Sorrig og Glæde de vandre tilhaabe (DK)</title></bibl><bibl xml:id="biblid85386"><title xml:id="idm140375711501824">Hvor ofte sukker jeg, fordi dend haarde Lykke (DK)</title></bibl><bibl xml:id="biblid85466"><title xml:id="idm140375711501008">Blant alle Ting i Verden her (DK)</title></bibl><bibl xml:id="biblid86075"><title xml:id="idm140375711500256">Saa skal dog alle Ting sig efter dennem føye (DK)</title></bibl><bibl xml:id="biblid86155"><title xml:id="idm140375711499328">Hierte Fader, Godheds Rood (DK)</title></bibl><bibl xml:id="biblid86526"><title xml:id="idm140375711494512">O GUd, hvor stoor og priselig (DK)</title></bibl><bibl xml:id="biblid86820"><title xml:id="idm140375711493824">Vor Disk og Dug er alt bered (DK)</title></bibl><bibl xml:id="biblid86892"><title xml:id="idm140375711493072">Vort Maaltid vi beslutter nu (DK)</title></bibl><bibl xml:id="biblid87144"><title xml:id="idm140375711492384">Hav Tak, ô Gud, vor Skabermand (DK)</title></bibl><bibl xml:id="biblid87219"><title xml:id="idm140375711491600">I JEsu Himmel-søde Navn (DK)</title></bibl><bibl xml:id="biblid87957"><title xml:id="idm140375711490832">En fattig Pillegriim jeg er (DK)</title></bibl><bibl xml:id="biblid88100"><title xml:id="idm140375711490112">O store GUd og HErre (DK)</title></bibl><bibl xml:id="biblid88494"><title xml:id="idm140375711489328">Naar jeg, O GUd paa Havet er (DK)</title></bibl><bibl xml:id="biblid89264"><title xml:id="idm140375711488512">Melodiudsættelser til Aandelige Siunge-Koor (DK)</title></bibl><bibl xml:id="biblid91292"><title xml:id="idm140375711487648">Vinterparten af Danmarks og Norges kirkes forordnede psalmebog (1689) (DK)</title></bibl><bibl xml:id="biblid91369"><title xml:id="idm140375711486800">HØrer til I høye Himle (DK)</title></bibl><bibl xml:id="biblid91696"><title xml:id="idm140375711485968">OVer Kedron JEsus træder (DK)</title></bibl><bibl xml:id="biblid92249"><title xml:id="idm140375711485136">SOver I? Hvor kand I sove (DK)</title></bibl><bibl xml:id="biblid92762"><title xml:id="idm140375711484336">MØrket skiuler Jorderige (DK)</title></bibl><bibl xml:id="biblid93249"><title xml:id="idm140375711483504">LÆnge haver Satan spundet (DK)</title></bibl><bibl xml:id="biblid93728"><title xml:id="idm140375711482608">INgen Høyhed, ingen Ære (DK)</title></bibl><bibl xml:id="biblid94210"><title xml:id="idm140375711481712">VElder ud I Øyne-strømme (DK)</title></bibl><bibl xml:id="biblid94527"><title xml:id="idm140375711480880">SØde Synd, du Vellyst-Engel (DK)</title></bibl><bibl xml:id="biblid95049"><title xml:id="idm140375711480000">PEngene, som Judas slengte (DK)</title></bibl><bibl xml:id="biblid95448"><title xml:id="idm140375711479200">JEsus, som skal Verden dømme (DK)</title></bibl><bibl xml:id="biblid95964"><title xml:id="idm140375711478368">Til Herodes JEsus føres (DK)</title></bibl><bibl xml:id="biblid96294"><title xml:id="idm140375711477472">SEe, nu er Pilatus gangen (DK)</title></bibl><bibl xml:id="biblid96772"><title xml:id="idm140375711476672">VIl dog Himlen intet tale (DK)</title></bibl><bibl xml:id="biblid97337"><title xml:id="idm140375711475872">HVordan end Pilatus hinked' (DK)</title></bibl><bibl xml:id="biblid97774"><title xml:id="idm140375711475024">RÆttens Spiir det alt er brekked (DK)</title></bibl><bibl xml:id="biblid98175"><title xml:id="idm140375711474112">KOmmer, I som vil ledsage (DK)</title></bibl><bibl xml:id="biblid98584"><title xml:id="idm140375711473312">BRyder frem I hule Sukke (DK)</title></bibl><bibl xml:id="biblid99746"><title xml:id="idm140375711472512">SOm dend Gyldne Sool frembryder (DK)</title></bibl><bibl xml:id="biblid100165"><title xml:id="idm140375711471648">Vers i Vinterparten (DK)</title></bibl><bibl xml:id="biblid100250"><title xml:id="idm140375711470848">Overskrift til Kronborgs anden Port (DK)</title></bibl><bibl xml:id="biblid100321"><title xml:id="idm140375711470032">Paa Æsken med Ole Borchs Sten 1690 (DK)</title></bibl><bibl xml:id="biblid100375"><title xml:id="idm140375711469184">Æresvers under Anders Sørensen Vedels Portræt (DK)</title></bibl><bibl xml:id="biblid100424"><title xml:id="idm140375711468368">Candida (DK)</title></bibl><bibl xml:id="biblid100962"><title xml:id="idm140375711467584">Samtale med Rygtet (DK)</title></bibl><bibl xml:id="biblid102637"><title xml:id="idm140375711466800">Trøste-Brev til Fru Margarete Ulfeld 1697 (DK)</title></bibl><bibl xml:id="biblid103012"><title xml:id="idm140375711465872">Paa-Skriffter udi Niels Juels Epitaphio i Holmens kirke (DK)</title></bibl><bibl xml:id="biblid103875"><title xml:id="idm140375711464928">Taksigelsis Sonnet (DK)</title></bibl></listBibl></sourceDesc>
+      <sourceDesc xml:id="idm140375711584768">
+        <bibl xml:id="idm140375711584640"><author n="1" xml:id="idm140375711583952"><name xml:id="idm140375711583696"><surname xml:id="idm140375711583568">Kingo</surname>, <forename xml:id="idm140375711583136">Thomas</forename></name></author><title xml:id="idm140375711582848">Digtning i udvalg</title><pubPlace xml:id="idm140375711582560">[København]</pubPlace>; <pubPlace xml:id="idm140375711582096">[Valby]</pubPlace><publisher xml:id="idm140375711581632">Det Danske Sprog- og Litteraturselskab</publisher><publisher xml:id="idm140375711581328">Borgen</publisher><date xml:id="idm140375711580992">1995</date></bibl>
+        <listBibl xml:id="idm140375711580704">
+          <bibl xml:id="biblid54568">
+            <title xml:id="idm140375711567552">Chrysillis (DK)</title>
+          </bibl>
+          <bibl xml:id="biblid56078">
+            <title xml:id="idm140375711566768">Hr Karsten Hansens Atkes Afskeed fra Løve-Herridt (DK)</title>
+          </bibl>
+          <bibl xml:id="biblid57593">
+            <title xml:id="idm140375711565888">Hosianna (DK)</title>
+          </bibl>
+          <bibl xml:id="biblid58510">
+            <title xml:id="idm140375711565104">KRONEBORGS Korte Beskrifvelse (DK)</title>
+          </bibl>
+          <bibl xml:id="biblid60044">
+            <title xml:id="idm140375711564304">Aandelige Siunge-Koors Første Part, 1.Udgave 1674 (DK)</title>
+          </bibl>
+          <bibl xml:id="biblid60703">
+            <title xml:id="idm140375711563424">Rind nu op i JEsu Naun (DK)</title>
+          </bibl>
+          <bibl xml:id="biblid61286">
+            <title xml:id="idm140375711562624">DAgen er snart runden hen (DK)</title>
+          </bibl>
+          <bibl xml:id="biblid61912">
+            <title xml:id="idm140375711561776">Ach! min Herre, straf mig ey [1] (DK)</title>
+          </bibl>
+          <bibl xml:id="biblid62192">
+            <title xml:id="idm140375711560976">Siæl og Hierte, Sind og Sandser (DK)</title>
+          </bibl>
+          <bibl xml:id="biblid62701">
+            <title xml:id="idm140375711560080">Blusser op og værer glade (DK)</title>
+          </bibl>
+          <bibl xml:id="biblid63245">
+            <title xml:id="idm140375711559200">Salig er en Mand at skatte (DK)</title>
+          </bibl>
+          <bibl xml:id="biblid63601">
+            <title xml:id="idm140375711558352">Lyksalig Dag! som nu saa bliid oprinder (DK)</title>
+          </bibl>
+          <bibl xml:id="biblid64011">
+            <title xml:id="idm140375711557488">Dend prægtig Sool, som hele Verden glæder (DK)</title>
+          </bibl>
+          <bibl xml:id="biblid64423">
+            <title xml:id="idm140375711556576">Ach HErre lad dog ey din Vred' opsyde (DK)</title>
+          </bibl>
+          <bibl xml:id="biblid64839">
+            <title xml:id="idm140375711555648">Velkommen Morgenstund, med Guld og gavn i Mund! (DK)</title>
+          </bibl>
+          <bibl xml:id="biblid65219">
+            <title xml:id="idm140375711554784">Dend klare Sool gaar ned, Det qvelder meer og meer (DK)</title>
+          </bibl>
+          <bibl xml:id="biblid65657">
+            <title xml:id="idm140375711553920">Gud vær mig naadig, og tilgiv min Synd saa leed (DK)</title>
+          </bibl>
+          <bibl xml:id="biblid66261">
+            <title xml:id="idm140375711552992">Op, op i søde JEsu Navn (DK)</title>
+          </bibl>
+          <bibl xml:id="biblid66731">
+            <title xml:id="idm140375711552112">DEt mulner mod den mørke Nat (DK)</title>
+          </bibl>
+          <bibl xml:id="biblid67236">
+            <title xml:id="idm140375711551280">O HErre hør min Jammers bøn (DK)</title>
+          </bibl>
+          <bibl xml:id="biblid67806">
+            <title xml:id="idm140375711550448">Nu rinder Solen op (DK)</title>
+          </bibl>
+          <bibl xml:id="biblid68422">
+            <title xml:id="idm140375711549664">TIl hvile Solen gaar (DK)</title>
+          </bibl>
+          <bibl xml:id="biblid68958">
+            <title xml:id="idm140375711548864">VDaf dend dybe Nød (DK)</title>
+          </bibl>
+          <bibl xml:id="biblid69233">
+            <title xml:id="idm140375711548000">VAag op og slae paa dine Strenge (DK)</title>
+          </bibl>
+          <bibl xml:id="biblid69743">
+            <title xml:id="idm140375711547152">SEe, hvor sig dagen atter skynder (DK)</title>
+          </bibl>
+          <bibl xml:id="biblid70329">
+            <title xml:id="idm140375711546304">O HErre, hold din' Øren aaben (DK)</title>
+          </bibl>
+          <bibl xml:id="biblid71133">
+            <title xml:id="idm140375711545408">Mindedigt over Susanna Worm 1674 (DK)</title>
+          </bibl>
+          <bibl xml:id="biblid71372">
+            <title xml:id="idm140375711544560">Mindedigt over Maren Bering 1675 (DK)</title>
+          </bibl>
+          <bibl xml:id="biblid74417">
+            <title xml:id="idm140375711543712">Aandelig Siunge-Koor, Anden Part, 1.Udgave 1681 (DK)</title>
+          </bibl>
+          <bibl xml:id="biblid76260">
+            <title xml:id="idm140375711542848">Op, op med Himmel-stemme (DK)</title>
+          </bibl>
+          <bibl xml:id="biblid76889">
+            <title xml:id="idm140375711542048">Steenig Hierte, gid du kunde (DK)</title>
+          </bibl>
+          <bibl xml:id="biblid77038">
+            <title xml:id="idm140375711541248">Kom, Siæl, og lad os græde (DK)</title>
+          </bibl>
+          <bibl xml:id="biblid77844">
+            <title xml:id="idm140375711540304">Ach! min JEsu, jeg maa klage (DK)</title>
+          </bibl>
+          <bibl xml:id="biblid77938">
+            <title xml:id="idm140375711539456">Sorrig og Elendighed (DK)</title>
+          </bibl>
+          <bibl xml:id="biblid78995">
+            <title xml:id="idm140375711538608">Ach! min JEsu! ach! jeg er (DK)</title>
+          </bibl>
+          <bibl xml:id="biblid79140">
+            <title xml:id="idm140375711537760">Ach! HErre see (DK)</title>
+          </bibl>
+          <bibl xml:id="biblid79804">
+            <title xml:id="idm140375711536928">Aldrig er jeg uden Vaade (DK)</title>
+          </bibl>
+          <bibl xml:id="biblid79896">
+            <title xml:id="idm140375711536128">Med Blusel, Graad og Klage (DK)</title>
+          </bibl>
+          <bibl xml:id="biblid80535">
+            <title xml:id="idm140375711645696">Naar jeg, O Gud, mit Synde-dyb (DK)</title>
+          </bibl>
+          <bibl xml:id="biblid80614">
+            <title xml:id="idm140375711645008">Fald ned, fald paa dit Ansigt ned (DK)</title>
+          </bibl>
+          <bibl xml:id="biblid81337">
+            <title xml:id="idm140375711644256">Søde JEsu, Siælens Læge (DK)</title>
+          </bibl>
+          <bibl xml:id="biblid81443">
+            <title xml:id="idm140375711643424">Himmel-søde Gud og Fader (DK)</title>
+          </bibl>
+          <bibl xml:id="biblid81800">
+            <title xml:id="idm140375711642592">Til HErrens Bord, i JEsu Nafn (DK)</title>
+          </bibl>
+          <bibl xml:id="biblid81969">
+            <title xml:id="idm140375711641840">Hierte JEsu, hvad for Prøve (DK)</title>
+          </bibl>
+          <bibl xml:id="biblid82081">
+            <title xml:id="idm140375711510112">O JEsu, paa din Alter-food (DK)</title>
+          </bibl>
+          <bibl xml:id="biblid82431">
+            <title xml:id="idm140375711509296">Tak, JEsu, Siælens Hyrde good (DK)</title>
+          </bibl>
+          <bibl xml:id="biblid82560">
+            <title xml:id="idm140375711508464">Min Siæl, hvo er dog dend, som dig saa kierlig føder (DK)</title>
+          </bibl>
+          <bibl xml:id="biblid82769">
+            <title xml:id="idm140375711507584">Far, Verden, far vel (DK)</title>
+          </bibl>
+          <bibl xml:id="biblid83309">
+            <title xml:id="idm140375711506768">Ach JEsu, mit Hierte hâr vanked omkring (DK)</title>
+          </bibl>
+          <bibl xml:id="biblid83423">
+            <title xml:id="idm140375711505904">HErre GUD mit Hiertis Glæde (DK)</title>
+          </bibl>
+          <bibl xml:id="biblid83991">
+            <title xml:id="idm140375711505008">Søde Siæl, hvi vilt du komme (DK)</title>
+          </bibl>
+          <bibl xml:id="biblid84246">
+            <title xml:id="idm140375711504176">Hvorfor, mit Hierte, klemmis du (DK)</title>
+          </bibl>
+          <bibl xml:id="biblid84888">
+            <title xml:id="idm140375711503424">Ach! hvi kand jeg aldrig lukke (DK)</title>
+          </bibl>
+          <bibl xml:id="biblid85096">
+            <title xml:id="idm140375711502672">Sorrig og Glæde de vandre tilhaabe (DK)</title>
+          </bibl>
+          <bibl xml:id="biblid85386">
+            <title xml:id="idm140375711501824">Hvor ofte sukker jeg, fordi dend haarde Lykke (DK)</title>
+          </bibl>
+          <bibl xml:id="biblid85466">
+            <title xml:id="idm140375711501008">Blant alle Ting i Verden her (DK)</title>
+          </bibl>
+          <bibl xml:id="biblid86075">
+            <title xml:id="idm140375711500256">Saa skal dog alle Ting sig efter dennem føye (DK)</title>
+          </bibl>
+          <bibl xml:id="biblid86155">
+            <title xml:id="idm140375711499328">Hierte Fader, Godheds Rood (DK)</title>
+          </bibl>
+          <bibl xml:id="biblid86526">
+            <title xml:id="idm140375711494512">O GUd, hvor stoor og priselig (DK)</title>
+          </bibl>
+          <bibl xml:id="biblid86820">
+            <title xml:id="idm140375711493824">Vor Disk og Dug er alt bered (DK)</title>
+          </bibl>
+          <bibl xml:id="biblid86892">
+            <title xml:id="idm140375711493072">Vort Maaltid vi beslutter nu (DK)</title>
+          </bibl>
+          <bibl xml:id="biblid87144">
+            <title xml:id="idm140375711492384">Hav Tak, ô Gud, vor Skabermand (DK)</title>
+          </bibl>
+          <bibl xml:id="biblid87219">
+            <title xml:id="idm140375711491600">I JEsu Himmel-søde Navn (DK)</title>
+          </bibl>
+          <bibl xml:id="biblid87957">
+            <title xml:id="idm140375711490832">En fattig Pillegriim jeg er (DK)</title>
+          </bibl>
+          <bibl xml:id="biblid88100">
+            <title xml:id="idm140375711490112">O store GUd og HErre (DK)</title>
+          </bibl>
+          <bibl xml:id="biblid88494">
+            <title xml:id="idm140375711489328">Naar jeg, O GUd paa Havet er (DK)</title>
+          </bibl>
+          <bibl xml:id="biblid89264">
+            <title xml:id="idm140375711488512">Melodiudsættelser til Aandelige Siunge-Koor (DK)</title>
+          </bibl>
+          <bibl xml:id="biblid91292">
+            <title xml:id="idm140375711487648">Vinterparten af Danmarks og Norges kirkes forordnede psalmebog (1689) (DK)</title>
+          </bibl>
+          <bibl xml:id="biblid91369">
+            <title xml:id="idm140375711486800">HØrer til I høye Himle (DK)</title>
+          </bibl>
+          <bibl xml:id="biblid91696">
+            <title xml:id="idm140375711485968">OVer Kedron JEsus træder (DK)</title>
+          </bibl>
+          <bibl xml:id="biblid92249">
+            <title xml:id="idm140375711485136">SOver I? Hvor kand I sove (DK)</title>
+          </bibl>
+          <bibl xml:id="biblid92762">
+            <title xml:id="idm140375711484336">MØrket skiuler Jorderige (DK)</title>
+          </bibl>
+          <bibl xml:id="biblid93249">
+            <title xml:id="idm140375711483504">LÆnge haver Satan spundet (DK)</title>
+          </bibl>
+          <bibl xml:id="biblid93728">
+            <title xml:id="idm140375711482608">INgen Høyhed, ingen Ære (DK)</title>
+          </bibl>
+          <bibl xml:id="biblid94210">
+            <title xml:id="idm140375711481712">VElder ud I Øyne-strømme (DK)</title>
+          </bibl>
+          <bibl xml:id="biblid94527">
+            <title xml:id="idm140375711480880">SØde Synd, du Vellyst-Engel (DK)</title>
+          </bibl>
+          <bibl xml:id="biblid95049">
+            <title xml:id="idm140375711480000">PEngene, som Judas slengte (DK)</title>
+          </bibl>
+          <bibl xml:id="biblid95448">
+            <title xml:id="idm140375711479200">JEsus, som skal Verden dømme (DK)</title>
+          </bibl>
+          <bibl xml:id="biblid95964">
+            <title xml:id="idm140375711478368">Til Herodes JEsus føres (DK)</title>
+          </bibl>
+          <bibl xml:id="biblid96294">
+            <title xml:id="idm140375711477472">SEe, nu er Pilatus gangen (DK)</title>
+          </bibl>
+          <bibl xml:id="biblid96772">
+            <title xml:id="idm140375711476672">VIl dog Himlen intet tale (DK)</title>
+          </bibl>
+          <bibl xml:id="biblid97337">
+            <title xml:id="idm140375711475872">HVordan end Pilatus hinked' (DK)</title>
+          </bibl>
+          <bibl xml:id="biblid97774">
+            <title xml:id="idm140375711475024">RÆttens Spiir det alt er brekked (DK)</title>
+          </bibl>
+          <bibl xml:id="biblid98175">
+            <title xml:id="idm140375711474112">KOmmer, I som vil ledsage (DK)</title>
+          </bibl>
+          <bibl xml:id="biblid98584">
+            <title xml:id="idm140375711473312">BRyder frem I hule Sukke (DK)</title>
+          </bibl>
+          <bibl xml:id="biblid99746">
+            <title xml:id="idm140375711472512">SOm dend Gyldne Sool frembryder (DK)</title>
+          </bibl>
+          <bibl xml:id="biblid100165">
+            <title xml:id="idm140375711471648">Vers i Vinterparten (DK)</title>
+          </bibl>
+          <bibl xml:id="biblid100250">
+            <title xml:id="idm140375711470848">Overskrift til Kronborgs anden Port (DK)</title>
+          </bibl>
+          <bibl xml:id="biblid100321">
+            <title xml:id="idm140375711470032">Paa Æsken med Ole Borchs Sten 1690 (DK)</title>
+          </bibl>
+          <bibl xml:id="biblid100375">
+            <title xml:id="idm140375711469184">Æresvers under Anders Sørensen Vedels Portræt (DK)</title>
+          </bibl>
+          <bibl xml:id="biblid100424">
+            <title xml:id="idm140375711468368">Candida (DK)</title>
+          </bibl>
+          <bibl xml:id="biblid100962">
+            <title xml:id="idm140375711467584">Samtale med Rygtet (DK)</title>
+          </bibl>
+          <bibl xml:id="biblid102637">
+            <title xml:id="idm140375711466800">Trøste-Brev til Fru Margarete Ulfeld 1697 (DK)</title>
+          </bibl>
+          <bibl xml:id="biblid103012">
+            <title xml:id="idm140375711465872">Paa-Skriffter udi Niels Juels Epitaphio i Holmens kirke (DK)</title>
+          </bibl>
+          <bibl xml:id="biblid103875">
+            <title xml:id="idm140375711464928">Taksigelsis Sonnet (DK)</title>
+          </bibl>
+        </listBibl>
+      </sourceDesc>
     </fileDesc>
   </teiHeader>
   <text xml:id="idm140375711464288">
     <front xml:id="idm140375711464032">
       <pb n="1" xml:id="s1" facs="adl/kingo/kingo9/king9001"/>
       <gap reason="cancelled" xml:id="idm140375711462624"/>
-<!---->
-<!---->
-<!--Digtning i udvalg-->
       <pb n="2" xml:id="s2" facs="adl/kingo/kingo9/king9002"/>
       <pb n="3" xml:id="s3" facs="adl/kingo/kingo9/king9003"/>
       <titlePage xml:id="idm140375711458752">
@@ -53,7 +327,7 @@
 					</bibl>
         </docEdition>
         <docImprint xml:id="idm140375711455008">
-          <publisher xml:id="idm140375711454752">Danske Klassikere<lb xml:id="idm140375711454464"/> Det danske Sprog- og Litteraturselskab <lb xml:id="idm140375711454144"/>
+          <publisher xml:id="idm140375711454752">Danske Klassikere<lb xml:id="idm140375711454464"/> Det Danske Sprog- og Litteraturselskab <lb xml:id="idm140375711454144"/>
 						Borgen</publisher>
         </docImprint>
       </titlePage>
@@ -1129,9 +1403,9 @@
             <pb n="39" xml:id="s39" facs="adl/kingo/kingo9/king9039"/>
             <lg xml:id="idm140375710951584">
               <head xml:id="idm140375710951328">
-                <hi rend="italics" xml:id="idm140375710951072"><!--&#7940-->[x];
-									<!--&#954-->[x];<!--&#945-->[x];<!--&#8054-->[x];
-									<!--&#8038-->[x];</hi>
+                <hi rend="italics" xml:id="idm140375710951072">[x];
+									[x];[x];[x];
+									[x];</hi>
               </head>
               <l xml:id="idm140375710948816">GId Himlen vilde mig med Naader nu iføre,</l>
               <l xml:id="idm140375710948336">Oc med en fyrig Aand mit suage Sind oprøre,</l>
@@ -1501,7 +1775,7 @@
 							Himmelens Velsignelser at være og vorde fornyede, til et langt Liv,
 							Lyksaligt Regimente, Seyer og Salighed ævindelig, af GUD Fader ved vor
 							Frelsere og eniste Saliggiørere JESUM CHRISTUM.</p>
-            <p xml:id="idm140375710764224">ALlernaadigste Herre og Konge,jeg fordrister mig til udi dybeste
+            <p xml:id="idm140375710764224">ALlernaadigste Herre og Konge, jeg fordrister mig til udi dybeste
 							Underdanighed, at sette Eders Maytz. store Naun for udi dette ringe
 							Skrift, og det dermed udi Eders Kongl. Hænder at overgive; Ikke som en
 							dyrebar Verdens Gave, der saa stoor en Monark kand andstaa; Men som en
@@ -2087,7 +2361,7 @@
               </lg>
               <lg xml:id="idm140375710524544">
                 <head xml:id="idm140375710524288">6.</head>
-                <l xml:id="idm140375710523904">Viger dog,og viger hen</l>
+                <l xml:id="idm140375710523904">Viger dog, og viger hen</l>
                 <l xml:id="idm140375710523488">Alle I som Uræt giøre,</l>
                 <l xml:id="idm140375710523040">HErren skal dog eengang høre</l>
                 <l xml:id="idm140375710522576">Paa min Graadis Røst igien:</l>
@@ -5051,7 +5325,7 @@
           </div>
           <pb n="153" xml:id="s153" facs="adl/kingo/kingo9/king9153"/>
           <div xml:id="idm140375709296768">
-            <head xml:id="idm140375709296512"><!--&#913-->[x]; &amp; <!--&#937-->[x];.</head>
+            <head xml:id="idm140375709296512">[x]; &amp; [x];.</head>
             <lg xml:id="idm140375709295616">
               <l xml:id="idm140375709295360">BEhierted <hi rend="italics" xml:id="idm140375709295072">Konge</hi>, Du aarvogne Scepter-Fører,</l>
               <l xml:id="idm140375709294176">Arv-kroned <hi rend="italics" xml:id="idm140375709293888">Christian</hi>, som Himlen selv oprører</l>
@@ -5775,16 +6049,16 @@
           </div>
           <pb n="178" xml:id="s178" facs="adl/kingo/kingo9/king9178"/>
           <div xml:id="idm140375708900448">
-            <opener xml:id="idm140375708900192"><!--&#953-->[x]; <lb xml:id="idm140375708899744"/><!--&#945-->[x]; <!--&#953-->[x];
-							<!--&#953-->[x]; <!--&#969-->[x]; <lb xml:id="idm140375708898336"/><!--&#964-->[x];<lb xml:id="idm140375708897888"/>
-							Redivivo Bichorali NEHEMIÆ:<lb xml:id="idm140375708897536"/> C 12. v. 31.40.<lb xml:id="idm140375708897248"/><hi rend="italics" xml:id="idm140375708897120">Clarißimo &amp; Nobilißimo</hi><lb xml:id="idm140375708896512"/><hi rend="italics" xml:id="idm140375708896384">Summéq; Venerabili</hi><lb xml:id="idm140375708895808"/> dno. D. M. THOMÆ KINGO &amp;c.<lb xml:id="idm140375708895488"/> Sanctum DEI CHORUM<lb xml:id="idm140375708895200"/><hi rend="italics" xml:id="idm140375708895072"><!--&#968-->[x];<!--&#945-->[x];<!--&#955-->[x];<!--&#956-->[x];<!--&#959-->[x];<!--&#8150-->[x];<!--&#962-->[x];
-								<!--&#954-->[x];<!--&#945-->[x];<!--&#8054-->[x];
-								<!--&#8021-->[x];<!--&#956-->[x];<!--&#957-->[x];<!--&#959-->[x];<!--&#953-->[x];<!--&#962-->[x];
-								<!--&#954-->[x];<!--&#945-->[x];<!--&#8054-->[x];
-								<!--&#8096-->[x];<!--&#948-->[x];<!--&#945-->[x];<!--&#8150-->[x];<!--&#962-->[x];
-								<!--&#960-->[x];<!--&#957-->[x];<!--&#949-->[x];<!--&#965-->[x];<!--&#956-->[x];<!--&#945-->[x];<!--&#964-->[x];<!--&#953-->[x];<!--&#954-->[x];<!--&#945-->[x];<!--&#8150-->[x];<!--&#962-->[x];
-								<!--&#8050-->[x];<!--&#945-->[x];<!--&#965-->[x];<!--&#964-->[x];<!--&#959-->[x];<!--&#8150-->[x];<!--&#962-->[x];
-								<!--&#955-->[x];<!--&#945-->[x];<!--&#955-->[x];<!--&#949-->[x];<!--&#8150-->[x];<!--&#957-->[x];</hi><lb xml:id="idm140375708878992"/> iterum atq; iterum jubenti,<lb xml:id="idm140375708878688"/><hi rend="italics" xml:id="idm140375708878560">afflatum Divînæ Auræ æternum</hi>.</opener>
+            <opener xml:id="idm140375708900192">[x]; <lb xml:id="idm140375708899744"/>[x]; [x];
+							[x]; [x]; <lb xml:id="idm140375708898336"/>[x];<lb xml:id="idm140375708897888"/>
+							Redivivo Bichorali NEHEMIÆ:<lb xml:id="idm140375708897536"/> C 12. v. 31.40.<lb xml:id="idm140375708897248"/><hi rend="italics" xml:id="idm140375708897120">Clarißimo &amp; Nobilißimo</hi><lb xml:id="idm140375708896512"/><hi rend="italics" xml:id="idm140375708896384">Summéq; Venerabili</hi><lb xml:id="idm140375708895808"/> dno. D. M. THOMÆ KINGO &amp;c.<lb xml:id="idm140375708895488"/> Sanctum DEI CHORUM<lb xml:id="idm140375708895200"/><hi rend="italics" xml:id="idm140375708895072">[x];[x];[x];[x];[x];[x];[x];
+								[x];[x];[x];
+								[x];[x];[x];[x];[x];[x];
+								[x];[x];[x];
+								[x];[x];[x];[x];[x];
+								[x];[x];[x];[x];[x];[x];[x];[x];[x];[x];[x];[x];
+								[x];[x];[x];[x];[x];[x];[x];
+								[x];[x];[x];[x];[x];[x];</hi><lb xml:id="idm140375708878992"/> iterum atq; iterum jubenti,<lb xml:id="idm140375708878688"/><hi rend="italics" xml:id="idm140375708878560">afflatum Divînæ Auræ æternum</hi>.</opener>
             <lg xml:id="idm140375708877696">
               <l xml:id="idm140375708877440">Jam mihi me videor Bichoralem audire MAGISTRUM</l>
               <l xml:id="idm140375708876992">NEHEMIAM placidum Pace, Qviete Diu.</l>
@@ -5801,7 +6075,7 @@
               <l xml:id="idm140375708871920">Posthumus ecce Tuus sacris sublimis iisdem</l>
               <l xml:id="idm140375708871472">Motibus intentô pectore tractat idem:</l>
               <l xml:id="idm140375708870992">Nehemiæ nornen, populo qvia dulce levamen</l>
-              <l xml:id="idm140375708870512"><!--&#952-->[x];<!--&#949-->[x];<!--&#953-->[x];<!--&#959-->[x];<!--&#960-->[x];<!--&#949-->[x];<!--&#964-->[x];<!--&#8050-->[x];<!--&#962-->[x];,
+              <l xml:id="idm140375708870512">[x];[x];[x];[x];[x];[x];[x];[x];[x];,
 								monitis, ore, tenore, modô.</l>
               <l xml:id="idm140375708867280">Nomen huic THOMÆ, sensorum animiqve gemellis</l>
               <l xml:id="idm140375708866784">Nam studiis satagit magnificare/multiplicare DEUM,</l>
@@ -5843,7 +6117,7 @@
         <pb n="183" xml:id="s183" facs="adl/kingo/kingo9/king9183"/>
         <body xml:id="idm140375708850864">
           <div xml:id="idm140375708850608">
-            <head xml:id="idm140375708850352"><!--&#913-->[x];. <hi rend="italics" xml:id="idm140375708849904"><!--&#954-->[x];<!--&#945-->[x];<!--&#8054-->[x];</hi><!--&#937-->[x];.<lb xml:id="idm140375708848224"/> Aandelige<lb xml:id="idm140375708847936"/> Siunge-koors<lb xml:id="idm140375708847648"/> Anden
+            <head xml:id="idm140375708850352">[x];. <hi rend="italics" xml:id="idm140375708849904">[x];[x];[x];</hi>[x];.<lb xml:id="idm140375708848224"/> Aandelige<lb xml:id="idm140375708847936"/> Siunge-koors<lb xml:id="idm140375708847648"/> Anden
 							Part<lb xml:id="idm140375708847360"/></head>
             <div xml:id="workid76260" decls="#biblid76260">
               <head xml:id="idm140375708846096">Dend første Sang. <lb xml:id="idm140375708845792"/>Andægtigheds Opmuntring.<lb xml:id="idm140375708845472"/> Kand og
@@ -9394,9 +9668,9 @@
         <back xml:id="idm140375707324496">
           <pb n="278" xml:id="s278" facs="adl/kingo/kingo9/king9278"/>
           <div type="hoc" xml:id="idm140375707323104">
-            <head xml:id="idm140375707322608"><!--&#913-->[x];
-							<!--&#954-->[x];<!--&#945-->[x];<!--&#8054-->[x];
-							<!--&#937-->[x];<lb xml:id="idm140375707320880"/> Register<lb xml:id="idm140375707320592"/> ofver disse aandelige Sange oc
+            <head xml:id="idm140375707322608">[x];
+							[x];[x];[x];
+							[x];<lb xml:id="idm140375707320880"/> Register<lb xml:id="idm140375707320592"/> ofver disse aandelige Sange oc
 							Hierte-Sukke efter Ordenen.</head>
             <list type="simple" xml:id="idm140375707320128">
               <head xml:id="idm140375707319600">Dend første Sang.</head>
@@ -15666,8 +15940,8 @@
             <p xml:id="idm140375704407328">Ene-Volds: enevældige. - <hi rend="italics" xml:id="idm140375704407008">Blive</hi>: skal
 							blive. - <hi rend="italics" xml:id="idm140375704406288">Forbedere</hi>: talsmand, som
 							beder (for kongen).</p>
-            <p xml:id="idm140375704405408"><!--&#8112-->[x]; <hi rend="italics" xml:id="idm140375704404960"><!--&#954-->[x];<!--&#945-->[x];<!--&#8054-->[x];
-								<!--&#8038-->[x];</hi>: gr.: alfa og omega, alfabetets første og
+            <p xml:id="idm140375704405408">[x]; <hi rend="italics" xml:id="idm140375704404960">[x];[x];[x];
+								[x];</hi>: gr.: alfa og omega, alfabetets første og
 							sidste bogstav, <pb n="464" xml:id="s464" facs="adl/kingo/kingo9/king9464"/> symbol på Gud
 							som altings ophav og endemål, jf. Johs.Åb. 1,8. Symbolet er i flere
 							digte anvendt af Kingo som indledende anråbelse.</p>
@@ -16170,9 +16444,9 @@
 								Part</hi>: Titlen er tildels overtaget fra Søren Terkelsen: <hi rend="italics" xml:id="idm140375704017552">Astree Siunge-Choer</hi>, I-III, 1648-1654, en
 								samling oversatte hyrdeviser; med <hi rend="italics" xml:id="idm140375704016784">Aandelige</hi>
 								markerer Kingo samlingens kristne, opbyggelige sigte.</p>
-              <p xml:id="idm140375704015888"><!--&#945-->[x];
-								<!--&#954-->[x];<!--&#945-->[x];<!--&#8054-->[x];
-								<!--&#969-->[x];: gr.: alfa og omega, alfabetets første og
+              <p xml:id="idm140375704015888">[x];
+								[x];[x];[x];
+								[x];: gr.: alfa og omega, alfabetets første og
 								sidste bogstav, symbol på Gud som altings ophav og endemål,
 								jf.Johs.Åb. 1,8. Symbolet er i flere digte anvendt af Kingo som
 								indledende anråbelse. - <hi rend="italics" xml:id="idm140375704013696">Aandelige
@@ -18403,8 +18677,8 @@
               <p xml:id="idm140375701935888"><hi rend="italics" xml:id="idm140375701935760">Aandelige Siunge-koors Anden Part</hi>: jf. note
 								til s. 163.</p>
               <p xml:id="idm140375701934880">Titelbladets tekst, der i originalen er trykt i sort og rødt, lyder:
-								<!--&#913-->[x]; <hi rend="italics" xml:id="idm140375701934128"><!--&#954-->[x];<!--&#945-->[x];<!--&#8054-->[x];</hi>
-								<!--&#937-->[x];: gr.: alfa og omega, alfabetets første og
+								[x]; <hi rend="italics" xml:id="idm140375701934128">[x];[x];[x];</hi>
+								[x];: gr.: alfa og omega, alfabetets første og
 								sidste bogstav, symbol på Gud som altings ophav og endemål,
 								jf.Johs.Ab. 1,8. Symbolet er i flere digte anvendt af Kingo som
 								indledende anråbelse. - <hi rend="italics" xml:id="idm140375701931824">Thomas Kingos
@@ -18712,7 +18986,7 @@
 								statholder over Jerusalem 445-432 f.Kr. genopbyggede han Jerusalems
 								bymur og iværksatte sociale og religiøse reformer. Under indvielsen
 								af bymuren opstillede han to kor, der hver for sig og sammen
-								lovpriste Gud. - <hi rend="italics" xml:id="idm140375701706592"><!--&#968-->[x];<!--&#945-->[x];<!--&#955-->[x];<!--&#956-->[x];<!--&#959-->[x];<!--&#8150-->[x];</hi><!--&#962-->[x];...:
+								lovpriste Gud. - <hi rend="italics" xml:id="idm140375701706592">[x];[x];[x];[x];[x];[x];</hi>[x];...:
 								/ <hi rend="italics" xml:id="idm140375701703952">at synge</hi> ...: Efes. 5,19. - <hi rend="italics" xml:id="idm140375701703232">Nehemiæ nomen</hi> ... / <hi rend="italics" xml:id="idm140375701702496">Dit
 									Navn</hi> ...: Det hebr. navn Nehemias betyder Gud trøster. -
 									<hi rend="italics" xml:id="idm140375701701664">THOMÆ</hi> ... / <hi rend="italics" xml:id="idm140375701700944">dennes
@@ -18733,8 +19007,8 @@
 								- <hi rend="italics" xml:id="idm140375701688464">oplegges</hi>: udgives; dette løfte
 								blev ikke indfriet. - <hi rend="italics" xml:id="idm140375701687648">Gud befalet</hi>:
 								(skal læseren være) overgivet i Guds varetægt.</p>
-              <p xml:id="idm140375701686704"><!--&#913-->[x]; <hi rend="italics" xml:id="idm140375701686256"><!--&#954-->[x];<!--&#945-->[x];<!--&#8054-->[x];
-									<!--&#937-->[x];</hi>: jf. note til s. 167. - <hi rend="italics" xml:id="idm140375701684400">Aandelige Siunge-koor(s</hi>): jf. note til s.
+              <p xml:id="idm140375701686704">[x]; <hi rend="italics" xml:id="idm140375701686256">[x];[x];[x];
+									[x];</hi>: jf. note til s. 167. - <hi rend="italics" xml:id="idm140375701684400">Aandelige Siunge-koor(s</hi>): jf. note til s.
 								163.</p>
             </div>
             <div xml:id="idm140375701683408">
@@ -19265,7 +19539,7 @@
                 <p xml:id="idm140375701230912"><hi rend="italics" xml:id="idm140375701230784">Sting</hi>: stik. - 1.7 <hi rend="italics" xml:id="idm140375701230064">Stryg</hi> ...: rens dig for synd mod
 									uskyldige, jf. 1.Kong. 2,5.</p>
                 <eg xml:id="idm140375701229168">2.5</eg>
-                <p xml:id="idm140375701228784"><hi rend="italics" xml:id="idm140375701228656">Leer</hi>: om kroppen,jf. l.Mos. 2,7.
+                <p xml:id="idm140375701228784"><hi rend="italics" xml:id="idm140375701228656">Leer</hi>: om kroppen, jf. l.Mos. 2,7.
 									- 2.6 <hi rend="italics" xml:id="idm140375701227904">Naader</hi>: nådegaver.
 									- <hi rend="italics" xml:id="idm140375701227152">anseer</hi>: betragter.</p>
                 <eg xml:id="idm140375701226304">3.1</eg>
@@ -20330,8 +20604,8 @@
                 <p xml:id="idm140375700283680"><hi rend="italics" xml:id="idm140375700283552">Boode-bekke</hi>: bække af bod(stårer). <hi rend="italics" xml:id="idm140375700282800">alt det</hi> ...: det sidste vers i Salmernes
 									Bog, Sal. 150,6. - <hi rend="italics" xml:id="idm140375700282032">love</hi>: skal
 									lovprise.</p>
-                <p xml:id="idm140375700281168"><!--&#913-->[x]; <hi rend="italics" xml:id="idm140375700280720"><!--&#954-->[x];<!--&#945-->[x];<!--&#8054-->[x];
-										<!--&#937-->[x];</hi>: se note til s. 167</p>
+                <p xml:id="idm140375700281168">[x]; <hi rend="italics" xml:id="idm140375700280720">[x];[x];[x];
+										[x];</hi>: se note til s. 167</p>
                 <p xml:id="idm140375700278752"><hi rend="italics" xml:id="idm140375700278624">DANIELIS PAULLI</hi>: 1640-1684, boghandler,
 									forlægger og avisudgiver i København. - <hi rend="italics" xml:id="idm140375700277760">kiende (...) for</hi>: anerkende som.
 									- <hi rend="italics" xml:id="idm140375700277024">og</hi>: også. - <hi rend="italics" xml:id="idm140375700276336">Titul</hi>: titel(blad). - <hi rend="italics" xml:id="idm140375700275616">for</hi>: foran. - <hi rend="italics" xml:id="idm140375700274928">sær</hi>: særlig. - <hi rend="italics" xml:id="idm140375700274192">forretrøckt</hi>: trykt.</p>
@@ -20447,7 +20721,7 @@
             <eg xml:id="idm140375700202256">41</eg>
             <p xml:id="idm140375700201872"><hi rend="italics" xml:id="idm140375700201744">intet</hi>: ikke. - røre: tage i agt.</p>
             <eg xml:id="idm140375700200848">43</eg>
-            <p xml:id="idm140375700200464"><hi rend="italics" xml:id="idm140375700200336">kipper</hi>: skælver,banker. - <hi rend="italics" xml:id="idm140375700199584">vil</hi>: er ved at. - <hi rend="italics" xml:id="idm140375700198896">give (...) op</hi>: opgive.</p>
+            <p xml:id="idm140375700200464"><hi rend="italics" xml:id="idm140375700200336">kipper</hi>: skælver, banker. - <hi rend="italics" xml:id="idm140375700199584">vil</hi>: er ved at. - <hi rend="italics" xml:id="idm140375700198896">give (...) op</hi>: opgive.</p>
             <eg xml:id="idm140375700198048">44</eg>
             <p xml:id="idm140375700197664"><hi rend="italics" xml:id="idm140375700197536">spyt</hi>: spyttet. - <hi rend="italics" xml:id="idm140375700196816">af</hi>: ud af.</p>
             <eg xml:id="idm140375700196000">45</eg>
@@ -21759,7 +22033,7 @@
               <p xml:id="idm140375699016704"><hi rend="italics" xml:id="idm140375699016576">Legems Sool</hi>: om øjet, jf. Matt. 6,22. - 24.2
 									<hi rend="italics" xml:id="idm140375699015776">Blues</hi>: skam dig. -24.6 <hi rend="italics" xml:id="idm140375699015056">For</hi>: for at.</p>
               <eg xml:id="idm140375699014240">25.3</eg>
-              <p xml:id="idm140375699013824"><hi rend="italics" xml:id="idm140375699013696">End som</hi>: end. - 25.5 <hi rend="italics" xml:id="idm140375699012976">Vidne</hi>: vidnesbyrd,jf.Johs. 19,28-30. -<hi rend="italics" xml:id="idm140375699012240">bær</hi>: fremfører. - 25.7 <hi rend="italics" xml:id="idm140375699011488">Adam</hi>: Ved Adams synd opstod arvesynden og dermed alles
+              <p xml:id="idm140375699013824"><hi rend="italics" xml:id="idm140375699013696">End som</hi>: end. - 25.5 <hi rend="italics" xml:id="idm140375699012976">Vidne</hi>: vidnesbyrd, jf.Johs. 19,28-30. -<hi rend="italics" xml:id="idm140375699012240">bær</hi>: fremfører. - 25.7 <hi rend="italics" xml:id="idm140375699011488">Adam</hi>: Ved Adams synd opstod arvesynden og dermed alles
 								dødelighed, jf. Rom. 5,12-21. - <hi rend="italics" xml:id="idm140375699010592">imaale</hi>: tilmåle; hælde op. - 25.8 <hi rend="italics" xml:id="idm140375699009824">Giør...
 									ræt</hi>: drikker jeg ud.</p>
               <eg xml:id="idm140375699008944">26.1</eg>
@@ -22105,7 +22379,7 @@
 								<hi rend="italics" xml:id="idm140375698731280">kostelige</hi>: prægtige. - <hi rend="italics" xml:id="idm140375698730544">Becman</hi> J. C. Becman: <hi rend="italics" xml:id="idm140375698729824">Historia
 								orbis terrarum</hi>, 1673, hvis tredje afsnit er Hydrographia.
 							- <hi rend="italics" xml:id="idm140375698729056">Drak</hi>: Francis Drake, ca. 1540-1595.
-							- <hi rend="italics" xml:id="idm140375698728304">Flode</hi>: flåde. - <hi rend="italics" xml:id="idm140375698727568">Eylande</hi>: øer. - <hi rend="italics" xml:id="idm140375698726848">vid</hi>: vide(te), lat.: se. - <hi rend="italics" xml:id="idm140375698726144">Cambdeni</hi> ...: egl. to værker, nl. William Camden: <hi rend="italics" xml:id="idm140375698725360">Britannia</hi>, 1596, og Henry Holland: <hi rend="italics" xml:id="idm140375698724624">Her<!--&#969-->[x];ologia Anglica</hi>, 1620.
+							- <hi rend="italics" xml:id="idm140375698728304">Flode</hi>: flåde. - <hi rend="italics" xml:id="idm140375698727568">Eylande</hi>: øer. - <hi rend="italics" xml:id="idm140375698726848">vid</hi>: vide(te), lat.: se. - <hi rend="italics" xml:id="idm140375698726144">Cambdeni</hi> ...: egl. to værker, nl. William Camden: <hi rend="italics" xml:id="idm140375698725360">Britannia</hi>, 1596, og Henry Holland: <hi rend="italics" xml:id="idm140375698724624">Her[x];ologia Anglica</hi>, 1620.
 							- <hi rend="italics" xml:id="idm140375698723584">Moreri</hi>: Louis Moreri: <hi rend="italics" xml:id="idm140375698722864">Le grand Dictionnaire historique</hi>, 1674; dette
 							leksikon er Kingos hovedkilde til de søfartshistoriske oplysninger i
 							noterne og til litteraturhenvisningerne. - <hi rend="italics" xml:id="idm140375698721856">Hofmanni</hi>: J. J. Hofman: <hi rend="italics" xml:id="idm140375698721136">Lexicon Universale,

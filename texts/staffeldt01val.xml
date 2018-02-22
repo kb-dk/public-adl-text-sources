@@ -1,11 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!-- OCR by ATAPY 10.09.03 (Catherine Bychkova) -->
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="idm139817919449968">
-  <!-- 
-       file     ./marc_dir/002256026.xml
-       field     
-       subfield  
-       prefix   -->
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="root">
   <teiHeader xml:id="idm139817919449184">
     <fileDesc xml:id="idm139817919448928">
       <titleStmt xml:id="idm139817919423408">
@@ -17,7 +11,7 @@
         <author xml:id="idm139817919421744">Schack Staffeldt</author>
       </titleStmt>
       <publicationStmt xml:id="idm139817919421232">
-        <publisher xml:id="idm139817919420976">Det danske Sprog- og Litteraturselskab C. A. Reitzels Forlag København 2001</publisher>
+        <publisher xml:id="idm139817919420976">Det Danske Sprog- og Litteraturselskab C. A. Reitzels Forlag København 2001</publisher>
         <idno xml:id="idm139817919420416" xml:base="texts/staffeldt01val.xml">002256026:01</idno>
       </publicationStmt>
       <notesStmt xml:id="idm139817919419568">
@@ -30,8 +24,8 @@
             <name xml:id="idm139817919417248"><surname xml:id="idm139817919417120">Staffeldt</surname>, <forename xml:id="idm139817919416656">A. W. Schack von</forename></name>
           </author>
           <title xml:id="idm139817919416112">Samlede digte</title>
-          <pubPlace xml:id="idm139817919415696">Kbh.</pubPlace>
-          <publisher xml:id="idm139817919415280">Det danske Sprog- og Litteraturselskab</publisher>
+          <pubPlace xml:id="idm139817919415696">København</pubPlace>
+          <publisher xml:id="idm139817919415280">Det Danske Sprog- og Litteraturselskab</publisher>
           <publisher xml:id="idm139817919414848">C.A. Reitzel</publisher>
           <date xml:id="idm139817919414384">2001</date>
         </bibl>
@@ -740,9 +734,6 @@
     <front xml:id="idm139817919095072">
       <pb n="1" xml:id="s1" facs="adl/staf/staf1/staf1001"/>
       <gap reason="cancelled" xml:id="idm139817919093616"/>
-      <!---->
-      <!---->
-      <!--Schack Staffeldt Samlede digte-->
       <pb n="2" xml:id="s2" facs="adl/staf/staf1/staf1002"/>
       <pb n="3" xml:id="s3" facs="adl/staf/staf1/staf1003"/>
       <titlePage xml:id="idm139817919089792">
@@ -762,7 +753,7 @@
           <figure xml:id="idm139817919083984"/>
         </titlePart>
         <docImprint xml:id="idm139817919083600">
-          <publisher xml:id="idm139817919083344">Det danske Sprog- og Litteraturselskab<lb xml:id="idm139817919083040"/>C. A. Reitzels Forlag<lb xml:id="idm139817919082752"/>København 2001</publisher>
+          <publisher xml:id="idm139817919083344">Det Danske Sprog- og Litteraturselskab<lb xml:id="idm139817919083040"/>C. A. Reitzels Forlag<lb xml:id="idm139817919082752"/>København 2001</publisher>
         </docImprint>
       </titlePage>
       <pb n="4" xml:id="s4" facs="adl/staf/staf1/staf1004"/>
@@ -801,8 +792,6 @@ Henrik Blicher</trailer>
       <pb n="7" xml:id="s7" facs="adl/staf/staf1/staf1007"/>
       <div type="toc" xml:id="idm139817919056688">
         <head xml:id="idm139817919056192">Indhold</head>
-        <!--<p><table>
-					<row><cell>Hexaëmeron</cell><cell>1</cell></row>				-->
         <p xml:id="idm139817919055392">
           <table xml:id="idm139817919055136">
             <row role="data" xml:id="idm139817919054880">

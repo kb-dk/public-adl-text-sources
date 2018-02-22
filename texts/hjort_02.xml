@@ -1,9 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="idm140289727921216"><!-- 
-       file     ./marc_dir/001915174.xml
-       field     
-       subfield  
-       prefix   -->
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="root">
   <teiHeader xml:id="idm140289727920560">
     <fileDesc xml:id="idm140289727920304">
       <titleStmt xml:id="idm140289727920000">
@@ -18,8 +14,21 @@
         <note xml:id="idm140289727891952">
 	  </note>
       </notesStmt>
-      <sourceDesc xml:id="idm140289727891440"><bibl xml:id="idm140289727891312"><author n="1" xml:id="idm140289727890672"><name xml:id="idm140289727890416"><surname xml:id="idm140289727890288">Hjortø</surname>, <forename xml:id="idm140289727889824">Knud</forename></name></author><title xml:id="idm140289727889536">Kraft</title><pubPlace xml:id="idm140289727889248">Kbh</pubPlace>
-<date xml:id="idm140289727888768">1902</date></bibl><listBibl xml:id="idm140289727888480"><bibl xml:id="biblid54087"><title xml:id="idm140289727875328">Kraft</title></bibl></listBibl></sourceDesc>
+      <sourceDesc xml:id="idm140289727891440">
+        <bibl xml:id="idm140289727891312">
+          <author n="1" xml:id="idm140289727890672">
+            <name xml:id="idm140289727890416"><surname xml:id="idm140289727890288">Hjortø</surname>, <forename xml:id="idm140289727889824">Knud</forename></name>
+          </author>
+          <title xml:id="idm140289727889536">Kraft</title>
+          <pubPlace xml:id="idm140289727889248">København</pubPlace>
+          <date xml:id="idm140289727888768">1902</date>
+        </bibl>
+        <listBibl xml:id="idm140289727888480">
+          <bibl xml:id="biblid54087">
+            <title xml:id="idm140289727875328">Kraft</title>
+          </bibl>
+        </listBibl>
+      </sourceDesc>
     </fileDesc>
   </teiHeader>
   <text xml:id="workid54087" decls="#biblid54087">

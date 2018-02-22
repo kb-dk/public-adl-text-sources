@@ -1,10 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!--Tom opmærkning d.30.4.2002 blo -->
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="idm140253716519904"><!-- 
-       file     ./marc_dir/001823971.xml
-       field     
-       subfield  
-       prefix   -->
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="root">
   <teiHeader xml:id="idm140253716519072">
     <fileDesc xml:id="idm140253716518816">
       <titleStmt xml:id="idm140253716553152">
@@ -23,8 +18,30 @@
         <note xml:id="idm140253716489264">
 	  </note>
       </notesStmt>
-      <sourceDesc xml:id="idm140253716488752"><bibl xml:id="idm140253716488624"><author n="1" xml:id="idm140253716487936"><name xml:id="idm140253716487680"><surname xml:id="idm140253716487552">Goldschmidt</surname>, <forename xml:id="idm140253716487120">M. A.</forename></name></author><title xml:id="idm140253716486864">M. Goldschmidts Poetiske Skrifter</title><pubPlace xml:id="idm140253716486560">Kbh.</pubPlace>
-<date xml:id="idm140253716486048">1896-98</date></bibl><listBibl xml:id="idm140253716485760"><bibl xml:id="biblid54159"><title xml:id="idm140253716472608">Den sidste Svovlstik</title></bibl><bibl xml:id="biblid54481"><title xml:id="idm140253716471824">Fotografierne og Mefistofeles</title></bibl><bibl xml:id="biblid54643"><title xml:id="idm140253716470976">Arvingen</title></bibl><bibl xml:id="biblid56945"><title xml:id="idm140253716470192">Breve fra Koleratiden eller en Roman i Breve</title></bibl></listBibl></sourceDesc>
+      <sourceDesc xml:id="idm140253716488752">
+        <bibl xml:id="idm140253716488624">
+          <author n="1" xml:id="idm140253716487936">
+            <name xml:id="idm140253716487680"><surname xml:id="idm140253716487552">Goldschmidt</surname>, <forename xml:id="idm140253716487120">M. A.</forename></name>
+          </author>
+          <title xml:id="idm140253716486864">M. Goldschmidts Poetiske Skrifter</title>
+          <pubPlace xml:id="idm140253716486560">København</pubPlace>
+          <date xml:id="idm140253716486048">1896-98</date>
+        </bibl>
+        <listBibl xml:id="idm140253716485760">
+          <bibl xml:id="biblid54159">
+            <title xml:id="idm140253716472608">Den sidste Svovlstik</title>
+          </bibl>
+          <bibl xml:id="biblid54481">
+            <title xml:id="idm140253716471824">Fotografierne og Mefistofeles</title>
+          </bibl>
+          <bibl xml:id="biblid54643">
+            <title xml:id="idm140253716470976">Arvingen</title>
+          </bibl>
+          <bibl xml:id="biblid56945">
+            <title xml:id="idm140253716470192">Breve fra Koleratiden eller en Roman i Breve</title>
+          </bibl>
+        </listBibl>
+      </sourceDesc>
     </fileDesc>
   </teiHeader>
   <text xml:id="idm140253716469440">

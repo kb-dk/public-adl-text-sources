@@ -1,10 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!--Tom opmærkning d.14.3.2002 jbh -->
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="idm140470109411520"><!-- 
-       file     ./marc_dir/001629316.xml
-       field    530 
-       subfield a 
-       prefix   Bd. 2 : -->
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="root">
   <teiHeader xml:id="idm140470109415856">
     <fileDesc xml:id="idm140470109415600">
       <titleStmt xml:id="idm140470109415296">
@@ -23,8 +18,19 @@
         <note xml:id="idm140470109385984">
 	  </note>
       </notesStmt>
-      <sourceDesc xml:id="idm140470109385472"><bibl xml:id="idm140470109385344"><author n="1" xml:id="idm140470109384656"><name xml:id="idm140470109384400"><surname xml:id="idm140470109384272">Worm</surname>, <forename xml:id="idm140470109383808">Jacob</forename></name></author><title xml:id="idm140470109383200">Kommentar. - 1971</title><pubPlace xml:id="idm140470109382944">Kbh.</pubPlace>
-<date xml:id="idm140470109382432">[1968]-1994</date></bibl><listBibl xml:id="idm140470109382144"><bibl/></listBibl></sourceDesc>
+      <sourceDesc xml:id="idm140470109385472">
+        <bibl xml:id="idm140470109385344">
+          <author n="1" xml:id="idm140470109384656">
+            <name xml:id="idm140470109384400"><surname xml:id="idm140470109384272">Worm</surname>, <forename xml:id="idm140470109383808">Jacob</forename></name>
+          </author>
+          <title xml:id="idm140470109383200">Kommentar. - 1971</title>
+          <pubPlace xml:id="idm140470109382944">København</pubPlace>
+          <date xml:id="idm140470109382432">[1968]-1994</date>
+        </bibl>
+        <listBibl xml:id="idm140470109382144">
+          <bibl xml:id="iddee1955c-7060-4c52-a1ce-96f51d734b56"/>
+        </listBibl>
+      </sourceDesc>
     </fileDesc>
   </teiHeader>
   <text xml:id="idm140470109381632">

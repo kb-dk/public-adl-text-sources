@@ -1,9 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="idm139911749634784"><!-- 
-       file     ./marc_dir/001915177.xml
-       field     
-       subfield  
-       prefix   -->
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="root">
   <teiHeader xml:id="idm139911749638752">
     <fileDesc xml:id="idm139911749638496">
       <titleStmt xml:id="idm139911749638192">
@@ -18,8 +14,22 @@
         <note xml:id="idm139911749610160">
 	  </note>
       </notesStmt>
-      <sourceDesc xml:id="idm139911749609648"><bibl xml:id="idm139911749609520"><author n="1" xml:id="idm139911749608832"><name xml:id="idm139911749608576"><surname xml:id="idm139911749608448">Hjortø</surname>, <forename xml:id="idm139911749608016">Knud</forename></name></author><title xml:id="idm139911749607728">Støv og stjærner</title><pubPlace xml:id="idm139911749607424">Kbh.</pubPlace>
-<publisher xml:id="idm139911749606960">Schubothe</publisher><date xml:id="idm139911749606624">1904</date></bibl><listBibl xml:id="idm139911749606336"><bibl xml:id="biblid54088"><title xml:id="idm139911749593184">Støv og stjærner</title></bibl></listBibl></sourceDesc>
+      <sourceDesc xml:id="idm139911749609648">
+        <bibl xml:id="idm139911749609520">
+          <author n="1" xml:id="idm139911749608832">
+            <name xml:id="idm139911749608576"><surname xml:id="idm139911749608448">Hjortø</surname>, <forename xml:id="idm139911749608016">Knud</forename></name>
+          </author>
+          <title xml:id="idm139911749607728">Støv og stjærner</title>
+          <pubPlace xml:id="idm139911749607424">København</pubPlace>
+          <publisher xml:id="idm139911749606960">Schubothe</publisher>
+          <date xml:id="idm139911749606624">1904</date>
+        </bibl>
+        <listBibl xml:id="idm139911749606336">
+          <bibl xml:id="biblid54088">
+            <title xml:id="idm139911749593184">Støv og stjærner</title>
+          </bibl>
+        </listBibl>
+      </sourceDesc>
     </fileDesc>
   </teiHeader>
   <text xml:id="workid54088" decls="#biblid54088">

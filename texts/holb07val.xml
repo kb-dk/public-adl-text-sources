@@ -1,13 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!-- valideret HHL 9.11.2001
-     flyttet til server 9.nov 2001
-20021017 HHL fjernet bindestreger ved sideslut
-     -->
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="idm140607960337472"><!-- 
-       file     ./marc_dir/001629300.xml
-       field    248 
-       subfield g 
-       prefix   3-7-->
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="root">
   <teiHeader xml:id="idm140607960337008">
     <fileDesc xml:id="idm140607960336432">
       <titleStmt xml:id="idm140607960336176">
@@ -27,8 +19,50 @@
         <note xml:id="idm140607960306592">
 	  </note>
       </notesStmt>
-      <sourceDesc xml:id="idm140607960306080"><bibl xml:id="idm140607960305952"><author n="1" xml:id="idm140607960305264"><name xml:id="idm140607960305008"><surname xml:id="idm140607960304880">Holberg</surname>, <forename xml:id="idm140607960304416">Ludvig</forename></name></author><title xml:id="idm140607960304128">Værker i tolv bind</title><title xml:id="idm140607960303824">3-7: Komedier</title><pubPlace xml:id="idm140607960303536">[Kbh.]</pubPlace>
-<publisher xml:id="idm140607960303072">Rosenkilde og Bagger</publisher><date xml:id="idm140607960302736">1969-1971</date></bibl><listBibl xml:id="idm140607960302448"><bibl xml:id="biblid54654"><title xml:id="idm140607960289296">PLUTUS</title></bibl><bibl xml:id="biblid64208"><title xml:id="idm140607960288512">HUUS-SPØGELSE</title></bibl><bibl xml:id="biblid75150"><title xml:id="idm140607960287712">DEN FORVANDLEDE BRUDGOM</title></bibl><bibl xml:id="biblid79171"><title xml:id="idm140607960286928">DON RANUDO DE COLIBRADOS</title></bibl><bibl xml:id="biblid89842"><title xml:id="idm140607960286128">PHILOSOPHUS UDI EGEN INDBILDING</title></bibl><bibl xml:id="biblid101553"><title xml:id="idm140607960285328">REPUBLIQVEN</title></bibl><bibl xml:id="biblid111173"><title xml:id="idm140607960284544">SGANARELS REYSE</title></bibl><bibl xml:id="biblid118169"><title xml:id="idm140607960283712">Fortaler</title></bibl><bibl xml:id="biblid118296"><title xml:id="idm140607960282880">Hans Mickelsen</title></bibl><bibl xml:id="biblid118360"><title xml:id="idm140607960282096">Just Justesens Betænkning</title></bibl></listBibl></sourceDesc>
+      <sourceDesc xml:id="idm140607960306080">
+        <bibl xml:id="idm140607960305952">
+          <author n="1" xml:id="idm140607960305264">
+            <name xml:id="idm140607960305008"><surname xml:id="idm140607960304880">Holberg</surname>, <forename xml:id="idm140607960304416">Ludvig</forename></name>
+          </author>
+          <title xml:id="idm140607960304128">Værker i tolv bind</title>
+          <title xml:id="idm140607960303824">3-7: Komedier</title>
+          <pubPlace xml:id="idm140607960303536">[København]</pubPlace>
+          <publisher xml:id="idm140607960303072">Rosenkilde og Bagger</publisher>
+          <date xml:id="idm140607960302736">1969-1971</date>
+        </bibl>
+        <listBibl xml:id="idm140607960302448">
+          <bibl xml:id="biblid54654">
+            <title xml:id="idm140607960289296">PLUTUS</title>
+          </bibl>
+          <bibl xml:id="biblid64208">
+            <title xml:id="idm140607960288512">HUUS-SPØGELSE</title>
+          </bibl>
+          <bibl xml:id="biblid75150">
+            <title xml:id="idm140607960287712">DEN FORVANDLEDE BRUDGOM</title>
+          </bibl>
+          <bibl xml:id="biblid79171">
+            <title xml:id="idm140607960286928">DON RANUDO DE COLIBRADOS</title>
+          </bibl>
+          <bibl xml:id="biblid89842">
+            <title xml:id="idm140607960286128">PHILOSOPHUS UDI EGEN INDBILDING</title>
+          </bibl>
+          <bibl xml:id="biblid101553">
+            <title xml:id="idm140607960285328">REPUBLIQVEN</title>
+          </bibl>
+          <bibl xml:id="biblid111173">
+            <title xml:id="idm140607960284544">SGANARELS REYSE</title>
+          </bibl>
+          <bibl xml:id="biblid118169">
+            <title xml:id="idm140607960283712">Fortaler</title>
+          </bibl>
+          <bibl xml:id="biblid118296">
+            <title xml:id="idm140607960282880">Hans Mickelsen</title>
+          </bibl>
+          <bibl xml:id="biblid118360">
+            <title xml:id="idm140607960282096">Just Justesens Betænkning</title>
+          </bibl>
+        </listBibl>
+      </sourceDesc>
     </fileDesc>
   </teiHeader>
   <text xml:id="idm140607960281392">
@@ -126,7 +160,6 @@ Billed- og Indholdsfortegnelse for hele Værket
         </list>
       </div>
     </front>
-<!--<pb n="6" facs="holb7006" id="s6"/>-->
     <pb n="7" facs="holb7007" xml:id="s7" rend="missing"/>
     <group xml:id="idm140607960228352">
       <text xml:id="workid54654" decls="#biblid54654">
@@ -136,7 +169,6 @@ Eller<lb xml:id="idm140607960226336"/>
 PROCES IMELLEM FATTIGDOM OG RIIGDOM<lb xml:id="idm140607960226080"/>
 						<stage type="mix" xml:id="idm140607960225824">En heroisk Comoedie udi fem Acter</stage>
 					</head>
-<!--bind 7, side 7- -->
           <pb n="8" facs="holb7008" xml:id="s8" rend="missing"/>
           <div type="castList" xml:id="idm140607960223616">
             <head xml:id="idm140607960223120">
@@ -228,14 +260,6 @@ Grædske Comoedieskrivers Aristophanis Plutus, men er saaledes bleven omstøbt a
 </p>
               </sp>
               <pb n="12" facs="holb7012" xml:id="s12" rend="missing"/>
-	      <!-- 
-	      <figure>
-	      <figDesc><hi rend="italics">DAVUS. ... Det maa da være en dum Gud; thi...<lb/>
-	      TIMOTHEUS. ... Han er ikke dum; men han er stok blind.
-	      </hi>
-	      </figDesc>
-	      </figure>
-	      -->
               <sp xml:id="idm140607960176448">
                 <speaker xml:id="idm140607960175792">TIMOTHEUS.</speaker>
                 <p xml:id="idm140607960175408"> Han er ikke dum; men han er stok blind. Og er det i Henseende til den Blindhed, hvormed han er slagen, at han gemeenligen tager feyl, og uddeeler sine Gaver til de uværdigste Mennesker. Men jeg haaber dog, at denne Uheld ikke skal længe vare; Thi Raadet har ved Bønner og Ofringer bevæget Jupiter at see til vor Elendighed, og at tilskikke os Plutum.
@@ -392,13 +416,6 @@ Ach Herr Ambassadeur! Jeg beder Eders Excellence om Naade.
               </sp>
             </div>
             <pb n="16" facs="holb7016" xml:id="s16" rend="missing"/>
-	    <!-- 
-		 <figure>
-		 <figDesc>
-		 <hi rend="italics">MERCURIUS. ... Stat op Davus, og vær ved frit Mod. Jeg er Gudernes Ambassadeur.</hi>
-		 </figDesc>
-		 <figure>
-	    -->
             <pb n="17" facs="holb7017" xml:id="s17" rend="missing"/>
             <div type="scene" xml:id="idm140607960120720">
               <head xml:id="idm140607960120224">SCEN. 6</head>
@@ -568,10 +585,6 @@ Ach Herr Ambassadeur! Jeg beder Eders Excellence om Naade.
 </p>
               </sp>
               <pb n="19" facs="holb7019" xml:id="s19" rend="missing"/>
-<!-- <figure>
-<figDesc><hi rend="italics">PLUTUS. ... Har vi langt endnu fil Staden?<lb/>
-TIENEREN....Vi ere allerede udi Staden ...</hi></figDesc>
-<figure> -->
               <sp xml:id="idm140607960071568">
                 <speaker xml:id="idm140607960071312">DIOGENES.</speaker>
                 <p xml:id="idm140607960070928">  Ved disse knurvorne Philosophi meener man nok mig. Alt hvad som ikke flatterer en Stads Forfængelighed, kaldes Avind og Knurvorenhed. Jeg maatte gierne spørge, hvad vore Naboe-Stæder have vundet ved Pluti Nærværelse. Man har jo seet ham at uddeele sine Gaver til de slemmeste og udygtigste Mennesker, og at mange gode Stæder ved saadan Forhold ere bragte udi største Forvirrelse.
@@ -845,9 +858,6 @@ Thi, saasom Glæde har giort jer afsindige, saa har jeg herved alleene søgt at 
               </sp>
             </div>
           </div>
-<!-- <figure>
-<figDesc><hi rend="italics">DIOGENES. ,.. ]eg vil.,. sætte mig i min Tønde, for der at begræde den over Staden hængende U-lykke.</hi></figDesc>
-<figure> -->
           <pb n="25" facs="holb7025" xml:id="s25" rend="missing"/>
           <div type="akt" xml:id="idm140607959984976">
             <head xml:id="idm140607959984480">ACTUS II</head>
@@ -941,11 +951,6 @@ som kand tages og føles paa. Den Tid skal dog komme, at Mennesker ved Glas og P
 </p>
               </sp>
               <pb n="27" facs="holb7027" xml:id="s27" rend="missing"/>
-<!-- <figure>
-<figDesc>
-<hi rend="italics">Plutus og Aescuhpius.</hi>
-</figDesc>
-<figure> -->
               <sp xml:id="idm140607959954432">
                 <speaker xml:id="idm140607959954176">PLUTUS.</speaker>
                 <p xml:id="idm140607959953760"> Hvor hen jeg kaster mit Syn, finder jeg noget, som opvækker Forundring hos mig. Her seer jeg een med et langt Skiæg og en ærbar Kaabe; jeg seer Viisdom afmalet udi hans Pande, men det inderste er fuldt af Hovmod, Forfængelighed, Vankundighed. Jeg tog ham strax for en stor Philosophus; men seer nu, at hans Philosophie bestaaer alleene udi Skiæg og Kaaben.
@@ -1049,9 +1054,7 @@ Een Pose tagen, 2 Poser givne; een Dag ugudelig, en anden gudfrygtig; stærk Dri
                 <p xml:id="idm140607959916848"><stage type="mix" xml:id="idm140607959916720">alleene. </stage>
 Jeg har med Forundring hørt, hvorledes denne skalkagtige Mand kand besmykke sine Misgierninger, saa at han kand giøre Lyder til Dyder. Gid Folk nu af høyere Stand og Lærdom ikke vilde giøre det samme. Man finder den Feyl hos Folk af alle slags Stand. Mange leve hen i Taaget, og bekymre sig alleene om at æde og drikke. Andre, som giør Profession af at studere, efterforske u-magtpaaliggende Ting, og forsømme at blive oplysede udi de meest fornødne Videnskabe. Nogle faa studere vel paa at kiende andre, men bekymre sig ikke om egen Kundskab, holdende for, at dertil behøves ingen Flid og Arbeyde, saasom efter deres Meening intet er lettere end at kiende sig selv, da Erfarenhed dog viiser, at egen Kundskab er vanskeligere, end at lære at kiende andre Mennesker. Thi Laster indsnige sig under Dyders Maske, Hovmod tages for et høyt og ædelt Hierte, Tyrannie og Haardhed for Retfærdighed, Vrede for Tapperhed, Feighed for Sagtmodighed. Egen-Kiærlighed er størst Hinder til Egen-Kundskab. Thi saasom et hvert Menneske elsker sig selv, saa er ingen Indbildning for dem meere behagelig end den, hvorved ikke alleene Farve sættes paa deres Laster, men hvorved de groveste Lyder giøres til Dyder; man vænner sig saaledes til Laster, at man stedse fremturer derudi, og lever fornøyet med sig selv. Hvor u-rimelig denne skalkagtige Mands Tale end var, som jeg nyelig har hørt, saa findes dog mange end meere vanskabte. Thi denne bekiendte dog nogle af sine Feyl, som han ved Liqvidation af gode Gierninger og formeente Dyder vilde udslette. Mange andre derimod mærke hos sig slet ingen Laster; de see ikke uden Dyder, de meene sig at være gandske reene, og bryste sig deraf, skiønt de ere ikke uden kalkede Grave, der indeholde Aadsler og forraadnede Legemer. Men jeg hører nye
 
-<pb n="32" facs="holb7032" xml:id="s32" rend="missing"/><!-- <figure>
-<figDesc><hi rend="italics">DIOGENES. ...Ja piber kun I Skabhalse!</hi></figDesc>
-<figure> -->
+<pb n="32" facs="holb7032" xml:id="s32" rend="missing"/>
 
 Allarm og Bulder igien paa Gaden. Jeg maa liste mig hen til Hiørnet, for at see, hvad det er.
 </p>
@@ -1140,9 +1143,6 @@ Saa her ud med alle Forfængeligheder! Jeg skal nok holde reent for min Dør. Gi
             </div>
           </div>
           <pb n="36" facs="holb7036" xml:id="s36" rend="missing"/>
-<!-- <figure>
-<figDesc><hi rend="italics">PLUTUS. ... Nu har jeg udforsket Stadens Tilstand, og med Forundring mærket, at de dueligste og dydigste Mænd have været betle-færdige.</hi></figDesc>
-<figure> -->
           <div type="akt" xml:id="idm140607959878336">
             <head xml:id="idm140607959877840">ACTUS III</head>
             <div type="scene" xml:id="idm140607959877456">
@@ -1970,9 +1970,7 @@ Ach Diogenes! jeg har længtes af Begierlighed til at tale med dig. Thi jeg veed
                 <p xml:id="idm140607959612752"> Jeg raader ingenlunde til frivillig Landflygtighed, hvilket giver Frygt og Vankelmodighed tilkiende. Jeg raader heller at forsvare sin Sag for Retten, og med kraftige Argumenter at viise, hvormeget denne Forandring strider mod Stadens Velfærd, og hvad Uheld deraf vil flyde. Naar Gudinden saaledes for Retten har forklaret sin Sag, og underkastet sig Raadets Kiendelse, kand hun uden Eftertale gaae i Landflygtighed,
 
 <pb n="52" facs="holb7052" xml:id="s52" rend="missing"/>
-									<!-- <figure>
-<figDesc><hi rend="italics">DIOGENES. ... Det maa komme an paa et Forsøg. Lader os gaae tilside saa længe.</hi></figDesc>
-<figure> -->
+									
 
 som hende ved Dom paalegges, og saaledes af Fornødenhed giøre en Dyd. Men jeg vil raade Gudinden fornemmeligen at betiene sig af eet Argument udi Processen, som meest vil bestyrke hendes Sag, og til intet
 
@@ -2258,9 +2256,7 @@ ingen ufeylbar Regel, hvorpaa man kand grunde sig; hvilket kand ved adskillige E
                 <p xml:id="idm140607959521552"> Hør, Gudinde! I citerer Exempler paa onde Virkninger, som flyde af Riigdom. Betragt paa den anden Side, hvilke U-lykker Nødlidenhed fører med sig:
 
 <pb n="59" facs="holb7059" xml:id="s59" rend="missing"/>
-									<!-- <figure>
-<figDesc><hi rend="italics">PLUl'US. . . . Jupiter har jo selv skikket mig hid, for at hielpe Staden, og at redde den af Armod.</hi></figDesc>
-<figure> -->
+									
 
 den driver Mennesker til Tyverie, Rov, Mord og andre Misgierninger.
 </p>
@@ -2362,11 +2358,6 @@ hvad jeg her til svarer. Den halve Stad bestaaer nu af gode og redelige Borgere;
                 <p xml:id="idm140607959488976"> Det forlanger jeg ikke. Jeg beder alleene, at vi endnu lidt confererer med hinanden derom; thi udi en saa vigtig Sag kand man ikke betænke sig for længe.
 </p>
                 <pb n="62" facs="holb7062" xml:id="s62" rend="missing"/>
-<!-- <figure>
-<figDesc>
-<hi rend="italics">Raadet alleene.</hi>
-</figDesc>
-<figure> -->
                 <stage type="mix" xml:id="idm140607959486672">De reyse sig igien og mumle med samme Gebærder, sætte sig ned igien.</stage>
               </sp>
               <sp xml:id="idm140607959485760">
@@ -2419,9 +2410,6 @@ dømmes saaledes: Retten erkiender som en stor Himmelens Gave og Herlighed, at P
                   <l xml:id="idm140607959466960">Følg, kiære Børn! med mig,</l>
                   <l xml:id="idm140607959466496">Og Øyne ikke væder!</l>
                   <pb n="64" facs="holb7064" xml:id="s64" rend="missing"/>
-<!-- <figure>
-<figDesc><hi rend="italics">PENIA. ... Følg, kiære Børn! med mig ...</hi></figDesc>
-<figure> -->
                   <l xml:id="idm140607959464496">Lad Dyden græmme sig,</l>
                   <l xml:id="idm140607959464048">Og Staden kun begræder,</l>
                   <l xml:id="idm140607959463600">Som, inden Soel gaaer ned,</l>
@@ -2960,11 +2948,7 @@ hvad som ret og billigt er. Og hvis Formaninger ikke kand hielpe, skal hun tving
                 <p xml:id="idm140607959290112"> Alt dette betænkes nu ikke. Naar Udfaldet er slet, skydes efter Sædvane Skylden paa Øvrigheden. Stadens Tilstand er nu saadan: All Activitet til det gode er hos Borgerne forsvunden. De som af Pluto ikke ere berigede, have fattet Had mod de andre, og true at bestorme deres Huuse. Den største Deel af dem, som af Pluto ere beneficerede, ere ey heller fornøyede. Nogle, efterdi de ikke have faaet nok, misunde deres Medborgere, fordi de have faaet meere. Andre frygte for af Almuen at blive bestaalne, og kand af Frygt ikke sove om Natten. Andre ere bragte udi Bekymring og Forvirrelse, saasom de speculere paa, hvordan de skal anvende deres
 
 <pb n="75" facs="holb7075" xml:id="s75" rend="missing"/>
-									<!-- <figure>
-<figDesc>
-<hi rend="italics">Endelig høres Tordenskrald, og Jupiter kommer ned.</hi>
-</figDesc>
-<figure> -->
+									
 									<pb n="76" facs="holb7076" xml:id="s76" rend="missing"/>
 
 Penge, som de imidlertid grave ned under Jorden. Splid og U-eenighed regierer over alt; alle ere dog eenige udi at skyde Skylden paa Øvrigheden, som de true at hævne sig paa.
@@ -3053,10 +3037,6 @@ faaet Befalning at forlade Staden; og Penia, som endnu opholder sig uden for Por
                   <l xml:id="idm140607959251808">Vivat Penia, vor Moder, Stadens Styrke!</l>
                   <l xml:id="idm140607959251376">Vi vore Fiender vil lade Plutum dyrke!</l>
                 </lg>
-<!-- <figure>
-<figDesc><hi rend="italics">DIOGENES. ... Af dette Skuespill vi kiende kand og lære,<lb/>
- Hvor ilde grundede tit vores Ønsker ere...</hi></figDesc>
-<figure> -->
                 <pb n="79" facs="holb7079" xml:id="s79" rend="missing"/>
                 <stage type="mix" xml:id="idm140607959249184">Trompetterne blæse imellem hvert Vers, som Antiphonie, udi samme Melodie som Sangen. Til Slutning dandse de 4 Philosophi en konstig Dands. Og Stykket endes med en Tale, som Diogenes giør til Spectatores:</stage>
                 <lg xml:id="idm140607959248128">
@@ -3251,7 +3231,6 @@ paa et skrækindjagende, kvindeligt Fabelvæsen. - <hi rend="italics" xml:id="id
           </div>
         </body>
       </text>
-<!--<slut  Plutus> -->
       <pb n="83" facs="holb7083" xml:id="s83" rend="missing"/>
       <text xml:id="workid64208" decls="#biblid64208">
         <body xml:id="idm140607959079520">
@@ -3259,7 +3238,6 @@ paa et skrækindjagende, kvindeligt Fabelvæsen. - <hi rend="italics" xml:id="id
 						<hi rend="italics" xml:id="idm140607959078704">Comoedie udi tre Acter<lb xml:id="idm140607959078144"/>
 Uden Actricer</hi>
 					</head>
-<!--bd 7, side 83-146 -->
           <pb n="84" facs="holb7084" xml:id="s84" rend="missing"/>
           <div type="castList" xml:id="idm140607959076144">
             <head xml:id="idm140607959075648">
@@ -3360,9 +3338,6 @@ Hvem er saa dristig at banke paa Porten saa tilig om Morgenen?
 								</p>
               </sp>
               <pb n="88" facs="holb7088" xml:id="s88" rend="missing"/>
-<!-- <figure>
-<figDesc><hi rend="italics">HENRICH. ... Det er Froekost, Arv! Jeg veed at du har giort en lang Reyse, og er bleven tørstig og støvet paa Veyen.</hi></figDesc>
-<figure> -->
               <sp xml:id="idm140607959032000">
                 <speaker xml:id="idm140607959031744">HENRICH.</speaker>
                 <p xml:id="idm140607959031360"> Hvad Pokker er det for Allarm? Meener dit Beest at du er paa Landet? Fort pak dig bort fra Huuset. Hvad har du her at bestille?
@@ -4023,11 +3998,6 @@ Men hvad vil I andre her?
                 <p xml:id="idm140607958842768">  Nu kommer den forbandede Melancholie igien. Spiller nok op et andet Stykke, som er meere lystigt og som kand have bedre Virkning.
 </p>
               </sp>
-<!-- <figure>
-<figDesc>
-<hi rend="italics">Leander tager Fogden op til Dands, Octavius tager Arv, og Henrich Ephraim ...</hi>
-</figDesc>
-<figure> -->
               <stage type="mix" xml:id="idm140607958841632">De dandse igien paa samme Maade, og omsider dandser ud af Theatro, saa at Leander og Henrich kommer alleene tilbage.</stage>
             </div>
             <div type="scene" xml:id="idm140607958840752">
@@ -4440,9 +4410,6 @@ Enhver, som havde bragt os Tidende om din Død, vilde dog være os meere velkomm
                 <p xml:id="idm140607958721280"> Men jeg seer at Porten er tillukt. Hey, lukker op!
 </p>
                 <pb n="104" facs="holb7104" xml:id="s104" rend="missing"/>
-<!-- <figure>
-<figDesc><hi rend="italics">JERONIMUS. ... Det er mig en Glæde efter saa lang Fraværelse at see min Fæderne-Stad og mit Huus og Hiem igien.</hi></figDesc>
-<figure> -->
                 <p xml:id="idm140607958719424">
                   <stage type="mix" xml:id="idm140607958718752">Han banker.</stage>
                 </p>
@@ -5697,9 +5664,6 @@ Jeg har sagt ham, Hr. Leonard, at det er lutter Lybske Talemaader; Meeningen er 
 </p>
               </sp>
               <pb n="119" facs="holb7119" xml:id="s119" rend="missing"/>
-<!-- <figure>
-<figDesc><hi rend="italics">JERONIMUS. ... Vil Hr. Leonard ikke smage min Tobak? Den kaldes i Lybek Cotillon.</hi></figDesc>
-<figure> -->
               <pb n="120" facs="holb7120" xml:id="s120" rend="missing"/>
               <sp xml:id="idm140607958364592">
                 <speaker xml:id="idm140607958364336">JERONIMUS.</speaker>
@@ -6087,9 +6051,6 @@ Luk op! hvor længe skal jeg banke paa Porten?
 </p>
               </sp>
               <pb n="125" facs="holb7125" xml:id="s125" rend="missing"/>
-<!-- <figure>
-<figDesc><hi rend="italics">JERONIMUS. ... Ach Hr. Ludfer! jeg vil gierne opoffre Pengene, hvis min Person maa spares.</hi></figDesc>
-<figure> -->
               <sp xml:id="idm140607958251968">
                 <speaker xml:id="idm140607958251712">JERONIMUS.</speaker>
                 <p xml:id="idm140607958251328"> Er I kied af jert Liv, Cammerad? rider Fanden jer?
@@ -6862,9 +6823,6 @@ Henrich! jeg har nu ogsaa giort Fred med ham; ja jeg har giort ham mig saa under
                 <p xml:id="idm140607958033248"> Binder Hænder og Fødder paa ham. <stage type="mix" xml:id="idm140607958032896">Han bindes og sættes paa Gulvet.</stage>
 								</p>
               </sp>
-<!-- <figure>
-<figDesc><hi rend="italics">HENRICH. .. . Ach Hr. Leonard! beed for mig.</hi></figDesc>
-<figure> -->
               <pb n="136" facs="holb7136" xml:id="s136" rend="missing"/>
               <sp xml:id="idm140607958030304">
                 <speaker xml:id="idm140607958030048">HENRICH.</speaker>
@@ -7436,14 +7394,12 @@ Traktat med Algier 1746 nød danske Skibe Beskyttelse mod Landets Pirater.
           </div>
         </body>
       </text>
-<!--<slut  huusspøgelse> -->
       <pb n="145" facs="holb7145" xml:id="s145" rend="missing"/>
       <text xml:id="workid75150" decls="#biblid75150">
         <body xml:id="idm140607957764176">
           <head xml:id="idm140607957763920">DEN FORVANDLEDE BRUDGOM<lb xml:id="idm140607957763632"/>
 						<hi rend="italics" xml:id="idm140607957763376">Comoedie udi een Act <lb xml:id="idm140607957762816"/>uden Acteurs</hi>
 					</head>
-<!--bind 7, side 145-171-->
           <pb n="146" facs="holb7146" xml:id="s146" rend="missing"/>
           <div type="castList" xml:id="idm140607957760688">
             <head xml:id="idm140607957760192">
@@ -7484,9 +7440,6 @@ Komediens Intrige bestaar i, at man indbilder Fru Terentia, at hendes udkaarne K
 </p>
           </div>
           <pb n="149" facs="holb7149" xml:id="s149" rend="missing"/>
-<!-- <figure>
-<figDesc><hi rend="italics">TERENTIA.   ...  Du  tager  feyl,  Pernille!  Nu  præker jeg  udi  en gandske anden Tone ...</hi></figDesc>
-<figure> -->
           <div type="scene" xml:id="idm140607957737328">
             <head xml:id="idm140607957736832">SCEN. 1</head>
             <stage type="mix" xml:id="idm140607957736448">Frue Tetentia. Pernille. Terentia pynted og sminked.</stage>
@@ -7808,9 +7761,6 @@ det er jo alt hvad som kand skee hende til Beskiemmelse, og hendes Børn til U-l
 </p>
             </sp>
             <pb n="154" facs="holb7154" xml:id="s154" rend="missing"/>
-<!-- <figure>
-<figDesc><hi rend="italics">PERNILLE. ... Jeg siger bedre op, bedre op!</hi></figDesc>
-<figure> -->
             <sp xml:id="idm140607957642800">
               <speaker xml:id="idm140607957642544">PERNILLE.</speaker>
               <p xml:id="idm140607957642128"> Jeg siger bedre op, bedre op!
@@ -7992,9 +7942,6 @@ en ung Frier. Og den Berømmelse, som Madame Kirsten vil legge paa mig, kand nok
               <p xml:id="idm140607957589936"> Hillemænd, hvilken Taille! hun behager at vende sig om til den anden Side.
 </p>
             </sp>
-<!-- <figure>
-<figDesc><hi rend="italics">KIRSTEN.  ...  Hillemænd,  hvilken   Taille!  Hun   behager  at  vende sig om til den anden Side.</hi></figDesc>
-<figure> -->
             <pb n="158" facs="holb7158" xml:id="s158" rend="missing"/>
             <stage type="mix" xml:id="idm140607957587600">Hun vender sig om til venstre Side.</stage>
             <sp xml:id="idm140607957586928">
@@ -8274,9 +8221,6 @@ Bliv kun her staaende ved den eene Ende, medens jeg mælder dig an hos Fruen.
 </p>
             </sp>
             <pb n="162" facs="holb7162" xml:id="s162" rend="missing"/>
-<!-- <figure>
-<figDesc><hi rend="italics">TERENTIA. ... Hille Mænd! er det den Person, som der staaer? det er en lækker Bidsken ...</hi></figDesc>
-<figure> -->
             <sp xml:id="idm140607957504160">
               <speaker xml:id="idm140607957503904">KIRSTEN,</speaker>
               <p xml:id="idm140607957503520"><stage type="mix" xml:id="idm140607957503392">trækkende hende til Side. </stage>
@@ -8558,9 +8502,6 @@ Adieu saa længe, min allerkiereste Frue!
 </p>
             </sp>
             <pb n="167" facs="holb7167" xml:id="s167" rend="missing"/>
-<!-- <figure>
-<figDesc><hi rend="italics">TEKENTIA.   ...  Hvad siger  l,   mine Børn?  vil  I  rebellere  mod eders Moder?</hi></figDesc>
-<figure> -->
             <sp xml:id="idm140607957415312">
               <speaker xml:id="idm140607957415056">TERENTIA.</speaker>
               <p xml:id="idm140607957414672">  Lad  mig tale  med  mine  Døttre  alleene!
@@ -8843,7 +8784,6 @@ mest. - <hi rend="italics" xml:id="idm140607957337680">Strutz-feerede, </hi>Offi
           </div>
         </body>
       </text>
-<!--<slut  Brudgom> -->
       <pb n="172" facs="holb7172" xml:id="s172" rend="missing"/>
       <pb n="173" facs="holb7173" xml:id="s173" rend="missing"/>
       <text xml:id="workid79171" decls="#biblid79171">
@@ -9346,9 +9286,7 @@ till side, og give deres dotter till Gonzalo, som bær stor Herlighed for hende.
                 <speaker xml:id="idm140607957107168">ISABELLA.</speaker>
                 <p xml:id="idm140607957106752"> Det Herskab er sandelig lykkelig, der har saa troe tieneste-folk, der saaledes kand dølge deres armod.
 
-<!-- <figure>
-<figDesc><hi rend="italics">LEONORA. ... hid med mit brød igien, du tyv.</hi></figDesc>
-<figure> -->
+
 
 Men som tillstanden er fast den hele stad bekiendt, og I nu har røvet jer selv saa giør det ingen gode at dølge saadant mer.
 </p>
@@ -9796,9 +9734,6 @@ slegt-register fra kong Salomon, det var jo Pedro at giøre dig till en jøde.
                 <p xml:id="idm140607956964320"> Jeg er bange Herre, at eet heelt blekhorn vill ikke forslaae, ti der er saa mange huller. DON RANUDO. Kom, giør som jeg bêer dig. <stage type="mix" xml:id="idm140607956963776">Han smør blek paa hullene.</stage>
 								</p>
               </sp>
-<!-- <figure>
-<figDesc>DON RANUDO. ... Tag noget blek Pedro, og smørr paa hullene, saa synes de intet.</hi></figDesc>
-<figure> -->
               <pb n="197" facs="holb7197" xml:id="s197" rend="missing"/>
               <sp xml:id="idm140607956961184">
                 <speaker xml:id="idm140607956960928">PEDRO.</speaker>
@@ -9907,9 +9842,7 @@ den sidste maa have hafft mange til Fadder, efterdi han har saa mange navne.
                 <p xml:id="idm140607956928192"> Jeg saa vel, som min Herre, Madame,
 
 <pb n="199" facs="holb7199" xml:id="s199" rend="missing"/>
-									<!-- <figure>
-<figDesc><hi rend="italics">DONNA OLYMPIA. ...Lad  nu kun Madame Isabella komme ind.</hi></figDesc>
-<figure> -->
+									
 									<pb n="200" facs="holb7200" xml:id="s200" rend="missing"/>
 
 har stor estime saavel for dem, som for deres broder, saa vidt som vor stand vill tillade, men - - -
@@ -10302,9 +10235,6 @@ samme vi spiste i gaar, i overgaars, og den anden dag; den første Rett bliver u
 </p>
               </sp>
               <pb n="208" facs="holb7208" xml:id="s208" rend="missing"/>
-<!-- <figure>
-<figDesc><hi rend="italics">DON RANUDO. ... Hør du fattige mand, trin hid ind med din pose.</hi></figDesc>
-<figure> -->
               <pb n="209" facs="holb7209" xml:id="s209" rend="missing"/>
               <sp xml:id="idm140607956797152">
                 <speaker xml:id="idm140607956796896">DON RANUDO.</speaker>
@@ -10920,7 +10850,7 @@ familier i Spanien, som de mener, er den Colibradiske, saa er der aldeles intet 
               </sp>
               <sp xml:id="idm140607956641536">
                 <speaker xml:id="idm140607956641280">ISABELLA.</speaker>
-                <p xml:id="idm140607956640864"> Tie kon stille Leonora,detskall snart blive godt.
+                <p xml:id="idm140607956640864"> Tie kon stille Leonora, detskall snart blive godt.
 </p>
               </sp>
               <sp xml:id="idm140607956640288">
@@ -11137,9 +11067,6 @@ ondt af den fortræd som er hendt, og beder, at Fruen ikke vill forsmaae en silk
 </p>
               </sp>
               <pb n="222" facs="holb7222" xml:id="s222" rend="missing"/>
-<!-- <figure>
-<figDesc>DON RANUDO. ... Ej børn lille! det er allt for stor ydmyghed, jeg er jo ingen Helgen ...</hi></figDesc>
-<figure> -->
               <pb n="223" facs="holb7223" xml:id="s223" rend="missing"/>
               <sp xml:id="idm140607956574976">
                 <speaker xml:id="idm140607956574720">DON RANUDO.</speaker>
@@ -11272,9 +11199,6 @@ som han piner sit legeme for at giøre poenitentze, og at han har svøbt sig i d
 </p>
               </sp>
             </div>
-<!-- <figure>
-<figDesc>DON RANUDO. ... men hvor skall jeg faae klæder?</hi></figDesc>
-<figure> -->
             <div type="scene" xml:id="idm140607956534624">
               <head xml:id="idm140607956534128">SCEN. 7</head>
               <stage type="mix" xml:id="idm140607956533712">Udtolkeren. Don Ranudo. Donna Olympia. Leonora.</stage>
@@ -12472,14 +12396,12 @@ sig mod Forældrenes Vilje, hvis denne ikke begrundedes »med skellig og lovlig 
           </div>
         </body>
       </text>
-<!--<slut  Ranudo> -->
       <pb n="249" facs="holb7249" xml:id="s249" rend="missing"/>
       <text xml:id="workid89842" decls="#biblid89842">
         <body xml:id="idm140607956029904">
           <head xml:id="idm140607956029648">PHILOSOPHUS UDI EGEN INDBILDING<lb xml:id="idm140607956029344"/>
 						<hi rend="italics" xml:id="idm140607956029088">Comoedie udi fem Acter</hi>
 					</head>
-<!-- Bd. 7, 249-329 -->
           <pb n="250" facs="holb7250" xml:id="s250" rend="missing"/>
           <div type="castList" xml:id="idm140607956026720">
             <head xml:id="idm140607956026224">
@@ -12526,8 +12448,6 @@ Til sin Filosofparodi føjer Komedieforfatteren et særligt Træk: han forbinder
 </p>
           </div>
           <pb n="253" facs="holb7253" xml:id="s253" rend="missing"/>
-<!-- <figure>
-<figure> -->
           <div type="akt" n="I" xml:id="idm140607956003664">
             <head xml:id="idm140607956002928">ACTUS I</head>
             <div type="scene" n="1" xml:id="idm140607956002544">
@@ -12844,9 +12764,6 @@ Hør, Herre! jeg har forrettet mit Ærende, og Madamen sagde ---
 </p>
               </sp>
               <pb n="259" facs="holb7259" xml:id="s259" rend="missing"/>
-<!-- <figure>
-<figDesc><hi rend="italics">PETRONIUS. ... Ney nu maa min Vækker for en Dag.</hi>
-<figure> -->
               <sp xml:id="idm140607955902448">
                 <speaker xml:id="idm140607955902192">PETRONIUS.</speaker>
                 <p xml:id="idm140607955901808"> Hun sagde, at Herren skal være hende velkommen.
@@ -13842,7 +13759,7 @@ vi nok komme til rette sammen. Hvis jeg kand naae mit Ønske, vil jeg tilstæde 
               <sp xml:id="idm140607955584080">
                 <speaker xml:id="idm140607955583824">PETRONIUS </speaker>
                 <stage type="mix" xml:id="idm140607955583408">sagte</stage>
-                <p xml:id="idm140607955582752">Det var en forbandet Syllogismus af denne galonerede Person. Min Herre far nu hen i den anden Verden; jeg er nu bange for, at jeg maa applicere ham min Vækker igien, eller i det ringeste maa jeg være hans Secundant. Hør, Monsr. Leander! jeg maa herudi tage min Herres Partie. Eders Proposition kand ikke være antagelig. Ægteskab maa være reent; man lider derudi ikke Participanter og Actier, som i andre Societeter. Hvo som haver det heele Legeme,maa have den heele Siæl med. Det vilde ikke være Monsr. Leander tienligt at indgaae saadan Pagt med min Herre; Thi man har 100 Exempler paa, at naar tvende Beylere foreene sig saaledes sammen, bliver een af dem Hanreder.
+                <p xml:id="idm140607955582752">Det var en forbandet Syllogismus af denne galonerede Person. Min Herre far nu hen i den anden Verden; jeg er nu bange for, at jeg maa applicere ham min Vækker igien, eller i det ringeste maa jeg være hans Secundant. Hør, Monsr. Leander! jeg maa herudi tage min Herres Partie. Eders Proposition kand ikke være antagelig. Ægteskab maa være reent; man lider derudi ikke Participanter og Actier, som i andre Societeter. Hvo som haver det heele Legeme, maa have den heele Siæl med. Det vilde ikke være Monsr. Leander tienligt at indgaae saadan Pagt med min Herre; Thi man har 100 Exempler paa, at naar tvende Beylere foreene sig saaledes sammen, bliver een af dem Hanreder.
 </p>
               </sp>
               <sp xml:id="idm140607955581312">
@@ -13944,10 +13861,6 @@ vi nok komme til rette sammen. Hvis jeg kand naae mit Ønske, vil jeg tilstæde 
               </sp>
             </div>
             <pb n="280" facs="holb7280" xml:id="s280" rend="missing"/>
-<!-- <figure>
-<figDesc><hi rend="italics">COSMOLIGOREUS. ... Adieu, Jean de France!<lb/>
-LEANDER.... Adieu, Thomas Diaphorius!</hi>
-</figDesc><figure> -->
             <div type="scene" n="5" xml:id="idm140607955551552">
               <head xml:id="idm140607955550816">SCEN. 5.</head>
               <stage type="mix" xml:id="idm140607955550400">Cosmoligoreus. Petronius.</stage>
@@ -14237,9 +14150,6 @@ Tør du vel understaae dig at ligne dig med en Cavalier, saadan som jeg er?
 taber sin Philosophie, tager ham i Haaret, slaaer ham ned paa Gulvet, og træder paa ham. Petronius reyser sig op, og tager Flugten. Cosmoligoreus forfølger ham, og han skriger Himmel-høyt.</stage>
               </sp>
             </div>
-<!-- <figure>
-<figDesc><hi rend="italics">Cosmoligoreus taber sin Philosophie.</hi>
-</figDesc><figure> -->
             <div type="scene" n="2" xml:id="idm140607955461328">
               <head xml:id="idm140607955460672">SCEN. 2.</head>
               <stage type="mix" xml:id="idm140607955460256">Pernille. Jeronimus.</stage>
@@ -14445,9 +14355,6 @@ Nidkierhed; Melancholie og den sorte Galde heeder Devotion og Buskamp. Saa at de
 </p>
               </sp>
               <pb n="290" facs="holb7290" xml:id="s290" rend="missing"/>
-<!-- <figure>
-<figDesc><hi rend="italics">JERONIMUS. ... Nu kand jeg strax faae Leylighed at tale med vor Philosopho...</hi>
-</figDesc><figure> -->
               <sp xml:id="idm140607955392176">
                 <speaker xml:id="idm140607955391920">PERNILLE.</speaker>
                 <p xml:id="idm140607955391536"> Af vor sidste Samtale kunde han ingen Tegn merke til Forliebelse.
@@ -15139,9 +15046,7 @@ Jeg skal nok skaffe dig noget andet at tænke paa.
                 <p xml:id="idm140607955179856"> Naar jeg siger ham min leve Maade, som er indrettet efter den nye Pragiske Philosophie, vil han let begribe, hvi Alderen ikke kand bide paa mig. Alting,
 
 <pb n="302" facs="holb7302" xml:id="s302" rend="missing"/>
-									<!-- <figure>
-<figDesc><hi rend="italics">PERNILLE. . .. Naar jeg siger ham min leve Maade, som er indrettet efter den nye Pragiske Philosophie, vil han let begribe, hvi Alderen ikke kand bide paa mig.</hi>
-</figDesc><figure> -->
+									
 
 Mad, Drikke, Søvn, Arbeyd, Divertissement etc. er ligesom veyet udi Lod og Qvintin. Enhver, som vil underkaste sig en saadan regulered og philosophisk Diæt, kand komme til at bære sin Alder ligesom jeg.
 </p>
@@ -15640,9 +15545,6 @@ heele Land en vigtig Tieneste dermed. Jeg længes efter at see det Skrift.
 </p>
               </sp>
               <pb n="314" facs="holb7314" xml:id="s314" rend="missing"/>
-<!-- <figure>
-<figDesc><hi rend="italics">COSMOUGOREUS.  ...  Jeg  beder  om  Forladelse,  at jeg tvende gange i Dag har incommoderet Fruen med min Besøgelse.</hi></figDesc>
-<figure> -->
               <pb n="315" facs="holb7315" xml:id="s315" rend="missing"/>
               <sp xml:id="idm140607955010784">
                 <speaker xml:id="idm140607955010528">COSMOLIGOREUS.</speaker>
@@ -16457,14 +16359,12 @@ Metamorphoses (Forvandlinger) blev skrevet i Aarene 2 f. Kr.- 9 e. Kr.
       </text>
       <pb n="330" facs="holb7330" xml:id="s330" rend="missing"/>
       <pb n="331" facs="holb7331" xml:id="s331" rend="missing"/>
-<!--<slut  Philosophus> -->
       <text xml:id="workid101553" decls="#biblid101553">
         <body xml:id="idm140607954627152">
           <head xml:id="idm140607954626896">REPUBLIQVEN<lb xml:id="idm140607954626608"/>
 ELLER DET GEMMENE BESTE<lb xml:id="idm140607954626304"/>
 						<hi rend="italics" xml:id="idm140607954626048">Comoedie udi tre Acter</hi>
 					</head>
-<!-- Bd. 7, 331-396 -->
           <pb n="332" facs="holb7332" xml:id="s332" rend="missing"/>
           <div type="castList" xml:id="idm140607954623680">
             <head xml:id="idm140607954623184">
@@ -16511,8 +16411,6 @@ Forordning om Suppliquer og Memorialer, altsaa Ansøgninger o.lign., hvori det h
 </p>
           </div>
           <pb n="335" facs="holb7335" xml:id="s335" rend="missing"/>
-<!-- <figure>
-<figure> -->
           <pb n="336" facs="holb7336" xml:id="s336" rend="missing"/>
           <div type="akt" n="I" xml:id="idm140607954600912">
             <head xml:id="idm140607954600176">ACTUS I</head>
@@ -16568,9 +16466,6 @@ dem hos mig, som er det fornemste, og som jeg vil viise ham som min gode Ven, fo
                 <p xml:id="idm140607954584128"> Jeg skal med Fliid læse det igiennem, og sige ham min Meening.
 </p>
               </sp>
-<!-- <figure>
-<figDesc><hi rend="italics">NOVATIANUS.  ... God Morgen, Hr. LeerbeutelJ hvad er hans Ærende her saa fiiligen?</hi>
-</figDesc><figure> -->
               <sp xml:id="idm140607954582944">
                 <speaker xml:id="idm140607954582688">LEERBEUTEL.</speaker>
                 <p xml:id="idm140607954582304"> Det maa blive liggende hos ham en Times Tid. Jeg vil imidlertid liste mig herind for at tale med Republiqvens Tiener, som kand bane mig Veyen til hans Herskab.
@@ -16652,9 +16547,7 @@ dem hos mig, som er det fornemste, og som jeg vil viise ham som min gode Ven, fo
                 <p xml:id="idm140607954558336">Hvorfor skulde jeg ikke vide hans Navn?
 
 <pb n="339" facs="holb7339" xml:id="s339" rend="missing"/>
-									<!-- <figure>
-<figDesc><hi rend="italics">HENRICH. ... Vil han tale med nogen her i Huuset?</hi></figDesc>
-<figure> -->
+									
 									<pb n="340" facs="holb7340" xml:id="s340" rend="missing"/>
 
 Jeg har jo kiendt ham længe, og veed at han er en honet Caballeer.
@@ -17221,9 +17114,7 @@ Man maa i det ringeste giøre et Forsøg om han kand beqvemme sig dertil. Men de
                 <speaker xml:id="idm140607954383408">REPUBLIQVEN.</speaker>
                 <p xml:id="idm140607954382992"> Just fordi jeg kiender ham, just derfor kand jeg ikke give mit Samtykke. Han er vel en gandske brav Karl, men ikke saadan en, som jeg i denne min
 
-<!-- <figure>
-<figDesc><hi rend="italics">LEANDER. ... Ydmygst Tiener, min kiere Frue. Jeg beder om Forladelse hvis jeg kommer i ubeleilig Tiid.</hi>
-</figDesc><figure> -->
+
 									<pb n="350" facs="holb7350" xml:id="s350" rend="missing"/>
 
 Tilstand behøver til Svigersøn; thi jeg maa nu ikke see hverken efter Ungdom, Kiønhed, Stand eller Midler, men efter en der haver Videnskab udi Øconomie og Stats-Sager.
@@ -17793,8 +17684,6 @@ fri. At stiæle en Huud er Tyverie, men at stiæle den for at give et par Skoe d
             </div>
           </div>
           <pb n="359" facs="holb7359" xml:id="s359" rend="missing"/>
-<!-- <figure>
-<figure> -->
           <div type="akt" n="II" xml:id="idm140607954208672">
             <head xml:id="idm140607954207936">ACTUS II</head>
             <div type="scene" n="1" xml:id="idm140607954207552">
@@ -18336,9 +18225,6 @@ og andre Sindets Kræfter deraf saaledes bestyrkes, at man bliver ligesom ung ig
 </p>
               </sp>
               <pb n="370" facs="holb7370" xml:id="s370" rend="missing"/>
-<!-- <figure>
-<figDesc><hi rend="italics">SKRIVEREN. .. . Saasom man hører Folk dagligen at klage</hi></figDesc>
-<figure> -->
               <sp xml:id="idm140607954017872">
                 <speaker xml:id="idm140607954017616">REPUBLIQVEN.</speaker>
                 <p xml:id="idm140607954017232"> Henrich! læs du da det øvrige.
@@ -18742,9 +18628,6 @@ er gandske kruset af de mange underlige Forslag, som have været oplæste i Dag.
               </sp>
             </div>
           </div>
-<!-- <figure>
-<figDesc><hi rend="italics">HENRICH. ... Men lader os giøre reent, og bære Sagerne ind.</hi></figDesc>
-<figure> -->
           <pb n="378" facs="holb7378" xml:id="s378" rend="missing"/>
           <div type="akt" n="III" xml:id="idm140607953892304">
             <head xml:id="idm140607953891520">ACTUS III</head>
@@ -19215,10 +19098,7 @@ sit Project. Henrich paatog sig at forlige Sagen, og blev rigeligen betalt for s
                 <p xml:id="idm140607953752848"> Jeg baade meener og veed det. Man kand jo
 
 <pb n="385" facs="holb7385" xml:id="s385" rend="missing"/>
-									<!-- <figure>
-<figDesc><hi rend="italics">REPUBLIQVEN.... I maa ledsage mig; thi jeg kand ikke staae paa mine Been.</hi>
-</figDesc>
-<figure> -->
+									
 
 ved saadant hindre at end Rottekrud eller andet Gift, som er indtaget, ingen Skade kand giøre.
 </p>
@@ -19583,9 +19463,6 @@ som see dybt ind udi Sagerne, og merke de Knuder, som derudi ligge skiulte, dris
               </sp>
             </div>
             <pb n="391" facs="holb7391" xml:id="s391" rend="missing"/>
-<!-- <figure>
-<figDesc><hi rend="italics">Leander og Leonora kysse paa hendes Hænder og takke.</hi> </figDesc>
-<figure> -->
             <div type="scene" n="12" xml:id="idm140607953639872">
               <head xml:id="idm140607953639136">SCEN. 12.</head>
               <stage type="mix" xml:id="idm140607953638752">Arv. Personerne af forrige Scene.</stage>
@@ -19924,7 +19801,6 @@ Factor, </hi>Mellemmand.
           </div>
         </body>
       </text>
-<!--<slut>Republiqven</slut>-->
       <pb n="397" facs="holb7397" xml:id="s397" rend="missing"/>
       <text xml:id="workid111173" decls="#biblid111173">
         <body xml:id="idm140607953458608">
@@ -19935,7 +19811,6 @@ DET PHILOSOPHISKE LAND<lb xml:id="idm140607953457488"/>
 						<lb xml:id="idm140607953456544"/>
 Hvorudi skiemtes med de gamle Philosophiske Secter
 </head>
-<!-- Bd. 7, 397-429 -->
           <pb n="398" facs="holb7398" xml:id="s398" rend="missing"/>
           <div type="castList" xml:id="idm140607953454544">
             <head xml:id="idm140607953454048">
@@ -19977,8 +19852,6 @@ Holberg bevæger sig med samme spøgefulde Sikkerhed som Molière blandt Oldtide
 </p>
           </div>
           <pb n="401" facs="holb7401" xml:id="s401" rend="missing"/>
-<!-- <figure>
-<figure> -->
           <div type="scene" n="1" xml:id="idm140607953433776">
             <head xml:id="idm140607953433040">SCEN. 1.</head>
             <sp xml:id="idm140607953432624">
@@ -20024,9 +19897,7 @@ Efter Solen maa Klokken være 9.
               <speaker xml:id="idm140607953417792">SGANAREL.</speaker>
               <p xml:id="idm140607953417376"> Hvis denne Karl  skal  være  en  viis Mand, saa er han ikke til nogen Nytte, saasom han taler   ikke,   men   gisper
 
-<!-- <figure>
-<stage>En gabende Philosophus. </stage>
-<figure> -->
+
 								<pb n="403" facs="holb7403" xml:id="s403" rend="missing"/>
 
 Viisdommen ud. Men jeg maa see til, at jeg faaer fat paa en anden, som taler lidt meer, og gisper lidt mindre. <stage type="mix" xml:id="idm140607953415040">Han banker paa en anden Dør.</stage>
@@ -20077,9 +19948,6 @@ De Taarer, som Hr. Doctor fælder, ere Prøver paa hans Ædelhiertighed og Medli
 I siger at I blev gandske forvirret derover?
 </p>
             </sp>
-<!-- <figure>
-<figDesc><hi rend="italics">En grædende Philosophus.</hi>
-</figDesc><figure> -->
             <pb n="404" facs="holb7404" xml:id="s404" rend="missing"/>
             <sp xml:id="idm140607953397632">
               <speaker xml:id="idm140607953397376">SGANAREL.</speaker>
@@ -20160,9 +20028,6 @@ I siger at I blev gandske forvirret derover?
 </p>
             </sp>
             <pb n="405" facs="holb7405" xml:id="s405" rend="missing"/>
-<!-- <figure>
-<figDesc><hi rend="italics">En leende Philosophus.</hi>
-<figure> -->
             <pb n="406" facs="holb7406" xml:id="s406" rend="missing"/>
             <sp xml:id="idm140607953370928">
               <speaker xml:id="idm140607953370672">PHILOSOPHEN.</speaker>
@@ -20285,9 +20150,7 @@ Gange om Forladelse. Forseelsen reyser sig deraf, at jeg har for skarpt Syn.
               <speaker xml:id="idm140607953335824">PHILOSOPHEN.</speaker>
               <p xml:id="idm140607953335408"> Som for Exempel, om Magnetens Kraft, om Siælens Beskaffenhed, om
 
-<!-- <figure>
-<hi rend="italics">En subtil Philosophus </hi>
-<figure> -->
+
 								<pb n="408" facs="holb7408" xml:id="s408" rend="missing"/>
 
 Blodets Circulation, om Myrers og Mygs Egenskab, om andre Insecters indvortes Dannelse, om---
@@ -20328,9 +20191,7 @@ Hvo er, som raaber? Der ligger jo en halv død Mand. Hvad skader jer? min Ven!
               <speaker xml:id="idm140607953322656">ASTROLOGUS.</speaker>
               <p xml:id="idm140607953322240"> Det giør
 
-<!-- <figure>
-<hi rend="italics">En Astrologe. </hi>
-<figure> -->
+
 								<pb n="409" facs="holb7409" xml:id="s409" rend="missing"/>
 
 mig hiertelig ont; Jeg er pligtig til at hielpe min Næste, jeg beder allene om lidt Taalmodighed, indtil jeg faaer efterseet udi min Astrologiske Bog, om man udi denne Maaned, og paa denne Dag udi Maaneden, maa foretage sig noget af Vigtighed. Ney, min Herre! det gaaer ikke an paa denne Tiid. <stage type="mix" xml:id="idm140607953319712">Han blader i Bogen.</stage>
@@ -20464,9 +20325,6 @@ Jeg seer, at det er den 14. Dag udi den Maaned Morian, paa hvilken man efter ast
               <p xml:id="idm140607953282048"> Jeg vilde ikke andet sige, end at det syntes saa at være.
 </p>
               <stage type="mix" xml:id="idm140607953281520">Sganarel gier ham 3 gode  Rapp.</stage>
-<!-- <figure>
-En skeptisk Philosophus.
-<figure> -->
               <pb n="411" facs="holb7411" xml:id="s411" rend="missing"/>
               <p xml:id="idm140607953279264">
 Au, au! er det ikke uforskammet at handle saaledes med en Philosopho?
@@ -20779,9 +20637,6 @@ Helene. Men see, der staaer jo et heelt Par. Det maa være de samme, som vi løb
 							</p>
             </sp>
             <pb n="415" facs="holb7415" xml:id="s415" rend="missing"/>
-<!-- <figure>
-<figDesc><hi rend="italics">TREDIE QVINDE. ... Velkommen hid til Staden, I gode Mænd!</hi></figDesc>
-<figure> -->
             <sp xml:id="idm140607953187200">
               <speaker xml:id="idm140607953186944">LEANDER.</speaker>
               <p xml:id="idm140607953186560"> Hvad vil det sige, at I have alleene det blotte Navn?
@@ -21635,11 +21490,6 @@ nere, men de folkelige 4- og 3-Fodsjamber, har en Række Vers fælles med Epilog
 </p>
           </div>
           <pb n="435" facs="holb7435" xml:id="s435" rend="missing"/>
-<!-- <figure><figDesc>
-<hi rend ="italics">
-PROLOGUS<lb/>
-Saa snart Dekket trækkes op indkommer Apollo, Æsculapius, Mercurius, Mars, Vulcanus, Momus, Cupido, Bellona.</hi>
-<figDesc><figure> -->
           <pb n="436" facs="holb7436" xml:id="s436" rend="missing"/>
           <div xml:id="idm140607952862368">
             <sp xml:id="idm140607952862112">
@@ -22024,8 +21874,6 @@ mersk Kejser (27 f.-14 e. Kr.), under hvis Regering den romerske Litteratur havd
       </text>
       <pb n="446" facs="holb7446" xml:id="s446" rend="missing"/>
       <pb n="447" facs="holb7447" xml:id="s447" rend="missing"/>
-<!--<stop>prologus</stop>-->
-<!--<start>Fortaler</start>-->
       <text xml:id="workid118169" decls="#biblid118169">
         <body xml:id="idm140607952621824">
           <head xml:id="idm140607952621568">

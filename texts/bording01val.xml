@@ -1,17 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!--  OCR by ATAPY 05.01.03 (Catherine Bychkova) -->
-<!-- 20030320 HHL
-- rettet iflg. punkter + assumptions.doc
-- fjernet &amp; fra vaerktitler - erstattet med 'et'
-- enkelte meget korte titler gjort længere i overenstemmelse med titelregistret
-- side 246, rytmeangivelsen udkommenteret
-Ptj rettet s.158. 
--->
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="idm140114471091200"><!-- 
-       file     ./marc_dir/001433218.xml
-       field    530 
-       subfield a 
-       prefix   <1>-->
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="root">
   <teiHeader xml:id="idm140114471090064">
     <fileDesc xml:id="idm140114471064624">
       <titleStmt xml:id="idm140114471064368">
@@ -32,29 +20,776 @@ Ptj rettet s.158.
 	  </note>
       </notesStmt>
       <sourceDesc xml:id="idm140114471059696">
-	<bibl xml:id="idm140114471059568">
-	  <title xml:id="idm140114471059440">Digte. - 1984</title>
-	  <author n="1" xml:id="idm140607960305264">
-	    <name xml:id="idm140607960305008">
-	      <surname xml:id="idm140607960304880">Bording</surname>,
-	      <forename xml:id="idm140607960304416">Anders</forename>
-	    </name>
-	  </author>
-	  <pubPlace xml:id="idm140114471059184">Kbh.</pubPlace>
-	  <publisher xml:id="idm140114471058720">Det Danske Sprog- og
+        <bibl xml:id="idm140114471059568">
+          <title xml:id="idm140114471059440">Digte. - 1984</title>
+          <author n="1" xml:id="idm140607960305264">
+            <name xml:id="idm140607960305008"><surname xml:id="idm140607960304880">Bording</surname>,
+	      <forename xml:id="idm140607960304416">Anders</forename></name>
+          </author>
+          <pubPlace xml:id="idm140114471059184">København</pubPlace>
+          <publisher xml:id="idm140114471058720">Det Danske Sprog- og
 	  Litteraturselskab</publisher>
-	  <date xml:id="idm140114471058368">1984-86</date>
-	  </bibl>
-	  <listBibl xml:id="idm140114471058080"><bibl xml:id="biblid59896"><title xml:id="idm140114471044480">Naar mangen hafuer tancke slig</title></bibl><bibl xml:id="biblid61786"><title xml:id="idm140114471043680">MJn kappe lu-bar er saa nær</title></bibl><bibl xml:id="biblid62142"><title xml:id="idm140114471042848">J store giecker, J, som høyre vill' opstige</title></bibl><bibl xml:id="biblid62932"><title xml:id="idm140114471041984">Saa lidet som en Sole grand</title></bibl><bibl xml:id="biblid63359"><title xml:id="idm140114471041184">Guld och Sølff kand snart forsuinde</title></bibl><bibl xml:id="biblid63800"><title xml:id="idm140114471040336">DEn lille nøgen Dreng/ den rette Pudsedriffver</title></bibl><bibl xml:id="biblid64499"><title xml:id="idm140114471039472">HEr Sehsted/ ædle Siæl/ den glade Dag er kommen</title></bibl><bibl xml:id="biblid64795"><title xml:id="idm140114471038608">HVad skal den rijge Pærle-krands</title></bibl><bibl xml:id="biblid64962"><title xml:id="idm140114471037776">VEl an Her Bering legger hen</title></bibl><bibl xml:id="biblid65206"><title xml:id="idm140114471036976">NEy! Kierlighed ey tuingis vil</title></bibl><bibl xml:id="biblid65867"><title xml:id="idm140114471036128">HÆc est illa dies, qvæ tanti conscia gaudj</title></bibl><bibl xml:id="biblid66434"><title xml:id="idm140114471035200">HEr Melvin/ høy-fornemme Ven</title></bibl><bibl xml:id="biblid67037"><title xml:id="idm140114471034320">Saa snart vor barndoms leege tid</title></bibl><bibl xml:id="biblid67485"><title xml:id="idm140114471033472">ENddog/ Her Gjse/ jeg ey veed</title></bibl><bibl xml:id="biblid67936"><title xml:id="idm140114471032624">ENd dog/ Her Broberg/ Jeg kand ey</title></bibl><bibl xml:id="biblid68402"><title xml:id="idm140114471031824">ENd dog Jeg ey kand spaae/ Jeg dog saa vel hukommer</title></bibl><bibl xml:id="biblid68689"><title xml:id="idm140114471030960">FOrelskte Hjerter/ fromme par</title></bibl><bibl xml:id="biblid69163"><title xml:id="idm140114471030160">SOm Byrden tung aff enlig Mand</title></bibl><bibl xml:id="biblid69414"><title xml:id="idm140114471029360">Forelskte hjerter/ ædle par</title></bibl><bibl xml:id="biblid69695"><title xml:id="idm140114471028528">J mindes vel vor Barndoms Tid</title></bibl><bibl xml:id="biblid70156"><title xml:id="idm140114471027680">Sic Venus et parili junguntur Amore Minerva</title></bibl><bibl xml:id="biblid70228"><title xml:id="idm140114471026816">O dydig Brud! umuligt er</title></bibl><bibl xml:id="biblid70278"><title xml:id="idm140114471025968">Agter hvad i disse dage</title></bibl><bibl xml:id="biblid71083"><title xml:id="idm140114471025136">REt saa; ret lige saa vil med frit Moed begyndes</title></bibl><bibl xml:id="biblid71548"><title xml:id="idm140114471024272">SEe der! See der! Om jeg i gaar kom ey til Maade</title></bibl><bibl xml:id="biblid71775"><title xml:id="idm140114471023408">NAar Hjorten saaret er med pjl</title></bibl><bibl xml:id="biblid72157"><title xml:id="idm140114471022560">FUld aff Vunder/ fuld aff Kunst</title></bibl><bibl xml:id="biblid72784"><title xml:id="idm140114471021712">HVo fast har grundvol lagt/ hans bygning fast ved blifver</title></bibl><bibl xml:id="biblid72874"><title xml:id="idm140114471020832">J Nipske Nimpher færne Møer</title></bibl><bibl xml:id="biblid73305"><title xml:id="idm140114471020000">Saa tilig som vi faaer henkast vor Børne-leege</title></bibl><bibl xml:id="biblid73685"><title xml:id="idm140114471019136">HUad art af Vers kand findis paa</title></bibl><bibl xml:id="biblid73846"><title xml:id="idm140114471018288">Bort nu med knippelskrin och Stok</title></bibl><bibl xml:id="biblid74128"><title xml:id="idm140114471017440">Hans Hanssøn voris gode ven</title></bibl><bibl xml:id="biblid74375"><title xml:id="idm140114471016560">Saa er den gode Dag omsider da oprunden</title></bibl><bibl xml:id="biblid74607"><title xml:id="idm140114471015712">En Sommers Nat J tykken krat</title></bibl><bibl xml:id="biblid75035"><title xml:id="idm140114471014800">Altingest har sin visse Tjd</title></bibl><bibl xml:id="biblid75144"><title xml:id="idm140114471013952">SAa mange Zopyros/ i fordom dage sig</title></bibl><bibl xml:id="biblid75479"><title xml:id="idm140114471013104">VEl an Høy-ædle Holck/ min Danske Sang-Gudinde</title></bibl><bibl xml:id="biblid76244"><title xml:id="idm140114471012192">Hvad under Himlens tag och høye bygning findes</title></bibl><bibl xml:id="biblid76593"><title xml:id="idm140114471011280">HVem skarpen Torn fryctactig giør</title></bibl><bibl xml:id="biblid77036"><title xml:id="idm140114471010400">Kom ædle Sindsens trøsterinde</title></bibl><bibl xml:id="biblid77347"><title xml:id="idm140114471009520">HVo frem ved Bogen acter ret</title></bibl><bibl xml:id="biblid77635"><title xml:id="idm140114471120896">FOr meget och for lidet gjør</title></bibl><bibl xml:id="biblid78003"><title xml:id="idm140114471120128">At den Høyædle Holk er til Friherre vorden</title></bibl><bibl xml:id="biblid78106"><title xml:id="idm140114471119328">HVad er det for en Larm oc Bang</title></bibl><bibl xml:id="biblid79302"><title xml:id="idm140114471118512">OP Fama snart op hastelig</title></bibl><bibl xml:id="biblid80006"><title xml:id="idm140114471117760">At Jeg Saa Pytagorisk gaar</title></bibl><bibl xml:id="biblid82852"><title xml:id="idm140114471117008">Stoor-mægtigste Monarch, o Potentaters Krone</title></bibl><bibl xml:id="biblid83285"><title xml:id="idm140114470983392">HVor mangen høy bedrift oc herlig Mandoms prøfve</title></bibl><bibl xml:id="biblid84086"><title xml:id="idm140114470982528">ALmæctig Himmel ach hvad det</title></bibl><bibl xml:id="biblid85132"><title xml:id="idm140114470981696">KOm ædle Titan/ kom du store Verdens øye</title></bibl><bibl xml:id="biblid85546"><title xml:id="idm140114470980848">REys op/ o Danmark/ nu din høye Spjr och Krone</title></bibl><bibl xml:id="biblid85943"><title xml:id="idm140114470979920">PRintzcessers klare Sool/ Førstinders pract och smykke</title></bibl><bibl xml:id="biblid86194"><title xml:id="idm140114470979040">VElkommen gyldne Soel och Ljus</title></bibl><bibl xml:id="biblid86551"><title xml:id="idm140114470978224">Saa kand en hastig Storm den allerstørste Ceder</title></bibl><bibl xml:id="biblid86971"><title xml:id="idm140114470977296">SAa lader Himlen nu den glade dag oprinde</title></bibl><bibl xml:id="biblid87442"><title xml:id="idm140114470976480">Her GABEL, J fortørnes ej</title></bibl><bibl xml:id="biblid88194"><title xml:id="idm140114470975600">FOrsee dig nu Gradiv/ rym hen til andre Riger</title></bibl><bibl xml:id="biblid88431"><title xml:id="idm140114470974784">BOrt blege Missgunst du/ som vilt dig selff opæde</title></bibl><bibl xml:id="biblid88804"><title xml:id="idm140114470973920">DEn gamle Tjd forsuinder hen</title></bibl><bibl xml:id="biblid90237"><title xml:id="idm140114470969104">SAa kand den ædle Dyd ey maal oc maade settis</title></bibl><bibl xml:id="biblid90785"><title xml:id="idm140114470968304">O ædle Siæl, Far ævig vel</title></bibl><bibl xml:id="biblid90914"><title xml:id="idm140114470967536">TJl store Helters Roes oc Loff</title></bibl><bibl xml:id="biblid92055"><title xml:id="idm140114470966784">EN Trofast ven/ som teer sig huld</title></bibl><bibl xml:id="biblid92692"><title xml:id="idm140114470966096">ACH Skat, Ach ædle Landsens Skat</title></bibl><bibl xml:id="biblid93297"><title xml:id="idm140114470965328">LVgendi cineres et nunqvam lumine sicco</title></bibl><bibl xml:id="biblid93433"><title xml:id="idm140114470964640">Ach Himmel/ Himmel/ ach hvad skal jeg nu paafinde</title></bibl><bibl xml:id="biblid93737"><title xml:id="idm140114470963888">DV nock-hiemsøgte Cimber-land</title></bibl><bibl xml:id="biblid94508"><title xml:id="idm140114470963024">HOlt stille med dit salte Vand</title></bibl><bibl xml:id="biblid95262"><title xml:id="idm140114470962272">JT bedre Paafund ingen veed</title></bibl><bibl xml:id="biblid95516"><title xml:id="idm140114470961520">Skal nu den same pen/ som eders nafn indførde</title></bibl><bibl xml:id="biblid95857"><title xml:id="idm140114470960592">VEl sterke been' hâr den/ der medgang vel kand bære</title></bibl><bibl xml:id="biblid96070"><title xml:id="idm140114470959712">ALt det som hafver Ljf och Aand</title></bibl><bibl xml:id="biblid96437"><title xml:id="idm140114470958960">Om skønt ey nogen kand paa Jorden her opstige</title></bibl><bibl xml:id="biblid96705"><title xml:id="idm140114470958096">Om mig et huus en tid lang hen</title></bibl><bibl xml:id="biblid97102"><title xml:id="idm140114470957344">Kand Jonas græmme sig och vilde gaae til døde</title></bibl><bibl xml:id="biblid97608"><title xml:id="idm140114470956480">ACh! ney: min Broder/ ney: hvorledis vi det mage</title></bibl><bibl xml:id="biblid97859"><title xml:id="idm140114470955664">Kand da Naturen af sit rige skjød ey gifve</title></bibl><bibl xml:id="biblid98330"><title xml:id="idm140114470954816">MEd Stiil och Pæn/ mand dig vel hen</title></bibl><bibl xml:id="biblid98417"><title xml:id="idm140114470953968">JEg uforfaren var/ der jeg saa hart blef prøved</title></bibl><bibl xml:id="biblid98470"><title xml:id="idm140114470953040">LAd Sommer-Rosen sig med høye Farfver pryde</title></bibl><bibl xml:id="biblid98810"><title xml:id="idm140114470952176">EY ringe det er kunst/ af Barns been op at rende</title></bibl><bibl xml:id="biblid99012"><title xml:id="idm140114470951360">NAar Jphigenia sig hen</title></bibl><bibl xml:id="biblid99379"><title xml:id="idm140114470950576">Ach æd[l]e Søster ach hvad det</title></bibl><bibl xml:id="biblid99629"><title xml:id="idm140114470949680">HEr hviler Jeg saa stif som stok</title></bibl><bibl xml:id="biblid99725"><title xml:id="idm140114470948880">Den graadig alders skarpe tand</title></bibl><bibl xml:id="biblid99919"><title xml:id="idm140114470948080">At du Gudfryctig varst och som dit nafn udtyder</title></bibl><bibl xml:id="biblid100006"><title xml:id="idm140114470947216">DEn som aff Byrd og Blod var Hiemme ædel baaren</title></bibl><bibl xml:id="biblid100076"><title xml:id="idm140114470946352">Min døde Krop vel Jordis kand</title></bibl><bibl xml:id="biblid100184"><title xml:id="idm140114470945520">Ja fromme Walter/ Ja/ du varst for Himmel-værdig</title></bibl><bibl xml:id="biblid100283"><title xml:id="idm140114470944656">J Dødsens sidste Tjd en trofast ven at tjene</title></bibl><bibl xml:id="biblid100363"><title xml:id="idm140114470943792">VEl maae den mørke graf/ o fromme HJORT/ fortære</title></bibl><bibl xml:id="biblid100454"><title xml:id="idm140114470942928">Det er/ ô Danske Mand uqvems</title></bibl><bibl xml:id="biblid54563"><title xml:id="idm140114470942096">HVad vjse Mænd i fordum Tjd</title></bibl><bibl xml:id="biblid100700"><title xml:id="idm140114470941264">At den forblummet Juvenal</title></bibl><bibl xml:id="biblid100885"><title xml:id="idm140114470940352">Saa bold som Rosen er: saa kort en Tjd den Hafver</title></bibl><bibl xml:id="biblid100924"><title xml:id="idm140114470939536">Om stjl och malning ret skal gunst</title></bibl><bibl xml:id="biblid100977"><title xml:id="idm140114470938736">HVad lofligt vore Formænd her</title></bibl><bibl xml:id="biblid101374"><title xml:id="idm140114470937904">OM Ennius med nogen skjel</title></bibl><bibl xml:id="biblid101596"><title xml:id="idm140114470937040">See Eiler Eilerssøn af Holchis stamme baaren</title></bibl><bibl xml:id="biblid101692"><title xml:id="idm140114470936128">Ædel af hierte velbaaren af ætt</title></bibl><bibl xml:id="biblid101745"><title xml:id="idm140114470935264">Jo Reenere korn, io striidere halm</title></bibl><bibl xml:id="biblid101808"><title xml:id="idm140114470934464">Som Guld er purt, och Løfven sterk</title></bibl><bibl xml:id="biblid101832"><title xml:id="idm140114470933632">Af Guld och Løfve Jeg har nafn</title></bibl><bibl xml:id="biblid101862"><title xml:id="idm140114470932800">Som Guld sin prøfve staaer, och Løfven ikke viger</title></bibl><bibl xml:id="biblid101898"><title xml:id="idm140114470931872">Som Guld sin prøfve staaer och Løfven kamp ey necter</title></bibl><bibl xml:id="biblid101924"><title xml:id="idm140114470930992">Som guld sin prøfve staaer</title></bibl><bibl xml:id="biblid101952"><title xml:id="idm140114470930112">Vel har Jeg nafn af Løfve</title></bibl><bibl xml:id="biblid101985"><title xml:id="idm140114470929296">Jeg næfnes af det fine guld</title></bibl><bibl xml:id="biblid102028"><title xml:id="idm140114470928464">Vel hafver Jeg mit nafn af Løfve</title></bibl><bibl xml:id="biblid102065"><title xml:id="idm140114470927632">Som Gylden malm er puur och reen</title></bibl><bibl xml:id="biblid102100"><title xml:id="idm140114470926768">Som Guld er puurt och Løfven sterk</title></bibl><bibl xml:id="biblid102126"><title xml:id="idm140114470925888">Til sengs med hunde hvo som gaar</title></bibl><bibl xml:id="biblid102152"><title xml:id="idm140114470925040">For intet faar mand intet</title></bibl><bibl xml:id="biblid102213"><title xml:id="idm140114470924240">Exeqvias Pelagus divisit et Ignis et Æther</title></bibl><bibl xml:id="biblid102242"><title xml:id="idm140114470923344">Hier richten Fewer, Meer vnd Luft die grabstat zu</title></bibl><bibl xml:id="biblid102274"><title xml:id="idm140114470922464">Begrafven Opdam blef i Luft och Ild och Haf</title></bibl><bibl xml:id="biblid102298"><title xml:id="idm140114470921648">Min faders lyst min moders trøst</title></bibl><bibl xml:id="biblid102325"><title xml:id="idm140114470920816">Med Faders suck och moders skrig</title></bibl><bibl xml:id="biblid102349"><title xml:id="idm140114470919952">Min ædle faders dyd min Moders hæld och ære</title></bibl><bibl xml:id="biblid102376"><title xml:id="idm140114470919024">Som Hund mod anden teer sig vreed</title></bibl><bibl xml:id="biblid102418"><title xml:id="idm140114470918176">Durus Durandus jacet hic sub marmore duro</title></bibl><bibl xml:id="biblid102472"><title xml:id="idm140114470917360">Vina mihi vitam, mortern mihi vina dederunt</title></bibl><bibl xml:id="biblid102518"><title xml:id="idm140114470916480">Hie ligt Her Schultus, der hies Kordt</title></bibl><bibl xml:id="biblid102543"><title xml:id="idm140114470915632">Hic jacet Jon Prest, qvi dedit suum</title></bibl><bibl xml:id="biblid102603"><title xml:id="idm140114470914768">O Deus omnipotens vituli miserere Johannis</title></bibl><bibl xml:id="biblid102634"><title xml:id="idm140114470913952">Hic jacet Dominus Magister</title></bibl><bibl xml:id="biblid102709"><title xml:id="idm140114470913152">Hie ligt Meister Peter im grunen grass</title></bibl><bibl xml:id="biblid102733"><title xml:id="idm140114470912352">Epit: Ronsardi Poëtæ</title></bibl><bibl xml:id="biblid102771"><title xml:id="idm140114470911536">F. M. Hardenb</title></bibl><bibl xml:id="biblid102792"><title xml:id="idm140114470910640">Hic situs est Bentzon superis invisus et imis</title></bibl><bibl xml:id="biblid102820"><title xml:id="idm140114470909776">Conditur hoc tumulo Lucretia nomine, salve</title></bibl><bibl xml:id="biblid102848"><title xml:id="idm140114470908896">Eines von einen Kuss gestorbenen</title></bibl><bibl xml:id="biblid102869"><title xml:id="idm140114470908096">Oscula prosternunt, qvem nulla nee arma nee hostis</title></bibl><bibl xml:id="biblid102897"><title xml:id="idm140114470907280">Oscula si perimunt, dulci qvæ dantur ab ore</title></bibl><bibl xml:id="biblid102959"><title xml:id="idm140114470906352">Op hjertens lyst och velbehag</title></bibl><bibl xml:id="biblid103031"><title xml:id="idm140114470905440">Som Jeg af arf ælds tid med mine floders væde</title></bibl><bibl xml:id="biblid103352"><title xml:id="idm140114470904576">En knude sammen knyt af guld och ædle steene</title></bibl><bibl xml:id="biblid103397"><title xml:id="idm140114470903648">Min anden Jeg, min ædle Møe</title></bibl><bibl xml:id="biblid103485"><title xml:id="idm140114470902816">Frisk op lad skaal och glass omgaa</title></bibl><bibl xml:id="biblid103565"><title xml:id="idm140114470902016">En diefvelblandet tyf mit kammers høyd har maalit</title></bibl><bibl xml:id="biblid103612"><title xml:id="idm140114470901152">Hvad holder det dog hart, før nogen sig opsvinger</title></bibl><bibl xml:id="biblid103651"><title xml:id="idm140114470900288">Vel er det vanskeligt, før sig en Mand opsvinger</title></bibl><bibl xml:id="biblid103698"><title xml:id="idm140114470899360">Hvor langsom Natten gaar, mand sig igjen dog fryder</title></bibl><bibl xml:id="biblid103746"><title xml:id="idm140114470898432">Høy ædle Cimber Helt hvis Høye værd och ære</title></bibl><bibl xml:id="biblid103899"><title xml:id="idm140114470897520">Om Phoebus af sin milde gunst</title></bibl><bibl xml:id="biblid103985"><title xml:id="idm140114470896656">Ja store Cimber Helt Høybaarne Gyldenløwe</title></bibl><bibl xml:id="biblid104014"><title xml:id="idm140114470895808">Ved hver af de bogstafvers tal</title></bibl><bibl xml:id="biblid104108"><title xml:id="idm140114470895008">DÆdala Pallas, Cur manet alta</title></bibl><bibl xml:id="biblid104528"><title xml:id="idm140114470894112">MOenius cautum vates commendat Ulyssem</title></bibl><bibl xml:id="biblid105170"><title xml:id="idm140114470893248">LArgiflui qvondam Permessi ad fluminis undas</title></bibl><bibl xml:id="biblid105424"><title xml:id="idm140114470892432">VTile miscentes dulci, figmenta Poetæ</title></bibl><bibl xml:id="biblid105992"><title xml:id="idm140114470891520">Ach aff det haarde band oc lengsels tunge Nød</title></bibl><bibl xml:id="biblid106276"><title xml:id="idm140114470890608">Ak! af den falske List og hiertelig Fortred</title></bibl><bibl xml:id="biblid106584"><title xml:id="idm140114470889728">Ach Amaryllis hast du denn</title></bibl><bibl xml:id="biblid106622"><title xml:id="idm140114470888928">Ak! Amaryllis har du slet</title></bibl><bibl xml:id="biblid107117"><title xml:id="idm140114470888016">Ach gaar i Sene Tider gaar</title></bibl><bibl xml:id="biblid107636"><title xml:id="idm140114470887152">Ak hvad er det, at J mig saa</title></bibl><bibl xml:id="biblid108056"><title xml:id="idm140114470886304">Ach hvad schall dog Daphnis hyrde</title></bibl><bibl xml:id="biblid108334"><title xml:id="idm140114470885504">Ach mit Hierte Vill besvime</title></bibl><bibl xml:id="biblid108755"><title xml:id="idm140114470884640">At en huer sig monne bucke</title></bibl><bibl xml:id="biblid109278"><title xml:id="idm140114470883840">Blinde Dreng, huis Piil oc bue</title></bibl><bibl xml:id="biblid109705"><title xml:id="idm140114470882976">Celadon ey mere Klager</title></bibl><bibl xml:id="biblid110001"><title xml:id="idm140114470882128">Daphnis gik for nogle Dage</title></bibl><bibl xml:id="biblid110319"><title xml:id="idm140114470881280">Dend schønne Huis tienner och egen Jeg er</title></bibl><bibl xml:id="biblid110581"><title xml:id="idm140114470880384">Det sidste Mand Fra Doris hørde</title></bibl><bibl xml:id="biblid111245"><title xml:id="idm140114470879552">Dybe Hiertens Tancher</title></bibl><bibl xml:id="biblid111508"><title xml:id="idm140114470878704">Ej nogen tid aff Aganippes kilde</title></bibl><bibl xml:id="biblid112110"><title xml:id="idm140114470877840">Engel-søde Galathe</title></bibl><bibl xml:id="biblid112385"><title xml:id="idm140114470877040">For din schiønhed[s] høie trone</title></bibl><bibl xml:id="biblid112859"><title xml:id="idm140114470876208">Fuld af Sorg og Hiertens Qvide</title></bibl><bibl xml:id="biblid113567"><title xml:id="idm140114470875296">Galathea Streng oc wild</title></bibl><bibl xml:id="biblid113876"><title xml:id="idm140114470874512">Har da hver een Jordens ende</title></bibl><bibl xml:id="biblid114063"><title xml:id="idm140114470873648">Hvad kand ulykken nu</title></bibl><bibl xml:id="biblid114391"><title xml:id="idm140114470872816">Hvor viit skal ô Dorinde Sig</title></bibl><bibl xml:id="biblid114688"><title xml:id="idm140114470871920">Klare Stierne Sylvia</title></bibl><bibl xml:id="biblid114944"><title xml:id="idm140114470871136">Kom ô Skiønnist Hyrdemøe</title></bibl><bibl xml:id="biblid115428"><title xml:id="idm140114470870256">Kom ædle Lius ald verdenss øye</title></bibl><bibl xml:id="biblid115727"><title xml:id="idm140114470869376">Kunde nogen ting forhindre</title></bibl><bibl xml:id="biblid116058"><title xml:id="idm140114470868512">Milde Soel hui lader du</title></bibl><bibl xml:id="biblid116371"><title xml:id="idm140114470867664">Mincia Hyrdinders Ære</title></bibl><bibl xml:id="biblid116568"><title xml:id="idm140114470866784">Min Smerte er Saa megit stor</title></bibl><bibl xml:id="biblid116776"><title xml:id="idm140114470865984">Min ædle perle Sylvia</title></bibl><bibl xml:id="biblid117052"><title xml:id="idm140114470865168">Min ædle Phyllis om du er</title></bibl><bibl xml:id="biblid117345"><title xml:id="idm140114470864352">Maa ieg ey med Lette Vinger</title></bibl><bibl xml:id="biblid117729"><title xml:id="idm140114470863552">Maatte jeg af Hippocren</title></bibl><bibl xml:id="biblid117998"><title xml:id="idm140114470862704">Naar Bierge, Dall og Skove</title></bibl><bibl xml:id="biblid118544"><title xml:id="idm140114470861840">Naar Himlen Sielff ey Vill udgyde</title></bibl><bibl xml:id="biblid118977"><title xml:id="idm140114470861040">O min Siell huor mange Dage</title></bibl><bibl xml:id="biblid119375"><title xml:id="idm140114470860176">Op hiertens suck oc graad vær rede</title></bibl><bibl xml:id="biblid120214"><title xml:id="idm140114470859296">O skiønne Galathe</title></bibl><bibl xml:id="biblid121005"><title xml:id="idm140114470858384">O Wrede Sind ô haarde Steen</title></bibl><bibl xml:id="biblid121514"><title xml:id="idm140114470857504">Skall det Endelig nu wære</title></bibl><bibl xml:id="biblid121982"><title xml:id="idm140114470856640">Skiønne Galate, hvort hen?</title></bibl><bibl xml:id="biblid122538"><title xml:id="idm140114470855760">Skiønne men dog Skarpe Rose</title></bibl><bibl xml:id="biblid122947"><title xml:id="idm140114470854928">Sylvia, hvor længe</title></bibl><bibl xml:id="biblid123523"><title xml:id="idm140114470854064">Vil mig ulychen da</title></bibl><bibl xml:id="biblid124005"><title xml:id="idm140114470853216">Frisk op naar Dieffvelen giør sig vred</title></bibl><bibl xml:id="biblid124426"><title xml:id="idm140114470852304">Huad schal Rydtzer nu anfange</title></bibl><bibl xml:id="biblid124644"><title xml:id="idm140114470851504">Jeg kand ikke tie her</title></bibl><bibl xml:id="biblid124820"><title xml:id="idm140114470850656">See den skidne Bonde-giek</title></bibl><bibl xml:id="biblid126708"><title xml:id="idm140114470849744">ARme Hierte du med Skiel/ Snart dig vel</title></bibl><bibl xml:id="biblid127089"><title xml:id="idm140114470848880">At den som Himmelen besider</title></bibl><bibl xml:id="biblid127481"><title xml:id="idm140114470848016">BEklemte Siæl/ hvad vilt du vanke</title></bibl><bibl xml:id="biblid127790"><title xml:id="idm140114470847136">DEn ædle Glædens Skat</title></bibl><bibl xml:id="biblid128200"><title xml:id="idm140114470846320">Ej nogen med fuld vigtig' ord</title></bibl><bibl xml:id="biblid128610"><title xml:id="idm140114470845456">Herre Gud, hvor længe</title></bibl><bibl xml:id="biblid129262"><title xml:id="idm140114470844576">HVem skal jeg min Angist Klage</title></bibl><bibl xml:id="biblid129585"><title xml:id="idm140114470843712">Hvi min Lykke sover du?</title></bibl><bibl xml:id="biblid129772"><title xml:id="idm140114470842928">JEg ikke noksom kand med Ord</title></bibl><bibl xml:id="biblid130045"><title xml:id="idm140114470842064">Lykken kommer, lykken gaar</title></bibl><bibl xml:id="biblid130336"><title xml:id="idm140114470841216">Min bange Siel [maa] falde</title></bibl><bibl xml:id="biblid130646"><title xml:id="idm140114470840352">MJn kummerfulde Siæl i mig</title></bibl><bibl xml:id="biblid131157"><title xml:id="idm140114470839536">Pius vivam, nunc est hora</title></bibl><bibl xml:id="biblid131215"><title xml:id="idm140114470838688">Nu vill ieg slett lade fare</title></bibl><bibl xml:id="biblid131670"><title xml:id="idm140114470837824">Naar Haarden storm sig af de skiulte stæder</title></bibl><bibl xml:id="biblid131909"><title xml:id="idm140114470836896">Naar mig Nøden haardest plager</title></bibl><bibl xml:id="biblid132095"><title xml:id="idm140114470836064">O kommer alle frem</title></bibl><bibl xml:id="biblid132436"><title xml:id="idm140114470835216">Paa Syndsens Torv for langen Tiid</title></bibl><bibl xml:id="biblid132558"><title xml:id="idm140114470834416">Ret som de klare Søer oc stride floders wand</title></bibl><bibl xml:id="biblid132796"><title xml:id="idm140114470833552">Ørnen med sin lette winger</title></bibl><bibl xml:id="biblid133831"><title xml:id="idm140114470832752">Den salig her og hisset er, som sig</title></bibl><bibl xml:id="biblid133973"><title xml:id="idm140114470831888">Hvi fnyser saa den trodsig Hedensk hær</title></bibl><bibl xml:id="biblid134235"><title xml:id="idm140114470830928">At du forfares, Jsrael</title></bibl><bibl xml:id="biblid134371"><title xml:id="idm140114470830080">Lof være Gud som har saa vel</title></bibl><bibl xml:id="biblid134512"><title xml:id="idm140114470829136">Min Sjæl och aand sig fryder</title></bibl><bibl xml:id="biblid134660"><title xml:id="idm140114470828304">Ja milde naadsens Fader</title></bibl><bibl xml:id="biblid134796"><title xml:id="idm140114470827520">Du Lade gak til Myren bort</title></bibl><bibl xml:id="biblid134943"><title xml:id="idm140114470826656">Med Hykelske retfærdighed</title></bibl><bibl xml:id="biblid135112"><title xml:id="idm140114470825776">I Min indvol och mit hjerte</title></bibl><bibl xml:id="biblid135285"><title xml:id="idm140114470824928">Vilt du, min Sjæl, som det sig bør</title></bibl><bibl xml:id="biblid135418"><title xml:id="idm140114470824016">Du verdsens Barn som al din tid</title></bibl><bibl xml:id="biblid135547"><title xml:id="idm140114470823104">Saaledis vil Jerusalem</title></bibl><bibl xml:id="biblid135692"><title xml:id="idm140114470822256">Jeg takker Gud at Jeg er ey</title></bibl><bibl xml:id="biblid135884"><title xml:id="idm140114470821392">O vee hvor ilde mig bekom</title></bibl><bibl xml:id="biblid135994"><title xml:id="idm140114470820528">Hvad er O Gud din Miskundhed</title></bibl><bibl xml:id="biblid136137"><title xml:id="idm140114470819680">Hvad vilt du Dødelige</title></bibl><bibl xml:id="biblid136268"><title xml:id="idm140114470818800">Loed Gud ey mig omringe</title></bibl><bibl xml:id="biblid136350"><title xml:id="idm140114470817952">ACh kunde søden Rose sig</title></bibl><bibl xml:id="biblid136779"><title xml:id="idm140114470817072">Mod huer Quintin aff Fryd oc Lyst</title></bibl><bibl xml:id="biblid137012"><title xml:id="idm140114470816272">Min ædle Brahe, wel kand dig</title></bibl><bibl xml:id="biblid137055"><title xml:id="idm140114470815376">Wed sliben blifver Jernet klar</title></bibl><bibl xml:id="biblid137612"><title xml:id="idm140114470814576">Holt dig stille Røde Morgen</title></bibl><bibl xml:id="biblid138100"><title xml:id="idm140114470813744">Kand Jeg vell uden Klage</title></bibl><bibl xml:id="biblid138442"><title xml:id="idm140114470812880">Mit paa munden allerbest</title></bibl><bibl xml:id="biblid138730"><title xml:id="idm140114470811968">Vel dend som mon Fornøyet være</title></bibl><bibl xml:id="biblid138992"><title xml:id="idm140114470811072">Ah at dog en Trois Gnist</title></bibl><bibl xml:id="biblid139149"><title xml:id="idm140114470810208">AH hvor jeg længis efter dig JEsu min</title></bibl><bibl xml:id="biblid139435"><title xml:id="idm140114470809312">GUDS Loffvis tvende Tafler er'</title></bibl><bibl xml:id="biblid139648"><title xml:id="idm140114470808400">O Fader vor/ i Himlen boer</title></bibl></listBibl></sourceDesc>
+          <date xml:id="idm140114471058368">1984-86</date>
+        </bibl>
+        <listBibl xml:id="idm140114471058080">
+          <bibl xml:id="biblid59896">
+            <title xml:id="idm140114471044480">Naar mangen hafuer tancke slig</title>
+          </bibl>
+          <bibl xml:id="biblid61786">
+            <title xml:id="idm140114471043680">MJn kappe lu-bar er saa nær</title>
+          </bibl>
+          <bibl xml:id="biblid62142">
+            <title xml:id="idm140114471042848">J store giecker, J, som høyre vill' opstige</title>
+          </bibl>
+          <bibl xml:id="biblid62932">
+            <title xml:id="idm140114471041984">Saa lidet som en Sole grand</title>
+          </bibl>
+          <bibl xml:id="biblid63359">
+            <title xml:id="idm140114471041184">Guld och Sølff kand snart forsuinde</title>
+          </bibl>
+          <bibl xml:id="biblid63800">
+            <title xml:id="idm140114471040336">DEn lille nøgen Dreng/ den rette Pudsedriffver</title>
+          </bibl>
+          <bibl xml:id="biblid64499">
+            <title xml:id="idm140114471039472">HEr Sehsted/ ædle Siæl/ den glade Dag er kommen</title>
+          </bibl>
+          <bibl xml:id="biblid64795">
+            <title xml:id="idm140114471038608">HVad skal den rijge Pærle-krands</title>
+          </bibl>
+          <bibl xml:id="biblid64962">
+            <title xml:id="idm140114471037776">VEl an Her Bering legger hen</title>
+          </bibl>
+          <bibl xml:id="biblid65206">
+            <title xml:id="idm140114471036976">NEy! Kierlighed ey tuingis vil</title>
+          </bibl>
+          <bibl xml:id="biblid65867">
+            <title xml:id="idm140114471036128">HÆc est illa dies, qvæ tanti conscia gaudj</title>
+          </bibl>
+          <bibl xml:id="biblid66434">
+            <title xml:id="idm140114471035200">HEr Melvin/ høy-fornemme Ven</title>
+          </bibl>
+          <bibl xml:id="biblid67037">
+            <title xml:id="idm140114471034320">Saa snart vor barndoms leege tid</title>
+          </bibl>
+          <bibl xml:id="biblid67485">
+            <title xml:id="idm140114471033472">ENddog/ Her Gjse/ jeg ey veed</title>
+          </bibl>
+          <bibl xml:id="biblid67936">
+            <title xml:id="idm140114471032624">ENd dog/ Her Broberg/ Jeg kand ey</title>
+          </bibl>
+          <bibl xml:id="biblid68402">
+            <title xml:id="idm140114471031824">ENd dog Jeg ey kand spaae/ Jeg dog saa vel hukommer</title>
+          </bibl>
+          <bibl xml:id="biblid68689">
+            <title xml:id="idm140114471030960">FOrelskte Hjerter/ fromme par</title>
+          </bibl>
+          <bibl xml:id="biblid69163">
+            <title xml:id="idm140114471030160">SOm Byrden tung aff enlig Mand</title>
+          </bibl>
+          <bibl xml:id="biblid69414">
+            <title xml:id="idm140114471029360">Forelskte hjerter/ ædle par</title>
+          </bibl>
+          <bibl xml:id="biblid69695">
+            <title xml:id="idm140114471028528">J mindes vel vor Barndoms Tid</title>
+          </bibl>
+          <bibl xml:id="biblid70156">
+            <title xml:id="idm140114471027680">Sic Venus et parili junguntur Amore Minerva</title>
+          </bibl>
+          <bibl xml:id="biblid70228">
+            <title xml:id="idm140114471026816">O dydig Brud! umuligt er</title>
+          </bibl>
+          <bibl xml:id="biblid70278">
+            <title xml:id="idm140114471025968">Agter hvad i disse dage</title>
+          </bibl>
+          <bibl xml:id="biblid71083">
+            <title xml:id="idm140114471025136">REt saa; ret lige saa vil med frit Moed begyndes</title>
+          </bibl>
+          <bibl xml:id="biblid71548">
+            <title xml:id="idm140114471024272">SEe der! See der! Om jeg i gaar kom ey til Maade</title>
+          </bibl>
+          <bibl xml:id="biblid71775">
+            <title xml:id="idm140114471023408">NAar Hjorten saaret er med pjl</title>
+          </bibl>
+          <bibl xml:id="biblid72157">
+            <title xml:id="idm140114471022560">FUld aff Vunder/ fuld aff Kunst</title>
+          </bibl>
+          <bibl xml:id="biblid72784">
+            <title xml:id="idm140114471021712">HVo fast har grundvol lagt/ hans bygning fast ved blifver</title>
+          </bibl>
+          <bibl xml:id="biblid72874">
+            <title xml:id="idm140114471020832">J Nipske Nimpher færne Møer</title>
+          </bibl>
+          <bibl xml:id="biblid73305">
+            <title xml:id="idm140114471020000">Saa tilig som vi faaer henkast vor Børne-leege</title>
+          </bibl>
+          <bibl xml:id="biblid73685">
+            <title xml:id="idm140114471019136">HUad art af Vers kand findis paa</title>
+          </bibl>
+          <bibl xml:id="biblid73846">
+            <title xml:id="idm140114471018288">Bort nu med knippelskrin och Stok</title>
+          </bibl>
+          <bibl xml:id="biblid74128">
+            <title xml:id="idm140114471017440">Hans Hanssøn voris gode ven</title>
+          </bibl>
+          <bibl xml:id="biblid74375">
+            <title xml:id="idm140114471016560">Saa er den gode Dag omsider da oprunden</title>
+          </bibl>
+          <bibl xml:id="biblid74607">
+            <title xml:id="idm140114471015712">En Sommers Nat J tykken krat</title>
+          </bibl>
+          <bibl xml:id="biblid75035">
+            <title xml:id="idm140114471014800">Altingest har sin visse Tjd</title>
+          </bibl>
+          <bibl xml:id="biblid75144">
+            <title xml:id="idm140114471013952">SAa mange Zopyros/ i fordom dage sig</title>
+          </bibl>
+          <bibl xml:id="biblid75479">
+            <title xml:id="idm140114471013104">VEl an Høy-ædle Holck/ min Danske Sang-Gudinde</title>
+          </bibl>
+          <bibl xml:id="biblid76244">
+            <title xml:id="idm140114471012192">Hvad under Himlens tag och høye bygning findes</title>
+          </bibl>
+          <bibl xml:id="biblid76593">
+            <title xml:id="idm140114471011280">HVem skarpen Torn fryctactig giør</title>
+          </bibl>
+          <bibl xml:id="biblid77036">
+            <title xml:id="idm140114471010400">Kom ædle Sindsens trøsterinde</title>
+          </bibl>
+          <bibl xml:id="biblid77347">
+            <title xml:id="idm140114471009520">HVo frem ved Bogen acter ret</title>
+          </bibl>
+          <bibl xml:id="biblid77635">
+            <title xml:id="idm140114471120896">FOr meget och for lidet gjør</title>
+          </bibl>
+          <bibl xml:id="biblid78003">
+            <title xml:id="idm140114471120128">At den Høyædle Holk er til Friherre vorden</title>
+          </bibl>
+          <bibl xml:id="biblid78106">
+            <title xml:id="idm140114471119328">HVad er det for en Larm oc Bang</title>
+          </bibl>
+          <bibl xml:id="biblid79302">
+            <title xml:id="idm140114471118512">OP Fama snart op hastelig</title>
+          </bibl>
+          <bibl xml:id="biblid80006">
+            <title xml:id="idm140114471117760">At Jeg Saa Pytagorisk gaar</title>
+          </bibl>
+          <bibl xml:id="biblid82852">
+            <title xml:id="idm140114471117008">Stoor-mægtigste Monarch, o Potentaters Krone</title>
+          </bibl>
+          <bibl xml:id="biblid83285">
+            <title xml:id="idm140114470983392">HVor mangen høy bedrift oc herlig Mandoms prøfve</title>
+          </bibl>
+          <bibl xml:id="biblid84086">
+            <title xml:id="idm140114470982528">ALmæctig Himmel ach hvad det</title>
+          </bibl>
+          <bibl xml:id="biblid85132">
+            <title xml:id="idm140114470981696">KOm ædle Titan/ kom du store Verdens øye</title>
+          </bibl>
+          <bibl xml:id="biblid85546">
+            <title xml:id="idm140114470980848">REys op/ o Danmark/ nu din høye Spjr och Krone</title>
+          </bibl>
+          <bibl xml:id="biblid85943">
+            <title xml:id="idm140114470979920">PRintzcessers klare Sool/ Førstinders pract och smykke</title>
+          </bibl>
+          <bibl xml:id="biblid86194">
+            <title xml:id="idm140114470979040">VElkommen gyldne Soel och Ljus</title>
+          </bibl>
+          <bibl xml:id="biblid86551">
+            <title xml:id="idm140114470978224">Saa kand en hastig Storm den allerstørste Ceder</title>
+          </bibl>
+          <bibl xml:id="biblid86971">
+            <title xml:id="idm140114470977296">SAa lader Himlen nu den glade dag oprinde</title>
+          </bibl>
+          <bibl xml:id="biblid87442">
+            <title xml:id="idm140114470976480">Her GABEL, J fortørnes ej</title>
+          </bibl>
+          <bibl xml:id="biblid88194">
+            <title xml:id="idm140114470975600">FOrsee dig nu Gradiv/ rym hen til andre Riger</title>
+          </bibl>
+          <bibl xml:id="biblid88431">
+            <title xml:id="idm140114470974784">BOrt blege Missgunst du/ som vilt dig selff opæde</title>
+          </bibl>
+          <bibl xml:id="biblid88804">
+            <title xml:id="idm140114470973920">DEn gamle Tjd forsuinder hen</title>
+          </bibl>
+          <bibl xml:id="biblid90237">
+            <title xml:id="idm140114470969104">SAa kand den ædle Dyd ey maal oc maade settis</title>
+          </bibl>
+          <bibl xml:id="biblid90785">
+            <title xml:id="idm140114470968304">O ædle Siæl, Far ævig vel</title>
+          </bibl>
+          <bibl xml:id="biblid90914">
+            <title xml:id="idm140114470967536">TJl store Helters Roes oc Loff</title>
+          </bibl>
+          <bibl xml:id="biblid92055">
+            <title xml:id="idm140114470966784">EN Trofast ven/ som teer sig huld</title>
+          </bibl>
+          <bibl xml:id="biblid92692">
+            <title xml:id="idm140114470966096">ACH Skat, Ach ædle Landsens Skat</title>
+          </bibl>
+          <bibl xml:id="biblid93297">
+            <title xml:id="idm140114470965328">LVgendi cineres et nunqvam lumine sicco</title>
+          </bibl>
+          <bibl xml:id="biblid93433">
+            <title xml:id="idm140114470964640">Ach Himmel/ Himmel/ ach hvad skal jeg nu paafinde</title>
+          </bibl>
+          <bibl xml:id="biblid93737">
+            <title xml:id="idm140114470963888">DV nock-hiemsøgte Cimber-land</title>
+          </bibl>
+          <bibl xml:id="biblid94508">
+            <title xml:id="idm140114470963024">HOlt stille med dit salte Vand</title>
+          </bibl>
+          <bibl xml:id="biblid95262">
+            <title xml:id="idm140114470962272">JT bedre Paafund ingen veed</title>
+          </bibl>
+          <bibl xml:id="biblid95516">
+            <title xml:id="idm140114470961520">Skal nu den same pen/ som eders nafn indførde</title>
+          </bibl>
+          <bibl xml:id="biblid95857">
+            <title xml:id="idm140114470960592">VEl sterke been' hâr den/ der medgang vel kand bære</title>
+          </bibl>
+          <bibl xml:id="biblid96070">
+            <title xml:id="idm140114470959712">ALt det som hafver Ljf och Aand</title>
+          </bibl>
+          <bibl xml:id="biblid96437">
+            <title xml:id="idm140114470958960">Om skønt ey nogen kand paa Jorden her opstige</title>
+          </bibl>
+          <bibl xml:id="biblid96705">
+            <title xml:id="idm140114470958096">Om mig et huus en tid lang hen</title>
+          </bibl>
+          <bibl xml:id="biblid97102">
+            <title xml:id="idm140114470957344">Kand Jonas græmme sig och vilde gaae til døde</title>
+          </bibl>
+          <bibl xml:id="biblid97608">
+            <title xml:id="idm140114470956480">ACh! ney: min Broder/ ney: hvorledis vi det mage</title>
+          </bibl>
+          <bibl xml:id="biblid97859">
+            <title xml:id="idm140114470955664">Kand da Naturen af sit rige skjød ey gifve</title>
+          </bibl>
+          <bibl xml:id="biblid98330">
+            <title xml:id="idm140114470954816">MEd Stiil och Pæn/ mand dig vel hen</title>
+          </bibl>
+          <bibl xml:id="biblid98417">
+            <title xml:id="idm140114470953968">JEg uforfaren var/ der jeg saa hart blef prøved</title>
+          </bibl>
+          <bibl xml:id="biblid98470">
+            <title xml:id="idm140114470953040">LAd Sommer-Rosen sig med høye Farfver pryde</title>
+          </bibl>
+          <bibl xml:id="biblid98810">
+            <title xml:id="idm140114470952176">EY ringe det er kunst/ af Barns been op at rende</title>
+          </bibl>
+          <bibl xml:id="biblid99012">
+            <title xml:id="idm140114470951360">NAar Jphigenia sig hen</title>
+          </bibl>
+          <bibl xml:id="biblid99379">
+            <title xml:id="idm140114470950576">Ach æd[l]e Søster ach hvad det</title>
+          </bibl>
+          <bibl xml:id="biblid99629">
+            <title xml:id="idm140114470949680">HEr hviler Jeg saa stif som stok</title>
+          </bibl>
+          <bibl xml:id="biblid99725">
+            <title xml:id="idm140114470948880">Den graadig alders skarpe tand</title>
+          </bibl>
+          <bibl xml:id="biblid99919">
+            <title xml:id="idm140114470948080">At du Gudfryctig varst och som dit nafn udtyder</title>
+          </bibl>
+          <bibl xml:id="biblid100006">
+            <title xml:id="idm140114470947216">DEn som aff Byrd og Blod var Hiemme ædel baaren</title>
+          </bibl>
+          <bibl xml:id="biblid100076">
+            <title xml:id="idm140114470946352">Min døde Krop vel Jordis kand</title>
+          </bibl>
+          <bibl xml:id="biblid100184">
+            <title xml:id="idm140114470945520">Ja fromme Walter/ Ja/ du varst for Himmel-værdig</title>
+          </bibl>
+          <bibl xml:id="biblid100283">
+            <title xml:id="idm140114470944656">J Dødsens sidste Tjd en trofast ven at tjene</title>
+          </bibl>
+          <bibl xml:id="biblid100363">
+            <title xml:id="idm140114470943792">VEl maae den mørke graf/ o fromme HJORT/ fortære</title>
+          </bibl>
+          <bibl xml:id="biblid100454">
+            <title xml:id="idm140114470942928">Det er/ ô Danske Mand uqvems</title>
+          </bibl>
+          <bibl xml:id="biblid54563">
+            <title xml:id="idm140114470942096">HVad vjse Mænd i fordum Tjd</title>
+          </bibl>
+          <bibl xml:id="biblid100700">
+            <title xml:id="idm140114470941264">At den forblummet Juvenal</title>
+          </bibl>
+          <bibl xml:id="biblid100885">
+            <title xml:id="idm140114470940352">Saa bold som Rosen er: saa kort en Tjd den Hafver</title>
+          </bibl>
+          <bibl xml:id="biblid100924">
+            <title xml:id="idm140114470939536">Om stjl och malning ret skal gunst</title>
+          </bibl>
+          <bibl xml:id="biblid100977">
+            <title xml:id="idm140114470938736">HVad lofligt vore Formænd her</title>
+          </bibl>
+          <bibl xml:id="biblid101374">
+            <title xml:id="idm140114470937904">OM Ennius med nogen skjel</title>
+          </bibl>
+          <bibl xml:id="biblid101596">
+            <title xml:id="idm140114470937040">See Eiler Eilerssøn af Holchis stamme baaren</title>
+          </bibl>
+          <bibl xml:id="biblid101692">
+            <title xml:id="idm140114470936128">Ædel af hierte velbaaren af ætt</title>
+          </bibl>
+          <bibl xml:id="biblid101745">
+            <title xml:id="idm140114470935264">Jo Reenere korn, io striidere halm</title>
+          </bibl>
+          <bibl xml:id="biblid101808">
+            <title xml:id="idm140114470934464">Som Guld er purt, och Løfven sterk</title>
+          </bibl>
+          <bibl xml:id="biblid101832">
+            <title xml:id="idm140114470933632">Af Guld och Løfve Jeg har nafn</title>
+          </bibl>
+          <bibl xml:id="biblid101862">
+            <title xml:id="idm140114470932800">Som Guld sin prøfve staaer, och Løfven ikke viger</title>
+          </bibl>
+          <bibl xml:id="biblid101898">
+            <title xml:id="idm140114470931872">Som Guld sin prøfve staaer och Løfven kamp ey necter</title>
+          </bibl>
+          <bibl xml:id="biblid101924">
+            <title xml:id="idm140114470930992">Som guld sin prøfve staaer</title>
+          </bibl>
+          <bibl xml:id="biblid101952">
+            <title xml:id="idm140114470930112">Vel har Jeg nafn af Løfve</title>
+          </bibl>
+          <bibl xml:id="biblid101985">
+            <title xml:id="idm140114470929296">Jeg næfnes af det fine guld</title>
+          </bibl>
+          <bibl xml:id="biblid102028">
+            <title xml:id="idm140114470928464">Vel hafver Jeg mit nafn af Løfve</title>
+          </bibl>
+          <bibl xml:id="biblid102065">
+            <title xml:id="idm140114470927632">Som Gylden malm er puur och reen</title>
+          </bibl>
+          <bibl xml:id="biblid102100">
+            <title xml:id="idm140114470926768">Som Guld er puurt och Løfven sterk</title>
+          </bibl>
+          <bibl xml:id="biblid102126">
+            <title xml:id="idm140114470925888">Til sengs med hunde hvo som gaar</title>
+          </bibl>
+          <bibl xml:id="biblid102152">
+            <title xml:id="idm140114470925040">For intet faar mand intet</title>
+          </bibl>
+          <bibl xml:id="biblid102213">
+            <title xml:id="idm140114470924240">Exeqvias Pelagus divisit et Ignis et Æther</title>
+          </bibl>
+          <bibl xml:id="biblid102242">
+            <title xml:id="idm140114470923344">Hier richten Fewer, Meer vnd Luft die grabstat zu</title>
+          </bibl>
+          <bibl xml:id="biblid102274">
+            <title xml:id="idm140114470922464">Begrafven Opdam blef i Luft och Ild och Haf</title>
+          </bibl>
+          <bibl xml:id="biblid102298">
+            <title xml:id="idm140114470921648">Min faders lyst min moders trøst</title>
+          </bibl>
+          <bibl xml:id="biblid102325">
+            <title xml:id="idm140114470920816">Med Faders suck och moders skrig</title>
+          </bibl>
+          <bibl xml:id="biblid102349">
+            <title xml:id="idm140114470919952">Min ædle faders dyd min Moders hæld och ære</title>
+          </bibl>
+          <bibl xml:id="biblid102376">
+            <title xml:id="idm140114470919024">Som Hund mod anden teer sig vreed</title>
+          </bibl>
+          <bibl xml:id="biblid102418">
+            <title xml:id="idm140114470918176">Durus Durandus jacet hic sub marmore duro</title>
+          </bibl>
+          <bibl xml:id="biblid102472">
+            <title xml:id="idm140114470917360">Vina mihi vitam, mortern mihi vina dederunt</title>
+          </bibl>
+          <bibl xml:id="biblid102518">
+            <title xml:id="idm140114470916480">Hie ligt Her Schultus, der hies Kordt</title>
+          </bibl>
+          <bibl xml:id="biblid102543">
+            <title xml:id="idm140114470915632">Hic jacet Jon Prest, qvi dedit suum</title>
+          </bibl>
+          <bibl xml:id="biblid102603">
+            <title xml:id="idm140114470914768">O Deus omnipotens vituli miserere Johannis</title>
+          </bibl>
+          <bibl xml:id="biblid102634">
+            <title xml:id="idm140114470913952">Hic jacet Dominus Magister</title>
+          </bibl>
+          <bibl xml:id="biblid102709">
+            <title xml:id="idm140114470913152">Hie ligt Meister Peter im grunen grass</title>
+          </bibl>
+          <bibl xml:id="biblid102733">
+            <title xml:id="idm140114470912352">Epit: Ronsardi Poëtæ</title>
+          </bibl>
+          <bibl xml:id="biblid102771">
+            <title xml:id="idm140114470911536">F. M. Hardenb</title>
+          </bibl>
+          <bibl xml:id="biblid102792">
+            <title xml:id="idm140114470910640">Hic situs est Bentzon superis invisus et imis</title>
+          </bibl>
+          <bibl xml:id="biblid102820">
+            <title xml:id="idm140114470909776">Conditur hoc tumulo Lucretia nomine, salve</title>
+          </bibl>
+          <bibl xml:id="biblid102848">
+            <title xml:id="idm140114470908896">Eines von einen Kuss gestorbenen</title>
+          </bibl>
+          <bibl xml:id="biblid102869">
+            <title xml:id="idm140114470908096">Oscula prosternunt, qvem nulla nee arma nee hostis</title>
+          </bibl>
+          <bibl xml:id="biblid102897">
+            <title xml:id="idm140114470907280">Oscula si perimunt, dulci qvæ dantur ab ore</title>
+          </bibl>
+          <bibl xml:id="biblid102959">
+            <title xml:id="idm140114470906352">Op hjertens lyst och velbehag</title>
+          </bibl>
+          <bibl xml:id="biblid103031">
+            <title xml:id="idm140114470905440">Som Jeg af arf ælds tid med mine floders væde</title>
+          </bibl>
+          <bibl xml:id="biblid103352">
+            <title xml:id="idm140114470904576">En knude sammen knyt af guld och ædle steene</title>
+          </bibl>
+          <bibl xml:id="biblid103397">
+            <title xml:id="idm140114470903648">Min anden Jeg, min ædle Møe</title>
+          </bibl>
+          <bibl xml:id="biblid103485">
+            <title xml:id="idm140114470902816">Frisk op lad skaal och glass omgaa</title>
+          </bibl>
+          <bibl xml:id="biblid103565">
+            <title xml:id="idm140114470902016">En diefvelblandet tyf mit kammers høyd har maalit</title>
+          </bibl>
+          <bibl xml:id="biblid103612">
+            <title xml:id="idm140114470901152">Hvad holder det dog hart, før nogen sig opsvinger</title>
+          </bibl>
+          <bibl xml:id="biblid103651">
+            <title xml:id="idm140114470900288">Vel er det vanskeligt, før sig en Mand opsvinger</title>
+          </bibl>
+          <bibl xml:id="biblid103698">
+            <title xml:id="idm140114470899360">Hvor langsom Natten gaar, mand sig igjen dog fryder</title>
+          </bibl>
+          <bibl xml:id="biblid103746">
+            <title xml:id="idm140114470898432">Høy ædle Cimber Helt hvis Høye værd och ære</title>
+          </bibl>
+          <bibl xml:id="biblid103899">
+            <title xml:id="idm140114470897520">Om Phoebus af sin milde gunst</title>
+          </bibl>
+          <bibl xml:id="biblid103985">
+            <title xml:id="idm140114470896656">Ja store Cimber Helt Høybaarne Gyldenløwe</title>
+          </bibl>
+          <bibl xml:id="biblid104014">
+            <title xml:id="idm140114470895808">Ved hver af de bogstafvers tal</title>
+          </bibl>
+          <bibl xml:id="biblid104108">
+            <title xml:id="idm140114470895008">DÆdala Pallas, Cur manet alta</title>
+          </bibl>
+          <bibl xml:id="biblid104528">
+            <title xml:id="idm140114470894112">MOenius cautum vates commendat Ulyssem</title>
+          </bibl>
+          <bibl xml:id="biblid105170">
+            <title xml:id="idm140114470893248">LArgiflui qvondam Permessi ad fluminis undas</title>
+          </bibl>
+          <bibl xml:id="biblid105424">
+            <title xml:id="idm140114470892432">VTile miscentes dulci, figmenta Poetæ</title>
+          </bibl>
+          <bibl xml:id="biblid105992">
+            <title xml:id="idm140114470891520">Ach aff det haarde band oc lengsels tunge Nød</title>
+          </bibl>
+          <bibl xml:id="biblid106276">
+            <title xml:id="idm140114470890608">Ak! af den falske List og hiertelig Fortred</title>
+          </bibl>
+          <bibl xml:id="biblid106584">
+            <title xml:id="idm140114470889728">Ach Amaryllis hast du denn</title>
+          </bibl>
+          <bibl xml:id="biblid106622">
+            <title xml:id="idm140114470888928">Ak! Amaryllis har du slet</title>
+          </bibl>
+          <bibl xml:id="biblid107117">
+            <title xml:id="idm140114470888016">Ach gaar i Sene Tider gaar</title>
+          </bibl>
+          <bibl xml:id="biblid107636">
+            <title xml:id="idm140114470887152">Ak hvad er det, at J mig saa</title>
+          </bibl>
+          <bibl xml:id="biblid108056">
+            <title xml:id="idm140114470886304">Ach hvad schall dog Daphnis hyrde</title>
+          </bibl>
+          <bibl xml:id="biblid108334">
+            <title xml:id="idm140114470885504">Ach mit Hierte Vill besvime</title>
+          </bibl>
+          <bibl xml:id="biblid108755">
+            <title xml:id="idm140114470884640">At en huer sig monne bucke</title>
+          </bibl>
+          <bibl xml:id="biblid109278">
+            <title xml:id="idm140114470883840">Blinde Dreng, huis Piil oc bue</title>
+          </bibl>
+          <bibl xml:id="biblid109705">
+            <title xml:id="idm140114470882976">Celadon ey mere Klager</title>
+          </bibl>
+          <bibl xml:id="biblid110001">
+            <title xml:id="idm140114470882128">Daphnis gik for nogle Dage</title>
+          </bibl>
+          <bibl xml:id="biblid110319">
+            <title xml:id="idm140114470881280">Dend schønne Huis tienner och egen Jeg er</title>
+          </bibl>
+          <bibl xml:id="biblid110581">
+            <title xml:id="idm140114470880384">Det sidste Mand Fra Doris hørde</title>
+          </bibl>
+          <bibl xml:id="biblid111245">
+            <title xml:id="idm140114470879552">Dybe Hiertens Tancher</title>
+          </bibl>
+          <bibl xml:id="biblid111508">
+            <title xml:id="idm140114470878704">Ej nogen tid aff Aganippes kilde</title>
+          </bibl>
+          <bibl xml:id="biblid112110">
+            <title xml:id="idm140114470877840">Engel-søde Galathe</title>
+          </bibl>
+          <bibl xml:id="biblid112385">
+            <title xml:id="idm140114470877040">For din schiønhed[s] høie trone</title>
+          </bibl>
+          <bibl xml:id="biblid112859">
+            <title xml:id="idm140114470876208">Fuld af Sorg og Hiertens Qvide</title>
+          </bibl>
+          <bibl xml:id="biblid113567">
+            <title xml:id="idm140114470875296">Galathea Streng oc wild</title>
+          </bibl>
+          <bibl xml:id="biblid113876">
+            <title xml:id="idm140114470874512">Har da hver een Jordens ende</title>
+          </bibl>
+          <bibl xml:id="biblid114063">
+            <title xml:id="idm140114470873648">Hvad kand ulykken nu</title>
+          </bibl>
+          <bibl xml:id="biblid114391">
+            <title xml:id="idm140114470872816">Hvor viit skal ô Dorinde Sig</title>
+          </bibl>
+          <bibl xml:id="biblid114688">
+            <title xml:id="idm140114470871920">Klare Stierne Sylvia</title>
+          </bibl>
+          <bibl xml:id="biblid114944">
+            <title xml:id="idm140114470871136">Kom ô Skiønnist Hyrdemøe</title>
+          </bibl>
+          <bibl xml:id="biblid115428">
+            <title xml:id="idm140114470870256">Kom ædle Lius ald verdenss øye</title>
+          </bibl>
+          <bibl xml:id="biblid115727">
+            <title xml:id="idm140114470869376">Kunde nogen ting forhindre</title>
+          </bibl>
+          <bibl xml:id="biblid116058">
+            <title xml:id="idm140114470868512">Milde Soel hui lader du</title>
+          </bibl>
+          <bibl xml:id="biblid116371">
+            <title xml:id="idm140114470867664">Mincia Hyrdinders Ære</title>
+          </bibl>
+          <bibl xml:id="biblid116568">
+            <title xml:id="idm140114470866784">Min Smerte er Saa megit stor</title>
+          </bibl>
+          <bibl xml:id="biblid116776">
+            <title xml:id="idm140114470865984">Min ædle perle Sylvia</title>
+          </bibl>
+          <bibl xml:id="biblid117052">
+            <title xml:id="idm140114470865168">Min ædle Phyllis om du er</title>
+          </bibl>
+          <bibl xml:id="biblid117345">
+            <title xml:id="idm140114470864352">Maa ieg ey med Lette Vinger</title>
+          </bibl>
+          <bibl xml:id="biblid117729">
+            <title xml:id="idm140114470863552">Maatte jeg af Hippocren</title>
+          </bibl>
+          <bibl xml:id="biblid117998">
+            <title xml:id="idm140114470862704">Naar Bierge, Dall og Skove</title>
+          </bibl>
+          <bibl xml:id="biblid118544">
+            <title xml:id="idm140114470861840">Naar Himlen Sielff ey Vill udgyde</title>
+          </bibl>
+          <bibl xml:id="biblid118977">
+            <title xml:id="idm140114470861040">O min Siell huor mange Dage</title>
+          </bibl>
+          <bibl xml:id="biblid119375">
+            <title xml:id="idm140114470860176">Op hiertens suck oc graad vær rede</title>
+          </bibl>
+          <bibl xml:id="biblid120214">
+            <title xml:id="idm140114470859296">O skiønne Galathe</title>
+          </bibl>
+          <bibl xml:id="biblid121005">
+            <title xml:id="idm140114470858384">O Wrede Sind ô haarde Steen</title>
+          </bibl>
+          <bibl xml:id="biblid121514">
+            <title xml:id="idm140114470857504">Skall det Endelig nu wære</title>
+          </bibl>
+          <bibl xml:id="biblid121982">
+            <title xml:id="idm140114470856640">Skiønne Galate, hvort hen?</title>
+          </bibl>
+          <bibl xml:id="biblid122538">
+            <title xml:id="idm140114470855760">Skiønne men dog Skarpe Rose</title>
+          </bibl>
+          <bibl xml:id="biblid122947">
+            <title xml:id="idm140114470854928">Sylvia, hvor længe</title>
+          </bibl>
+          <bibl xml:id="biblid123523">
+            <title xml:id="idm140114470854064">Vil mig ulychen da</title>
+          </bibl>
+          <bibl xml:id="biblid124005">
+            <title xml:id="idm140114470853216">Frisk op naar Dieffvelen giør sig vred</title>
+          </bibl>
+          <bibl xml:id="biblid124426">
+            <title xml:id="idm140114470852304">Huad schal Rydtzer nu anfange</title>
+          </bibl>
+          <bibl xml:id="biblid124644">
+            <title xml:id="idm140114470851504">Jeg kand ikke tie her</title>
+          </bibl>
+          <bibl xml:id="biblid124820">
+            <title xml:id="idm140114470850656">See den skidne Bonde-giek</title>
+          </bibl>
+          <bibl xml:id="biblid126708">
+            <title xml:id="idm140114470849744">ARme Hierte du med Skiel/ Snart dig vel</title>
+          </bibl>
+          <bibl xml:id="biblid127089">
+            <title xml:id="idm140114470848880">At den som Himmelen besider</title>
+          </bibl>
+          <bibl xml:id="biblid127481">
+            <title xml:id="idm140114470848016">BEklemte Siæl/ hvad vilt du vanke</title>
+          </bibl>
+          <bibl xml:id="biblid127790">
+            <title xml:id="idm140114470847136">DEn ædle Glædens Skat</title>
+          </bibl>
+          <bibl xml:id="biblid128200">
+            <title xml:id="idm140114470846320">Ej nogen med fuld vigtig' ord</title>
+          </bibl>
+          <bibl xml:id="biblid128610">
+            <title xml:id="idm140114470845456">Herre Gud, hvor længe</title>
+          </bibl>
+          <bibl xml:id="biblid129262">
+            <title xml:id="idm140114470844576">HVem skal jeg min Angist Klage</title>
+          </bibl>
+          <bibl xml:id="biblid129585">
+            <title xml:id="idm140114470843712">Hvi min Lykke sover du?</title>
+          </bibl>
+          <bibl xml:id="biblid129772">
+            <title xml:id="idm140114470842928">JEg ikke noksom kand med Ord</title>
+          </bibl>
+          <bibl xml:id="biblid130045">
+            <title xml:id="idm140114470842064">Lykken kommer, lykken gaar</title>
+          </bibl>
+          <bibl xml:id="biblid130336">
+            <title xml:id="idm140114470841216">Min bange Siel [maa] falde</title>
+          </bibl>
+          <bibl xml:id="biblid130646">
+            <title xml:id="idm140114470840352">MJn kummerfulde Siæl i mig</title>
+          </bibl>
+          <bibl xml:id="biblid131157">
+            <title xml:id="idm140114470839536">Pius vivam, nunc est hora</title>
+          </bibl>
+          <bibl xml:id="biblid131215">
+            <title xml:id="idm140114470838688">Nu vill ieg slett lade fare</title>
+          </bibl>
+          <bibl xml:id="biblid131670">
+            <title xml:id="idm140114470837824">Naar Haarden storm sig af de skiulte stæder</title>
+          </bibl>
+          <bibl xml:id="biblid131909">
+            <title xml:id="idm140114470836896">Naar mig Nøden haardest plager</title>
+          </bibl>
+          <bibl xml:id="biblid132095">
+            <title xml:id="idm140114470836064">O kommer alle frem</title>
+          </bibl>
+          <bibl xml:id="biblid132436">
+            <title xml:id="idm140114470835216">Paa Syndsens Torv for langen Tiid</title>
+          </bibl>
+          <bibl xml:id="biblid132558">
+            <title xml:id="idm140114470834416">Ret som de klare Søer oc stride floders wand</title>
+          </bibl>
+          <bibl xml:id="biblid132796">
+            <title xml:id="idm140114470833552">Ørnen med sin lette winger</title>
+          </bibl>
+          <bibl xml:id="biblid133831">
+            <title xml:id="idm140114470832752">Den salig her og hisset er, som sig</title>
+          </bibl>
+          <bibl xml:id="biblid133973">
+            <title xml:id="idm140114470831888">Hvi fnyser saa den trodsig Hedensk hær</title>
+          </bibl>
+          <bibl xml:id="biblid134235">
+            <title xml:id="idm140114470830928">At du forfares, Jsrael</title>
+          </bibl>
+          <bibl xml:id="biblid134371">
+            <title xml:id="idm140114470830080">Lof være Gud som har saa vel</title>
+          </bibl>
+          <bibl xml:id="biblid134512">
+            <title xml:id="idm140114470829136">Min Sjæl och aand sig fryder</title>
+          </bibl>
+          <bibl xml:id="biblid134660">
+            <title xml:id="idm140114470828304">Ja milde naadsens Fader</title>
+          </bibl>
+          <bibl xml:id="biblid134796">
+            <title xml:id="idm140114470827520">Du Lade gak til Myren bort</title>
+          </bibl>
+          <bibl xml:id="biblid134943">
+            <title xml:id="idm140114470826656">Med Hykelske retfærdighed</title>
+          </bibl>
+          <bibl xml:id="biblid135112">
+            <title xml:id="idm140114470825776">I Min indvol och mit hjerte</title>
+          </bibl>
+          <bibl xml:id="biblid135285">
+            <title xml:id="idm140114470824928">Vilt du, min Sjæl, som det sig bør</title>
+          </bibl>
+          <bibl xml:id="biblid135418">
+            <title xml:id="idm140114470824016">Du verdsens Barn som al din tid</title>
+          </bibl>
+          <bibl xml:id="biblid135547">
+            <title xml:id="idm140114470823104">Saaledis vil Jerusalem</title>
+          </bibl>
+          <bibl xml:id="biblid135692">
+            <title xml:id="idm140114470822256">Jeg takker Gud at Jeg er ey</title>
+          </bibl>
+          <bibl xml:id="biblid135884">
+            <title xml:id="idm140114470821392">O vee hvor ilde mig bekom</title>
+          </bibl>
+          <bibl xml:id="biblid135994">
+            <title xml:id="idm140114470820528">Hvad er O Gud din Miskundhed</title>
+          </bibl>
+          <bibl xml:id="biblid136137">
+            <title xml:id="idm140114470819680">Hvad vilt du Dødelige</title>
+          </bibl>
+          <bibl xml:id="biblid136268">
+            <title xml:id="idm140114470818800">Loed Gud ey mig omringe</title>
+          </bibl>
+          <bibl xml:id="biblid136350">
+            <title xml:id="idm140114470817952">ACh kunde søden Rose sig</title>
+          </bibl>
+          <bibl xml:id="biblid136779">
+            <title xml:id="idm140114470817072">Mod huer Quintin aff Fryd oc Lyst</title>
+          </bibl>
+          <bibl xml:id="biblid137012">
+            <title xml:id="idm140114470816272">Min ædle Brahe, wel kand dig</title>
+          </bibl>
+          <bibl xml:id="biblid137055">
+            <title xml:id="idm140114470815376">Wed sliben blifver Jernet klar</title>
+          </bibl>
+          <bibl xml:id="biblid137612">
+            <title xml:id="idm140114470814576">Holt dig stille Røde Morgen</title>
+          </bibl>
+          <bibl xml:id="biblid138100">
+            <title xml:id="idm140114470813744">Kand Jeg vell uden Klage</title>
+          </bibl>
+          <bibl xml:id="biblid138442">
+            <title xml:id="idm140114470812880">Mit paa munden allerbest</title>
+          </bibl>
+          <bibl xml:id="biblid138730">
+            <title xml:id="idm140114470811968">Vel dend som mon Fornøyet være</title>
+          </bibl>
+          <bibl xml:id="biblid138992">
+            <title xml:id="idm140114470811072">Ah at dog en Trois Gnist</title>
+          </bibl>
+          <bibl xml:id="biblid139149">
+            <title xml:id="idm140114470810208">AH hvor jeg længis efter dig JEsu min</title>
+          </bibl>
+          <bibl xml:id="biblid139435">
+            <title xml:id="idm140114470809312">GUDS Loffvis tvende Tafler er'</title>
+          </bibl>
+          <bibl xml:id="biblid139648">
+            <title xml:id="idm140114470808400">O Fader vor/ i Himlen boer</title>
+          </bibl>
+        </listBibl>
+      </sourceDesc>
     </fileDesc>
   </teiHeader>
   <text xml:id="idm140114470807664">
     <front xml:id="idm140114470807408">
       <pb n="I" xml:id="sI" facs="adl/bording/bording1/bord1fm001"/>
       <gap reason="cancelled" xml:id="idm140114470805920"/>
-<!---->
-<!---->
-<!--Anders Bordings Digte-->
       <pb n="II" xml:id="sII" facs="adl/bording/bording1/bord1fm002"/>
       <titlePage xml:id="idm140114470803280">
         <titlePart type="main" xml:id="idm140114470803024">ANDERS BORDING<lb xml:id="idm140114470802464"/>
@@ -98,7 +833,7 @@ Ptj rettet s.158.
       <div xml:id="idm140114470787392">
         <p xml:id="idm140114470787136">
           <hi rend="italics" xml:id="idm140114470786880"><hi rend="bold" xml:id="idm140114470786480">F</hi>oruden andre udgaver med tekster delvis eller
-						udelukkende fra 17. århundrede tilstræbte Det danske Sprog- og
+						udelukkende fra 17. århundrede tilstræbte Det Danske Sprog- og
 						Litteraturselskab straks fra stiftelsen i 1911 udgaver af dette store
 						århundredes hovedforfattere, og man kan nu se tilbage på Samlede Skrifter af
 						Anders Arrebo (I-V 1965-84), Thomas Kingo (I-VII 1939-75 og optryk 1975) og
@@ -1521,7 +2256,7 @@ Ptj rettet s.158.
 					tekster, hvad enten der er tale om originalmanuskripter, originaltryk eller blot
 					sene afskrifter, så nøjagtigt som muligt; men tvivlstilfælde vil der altid
 					opstå. Forkortelser i de danske og latinske tekster er opløst uden bemærkninger,
-					idet der udelukkende er tale om tidens helt gængse tegn (<!--m&macr;-->[x] =
+					idet der udelukkende er tale om tidens helt gængse tegn ([x] =
 					mm), og de optræder faktisk meget sjældent. Det kan ofte være vanskeligt med
 					sikkerhed at afgøre, om skriveren/sætteren skriver to ord sammen, eller om der
 					er tilstrækkelig afstand mellem, til at man må antage, at han har skrevet to ord
@@ -1693,7 +2428,7 @@ Ptj rettet s.158.
 							JVELL JENS DATER.<lb xml:id="idm140114470140032"/> Tienstvilligen <hi rend="italics" xml:id="idm140114470139744">offererit</hi>
 							af<lb xml:id="idm140114470139024"/> A: B: C: D: 1647</head>
             <opener xml:id="idm140114470138608"><hi rend="italics" xml:id="idm140114470138480">Facile Est jnventis Addere</hi><lb xml:id="idm140114470137904"/><hi rend="italics" xml:id="idm140114470137776">ut stemmatis decore Generosissimo, ita paternæ
-								virtutis æmulatione</hi><lb xml:id="idm140114470137072"/><hi rend="italics" xml:id="idm140114470136944">Nobilissimo Viro Dno Georgio Rossencrantzio</hi><lb xml:id="idm140114470136352"/><hi rend="italics" xml:id="idm140114470136224">Fautori Suo Religiose Suspiciendo</hi><lb xml:id="idm140114470135648"/><hi rend="italics" xml:id="idm140114470135520">hane otij Sui partem commendatam cupit</hi><lb xml:id="idm140114470134944"/><hi rend="italics" xml:id="idm140114470134816">Author</hi><lb xml:id="idm140114470134256"/> Jomfru Marg[r]ette Juel Jens Dater<lb xml:id="idm140114470133952"/><hi rend="italics" xml:id="idm140114470133824"><!--&#8049;-->[x]<!--&#957;-->[x]<!--&#945;-->[x]<!--&#947;-->[x]<!--&#961;-->[x]<!--&#945;-->[x]<!--&#956;-->[x]<!--&#956;-->[x]<!--&#945;-->[x]<!--&#964;-->[x]<!--&#953;-->[x]<!--&#1008;-->[x]<!--&#8182;-->[x]<!--&#962;-->[x]</hi><lb xml:id="idm140114470128944"/> Min vis er, at vere Ret Adelig From<lb xml:id="idm140114470128640"/> Forklaring.</opener>
+								virtutis æmulatione</hi><lb xml:id="idm140114470137072"/><hi rend="italics" xml:id="idm140114470136944">Nobilissimo Viro Dno Georgio Rossencrantzio</hi><lb xml:id="idm140114470136352"/><hi rend="italics" xml:id="idm140114470136224">Fautori Suo Religiose Suspiciendo</hi><lb xml:id="idm140114470135648"/><hi rend="italics" xml:id="idm140114470135520">hane otij Sui partem commendatam cupit</hi><lb xml:id="idm140114470134944"/><hi rend="italics" xml:id="idm140114470134816">Author</hi><lb xml:id="idm140114470134256"/> Jomfru Marg[r]ette Juel Jens Dater<lb xml:id="idm140114470133952"/><hi rend="italics" xml:id="idm140114470133824">[x][x][x][x][x][x][x][x][x][x][x][x][x][x]</hi><lb xml:id="idm140114470128944"/> Min vis er, at vere Ret Adelig From<lb xml:id="idm140114470128640"/> Forklaring.</opener>
             <lg xml:id="idm140114470128256">
               <l xml:id="idm140114470128000">Naar mangen hafuer tancke slig</l>
               <l xml:id="idm140114470127568">Huor til mon den skuld' due,</l>
@@ -2168,7 +2903,7 @@ Ptj rettet s.158.
               <l xml:id="idm140114469899360">Lad græmme sig den gamle Mand/</l>
               <l xml:id="idm140114469898896">Jeg nu vil lystig være.</l>
               <l xml:id="idm140114469898448">Frisk op/ frisk lystig/ det er ret</l>
-              <l xml:id="idm140114469898016">Studentic<!--&#8182;-->[x]<!--&#962;-->[x] at leffve/</l>
+              <l xml:id="idm140114469898016">Studentic[x][x] at leffve/</l>
               <l xml:id="idm140114469896960">Skaff op her vert/ den sag er let/</l>
               <l xml:id="idm140114469896528">Jeg snart faar vexel-breffve.</l>
             </lg>
@@ -13380,7 +14115,7 @@ Ptj rettet s.158.
             </lg>
             <lg xml:id="idm140114464631968">
               <head xml:id="idm140114464631712">JOHANNES MEIERUS,<lb xml:id="idm140114464631424"/>
-								<!--&#7936;-->[x]<!--&#957;-->[x]<!--&#945;-->[x]<!--&#947;-->[x]<!--&#961;-->[x]<!--&#945;-->[x]<!--&#956;-->[x]<!--&#956;-->[x]:<lb xml:id="idm140114464628576"/>
+								[x][x][x][x][x][x][x][x]:<lb xml:id="idm140114464628576"/>
 								EN MUSIS INHÆREO.</head>
               <l xml:id="idm140114464628128">AUsonias <hi rend="italics" xml:id="idm140114464627840">MEIERE tua dum mente manuque</hi>
 							</l>
@@ -13410,7 +14145,7 @@ Ptj rettet s.158.
             </lg>
             <lg xml:id="idm140114464616448">
               <head xml:id="idm140114464616192">ANDREAS LAVGONIUS,<lb xml:id="idm140114464615904"/>
-								<!--&#7936;-->[x]<!--&#957;-->[x]<!--&#945;-->[x]<!--&#947;-->[x]<!--&#961;-->[x]<!--&#945;-->[x]<!--&#956;-->[x]<!--&#956;-->[x]:<lb xml:id="idm140114464613056"/>
+								[x][x][x][x][x][x][x][x]:<lb xml:id="idm140114464613056"/>
 								AGE, SIN DONA, LAVRVS.</head>
               <l xml:id="idm140114464612624"><hi rend="italics" xml:id="idm140114464612496">MArtia gens validum nunquam ferretur in
 								hostem</hi>,</l>
@@ -13441,7 +14176,7 @@ Ptj rettet s.158.
             <pb n="213" xml:id="s213" facs="adl/bording/bording1/bord1213"/>
             <lg xml:id="idm140114464599968">
               <head xml:id="idm140114464599712">ANDREAS ALBERTI,<lb xml:id="idm140114464599424"/>
-								<!--&#7936;-->[x]<!--&#957;-->[x]<!--&#945;-->[x]<!--&#947;-->[x]<!--&#961;-->[x]:<lb xml:id="idm140114464597536"/>
+								[x][x][x][x][x]:<lb xml:id="idm140114464597536"/>
 								EA DANT ARS, LIBER.</head>
               <l xml:id="idm140114464597104">
                 <hi rend="italics" xml:id="idm140114464596848">EXiguus tandem grandis cum surculus arbor</hi>
@@ -13543,7 +14278,7 @@ Ptj rettet s.158.
               <l xml:id="idm140114464545728">Postulat, &amp; vitijs virtus sufflamen ut addat,</l>
               <l xml:id="idm140114464545216">Non præcepta juvant semper data fronte severa.</l>
               <l xml:id="idm140114464544720">Troicus Æneas semper non Martia tractat</l>
-              <l xml:id="idm140114464544240">Pre<!--&#807;-->elia: nec semper fert Pergama mente futura.</l>
+              <l xml:id="idm140114464544240">Preelia: nec semper fert Pergama mente futura.</l>
               <l xml:id="idm140114464543440">Gaudet at Actiacos nonnunqvam fingere ludos:</l>
               <l xml:id="idm140114464542992">Nunc cingit vigili in densis indagine sylvis</l>
               <l xml:id="idm140114464542544">Corningerum Cervum: nunc &amp; capit auribus, id qvod</l>
@@ -13556,16 +14291,16 @@ Ptj rettet s.158.
               <l xml:id="idm140114464539232">Captantes: fraudisque ignari corpora vulgi</l>
               <l xml:id="idm140114464538784">Fatali tandem lanians crudeliter ungve.</l>
               <l xml:id="idm140114464538352">Tunc extrema dies, &amp; ineluctabile toti</l>
-              <l xml:id="idm140114464537904">Mansisset populo fatum, Thebe<!--&#807;-->eque fuissent:</l>
-              <l xml:id="idm140114464537184">Ni sibi victorem qve<!--&#807;-->esissent, fædere certo</l>
+              <l xml:id="idm140114464537904">Mansisset populo fatum, Thebeeque fuissent:</l>
+              <l xml:id="idm140114464537184">Ni sibi victorem qveesissent, fædere certo</l>
               <l xml:id="idm140114464536384">Oblati Sceptri, (Sceptrum nam fortè vacabat.)</l>
-              <l xml:id="idm140114464535888">Oedipus hine le<!--&#807;-->eso qvamvis pede tardus utroque,</l>
-              <l xml:id="idm140114464535136">Hanc patrie<!--&#807;-->e solus perituræ tollere pestem</l>
+              <l xml:id="idm140114464535888">Oedipus hine leeso qvamvis pede tardus utroque,</l>
+              <l xml:id="idm140114464535136">Hanc patriee solus perituræ tollere pestem</l>
               <l xml:id="idm140114464534352">Tentat, &amp; indubius caput objectare periclo,</l>
               <pb n="216" xml:id="s216" facs="adl/bording/bording1/bord1216"/>
               <l xml:id="idm140114464532672">(In tantos animos surgit sibi conscia virtus)</l>
               <l xml:id="idm140114464532224">Protinus aggreditur, monstrosum &amp; sustinet hostem,</l>
-              <l xml:id="idm140114464531760">Et cæci latebris e<!--&#807;-->enigmatis ante retectis,</l>
+              <l xml:id="idm140114464531760">Et cæci latebris eenigmatis ante retectis,</l>
               <l xml:id="idm140114464530960">Conficit: &amp; pænam scelerato ex sangvine sumit.</l>
               <l xml:id="idm140114464530448">Hinc Sceptrum ex pacto capturus, funera cæsi</l>
               <l xml:id="idm140114464529952">Ignavus monstri, dum portat Asellus, ad urbem</l>
@@ -13593,15 +14328,15 @@ Ptj rettet s.158.
               <l xml:id="idm140114464515728">Scinditur, &amp; varios sentit lacerata dolores.</l>
               <l xml:id="idm140114464515216">Confossis pedibus tardo <hi rend="italics" xml:id="idm140114464514912">Victore</hi> docemur,</l>
               <l xml:id="idm140114464514064">Judicio pateat lento qvod nobile verum:</l>
-              <l xml:id="idm140114464513632">Pre<!--&#807;-->ecipiti contra dubius sese offerat error.</l>
-              <l xml:id="idm140114464512832">Hinc celebrem credo Samie<!--&#807;-->e telluris alumnum</l>
+              <l xml:id="idm140114464513632">Preecipiti contra dubius sese offerat error.</l>
+              <l xml:id="idm140114464512832">Hinc celebrem credo Samiee telluris alumnum</l>
               <l xml:id="idm140114464512112">Annorum trivijs mandasse silentia septem:</l>
-              <l xml:id="idm140114464511664">Lubrica pre<!--&#807;-->epropero qvidqvam ne forte juventus</l>
+              <l xml:id="idm140114464511664">Lubrica preepropero qvidqvam ne forte juventus</l>
               <l xml:id="idm140114464510880">Judicio statuat, qvod post statuisse pigebit.</l>
               <l xml:id="idm140114464510432">Inde <hi rend="italics" xml:id="idm140114464510176">triumphales plausus</hi>
-								le<!--&#807;-->etumque trophæum,</l>
+								leetumque trophæum,</l>
               <l xml:id="idm140114464508960">Sunt vigili Studio, Ciarias sudantis ad undas</l>
-              <l xml:id="idm140114464508512">Condigne<!--&#807;-->e laudes, memori qvas degener ipsa</l>
+              <l xml:id="idm140114464508512">Condignee laudes, memori qvas degener ipsa</l>
               <l xml:id="idm140114464507760">Non valet invidiæ rabies, expungere seclo.</l>
               <l xml:id="idm140114464507280">
                 <hi rend="italics" xml:id="idm140114464507024">Exanime at <hi rend="italics" xml:id="idm140114464506496">corpus; pando</hi>
@@ -13623,18 +14358,18 @@ Ptj rettet s.158.
               <l xml:id="idm140114464499456">Utere sorte tua. Veneranda scientia tota,</l>
               <l xml:id="idm140114464499008">Tota tua est. Vicisti &amp; victam tendere palmas,</l>
               <l xml:id="idm140114464498560">Purpurei videre patres &amp; tota lycea.</l>
-              <l xml:id="idm140114464498112">Tante<!--&#807;-->e molis opus digno sed dicere versu,</l>
+              <l xml:id="idm140114464498112">Tantee molis opus digno sed dicere versu,</l>
               <l xml:id="idm140114464497328">Non opis est nostræ (fateor,) nec simplice vena</l>
               <l xml:id="idm140114464496832">Victoris tentare licet præconia tanti,</l>
               <l xml:id="idm140114464496352">In qvo nulla potest virtus dubitabilis esse,</l>
               <l xml:id="idm140114464495904">Cujus &amp; ipse Maro titulis nihil addere posset.</l>
               <l xml:id="idm140114464495392">Ingeminat plausum Tyrios induta colores</l>
               <l xml:id="idm140114464494960">Pallados ergo domus, laudes resonareque pleno</l>
-              <l xml:id="idm140114464494512">Ore tue<!--&#807;-->e gaudet fame<!--&#807;-->e Parnassia
+              <l xml:id="idm140114464494512">Ore tuee gaudet famee Parnassia
 								rupes.</l>
               <l xml:id="idm140114464493440">Tolle caput cælo, viridantia &amp; indue serta</l>
-              <l xml:id="idm140114464492976">Pollice virginea, dive<!--&#807;-->e qvæ nexa
-								Camæne<!--&#807;-->e</l>
+              <l xml:id="idm140114464492976">Pollice virginea, divee qvæ nexa
+								Camænee</l>
               <l xml:id="idm140114464491920">Miserunt; mox &amp; spera meliora daturas.</l>
             </lg>
             <trailer xml:id="idm140114464491280"><hi rend="italics" xml:id="idm140114464491152">Hæc ut amoris,</hi><lb xml:id="idm140114464490608"/><hi rend="italics" xml:id="idm140114464490480">Sie &amp; honoris</hi><lb xml:id="idm140114464489904"/><hi rend="italics" xml:id="idm140114464489776">Nomine, MAGNO</hi><lb xml:id="idm140114464489216"/><hi rend="italics" xml:id="idm140114464489088">Ponit</hi> AMICO.<lb xml:id="idm140114464488368"/> A.B.C.f.</trailer>
@@ -15923,15 +16658,6 @@ Ptj rettet s.158.
           </div>
           <div xml:id="workid114063" decls="#biblid114063">
             <head xml:id="idm140114463500480">143.<lb xml:id="idm140114463500192"/> Hvor u-forvindelig.</head>
-<!--						<stage>_&ndash; _&ndash; _&ndash;<lb/>
-_&ndash;_&ndash;_
-_&ndash;_&ndash;_&ndash;<lb/>
-_&ndash;_&ndash;_
-_&ndash;_&ndash;/_&ndash;_&ndash;_&ndash;_<lb/>
-_&ndash;_&ndash;_&ndash;<lb/>
-_&ndash;_&ndash;_&ndash;<lb/>
-_&ndash;_&ndash;_</stage>
--->
             <lg xml:id="idm140114463499616">
               <l xml:id="idm140114463498976">1. Hvad kand ulykken nu <hi rend="italics" xml:id="idm140114463498672">Laura</hi>
 							</l>
