@@ -5134,8 +5134,7 @@ paa hans 70 Aars Fødselsdag 20. Maj 1888.</head>
 (Musiken af og ved J. P. E. Hartmann).</head>
         <div xml:id="idm140152136311008">
           <head xml:id="idm140152136310752">I.</head>
-          <lg xml:id="idm140152136310368">
-            <lg xml:id="idm140152136310112">
+	  <lg xml:id="idm140152136310112">
               <l xml:id="idm140152136309856"><hi rend="italics" xml:id="idm140152136309728">Nærsynet</hi> var hin svundne Old</l>
               <l xml:id="idm140152136308880">for hundred Aar tilbage!</l>
               <l xml:id="idm140152136308448">Forstandens Ægg var skarp og kold,</l>
@@ -5156,8 +5155,6 @@ paa hans 70 Aars Fødselsdag 20. Maj 1888.</head>
               <l xml:id="idm140152136301312">tog Fremtids Vel i Varetægt</l>
               <l xml:id="idm140152136300848">og lærte Smaabørn stave.</l>
             </lg>
-          </lg>
-          <lg xml:id="idm140152136300144">
             <lg xml:id="idm140152136299888">
               <l xml:id="idm140152136299632">Saa steg af ringe Spire</l>
               <l xml:id="idm140152136299216">et løvrigt Tvilling-Træ,</l>
@@ -5189,7 +5186,6 @@ paa hans 70 Aars Fødselsdag 20. Maj 1888.</head>
               <l xml:id="idm140152136287088">dog Knippelsbro blev Skjellet -</l>
               <l xml:id="idm140152136286656">og er det end idag.</l>
             </lg>
-          </lg>
           <lg xml:id="idm140152136285984">
             <head xml:id="idm140152136285728"><hi rend="italics" xml:id="idm140152136285600">Recitation</hi>.</head>
             <lg xml:id="idm140152136284784">
@@ -5276,7 +5272,6 @@ paa hans 70 Aars Fødselsdag 20. Maj 1888.</head>
               <l xml:id="idm140152136237792">tys Saga, spar nu dine Ord!</l>
             </lg>
           </lg>
-          <lg xml:id="idm140152136237104">
             <lg xml:id="idm140152136236848">
               <l xml:id="idm140152136236592">Ja Plantningen voxed fra Stiklinge-Kaar</l>
               <l xml:id="idm140152136236160">i Tiderne milde som strænge,</l>
@@ -5302,7 +5297,6 @@ paa hans 70 Aars Fødselsdag 20. Maj 1888.</head>
               <l xml:id="idm140152136228288">Gid Skole med Skole, selv ynglingestærk,</l>
               <l xml:id="idm140152136227808">maa virke for Ungdommen længe!</l>
             </lg>
-          </lg>
         </div>
         <div xml:id="idm140152136226960">
           <head xml:id="idm140152136226704">II.</head>
@@ -5319,7 +5313,6 @@ paa hans 70 Aars Fødselsdag 20. Maj 1888.</head>
             <l xml:id="idm140152136222176">paa Stormens Magt</l>
             <l xml:id="idm140152136221760">dog Grenene sig skille.</l>
           </lg>
-          <lg xml:id="idm140152136221216">
             <lg xml:id="idm140152136220960">
               <l xml:id="idm140152136220704"><hi rend="italics" xml:id="idm140152136220576">Borger-Dyd!</hi> Hæders-Navn</l>
               <l xml:id="idm140152136219712">med Klang af Trofasthed og Gavn,</l>
@@ -5342,7 +5335,6 @@ paa hans 70 Aars Fødselsdag 20. Maj 1888.</head>
               <l xml:id="idm140152136212848">sank os end i Fredens Baand</l>
               <l xml:id="idm140152136212416">til herligt Eftermæle!</l>
             </lg>
-          </lg>
           <lg xml:id="idm140152136211712">
             <l xml:id="idm140152136211456">Men Du, som gav os Vaar igjen</l>
             <l xml:id="idm140152136211024">og vore Skove grønner,</l>
@@ -6196,7 +6188,7 @@ Bygning.<lb xml:id="idm140152135829168"/>
 (Musiken af <hi rend="italics" xml:id="idm140152135828592">Johan Bartholdy</hi>.)</head>
         <div xml:id="idm140152135827776">
           <head xml:id="idm140152135827520"><hi rend="italics" xml:id="idm140152135827392">Første Afdeling</hi>.</head>
-          <lg xml:id="idm140152135826560">
+          <div xml:id="idm140152135826560">
             <head xml:id="idm140152135826304">Indgangs-Kor.</head>
             <lg xml:id="idm140152135825888">
               <l xml:id="idm140152135825632">Vær hilset Du vort nye Hjem,</l>
@@ -6219,10 +6211,10 @@ Bygning.<lb xml:id="idm140152135829168"/>
               <l xml:id="idm140152135818304">og kald en fyldig Flora frem</l>
               <l xml:id="idm140152135817872">som Ovnen hist i Pagt med Solen!</l>
             </lg>
-          </lg>
-          <lg xml:id="idm140152135817184">
+	  </div>
+          <div xml:id="idm140152135817184">
             <head xml:id="idm140152135816928">Flytte-Scene.</head>
-            <lg xml:id="idm140152135816512">
+            <div xml:id="idm140152135816512">
               <head xml:id="idm140152135816256"><emph xml:id="idm140152135816128">Røster fra den gamle Anstalt</emph>.</head>
               <lg xml:id="idm140152135815536">
                 <l xml:id="idm140152135815280">Vee os, man jager os bort,</l>
@@ -6249,8 +6241,8 @@ Bygning.<lb xml:id="idm140152135829168"/>
                 <l xml:id="idm140152135806592">Vee, man behandler os haardt -</l>
                 <l xml:id="idm140152135806160">hvor skal et Fristed vi naae?</l>
               </lg>
-            </lg>
-            <lg xml:id="idm140152135805472">
+	    </div>
+            <div xml:id="idm140152135805472">
               <head xml:id="idm140152135805216"><emph xml:id="idm140152135805088">Anstaltens Nisse</emph>.</head>
               <lg xml:id="idm140152135804544">
                 <l xml:id="idm140152135804288">Hold inde Børn med Eders dumme Klage -</l>
@@ -6297,9 +6289,9 @@ Bygning.<lb xml:id="idm140152135829168"/>
                 <l xml:id="idm140152135782944">men raab, saa det runger over alle Bøtter!</l>
                 <l xml:id="idm140152135782464">Hurra, Polytechnicum flytter!</l>
               </lg>
-            </lg>
-          </lg>
-          <lg xml:id="idm140152135781648">
+	    </div>
+	  </div>
+          <div xml:id="idm140152135781648">
             <head xml:id="idm140152135781392">Kor.</head>
             <lg xml:id="idm140152135780976">
               <l xml:id="idm140152135780720">Saa Farvel, I gamle Sale,</l>
@@ -6324,8 +6316,8 @@ Bygning.<lb xml:id="idm140152135829168"/>
               <l xml:id="idm140152135771136">skjøndt saa tæt som Tømmerstokke</l>
               <l xml:id="idm140152135770672">pressed' sammen meer og meer!</l>
             </lg>
-          </lg>
-          <lg xml:id="idm140152135769984">
+	  </div>
+          <div xml:id="idm140152135769984">
             <head xml:id="idm140152135769728">Recitation.</head>
             <lg xml:id="idm140152135769312">
               <l xml:id="idm140152135769056">Tænk nu tilbage</l>
@@ -6414,8 +6406,8 @@ Bygning.<lb xml:id="idm140152135829168"/>
 							</l>
               <l xml:id="idm140152135726064">sin Udgang mod den travle Arbejds<hi rend="italics" xml:id="idm140152135725760">plads</hi>!</l>
             </lg>
-          </lg>
-          <lg xml:id="idm140152135724688">
+	  </div>
+          <div xml:id="idm140152135724688">
             <head xml:id="idm140152135724432">Slutnings-Kor.</head>
             <lg xml:id="idm140152135724016">
               <l xml:id="idm140152135723760">Lad Slægten skride frem til Kamp,</l>
@@ -6440,7 +6432,7 @@ Bygning.<lb xml:id="idm140152135829168"/>
               <l xml:id="idm140152135713216">saa <hi rend="italics" xml:id="idm140152135712928">Danmarks Drot og Folk</hi> maa mødes</l>
               <l xml:id="idm140152135712080">i Tak for denne Skoles Frugt!</l>
             </lg>
-          </lg>
+	  </div>
         </div>
         <div xml:id="idm140152135711264">
           <head xml:id="idm140152135711008"><hi rend="italics" xml:id="idm140152135710880">Anden Afdeling</hi>.</head>
@@ -6459,7 +6451,7 @@ Bygning.<lb xml:id="idm140152135829168"/>
             <l xml:id="idm140152135704816">Skaber-Aanden meer og mere stor!</l>
           </lg>
           <pb n="173" facs="adl/richardt/richardt3/rich3173" xml:id="idm140152135704256"/>
-          <lg xml:id="idm140152135703440">
+          <div xml:id="idm140152135703440">
             <lg xml:id="idm140152135703184">
               <l xml:id="idm140152135702928">Thi Alt, hvad Gransker-Øjet saae</l>
               <l xml:id="idm140152135702464">paa Jord, i Hav, og Himmel,</l>
@@ -6496,7 +6488,7 @@ Bygning.<lb xml:id="idm140152135829168"/>
               <l xml:id="idm140152135685488">som risted hver en Runestav,</l>
               <l xml:id="idm140152135685056">hans Børn fik Magt at raade!</l>
             </lg>
-          </lg>
+	  </div>
           <pb n="174" facs="adl/richardt/richardt3/rich3174" xml:id="idm140152135684336"/>
           <lg xml:id="idm140152135683520">
             <l xml:id="idm140152135683264">Lysets Fader, Aanders Aand</l>
@@ -6860,7 +6852,7 @@ En Dag i Hardanger.</head>
             <l xml:id="idm140152135523184">over den milehvide Fjeldsø.</l>
           </lg>
         </lg>
-        <lg xml:id="idm140152135522464">
+        <div xml:id="idm140152135522464">
           <lg xml:id="idm140152135522208">
             <l xml:id="idm140152135521952">Hvilket Lyshav fjern og nær,</l>
             <l xml:id="idm140152135521488">hvilken Tindren reen og skjær -</l>
@@ -6929,8 +6921,8 @@ En Dag i Hardanger.</head>
             <l xml:id="idm140152135496096">den var værd at længes efter,</l>
             <l xml:id="idm140152135495632"><hi rend="italics" xml:id="idm140152135495504">den</hi> har Jætte-Kræfter!</l>
           </lg>
-        </lg>
-        <lg xml:id="idm140152135494400">
+	</div>
+        <div xml:id="idm140152135494400">
           <lg xml:id="idm140152135494144">
             <l xml:id="idm140152135493888">Vældig og vild</l>
             <l xml:id="idm140152135493456">for Øjet Stor-Fossen stiger,</l>
@@ -6989,7 +6981,7 @@ En Dag i Hardanger.</head>
             <l xml:id="idm140152138494416">rede til at spejle baade Himmel og Fjeld,</l>
             <l xml:id="idm140152138493968">ja fange Skjær af Mildhed.</l>
           </lg>
-        </lg>
+	</div>
         <lg xml:id="idm140152138493264">
           <l xml:id="idm140152138493008">Forunderligt!</l>
           <l xml:id="idm140152138492592">Her har den buldret i Tusinder Aar</l>
@@ -7253,7 +7245,7 @@ af Evens: <hi rend="italics" xml:id="idm140152135427376">Goddædighed</hi>.<lb x
             <l xml:id="idm140152135370240">hvad Skatte dér ved Flid kan vindes,</l>
             <l xml:id="idm140152135369760">ved Arbejd, Taal og Kjærlighed.</l>
           </lg>
-          <lg xml:id="idm140152135369168">
+          <div xml:id="idm140152135369168">
             <head xml:id="idm140152135368912"><hi rend="italics" xml:id="idm140152135368784">Kvartet</hi>.</head>
             <lg xml:id="idm140152135367968">
               <l xml:id="idm140152135367712">Skal Barnet rustet være</l>
@@ -7286,8 +7278,8 @@ af Evens: <hi rend="italics" xml:id="idm140152135427376">Goddædighed</hi>.<lb x
               <l xml:id="idm140152135357072">fra Nordens Sagn og Sange!</l>
               <l xml:id="idm140152135356688">fra Hellas' rige Kyst!</l>
             </lg>
-          </lg>
-          <lg xml:id="idm140152135356048">
+	  </div>
+          <div xml:id="idm140152135356048">
             <head xml:id="idm140152135355792"><hi rend="italics" xml:id="idm140152135355664">Solo</hi>.</head>
             <lg xml:id="idm140152135354912">
               <l xml:id="idm140152135354656">Ære Akademos' Lund!</l>
@@ -7325,8 +7317,8 @@ af Evens: <hi rend="italics" xml:id="idm140152135427376">Goddædighed</hi>.<lb x
               <l xml:id="idm140152135342208">kan vi Himlen aaben skue,</l>
               <l xml:id="idm140152135341824">kan vi naae en Frelser-Haand.</l>
             </lg>
-          </lg>
-          <lg xml:id="idm140152135341184">
+	  </div>
+          <div xml:id="idm140152135341184">
             <head xml:id="idm140152135340928"><hi rend="italics" xml:id="idm140152135340800">Kor</hi>.</head>
             <lg xml:id="idm140152135340048">
               <l xml:id="idm140152135339792">Byg da Nordens Skole</l>
@@ -7348,11 +7340,11 @@ af Evens: <hi rend="italics" xml:id="idm140152135427376">Goddædighed</hi>.<lb x
               <l xml:id="idm140152135333840">men der inderst inde</l>
               <l xml:id="idm140152135333456">Hjertets Helligdom!</l>
             </lg>
-          </lg>
+	  </div>
         </div>
         <div xml:id="idm140152135332688">
           <head xml:id="idm140152135332432">II.</head>
-          <lg xml:id="idm140152135332048">
+          <div xml:id="idm140152135332048">
             <head xml:id="idm140152135331792"><hi rend="italics" xml:id="idm140152135331664">Kor</hi>.</head>
             <lg xml:id="idm140152135330912">
               <l xml:id="idm140152135330656">Saa lær dem at elske - i skiftende Kuld -</l>
@@ -7382,8 +7374,8 @@ af Evens: <hi rend="italics" xml:id="idm140152135427376">Goddædighed</hi>.<lb x
               <l xml:id="idm140152135320176">fra Hytter og Hal,</l>
               <l xml:id="idm140152135319760">som veed, hvad de vil, og som gjør, hvad de skal!</l>
             </lg>
-          </lg>
-          <lg xml:id="idm140152135319008">
+	  </div>
+          <div xml:id="idm140152135319008">
             <head xml:id="idm140152135318752"><hi rend="italics" xml:id="idm140152135318624">Trestemmig Sang</hi>.</head>
             <lg xml:id="idm140152135317808">
               <l xml:id="idm140152135317552">Kald paa dem Alle, som i Mørket famle</l>
@@ -7426,8 +7418,8 @@ af Evens: <hi rend="italics" xml:id="idm140152135427376">Goddædighed</hi>.<lb x
               <l xml:id="idm140152135300592">- kun et Lys, der varmer,</l>
               <l xml:id="idm140152135300160">tør kaldes Sol.</l>
             </lg>
-          </lg>
-          <lg xml:id="idm140152135299472">
+	  </div>
+          <div xml:id="idm140152135299472">
             <head xml:id="idm140152135299216"><hi rend="italics" xml:id="idm140152135299088">Kor</hi>.</head>
             <lg xml:id="idm140152135298304">
               <l xml:id="idm140152135298048">Hjælp os at skjelne, Fader i det Høje,</l>
@@ -7442,7 +7434,7 @@ af Evens: <hi rend="italics" xml:id="idm140152135427376">Goddædighed</hi>.<lb x
               <l xml:id="idm140152135294128">Arbejd og Lovsang Tonerne blande</l>
               <l xml:id="idm140152135293696">i Skolehjem paa Klippegrund.</l>
             </lg>
-          </lg>
+	  </div>
         </div>
       </div>
       <div xml:id="workid80125" decls="#biblid80125">
