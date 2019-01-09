@@ -18,4 +18,4 @@ inside a volume, the unit delivered by the library's circulation desk.
 
 For more information on markup used, have a look at [the
 texts](https://github.com/Det-Kongelige-Bibliotek/public-adl-text-sources/tree/master/texts),
-and the markup information here.
+and the markup used there.
