@@ -1,5 +1,13 @@
 # TEI Fælles Praksis
 
+## Indhold 
+
+### TEI Header
+
+### ....
+
+### ....
+
 ## Ressourcer 
 
 TEI Consortium, 1990-2020. _Guidelines for Electronic Text Encoding and
