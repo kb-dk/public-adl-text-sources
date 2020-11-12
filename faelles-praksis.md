@@ -6,7 +6,6 @@
 * [Facsimile](sections/tei-facsimile.md)
 * [Text](sections/tei-text.md)
 * [Site struktur](sections/tei-site_struktur.md)
-* ...
 
 ## Ressourcer 
 
