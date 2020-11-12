@@ -1,2 +1,39 @@
+# TEI Header
+Problemet er, at forskellige editioner gør tingene på forskellige måder.
 
-# <teiHeader> ... </teiHeader>
+## Overordnet vedr. TEI Header
+
+## fileDesc
+
+### titleStmt
+
+
+
+### publicationStmt
+
+### notesStmt
+
+### sourceDesc
+
+#### listBibl og decls
+
+#### msDesc
+
+### listWit og witness
+
+#### date
+
+## encodingDesc
+
+## profileDesc
+
+### langUsage
+
+### textClass
+
+## correspDesc
+
+## revisionDesc
+
+
+
