@@ -7,6 +7,72 @@ Problemet er, at forskellige editioner gør tingene på forskellige måder.
 
 ### titleStmt
 
+|ADL|SKS|GV|
+|----|:----:| ----:|
+|```<fileDesc>
+  <titleStmt>
+    <title>samlede skrifter I</title>
+    <author>gustaf munch-petersen</author>
+  </titleStmt>
+  <publicationStmt>
+    <publisher>KUNST OG KULTUR</publisher>
+    <idno  xml:base="texts/munp1.xml">001346243:1</idno>
+  </publicationStmt>
+  <notesStmt>
+    <note>
+    </note>
+  </notesStmt>
+  <sourceDesc>
+    <bibl>
+      <author n="1">
+        <name><surname>Munch-Petersen</surname>, 
+        <forename>Gustaf</forename></name>
+      </author>
+      <title>Samlede skrifter</title>
+      <pubPlace>Valby</pubPlace>
+      <publisher>Borgen</publisher>
+      <date>1988</date>
+    </bibl>
+
+    ...
+    
+  </sourceDesc>
+</fileDesc>```|```<titleStmt>
+  <title level="s">Søren Kierkegaards Skrifter</title>
+  <title>Enten – Eller. Første del</title>
+  <title type="short">EE1</title>
+  <author>
+    <name>Søren Kierkegaard</name>
+  </author>
+  <editor>
+    <name>Niels Jørgen Cappelørn</name>
+    <name>Joakim Garff</name>
+    <name>Johnny Kondrup</name>
+    <name>Alastair McKinnon</name>
+    <name>Finn Hauberg Mortensen</name>
+  </editor>
+  <respStmt>
+    <resp>udgivet af</resp>
+    <name>Niels Jørgen Cappelørn</name>
+    <name>Joakim Garff</name>
+    <name>Johnny Kondrup</name>
+    <name>Finn Hauberg Mortensen</name>
+  </respStmt>
+  <respStmt>
+    <resp>etableret af</resp>
+    <name>Henrik Blicher</name>
+    <name>Søren Bruun</name>
+    <name>Jette Knudsen</name>
+    <name>Johnny Kondrup</name>
+    <name>Kim Ravn</name>
+  </respStmt>
+  <respStmt>
+    <resp>elektronisk redigeret af</resp>
+    <name>Karsten Kynde</name>
+    <name>Kim Ravn</name>
+  </respStmt>
+</titleStmt>```|
+
 
 
 ### publicationStmt
