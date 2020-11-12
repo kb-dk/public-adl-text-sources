@@ -19,7 +19,7 @@ Af ovenstående er kun \<fileDesc\> obligatorisk i P5. I tillæg hertil er \<rev
 
 |ADL|SKS|GV|
 |----|:----:| ----:|
-|```<fileDesc>
+```<fileDesc>
   <titleStmt>
     <title>samlede skrifter I</title>
     <author>gustaf munch-petersen</author>
@@ -47,7 +47,9 @@ Af ovenstående er kun \<fileDesc\> obligatorisk i P5. I tillæg hertil er \<rev
     ...
     
   </sourceDesc>
-</fileDesc>```|```<titleStmt>
+</fileDesc>```
+
+```<titleStmt>
   <title level="s">Søren Kierkegaards Skrifter</title>
   <title>Enten – Eller. Første del</title>
   <title type="short">EE1</title>
@@ -81,7 +83,7 @@ Af ovenstående er kun \<fileDesc\> obligatorisk i P5. I tillæg hertil er \<rev
     <name>Karsten Kynde</name>
     <name>Kim Ravn</name>
   </respStmt>
-</titleStmt>```|
+</titleStmt>```
 
 ### publicationStmt
 
