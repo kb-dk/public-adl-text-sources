@@ -1079,13 +1079,12 @@ Rækker eller søjler kan efter behov klappes sammen med attributterne
 > \</table\>
 
 Eksemplet repræsenterer følgende tabelopstilling:[^15]
-
-        En Bestaaen for sig (Individualitet)   
-  ----- -------------------------------------- ---------------
-        Receptivitet                           Spontaneitet.
-  1\.   Krystal.                               
-        (Production)                           
-  2\.   Plante.                                
+|                           |     En   Bestaaen for sig (Individualitet)    |                      |   |
+|---------------------------|-----------------------------------------------|----------------------|---|
+|                           |     Receptivitet                              |     Spontaneitet.    |   |
+|     1.                    |     Krystal.                                  |                      |   |
+|                           |     (Production)                              |                      |   |
+|     2.                    |     Plante.                                   |                      |   |                          
 
 ### 4.2.10 Lister - \<list\>
 
