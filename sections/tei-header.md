@@ -19,6 +19,9 @@ Af ovenstående er kun \<fileDesc\> obligatorisk i P5. I tillæg hertil er \<rev
 
 |ADL|SKS|GV|
 |----|:----:| ----:|
+
+
+#### Exempel 1. ADL
 ```
 <fileDesc>
   <titleStmt>
@@ -52,6 +55,7 @@ Af ovenstående er kun \<fileDesc\> obligatorisk i P5. I tillæg hertil er \<rev
 
 ```
 
+#### Exempel 2. SKS
 ```
 <titleStmt>
   <title level="s">Søren Kierkegaards Skrifter</title>
@@ -88,6 +92,18 @@ Af ovenstående er kun \<fileDesc\> obligatorisk i P5. I tillæg hertil er \<rev
     <name>Kim Ravn</name>
   </respStmt>
 </titleStmt>
+```
+
+#### Exempel 3. GV
+```
+ <titleStmt>
+        <title rend="main">Heimdall. Dansk Nyaars-Gave for 1816</title>
+        <title rend="shortForm">Heimdall</title>
+        <author>Nicolai Frederik Severin Grundtvig</author>
+        <editor role="philologist">Kim Steen Ravn</editor>
+        <editor role="student1">Stine Kylsø Pedersen</editor>
+        <editor role="student2">Josefine Rahbek</editor>
+     </titleStmt>
 ```
 
 ### publicationStmt
