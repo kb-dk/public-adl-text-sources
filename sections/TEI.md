@@ -524,11 +524,11 @@ For sproghistoriske perioder, som ikke dækkes af ISO-værdierne, fx
 gammel dansk, anvendes standardforkortelserne fra sprogvidenskaben.[^9]
 Et par eksempler:
 
-  glda    gammeldansk (1100-1500)
-  ------- -------------------------------
-  æmda    ældre middeldansk (1100-1350)
-  ymda    yngre middeldansk (1350-1500)
-  ænyda   ældre nydansk (1500-1700)
+|     glda     |     gammeldansk (1100-1500)          |   |   |
+|--------------|--------------------------------------|---|---|
+|     æmda     |     ældre middeldansk (1100-1350)    |   |   |
+|     ymda     |     yngre middeldansk (1350-1500)    |   |   |
+|     ænyda    |     ældre nydansk (1500-1700)        |   |   |
 
 ### 2.4.2 \<textClass\>
 
