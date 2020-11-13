@@ -17,8 +17,10 @@ Af ovenstående er kun \<fileDesc\> obligatorisk i P5. I tillæg hertil er \<rev
 
 ### titleStmt
 
-|ADL|SKS|GV|
-|----|:----:| ----:|
+| ADL | GV | SKS |
+|-----|----|-----|
+| titleStmt og publicationStmt bruges ikke i ADL. Disse informationer læses fra sourceDesc, som indeholder metadata til kilderne, der ligger til grund for filen.   | Rummer de angivne elementer, men navn er ikke delt i for- og efternavn.   | SKS fortæller på en god måde, hvilken serie en udgivelse er en del af. Den har en title for serien og en title for værket i serien. titleStmt rummer alle nødvendige elementer, men navne er ikke delt i for- og efternavn.    |
+
 
 
 #### Exempel 1. ADL
