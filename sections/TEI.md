@@ -1,4 +1,4 @@
-Fælles praksis for TEI-kodning
+# Fælles praksis for TEI-kodning
 
 Version 5 - 14/12-2017
 
@@ -212,7 +212,7 @@ Steen Ravn (GV, AU) og Klaus Nielsen (GV, AU).
 
 ## 2 \<teiHeader\>
 
-## 2.1 Overordnet vedr. teiHeader
+### 2.1 Overordnet vedr. teiHeader
 
 En teiHeader kan bestå af en række elementer, hvoraf følgende vil blive
 håndteret i *TEI fælles praksis*:[^3]
@@ -237,12 +237,12 @@ man udnytter denne mulighed og at man enten angiver xml:lang på
 teiHeader-elementet, eller, hvis der er brugt mere end et sprog, angiver
 xml:lang der, hvor der er angivet tekst i elementerne.[^4]
 
-## 2.2 \<fileDesc\>
+### 2.2 \<fileDesc\>
 
 Under elementet *file description* håndteres følgende elementer:
 \<titleStmt\>, \<publicationStmt\>, \<notesStmt\> og \<sourceDesc\>.
 
-## 2.2.1 \<titleStmt\>
+### 2.2.1 \<titleStmt\>
 
 Titelangivelsen (titleStmt) indeholder mindst et title-element,
 efterfulgt af nul eller flere author-, editor-, og funder-elementer. I
@@ -316,7 +316,7 @@ I sidste eksempel bruges korttitlen til at angive et id-nummer \<idno\>.
 I type-attributten angives kilden, som her er Steen Johansens
 *Bibliografi over N.F.S. Grundtvigs skrifter* (1948-54).
 
-## 2.2.2 \<publicationStmt\>
+### 2.2.2 \<publicationStmt\>
 
 *TEI fælles praksis* forventer, at \<publicationStmt\> har mindst ét
 publisher-element, netop ét pubPlace-element og netop ét date-element;
@@ -334,7 +334,7 @@ den elektroniske fil indeholder. Disse vil oftest være forskellige fra
 udgivelsesoplysningerne vedrørende den tilgrundliggende kilde, som gives
 i \<sourceDesc\>.
 
-## 2.2.3 \<notesStmt\>
+### 2.2.3 \<notesStmt\>
 
 benyttes til at angive en beskrivelse af teksten, evt. hvilken helhed
 den indgår i. Man kan bruge en resp-attribut, hvis man ønsker at angive,
@@ -347,7 +347,7 @@ hvem der er ansvarlig for beskrivelsen.
 >
 > \</notesStmt\>
 
-## 2.2.4 \<sourceDesc\>
+### 2.2.4 \<sourceDesc\>
 
 Herunder gives en række bibliografiske oplysninger om den eller de
 kilder, som ligger til grund for teksten i det elektroniske dokument.
@@ -356,7 +356,7 @@ Herpå følger evt. deklaration af enkeltstående værker i større samling
 (\<listBibl\>), evt. manuskriptbeskrivelse (\<msDesc\>) og angivelse af
 tekstvidner ifm. det tekstkritiske apparat (\<listWit\>).
 
-## 2.2.4.1 \<listBibl\> og \@decls
+#### 2.2.4.1 \<listBibl\> og \@decls
 
 Den tekst, som den elektroniske fil indeholder, kan enten repræsentere
 et enkeltstående værk (fx en roman, en novelle eller et digt) eller et
@@ -446,7 +446,7 @@ knytter an til oplysningerne i \<listBibl\>, jf. eksemplet nedenfor:
 >
 > \</lg\>
 
-## 2.2.4.2 \<msDesc\>
+#### 2.2.4.2 \<msDesc\>
 
 Ingen af de projekter, som danner grundlag for udarbejdelsen af
 nærværende anbefalinger, benytter på nuværende tidspunkt \<msDesc\>, og
@@ -455,7 +455,7 @@ visningsapplikationen. Elementet kan medtages i en senere version og vil
 da følge *TEI P5*\'s specifikationer, jf.
 <http://www.tei-c.org/release/doc/tei-p5-doc/en/html/ref-msDesc.html>.
 
-## 2.2.4.3 \<listWit\> og \<witness\>
+#### 2.2.4.3 \<listWit\> og \<witness\>
 
 I forbindelse med kodning af det tekstkritiske apparat (jf. afsnit 4.3.4
 nedenfor) er det nødvendigt at deklarere, hvilke tekstvidner, der er
@@ -469,7 +469,7 @@ witness-element, fx
 > \<witness xml:id=\"SS\"\>Samlede Skrifter\</witness\>\
 > \</listWit\>
 
-## 2.2.4.4 \<date\>
+#### 2.2.4.4 \<date\>
 
 I forbindelse med de bibliografiske oplysninger ovenfor angives datoer
 (date-elementer) med følgende attributter:
@@ -507,7 +507,7 @@ kan indeholde følgende elementer: \<langUsage\>, \<textClass\>,
 \<abstract\>, \<calendarDesc\>, \<correspDesc \> og \<creation\>. Kun de
 to første vil blive håndteret i *TEI fælles praksis*.
 
-## 2.4.1 \<langUsage\>
+### 2.4.1 \<langUsage\>
 
 I elementet \<langUsage\> kan angives et eller flere language-elementer.
 Hvert language-element har attributten \@ident, hvis værdi er en
@@ -530,7 +530,7 @@ Et par eksempler:
   ymda    yngre middeldansk (1350-1500)
   ænyda   ældre nydansk (1500-1700)
 
-## 2.4.2 \<textClass\>
+### 2.4.2 \<textClass\>
 
 I *TEI fælles praksis* bruges dette element til at håndtere genre- og
 emneklassifikationer. En liste med en grovinddeling af genrer vil blive
@@ -693,7 +693,7 @@ lignende. For at kunne bearbejde disse komponenter særskilt er elementet
 
 Af disse tre elementer er kun \<body\> obligatorisk.
 
-## 4.1.1 \<front\>
+### 4.1.1 \<front\>
 
 Til behandling af forsider, titelblade, dedikationer og forord i trykte
 forlæg anvendes \<front\>.
@@ -746,14 +746,14 @@ P5,*](http://www.tei-c.org/release/doc/tei-p5-doc/en/html/DS.html#DSTITL)
 
 \</docTitle\>
 
-## 4.1.2 \<body\>
+### 4.1.2 \<body\>
 
 Udgivelsens centrale del udgøres af elementet \<body\> (*text body*),
 som indeholder teksten, inddelt som anført i det flg. afsnit 4.2, typisk
 som et antal bøger, sange, dele eller kapitler vha. elementet
 \<div\>.[^13]
 
-## 4.1.3 \<back\>
+### 4.1.3 \<back\>
 
 I sektionen for tekstens *back matter* kan anføres fx efterskrift og
 epilog, som efterfølger brødteksten.
@@ -768,7 +768,7 @@ epilog, som efterfølger brødteksten.
 
 ## 4.2 Underinddeling af teksten
 
-## 4.2.1 \<div\>
+### 4.2.1 \<div\>
 
 Til beskrivelse af tekstens disposition bruges elementet \<div\> (*text*
 *division*), som er et rekursivt element, idet det kan inddeles med
@@ -854,12 +854,12 @@ eller med et \<p\>-element, fx
 >
 > \</div\>
 
-## 4.2.2 Afsnit - \<paragraph\>
+### 4.2.2 Afsnit - \<paragraph\>
 
 Under hierarkiet af elementerne \<body\> og \<div\> segmenteres
 prosatekster i sideordnede afsnit vha. elementet \<p\> (*paragraph*).
 
-## 4.2.3 Vers - \<lg\> og \<l\>
+### 4.2.3 Vers - \<lg\> og \<l\>
 
 Til opmærkning af strofer og vers anvendes hhv. elementerne \<lg\>
 (*line group*) og \<l\> (*line*). Dette gælder for både strofisk og
@@ -882,7 +882,7 @@ Nummerering af strofer eller afsnit indsættes ved tildeling af en
 n-attribut, fx \<lg n="1"\>. Ønskes nummerering af linjer kan disse på
 lignende vis forsynes med en n-attribut.
 
-## 4.2.4 Citater - \<cit\>
+### 4.2.4 Citater - \<cit\>
 
 Når et citat anføres som et særskilt afsnit i teksten, anvendes
 elementet \<cit\> med de to sidestillede delelementer: \<quote\> og
@@ -902,7 +902,7 @@ Livets Vei* (1845):
 >
 > \</cit\>[^14]
 
-## 4.2.5 Figurer - \<figure\>
+### 4.2.5 Figurer - \<figure\>
 
 Elementet \<figure\> dækker to typer af fænomener i teksten:
 dekorationer til adskillelse af afsnit og egentlige illustrationer.
@@ -928,7 +928,7 @@ elementet \<head\>, fx
 Desuden kan elementet \<figDesc\> bruges til en kort beskrivelse af
 indholdet i en figur eller et billede.
 
-## 4.2.6 Sidehoved, sidefod og lignende - \<fw\>
+### 4.2.6 Sidehoved, sidefod og lignende - \<fw\>
 
 Under fællesbetegnelsen forme work \<fw\> giver TEI P5 mulighed for at
 opmærke de tekstdele på en side, som ikke hører til selve brødteksten.
@@ -953,7 +953,7 @@ visningsapplikation. Sidetal håndteres i stedet som led af
 pb-elemtentet, se 4.3.6, og linjetælling håndteres i kodningen af vers,
 se 4.2.3.
 
-## 4.2.6 Noter - \<note\>
+### 4.2.6 Noter - \<note\>
 
 Forfatterens egne noter indsættes med elementet \<note\> direkte i den
 løbende tekst på det sted, hvor de er indvist, fx
@@ -1013,7 +1013,7 @@ fx
 >
 > \</div\>
 
-## 4.2.7 Breve
+### 4.2.7 Breve
 
 Breve kan benytte elementerne nævnt i [*TEI
 P5,*](http://www.tei-c.org/release/doc/tei-p5-doc/en/html/DS.html#DSOC)
@@ -1048,7 +1048,7 @@ Hvor et brev ikke angiver oplysninger om korrespondenter, datering og
 lignende, kan disse suppleres i \<correspDesc\> i teiHeaderen, jf.
 ovenfor punkt 2.5.
 
-## 4.2.8 Drama - \<sp\>, \<speaker\> og \<stage\>
+### 4.2.8 Drama - \<sp\>, \<speaker\> og \<stage\>
 
 Til drama anvendes elementet \<sp\> (*speech*) til gengivelse af hver
 enkelt replik i en dramatisk tekst. Under \<sp\> optræder altid et
@@ -1092,7 +1092,7 @@ vers-opmærkning, jf. 4.2.2 eller 4.2.3.
 Til speaker-elementet kan føjes en attribut \@who, hvis værdi skal være
 den samme som anvendt i key-attributten under \<persName\>, jf. 4.3.2.
 
-## 4.2.9 Tabeller - \<table\>
+### 4.2.9 Tabeller - \<table\>
 
 Tabeller kan opsættes med elementet \<table\>, se i *TEI P5,* 14.1.1
 \<http://www.tei-c.org/release/doc/tei-p5-doc/en/html/FT.html\#FTTAB1\>.
@@ -1122,7 +1122,7 @@ Eksemplet repræsenterer følgende tabelopstilling:[^15]
         (Production)                           
   2\.   Plante.                                
 
-## 4.2.10 Lister - \<list\>
+### 4.2.10 Lister - \<list\>
 
 Lister er en speciel, ofte forekommende form for tabeller. De kodes med
 elementet \<list\> og evt. \<label\> og \<item\>, fx
@@ -1145,7 +1145,7 @@ bogstaver eller lignende.[^16]
 
 ## 4.3 Markeringer i den løbende tekst
 
-## 4.3.1 Fremhævelser
+### 4.3.1 Fremhævelser
 
 Man kan ifølge *TEI P5* principielt fremhæve tekst på to måder:
 semantisk ud fra tekstens betydning eller rent typografisk som blot
@@ -1173,7 +1173,7 @@ ubetinget benyttes \<hi rend=\"italic\"\>, jf. [*TEI
 P5,*](http://www.tei-c.org/release/doc/tei-p5-doc/en/html/CO.html#COHQ)
 3.3.
 
-## 4.3.1.1 Anførselstegn
+#### 4.3.1.1 Anførselstegn
 
 *TEI P5* har yderligere tre elementer til at fremhæve tekst, som normalt
 vil blive sat i anførselstegn, nemlig \<said\>, \<soCalled\> og \<q\>. I
@@ -1216,7 +1216,7 @@ eller hvor anførselstegn er sat eksplicit
 
 > \<quotation marks=\"all\"/\>
 
-## 4.3.2 Navne og termer
+### 4.3.2 Navne og termer
 
 *TEI P5* tillader, at person- og stednavne kodes på forskellig vis. Fx
 kan et personnavn opmærkes på en af tre måder:
@@ -1230,7 +1230,7 @@ kan et personnavn opmærkes på en af tre måder:
 *TEI fælles praksis* anbefaler, at der bruges \<persName\> og
 \<placeName\>.
 
-## 4.3.2.1 Personnavne - \<persName\>
+#### 4.3.2.1 Personnavne - \<persName\>
 
 Alle tre ovennævnte opmærkninger identificerer personen entydigt gennem
 en key-attribut[^17], fx
@@ -1243,7 +1243,7 @@ en key-attribut[^17], fx
 >
 > Prædikener, i \...
 
-## 4.3.2.2 Stednavne - \<placeName\>
+#### 4.3.2.2 Stednavne - \<placeName\>
 
 Alle placeName-elementer tager en \@key til præcisering af stedet, fx
 
@@ -1251,7 +1251,7 @@ Alle placeName-elementer tager en \@key til præcisering af stedet, fx
 >
 > Revolutionens fra \<placeName key=\"frankrig\"\>Frankrig\</placeName\>
 
-## 4.3.2.3 Andre navne eller termer - \<rs\>
+#### 4.3.2.3 Andre navne eller termer - \<rs\>
 
 Andre termer kan markeres som *reference string* med elementet \<rs\> og
 attributten \@type
@@ -1276,7 +1276,7 @@ dokument-ekstern database
 > og Skjold optegnede i sit Tempel (Grundtvig: "Lidet om Sangene i
 > Edda")
 
-## 4.3.3 Udgiverindgreb
+### 4.3.3 Udgiverindgreb
 
 Udgiverindgreb vil ofte skulle behandles i det tekstkritiske apparat, se
 næste afsnit, 4.3.4.
@@ -1316,7 +1316,7 @@ Og til slettet tekst bruges elementet \<del\>, fx
 > Vei hun jeg \<unclear\>faar\</unclear\> dog gjort Alt saaledes, at hun
 > ikke ahner, \[\...\]\</del\> (*SKS*, 2.3.11.3)
 
-## 4.3.4 Tekstkritisk apparat
+### 4.3.4 Tekstkritisk apparat
 
 Ved tekstkritisk apparat eller kort: *apparatet*, forstås de noter til
 den løbende tekst som i en bogudgave sædvanligvis anbringes under en
@@ -1332,7 +1332,7 @@ selv har rettet i sin tekst. De to typer anføres med typeværdierne
 \"tc\" hhv. \"var\". Kombinerede noter har type=\"tc_var\" (jf. *LHS
 Guidelines*, pkt. 9.2).
 
-**4.3.4.1 \<app\>, \<lem\> og \<rdg\>**
+#### 4.3.4.1 \<app\>, \<lem\> og \<rdg\>
 
 Apparatet kodes ved hjælp af app-elementet.[^18] \<app\> har højst ét
 lemma \<lem\> og ingen, én eller flere læsninger \<rdg\>.[^19]
@@ -1370,7 +1370,7 @@ som kunne gengives
 
 hører\] *B C,* høre *A a,* høre *SS*
 
-## 4.3.4.2 \<note\>
+#### 4.3.4.2 \<note\>
 
 \<app\>-elementet kan forsynes med et antal supplerende noter, \<note
 type=\"editor\"\>, til udgiverteksten, fx
@@ -1416,7 +1416,7 @@ grundteksten, altså manuskriptet.
 \<app\>-elementer i \<app\>-elementer er ikke tilladt. Brug i stedet
 \<note type="editor"\> til at afklare fx rettelser i rettelser.
 
-## 4.3.4.3 Semantisk mærkning
+#### 4.3.4.3 Semantisk mærkning
 
 Ovenstående praksis udgør de nødvendige markeringer til en passende
 *præsentation* af apparatet, dvs. at udgiveren hermed kan udforme sine
@@ -1489,7 +1489,7 @@ hvor en tilhørende \<rendition\> anføres i teiHeader'ens
 > \<rendition xml:id=\"til\" selector=\"add\"
 > scope=\"after\"\>content:\"tilføjet\"\</rendition\>
 
-## 4.3.4.4 Flere eksempler på intern varians
+#### 4.3.4.4 Flere eksempler på intern varians
 
 I det foregående behandledes intern varians genetisk mht. øjeblikkelige
 rettelser og senere tilføjelser. Det følgende eksempel[^21] viser
@@ -1539,7 +1539,7 @@ som kunne vises
 saa han snart den Tid imøde\] *over linjen er tilføjet* mærkede han at
 den Tid snart vilde komme
 
-## 4.3.5 Interne og eksterne referencer
+### 4.3.5 Interne og eksterne referencer
 
 Henvisninger til andre ressourcer indsættes i elementet \<ref\> på
 følgende måde:
@@ -1555,7 +1555,7 @@ art, fx en realkommentar
 > Ræven og\
 > Storken\</ref\>. De husker, at Ræven bød Storken til Gjæst, men \...
 
-## 4.3.6 Sidetal
+### 4.3.6 Sidetal
 
 Sideskift i forlæg markeres med det tomme element \<pb/\> (*page
 beginning*). Elementet kan indeholde tre attributter:
