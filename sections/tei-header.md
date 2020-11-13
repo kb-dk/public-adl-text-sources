@@ -9,19 +9,7 @@ En teiHeader kan bestå af en række elementer, hvoraf følgende vil blive hånd
 
 Af ovenstående er kun \<fileDesc\> obligatorisk i P5. I tillæg hertil er \<revisionsDesc\> obligatorisk i TEI fælles praksis. Angående angivelse af sprog, så er det tilladt at angive attributten @xml:lang på alle elementer i teiHeaderen, der indeholder tekst. Vi anbefaler, at man udnytter denne mulighed og at man enten angiver xml:lang på teiHeader-elementet, eller, hvis der er brugt mere end et sprog, angiver xml:lang der, hvor der er angivet tekst i elementerne. 
 
-
-## fileDesc
-| ADL | GV | SKS |
-|-----|----|-----|
-|     |    |     |
-
-### titleStmt
-
-| ADL | GV | SKS |
-|-----|----|-----|
-| [titleStmt](#exempel-1-adl) og publicationStmt bruges ikke i ADL. Disse informationer læses fra sourceDesc, som indeholder metadata til kilderne, der ligger til grund for filen.   | Rummer de angivne elementer, men navn er ikke delt i for- og efternavn.   | SKS fortæller på en god måde, hvilken serie en udgivelse er en del af. Den har en title for serien og en title for værket i serien. titleStmt rummer alle nødvendige elementer, men navne er ikke delt i for- og efternavn.    |
-
-
+## Tekstuddrag
 
 #### Exempel 1. ADL
 ```
@@ -57,7 +45,31 @@ Af ovenstående er kun \<fileDesc\> obligatorisk i P5. I tillæg hertil er \<rev
 
 ```
 
-#### Exempel 2. SKS
+#### Exempel 2. GV
+```
+ <titleStmt>
+        <title rend="main">Heimdall. Dansk Nyaars-Gave for 1816</title>
+        <title rend="shortForm">Heimdall</title>
+        <author>Nicolai Frederik Severin Grundtvig</author>
+        <editor role="philologist">Kim Steen Ravn</editor>
+        <editor role="student1">Stine Kylsø Pedersen</editor>
+        <editor role="student2">Josefine Rahbek</editor>
+     </titleStmt>
+	 
+	 ...
+	 
+  <publicationStmt>
+       <availability status="restricted">
+          <p>© Grundtvig Centeret, Aarhus Universitet</p>
+       </availability>
+       <publisher>Faculty of Arts, Aarhus University</publisher>
+       <distributor>Grundtvig Centeret, Vartov, København</distributor>
+       <date when="2018-11-01">www.grundtvigsværker.dk, version 1.13, 1. november 2018</date>
+  </publicationStmt>
+	 
+```
+
+#### Exempel 3. SKS
 ```
 <titleStmt>
   <title level="s">Søren Kierkegaards Skrifter</title>
@@ -96,29 +108,22 @@ Af ovenstående er kun \<fileDesc\> obligatorisk i P5. I tillæg hertil er \<rev
 </titleStmt>
 ```
 
-#### Exempel 3. GV
-```
- <titleStmt>
-        <title rend="main">Heimdall. Dansk Nyaars-Gave for 1816</title>
-        <title rend="shortForm">Heimdall</title>
-        <author>Nicolai Frederik Severin Grundtvig</author>
-        <editor role="philologist">Kim Steen Ravn</editor>
-        <editor role="student1">Stine Kylsø Pedersen</editor>
-        <editor role="student2">Josefine Rahbek</editor>
-     </titleStmt>
-	 
-	 ...
-	 
-  <publicationStmt>
-       <availability status="restricted">
-          <p>© Grundtvig Centeret, Aarhus Universitet</p>
-       </availability>
-       <publisher>Faculty of Arts, Aarhus University</publisher>
-       <distributor>Grundtvig Centeret, Vartov, København</distributor>
-       <date when="2018-11-01">www.grundtvigsværker.dk, version 1.13, 1. november 2018</date>
-  </publicationStmt>
-	 
-```
+
+
+## fileDesc
+| ADL | GV | SKS |
+|-----|----|-----|
+|     |    |     |
+
+### titleStmt
+
+| ADL | GV | SKS |
+|-----|----|-----|
+| [titleStmt](#exempel-1-adl) og publicationStmt bruges ikke i ADL. Disse informationer læses fra sourceDesc, som indeholder metadata til kilderne, der ligger til grund for filen.   | Rummer de angivne elementer, men navn er ikke delt i for- og efternavn.   | SKS fortæller på en god måde, hvilken serie en udgivelse er en del af. Den har en title for serien og en title for værket i serien. titleStmt rummer alle nødvendige elementer, men navne er ikke delt i for- og efternavn.    |
+
+
+
+
 
 ### publicationStmt
 
