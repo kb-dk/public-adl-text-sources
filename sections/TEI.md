@@ -538,44 +538,9 @@ etableret efter nedenstående eksempel for at gøre dette element
 operativt og søgbart.[^10] Emneklassifikationen er heroverfor åben, dvs.
 at man her kan angive et hvilket som helst emneord. Det er valgfrit, om
 man vil henvise til en emneordsliste i keywords-elementet.
-
-+-------------------+-------------------------+-----------+--------------------+
-| LYRIK             | PROSA                   | DRAMA     | ANDET              |
-+===================+=========================+===========+====================+
-| Digt              | Afhandling              | Komedie   | Antologi           |
-|                   |                         |           |                    |
-| Dialog            | Anmeldelse              | Tragedie  | Tidsskrift         |
-|                   |                         |           |                    |
-| Digtkreds         | Artikel                 | Læsedrama | Værk sammensat af  |
-|                   |                         |           |                    |
-| Digtsamling       | Breve                   | Syngespil | forskellige genrer |
-|                   |                         |           |                    |
-| Langdigt          | Dagbladsnotits          |           |                    |
-|                   |                         |           |                    |
-| Lejlighedsdigt    | Foredrag                |           |                    |
-|                   |                         |           |                    |
-| Rimkrønike        | Foredragsrække          |           |                    |
-|                   |                         |           |                    |
-| Rolledigt         | Lærebog                 |           |                    |
-|                   |                         |           |                    |
-| Tilegnelsesdigt   | Pamflet                 |           |                    |
-|                   |                         |           |                    |
-| Salme             | Prædiken                |           |                    |
-|                   |                         |           |                    |
-| Salmesamling      | Prædikensamling         |           |                    |
-|                   |                         |           |                    |
-| Sang              | Subskriptionsindbydelse |           |                    |
-|                   |                         |           |                    |
-| Rimbrev           | Tale                    |           |                    |
-|                   |                         |           |                    |
-| Vise              |                         |           |                    |
-|                   |                         |           |                    |
-| Folkevise         |                         |           |                    |
-|                   |                         |           |                    |
-| Folkevisepastiche |                         |           |                    |
-|                   |                         |           |                    |
-| Selskabsvise      |                         |           |                    |
-+-------------------+-------------------------+-----------+--------------------+
+|     LYRIK                                                                                                                                                                                                                                                                                                       |     PROSA                                                                                                                                                                                                               |     DRAMA                                                         |     ANDET                                                                                |
+|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------|------------------------------------------------------------------------------------------|
+|     Digt          Dialog          Digtkreds          Digtsamling          Langdigt          Lejlighedsdigt          Rimkrønike          Rolledigt          Tilegnelsesdigt     Salme          Salmesamling     Sang     Rimbrev     Vise          Folkevise          Folkevisepastiche          Selskabsvise    |     Afhandling     Anmeldelse     Artikel     Breve     Dagbladsnotits     Foredrag          Foredragsrække     Lærebog     Pamflet     Prædiken          Prædikensamling     Subskriptionsindbydelse     Tale          |     Komedie     Tragedie     Læsedrama     Syngespil              |     Antologi     Tidsskrift      Værk sammensat af           forskellige genrer          |
 
 > \<textClass\>
 >
