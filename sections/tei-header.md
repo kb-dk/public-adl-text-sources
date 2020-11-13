@@ -104,6 +104,18 @@ Af ovenstående er kun \<fileDesc\> obligatorisk i P5. I tillæg hertil er \<rev
         <editor role="student1">Stine Kylsø Pedersen</editor>
         <editor role="student2">Josefine Rahbek</editor>
      </titleStmt>
+	 
+	 ...
+	 
+  <publicationStmt>
+       <availability status="restricted">
+          <p>© Grundtvig Centeret, Aarhus Universitet</p>
+       </availability>
+       <publisher>Faculty of Arts, Aarhus University</publisher>
+       <distributor>Grundtvig Centeret, Vartov, København</distributor>
+       <date when="2018-11-01">www.grundtvigsværker.dk, version 1.13, 1. november 2018</date>
+  </publicationStmt>
+	 
 ```
 
 ### publicationStmt
