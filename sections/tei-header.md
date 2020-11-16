@@ -106,6 +106,19 @@ Af ovenstående er kun \<fileDesc\> obligatorisk i P5. I tillæg hertil er \<rev
     <name>Kim Ravn</name>
   </respStmt>
 </titleStmt>
+
+  <publicationStmt>
+        <authority>Søren Kierkegaard Forskningscenteret 1997</authority>
+        <availability status="restricted">
+          <p>copyright</p>
+        </availability>
+      </publicationStmt>
+      <seriesStmt>
+        <title xml:id="SKS">Søren Kierkegaards Skrifter</title>
+        <biblScope unit="volume">2</biblScope>
+        <biblScope unit="file">http://sks.dk/ee1/txt.xml</biblScope>
+      </seriesStmt>
+
 ```
 
 
