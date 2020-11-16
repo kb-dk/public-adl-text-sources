@@ -137,26 +137,41 @@ Af ovenstående er kun \<fileDesc\> obligatorisk i P5. I tillæg hertil er \<rev
 
 
 ### publicationStmt
+Udgiver-oplysninger kan læses forskellige steder fra.
 
 | ADL | GV | SKS |
 |-----|----|-----|
-|Læses fra sourceDesc, fordi det er digitaliseret.     |Born digital, så publisher læses fra publicationStmt.    |Born digital, så publisher læses fra publicationStmt.     |
+|Læses fra sourceDesc, fordi det er digitaliseret.     |Born digital; publisher læses fra publicationStmt.    |Publisher læses fra publicationStmt, authority. Så den afviger i form ift. [fælles praksis](TEI.md#222-publicationstmt), men læses herfra.    |
 
 
 ### notesStmt
+Præsenteres ikke i tekstservice.
 
+| ADL | GV | SKS |
+|-----|----|-----|
+|Bruges ikke.     |Bruges.    |Bruges ikke.     |
+
+
+### sourceDesc
 | ADL | GV | SKS |
 |-----|----|-----|
 |     |    |     |
 
-
-### sourceDesc
-
 #### listBibl og decls
+Når vi digitaliserer store korpusser bliver hver del af korpusset katalogiseret individuelt. Dette felt bruges til at vise, hvilken helhed delen indgår i.
+
+| ADL | GV | SKS |
+|-----|----|-----|
+|Bruges i alt som KB er ansvarlig for, herunder ADL.     |Bruges ikke.    |Bruges ikke.     |
+
+[Eksempel](../work-metadata.md)
 
 #### msDesc
+| ADL | GV | SKS |
+|-----|----|-----|
+|Bruges ikke (ingen transkriberede håndskrifter)     |Bruges ikke.    |Anvendes for håndskriftsmateriale; katalogiseret ved hjælp af msDesc.     |
 
-### listWit og witness
+#### listWit og witness
 
 #### date
 
