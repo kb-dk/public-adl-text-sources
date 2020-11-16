@@ -123,11 +123,19 @@ Af ovenstående er kun \<fileDesc\> obligatorisk i P5. I tillæg hertil er \<rev
 
 
 
-
-
 ### publicationStmt
 
+| ADL | GV | SKS |
+|-----|----|-----|
+|Læses fra sourceDesc, fordi det er digitaliseret.     |Born digital, så publisher læses fra publicationStmt.    |Born digital, så publisher læses fra publicationStmt.     |
+
+
 ### notesStmt
+
+| ADL | GV | SKS |
+|-----|----|-----|
+|     |    |     |
+
 
 ### sourceDesc
 
