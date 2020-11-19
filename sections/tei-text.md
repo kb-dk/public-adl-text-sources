@@ -7,22 +7,27 @@ eller udgør en helhed af flere mindre enheder som fx en essay- eller digtsamlin
 ## Inddeling af teksten
 
 ### Front
-| ADL | GV | SKS |
-|-----|----|-----|
-|     |    |     |
+Ikke søgbart i tekstservice.
+Se nedenfor. 
 
 ### Body
-| ADL | GV | SKS |
-|-----|----|-----|
-|     |    |     |
+Se nedenfor. 
 
 ### Back
+Ikke søgbart i tekstservice.
+Se nedenfor. 
 
 ## Underinddeling af teksten
 
 ### Tekstdel - \<div\>
+| ADL | GV | SKS |
+|-----|----|-----|
+|     |    |     |
 
-### Afsnit - \<paragraf\>
+### Afsnit - \<p\>
+| ADL | GV | SKS |
+|-----|----|-----|
+|     |    |     |
 
 ### Lyrik - \<lg\> og \<l\>
 
