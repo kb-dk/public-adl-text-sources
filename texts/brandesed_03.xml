@@ -32,7 +32,7 @@
       </sourceDesc>
     </fileDesc>
   </teiHeader>
-  <text xml:id="idm140324075533632">
+  <text xml:id="workid54266"  decls="#biblid54266">
     <front xml:id="idm140324075533376">
       <pb n="I" xml:id="sI" facs="adl/brandesed/brandesed_03/brandesed_03_fm_001"/>
       <titlePage xml:id="idm140324075531920">
@@ -48,9 +48,9 @@
       </titlePage>
       <pb n="II" xml:id="sII" facs="adl/brandesed/brandesed_03/brandesed_03_fm_002"/>
       <pb n="III" xml:id="sIII" facs="adl/brandesed/brandesed_03/brandesed_03_fm_003"/>
-      <div xml:id="workid54266" decls="#biblid54266" type="half_titlepage">
-        <p xml:id="idm140324075610048">HOLBERG OG HANS SCENE</p>
-      </div>
+      <div  xml:id="idm140324075533632"  type="half_titlepage">
+        <head xml:id="idm140324075610048">HOLBERG OG HANS SCENE</head>
+
       <pb n="IV" xml:id="sIV" facs="adl/brandesed/brandesed_03/brandesed_03_fm_004"/>
       <div xml:id="idm140324075608464">
         <head xml:id="idm140324075608208">EDVARD BRANDES:</head>
@@ -87,6 +87,7 @@
 </item></list>
 </item>
         </list>
+      </div>
       </div>
     </front>
     <body xml:id="idm140324075477632">
