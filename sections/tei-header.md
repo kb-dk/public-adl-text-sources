@@ -157,6 +157,11 @@ Præsenteres ikke i tekstservice.
 |-----|----|-----|
 |     |    |     |
 
+#### bibl
+| ADL | GV | SKS |
+|-----|----|-----|
+|Bruges til almene metadata for det enkelte bind.     |Anvendes ikke.    |Anvendes ikke.     |
+
 #### listBibl og decls
 Når vi digitaliserer store korpusser bliver hver del af korpusset katalogiseret individuelt. Dette felt bruges til at vise, hvilken helhed delen indgår i.
 
@@ -172,20 +177,43 @@ Når vi digitaliserer store korpusser bliver hver del af korpusset katalogiseret
 |Bruges ikke (ingen transkriberede håndskrifter)     |Bruges ikke.    |Anvendes for håndskriftsmateriale; katalogiseret ved hjælp af msDesc.     |
 
 #### listWit og witness
+| ADL | GV | SKS |
+|-----|----|-----|
+|Ikke relevant; et værk digitaliseres, så der er ikke flere vidner.     |Følger standard.    |Følger standard.     |
 
 #### date
+| ADL | GV | SKS |
+|-----|----|-----|
+|Kun trykkeår er angivet som datoelement. Ingen andre datoer angivet. Følger ikke standarden.    |Trykkeår angivet. Følger ikke standarden.    |Flere datoelementer findes. Følger ikke standarden.     |
 
 ## encodingDesc
+| ADL | GV | SKS |
+|-----|----|-----|
+|Fortolkes ikke i tekstservice. Findes ikke i encodingen.     |Fortolkes ikke i tekstservice. Findes i encodingen.    |Fortolkes ikke i tekstservice. Findes i encodingen.     |
 
 ## profileDesc
+| ADL | GV | SKS |
+|-----|----|-----|
+|Fortolkes ikke i tekstservice. Findes ikke i encodingen.     |Fortolkes ikke i tekstservice. Findes i encodingen.    |Fortolkes ikke i tekstservice. Findes i encodingen.     |
 
 ### langUsage
+| ADL | GV | SKS |
+|-----|----|-----|
+|Fortolkes ikke i tekstservice. Findes ikke i encodingen.     |Fortolkes ikke i tekstservice. Findes i encodingen.    |Fortolkes ikke i tekstservice. Findes i encodingen.     |
 
 ### textClass
+Fortolkes i tekstservice.
+| ADL | GV | SKS |
+|-----|----|-----|
+|Der er genreangivelser, der anvendes i søgemaskiner. De er ikke baseret på textClass og følger derfor ikke fælles praksis.     |Anvendes og vises som facetter i søgemaskinen. Følger fælles praksis.    |Anvendes og vises som facetter i søgemaskinen, men følger ikke fælles praksis. Er ikke baseret på textClass.     |
 
 ## correspDesc
+DB er ikke i dette format.
+| ADL | GV | SKS |
+|-----|----|-----|
+|Findes ikke.     |Findes ikke.    |Findes ikke. Har breve, men ikke på dette format (correspDesc).     |
 
 ## revisionDesc
-
-
-
+| ADL | GV | SKS |
+|-----|----|-----|
+|Findes ikke på dette format.     |Findes.    |Findes ikke på dette format.     |
