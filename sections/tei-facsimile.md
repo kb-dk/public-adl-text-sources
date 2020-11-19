@@ -4,4 +4,4 @@ Udgaver kodet i TEI fælles praksis kan inkludere faksimiler af fx de tilgrundli
 
 | ADL | GV | SKS |
 |-----|----|-----|
-|     |    |     |
+|Rummer faksimiler. Følger en forenklet version af standarden.     |Er ikke et digitaliseringsprojekt, men der findes henvisninger til vigtige faksimiler for visse udgaver. Følger en forenklet version af standarden.   |Har ingen faksimiler i det hele taget; det er ikke et digitaliseringsprojekt. Visse eksempelsider findes; disse følger en forenklet version af standarden, men ligger som illustrationer i teksten.     |
