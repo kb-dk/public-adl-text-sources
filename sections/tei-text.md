@@ -7,14 +7,14 @@ eller udgør en helhed af flere mindre enheder som fx en essay- eller digtsamlin
 ## Inddeling af teksten
 
 ### Front
-Ikke søgbart i tekstservice.
+Ikke søgbart i tekstservice. Betragtes som redaktionel tekst. Er normalt forord, indledning og indholdsfortegnelse. 
 Se nedenfor. 
 
 ### Body
 Se nedenfor. 
 
 ### Back
-Ikke søgbart i tekstservice.
+Ikke søgbart i tekstservice. Betragtes som redaktionel tekst. Kan være alfabetisk indeks, slutnoter, litteraturliste o.lign.
 Se nedenfor. 
 
 ## Underinddeling af teksten
@@ -32,10 +32,45 @@ Se nedenfor.
 ### Lyrik - \<lg\> og \<l\>
 
 ### Citater - \<cit\>
+Behandles ikke på en særskilt måde. Behandles normalt som en paragraph.
 
 ### Figurer - \<fig\>
+| ADL | GV | SKS |
+|-----|----|-----|
+|Ingen figurer/ikke relevant.     |Fortolkes ikke og vises ikke.    |Følger fælles praksis, se eksempler nedenfor.     |
+
+#### Eksempel SKS
+**Illustration**
+```
+ <p xml:id="ida51a76fc-ea91-4c6d-9df8-a32af9dbc9b1" rend="decoration">
+          <figure xml:id="id15d13c04-537d-42c9-9e9f-d3681f97fec5" type="vignet">
+            <figDesc xml:id="id923a53d6-abe2-420c-9965-01ff138242f7">large curli
+cue</figDesc>
+            <graphic xml:id="idf0bf32b5-b9bf-432a-9c12-94d88cabb930" url="../vignet/vig-dd-207.jpg"/>
+          </figure>
+        </p>
+```
+
+
+**Ornament**
+```
+  <xsl:template match="t:figure[@type='3crossesDown']">
+    <p style="text-align:center;">
+      <xsl:text>† &#160; †</xsl:text><br/>
+      <xsl:text>†</xsl:text><br/>
+    </p>
+  </xsl:template>
+  ```
+  
+### Sidehoved, sidefod o.lign - \<fw\>
+Bruges ikke og fortolkes ikke.
 
 ### Noter - \<note\>
+Hvis ikke skrevet af forfatteren: 
+
+| ADL | GV | SKS |
+|-----|----|-----|
+|     |    |     |
 
 ### Breve
 
