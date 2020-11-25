@@ -1553,7 +1553,7 @@ skriftart, mens blok-elementer (4.2) tillige kan benytte sig af
 gengivelser, som specificerer indrykning eller margen.
 
 Følgende værdier er bl.a. forhåndsdefinerede for \@rend:
-
+```
   ---------------- ----------------------------------------
   center           centreret tekst
   right            højrestillet tekst
@@ -1569,6 +1569,7 @@ Følgende værdier er bl.a. forhåndsdefinerede for \@rend:
   sub              lavstillet tekst
   super            højtstillet tekst
   ---------------- ----------------------------------------
+```
 
 En højrestillet tekst kan fx kodes således:
 
