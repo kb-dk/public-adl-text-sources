@@ -20,21 +20,38 @@ Se nedenfor.
 ## Underinddeling af teksten
 
 ### Tekstdel - \<div\>
+\<head\> definerer strukturen på et dokument.
+
 | ADL | GV | SKS |
 |-----|----|-----|
-|     |    |     |
+|Uproblematisk; følger standard.     |Uproblematisk; følger standard.    |Problematisk \<head\>, der kan gøre det svært at generere indholdsfortegnelser. Desuden svært at finde titler på dele af dokumentet. Dette skyldes, at alle overskrifter reelt er tomme.     |
 
-### Afsnit - \<p\>
+### De følgende tre er tekstens "atomer"
+Det meste af en tekst vil falde inden for disse tre.
+
+#### Afsnit - \<p\>
+Typografen (eller browseren) bestemmer linjebredde.
+
 | ADL | GV | SKS |
 |-----|----|-----|
-|     |    |     |
+|Uproblematisk, følger standard.     |Uproblematisk, følger standard.    |Uproblematisk, følger standard.     |
 
-### Lyrik - \<lg\> og \<l\>
+#### Lyrik - \<lg\> og \<l\>
+Digteren bestemmer linjebredde.
 
-### Citater - \<cit\>
+| ADL | GV | SKS |
+|-----|----|-----|
+|Uproblematisk, følger standard.     |Uproblematisk, følger standard.    |Følger ikke standarden; bruges slet ikke.     |
+
+#### Dialog (drama) - \<sp\>, \<speaker\> og \<stage\>
+| ADL | GV | SKS |
+|-----|----|-----|
+|Uproblematisk, følger standard.     |Uproblematisk, følger standard.    |N/A     |
+
+#### Citater - \<cit\>
 Behandles ikke på en særskilt måde. Behandles normalt som en paragraph.
 
-### Figurer - \<fig\>
+#### Figurer - \<fig\>
 | ADL | GV | SKS |
 |-----|----|-----|
 |Ingen figurer/ikke relevant.     |Fortolkes ikke og vises ikke.    |Følger fælles praksis, se eksempler nedenfor.     |
@@ -74,8 +91,6 @@ Hvis ikke skrevet af forfatteren:
 
 ### Breve
 
-### Drama - \<sp\>, \<speaker\> og \<stage\>
-
 ### Tabeller - \<table\>
 
 ### Lister - \<list\>
@@ -110,3 +125,6 @@ Hvis ikke skrevet af forfatteren:
 
 ## Gengivelse
 
+| ADL | GV | SKS |
+|-----|----|-----|
+|     |    |     |
