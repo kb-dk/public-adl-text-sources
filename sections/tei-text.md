@@ -49,7 +49,11 @@ Digteren bestemmer linjebredde.
 |Uproblematisk, følger standard.     |Uproblematisk, følger standard.    |N/A     |
 
 #### Citater - \<cit\>
-Behandles ikke på en særskilt måde. Behandles normalt som en paragraph.
+Er implementeret og vises i tekstportalen som citater, der "står uden for" den øvrige tekst.
+
+| ADL | GV | SKS |
+|-----|----|-----|
+|     |    |Følger fælles praksis.     |
 
 #### Figurer - \<fig\>
 | ADL | GV | SKS |
