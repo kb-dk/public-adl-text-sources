@@ -53,7 +53,25 @@ Er implementeret og vises i tekstportalen som citater, der "står uden for" den 
 
 | ADL | GV | SKS |
 |-----|----|-----|
-|     |    |Følger fælles praksis.     |
+|Følger næsten fælles praksis, men afviger lidt. Se nedenfor.     |Følger ikke fælles praksis. Der er citater, men de er ikke kodede som beskrevet i fælles praksis. Se nedenfor.    |Følger fælles praksis.     |
+
+**ADL**
+```
+ <epigraph xml:id="idm140608068139680">
+          <cit xml:id="idm140608068139424">
+            <q xml:id="idm140608068231104">
+              <p xml:id="idm140608068230848"><hi rend="italics" xml:id="idm140608068230720">Wo das Eisen wächst in der Berge Schacht</hi>,<lb xml:id="idm140608068229968"/><hi rend="italics" xml:id="idm140608068229840">da entspringen der Erde Gebieter</hi>.</p>
+              <bibl xml:id="idm140608068229056">SCHILLER</bibl>
+            </q>
+          </cit>
+        </epigraph>
+ ```
+ 
+ **GV**
+ ```
+ <p rend="quote">&#x2013; du, som ved min baade aandelige og legemlige Hjemkomst 1819 rakte mig din <rs type="title" key="title153">Saxo</rs>, med den kj&#x00E6;rlige Opfordring til at &#x2018;ride Sommer i By&#x2019; med hans og Danmarks Helte, som jeg kunde bedst!&#x201D; (<rs type="title" key="title447">Grundtvig og Ingemann 1882</rs>, s. 325).</p>
+```
+
 
 #### Figurer - \<fig\>
 | ADL | GV | SKS |
@@ -87,11 +105,13 @@ cue</figDesc>
 Bruges ikke og fortolkes ikke.
 
 ### Noter - \<note\>
-Hvis ikke skrevet af forfatteren: 
+Se [4.2.6 "Noter" i Fælles Praksis](TEI.md#426-noter---note).
+Visse typer fortolkes, andre ikke. Noter behøver ikke have angivet en type. Default er, at man trykker på noten, og så "folder den sig ud" på dét sted. De findes overalt på alle tekster i tekstportalen (undtagen Trykkefrihedens Skrifter).
+Det er problematisk, at der anvendes alverdens typer, da det kan være vanskeligt at tolke på. Derfor følger teksterne på overfalden fælles praksis, men software som skal fortolke dokumentet kan blive forvirret over de mange typer; markdown med mange typer bliver misvisende. **Antallet af anvendte typer bør begrænses væsentligt**.
 
 | ADL | GV | SKS |
 |-----|----|-----|
-|     |    |     |
+|Følger formelt set fælles praksis, men se note ovenfor. |
 
 ### Breve
 
