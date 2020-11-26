@@ -111,7 +111,7 @@ Det er problematisk, at der anvendes alverdens typer, da det kan være vanskelig
 
 | ADL | GV | SKS |
 |-----|----|-----|
-|Følger formelt set fælles praksis, men se note ovenfor. |
+|Følger formelt set fælles praksis, men se note ovenfor.| Samme. | Samme. |
 
 ### Breve
 
