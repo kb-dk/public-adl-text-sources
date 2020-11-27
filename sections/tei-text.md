@@ -114,12 +114,29 @@ Det er problematisk, at der anvendes alverdens typer, da det kan være vanskelig
 |Følger formelt set fælles praksis, men se note ovenfor.| Samme. | Samme. |
 
 ### Breve
+Her er forskellige muligheder, se [4.2.7 "Breve" i Fælles Praksis](TEI.md#427-breve).
+I DB følges standard forstået som Fælles Praksis formelt set ikke, men der følges en etableret praksis, som fungerer og kan læses af systemet. Fælles Praksis-tags ville også blive fortolket og forstået. Et brev er at betragte som et værk og en samling breve er en samling af værker, som markeres som vanligt i TEI-header, se [listbibl og decls](tei-header.md#listbibl-og-decls).
+
+I tekstportalen fortolkes breve ikke som breve, de betragtes blot som tekst. Det fungerer, men er et stykke tekst, ikke en særlig kategori.
+
+| ADL | GV | SKS |
+|-----|----|-----|
+|Hvis der findes breve, er de markeret som prosa. |   |Rummer breve     |
 
 ### Tabeller - \<table\>
+| ADL | GV | SKS |
+|-----|----|-----|
+|  |  |     |
 
 ### Lister - \<list\>
+| ADL | GV | SKS |
+|-----|----|-----|
+|  |  |     |
 
 ## Markeringer i den løbende tekst
+| ADL | GV | SKS |
+|-----|----|-----|
+|  |  |     |
 
 ### Fremhævelser
 
