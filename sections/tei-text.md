@@ -121,12 +121,16 @@ I tekstportalen fortolkes breve ikke som breve, de betragtes blot som tekst. Det
 
 | ADL | GV | SKS |
 |-----|----|-----|
-|Hvis der findes breve, er de markeret som prosa. |   |Rummer breve     |
+|Hvis der findes breve, er de markeret som prosa. |Hvis der findes breve, er de markeret som prosa.   |Rummer breve, der betragtes som prosa, med typografi som et brev. Dvs. sofistikeret prosa, men de er ikke breve fra et TEI Fælles Praksis-perspektiv. Hvert brev er ikke et værk ligesom i DB.     |
+
+For teksttyper som **dagbøger og journaler** med datoangivelser og lignende vil det fungerere på samme måde: Det er ikke en særskilt kategori, men er prosa med typografi der indikerer hvilken teksttype, der er tale om. Fra et brugerperspektiv ser teksten således ud som den kan forventes, men fra et TEI-perspektiv er det alt sammen prosa.
 
 ### Tabeller - \<table\>
+Ligesom i punktet breve ligger her en mulig pædagogisk udfordring: Det lader til at være opfattelsen, at så længe, det ser rigtigt ud på brugersiden, er alt fint. Dermed er der fokus på form frem for indhold, hvilket støder mod pointen i TEI-encoding, hvor indholdet er det væsentlige og hvis encodet korrekt, vil formen naturligt følge indholdet.
+
 | ADL | GV | SKS |
 |-----|----|-----|
-|  |  |     |
+|  |  |Følger fælles praksis. Indholdsfortegnelser markeres dog også som tables, men burde være list med items - dette er en semantisk fejl, se ovenfor.     |
 
 ### Lister - \<list\>
 | ADL | GV | SKS |
@@ -136,7 +140,7 @@ I tekstportalen fortolkes breve ikke som breve, de betragtes blot som tekst. Det
 ## Markeringer i den løbende tekst
 | ADL | GV | SKS |
 |-----|----|-----|
-|  |  |     |
+|     |    |     |
 
 ### Fremhævelser
 
@@ -155,14 +159,29 @@ I tekstportalen fortolkes breve ikke som breve, de betragtes blot som tekst. Det
 #### \<app\>, \<lem\> og \<rdg\> 
 
 #### \<note\>
+| ADL | GV | SKS |
+|-----|----|-----|
+|     |    |     |
 
 #### Semantisk mærkning og intern varians
+| ADL | GV | SKS |
+|-----|----|-----|
+|     |    |     |
 
 #### Flere eksempler på intern varians
+| ADL | GV | SKS |
+|-----|----|-----|
+|     |    |     |
 
 ### Interne og eksterne referencer
+| ADL | GV | SKS |
+|-----|----|-----|
+|     |    |     |
 
 ### Sidetal
+| ADL | GV | SKS |
+|-----|----|-----|
+|     |    |     |
 
 ## Gengivelse
 
