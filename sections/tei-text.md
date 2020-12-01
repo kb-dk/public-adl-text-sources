@@ -154,25 +154,30 @@ Ligesom i punktet breve ligger her en mulig pædagogisk udfordring: Det lader ti
 
 #### Personnavne - \<persName\>
 Semantisk opmærkning.
+Reelt betyder "fælles praksis" to forskellige ting i GV hhv. SKS, da opmærkningerne tager sig ganske forskellige ud.
 
 | ADL | GV | SKS |
 |-----|----|-----|
-|Forekommer ikke, da det er et digitaliseringsprojekt.     |    |Følger fælles praksis.     |
+|Forekommer ikke, da det er et digitaliseringsprojekt.     |Følger fælles praksis; navne henviser til noter i en separat database.    |Følger fælles praksis, men simpelt.     |
 
 #### Stednavne - \<placeName\>
+Semantisk opmærkning.
+Reelt betyder "fælles praksis" to forskellige ting i GV hhv. SKS, da opmærkningerne tager sig ganske forskellige ud.
+
 | ADL | GV | SKS |
 |-----|----|-----|
-|Forekommer ikke, da det er et digitaliseringsprojekt.     |    |Følger fælles praksis.     |
+|Forekommer ikke, da det er et digitaliseringsprojekt.     |Følger fælles praksis; navne henviser til noter i en separat database.    |Følger fælles praksis, men simpelt.     |
 
 #### Andre navne og termer - \<rs\>
 | ADL | GV | SKS |
 |-----|----|-----|
-|Forekommer ikke, da det er et digitaliseringsprojekt.     |    |Forekommer ikke.     |
+|Forekommer ikke, da det er et digitaliseringsprojekt.     |Anvendes og følger fælles praksis-syntaks.    |Forekommer ikke.     |
 
 ### Udgiverindgreb
 | ADL | GV | SKS |
 |-----|----|-----|
 |     |    |     |
+
 ### Tekstkritisk apparat
 | ADL | GV | SKS |
 |-----|----|-----|
