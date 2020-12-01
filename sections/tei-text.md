@@ -130,12 +130,12 @@ Ligesom i punktet breve ligger her en mulig pædagogisk udfordring: Det lader ti
 
 | ADL | GV | SKS |
 |-----|----|-----|
-|  |  |Følger fælles praksis. Indholdsfortegnelser markeres dog også som tables, men burde være list med items - dette er en semantisk fejl, se ovenfor.     |
+|Følger fælles praksis. Indholdsfortegnelser markeres dog også som tables, men burde være list med items - dette er en semantisk fejl, se ovenfor.  |Følger fælles praksis. Indholdsfortegnelser markeres dog også som tables, men burde være list med items - dette er en semantisk fejl, se ovenfor.  |Følger fælles praksis. Indholdsfortegnelser markeres dog også som tables, men burde være list med items - dette er en semantisk fejl, se ovenfor.     |
 
 ### Lister - \<list\>
 | ADL | GV | SKS |
 |-----|----|-----|
-|  |  |     |
+|Følger fælles praksis.  |Følger fælles praksis.  |Følger fælles praksis.     |
 
 ## Markeringer i den løbende tekst
 | ADL | GV | SKS |
@@ -143,21 +143,44 @@ Ligesom i punktet breve ligger her en mulig pædagogisk udfordring: Det lader ti
 |     |    |     |
 
 ### Fremhævelser
+| ADL | GV | SKS |
+|-----|----|-----|
+|     |    |     |
 
 ### Navne og termer
+| ADL | GV | SKS |
+|-----|----|-----|
+|     |    |     |
 
 #### Personnavne - \<persName\>
+Semantisk opmærkning.
+
+| ADL | GV | SKS |
+|-----|----|-----|
+|Forekommer ikke, da det er et digitaliseringsprojekt.     |    |Følger fælles praksis.     |
 
 #### Stednavne - \<placeName\>
+| ADL | GV | SKS |
+|-----|----|-----|
+|Forekommer ikke, da det er et digitaliseringsprojekt.     |    |Følger fælles praksis.     |
 
 #### Andre navne og termer - \<rs\>
+| ADL | GV | SKS |
+|-----|----|-----|
+|Forekommer ikke, da det er et digitaliseringsprojekt.     |    |Forekommer ikke.     |
 
 ### Udgiverindgreb
-
+| ADL | GV | SKS |
+|-----|----|-----|
+|     |    |     |
 ### Tekstkritisk apparat
-
+| ADL | GV | SKS |
+|-----|----|-----|
+|     |    |     |
 #### \<app\>, \<lem\> og \<rdg\> 
-
+| ADL | GV | SKS |
+|-----|----|-----|
+|     |    |     |
 #### \<note\>
 | ADL | GV | SKS |
 |-----|----|-----|
