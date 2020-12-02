@@ -202,6 +202,11 @@ Se [Noter](#noter---note)
 |     |    |     |
 
 ### Interne og eksterne referencer
+
+```
+<ref type="commentary" target="kom.xml#ee1-34" xml:id="ee1-34">min elskværdige Læserinde</ref>,
+```
+
 | ADL | GV | SKS |
 |-----|----|-----|
 |     |    |     |
