@@ -203,12 +203,12 @@ Se [Noter](#noter---note)
 
 ### Interne og eksterne referencer
 
-SKS style
+#### SKS style
 ```
 <ref type="commentary" target="kom.xml#ee1-34" xml:id="ee1-34">min elskværdige Læserinde</ref>,
 ```
 
-GV style
+#### GV style
 
 ```
 <l>Hvem det undtes <seg type="com" n="com562">saa</seg> at <seg type="com" n="com658">bygge</seg></l>
@@ -226,6 +226,8 @@ and
  </notesStmt>
 ```
 
+#### Holberg
+
 \<seg/\> is also used in Ludvig Holberg Værker (LHV). Here is a snippet from *Niels Klim*.
 The difference from GV being that here the comment anchor is a single
 point, not a text segment. An again, the URI of the target is
@@ -241,6 +243,8 @@ a file niels\_klim\_komm.xml
  quam tunc expressi, variis, vt postea audiui, sermonibus et coniecturis ansam dederat incolis globi,
  circa quem voluebar.
 ```
+
+#### Møller
 
 Paul Martin Møller edition follow the linking practice from SKS.
 
