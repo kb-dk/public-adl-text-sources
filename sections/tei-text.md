@@ -203,9 +203,34 @@ Se [Noter](#noter---note)
 
 ### Interne og eksterne referencer
 
+SKS style
 ```
 <ref type="commentary" target="kom.xml#ee1-34" xml:id="ee1-34">min elskværdige Læserinde</ref>,
 ```
+
+GV style
+
+```
+<l>Hvem det undtes <seg type="com" n="com562">saa</seg> at <seg type="com" n="com658">bygge</seg></l>
+```
+
+and
+
+```
+
+ <notesStmt>
+      <note target="1815_255_txt.xml" type="txt" xml:id="thisFile">Læsetekst</note>
+      <note target="1815_255_com.xml" type="com">Punktkommentar</note>
+      <note target="1815_255_intro.xml" type="intro">Indledning</note>
+      <note target="1815_255_txr.xml" type="txr">Tekstredegørelse</note>
+      <note type="minusVar">Variant</note>
+     
+     </notesStmt>
+```
+
+
+
+`
 
 | ADL | GV | SKS |
 |-----|----|-----|
