@@ -203,6 +203,8 @@ Se [Noter](#noter---note)
 
 ### Interne og eksterne referencer
 
+Se [Fælles praksis afsnit 4.3.5](TEI.md#435-interne-og-eksterne-referencer)
+
 #### SKS style
 ```
 <ref type="commentary" target="kom.xml#ee1-34" xml:id="ee1-34">min elskværdige Læserinde</ref>,
@@ -260,7 +262,7 @@ Paul Martin Møller edition follow the linking practice from SKS.
 
 | ADL | GV | SKS |
 |-----|----|-----|
-|     |    |     |
+| n/a | følger ikke fælles praksis-syntaks | følger fælles praksis-syntaks |
 
 ### Sidetal
 | ADL | GV | SKS |
