@@ -189,9 +189,7 @@ Fælles praksis rækker ikke helt ift. at præsentere data for udgivelserne. Her
 |N/A. Her findes tekstkritisk apparat i den trykte original, men det er ikke overført til mark-up. Dette ville være et kæmpe arbejde, da det er et digitaliseringsprojekt.     |Følger fælles praksis.    |Følger fælles praksis.     |
 
 #### \<note\>
-| ADL | GV | SKS |
-|-----|----|-----|
-|     |    |     |
+Se [Noter](#noter---note)
 
 #### Semantisk mærkning og intern varians
 | ADL | GV | SKS |
