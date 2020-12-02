@@ -217,20 +217,42 @@ GV style
 and
 
 ```
-
  <notesStmt>
-      <note target="1815_255_txt.xml" type="txt" xml:id="thisFile">Læsetekst</note>
-      <note target="1815_255_com.xml" type="com">Punktkommentar</note>
-      <note target="1815_255_intro.xml" type="intro">Indledning</note>
-      <note target="1815_255_txr.xml" type="txr">Tekstredegørelse</note>
-      <note type="minusVar">Variant</note>
-     
-     </notesStmt>
+    <note target="1815_255_txt.xml" type="txt" xml:id="thisFile">Læsetekst</note>
+    <note target="1815_255_com.xml" type="com">Punktkommentar</note>
+    <note target="1815_255_intro.xml" type="intro">Indledning</note>
+    <note target="1815_255_txr.xml" type="txr">Tekstredegørelse</note>
+    <note type="minusVar">Variant</note>
+ </notesStmt>
 ```
 
+\<seg/\> is also used in Ludvig Holberg Værker (LHV). Here is a snippet from *Niels Klim*.
+The difference from GV being that here the comment anchor is a single
+point, not a text segment. An again, the URI of the target is
+implicit. I.e., you need to know that the comments are to be found in
+a file niels\_klim\_komm.xml
 
+```
+ Nam adspectus corporis humani, in aëre circumacti, harpagonem dextra tenentis, et longum post
+ se funem caudae instar trahentis, phaenomenon erat, quod quoduis brutum animal
+ <seg xml:id="id7871066d-b59b-4e34-8c8b-59279aaed03e" type="komm" target="p11-26"/>in spectaculum
+ sui allicere posset. Insolita ista
+ <pb xml:id="ide98ce60e-e91d-41aa-a82b-bed116ff7ce6" ed="A" n="12" facs="p12"/>figura,
+ quam tunc expressi, variis, vt postea audiui, sermonibus et coniecturis ansam dederat incolis globi,
+ circa quem voluebar.
+```
 
-`
+Paul Martin Møller edition follow the linking practice from SKS.
+
+```
+ Endelig kommer han til det her oversatte Eventyr, som han maatte <ref
+ xml:id="id0465d8c9-d24b-44b1-9c79-6f839b62d5b7" type="commentary"
+ target="com006.xml#com9-0e">bestaae</ref> med den eenøyede Kjæmpe
+ Polyfemos, der aad sex af hans <ref
+ xml:id="id5c2b12d9-cb87-474d-a819-5f60e85966af" type="commentary"
+ target="com006.xml#com9-0f">Staldbrødre</ref>, men til Straf derfor
+ paa en listig Maade af Odysseus blev skilt ved sit Øie.</hi>
+```
 
 | ADL | GV | SKS |
 |-----|----|-----|
