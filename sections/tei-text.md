@@ -179,16 +179,14 @@ Reelt betyder "fælles praksis" to forskellige ting i GV hhv. SKS, da opmærknin
 |     |    |     |
 
 ### Tekstkritisk apparat
-| ADL | GV | SKS |
-|-----|----|-----|
-|     |    |     |
+Se underafsnittene nedenfor.
 
 #### \<app\>, \<lem\> og \<rdg\> 
 Fælles praksis rækker ikke helt ift. at præsentere data for udgivelserne. Her følges TEI-guidelines; fælles praksis er en delmængde af TEI-guidelines. Se [TEI guidelines kap. 12](https://www.tei-c.org/release/doc/tei-p5-doc/en/html/TC.html) og [Fælles praksis afsnit 4.3.4.1](TEI.md#4341-app-lem-og-rdg).
 
 | ADL | GV | SKS |
 |-----|----|-----|
-|     |    |Følger fælles praksis.     |
+|N/A. Her findes tekstkritisk apparat i den trykte original, men det er ikke overført til mark-up. Dette ville være et kæmpe arbejde, da det er et digitaliseringsprojekt.     |Følger fælles praksis.    |Følger fælles praksis.     |
 
 #### \<note\>
 | ADL | GV | SKS |
