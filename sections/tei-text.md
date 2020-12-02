@@ -264,6 +264,9 @@ Paul Martin Møller edition follow the linking practice from SKS.
 |-----|----|-----|
 | n/a | følger ikke fælles praksis-syntaks | følger fælles praksis-syntaks |
 
+
+
+
 ### Sidetal
 | ADL | GV | SKS |
 |-----|----|-----|
