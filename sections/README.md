@@ -2,11 +2,11 @@
 
 ## Indhold 
 
-* [TEI Header](sections/tei-header.md)
-* [Facsimile](sections/tei-facsimile.md)
-* [Text](sections/tei-text.md)
-* [Site struktur](sections/tei-site_struktur.md)
-* [TEI fælles praksis](sections/TEI.md)
+* [TEI Header](tei-header.md)
+* [Facsimile](../tei-facsimile.md)
+* [Text](tei-text.md)
+* [Site struktur](../tei-site_struktur.md)
+* [TEI fælles praksis](TEI.md)
 
 ## Ressourcer 
 
