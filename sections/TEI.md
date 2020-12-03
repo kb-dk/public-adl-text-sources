@@ -1257,7 +1257,7 @@ tekst suppleret af redaktøren, fx
 
 Oc weth\<ex\>e\</ex\>r kende hwn sigh \... (Dipl. Dan. 14151114001)
 
-Til tvivlsomme læsninger bruges elementet \<unClear\>, fx
+Til tvivlsomme læsninger bruges elementet \<unclear\>, fx
 
 > hvor skulde \<unclear\>En\</unclear\> ogsaa have
 > ahnet\<unclear\>,\</unclear\>\
