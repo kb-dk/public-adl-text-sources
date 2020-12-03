@@ -1,5 +1,7 @@
 # SKS type attributes
 
+As of 2020-12-03
+
 ```
       1 3asterisks
       1 divisionRulerRight

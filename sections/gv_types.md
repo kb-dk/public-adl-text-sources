@@ -1,5 +1,7 @@
 # type attributes found in GV
 
+As of 2020-12-03
+
 ```
       1 1807
       1 1. Universal-Historisk Vidskab
