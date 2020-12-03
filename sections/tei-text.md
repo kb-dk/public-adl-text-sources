@@ -138,19 +138,13 @@ Ligesom i punktet breve ligger her en mulig pædagogisk udfordring: Det lader ti
 |Følger fælles praksis.  |Følger fælles praksis.  |Følger fælles praksis.     |
 
 ## Markeringer i den løbende tekst
-| ADL | GV | SKS |
-|-----|----|-----|
-|     |    |     |
 
 ### Fremhævelser
 | ADL | GV | SKS |
 |-----|----|-----|
-|     |    |     |
+|Følger fælles praksis.     |Følger fælles praksis.    |Følger fælles praksis.     |
 
 ### Navne og termer
-| ADL | GV | SKS |
-|-----|----|-----|
-|     |    |     |
 
 #### Personnavne - \<persName\>
 Semantisk opmærkning.
@@ -176,7 +170,7 @@ Reelt betyder "fælles praksis" to forskellige ting i GV hhv. SKS, da opmærknin
 ### Udgiverindgreb
 | ADL | GV | SKS |
 |-----|----|-----|
-|     |    |     |
+|N/A - Ingen redaktør er gået igennem teksterne efter digitaliseringen.     |Forekommer ikke/sjældent.    |Følger fælles praksis.     |
 
 ### Tekstkritisk apparat
 Se underafsnittene nedenfor.
@@ -199,7 +193,7 @@ Se [Noter](#noter---note)
 #### Flere eksempler på intern varians
 | ADL | GV | SKS |
 |-----|----|-----|
-|     |    |     |
+|N/A     |    |     |
 
 ### Interne og eksterne referencer
 
@@ -262,17 +256,15 @@ Paul Martin Møller edition follow the linking practice from SKS.
 
 | ADL | GV | SKS |
 |-----|----|-----|
-| n/a | følger ikke fælles praksis-syntaks | følger fælles praksis-syntaks |
-
-
-
+| n/a | Følger ikke fælles praksis-syntaks. | Følger fælles praksis-syntaks. |
 
 ### Sidetal
 | ADL | GV | SKS |
 |-----|----|-----|
-|     |    |     |
+|Følger fælles praksis (dog trivielt, da det er et digitaliseringsprojekt)     |Følger fælles praksis.    |Følger fælles praksis.     |
 
 ## Gengivelse
+Tekstportalen understøtter både rend (direkte henvisning) og rendition (reference til et andet element). 
 
 | ADL | GV | SKS |
 |-----|----|-----|
