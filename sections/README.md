@@ -3,9 +3,9 @@
 ## Indhold 
 
 * [TEI Header](tei-header.md)
-* [Facsimile](../tei-facsimile.md)
+* [Facsimile](tei-facsimile.md)
 * [Text](tei-text.md)
-* [Site struktur](../tei-site_struktur.md)
+* [Site struktur](tei-site_struktur.md)
 * [TEI fælles praksis](TEI.md)
 
 ## Ressourcer 
