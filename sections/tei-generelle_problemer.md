@@ -1,6 +1,6 @@
-#Generelle problemer
+# Generelle problemer
 
-##Mange forskellige types
+## Mange forskellige types
 Der forekommer så mange forskellige types, at det er svært at skrive software, der bruger dem på en meningsfuld måde. 
 På overfalden følger man måske fælles praksis, men det er problematisk, at der er så mange types "på bagsiden". *Antallet af types bør begrænses væsentligt.*
 
