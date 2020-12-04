@@ -124,9 +124,6 @@ Af ovenstående er kun \<fileDesc\> obligatorisk i P5. I tillæg hertil er \<rev
 
 
 ## fileDesc
-| ADL | GV | SKS |
-|-----|----|-----|
-|     |    |     |
 
 ### titleStmt
 
@@ -153,9 +150,6 @@ Præsenteres ikke i tekstservice.
 
 
 ### sourceDesc
-| ADL | GV | SKS |
-|-----|----|-----|
-|     |    |     |
 
 #### bibl
 | ADL | GV | SKS |
