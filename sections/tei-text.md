@@ -266,6 +266,8 @@ Paul Martin Møller edition follow the linking practice from SKS.
 ## Gengivelse
 Tekstportalen understøtter både rend (direkte henvisning) og rendition (reference til et andet element). 
 
+[Statistikk for rend-attributter](gv_rends.md)
+
 | ADL | GV | SKS |
 |-----|----|-----|
 |     |    |     |
