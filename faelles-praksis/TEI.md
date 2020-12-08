@@ -937,7 +937,7 @@ Grundtvigs forfatterskab, hvor K.L. Rhabek som redaktør og udgiver af
 tidsskriftet *Ny Minerva* har tilføjet fodnoter til Grundtvigs bidrag
 "Lidet om Sangene i Edda" fra september 1806 (s. 270-299; s. 290):
 
-![](https://github.com/kb-dk/public-adl-text-sources/blob/faelles-praksis/sections/TEI_photo.png)
+![](TEI_photo.png)
 
 Noten opmærkes på samme måde, som en fodnote af forfatteren selv, men
 med type-værdien prevEditor:
