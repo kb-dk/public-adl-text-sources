@@ -204,7 +204,7 @@ hvilken version af TEI P5, man har benyttet. Det gøres ved at indsætte
 en versionsattribut på følgende vis mellem XML-kolofonen og teiHeaderen:
 
 \<TEI version=\"5.3.2\"
-xmlns=\"[http://www.tei-c.org/ns/1.0\"](http://www.tei-c.org/ns/1.0")\>[^2]
+xmlns=\"[http://www.tei-c.org/ns/1.0](http://www.tei-c.org/ns/1.0)\"\>[^2]
 
 De følgende anbefalinger af skrevet af Lene Offersgaard (CST, KU),
 Sigfrid Lundberg (KB), Thomas Hansen (DSL), Karsten Kynde (SKS), Kim
@@ -254,8 +254,7 @@ på editor-elementet alternativt med attributten \@xml:id i stedet.
 >
 > \<title[^6] xml:lang="da"\>Mit Livs Legende\</title\>
 >
-> \<author ref=\"https://viaf.org/viaf/100136529 \"\>Johannes
-> Jørgensen\</author\>
+> \<author ref=\"[https://viaf.org/viaf/100136529](https://viaf.org/viaf/100136529)\"\>Johannes Jørgensen\</author\>
 >
 > \<editor xml:id=\"ei\"\>Elise Iuul\</editor\>
 >
@@ -270,8 +269,7 @@ af navnets normform fra VIAF. Dette kan bruges som sorteringsnøgle i
 forbindelse med registre og andre oversigter. I ovenstående eksempel
 ville dette give flg.:
 
-\<author key=\"Jørgensen, Johannes\"
-ref=\"https://viaf.org/viaf/100136529\"\>
+\<author key=\"Jørgensen, Johannes\" ref=\"[https://viaf.org/viaf/100136529](https://viaf.org/viaf/100136529)\"\>
 
 > Johannes Jørgensen
 >
