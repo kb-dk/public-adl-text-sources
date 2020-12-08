@@ -254,7 +254,7 @@ på editor-elementet alternativt med attributten \@xml:id i stedet.
 >
 > \<title[^6] xml:lang="da"\>Mit Livs Legende\</title\>
 >
-> \<author ref=\"https://viaf.org/viaf/100136529\"\>Johannes
+> \<author ref=\"https://viaf.org/viaf/100136529 \"\>Johannes
 > Jørgensen\</author\>
 >
 > \<editor xml:id=\"ei\"\>Elise Iuul\</editor\>
