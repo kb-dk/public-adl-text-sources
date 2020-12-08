@@ -186,14 +186,10 @@ Fælles praksis rækker ikke helt ift. at præsentere data for udgivelserne. Her
 Se [Noter](#noter---note)
 
 #### Semantisk mærkning og intern varians
-| ADL | GV | SKS |
-|-----|----|-----|
-|     |    |     |
+Ikke relevant for disse udgivelser. Findes der intern varians, så er det under alle omstændigheder ikke markeret (ud fra TEI fælles praksis) og derfor er det ikke lykkedes os at finde eksempler på det.
 
 #### Flere eksempler på intern varians
-| ADL | GV | SKS |
-|-----|----|-----|
-|N/A     |    |     |
+Se ovenfor.
 
 ### Interne og eksterne referencer
 
@@ -266,8 +262,8 @@ Paul Martin Møller edition follow the linking practice from SKS.
 ## Gengivelse
 Tekstportalen understøtter både rend (direkte henvisning) og rendition (reference til et andet element). 
 
-[Statistikk for rend-attributter](gv_rends.md)
+I fælles praksis er listet nogle værdier for rend: [4.4 Gengivelse](TEI.md#44-gengivelse). Her er en liste over de rends, der faktisk anvendes i GV:[Statistikk for rend-attributter](gv_rends.md). Som det ses, er der ikke megen overensstemmelse; til gengæld anvendes en hel del andre (ca. 100 ialt). Det kan give fortolkningsproblemer, og antallet bør begrænses, se [Generelle problemer](tei-generelle_problemer.md). Med andre ord: Hvis GV følger fælles praksis, er der et problem med fælles praksis i sig selv.
 
 | ADL | GV | SKS |
 |-----|----|-----|
-|     |    |     |
+|Stort set generisk mark-up; der findes ingen styles. N/A.     |Se ovenfor.    |Bruger mest rendition-elementer. Fokus er for meget på typografi frem for semantik. Se [Generelle problemer](tei-generelle_problemer.md).     |

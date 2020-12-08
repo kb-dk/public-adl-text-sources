@@ -7,6 +7,7 @@
 * [Text](tei-text.md)
 * [Site struktur](tei-site_struktur.md)
 * [TEI fælles praksis](TEI.md)
+* [Generelle problemer](tei-generelle_problemer.md)
 
 ## Ressourcer 
 
