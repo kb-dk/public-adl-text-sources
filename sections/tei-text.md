@@ -186,14 +186,10 @@ Fælles praksis rækker ikke helt ift. at præsentere data for udgivelserne. Her
 Se [Noter](#noter---note)
 
 #### Semantisk mærkning og intern varians
-| ADL | GV | SKS |
-|-----|----|-----|
-|     |    |     |
+Ikke relevant for disse udgivelser. Findes der intern varians, så er det under alle omstændigheder ikke markeret (ud fra TEI fælles praksis) og derfor er det ikke lykkedes os at finde eksempler på det.
 
 #### Flere eksempler på intern varians
-| ADL | GV | SKS |
-|-----|----|-----|
-|N/A     |    |     |
+Se ovenfor.
 
 ### Interne og eksterne referencer
 
