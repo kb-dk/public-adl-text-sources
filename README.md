@@ -20,6 +20,39 @@ structured.
 * [Connecting text to facsimile](facsimile-text.md)
 * [Workflows and requirements for new documents](workflows.md)
 
+## Getting text
+
+As might have noticed are all the texts in a XML format called [Text
+Encoding Initiative (TEI)](https://tei-c.org/). For many purposes, if
+not all, that is a good format.
+
+If you want to extract texts from the files, you can use the the scripts
+
+1. [get_titles.xsl](get_titles.xsl)
+1. [get_the_text.xsl](get_the_text.xsl)
+1. [extract_stuff.sh](extract_stuff.sh)
+
+The first one (`get_titles.xsl`) creates a list of works inside a TEI file.
+
+```
+xsltproc  get_titles.xsl texts/hcaeventyr01val.xml 
+workid57967;Eventyr, fortalte for Børn. Første Samling. Første Hefte. 1885.
+workid58084;Fyrtøiet
+workid59091;Lille Claus og store Claus
+workid61051;Prindsessen paa Ærten
+workid61317;Den lille Idas Blomster
+workid62461;Eventyr, fortalte for Børn. Første Samling. Andet Hefte. 1885.
+workid62544;Tommelise
+workid64209;Den uartige Dreng
+workid64656;Reisekammeraten
+
+...
+
+```
+The second script (`get_the_text.xsl`) creates one text file per title in the TEI file.
+
+Finally, you can adapt the shell script `extract_stuff.sh` to do both things directly.
+
 ## Contributing documents
 
 Projects with relevant scope can contribute documents to ADL, provided the
