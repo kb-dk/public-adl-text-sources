@@ -12,7 +12,7 @@
   <xsl:template match="/">
     <xsl:for-each select="//node()[@decls]">
       <xsl:variable name="id"><xsl:value-of select="@xml:id"/></xsl:variable>
-      <xsl:variable name="href"><xsl:value-of select="concat($source,'-',@xml:id)"/></xsl:variable>
+      <xsl:variable name="href"><xsl:value-of select="concat($source,'-',@xml:id,'.text')"/></xsl:variable>
       <exsl:document
           href = "{$href}"
           method = "text">
