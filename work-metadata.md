@@ -3,7 +3,7 @@
 One of the simplest way to connect text with metadata seem to be using
 [the decls attribute](http://www.tei-c.org/Vault/P5/2.5.0/doc/tei-p5-doc/en/html/CC.html#CCAS2)
 (we consulted the TEI-L listserv where [Lou
-Bournard](https://listserv.brown.edu/archives/cgi-bin/wa?A2=ind1408&L=TEI-L&F=&S=&P=58469) gave us the information we needed).
+Bournard](https://listserv.brown.edu/cgi-bin/wa?A2=ind1408&L=TEI-L&P=R10595) gave us the information we needed).
 
 > @decls identifies one or more declarable elements within the header,
 > which are understood to apply to the element bearing this attribute
