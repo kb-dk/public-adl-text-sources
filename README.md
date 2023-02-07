@@ -1,6 +1,6 @@
 # Public ADL text sources
 
-The [Archive for Danish Literature, ADL,](http://www.adl.dk/) comes to you via a collaboration between
+The [Archive for Danish Literature, ADL,](http://tekster.kb.dk/adl/) comes to you via a collaboration between
 
 * [Det Danske Sprog- og Litteraturselskab (DSL)](http://dsl.dk/)
 * [Danish Royal Library](http://www.kb.dk)
