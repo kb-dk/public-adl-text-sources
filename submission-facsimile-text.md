@@ -1,15 +1,15 @@
 
-## Submission of hypertextual TEI documents
+## New additions of hypertextual TEI documents
 
 By hypertextual TEI documents we understand documents that contain references to other content outside that document. For example document that are refering to facsimile (image) pages.
 
 ### Facsimiles
 
-The encoding of facsimilies differs between submissions and our internal format. The reason for that is that we need to be able to retrieve all images and store them in our repositories. 
+The encoding of facsimilies differs between new additions and our internal format. The reason for that is that we need to be able to retrieve all images and store them in our repositories. 
 
 * Images should be available in an uncompressed (or at least in lossless compression) as TIFF, PNG or JPEG2000.
 * For various reasons it is easier technically if the images is made available to us using HTTP links.
-* The linking should be made accoring to the TEI guidelines, the secion [Representation of Primary Sources](http://www.tei-c.org/release/doc/tei-p5-doc/en/html/PH.html). In particular, we want alignment between page breaks and graphics using the [Parallel Transcription](http://www.tei-c.org/release/doc/tei-p5-doc/en/html/PH.html#PH-bov) technique. 
+* The linking should be made according to the TEI guidelines, the section [Representation of Primary Sources](http://www.tei-c.org/release/doc/tei-p5-doc/en/html/PH.html). In particular, we want alignment between page breaks and graphics using the [Parallel Transcription](http://www.tei-c.org/release/doc/tei-p5-doc/en/html/PH.html#PH-bov) technique. 
 
 This means that immediately after the teiHeader there should be a facsimile section
 
